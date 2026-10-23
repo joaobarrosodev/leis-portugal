@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/666-1986-221136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:55:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0000867b5418ce28678b7b1078ccfb07437ecc7212554d162d33eb02912311a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d164a085c21f0ccfbf800f67566bcc1487fea41b3e70bd78c43eb41104e887e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:55:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Hospital Concelhio
+- Portalegre
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573676:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:55:48Z'
   warnings: []
   errors: []
 ---
@@ -92,8 +107,8 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 15 de Outubro de 1986.**
+Assinada em 15 de Outubro de 1986.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/25700/33583358.pdf))](https://files.diariodarepublica.pt/1s/1986/11/25700/33583358.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/25700/33583358.pdf)

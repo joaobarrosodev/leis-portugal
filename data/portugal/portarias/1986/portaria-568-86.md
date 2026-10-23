@@ -46,40 +46,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/568-1986-221713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:52:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5f3ae2f1275194dd4fbd647aa3b1f44d4ca60bd107769a722c4d3390cf7a606
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd76be0a0375fa5a7f51779da61505bfd78a1e35b4e387a20cd6c6ce7373c8a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:52:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Curso de Ciências Agrárias
+- Curso de Engenharia Agrícola
+- Curso de Engenharia Zootécnica
+- Curso de Ensino de Biologia
+- Curso de Ensino de Biologia e Geologia
+- Curso de Ensino de Física e Química
+- Curso de Ensino de Geologia
+- Curso de Ensino de História e Ciências Sociais
+- Curso de Ensino de História e Filosofia
+- Curso de Ensino de Matemática
+- Curso de Ensino de Matemática e Desenho
+- Curso de Ensino de Português e Francês
+- Curso de História
+- Curso de Línguas e Literaturas Modernas
+- Curso de Matemática
+- Curso de Matemática-informática
+- Universidade dos Açores
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ANEXOS II, III, VI, VII, VIII NA REDACÇÃO DADA PELA PORTARIA 188/87, PUBLICADA NO DIÁRIO DA REPÚBLICA,\
+    \ I SÉRIE, 63, DE 870317, E ADIATDOS OS ANEXOS I A IX, PELA REFERIDA PORTARIA.\0ORTARIA.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:355964:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662140:por
+  label: "Aditados os anexos I a IX do presente diploma, pela PORT.188/87.17.03.1987.MEC, DR.IS [63] de 17.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-1987-662140
+  date: '1987-03-17'
+- type: amended_by
+  target: pt:dre:355964:por
+  label: "Alterado o anexo VIII do presente diploma, com a redacção dada pelas Port 188/87, de 17-Mar e 747/87, de 31-Ago,\
+    \ pela PORT.631/88.13.09.1988.ME, DR.IS [212] de 13.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/631-1988-355964
+  date: '1988-09-13'
+- type: cites
+  target: pt:dre:309694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:52:19Z'
   warnings: []
   errors: []
 ---
@@ -234,10 +304,10 @@ d) Os alunos que por força da cessação da ministração dos cursos, ramos e p
 
 Ministério da Educação e Cultura.
 
-**Assinada em 21 de Agosto de 1986.**
+Assinada em 21 de Agosto de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
 Do ANEXO X ao ANEXO XVIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/22600/28322838.pdf))](https://files.diariodarepublica.pt/1s/1986/10/22600/28322838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22600/28322838.pdf)

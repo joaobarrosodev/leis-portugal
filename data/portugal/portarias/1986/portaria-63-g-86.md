@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 50/1986, 1º Suplemento, Série I de 1986-03-01
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 516-(14) a 516-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05001/00140017.pdf
 entry_into_force_dates: []
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/63-g-1986-245103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:54:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed3653045bc112121ae8dc3b3ecd778ebb45b4ac89c460cecfb98eede3cd36c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d22177563043b98f168b7781819b0e1afbcee9ce82781af5acf07698f7c47cee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:54:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Garantia
+- Lacticínios
+- Leite
+- Países Terceiros
+- Pauta Aduaneira
+- Política Agrícola Comum
+- Tratado de Adesão CE
 relationships:
 - type: amended_by
   target: pt:dre:618303:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:546419:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:54:48Z'
   warnings: []
   errors: []
 ---
@@ -243,8 +254,8 @@ Outras - 25$00/kg/peso líquido.
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 28 de Fevereiro de 1986.**
+Assinada em 28 de Fevereiro de 1986.
 
 Pelo Ministro das Finanças, José Alberto Tavares Moreira, Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/05001/00140017.pdf))](https://files.diariodarepublica.pt/1s/1986/03/05001/00140017.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/05001/00140017.pdf)

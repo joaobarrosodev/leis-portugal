@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1986, 11º Suplemento, Série I de 1986-12-31
   number: '300'
   series: I
-  supplement: 11º Suplemento
+  supplement: null
   pages: 3874-(556) a 3874-(558)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf
 entry_into_force_dates: []
@@ -46,36 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/790-1986-627246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:59:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9978feab33365c212bf8f9dc7bbfd083e9c7c2463faaf18158bdf107aa4e3966
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25d218435f93d725417ba004c5147d8cfc1a29f22aaa2dcb88c422754155d93d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:59:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Denominação de Instituição
+- Ensino Preparatório
+- Estabelecimento de Ensino
+- Extinção de Serviços
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Docente
+- Pessoal não Docente
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:327134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677442:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:59:09Z'
   warnings: []
   errors: []
 ---
@@ -140,68 +162,68 @@ Bela Vista n.º 2, Setúbal.
 
 Distrito de Lisboa:
 
-#### Secção da Escola Preparatória de Eugénio dos Santos, Lisboa.
+Secção da Escola Preparatória de Eugénio dos Santos, Lisboa.
 
 Distrito do Porto:
 
-#### Secção da Escola Preparatória de Trofa, Santo Tirso.
+Secção da Escola Preparatória de Trofa, Santo Tirso.
 
-#### Secção da Escola Preparatória de Santo Tirso, Santo Tirso.
+Secção da Escola Preparatória de Santo Tirso, Santo Tirso.
 
 Distrito de Viana do Castelo:
 
-#### Secção da Escola Preparatória de Ponte de Lima, Ponte de Lima.
+Secção da Escola Preparatória de Ponte de Lima, Ponte de Lima.
 
 10.º São extintas, a partir de 1 de Outubro de 1986, as seguintes secções de escolas secundárias:
 
 Distrito de Braga:
 
-#### Secção da Escola Secundária de Barcelinhos, Barcelos.
+Secção da Escola Secundária de Barcelinhos, Barcelos.
 
 Distrito de Lisboa:
 
-#### Secção da Escola Secundária n.º 1 do Lumiar.
+Secção da Escola Secundária n.º 1 do Lumiar.
 
 Distrito de Setúbal:
 
-#### Secção da Escola Secundária de Anselmo Andrade, Almada.
+Secção da Escola Secundária de Anselmo Andrade, Almada.
 
-#### Secção da Escola Secundária da Bela Vista, Setúbal.
+Secção da Escola Secundária da Bela Vista, Setúbal.
 
 11.º Mantêm-se em funcionamento por mais um ano, com início em 1 de Outubro de 1986, as seguintes secções de escolas secundárias:
 
 Distrito de Braga:
 
-#### Secção da Escola Secundária de D. Maria II, Braga.
+Secção da Escola Secundária de D. Maria II, Braga.
 
 Distrito de Lisboa:
 
-#### Secção da Escola Secundária de Cascais, na Cidadela.
+Secção da Escola Secundária de Cascais, na Cidadela.
 
 12.º O pessoal eventual que presta serviço nas secções dos estabelecimentos de ensino extintos pela presente portaria passará a prestar serviço, na mesma situação, nas escolas agora criadas, a partir da data da sua entrada em funcionamento, sem quaisquer formalidades legais.
 
 Ministérios das Finanças e da Educação e Cultura.
 
-**Assinada em 31 de Dezembro de 1986.**
+Assinada em 31 de Dezembro de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
 Mapa I a que se refere o n.º 4.º da Portaria n.º 790/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf)
 
 Mapa II a que se refere o n.º 5.º de Portaria n.º 790/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf)
 
 Mapa III a que se refere o n.º 5.º da Portaria n.º 790/86
 
 Pessoal administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf)
 
 Mapa IV a que se refere o n.º 5.º da Portaria n.º 790/86
 
 Pessoal auxiliar de apoio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30011/05560558.pdf)

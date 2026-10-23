@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 284/1986, 1º Suplemento, Série I de 1986-12-11
   number: '284'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3714-(1) a 3714-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/28401/00010008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/742-a-1986-666911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:57:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 061216c93e23297539cc78aaf32374e195afc06f73fe4251eef53ca2f1f34a86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbc6ee071c8920b3ac4251c9a9e58b9805718b4c5a7d24bd6a94299356403f62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:57:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação por Concurso Público
+- Administração Central
+- Concurso Público
+- Prestação de Serviços
+- Refeição
+- Refeitório
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:468782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:403164:por
+  label: "Introduzidas as seguintes alterações ao presente diploma pela PORT.948-A/87.1987.12.18.MF DR.IS [290]Supl: - no\
+    \ programa do concurso anexo: aditadas as als. d) e e) ao nº 9, alterados a al. c) do do 20 e elimina a al. f) do nº 16\
+    \ e o 27; - no caderno de encargos anexo, nas cláusulas jurídicas e técnicas gerais: alterados os nºs 2.2.1, 3.3.2 e 6.3\
+    \ , e nas cláusulas jurídicas e técnicas especiais: aditado o nº 1.6 e alterados os nºs 4.5 e 5.2; e na minuta do contrato\
+    \ também em anexo: alterado o § 2º do art. 4º.\0. 4º.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/948-a-1987-403164
+  date: '1987-12-18'
+- type: repealed_by
+  target: pt:dre:468782:por
+  label: "Revogada pela PORT.155/96.16.05.1996.PCM, DR.IS-B [114] de 16.05.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/155-1996-468782
+  date: '1996-05-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:57:59Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +142,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, o seguint
 
 Ministério das Finanças.
 
-**Assinada em 10 de Dezembro de 1986.**
+Assinada em 10 de Dezembro de 1986.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
 

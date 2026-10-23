@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/25500/33113311.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/658-1986-221095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:55:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b46cd1d09fd8ca1f44e8ca47341b6651386141d74222e3915887f29a24ed666
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b2815566882ff26e33b919679b757214126d7af61645c328c01acf601e89c64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:55:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Batata
+- Importação
 relationships:
 - type: amended_by
   target: pt:dre:621276:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:546418:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 71/96 DE 07-MAR DR.IS-B [57] COM EFEITOS A PARTIR DE 1 DE NOVEMBRO DE 1995.\01995."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-03-07'
+- type: repealed_by
+  target: pt:dre:621276:por
+  label: "Revogada, com produção de efeitos a partir de 01.11.1995, pela PORT.71/96.07.03.1996.MF, DR.IS-B [57] de 07.03.1996\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/71-1996-621276
+  date: '1996-03-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:55:33Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +115,6 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agri
 
 Ministérios das Finanças, da Agricultura, Pescas Alimentação e da Indústria e Comércio.
 
-**Assinada em 22 de Outubro de 1986.**
+Assinada em 22 de Outubro de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.

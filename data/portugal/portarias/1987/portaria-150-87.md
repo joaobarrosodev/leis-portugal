@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/05300/09220922.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-1987-662370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T09:00:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e3f2d91d21f80ade0de882cff806529027d570b9086921fda8f668f1d022d4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68c1214a988354565a72fa12f7eba6c362a669038b589b267e7bf773f6446a82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:00:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Heráldica
+- Polícia Judiciária Militar
+- Serviço de Polícia Judiciária Militar
+relationships:
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:126207402:por
+  label: Revogada pelo(a) Portaria n.º 396/2019 - Diário da República n.º 220/2019, Série I de 2019-11-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/396-2019-126207402
+  date: '2019-11-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:00:50Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +126,8 @@ Fundo de azul com as peças das armas, em tecido de ouro; bordadura simples, aca
 
 Ministério da Defesa Nacional.
 
-**Assinada em 10 de Fevereiro de 1987.**
+Assinada em 10 de Fevereiro de 1987.
 
-**O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/03/05300/09220922.pdf))](https://files.diariodarepublica.pt/1s/1987/03/05300/09220922.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/03/05300/09220922.pdf)

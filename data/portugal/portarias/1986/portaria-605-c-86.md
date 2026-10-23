@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 239/1986, 1º Suplemento, Série I de 1986-10-16
   number: '239'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3146-(7) a 3146-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/23901/00070041.pdf
 entry_into_force_dates: []
@@ -49,36 +49,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/605-c-1986-570699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6510ad5d9a493e18b2ae67ee77c45e5467c97b35b4151dce9858a6ef39223a11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bbf7aee266acd10c9abe355d2ec23ddceb126f27738b19a7a76dc9e5192d833
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adjudicação por Concurso Público
+- Caderno de Encargos
+- Cláusulas Contratuais Gerais
+- Concurso Público
+- Construção Civil
+- Empreitada de Obras Públicas
+- Obras Públicas
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:218893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:627181:por
+  label: Rectificada pela DECL.DD4432.30.12.1986.PCM, DR.IS [300]6ºSupl de 31.12.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-627181
+  date: '1986-12-30'
+- type: corrected_by
+  target: pt:dre:357163:por
+  label: Rectificada pela DECL.DD1160.1987.02.12.PCM, DR.IS [50]SUPL de 28/Fev/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-357163
+  date: '1987-02-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:53:28Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +141,9 @@ Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, Tra
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 15 de Outubro de 1986.**
+Assinada em 15 de Outubro de 1986.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
 Modelos de anúncios de concurso e de convites
 
@@ -1375,7 +1413,7 @@ b) Ou a emergência de qualquer dano consequente dos fenómenos referidos derive
 
 11.3.1 - Feita a recepção definitiva da obra ou em data ou datas anteriores que para o efeito se encontrem estipuladas nos termos do n.º 2 do artigo 206.º do [Decreto-Lei n.º 235/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1986-218893), de 18 de Agosto, serão restituídas ao empreiteiro as quantias retidas como garantia ou a qualquer outro título a que tiver direito e promover-se-á, pela forma própria, a extinção da caução prestada.
 
-## Anexo a que se refere o n.º 1.13 deste caderno de encargos
+Anexo a que se refere o n.º 1.13 deste caderno de encargos
 
 Guia de depósito:
 
@@ -2613,7 +2651,7 @@ b) Ou a emergência de qualquer dano consequente dos fenómenos referidos derive
 
 12.3.1 - Feita a recepção definitiva da obra, ou em data ou datas anteriores que para o efeito se encontrem estipuladas nos termos do n.º 2 do artigo 206.º do [Decreto-Lei n.º 235/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1986-218893), de 18 de Agosto, serão restituídas ao empreiteiro as quantias retidas como garantia ou a qualquer outro título a que tiver direito e promover-se-á, pela forma própria, a extinção da caução prestada.
 
-## Anexo a que se refere o n.º 1.11.1 deste caderno de encargos
+Anexo a que se refere o n.º 1.11.1 deste caderno de encargos
 
 Guia de depósito:
 

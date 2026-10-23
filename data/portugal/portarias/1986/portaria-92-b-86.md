@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 65/1986, 1º Suplemento, Série I de 1986-03-19
   number: '65'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 668-(1) a 668-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/06501/00010007.pdf
 entry_into_force_dates: []
@@ -48,40 +48,116 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/92-b-1986-239461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:59:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3d6efc3418dc63a6bc596669df868a990f6f308671fac7a7eaa8aa5abb6ba8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d95dad2d1d0775cfd41718de3e9f8793d54d4e495b2d6c3d18007e6aae6eb63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:59:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Estudos Superiores Especializados em Auditoria
+- Curso de Estudos Superiores Especializados em Controlo Financeiro
+- Ensino Superior
+- Instituto Superior de Contabilidade e Administração
+- Licenciatura
+- Lisboa
+- Numerus Clausus
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:643366:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663349:por
+  label: "Aditado o n.º 19.º-A, pela PORT.55/87.22.01.1987.MEC, DR.IS [18] de 22.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/55-1987-663349
+  date: '1987-01-22'
+- type: amended_by
+  target: pt:dre:499491:por
+  label: "Aditado nº 16.º-A pela PORT.946/87.17.12.1987.ME, DR.IS [290] de 18.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/946-1987-499491
+  date: '1987-12-17'
+- type: amended_by
+  target: pt:dre:376870:por
+  label: "Alterado o n.º 26.º, pela PORT.560/88.17.08.1988.ME, DR.IS [189] de 17.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/560-1988-376870
+  date: '1988-08-17'
+- type: amended_by
+  target: pt:dre:611359:por
+  label: "Alterado o n.º 3 do n.º 5.º, o n.º 10.º e aditado o n.º 5.º-A, pela PORT.116/89.16.02.1989.ME, DR.IS [39] de 16.02.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-1989-611359
+  date: '1989-02-16'
+- type: amended_by
+  target: pt:dre:643366:por
+  label: "Alteradas as condições de atribuição do grau de licenciatura aos titulares do diploma de estudos superiores especializados\
+    \ em Auditoria e em Controle Financeiro previsto no presente diploma, com a redacção conferida pela Port 116/89 de 16-Fev,\
+    \ pela PORT.810/97.04.09.1997.ME, DR.IS-B [204] de 04.09.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/810-1997-643366
+  date: '1997-09-04'
+- type: cites
+  target: pt:dre:141216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563655:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:59:29Z'
   warnings: []
   errors: []
 ---
@@ -510,7 +586,7 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação e Cultura.
 
-**Assinada em 14 de Março de 1986.**
+Assinada em 14 de Março de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
@@ -518,13 +594,13 @@ Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário
 
 Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/06501/00010007.pdf))](https://files.diariodarepublica.pt/1s/1986/03/06501/00010007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/06501/00010007.pdf)
 
 ## ANEXO II — Curso: Controle Financeiro
 
 Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/06501/00010007.pdf))](https://files.diariodarepublica.pt/1s/1986/03/06501/00010007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/06501/00010007.pdf)
 
 ## ANEXO III — Diploma
 
@@ -536,11 +612,11 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Superior de Contabilidade e Administração de Lisboa, em ... (ver nota i)
 
-**O Presidente do Conselho Directivo**
+O Presidente do Conselho Directivo
 
 ... (ver nota l)
 
-**O Secretário**
+O Secretário
 
 ... (ver nota j)
 

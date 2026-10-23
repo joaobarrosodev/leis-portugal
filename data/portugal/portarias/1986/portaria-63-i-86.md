@@ -3,8 +3,8 @@ schema_version: '1.0'
 id: pt:dre:245105:por
 title: Portaria n.º 63-I/86
 short_title: null
-summary: Estabelece os preços de orientação e de intervenção por quilograma de carcaça referente à categoria R<sub>3</sub>,
-  nos termos da alínea 1 do artigo 265.º do Acto de Adesão
+summary: Estabelece os preços de orientação e de intervenção por quilograma de carcaça referente à categoria R3, nos termos
+  da alínea 1 do artigo 265.º do Acto de Adesão
 jurisdiction: portugal
 territory: null
 document_type: portaria
@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 50/1986, 1º Suplemento, Série I de 1986-03-01
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 516-(18) a 516-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05001/00180018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/63-i-1986-245105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:54:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0006c36241012eac29aee40f64467bdf33241ad6519718c05b94ebf375fd1478
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67d047f3bc8ffcd16b5ff62e823bb3839d79a1201676d55d88e9d6fab82cfb40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:54:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carne
+- Carne de Vaca
+- Preço
+- Preço de Intervenção
+- Preço de Orientação
 relationships:
 - type: amended_by
   target: pt:dre:374788:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:546421:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374788:por
+  label: "Revogada pela PORT.313/88.18.05.1988.MF, DR.IS [115] de 18.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-1988-374788
+  date: '1988-05-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:54:53Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +121,6 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agri
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 28 de Fevereiro de 1986.**
+Assinada em 28 de Fevereiro de 1986.
 
 Pelo Ministro das Finanças, José Alberto Tavares Moreira, Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.

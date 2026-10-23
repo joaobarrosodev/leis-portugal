@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/05200/09150916.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/148-1987-662495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T09:00:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80cc86bf49e2c2d0d9dd97d30d0c71aada4b7a5ffda651722497c23284e5e047
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2f695e842776609e1b4a8dc8a4dba92cc114d50b0ca2d5f9db7b6a803d5818d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:00:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Doença Infecciosa
+- Papeira
+- Plano Nacional de Vacinação
+- Política de Saúde
+- Saúde Pública
+- Vacinação
 relationships:
 - type: amended_by
   target: pt:dre:285563:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:283940:por
+  label: "Incluídas a tuberculose miliar e as hepatites por vírus especificados e não especificados na tabela de doenças de\
+    \ declaração obrigatória, aprovada pela Port 766/86 de 26-Dez, com as alterações constantes do presente diploma, pela\
+    \ PORT.40/93.11.01.1993.MS, DR.IS-B [8] de 11.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/40-1993-283940
+  date: '1993-01-11'
+- type: amended_by
+  target: pt:dre:285563:por
+  label: "Substituída a tabela aprovada pela Port 766/86 de 26-Dez, com as alterações constante do presente diploma, pela\
+    \ PORT.1071/98.31.12.1998.MS, DR.IS-B [301] de 31.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1071-1998-285563
+  date: '1998-12-31'
+- type: cites
+  target: pt:dre:210601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511872:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:00:49Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +139,6 @@ Manda o Governo da República Portuguesa, pela Ministra da Saúde, ao abrigo da 
 
 Ministério da Saúde.
 
-**Assinada em 6 de Fevereiro de 1987.**
+Assinada em 6 de Fevereiro de 1987.
 
-**A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.

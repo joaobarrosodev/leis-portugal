@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 279/1986, 1º Suplemento, Série I de 1986-12-04
   number: '279'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3658-(2) a 3658-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/27901/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/733-b-1986-305633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:57:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92c150faa7cb7c1fad776a507f2db3582cf66314bdfc82c5dbe776c081cf3f39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c795562e65235f25e3c12b9b9a603d0a9e3adb149b9e3b6c33ea65e6f0a27131
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:57:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fertilizante
+- Preço
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:613012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661697:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:460402:por
+  label: Rectificada pela DECL.DD1061.31.01.1987.PCM, DR.IS [26]Supl de 31.01.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-460402
+  date: '1987-01-12'
+- type: repealed_by
+  target: pt:dre:613012:por
+  label: "Revogada pela PORT.195/89.09.03.1989.MF, DR.IS [57] de 09.03.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/195-1989-613012
+  date: '1989-03-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:57:28Z'
   warnings: []
   errors: []
 ---
@@ -123,10 +152,10 @@ c) Os encargos resultantes da venda a prazo, nos termos da [Portaria n.º 191/84
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 4 de Dezembro de 1986.**
+Assinada em 4 de Dezembro de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
 Quadro anexo a que se referem os n.os 1, 2 e 7 do n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27901/00020003.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27901/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27901/00020003.pdf)

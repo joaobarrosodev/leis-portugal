@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/775-1986-214551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:58:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4b7e916c915de13b8f6d96f36d56a7cc84f6593689e0c307668409464075f96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18eb66912895df6c41cd72f0f0035481bc5c9824e19abbb3481d814a0e222515
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:58:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Controlo Aduaneiro
+- Desalfândegamento
+- Documento Aduaneiro
+- Importação
+- Política Pautal
+relationships:
+- type: cites
+  target: pt:dre:546417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546432:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:58:44Z'
   warnings: []
   errors: []
 ---
@@ -296,9 +310,9 @@ g) Quaisquer outros documentos sem a junção ou apresentação dos quais as mer
 
 Secretaria de Estado para os Assuntos Fiscais.
 
-**Assinada em 5 de Dezembro de 1986.**
+Assinada em 5 de Dezembro de 1986.
 
-**O Secretário de Estado para os Assuntos Fiscais, José de Oliveira Costa.**
+O Secretário de Estado para os Assuntos Fiscais, José de Oliveira Costa.
 
 ## ANEXO — Lista das mercadorias cujo desalfandegamento assume carácter de urgência
 

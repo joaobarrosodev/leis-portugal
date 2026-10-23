@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 279/1986, 1º Suplemento, Série I de 1986-12-04
   number: '279'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3658-(1) a 3658-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/27901/00010002.pdf
 entry_into_force_dates: []
@@ -46,36 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/733-a-1986-305632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:57:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc713172e182ec94764dfd23c37c445edadf25555d97f170db1c55b26802b56a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3262c4195dc2e1e1b98c3159f07e7b13467078aafab61e83c0abd09b3f85887
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:57:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alimento para Animais
+- Direcção Geral de Inspecção Económica
+- EPAC
+- Farinha
+- Instituto Nacional de Garantia Agrícola
+- Mercado Interno
+- Política de Preços
+- Política Económica
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:249493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656601:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:599727:por
+  label: Alterados os n.ºs 1.º, 2.º e 3.º, pela PORT.3/87.1984.01.02.MF DR.IS [1]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-1987-599727
+  date: '1984-01-02'
+- type: corrected_by
+  target: pt:dre:627186:por
+  label: Rectificada pela DECL.DD4420.16.12.1986.PCM, DR.IS [300]6ºSupl de 31.12.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-627186
+  date: '1986-12-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:57:24Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +139,6 @@ b) Sêmola e farinha de trigo para massas alimentícias.
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 4 de Dezembro de 1986.**
+Assinada em 4 de Dezembro de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.

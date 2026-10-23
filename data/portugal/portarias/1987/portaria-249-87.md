@@ -48,40 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-1987-666545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T09:03:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f92d0f6d51be8ac70f6f4a6c12c3e3d153df41e06634dbdb110b56058a49485
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c65b037bb7f7fb227f49b70ca98f47b4c905befa498795dcf2ae763b0c1561a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:03:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Pedap
+- Política Agrícola Comum
+- Programa Nacional de Caminhos Agrícolas e Rurais
+- Regulamento CE
+- VIA Rural
 relationships:
 - type: amended_by
   target: pt:dre:301466:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612817:por
+  label: "Alterados os n.ºs 2.º, 3.º e 4.º, pela PORT.179/89.04.03.1989.MAPA, DR.IS [53] de 04.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/179-1989-612817
+  date: '1989-03-04'
+- type: amended_by
+  target: pt:dre:301466:por
+  label: "Alterado o n.º 17.º e aditado o n.º 17.º-A , pela PORT.937/91.17.09.1991.SEAG-MAPA, DR.IS-B [214] de 17.09.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/937-1991-301466
+  date: '1991-09-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:03:20Z'
   warnings: []
   errors: []
 ---
@@ -158,6 +175,6 @@ A entrega, mediante auto lavrado para o efeito, será simultânea com aquela rec
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 5 de Março de 1987.**
+Assinada em 5 de Março de 1987.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

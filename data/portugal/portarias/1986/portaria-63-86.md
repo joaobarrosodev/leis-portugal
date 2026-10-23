@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05000/05090511.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/63-1986-193604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:54:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4a8090c94a5a23cb2b23387425726bd5bf947387069c175bcd08951b0a44c14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49dcfbda7184fd9802f0ef82f8223df037d614f453dd11f1a99f847b7fa4ae64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:54:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agrupamento de Produtores
+- Controlo Sanitário
+- Exploração Pecuária
+- Regulamento
+- Regulamento de Constituição e Funcionamento dos Agrupamentos de Defesa Sanitária
 relationships:
 - type: amended_by
   target: pt:dre:617291:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619957:por
+  label: "Alterados os n.ºs 3 e 5 pela PORT.558/89.1989.07.18.MAPA DR.IS [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/558-1989-619957
+  date: '1989-07-18'
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:403143:por
+  label: Rectificada pela DECL.DD4802.02.04.1986.PCM, DR.IS [99]6ºSupl de 30.04.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-403143
+  date: '1986-04-02'
+- type: repealed_by
+  target: pt:dre:617291:por
+  label: "Revogada pela PORT.809-G/94.12.09.1994.MA, DR.IS-B [211]Supl de 12.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/809-g-1994-617291
+  date: '1994-09-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:54:08Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +130,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 13 de Fevereiro de 1986.**
+Assinada em 13 de Fevereiro de 1986.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
 Regulamento de Constituição e Funcionamento dos Agrupamentos de Defesa Sanitária
 

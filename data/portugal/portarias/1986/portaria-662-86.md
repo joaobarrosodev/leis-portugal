@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/662-1986-221138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:55:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a07f4598d98beafede57c43601424df8a4749f5af342ec0feea2b1b000856d24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5129ca6e7906d5164f0aaf1563573bd0aacf3653c91b65cc3ed9e236c1285133
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:55:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Militar
+- Exército
+- Militar
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:243517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656829:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:55:43Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +123,6 @@ Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e d
 
 Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 23 de Outubro de 1963.**
+Assinada em 23 de Outubro de 1963.
 
-**O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

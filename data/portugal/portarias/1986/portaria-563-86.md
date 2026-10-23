@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/22600/28172821.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/563-1986-221707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:52:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 682208af725eac1e3e809ba7c5a024bc20af159def2f0958cbe98300caef6a2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f312e78ce8a777c0fdc0d27b3cf4f44bf41d2ada77cd3395c3c03943086f648
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:52:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Forças Armadas
+- Gestão de Material
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:69920323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS O NUMERO 2 DO ARTIGO 25 E O NUMERO 2 DO ARTIGO 39 E ADITADO O ARTIGO 44 AO REGULAMENTO CONSTANTE DO PRESENTE
+    DIPLOMA, PELA PORTARIA 286/88, DE 6 DE MAIO, PUBLICADA NO DR.IS, 105.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-05-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO 25 DO REGULAMENTO PELA PORTARIA 731/93, DE 13 DE AGOSTO, PUBLICADA NO DR.IS-B, 189.\0 DR.IS-B,\
+    \ 189."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-13'
+- type: amended_by
+  target: pt:dre:571589:por
+  label: "Transitadas para as secções de logística das UN/ESTAB/ORG as competências cometidas às secções de logística e secções\
+    \ financeiras, pelo DR.70/94.1994.12.21.MDN, DR.IS-B [293]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/70-1994-571589
+  date: '1994-12-21'
+- type: cites
+  target: pt:dre:280230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561784:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69920323:por
+  label: Revogada (a partir de 01.08.2015) a presente portaria, na redação da Port 286/88 de 06-mai e da Port 731/93 de 13-ago,
+    pelo(a) Decreto Regulamentar n.º 11/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-2015-69920323
+  date: '2015-07-31'
 article_structure:
-  article_count: 1
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:52:12Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +151,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o se
 
 Ministério da Defesa Nacional.
 
-**Assinada em 5 de Setembro de 1986.**
+Assinada em 5 de Setembro de 1986.
 
-**O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.
 
 Regulamento para a Administração dos Recursos Humanos, Materiais e Financeiros nas Unidades, Estabelecimentos e Órgãos do Exército.
 
@@ -119,7 +161,7 @@ Regulamento para a Administração dos Recursos Humanos, Materiais e Financeiros
 
 #### SECÇÃO I — Competência
 
-###### Artigo 1.º No âmbito da administração dos recursos humanos, ao comandante, director ou chefe compete:
+Artigo 1.º No âmbito da administração dos recursos humanos, ao comandante, director ou chefe compete:
 
 a) Definir, de acordo com as directivas superiores, os programas de actividades concernentes à gestão do pessoal;
 
@@ -129,7 +171,7 @@ c) Prestar as informações individuais relativas ao pessoal da unidade, estabel
 
 #### SECÇÃO II — Atribuições da secção de pessoal
 
-###### Art. 2.º A secção de pessoal, além de outras que legalmente lhe venham a ser cometidas, tem as seguintes atribuições:
+Art. 2.º A secção de pessoal, além de outras que legalmente lhe venham a ser cometidas, tem as seguintes atribuições:
 
 a) Superintender na administração dos recursos humanos da unidade, estabelecimento ou órgão;
 
@@ -139,13 +181,13 @@ c) Instruir todos os processos de prestações sociais e complementares, nomeada
 
 #### SECÇÃO III — Escrituração
 
-###### Art. 3.º Para a escrituração da gestão do pessoal, além do outros que forem jugados necessários, será utilizado um registo geral destinado a escriturar as situações do pessoal, os abonos e descontos em numerário o a alimentação em espécie a que aquelas dão origem, à excepção dos abonos elaborados mecanograficamente.
+Art. 3.º Para a escrituração da gestão do pessoal, além do outros que forem jugados necessários, será utilizado um registo geral destinado a escriturar as situações do pessoal, os abonos e descontos em numerário o a alimentação em espécie a que aquelas dão origem, à excepção dos abonos elaborados mecanograficamente.
 
 ### CAPÍTULO II — Administração dos recursos materiais
 
 #### SECÇÃO I — Competência
 
-###### Art. 4.º No âmbito da actividade logística, ao comandante, director ou chefe compete:
+Art. 4.º No âmbito da actividade logística, ao comandante, director ou chefe compete:
 
 a) Definir, de acordo com as directivas superiores, os programas de actividades logísticas que hão-de servir de base à elaboração dos planos anuais de necessidades;
 
@@ -157,13 +199,13 @@ d) Rubricar, de seu próprio punho ou de chancela, e autenticar com o selo branc
 
 e) Fiscalizar toda a actividade logística.
 
-###### Art. 5.º Ao comandante da subunidade de comando e serviços ou órgão de apoio compete:
+Art. 5.º Ao comandante da subunidade de comando e serviços ou órgão de apoio compete:
 
 a) Verificar as existências e o acondicionamento dos artigos e materiais nos depósitos de unidade, estabelecimento ou órgão;
 
 b) Rubricar os movimentos das folhas de carga de material.
 
-###### Art. 6.º Aos comandantes dos pelotões de transmissões, de reabastecimento e sanitário compete:
+Art. 6.º Aos comandantes dos pelotões de transmissões, de reabastecimento e sanitário compete:
 
 a) Escriturar ou mandar escriturar, sob a sua responsabilidade, os registos relativos aos movimentos dos artigos e materiais em depósito ou em arrecadação;
 
@@ -171,9 +213,9 @@ b) Garantir a guarda e conservação dos artigos e materiais em depósito ou em 
 
 c) Mandar proceder a inventário mensal de todas as existências em depósito ou em arrecadação, enviando à secção financeira os balancetes dos que tratem de valores que tenham expressão contabilística.
 
-###### Art. 7.º Ao Comandante da secção de depósito compete velar pela guarda e conservação dos artigos e materiais em depósito.
+Art. 7.º Ao Comandante da secção de depósito compete velar pela guarda e conservação dos artigos e materiais em depósito.
 
-###### Art. 8.º Ao comandante da secção de alimentação compete:
+Art. 8.º Ao comandante da secção de alimentação compete:
 
 a) Receber, em face dos respectivos documentos, os víveres e forragens;
 
@@ -181,13 +223,13 @@ b) Velar pela guarda e conservação dos víveres e forragens existentes em dep�
 
 c) Proceder, diariamente, à entrega dos víveres para a alimentação do pessoal e das forragens para os animais.
 
-###### Art. 9.º Ao encarregado de depósito compete receber e distribuir, em face dos respectivos documentos, os artigos e materiais.
+Art. 9.º Ao encarregado de depósito compete receber e distribuir, em face dos respectivos documentos, os artigos e materiais.
 
-###### Art. 10.º Ao quarteleiro de material e ao fiel de víveres compete guardar e conservar os artigos e materiais em depósito, bem como assegurar a limpeza e arrumação dos mesmos.
+Art. 10.º Ao quarteleiro de material e ao fiel de víveres compete guardar e conservar os artigos e materiais em depósito, bem como assegurar a limpeza e arrumação dos mesmos.
 
 #### SECÇÃO II — Atribuições da secção de logística
 
-###### Art. 11.º A secção de logística, além de outras que legalmente lhe venham a ser cometidas, tem as seguintes atribuições:
+Art. 11.º A secção de logística, além de outras que legalmente lhe venham a ser cometidas, tem as seguintes atribuições:
 
 a) Promover a apresentação na secção financeira das requisições que envolvam encargos financeiros;
 
@@ -195,7 +237,7 @@ b) Apresentar, mensalmente, na secção financeira, e com referência ao último
 
 #### SECÇÃO III — Atribuições da subunidade de comando e serviços ou órgão de apoio
 
-###### Art. 12.º A subunidade de comando e serviços ou órgão de apoio, para além das funções estabelecidas no respectivo quadro orgânico e de outras que legalmente lhe sejam cometidas, tem as seguintes atribuições:
+Art. 12.º A subunidade de comando e serviços ou órgão de apoio, para além das funções estabelecidas no respectivo quadro orgânico e de outras que legalmente lhe sejam cometidas, tem as seguintes atribuições:
 
 a) Elaborar, através das subunidades, órgãos ou comissões nomeadas para o efeito, os autos de recepção, expedição, consumo, incapacidade, extravio, ruína prematura e outros resultantes de movimentos dos artigos e materiais, de acordo com as instruções técnicas em vigor;
 
@@ -205,13 +247,13 @@ c) Promover que a administração e escrituração das actividades referidas na 
 
 #### SECÇÃO IV — Requisição, recepção, depósito e distribuição de artigos e materiais
 
-###### Art. 13.º - 1 - As entidades que nas unidades, estabelecimentos ou órgãos exercem funções de administração ou tenham a seu cargo determinado serviço ou dependência e necessitem de requisitar quaisquer artigos, materiais ou serviços fá-lo-ão através de requisição, devidamente assinada.
+Art. 13.º - 1 - As entidades que nas unidades, estabelecimentos ou órgãos exercem funções de administração ou tenham a seu cargo determinado serviço ou dependência e necessitem de requisitar quaisquer artigos, materiais ou serviços fá-lo-ão através de requisição, devidamente assinada.
 
 2 - Para efeitos de cabimento orçamental, bem como de obtenção da autorização do comandante, director ou chefe, as requisições que envolvam encargos financeiros são encaminhadas para a secção financeira, através da secção de logística.
 
 3 - As requisições referidas no número anterior devem conter estimativas do custo aproximado dos artigos, materiais ou serviços requisitados.
 
-###### Art. 14.º - 1 - Todos os artigos, incluindo os de fardamento, materiais, víveres e forragens, fornecidos à unidade, estabelecimento ou órgão são recebidos, consoante a sua natureza, e sem prejuízo do estatuído no n.º 2, pelos seus responsáveis directos, comandantes dos pelotões de reabastecimento, de transmissões e sanitário ou por entidades equivalentes e, seguidamente, escriturados nos respectivos registos, salvo os que, por sua natureza, não exijam tal tratamento.
+Art. 14.º - 1 - Todos os artigos, incluindo os de fardamento, materiais, víveres e forragens, fornecidos à unidade, estabelecimento ou órgão são recebidos, consoante a sua natureza, e sem prejuízo do estatuído no n.º 2, pelos seus responsáveis directos, comandantes dos pelotões de reabastecimento, de transmissões e sanitário ou por entidades equivalentes e, seguidamente, escriturados nos respectivos registos, salvo os que, por sua natureza, não exijam tal tratamento.
 
 2 - Quando o comandante, director ou chefe o entender ou norma especial o imponha, à recepção assiste uma comissão, para tal nomeada, que do ocorrido elabora o competente auto.
 
@@ -233,7 +275,7 @@ c) Promover que a administração e escrituração das actividades referidas na 
 
 #### SECÇÃO V — Escrituração
 
-###### Art. 15.º Para a escrituração no âmbito da gestão logística, além de outros que forem julgados necessários, são utilizados os seguintes registos:
+Art. 15.º Para a escrituração no âmbito da gestão logística, além de outros que forem julgados necessários, são utilizados os seguintes registos:
 
 a) Registo do movimento de fardamento;
 
@@ -249,7 +291,7 @@ f) Registo de oficinas, destinado a escriturar os trabalhos efectuados, com a di
 
 g) Registo de requisições, destinado a escriturar o processamento das requisições até serem satisfeitas.
 
-###### Art. 16.º - 1 - Os registos referidos no artigo anterior serão constituídos por fichas, folhas soltas ou livros.
+Art. 16.º - 1 - Os registos referidos no artigo anterior serão constituídos por fichas, folhas soltas ou livros.
 
 2 - Os livros conterão, obrigatoriamente, termos de abertura e de encerramento e as suas folhas numeradas, devendo estas, bem como as fichas e as folhas soltas, ser autenticadas pelo comandante, director ou chefe, consistindo a autenticação na rubrica, de próprio punho ou de chancela, com aposição do selo branco da unidade, estabelecimento ou órgão.
 
@@ -257,9 +299,9 @@ g) Registo de requisições, destinado a escriturar o processamento das requisi�
 
 #### SECÇÃO VI — Responsabilidade
 
-###### Art. 17.º O comandante, director ou chefe é responsável pela actividade administrativo-logística das UEOE.
+Art. 17.º O comandante, director ou chefe é responsável pela actividade administrativo-logística das UEOE.
 
-###### Art. 18.º O chefe da secção de logística, o comandante da subunidade de comando e serviços ou órgão de apoio e os comandantes das companhias de comando, de serviços, dos pelotões de reabastecimento, de transmissões e sanitário são responsáveis:
+Art. 18.º O chefe da secção de logística, o comandante da subunidade de comando e serviços ou órgão de apoio e os comandantes das companhias de comando, de serviços, dos pelotões de reabastecimento, de transmissões e sanitário são responsáveis:
 
 1) Pelos erros de carácter técnico ou irregularidades cometidas no âmbito da sua competência;
 
@@ -267,9 +309,9 @@ g) Registo de requisições, destinado a escriturar o processamento das requisi�
 
 3) Pelas informações de carácter técnico que prestem sobre assuntos de gestão logística.
 
-###### Art. 19.º Os comandantes dos pelotões de transmissões, de reabastecimento e sanitário, ou entidades equivalentes, são responsáveis pelo extravio ou ruína injustificada dos artigos e materiais em depósito à sua responsabilidade, guarda e conservação.
+Art. 19.º Os comandantes dos pelotões de transmissões, de reabastecimento e sanitário, ou entidades equivalentes, são responsáveis pelo extravio ou ruína injustificada dos artigos e materiais em depósito à sua responsabilidade, guarda e conservação.
 
-###### Art. 20.º - 1 - Sendo causados prejuízos à Fazenda Nacional decorrentes de actuação culposa ou negligente, além da responsabilidade disciplinar e criminal, estes serão integralmente pagos pelos contraventores.
+Art. 20.º - 1 - Sendo causados prejuízos à Fazenda Nacional decorrentes de actuação culposa ou negligente, além da responsabilidade disciplinar e criminal, estes serão integralmente pagos pelos contraventores.
 
 2 - Havendo mais de um responsável, cada um deles pagará a parte do prejuízo tolal que proporcionalmente lhe for atribuída.
 
@@ -277,7 +319,7 @@ g) Registo de requisições, destinado a escriturar o processamento das requisi�
 
 #### SECÇÃO I — Competência
 
-###### Art. 21.º No âmbito da actividade administrativo-financeira, ao comandante, director ou chefe compete:
+Art. 21.º No âmbito da actividade administrativo-financeira, ao comandante, director ou chefe compete:
 
 a) Definir, de acordo com. as directivas superiores, os programas de actividades que hão-de servir de base à elaboração das propostas orçamentais;
 
@@ -301,7 +343,7 @@ j) Assegurar-se de que a unidade, estabelecimento ou órgão dispõe, com oportu
 
 l) Fiscalizar toda a actividade administrativo-financeira.
 
-###### Art. 22.º Ao chefe da secção financeira compete:
+Art. 22.º Ao chefe da secção financeira compete:
 
 a) Aconselhar o comandante, director ou chefe quanto aos preceitos legais e regulamentares, directivas superiores e outros assuntos do âmbito financeiro;
 
@@ -335,7 +377,7 @@ p) Coadjuvar o comandante, director ou chefe em toda a vida administrativo-finan
 
 q) Dirigir e executar outros serviços relacionados com as suas funções que lhe sejam determinados pelo comandante, director ou chefe.
 
-###### Art. 23.º Ao tesoureiro compete:
+Art. 23.º Ao tesoureiro compete:
 
 a) Manter a tesouraria em funcionamento, para efeito de recebimentos e pagamentos, segundo o horário determinado;
 
@@ -355,7 +397,7 @@ h) Assegurar o expediente e manter o arquivo respeitante ao serviço a seu cargo
 
 #### SECÇÃO II — Atribuições de secção financeira
 
-###### Art. 24.º A secção financeira tem as seguintes atribuições:
+Art. 24.º A secção financeira tem as seguintes atribuições:
 
 a) Elaborar as propostas orçamentais relativas ao orçamento do Departamento do Exército (ODE) e ao orçamento privativo (OP) que concretizem, em termos financeiros, os recursos necessários à execução das actividades programadas que não possam ser satisfeitas em espécie directamente pela logística;
 
@@ -389,37 +431,37 @@ p) Organizar, sob o aspecto administrativo e financeiro, os cadernos de encargos
 
 #### SECÇÃO III — Funcionamento da secção financeira
 
-###### Art. 25.º - 1 - A secção financeira articula-se da forma seguinte:
+Art. 25.º - 1 - A secção financeira articula-se da forma seguinte:
 
 Chefe;
 
 Tesouraria;
 
-##### Subsecção de aquisições e contrôle de encargos;
+Subsecção de aquisições e contrôle de encargos;
 
-##### Subsecção de abonos e descontos;
+Subsecção de abonos e descontos;
 
-##### Subsecção de escrituração e prestação de contas.
+Subsecção de escrituração e prestação de contas.
 
 2 - As funções de chefe e tesoureiro são inacumuláveis.
 
 3 - O funcionamento técnico da secção financeira está subordinado aos órgãos superiores de finanças, através do centro de gestão financeira que a apoia.
 
-###### Art. 26.º À secção financeira compete o recebimento das receitas e o pagamento das despesas nos prazos estabelecidos, bem como a sua justificação, através de documentos elaborados em conformidade com os preceitos legais e regulamentares em vigor.
+Art. 26.º À secção financeira compete o recebimento das receitas e o pagamento das despesas nos prazos estabelecidos, bem como a sua justificação, através de documentos elaborados em conformidade com os preceitos legais e regulamentares em vigor.
 
-###### Art. 27.º A secção financeira dispõe de um fundo de maneio, de montante calculado pelo centro de gestão financeira que a apoia.
+Art. 27.º A secção financeira dispõe de um fundo de maneio, de montante calculado pelo centro de gestão financeira que a apoia.
 
-###### Art. 28.º A secção financeira deve possuir um cofre à prova de fogo para guarda do numerário e de outros valores, sendo o tesoureiro o seu único claviculário.
+Art. 28.º A secção financeira deve possuir um cofre à prova de fogo para guarda do numerário e de outros valores, sendo o tesoureiro o seu único claviculário.
 
-###### Art. 29.º A secção financeira apenas deve manter em cofre o numerário indispensável para satisfazer compromissos de pequeno montante e de carácter eventual.
+Art. 29.º A secção financeira apenas deve manter em cofre o numerário indispensável para satisfazer compromissos de pequeno montante e de carácter eventual.
 
-###### Art. 30.º - 1 - A secção financeira mantém obrigatoriamente contas no Centro Financeiro do Exército e na Caixa Geral de Depósitos, nas quais movimenta as importâncias que excederem os compromissos referidos no artigo anterior.
+Art. 30.º - 1 - A secção financeira mantém obrigatoriamente contas no Centro Financeiro do Exército e na Caixa Geral de Depósitos, nas quais movimenta as importâncias que excederem os compromissos referidos no artigo anterior.
 
 2 - A movimentação da conta de depósito na Caixa Geral de Depósitos é efectuada mediante as assinaturas do comandante, director ou chefe, do chefe da secção financeira e do tesoureiro, podendo a unidade, estabelecimento ou órgão obrigar-se pelas assinaturas de apenas dois destes elementos, sendo uma delas, obrigatoriamente, a do tesoureiro.
 
-###### Art. 31.º As requisições que se traduzam na assunção de encargos financeiros para a unidade, estabelecimento ou órgão devem conter estimativas do custo aproximado dos artigos, materiais ou serviços requisitados e ser devidamente informadas pelo chefe da secção financeira quanto à legalidade e cabimento orçamental e submetidas à apreciação e autorização do comandante, director ou chefe.
+Art. 31.º As requisições que se traduzam na assunção de encargos financeiros para a unidade, estabelecimento ou órgão devem conter estimativas do custo aproximado dos artigos, materiais ou serviços requisitados e ser devidamente informadas pelo chefe da secção financeira quanto à legalidade e cabimento orçamental e submetidas à apreciação e autorização do comandante, director ou chefe.
 
-###### Art. 32.º - 1 - Em livro para esse efeito existente na secção financeira é obrigatoriamente lavrada acta dos factos a seguir mencionados e ainda quando o comandante, director ou chefe o determine ou a solicitação do chefe da secção financeira ou do tesoureiro:
+Art. 32.º - 1 - Em livro para esse efeito existente na secção financeira é obrigatoriamente lavrada acta dos factos a seguir mencionados e ainda quando o comandante, director ou chefe o determine ou a solicitação do chefe da secção financeira ou do tesoureiro:
 
 a) Criação ou extinção da secção financeira;
 
@@ -443,7 +485,7 @@ f) Aprovação da conta de gerência.
 
 #### SECÇÃO IV — Contabilidade e escrituração
 
-###### Art. 33.º - 1 - Para a escrituração no âmbito da gestão financeira são utilizados, para além de outros que forem julgados necessários, os seguintes registos principais:
+Art. 33.º - 1 - Para a escrituração no âmbito da gestão financeira são utilizados, para além de outros que forem julgados necessários, os seguintes registos principais:
 
 a) Registo de controle de encargos, destinado a registar todos os encargos assumidos pela unidade, estabelecimento ou órgão ao longo do ano económico, desde a manifestação das suas necessidades (requisição inicial) até ao saldar dos compromissos com terceiros a que essas necessidades obrigaram;
 
@@ -453,15 +495,15 @@ c) Registo de operações diversas, destinado a registar todos os movimentos dec
 
 2 - As normas por que se rege a contabilidade e escrituração das secções financeiras, os registos inerentes à sua execução, bem como os procedimentos a observar na prestação de contas, são definidos pelo Chefe do Estado-Maior do Exército.
 
-###### Art. 34.º - 1 - Nas unidades, estabelecimentos ou órgãos em que haja actividades não orgânicas o comandante, director ou chefe nomeará comissões para as dirigir e elaborar a escrituração correspondente, sob a orientação e fiscalização técnica da secção financeira.
+Art. 34.º - 1 - Nas unidades, estabelecimentos ou órgãos em que haja actividades não orgânicas o comandante, director ou chefe nomeará comissões para as dirigir e elaborar a escrituração correspondente, sob a orientação e fiscalização técnica da secção financeira.
 
 2 - A escrita, elaborada segundo instruções específicas a difundir pelo departamento de finanças, terá a discriminação suficiente para permitir apurar o resultado da exploração.
 
 #### SECÇÃO V — Responsabilidade
 
-###### Art. 35.º O comandante, director ou chefe é responsável pela actividade administrativo-financeira da unidade, estabelecimento ou órgão.
+Art. 35.º O comandante, director ou chefe é responsável pela actividade administrativo-financeira da unidade, estabelecimento ou órgão.
 
-###### Art. 36.º O chefe da secção financeira é o único responsável:
+Art. 36.º O chefe da secção financeira é o único responsável:
 
 1) Pelos erros de carácter técnico ou irregularidades cometidas no âmbito da sua competência;
 
@@ -469,30 +511,30 @@ c) Registo de operações diversas, destinado a registar todos os movimentos dec
 
 3) Pelas informações de carácter técnico que preste por escrito sobre assuntos de gestão financeira.
 
-###### Art. 37.º - 1 - Dos despachos e resoluções do comandante, director ou chefe que contrariem leis, regulamentos ou outras disposições vigentes o chefe da secção financeira elabora acta, transcrevendo-os na integra e mencionando os fundamentos legais que, no seu entender, contrariam aquelas decisões.
+Art. 37.º - 1 - Dos despachos e resoluções do comandante, director ou chefe que contrariem leis, regulamentos ou outras disposições vigentes o chefe da secção financeira elabora acta, transcrevendo-os na integra e mencionando os fundamentos legais que, no seu entender, contrariam aquelas decisões.
 
 2 - A referida acta, depois de assinada, é remetida ao respectivo centro de gestão financeira.
 
 3 - Procedimento contrário ao referido nos n.os 1 e 2 por parte do chefe da secção financeira torna-se solidário na responsabilidade pelos prejuízos que possam advir para a Fazenda Nacional.
 
-###### Art. 38.º O tesoureiro é o único responsável pelo numerário e outros valores que lhe forem confiados no âmbito das suas funções.
+Art. 38.º O tesoureiro é o único responsável pelo numerário e outros valores que lhe forem confiados no âmbito das suas funções.
 
-###### Art. 39.º - 1 - Sendo causados prejuízos à Fazenda Nacional decorrentes de actuação culposa ou negligente, além da responsabilidade disciplinar e criminal, estes serão integralmente pagos pelos contraventores.
+Art. 39.º - 1 - Sendo causados prejuízos à Fazenda Nacional decorrentes de actuação culposa ou negligente, além da responsabilidade disciplinar e criminal, estes serão integralmente pagos pelos contraventores.
 
 2 - Havendo mais de um responsável, cada um deles pagará a parte do prejuízo total que proporcionalmente lhe for atribuída.
 
-###### Art. 40.º - 1 - Tendo-se apurado qualquer alcance ou desvio de valores do Estado em qualquer unidade, estabelecimento ou órgão, ou havendo fundada suspeita da sua existência, o comandante, director ou chefe promoverá de imediato a suspensão das funções do presumível responsável e a sua consequente substituição.
+Art. 40.º - 1 - Tendo-se apurado qualquer alcance ou desvio de valores do Estado em qualquer unidade, estabelecimento ou órgão, ou havendo fundada suspeita da sua existência, o comandante, director ou chefe promoverá de imediato a suspensão das funções do presumível responsável e a sua consequente substituição.
 
 2 - Sempre que se verifique qualquer das ocorrências referidas no número anterior, o comandante, director ou chefe da unidade, estabelecimento ou órgão onde hajam tido lugar fará comunicação das mesmas ao comando, direcção ou chefia de que dependa e, bem assim, solicitará uma inspecção ao centro de gestão financeira respectivo.
 
-###### Art. 41.º Na elaboração do processo de responsabilidade civil e pecuniária deverá ter-se em consideração o disposto na [Lei n.º 2054](https://diariodarepublica.pt/dr/detalhe/lei/2054-1952-561784), de 21 de Maio de 1952.
+Art. 41.º Na elaboração do processo de responsabilidade civil e pecuniária deverá ter-se em consideração o disposto na [Lei n.º 2054](https://diariodarepublica.pt/dr/detalhe/lei/2054-1952-561784), de 21 de Maio de 1952.
 
 ### CAPÍTULO IV — Diversos
 
-###### Art. 42.º Às subunidades ou órgãos equivalentes, devidamente enquadrados, para além das funções específicas estabelecidas no respectivo quadro orgânico, compete:
+Art. 42.º Às subunidades ou órgãos equivalentes, devidamente enquadrados, para além das funções específicas estabelecidas no respectivo quadro orgânico, compete:
 
 a) Promover que a administração e a escrituração dos respectivos sectores sejam feitas conforme os preceitos legais e regulamentares em vigor;
 
 b) Verificar o estado de conservação e utilização e a conveniência da substituição dos artigos e materiais em carga, apresentando superiormente as adequadas propostas e ou requisições.
 
-###### Art. 43.º A administração das subunidades ou órgãos referidos no artigo anterior, quando destacados, é da responsabilidade do respectivo comandante, director ou chefe, de acordo com os princípios estabelecidos no presente Regulamento, sempre que não seja determinado outro procedimento.
+Art. 43.º A administração das subunidades ou órgãos referidos no artigo anterior, quando destacados, é da responsabilidade do respectivo comandante, director ou chefe, de acordo com os princípios estabelecidos no presente Regulamento, sempre que não seja determinado outro procedimento.

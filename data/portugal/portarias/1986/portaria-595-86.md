@@ -49,40 +49,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/595-1986-222426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:53:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 362ef5276cac31436b9c4632bdb210fa928fa905007a23c34efa05cd2499fc76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b896ad17566d6011ede09fd959777ab7a41fc16a1bd8d0194a722a569a08ebdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:53:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Castelo Branco
+- Curso de Educadores de Infância
+- Curso de Professores do Ensino Básico Variante Educação Física
+- Curso de Professores do Ensino Básico Variante Matemática e Ciências da Natureza
+- Curso de Professores do Ensino Básico Variante Português História e Ciências Sociais
+- Curso de Professores do Ensino Primário
+- Ensino Básico
+- Ensino Primário
+- Escola Superior de Educação
+- Instituto Politécnico
+- Pessoal Docente
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:355366:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575557:por
+  label: "Alterados os quadros dos anexos I, II, IV, V e VI, pela PORT.512/90.05.07.1990.ME, DR.IS [153] de 05.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/512-1990-575557
+  date: '1990-07-05'
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:355365:por
+  label: "Revogada, na parte que se refere ao bacharelato em 1.º Ciclo do Ensino Básico da Escola Superior de Educação de\
+    \ Castelo Branco, pela PORT.513/99.1999.07.19.ME DR.IS-B [166], sem prejuízo do estabelecido no art. 7.º da mesma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/513-1999-355365
+  date: '1999-07-19'
+- type: repealed_by
+  target: pt:dre:355366:por
+  label: "Revogada, na parte que se refere ao bacharelato em 1.º Ciclo do Ensino Básico da Escola Superior de Educação de\
+    \ Castelo Branco, pela PORT.514/99.1999.07.19.ME DR.IS-B [166], sem prejuízo do estabelecido no art. 7.º da mesma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/514-1999-355366
+  date: '1999-07-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:53:07Z'
   warnings: []
   errors: []
 ---
@@ -137,8 +183,8 @@ Os cursos a que se refere o n.º 1.º iniciarão o seu funcionamento no ano lect
 
 Ministério da Educação e Cultura.
 
-**Assinada em 10 de Setembro de 1986.**
+Assinada em 10 de Setembro de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23500/30413047.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23500/30413047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23500/30413047.pdf)

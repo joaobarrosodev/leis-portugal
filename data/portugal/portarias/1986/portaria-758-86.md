@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/758-1986-210584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:58:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a30c113890dc6ea7549d833728f8ff819ae76946b50c0fd6ca15328283ce69b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 389f7fb15325cde298b43809e6847bdefc113bab3c5c2242e5e78b0e01777b70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:58:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alimentação
+- Estabelecimento Hospitalar
+- Forças Armadas
+relationships:
+- type: cites
+  target: pt:dre:234084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:58:24Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +109,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o se
 
 Ministério da Defesa Nacional.
 
-**Assinada em 19 de Novembro de 1986.**
+Assinada em 19 de Novembro de 1986.
 
-**O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.
 
 Formulário dietético hospitalar
 
@@ -116,7 +127,7 @@ Características: normocalórica e fraccionada.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Confecções permitidas: cozidos, grelhados, assados e estufados.
 
@@ -130,7 +141,7 @@ Nota. - Se esta dieta for confeccionada sem adição de sal, conterá cerca de 2
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 2
 
@@ -142,11 +153,11 @@ Características: líquida, hipocalórica, pobre em resíduos e fraccionada.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 3
 
@@ -160,13 +171,13 @@ Características: semilíquida, hipocalórica, pobre em resíduos e fraccionada.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: a dieta deve ser triturada mecanicamente de maneira a ficar fluida e homogénea.
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 4
 
@@ -180,13 +191,13 @@ Características: líquida, hipocalórica, pobre em resíduos e fraccionada.
 
 Fórmula dietética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: após um episódio agudo de úlcera péptica, deve seguir-se esta dieta durante um ou dois dias, dando 200 ml de leite frio de hora a hora ou de duas em duas horas, excepto durante o repouso nocturno.
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 5
 
@@ -198,13 +209,13 @@ Características: semilíquida, hipocalórica, pobre em resíduos e fraccionada.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regas gerais: o intervalo entre as refeições deve ser de uma a duas horas, excepto durante o repouso nocturno. Deve comer devagar e os alimentos não devem ser ingeridos muito quentes nem muito frios. É importantes o repouso de alguns minutos, antes e depois das refeições.
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 6
 
@@ -216,13 +227,13 @@ Características: mole, pobre em resíduos e fraccionada.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: o intervalo entre as refeições deve ser de uma a duas horas, excepto durante o repouso nocturno. Deve comer devagar e mastigar bem os alimentos. Estes não devem ser ingeridos muito quentes nem muito frios. É importante o repouso de alguns minutos, antes e depois das refeições.
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 7
 
@@ -234,7 +245,7 @@ Características: mole, pobre em resíduos e fraccionada.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: o intervalo entre as refeições não deve ser superior a três horas. Deve comer devagar e mastigar bem os alimentos. Estes não devem ser ingeridos muito quentes nem muito frios. É importante o repouso de alguns minutos, antes e depois das refeições.
 
@@ -248,7 +259,7 @@ Alimentos não aconselhados: queijos fermentados, carnes gordas, caldos de carne
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 8
 
@@ -260,7 +271,7 @@ Características: pobre em resíduos e fraccionada.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: a dieta deve ser fraccionada em cerca de seis refeições. O doente deve comer devagar e mastigar bem os alimentos. Estes não devem ser ingeridos muito quentes nem muito frios. Ao pequeno-almoço, merenda e ceia deve dar-se chá fraco ou infusões de tília, camomila, erva-cidreira, etc.
 
@@ -272,7 +283,7 @@ Alimentos não aconselhados: leite, queijos, carnes gordas, carnes fumadas, cons
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 9
 
@@ -286,7 +297,7 @@ Características: hipocalórica, hipoglucídica, pobre em colesterol e fracciona
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: a dieta deve ser fraccionada em seis ou mais refeições. O doente deve comer a horas regulares, devagar e mastigando bem os alimentos. Deve reduzir a ingestão de água às refeições, mas pode bebê-la livremente nos intervalos.
 
@@ -298,7 +309,7 @@ Alimentos não aconselhados: açúcar e doces, mel, xaropes, compotas e geleias,
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 10
 
@@ -312,7 +323,7 @@ Características: hipocalórica, hipoglucídica, pobre em colestrol e fraccionad
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: sempre que o peso do doente for excessivo deverá seguir uma dieta de emagrecimento até atingir o peso normal. A dieta deverá ser fraccionada em seis ou mais refeições por dia. A quantidade de gorduras a ingerir pode ser normal, mas com redução das gorduras saturadas, dando preferência às gorduras polinsaturadas. As gorduras só devem ser adicionadas aos alimentos depois de estes estarem cozinhados.
 
@@ -326,7 +337,7 @@ Nota. - Indicam-se a seguir quantidades de alimentos que contém 20 g de glúcid
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 11
 
@@ -340,7 +351,7 @@ Características: hipocalórica, hipoglucídica, pobre em colesterol e fracciona
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: sempre que o peso do doente for excessivo deverá seguir uma dieta de emagrecimento até atingir o peso normal. A dieta deverá ser fraccionada em seis ou mais refeições por dia. A quantidade de gorduras a ingerir pode ser normal, mas com redução das gorduras saturadas, dando preferência às gorduras poliinsaturadas. As gorduras só devem ser adicionadas aos alimentos depois de estes estarem cozinhados.
 
@@ -354,7 +365,7 @@ Nota. - Indicam-se a seguir quantidades de alimentos que contêm 20 g de glúcid
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 12
 
@@ -366,7 +377,7 @@ Características: ligeiramente hipocalórica e hipoglucídica, pobre em colester
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: sempre que o peso do doente for excessivo deverá seguir uma dieta de emagrecimento até atingir o peso normal. A dieta deverá ser fraccionada em seis ou mais refeições por dia. A quantidade de gorduras a ingerir pode ser normal, mas com redução das gorduras saturadas, dando preferência às gorduras poliinsaturadas. As gorduras só devem ser adicionadas nos alimentos depois de estes estarem cozinhados.
 
@@ -380,7 +391,7 @@ Nota. - Indicam-se a seguir quantidades de alimentos que contêm 20 g de glúcid
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 13
 
@@ -392,7 +403,7 @@ Caraeterísticas: ligeiramente hipocalórica, pobre em colesterol e fraccionada.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: sempre que o peso do doente for excessivo deverá seguir uma dieta de emagrecimnto até atingir o peso normal. As gorduras da dieta devem ser ricas em ácidos gordos poliinsaturados. As gorduras só devem ser adicionadas aos alimentos depois de estes estarem cozinhados.
 
@@ -404,7 +415,7 @@ Alimentos não aconselhados: leite gordo, leite condensado, nata, queijos, gema 
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 14
 
@@ -418,7 +429,7 @@ Características: ligeiramente hipocalórica e hipopurínica.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: durante os acessos agudos de gota, não se deve dar carne e peixe e é recomendável uma ingestão abundante de líquidos (cerca de 3 l por dia) com a dupla finalidade de evitar a precipitação de uratos no rim e combater a desidratação do enfermo febril. A fórmula acima indicada corresponde a uma dieta de manutenção.
 
@@ -430,7 +441,7 @@ Alimentos não aconselhados: caldos de carne e de peixe, fígado, rim, miolos, c
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 15
 
@@ -442,7 +453,7 @@ Características: ligeiramente hipocalórica, hipoproteica e hipossódica.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: os alimentos devem ser confeccionados sem sal. Só se pode utilizar pão sem sal, margarina e manteiga sem sal. É necessário ter em atenção os medicamentos, pois podem conter sais de sódio.
 
@@ -464,7 +475,7 @@ Nota. - Os elementos ricos em proteínas contêm um teor elevado de sódio e por
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 18
 
@@ -476,7 +487,7 @@ Características: normoproteica e hipossódica.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: os alimentos devem ser confeccionados sem sal. Só se pode utilizar pão sem sal e manteiga ou margarina sem sal. É necessário ter em atenção os medicamentos, pois podem conter sais de sódio.
 
@@ -488,7 +499,7 @@ Alimentos aconselhados: queijo, conservas de carne, miudezas de animais, órgão
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 17
 
@@ -500,7 +511,7 @@ Características: líquida, hiperproteica e hipocalórica.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: a dieta deve ser fraccionada em sete a oito tomas. Deve ficar perfeitamente líquida e sem grumos para evitar o entupimento da sonda. A sua preparação é feita diariamente e conservada no frigorífico, retirando de cada vez apenas a quantidade que se vai injectar (cerca de 250 ml). Esta porção deve ser aquecida a banho-maria até uma temperatura vizinha de 37º.
 
@@ -512,7 +523,7 @@ Quando o doente apresentar diarreia, podem adicionar-se à dieta cerca de 20 g d
 
 Composição de dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 18
 
@@ -524,7 +535,7 @@ Características: líquida, hiperproteica e hipocalórica.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Regras gerais: a dieta deve ser fraccionada em sete a oito tomas. Deve ficar perfeitamente líquida e sem grumos para evitar o entupimento da sonda. A sua preparação é feita diariamente e conservada no frigorífico, retirando de cada vez apenas a quantidade que se vai injectar (cerca de 250 ml).
 
@@ -538,7 +549,7 @@ Quando o doente apresentar diarreia, podem adicionar-se à dieta cerca de 20 g d
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Dieta n.º 19
 
@@ -550,11 +561,11 @@ Características: normocalórica, sem carne, peixe, hortaliça e fruta.
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Composição da dieta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Suplementos proteicos
 
@@ -564,7 +575,7 @@ Suplemento proteico n.º 1
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Composição: 500 ml de leite.
 
@@ -574,7 +585,7 @@ Suplemento proteico n.º 2
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Composição: bife com ovo:
 
@@ -590,7 +601,7 @@ Suplemento proteico n.º 3
 
 Fórmula dietética:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf))](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29400/37893796.pdf)
 
 Composição: bife:
 

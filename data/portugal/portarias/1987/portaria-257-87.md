@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-1987-666554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T09:03:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd70b746349b766d33347b8008be4bb4dfb424eed20672d95f20d4831a5c094d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02f27e92ebeebbe6559ba00e53e21db057bc1c36d87b65206d8a782305e826d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:03:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Emolumento Consular
+- RFA
+- TAXA de Câmbio
+relationships:
+- type: cites
+  target: pt:dre:379968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666550:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:305826:por
+  label: Rectificada pela DECL.DD2304.1987.04.22.PCM, DR.IS [99]4ºSUPL de 30/Abr/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-305826
+  date: '1987-04-22'
 article_structure:
   article_count: 0
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:03:35Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +113,13 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeir
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 1 de Abril de 1987.**
+Assinada em 1 de Abril de 1987.
 
-**O Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.**
+O Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.
 
-###### ARTIGO 1.º — SECÇÃO I
+###### ARTIGO 1.º
+
+#### SECÇÃO I
 
 Protecção consular
 

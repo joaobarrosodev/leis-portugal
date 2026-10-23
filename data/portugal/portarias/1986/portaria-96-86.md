@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/96-1986-196890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59429bca514da32b9211e6769541cd3a7b2a4f2f93d272977a89771ae36db4a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc08b1790a0073a9bdf42258bc17ba9a3a5e5e251625bb3b7f8793dd9f23bdda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lagos
+- Ordenamento do Território
+- Plano de Urbanização
+- Política de Solos
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:2401520:por
+  label: "Tornada pública uma correção material do Plano de Urbanização de Lagos, aprovado pela presente Portaria e republicada\
+    \ a planta de zonamento do Plano corrigida, pela DECL.258/2013.28.11.2013.MLAGOS, DR.IIS [231] de 28.11.2013\0013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/258-2013-2401520
+  date: '2013-11-28'
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
   article_count: 61
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:59:34Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +104,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administ
 
 Secretaria de Estado da Administração Local e do Ordenamento do Território.
 
-**Assinada em 17 de Fevereiro de 1986.**
+Assinada em 17 de Fevereiro de 1986.
 
-**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
 
 Regulamento do Plano de Urbanização de Lagos
 
@@ -455,7 +470,7 @@ St - 9,3000 ha; Db - D5; Pp (m) - 900 hab.; Ub - 0,32; A (m) - 2 p.
 
 ###### Artigo 46.º — (E18)
 
-# Parte desta área é formada por um vale aberto, a norte, sem aptidão para fixação humana.
+Parte desta área é formada por um vale aberto, a norte, sem aptidão para fixação humana.
 
 A implementação desta área implica a revisão dos acessos viários à rede principal e a criação de novos acessos.
 
@@ -565,4 +580,4 @@ Equipamentos: porto de pesca; terminal de caminho de ferro; porto de recreio e a
 
 É vedada a implantação de unidades industriais e de armazenagem que não sejam compatíveis com a função habitacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/06800/06850691.pdf))](https://files.diariodarepublica.pt/1s/1986/03/06800/06850691.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/06800/06850691.pdf)

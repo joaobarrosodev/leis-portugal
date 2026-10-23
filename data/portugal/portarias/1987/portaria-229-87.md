@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/07200/12511251.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-1987-666502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:02:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba0700f03bffa3dab483651fba7dc193fe44fe78989a4003a8db355123f81bc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b583615f006b337f74d18da7ff591ef48fb7f82d818fc6042829665826d1512a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:02:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Tesouro
+- Habilitações Literárias
+- Pessoal Dirigente
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:373611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:579164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:373611:por
+  label: "Revogada pela PORT.270/88.04.05.1988.MF, DR.IS [103] de 04.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/270-1988-373611
+  date: '1988-05-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:02:55Z'
   warnings: []
   errors: []
 ---
@@ -101,6 +118,6 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesour
 
 Secretarias de Estado do Tesouro e do Orçamento.
 
-**Assinada em 16 de Março de 1987.**
+Assinada em 16 de Março de 1987.
 
-**O Secretário de Estado do Tesouro, Manuel Carlos Carvalho Fernandes. - O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp.**
+O Secretário de Estado do Tesouro, Manuel Carlos Carvalho Fernandes. - O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp.

@@ -49,40 +49,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/588-1986-222455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T08:52:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 517b79f8e13dee5e7567bfd694c41c7fef8046be604666f9a58cfa9961ab43a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77928e59bfbb7ef8e285215c804d52de6416f5fc0897df0041d0aff51ce9c02b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:52:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Educação Pré-escolar
+- Curso de Educadores de Infância
+- Curso de Professores do Ensino Básico
+- Curso de Professores do Ensino Básico Variante Matemática e Ciências da Natureza
+- Curso de Professores do Ensino Básico Variante Português História e Ciências Sociais
+- Escola Superior de Educação
+- Faro
+- Instituto Politécnico
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:647915:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:565419:por
+  label: "Alterados os anexos I, IV, V e VI, pela PORT.1073/90.24.10.1990.ME, DR.IS [246] de 24.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1073-1990-565419
+  date: '1990-10-24'
+- type: amended_by
+  target: pt:dre:647915:por
+  label: "Aditado o n.º 1.º-A pela PORT.569/91.25.06.1991.ME, DR.IS-B [143] de 25.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/569-1991-647915
+  date: '1991-06-25'
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:52:49Z'
   warnings: []
   errors: []
 ---
@@ -137,10 +173,10 @@ Os curso a que se refere o n.º 1.º iniciarão o seu funcionamento no ano lecti
 
 Ministério da Educação e Cultura.
 
-**Assinada em 9 de Setembro de 1986.**
+Assinada em 9 de Setembro de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
 Do ANEXO I ao ANEXO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23400/30253029.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23400/30253029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23400/30253029.pdf)

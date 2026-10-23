@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/734-1986-221302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:57:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 135f3e99efc67e2f6df83ec6ec4369fe502a6865b4eb6ff6717a01a47211f034
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e530bc877ff25080612902b94a3e88087cb6506b84284c995f60e0a058217c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:57:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Segurança Social
+- Quadro de Pessoal
+- Regulamento
+- Viana do Castelo
 relationships:
 - type: amended_by
   target: pt:dre:637685:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:180606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:57:44Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +139,9 @@ h) Os serviços locais.
 
 2.º O artigo 12.º passa a ter a seguinte redacção:
 
-###### Artigo 12.º — Divisão de Apoio Técnico
+###### Artigo 12.º
+
+##### Divisão de Apoio Técnico
 
 Compete à Divisão de Apoio Técnico:
 
@@ -143,7 +157,9 @@ e) Realizar as acções necessárias ao recrutamento, integração, formação e
 
 3.º É aditado o artigo 12.º-A ao Regulamento do Centro:
 
-###### Artigo 12.º-A — Divisão de Organização e Informática
+###### Artigo 12.º-A
+
+##### Divisão de Organização e Informática
 
 Compete à Divisão de Organização e Informática:
 
@@ -257,10 +273,10 @@ l) Analisar os mapas de produção e de estatísticas do sistema, com vista a op
 
 Secretarias de Estado do Orçamento e da Segurança Social.
 
-**Assinada em 17 de Novembro de 1986.**
+Assinada em 17 de Novembro de 1986.
 
-**O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.**
+O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.
 
 Mapa anexo à Portaria n.º 734/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/28000/36643666.pdf))](https://files.diariodarepublica.pt/1s/1986/12/28000/36643666.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/28000/36643666.pdf)

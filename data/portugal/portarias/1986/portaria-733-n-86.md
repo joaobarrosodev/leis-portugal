@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 279/1986, 2º Suplemento, Série I de 1986-12-04
   number: '279'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3658-(21) a 3658-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf
 entry_into_force_dates: []
@@ -46,36 +46,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/733-n-1986-305646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 037bfeec19329800cad94ff9183fe31693181b80bfbfb4389e7462fc3289abbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65fe0542056d9bd18e215f983dd1666350cd3114402febd9b4bb3313cd325eb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa Pública
+- Preço
+- Transporte Público
+relationships:
+- type: cites
+  target: pt:dre:148442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601720:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:57:39Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +171,7 @@ Manda o Governo da República Portuguesa, pelos Ministros da Indústria e Comér
 
 Autocarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
 
 Linha Verde:
 
@@ -110,7 +181,7 @@ Linha Verde:
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
 
 Elevadores:
 
@@ -130,13 +201,13 @@ Pré-comprados (ver nota a) ... 30$00
 
 1.1.3 - TRANSTEJO:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
 
 1.2 - Passes intermodais:
 
 (O âmbito e condições de validade destes passes são os definidos nas Portarias n.os 22-A/77, de 30 de Abril, [736/77](https://diariodarepublica.pt/dr/detalhe/portaria/736-1977-148442), de 30 de Novembro, [306/80](https://diariodarepublica.pt/dr/detalhe/portaria/306-1980-474693), de 29 de Maio, e [600/84](https://diariodarepublica.pt/dr/detalhe/portaria/600-1984-382407), de 11 de Agosto.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
 
 1.3 - Passes - Margem sul do Tejo:
 
@@ -172,7 +243,7 @@ LC ... 3560$00
 
 (Válidos na Carris e no Metropolitano e ainda num percurso de um operador rodoviário, nos termos definidos na [Portaria n.º 765-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/765-a-1980-250430), de 1 de Outubro.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
 
 1.6 - Passes combinados L/CP:
 
@@ -260,17 +331,17 @@ Para a terceira idade (mensal) ... 1250$00
 
 Autocarros, troleicarros e eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
 
 2.1.2 - Passes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
 
 2.2 - Passes STCP/CP:
 
 2.2.1 - Válidos nos termos definidos pela [Portaria n.º 182-B/80](https://diariodarepublica.pt/dr/detalhe/portaria/182-b-1980-150754), de 2 de Abril, alterada pelo n.º 4 da [Portaria n.º 1112-B/81](https://diariodarepublica.pt/dr/detalhe/portaria/1112-b-1981-242540), de 30 de Dezembro, e pela [Portaria n.º 855/84](https://diariodarepublica.pt/dr/detalhe/portaria/855-1984-400439), de 8 de Novembro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
 
 2.2.2 - Passe fim-de-semana para a terceira idade:
 
@@ -280,7 +351,7 @@ Válido nos STCP/CP, nos termos definidos pela [Portaria n.º 306/80](https://di
 
 (Válido nos termos definidos pela [Portaria n.º 756/80](https://diariodarepublica.pt/dr/detalhe/portaria/756-1980-461620), de 30 de Setembro.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
 
 3 - Outros transportes urbanos:
 
@@ -328,13 +399,13 @@ A Direcção-Geral de Transportes Terrestres poderá aprovar mínimos de cobran�
 
 4.4.1 - Para número ilimitado de viagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
 
 4.4.2 - Para número limitado de viagens:
 
 Em substituição da modalidade referida no número anterior e a requerimento dos concessionários, pode a Direcção-Geral de Transportes Terrestres autorizar a emissão de assinaturas de linha para 44, 52 e 88 viagens, não podendo esta última modalidade ser praticada como modalidade única.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
 
 4.4.3 - Quando as assinaturas de linha previstas nos números anteriores permitirem a utilização de duas ou mais carreiras, o seu preço será correspondente à distância zonal do percurso para que são válidas.
 
@@ -360,8 +431,8 @@ Para o efeito, as entidades exploradoras deverão submeter à aprovação da Dir
 
 Ministérios da Indústria e Comércio e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 4 de Dezembro de 1986.**
+Assinada em 4 de Dezembro de 1986.
 
-**O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf))](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/27902/00210026.pdf)

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 50/1986, 1º Suplemento, Série I de 1986-03-01
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 516-(9) a 516-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05001/00090012.pdf
 entry_into_force_dates: []
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/63-e-1986-245101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:54:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 762c6fba3c9364b2603c60d45c97e4f646944440c31b5de469714e320d42e558
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6acdab2b6a7f9f9b6644c52ad21430ceb913d2366cabcf59ace8c990eda460ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:54:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carne
+- Carne de Suíno
+- Cereal
+- Junta Nacional dos Produtos Pecuários
+- Países Terceiros
+- Pauta Aduaneira
+- Preço
+- Preço Limiar
+- Tratado de Adesão CE
 relationships:
 - type: amended_by
   target: pt:dre:214004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:214004:por
+  label: "Substituída a mistura tipo constante da al. a) do n.º 3.º do presente diploma, pela PORT.426-A/86.06.08.1986.MF,\
+    \ DR.IS [179-Supl] de 06.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/426-a-1986-214004
+  date: '1986-08-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:54:48Z'
   warnings: []
   errors: []
 ---
@@ -150,10 +165,10 @@ b) Para efeitos da determinação do elemento referido na alínea b) da mesma di
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 28 de Fevereiro de 1986.**
+Assinada em 28 de Fevereiro de 1986.
 
 Pelo Ministro das Finanças, José Alberto Tavares Moreira, Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
 ## ANEXO — Coeficientes para o cálculo dos direitos niveladores referidos no n.º 6.º desta portaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/05001/00090012.pdf))](https://files.diariodarepublica.pt/1s/1986/03/05001/00090012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/05001/00090012.pdf)

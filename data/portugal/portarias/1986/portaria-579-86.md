@@ -48,40 +48,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/579-1986-222463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:52:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abefdbaa424f89d727f2983ddf1b3b9b0268ec9edbf7156e3bbea4a21e4fe70e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73692c830a683d48ce85930c3f13a2e5321105b1197998679f3fec0603328af0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:52:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Matemática e Ciências da Natureza
+- Curso de Trabalhos Manuais
+- Educação Pré-escolar
+- Ensino Básico
+- Escola Superior de Educação
+- Instituto Politécnico
+- Plano de Estudos
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:532867:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O NUMERO IV) DA ALÍNEA B) DO NUMERO 1 E OS QUADROS 1 A 4 DO ANEXO V, PELA PORTARIA 758/94, DE 22 DE AGOSTO,\
+    \ PUBLICADA NO DR.IS-B, 193.\0-B, 193."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-22'
+- type: repealed_by
+  target: pt:dre:532867:por
+  label: "Revogada, sem prejuízo do processo de transição a que se refere o art. 8.º, na parte que se refere ao bacharelato\
+    \ em Educação Pré-Escolar da Escola Superior de Educação do Porto, pela PORT.1002/2000.2000.10.18.ME DR.IS-B [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1002-2000-532867
+  date: '2000-10-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:52:37Z'
   warnings: []
   errors: []
 ---
@@ -134,8 +171,8 @@ Os cursos a que se refere o n.º 1.º iniciarão o seu funcionamento no ano lect
 
 Ministério da Educação e Cultura.
 
-**Assinada em 19 de Agosto de 1986.**
+Assinada em 19 de Agosto de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23100/29312934.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23100/29312934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23100/29312934.pdf)

@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22-1987-599569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:02:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 235977062c824a1567b7cb1179d3a4670981bec530e1976e9910aeef206a3e7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2f0a039cf4b9eb4f2d2e5bead086afe9880f934ef45e7e7f3f4e68330057659
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:02:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Comissão Consultiva do Mercado da Carne de Aves
+- Comissão Consultiva do Mercado da Carne de Bovino
+- Comissão Consultiva do Mercado da Carne de Suíno
+- Comissão Consultiva do Mercado dos Ovos
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:452563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660554:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:02:40Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +117,6 @@ As Comissões Consultivas dos Mercados das Carnes de Suíno, de Bovino e de Aves
 
 Ministérios da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 18 de Dezembro de 1986.**
+Assinada em 18 de Dezembro de 1986.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.

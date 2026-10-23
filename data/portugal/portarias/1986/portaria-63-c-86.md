@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 50/1986, 1º Suplemento, Série I de 1986-03-01
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 516-(4) a 516-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05001/00040008.pdf
 entry_into_force_dates: []
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/63-c-1986-245099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:54:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0abd35081e76c949c9fca1d4beb1cd5c0ac896f45a36589b4fe546b2c4c76203
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89bfd09bbf7a7d506ea1984e11f20a9d64aff16cddbffd539c0539f3129c1aa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:54:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ave de Capoeira
+- CEE
+- Contribuições e Impostos
+- Importação
+- Imposto Compensatório
+- OVO
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:615059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219112:por
+  label: "Dada nova redacção aos nºs 1º e 5º, suprimido o primeiro nº 2, suprimida uma expressão constante da coluna 3 da\
+    \ al. b) da identificação pautal 04.05 do anexo I do presente diploma, pela PORT.460/86.23.08.1986.MF, DR.IS [193] de\
+    \ 23.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/460-1986-219112
+  date: '1986-08-23'
+- type: amended_by
+  target: pt:dre:665707:por
+  label: "Substituído o Anexo I pela PORT.343/87.1987.04.27.MF DR.IS [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-1987-665707
+  date: '1987-04-27'
+- type: amended_by
+  target: pt:dre:420229:por
+  label: "Alterada a al. b) do nº 2 e o Anexo I, pela PORT.600/87.1987.07.11.MF, DR.IS [157]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/600-1987-420229
+  date: '1987-07-11'
+- type: amended_by
+  target: pt:dre:615059:por
+  label: "Alterados os Anexos II e III, pela PORT.252/89.1989.04.07.MF, DR.IS [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/252-1989-615059
+  date: '1989-04-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:54:10Z'
   warnings: []
   errors: []
 ---
@@ -139,18 +168,18 @@ c) A percentagem referida na alínea anterior e os valores constantes da coluna 
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 28 de Fevereiro de 1986.**
+Assinada em 28 de Fevereiro de 1986.
 
 Pelo Ministro das Finanças, José Alberto Tavares Moreira, Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
 ## ANEXO I — [a que se refere a alínea a) do n.º 2]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/05001/00040008.pdf))](https://files.diariodarepublica.pt/1s/1986/03/05001/00040008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/05001/00040008.pdf)
 
 ## ANEXO II — (a que se refere o n.º 4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/05001/00040008.pdf))](https://files.diariodarepublica.pt/1s/1986/03/05001/00040008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/05001/00040008.pdf)
 
 ## ANEXO III — (a que se refere o n.º 4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/05001/00040008.pdf))](https://files.diariodarepublica.pt/1s/1986/03/05001/00040008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/05001/00040008.pdf)

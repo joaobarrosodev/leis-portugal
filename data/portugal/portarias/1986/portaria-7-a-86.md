@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 6/1986, 2º Suplemento, Série I de 1986-01-08
   number: '6'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 52-(15) a 52-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/01/00602/00150017.pdf
 entry_into_force_dates: []
@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-a-1986-316712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T08:56:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eac2fdf976eccfa09e64187d416ff87a9303674f38bd90ef538193ef483059ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af33b0cb902421a8c39d245369ddb28c17ede5d10057a8b63c0926dfcd948bd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:56:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Energia Elétrica
+- Fundo de Apoio Térmico
+- Preço
+- TAXA Adicional
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUIDO O QUADRO 2 ANEXO, PELA PORTARIA 390/86, DE 24 DE JULHO, PUBLICADA NO DR.IS, 168.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-07-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUIDO O QUADRO 1 ANEXO, PELA PORTARIA 396/87, DE 11 DE MAIO, PUBLICADA NO DR.IS, 107.\0107."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-05-11'
+- type: cites
+  target: pt:dre:162787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621691:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:56:33Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +127,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Comérci
 
 Ministério da Indústria e Comércio.
 
-**Assinada em 13 de Dezembro de 1985.**
+Assinada em 13 de Dezembro de 1985.
 
-**O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
 QUADRO 1
 
@@ -111,7 +137,7 @@ Tarifas de energia eléctrica (ver nota j) para potências contratadas superiore
 
 (Preço de referência do fuelóleo: P(índice 0) = 20$00/kg)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/01/00602/00150017.pdf))](https://files.diariodarepublica.pt/1s/1986/01/00602/00150017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/01/00602/00150017.pdf)
 
 (nota a) Para potências contratadas não superiores a 19,8 kVA, ver quadro 2.
 
@@ -123,7 +149,7 @@ Tarifas de energia eléctrica em baixa tensão (ver nota a) (ver nota i)
 
 (Preço de referência do fuelóleo: P(índice 0) = 20$00/kg)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/01/00602/00150017.pdf))](https://files.diariodarepublica.pt/1s/1986/01/00602/00150017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/01/00602/00150017.pdf)
 
 (nota a) Para potências contratadas superiores a 19,8 kVA, ver quadro 1.
 

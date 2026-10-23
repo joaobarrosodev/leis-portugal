@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/187-1987-662290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T09:01:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 675adcb6db42fbe1e8246d051133bd50c7f101b00b60bf265f859cd4862800a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 590f155d5bed22b66c36af74e0a6a4642f7255004f08d7d9f18200cbdb93b25a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:01:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Diploma
+- Doutoramento
+- Ensino Superior
+- Licenciatura
+- Mestrado
+- Universidade dos Açores
+relationships:
+- type: cites
+  target: pt:dre:224630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563655:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:01:40Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +123,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura,
 
 Ministério da Educação e Cultura.
 
-**Assinada em 18 de Fevereiro de 1987.**
+Assinada em 18 de Fevereiro de 1987.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 

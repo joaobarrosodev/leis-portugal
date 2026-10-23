@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1987-662675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:59:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0aa140ca2712a2a819ecb718a5732e174c7303591361864c0ca6cfafeb2831b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be303daedb6d5a388b70178853a3e1bc5a3f0a3916eadee974436359cc0dd365
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:59:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Controlo de Qualidade
+- Etiquetagem
+- Normalização
+- Produto Têxtil
+relationships:
+- type: cites
+  target: pt:dre:227576:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:59:54Z'
   warnings: []
   errors: []
 ---
@@ -210,7 +218,7 @@ e) Data da emissão.
 
 22.º Na verificação da composição fibrosa, a tolerância global T' é obtida calculando-se a raiz quadrada da soma do quadrado do valor da tolerância de fabricação T com o quadrado do valor da precisão do método de análise adoptado E:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 Este procedimento deve ser aplicado para calcular a máxima diferença prevista no anexo III à presente portaria.
 
@@ -262,9 +270,9 @@ g) Resultados dos ensaios.
 
 Ministérios do Plano e da Administração do Território e da Indústria e Comércio
 
-**Assinada em 23 de Janeiro de 1987.**
+Assinada em 23 de Janeiro de 1987.
 
-**O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
 ## ANEXO I — Métodos de colheita de amostras para laboratório dos produtos têxteis com vista à verificação da composição
 
@@ -320,7 +328,7 @@ Toma-se um exemplar do produto e subdivide-se idealmente em cinco camadas de mas
 
 Número de unidades de amostragem do lote a colher ao acaso («n») em função da dimensão do lote («N»), obtida através da respectiva factura ou de qualquer outro documento de acompanhamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 ## ANEXO III
 
@@ -356,21 +364,21 @@ Produtos mistos, relativamente a fibras de efeito antiestático ... (mais ou men
 
 1.1 - Limite de tolerância para produtos puros:
 
-a) Calcula-se a média [([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf) das percentagens encontradas para a fibra declarada na etiqueta, na marca ou nos documentos de acompanhamento como «100%» ou «puro»:
+a) Calcula-se a média [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf) das percentagens encontradas para a fibra declarada na etiqueta, na marca ou nos documentos de acompanhamento como «100%» ou «puro»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
-b) Calcula-se a amplitude média [([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf) dos subgrupos. Cada subgrupo é formado por cinco medidas, salvo quando as amostras para laboratório forem de dimensão 3, 4 ou 7; neste caso, o número de medidas do subgrupo coincide com a dimensão da amostra para laboratório.
+b) Calcula-se a amplitude média [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf) dos subgrupos. Cada subgrupo é formado por cinco medidas, salvo quando as amostras para laboratório forem de dimensão 3, 4 ou 7; neste caso, o número de medidas do subgrupo coincide com a dimensão da amostra para laboratório.
 
-No cálculo de [([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf) deve ser mantida a ordem pela qual foram obtidas as medidas. Os subgrupos serão formados por medidas consecutivas, devendo calcular-se a amplitude A de cada subgrupo:
+No cálculo de [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf) deve ser mantida a ordem pela qual foram obtidas as medidas. Os subgrupos serão formados por medidas consecutivas, devendo calcular-se a amplitude A de cada subgrupo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 c) Da tabela 1 deste anexo tira-se o factor de correcção c, relativo à dimensão da amostra para laboratório n;
 
 d) Calcula-se o índice de qualidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 e) Avalia-se, em função de Q(índice i) e da dimensão da amostra para laboratório, a percentagem de unidades de amostragem do lote não conformes p(índice i), abaixo do limite inferior da tolerância admitida para a média do lote, usando a tabela 2 deste anexo;
 
@@ -380,19 +388,19 @@ g) Um lote satisfaz o critério de aceitação quando p(índice i) =< M. Um lote
 
 1.2 - Limite de tolerância para produtos mistos:
 
-a) Calcula-se a média [([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf) das percentagens encontradas para a fibra que mais se afasta do valor declarado:
+a) Calcula-se a média [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf) das percentagens encontradas para a fibra que mais se afasta do valor declarado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
-b) Calcula-se a amplitude média [([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf) dos subgrupos procedendo como na alínea b) do n.º 1.1:
+b) Calcula-se a amplitude média [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf) dos subgrupos procedendo como na alínea b) do n.º 1.1:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 c) Da tabela 1 deste anexo tira-se o factor de correcção c, relativo à dimensão da amostra para laboratório n;
 
 d) Calculam-se os índices de qualidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 e) A partir de Q(índice s) e Q(índice i) e da dimensão da amostra para laboratório n estimam-se as percentagem de unidades de amostragem do lote não conformes, respectivamente acima de T(índice s) e abaixo de T(índice i), usando a tabela 2 deste anexo;
 
@@ -416,15 +424,15 @@ Suponha-se que o laboratório analisou dez espécimes, cada um deles colhido de 
 
 99-98-98-99-98 (A(índice 2) = 99-98 = 1)
 
-A tolerância global para a composição fibrosa média da partida ou do lote admitida para este exemplo (n.º 22.º da presente portaria) é de [([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+A tolerância global para a composição fibrosa média da partida ou do lote admitida para este exemplo (n.º 22.º da presente portaria) é de [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 O limite inferior de tolerância admitido para a média do lote é, portanto, 100 - 2,24 = 97,76, o qual é arredondado para 97,8.
 
-Analogamente deve calcular-se o limite inferior previsto para uma única unidade de amostragem do lote e que para este exemplo é [([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+Analogamente deve calcular-se o limite inferior previsto para uma única unidade de amostragem do lote e que para este exemplo é [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 Dado que todos os valores encontrados são superiores a este limite inferior (100 - 3,16 = 96,84), devem os mesmos ser tratados estatisticamente, para se decidir sobre a conformidade ou não conformidade da composição encontrada relativamente à composição declarada, procedendo, para o efeito, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 Decisão: a composição fibrosa média da partida ou do lote não satisfaz o critério de aceitação, já que p(índice i) é superior a M.
 
@@ -438,7 +446,7 @@ Suponha-se que o laboratório analisou dez espécimes, cada um deles colhido de 
 
 63-63-62-62-64 (A(índice 2) = 64-62 = 2).
 
-A tolerância global (n.º 22.º da presente portaria) admitida para este exemplo é [([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+A tolerância global (n.º 22.º da presente portaria) admitida para este exemplo é [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 Os limites de tolerância admitidos para o poliéster são, portanto:
 
@@ -446,26 +454,26 @@ Limite superior = 65 + 3,16 = 68,16 (arredondamento para 68,2);
 
 Limite inferior = 65 - 3,16 = 61,84 (arredondamento para 61,8).
 
-Analogamente deve calcular-se o limite inferior de tolerância previsto para uma única unidade de amostragem do lote e que, no exemplo em consideração, é [([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+Analogamente deve calcular-se o limite inferior de tolerância previsto para uma única unidade de amostragem do lote e que, no exemplo em consideração, é [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 Dado que todos os valores encontrados são superiores ao valor correspondente a este limite inferior (65 - 5,10 = 59,9), devem os mesmos ser tratados estatisticamente, para se decidir sobre a conformidade ou não conformidade da composição encontrada relativamente à composição declarada, procedendo como se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 Decisão: a composição fibrosa média do lote não satisfaz o critério de aceitação, já que p e superior a M.
 
 Símbolos termos a definições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 TABELA 1
 
 Factor «c» e percentagem máxima admitida de unidades de amostragem do lote não conformes («M») em função da dimensão da amostra para laboratório («n»).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
 
 TABELA 2
 
 Tabela para encontrar a percentagem de unidades de amostragem do lote não conformes («p(índice s); p(índice i)») em função da dimensão da amostra para laboratório «n» e do índice de qualidade («Q(índice s); Q(índice i)»).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07320740.pdf)

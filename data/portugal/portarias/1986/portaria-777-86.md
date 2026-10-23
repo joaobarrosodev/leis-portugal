@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/777-1986-214553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c54994cf94cc5c845cb595da639eca4d3e50830f88c9556b2dfb295a3d4923e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8046d2635caef210fbab08be312464ee9682f11cde1e1f5746415b1139ba496a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Matadouro
+- Taxa
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:615826:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:202023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661480:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:615826:por
+  label: "Revogada pela PORT.297/89.19.04.1989.MAPA, DR.IS [91] de 19.04.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/297-1989-615826
+  date: '1989-04-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:58:49Z'
   warnings: []
   errors: []
 ---
@@ -111,15 +140,15 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Alimen
 
 Secretarias de Estado da Alimentação e do Comércio Interno.
 
-**Assinada em 15 de Dezembro de 1986.**
+Assinada em 15 de Dezembro de 1986.
 
-**O Secretário de Estado da Alimentação, António Amaro de Matos. - O Secretário de Estado do Comércio Interno, Jorge Manuel Águas da Ponte Silva Marques.**
+O Secretário de Estado da Alimentação, António Amaro de Matos. - O Secretário de Estado do Comércio Interno, Jorge Manuel Águas da Ponte Silva Marques.
 
 Tabela de custos
 
 I - Dos serviços prestados nos matadouros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf)
 
 Na área de influência do matadouro estas taxas são integralmente cobradas sempre que este tenha possibilidade de efectuar todos os serviços.
 
@@ -159,11 +188,11 @@ II - Dos abates de urgência e entrada fora do horário normal
 
 3 - Abates de urgência de bovinos, equídeos, ovinos e caprinos e preparação das respectivas carcaças, por quilograma de carcaça:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf)
 
 4 - Abates de urgência de suínos e preparação das respectivas carcaças, por quilograma de carcaça:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf)
 
 III - Do transporte extraordinário de carnes
 
@@ -195,7 +224,7 @@ Nota. - A cobrar quando efectuado fora da programação normal dos serviços de 
 
 IV - Da armazenagem de peles e couros durante o 2.º mês após o abate (ver nota a) (ver nota b)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30000/38643866.pdf)
 
 (nota a) Findo o período de quatro quinzenas após o abate, a Junta Nacional dos Produtos Pecuários reserva-se o direito de promover a venda de couros e peles que não tenham sido retirados, deduzidos do produto da venda e os custos de armazenagem, acrescidos de despesas da venda, fixadas a 3% do valor das peles e couros transaccionados.
 

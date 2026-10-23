@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/04500/08050806.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/120-1987-662706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T09:00:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb5890f87c9ad9d36f1f0e30de0c28d9a70ec4b9c397cb2d4fdcffceff72732f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 089518e00d9c4712f645e6e7561d015df5429cf6e9c1b92d752557b4937fa87c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:00:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação do Pessoal
+- Pessoal Técnico de Diagnóstico e Terapêutica
 relationships:
 - type: amended_by
   target: pt:dre:661768:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:357159:por
+  label: Rectificada pela DECL.DD852.25.02.1987.PCM, DR.IS [50]Supl de 28.02.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-357159
+  date: '1987-02-25'
+- type: repealed_by
+  target: pt:dre:661768:por
+  label: "Revogada pelo DEC LEI.564/99.1999.12.21.MS DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/564-1999-661768
+  date: '1999-12-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:00:09Z'
   warnings: []
   errors: []
 ---
@@ -149,6 +169,6 @@ Entrada em vigor
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Dezembro de 1986.**
+Assinada em 30 de Dezembro de 1986.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.

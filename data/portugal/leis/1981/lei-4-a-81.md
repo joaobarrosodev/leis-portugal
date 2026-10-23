@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 103/1981, 1º Suplemento, Série I de 1981-05-06
   number: '103'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1064-(1) a 1064-(103)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf
 entry_into_force_dates: []
@@ -46,36 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/lei/4-a-1981-423045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:53:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84a49be7bc491ad99fe47e2ca0dd866045b3ebc01815ab74afa66ffc52c9b04a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a858172550eb62b96fc10dbfa79c31da96fd5e21c6413b0fd9b6a2687310b771
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:53:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Grandes Opções do Plano
+- Plano Económico
+relationships:
+- type: cites
+  target: pt:dre:461593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:53:55Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +132,17 @@ A Assembleia da República decreta, nos termos do n.º 1 do artigo 94.º, da al�
 
 Aprovada em 25 de Março de 1981.
 
-**O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.
 
-**Promulgada em 28 de Abril de 1981.**
+Promulgada em 28 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 ANEXOS
 
-# PARTE I — O quadro envolvente
+## PARTE I — O quadro envolvente
 
 ### CAPÍTULO 1.º — Economia internacional
 
@@ -130,13 +164,13 @@ QUADRO I
 
 Indicadores macroeconómicos da zona OCDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 1
 
 PIB - OCDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Tal como se infere do quadro, o crescimento do PIB dos países da zona da OCDE entre 1969 e 1979 processou-se a uma taxa inferior (-1,4%) à do período 1959-1969. A comparação dos períodos supra-mencionados, no que se refere à taxa da inflação, permite verificar que a taxa média no período 1969-1979 foi quase três vezes superior à do período 1959-1969.
 
@@ -148,13 +182,13 @@ Crescimento 1969-1979 - Projecção e resultados em sete grandes países da OCDE
 
 (Taxa de variação média anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 2
 
 PIB - OCDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 3
 
@@ -162,7 +196,7 @@ COMÉRCIO MUNDIAL
 
 Preços constantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 As projecções referidas foram elaboradas tomando por base as seguintes hipóteses:
 
@@ -220,13 +254,13 @@ GRÁFICO 4
 
 Preço do petróleo e matérias-primas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 5
 
 Balança de transacções correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 O défice originado pelo aumento do preço do petróleo não só não é identicamente partilhado (porque há países que beneficiam de um aumento das exportações) como não é identicamente financiado. Para os países menos desenvolvidos resta a limitação das importações e o recurso à desvalorização como modo de reequilíbrio externo. Em contrapartida, os países industrializados têm procurado deslocar o défice para outros ou preservar a margem conferida pelo excedente já alcançado. A resultante final tende a ser depressiva e está expressa na desaceleração do comércio mundial e no reavivar de práticas, directas e indirectas, de proteccionismo.
 
@@ -258,7 +292,7 @@ QUADRO III
 
 OCDE - Sete principais países (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 (nota *) EUA, Japão, RFA, França, Reino Unido, Itália e Canadá.
 
@@ -282,7 +316,7 @@ QUADRO IV
 
 Taxas de crescimento anual das importações e exportações de bens e serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Informações divulgadas pela ONU deixam antever a possibilidade de o comércio mundial poder vir a ser restringido através de um reforço de medidas proteccionistas de natureza predominantemente não tarifária. Essa possibilidade é encarada na sequência dos défices das balanças de transacções correntes que deverão ocorrer nos países ocidentais mais desenvolvidos pelo menos até final de 1982.
 
@@ -290,7 +324,7 @@ GRÁFICO 6
 
 Crescimento do PIB real na OCDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 ### CAPÍTULO 2.º — Portugal - Principais indicadores
 
@@ -312,19 +346,19 @@ Ritmos médios de crescimento do produto (PIB(índice cf)):
 
 QUADRO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO VI
 
 Ritmos de crescimento do produto sectorial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO VII
 
 Estrutura média do produto sectorial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 O produto interno bruto sofreu duas evoluções distintas durante o período de 1969-1979. Com efeito, no 1.º quinquénio, a taxa de crescimento média anual situou-se pelos 7,8%, enquanto a partir de 1974 desacelerou para menos de 4%, mesmo assim só explicável pelo empolamento do sector da Administração Pública que desde então se verificou. Esta desaceleração, em grau maior ou menor comum a toda a Europa, resultou fundamentalmente da crise petrolífera de 1973-1974 e da consequente perda das razões de troca com o exterior, que, além do impacte negativo imediato, levou posteriormente, no período de 1977-1979, à necessidade de aplicar uma política económica mais restritiva, de modo a poder situar o défice da balança de transacções correntes em níveis financiáveis. A evolução global do PIB foi entretanto resultante de evoluções sectoriais diferentes. Assim, o sector da agricultura e pesca, que já tinha sofrido um decréscimo em 1968-4973, tomou a descer entre 1974-1979, com uma quebra anual de 2,3%, Se se considerar que durante este período a população cresceu substancialmente por virtude do regresso dos refugiados das ex-colónias e da redução da emigração, não é de admirar que o défice de bens alimentares venha constituindo, em termos acrescidos, um peso substancial na balança comercial, a juntar às importações de energia.
 
@@ -388,33 +422,33 @@ QUADRO VIII
 
 Despesa interna
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO IX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 7
 
 Taxas de crescimento do PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 8
 
 Distribuição sectorial do produto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 9
 
 Taxa de crescimento da FBCF
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 FBCF/PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 2.3 - Emprego
 
@@ -428,7 +462,7 @@ QUADRO X
 
 Evolução do emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Segundo elementos do INE, a população residente no nosso país terá tido em 1980 (1.º semestre) uma evolução positiva de cerca de 0,6%, correspondendo a um acréscimo em valor absoluto de 55000 indivíduos (ver nota 1). Mesmo assim, os elementos estatísticos mostram que terá havido uma corrente emigratória de cerca de 15000 pessoas (apenas nos três primeiros trimestres).
 
@@ -444,7 +478,7 @@ QUADRO XI
 
 Emprego segundo o situação na profissão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 A nível sectorial, o crescimento do emprego ficou a dever-se principalmente à construção (+14,5%), aos serviços de educação (+8,5%) e aos outros serviços (+8,9%). Há ainda a referir a indústria transformadora (+1,2%), que, no entanto, apresenta uma evolução menos favorável que em 1979, e o comércio, restaurantes e hotéis (+2,3%).
 
@@ -456,7 +490,7 @@ QUADRO XII
 
 Estrutura do emprego por sectores de actividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Os índices de emprego do MT (ver nota 1) apresentam uma evolução menos favorável, mas não muito contraditória, revelando um crescimento de 1,2% entre Junho de 1980 e o período homólogo de 1979 (total sem agricultura e sem serviços públicos).
 
@@ -468,7 +502,7 @@ QUADRO XIII
 
 Decomposição do desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Com efeito, a taxa de desemprego juvenil apresenta uma certa redução (passa de 18,4% no 1.º semestre de 1979 para 16,7% no 1.º semestre de 1980), embora no conjunto do desemprego a parcela dos jovens desempregados continue em níveis bastante elevados:
 
@@ -476,7 +510,7 @@ QUADRO XIV
 
 Em percentagem do total do desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 É também de salientar o agravamento da parcela de desemprego feminino, verificando-se em 1980 que do total de desempregados 68% são mulheres:
 
@@ -484,13 +518,13 @@ QUADRO XV
 
 Percentagem do total do desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XVI
 
 Taxas de desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Relativamente às inscrições de desempregados na DSE do Ministério do Trabalho, verifica-se uma diminuição no ano de 1980. No entanto, essa desaceleração é, em parte, artificial dado se ter procedido a uma actualização de ficheiros desse serviço. Mesmo assim, e trabalhando com os dados corrigidos, em Junho de 1980 relativamente ao mês homólogo do ano anterior, o decréscimo de inscrições é de 1,1% e os elementos provisórios relativos aos meses seguintes revelam a continuação desse decréscimo.
 
@@ -502,31 +536,31 @@ QUADRO XVII
 
 Indicadores do mercado de emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XVIII
 
 População activa com profissão por ramos de actividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XIX
 
 Movimento no mercado de emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 10
 
 Emprego por actividades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 11
 
 Taxa de desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 2.4 - Repartição do rendimento e salários
 
@@ -538,7 +572,7 @@ QUADRO XX
 
 Evolução de alguns indicadores da repartição do rendimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Pela análise do quadro XXI transparece o aumento progressivo de importância das rubricas «Rendimento da empresa e propriedade dos particulares», «Transferência das sociedades para os particulares» e «Poupança das sociedades» no rendimento nacional, que, no seu conjunto, terão passado de 31%, em 1976 para 44,1% em 1979. Em 1980, pelo contrário, espera-se a sua diminuição para cerca de 41,5%.
 
@@ -546,7 +580,7 @@ QUADRO XXI
 
 Distribuição do rendimento nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Importa, em todo o caso, reconhecer a precariedade da nossa base de análise, uma vez que o cálculo do peso daquelas três rubricas no rendimento nacional é feito por diferença, não havendo estimativas autónomas de qualquer delas.
 
@@ -558,7 +592,7 @@ Factores explicativos da evolução da repartição funcional do rendimento
 
 (Taxas de varolização anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Deste modo, parece concluir-se que a diminuição da parte da massa salarial no rendimento nacional desde 1976 até 1979 se ficou a dever fundamentalmente ao efeito congregado da manutenção do salário real em 1976 e da sua diminuição sucessiva até 1979 com o aumento da produtividade média do trabalho, uma vez que foi diminuto o diferencial entre a variação dos preços no consumidor e a dos preços implícitos no PIBcf.
 
@@ -572,13 +606,13 @@ QUADRO XXIII
 
 Rendimento disponível dos particulares e das empresas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 12
 
 Evolução da repartição funcional do rendimento (ver nota a) do salário real e da produtividade média do trabalho (em volume) (ver nota b)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 (nota a) Inclui contribuições patronais para a segurança social.
 
@@ -588,7 +622,7 @@ GRÁFICO 13
 
 Custos unitários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 2.5 - Inflação
 
@@ -600,19 +634,19 @@ De facto, a nossa inflação é explicada pela inadequação da oferta interna, 
 
 QUADRO XXIV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XXV
 
 No mesmo período, a OCDE revelava os seguintes valores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Analisando o comportamento das várias componentes do IPC ao longo destes últimos anos, verifica-se o seguinte:
 
 QUADRO XXVI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Observa-se, assim, que o grupo da alimentação e bebidas apresenta sempre, salvo em 1980, taxas de inflação superiores às médias anuais, constituindo afinal, considerando o seu elevado peso relativo no total, um factor influente no andamento geral dos preços. O menor crescimento dos preços daquele grupo em 1980 é explicado pelo ano agrícola particularmente favorável.
 
@@ -656,13 +690,13 @@ GRÁFICO 14
 
 IPC - Evolução mensal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 15
 
 Inflação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 2.6 - Balança de transacções correntes
 
@@ -694,7 +728,7 @@ Dívida externa portuguesa
 
 (Fim de periodo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Prevê-se que em 1980 a BTC venha a apresentar um défice da ordem dos 1040 milhões de dólares. Este valor representa um agravamento em relação ao ano transacto e uma inflexão da tendência de melhoria progressiva que se vinha verificando desde que o défice em 1977 tinha atingido 1,5 biliões de dólares (em 1978 o défice diminuiu para cerca de 826 milhões e em 1979 rondou os 34 milhões).
 
@@ -718,19 +752,19 @@ Balança de transacções correntes
 
 (Preços correntes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 16
 
 Balança de transacções correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 17
 
 Competitividade externa portuguesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XXIX
 
@@ -738,7 +772,7 @@ Estrutura das exportações
 
 (Por sectores)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XXX
 
@@ -746,31 +780,31 @@ Estrutura das exportações
 
 (Por destino)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 18
 
 Concentração das exportações portuguesas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 19
 
 Concentração das importações portuguesas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 20
 
 Importações e exportações de mercadorias (s/diamantes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 21
 
 Taxa de cobertura das importações pelas exportações (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 2.7 - Finanças públicas e dívida pública
 
@@ -792,13 +826,13 @@ Sector público administrativo
 
 (Indicadores orçamentais)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 22
 
 Evolução da dívida pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Os juros da dívida pública, por seu turno, passaram de 6% da despesa corrente em 1977 para 9,4% em 1979; paralelamente, o serviço da dívida, onde se incluem as amortizações e os juros e outros encargos, passou a representar cerca de 4% do PIBpm, depois de em 1977 se situar nos 2% e em 1975 pouco ultrapassar 1% do produto.
 
@@ -814,13 +848,13 @@ GRÁFICO 23
 
 Peso da dívida pública no produto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 24
 
 Reservas internacionais(ver nota *)/Dívida externa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 (nota *) Reservas de ouro avaliadas aos preços correntes do mercado Londres.
 
@@ -852,31 +886,31 @@ QUADRO XXXII
 
 Contas nacionais do sector público administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 25
 
 Peso do deficit orçamental no produto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 26
 
 Evolução das receitas e despesas públicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 27
 
 Nível de fiscalidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XXXIII
 
 Dívida pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 2.8 - Moeda e crédito
 
@@ -904,7 +938,7 @@ QUADRO XXXIV
 
 Síntese da situação monetária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XXXV
 
@@ -912,19 +946,19 @@ Distribuição sectorial do crédito
 
 Saldos em fim de mês
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XXXVI
 
 Estrutura do crédito interno
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 28
 
 Evolução dos factores de criação de meios de pagamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 2.9 - Financiamento da economia
 
@@ -946,7 +980,7 @@ QUADRO XXXVII
 
 Quadro do financiamento da economia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 2.10 - Energia
 
@@ -966,7 +1000,7 @@ Balanços energéticos simplificados
 
 Estrutura da oferta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XXXIX
 
@@ -974,7 +1008,7 @@ Balanços energéticos simplificados
 
 Estrutura da procura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 A posição do sector energético na economia nacional é ilustrada por algumas grandezas apresentadas no quadro XLI.
 
@@ -1006,13 +1040,13 @@ QUADRO XL
 
 Evolução do preço do petróleo bruto e principais indicadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XLI
 
 Alguns indicadores macroeconómicos do sector da energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 B) Indicadores de nível de vida
 
@@ -1032,31 +1066,31 @@ O número de fogos concluídos por 1000 habitantes apenas superava o da Itália;
 
 QUADRO XLII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 29
 
 PIB per capita (1978)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 30
 
 Consumo privado por habitante (1978)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 31
 
 Viaturas de turismo por 1000 habitantes (1977)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 32
 
 Telefones por 1000 habitantes (1977)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 A taxa de mortalidade infantil é ainda muito elevada em termos de país europeu, embora num período de dez anos (1965-1975) tenha descido quase para metade;
 
@@ -1066,7 +1100,7 @@ A esperança média de vida à nascença vem crescendo com regularidade, embora 
 
 QUADRO XLIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Existem assimetrias distritais e regionais consideráveis do ponto de vista da situação sanitária, estando Lisboa, Porto e Coimbra relativamente sobreequipados, designadamente em pessoal médico e paramédico;
 
@@ -1078,17 +1112,17 @@ GRÁFICO 33
 
 Taxa de mortalidade infantil (1978)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 34
 
 Esperança média de vida à nascença (1978)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XLIV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XLV
 
@@ -1096,7 +1130,7 @@ Taxas de repetência e abandono em 1977-1978
 
 (Continente e regiões autónomas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Aproveitamento escolar deficiente em todos os graus de ensino.
 
@@ -1114,23 +1148,23 @@ GRÁFICO 35
 
 Taxa de escolaridade (15-19 anos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 36
 
 Percentagem de estudantes no 3.º grau de ensino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO 37
 
 Distribuição das famílias por classes de rendimentos (1973)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO XLVI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 A indispensabilidade de prosseguir com empenho uma estratégia de desenvolvimento regional decorre não só da resposta que se pretende dar a legítimos anseios da população quanto à melhoria do seu estatuto social como do risco que se corre de, no decurso do processo de integração europeia, se criarem novos e potentes factores de atracção populacional que conduzam a um exacerbar dos desequilíbrios regionais.
 
@@ -1172,15 +1206,15 @@ QUADROS XLVII A L
 
 Indicadores demográficos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO LI
 
 População residente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
-# PARTE II — Os anos 1981-1984 para Portugal
+## PARTE II — Os anos 1981-1984 para Portugal
 
 ### CAPÍTULO 3.º — As Grandes Opções do Médio Prazo
 
@@ -1370,7 +1404,7 @@ QUADRO LII
 
 Despesa interna
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO LIII
 
@@ -1378,7 +1412,7 @@ Balança de transacções correntes
 
 (valores e preços correntes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Do lado da procura, haverá que salientar, também, o crescimento das exportações, que se admitiu poder ser da ordem dos 8% anuais. Em ambiente internacional desfavorável, tal crescimento será conseguido fundamentalmente à custa da diversificação dos sectores exportadores.
 
@@ -1446,7 +1480,7 @@ QUADRO LIV
 
 Dos instrumentos de orientação do investimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 O quadro LIV sintetiza, para cada um destes instrumentos, os principais efeitos esperados, para além do aumento do produto, que é comum a todos eles.
 
@@ -2276,7 +2310,7 @@ Pelos indicadores disponíveis e projecções efectuadas prevê-se, até final d
 
 QUADRO LV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Quanto às receitas turísticas, a previsão para o final do ano aponta para um montante de cerca de 55 milhões de contos, ou seja aproximadamente de +22% do que em 1979 (a preços correntes) e, portanto, para uma contribuição significativa do turismo para o equilíbrio da balança de pagamentos.
 
@@ -2630,7 +2664,7 @@ O sector da segurança social caracteriza-se pelos seguintes aspectos fundamenta
 
 Subsiste uma variedade de regimes contributivos e de esquemas de prestações de segurança social, nomeadamente os que respeitam a trabalhadores rurais, a trabalhadores independentes, serviço doméstico, desemprego, doenças profissionais;
 
-# Parte relevante da população residente não tem acesso ao esquema geral da segurança social, uns mantendo regimes privativos mais benéficos, outros integrando-se em esquemas especiais inferiores ao sistema geral, outros não tendo acesso à totalidade das prestações, pecuniárias ou em espécie;
+Parte relevante da população residente não tem acesso ao esquema geral da segurança social, uns mantendo regimes privativos mais benéficos, outros integrando-se em esquemas especiais inferiores ao sistema geral, outros não tendo acesso à totalidade das prestações, pecuniárias ou em espécie;
 
 É insuficiente a rede de equipamento e serviços sociais de apoio à população idosa, aos deficientes e à infância, além de que a rede existente evidencia flagrantes assimetrias regionais;
 
@@ -2912,7 +2946,7 @@ A associação de Macau ao processo de desenvolvimento do País, por iniciativa 
 
 Além de outros domínios em que se deve fortalecer a cooperação com o Governo de Macau, apoiando-o nos seus projectos próprios de desenvolvimento local e estreitando o intercâmbio com Macau, são de destacar os das relações económicas (fomentar as exportações de produtos portugueses com destino aos mercados do Extremo Oriente e Oceânia, incrementar o investimento de capitais portugueses no território, apoiar o seu desenvolvimento turístico), transportes e comunicações (prestar apoio técnico aos projectos existentes que visem o desenvolvimento acelerado da capacidade autónoma do território nas comunicações com o exterior, quer no referente às telecomunicações, quer no referente a estruturas portuárias e aeroportuárias) e reforma da Administração Pública (adoptar medidas que estimulem a deslocação para Macau e a prestação de serviços no território de técnicos e funcionários civis do Estado, revogando o Estatuto do Funcionalismo Ultramarino e estabelecendo nova legislação adequada àqueles objectivos, em articulação com os órgãos do Governo do território).
 
-# PARTE III — As grandes opções para 1981
+## PARTE III — As grandes opções para 1981
 
 ### CAPÍTULO 5.º — Os constrangimentos impostos pela conjuntura internacional
 
@@ -2936,7 +2970,7 @@ Produto nacional bruto
 
 Variações em cadeia (em termos anuais)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Em termos infra-anuais, refira-se que se espera que na segunda metade do ano o crescimento do produto nacional se faça a ritmo mais rápido do que na primeira, o que traduzirá uma certa recuperação da economia.
 
@@ -2974,7 +3008,7 @@ QUADRO LVII
 
 OCDE - Taxas de desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 5 - Após um máximo na taxa de inflação durante o 1.º semestre de 1980, assistiu-se a um movimento mais moderado dos preços no consumidor, tendência que se admite possa continuar em 1981.
 
@@ -2988,7 +3022,7 @@ QUADRO LVIII
 
 OCDE - Deflacionadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 6 - Na zona da OCDE as exportações deverão crescer a um ritmo de cerca de 3% em 1981, contra 6% em 1980. As importações deverão quase estagnar sensivelmente ao mesmo nível de 1981, prevendo-se apenas o ligeiro acréscimo de 0,5%. Esta contenção das importações derivará substancialmente da redução da procura de energia primária por parte dos países da OCDE.
 
@@ -2998,7 +3032,7 @@ QUADRO LIX
 
 OCDE - Comércio e balança de transacções correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 As previsões para 1981 admitem uma melhoria desta situação. O défice deverá reduzir-se para 45 biliões de dólares, o que se ficará a dever essencialmente à posição das balanças de transacções correntes dos sete países mais industrializados: estes beneficiarão de um maior crescimento das exportações para os países da OPEP (pressuposto das previsões OCDE/1981) e poderão conter mais as suas importações, dado o crescimento moderado da actividade económica.
 
@@ -3066,11 +3100,11 @@ b) O OGE participará com 59 milhões de contos no co-financiamento dos investim
 
 QUADRO LX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO LXI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Para além da comparticipação do OGE no financiamento do PIDDAC, há a referir as «acções comuns com a CEE», que representam um donativo de cerca de 2,3 milhões de contos, a aplicar em projectos dos sectores sociais (35%), dos sectores produtivos (20,8%), de transportes e comunicações (43,9%) e de investigação aplicada à agricultura e pescas (0,3%).
 
@@ -3080,7 +3114,7 @@ c) Em termos de OGE, o PIDDAC (Programa de Investimentos e Despesas de Desenvolv
 
 QUADRO LXII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 d) O investimento do sector público administrativo global, abrangendo a Administração Local e Central (incluindo nesta todos os fundos e serviços autónomos, considerados como empresas públicas na óptica das contas nacionais), deverá crescer em 1981 cerca de 9% em termos reais; em 1980 estima-se que o crescimento tenha sido de 5,0%.
 
@@ -3202,15 +3236,15 @@ QUADRO LXIII
 
 Despesa interna
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 QUADRO LXIV
 
 Balança de transacções correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
-## APÊNDICE
+APÊNDICE
 
 Uma perspectiva qualitativa da evolução da economia internacional a longo prazo
 
@@ -3226,7 +3260,7 @@ QUADRO N.º 1
 
 Recursos minerais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 b) Não se vislumbram limites de natureza tecnológica a um processo de crescimento económico satisfatório; e aqui merecem destaque as potencialidades nas áreas da electrónica, da exploração dos oceanos, das novas formas de energia (solar, fissão termonuclear, hidrogéneo) e da bioindústria.
 
@@ -3236,7 +3270,7 @@ QUADRO N.º 2
 
 Perspectivas mundiais 1970-2000
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 As previsões demográficas para os próximos vinte anos
 
@@ -3248,7 +3282,7 @@ GRÁFICO I
 
 População dos países desenvolvidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 As posições demográficas relativas serão profundamente modificadas entre 1970 e o ano 2000:
 
@@ -3256,7 +3290,7 @@ QUADRO N.º 3
 
 Posições no conjunto dos vinte países mais povoados do Mundo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 Para um horizonte de vinte anos, a população não pode ser considerada como uma variável exógena determinada por factores naturais ou biológicos, e como tal susceptível de projecções mecanicistas, mas, pelo contrário, evoluirá em relação estreita com as transformações sociais que se processarem. No entanto, não suscita grandes dúvidas a perspectiva de uma evolução demográfica divergente de acordo com o nível de desenvolvimento económico de cada bloco de países. Nos países em desenvolvimento, a política populacional constituirá um elemento vital em qualquer estratégia visando a elevação da produtividade, o que implicará uma transformação profunda da estrutura sectorial da mão-de-obra, através da elevação da sua mobilidade geográfica e profissional. Já para os países industrializados, a partir do fim do século XX, a estagnação demográfica poder-se-á reflectir negativamente no dinamismo do mercado interno (potenciando os investimentos no exterior) e no acréscimo dos custos sociais suportados com a terceira idade.
 
@@ -3280,7 +3314,7 @@ GRÁFICO II
 
 Aprovisionamento de energia (ver nota *) no ano 2000
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 (nota *) Em Mtep.
 
@@ -3288,7 +3322,7 @@ GRÁFICO III
 
 Consumo mundial de energia (ver nota *)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 (nota *) GTEC - gigatonelada = mil milhões de toneladas equivalentes a carvão
 
@@ -3296,7 +3330,7 @@ QUADRO N.º 4
 
 Balanço energético do mundo ocidental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 O petróleo conservará o seu lugar primordial, mantendo-se a tendência para a elevação do preço (controle da oferta pela OPEP), gerando dificuldades acrescidas aos PEVD importadores de petróleo (cuja capacidade tolerável de endividamento está quase atingida). Adquirirão importância crescente o carvão, a energia nuclear e a energia solar. Note-se que, para ser atingida a situação prevista para o ano 2000, será necessário multiplicar por 6 o transporte marítimo de carvão e por 25 a produção de energia nuclear.
 
@@ -3332,7 +3366,7 @@ QUADRO N.º 5
 
 Definição dos cenários «Interfuturs»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 A evolução mais plausível aponta para um crescimento moderado, o que realça a importância sobretudo dos cenários B2 e B3. Neste quadro, a taxa de crescimento média anual no período de 1975-2000 para os países da OCDE seria de 3,4%, 2,4% para os EUA, 6% para o Japão e 3,3% para a CEE. De 1975 a 2000, o rendimento mundial seria multiplicado por 3. A taxa de crescimento anual do comércio internacional seria da ordem dos 6,5%. A principal diferença entre os cenários B2 e B3 não reside na imagem quantificada, mas antes na questão que esta última levantaria no que respeita à coesão do mundo desenvolvido, pois os seus pólos principais apresentariam capacidades de ajustamento estrutural muito diferentes, derivadas das disparidades sociais e institucionais.
 
@@ -3364,12 +3398,12 @@ GRÁFICO IV
 
 Cenários interfuturs
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
 GRÁFICO V
 
 Evolução relativa da capitação do PIB 1975-2000 (cenário de crescimento moderado)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10301/00010103.pdf)
 
-**O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.

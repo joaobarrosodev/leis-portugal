@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/26300/34273432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/686-1986-220884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:56:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0490096242e2e863f64f1d1a4ec7ba8237969d748b54b6dd699522184f5e9a1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d60b157f8ab13c30321fb4f1c6ac3f33afd86aca064d783cbc18adf93449b2e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:56:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Curso de Estudos Superiores Especializados em Auditoria
+- Instituto Superior de Contabilidade e Administração
+- Numerus Clausus
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:691268:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494871:por
+  label: "Aditado o n.º 16.º-A, pela PORT.765/87.04.09.1987.MEC, DR.IS [203] de 04.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/765-1987-494871
+  date: '1987-09-04'
+- type: amended_by
+  target: pt:dre:376870:por
+  label: "Alterado o n.º 26.º, pela PORT.560/88.17.08.1988.ME, DR.IS [189] de 17.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/560-1988-376870
+  date: '1988-08-17'
+- type: amended_by
+  target: pt:dre:574081:por
+  label: "Aditado um nº 5º-A, pela PORT.697/90.20.08.1990.ME, DR.IS [191] de 20.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/697-1990-574081
+  date: '1990-08-20'
+- type: cites
+  target: pt:dre:141216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563655:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:56:13Z'
   warnings: []
   errors: []
 ---
@@ -469,11 +533,11 @@ A presente portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação e Cultura.
 
-**Assinada em 15 de Outubro de 1986.**
+Assinada em 15 de Outubro de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/26300/34273432.pdf))](https://files.diariodarepublica.pt/1s/1986/11/26300/34273432.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/26300/34273432.pdf)
 
 ## ANEXO II — Diploma
 

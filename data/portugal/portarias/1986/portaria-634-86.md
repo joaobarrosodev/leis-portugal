@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/634-1986-222234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:55:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 533fa8eb5698813bb1c6065876896b39b8bdc58139270fa8183e3fd92e08299d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 977751219c5523dc2b2396d27d151027562ec353f46f33660a8afc2a00c779ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:55:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Médico
+- Regulamento dos Concursos de Habilitação e de Provimento para Chefe de Serviço Hospitalar
 relationships:
 - type: amended_by
   target: pt:dre:551242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551242:por
+  label: "Substituído o modelo anexo ao presente diploma, pela PORT.1100/89.23.12.1989.MS, DR.IS [294] de 23.12.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1100-1989-551242
+  date: '1989-12-23'
+- type: cites
+  target: pt:dre:227047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:55:03Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +121,9 @@ No capítulo II, secção VII, onde se lê «56 - Os documentos que tenham instr
 
 Ministério da Saúde.
 
-**Assinada em 9 de Outubro de 1986.**
+Assinada em 9 de Outubro de 1986.
 
-**A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Modelo anexo ao artigo 24.º
 

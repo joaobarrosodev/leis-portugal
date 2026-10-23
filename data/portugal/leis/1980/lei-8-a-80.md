@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 121/1980, 2º Suplemento, Série I de 1980-05-26
   number: '121'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1180-(3) a 1180-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf
 entry_into_force_dates: []
@@ -46,40 +46,139 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:52:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3be24eada60e79f97e4aa4c2a8fb4da7f5f61272d74b6284c520016da55d488
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eacf5572f9689b38ab8ace95d75a7b262fa8d13386d90e2b844d5dccd44cb223
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:52:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orçamento Geral do Estado
 relationships:
 - type: amended_by
   target: pt:dre:667512:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667512:por
+  label: "Alteradas as verbas constantes dos anexos I, II e III e renovadas as autorizações legislativas concedidas pelos\
+    \ art. 15º, 22º, 25º, al. b), 27º, nº 1, 31º, 34º, nº 4, e 37º pela LEI.47/80.1980.12.09.AR, DR.IS [283]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/47-1980-667512
+  date: '1980-12-09'
+- type: cites
+  target: pt:dre:172901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632220:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:52:51Z'
   warnings: []
   errors: []
 ---
@@ -490,25 +589,25 @@ São isentos do imposto profissional os contribuintes cujo rendimento colectáve
 
 Aprovada em 6 de Maio de 1980.
 
-**O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.
 
-**Promulgada em 26 de Maio de 1980.**
+Promulgada em 26 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
 
 ## ANEXO I — Mapa das receitas do Estado, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
 
 ## ANEXO II — Mapa das despesas, por Ministérios e Secretarias de Estado, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
 
 ## ANEXO III — Mapa da classificação funcional das despesas públicas, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
 
 ## ANEXO IV — Linhas fundamentais do orçamento global da segurança social - 1980
 
@@ -544,7 +643,7 @@ Realçando apenas os acréscimos orçamentais de 1979 para 1980 superiores a 30%
 
 As despesas com administração irão ter um decréscimo real, pois cifrando-se em 8050 milhares de contos, apenas representam um acréscimo de 18,9% relativamente ao orçamento para 1979. Se referirmos os dados já conhecidos de execução do orçamento de despesas de administração, que se estimam para 1979 em 6828 milhares de contos, o acréscimo agora orçamentado para 1980 apenas significa 17,9%.
 
-**O Primeiro-Ministro, Francisco Sá Carneiro. - O Ministro das Finanças e do Plano, Aníbal Cavaco Silva. - O Ministro dos Assuntos Sociais, Morais Leitão.**
+O Primeiro-Ministro, Francisco Sá Carneiro. - O Ministro das Finanças e do Plano, Aníbal Cavaco Silva. - O Ministro dos Assuntos Sociais, Morais Leitão.
 
 Orçamento global da segurança social
 
@@ -554,7 +653,7 @@ RECEITAS
 
 (Em milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
 
 DESPESAS
 
@@ -562,7 +661,7 @@ DESPESAS
 
 (Em milhares de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
 
 ## ANEXO V — Índices ponderados a que se refere o n.º 8 do artigo 32.º da proposta de lei
 
@@ -1348,7 +1447,7 @@ S. Vicente ... 0,14713
 
 Total ... 2,42073
 
-**O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.
 
 Orçamento da Assembleia da República para 1980
 
@@ -1382,12 +1481,12 @@ ASSEMBLEIA DA REPÚBLICA
 
 Desenvolvimento do orçamento da receita para 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
 
 ASSEMBLEIA DA REPÚBLICA
 
 Desenvolvimento do orçamento da despesa para 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12102/00030024.pdf)
 
 Aprovado em 6 de Maio de 1980. - O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03800/06070607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/105-1987-662950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:59:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 485d9c98487fd8f52e39ebdb4f86f66a64b969f8323afdfa605d4bf9aea1f70e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb3e78255bf81e42a635b561dc6a0e8097c705341350f5d85527df882a23aa68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:59:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Interministerial para a Emigração e Comunidades Portuguesas
+- Emigrante
+- Ministério dos Negócios Estrangeiros
+- Orgânica
+- Regulamento Interno
 relationships:
 - type: amended_by
   target: pt:dre:575498:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:599517:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:575498:por
+  label: "Revogada pelo DEC LEI.218/90.03.07.1990.MNE, DR.IS [151] de 03.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-1990-575498
+  date: '1990-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:59:49Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +106,19 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeir
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 28 de Janeiro de 1987.**
+Assinada em 28 de Janeiro de 1987.
 
-**O Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.**
+O Ministro dos Negócios Estrangeiros, Pedro José Rodrigues Pires de Miranda.
 
 Regimento da Comissão Interministerial para a Emigração e Comunidades Portuguesas
 
-###### Artigo 1.º O presente regimento fixa as normas de funcionamento da Comissão Interministerial para a Emigração e Comunidades Portuguesas, abreviadamente designada por CIECP.
+Artigo 1.º O presente regimento fixa as normas de funcionamento da Comissão Interministerial para a Emigração e Comunidades Portuguesas, abreviadamente designada por CIECP.
 
-###### Art. 2.º A CIECP é um órgão de consulta e de articulação das actividades desenvolvidas na área da emigração e das comunidades portuguesas no estrangeiro.
+Art. 2.º A CIECP é um órgão de consulta e de articulação das actividades desenvolvidas na área da emigração e das comunidades portuguesas no estrangeiro.
 
-###### Art. 3.º A CIECP é presidida pelo Ministro dos Negócios Estrangeiros, que poderá delegar a competência no Secretário de Estado das Comunidades Portuguesas.
+Art. 3.º A CIECP é presidida pelo Ministro dos Negócios Estrangeiros, que poderá delegar a competência no Secretário de Estado das Comunidades Portuguesas.
 
-###### Art. 4.º - 1 - A CIECP reúne em plenário, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocada pelo presidente, podendo ainda reunir-se por secções especializadas, constituídas por despacho conjunto dos secretários de Estado competentes, que definirá também o respectivo modo de funcionamento.
+Art. 4.º - 1 - A CIECP reúne em plenário, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocada pelo presidente, podendo ainda reunir-se por secções especializadas, constituídas por despacho conjunto dos secretários de Estado competentes, que definirá também o respectivo modo de funcionamento.
 
 2 - Sempre que a CIECP se reúna por secções, a coordenação dos trabalhos será confiada ao representante do Ministério dos Negócios Estrangeiros ou, na presença de mais de um representante deste Ministério, pelo director-geral ou equiparado mais antigo.
 
@@ -114,14 +128,14 @@ Regimento da Comissão Interministerial para a Emigração e Comunidades Portugu
 
 5 - Quando a CIECP reúna por secções, aplicam-se as normas regulamentadoras dos trabalhos em plenário, sempre que o despacho de constituição não determine de outro modo.
 
-###### Art. 5.º Os membros da CIECP designados pelos ministros que tutelam os departamentos nela representados serão convocados pelo presidente, mediante notificação escrita.
+Art. 5.º Os membros da CIECP designados pelos ministros que tutelam os departamentos nela representados serão convocados pelo presidente, mediante notificação escrita.
 
-###### Art. 6.º A notificação referida no artigo anterior será acompanhada da indicação dos assuntos constantes da ordem de trabalhos, sem prejuízo da competência atribuída ao presidente de propor novos temas no decurso da reunião, por motivos fundamentados.
+Art. 6.º A notificação referida no artigo anterior será acompanhada da indicação dos assuntos constantes da ordem de trabalhos, sem prejuízo da competência atribuída ao presidente de propor novos temas no decurso da reunião, por motivos fundamentados.
 
-###### Art. 7.º Sempre que determinado assunto seja posto à votação pelo presidente, é reconhecido a este voto de qualidade.
+Art. 7.º Sempre que determinado assunto seja posto à votação pelo presidente, é reconhecido a este voto de qualidade.
 
-###### Art. 8.º O apoio administrativo e o secretariado da CIECP serão garantidos pelo Gabinete do Secretário de Estado das Comunidades Portuguesas.
+Art. 8.º O apoio administrativo e o secretariado da CIECP serão garantidos pelo Gabinete do Secretário de Estado das Comunidades Portuguesas.
 
-###### Art. 9.º Das reuniões da CIECP, quer em plenário, quer por secções, será lavrada acta, que deverá ser assinada pelo presidente e constará de livro próprio arquivado no Gabinete do Secretário de Estado das Comunidades Portuguesas.
+Art. 9.º Das reuniões da CIECP, quer em plenário, quer por secções, será lavrada acta, que deverá ser assinada pelo presidente e constará de livro próprio arquivado no Gabinete do Secretário de Estado das Comunidades Portuguesas.
 
-###### Art. 10.º Das deliberações da CIECP não será feita qualquer publicidade, excepto se tal for determinado pelo presidente, nos termos e condições por este estabelecidos.
+Art. 10.º Das deliberações da CIECP não será feita qualquer publicidade, excepto se tal for determinado pelo presidente, nos termos e condições por este estabelecidos.

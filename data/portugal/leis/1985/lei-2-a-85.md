@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 49/1985, 1º Suplemento, Série I de 1985-02-28
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 516-(1) a 516-(36)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/lei/2-a-1985-190670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:58:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e4a008aab533b616cb55ae2e0330f1f81d4d7bad1b9904567c1626f4d37bec7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da68936c6e94dd0b96dc19e4b7f0fc885354c1b2c1194e9c0f89ec9d7bd6559e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:58:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Grandes Opções do Plano
+- Plano Económico
+relationships:
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661719:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:58:59Z'
   warnings: []
   errors: []
 ---
@@ -108,17 +118,17 @@ Aprovada em 15 de Fevereiro de 1985.
 
 O Vice-Presidente da Assembleia da República, em exercício, Manuel Pereira.
 
-**Promulgada em 28 de Fevereiro de 1985.**
+Promulgada em 28 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendada em 28 de Fevereiro de 1985.**
+Referendada em 28 de Fevereiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-## Anexo a que se refere o artigo 1.º
+Anexo a que se refere o artigo 1.º
 
 As Grandes Opções do Plano para 1985
 
@@ -152,9 +162,9 @@ SUMÁRIO
 
 9 - Programa de investimentos da Administração Pública.
 
-## Anexo I - Programa integrados de desenvolvimento regional - Desdobramento por ministérios.
+Anexo I - Programa integrados de desenvolvimento regional - Desdobramento por ministérios.
 
-## Anexo II - Programas sectoriais - Desdobramento por sectores e programas.
+Anexo II - Programas sectoriais - Desdobramento por sectores e programas.
 
 1 - Enquadramento internacional
 
@@ -186,7 +196,7 @@ QUADRO 1
 
 Previsões da OCDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
 
 2 - Evolução da situação económica em 1984
 
@@ -232,19 +242,19 @@ Embora na produção agrícola se verifique uma evolução positiva real - quer 
 
 No que respeita ao emprego, os dados mais recentes indicam que a taxa de desemprego (ver nota 1) não sofreu agravamento significativo desde finais de 1983. Assim, e não pondo em causa o seu significado social, a política de ajustamento não terá tido repercussões excessivamente gravosas no nível do emprego.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
 
 QUADRO 2
 
 Despesa final
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
 
 QUADRO 3
 
 Balança de transacções correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
 
 (nota 1) O INE passou a apresentar 2 conceitos de desemprego (em sentido restrito e em sentido lato) consoante não se inclua ou se inclua o critério das diligências para encontrar emprego.
 
@@ -302,7 +312,7 @@ Despesa final
 
 (Milhões de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
 
 QUADRO 5
 
@@ -310,7 +320,7 @@ Balança de transacções correntes
 
 (Preços correntes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
 
 QUADRO 6
 
@@ -318,7 +328,7 @@ Formação bruta de capital fixo
 
 (Milhões de contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
 
 4 - Política de gestão conjuntural
 
@@ -880,14 +890,14 @@ PIDDAC 85
 
 Receitas gerais e créditos externos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
 
 ## ANEXO I — PIDDAC 85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
 
 ## ANEXO II — PIDDAC 85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04901/00010036.pdf)
 
 O Vice-Presidente da Assembleia da República, em exercício, Manuel Pereira.

@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/741-1986-221279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T08:57:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c6a12da5a88efe3915a00ecaf13e97f3b93a3b6b5bb82cac26765a5a4b2b1b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba2de146c5e79d2820255b9d71d4b06e3ea29f22c6adbdfa14e4f7524cb4696a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:57:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Segurança Social
+- Portalegre
+- Quadro de Pessoal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:688407:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:57:57Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +135,9 @@ h) Os serviços locais.
 
 2.º O artigo 12.º do Regulamento do Centro Regional de Segurança Social de Portalegre passa a ter a seguinte redacção:
 
-###### Artigo 12.º — Divisão de Apoio Técnico
+###### Artigo 12.º
+
+##### Divisão de Apoio Técnico
 
 Compete à Divisão de Apoio Técnico:
 
@@ -139,7 +153,9 @@ e) Realizar as acções necessárias ao recrutamento, integração, formação e
 
 3.º É aditado o artigo 12.º-A ao Regulamento do Centro:
 
-###### Artigo 12.º-A — Divisão de Organização e Informática
+###### Artigo 12.º-A
+
+##### Divisão de Organização e Informática
 
 Compete à Divisão de Organização e Informática:
 
@@ -255,10 +271,10 @@ l) Analisar os mapas de produção e de estatística do sistema, com vista a opt
 
 Secretarias de Estado do Orçamento e da Segurança Social.
 
-**Assinada em 29 de Setembro de 1986.**
+Assinada em 29 de Setembro de 1986.
 
-**O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.**
+O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.
 
 Mapa anexo à Portaria n.º 741/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/28200/36843686.pdf))](https://files.diariodarepublica.pt/1s/1986/12/28200/36843686.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/28200/36843686.pdf)

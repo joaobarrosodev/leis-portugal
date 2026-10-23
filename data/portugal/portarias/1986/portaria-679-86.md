@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/11/26200/34123412.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/679-1986-220888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:56:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9b720205695cfdfe5b10e338b3e78db90929bc407e437737393b493e227b148
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9644119b943ee430d0cc0e5545b1f194f05d43b77c556fa3f73c42cb516a9d75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:56:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Descrição de Funções
+- Gabinete de Estudos Económicos
+- Pessoal Técnico Auxiliar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:222775:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 479/87 DE 06-JUN DR.IS [130]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-06-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 944/87 DE 18-DEZ DR.IS [290]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-12-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 306/89 DE 22-ABR DR.IS [94]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-04-22'
+- type: amended_by
+  target: pt:dre:625619:por
+  label: "Alterado o quadro de pessoal do Gabinete de Estudos Económicos, constante do presente diploma, pela PORT.306/89.22.04.1989.MF,\
+    \ DR.IS [94] de 22.04.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/306-1989-625619
+  date: '1989-04-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 138/90 DE 18-OUT DR.IS [263] DE 14/NOV/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-11-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 1055/91 DE 17-OUT DR.IS-B [239]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-10-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 662/94 DE 19-JUL DR.IS-B [165]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-19'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527206:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222775:por
+  label: "Revogada pela PORT.945/98.1998.10.31.PCM DR.IS-B [252]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/945-1998-222775
+  date: '1998-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:56:03Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +149,11 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, ao abrigo
 
 Ministério das Finanças.
 
-**Assinada em 28 de Outubro de 1986.**
+Assinada em 28 de Outubro de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
-## ANEXO À PORTARIA N.º 679/86
+ANEXO À PORTARIA N.º 679/86
 
 Conteúdo funcional da carreira de técnico auxiliar
 
@@ -108,4 +161,4 @@ Compete aos técnicos auxiliares, utilizando processos manuais ou informatizados
 
 Mapa anexo à Portaria n.º 679/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/26200/34123412.pdf))](https://files.diariodarepublica.pt/1s/1986/11/26200/34123412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/26200/34123412.pdf)

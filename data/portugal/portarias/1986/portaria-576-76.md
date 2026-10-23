@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/576-1986-222602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:52:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa7b84a6f98001b2a27efb7d7c0f07d1bf6be89fe38b09d8f7515eaafd4efdc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f54cb45ec19a0deffb32d6704f68927e73da2b749d429a8d57d98a86f03825b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:52:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Técnico
+- Direcção Geral dos Serviços Tutelares de Menores
+- Diretor Geral
+relationships:
+- type: cites
+  target: pt:dre:462813:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477593:por
+  label: Rectificada pela DECL.DD4497.21.10.1986.PCM, DR.IS [252-3.º Supl] de 31.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-477593
+  date: '1986-10-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:52:33Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +121,6 @@ d) Quatro directores de estabelecimento.
 
 Ministério da Justiça.
 
-**Assinada em 5 de Setembro de 1986.**
+Assinada em 5 de Setembro de 1986.
 
 Pelo Ministro da Justiça, José Augusto Sacadura Garcia Marques, Secretário de Estado Adjunto do Ministro da Justiça.

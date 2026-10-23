@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/22700/28522852.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/571-1986-221727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:52:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a4c28e5d2fde917d5015ff08520c5ee7c39ab6290e04c50359df58d83e4b17f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9bd748e2afb6415feff2e4965df601aa6110fea8ab69abdef9c478693678c10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:52:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aparelho de Medição
+- Controlo Metrológico
+- Fiscalização
+- Instituto Português da Qualidade
+- Metrologia
+- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:693430:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:451387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:693430:por
+  label: Revogada pela PORT.17/91.09.01.1991.MIE, DR.IS-B [7] de 09.01.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-1991-693430
+  date: '1991-01-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:52:27Z'
   warnings: []
   errors: []
 ---
@@ -127,8 +142,8 @@ Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Comérci
 
 Ministério da Indústria e Comércio.
 
-**Assinada em 3 de Setembro de 1986.**
+Assinada em 3 de Setembro de 1986.
 
-**O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/22700/28522852.pdf))](https://files.diariodarepublica.pt/1s/1986/10/22700/28522852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22700/28522852.pdf)

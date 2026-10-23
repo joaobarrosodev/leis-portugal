@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/689-1986-220912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:56:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a823a277641a552d9015d22e34c970cd9994c93670510615514e1b4fabc47674
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6ccb5cf9523697bca6971c43ab72e302fc2f45f9e9c8ebc305f0207cb68e2e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:56:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério das Finanças
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:573129:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420436:por
+  label: "Alterado o quadro de pessoal, pela PORT.603/87.15.07.1987.MF, DR.IS [160] de 15.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/603-1987-420436
+  date: '1987-07-15'
+- type: amended_by
+  target: pt:dre:679816:por
+  label: "Alterado o quadro de pessoal pela PORT.367/93.01.04.1993.MF, DR.IS-B [77] de 01.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/367-1993-679816
+  date: '1993-04-01'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 580/93, PUBLICADA NO DR.IS-B, 132.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO PESSOAL, PELO DESPACHO NORMATIVO 303/93, DE 2 DE SETEMBRO, PUBLICADO NO DR.IS-B, 234.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-06'
+- type: amended_by
+  target: pt:dre:167811:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 1300/93, DE 27 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 300
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1300-1993-167811
+  date: '1993-12-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA SECRET&#193;RIA GERAL DO MINIST&#201;RIO DAS FINAN&#199;AS, PELO DESPACHO NORMATIVO,
+    14/94, DE 30 DE DEZEMBRO, PUBLICADO NO DR.IS-B, 14.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-01-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO PESSOAL, CONSTANTE DO MAPA ANEXO PELO DESPACHO NORMATIVO 604/94, DE 15 DE JULHO, PUBLICADO NO DR.IS-B,
+    187, DE 940813.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA ANEXO I, PELA PORT 1186/95 DE 28-SET DR.IS-B [225]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-28'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:627187:por
+  label: Rectificada pela DECL.DD4422.17.12.1986.PCM, DR.IS [300]6ºSupl de 31.12.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-627187
+  date: '1986-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:56:18Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +173,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, que o qua
 
 Ministério das Finanças.
 
-**Assinada em 29 de Outubro de 1986.**
+Assinada em 29 de Outubro de 1986.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
 
@@ -112,7 +181,7 @@ Secretaria-Geral
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/26600/34523454.pdf))](https://files.diariodarepublica.pt/1s/1986/11/26600/34523454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/26600/34523454.pdf)
 
 ## ANEXO
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06400/11031104.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-1987-662129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T09:01:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14870783077241a438d71c8408ede230e5b4433b2647156134e8d8f60cc31e8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59f2d7059c90f972667d8c18561f45c937b56362225285fbf9cc5487902db94d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:01:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deficiente
+- Educação Especial
+- Ensino Particular
+- Mensalidade
+- Segurança Social
+- Subsídio de Educação Especial
 relationships:
 - type: amended_by
   target: pt:dre:285289:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868932:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:285289:por
+  label: "Revogada pela PORT.247/88.1988.04.21.ME, DR.IS [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-1988-285289
+  date: '1988-04-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:01:50Z'
   warnings: []
   errors: []
 ---
@@ -184,6 +219,6 @@ A presente portaria produz efeitos a partir de 1 de Outubro de 1986.
 
 Secretarias de Estado do Ensino Básico e Secundário e da Segurança Social.
 
-**Assinada em 17 de Fevereiro de 1987.**
+Assinada em 17 de Fevereiro de 1987.
 
-**A Secretária de Estado do Ensino Básico e Secundário, Marília Dulce Coelho Pires Morgado Raimundo. - O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.**
+A Secretária de Estado do Ensino Básico e Secundário, Marília Dulce Coelho Pires Morgado Raimundo. - O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.

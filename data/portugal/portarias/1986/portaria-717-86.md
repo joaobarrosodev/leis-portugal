@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/717-1986-221366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:56:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b35001f28992131379d1edf76e53c4239aada6bbff4ffbaafb023b87c7a3c319
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0f4fdc9429a343a0eed0fc741163a6c0bc4c7dfe5a9d866a9299f9af2ec7733
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:56:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Urbano para Habitação
+- Renda Livre
+- Subsídio de Renda de CASA
+relationships:
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477638:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:627192:por
+  label: Rectificada pela DECL.DD4431.22.12.1986.PCM, DR.IS [300]6ºSupl de 31.12.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-627192
+  date: '1986-12-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:56:59Z'
   warnings: []
   errors: []
 ---
@@ -98,14 +122,14 @@ Manda o Governo da República Portuguesa, pelos Ministros das Obras Públicas, T
 
 Ministérios das Obras Públicas, Transportes e Comunicação e do Trabalho e Segurança Social.
 
-**Assinada em 14 de Novembro de 1986.**
+Assinada em 14 de Novembro de 1986.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Alves Elias da Costa, Secretário de Estado da Construção e Habitação. - Pelo Ministro do Trabalho e Segurança Social, José Nobre Pinto Sancho, Secretário de Estado da Segurança Social.
 
 ## ANEXO I — Tabelas do subsídio de renda para 1987
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/27400/35753586.pdf))](https://files.diariodarepublica.pt/1s/1986/11/27400/35753586.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/27400/35753586.pdf)
 
 ## ANEXO II — Tabela de rendas limite para 1987
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/27400/35753586.pdf))](https://files.diariodarepublica.pt/1s/1986/11/27400/35753586.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/27400/35753586.pdf)

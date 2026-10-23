@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 239/1986, 2º Suplemento, Série I de 1986-10-16
   number: '239'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3146-(44) a 3146-(44)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/23902/00440044.pdf
 entry_into_force_dates: []
@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/605-d-1986-570707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:53:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44989530e6be3e6f015aa3bbfd5db1eeebe9a8b4ba15b477e2f99eee63dcd074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50f12902769561ab858c4085363edf93d3bcf869697ccb72dbd69251c4676877
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:53:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Educação Musical
+- Ensino Básico
+- Ensino Superior
+- Numerus Clausus
+- Pessoal Docente
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623232:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:53:30Z'
   warnings: []
   errors: []
 ---
@@ -127,6 +149,6 @@ d) Prova de movimento e improvisação para avaliação das capacidades de expre
 
 Ministério da Educação e Cultura.
 
-**Assinada em 8 de Outubro de 1986.**
+Assinada em 8 de Outubro de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.

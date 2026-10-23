@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/703-1986-221495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:56:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f25a8752f24867932c53f1aeebb775cdb0f90e7b9378a71c69f6194221a824f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b6ad15f881c8ad8f1be6c56216ecccfe9e6b7bf9f44752da0b4cf800ca07591
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:56:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica Hospitalar
+- Hospital Geral de Santo António
+- Médico
+- Pessoal de Enfermagem
+- Pessoal de Saúde
+- Pessoal Dirigente
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:546255:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SANTO ANTÓNIO PELO CONSTANTE DO ANEXO A PORTARIA 1019/94, DE 22 DE\
+    \ NOVEMBRO, PUBLICADA NO DR.IS-B, 270.\0-B, 270."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-22'
+- type: cites
+  target: pt:dre:172149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:56:39Z'
   warnings: []
   errors: []
 ---
@@ -94,10 +133,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 30 de Outubro de 1986.**
+Assinada em 30 de Outubro de 1986.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal do Hospital Geral de Santo António
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/27000/35283529.pdf))](https://files.diariodarepublica.pt/1s/1986/11/27000/35283529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/27000/35283529.pdf)

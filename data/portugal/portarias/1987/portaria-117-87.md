@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/04400/07940795.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/117-1987-662685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T09:00:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd835ce3549bb4cdc10de488b89dff3a830255da7760850e7851c00c099135fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ecda2abf62b78cd1a7966a7cf530ae3934483dc4eb4a05602b3dbaef65e08ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:00:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centeio
+- Cereal
+- Cevada
+- Importação
+- Milho
+- Preço
+- Sorgo
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:495684:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222458:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:495684:por
+  label: "Revogada pela PORT.796/87.16.09.1987.MF, DR.IS [213] de 16.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/796-1987-495684
+  date: '1987-09-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:00:04Z'
   warnings: []
   errors: []
 ---
@@ -119,6 +144,6 @@ Outros cereais ... 46280$00
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 15 de Dezembro de 1996.**
+Assinada em 15 de Dezembro de 1996.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.

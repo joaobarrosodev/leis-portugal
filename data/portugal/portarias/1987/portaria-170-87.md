@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/05800/09960999.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/170-1987-662532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T09:01:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f7cafec0da984c9b5e2a13c8dcd1b6a3f9a0875f5da33102334e66c3d91a5f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2be44749c405ab42b919b8e17f0de189f547d6a6b1b94ae6772d6619205bf2d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:01:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- CEE
+- Financiamento
+- Indemnização Compensatória
+- Política Agrícola Comum
+- Região Agrária
+- Região Desfavorecida
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:372216:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:497397:por
+  label: "Aditada a listagem constante do quado I anexo pelo presente diploma, pela PORT.862/87.06.11.1987.MAPA, DR.IS [256]\
+    \ de 06.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/862-1987-497397
+  date: '1987-11-06'
+- type: repealed_by
+  target: pt:dre:372216:por
+  label: "Revogada pela PORT.377/88.11.06.1988.MAPA, DR.IS [134] de 11.06.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/377-1988-372216
+  date: '1988-06-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:01:19Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +125,10 @@ Nestes termos, ao abrigo do Regulamento (CEE) n.º [797/85](http://data.europa.e
 
 Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e Alimentação, que sejam definidas as seguintes zonas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/03/05800/09960999.pdf))](https://files.diariodarepublica.pt/1s/1987/03/05800/09960999.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/03/05800/09960999.pdf)
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 13 de Fevereiro de 1987.**
+Assinada em 13 de Fevereiro de 1987.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

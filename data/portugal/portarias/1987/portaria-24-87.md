@@ -49,36 +49,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24-1987-663510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T09:03:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3826486f37626a8deda2b8d108f44ff2e66d3e57c7d7303ee8962fd2233d3c57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a623ef042cc0814fdb191f97117ee9d4254adec935eb457f1b0d91efbc4ce8ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:03:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Apoio dos Estabelecimentos de Ensino Superior Universitário
+- Curso de Estudos Portugueses
+- Curso de Estudos Portugueses e Franceses
+- Curso de Línguas e Literaturas Modernas
+- Ensino Superior
+- Faculdade de Letras
+- Licenciatura
+- Madeira.região Autónoma
+- Plano de Estudos
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623232:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:03:10Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +131,6 @@ c) A disciplina de Latim II transita do 2.º para o 3.º ano.
 
 Ministério da Educação e Cultura.
 
-**Assinada em 3 de Dezembro de 1986.**
+Assinada em 3 de Dezembro de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.

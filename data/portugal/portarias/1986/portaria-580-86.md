@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/580-1986-222449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:52:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8f1a2765ae303c700707c9ff21889d86c0a53edfb0b113178150231a6b94cbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 655da27b2188008c05230b1245822c600cafca587e5e0e624099c26c73d34058
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:52:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação do Pessoal
+- CASA PIA de Lisboa
+- Pessoal Docente
+- Regulamento
+relationships:
+- type: corrected_by
+  target: pt:dre:627074:por
+  label: Rectificada pela DECL.DD4418.10.12.1986.PCM, DR.IS [300]6ºSupl de 31.12.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-627074
+  date: '1986-12-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:52:39Z'
   warnings: []
   errors: []
 ---
@@ -98,25 +107,25 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçam
 
 Secretarias de Estado do Orçamento e da Segurança Social.
 
-**Assinada em 9 de Setembro de 1986.**
+Assinada em 9 de Setembro de 1986.
 
-**O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.**
+O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.
 
 Regulamento da Classificação de Serviço dos Docentes da Casa Pia de Lisboa
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Artigo 1.º A classificação de serviço dos docentes da Casa Pia de Lisboa rege-se pelo presente Regulamento.
+Artigo 1.º A classificação de serviço dos docentes da Casa Pia de Lisboa rege-se pelo presente Regulamento.
 
-###### Art. 2.º A classificação de serviço terá as finalidades previstas nos artigos 3.º e 4.º do Regulamento da Classificação de Serviço na Função Pública, aprovado pelo Decreto Regulamentar n.º 44-B/83, de 1 de Junho, visando essencialmente a assiduidade, a competência e valorização profissional, a atitude educativa, a capacidade de trabalho em equipa, a responsabilidade, o espírito de iniciativa, a criatividade, a capacidade de análise crítica das situações educativas, as relações humanas no trabalho e a participação na vida da instituição.
+Art. 2.º A classificação de serviço terá as finalidades previstas nos artigos 3.º e 4.º do Regulamento da Classificação de Serviço na Função Pública, aprovado pelo Decreto Regulamentar n.º 44-B/83, de 1 de Junho, visando essencialmente a assiduidade, a competência e valorização profissional, a atitude educativa, a capacidade de trabalho em equipa, a responsabilidade, o espírito de iniciativa, a criatividade, a capacidade de análise crítica das situações educativas, as relações humanas no trabalho e a participação na vida da instituição.
 
-###### Art. 3.º A classificação de serviço prevista na presente portaria abrangerá os docentes de todos os ramos de ensino, incluindo a formação profissional e qualquer que seja o seu vínculo, que prestem serviço na Casa Pia de Lisboa.
+Art. 3.º A classificação de serviço prevista na presente portaria abrangerá os docentes de todos os ramos de ensino, incluindo a formação profissional e qualquer que seja o seu vínculo, que prestem serviço na Casa Pia de Lisboa.
 
-###### Art. 4.º - 1 - A classificação de serviço dos docentes exprime-se numa menção qualitativa obtida através de um sistema de notação baseado na apreciação quantificada do serviço prestado em relação a cada um dos factores definidos em ficha de avaliação.
+Art. 4.º - 1 - A classificação de serviço dos docentes exprime-se numa menção qualitativa obtida através de um sistema de notação baseado na apreciação quantificada do serviço prestado em relação a cada um dos factores definidos em ficha de avaliação.
 
 2 - Para efeitos do número anterior será utilizada a ficha de avaliação do modelo anexo ao presente Regulamento.
 
-###### Art. 5.º A classificação de serviço de cada docente, atribuída nos termos do n.º 1 do artigo anterior, deverá ser traduzida numa das seguintes menções qualitativas, de acordo com o intervalo de valores em que aquela se situa:
+Art. 5.º A classificação de serviço de cada docente, atribuída nos termos do n.º 1 do artigo anterior, deverá ser traduzida numa das seguintes menções qualitativas, de acordo com o intervalo de valores em que aquela se situa:
 
 Até 4,5 - Insuficiente;
 
@@ -126,37 +135,37 @@ Mais de 6,5 até 8,5 - Bom;
 
 Mais de 8,5 até 10 - Muito bom.
 
-###### Art. 6.º A classificação reporta-se ao ano lectivo anterior e deve ser atribuída até 20 de Julho de cada ano.
+Art. 6.º A classificação reporta-se ao ano lectivo anterior e deve ser atribuída até 20 de Julho de cada ano.
 
-###### Art. 7.º A classificação de serviço traduzida por menção qualitativa não inferior a Bom é obrigatoriamente considerada na contratação de docentes eventuais para o ano lectivo seguinte.
+Art. 7.º A classificação de serviço traduzida por menção qualitativa não inferior a Bom é obrigatoriamente considerada na contratação de docentes eventuais para o ano lectivo seguinte.
 
-###### Art. 8.º - 1 - A competência para classificar o serviço docente pertence, em primeiro nível, ao director e ao coordenador pedagógico da secção onde o docente presta serviço e, em segundo nível, ao adjunto do provedor para os serviços técnicos.
+Art. 8.º - 1 - A competência para classificar o serviço docente pertence, em primeiro nível, ao director e ao coordenador pedagógico da secção onde o docente presta serviço e, em segundo nível, ao adjunto do provedor para os serviços técnicos.
 
 2 - No impedimento ou ausência legal dos avaliadores a classificação deverá ser atribuída pelos seus substitutos.
 
-###### Art. 9.º - 1 - A competência para homologar as classificações de serviço dos docentes pertence ao provedor da Casa Pia de Lisboa.
+Art. 9.º - 1 - A competência para homologar as classificações de serviço dos docentes pertence ao provedor da Casa Pia de Lisboa.
 
 2 - Na sua ausência ou impedimento a homologação será da competência do seu substituto legal.
 
-###### Art. 10.º - 1 - O processo da classificação de serviço terá carácter confidencial, devendo as fichas de classificação ser arquivadas no processo individual respectivo.
+Art. 10.º - 1 - O processo da classificação de serviço terá carácter confidencial, devendo as fichas de classificação ser arquivadas no processo individual respectivo.
 
 2 - Todos os intervenientes no processo da classificação, mesmo em reclamação, ficam obrigados ao dever de sigilo.
 
 3 - O docente classificado pode requerer certidões das classificações que lhe são atribuídas, mediante requerimento dirigido ao provedor.
 
-###### Art. 11.º A ficha de avaliação, uma vez preenchida pelos avaliadores, será dada a conhecer ao interessado.
+Art. 11.º A ficha de avaliação, uma vez preenchida pelos avaliadores, será dada a conhecer ao interessado.
 
-###### Art. 12.º - 1 - O interessado, após tomar conhecimento da ficha de avaliação, pode apresentar aos avaliadores, no prazo de cinco dias úteis, reclamação por escrito, com indicação dos factos que julgue susceptíveis de fundamentarem a revisão da classificação atribuída, não constituindo fundamento atendível a invocação de meras diferenças de classificação com base na comparação entre classificações atribuídas a outros docentes.
+Art. 12.º - 1 - O interessado, após tomar conhecimento da ficha de avaliação, pode apresentar aos avaliadores, no prazo de cinco dias úteis, reclamação por escrito, com indicação dos factos que julgue susceptíveis de fundamentarem a revisão da classificação atribuída, não constituindo fundamento atendível a invocação de meras diferenças de classificação com base na comparação entre classificações atribuídas a outros docentes.
 
 2 - As reclamações referidas no número anterior serão objecto de apreciação pelos respectivos avaliadores, que proferirão decisão fundamentada, a qual será dada a conhecer ao interessado, por escrito, no prazo de cinco dias úteis, contados do recebimento da reclamação.
 
-###### Art. 13.º - 1 - O avaliado, após tomar conhecimento da decisão, pode requerer nos cinco dias úteis seguintes ao provedor da Casa Pia de Lisboa que o processo seja submetido a parecer da comissão paritária, constituída nos termos do artigo seguinte.
+Art. 13.º - 1 - O avaliado, após tomar conhecimento da decisão, pode requerer nos cinco dias úteis seguintes ao provedor da Casa Pia de Lisboa que o processo seja submetido a parecer da comissão paritária, constituída nos termos do artigo seguinte.
 
 2 - O requerimento deverá ser fundamentado, contendo obrigatoriamente os dados concretos que permitam inferir ter havido factores menos correctos na avaliação.
 
 3 - A audição da comissão paritária é obrigatória.
 
-###### Art. 14.º - 1 - A comissão paritária será constituída por quatro vogais, sendo dois representantes da Provedoria e dois representantes dos avaliados.
+Art. 14.º - 1 - A comissão paritária será constituída por quatro vogais, sendo dois representantes da Provedoria e dois representantes dos avaliados.
 
 2 - Os vogais representantes da Provedoria serão designados pelo provedor, em número de quatro, sendo dois efectivos e dois suplentes.
 
@@ -168,10 +177,10 @@ Mais de 8,5 até 10 - Muito bom.
 
 6 - A eleição dos vogais representantes dos avaliados e a designação dos vogais representantes da Provedoria devem ser levadas a efeito até 30 de Setembro de cada ano civil.
 
-###### Art. 15.º As classificações devem ser homologadas até 15 de Setembro de cada ano civil.
+Art. 15.º As classificações devem ser homologadas até 15 de Setembro de cada ano civil.
 
-###### Art. 16.º Das classificações homologadas cabe, desde logo, o direito de interposição de recurso contencioso.
+Art. 16.º Das classificações homologadas cabe, desde logo, o direito de interposição de recurso contencioso.
 
-###### Art. 17.º No primeiro ano de vigência deste diploma as designações e eleições dos vogais da comissão paritária, se não puderem ser observados os prazos constantes no n.º 6 do artigo 14.º, serão feitas no prazo de 30 dias a contar da publicação do diploma no Diário da República.
+Art. 17.º No primeiro ano de vigência deste diploma as designações e eleições dos vogais da comissão paritária, se não puderem ser observados os prazos constantes no n.º 6 do artigo 14.º, serão feitas no prazo de 30 dias a contar da publicação do diploma no Diário da República.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23300/30043010.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23300/30043010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23300/30043010.pdf)

@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/766-1986-210601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:58:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 253c4be27ffd030de4a863a29b5a494a03cbd1a52d76134f7b60b274676432b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0dfa49d11dde6e3fa86be3e417dd7ff31c4bc7b36f2cd64cbbc96387b288900
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:58:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Doença Infecciosa
+- Política de Saúde
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:285563:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662495:por
+  label: "Incluída a parotidite epidémica na tabela de doenças de declaração obrigatória pela PORT.148/87.04.03.1987.MS, DR.IS\
+    \ [52] de 04.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-1987-662495
+  date: '1987-03-04'
+- type: amended_by
+  target: pt:dre:283940:por
+  label: "Incluídas a tuberculose miliar e as hepatites por vírus especificados e não especificados na tabela de doenças de\
+    \ declaração obrigatória, aprovada no presente diploma, com as alterações constantes da Port 148/87 de 04-Mar, pela PORT.40/93.11.01.1993.MS,\
+    \ DR.IS-B [8] de 11.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/40-1993-283940
+  date: '1993-01-11'
+- type: amended_by
+  target: pt:dre:285563:por
+  label: "Substituída a tabela aprovada pelo presente diploma, com as alterações constantes das Port 148/87 de 04-Mar e 40/93\
+    \ de 11-Jan, pela PORT.1071/98.1998.12.31.MS, DR.IS-B [301]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1071-1998-285563
+  date: '1998-12-31'
+- type: cites
+  target: pt:dre:147405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654675:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:58:34Z'
   warnings: []
   errors: []
 ---
@@ -181,6 +219,6 @@ A presente tabela entra em vigor em 1 de Janeiro de 1987 e substitui a que foi p
 
 Ministério da Saúde.
 
-**Assinada em 19 de Novembro de 1986.**
+Assinada em 19 de Novembro de 1986.
 
-**A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.

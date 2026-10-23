@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 50/1986, 1º Suplemento, Série I de 1986-03-01
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 516-(18) a 516-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05001/00180019.pdf
 entry_into_force_dates: []
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/63-j-1986-245106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:54:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9243497e765f97e0594c2c1765b425170805205b474d390338b60511c75c843
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd78dad4111d6bb6efb1122939e7235dfbf8fc95d2c2cd4fc2efed9c3f7b716a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:54:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ave de Capoeira
+- Carne
+- Carne de Suíno
+- CEE
+- Contingentação
+- Fruto
+- Importação
+- Lacticínios
+- Leite
+- OVO
+- Produto Agrícola
+- Produto Hortícola
+- Tratado de Adesão CE
+- Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:214552:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228613:por
+  label: "Alterados os nº 1 do nº 3º e nº 2 do nº 4º, pela Port.329/86.1986.06.30.MAPA, DR.IS [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/329-1986-228613
+  date: '1986-06-30'
+- type: amended_by
+  target: pt:dre:214005:por
+  label: "Alterados os nºs 4º, 5º, 7º, 8º e 13º e o Anexo, e revogado o nº 6º, pela PORT.426-B/86.1986.08.06.MAPA, DR.IS [179]Supl\
+    \ de 6/Ago/1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/426-b-1986-214005
+  date: '1986-08-06'
+- type: amended_by
+  target: pt:dre:214552:por
+  label: "Alterado o nº 3 pela PORT.776/86.1986.12.31.MAPA, DR.IS [300] de 31/Dez/1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/776-1986-214552
+  date: '1986-12-31'
+- type: cites
+  target: pt:dre:546419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546470:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:54:54Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +184,7 @@ Manda o Governo da República Portuguesa, pelos Ministros da Agricultura, Pescas
 
 Ministérios da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 28 de Fevereiro de 1986.**
+Assinada em 28 de Fevereiro de 1986.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 

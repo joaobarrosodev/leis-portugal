@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/778-1986-214554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f29074f05b86e0c045f1d13ca1c6ec1a5028b06737fcccacdd5b21c6530c53dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f23d8646aa9b5fd002451a416d46082f7747a5d98b9d9e2a422d74a3e9474f46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Ensino Superior
+- Instituto Superior de Economia
+- Regulamento
+- Universidade Técnica de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:58:49Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +104,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura,
 
 Ministério da Educação e Cultura.
 
-**Assinada em 28 de Novembro de 1986.**
+Assinada em 28 de Novembro de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
@@ -103,7 +112,7 @@ Regulamento do departamento de Matemática do Instituto Superior de Economia, da
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Matemática do Instituto Superior de Economia, da Universidade Técnica de Lisboa (designados neste Regulamento «Departamento», «Instituto» e «Universidade», respectivamente), constitui uma unidade orgânica permanente de ensino graduado e pós-graduado e de investigação fundamental e aplicada nos domínios da matemática e suas aplicações, designadamente à economia e à gestão, cabendo-lhe ainda a prestação de serviços e a efectivação de actividades de extensão universitária naqueles domínios, nomeadamente:
+Artigo 1.º O Departamento de Matemática do Instituto Superior de Economia, da Universidade Técnica de Lisboa (designados neste Regulamento «Departamento», «Instituto» e «Universidade», respectivamente), constitui uma unidade orgânica permanente de ensino graduado e pós-graduado e de investigação fundamental e aplicada nos domínios da matemática e suas aplicações, designadamente à economia e à gestão, cabendo-lhe ainda a prestação de serviços e a efectivação de actividades de extensão universitária naqueles domínios, nomeadamente:
 
 a) Realizar o ensino das disciplinas compreendidas na sua área científica, a nível graduado e pós-graduado;
 
@@ -117,19 +126,19 @@ e) Promover a formação de docentes e investigadores na área da Matemática, d
 
 f) Desenvolver actividades de prestação de serviços à comunidade no âmbito da sua especialidade.
 
-###### Art. 2.º O Departamento goza de autonomia científica e pedagógica no que se refere à organização e realização das suas actividades de ensino, bem como nos seus trabalhos de investigação científica e de prestação de serviços, podendo celebrar contratos de prestação de serviços com entidades públicas ou privadas.
+Art. 2.º O Departamento goza de autonomia científica e pedagógica no que se refere à organização e realização das suas actividades de ensino, bem como nos seus trabalhos de investigação científica e de prestação de serviços, podendo celebrar contratos de prestação de serviços com entidades públicas ou privadas.
 
-###### Art. 3.º Poderão ser criadas secções do Departamento, nos termos previstos nos n.os 2 do artigo 3.º e 2 do artigo 8.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, por iniciativa do conselho de departamento previsto neste Regulamento.
+Art. 3.º Poderão ser criadas secções do Departamento, nos termos previstos nos n.os 2 do artigo 3.º e 2 do artigo 8.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, por iniciativa do conselho de departamento previsto neste Regulamento.
 
 ### CAPÍTULO II — Órgãos
 
-###### Art. 4.º O Departamento tem os seguintes órgãos:
+Art. 4.º O Departamento tem os seguintes órgãos:
 
 a) Conselho de departamento (CD);
 
 b) Comissão executiva (CE).
 
-###### Art. 5.º - 1 - O CD é constituído por membros permanentes e por membros não permanentes.
+Art. 5.º - 1 - O CD é constituído por membros permanentes e por membros não permanentes.
 
 2 - São membros permanentes todos os professores catedráticos, associados e auxiliares, incluindo os convidados, e os investigadores doutorados da área científica abrangida pelo Departamento.
 
@@ -141,7 +150,7 @@ b) Comissão executiva (CE).
 
 6 - As deliberações do CD só produzem efeitos quando tomadas pela maioria dos membros em efectividade de funções.
 
-###### Art. 6.º - 1 - A eleição dos membros não permanentes tem lugar no mês de Novembro.
+Art. 6.º - 1 - A eleição dos membros não permanentes tem lugar no mês de Novembro.
 
 2 - A fim de proceder à eleição dos membros não permanentes, o presidente do CD ou, na sua falta ou impedimento, o seu substituto convocará os docentes de Departamento não incluídos nas categorias definidas no n.º 2 do artigo 5.º para sessão especial a que presidirá.
 
@@ -153,7 +162,7 @@ b) Comissão executiva (CE).
 
 6 - Os membros eleitos entram em funções no dia imediato ao da eleição e cessam funções no dia em que forem eleitos novos membros não permanentes.
 
-###### Art. 7.º - 1 - A eleição do presidente do CD tem lugar em Dezembro, após a entrada em funções dos membros não permanentes do CD, em sessão convocada para o efeito pelo presidente do conselho ou, na sua falta ou impedimento, pelo seu substituto.
+Art. 7.º - 1 - A eleição do presidente do CD tem lugar em Dezembro, após a entrada em funções dos membros não permanentes do CD, em sessão convocada para o efeito pelo presidente do conselho ou, na sua falta ou impedimento, pelo seu substituto.
 
 2 - A convocatória será enviada a cada um dos membros do conselho com a antecedência mínima de oito dias em relação à data da sessão e dela constarão a data, a hora e o local da eleição.
 
@@ -167,7 +176,7 @@ b) Comissão executiva (CE).
 
 7 - O exercício do cargo de presidente do CD é incompatível com o de presidente de outros órgãos de gestão universitária.
 
-###### Art. 8.º - 1 - Ao CD compete:
+Art. 8.º - 1 - Ao CD compete:
 
 a) Elaborar propostas de alteração ao Regulamento do departamento;
 
@@ -209,11 +218,11 @@ m) Deliberar sobre matérias que lhe sejam submetidas ou delegadas pelos órgão
 
 9 - Das reuniões do CD são elaboradas actas.
 
-###### Art. 9.º - 1 - A CE é constituída pelo presidente do CD, que a ela preside, e por outros dois membros por ele designados.
+Art. 9.º - 1 - A CE é constituída pelo presidente do CD, que a ela preside, e por outros dois membros por ele designados.
 
 2 - A CE extingue-se automaticamente com a destituição do presidente do CD feita ao abrigo da alínea b) do n.º 1 do artigo 8.º deste Regulamento.
 
-###### Art. 10.º Compete à CE:
+Art. 10.º Compete à CE:
 
 a) Preparar as reuniões do CD e executar as suas deliberações;
 
@@ -233,7 +242,7 @@ h) Zelar pela boa conservação das instalações e do equipamento adstritos ao 
 
 i) Apresentar anualmente ao CD o relatório das actividade do Departamento.
 
-###### Art. 11.º Compete ao presidente do CD:
+Art. 11.º Compete ao presidente do CD:
 
 a) Convocar e presidir às reuniões do conselho e da CE;
 
@@ -243,19 +252,19 @@ c) Representar o Departamento;
 
 d) Exercer em permanência as funções que lhe forem cometidas pelo conselho e pela CE, podendo qualquer membro destes órgãos pedir a ratificação das resoluções do presidente na primeira reunião ordinária seguinte.
 
-###### Art. 12.º Sob proposta fundamentada do CD, apresentada aos órgãos competentes, o presidente do CD pode ser parcialmente dispensado do serviço docente durante o seu mandato.
+Art. 12.º Sob proposta fundamentada do CD, apresentada aos órgãos competentes, o presidente do CD pode ser parcialmente dispensado do serviço docente durante o seu mandato.
 
-###### Art. 13.º Nas suas actividades de gestão, a CE deve ser coadjuvada por um funcionário do Instituto com provimento em lugar do quadro, de categoria adequada, que desempenhará as funções de secretário do Departamento.
+Art. 13.º Nas suas actividades de gestão, a CE deve ser coadjuvada por um funcionário do Instituto com provimento em lugar do quadro, de categoria adequada, que desempenhará as funções de secretário do Departamento.
 
 ### CAPÍTULO III — Autonomia do Departamento
 
-###### Art. 14.º A autonomia científica e pedagógica atribuída ao Departamento nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, e deste Regulamento tem os limites impostos pela demais legislação em vigor, nunca devendo pôr em causa a preservação da unidade do Instituto.
+Art. 14.º A autonomia científica e pedagógica atribuída ao Departamento nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, e deste Regulamento tem os limites impostos pela demais legislação em vigor, nunca devendo pôr em causa a preservação da unidade do Instituto.
 
-###### Art. 15.º Os órgãos de gestão do Instituto devem afectar ao Departamento as instalações e o equipamento que se mostrem indispensáveis ao seu funcionamento, os quais ficam sob a responsabilidade da CE, de acordo com o disposto na alínea h) do artigo 10.º deste Regulamento.
+Art. 15.º Os órgãos de gestão do Instituto devem afectar ao Departamento as instalações e o equipamento que se mostrem indispensáveis ao seu funcionamento, os quais ficam sob a responsabilidade da CE, de acordo com o disposto na alínea h) do artigo 10.º deste Regulamento.
 
-###### Art. 16.º Os órgãos de gestão do Instituto devem proceder ao destacamento interno de pessoal que se mostre necessário ao funcionamento do Departamento, em cumprimento das normas constantes do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 16.º Os órgãos de gestão do Instituto devem proceder ao destacamento interno de pessoal que se mostre necessário ao funcionamento do Departamento, em cumprimento das normas constantes do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
-###### Art. 17.º - 1 - Sem prejuízo do estabelecido pelo órgão de gestão do Instituto, o Departamento dispõe das seguintes receitas:
+Art. 17.º - 1 - Sem prejuízo do estabelecido pelo órgão de gestão do Instituto, o Departamento dispõe das seguintes receitas:
 
 a) As que lhe forem atribuídas pelo Orçamento do Estado e as que lhe forem concedidas pelos órgãos estatais encarregados do financiamento da Universidade;
 
@@ -267,7 +276,7 @@ c) As que resultem da atribuição de verbas do Instituto ou da Universidade.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 18.º - 1 - Os órgãos do Departamento com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
+Art. 18.º - 1 - Os órgãos do Departamento com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
 
 2 - As deliberações são tomadas por maioria simples, salvo quando por lei ou regulamento seja exigida maioria qualificada.
 
@@ -275,6 +284,6 @@ c) As que resultem da atribuição de verbas do Instituto ou da Universidade.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 19.º No prazo de 30 dias após a publicação deste Regulamento, o conselho directivo do Instituto deve promover as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.
+Art. 19.º No prazo de 30 dias após a publicação deste Regulamento, o conselho directivo do Instituto deve promover as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.
 
-###### Art. 20.º Os órgãos de gestão do Instituto devem tomar as medidas necessárias ao pleno cumprimento das normas constantes do presente Regulamento.
+Art. 20.º Os órgãos de gestão do Instituto devem tomar as medidas necessárias ao pleno cumprimento das normas constantes do presente Regulamento.
