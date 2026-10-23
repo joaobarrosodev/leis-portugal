@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/184b00/38683869.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/1992/08/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1992-283171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0faa3626cf7768eee1404225eff1a3002120f05bb3b147d687e2c875eee134ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abfc045559a081b27b1efd0d6d45400c858917a0714f0524d65fcd5469a91d6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Contratação de Docentes
 - Escola de Hotelaria e Turismo
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal Docente
-- Madeira.região Autónoma
 - Secretaria Regional do Turismo Cultura e Emigração
 relationships:
 - type: amended_by
@@ -93,16 +93,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:217928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354342:por
+  label: "Revogado pelo DRR.24/93/M.12.08.1993.GR-RAM, DR.IS-B [188] de 12.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-1993-354342
+  date: '1993-08-12'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:28Z'
   warnings: []
   errors: []
 ---
@@ -123,11 +152,11 @@ Assim:
 
 O Governo Regional da Madeira, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Julho, decreta o seguinte:
 
-###### Artigo 1.º O n.º 2 do artigo 61.º do [Decreto Regulamentar Regional n.º 23/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1989-549997), de 9 de Novembro, com a redacção dada pelo artigo 1.º do [Decreto Regulamentar Regional n.º 17/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1991-305070) de 4 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 2 do artigo 61.º do [Decreto Regulamentar Regional n.º 23/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1989-549997), de 9 de Novembro, com a redacção dada pelo artigo 1.º do [Decreto Regulamentar Regional n.º 17/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1991-305070) de 4 de Setembro, passa a ter a seguinte redacção:
 
 Os professores necessários são contratados em regime de contrato administrativo de provimento, de acordo com os normativos gerais e específicos constantes do artigo 77.º-A deste diploma.
 
-###### Art. 2.º É aditado ao [Decreto Regulamentar Regional n.º 23/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1989-549997), de 9 de Novembro, o artigo 77.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto Regulamentar Regional n.º 23/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1989-549997), de 9 de Novembro, o artigo 77.º-A, com a seguinte redacção:
 
 ###### Artigo 77.º-A — Professores da EHTM
 
@@ -143,14 +172,14 @@ Os professores necessários são contratados em regime de contrato administrativ
 
 6 - O tempo máximo semanal de leccionação de cada professor é de vinte horas.
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho de Governo Regional em 26 de Junho de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 16 de Julho de 1992.**
+Assinado em 16 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

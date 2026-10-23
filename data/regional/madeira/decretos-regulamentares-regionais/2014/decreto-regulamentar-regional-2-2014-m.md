@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/01/02200/0090400908.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2014/01/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2014-570728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28e8b120e1cd1df3c1c6c7cd0ec466f40b1e8bf69088213bf903bee6fc46e82f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d95bf695c8a30400b91825f8a7a9adda50d54f7175786b8d08e950a9ee59d8e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
+- Direcção Regional de Juventude e Desporto
 - Diretor Regional
-- Secretaria Regional da Educação e Recursos Humanos
 - Instituto do Desporto da Região Autónoma da Madeira
 - Integração de Trabalhadores
-- Direcção Regional de Juventude e Desporto
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Regional da Educação e Recursos Humanos
 - Transferência Patrimonial
 relationships:
 - type: amended_by
@@ -122,16 +122,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:73431768:por
+  label: Revogado, a partir de 05.02.2016, pelo(a) Decreto Regulamentar Regional n.º 6/2016/M - Diário da República n.º 24/2016,
+    Série I de 2016-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2016-73431768
+  date: '2016-02-04'
 article_structure:
-  article_count: 20
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:59Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +212,9 @@ Os artigos 1.º, 3.º, 4.º e 5.º do Anexo I do [Decreto Regulamentar Regional 
 
 A Direção Regional de Juventude e Desporto, designada no presente diploma abreviadamente por DRJD, é o serviço central da administração direta da Secretaria Regional da Educação e Recursos Humanos, a que se refere a alínea f) do n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 5/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2012-552039), de 16 de maio, alterado pelo [Decreto Regulamentar Regional n.º 14/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2013-503841), de 22 de novembro.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -246,13 +302,17 @@ g) ...
 
 h) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
 2 - (Revogado)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -310,11 +370,11 @@ O presente diploma entra em vigor, no dia seguinte ao da sua publicação produz
 
 Aprovado em Conselho do Governo Regional em 12 de dezembro de 2013.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de janeiro de 2014.**
+Assinado em 2 de janeiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -506,8 +566,8 @@ A concessão de apoio financeiro pela DRJD é titulada por contratos-programa, c
 
 ## ANEXO II — Cargos de direção superior a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0090400908.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0090400908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0090400908.pdf)
 
 ## ANEXO III — Cargos de direção intermédia a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02200/0090400908.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02200/0090400908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02200/0090400908.pdf)

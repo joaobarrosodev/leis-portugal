@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/064b00/12281235.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/1997/03/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1997-517386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39421076370c85fea40152e87225c9c5fce503b966ba3664d09d517956ec3c00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37273b59cdbe21f359b3e89b7f63b31d2f460c2a1e3f6f36d6ca99a04fb803da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ILHA de Porto Santo
-- Presidência do Governo Regional
 - Delegação do Governo Regional
-- Orgânica
+- ILHA de Porto Santo
 - Madeira.região Autónoma
+- Orgânica
+- Presidência do Governo Regional
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:346721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631259:por
+  label: "Alterados os arts. 4º, 5º, 6º, 7º, 8º, 9º, 10º, 12º e 28º e revogados os arts. 13º e 31º pelo DRR.24/99/M.1999.11.16.PG-RAM.,DR.IS-B\
+    \ [283] de 06/Dez/1999\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-1999-631259
+  date: '1999-11-16'
+- type: amended_by
+  target: pt:dre:276010:por
+  label: "Aditados os arts 11º-A, 11º-B e 30º-A à orgânica da Presidência do Governo Regional da Madeira, e alterado o quadro\
+    \ de pessoal constante do anexo do presente diploma, com as alterações introduzidas pelo DRR 24/99/M, de 06-Dez , pelo\
+    \ DRR.31/2000/M.18.04.2000.PG-RAM, DR.IS-B [107] de 09.05.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2000-276010
+  date: '2000-04-18'
+- type: amended_by
+  target: pt:dre:492181:por
+  label: "Alterados os arts. 11º-A, e o art. 12º e revogado o art. 11º-B da orgânica da Presidência do Governo Regional aprovada\
+    \ pelo presente diploma, com as alterações introduzidas pelos DRR 24/99/M de 06-Dez e 31/2000/M de 09-Mai, bem como é\
+    \ alterado o quadro de pessoal daquele organismo aprovado por este mesmo diploma, pelo DRR.32/2005/M.25.11.2005.PG-RAM,\
+    \ DR.IS-B [236] de 12.12.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-2005-492181
+  date: '2005-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/24-a/1996/12/04/m/dre
   label: null
@@ -100,16 +121,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/401/1993/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/401/1993/04/14/p/dre
+- type: cites
+  target: pt:dre:165637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689659:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:348305:por
+  label: "Revogada a al. c) do art. 1.º e os arts. 20.º a 29.º pelo DRR.5/2001/M.2001.03.01.PG-RAM DR.IS-B [71] DE 24/MAR/2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2001-348305
+  date: '2001-03-01'
+- type: repealed_by
+  target: pt:dre:346721:por
+  label: "Revogado pelo DRR.6/2006/M.24.05.2006.PG-RAM, DR.IS-B [113] de 12.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2006-346721
+  date: '2006-05-24'
 article_structure:
   article_count: 34
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:13Z'
   warnings: []
   errors: []
 ---
@@ -376,7 +436,7 @@ O tempo de serviço prestado na Secretaria-Geral, nos termos dos artigos 11.º, 
 
 ###### Artigo 18.º — Aproveitamento subsidiário do pessoal
 
-**O secretário-geral poderá determinar, quando os trabalhos o aconselhem ou o imponham, que o pessoal atribuído a cada serviço preste a qualquer dos outros a colaboração tida por conveniente.**
+O secretário-geral poderá determinar, quando os trabalhos o aconselhem ou o imponham, que o pessoal atribuído a cada serviço preste a qualquer dos outros a colaboração tida por conveniente.
 
 ###### Artigo 19.º — Comissões de estudo e prestação de serviços
 
@@ -508,14 +568,14 @@ O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 6 de Fevereiro de 1997.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 25 de Fevereiro de 1997.**
+Assinado em 25 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 MAPA I ao MAPA IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/064b00/12281235.pdf))](https://files.diariodarepublica.pt/1s/1997/03/064b00/12281235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/064b00/12281235.pdf)

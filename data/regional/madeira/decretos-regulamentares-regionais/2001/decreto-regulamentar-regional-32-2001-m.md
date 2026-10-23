@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/32/2001/11/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-2001-604837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d56d808e86e5eab598d9f6a56d472bdd796c7e0e556dd6c3f7ac92a30c81437
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 399e56a94e44ddc19784005fd6d5929ce1aad0530d11fcde4e21f97b9c66786f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Saneamento Básico
 - Definição de Competências
 - Direcção Regional de Saneamento Básico
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Gestão de Recursos Humanos
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Saneamento Básico
 relationships:
 - type: amended_by
   target: pt:dre:456539:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693196:por
+  label: "Mantido em vigor o diploma orgânico e o quadro de pessoal pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B [94] de\
+    \ 16.05.2005, até à entrada em vigor no novo diploma orgânico, previsto no nº 2 do art. 4º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
+- type: amended_by
+  target: pt:dre:456539:por
+  label: "Determinada a manutenção em vigor do presente diploma, até à entrada em vigor dos novos diplomas que reestruturam\
+    \ o sector das águas, incluindo águas residuais, pelo DRR.17/2008/M.10.07.2008.PG-RAM, DR.IS [132] de 10.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2008-456539
+  date: '2008-07-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -109,16 +121,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:319125:por
+  label: "Rectificado pela DECL-RECT.21-F/2001.2001.12.28.PCM, DR.IS-B [301]7ºSupl de 31/Dez/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-f-2001-319125
+  date: '2001-12-28'
 article_structure:
   article_count: 13
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:49Z'
   warnings: []
   errors: []
 ---
@@ -571,13 +620,13 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 27 de Setembro de 2001.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 18 de Outubro de 2001.**
+Assinado em 18 de Outubro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA ANEXO
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/1996/12/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1996-200447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 949ec2593325b9048aa98bdaed20234f8f19f1446e5e77c769834c72fd50b486
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0329032d17bca40ebc2206937cce76670f61e516863bf02dac5147d5731a2f79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Água
-- Associação de Regantes
-- Recursos Hídricos
-- Aproveitamento Hidroagrícola
-- Madeira.região Autónoma
 - Agricultura
+- Água
+- Aproveitamento Hidroagrícola
+- Associação de Regantes
+- Madeira.região Autónoma
+- Recursos Hídricos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/25/1992/08/25/m/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:260590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:00Z'
   warnings: []
   errors: []
 ---
@@ -309,7 +317,7 @@ Das decisões do júri avindor haverá recurso hierárquico impróprio obrigató
 
 ###### Artigo 19.º — Averiguações complementares
 
-**O presidente pode, antes de convocar o júri e sempre que o julgue conveniente, proceder às averiguações necessárias, de modo que os processos sejam submetidos à apreciação do júri depois de convenientemente instruídos.**
+O presidente pode, antes de convocar o júri e sempre que o julgue conveniente, proceder às averiguações necessárias, de modo que os processos sejam submetidos à apreciação do júri depois de convenientemente instruídos.
 
 ###### Artigo 20.º — Fundamentação das decisões
 
@@ -433,8 +441,8 @@ Aprovado em Conselho do Governo Regional em 9 de Outubro de 1996.
 
 Pelo Presidente do Governo Regional, Manuel Jorge Bazenga Marques.
 
-**Assinado em 31 de Outubro de 1996.**
+Assinado em 31 de Outubro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

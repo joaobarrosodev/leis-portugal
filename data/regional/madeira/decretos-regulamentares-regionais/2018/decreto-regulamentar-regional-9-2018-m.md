@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/12500/0287102879.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2018/07/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2018-115620696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85109921a3eedee72d49692a23801629890eb5a36e637f3cf028cbbbb448487f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a440914847461f65f130c95f0abbd17751b36515c862614eee2e88f5800d714
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,52 +68,52 @@ subjects:
 - Abono para Falhas
 - Ação Social Escolar
 - Acesso à Informação
+- Administração Regional
 - Admissão de Pessoal
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
 - Aquisição de Equipamento
 - Autorização de Despesas
-- Refeitório
-- Formação Profissional
 - Certificação Profissional
-- Gestão Financeira
-- Governo Regional
-- Sistema de Normalização Contabilística Público
+- Contabilidade Pública
 - Contrato de Locação Financeira
+- Contribuições e Impostos
 - Controlo Financeiro
 - Despesas Públicas
+- Direcção Regional do Orçamento e Tesouro
 - Dotação Orçamental
 - Duodécimo
 - Empresa Pública Regional
-- Gestão Administrativa
-- Material de Ensino
-- Execução do Orçamento
-- Fundo de Maneio
-- Gestão Escolar
-- Recrutamento de Pessoal
-- Gestão do Património
-- Gestão Orçamental
-- Pagamento
-- Contribuições e Impostos
-- Publicitação
+- Ensino Básico
 - Ensino Secundário
-- Veículo
-- Manual Escolar
-- Membros do Governo
 - Equipamento Informático
-- Orçamento Regional
-- Direcção Regional do Orçamento e Tesouro
-- Prazo
 - Estabelecimento de Ensino
+- Execução do Orçamento
+- Formação Profissional
+- Fundo de Maneio
+- Gestão Administrativa
+- Gestão do Património
+- Gestão Escolar
+- Gestão Financeira
+- Gestão Orçamental
+- Governo Regional
+- Madeira.região Autónoma
+- Manual Escolar
+- Material de Ensino
+- Membros do Governo
+- Orçamento Regional
+- Pagamento
+- Prazo
 - Prestação de Contas
 - Prestação de Serviços
-- Ensino Básico
-- Madeira.região Autónoma
+- Publicitação
 - Receita Pública
+- Recrutamento de Pessoal
+- Refeitório
 - Retenção na Fonte
 - Sanção
-- Administração Regional
-- Contabilidade Pública
+- Sistema de Normalização Contabilística Público
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/192/2015/09/11/p/dr
@@ -155,16 +155,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:106522678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114484244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:21Z'
   warnings: []
   errors: []
 ---
@@ -597,10 +641,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em Conselho do Governo Regional em 14 de junho de 2018.
 
-**O Presidente do Governo Regional, em exercício, Pedro Miguel Amaro de Bettencourt Calado.**
+O Presidente do Governo Regional, em exercício, Pedro Miguel Amaro de Bettencourt Calado.
 
-**Assinado em 26 de junho de 2018.**
+Assinado em 26 de junho de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+111465359

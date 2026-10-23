@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/1992/03/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1992-177386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9965a570363d701c1f193b6c51e878af4674e1757afaee641648940c2481c779
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f8dda5ecebef26fd57a6dfa4f3c192aa1183725034654d02398cbeff02d21c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Silvicultura
+- Comércio
 - Direcção Geral dos Mercados Agrícolas e da Indústria Agro-alimentar
 - Direcção Regional de Agricultura
 - Direcção Regional de Ambiente e Urbanismo
 - Direcção Regional de Pecuária
+- Ifadap
 - Instituto do Vinho da Madeira
 - Madeira.região Autónoma
-- Ifadap
-- Comércio
 - Produto Agrícola
+- Silvicultura
 relationships:
 - type: cites
   target: celex:31990R0866
@@ -87,15 +87,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1990/867/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:33Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +114,7 @@ Assim:
 
 O Governo da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea d) do artigo 49.º da Lei n.º 13/91, de 5 de Junho, o seguinte:
 
-###### Artigo 1.º - 1 - Compete à Direcção Regional de Agricultura (DRA):
+Artigo 1.º - 1 - Compete à Direcção Regional de Agricultura (DRA):
 
 a) Proceder à elaboração dos planos sectoriais regionais, bem como às suas alterações ou actualizações. Sempre que se trate de investimentos relativos aos produtos vinícolas e à transformação da cana sacarina em mel de cana será previamente ouvido o Instituto do Vinho Madeira (IVM);
 
@@ -130,13 +130,13 @@ f) Propor a inscrição no Orçamento desta Região Autónoma das dotações nec
 
 2 - Para os projectos de investimento relativos aos produtos vinícolas, o parecer a que se refere a alínea e) do número anterior será emitido após parecer a solicitar ao IVM e tendo em consideração o mesmo.
 
-###### Art. 2.º Na elaboração dos planos sectoriais regionais devem ser observadas as orientações decorrentes das políticas comunitária, nacional e regional, designadamente da política agrícola comum, e ainda as directrizes gerais adoptadas a nível nacional.
+Art. 2.º Na elaboração dos planos sectoriais regionais devem ser observadas as orientações decorrentes das políticas comunitária, nacional e regional, designadamente da política agrícola comum, e ainda as directrizes gerais adoptadas a nível nacional.
 
-###### Art. 3.º - 1 - Ao IFADAP, à DRA e demais organismos e entidades intervenientes na aplicação deste diploma cabe, em geral, isoladamente ou em conjunto e por si ou assessoradas por consultores, acompanhar a execução dos investimentos, por forma a assegurar a integral realização dos objectivos dos mesmos e o pontual cumprimento das estipulações legais e das obrigações contratuais assumidas pelos beneficiários.
+Art. 3.º - 1 - Ao IFADAP, à DRA e demais organismos e entidades intervenientes na aplicação deste diploma cabe, em geral, isoladamente ou em conjunto e por si ou assessoradas por consultores, acompanhar a execução dos investimentos, por forma a assegurar a integral realização dos objectivos dos mesmos e o pontual cumprimento das estipulações legais e das obrigações contratuais assumidas pelos beneficiários.
 
 2 - Os beneficiários das ajudas ficam correspondentemente obrigados a colaborar com aqueles organismos e entidades, prestando prontamente todas as informações que lhes forem solicitadas e facilitando as acções de acompanhamento.
 
-###### Art. 4.º - 1 - Os processos de candidatura são formalizados através da apresentação de projectos de investimento instruídos, para além do que vier a ser definido pelo IFADAP, com os seguintes documentos:
+Art. 4.º - 1 - Os processos de candidatura são formalizados através da apresentação de projectos de investimento instruídos, para além do que vier a ser definido pelo IFADAP, com os seguintes documentos:
 
 a) Parecer, a emitir pela DRA, quanto à implantação em solos não abrangidos pela Reserva Agrícola Nacional, nos termos do Decreto-Lei n.º 196/89, de 14 de Junho;
 
@@ -152,16 +152,16 @@ c) Certificado, a emitir pela Direcção Regional de Pecuária, comprovativo de 
 
 5 - Em conformidade com o disposto no n.º 2 do artigo 18.º do Decreto-Lei n.º 394/90, de 11 de Dezembro, a DRA emitirá parecer sobre a desistência da realização de projectos de investimento incluídos num programa operacional aprovado pela Comissão das Comunidades Europeias.
 
-###### Art. 5.º A Região Autónoma da Madeira será representada na Comissão de Selecção, criada pelo despacho ministerial de 15 de Abril de 1991, publicado no Diário da República, 2.ª série, n.º 102, de 4 de Maio de 1991, e nos Comités de Acompanhamento do Quadro Comunitário de Apoio e dos Programas Operacionais, pelo director regional da Agricultura.
+Art. 5.º A Região Autónoma da Madeira será representada na Comissão de Selecção, criada pelo despacho ministerial de 15 de Abril de 1991, publicado no Diário da República, 2.ª série, n.º 102, de 4 de Maio de 1991, e nos Comités de Acompanhamento do Quadro Comunitário de Apoio e dos Programas Operacionais, pelo director regional da Agricultura.
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 9 de Janeiro de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 27 de Fevereiro de 1992.**
+Assinado em 27 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/069b00/11371138.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2000/03/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2000-515258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10f8ec1157927b0aaa435ca76d274a59c3f98acfc213e36b1dea6d3bc4c403ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee024d30b94625d95078696344e868a1dc72a61cd839c5919e072f1073999bc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,19 @@ subjects:
 - Definição de Competências
 - Diretor
 - Escola Profissional de Hotelaria e Turismo da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:548416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a manutenção em vigor do DRR 3/99/M, de 20-Mar, na redacção do presente diploma, pelo DRR.5/2005/M.21.02.2005.PG-RAM,\
+    \ DR.IS-B [47] de 08.03.2005, até à publicação integral dos diplomas a que se refere o n.º 4 do seu art. 4.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/3/1999/03/20/m/dre
   label: null
@@ -88,16 +94,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:145671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:548416:por
+  label: "Revogado o DRR 3/99/M de 20-Mar, com as alterações constantes do presente diploma, pelo DRR.17/2005/M.30.03.2005.PG-RAM,\
+    \ DR.IS-B [76] de 19.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2005-548416
+  date: '2005-03-30'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:29Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +176,9 @@ n) ...
 
 2 - O director pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.
 
-###### Artigo 9.º — Composição e competências
+Artigo 9.º
+
+Composição e competências
 
 1 - ...
 
@@ -198,8 +224,8 @@ Aprovado em Conselho do Governo Regional em 3 de Fevereiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 24 de Fevereiro de 2000.**
+Assinado em 24 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

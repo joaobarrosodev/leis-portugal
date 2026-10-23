@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25000/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/36/2024/12/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/36-2024-901183520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cff4e887fa663b6df95d1132a806e3f245b172f088ed8359dd4e2387f2d9ef5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdb8eb797820d0ac248f484954bec515f4f63a65d551bb5945e1dfdff244118f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Assembleia Legislativa Regional
 - Governo Regional
+- Habitação
 - Habitação Social
 - IHM
 - Madeira.região Autónoma
 - Recomendação
-- Habitação
 - Violência Doméstica
 relationships:
 - type: cites
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:43Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +147,7 @@ Considera-se fundamental que, nos casos de violência doméstica, a vítima tenh
 
 Paralelamente, e para os casos em que seja imperativo que a vítima abandone a casa de família por razões de segurança, deve ser criado um Programa Regional de Atribuição de Habitação Social a Vítimas de Violência Doméstica que priorize a atribuição e a manutenção da habitação social às mesmas. Porque priorizar a pessoa adulta que é vítima é priorizar o núcleo familiar, e é fundamental garantir que aquele núcleo familiar continue a ter condições, em vez de dar prioridade a quem agride, que muitas vezes é o titular de contrato.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomendar o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomendar o seguinte:
 
 1) Que o Governo Regional da Madeira proceda à criação de um Programa Regional de Atribuição de Habitação Social às Vítimas de Violência Doméstica, que priorize a atribuição e a manutenção da habitação social às mesmas;
 
@@ -139,4 +155,6 @@ Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos ter
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 12 de dezembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+118496654

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/05700/0093500936.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2016/03/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2016-73934160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ab394a3c963bb61ee2b968f0d55da44cf2adbd45df303262e457ba92c1cc75b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a34efa7d988b9d0b7d0f36bb1dc7f24e528756aaa34155759c5914487f156b1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Empresa
 - Cobrança
-- Zona Tributária Privilegiada
+- Comércio
+- Empresa
 - Madeira.região Autónoma
 - Regulamento
 - Taxa
-- Comércio
 - Zona Franca
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:75784269:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75784269:por
+  label: Alterados as als. b) e c) do n.º 1 e os n.os 2, 3 e 4 do art. 10.º do DRR 21/87/M, de 05-set, na redação do presente
+    diploma pelo(a) Decreto Regulamentar Regional n.º 23/2016/M - Diário da República n.º 225/2016, Série I de 2016-11-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2016-75784269
+  date: '2016-11-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
   label: null
@@ -92,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:221730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:06Z'
   warnings: []
   errors: []
 ---
@@ -142,10 +168,10 @@ O presente diploma produz efeitos a dia 1 de janeiro de 2016.
 
 Aprovado em Conselho do Governo Regional em 28 de janeiro de 2016.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 10 de fevereiro de 2016.**
+Assinado em 10 de fevereiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

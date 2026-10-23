@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/17/2006/08/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/17-2006-540468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4232fb7e4aaad0384a9a084cafdcb2cc7fd86fd8bc3003379f99ab30f2a00f56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb510fef118535bd97fb221f5bb8565fbbeb9db22741c96003d099f70154a208
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Assembleia Legislativa Regional
+- Comissão de Coordenação Regional
 - Comissão de Protecção de Menores
 - Criança
-- Comissão de Coordenação Regional
-- Jovem
-- Assembleia da República
-- Madeira.região Autónoma
 - Diploma Legal
+- Jovem
+- Madeira.região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656109:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:57Z'
   warnings: []
   errors: []
 ---
@@ -163,17 +183,23 @@ São alterados os artigos 7.º, 9.º, 10.º, 12.º, 14.º, 18.º, 20.º, 30.º, 
 
 2 - Nos casos em que, quanto ao modo de intervenção não haja consenso com os pais, representantes legais ou quem tenha a guarda de facto da criança ou do jovem, a intervenção far-se-á tendo em consideração a necessidade de garantir a salvaguarda dos direitos da criança ou do jovem, quando haja indícios da existência de coacção, e ou que sejam causadores das situações de risco, sem prejuízo do disposto no artigo 91.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Se, por força do disposto no número anterior, o consentimento deva ser prestado pelo causador, a comissão pode intervir, independentemente do consentimento.
 
-###### Artigo 10.º — Posição da criança e do jovem
+Artigo 10.º
+
+Posição da criança e do jovem
 
 A intervenção das entidades referidas nos artigos 7.º e 8.º depende de audição da criança ou do jovem, a qual, não sendo vinculativa, é considerada relevante de acordo com a sua capacidade para compreender o sentido da intervenção.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As comissões de protecção de crianças e jovens, adiante designadas de comissões de protecção, são instituições oficiais não judiciárias com autonomia funcional que visam promover os direitos da criança e do jovem e prevenir ou pôr termo a situações susceptíveis de afectar a sua segurança, saúde, formação, educação ou desenvolvimento integral, estando dotadas de poderes de actuação, independentemente do consentimento da criança ou do jovem em risco.
 
@@ -181,7 +207,9 @@ A intervenção das entidades referidas nos artigos 7.º e 8.º depende de audi�
 
 3 - As comissões de protecção são declaradas instaladas por portaria conjunta do Ministro da Justiça e do Ministro do Trabalho e da Solidariedade e na Região Autónoma da Madeira por portaria do membro do Governo Regional com tutela da segurança social.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -189,7 +217,9 @@ A intervenção das entidades referidas nos artigos 7.º e 8.º depende de audi�
 
 3 - Na Região Autónoma da Madeira, para assegurar uma intervenção mais eficaz, podem ser celebrados pelo Governo Regional protocolos de cooperação com os serviços do Estado representados na Comissão Nacional, com a Comissão Nacional e com a Comissão de Coordenação Regional.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +243,9 @@ h) ...
 
 3 - No caso da Região Autónoma da Madeira, o relatório anual a que se faz referência na alínea h) do número anterior será enviado à Comissão de Coordenação Regional, à assembleia municipal e ao Ministério Público.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -229,13 +261,17 @@ h) ...
 
 7 - Para efeitos do número anterior, será tido em consideração um número mínimo de 50 processos activos, cabendo à Comissão Nacional e, no caso da Região Autónoma da Madeira, à Comissão de Coordenação Regional avaliar a necessidade deste apoio próprio, salvaguardando sempre o apoio necessário ao funcionamento da comissão de protecção.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - As comissões de protecção são, na Região Autónoma da Madeira, acompanhadas e avaliadas pela Comissão de Coordenação Regional, de acordo com o artigo 32.º
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -249,7 +285,9 @@ c) Promover e dinamizar as respostas e os programas adequados ao desempenho das 
 
 d) Promover e dinamizar a celebração de protocolos de cooperação entre as entidades regionais, públicas e privadas, com intervenção nas áreas da infância e juventude e as comissões de protecção, que se mostrem necessários ao exercício das competências destas.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -265,11 +303,15 @@ d) Promover e dinamizar a celebração de protocolos de cooperação entre as en
 
 7 - A Comissão de Coordenação Regional promoverá a realização anual de um encontro de avaliação das comissões de protecção situadas nos municípios da Região Autónoma da Madeira, no qual estará presente um representante da Comissão Nacional, além do representante do Governo Regional na Comissão Nacional.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 As comissões de protecção são objecto de auditorias e de inspecção sempre que a Comissão Nacional ou a Comissão de Coordenação Regional o entenda necessário ou a requerimento do Ministério Público.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -281,11 +323,15 @@ c) As declarações de consentimento necessárias.
 
 2 - ...
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 Faltando ou tendo sido retirados os consentimentos previstos no artigo 9.º, a comissão abstém-se de intervir e comunica a situação ao Ministério Público competente, remetendo-lhe o processo ou os elementos que considere relevantes para a apreciação da situação.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - ...
 
@@ -299,4 +345,4 @@ O presente diploma entra em vigor 30 dias após a sua publicação no Diário da
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 26 de Julho de 2006.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

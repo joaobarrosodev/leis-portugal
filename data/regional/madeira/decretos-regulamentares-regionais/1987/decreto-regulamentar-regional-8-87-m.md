@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09500/16661672.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1987-665943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aad467701a7dcb3fe81657c2ecb62ec94fee61a9bd4c741f99b87bdcca8a2685
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cc78daf3d32a9032450de0c70a989b16aaa610c43c8aa5e7300141114f57451
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Informática
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional do Plano
 relationships:
 - type: amended_by
   target: pt:dre:678005:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444422:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:678005:por
+  label: "Revogado pelo DRR.8/93/M.29.03.1993.GR-RAM, DR.IS-B [74] de 29.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1993-678005
+  date: '1993-03-29'
 article_structure:
   article_count: 28
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:53Z'
   warnings: []
   errors: []
 ---
@@ -506,14 +539,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em plenário do Governo Regional em 27 de Fevereiro de 1987.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 16 de Março de 1987.**
+Assinado em 16 de Março de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Quadro a que se refere o artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09500/16661672.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09500/16661672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16661672.pdf)

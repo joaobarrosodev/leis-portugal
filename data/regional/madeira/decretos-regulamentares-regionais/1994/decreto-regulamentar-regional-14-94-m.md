@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/270b00/69456947.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/1994/11/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1994-546261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff833b707d446a60875e5a8b0a260d7656457615b5147c91b8be4fd68c90d178
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37cdab72b233f1528ccd795a098960f12cc98758edc83c0ea47535d1a1ccc534
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Governo Regional
 - Criação de Lugares
 - Definição de Competências
 - Direcção Regional de Finanças
+- Governo Regional
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Pessoal Técnico Superior
-- Madeira.região Autónoma
 - Quadro de Pessoal
 - Secretaria Regional das Finanças
 relationships:
@@ -90,16 +90,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:269189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:510268:por
+  label: "Revogado pelo DRR.1/2000/M.1999.12.06.PG-RAM,DR.IS-B [2] de 04/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2000-510268
+  date: '1999-12-06'
 article_structure:
-  article_count: 10
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 9
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:48Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +127,7 @@ Verifica-se agora, com a implementação do funcionamento destes órgãos, que u
 
 Assim, o Governo Regional da Madeira decreta, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição da República Portuguesa e da alínea c) do artigo 49.º e do n.º 1 do artigo 50.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
 
-###### Artigo 1.º O artigo 3.º da orgânica da Direcção Regional de Finanças, publicada em anexo ao [Decreto Regulamentar Regional n.º 18/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1993-269189), de 19 de Junho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º da orgânica da Direcção Regional de Finanças, publicada em anexo ao [Decreto Regulamentar Regional n.º 18/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1993-269189), de 19 de Junho, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -130,7 +143,7 @@ c) Direcção de Serviços de Finanças Locais;
 
 d) Divisão do Tesouro Regional.
 
-###### Art. 2.º São aditados à orgânica referida no artigo 1.º deste diploma os seguintes artigos:
+Art. 2.º São aditados à orgânica referida no artigo 1.º deste diploma os seguintes artigos:
 
 ###### Artigo 11.º-A — Estrutura
 
@@ -140,7 +153,9 @@ a) Divisão da Dívida Pública Regional;
 
 b) Divisão de Finanças.
 
-##### SUBSECÇÃO I — Divisão da Dívida Pública Regional
+##### SUBSECÇÃO I
+
+##### Divisão da Dívida Pública Regional
 
 ###### Artigo 11.º-B — Natureza e atribuições
 
@@ -148,7 +163,9 @@ b) Divisão de Finanças.
 
 2 - À DDPR competem as actividades a que se referem as alíneas e), f) e j) do artigo 11.º
 
-##### SUBSECÇÃO II — Divisão de Finanças
+##### SUBSECÇÃO II
+
+##### Divisão de Finanças
 
 ###### Artigo 11.º-C — Natureza e atribuições
 
@@ -156,9 +173,9 @@ b) Divisão de Finanças.
 
 2 - À DF competem as actividades a que se referem as alíneas a), b), c), d), g), h), i) e j) do artigo 11.º
 
-###### Art. 3.º A secção IV da orgânica referida no artigo 1.º deste diploma será a secção V, passando os artigos 12.º e 13.º a, respectivamente, 14.º e 15.º
+Art. 3.º A secção IV da orgânica referida no artigo 1.º deste diploma será a secção V, passando os artigos 12.º e 13.º a, respectivamente, 14.º e 15.º
 
-###### Art. 4.º Os artigos 12.º e 13.º deste diploma têm a seguinte redacção:
+Art. 4.º Os artigos 12.º e 13.º deste diploma têm a seguinte redacção:
 
 #### SECÇÃO IV — Direcção de Serviços de Finanças Locais
 
@@ -184,7 +201,7 @@ f) Participar na elaboração e acompanhamento dos planos directores e tomar as 
 
 g) Executar tudo o mais que decorra do normal desempenho das suas funções.
 
-###### Art. 5.º São aditados à orgânica referida no artigo 1.º deste diploma os seguintes artigos:
+Art. 5.º São aditados à orgânica referida no artigo 1.º deste diploma os seguintes artigos:
 
 ###### Artigo 13.º-A — Estrutura
 
@@ -194,7 +211,9 @@ a) Divisão de Apoio às Finanças Locais;
 
 b) Divisão de Acompanhamento às Finanças Locais.
 
-##### SUBSECÇÃO I — Divisão de Apoio às Finanças Locais
+##### SUBSECÇÃO I
+
+##### Divisão de Apoio às Finanças Locais
 
 ###### Artigo 13.º-B — Natureza e atribuições
 
@@ -202,7 +221,9 @@ b) Divisão de Acompanhamento às Finanças Locais.
 
 2 - À DAFL competem as actividades a que se referem as alíneas d), e), f) e g) do artigo 13.º
 
-##### SUBSECÇÃO II — Divisão de Acompanhamento às Finanças Locais
+##### SUBSECÇÃO II
+
+##### Divisão de Acompanhamento às Finanças Locais
 
 ###### Artigo 13.º-C — Natureza e atribuições
 
@@ -210,16 +231,16 @@ b) Divisão de Acompanhamento às Finanças Locais.
 
 2 - À DAF competem as actividades a que se referem as alíneas a), b), c) e g) do artigo 13.º
 
-###### Art. 6.º São criados mais um lugar de director de serviços, três de chefe de divisão e um para a carreira técnica superior, no quadro de pessoal da DRF, constante do mapa anexo à orgânica referida no artigo 1.º deste diploma.
+Art. 6.º São criados mais um lugar de director de serviços, três de chefe de divisão e um para a carreira técnica superior, no quadro de pessoal da DRF, constante do mapa anexo à orgânica referida no artigo 1.º deste diploma.
 
-###### Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 13 de Outubro de 1994.
 
-**O Secretário Regional da Agricultura, Florestas e Pescas, no exercício da Presidência do Governo Regional, Manuel Jorge Bazenga Marques.**
+O Secretário Regional da Agricultura, Florestas e Pescas, no exercício da Presidência do Governo Regional, Manuel Jorge Bazenga Marques.
 
-**Assinado em 28 de Outubro de 1994.**
+Assinado em 28 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

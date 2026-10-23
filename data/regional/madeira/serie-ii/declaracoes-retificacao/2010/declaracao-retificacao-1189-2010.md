@@ -6,8 +6,8 @@ short_title: null
 summary: Rectificação do aviso n.º 9797/2010, publicado no Diário da República, 2.ª série, n.º 96, de 18 de Maio de 2010,
   referente ao procedimento concursal comum para preenchimento de um posto de trabalho da carreira e categoria de técnico
   superior - licenciatura em Educação Física e Desporto
-jurisdiction: regional
-territory: madeira
+jurisdiction: portugal
+territory: null
 document_type: declaracao-retificacao
 document_type_label: Declaração de Retificação
 issuing_authority:
@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/117000000/3353433534.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1189-2010-3620849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd6ea5b9be1e3f6a276956de4127d402d14ab2b66afda0ae2e8f01910c34cc90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac9b8059cb1e6b77b1401912b72f005e9929c4b22eb2e4e4394c0b2688f61ce0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:57Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +91,5 @@ Para os devidos efeitos rectifica-se o aviso n.º 9797/2010, publicado no Diári
 Assim onde se lê «com a remuneração correspondente à 4.ª posição e ao nível remuneratório 23, da Tabela Remuneratória Única, montante pecuniário de (euro)1.613,42» deve ler-se «com a remuneração correspondente à 5.ª posição e ao nível remuneratório 27, da tabela remuneratória única, montante pecuniário de (euro) 1819,38».
 
 19 de Maio de 2010. - O Vice-Presidente da Câmara, Rui Costa.
+
+303329484

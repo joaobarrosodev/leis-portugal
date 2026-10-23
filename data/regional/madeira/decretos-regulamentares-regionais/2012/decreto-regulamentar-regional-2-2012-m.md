@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/05200/0113001134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2012/03/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2012-553440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7186865ff1ce2514a1a0f7fe1c8fe4ef5749796433fc931d0485ba65f399931e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18683ff46e5b3d96774cb31d83d2966477d992ca01aa4bd397f93042ce631648
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arm-águas e Resíduos da Madeira
 - Caram
-- Pessoal Dirigente
 - Definição de Competências
+- Direção Regional de Agricultura e Desenvolvimento Rural
 - Fundo Madeirense do Seguro de Colheitas
 - Gabinete Governamental
-- Instituto do Vinho Bordado e do Artesanato da Madeira
-- Integração de Trabalhadores
-- Arm-águas e Resíduos da Madeira
-- Direção Regional de Agricultura e Desenvolvimento Rural
 - Gesba-Empresa de Gestão do Sector da Banana
-- IGSERV-Investimentos Gestão e Serviços
-- Valor Ambiente
-- Orgânica
-- Parque Natural da Madeira
-- Madeira.região Autónoma
-- Quadro de Pessoal
-- Secretaria Regional do Ambiente e Recursos Naturais
-- Secretário Regional do Ambiente e Recursos Naturais
 - Gestão de Recursos Humanos
 - Iga-investimentos e Gestão da ÁGUA
 - Igh-investimentos e Gestão Hidroagrícola
+- IGSERV-Investimentos Gestão e Serviços
+- Instituto do Vinho Bordado e do Artesanato da Madeira
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Parque Natural da Madeira
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretaria Regional do Ambiente e Recursos Naturais
+- Secretário Regional do Ambiente e Recursos Naturais
 - Tutela
+- Valor Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:69951100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175341:por
+  label: "Alterados o art. 7º e o anexo (na redação e republicado pela Decl-Rect 22/2012, de 30-abr) do presente diploma,\
+    \ pelo DRR.20/2012/M.22.08.2012.PG-RAM, DR.IS [162] de 22.08.2012, que procede à sua republicação\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2012-175341
+  date: '2012-08-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2009/01/12/m/dre
   label: null
@@ -116,16 +122,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670502:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:553025:por
+  label: "Retificado e republicado na versão corrigida pela DECL-RECT.22/2012.30.04.2012.PCM, DR.IS [84] de 30.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/22-2012-553025
+  date: '2012-04-30'
+- type: repealed_by
+  target: pt:dre:69736264:por
+  label: Revogado, sem prejuízo do disposto no n.º 2 do art. 21.º, o presente diploma, na redação e republicação do DRR 20/2012/M,
+    de 22-ago, pelo(a) Decreto Regulamentar Regional n.º 5/2015/M - Diário da República n.º 131/2015, Série I de 2015-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2015-69736264
+  date: '2015-07-08'
+- type: repealed_by
+  target: pt:dre:69951100:por
+  label: Revogado (a partir de 06.08.2015) o presente diploma, na redação e republicação do DRR 20/2012/M de 22-ago, sem prejuízo
+    do n.º 2 do art 21.º do DRR 8/2015/M de 05-ago (nos termos do qual a revogação de normas de qualquer natureza que se prendam
+    com as atribuições nos setores da agricultura, agropecuária e desenvolvimento rural, artesanato e pescas depende da entrada
+    em vigor do diploma que contenha a orgânica do departamento governamental responsável pelos referidos setores) pelo(a)
+    Decreto Regulamentar Regional n.º 8/2015/M - Diário da República n.º 151/2015, Série I de 2015-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2015-69951100
+  date: '2015-08-05'
 article_structure:
   article_count: 16
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:41Z'
   warnings: []
   errors: []
 ---
@@ -226,11 +276,11 @@ e) A Direção Regional de Pescas.
 
 ###### Artigo 5.º — Superintendência e tutela
 
-**O Secretário Regional tem a tutela e superintendência do Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P., Parque Natural da Madeira e Fundo Madeirense do Seguro de Colheitas.**
+O Secretário Regional tem a tutela e superintendência do Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P., Parque Natural da Madeira e Fundo Madeirense do Seguro de Colheitas.
 
 ###### Artigo 6.º — Setor Empresarial
 
-**O Secretário Regional do Ambiente e dos Recursos Naturais exerce a tutela e as competências no âmbito da função acionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:**
+O Secretário Regional do Ambiente e dos Recursos Naturais exerce a tutela e as competências no âmbito da função acionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:
 
 a) ARM - Águas e Resíduos da Madeira, S. A.;
 
@@ -444,14 +494,14 @@ b) De entre chefes de secção com comprovada experiência na área administrati
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/05200/0113001134.pdf))](https://files.diariodarepublica.pt/1s/2012/03/05200/0113001134.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/05200/0113001134.pdf)
 
 Aprovado em Conselho do Governo Regional em 16 de fevereiro de 2012.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 29 de fevereiro de 2012.**
+Assinado em 29 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

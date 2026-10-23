@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22200/0007900085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/32/2024/11/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-2024-896791627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9af9c812277e0b735307707e29fb03df2760f315008acdab73aac2731571b5d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2b507b6a559a7f5353fdf81d84a0b74a5e6c796140ac881964f5fbe6d5ce0a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Definição de Competências
 - Direcção Regional do Desporto
 - Diretor Regional
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/13/2024/07/12/m/dre
@@ -100,16 +100,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:129679429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73431768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885361660:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:46Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +154,7 @@ Atendendo à atual conjuntura administrativa intra e extra da Direção Regional
 
 Face ao acima exposto, urge ajustar a orgânica da DRD, com vista a um melhor enquadramento no âmbito das suas atribuições.
 
-Assim, nos termos do n.º 2 do artigo 6.º do [Decreto Regulamentar Regional n.º 15/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2024-885361660), de 23 de agosto, da alínea d) do n.º 1 do artigo 227.º e n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos do n.º 2 do artigo 6.º do [Decreto Regulamentar Regional n.º 15/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2024-885361660), de 23 de agosto, da alínea d) do n.º 1 do artigo 227.º e n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -142,7 +170,9 @@ Os artigos 1.º, 3.º e 4.º do [Decreto Regulamentar Regional n.º 15/2020/M](h
 
 A Direção Regional de Desporto, designada no presente diploma abreviadamente por DRD, é o serviço da administração direta da Região Autónoma da Madeira, integrado na Secretaria Regional de Educação, Ciência e Tecnologia, adiante designada por SRE, a que se refere a alínea e) do n.º 1 do artigo 6.º da orgânica aprovada pelo [Decreto Regulamentar Regional n.º 15/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2024-885361660), de 23 de agosto.
 
-###### Artigo 3.º — […]
+Artigo 3.º
+
+[…]
 
 […]
 
@@ -178,7 +208,9 @@ o) Assegurar a emissão de pareceres no âmbito dos projetos à construção e g
 
 p) [Anterior alínea o).]
 
-###### Artigo 4.º — […]
+Artigo 4.º
+
+[…]
 
 1 - […]
 
@@ -232,11 +264,11 @@ O presente decreto regulamentar regional entra em vigor no dia seguinte ao da su
 
 Aprovado em Conselho do Governo Regional em 31 de outubro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 11 de novembro de 2024.**
+Assinado em 11 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -362,7 +394,7 @@ O pessoal afeto às unidades orgânicas nucleares e serviços, previstos nos art
 
 ###### Artigo 10.º — Norma transitória
 
-Até à entrada em vigor dos diplomas que aprovam a organização referida no artigo 5.º, mantêm-se em vigor as unidades orgânicas nucleares e flexíveis e demais serviços previstos nas alíneas b), c) e d) do artigo 2.º da Portaria n.º 70/2016, de 25 de fevereiro, e nos n.<sup>os</sup>2, 3 e 4 do artigo 2.º do Despacho n.º 74/2016, de 29 de fevereiro, bem como as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas, naqueles previstas.
+Até à entrada em vigor dos diplomas que aprovam a organização referida no artigo 5.º, mantêm-se em vigor as unidades orgânicas nucleares e flexíveis e demais serviços previstos nas alíneas b), c) e d) do artigo 2.º da Portaria n.º 70/2016, de 25 de fevereiro, e nos n.os2, 3 e 4 do artigo 2.º do Despacho n.º 74/2016, de 29 de fevereiro, bem como as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas, naqueles previstas.
 
 ###### Artigo 11.º — Norma revogatória
 
@@ -378,3 +410,7 @@ O presente diploma entra em vigor no 5.º dia útil após a sua publicação.
 | --- | --- |
 | Cargos de direção superior de 1.º grau | 1 |
 | Cargos de direção intermédia de 1.º grau | 3 |
+
+118340039
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { text-indent:0px; text-align:center; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl8 { text-indent:0px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; }

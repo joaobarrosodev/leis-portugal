@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/31/1993/09/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1993-652126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd1fc27a8a65c47198dcc6b91e05913c48739b1b995d98c8607091729c49fe1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b005b93f7e94c71ec38b0bba8890b255da2827f39e444010ecf443c81a08b77c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Definição de Competências
 - Direcção Regional de Inovação e Gestão Educativa
+- Governo Regional
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1991/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1991/07/04/p/dre
+- type: cites
+  target: pt:dre:492471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584979:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
-  section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 37
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:40Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +213,9 @@ g) Repartição Administrativa (RA).
 
 2 - Os órgãos a que se refere o número anterior funcionam na directa dependência do director regional.
 
-##### SUBSECÇÃO I — Artigo 5.º
+##### SUBSECÇÃO I
+
+###### Artigo 5.º
 
 Secretariado
 
@@ -213,7 +223,9 @@ Secretariado
 
 2 - O secretariado funciona na directa dependência do director regional.
 
-##### SUBSECÇÃO II — Artigo 6.º
+##### SUBSECÇÃO II
+
+###### Artigo 6.º
 
 Centro de Meios audiovisuais
 
@@ -255,7 +267,9 @@ a) Secção Técnica do CMAV (STCMAV);
 
 b) Secção Administrativa do CMAV (SACMAV).
 
-##### SUBSECÇÃO III — Artigo 8.º
+##### SUBSECÇÃO III
+
+###### Artigo 8.º
 
 Gabinete Coordenador do Desporto Escolar
 
@@ -295,7 +309,9 @@ m) Contribuir para a divulgação anual das actividades do desporto escolar.
 
 2 - A RAA compreende a Secção Administrativa do Gabinete Coordenador do Desporto Escolar (SAGCDE).
 
-##### SUBSECÇÃO IV — Artigo 10.º
+##### SUBSECÇÃO IV
+
+###### Artigo 10.º
 
 Gabinete Coordenador do Ensino Superior
 
@@ -327,7 +343,9 @@ m) Colaborar com outros departamentos e serviços da Secretaria Regional de Educ
 
 2 - O GCES é dirigido por um coordenador, equiparado para todos os efeitos legais a chefe de divisão.
 
-##### SUBSECÇÃO V — Artigo 11.º
+##### SUBSECÇÃO V
+
+###### Artigo 11.º
 
 Gabinete de Apoio à Expressão Musical e Dramática
 
@@ -355,7 +373,9 @@ i) Colaborar com entidades oficiais e particulares no âmbito da sua área.
 
 3 - Na dependência do GAEMD funciona a Secção Administrativa do Gabinete de Apoio de Expressão Musical e Dramática (SAGAEMD).
 
-##### SUBSECÇÃO VI — Artigo 12.º
+##### SUBSECÇÃO VI
+
+###### Artigo 12.º
 
 Gabinete Coordenador das Bibliotecas
 
@@ -369,7 +389,9 @@ c) Promover e fomentar as relações entre os utentes das bibliotecas e os seus 
 
 d) Apoiar os professores das escolas do ensino básico (1.º ciclo), mediante empréstimos de livros didácticos e realização de encontros didáctico-pedagógicos, em colaboração com a DSGE e a DSFIP.
 
-##### SUBSECÇÃO VII — Artigo 13.º
+##### SUBSECÇÃO VII
+
+###### Artigo 13.º
 
 Repartição Administrativa
 
@@ -383,7 +405,9 @@ b) Secção de Arquivo e Documentação (SAD);
 
 c) Secção Administrativa (SA).
 
-#### SECÇÃO II — Artigo 14.º
+#### SECÇÃO II
+
+###### Artigo 14.º
 
 Direcção de Serviços de Formação e Inovação Pedagógica
 
@@ -409,9 +433,11 @@ i) Estudar planos de formação de formadores.
 
 2 - Na dependência da DSFIP funcionam a Divisão de Implementação e Desenvolvimento da Reforma Curricular (DIDRC) e a Divisão de Formação Contínua (DFC).
 
-##### SUBSECÇÃO I — Artigo 15.º
+##### SUBSECÇÃO I
 
-##### Divisão de Implementação e Desenvolvimento da Reforma Curricular
+###### Artigo 15.º
+
+Divisão de Implementação e Desenvolvimento da Reforma Curricular
 
 À DIDRC compete, nomeadamente:
 
@@ -425,9 +451,11 @@ d) Divulgar a documentação de índole pedagógica que se mostrar conveniente;
 
 e) Implementar, em colaboração com o Gabinete de Ensino Tecnológico, Artístico e Profissional, o ensino tecnológico, artístico e profissional.
 
-##### SUBSECÇÃO II — Artigo 16.º
+##### SUBSECÇÃO II
 
-##### Divisão de Formação Contínua
+###### Artigo 16.º
+
+Divisão de Formação Contínua
 
 À DFC compete, nomeadamente:
 
@@ -441,7 +469,9 @@ d) Assegurar o apoio pedagógico e a formação contínua nos estabelecimentos d
 
 e) Divulgar documentação de índole pedagógica adequada aos objectivos dos vários níveis de ensino.
 
-#### SECÇÃO III — Artigo 17.º
+#### SECÇÃO III
+
+###### Artigo 17.º
 
 Direcção de Serviços de Equipamento e Informação Educativa
 
@@ -461,9 +491,11 @@ f) Acompanhar a execução dos investimentos do Plano e elaborar relatórios res
 
 2 - Na dependência da DSEIE funcionam a Divisão de Equipamento Educativo (DEE), a Divisão de Informação Educativa (DIE), o Gabinete de Apoio Jurídico-Económico (GAJE) e a Repartição Administrativa de Apoio à Informação Educativa (RAAIE).
 
-##### SUBSECÇÃO I — Artigo 18.º
+##### SUBSECÇÃO I
 
-##### Divisão de Equipamento Educativo
+###### Artigo 18.º
+
+Divisão de Equipamento Educativo
 
 À DEE compete, nomeadamente:
 
@@ -477,9 +509,11 @@ d) Promover a criação e divulgação de normas de utilização de todas as ins
 
 e) Promover a definição, actualização e distribuição de normas e tipologias das instalações escolares e equipamento educativo, tendo em conta as exigências pedagógicas e a sua evolução.
 
-##### SUBSECÇÃO II — Artigo 19.º
+##### SUBSECÇÃO II
 
-##### Divisão de Informação Educativa
+###### Artigo 19.º
+
+Divisão de Informação Educativa
 
 À DIE compete, nomeadamente:
 
@@ -495,7 +529,9 @@ e) Elaborar estudos periódicos orientados para o diagnóstico fundamentado da s
 
 f) Proporcionar a optimização da gestão dos estabelecimentos de ensino, através da elaboração de estudos solicitados para o efeito.
 
-##### SUBSECÇÃO III — Artigo 20.º
+##### SUBSECÇÃO III
+
+###### Artigo 20.º
 
 Gabinete de Apoio Jurídico-Económico
 
@@ -503,7 +539,9 @@ Gabinete de Apoio Jurídico-Económico
 
 2 - O GAJE é dirigido por um coordenador, equiparado para todos os efeitos legais a chefe de divisão.
 
-##### SUBSECÇÃO IV — Artigo 21.º
+##### SUBSECÇÃO IV
+
+###### Artigo 21.º
 
 Repartição Administrativa de Apoio à Informação Educativa
 
@@ -515,7 +553,9 @@ a) Secção Técnica da DSEIE (STDSEIE);
 
 b) Secção Administrativa da DSEIE (SADSEIE).
 
-#### SECÇÃO IV — Artigo 22.º
+#### SECÇÃO IV
+
+###### Artigo 22.º
 
 Direcção de Serviços de Extensão Educativa
 
@@ -539,9 +579,11 @@ g) Promover acções de informação e orientação pedagógica para professores
 
 3 - Na dependência da DSEE funcionam a Divisão de Educação Permanente (DEP) e o Gabinete de Assuntos Comunitários (GAC).
 
-##### SUBSECÇÃO I — Artigo 23.º
+##### SUBSECÇÃO I
 
-##### Divisão de Educação Permanente
+###### Artigo 23.º
+
+Divisão de Educação Permanente
 
 À DEP compete, nomeadamente:
 
@@ -557,7 +599,9 @@ e) Colaborar com os responsáveis pelas bibliotecas na promoção do interesse p
 
 f) Colaborar com os responsáveis pelas bibliotecas na promoção e fomento das relações entre os utentes das bibliotecas e os seus familiares e fazer a ligação escola-comunidade.
 
-##### SUBSECÇÃO II — Artigo 24.º
+##### SUBSECÇÃO II
+
+###### Artigo 24.º
 
 Gabinete de Assuntos Comunitários
 
@@ -575,7 +619,9 @@ e) Divulgar projectos e programas comunitários nas áreas de competência da Se
 
 2 - O GAC é dirigido por um coordenador, equiparado para todos os efeitos legais a chefe de divisão.
 
-#### SECÇÃO V — Artigo 25.º
+#### SECÇÃO V
+
+###### Artigo 25.º
 
 Direcção de Serviços de Gestão Educativa
 
@@ -609,9 +655,11 @@ e) Gabinete de Apoio Psicológico e de Orientação Escolar e Profissional (GAPO
 
 f) Gabinete de Ensino Tecnológico, Artístico e Profissional (GETAP).
 
-##### SUBSECÇÃO I — Artigo 26.º
+##### SUBSECÇÃO I
 
-##### Divisão de Educação Pré-Escolar
+###### Artigo 26.º
+
+Divisão de Educação Pré-Escolar
 
 À DEPE compete, nomeadamente:
 
@@ -631,9 +679,11 @@ g) Participar na definição da rede dos estabelecimentos de educação pré-esc
 
 h) Colaborar com a DSEIE no sentido de fornecer indicadores de carácter pedagógico a considerar na definição de tipologia do equipamento e instalações escolares para a educação pré-escolar, tendo em vista a sua adequação a este nível de educação.
 
-##### SUBSECÇÃO II — Artigo 27.º
+##### SUBSECÇÃO II
 
-##### Divisão do Ensino Básico - 1.º Ciclo (DEB - 1.º Ciclo)
+###### Artigo 27.º
+
+Divisão do Ensino Básico - 1.º Ciclo (DEB - 1.º Ciclo)
 
 À DEB - 1.º Ciclo compete, nomeadamente:
 
@@ -659,9 +709,11 @@ j) Colaborar com os responsáveis pelas bibliotecas no apoio e complementarizaç
 
 l) Colaborar com os responsáveis pelas bibliotecas no apoio aos professores das escolas do ensino básico (1.º ciclo), mediante empréstimos de livros didácticos.
 
-##### SUBSECÇÃO III — Artigo 28.º
+##### SUBSECÇÃO III
 
-##### Divisão do Ensino Básico - 2.º e 3.º Ciclos (DEB - 2.º e 3.º Ciclos)
+###### Artigo 28.º
+
+Divisão do Ensino Básico - 2.º e 3.º Ciclos (DEB - 2.º e 3.º Ciclos)
 
 À DEB - 2.º e 3.º Ciclos compete, nomeadamente:
 
@@ -695,9 +747,11 @@ o) Aplicar as normas da legislação na concessão de equivalências de planos d
 
 p) Desenvolver as acções decorrentes do funcionamento dos estabelecimentos de ensino particular no que se refere a matrículas, transferências e equivalências.
 
-##### SUBSECÇÃO IV — Artigo 29.º
+##### SUBSECÇÃO IV
 
-##### Divisão de Ensino Secundário
+###### Artigo 29.º
+
+Divisão de Ensino Secundário
 
 À DES compete, nomeadamente:
 
@@ -727,7 +781,9 @@ m) Aplicar as normas da legislação na concessão de equivalências de planos d
 
 n) Desenvolver as acções decorrentes do funcionamento dos estabelecimentos de ensino secundário particular no que se refere a matrículas, transferências e equivalências.
 
-##### SUBSECÇÃO V — Artigo 30.º
+##### SUBSECÇÃO V
+
+###### Artigo 30.º
 
 Gabinete de Apoio Psicológico e de Orientação Escolar e Profissional
 
@@ -747,7 +803,9 @@ f) Garantir a produção e a difusão de informação sobre as oportunidades edu
 
 g) Elaborar e desenvolver programas de acção, visando a avaliação e intervenção de situações específicas no campo educativo e em colaboração com outros agentes e valências da comunidade.
 
-##### SUBSECÇÃO VI — Artigo 31.º
+##### SUBSECÇÃO VI
+
+###### Artigo 31.º
 
 Gabinete de Ensino Tecnológico, Artístico e Profissional
 
@@ -769,7 +827,9 @@ g) Fazer recomendações em ordem a ultrapassar necessidades educativas, habilit
 
 2 - O GETAP é dirigido por um coordenador, equiparado para todos os efeitos legais a chefe de divisão.
 
-#### SECÇÃO VI — Artigo 32.º
+#### SECÇÃO VI
+
+###### Artigo 32.º
 
 Inspecção Pedagógica
 
@@ -787,7 +847,9 @@ e) Informar sobre as carências de formação do pessoal docente e propor as med
 
 f) Apoiar pedagógica e tecnicamente o ensino particular e cooperativo, velando pela qualidade do ensino e pela eficiência administrativa.
 
-### CAPÍTULO III — Artigo 33.º
+### CAPÍTULO III
+
+###### Artigo 33.º
 
 O pessoal
 
@@ -835,16 +897,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 29 de Julho de 1993.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 19 de Agosto de 1993.**
+Assinado em 19 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Direcção Regional de Inovação e Gestão Educativa
 
-## Anexo a que se refere o n.º 2 do artigo 33.º do presente diploma
+Anexo a que se refere o n.º 2 do artigo 33.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/228b00/54295442.pdf))](https://files.diariodarepublica.pt/1s/1993/09/228b00/54295442.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/228b00/54295442.pdf)

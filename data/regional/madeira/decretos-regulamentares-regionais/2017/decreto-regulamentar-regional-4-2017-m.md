@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/05000/0133101336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2017/03/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2017-106579666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75ae8d4b50f185217d934dc00fc7159d760b3792320bdf2999a209009d8a853e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31668c8af26d5d06cd3d34738551a5b6527bab4026863b50e6cbecb52eea6b46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Pessoal Dirigente
+- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
 - Definição de Competências
-- Diretor Regional
-- Gabinete da ZONA Franca da Madeira
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Direcção Regional dos Assuntos Fiscais
+- Diretor Regional
+- Formação Profissional
+- Gabinete da ZONA Franca da Madeira
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 - Serviço de Finanças
 - Transferência de Competências
 - Zona Franca
-- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:896613431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:121260111:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 4.º, 7.º, 11.º, 14.º, 15.º, 17.º e 19.º e revogados as als. f) do n.º 1 e e) do
+    n.º 2 do art. 3.º e o art. 8.º do DRR 14/2015/M de 19-ago, na versão alterada e republicada pelo presente diploma, pelo(a)
+    Decreto Regulamentar Regional n.º 3/2019/M - Diário da República n.º 55/2019, Série I de 2019-03-19, que procedeu à republicação,
+    com as alterações ora introduzidas, da orgânica da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
+    (AT-RAM), aprovada pelo citado DRR 14/2015/M.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2019-121260111
+  date: '2019-03-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2011/12/15/p/dre
   label: null
@@ -124,16 +133,102 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/320-a
   label: null
   source: http://data.dre.pt/eli/port/320-a
+- type: cites
+  target: pt:dre:145591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67332420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055496:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:896613431:por
+  label: Revogado, a partir de 15 de novembro de 2024, pelo(a) Decreto Regulamentar Regional n.º 31/2024/M - Diário da República
+    n.º 221/2024, Série I de 2024-11-14 nos termos da alínea b) do artigo 18.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2024-896613431
+  date: '2024-11-14'
 article_structure:
-  article_count: 29
+  article_count: 28
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:16Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +289,9 @@ k) [...].
 
 6 - O Diretor Regional é substituído, nas suas ausências, faltas e impedimentos, por um titular de cargo de direção intermédia de 1.º grau a designar e na falta deste por um titular de cargo de direção intermédia de 2.º grau a designar.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A dotação de cargos de direção superior de 1.º grau e de direção intermédia de 1.º e 2.º grau consta do mapa anexo ao presente diploma, do qual faz parte integrante.»
 
@@ -204,7 +301,7 @@ A dotação de cargos de direção superior de 1.º grau e de direção intermé
 
 ## ANEXO I — Mapa de cargos dirigentes a que se refere o artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/05000/0133101336.pdf))](https://files.diariodarepublica.pt/1s/2017/03/05000/0133101336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/05000/0133101336.pdf)
 
 ###### Artigo 4.º — Norma transitória
 
@@ -224,11 +321,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado em Conselho do Governo Regional em 23 de fevereiro de 2017.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 2 de março de 2017.**
+Assinado em 2 de março de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -486,4 +583,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — Mapa de cargos dirigentes a que se refere o artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/05000/0133101336.pdf))](https://files.diariodarepublica.pt/1s/2017/03/05000/0133101336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/05000/0133101336.pdf)

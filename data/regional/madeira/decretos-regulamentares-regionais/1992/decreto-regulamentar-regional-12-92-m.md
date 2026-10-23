@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/1992/05/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1992-523187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fbe670b67f93d62199bebae72dc054d3b2c5afb84c0d276201b4769b59914b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 221fb8ca0f36a6577f8cdec03536b634daa2a97ec621666eabbb08000085099b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Regional de Saúde
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Secretário Regional dos Assuntos Sociais
 relationships:
 - type: cites
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681580:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:25Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +112,11 @@ Este Conselho vai constituir o lugar de encontro dos projectos e dos interesses 
 
 Nestes termos, o Governo Regional da Madeira, ao abrigo do disposto no artigo 21.º do [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto, no artigo 49.º, alínea d), da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, e no artigo 229.º, n.º 1, alínea d), da Constituição, decreta o seguinte:
 
-###### Artigo 1.º - 1 - Pelo presente decreto regulamentar regional é instituído o Conselho Regional de Saúde, previsto no artigo 6.º do Estatuto do Sistema de Saúde, aprovado pelo [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto.
+Artigo 1.º - 1 - Pelo presente decreto regulamentar regional é instituído o Conselho Regional de Saúde, previsto no artigo 6.º do Estatuto do Sistema de Saúde, aprovado pelo [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto.
 
 2 - O Conselho Regional de Saúde começará a funcionar logo que tenham sido designados os membros que o compõem.
 
-###### Art. 2.º - 1 - ao Conselho Regional de Saúde, como órgão de consulta e de participação das entidades interessadas ou intervenientes na área da saúde, compete, mediante solicitação do Secretário Regional dos Assuntos Sociais:
+Art. 2.º - 1 - ao Conselho Regional de Saúde, como órgão de consulta e de participação das entidades interessadas ou intervenientes na área da saúde, compete, mediante solicitação do Secretário Regional dos Assuntos Sociais:
 
 a) Pronunciar-se sobre os planos de actividade que lhe sejam submetidos;
 
@@ -122,7 +130,7 @@ e) Dar parecer sobre medidas tendentes a promover a cooperação entre os sector
 
 2 - Haverá um regulamento interno para definir as regras de funcionamento, a elaborar pelo próprio Conselho.
 
-###### Art. 3.º - 1 - O Conselho Regional de Saúde é presidido pelo Secretário Regional dos Assuntos Sociais e dele fazem parte como vogais:
+Art. 3.º - 1 - O Conselho Regional de Saúde é presidido pelo Secretário Regional dos Assuntos Sociais e dele fazem parte como vogais:
 
 a) Um representante da Secretaria Regional da Educação, Juventude e Emprego e outro da Secretaria Regional do Equipamento Social;
 
@@ -136,28 +144,28 @@ e) Dois profissionais de saúde, sendo um indicado pela Ordem dos Médicos e out
 
 2 - O presidente pode convocar, a título eventual, personalidades cuja formação científica ou técnica possa ser útil na apreciação das questões em estudo.
 
-###### Art. 4.º - 1 - O mandato dos vogais designados coincide com o período de cada legislatura regional.
+Art. 4.º - 1 - O mandato dos vogais designados coincide com o período de cada legislatura regional.
 
 2 - Quando, no decurso do mandato, se verifiquem vagas entre os vogais, haverá nova designação pelo órgão ou serviço competente.
 
-###### Art. 5.º - 1 - O Conselho funciona normalmente em plenário mas pode constituir comissões ou grupos de trabalho eventuais, com duração limitada, para estudar assuntos individualizados.
+Art. 5.º - 1 - O Conselho funciona normalmente em plenário mas pode constituir comissões ou grupos de trabalho eventuais, com duração limitada, para estudar assuntos individualizados.
 
 2 - Para as comissões ou grupos de trabalho podem também ser convocadas personalidades particularmente competentes nos assuntos em estudo.
 
-###### Art. 6.º - 1 - O Conselho reunirá ordinariamente duas vezes por ano: uma para colaborar na preparação dos planos anuais de actividade da Secretaria Regional dos Assuntos Sociais e outra para apreciar os resultados obtidos.
+Art. 6.º - 1 - O Conselho reunirá ordinariamente duas vezes por ano: uma para colaborar na preparação dos planos anuais de actividade da Secretaria Regional dos Assuntos Sociais e outra para apreciar os resultados obtidos.
 
 2 - Extraordinariamente reúne por iniciativa do presidente ou a pedido de, pelo menos, um terço dos vogais em exercício.
 
-###### Art. 7.º Os encargos derivados do funcionamento do Conselho são suportados pelo Gabinete do Secretário Regional dos Assuntos Sociais, que lhe assegura também o apoio administrativo.
+Art. 7.º Os encargos derivados do funcionamento do Conselho são suportados pelo Gabinete do Secretário Regional dos Assuntos Sociais, que lhe assegura também o apoio administrativo.
 
-###### Art. 8.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 26 de Março de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Abril de 1992.**
+Assinado em 20 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

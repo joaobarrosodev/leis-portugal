@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2001/07/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2001-348479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 403d9f49041a73e770904a226b557252f4270d551c15bee30acb7104c0bdca29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03e7f11a2ee769aec4f1b0f1427cb421e3f5a3697278dafc226beb58e4f9f797
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Concurso
 - Definição de Competências
 - Fiscalização
-- Recrutamento de Pessoal
 - Incompatibilidades
 - Inspecção Regional das Actividades Económicas
 - Integração de Trabalhadores
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Inspecção
-- Madeira.região Autónoma
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:175343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:635211:por
+  label: "Alterados os arts. 6º, 9º, 13º a 21º, 24º e 26º, alterada a designação dos arts. 26º-B e 30º, aditado um artº 28º,\
+    \ revogados os arts, 26º-A, 27º, 28º, 29º, 30º, 31º, e 32º, alterados e substituidos os quadros de pessoal e republicado\
+    \ em anexo o DRR 2/96/M de 24-Fev, alterado pelo presente diploma, pelo DRR.15/2002/M.2002.08.23.PG-RAM, DR.IS-B [216]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2002-635211
+  date: '2002-08-23'
+- type: amended_by
+  target: pt:dre:517846:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, dos arts. 1º e 2.º do DRR 15/2002/M, de 18-Set,\
+    \ enquanto alteram os arts. 11º, 13º a 21º, 24º e 26º da orgânica da Inspecção Regional das Actividades Económicas, aprovada\
+    \ pelo DRR 2/96/M de 22-Set, com as alterações introduzidas pelo presente decreto, bem como é declarada a inconstitucionalidade\
+    \ com força obrigatória geral do nº 1 do art. 3º, pelo AC.18/2007.16.01.2007.TCS, DR.IS [36] de 20.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/18-2007-517846
+  date: '2007-01-16'
+- type: amended_by
+  target: pt:dre:248005:por
+  label: "Alterado o art. 11º da orgânica da Inspecção Regional das Actividades Económicas, aprovados pelo DRR 2/96/M de 24-Fev\
+    \ , com a redacção constante do presente diploma, pelo DLR.5/2008/M.19.02.2008.AL-RAM, DR.IS [35] de 19.02.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2008-248005
+  date: '2008-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/19/2000/03/22/m/dre
   label: null
@@ -110,16 +132,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175343:por
+  label: "Revogado, sem prejuízo do nº2 do art. 2º, o DRR 2/96/M, de 24-Fev, na redação dos DRR 20/97/M, de 22-set, 19/2000/M,\
+    \ de 22-mar, do presente diploma, DRR 15/2002/M, de 18-set e do DLR 5/2008, de 19-fev, pelo DRR.19/2012/M.22.08.2012.PG-RAM,\
+    \ DR.IS [162] de 22.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2012-175343
+  date: '2012-08-22'
 article_structure:
-  article_count: 12
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:41Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +203,9 @@ Natureza e atribuições
 
 2 - A IRAE é, no exercício da sua acção, autoridade e órgão de polícia criminal.
 
-###### Artigo 6.º — Órgãos e serviços
+Artigo 6.º
+
+Órgãos e serviços
 
 A IRAE compreende os seguintes órgãos e serviços:
 
@@ -158,7 +217,9 @@ c) ...
 
 d) Departamento Administrativo.
 
-###### Artigo 7.º — Direcção
+Artigo 7.º
+
+Direcção
 
 1 - A IRAE é dirigida por um inspector regional, a quem compete:
 
@@ -176,7 +237,9 @@ e) Elaborar o relatório anual de actividades da IRAE.
 
 3 - O cargo de inspector regional é, para todos os efeitos legais, equiparado ao de director regional.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - À Direcção de Serviços de Inspecção compete:
 
@@ -196,7 +259,9 @@ g) ...
 
 2 - A Direcção de Serviços de Inspecção é dirigida por um director de serviços, a nomear nos termos da legislação vigente.
 
-###### Artigo 10.º — Departamento Administrativo
+Artigo 10.º
+
+Departamento Administrativo
 
 1 - Ao Departamento Administrativo compete promover os procedimentos relacionados com o expediente geral e arquivo, bem como os relativos aos processos movimentados pela IRAE no âmbito das suas competências legais, para além de outras tarefas de carácter administrativo indispensáveis ao normal funcionamento dos serviços.
 
@@ -206,11 +271,15 @@ a) Secção de Expediente Geral e Arquivo;
 
 b) Secção de Processos.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O quadro do pessoal dirigente, técnico superior, administrativo e auxiliar, bem como o do pessoal de inspecção superior e de inspecção da IRAE, é o que consta dos mapas I e II anexos ao presente diploma, do qual fazem parte integrante.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - (O corpo do artigo.)
 
@@ -226,7 +295,9 @@ Incompatibilidades
 
 O pessoal das carreiras de inspecção superior e de inspecção em serviço efectivo não pode exercer cargos de gerência, administração ou quaisquer outras funções, sejam ou não remuneradas, ao serviço de entidades cuja actividade esteja sujeita à fiscalização da IRAE.
 
-###### Artigo 25.º-A — Carreira de coordenador
+Artigo 25.º-A
+
+Carreira de coordenador
 
 1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.
 
@@ -234,7 +305,9 @@ O pessoal das carreiras de inspecção superior e de inspecção em serviço efe
 
 3 - O recrutamento para a categoria de coordenador far-se-á, mediante concurso, de entre pessoal do grupo administrativo, com o mínimo de três anos na respectiva carreira e com comprovada experiência na área para que é aberto o concurso.
 
-###### Artigo 26.º-A — Transição para a carreira de coordenador
+Artigo 26.º-A
+
+Transição para a carreira de coordenador
 
 1 - Os chefes de secção do quadro da IRAE podem transitar, independentemente de quaisquer formalidades, para a categoria de coordenador.
 
@@ -246,7 +319,9 @@ O pessoal das carreiras de inspecção superior e de inspecção em serviço efe
 
 5 - A transição produz efeitos a partir da data de integração na nova categoria.
 
-###### Artigo 26.º-B — Concursos e estágios pendentes
+Artigo 26.º-B
+
+Concursos e estágios pendentes
 
 1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm a sua validade, sendo os lugares a prover os que constarem do mapa anexo ao presente diploma.
 
@@ -260,18 +335,18 @@ Aprovado em Conselho do Governo Regional em 31 de Maio de 2001.
 
 O Vice-Presidente do Governo Regional, no exercício da Presidência, João Carlos Cunha e Silva.
 
-**Assinado em 19 de Junho de 2001.**
+Assinado em 19 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Inspecção Regional das Actividades Económicas
 
 MAPA I
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/07/156b00/40864089.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/07/156b00/40864089.pdf)](https://files.diariodarepublica.pt/1s/2001/07/156b00/40864089.pdf)
 
 MAPA II
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/07/156b00/40864089.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/07/156b00/40864089.pdf)](https://files.diariodarepublica.pt/1s/2001/07/156b00/40864089.pdf)

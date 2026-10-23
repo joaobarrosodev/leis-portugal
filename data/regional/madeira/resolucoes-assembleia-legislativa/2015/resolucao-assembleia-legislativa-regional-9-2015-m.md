@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18000/0801408055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/9/2015/09/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6430ab190551bbd19658f266d35cebcf9cb86ef00b48d9a1665230f56716dedc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bd085b650b605c127a3bd5a71adb42460642d9cea6b981da7109bc932e0eeab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Parlamentar
+- Assembleia Legislativa
 - Assembleia Legislativa Regional
 - Cargos Políticos
-- Eleição
+- Comissão de Regimento e Mandatos
 - Comissão Parlamentar
 - Comissão Permanente
-- Governo Regional
 - Definição de Competências
+- Eleição
 - Estatuto
+- Governo Regional
 - Grupo Parlamentar
-- Assembleia Legislativa
-- Comissão de Regimento e Mandatos
+- Madeira.região Autónoma
 - Mandato
 - Moção Política
 - Orçamento Regional
+- Parlamentar
 - Partido Político
 - Presidente da Assembleia Legislativa Regional
+- Processo Legislativo
 - Programa
-- Madeira.região Autónoma
 - Referendo
 - Regimento
 - Representante da República para a Região Autónoma da Madeira
-- Processo Legislativo
 relationships:
 - type: amended_by
   target: pt:dre:215874470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:132783836:por
+  label: Alterados os arts. 63.º, 104.º e 119.º do Regimento da AL-RAM, aprovado pela Res 1/2000/M de 12-jan e republicado
+    pelo presente diploma, republicado em anexo pelo(a) Resolução da Assembleia Legislativa da Região Autónoma da Madeira
+    n.º 16-A/2020/M - Diário da República n.º 85/2020, 1º Suplemento, Série I de 2020-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/16-a-2020-132783836
+  date: '2020-04-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolalr/1/2000/01/12/m/dre
   label: null
@@ -102,16 +109,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolalram/5/2012/01/17/m/dre
   label: null
   source: http://data.dre.pt/eli/resolalram/5/2012/01/17/m/dre
+- type: cites
+  target: pt:dre:514057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544397:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:71001581:por
+  label: Retificada a epígrafe do art 24.º, os arts 121.º e 205.º (todos na redação do art. 1.º); retificado ainda o art.
+    24.º, a al b) do art 42.º, n.º 1 do art 51.º, al l) do n.º 1 do art 67.º, art 126.º, als a) e b) do n.º 3 do art 141.º
+    e art. 208.º (todos constantes do anexo II) da republicação e renumeração do Regimento da Assembleia Legislativa da Região
+    Autónoma da Madeira, do presente diploma,] pelo(a) Declaração de Retificação n.º 52/2015 - Diário da República n.º 223/2015,
+    Série I de 2015-11-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/52-2015-71001581
+  date: '2015-11-13'
 article_structure:
-  article_count: 323
+  article_count: 254
   section_count: 63
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:08Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +194,9 @@ p) [Anterior alínea q).]
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Constituem poderes de cada grupo parlamentar:
 
@@ -204,15 +230,21 @@ n) [Anterior alínea o).]
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Ao deputado que seja único representante de um partido são atribuídos os poderes enunciados nas alíneas a), b), c), d), e), j) e k) do n.º 1 e no n.º 2 do artigo anterior.
 
-###### Artigo 15.º — Deputados não inscritos
+Artigo 15.º
+
+Deputados não inscritos
 
 Os deputados que não integrem qualquer grupo parlamentar e não sejam únicos representantes de partido, comunicam o facto ao Presidente da Assembleia Legislativa e exercem o mandato como deputados não inscritos.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Compete ao Presidente da Assembleia Legislativa, quanto aos trabalhos da Assembleia Legislativa:
 
@@ -260,7 +292,9 @@ b) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 24.º — Conferência dos Representantes do Partidos
+Artigo 24.º
+
+Conferência dos Representantes do Partidos
 
 1 - A reunião dos representantes dos partidos com assento parlamentar, é composta pelos presidentes dos grupos parlamentares ou seus substitutos e pelos deputados constituídos em representação parlamentar.
 
@@ -280,7 +314,9 @@ b) ...
 
 9 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -290,13 +326,17 @@ b) ...
 
 4 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
 2 - O número de membros de cada comissão e a sua distribuição pelos diversos partidos são fixados por deliberação da Assembleia Legislativa, sob proposta do Presidente, ouvida a Conferência dos Representantes dos Partidos, salvaguardando o direito de cada partido, a participar no mínimo numa Comissão.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -308,7 +348,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O mandato dos representantes na Comissão Permanente, Comissão de Regimento e Mandatos e nas comissões especializadas permanentes mantém-se por legislatura.
 
@@ -318,7 +360,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 Compete às comissões especializadas permanentes:
 
@@ -346,7 +390,9 @@ k) [Anterior alínea m).]
 
 l) Elaborar um relatório anual sobre a atividade desenvolvida.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - As representações e deputações da Assembleia Legislativa devem respeitar os princípios estabelecidos nos artigos 33.º e 35.º, podendo ser equitativamente reduzidas por despacho do Presidente, ouvida a Conferência dos Representantes dos Partidos, caso os fins e objetivos da deslocação e os custos da mesma o justifiquem, assegurando, sempre que possível, a pluralidade parlamentar.
 
@@ -356,7 +402,9 @@ l) Elaborar um relatório anual sobre a atividade desenvolvida.
 
 4 - ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Os titulares de cargos exteriores à Assembleia Legislativa, por esta designados, são eleitos mediante a apresentação de listas uninominais tendo em conta o pluralismo parlamentar, propostas pelos grupos parlamentares ao Presidente da Assembleia Legislativa, acompanhadas da declaração de aceitação do candidato.
 
@@ -364,7 +412,9 @@ l) Elaborar um relatório anual sobre a atividade desenvolvida.
 
 3 - ...
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -374,13 +424,17 @@ l) Elaborar um relatório anual sobre a atividade desenvolvida.
 
 4 - As faltas dos deputados às reuniões do Plenário devem ser publicitadas no portal da Assembleia Legislativa da Madeira na internet.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - Salvo marcação nas reuniões anteriores, as reuniões do Plenário são convocadas pelo Presidente da Mesa, com a antecedência mínima de quarenta e oito horas.
 
 2 - ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -392,7 +446,9 @@ l) Elaborar um relatório anual sobre a atividade desenvolvida.
 
 5 - A ordem do dia será afixada em lugar público, nas instalações da Assembleia Legislativa, após a sua fixação definitiva, e distribuída aos grupos parlamentares e ao deputado único representante de partido.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Na fixação da ordem do dia das reuniões plenárias, o Presidente da Assembleia Legislativa dará prioridade às matérias, segundo a precedência seguinte:
 
@@ -434,7 +490,9 @@ p) Projetos e propostas de resoluções.
 
 4 - Caso existam iniciativas de urgência ou do Governo Regional, estas terão precedência relativamente às constantes do n.º 3.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -444,9 +502,11 @@ p) Projetos e propostas de resoluções.
 
 4 - (Revogado.)
 
-###### Artigo 68.º — [...]
+Artigo 68.º
 
-**O Presidente da Assembleia Legislativa inclui na primeira parte da ordem do dia prevista no n.º 2 do artigo 82.º a apreciação das seguintes matérias:**
+[...]
+
+O Presidente da Assembleia Legislativa inclui na primeira parte da ordem do dia prevista no n.º 2 do artigo 82.º a apreciação das seguintes matérias:
 
 a) Mensagens do Presidente da República à Assembleia;
 
@@ -472,13 +532,17 @@ k) [Anterior alínea i).]
 
 l) [Anterior alínea j).]
 
-###### Artigo 74.º — Direito de interrupção
+Artigo 74.º
+
+Direito de interrupção
 
 1 - ...
 
 2 - A interrupção não pode exceder dez minutos quando requerida por grupos parlamentares, nem cinco minutos quando requerida por deputado único, representante de partido.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - ...
 
@@ -506,7 +570,9 @@ b) Na segunda parte, os assuntos referidos na alíneas e) e f) do n.º 1, quando
 
 5 - Nos casos referidos no Regimento, ou por deliberação da Conferência dos Representantes dos Partidos ou do Plenário, sem votos contra, pode ser reduzido ou eliminado o período de antes da ordem do dia.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - Os votos de congratulação, solidariedade, louvor, saudação, protesto e pesar, podem ser propostos pela Mesa, pelos grupos parlamentares ou por deputados.
 
@@ -516,7 +582,9 @@ b) Na segunda parte, os assuntos referidos na alíneas e) e f) do n.º 1, quando
 
 4 - (Anterior n.º 5.)
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - ...
 
@@ -548,7 +616,9 @@ k) [Anterior alínea l).]
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 A palavra é concedida aos membros do Governo Regional para:
 
@@ -566,7 +636,9 @@ f) ...
 
 g) ...
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - São considerados requerimentos apenas os pedidos dirigidos à Mesa respeitantes ao processo de apresentação, discussão de qualquer assunto ou ao funcionamento de reunião.
 
@@ -586,7 +658,9 @@ g) ...
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -598,7 +672,9 @@ g) ...
 
 5 - ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - No período da ordem do dia, o tempo global do uso da palavra para o debate na generalidade de projeto e proposta de resoluções, para cada Grupo Parlamentar ou deputado único representante de partido, não pode ser inferior a três minutos e para o debate de projeto ou proposta de lei ou de decreto legislativo regional, não pode ser inferior a quatro minutos, salvo quanto a Conferência dos Representantes dos Partidos dispuser diversamente.
 
@@ -616,7 +692,9 @@ d) (Revogada.)
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - Salvo nos casos previstos na Constituição, no Estatuto da Região ou no Regimento, todas as deliberações são tomadas à pluralidade de votos, estando presente a maioria do número legal de deputados, na última reunião de cada semana, nos termos do disposto no número três do artigo 69.º
 
@@ -626,7 +704,9 @@ d) (Revogada.)
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 1 - Qualquer deputado pode assistir às reuniões das comissões e pode participar nos trabalhos sem direito a voto.
 
@@ -634,7 +714,9 @@ d) (Revogada.)
 
 3 - ...
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
@@ -646,7 +728,9 @@ d) (Revogada.)
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 108.º — Poderes das comissões
+Artigo 108.º
+
+Poderes das comissões
 
 1 - ...
 
@@ -668,7 +752,9 @@ f) ...
 
 4 - Os diplomas, requerimentos e pareceres das comissões, que não contenham matéria reservada, devem ser disponibilizados no portal da Assembleia Legislativa na internet.
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - ...
 
@@ -678,23 +764,31 @@ f) ...
 
 4 - Qualquer das entidades referidas nos n.os 1 e 3 do artigo 107.º e no n.º 2 do artigo 108.º pode ser ouvida em audição parlamentar.
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - Cada comissão especializada permanente deve elaborar o seu regulamento.
 
 2 - ...
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 As comissões devem elaborar um relatório anual sobre os seus trabalhos à Assembleia Legislativa, através de comunicações dos respetivos relatores ou da publicação no Diário.
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - As reuniões das Comissões são públicas.
 
 2 - Em casos excecionais, poderão não sê-lo, se as Comissões assim o deliberarem.
 
-###### Artigo 118.º — Diário da Assembleia Legislativa da Região Autónoma da Madeira
+Artigo 118.º
+
+Diário da Assembleia Legislativa da Região Autónoma da Madeira
 
 1 - ...
 
@@ -708,7 +802,9 @@ As comissões devem elaborar um relatório anual sobre os seus trabalhos à Asse
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 119.º — Conteúdo da 1.ª série do Diário
+Artigo 119.º
+
+Conteúdo da 1.ª série do Diário
 
 1 - Da 1.ª série do Diário constarão, nomeadamente:
 
@@ -724,7 +820,9 @@ d) ...
 
 3 - A 1.ª série do Diário, depois de aprovada, constituirá expressão autêntica do ocorrido na reunião a que respeitar.
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - O original da 1.ª série do Diário é elaborado pelos serviços competentes e assinado pelo Presidente da Assembleia Legislativa e pelos Secretários da Mesa.
 
@@ -736,7 +834,9 @@ d) ...
 
 5 - Findo o período previsto no n.º 2, a 1.ª série do Diário é submetida à aprovação da Assembleia Legislativa.
 
-###### Artigo 121.º — Da 2.ª série do Diário
+Artigo 121.º
+
+Da 2.ª série do Diário
 
 1 - Na 2.ª série do Diário serão publicados:
 
@@ -756,7 +856,9 @@ g) (Revogada.)
 
 2 - A 2.ª série do Diário é elaborada pelos serviços competentes e aprovada pela Mesa.
 
-###### Artigo 123.º — [...]
+Artigo 123.º
+
+[...]
 
 1 - ...
 
@@ -766,7 +868,9 @@ g) (Revogada.)
 
 4 - O Diário da Assembleia é disponibilizado gratuitamente em suporte informático no portal da Assembleia.
 
-###### Artigo 140.º — [...]
+Artigo 140.º
+
+[...]
 
 1 - A comissão pronuncia-se, fundamentando devidamente o seu parecer, no prazo estabelecido pelo Presidente da Assembleia Legislativa, com direito de recurso do autor ou dos autores para o Plenário.
 
@@ -776,13 +880,17 @@ g) (Revogada.)
 
 4 - ...
 
-###### Artigo 143.º — [...]
+Artigo 143.º
+
+[...]
 
 1 - Em razão da especial relevância da matéria, a comissão competente pode propor ao Presidente da Assembleia Legislativa a discussão pública de projetos ou propostas de decreto legislativo regional, por um período de trinta dias.
 
 2 - ...
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - Nenhum projeto ou proposta de decreto legislativo regional será discutido em reunião plenária sem ter sido distribuído aos deputados, com a antecedência de, pelo menos, 3 dias úteis.
 
@@ -790,17 +898,23 @@ g) (Revogada.)
 
 3 - O disposto nos números anteriores não prejudica o consenso estabelecido na Conferência dos Representantes dos Partidos, no sentido de a discussão em reunião plenária poder ter lugar com dispensa dos prazos estabelecidos.
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - A duração do debate segue o disposto no artigo 97.º, salvo quando a Conferência dos Representantes dos Partidos, em função da natureza e importância das matérias, dispuser diversamente.
 
 2 - O debate acabará, quando não houver mais oradores inscritos.
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 145.º, salvo no que respeita à obrigatoriedade da distribuição aos deputados.
 
-###### Artigo 156.º — [...]
+Artigo 156.º
+
+[...]
 
 1 - ...
 
@@ -808,11 +922,15 @@ Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa 
 
 3 - ...
 
-###### Artigo 164.º — [...]
+Artigo 164.º
+
+[...]
 
 O processo legislativo comum, aplica-se aos diplomas que sejam propostos com a forma de resolução.
 
-###### Artigo 172.º — [...]
+Artigo 172.º
+
+[...]
 
 1 - ...
 
@@ -822,7 +940,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - O debate na generalidade das propostas tem a duração máxima de três dias, conforme for deliberado e organizado pela Conferência dos Representantes dos Partidos, devendo a última destas reuniões ser exclusivamente destinada ao encerramento.
 
@@ -832,7 +952,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 1 - ...
 
@@ -842,19 +964,25 @@ b) ...
 
 4 - ...
 
-###### Artigo 189.º — [...]
+Artigo 189.º
+
+[...]
 
 1 - ...
 
 2 - O tempo será distribuído e atribuído de acordo com o disposto no artigo 97.º
 
-###### Artigo 193.º — [...]
+Artigo 193.º
+
+[...]
 
 1 - ...
 
 2 - O tempo será distribuído e atribuído de acordo com o disposto no artigo 97.º
 
-###### Artigo 194.º — [...]
+Artigo 194.º
+
+[...]
 
 1 - Encerrado o debate, procede-se, de seguida e na mesma reunião, à votação da moção de confiança.
 
@@ -862,7 +990,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 1 - O debate iniciar-se-á no oitavo dia parlamentar subsequente à apresentação da moção de censura, não pode exceder um dia e é deliberado e organizado pela Conferência dos Representantes dos Partidos.
 
@@ -872,7 +1002,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 197.º — [...]
+Artigo 197.º
+
+[...]
 
 1 - Encerrado o debate, procede-se de seguida e na mesma reunião, à votação da moção de censura.
 
@@ -880,7 +1012,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 198.º — Debate com o Governo
+Artigo 198.º
+
+Debate com o Governo
 
 1 - O Presidente do Governo e o Governo comparecem mensalmente perante o Plenário, para um debate, em data a fixar pelo Presidente da Assembleia Legislativa, ouvidos o Governo e a Conferência dos Representantes dos Partidos.
 
@@ -890,11 +1024,15 @@ b) ...
 
 4 - (Revogado.)
 
-###### Artigo 204.º — [...]
+Artigo 204.º
+
+[...]
 
 No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do artigo 12.º, o debate será agendado e organizado pela Conferência dos Representantes dos Partidos.
 
-###### Artigo 205.º — [...]
+Artigo 205.º
+
+[...]
 
 1 - ...
 
@@ -904,7 +1042,9 @@ No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do arti
 
 4 - O tempo de intervenção do Governo é fixado pela Conferência dos representantes dos Partidos, não podendo ser superior ao tempo de intervenção atribuído ao maior grupo parlamentar.
 
-###### Artigo 206.º — Debates de urgência
+Artigo 206.º
+
+Debates de urgência
 
 1 - Os grupos parlamentares e deputados representantes de partido podem requerer, com a presença do Governo Regional, debates de urgência.
 
@@ -912,7 +1052,9 @@ No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do arti
 
 3 - ...
 
-###### Artigo 211.º — [...]
+Artigo 211.º
+
+[...]
 
 1 - As petições poderão ser apreciadas em reunião plenária quando subscritas por mais de 1500 cidadãos, devidamente identificados os seus subscritores, e tal seja justificado pela comissão.
 
@@ -920,7 +1062,9 @@ No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do arti
 
 3 - ...
 
-###### Artigo 213.º — [...]
+Artigo 213.º
+
+[...]
 
 1 - São publicadas na íntegra as petições:
 
@@ -930,19 +1074,25 @@ b) ...
 
 2 - ...
 
-###### Artigo 217.º — [...]
+Artigo 217.º
+
+[...]
 
 1 - A Assembleia Legislativa pronuncia-se por escrito, sobre o requerimento ou a proposta até ao 15.º dia posterior ao da sua publicação no Diário ou à sua distribuição.
 
 2 - (Revogado).
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 1 - A iniciativa da adoção de processo de urgência compete aos deputados, aos grupos parlamentares ou ao Governo Regional, que a devem requerer ao Presidente da Assembleia, por escrito e fundamentado.
 
 2 - A mesa da Assembleia Legislativa remete de imediato para Plenário, para efeitos de votação de acordo com o disposto no número três do artigo 69.º
 
-###### Artigo 235.º — [...]
+Artigo 235.º
+
+[...]
 
 A Assembleia Legislativa pode deliberar:
 
@@ -954,7 +1104,9 @@ c) ...
 
 d) ...
 
-###### Artigo 236.º — [...]
+Artigo 236.º
+
+[...]
 
 1 - Se a Assembleia Legislativa nada determinar, o prazo para exame em comissão no processo de urgência, é de cinco dias;
 
@@ -974,7 +1126,9 @@ c) (Revogada.)
 
 5 - (Anterior n.º 7.)
 
-###### Artigo 238.º — [...]
+Artigo 238.º
+
+[...]
 
 A iniciativa de pedido de parecer jurídico compete:
 
@@ -986,7 +1140,9 @@ c) ...
 
 d) ...
 
-###### Artigo 239.º — [...]
+Artigo 239.º
+
+[...]
 
 1 - A Assembleia Legislativa pronunciar-se-á sobre o requerimento ou a proposta até ao vigésimo dia posterior ao da sua distribuição.
 
@@ -996,7 +1152,9 @@ d) ...
 
 4 - O tempo global para a discussão e apreciação desta iniciativa será fixado pela Conferência dos Representantes dos Partidos.
 
-###### Artigo 241.º — [...]
+Artigo 241.º
+
+[...]
 
 O parecer depois de apresentado ao Presidente da Assembleia Legislativa, a fim de ser publicado no suplemento ao Diário, será distribuído aos grupos parlamentares.»
 
@@ -1040,11 +1198,15 @@ j) Outros assuntos ou factos de relevante interesse para os objetivos do relató
 
 2 - Os relatórios têm a indicação da iniciativa ou matéria e são assinados pelo relator e pelo Presidente da Comissão.
 
-###### Artigo 48.º-A — Informação dos trabalhos
+Artigo 48.º-A
+
+Informação dos trabalhos
 
 Os titulares de cargos exteriores à Assembleia Legislativa, devem apresentar um relatório ou prestar informações do trabalho realizado, anualmente e em Comissão.
 
-###### Artigo 203.º-A — Reunião para o debate sobre o estado da Região
+Artigo 203.º-A
+
+Reunião para o debate sobre o estado da Região
 
 1 - Em cada sessão legislativa tem lugar, no último trimestre, em data a fixar por acordo entre o Presidente da Assembleia e o Governo, um debate de política geral, iniciado com uma intervenção do Presidente do Governo Regional sobre o estado da Região, sujeito a perguntas dos grupos parlamentares ou dos deputados constituídos em representação parlamentar, seguindo-se o debate generalizado que é encerrado pelo Governo.
 
@@ -1070,7 +1232,7 @@ O presente diploma entra em vigor no primeiro dia útil subsequente ao da sua pu
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 21 de julho de 2015.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
 ## ANEXO I — Grelhas de Tempo
 
@@ -2124,7 +2286,7 @@ c) Com mais de 16 deputados, três reuniões.
 
 ###### Artigo 73.º — Apreciação de outras matérias
 
-**O Presidente da Assembleia Legislativa inclui na primeira parte da ordem do dia prevista no n.º 2 do artigo 87.º a apreciação das seguintes matérias:**
+O Presidente da Assembleia Legislativa inclui na primeira parte da ordem do dia prevista no n.º 2 do artigo 87.º a apreciação das seguintes matérias:
 
 a) Mensagens do Presidente da República à Assembleia;
 
@@ -2302,7 +2464,7 @@ g) À comunicação de qualquer decisão do Presidente da Assembleia Legislativa
 
 ###### Artigo 88.º — Convite a individualidades estranhas à Assembleia Legislativa
 
-**O Presidente da Assembleia Legislativa poderá, a título excecional, ouvida a Conferência dos Representantes dos Partidos, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.**
+O Presidente da Assembleia Legislativa poderá, a título excecional, ouvida a Conferência dos Representantes dos Partidos, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso da palavra
 
@@ -2886,7 +3048,7 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 ###### Artigo 143.º — Envio de propostas de alteração
 
-**O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projeto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afete os princípios e o sistema do texto a que se refere.**
+O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projeto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afete os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 144.º — Apreciação de projetos ou de propostas sobre legislação do trabalho
 
@@ -2928,7 +3090,9 @@ A comissão competente deve promover a consulta da Associação de Municípios d
 
 ##### DIVISÃO IV — Discussão e votação
 
-##### SUBDIVISÃO I — Disposições gerais
+SUBDIVISÃO I
+
+Disposições gerais
 
 ###### Artigo 150.º — Conhecimento prévio dos projetos e propostas de decreto legislativo regional
 
@@ -2946,7 +3110,9 @@ A comissão competente deve promover a consulta da Associação de Municípios d
 
 Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 150.º, salvo no que respeita à obrigatoriedade da distribuição aos deputados.
 
-##### SUBDIVISÃO II — Discussão e votação na generalidade
+SUBDIVISÃO II
+
+Discussão e votação na generalidade
 
 ###### Artigo 153.º — Objeto
 
@@ -2960,7 +3126,9 @@ Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa 
 
 2 - Neste caso, a Assembleia Legislativa delibera também sobre aquele que serve de base à discussão e votação na especialidade.
 
-##### SUBDIVISÃO III — Discussão e votação na especialidade
+SUBDIVISÃO III
+
+Discussão e votação na especialidade
 
 ###### Artigo 155.º — Regra geral
 
@@ -3454,7 +3622,7 @@ b) Que o Presidente da Assembleia Legislativa ou as comissões entendam que deve
 
 ###### Artigo 217.º — Comunicação ao autor ou aos autores da petição
 
-**O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adotadas.**
+O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adotadas.
 
 #### SECÇÃO VII — Inquéritos
 

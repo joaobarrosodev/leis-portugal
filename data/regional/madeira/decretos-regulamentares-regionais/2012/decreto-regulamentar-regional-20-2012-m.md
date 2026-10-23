@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/16200/0461304617.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2012/08/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2012-175341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 472315b4dd844ae199a55599a90c80b3863b2fb568edafbc164eada96810cf4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 918392e74236210230a505a88b889407fe687729c68720b160558f7099be8545
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arm-águas e Resíduos da Madeira
 - Caram
-- Pessoal Dirigente
 - Definição de Competências
+- Direção Regional de Agricultura e Desenvolvimento Rural
 - Fundo Madeirense do Seguro de Colheitas
 - Gabinete Governamental
-- Instituto do Vinho Bordado e do Artesanato da Madeira
-- Arm-águas e Resíduos da Madeira
-- Direção Regional de Agricultura e Desenvolvimento Rural
 - Gesba-Empresa de Gestão do Sector da Banana
-- Valor Ambiente
-- Orgânica
-- Parque Natural da Madeira
-- Madeira.região Autónoma
-- Secretaria Regional do Ambiente e dos Recursos Naturais
-- Secretário Regional do Ambiente e Recursos Naturais
 - Gestão de Recursos Humanos
 - Iga-investimentos e Gestão da ÁGUA
 - Igh-investimentos e Gestão Hidroagrícola
+- Instituto do Vinho Bordado e do Artesanato da Madeira
+- Madeira.região Autónoma
+- Orgânica
+- Parque Natural da Madeira
+- Pessoal Dirigente
+- Secretaria Regional do Ambiente e dos Recursos Naturais
+- Secretário Regional do Ambiente e Recursos Naturais
+- Valor Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:69951100:por
@@ -125,16 +125,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670502:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69736264:por
+  label: Revogado, sem prejuízo do disposto no n.º 2 do art. 21.º, o DRR 2/2012/M, de 13-mar DR.IS [52] na redação e republicação
+    do presente diploma, pelo(a) Decreto Regulamentar Regional n.º 5/2015/M - Diário da República n.º 131/2015, Série I de
+    2015-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2015-69736264
+  date: '2015-07-08'
+- type: repealed_by
+  target: pt:dre:69951100:por
+  label: Revogado (a partir de 06.08.2015) o DRR 2/2012/M de 13-mar DR.IS [52], na redação e republicação do presente diploma,
+    sem prejuízo do n.º 2 do art 21.º (nos termos do qual a revogação de normas de qualquer natureza que se prendam com as
+    atribuições nos setores da agricultura, agropecuária e desenvolvimento rural, artesanato e pescas depende da entrada em
+    vigor do diploma que contenha a orgânica do departamento governamental responsável pelos referidos setores) pelo(a) Decreto
+    Regulamentar Regional n.º 8/2015/M - Diário da República n.º 151/2015, Série I de 2015-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2015-69951100
+  date: '2015-08-05'
 article_structure:
-  article_count: 18
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:41Z'
   warnings: []
   errors: []
 ---
@@ -179,31 +231,41 @@ d) Gabinete de Orçamento e Contabilidade (GOC).
 
 4 - Os serviços indicados nas alíneas b) a e) do n.º 1 do artigo 4.º e no artigo 5.º são serviços em que as funções dominantes são executivas.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16200/0461304617.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16200/0461304617.pdf)
+ANEXO
 
-###### Artigo 2.º — Republicação
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16200/0461304617.pdf)
+
+Artigo 2.º
+
+Republicação
 
 É republicado em anexo, que é parte integrante do presente diploma, o [Decreto Regulamentar Regional n.º 2/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2012-553440), de 13 de março, na redação dada pela Declaração de Retificação n.º 22/2012, de 30 de abril, que estabelece a orgânica da Secretaria Regional do Ambiente e dos Recursos Naturais e do Gabinete do Secretário Regional.
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 12 de julho de 2012.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 30 de julho de 2012.**
+Assinado em 30 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## ANEXO — CAPÍTULO I
+ANEXO
+
+CAPÍTULO I
 
 Missão e atribuições
 
-###### Artigo 1.º — Missão
+Artigo 1.º
+
+Missão
 
 A Secretaria Regional do Ambiente e dos Recursos Naturais, abreviadamente designada por SRA, é o departamento governamental que tem por missão definir as políticas nos setores abaixo enumerados, bem como assegurar o planeamento e a coordenação da aplicação dos fundos nacionais e da União Europeia aos mesmos:
 
@@ -231,7 +293,9 @@ k) Saneamento básico;
 
 l) Urbanismo.
 
-###### Artigo 2.º — Atribuições
+Artigo 2.º
+
+Atribuições
 
 Na prossecução da sua missão, são atribuições da SRA:
 
@@ -263,13 +327,19 @@ m) Promover o cumprimento da legislação regional, nacional e da União Europei
 
 n) Preservar e valorizar os recursos hídricos, a racionalização das utilizações, a sustentabilidade económica do setor e a qualidade ambiental, em convergência com a União Europeia.
 
-### CAPÍTULO II — Estrutura orgânica
+CAPÍTULO II
 
-###### Artigo 3.º — Estrutura geral
+Estrutura orgânica
+
+Artigo 3.º
+
+Estrutura geral
 
 A SRA prossegue as suas atribuições através de serviços integrados na administração direta e indireta da Região Autónoma da Madeira, bem como das entidades integradas no setor empresarial público da mesma.
 
-###### Artigo 4.º — Administração direta
+Artigo 4.º
+
+Administração direta
 
 1 - Integram a administração direta da RAM, no âmbito da SRA, os seguintes serviços centrais:
 
@@ -285,13 +355,17 @@ e) A Direção Regional de Pescas.
 
 2 - A missão, atribuições, tipo de organização interna, dotação de lugares de direção e estatuto remuneratório de chefes de equipa multidisciplinar de cada direção regional, referidas nas alíneas b) a e) do número anterior, constarão de decreto regulamentar regional próprio e autónomo.
 
-###### Artigo 5.º — Superintendência e tutela
+Artigo 5.º
 
-**O Secretário Regional do Ambiente e dos Recursos Naturais tem a tutela e superintendência do Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P., Parque Natural da Madeira e Fundo Madeirense do Seguro de Colheitas.**
+Superintendência e tutela
 
-###### Artigo 6.º — Setor empresarial
+O Secretário Regional do Ambiente e dos Recursos Naturais tem a tutela e superintendência do Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P., Parque Natural da Madeira e Fundo Madeirense do Seguro de Colheitas.
 
-**O Secretário Regional do Ambiente e dos Recursos Naturais exerce a tutela e as competências no âmbito da função acionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:**
+Artigo 6.º
+
+Setor empresarial
+
+O Secretário Regional do Ambiente e dos Recursos Naturais exerce a tutela e as competências no âmbito da função acionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:
 
 a) ARM - Águas e Resíduos da Madeira, S. A.;
 
@@ -309,7 +383,9 @@ g) ILMA - Indústria de Lacticínios da Madeira, Lda.;
 
 h) Valor Ambiente - Gestão e Administração de Resíduos da Madeira, S. A.
 
-###### Artigo 7.º — Tipologia dos serviços
+Artigo 7.º
+
+Tipologia dos serviços
 
 1 - O Gabinete do Secretário Regional é um serviço em que as funções dominantes são as de apoio e de coordenação, designadamente, nos seguintes serviços:
 
@@ -327,11 +403,17 @@ d) Gabinete de Orçamento e Contabilidade (GOC).
 
 4 - Os serviços indicados nas alíneas b) a e) do n.º 1 do artigo 4.º e no artigo 5.º são serviços em que as funções dominantes são executivas.
 
-### CAPÍTULO III — Serviços da administração direta
+CAPÍTULO III
 
-#### SECÇÃO I — Gabinete do Secretário Regional
+Serviços da administração direta
 
-###### Artigo 8.º — Secretário Regional
+SECÇÃO I
+
+Gabinete do Secretário Regional
+
+Artigo 8.º
+
+Secretário Regional
 
 1 - A SRA é superiormente dirigida pelo Secretário Regional do Ambiente e dos Recursos Naturais, ao qual são genericamente atribuídas as competências consignadas no presente diploma.
 
@@ -341,7 +423,9 @@ d) Gabinete de Orçamento e Contabilidade (GOC).
 
 4 - O Secretário Regional pode também avocar as competências das entidades referidas no número anterior.
 
-###### Artigo 9.º — Missão, atribuições e competências do Gabinete
+Artigo 9.º
+
+Missão, atribuições e competências do Gabinete
 
 1 - O Gabinete do Secretário Regional, abreviadamente designado por Gabinete, tem por missão apoiar diretamente o Secretário Regional, especialmente em matérias de natureza organizacional, financeira, de recursos humanos, planeamento e programação, bem como apoiar, no mesmo âmbito, as diversas direções regionais, institutos, serviços e entidades empresariais tuteladas pela SRA.
 
@@ -445,21 +529,31 @@ v) Em geral, autorizar, ou, se for o caso, determinar a prática de quaisquer at
 
 10 - Compete aos secretários pessoais prestar o apoio que lhes for determinado.
 
-###### Artigo 10.º — Estrutura do Gabinete
+Artigo 10.º
+
+Estrutura do Gabinete
 
 1 - O Gabinete compreende uma estrutura hierarquizada.
 
 2 - No Gabinete do Secretário Regional, desde que se justifique e com vista a aumentar a flexibilidade e eficácia na gestão, podem ser criadas equipas de projeto temporárias e com objetivos especificados.
 
-### CAPÍTULO IV — Pessoal dirigente
+CAPÍTULO IV
 
-###### Artigo 11.º — Quadro de cargos de direção
+Pessoal dirigente
+
+Artigo 11.º
+
+Quadro de cargos de direção
 
 Os lugares de direção intermédia do 1.º grau do Gabinete do Secretário Regional constam do mapa anexo único ao presente Decreto Regulamentar Regional, do qual faz parte integrante.
 
-### CAPÍTULO V — Pessoal
+CAPÍTULO V
 
-###### Artigo 12.º — Sistema centralizado de gestão de recursos humanos
+Pessoal
+
+Artigo 12.º
+
+Sistema centralizado de gestão de recursos humanos
 
 1 - A Secretaria Regional do Ambiente e dos Recursos Naturais adota o sistema centralizado de gestão de recursos humanos, doravante designado por sistema centralizado de gestão, aos seguintes órgãos e serviços da administração direta:
 
@@ -487,20 +581,30 @@ b) Regime descentralizado, em relação aos trabalhadores dos serviços referido
 
 6 - A lista nominativa referida no n.º 3 será atualizada de acordo com o disposto no n.º 12 do artigo 5.º-A do [Decreto Legislativo Regional n.º 1/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2009-397327), de 12 de janeiro, alterado e republicado pelo [Decreto Legislativo Regional n.º 9/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2010-332756), de 4 de junho, bem como sempre que haja saída definitiva de trabalhadores abrangidos no regime centralizado da Secretaria Regional do Ambiente e dos Recursos Naturais, procedendo-se, neste caso, à sua eliminação da referida lista.
 
-###### Artigo 13.º — Transição do pessoal
+Artigo 13.º
+
+Transição do pessoal
 
 1 - Os trabalhadores dos serviços referidos no n.º 1 do artigo anterior integrados em carreiras e categorias gerais, bem como quando o conteúdo funcional não respeite a atribuições próprias dos respetivos órgãos e serviços, das carreiras e categorias subsistentes e de regime especial, transitam para o regime centralizado e serão concentrados na Secretaria Regional do Ambiente e dos Recursos Naturais, com efeitos a partir da data da publicação no Jornal Oficial da lista nominativa referida no artigo anterior, na qual são integradas em igual carreira, categoria, posição e nível remuneratórios.
 
 2 - Os procedimentos concursais pendentes à data da entrada em vigor do presente diploma mantêm a sua validade, sendo os lugares a preencher os constantes dos mapas de pessoal dos respetivos serviços, sem prejuízo da integração dos trabalhadores no regime centralizado, se for o caso, e da sua inclusão na lista nominativa referida.
 
-### CAPÍTULO VI — Disposições transitórias e finais
+CAPÍTULO VI
 
-###### Artigo 14.º — Revogação
+Disposições transitórias e finais
+
+Artigo 14.º
+
+Revogação
 
 É revogado o [Decreto Regulamentar Regional n.º 17/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2008-456539), de 10 de julho, alterado pelo [Decreto Regulamentar Regional n.º 5/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2011-670502), de 6 de julho, que estabelece as bases da orgânica da Secretaria Regional do Ambiente e dos Recursos Naturais e a orgânica do Gabinete do Secretário Regional.
 
-###### Artigo 15.º — Vigência
+Artigo 15.º
+
+Vigência
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16200/0461304617.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16200/0461304617.pdf)
+ANEXO
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16200/0461304617.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22500/0414204151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2016/11/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2016-75784269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb703bd032d3de87faadd134336ec2decb3abd40fcf4bbd3509aef537c7fbc53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ced23c8548059413668ec857b10b36522bf5940af35e1fbbff3ed3f36d8a1b63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
+- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
 - Cobrança
-- Saneamento Básico
-- REDE Pública de Telecomunicações
-- Governo Regional
+- Comércio
 - Definição de Competências
 - Gabinete da ZONA Franca da Madeira
+- Governo Regional
 - Licenciamento
-- Prestação de Serviços
 - Madeira.região Autónoma
+- Prestação de Serviços
+- REDE Pública de Telecomunicações
 - Regulamento
+- Saneamento Básico
 - Taxa
-- Comércio
 - Zona Franca
-- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:840060201:por
@@ -110,16 +110,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:221730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73934160:por
+  label: null
+  source: null
 article_structure:
-  article_count: 61
+  article_count: 40
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:11Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +184,9 @@ Objeto
 
 São organizados e funcionarão nos termos deste Regulamento a instalação e o funcionamento das entidades que pretendam operar no âmbito institucional da Zona Franca da Madeira, através do exercício das atividades industriais, comerciais e de serviços integradas naquele âmbito, cuja administração e exploração cabe à entidade a quem for adjudicada a concessão, adiante designada, em abreviatura, por concessionária, por força do contrato administrativo de concessão a celebrar com a Região Autónoma da Madeira.
 
-###### Artigo 2.º — Administração e exploração
+Artigo 2.º
+
+Administração e exploração
 
 1 - A administração e a exploração da Zona Franca da Madeira são da exclusiva responsabilidade da concessionária, nos termos do respetivo contrato de concessão referido no artigo 1.º deste Regulamento.
 
@@ -160,7 +198,9 @@ b) [...].
 
 c) [...].
 
-###### Artigo 3.º — Natureza das licenças
+Artigo 3.º
+
+Natureza das licenças
 
 1 - [...].
 
@@ -168,13 +208,17 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 4.º — Competência para o licenciamento
+Artigo 4.º
+
+Competência para o licenciamento
 
 1 - A competência para o licenciamento das atividades referidas no artigo 1.º deste Regulamento é do Secretário Regional, após instrução do processo e parecer da concessionária e da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, adiante designada por AT-RAM.
 
 2 - [...].
 
-###### Artigo 6.º — Requisitos e recusa da autorização
+Artigo 6.º
+
+Requisitos e recusa da autorização
 
 1 - O licenciamento referido no n.º 1 do artigo 4.º deste Regulamento efetua-se com base nos pareceres emitidos pela concessionária e pela AT-RAM respeitantes à idoneidade do requerente e ao interesse económico da atividade a desenvolver.
 
@@ -186,7 +230,9 @@ b) [...].
 
 c) [...].
 
-###### Artigo 9.º — Taxas
+Artigo 9.º
+
+Taxas
 
 1 - [...].
 
@@ -200,7 +246,9 @@ b) [...].
 
 4 - (Anterior n.º 5).
 
-###### Artigo 10.º — Cobrança das taxas
+Artigo 10.º
+
+Cobrança das taxas
 
 1 - [...].
 
@@ -224,7 +272,9 @@ ii) Para as restantes entidades, as taxas anuais de funcionamento vencem-se e s�
 
 4 - As empresas instaladas na Zona Franca Industrial pagam as taxas a que se referem a subalínea i) da alínea b) e a subalínea i) da alínea c) do n.º 1 em prestações mensais e uniformes até ao último dia do mês a que digam respeito.
 
-###### Artigo 11.º — Autorização de funcionamento
+Artigo 11.º
+
+Autorização de funcionamento
 
 1 - A autorização de funcionamento a que aludem as alíneas b) e c) do n.º 1 do artigo anterior respeita à utilização dos imóveis e à execução das operações, e quanto às instalações na área geograficamente delimitada no Caniçal, terá em consideração, em alternativa, um dos fatores seguintes:
 
@@ -238,7 +288,9 @@ d) [...].
 
 2 - [...].
 
-###### Artigo 14.º — Condições ou prazos introduzidos nas licenças
+Artigo 14.º
+
+Condições ou prazos introduzidos nas licenças
 
 1 - [...].
 
@@ -250,7 +302,9 @@ d) [...].
 
 5 - As entidades licenciadas para o exercício de atividades no setor de serviços internacionais devem dar início àquele exercício no prazo de seis meses a contar da data do despacho que autorizou o mesmo, devendo tal obrigação constar do texto da licença que o titula, sob pena de caducidade daquele despacho.
 
-###### Artigo 15.º — Prazo de execução
+Artigo 15.º
+
+Prazo de execução
 
 1 - [...].
 
@@ -266,7 +320,9 @@ d) [...].
 
 7 - Compete à AT-RAM, através do GZF, assegurar e velar pelo cumprimento do disposto no número anterior, podendo, para o efeito, solicitar a outras entidades públicas ou privadas os pareceres que considerar necessários para a apreciação do comportamento dos utentes.
 
-###### Artigo 16.º — Revogação
+Artigo 16.º
+
+Revogação
 
 1 - [...].
 
@@ -278,7 +334,9 @@ c) [...].
 
 2 - Na hipótese prevista na alínea a) do número anterior, o Secretário Regional, quando entenda que a inexecução ocorre por motivo justificado, pode, a pedido do requerente, alterar os seus termos por forma a permitir ainda a sua execução em tempo útil.
 
-###### Artigo 17.º — Forma e elementos do pedido
+Artigo 17.º
+
+Forma e elementos do pedido
 
 1 - O pedido de licença para a instalação e funcionamento de unidades industriais será formulado em requerimento dirigido ao Secretário Regional, acompanhado de memória descritiva e justificativa, e deverá conter:
 
@@ -310,7 +368,9 @@ i) [...].
 
 6 - [...].
 
-###### Artigo 18.º — Forma e elementos do pedido
+Artigo 18.º
+
+Forma e elementos do pedido
 
 1 - O pedido de licença para a instalação, funcionamento e exercício de atividades comerciais e de serviços será formulado em requerimento dirigido ao Secretário Regional, acompanhado de memória descritiva e justificativa, e deverá conter:
 
@@ -328,21 +388,29 @@ f) [...].
 
 2 - [...].
 
-###### Artigo 20.º — Sucursal
+Artigo 20.º
+
+Sucursal
 
 1 - No caso de o pedido de licença ser apresentado em nome de sucursal a constituir, o requerimento será ainda acompanhado dos elementos que a concessionária solicite caso a caso e da identificação das pessoas que constituem os órgãos de administração ou direção da requerente e ainda a das pessoas que ficarão encarregadas da direção da sucursal e que a obrigarão perante terceiros.
 
 2 - [...].
 
-###### Artigo 21.º — Domicílio particular
+Artigo 21.º
+
+Domicílio particular
 
 Independentemente da pessoa ou pessoas indicadas para conduzir as operações da sucursal a que se refere o n.º 1 do artigo 20.º deste Regulamento, devem os requerentes que estabeleçam sucursais no âmbito institucional da Zona Franca escolher como domicílio particular para os negócios realizados através da sucursal o do estabelecimento próprio da sucursal, quando exista, ou o de entidade reconhecida e aceite pelo Secretário Regional.
 
-###### Artigo 22.º — Reclamações dos utentes
+Artigo 22.º
+
+Reclamações dos utentes
 
 A concessionária organizará os serviços inerentes à administração da Zona Franca para que o seu funcionamento permita permanentemente a atividade dos utentes, reservando-se a AT-RAM, através do GZF, o direito de intervir sempre que solicitado pelos utentes e o julgue conveniente, de harmonia com autorização do Secretário Regional, e ouvida a concessionária, de modo a eliminar as causas que estiverem na base de eventuais diferendos.
 
-###### Artigo 23.º — Infraestruturas e instalações
+Artigo 23.º
+
+Infraestruturas e instalações
 
 1 - A Região Autónoma da Madeira assegurará a existência e conveniente funcionamento das infraestruturas externas necessárias às operações na área geograficamente delimitada no Caniçal, nomeadamente os respetivos arruamentos de acesso e redes de abastecimento de energia elétrica e de água com capacidade suficiente para satisfazer os requisitos da Zona e dos seus utentes.
 
@@ -352,23 +420,31 @@ A concessionária organizará os serviços inerentes à administração da Zona 
 
 4 - [...].
 
-###### Artigo 24.º — Infraestruturas e equipamentos
+Artigo 24.º
+
+Infraestruturas e equipamentos
 
 As infraestruturas e os equipamentos da Zona Franca não poderão ser utilizados pelos utentes para fins diferentes dos previstos na licença.
 
-###### Artigo 25.º — Contabilidade e fiscalização das mercadorias
+Artigo 25.º
+
+Contabilidade e fiscalização das mercadorias
 
 1 - Os utentes da Zona Franca deverão elaborar e manter uma contabilidade organizada e são obrigados a exibi-la desde que solicitados por agentes credenciados pelos serviços públicos competentes ou pela concessionária e a apresentar as suas mercadorias existentes na área geograficamente delimitada no Caniçal, nos termos do n.º 1 do artigo 6.º do [Decreto Regulamentar n.º 53/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1982-396555), de 23 de agosto.
 
 2 - Os utentes fornecerão à concessionária, à delegação aduaneira e ao posto fiscal da Zona Franca Industrial, todos os elementos estatísticos por ela solicitados respeitantes às suas empresas, aos navios e aviões utilizados, aos contentores movimentados e às mercadorias referidas no número anterior por eles transportados.
 
-###### Artigo 29.º — Saneamento básico e telecomunicações
+Artigo 29.º
+
+Saneamento básico e telecomunicações
 
 1 - [...].
 
 2 - São da responsabilidade dos utentes as despesas de instalação, conservação e manutenção dos esgotos e das redes de telefone, telex, telefax e de comunicação eletrónica nas zonas licenciadas.
 
-###### Artigo 30.º — Caução
+Artigo 30.º
+
+Caução
 
 1 - [...].
 
@@ -380,7 +456,9 @@ As infraestruturas e os equipamentos da Zona Franca não poderão ser utilizados
 
 5 - [...].
 
-###### Artigo 35.º — Normas aplicáveis
+Artigo 35.º
+
+Normas aplicáveis
 
 São aplicáveis às relações entre a concessionária e os utentes da Zona Franca:
 
@@ -422,11 +500,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 10 de novembro de 2016.
 
-**O Presidente do Governo Regional, em exercício, Rui Manuel Teixeira Gonçalves.**
+O Presidente do Governo Regional, em exercício, Rui Manuel Teixeira Gonçalves.
 
-**Assinado em 16 de novembro de 2016.**
+Assinado em 16 de novembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

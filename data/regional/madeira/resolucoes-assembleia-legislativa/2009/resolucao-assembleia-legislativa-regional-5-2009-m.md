@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/5/2009/03/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/5-2009-605549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 353c009b7e54d6721c6e0b55a0c1f0bb88928cd873244f0355a887a96b39a2a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29b85de6a7027021f3fba1213a845c9698b335394860c5caba0b3e4b68908d2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Prestações de Desemprego
 - Madeira.região Autónoma
+- Prestações de Desemprego
 - Proteção no Desemprego
 - Proteção Social
 - Remuneração
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31/1991/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/1991/07/20/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:27Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +154,9 @@ Os artigos 24.º, 28.º, 29.º e 30.º do [Decreto-Lei n.º 220/2006](https://di
 
 4 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -148,7 +166,9 @@ Os artigos 24.º, 28.º, 29.º e 30.º do [Decreto-Lei n.º 220/2006](https://di
 
 4 - O montante do subsídio de desemprego é acrescido de 2 % para os residentes nas Regiões Autónomas.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -160,7 +180,9 @@ Os artigos 24.º, 28.º, 29.º e 30.º do [Decreto-Lei n.º 220/2006](https://di
 
 5 - Nos casos em que no mesmo agregado familiar se verifique uma situação de desemprego simultâneo, ainda que sucessivo, o montante mensal do subsídio de desemprego a que caiba prestação mais elevada é automaticamente majorado em 25 %, respeitado que fique o limite fixado no n.º 3 do presente artigo.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -178,4 +200,4 @@ O presente diploma entra em vigor com a aprovação do Orçamento do Estado para
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 4 de Março de 2009.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

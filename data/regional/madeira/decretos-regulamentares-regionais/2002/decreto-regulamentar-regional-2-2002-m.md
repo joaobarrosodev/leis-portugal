@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2002/01/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2002-235295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13ae97e9f79e950ea9fe4c9956d85f1ed7c0de5d6e4bf8f385ef5aaf4cdad869
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1a59e47f4c81f846c82f774f238d363c7b062ef6ca02cb0f6393dda8fe8bd1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação de Municípios
-- Financiamento
+- Autarquia Local
 - Crédito Bonificado
+- Empresa Municipal
+- Financiamento
+- Madeira.região Autónoma
 - Projeto de Investimento
 - QCA III
-- Madeira.região Autónoma
-- Empresa Municipal
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/28-a/2001/11/13/m/dre
@@ -101,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:55Z'
   warnings: []
   errors: []
 ---
@@ -143,11 +167,15 @@ Os artigos 2.º, 4.º e 5.º do [Decreto Regulamentar Regional n.º 18/2001/M](h
 
 4 - O montante dos empréstimos a conceder a cada entidade beneficiária da linha de crédito será definido pela Secretaria Regional do Plano e Finanças, em função das pré-candidaturas ou das candidaturas apresentadas pelo gestor regional dos fundos comunitários e tendo em consideração os valores das despesas elegíveis da componente não comunitária dos projectos comparticipados pelo FEDER e aprovados no âmbito do III Quadro Comunitário de Apoio.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 As candidaturas à linha de crédito consideram-se automaticamente formalizadas mediante a apresentação no Instituto de Gestão dos Fundos Comunitários das pré-candidaturas ou das candidaturas dos projectos a financiar pelo III Quadro Comunitário de Apoio.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -165,8 +193,8 @@ Aprovado em Plenário do Conselho do Governo Regional em 29 de Novembro de 2001.
 
 O Vice-Presidente, em exercício da Presidência, João Carlos Cunha e Silva.
 
-**Assinado em 20 de Dezembro de 2001.**
+Assinado em 20 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

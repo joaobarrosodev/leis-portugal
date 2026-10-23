@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/070b00/14281431.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/1992/03/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1992-186538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2db1b2d27521466c607ed88fd24d3fa6735dfef7b17de582c632e6b3d062d163
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a11a43e2e39598b54c6842764092a2f345037b9d6d4ff9f4044f80884376ba4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gabinete do Secretário Regional dos Assuntos Sociais
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:509787:por
@@ -81,16 +81,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:283539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:515790:por
+  label: "Rectificadas as alíneas e) (n.º 2 do artigo 3.º), e) do artigo 6.º, d) (n.º 1 do artigo 9.º) e n.º 2 do artigo 16.º\
+    \ pela DECL-RECT.57/92.30.04.1992.PCM, DR.IS-B [100]2ºSupl de 30.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/57-1992-515790
+  date: '1992-04-30'
+- type: repealed_by
+  target: pt:dre:509787:por
+  label: "Revogado pelo DRR.3-A/97/M.06.02.1997.PG-RAM, DR.IS-B [31-Supl] de 06.02.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-a-1997-509787
+  date: '1997-02-06'
 article_structure:
   article_count: 18
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:33Z'
   warnings: []
   errors: []
 ---
@@ -227,7 +254,9 @@ a) Secção de Gestão de Pessoal;
 
 b) Secção de Informação e Documentação.
 
-#### SECÇÃO II — Divisão de Estudos, Planeamento e Estatística
+#### SECÇÃO II
+
+##### Divisão de Estudos, Planeamento e Estatística
 
 ###### Artigo 8.º — Natureza
 
@@ -251,7 +280,9 @@ e) Coordenar a elaboração dos relatórios de actividades do Gabinete.
 
 2 - Para cumprimento das suas atribuições, a Divisão de Estudos, Planeamento e Estatística tem a colaboração e apoio dos restantes organismos e serviços da Secretaria Regional dos Assuntos Sociais.
 
-#### SECÇÃO III — Divisão de Contencioso e Apoio Jurídico
+#### SECÇÃO III
+
+##### Divisão de Contencioso e Apoio Jurídico
 
 ###### Artigo 10.º — Natureza
 
@@ -379,10 +410,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional de 30 de Janeiro de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Fevereiro de 1992.**
+Assinado em 20 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

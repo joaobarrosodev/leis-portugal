@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/2025/12/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2025-989749713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d63de46f9d4d40be1275b561db653abb4b48fc1c078b0e736f17698e2b213126
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8eec6769deca011f871eb04218afbe6c3f3b1477be43152093d4955638fd58a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Secretaria Regional da Economia
-- Orgânica
-- Secretaria Regional
-- Região Autónoma da Madeira
 - Direção Regional do Comércio Indústria e Qualidade
+- Orgânica
+- Região Autónoma
+- Região Autónoma da Madeira
+- Secretaria Regional
+- Secretaria Regional da Economia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegr
@@ -112,16 +112,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897994602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916745909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:921363346:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:37/2024/M
+  label: Revoga, a partir de 20 de dezembro de 2025, o Decreto Regulamentar Regional n.º 37/2024/M, de 27 de novembro, Diário
+    da República n.º 230/2024, Série I
+  source: null
+  date: '2024-11-27'
 article_structure:
   article_count: 10
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:56Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +192,7 @@ Nesse âmbito, e nos termos do artigo 19.º do mesmo decreto regulamentar region
 
 Neste ensejo, o presente diploma aprova a orgânica da Direção Regional do Comércio, Indústria e Qualidade, estabelecendo os princípios e normas a que deve obedecer a sua organização e funcionamento, em conformidade com o disposto no [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua redação atual.
 
-Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua redação atual, dos n.<sup>os</sup>1 e 2 do artigo 12.º do [Decreto Regulamentar Regional n.º 5/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2025-916745909), de 5 de maio, e dos artigos 12.º e 19.º do [Decreto Regulamentar Regional n.º 7/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2025-921363346), de 13 de junho, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua redação atual, dos n.os1 e 2 do artigo 12.º do [Decreto Regulamentar Regional n.º 5/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2025-916745909), de 5 de maio, e dos artigos 12.º e 19.º do [Decreto Regulamentar Regional n.º 7/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2025-921363346), de 13 de junho, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E ÓRGÃOS
 
@@ -210,7 +264,7 @@ g) Coordenar e orientar os serviços bem como aprovar os regulamentos e normas d
 
 ###### Artigo 5.º — Organização interna
 
-1 - A organização interna da DRCIQ obedece ao modelo organizacional hierarquizado, compreendendo unidades orgânicas nucleares e flexíveis e secções ou áreas de coordenação administrativa, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, retificado pela [Declaração de Retificação n.º 1/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2008-386779), de 4 de janeiro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
+1 - A organização interna da DRCIQ obedece ao modelo organizacional hierarquizado, compreendendo unidades orgânicas nucleares e flexíveis e secções ou áreas de coordenação administrativa, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, retificado pela [Declaração de Retificação n.º 1/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2008-386779), de 4 de janeiro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
 
 2 - Na DRCIQ, desde que se justifique e com vista a aumentar a flexibilidade e eficácia na execução, podem ser criadas equipas de projetos temporais e com objetivos especificados, nos termos do número seguinte.
 
@@ -254,11 +308,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 4 de dezembro de 2025.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 17 de dezembro de 2025.**
+Assinado em 17 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -270,3 +324,7 @@ Dotação de cargos de direção superior e de direção intermédia de 1.º gra
 | --- | --- |
 | Cargos de direção superior de 1.º grau | 1 |
 | Cargos de direção intermédia de 1.º grau | 5 |
+
+119895079
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; }

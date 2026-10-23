@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/1998/09/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1998-241266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c0340a432c4ad88c772546540985510fafe1ea478240d49ddca49e8bda47145
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eaaa39914d9a54e7a8d664c2936b691a18405de2a7b8d0cb086e078f5974847
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autorização de Despesas
-- Pessoal Dirigente
-- Sociedade da Informação
-- Secretaria Regional do Plano e da Coordenação
+- Madeira.região Autónoma
 - Nova Tecnologia
 - Núcleo Estratégico da Sociedade de Informação
 - Orgânica
-- Sistema de Informação
-- Madeira.região Autónoma
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Recursos Humanos
+- Secretaria Regional do Plano e da Coordenação
+- Sistema de Informação
+- Sociedade da Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/1/1998/01/27/m/dre
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:222988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:15Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +152,9 @@ b) ...
 
 c) Divisão Administrativa e de Recursos Humanos.
 
-###### Artigo 5.º — Composição
+Artigo 5.º
+
+Composição
 
 1 - ...
 
@@ -166,7 +176,9 @@ g) ...
 
 3 - O conselho coordenador será presidido por um dos seus membros, a designar por despacho do Secretário Regional do Plano e da Coordenação.
 
-###### Artigo 10.º — Composição
+Artigo 10.º
+
+Composição
 
 ...
 
@@ -186,11 +198,15 @@ a) ...
 
 b) ...
 
-###### Artigo 14.º — Natureza e atribuições
+Artigo 14.º
+
+Natureza e atribuições
 
 A Divisão Administrativa e de Recursos Humanos, adiante designada por DARH, é um serviço de apoio e execução administrativa do NESI que tem por atribuições a coordenação da gestão administrativa e de recursos humanos do NESI.
 
-###### Artigo 15.º — Competências
+Artigo 15.º
+
+Competências
 
 1 - A DARH é dirigida por um chefe de divisão, a quem compete, designadamente:
 
@@ -228,7 +244,9 @@ A epígrafe da secção III do capítulo IV é substituída por «Divisão Admin
 
 Autorização de despesas
 
-###### Artigo 19.º — Competências
+Artigo 19.º
+
+Competências
 
 As despesas correntes e de capital serão autorizadas pelo Secretário Regional do Plano e da Coordenação.»
 
@@ -242,10 +260,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 20 de Agosto de 1998.
 
-**O Presidente do Governo Regional, em exercício, José Paulo Baptista Fontes.**
+O Presidente do Governo Regional, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 31 de Agosto de 1998.**
+Assinado em 31 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

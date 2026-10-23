@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/13/2007/08/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/13-2007-637456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36ef7f3fcc6f88c58ebaa8a4c87640b5e4f10fd12f0e74ca7b15735d9f82fab5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af4eefabf31eb2e303b4b87a2b382fdb0ff9aee3988693c10080a315927250b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Animação Sócio-cultural
-- Conselho Regional da Cultura e Animação
 - Assembleia Legislativa
-- Nomeação
+- Conselho Regional da Cultura e Animação
 - Madeira.região Autónoma
+- Nomeação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/20/1998/09/17/m/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:241407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:02Z'
   warnings: []
   errors: []
 ---
@@ -106,4 +118,4 @@ A Assembleia Legislativa da Região Autónoma da Madeira, reunida em Plenário d
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de Julho de 2007.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

@@ -4,8 +4,8 @@ id: pt:dre:2476362:por
 title: Resolução n.º 98/2001 (2.ª série)
 short_title: null
 summary: null
-jurisdiction: regional
-territory: madeira
+jurisdiction: portugal
+territory: null
 document_type: resolucao
 document_type_label: Resolução
 issuing_authority:
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2001/08/197000000/1451814521.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/98-2001-2476362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fe62b2919bc5e34a85b6383fcb56b772903b686cbc24ecd4b963d809b3f8fdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e358a466cddf5593a598befb551d33e295cc6894fd4327674ec4b0eb54d00ff2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611537:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:11Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +224,7 @@ Total ... 18
 
 Plano de estudos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2001/08/197000000/1451814521.pdf))](https://files.diariodarepublica.pt/2s/2001/08/197000000/1451814521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2001/08/197000000/1451814521.pdf)
 
 ## ANEXO III — Mapa de precedências
 

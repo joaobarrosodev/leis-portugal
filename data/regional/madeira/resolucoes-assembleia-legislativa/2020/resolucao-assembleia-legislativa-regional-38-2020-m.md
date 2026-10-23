@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15900/0005800060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/38/2020/08/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/38-2020-140431108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9123375a2922fbceff6253b37f38d7da27a528c7d63e8830f193abec04530294
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05263261a595fec2cd477dcd4a352625657cb80247d0cad018da7535a2704f63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
+- Assembleia Legislativa
 - Assembleia Legislativa Regional
 - Cidadão Nacional
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
+- Diploma Legal
+- Emigração
 - Emigrante
 - Iniciativa Legislativa
-- Assembleia Legislativa
-- Assembleia da República
-- Emigração
 - Madeira.região Autónoma
-- Diploma Legal
 - Regime Contributivo da Segurança Social
-- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Residente no Estrangeiro
 - Segurança Social
 - Seguro Social Voluntário
@@ -99,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:06Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +169,9 @@ São alterados os artigos 169.º e 282.º do Código dos Regimes Contributivos d
 
 5 - Quando se verificarem situações extraordinárias no país de acolhimento, ainda poderão ser enquadrados neste regime aqueles cidadãos nacionais, maiores, que residam e/ou exerçam a sua atividade profissional em pais estrangeiro, por razões humanitárias.
 
-###### Artigo 282.º — [...]
+Artigo 282.º
+
+[...]
 
 1 - ...
 
@@ -185,4 +207,6 @@ O presente diploma entra em vigor imediatamente após a sua publicação.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de julho de 2020.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+113484357

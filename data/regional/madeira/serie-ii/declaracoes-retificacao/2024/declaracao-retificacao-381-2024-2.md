@@ -4,8 +4,8 @@ id: pt:dre:867563288:por
 title: Declaração de Retificação n.º 381/2024/2
 short_title: null
 summary: Retifica o Edital n.º 611/2024, publicado no Diário da República, 2.ª série, n.º 89, de 8 de maio de 2024.
-jurisdiction: regional
-territory: madeira
+jurisdiction: portugal
+territory: null
 document_type: declaracao-retificacao
 document_type_label: Declaração de Retificação
 issuing_authority:
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/105000000/0017000170.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/381-2024-867563288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc4071b89fc4aa418de91b9e12a36522c7bb48d495abf9fb77a9766c0ffc6836
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc98f949f99d957b9385106e239a83477dc28008c1b8355a8f9730a91c8adb6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:864088149:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:03Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +97,5 @@ deve ler-se:
 "a) Curriculum vitae atualizado do candidato, com indicação da atividade desenvolvida nas vertentes pedagógica, de investigação e valorização do conhecimento, de serviço académico e gestão universitária, bem como de outras ações de interesse para o seu desempenho pedagógico e científico e para a missão da instituição de ensino superior, com particular ênfase para as atividades consideradas relevantes para a área ou áreas disciplinares em que é aberto o concurso e tendo em consideração os parâmetros definidos para a avaliação e seriação dos candidatos no ponto x do presente edital. No curriculum vitae, a par da lista completa das publicações, o candidato deverá destacar até cinco publicações/trabalhos que considere mais representativos, nomeadamente no que respeita à sua contribuição para o desenvolvimento e evolução da área ou áreas disciplinares em que é aberto o concurso. Esta seleção deve ser acompanhada de uma descrição justificativa sucinta em que o candidato explicita a sua contribuição;"
 
 9 de maio de 2024. - O Reitor, Sílvio Moreira Fernandes.
+
+317685771

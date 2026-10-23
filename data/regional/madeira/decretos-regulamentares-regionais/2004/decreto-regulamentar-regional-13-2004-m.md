@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2004/06/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2004-271794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09f534a5a5db16b48303e700b6adec4e5a7c41e8f03fe0fa726c4166b4a380fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 297e4ed5312565e5a3db47406f3b852b72b74f052c1f983160d775107f380162
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivística
+- Arquivo Intermédio
 - Arquivo Regional da Madeira
-- Jogos de Fortuna e Azar
 - Calheta(madeira)
 - Cartão de Identificação
 - Centro Cívico e Cultural de Santa Clara
-- Secretaria Regional do Turismo e Cultura
-- Turismo
 - Centro de Estudos de História do Atlântico
-- Promoção Turística
-- Pessoal Dirigente
+- Centro de Estudos JOHN dos Passos
 - Conselho Regional da Cultura e Animação
 - Conselho Regional do Turismo
 - Definição de Competências
-- Direcção Regional dos Assuntos Culturais
 - Direcção Regional de Turismo
-- Património Cultural
+- Direcção Regional dos Assuntos Culturais
 - Gabinete Governamental
-- Recrutamento de Pessoal
-- Património Bibliográfico
-- Inspecção Regional de Espectáculos
-- Arquivo Intermédio
-- Centro de Estudos JOHN dos Passos
-- Representação Permanente da RAM
-- Orgânica
-- Política Cultural
-- Madeira.região Autónoma
-- Quadro de Pessoal
-- Secretário Regional do Turismo e Cultura
 - Gestão de Recursos Humanos
+- Inspecção Regional de Espectáculos
+- Jogos de Fortuna e Azar
+- Madeira.região Autónoma
+- Orgânica
+- Património Bibliográfico
+- Património Cultural
+- Pessoal Dirigente
+- Política Cultural
+- Promoção Turística
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Representação Permanente da RAM
+- Secretaria Regional do Turismo e Cultura
+- Secretário Regional do Turismo e Cultura
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:618114:por
@@ -140,16 +140,85 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:177433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693182:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:618114:por
+  label: "Revogado pelo DRR.2/2005/M.17.01.2005.PG-RAM, DR.IS-B [29] de 10.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2005-618114
+  date: '2005-01-17'
 article_structure:
-  article_count: 24
-  section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 40
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:05Z'
   warnings: []
   errors: []
 ---
@@ -528,7 +597,9 @@ d) Direcção de Serviços de Animação Turística (DSAT);
 
 e) Núcleo de Serviços de Turismo do Porto Santo (NSTPS).
 
-##### SUBSECÇÃO I — Artigo 15.º
+##### SUBSECÇÃO I
+
+###### Artigo 15.º
 
 Director regional
 
@@ -544,9 +615,11 @@ d) Executar tudo o mais que lhe for expressamente cometido por disposição lega
 
 2 - O director regional é substituído, nas suas ausências e impedimentos, por sua proposta, pelo director de serviços da DRT que for designado pelo Secretário Regional.
 
-##### SUBSECÇÃO II — Artigo 16.º
+##### SUBSECÇÃO II
 
-##### Divisão de Serviços Administrativos
+###### Artigo 16.º
+
+Divisão de Serviços Administrativos
 
 1 - A DISA é a unidade orgânica de apoio técnico-administrativo nas áreas de administração geral e de pessoal, orçamento, contabilidade e património, bem como, sempre que necessário, em matérias dos serviços operativos.
 
@@ -586,7 +659,9 @@ d) Sector de Contabilidade e Património, ao qual compete, especialmente, a exec
 
 4 - As unidades orgânicas referidas no número anterior são assim chefiadas: cada secção por um chefe de secção; o sector de pessoal por um coordenador ou coordenador especialista; o sector de contabilidade e património por um coordenador.
 
-##### SUBSECÇÃO III — Artigo 17.º
+##### SUBSECÇÃO III
+
+###### Artigo 17.º
 
 Direcção de Serviços de Empreendimentos e Actividades Turísticas
 
@@ -668,7 +743,9 @@ a) Divisão de Empreendimentos Turísticos (DET), à qual compete a execução d
 
 b) Divisão de Actividades Turísticas (DAT), à qual compete a execução das funções enunciadas nas alíneas dos n.os 4 a 7 deste artigo.
 
-##### SUBSECÇÃO IV — Artigo 18.º
+##### SUBSECÇÃO IV
+
+###### Artigo 18.º
 
 Direcção de Serviços de Promoção Turística
 
@@ -750,7 +827,9 @@ b) Postos de turismo, destinados a prestar assistência e informação a turista
 
 9 - O pessoal recepcionista em serviço nos postos de turismo usa, obrigatoriamente, uniforme, cujo modelo e respectivas normas de utilização são fixados por portaria do Secretário Regional do Turismo e Cultura.
 
-##### SUBSECÇÃO V — Artigo 19.º
+##### SUBSECÇÃO V
+
+###### Artigo 19.º
 
 Direcção de Serviços de Animação Turística
 
@@ -772,7 +851,9 @@ f) Zelar pela conservação do material referido na alínea anterior.
 
 3 - A DSAT integra a Divisão de Eventos e Material de Animação (DEMA), dirigida por um chefe de divisão (cargo de direcção intermédia de 2.º grau), à qual compete, especialmente, a execução das funções referidas nas alíneas d) a f) do número anterior.
 
-##### SUBSECÇÃO VI — Artigo 20.º
+##### SUBSECÇÃO VI
+
+###### Artigo 20.º
 
 Núcleo de Serviços de Turismo do Porto Santo
 
@@ -826,7 +907,9 @@ h) Centro Cívico e Cultural de Santa Clara (CCCSC);
 
 i) Inspecção Regional de Espectáculos (IRE).
 
-##### SUBSECÇÃO I — Artigo 23.º
+##### SUBSECÇÃO I
+
+###### Artigo 23.º
 
 Director regional
 
@@ -842,9 +925,11 @@ d) Executar tudo o mais que lhe for expressamente cometido por disposição lega
 
 2 - O director regional é substituído, nas suas ausências e impedimentos, por sua proposta, pelo director de serviços ou dirigente com cargo equiparado a este, pertencente à DRAC, que for designado pelo Secretário Regional.
 
-##### SUBSECÇÃO II — Artigo 24.º
+##### SUBSECÇÃO II
 
-##### Divisão de Serviços Administrativos
+###### Artigo 24.º
+
+Divisão de Serviços Administrativos
 
 1 - A DISA é a unidade orgânica de apoio técnico-administrativo, nas áreas de administração geral e de pessoal, orçamento, contabilidade e património, bem como, sempre que necessário, em matérias dos serviços operativos.
 
@@ -884,7 +969,9 @@ d) Sector de Contabilidade e Património, ao qual compete, especialmente, a exec
 
 4 - As unidades orgânicas referidas no número anterior são assim chefiadas: cada secção por um chefe de secção; o sector de pessoal por um coordenador ou coordenador especialista; o sector de contabilidade e património por um coordenador.
 
-##### SUBSECÇÃO III — Artigo 25.º
+##### SUBSECÇÃO III
+
+###### Artigo 25.º
 
 Arquivo Regional da Madeira
 
@@ -956,7 +1043,9 @@ f) Prescrita por disposição legal.
 
 6 - A incorporação da documentação a que se refere o número anterior é feita de acordo com o que para o efeito está previsto nas pertinentes disposições legais e regulamentares.
 
-##### SUBSECÇÃO IV — Artigo 26.º
+##### SUBSECÇÃO IV
+
+###### Artigo 26.º
 
 Direcção de Serviços de Bibliotecas
 
@@ -998,7 +1087,9 @@ b) Biblioteca de Culturas Estrangeiras (BCE), dirigida por um director, equipara
 
 6 - A BCE compreende os Núcleos Simon Bolivar, American Culture Corner, Zwanayo, Sir Winston Churchil, France, Goethe e Italia.
 
-##### SUBSECÇÃO V — Artigo 27.º
+##### SUBSECÇÃO V
+
+###### Artigo 27.º
 
 Direcção de Serviços de Museus
 
@@ -1034,7 +1125,9 @@ g) Núcleo Histórico-Museológico de Santo Amaro, conjunto composto pela denomi
 
 4 - Cada um dos museus a que se referem as alíneas a) a f) do número anterior é dirigido por directores, equiparados, para todos os efeitos legais, a chefe de divisão (cargo de direcção intermédia do 2.º grau), sendo o núcleo museológico, referenciado na alínea g) do mesmo número, dirigido pelo director de serviços de Museus, por inerência.
 
-##### SUBSECÇÃO VI — Artigo 28.º
+##### SUBSECÇÃO VI
+
+###### Artigo 28.º
 
 Direcção de Serviços do Património Cultural
 
@@ -1072,7 +1165,9 @@ a) Divisão do Património Arquitectónico (DPA), à qual compete, especialmente
 
 b) Divisão do Património Móvel e Imaterial (DPMI), à qual compete, especialmente, executar as funções previstas nas alíneas f) a l) do número anterior.
 
-##### SUBSECÇÃO VII — Artigo 29.º
+##### SUBSECÇÃO VII
+
+###### Artigo 29.º
 
 Direcção de Serviços de Dinamização Cultural
 
@@ -1128,7 +1223,9 @@ d) Núcleo de Exposições do Cabo Girão.
 
 5 - O SPE, o SADC e a Casa do Artista são dirigidos pelo director de serviços de Dinamização Cultural, por inerência.
 
-##### SUBSECÇÃO VIII — Artigo 30.º
+##### SUBSECÇÃO VIII
+
+###### Artigo 30.º
 
 Centro de Estudos John dos Passos
 
@@ -1164,7 +1261,9 @@ f) Sala de exposições temporárias;
 
 g) Espaço de referências museológicas.
 
-##### SUBSECÇÃO IX — Artigo 31.º
+##### SUBSECÇÃO IX
+
+###### Artigo 31.º
 
 Centro Cívico e Cultural de Santa Clara
 
@@ -1172,7 +1271,9 @@ Centro Cívico e Cultural de Santa Clara
 
 2 - O CCCSC é dirigido por um director equiparado, para todos os efeitos legais, a chefe de divisão (cargo de direcção intermédia do 2.º grau).
 
-##### SUBSECÇÃO X — Artigo 32.º
+##### SUBSECÇÃO X
+
+###### Artigo 32.º
 
 Inspecção Regional de Espectáculos
 
@@ -1280,13 +1381,13 @@ Qualquer funcionário ou agente da DRT, quando deslocado em serviço por determi
 
 Aprovado em Conselho do Governo Regional em 29 de Abril de 2004.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 14 de Maio de 2004.**
+Assinado em 14 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Quadros de pessoal
 
@@ -1296,22 +1397,22 @@ QUADRO I
 
 Gabinete do Secretário Regional
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)
 
 QUADRO II
 
 Serviços de apoio ao Secretário Regional
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)
 
 QUADRO III
 
 Direcção Regional do Turismo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)
 
 QUADRO IV
 
 Direcção Regional dos Assuntos Culturais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)](https://files.diariodarepublica.pt/1s/2004/06/146b00/38193841.pdf)

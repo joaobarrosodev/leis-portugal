@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/200b00/50305041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/1994/08/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1994-655331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5d8a0ea6ba60d272523b8a4bb4473abb4750b0f2255a893f19068ac7906b9cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1be473f710323119ec3c6496928f2055f790b6d18f45959d9e253f6dd43faa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Definição de Competências
 - Direcção Regional de Agricultura
-- Secretaria Regional da Agricultura Florestas e Pescas
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Agricultura Florestas e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:167376:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:535664:por
+  label: "Alterados os n.ºs 3 e 8, aditados os nºs 11, 12, 13 e 14 ao artigo 26.º, pelo DRR.12/94/M.04.11.1994.GR-RAM, DR.IS-B\
+    \ [255] de 04.11.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1994-535664
+  date: '1994-10-18'
+- type: amended_by
+  target: pt:dre:234110:por
+  label: "Alterados os nºs 3, 12 e 13 do artigo 26.º pelo DRR.13/98/M.10.11.1998.PG-RAM, DR.IS-B [260] de 10.11.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1998-234110
+  date: '1998-10-23'
+- type: amended_by
+  target: pt:dre:639908:por
+  label: "Alterados os arts. 3º, 5º, 19º, 22º e 26º, alterado o quadro de pessoal e aditados os arts. 26º-A e 27º-A, com as\
+    \ alterações introduzidas pelo DRR 12/94/M de 04-Nov e pelo DRR 13/98/M de 10-Nov, pelo DRR.21/99/M.1999.11.04.PG-RAM,\
+    \ DR.IS-B [279], de 30/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-1999-639908
+  date: '1999-11-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/1993/01/08/p/dre
   label: null
@@ -98,16 +116,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:284679:por
+  label: "Revogado pelo DRR.5/2002/M.15.02.2002.PG-RAM, DR.IS-B [39] de 15.02.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2002-284679
+  date: '2002-02-15'
 article_structure:
   article_count: 28
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:49Z'
   warnings: []
   errors: []
 ---
@@ -492,7 +543,9 @@ d) Apoiar e prestar assistência técnica às casas do povo, bem como acções c
 
 2 - A DSER é dirigida por um director de serviços.
 
-#### SECÇÃO X — Divisão do Parque de Máquinas e Viaturas
+#### SECÇÃO X
+
+##### Divisão do Parque de Máquinas e Viaturas
 
 ###### Artigo 24.º — Natureza
 
@@ -570,16 +623,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Junho de 1994.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 15 de Julho de 1994.**
+Assinado em 15 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ## ANEXO — (ao Decreto Regulamentar Regional n.º 7/94/M, de 30 de Agosto, que consagra a Lei Orgânica da Direcção Regional de Agricultura)
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/200b00/50305041.pdf))](https://files.diariodarepublica.pt/1s/1994/08/200b00/50305041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/200b00/50305041.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/11/22700/0654506553.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2013/11/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2013-503841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ae3591fcd58839be4d92601dd2c763a818393aa0096849b6cc327cd8c5f7620
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b5f69b7979daa063a5fd120e574d7149dc321e28a55abe9f472a50b7395c802
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Definição de Competências
 - Diretor
 - Gabinete de Gestão Financeira
-- Secretaria Regional da Educação e Recursos Humanos
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Educação e Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:70980180:por
@@ -117,16 +117,142 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1619518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661768:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70980180:por
+  label: Revogado (a partir de 12.11.2015) o DRR 5/2012/M de 16-mai (na redação do presente diploma), pelo(a) Decreto Regulamentar
+    Regional n.º 20/2015/M - Diário da República n.º 221/2015, Série I de 2015-11-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2015-70980180
+  date: '2015-11-11'
 article_structure:
-  article_count: 34
+  article_count: 33
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:50Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +327,9 @@ d) ....
 
 4 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O Gabinete de Gestão Financeira tem por missão assegurar a programação e a gestão financeira orçamental e patrimonial da SRE, garantindo uma adequada execução orçamental e uma gestão previsional fiável e sustentada do orçamento, contribuindo para a tomada de decisão no âmbito das políticas educativas e dos recursos humanos.
 
@@ -227,7 +355,9 @@ h) Exercer todas as demais atribuições que lhe forem concedidas por lei ou det
 
 4 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 ...:
 
@@ -245,9 +375,11 @@ f) ...
 
 g) Exercer as demais competências que lhe forem atribuídas por lei, ou determinadas superiormente.
 
-## ANEXO III — [...]
+ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/22700/0654506553.pdf))](https://files.diariodarepublica.pt/1s/2013/11/22700/0654506553.pdf)»
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/22700/0654506553.pdf)»
 
 ###### Artigo 2.º — Republicação
 
@@ -259,11 +391,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 7 de novembro de 2013.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 15 de novembro de 2013.**
+Assinado em 15 de novembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -759,7 +891,9 @@ i) Coordenar a organização de sessões, conferências, exposições, congresso
 
 4 - Os atuais trabalhadores que se encontrem a cumprir período experimental ingressam, findos os mesmos e se nele ficarem aprovados, nas categorias e nos mapas em vigor à data da ocupação do lugar.
 
-### CAPÍTULO VI — Artigo 29.º
+### CAPÍTULO VI
+
+###### Artigo 29.º
 
 Referências Legais
 
@@ -771,8 +905,8 @@ Até à publicação integral dos diplomas a que se refere o n.º 2 do artigo 5.
 
 ## ANEXO II — Cargos de direção superior a que se refere o n.º 1 do artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/22700/0654506553.pdf))](https://files.diariodarepublica.pt/1s/2013/11/22700/0654506553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/22700/0654506553.pdf)
 
 ## ANEXO III — Cargos de direção intermédia a que se refere o n.º 2 do artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/22700/0654506553.pdf))](https://files.diariodarepublica.pt/1s/2013/11/22700/0654506553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/22700/0654506553.pdf)

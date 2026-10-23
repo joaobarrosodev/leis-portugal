@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/018b00/03890392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/1999/01/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1999-197368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e9f0fea3f96cca771bc87585e317c22c083f121203325ab8bb775b7ebef92da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 357dd8b00e6410cb329940d54d931b82f9225a6ff37b9db0b97a8410b4810ae7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,40 @@ reuse:
 subjects:
 - Ajudas de Custo
 - Aposentação
-- Formação Profissional
+- Carreira Profissional
 - Corpo de Polícia Florestal
 - Definição de Competências
 - Direcção Regional das Florestas
+- Estágio de Formação
 - Estatuto
-- Carreira Profissional
+- Fardamento
+- Formação Profissional
+- Guarda Florestal
+- Horário de Trabalho
+- Madeira.região Autónoma
 - Mestre Florestal
 - Polícia Florestal
-- Guarda Florestal
-- Estágio de Formação
-- Madeira.região Autónoma
 - Quadro de Pessoal
-- Horário de Trabalho
 - Subsídio de Insalubridade
 - Subsídio de Penosidade e Risco
-- Fardamento
 relationships:
 - type: amended_by
   target: pt:dre:499068:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240781:por
+  label: "Alterado o art. 3º deste diploma, assim como os arts. 9º e 16º do anexo I e o anexo II; e revogados os arts. 15º\
+    \ e 33º do Estatuto aprovado pelo anexo I e o art. 8º do anexo II, pelo DRR.12/2003/M.2003.03.24.PG-RAM DR.IS-B [96]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2003-240781
+  date: '2003-03-24'
+- type: amended_by
+  target: pt:dre:654974:por
+  label: "Alterados os arts. 2.º, 10.º, 13.º e 14.º do anexo I e o anexo II (este último na redacção do DRR 12/2003/M, de\
+    \ 24-Mar) , pelo DLR.24/2003/M.2003.08.01.ALR-RAM DR.IS-B [190] DE 19/AGO/2003 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2003-654974
+  date: '2003-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1998/04/24/p/dre
   label: null
@@ -117,16 +130,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677438:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499068:por
+  label: "Revogado o Estatuto do Corpo de Polícia Florestal aprovado pelo presente diploma, na redação do DRR 12/2003/M de\
+    \ 24-abr e do DLR 24/2003/M de 19-ago, pelo DLR.29/2013/M.22.08.2013.AL-RAM, DR.IS [161] de 22.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2013-499068
+  date: '2013-08-22'
 article_structure:
   article_count: 28
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:18Z'
   warnings: []
   errors: []
 ---
@@ -167,13 +218,13 @@ A escala salarial do pessoal da carreira de guarda florestal, do grupo de pessoa
 
 Aprovado em Conselho do Governo Regional em 17 de Dezembro de 1998.
 
-**O Presidente do Governo Regional, em exercício, José Paulo Baptista Fontes.**
+O Presidente do Governo Regional, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 5 de Janeiro de 1999.**
+Assinado em 5 de Janeiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — ESTATUTO DO CORPO DE POLÍCIA FLORESTAL
 

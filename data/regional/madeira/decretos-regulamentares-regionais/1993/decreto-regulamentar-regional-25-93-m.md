@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/1993/08/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1993-324346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae24311bad2f0885a791cbbebfeaa4101a33b3079cf2e628c9b3750aa1fad097
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aed3acc6de23f17d3e490e88210b9668db6aab565019a5e834963720b1c53ef2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:582386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:582386:por
+  label: "Alterados os arts. 1º, 6º, 7º e 15º do DRR 2/84/M de 17-Mar, na redacção do presente diploma pelo DRR.12/99/M.1999.08.16.PG-RAM,DR.IS-B\
+    \ [206] de 03/Set/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1999-582386
+  date: '1999-08-16'
 - type: cites
   target: celex:31985R3828
   label: null
@@ -84,15 +90,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1991/2328/oj
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:38Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +115,9 @@ Nestes termos:
 
 O Governo Regional, ao abrigo das alíneas b) e d) do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º São alterados os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 12.º, 19.º, 22.º, 24.º e 30.º do Decreto Regulamentar Regional n.º 2/84/M, de 17 de Março, que passam a ter a seguinte redacção:
+Artigo 1.º São alterados os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 12.º, 19.º, 22.º, 24.º e 30.º do Decreto Regulamentar Regional n.º 2/84/M, de 17 de Março, que passam a ter a seguinte redacção:
 
-###### Artigo 1.º O seguro de colheitas consagrado no Decreto Legislativo Regional n.º 2/83/M, de 7 de Março, abrange as seguintes culturas: vinhas de castas europeias, banana, cana-de-açúcar, batata (semilha), batata-doce, alface, cenoura, cebola, alho, feijão-verde (vaginha), tomate, morango, culturas hortícolas em estufa, floricultura e fruticultura, com as especificações a seguir mencionadas:
+Artigo 1.º O seguro de colheitas consagrado no Decreto Legislativo Regional n.º 2/83/M, de 7 de Março, abrange as seguintes culturas: vinhas de castas europeias, banana, cana-de-açúcar, batata (semilha), batata-doce, alface, cenoura, cebola, alho, feijão-verde (vaginha), tomate, morango, culturas hortícolas em estufa, floricultura e fruticultura, com as especificações a seguir mencionadas:
 
 a) ...
 
@@ -119,13 +125,13 @@ b) A floricultura sob coberto engloba: antúrio, orquídeas (cateleia, cimbídio
 
 c) A fruticultura refere-se a: citrinos (laranja, limão, e tangerina), pomóideas (maçã e pêra), prunóideas (pêssego, damasco e ameixa), actinídea (kiwi); na subtropical refere-se especificamente a: abacate, anona, manga, maracujá e papaia.
 
-###### Art. 2.º Sem prejuízo do expresso no n.º 3 do artigo 2.º do Decreto Legislativo Regional n.º 2/83/M, de 17 de Março, o seguro cobrirá os seguintes riscos: incêndio, raio, explosão, vento forte (tornado), tromba-d'água, granizo, seca manifesta e continuada e efeitos da acção do mar (maresia).
+Art. 2.º Sem prejuízo do expresso no n.º 3 do artigo 2.º do Decreto Legislativo Regional n.º 2/83/M, de 17 de Março, o seguro cobrirá os seguintes riscos: incêndio, raio, explosão, vento forte (tornado), tromba-d'água, granizo, seca manifesta e continuada e efeitos da acção do mar (maresia).
 
-###### Art. 4.º As culturas referidas no artigo 1.º só poderão ser cobertas pelo seguro de colheitas mediante parecer favorável do Fundo Madeirense do Seguro de Colheitas, que deverá atender aos seguintes aspectos: correcta utilização do solo, localização da cultura, uso de tecnologia adequada e o estabelecido nas condições gerais da apólice.
+Art. 4.º As culturas referidas no artigo 1.º só poderão ser cobertas pelo seguro de colheitas mediante parecer favorável do Fundo Madeirense do Seguro de Colheitas, que deverá atender aos seguintes aspectos: correcta utilização do solo, localização da cultura, uso de tecnologia adequada e o estabelecido nas condições gerais da apólice.
 
-###### Art. 5.º O parecer referido no artigo anterior será elaborado a pedido do candidato ao seguro e considera-se como favorável se não for dada resposta no prazo máximo de 15 dias a contar da data da entrada do respectivo requerimento no referido Fundo Madeirense. No entanto, para capitais a segurar com valor superior a 500000$00, é sempre obrigatório o parecer.
+Art. 5.º O parecer referido no artigo anterior será elaborado a pedido do candidato ao seguro e considera-se como favorável se não for dada resposta no prazo máximo de 15 dias a contar da data da entrada do respectivo requerimento no referido Fundo Madeirense. No entanto, para capitais a segurar com valor superior a 500000$00, é sempre obrigatório o parecer.
 
-###### Art. 6.º Para efeitos do presente decreto regulamentar e tendo em conta as características definidas na respectiva apólice, considera-se:
+Art. 6.º Para efeitos do presente decreto regulamentar e tendo em conta as características definidas na respectiva apólice, considera-se:
 
 a) Estufa - construção fechada de estrutura e forma diversas, com as paredes e a cobertura integralmente revestidas de material transparente ou translúcido, equipada ou não com sistema de climatização e dispondo de arejamento estático ou dinâmico;
 
@@ -135,9 +141,9 @@ c) Abrigo baixo (túnel) - estrutura de forma diversa, revestida de cobertura de
 
 d) Para as culturas prosseguidas em estufas, abrigos ou túneis é obrigatório o parecer constante do artigo 4.º, independentemente do valor seguro.
 
-###### Art. 7.º O seguro de colheitas apenas poderá cobrir as culturas da vinha e de fruteiras a partir do 3.º ano de plantação, salvo no que respeita à banana e ao maracujá, em que será a partir do 2.º ano de plantação.
+Art. 7.º O seguro de colheitas apenas poderá cobrir as culturas da vinha e de fruteiras a partir do 3.º ano de plantação, salvo no que respeita à banana e ao maracujá, em que será a partir do 2.º ano de plantação.
 
-###### Art. 12.º De harmonia com o artigo 2.º deste decreto regulamentar, entende-se por:
+Art. 12.º De harmonia com o artigo 2.º deste decreto regulamentar, entende-se por:
 
 a) Vento forte (tornado) - vento que no momento do sinistro tenha atingido velocidade instantânea igual ou superior a 80 km/hora, ou que a sua violência destrua ou derrube árvores num raio de 5 km envolventes dos bens seguros;
 
@@ -151,7 +157,7 @@ Concelhos de Porto Moniz, São Vicente e Santana: de 1 de Novembro a 30 de Junho
 
 e) Seca manifesta e continuada - efeitos da impossibilidade de rega por causas estranhas ao funcionamento normal do sistema de regadio, originadas, designadamente, por derrocadas que destruam os canais principais de rega, com diminuição extraordinária dos respectivos caudais, resultando que o nível hídrico do solo desça a valores que obstem à continuação das correspondentes culturas; essas derrocadas terão de resultar dos riscos seguros, com exclusão da maresia.
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 a) O montante da indemnização será o equivalente a 80% do valor dos prejuízos apurados;
 
@@ -159,7 +165,7 @@ b) ...
 
 c) Não são indemnizáveis os prejuízos resultantes de sinistro cujo montante, por cultura, seja inferior a 5% do valor seguro, com um mínimo de 5000$00.
 
-###### Art. 22.º - 1 - Os contratos de seguro de colheitas são temporários, não prorrogáveis, tendo em atenção a duração fixada nas condições da apólice, e apenas produzem os seus efeitos a partir das 0 horas do 8.º dia seguinte ao da aprovação da proposta pela seguradora, considerando-se a mesma aprovada na data da sua recepção na seguradora se, no prazo de oito dias a contar dessa mesma data, nada tiver sido comunicado em contrário ao proponente por correio registado.
+Art. 22.º - 1 - Os contratos de seguro de colheitas são temporários, não prorrogáveis, tendo em atenção a duração fixada nas condições da apólice, e apenas produzem os seus efeitos a partir das 0 horas do 8.º dia seguinte ao da aprovação da proposta pela seguradora, considerando-se a mesma aprovada na data da sua recepção na seguradora se, no prazo de oito dias a contar dessa mesma data, nada tiver sido comunicado em contrário ao proponente por correio registado.
 
 2 - A entrega da proposta em escritório próprio da seguradora é considerada, para efeitos do número anterior, como tendo sido entregue na respectiva sede.
 
@@ -167,9 +173,9 @@ c) Não são indemnizáveis os prejuízos resultantes de sinistro cujo montante,
 
 4 - Excepcionalmente poderão ser aceites outras datas para a celebração do contrato de seguro, mediante parecer favorável do Fundo Madeirense do Seguro de Colheitas.
 
-###### Art. 24.º As taxas a aplicar para a determinação dos prémios de riscos são as seguintes:
+Art. 24.º As taxas a aplicar para a determinação dos prémios de riscos são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/194b00/44244425.pdf))](https://files.diariodarepublica.pt/1s/1993/08/194b00/44244425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/194b00/44244425.pdf)
 
 A distribuição das culturas por classes de riscos é a seguinte:
 
@@ -181,7 +187,7 @@ Classe III: citrinos (laranja, limão e tangerina), abacate, manga, papaia, anon
 
 Classe IV: banana.
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 a) ...
 
@@ -189,14 +195,14 @@ b) Que se enquadrem no âmbito do Regulamento/CE n.º [2328/91](http://data.euro
 
 c) ...
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 8 de Julho de 1993.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 27 de Julho de 1993.**
+Assinado em 27 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/05100/0157701585.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2019/03/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2019-120837267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e291efc1ae6571107a2e61d71afc0f5abf25b31f189955fed7b006302201b04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c5402aca5a51971b3c212faf4537990c6bdd2de317b09aaac7f6b43966676e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono para Falhas
+- Administração Pública
+- Administração Regional
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
 - Assistência Técnica
-- Gestão Financeira
-- Governo Regional
-- Sistema de Normalização Contabilística Público
+- Contabilidade Pública
 - Controlo Orçamental
 - Despesas Públicas
-- Regulamentação de Atos Legislativos
+- Direcção Regional do Orçamento e Tesouro
 - Dotação Orçamental
 - Duodécimo
-- Administração Pública
 - Execução do Orçamento
-- Fundo de Maneio
-- Gestão Orçamental
-- SIGO
 - Finanças Regionais
+- Fundo de Maneio
+- Gestão Financeira
+- Gestão Orçamental
+- Governo Regional
+- Madeira.região Autónoma
 - Orçamento
 - Orçamento Regional
-- Direcção Regional do Orçamento e Tesouro
 - Plano Oficial de Contabilidade Pública
 - Política Orçamental
 - Prestação de Contas
 - Programa Orçamental
-- Madeira.região Autónoma
 - Receita
 - Receita Pública
 - Receita Regional
+- Regulamentação de Atos Legislativos
 - Responsabilidade Financeira
-- Administração Regional
-- Contabilidade Pública
+- SIGO
+- Sistema de Normalização Contabilística Público
 - Unidade de Gestão
 relationships:
 - type: cites
@@ -139,16 +139,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:106522678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115924019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 31
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:21Z'
   warnings: []
   errors: []
 ---
@@ -579,10 +623,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em Conselho do Governo Regional em 7 de fevereiro de 2019.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 22 de fevereiro de 2019.**
+Assinado em 22 de fevereiro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+112120859

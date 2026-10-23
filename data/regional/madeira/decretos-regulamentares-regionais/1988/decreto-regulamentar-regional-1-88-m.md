@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1988-583810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f04792d764be8ec036fe4b5544468d3b62c28a9095f4fdef1a109a2f931ba338
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 999b92c0e474f038b158200ed28ec2e7284905384bdf30ba14a659b165e40776
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Regional do Emprego
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662732:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:54Z'
   warnings: []
   errors: []
 ---
@@ -222,7 +237,9 @@ f) Elaborar informações e proceder ao tratamento estatístico do movimento dos
 
 2 - O CEF é dirigido por um chefe de divisão.
 
-###### Artigo 9.º — Divisão de Estudos e de Mercado de Emprego
+###### Artigo 9.º
+
+##### Divisão de Estudos e de Mercado de Emprego
 
 1 - São atribuições da DEME:
 
@@ -268,7 +285,9 @@ a) Divisão de Programas de Emprego (DPE);
 
 b) Divisão do Fundo Social Europeu (DFSE).
 
-###### Artigo 12.º — Divisão de Programas de Emprego
+###### Artigo 12.º
+
+##### Divisão de Programas de Emprego
 
 1 - São atribuições da DPE:
 
@@ -284,7 +303,9 @@ e) Acompanhar as entidades apoiadas, providenciando pela correcta aplicação do
 
 2 - A DPE é dirigida por um chefe de divisão.
 
-###### Artigo 13.º — Divisão do Fundo Social Europeu
+###### Artigo 13.º
+
+##### Divisão do Fundo Social Europeu
 
 1 - São atribuições da DFSE:
 
@@ -302,7 +323,9 @@ f) Promover as acções que se revelem necessárias à boa gestão das candidatu
 
 2 - A DFSE é dirigida por um chefe de divisão.
 
-#### SECÇÃO IV — Divisão do Sector Cooperativo
+#### SECÇÃO IV
+
+##### Divisão do Sector Cooperativo
 
 ###### Artigo 14.º — Atribuições
 
@@ -424,10 +447,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 12 de Novembro de 1987.
 
-**O Presidente do Governo Regional, em exercício, (Assinatura ilegível.)**
+O Presidente do Governo Regional, em exercício, (Assinatura ilegível.)
 
-**Assinado em 7 de Dezembro de 1987.**
+Assinado em 7 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

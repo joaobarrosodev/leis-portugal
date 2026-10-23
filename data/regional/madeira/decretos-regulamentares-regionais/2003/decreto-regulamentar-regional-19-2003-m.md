@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/189b00/51435152.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2003/08/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2003-661695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ed692878853151a6e3bc28ae79135c8b13de0f7f35ed6a1f38fae09a3aee56c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38ec3c113b53d758c13cfcca24b46a23b2caa36745546ff0280e41d212ad5bd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Definição de Competências
 - Direcção Regional de Orçamento e Contabilidade
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -112,16 +112,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247978:por
+  label: "Revogados os quadros de pessoal anexos com a aprovação dos quadros de pessoal previstos nos nºs 1 a 3 do art. 26º\
+    \ da lei orgânica aprovada pelo DRR.2/2008/M.15.02.2008.PG-RAM, DR.IS [33] de 15.02.2008 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2008-247978
+  date: '2008-02-15'
+- type: repealed_by
+  target: pt:dre:261097:por
+  label: "Revogado, a partir de 16.05.2013, pelo DRR.8/2013/M.15.05.2013.PG-RAM, DR.IS [93] de 15.05.2013, com produção de\
+    \ efeitos nos termos do disposto no seu art. 3º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2013-261097
+  date: '2013-05-15'
 article_structure:
   article_count: 48
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:00Z'
   warnings: []
   errors: []
 ---
@@ -164,13 +220,13 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 10 de Julho de 2003.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 23 de Julho de 2003.**
+Assinado em 23 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Orgânica da Direcção Regional de Orçamento e Contabilidade
 
@@ -428,7 +484,9 @@ a) Divisão de Controlo Orçamental;
 
 b) Departamento de Controlo e Arquivo da Conta.
 
-##### SUBSECÇÃO I — Divisão de Controlo Orçamental
+##### SUBSECÇÃO I
+
+##### Divisão de Controlo Orçamental
 
 ###### Artigo 17.º — Natureza e atribuições
 
@@ -568,7 +626,9 @@ a) Divisão de Orçamentos Privativos;
 
 b) Departamento de Acompanhamento dos Fundos Autónomos.
 
-##### SUBSECÇÃO I — Divisão de Orçamentos Privativos
+##### SUBSECÇÃO I
+
+##### Divisão de Orçamentos Privativos
 
 ###### Artigo 30.º — Natureza e atribuições
 
@@ -586,7 +646,9 @@ O Departamento de Acompanhamento dos Fundos Autónomos, abreviadamente designado
 
 O DAFA é chefiado por um chefe de departamento, que transita para o quadro da DROC nos termos do artigo 45.º do presente diploma, e compreende a Secção de Execução dos Orçamentos Privativos.
 
-#### SECÇÃO IV — Divisão da Receita
+#### SECÇÃO IV
+
+##### Divisão da Receita
 
 ###### Artigo 33.º — Natureza
 
@@ -638,7 +700,9 @@ O Departamento de Controlo dos Recursos Próprios de Terceiros, abreviadamente d
 
 O Departamento de Controlo da Receita, abreviadamente designado por DCR, é um serviço de apoio ao chefe de divisão da Receita e tem por atribuições assegurar o controlo e escrituração das receitas.
 
-##### SUBSECÇÃO III — Secção de Recursos Nacionais e Comunitários
+##### SUBSECÇÃO III
+
+#### Secção de Recursos Nacionais e Comunitários
 
 ###### Artigo 38.º — Natureza e atribuições
 
@@ -712,10 +776,10 @@ O aumento do número de lugares na categoria de chefe de departamento no mapa an
 
 Direcção Regional de Orçamento e Contabilidade
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/189b00/51435152.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/189b00/51435152.pdf)](https://files.diariodarepublica.pt/1s/2003/08/189b00/51435152.pdf)
 
 ## ANEXO II — MAPA II
 
 Gabinete de Estudos e Pareceres Jurídicos e Fiscais
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/189b00/51435152.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/189b00/51435152.pdf)](https://files.diariodarepublica.pt/1s/2003/08/189b00/51435152.pdf)

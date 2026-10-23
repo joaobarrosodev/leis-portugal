@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/188b00/40044006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/1992/08/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1992-282161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6712fe3244dfa2617a036048f2f8c80725236bd2ff75c813b6e0efdd1078fff7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e36c12227fdbbd65aa0eb5e411abc6ab4b438b79f60a9802934340519f2a3e15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
+- Administração Regional
 - Carreira Profissional
+- Madeira.região Autónoma
 - Pessoal Auxiliar
 - Pessoal Técnico Profissional
 - Política Salarial
-- Madeira.região Autónoma
-- Administração Local
 - Remuneração
-- Administração Regional
 relationships:
 - type: amended_by
   target: pt:dre:428651:por
@@ -91,16 +91,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:301464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:428651:por
+  label: "Revogado pelo DLR.23/99/M.1999.08.06.ALR-RAM,DR.IS-A [199] de 26/Ago/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/23-1999-428651
+  date: '1999-08-06'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:29Z'
   warnings: []
   errors: []
 ---
@@ -143,16 +160,16 @@ O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 11 de Junho de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 16 de Julho de 1992.**
+Assinado em 16 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/188b00/40044006.pdf))](https://files.diariodarepublica.pt/1s/1992/08/188b00/40044006.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/188b00/40044006.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/188b00/40044006.pdf))](https://files.diariodarepublica.pt/1s/1992/08/188b00/40044006.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/188b00/40044006.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/188b00/40044006.pdf))](https://files.diariodarepublica.pt/1s/1992/08/188b00/40044006.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/188b00/40044006.pdf)

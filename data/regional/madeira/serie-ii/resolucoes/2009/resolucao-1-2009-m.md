@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2009-2513010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae270f14b1ece1c182f7907054d5c73d0caa8861ba15eb030e78db6688641c22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0db0b3d9ebb8a07df814e050a1690dbc21182caf1a225f2bf1a6c1ed46d34d8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Funchal
+- Madeira.região Autónoma
+- Ordenamento do Território
+- Plano Director Municipal
+- Política de Solos
+relationships:
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:16Z'
   warnings: []
   errors: []
 ---
@@ -109,4 +130,6 @@ Ao abrigo do disposto na alínea a) do n.º 1 e no n.º 2 do artigo 84.º do [De
 
 29 de Junho de 2009. - O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2009/07/132000000/2726227262.pdf))](https://files.diariodarepublica.pt/2s/2009/07/132000000/2726227262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2009/07/132000000/2726227262.pdf)
+
+201997618

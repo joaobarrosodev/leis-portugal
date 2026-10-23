@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/02400/0037400377.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2016/02/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2016-73431768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0da798f5998bb58d6d51701be6d2c2a1a78d48c133bac8362eb160edc60f5a14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97f926e64a974b47482918924934a7c513bb0c837e7bd88bb1eaa321af215c2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Diretor Regional
 - Direcção Regional de Juventude e Desporto
-- Secretaria Regional da Educação
-- Orgânica
+- Diretor Regional
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:896791627:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:127899796:por
+  label: Extinguida a Direção Regional de Juventude e Desporto sendo as suas atribuições, na área do Desporto, integradas
+    na Direção Regional de Desporto e as suas atribuições, na área da Juventude, na Direção Regional de Juventude, aprovada
+    pelo presente diploma, pelo(a) Decreto Regulamentar Regional n.º 2/2020/M - Diário da República n.º 6/2020, Série I de
+    2020-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2020-127899796
+  date: '2020-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
   label: null
@@ -117,16 +125,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70980180:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:129679429:por
+  label: Revoga, a partir de 09.03.2020, o presente diploma, na redação do DRR 2/2020/M de 09-jan, pelo(a) Decreto Regulamentar
+    Regional n.º 15/2020/M - Diário da República n.º 43/2020, Série I de 2020-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2020-129679429
+  date: '2020-03-02'
 article_structure:
   article_count: 10
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:14Z'
   warnings: []
   errors: []
 ---
@@ -305,16 +359,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de dezembro de 2015.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 13 de janeiro de 2016.**
+Assinado em 13 de janeiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## Anexo I do Decreto Regulamentar Regional n.º 6/2016/M, de 4 de fevereiro de 2016
+Anexo I do Decreto Regulamentar Regional n.º 6/2016/M, de 4 de fevereiro de 2016
 
 Mapa de cargos dirigentes a que se refere o artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/02/02400/0037400377.pdf))](https://files.diariodarepublica.pt/1s/2016/02/02400/0037400377.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/02/02400/0037400377.pdf)

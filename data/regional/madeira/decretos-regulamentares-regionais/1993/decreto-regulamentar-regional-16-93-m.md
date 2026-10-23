@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/1993/05/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1993-283950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efb6cebfe20f62ce1a23b5b9b9adab2db899ff2e2b33058b34e8c4d14153aabb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb2f36e366426d6d9d3325e994c8938ad62e07824c5957a407b4e144c269adde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Secretaria Regional dos Assuntos Parlamentares e Comunicação
 relationships:
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:408706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:35Z'
   warnings: []
   errors: []
 ---
@@ -111,25 +123,25 @@ Assim, nos termos da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diar
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Secretaria Regional dos Assuntos Parlamentares e Comunicação, designada abreviadamente no presente diploma por SRAP, é o departamento do Governo Regional da Madeira a que se refere a alínea c) do artigo 1.º do [Decreto Legislativo Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-668491), de 11 de Novembro.
+Artigo 1.º A Secretaria Regional dos Assuntos Parlamentares e Comunicação, designada abreviadamente no presente diploma por SRAP, é o departamento do Governo Regional da Madeira a que se refere a alínea c) do artigo 1.º do [Decreto Legislativo Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-668491), de 11 de Novembro.
 
-###### Art. 2.º As atribuições, competências, orgânica, funcionamento e pessoal da SRAP são os constantes do presente diploma e dos respectivos anexos, os quais dele fazem parte integrante.
+Art. 2.º As atribuições, competências, orgânica, funcionamento e pessoal da SRAP são os constantes do presente diploma e dos respectivos anexos, os quais dele fazem parte integrante.
 
-###### Art. 3.º Constituem atribuições genéricas da SRAP a concepção e execução da política governativa regional nas áreas dos assuntos parlamentares, comunicação, emigração, juventude e trabalho.
+Art. 3.º Constituem atribuições genéricas da SRAP a concepção e execução da política governativa regional nas áreas dos assuntos parlamentares, comunicação, emigração, juventude e trabalho.
 
 Secretário Regional
 
-###### Art. 4.º A SRAP é superiormente representada e dirigida pelo Secretário Regional dos Assuntos Parlamentares e Comunicação.
+Art. 4.º A SRAP é superiormente representada e dirigida pelo Secretário Regional dos Assuntos Parlamentares e Comunicação.
 
-###### Art. 5.º O Secretário Regional define, orienta e promove a execução das políticas regionais, nas áreas de intervenção da SRAP referidas no artigo 3.º, coordenando a elaboração dos respectivos planos de desenvolvimento.
+Art. 5.º O Secretário Regional define, orienta e promove a execução das políticas regionais, nas áreas de intervenção da SRAP referidas no artigo 3.º, coordenando a elaboração dos respectivos planos de desenvolvimento.
 
-###### Art. 6.º O Secretário Regional pode delegar, com faculdade de subdelegação, no chefe de gabinete ou nos responsáveis pelos diversos departamentos da SRAP as competências que julgar convenientes, nos termos e condições definidos na lei.
+Art. 6.º O Secretário Regional pode delegar, com faculdade de subdelegação, no chefe de gabinete ou nos responsáveis pelos diversos departamentos da SRAP as competências que julgar convenientes, nos termos e condições definidos na lei.
 
-###### Art. 7.º O Secretário Regional pode avocar as competências dos responsáveis pelos organismos e serviços da SRAP.
+Art. 7.º O Secretário Regional pode avocar as competências dos responsáveis pelos organismos e serviços da SRAP.
 
 ### CAPÍTULO II — Estrutura geral
 
-###### Art. 8.º Nos termos do artigo 1.º do [Decreto Regulamentar Regional n.º 29/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1992-408706), de 31 de Dezembro, a SRAP compreende os seguintes serviços:
+Art. 8.º Nos termos do artigo 1.º do [Decreto Regulamentar Regional n.º 29/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1992-408706), de 31 de Dezembro, a SRAP compreende os seguintes serviços:
 
 a) Gabinete do Secretário Regional, designado abreviadamente no presente diploma por GSR;
 
@@ -145,7 +157,7 @@ e) Inspecção Regional do Trabalho, designada abreviadamente no presente diplom
 
 ##### DIVISÃO I — Gabinete do Secretário Regional
 
-###### Art. 9.º - 1 - O GSR é constituído pelo chefe de gabinete, que o dirige, na directa dependência do Secretário Regional, um adjunto e dois secretários particulares.
+Art. 9.º - 1 - O GSR é constituído pelo chefe de gabinete, que o dirige, na directa dependência do Secretário Regional, um adjunto e dois secretários particulares.
 
 2 - Para além do pessoal referido no n.º 1, o Secretário Regional poderá destacar e ou requisitar para apoio ao GSR o pessoal técnico, administrativo e auxiliar reputado necessário.
 
@@ -153,7 +165,7 @@ e) Inspecção Regional do Trabalho, designada abreviadamente no presente diplom
 
 4 - Adstrito ao GSR funcionará um Gabinete de Estudos e Pareceres, designado abreviadamente no presente diploma por GEP, com funções de apoio a todos os órgãos que compõem a SRAP.
 
-###### Art. 10.º - 1 - Compete genericamente ao chefe de gabinete:
+Art. 10.º - 1 - Compete genericamente ao chefe de gabinete:
 
 a) Dirigir o GSR e representar o Secretário Regional, excepto nos actos de carácter pessoal;
 
@@ -173,7 +185,7 @@ g) Executar as demais funções que lhe forem delegadas pelo Secretário Regiona
 
 #### SECÇÃO I — Gabinete de Estudos e Pareceres
 
-###### Art. 11.º O GEP é um órgão com funções de mera consulta, cabendo-lhe, nomeadamente:
+Art. 11.º O GEP é um órgão com funções de mera consulta, cabendo-lhe, nomeadamente:
 
 a) Emitir pareceres e elaborar estudos de âmbito geral;
 
@@ -181,11 +193,11 @@ b) Emitir pareceres sobre propostas de diplomas legais.
 
 ##### DIVISÃO II — Direcção Regional Adjunta
 
-###### Art. 12.º - 1 - A DRA é o departamento da SRAP com atribuições e competências nas áreas dos assuntos parlamentares, comunicação e emigração.
+Art. 12.º - 1 - A DRA é o departamento da SRAP com atribuições e competências nas áreas dos assuntos parlamentares, comunicação e emigração.
 
 2 - A DRA coordena a gestão global dos recursos humanos e financeiros e assegura os procedimentos administrativos dessa gestão e promove as medidas tendentes ao aperfeiçoamento organizacional e de modernização administrativa.
 
-###### Art. 13.º Na prossecução dos objectivos enunciados, são atribuições da DRA:
+Art. 13.º Na prossecução dos objectivos enunciados, são atribuições da DRA:
 
 a) Assegurar a articulação entre o Governo e a Assembleia Legislativa Regional, conforme as orientações do Secretário Regional;
 
@@ -209,7 +221,7 @@ j) Assegurar o funcionamento do Centro de Informação e Documentação;
 
 k) Promover actividades de carácter cultural, recreativo e desportivo visando o aproveitamento dos tempos livres dos trabalhadores, quer através da utilização das instalações de zonas de lazer do Montado do Pereiro e parque desportivo dos trabalhadores, quer através da concessão de apoios a organismos vocacionados para o desenvolvimento de actividades nesta área, nomeadamente do INATEL.
 
-###### Art. 14.º A DRA compreende os seguintes serviços:
+Art. 14.º A DRA compreende os seguintes serviços:
 
 a) Centro de Informação e Documentação, designado abreviadamente no presente diploma por CID;
 
@@ -223,7 +235,7 @@ e) Serviço de Actividades Culturais e Recreativas, designado abreviadamente no 
 
 #### SECÇÃO I — Centro de Informação e Documentação
 
-###### Art. 15.º - 1 - Compete ao CID:
+Art. 15.º - 1 - Compete ao CID:
 
 a) Recolher, analisar e difundir informação, em especial, sobre matérias relevantes para a actividade da DRA;
 
@@ -243,7 +255,7 @@ f) Acompanhar a preparação, elaboração e execução de toda a informação e
 
 #### SECÇÃO II — Gabinete de Apoio à Comunicação Social
 
-###### Art. 16.º - 1 - Compete ao GACS:
+Art. 16.º - 1 - Compete ao GACS:
 
 a) Elaborar propostas de apoio à comunicação social regional, de acordo com o quadro legal;
 
@@ -253,9 +265,11 @@ b) Apoiar iniciativas que visem a formação e aperfeiçoamento dos profissionai
 
 3 - O GACS compreende uma Secção Administrativa.
 
-#### SECÇÃO III — Divisão Administrativa e de Apoio Técnico
+#### SECÇÃO III
 
-###### Art. 17.º - 1 - Compete à DAAT:
+##### Divisão Administrativa e de Apoio Técnico
+
+Art. 17.º - 1 - Compete à DAAT:
 
 a) Promover as medidas indispensáveis à racional gestão administrativa, financeira e de recursos humanos dos serviços da DRA;
 
@@ -279,7 +293,7 @@ c) Repartição de Recursos Humanos, que integra uma Secção de Pessoal.
 
 #### SECÇÃO IV — Centro das Comunidades Madeirenses
 
-###### Art. 18.º - 1 - Compete ao CCM:
+Art. 18.º - 1 - Compete ao CCM:
 
 a) Proceder à consulta e recolha das ofertas de emprego provenientes de comunidades de acolhimento e ao seu estudo;
 
@@ -313,7 +327,7 @@ b) O Gabinete de Apoio à Emigração, ao qual incumbe, especialmente, desenvolv
 
 #### SECÇÃO V — Serviço de Actividades Culturais e Recreativas
 
-###### Art. 19.º - 1 - Compete ao SACR:
+Art. 19.º - 1 - Compete ao SACR:
 
 a) Administrar as instalações afectas à SRAP para fins de lazer e desporto, nomeadamente a zona de lazer do Montado do Pereiro e o parque desportivo dos trabalhadores, propondo a criação das estruturas necessárias e adequadas ao seu pleno funcionamento e integral aproveitamento;
 
@@ -325,9 +339,9 @@ c) Fomentar e apoiar acções visando o aproveitamento dos tempos livres do pess
 
 ##### DIVISÃO III — Direcção Regional da Juventude
 
-###### Art. 20.º A DRJ é o órgão da SRAP com atribuições e competências nos domínios do associativismo juvenil, ocupação de tempos livres, do turismo juvenil, de informação e documentação aos jovens e das formas de apoio aos jovens empresários.
+Art. 20.º A DRJ é o órgão da SRAP com atribuições e competências nos domínios do associativismo juvenil, ocupação de tempos livres, do turismo juvenil, de informação e documentação aos jovens e das formas de apoio aos jovens empresários.
 
-###### Art. 21.º - 1 - São atribuições da DRJ:
+Art. 21.º - 1 - São atribuições da DRJ:
 
 a) Implementar os mecanismos de coordenação intersectorial, numa perspectiva de política globalizante para a juventude;
 
@@ -357,7 +371,7 @@ m) Editar publicações de carácter informativo, numa perspectiva de promoção
 
 2 - Na dependência da DRJ funciona uma Secção Administrativa.
 
-###### Art. 22.º A DRJ compreende os seguintes serviços:
+Art. 22.º A DRJ compreende os seguintes serviços:
 
 a) Direcção de Serviços da Juventude, designada abreviadamente no presente diploma por DSJ;
 
@@ -371,7 +385,7 @@ e) Gabinete Coordenador dos Centros de Juventude, designado abreviadamente no pr
 
 #### SECÇÃO I — Direcção de Serviços da Juventude
 
-###### Art. 23.º Compete à DSJ:
+Art. 23.º Compete à DSJ:
 
 a) Elaborar e desenvolver os estudos e actividades necessários à ocupação dos tempos livres;
 
@@ -391,7 +405,7 @@ h) Potenciar o intercâmbio e a comunicação das diversas colectividades e orga
 
 #### SECÇÃO II — Serviço de Animação Juvenil
 
-###### Art. 24.º - 1 - Compete ao SAJ:
+Art. 24.º - 1 - Compete ao SAJ:
 
 a) Promover, incentivar e apoiar a realização de exposições, feiras, certames, festivais e actividades de interesse para os jovens;
 
@@ -409,7 +423,7 @@ f) Proceder à divulgação de todo o tipo de documentação que apoie as inicia
 
 #### SECÇÃO III — Centro Regional de Informação da Juventude
 
-###### Art. 25.º - 1 - Compete ao CRIJ:
+Art. 25.º - 1 - Compete ao CRIJ:
 
 a) Criar um suporte informativo, documental e áudio-visual sobre questões da juventude;
 
@@ -427,7 +441,7 @@ f) Propor a celebração de acordos ou protocolos com entidades, públicas ou pr
 
 #### SECÇÃO IV — Gabinete Jurídico
 
-###### Art. 26.º São competências do GJ:
+Art. 26.º São competências do GJ:
 
 a) Emitir pareceres e elaborar estudos jurídicos;
 
@@ -439,7 +453,7 @@ d) Analisar e dar parecer sobre questões de índole jurídica que digam respeit
 
 #### SECÇÃO V — Gabinete Coordenador dos Centros de Juventude
 
-###### Art. 27.º - 1 - São atribuições do GCCJ:
+Art. 27.º - 1 - São atribuições do GCCJ:
 
 a) Promover e apoiar realizações no âmbito do turismo juvenil, incentivando a mobilidade e o intercâmbio entre os jovens;
 
@@ -461,9 +475,9 @@ h) Editar publicações de carácter informativo sobre o funcionamento dos centr
 
 ##### DIVISÃO IV — Direcção Regional do Trabalho
 
-###### Art. 28.º A DIRTRA é o departamento da SRAP com atribuições e competências nos domínios das relações colectivas de trabalho, apreciação das condições de trabalho, higiene e segurança no trabalho, medicina do trabalho e estatísticas laborais.
+Art. 28.º A DIRTRA é o departamento da SRAP com atribuições e competências nos domínios das relações colectivas de trabalho, apreciação das condições de trabalho, higiene e segurança no trabalho, medicina do trabalho e estatísticas laborais.
 
-###### Art. 29.º Na prossecução dos objectivos enunciados, são atribuições da DIRTRA:
+Art. 29.º Na prossecução dos objectivos enunciados, são atribuições da DIRTRA:
 
 a) Contribuir para a definição da política laboral e para a elaboração da legislação do trabalho;
 
@@ -501,7 +515,7 @@ q) Realizar as operações estatísticas laborais regionais, nos termos da legis
 
 Órgãos e serviços
 
-###### Art. 30.º A DIRTRA compreende os seguintes serviços:
+Art. 30.º A DIRTRA compreende os seguintes serviços:
 
 a) Serviços de apoio: Secretaria, Núcleo de Informação e Documentação, designado abreviadamente no presente diploma por NID, Gabinete Técnico-Jurídico, designado abreviadamente no presente diploma por GTJ, e Serviço Informativo Laboral, designado abreviadamente no presente diploma por SIL;
 
@@ -515,25 +529,25 @@ e) Divisão de Estatísticas do Trabalho, designada abreviadamente no presente d
 
 #### SECÇÃO I — Serviços de apoio
 
-###### Art. 31.º - 1 - Compete à Secretaria assegurar a execução de todo o expediente em geral, pessoal, economato, manutenção, registo e arquivo da DIRTRA.
+Art. 31.º - 1 - Compete à Secretaria assegurar a execução de todo o expediente em geral, pessoal, economato, manutenção, registo e arquivo da DIRTRA.
 
 2 - A Secretaria integra a Secção de Expediente e Pessoal, chefiada por um chefe de secção.
 
 3 - A Secretaria é chefiada por um chefe de repartição.
 
-###### Art. 32.º Compete ao NID:
+Art. 32.º Compete ao NID:
 
 a) Propor a aquisição de publicações de natureza técnico-científica e cultural que se revelem de interesse para o bom funcionamento da DIRTRA;
 
 b) Manter organizados os arquivos, ficheiros e todo o material documentalístico, bem como a informação de carácter laboral, designadamente legislação, doutrina e jurisprudência.
 
-###### Art. 33.º Compete ao GTJ:
+Art. 33.º Compete ao GTJ:
 
 a) Emitir pareceres sobre todos os assuntos de índole jurídico-laboral que sejam submetidos à apreciação da DIRTRA;
 
 b) Informar e dar apoio técnico, no âmbito da consulta jurídica, aos órgãos que compõem a estrutura da DIRTRA.
 
-###### Art. 34.º - 1 - Compete ao SIL:
+Art. 34.º - 1 - Compete ao SIL:
 
 a) Prestar todas as informações, no âmbito da legislação laboral, aos parceiros sociais e utentes em geral, solicitadas directa ou indirectamente;
 
@@ -543,7 +557,7 @@ b) Elaborar sínteses informativas da legislação laboral.
 
 #### SECÇÃO II — Direcção de Serviços do Trabalho
 
-###### Art. 35.º São atribuições da DST:
+Art. 35.º São atribuições da DST:
 
 a) Proceder aos estudos e promover as acções que contribuam para a actualização e melhoria das condições de prestação de trabalho;
 
@@ -569,7 +583,7 @@ k) Colaborar na organização dos pareceres, arquivos e ficheiros inerentes à s
 
 l) Emitir pareceres referentes à sua área de actuação.
 
-###### Art. 36.º - 1 - A DST compreende:
+Art. 36.º - 1 - A DST compreende:
 
 a) A Divisão de Regulamentação e Relações de Trabalho, designada abreviadamente no presente diploma por DRRT;
 
@@ -577,7 +591,7 @@ b) O Serviço de Apreciação das Condições de Trabalho, designado abreviadame
 
 2 - A DST é dirigida por um director de serviços, que, nas suas ausências e impedimentos, é substituído pelo chefe de divisão.
 
-###### Art. 37.º - 1 - Compete à DRRT:
+Art. 37.º - 1 - Compete à DRRT:
 
 a) Elaborar os estudos preparatórios da regulamentação colectiva de trabalho por via admistrativa, assegurando a organização dos respectivos processos e respectiva publicação;
 
@@ -599,7 +613,7 @@ h) Colaborar na organização e actualização de arquivos e ficheiros de organi
 
 3 - A DRRT integra as Secções de Contratação e de Publicações, chefiadas por um chefe de secção.
 
-###### Art. 38.º - 1 - Compete ao SACT:
+Art. 38.º - 1 - Compete ao SACT:
 
 a) Apreciar, nos termos da lei, as condições de trabalho, designadamente o regime de duração de trabalho, a prestação de trabalho de menores, de estrangeiros e carteiras profissionais;
 
@@ -611,9 +625,11 @@ d) Assegurar todo o expediente geral inerente à área das suas competências.
 
 2 - O SACT é chefiado por um chefe de secção.
 
-#### SECÇÃO III — Divisão de Higiene e Segurança no Trabalho
+#### SECÇÃO III
 
-###### Art. 39.º - 1 - Compete à DHST:
+##### Divisão de Higiene e Segurança no Trabalho
+
+Art. 39.º - 1 - Compete à DHST:
 
 a) Elaborar os estudos preparatórios da programação e execução de todas as acções no domínio da higiene, segurança e prevenção dos riscos profissionais, bem como da preparação da respectiva legislação;
 
@@ -635,7 +651,7 @@ f) Recolher, elaborar e difundir documentação e informação nos domínios da 
 
 #### SECÇÃO IV — Centro de Medicina do Trabalho
 
-###### Art. 40.º - 1 - Compete ao CMT:
+Art. 40.º - 1 - Compete ao CMT:
 
 a) Prestar apoio técnico, nomeadamente através da realização de exames médicos, aos serviços de colocação, orientação e formação profissional, bem como a outras entidades públicas ou privadas;
 
@@ -655,9 +671,11 @@ g) Acompanhamento e apoio no domínio das doenças profissionais, em articulaç�
 
 3 - O CMT integra os sectores médico, de enfermagem e de apoio administrativo.
 
-#### SECÇÃO V — Divisão de Estatística do Trabalho
+#### SECÇÃO V
 
-###### Art. 41.º - 1 - Compete à DETRA:
+##### Divisão de Estatística do Trabalho
+
+Art. 41.º - 1 - Compete à DETRA:
 
 a) Lançar, recolher, produzir, desenvolver e divulgar toda a informação estatística laboral regional;
 
@@ -677,7 +695,7 @@ e) Acompanhar os processos de negociação colectiva e os trabalhos preparatóri
 
 ##### DIVISÃO V — Inspecção Regional do Trabalho
 
-###### Art. 42.º - 1 - A IRT é um serviço directamente dependente do Secretário Regional dos Assuntos Parlamentares e Comunicação, com atribuições e competências para assegurar o cumprimento da legislação laboral vigente.
+Art. 42.º - 1 - A IRT é um serviço directamente dependente do Secretário Regional dos Assuntos Parlamentares e Comunicação, com atribuições e competências para assegurar o cumprimento da legislação laboral vigente.
 
 2 - A IRT dispõe de estatuto próprio, aprovado por decreto regulamentar regional, onde são estabelecidas as suas atribuições, orgânica e funcionamento.
 
@@ -685,7 +703,7 @@ e) Acompanhar os processos de negociação colectiva e os trabalhos preparatóri
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 43.º - 1 - O pessoal do quadro da SRAP é agrupado em:
+Art. 43.º - 1 - O pessoal do quadro da SRAP é agrupado em:
 
 a) Pessoal dirigente;
 
@@ -703,42 +721,42 @@ g) Pessoal operário.
 
 2 - Os quadros de pessoal da SRAP são os constantes do mapa anexo a este diploma, do qual fazem parte integrante.
 
-###### Art. 44.º O regime aplicável ao pessoal da SRAP é o estabelecido para os funcionários e agentes da administração pública regional.
+Art. 44.º O regime aplicável ao pessoal da SRAP é o estabelecido para os funcionários e agentes da administração pública regional.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 45.º - 1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se válidos, sendo os lugares a prover os constantes do mapa anexo a este diploma.
+Art. 45.º - 1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se válidos, sendo os lugares a prover os constantes do mapa anexo a este diploma.
 
 2 - Os actuais estagiários prosseguem os respectivos estágios, transitando findos os mesmos, se neles obtiverem aproveitamento, para as categorias e lugares objecto de concurso e constantes do mapa anexo ao presente diploma.
 
-###### Art. 46.º Este diploma entra imediatamente em vigor.
+Art. 46.º Este diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 1 de Abril de 1993.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 19 de Abril de 1993.**
+Assinado em 19 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Gabinete do Secretário Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf))](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf)
 
 Direcção Regional Adjunta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf))](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf)
 
 Direcção Regional da Juventude
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf))](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf)
 
 Direcção Regional do Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf))](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf)
 
 Inspecção Regional do Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf))](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/124b00/29172928.pdf)

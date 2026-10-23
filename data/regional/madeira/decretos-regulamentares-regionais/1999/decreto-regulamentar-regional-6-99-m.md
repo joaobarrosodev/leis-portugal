@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/115b00/26622663.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/1999/05/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1999-323081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0201bb90c17ebf7598236ad86010e28606c4dd7b5d5e945b1d0612492bab0677
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9598cad15b6bb979ea60e5f418569f3a51350a8b76baed772a205521a093e201
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Ensino Técnico Profissional
 - Escola Profissional de Hotelaria e Turismo da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:548416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515258:por
+  label: "Alterados os arts. 5º e 9º do DRR 3/99/M de 30-Mar, na redacção do presente diploma pelo DRR.15/2000/M.2000.02.24.PG-RAM,DR.IS-B\
+    \ [69] de 22/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2000-515258
+  date: '2000-02-24'
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a manutenção em vigor do DRR 3/99/M, de 20-Mar, na redacção do presente diploma, pelo DRR.5/2005/M.21.02.2005.PG-RAM,\
+    \ DR.IS-B [47] de 08.03.2005, até à publicação integral dos diplomas a que se refere o n.º 4 do seu art. 4.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/3/1999/03/20/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/3/1999/03/20/m/dre
+- type: cites
+  target: pt:dre:145671:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:548416:por
+  label: "Revogado o DRR 3/99/M de 20-Mar, com as alterações constantes do presente diploma, pelo DRR.17/2005/M.30.03.2005.PG-RAM,\
+    \ DR.IS-B [76] de 19.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2005-548416
+  date: '2005-03-30'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:25Z'
   warnings: []
   errors: []
 ---
@@ -132,13 +154,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 15 de Abril de 1999.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 30 de Abril de 1999.**
+Assinado em 30 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — Quadro de pessoal da Escola Profissional de Hotelaria e Turismo da Madeira, a que se refere o artigo 22.º
 

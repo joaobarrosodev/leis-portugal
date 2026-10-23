@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18600/0003800042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2024/09/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2024-888861508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d57174203d7a28de8cce7cc2d01417aaa7c5fed9cf51493a0cb918e8f607969
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 428e24c4acf6625e48a8c4de64a776a075e8abfd75ef1cf6bef227e2cd9b66ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Regulamentação de Atos Legislativos
-- Presidência do Governo Regional
-- Direcção Regional das Comunidades Europeias e da Cooperação Externa
-- Secretaria Geral
-- Presidente do Governo Regional
-- Orgânica
-- Madeira.região Autónoma
 - Casa da Madeira
+- Direcção Regional das Comunidades Europeias e da Cooperação Externa
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Presidência do Governo Regional
+- Presidente do Governo Regional
+- Regulamentação de Atos Legislativos
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decleg
@@ -115,16 +115,110 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128113536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839799725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:4/2020/M
+  label: Revoga, a partir de 26 de setembro de 2024, nos termos do artigo 11.º, o Decreto Regulamentar Regional n.º 4/2020/M,
+    de 15 de janeiro, Diário da República n.º 10/2020, Série I
+  source: null
+  date: '2020-01-15'
 article_structure:
   article_count: 12
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:44Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +235,7 @@ Determina ainda o n.º 2 do artigo 11.º do citado [Decreto Regulamentar Regiona
 
 Neste enquadramento, dando cumprimento ao estipulado no n.º 2 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, pelo presente diploma procede-se à aprovação da orgânica de Presidência do Governo Regional, de forma a conformá-la com as atribuições que lhe estão agora cometidas pelo artigo 2.º daquele diploma, nomeadamente nos domínios das comunidades, emigração, imigração e cooperação externa.
 
-Assim, nos termos do n.º 2 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa e do artigo 69.º, alíneas c) e d), do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos do n.º 2 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa e do artigo 69.º, alíneas c) e d), do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E COMPETÊNCIAS
 
@@ -225,7 +319,7 @@ n) Desenvolver e coordenar toda a atividade relacionada com a informação que e
 
 1 - A organização interna da Secretaria-Geral da Presidência compreende as unidades orgânicas e todos os serviços e secções administrativas da Presidência do Governo Regional que funcionam na sua direta dependência.
 
-2 - A organização interna a que se refere o número anterior obedece ao modelo de estrutura hierarquizada e é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
+2 - A organização interna a que se refere o número anterior obedece ao modelo de estrutura hierarquizada e é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
 
 ###### Artigo 6.º — Competências
 
@@ -257,7 +351,7 @@ O regime aplicável ao pessoal da Presidência do Governo Regional é o generica
 
 ###### Artigo 9.º — Carreira subsistente
 
-1 - O desenvolvimento indiciário da carreira subsistente de chefe de departamento é o constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de agosto, objeto da [Declaração de Retificação n.º 15-I/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), publicada no Diário da República, 1.ª série-A, n.º 299 (2.º suplemento), de 30 de setembro de 1999, sendo-lhe aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas Leis n.<sup>os</sup>[64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e [66/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513) e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), ambas de 31 de dezembro.
+1 - O desenvolvimento indiciário da carreira subsistente de chefe de departamento é o constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de agosto, objeto da [Declaração de Retificação n.º 15-I/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), publicada no Diário da República, 1.ª série-A, n.º 299 (2.º suplemento), de 30 de setembro de 1999, sendo-lhe aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas Leis n.os[64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e [66/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513) e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), ambas de 31 de dezembro.
 
 2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da [Lei n.º 75/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-2014-56747377), de 12 de setembro.
 
@@ -277,11 +371,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 5 de setembro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 19 de setembro de 2024.**
+Assinado em 19 de setembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -297,3 +391,5 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 (a) Exercido de acordo com o estabelecido no artigo 6.º
 
 (b) A extinguir quando vagar.
+
+118141298

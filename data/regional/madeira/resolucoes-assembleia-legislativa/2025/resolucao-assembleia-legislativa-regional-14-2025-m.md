@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/08/14700/0005300054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/14/2025/08/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/14-2025-927416004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c0532a64ede2ee60d551ed7f009b1af0c77258790ac822454231178627e9048
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e7d94c3211f1afc81bf300801b8aff756b35cf9604909a5cb226719a6145b74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assembleia Regional
 - Assembleia Legislativa
+- Assembleia Regional
+- Governo XXV
 - Recomendação
 - Região Autónoma da Madeira
-- Governo XXV
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:48Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +141,7 @@ Neste sentido, não podemos olvidar o que tem sido a política corrente da UE, a
 
 A Região Autónoma da Madeira tem, ao longo dos últimos quadros financeiros, demonstrado capacidade institucional, rigor na execução e eficiência na aplicação dos fundos europeus, adaptando-os à sua realidade insular e ultraperiférica. Limitar esta autonomia numa futura programação não é, seguramente, o caminho certo.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, resolve recomendar ao Governo da República que:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, resolve recomendar ao Governo da República que:
 
 1 - Manifeste a sua oposição à possibilidade de centralização da gestão dos fundos europeus no quadro do QFP 2028-2034;
 
@@ -143,4 +155,6 @@ A Assembleia Legislativa da Região Autónoma da Madeira resolve, ainda, dar con
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de julho de 2025.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119375422

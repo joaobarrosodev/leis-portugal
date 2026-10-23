@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1988-283531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd3a78c6700ec8f6e97f05567cec1ae500a713645ce6958576f8ec3f341fbb9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7c523fde665a4047ce18796d2adc33453421734a638973acf1f8cbfc5e26732
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Regional do Trabalho
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:324319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662733:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:58Z'
   warnings: []
   errors: []
 ---
@@ -236,7 +259,9 @@ b) O Serviço de Apreciação das Condições de Trabalho (SACT).
 
 2 - A DST é dirigida por um director de serviços, que, nas suas ausências e impedimentos, é substituído pelo chefe de divisão ou outro funcionário para o efeito designado nos termos da lei.
 
-###### Artigo 9.º — Divisão de Regulamentação e Relações de Trabalho
+###### Artigo 9.º
+
+##### Divisão de Regulamentação e Relações de Trabalho
 
 1 - São atribuições da DRRT:
 
@@ -280,7 +305,9 @@ c) Organizar e manter actualizados arquivos, ficheiros de empresas, actividades 
 
 2 - O SACT é chefiado por um chefe de repartição.
 
-#### SECÇÃO III — Divisão de Higiene e Segurança no Trabalho
+#### SECÇÃO III
+
+##### Divisão de Higiene e Segurança no Trabalho
 
 ###### Artigo 11.º — Atribuições
 
@@ -360,8 +387,8 @@ Aprovado em Conselho do Governo Regional em 12 de Novembro de 1987.
 
 Pelo Presidente do Governo Regional, em exercício, Manuel Jorge Bazinga Marques.
 
-**Assinado em 7 de Dezembro de 1987.**
+Assinado em 7 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

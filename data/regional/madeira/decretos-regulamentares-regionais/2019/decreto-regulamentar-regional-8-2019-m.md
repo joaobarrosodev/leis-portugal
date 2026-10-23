@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/2019/10/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2019-125865392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f55c5e69f7f05e461b69eefb6f7e2b125afbeef04bd30d9b2c58a5d1c2f87ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1935bd9fbe86fca23b0f34d433f02e4dca03dbca854e0f5aaa1b9539aaeee2f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/76/2019/06/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/76/2019/06/03/p/dre
+- type: cites
+  target: pt:dre:122476954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:23Z'
   warnings: []
   errors: []
 ---
@@ -119,11 +131,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 18 de setembro de 2019.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 14 de outubro de 2019.**
+Assinado em 14 de outubro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -419,7 +431,7 @@ De forma a evitar a autoexcitação dos geradores assíncronos, devem ser instal
 
 Tabela 1. Gamas admissíveis para a ligação de geradores síncronos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Os geradores síncronos de potência não superior a 500 kVA podem ser ligados como assíncronos, desde que respeitadas as limitações impostas na secção 4.3.3 e a duração da marcha assíncrona não exceda dois segundos.
 
@@ -463,15 +475,15 @@ As instalações produtoras de eletricidade deste tipo deverão cumprir com os s
 
 . Gama aceitável de frequência de funcionamento - a instalação produtora de eletricidade deverá permanecer ligada à rede e operar dentro das seguintes gamas de frequência e períodos de tempo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 . Gama aceitável de tensão de funcionamento - a instalação produtora de eletricidade deverá permanecer ligada à rede e operar sem restrições dentro da seguinte gama de tensão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 . Sobrevivência a gradientes de frequência - a instalação produtora de eletricidade deverá permanecer ligada à rede e operar sem restrições para a seguinte de taxa de variação de frequência (medida numa janela temporal de 250 ms a partir do momento em que a respetiva excursão ultrapasse (mais ou menos)0.3 Hz):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Excetuando-se os casos devidamente previstos em que as instalações deverão reagir a perturbações da rede em função dos modos de sensibilidade à frequência, não deverão ocorrer alterações do ponto de funcionamento das instalações decorrentes de variações de frequência ou do respetivo gradiente nas gamas especificadas.
 
@@ -481,7 +493,7 @@ Em adição aos requisitos listados na secção 4.4.2, as instalações produtor
 
 . Controlo local de tensão - a instalação produtora de eletricidade deverá ser capaz de localmente modular a potência ativa e reativa que produz/consome em função da tensão medida aos seus terminais, de acordo com a seguinte característica (definida relativamente ao ponto de operação), começando por dar prioridade ao controlo de potência reativa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Figura 1. Capacidade de modulação da potência em função da tensão exigida às instalações produtoras de eletricidade do tipo A
 
@@ -501,7 +513,7 @@ Durante o período de tempo em que a frequência da rede se mantenha fora da ban
 
 Tabela 2. Critérios para ativação do modo de sensibilidade à sobrefrequência para instalações dos tipos A e B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Figura 2. Variação do ponto de operação face a variações de sobrefrequência para instalações produtoras de eletricidade dos tipos A, B, C e D
 
@@ -511,11 +523,11 @@ Em adição aos requisitos listados nas secções 4.4.2 e 4.4.3, as instalaçõe
 
 . Gama aceitável de tensão de funcionamento - a instalação produtora de eletricidade deverá permanecer ligada à rede e operar sem restrições dentro da seguinte gama de tensão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 . Gama de injeção e consumo de potência reativa - a instalação produtora de eletricidade deverá ser capaz de operar em qualquer ponto dentro da gama ilustrada na figura 3, no que concerne à injeção de potência reativa. Dessa forma, a instalação deverá ser capaz de injetar ou consumir potência reativa dentro dos seguintes limites:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Figura 3. Capacidade mínima de potência reativa exigida às instalações produtoras de eletricidade dos tipos B, C e D
 
@@ -527,7 +539,7 @@ A instalação deverá comunicar, em permanência, ao operador do despacho qual 
 
 Tabela 3. Parametrizações referentes à curva tensão-tempo apresentada no que respeita à sobrevivência a cavas de tensão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Figura 4. Curva tensão-tempo exigida no que respeita à sobrevivência a cavas de tensão às instalações dos tipos B, C e D
 
@@ -559,7 +571,7 @@ A continuidade dos pontos de operação resultantes da ativação destas funcion
 
 Tabela 4. Critérios para ativação do modo de sensibilidade à frequência para instalações dos tipos C e D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Figura 5. Variação do ponto de operação face a variações de frequência para instalações dos tipos C e D
 
@@ -571,37 +583,37 @@ Figura 5. Variação do ponto de operação face a variações de frequência pa
 
 Admite-se uma tolerância nos períodos transitórios existentes no primeiro ciclo após a ocorrência do defeito e após a eliminação do mesmo (figura 6).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Estando sujeitas a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 - Deverá ser dada prioridade à injeção de corrente ativa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Figura 6. Tolerância relativa ao controlo dinâmico de corrente ativa e reativa no primeiro ciclo após a ocorrência de um defeito para instalações dos tipos C e D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Figura 7. Característica corrente reativa-tensão exigida durante cavas de tensão às instalações dos tipos C e D
 
 Tabela 5. Parametrizações da característica corrente reativa-tensão exigida durante cavas de tensão às instalações do Tipo C e D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 . Sobrevivência a sobretensões - as instalações produtoras de eletricidade deverão permanecer ligadas à rede na sequência de sobretensões transitórias sempre que a tensão por fase no ponto de ligação à rede seja mantida abaixo da curva definida na figura 8, estando os respetivos parâmetros definidos na tabela 6.
 
 Tabela 6. Parametrizações referentes à curva tensão-tempo apresentada no que respeita à sobrevivência a sobretensões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Figura 8. Curva tensão-tempo exigida no que respeita à sobrevivência a sobretensões às instalações do tipos C e D
 
 . Capacidade de controlo dinâmico de corrente reativa durante sobretensões - para o caso de sobretensões (dentro dos limites definidos no requisito técnico «Sobrevivência a sobretensões»), a instalação deverá ser capaz de consumir corrente reativa, garantindo o limite de corrente nominal das unidades produtoras, e procurando minimizar os efeitos que daí decorrem para a componente ativa da corrente. Assim, a característica apresentada na figura 9 ilustra a capacidade de variação de corrente reativa esperada em função da tensão medida aos terminais da instalação, onde os parâmetros U(índice DBmin) e U(índice DBmax) correspondem às tensões limitadoras da banda-morta, na qual o controlo dinâmico da corrente reativa não deverá interferir. As parametrizações da figura 9 são apresentadas na tabela 7.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 Figura 9. Característica corrente reativa-tensão exigida durante sobretensões às instalações dos tipos C e D
 
@@ -609,7 +621,7 @@ Em caso de defeitos assimétricos, os requisitos estabelecidos dizem respeito à
 
 Tabela 7. Parametrizações da característica corrente reativa-tensão exigida durante sobretensões às instalações dos tipos C e D.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 4.4.6 - Instalações do tipo D:
 
@@ -625,7 +637,7 @@ Na tabela 8 é apresentado de forma resumida a distribuição dos requisitos pel
 
 Tabela 8. Resumo dos requisitos de ligação por categoria de instalação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf))](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/21000/0007100100.pdf)
 
 4.5 - Energia e potência reativa nas ligações à rede de distribuição:
 
@@ -1122,3 +1134,5 @@ Para efeito do presente Regulamento, são utilizadas as seguintes definições:
 ### CAPÍTULO 13.º — Procedimentos de licenciamento
 
 13.1 - Sem prejuízo das competências cometidas à Entidade Reguladora dos Serviços Energéticos (ERSE), os termos, designadamente, prazos de duração, condições de manutenção, tipo de procedimento, critérios da atribuição de reserva de capacidade de injeção no SEPM, cauções, licença de produção e do regime remuneratório respetivo, são definidos por portaria do membro do governo regional que tutela a área da energia.
+
+112681841

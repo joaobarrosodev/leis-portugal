@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/274b00/70027006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/1994/11/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1994-547023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e09b99a26b3ad244fa5d3d891e450850c41e7b141eca8e43c346ccfdecf2f16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3c830a9bf83f2b8bd4c953a382015a3ae8ef7dcf63e2ce7921bcb46a31a4a09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
 - Carreira Profissional
+- Definição de Competências
 - Formas de Provimento
-- Recrutamento de Pessoal
 - Inspecção Regional de Finanças
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Inspecção
-- Madeira.região Autónoma
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Secretaria Regional das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:481500:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:231488:por
+  label: "Alterado o artigo 15.º da orgânica publicada em anexo ao presente diploma, pelo DRR.5/95/M.04.04.1995.GR-RAM, DR.IS-B\
+    \ [80] de 04.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1995-231488
+  date: '1995-04-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/19/1993/06/24/m/dre
   label: null
@@ -100,16 +106,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:481500:por
+  label: "Revogado pelo DLR.18/2005/M.07.11.2005.AL-RAM, DR.IS-A [226] de 24.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2005-481500
+  date: '2005-11-07'
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:48Z'
   warnings: []
   errors: []
 ---
@@ -140,21 +183,21 @@ Assim:
 
 Nos termos da alínea i) do artigo 4.º do [Decreto Regulamentar Regional n.º 3/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1993-585230), de 21 de Janeiro, na redacção que lhe foi dada pelo [Decreto Regulamentar Regional n.º 9/94/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1994-587860), de 21 de Setembro, conjugado com a alínea d) do n.º 1 do artigo 229.º da Constituição, da alínea c) do artigo 49.º e do n.º 1 do artigo 50.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Julho, o Governo Regional da Madeira decreta o seguinte:
 
-###### Artigo 1.º É aprovada a estrutura orgânica da Inspecção Regional de Finanças, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a estrutura orgânica da Inspecção Regional de Finanças, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º São revogados a alínea c) do n.º 2 do artigo 3.º, os artigos 20.º a 26.º e 31.º e os n.os 1 e 2 do artigo 33.º do [Decreto Regulamentar Regional n.º 19/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1993-268057), de 16 de Outubro.
+Art. 2.º São revogados a alínea c) do n.º 2 do artigo 3.º, os artigos 20.º a 26.º e 31.º e os n.os 1 e 2 do artigo 33.º do [Decreto Regulamentar Regional n.º 19/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1993-268057), de 16 de Outubro.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 20 de Outubro de 1994.
 
-**O Secretário Regional da Agricultura, Florestas e Pescas, no exercício da Presidência do Governo Regional, Manuel Jorge Bazenga Marques.**
+O Secretário Regional da Agricultura, Florestas e Pescas, no exercício da Presidência do Governo Regional, Manuel Jorge Bazenga Marques.
 
-**Assinado em 28 de Outubro de 1994.**
+Assinado em 28 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Orgânica da Inspecção Regional de Finanças
 
@@ -428,4 +471,4 @@ Serão fornecidos à IRF exemplares de todas as instruções administrativas ema
 
 Mapa anexo a que se refere o artigo 13.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/274b00/70027006.pdf))](https://files.diariodarepublica.pt/1s/1994/11/274b00/70027006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/274b00/70027006.pdf)

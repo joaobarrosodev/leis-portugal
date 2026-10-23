@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/05000/0081000816.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2016/03/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2016-73841236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5843f1182aa2c6eadacb3614116f3d17e5fa9cc13ef5c95b6419e0e5c608a820
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53ccb045a2cf2f39fcdf868001f7741d44158f01f3e65f0161f6e0d48b1ef585
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono para Falhas
+- Administração Pública
+- Administração Regional
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
 - Assistência Técnica
-- Gestão Financeira
-- Governo Regional
-- Sistema de Normalização Contabilística Público
+- Contabilidade Pública
 - Contrato de Locação Financeira
 - Controlo Orçamental
 - Despesas Públicas
+- Direcção Regional do Orçamento e Tesouro
 - Dotação Orçamental
 - Duodécimo
-- Administração Pública
 - Execução do Orçamento
-- Fundo de Maneio
-- Gestão Orçamental
-- SIGO
 - Finanças Regionais
+- Fundo de Maneio
+- Gestão Financeira
+- Gestão Orçamental
+- Governo Regional
+- Madeira.região Autónoma
 - Orçamento
 - Orçamento Regional
-- Direcção Regional do Orçamento e Tesouro
 - Plano Oficial de Contabilidade Pública
 - Política Orçamental
 - Prestação de Contas
 - Programa Orçamental
-- Madeira.região Autónoma
 - Receita
 - Receita Pública
 - Receita Regional
 - Responsabilidade Financeira
-- Administração Regional
-- Contabilidade Pública
+- SIGO
+- Sistema de Normalização Contabilística Público
 - Unidade de Gestão
 relationships:
 - type: cites
@@ -139,16 +139,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66012654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72991305:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:14Z'
   warnings: []
   errors: []
 ---
@@ -485,10 +529,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em Conselho do Governo Regional em 3 de março de 2016.
 
-**O Secretário Regional dos Assuntos Parlamentares e Europeus, no exercício da Presidência, Mário Sérgio Quaresma Gonçalves Marques.**
+O Secretário Regional dos Assuntos Parlamentares e Europeus, no exercício da Presidência, Mário Sérgio Quaresma Gonçalves Marques.
 
-**Assinado em 8 de março de 2016.**
+Assinado em 8 de março de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/08800/0003300040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/2022/05/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04a87afee4786fbf3eada7211adc0d441032d50ed55c2485e068a3977b0c4e02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6393199e1f43f9bf50109b8300307de9165cc8e8f8bfd3a9f4c39722cc60ac0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina Privada
-- Governo Regional
 - Contrato de Prestação de Serviços
-- Saúde
 - Definição de Competências
-- Preço
-- Serviço Público
-- Prestação de Serviços
+- Governo Regional
 - Madeira.região Autónoma
+- Medicina Privada
+- Preço
+- Prestação de Serviços
+- Saúde
+- Serviço Público
 - Serviço Regional de Saúde
 - Tabela de Cuidados de Saúde
 relationships:
@@ -103,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:108250528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:35Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +165,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 11.º, 12.º e 13.º 
 
 O presente diploma regulamenta o regime de celebração de convenções que tenham por objeto a prestação de cuidados ou a prestação de cuidados técnicos de saúde aos utentes do Serviço Regional de Saúde da Região Autónoma da Madeira.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -165,13 +191,17 @@ d) ...
 
 3 - O recurso à prestação de cuidados ou cuidados técnicos de saúde, ao abrigo de convenção, nos termos do presente diploma, não pode pôr em causa o racional aproveitamento da capacidade instalada no setor público nem prejudicar a garantia da acessibilidade àqueles cuidados por parte dos utentes do Serviço Regional de Saúde.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Podem ser partes em convenções quaisquer pessoas singulares ou coletivas, com ou sem fins lucrativos, com idoneidade para a prestação de cuidados ou cuidados técnicos de saúde, sob a orientação e responsabilidade de profissionais de saúde devidamente habilitados, nos casos legalmente exigíveis.
 
 2 - Para efeitos do número anterior, as convenções são contratadas pelo Instituto de Administração da Saúde, IP-RAM (IASAÚDE, IP-RAM).
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -185,7 +215,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -199,7 +231,9 @@ d) ...
 
 2 - Os profissionais vinculados ao Serviço de Saúde da Região Autónoma da Madeira, EPERAM (SESARAM, EPERAM), ficam sujeitos ao regime de incompatibilidades, impedimentos e inibições, nos termos da lei.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -223,13 +257,17 @@ i) ...
 
 2 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os preços a pagar no âmbito das convenções para a prestação de cuidados de saúde têm por base os constantes do Regulamento das Tabelas de Preços das Instituições e Serviços Integrados no Serviço Nacional de Saúde.
 
 2 - Os preços a pagar no âmbito das convenções para a prestação de cuidados técnicos de saúde são os estabelecidos em portaria conjunta dos membros do Governo responsáveis pelas áreas da saúde e das finanças.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 ...
 
@@ -243,13 +281,17 @@ d) ...
 
 e) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O encargo com a realização dos cuidados ou cuidados técnicos de saúde realizados ao abrigo das convenções efetiva-se mediante credencial do serviço público de saúde utilizada para o efeito e escolha do utente do Serviço Regional de Saúde dentre os prestadores aderentes.
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O IASAÚDE, IP-RAM, deve, em articulação com o SESARAM, EPERAM, avaliar, de forma sistemática, a qualidade e acessibilidade dos cuidados e cuidados técnicos de saúde prestados pelas entidades convencionadas e zelar pelo integral cumprimento das convenções.
 
@@ -259,7 +301,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -275,11 +319,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 25 de março de 2022.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 8 de abril de 2022.**
+Assinado em 8 de abril de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -444,3 +488,5 @@ O clausulado-tipo da convenção para a prestação de ecografias mamárias, mam
 ###### Artigo 16.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+115262558

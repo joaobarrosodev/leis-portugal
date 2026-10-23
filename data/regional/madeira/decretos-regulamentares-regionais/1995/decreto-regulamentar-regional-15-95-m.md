@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/120b00/32793280.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/1995/05/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1995-529982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98f09d03c7cd17a2d118d9b45c9d39c36cc133c5a233f6aeb1c581b76968033c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 563970de319afcfc94d39c30ec18a16ecf1a11c50d88774e3ea8452f9cdf70dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desporto Escolar
 - Coordenador Regional
+- Desporto
+- Desporto Escolar
 - Educação Física
-- Pessoal Docente
 - Ensino Básico
 - Madeira.região Autónoma
+- Pessoal Docente
 - Regime Jurídico
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:176345:por
@@ -91,16 +91,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676795:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176345:por
+  label: "Revogado pelo DLR.7/98/M.1998.04.02.ALR-RAM, DR.IS-B [97] de 27/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1998-176345
+  date: '1998-04-02'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:53Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +132,7 @@ Dada a especificidade das funções a desempenhar pelos titulares destes cargos,
 
 Assim, o Governo Regional, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição da República Portuguesa, do artigo 49.º, alínea d), da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, e do artigo 8.º do [Decreto Regulamentar Regional n.º 31/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1993-652126), de 28 de Setembro, decreta o seguinte:
 
-###### Artigo 1.º O n.º 3 do artigo 1.º do [Decreto Regulamentar Regional n.º 15/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1991-676795), de 19 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 3 do artigo 1.º do [Decreto Regulamentar Regional n.º 15/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1991-676795), de 19 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 ...
 
@@ -123,14 +140,14 @@ Assim, o Governo Regional, ao abrigo da alínea d) do n.º 1 do artigo 229.º da
 
 3 - Os cargos de coordenadores regionais e coordenadores concelhios deverão ser desempenhados por professores habilitados para os respectivos graus de ensino, podendo, porém, os referidos cargos no âmbito do 1.º ciclo do ensino básico ser preenchidos por professores habilitados para a docência da disciplina de Educação Física dos 2.º e 3.º ciclos do ensino básico e secundário.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 20 de Abril de 1995.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Maio de 1995.**
+Assinado em 2 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/157b00/40924101.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2001/07/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2001-348523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 312843f72b1ccf9f9ff66e6425fe97d07cf7bbf2f9ac0031bcea530bc187e4dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16f4b03777950e5227c547786ddb2a6402e5cf3a0607754f37532756c064e442
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ subjects:
 - Coordenador
 - Definição de Competências
 - Direcção Regional do Trabalho
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Enfermagem
-- Madeira.região Autónoma
 - Quadro de Pessoal
 - Secretaria Regional dos Recursos Humanos
 relationships:
@@ -114,16 +114,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661569:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:396900:por
+  label: "Revogado pelo DRR.1/2009/M.08.01.2009.PG-RAM, DR.IS [5] de 08.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2009-396900
+  date: '2009-01-08'
+- type: repealed_by
+  target: pt:dre:178544:por
+  label: "Revogado pelo DRR.15/2012/M.28.06.2012.PG-RAM, DR.IS [124] de 28.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2012-178544
+  date: '2012-06-28'
 article_structure:
-  article_count: 23
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 24
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:43Z'
   warnings: []
   errors: []
 ---
@@ -340,7 +406,9 @@ c) O Gabinete Técnico-Jurídico (GTJ)/Serviço Informativo Laboral (SIL).
 
 3 - A DSL é dirigida por um director de serviços, que nas suas ausências e impedimentos é substituído por um chefe de divisão.
 
-###### Artigo 11.º — Divisão de Regulamentação e Relações Colectivas de Trabalho
+###### Artigo 11.º
+
+##### Divisão de Regulamentação e Relações Colectivas de Trabalho
 
 1 - Compete à DRRCT:
 
@@ -372,7 +440,9 @@ b) Sector de Publicações.
 
 5 - A DRRCT é dirigida por um chefe de divisão, coadjuvado por coordenadores.
 
-###### Artigo 12.º — Divisão de Recursos e Apreciação das Condições de Trabalho
+###### Artigo 12.º
+
+##### Divisão de Recursos e Apreciação das Condições de Trabalho
 
 1 - Compete à DRACT:
 
@@ -466,7 +536,9 @@ b) O Centro de Medicina do Trabalho (CMT).
 
 5 - A DSSSO é dirigida por um director de serviços que nas suas ausências e impedimentos é substituído pelo chefe de divisão.
 
-###### Artigo 15.º — Divisão de Higiene e Segurança no Trabalho
+###### Artigo 15.º
+
+##### Divisão de Higiene e Segurança no Trabalho
 
 1 - A Divisão de Higiene e Segurança no Trabalho (DHST) tem como atribuição executar as actividades de segurança e higiene do trabalho correspondentes às competências da DSSSO, procedendo à avaliação dos resultados alcançados.
 
@@ -560,7 +632,9 @@ j) Acompanhar os processos de negociação colectiva e os trabalhos preparatóri
 
 6 - A DIFA é dirigida por um chefe de divisão.
 
-#### SECÇÃO VII — Artigo 18.º
+#### SECÇÃO VII
+
+###### Artigo 18.º
 
 Direcção de Serviços de Igualdade, Assuntos Comunitários Laborais e Documentação (DSIACLD)
 
@@ -674,11 +748,11 @@ Aprovado em Conselho do Governo Regional em 31 de Maio de 2001.
 
 O Vice-Presidente do Governo Regional, em exercício da Presidência, João Carlos Cunha e Silva.
 
-**Assinado em 19 de Junho de 2001.**
+Assinado em 19 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA ANEXO
 

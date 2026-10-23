@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13500/0001600079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/24/2020/07/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/24-2020-137808122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 444b8c27bf9efa678a365c6cbf4df632a19769e18d1b6f22c02d1f192162e44a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a461a90cbaafbd24f341a365abe728d83bcc0c6abd598c56cabeaeb62b91bc3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Parlamentar
-- Parlamentar
-- Grupo Parlamentar
 - Assembleia Legislativa
+- Atividade Parlamentar
+- Grupo Parlamentar
 - Madeira.região Autónoma
+- Parlamentar
 - Regimento
 relationships:
 - type: amended_by
@@ -98,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolalram/16-a/2020/04/30/m/dre
   label: null
   source: http://data.dre.pt/eli/resolalram/16-a/2020/04/30/m/dre
+- type: cites
+  target: pt:dre:132783836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 250
-  section_count: 63
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 48
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:02Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +166,7 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de junho de 2020.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
 ## ANEXO — REGIMENTO DA ASSEMBLEIA LEGISLATIVA DA REGIÃO AUTÓNOMA DA MADEIRA
 
@@ -396,7 +416,7 @@ Os deputados que não integrem qualquer grupo parlamentar e não sejam únicos r
 
 #### SECÇÃO I — Presidente
 
-##### DIVISÃO I
+DIVISÃO I
 
 Estatuto e eleição
 
@@ -442,7 +462,7 @@ Estatuto e eleição
 
 3 - Nas faltas ou impedimentos do Presidente e Vice-Presidentes, a Presidência da Mesa será exercida por um deputado a indicar pelo partido de representação maioritária na Assembleia Legislativa.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Competência
 
@@ -554,7 +574,7 @@ i) Assinar os documentos expedidos em nome da Assembleia Legislativa;
 
 j) Chefiar as deputações da Assembleia Legislativa de que faça parte.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Conferência dos Representantes dos Partidos
 
@@ -764,7 +784,7 @@ e) Proceder a inquérito a factos ocorridos no âmbito da Assembleia Legislativa
 
 #### SECÇÃO III — Comissões especializadas
 
-##### DIVISÃO I
+DIVISÃO I
 
 Comissões especializadas permanentes
 
@@ -870,7 +890,7 @@ j) Outros assuntos ou factos de relevante interesse para os objetivos do relató
 
 2 - Os relatórios têm a indicação da iniciativa ou matéria e são assinados pelo relator e pelo Presidente da Comissão.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Comissões eventuais
 
@@ -1130,7 +1150,7 @@ c) Com mais de 16 deputados, três reuniões.
 
 ###### Artigo 73.º — Apreciação de outras matérias
 
-**O Presidente da Assembleia Legislativa inclui na primeira parte da ordem do dia prevista no n.º 2 do artigo 87.º a apreciação das seguintes matérias:**
+O Presidente da Assembleia Legislativa inclui na primeira parte da ordem do dia prevista no n.º 2 do artigo 87.º a apreciação das seguintes matérias:
 
 a) Mensagens do Presidente da República à Assembleia;
 
@@ -1306,7 +1326,7 @@ g) À comunicação de qualquer decisão do Presidente da Assembleia Legislativa
 
 ###### Artigo 88.º — Convite a individualidades estranhas à Assembleia Legislativa
 
-**O Presidente da Assembleia Legislativa poderá, a título excecional, ouvida a Conferência dos Representantes dos Partidos, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.**
+O Presidente da Assembleia Legislativa poderá, a título excecional, ouvida a Conferência dos Representantes dos Partidos, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso da palavra
 
@@ -1754,7 +1774,7 @@ Os serviços da Assembleia Legislativa, sob a direção da Mesa, elaborarão no 
 
 #### SECÇÃO I — Processo legislativo comum
 
-##### DIVISÃO I
+DIVISÃO I
 
 Objeto
 
@@ -1762,7 +1782,7 @@ Objeto
 
 Tomam a forma de decreto legislativo regional e seguem o processo estabelecido nos artigos seguintes os atos previstos nas alíneas b), c) e d) do n.º 1 do artigo 36.º, nas alíneas c), d), e), f), g), h) e j) do n.º 1 do artigo 37.º e no artigo 39.º do Estatuto da Região.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Iniciativa
 
@@ -1870,7 +1890,7 @@ b) Quanto à comissão competente.
 
 5 - Consideram-se propostas de eliminação as que se destinam a suprimir a disposição em discussão.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Exame das iniciativas
 
@@ -1902,7 +1922,7 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 ###### Artigo 143.º — Envio de propostas de alteração
 
-**O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projeto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afete os princípios e o sistema do texto a que se refere.**
+O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projeto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afete os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 144.º — Apreciação de projetos ou de propostas sobre legislação do trabalho
 
@@ -1942,11 +1962,11 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 A comissão competente deve promover a consulta da Associação de Municípios da Região Autónoma da Madeira (AMRAM), e a delegação regional da Associação Nacional de Freguesias (ANAFRE), sempre que se trate de projetos ou propostas respeitantes às Autarquias Locais ou outras iniciativas que o justifiquem.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Discussão e votação
 
-##### SUBDIVISÃO I
+SUBDIVISÃO I
 
 Disposições gerais
 
@@ -1966,7 +1986,7 @@ Disposições gerais
 
 Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 150.º, salvo no que respeita à obrigatoriedade da distribuição aos deputados.
 
-##### SUBDIVISÃO II
+SUBDIVISÃO II
 
 Discussão e votação na generalidade
 
@@ -1982,7 +2002,7 @@ Discussão e votação na generalidade
 
 2 - Neste caso, a Assembleia Legislativa delibera também sobre aquele que serve de base à discussão e votação na especialidade.
 
-##### SUBDIVISÃO III
+SUBDIVISÃO III
 
 Discussão e votação na especialidade
 
@@ -2032,7 +2052,7 @@ A requerimento de 10 deputados, a votação na especialidade poderá ser adiada 
 
 3 - A votação final global não é precedida de discussão, podendo cada deputado ou grupo parlamentar produzir uma declaração escrita nos termos do artigo 99.º
 
-##### DIVISÃO V
+DIVISÃO V
 
 Redação final
 
@@ -2058,7 +2078,7 @@ Redação final
 
 Considera-se definitivo o texto sobre o qual não tenham recaído reclamações ou depois de elas terem sido decididas.
 
-##### DIVISÃO VI
+DIVISÃO VI
 
 Assinatura e segunda deliberação
 
@@ -2096,7 +2116,7 @@ Os projetos e as propostas de decreto legislativo regional aprovados denominam-s
 
 3 - Se a Assembleia Legislativa não confirmar o decreto da Assembleia Legislativa da Madeira, a iniciativa legislativa não poderá ser renovada, na mesma sessão legislativa.
 
-##### DIVISÃO VII
+DIVISÃO VII
 
 Resoluções
 
@@ -2106,7 +2126,7 @@ O processo legislativo comum aplica-se aos diplomas que sejam propostos com a fo
 
 #### SECÇÃO II — Processos legislativos especiais
 
-##### DIVISÃO I
+DIVISÃO I
 
 Projeto de alteração ao Estatuto Político-Administrativo da Região
 
@@ -2158,7 +2178,7 @@ O projeto aprovado toma a forma de resolução, assinada pelo Presidente da Asse
 
 O parecer aprovado pela Assembleia Legislativa toma a forma de resolução, assinada pelo Presidente da Assembleia Legislativa e por este enviada, no prazo de três dias, ao Presidente da Assembleia da República, sem prejuízo de ulterior publicação no Diário.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Propostas de lei a submeter à Assembleia da República
 
@@ -2180,7 +2200,7 @@ b) A proposta aprovada toma a forma de resolução, assinada pelo Presidente da 
 
 A Assembleia Legislativa pode enviar representantes à comissão que na Assembleia da República apreciar a proposta de lei.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Pedidos de autorização legislativa
 
@@ -2492,7 +2512,7 @@ b) Que o Presidente da Assembleia Legislativa ou as comissões entendam que deve
 
 ###### Artigo 217.º — Comunicação ao autor ou aos autores da petição
 
-**O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adotadas.**
+O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adotadas.
 
 #### SECÇÃO VII — Inquéritos
 
@@ -2719,3 +2739,5 @@ O parecer depois de apresentado ao Presidente da Assembleia Legislativa, a fim d
 5 - As alterações do Regimento devem ser aprovadas por maioria absoluta dos deputados presentes.
 
 6 - O Regimento com as alterações escritas no lugar próprio será objeto de nova publicação.
+
+113384679

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1986, 11º Suplemento, Série I de 1986-12-31
   number: '300'
   series: I
-  supplement: 11º Suplemento
+  supplement: null
   pages: 3874-(569) a 3874-(582)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/30011/05690582.pdf
 entry_into_force_dates: []
@@ -46,36 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1986-627245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f88b17fcbbe46b56b14c0637d7f2a617632363e0c6a718dac8d4ee56eb097e07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69783632da3d175f3eb0686c0de8ac5b000d5b154089e4d77b9af90c588564d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Regional de Aeroportos
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:523447:por
+  label: Retificado o quadro de pessoal anexo do presente diploma pelo(a) Declaração - Diário da República n.º 75/1987, 1º
+    Suplemento, Série I de 1987-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-523447
+  date: '1987-03-31'
 article_structure:
-  article_count: 35
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 34
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:43Z'
   warnings: []
   errors: []
 ---
@@ -88,19 +125,19 @@ Nestes termos:
 
 O Governo da Região Autónoma da Madeira (RAM) decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada a Lei Orgânica da Direcção Regional de Aeroportos (LODRA), da Secretaria Regional do Plano (SRP), publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a Lei Orgânica da Direcção Regional de Aeroportos (LODRA), da Secretaria Regional do Plano (SRP), publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 19 de Dezembro de 1986.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 23 de Dezembro de 1986.**
+Assinado em 23 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Lei Orgânica da Direcção Regional de Aeroportos
 
@@ -250,7 +287,9 @@ f) Pessoal.
 
 Ao GT compete auxiliar e apoiar o director regional de Aeroportos em matérias de carácter técnico e científico que exijam preparação específica, elaborando os estudos e pareceres que lhe forem solicitados.
 
-###### Artigo 11.º — Divisão de Manutenção
+###### Artigo 11.º
+
+##### Divisão de Manutenção
 
 À DM compete coordenar a actividade das Secções de Manutenção Geral, Manutenção Eléctrica e Manutenção Diesel, assegurando a conservação e reparação dos equipamentos, máquinas, viaturas, aparelhagem e demais bens de apetrechamento mecânico da DRA. Compete-lhe ainda coordenar o serviço de transportes.
 
@@ -472,8 +511,8 @@ c) Quaisquer outras derivadas do exercício da sua actividade.
 
 ## ANEXO I — Quadro de pessoal a que se refere o artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30011/05690582.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30011/05690582.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30011/05690582.pdf)
 
 ## ANEXO II — Mapa de equivalências a que se refere o n.º 2 do artigo 30.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30011/05690582.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30011/05690582.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30011/05690582.pdf)

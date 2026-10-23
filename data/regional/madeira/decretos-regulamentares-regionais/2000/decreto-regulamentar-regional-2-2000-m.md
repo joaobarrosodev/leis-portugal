@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/01/002b00/00230027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2000/01/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2000-510271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d233fec86a46e47bbd7a3b30db91669955fab3a1ddb29179779fdd0e44dc85ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 626a2646ca26e274f819368cc65923ee83693cf807c2b7c62f5bec234696172d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,16 +103,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669489:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:348307:por
+  label: "Revogado pelo DRR.4/2001/M.2001.02.28.PG-RAM, DR.IS-B [71] de 24/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2001-348307
+  date: '2001-02-28'
 article_structure:
-  article_count: 14
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:30Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +184,9 @@ e) Conselho científico;
 
 f) Departamento administrativo.
 
-###### Artigo 5.º — Competência e constituição
+Artigo 5.º
+
+Competência e constituição
 
 1 - A direcção é o órgão deliberativo, constituído pelo presidente, vice-presidente e secretário.
 
@@ -163,7 +198,9 @@ f) Departamento administrativo.
 
 5 - As remunerações dos três membros da direcção são estabelecidas por despacho do Secretário Regional do Turismo e Cultura.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -177,7 +214,9 @@ c) Chefe do Departamento Administrativo.
 
 3 - O conselho administrativo é secretariado, em princípio, pelo chefe do Departamento Administrativo.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -199,15 +238,23 @@ f) ...
 
 4 - ...
 
-#### SECÇÃO V — Do conselho científico
+SECÇÃO V
 
-###### Artigo 13.º — Atribuições
+Do conselho científico
+
+Artigo 13.º
+
+Atribuições
 
 O conselho científico é o órgão com atribuições de debate e de coordenação das actividades científicas, que se rege pelo disposto no artigo 69.º do [Decreto-Lei n.º 124/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1999-534996), de 20 de Abril.
 
-#### SECÇÃO VI — Do Departamento Administrativo
+SECÇÃO VI
 
-###### Artigo 14.º — Atribuições e estrutura
+Do Departamento Administrativo
+
+Artigo 14.º
+
+Atribuições e estrutura
 
 O Departamento Administrativo tem atribuições de apoio administrativo e compreende:
 
@@ -215,7 +262,9 @@ a) A Secção de Administração Geral e de Pessoal;
 
 b) A Secção de Orçamento e Contabilidade.
 
-###### Artigo 15.º — Competência da Secção de Administração Geral e de Pessoal
+Artigo 15.º
+
+Competência da Secção de Administração Geral e de Pessoal
 
 À Secção de Administração Geral e de Pessoal compete:
 
@@ -237,7 +286,9 @@ h) Organizar e manter actualizado o registo biográfico do pessoal;
 
 i) Zelar pela segurança e limpeza das instalações.
 
-###### Artigo 16.º — Competência da Secção de Orçamento e Contabilidade
+Artigo 16.º
+
+Competência da Secção de Orçamento e Contabilidade
 
 À Secção de Orçamento e Contabilidade compete:
 
@@ -255,7 +306,9 @@ f) Organizar e manter actualizado o cadastro patrimonial do Centro;
 
 g) Elaborar a conta anual de gerência.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -271,7 +324,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O provimento dos lugares do quadro de pessoal do Centro, a que se refere a alínea b) do n.º 1 do artigo anterior, rege-se pelo [Decreto-Lei n.º 124/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1999-534996), de 20 de Abril.
 
@@ -313,11 +368,11 @@ Aprovado em Conselho do Governo Regional em 11 de Novembro de 1999.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 7 de Dezembro de 1999.**
+Assinado em 7 de Dezembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Quadro de pessoal
 

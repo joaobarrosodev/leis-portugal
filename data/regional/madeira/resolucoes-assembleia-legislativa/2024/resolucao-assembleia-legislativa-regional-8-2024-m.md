@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06200/0005500080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/8/2024/03/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/8-2024-857564222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f71f5300038aaad0400e503bba8cc510a3ee3da5d80eed2d13701611f40f8ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 715e551d0a443f111ccf7f21565196e75194b00289d39d13ed64545877fe2ef0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Iniciativa Legislativa
-- Assembleia Legislativa
 - Assembleia da República
-- Prestações da Segurança Social
-- Madeira.região Autónoma
+- Assembleia Legislativa
 - Diploma Legal
-- Segurança Social
+- Iniciativa Legislativa
+- Madeira.região Autónoma
+- Prestações da Segurança Social
 - Processo Legislativo
+- Segurança Social
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/91/2009/04/09/p/dre
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 116
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:47Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +158,7 @@ A [Lei n.º 4/2007](https://diariodarepublica.pt/dr/detalhe/lei/4-2007-522781), 
 
 Se é reconhecido à luz da legislação nacional a existência de custos adicionais na aquisição de bens e serviços aos portugueses que residem nas Regiões Autónomas, também, tal como acontece em outras situações, deve ser aplicado o princípio da equidade e ser garantido uma majoração aos apoios sociais atribuídos aos residentes nas Regiões Autónomas, insulares e ultraperiféricas.
 
-Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>130/99, de 21 de agosto, e 12/2000, de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
+Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os130/99, de 21 de agosto, e 12/2000, de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
 
 ###### Artigo 1.º — Objeto
 
@@ -186,7 +210,7 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação e produz ef
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de março de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -484,7 +508,7 @@ e) Complementos sociais; e
 
 f) Outras prestações ou transferências afetas a finalidades específicas, no quadro da concretização dos objetivos do presente subsistema.
 
-2 - Sem prejuízo do disposto nos n.<sup>os</sup>1 e 3 do artigo anterior, a atribuição de complementos sociais pode não depender da verificação das condições de residência e de recursos, nos termos a definir por lei ou do disposto em instrumentos internacionais de segurança social aplicáveis.
+2 - Sem prejuízo do disposto nos n.os1 e 3 do artigo anterior, a atribuição de complementos sociais pode não depender da verificação das condições de residência e de recursos, nos termos a definir por lei ou do disposto em instrumentos internacionais de segurança social aplicáveis.
 
 ###### Artigo 42.º — Montantes das prestações
 
@@ -988,10 +1012,12 @@ A aplicação da presente lei às Regiões Autónomas dos Açores e da Madeira n
 
 1 - É revogada a [Lei n.º 32/2002](https://diariodarepublica.pt/dr/detalhe/lei/32-2002-405483), de 20 de dezembro.
 
-2 - Até revogação expressa, mantêm-se em vigor as disposições legais e regulamentares aprovadas ao abrigo das Leis n.<sup>os</sup> 28/84, de 14 de agosto, 17/2000, de 8 de agosto, e 32/2002, de 20 de dezembro.
+2 - Até revogação expressa, mantêm-se em vigor as disposições legais e regulamentares aprovadas ao abrigo das Leis n.os 28/84, de 14 de agosto, 17/2000, de 8 de agosto, e 32/2002, de 20 de dezembro.
 
 ###### Artigo 110.º — Entrada em vigor e produção de efeitos
 
 1 - A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 2 - O disposto no artigo 68.º produz efeitos a partir de 1 de janeiro de 2007.
+
+117521291

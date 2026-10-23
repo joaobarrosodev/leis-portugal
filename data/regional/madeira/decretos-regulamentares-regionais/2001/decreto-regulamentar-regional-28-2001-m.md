@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/28/2001/10/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2001-584407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b843fde28de8a00a32bb971d337d29dcfe194a7dc7c101c6970fa117f766b55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8151af21472cce48831d7e08f84ec2ed3ef4419159dd1a478bac74f2e5318c98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Direcção Regional de Educação Especial e Reabilitação
-- Recrutamento de Pessoal
 - Integração de Trabalhadores
-- Orgânica
-- Pessoal não Docente
-- Pessoal Docente
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Pessoal Docente
+- Pessoal não Docente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:588834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:167066:por
+  label: "Alterados os arts. 5.º, 7.º, 8.º, 9.º, 15.º, 21.º, a epígrafe da subsecção V da Secção II do Cap. II e o quadro\
+    \ de pessoal, da DREER, pelo DRR.1/2003/M.2003.01.06.PG-RAM DR.IS-B [24] DE 29/Jan/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2003-167066
+  date: '2003-01-06'
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a manutenção em vigor do presente diploma, rectificado pela decl-rect 20-AE/2001, de 31-Out, na redacção\
+    \ do DRR 1/2003/M, de 29-Jan, pelo DRR.5/2005/M.21.02.2005.PG-RAM, DR.IS-B [47] de 08.03.2005, até à publicação integral\
+    \ dos diplomas a que se refere o n.º 4 do seu art. 4.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
 - type: cites
   target: celex:31985D0368
   label: null
   source: http://data.europa.eu/eli/dec/1985/368/oj
+- type: corrected_by
+  target: pt:dre:483464:por
+  label: "Rectificada pela DECL-RECT.20-AE/2001.2001.10.31.PCM DR.IS-B [253]5ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-ae-2001-483464
+  date: '2001-10-31'
 article_structure:
-  article_count: 27
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 32
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:48Z'
   warnings: []
   errors: []
 ---
@@ -122,13 +140,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Agosto de 2001.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 20 de Setembro de 2001.**
+Assinado em 20 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica da Direcção Regional de Educação Especial e Reabilitação
 
@@ -194,7 +212,9 @@ d) Promover a publicação de circulares e regulamentos internos.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 4.º
+#### SECÇÃO I
+
+###### Artigo 4.º
 
 Estrutura
 
@@ -210,7 +230,9 @@ d) Direcção de Serviços de Formação e Adaptações Tecnológicas (DSFAT).
 
 #### SECÇÃO II — Órgãos de concepção e apoio
 
-##### SUBSECÇÃO I — Artigo 5.º
+##### SUBSECÇÃO I
+
+###### Artigo 5.º
 
 Estrutura
 
@@ -266,7 +288,9 @@ c) Apreciar as contas de gerência;
 
 d) Pronunciar-se sobre os demais aspectos administrativos que interessem ao bom funcionamento da DREER.
 
-##### SUBSECÇÃO IV — Divisão de Serviços Administrativos
+##### SUBSECÇÃO IV
+
+##### Divisão de Serviços Administrativos
 
 ###### Artigo 8.º — Atribuições e estrutura
 
@@ -342,7 +366,9 @@ b) Promoção e divulgação de experiências e projectos de arte e criatividade
 
 #### SECÇÃO III — Direcção de Serviços Técnicos de Educação e Apoio Psicopedagógico
 
-##### SUBSECÇÃO I — Artigo 12.º
+##### SUBSECÇÃO I
+
+###### Artigo 12.º
 
 Estrutura
 
@@ -422,7 +448,9 @@ d) Coordenar os recursos humanos necessários à intervenção multidisciplinar 
 
 #### SECÇÃO IV — Direcção de Serviços de Reabilitação Profissional e Programas Ocupacionais
 
-##### SUBSECÇÃO I — Artigo 16.º
+##### SUBSECÇÃO I
+
+###### Artigo 16.º
 
 Estrutura e funcionamento
 
@@ -508,7 +536,9 @@ c) Promover, em articulação com outras instituições, a criação de diferent
 
 #### SECÇÃO V — Direcção de Serviços de Formação e Adaptações Tecnológicas
 
-##### SUBSECÇÃO I — Artigo 21.º
+##### SUBSECÇÃO I
+
+###### Artigo 21.º
 
 Estrutura e funcionamento
 

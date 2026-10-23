@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-1990-332069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d9df0a273efc9921f7c63a4c855fa4d3893b5c9d1ad4fd973c3c83666e06958
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dd3458695f08d283dac2e24ad3be8f5e1e97e336fb7d03a90e835d2b8ed01ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Madeira.região Autónoma
+- Pensão de Invalidez
+- Pensão de Orfandade
+- Pensão de Velhice
+- Prestações Familiares
+- Segurança Social
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:24Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +106,7 @@ Assim:
 
 Nos termos e ao abrigo do disposto na alínea f) do n.º 1 do artigo 229.º, conjugado com o n.º 1 do artigo 170.º, ambos da Constituição, a Assembleia Legislativa Regional da Madeira aprova, para servir de proposta de lei à Assembleia da República, o seguinte:
 
-###### Artigo 1.º São objecto de um acréscimo ao seu valor, a título de correcção das desigualdades derivadas da insularidade, na Região Autónoma da Madeira as seguintes prestações de segurança e protecção social:
+Artigo 1.º São objecto de um acréscimo ao seu valor, a título de correcção das desigualdades derivadas da insularidade, na Região Autónoma da Madeira as seguintes prestações de segurança e protecção social:
 
 a) Os valores das pensões regulamentares de invalidez e velhice do regime geral;
 
@@ -127,12 +134,12 @@ Subsídio de casamento;
 
 Subsídio de funeral.
 
-###### Art. 2.º Os valores das prestações previstas no artigo anterior serão determinados em função do diferencial das taxas de inflação entre a Região Autónoma da Madeira e o continente.
+Art. 2.º Os valores das prestações previstas no artigo anterior serão determinados em função do diferencial das taxas de inflação entre a Região Autónoma da Madeira e o continente.
 
-###### Art. 3.º Sempre que a inflação na Região Autónoma da Madeira seja inferior à verificada no continente ou, sendo superior, não ultrapasse a diferença de 5%, será este valor a considerar para o cálculo do respectivo acréscimo.
+Art. 3.º Sempre que a inflação na Região Autónoma da Madeira seja inferior à verificada no continente ou, sendo superior, não ultrapasse a diferença de 5%, será este valor a considerar para o cálculo do respectivo acréscimo.
 
-###### Art. 4.º Os encargos resultantes da aplicação do presente diploma serão satisfeitos por conta das dotações a inscrever no Orçamento do Estado.
+Art. 4.º Os encargos resultantes da aplicação do presente diploma serão satisfeitos por conta das dotações a inscrever no Orçamento do Estado.
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional aos 7 de Março de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.

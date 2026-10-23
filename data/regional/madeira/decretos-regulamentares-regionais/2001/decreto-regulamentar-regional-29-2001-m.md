@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/10/245b00/67096719.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/29/2001/10/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2001-584213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55338c74a1e4494f33c7a3f54be1e2cf6b62b4893533e8c01686fc7d7865c9b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1dbbe17b596081b8e6e947859ba332b9cec0d766f50257ae13573a3af7aedda5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto
-- Madeira.região Autónoma
 - Instituto de Gestão de Fundos Comunitários
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:548431:por
@@ -113,16 +113,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:483463:por
+  label: "Rectificado pela DECL-RECT.20-AD/2001.2001.10.31.PCM, DR.IS-B [253]-5ºSupl de 31/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-ad-2001-483463
+  date: '2001-10-31'
+- type: repealed_by
+  target: pt:dre:548431:por
+  label: "Revogado pelo DRR.10/2005/M.21.03.2005.PG-RAM, DR.IS-B [76] de 19.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2005-548431
+  date: '2005-03-21'
 article_structure:
   article_count: 33
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 31
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:48Z'
   warnings: []
   errors: []
 ---
@@ -151,13 +201,13 @@ O presente diploma produz efeitos a partir de 1 de Outubro de 2001.
 
 Aprovado em Conselho do Governo Regional em 13 de Setembro de 2001.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 28 de Setembro de 2001.**
+Assinado em 28 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Estatuto do Instituto de Gestão de Fundos Comunitários
 
@@ -301,7 +351,9 @@ f) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 3 - Na dependência da DSAF funcionam a Divisão Administrativa e de Pessoal (DAP), a Divisão de Orçamento e Contabilidade (DOC) e a Divisão Financeira (DF).
 
-##### SUBSECÇÃO I — Divisão Administrativa e de Pessoal
+##### SUBSECÇÃO I
+
+##### Divisão Administrativa e de Pessoal
 
 ###### Artigo 8.º — Competências
 
@@ -357,7 +409,9 @@ d) Secção de Apoio Administrativo aos Fundos de Finalidade Estrutural.
 
 4 - A chefia da DAP compete a um chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão Financeira
+##### SUBSECÇÃO II
+
+##### Divisão Financeira
 
 ###### Artigo 9.º — Competências
 
@@ -387,7 +441,9 @@ j) Exercer todas as demais tarefas que lhe sejam cometidas superiormente.
 
 3 - A chefia da DF compete a um chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão de Orçamento e Contabilidade
+##### SUBSECÇÃO III
+
+##### Divisão de Orçamento e Contabilidade
 
 ###### Artigo 10.º — Competências
 
@@ -459,7 +515,9 @@ e) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 4 - A DSCA é dirigida por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Controlo
+##### SUBSECÇÃO I
+
+##### Divisão de Controlo
 
 ###### Artigo 12.º — Competências
 
@@ -487,7 +545,9 @@ j) Exercer as demais competências que lhe sejam conferidas superiormente.
 
 2 - A chefia da DC compete a um chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão de Avaliação
+##### SUBSECÇÃO II
+
+##### Divisão de Avaliação
 
 ###### Artigo 13.º — Competências
 
@@ -549,7 +609,9 @@ n) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 4 - A DSIR é dirigida por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Programas Regionais
+##### SUBSECÇÃO I
+
+##### Divisão de Programas Regionais
 
 ###### Artigo 15.º — Competências
 
@@ -577,7 +639,9 @@ j) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 2 - A chefia da DPR compete a um chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão do Fundo de Coesão
+##### SUBSECÇÃO II
+
+##### Divisão do Fundo de Coesão
 
 ###### Artigo 16.º — Competências
 
@@ -629,7 +693,9 @@ g) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 4 - A DSC é dirigida por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Informação e Controlo dos Fluxos Financeiros
+##### SUBSECÇÃO I
+
+##### Divisão de Informação e Controlo dos Fluxos Financeiros
 
 ###### Artigo 18.º — Competências
 
@@ -667,7 +733,9 @@ p) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 2 - A chefia da DICFF compete a um chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão de Coordenação de Iniciativas Comunitárias e Programas Sectoriais
+##### SUBSECÇÃO II
+
+##### Divisão de Coordenação de Iniciativas Comunitárias e Programas Sectoriais
 
 ###### Artigo 19.º — Competências
 
@@ -695,7 +763,9 @@ j) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 2 - A chefia da DCICPS compete a um chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão de Marketing e Publicidade
+##### SUBSECÇÃO III
+
+##### Divisão de Marketing e Publicidade
 
 ###### Artigo 20.º — Competências
 

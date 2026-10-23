@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15500/27102712.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1987-420056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0ac10f6dde94f541d8ccc58f290fe2cc5addf7877786575648a77edcd3b784d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c697b85c264c77b01e601229def56e357765b4311896f360129e3e6656f7b516
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção de Serviços de Comércio e Indústria Agrícola
+- Exportação
+- Importação
+- Madeira.região Autónoma
+- Qualidade do Produto
 relationships:
 - type: amended_by
   target: pt:dre:307440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307440:por
+  label: "Revogado pelo DRR.26/91/M.23.11.1991.GR-RAM, DR.IS-B [270] de 23.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-1991-307440
+  date: '1991-11-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:48Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +111,13 @@ Nestes termos:
 
 O Governo Regional decreta, ao abrigo do artigo 229.º, alínea b), da Constituição, e do artigo 33.º, alínea b), do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º Compete à Direcção de Serviços de Comércio e Indústria Agrícola (DSCIA) proceder à verificação comercial dos produtos sujeitos à sua disciplina, independentemente da sua origem ou do seu destino, sem o que os referidos produtos não poderão ser lançados no consumo público ou exportados.
+Artigo 1.º Compete à Direcção de Serviços de Comércio e Indústria Agrícola (DSCIA) proceder à verificação comercial dos produtos sujeitos à sua disciplina, independentemente da sua origem ou do seu destino, sem o que os referidos produtos não poderão ser lançados no consumo público ou exportados.
 
-###### Art. 2.º - 1 - A verificação comercial dos produtos a importar e exportar antecederá o respectivo despacho, constituindo sua condição prévia.
+Art. 2.º - 1 - A verificação comercial dos produtos a importar e exportar antecederá o respectivo despacho, constituindo sua condição prévia.
 
 2 - Para os efeitos do n.º 1 do presente artigo serão entregues ao interessado, imediatamente após a aprovação da mercadoria, o original e uma cópia do boletim de verificação.
 
-###### Art. 3.º - 1 - A execução das operações de verificação comercial dos produtos destinados à importação ou exportação far-se-á preceder de um pedido de verificação, a efectuar necessariamente por escrito, que deverá conter as seguintes indicações:
+Art. 3.º - 1 - A execução das operações de verificação comercial dos produtos destinados à importação ou exportação far-se-á preceder de um pedido de verificação, a efectuar necessariamente por escrito, que deverá conter as seguintes indicações:
 
 a) Entidade requerente e respectivo domicílio;
 
@@ -157,11 +171,11 @@ b) Quando o número de volumes do lote for inferior a 50, a percentagem de volum
 
 8 - O montante da taxa a cobrar por cada pedido de verificação nunca será inferior a 300$00.
 
-###### Art. 4.º - 1 - Se a mercadoria a importar ou a exportar não se encontrar nas condições regulamentadas, o agente verificador inscreverá no boletim de verificação a palavra «rejeitado», bem como as razões da rejeição, mencionando os lotes rejeitados, no caso de só uma parte da remessa ter sido rejeitada, e marcará todos os volumes que se encontrem nessas condições.
+Art. 4.º - 1 - Se a mercadoria a importar ou a exportar não se encontrar nas condições regulamentadas, o agente verificador inscreverá no boletim de verificação a palavra «rejeitado», bem como as razões da rejeição, mencionando os lotes rejeitados, no caso de só uma parte da remessa ter sido rejeitada, e marcará todos os volumes que se encontrem nessas condições.
 
 2 - A mercadoria rejeitada deverá ser colocada em condições de não poder ser misturada com outra.
 
-###### Art. 5.º - 1 - Quando o interessado não aceitar o resultado da verificação comercial, poderá solicitar, por escrito, nova inspecção, indicando os motivos que a justificam.
+Art. 5.º - 1 - Quando o interessado não aceitar o resultado da verificação comercial, poderá solicitar, por escrito, nova inspecção, indicando os motivos que a justificam.
 
 2 - A nova verificação far-se-á no prazo de 48 horas a contar da entrega do respectivo pedido por dois agentes verificadores.
 
@@ -171,7 +185,7 @@ b) Quando o número de volumes do lote for inferior a 50, a percentagem de volum
 
 5 - A quantia referida no n.º 3 deste artigo, bem como a taxa paga pela segunda verificação efectuada, será restituída ao requerente no caso de o recurso lhe ser favorável.
 
-###### Art. 6.º - 1 - As taxas e demais encargos devidos à DSCIA pelas verificações comerciais efectuadas nos termos dos artigos anteriores são as que constam da tabela I, com os agravantes previstos na tabela II, ambas anexas ao presente diploma.
+Art. 6.º - 1 - As taxas e demais encargos devidos à DSCIA pelas verificações comerciais efectuadas nos termos dos artigos anteriores são as que constam da tabela I, com os agravantes previstos na tabela II, ambas anexas ao presente diploma.
 
 2 - As taxas constantes na tabela I anexa aplicam-se às verificações comerciais que, tendo sido solicitadas por escrito à DSCIA, dêem entrada naqueles Serviços com a antecedência de dois dias em relação à data requerida para a sua realização.
 
@@ -179,17 +193,17 @@ b) Quando o número de volumes do lote for inferior a 50, a percentagem de volum
 
 4 - No caso específico das flores cortadas, aplica-se a taxa de 0,5%, a qual incidirá sobre o valor da mercadoria verificada, com os agravamentos previstos na tabela II anexa.
 
-###### Art. 7.º Os produtos oriundos do continente, bem como da Região Autónoma dos Açores, que já tenham sido verificados pelas entidades competentes ficam dispensados do pagamento de nova taxa de verificação, sem prejuízo de serem de novo presentes à verificação nos termos do presente diploma. Para o efeito, o seu desalfandegamento só poderá ser efectuada mediante documento comprovativo da liquidação das taxas devidas ao Instituto de Qualidade Alimentar ou organismo representativo na Região Autónoma dos Açores. A falta desse documento implica a cobrança pelo organismo competente na Região Autónoma da Madeira das taxas devidas.
+Art. 7.º Os produtos oriundos do continente, bem como da Região Autónoma dos Açores, que já tenham sido verificados pelas entidades competentes ficam dispensados do pagamento de nova taxa de verificação, sem prejuízo de serem de novo presentes à verificação nos termos do presente diploma. Para o efeito, o seu desalfandegamento só poderá ser efectuada mediante documento comprovativo da liquidação das taxas devidas ao Instituto de Qualidade Alimentar ou organismo representativo na Região Autónoma dos Açores. A falta desse documento implica a cobrança pelo organismo competente na Região Autónoma da Madeira das taxas devidas.
 
-###### Art. 8.º Antecedendo a verificação comercial, a DSCIA pode, a pedido dos interessados ou sempre que o julgue conveniente, destacar funcionários para assistirem ao acondicionamento dos produtos.
+Art. 8.º Antecedendo a verificação comercial, a DSCIA pode, a pedido dos interessados ou sempre que o julgue conveniente, destacar funcionários para assistirem ao acondicionamento dos produtos.
 
-###### Art. 9.º - 1 - A assistência técnica prestada a pedido dos interessados nos termos do artigo anterior dará lugar ao pagamento, pelo mesmo, de todos os encargos de deslocação dos funcionários da DSCIA destacados para o efeito.
+Art. 9.º - 1 - A assistência técnica prestada a pedido dos interessados nos termos do artigo anterior dará lugar ao pagamento, pelo mesmo, de todos os encargos de deslocação dos funcionários da DSCIA destacados para o efeito.
 
 2 - Quando os técnicos destacados por iniciativa da DSCIA, nos termos do artigo 8.º, prolongarem, a pedido dos interessados, o trabalho para além das horas normais de serviço, haverá lugar ao pagamento, pelos interessados, das correspondentes horas extraordinárias.
 
-###### Art. 10.º A DSCIA poderá emitir certificados de origem nacional a pedido dos exportadores, pelo que será cobrada uma taxa suplementar de 200$00.
+Art. 10.º A DSCIA poderá emitir certificados de origem nacional a pedido dos exportadores, pelo que será cobrada uma taxa suplementar de 200$00.
 
-###### Art. 11.º - 1 - O produto das taxas e demais encargos previstos no presente diploma constituirá receita própria do Governo Regional da Região Autónoma da Madeira.
+Art. 11.º - 1 - O produto das taxas e demais encargos previstos no presente diploma constituirá receita própria do Governo Regional da Região Autónoma da Madeira.
 
 2 - O pagamento das taxas e demais encargos previstos no presente diploma será feito por meio de guias de receita passadas pela DSCIA, as quais deverão ser liquidadas no prazo máximo de cinco dias a contar da respectiva data de emissão.
 
@@ -197,24 +211,24 @@ b) Quando o número de volumes do lote for inferior a 50, a percentagem de volum
 
 4 - As taxas não pagas no prazo determinado neste diploma serão objecto de execução fiscal, sendo passíveis de juros de mora.
 
-###### Art. 12.º O presente decreto regulamentar regional entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 12.º O presente decreto regulamentar regional entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 de Maio de 1987.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 29 de Maio de 1987.**
+Assinado em 29 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 TABELA I
 
 Taxas de verificação comercial para os produtos sujeitos à disciplina da DSCIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15500/27102712.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15500/27102712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15500/27102712.pdf)
 
 TABELA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15500/27102712.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15500/27102712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15500/27102712.pdf)

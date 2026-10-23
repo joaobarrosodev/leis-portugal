@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/13200/22742276.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1987-419201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae5df4a29b29145bc652b147852ca0237e26218a86e67d819cf6a5598ed741b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e420a2124538bac2da0e829fa94e05b2d0a5466336fe1ff62d505b8c1105e0a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Comissão Venatória
+- Madeira.região Autónoma
+- Orgânica
+- Pesca
 relationships:
 - type: amended_by
   target: pt:dre:275446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275446:por
+  label: Revogado, com efeitos a 29.08.1992, o presente diploma, pelo(a) Decreto Regulamentar Regional n.º 18/92/M - Diário
+    da República n.º 174/1992, Série I-B de 1992-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-1992-275446
+  date: '1992-07-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:48Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +117,7 @@ O Governo Regional, em cumprimento do disposto no artigo 7.º do [Decreto Legisl
 
 ### CAPÍTULO I — Da região venatória
 
-###### Artigo 1.º - 1 - A Região Autónoma da Madeira constitui uma região venatória.
+Artigo 1.º - 1 - A Região Autónoma da Madeira constitui uma região venatória.
 
 2 - Existirão duas comissões venatórias: uma na ilha da Madeira e outra na ilha de Porto Santo.
 
@@ -106,11 +125,11 @@ O Governo Regional, em cumprimento do disposto no artigo 7.º do [Decreto Legisl
 
 #### SECÇÃO I — Natureza
 
-###### Art. 2.º As comissões venatórias são órgãos consultivos da Direcção dos Serviços Florestais (DSF) e visam contribuir para o equilíbrio entre as actividades cinegética, agrícola, pecuária e florestal, tendo em vista a defesa do ambiente e a conservação dos recursos naturais.
+Art. 2.º As comissões venatórias são órgãos consultivos da Direcção dos Serviços Florestais (DSF) e visam contribuir para o equilíbrio entre as actividades cinegética, agrícola, pecuária e florestal, tendo em vista a defesa do ambiente e a conservação dos recursos naturais.
 
 #### SECÇÃO II — Competências
 
-###### Art. 3.º Compete às comissões venatórias:
+Art. 3.º Compete às comissões venatórias:
 
 a) Propor à Administração as medidas que considerem úteis ao ordenamento, gestão, defesa e fomento dos recursos cinegéticos;
 
@@ -128,7 +147,7 @@ g) Colaborar na elaboração ou revisão dos regulamentos da caça, propondo alt
 
 #### SECÇÃO III — Composição
 
-###### Art. 4.º - 1 - As comissões venatórias de ilha têm a seguinte composição:
+Art. 4.º - 1 - As comissões venatórias de ilha têm a seguinte composição:
 
 a) Quatro caçadores efectivos e dois suplentes;
 
@@ -142,7 +161,7 @@ d) Um representante das organizações de defesa da Natureza.
 
 #### SECÇÃO IV — Mandatos
 
-###### Art. 5.º - 1 - Os mandatos dos membros das comissões têm a duração de três anos, com início em 1 de Janeiro, exceptuando o primeiro mandato, que excederá aquele período em função da entrada em vigor do presente diploma.
+Art. 5.º - 1 - Os mandatos dos membros das comissões têm a duração de três anos, com início em 1 de Janeiro, exceptuando o primeiro mandato, que excederá aquele período em função da entrada em vigor do presente diploma.
 
 2 - Os mandatos dos membros das comissões venatórias extinguem-se por abandono ou renúncia expressa, por impedimento de desempenho de funções e por punição, com interdição do direito de caçar.
 
@@ -154,7 +173,7 @@ d) Um representante das organizações de defesa da Natureza.
 
 #### SECÇÃO V — Reuniões
 
-###### Art. 6.º - 1 - As comissões reúnem ordinariamente por trimestre e extraordinariamente quando convocadas pelos respectivos presidentes, por iniciativa destes ou por solicitação da maioria dos seus membros.
+Art. 6.º - 1 - As comissões reúnem ordinariamente por trimestre e extraordinariamente quando convocadas pelos respectivos presidentes, por iniciativa destes ou por solicitação da maioria dos seus membros.
 
 2 - Na covocatória para as reuniões extraordinárias deverão ser indicados expressamente os assuntos a tratar.
 
@@ -172,9 +191,9 @@ d) Um representante das organizações de defesa da Natureza.
 
 #### SECÇÃO VI — Processo eleitoral
 
-###### Art. 7.º São eleitores e elegíveis para as comissões venatórias os caçadores de nacionalidade portuguesa maiores de 18 anos que possuam carta de caçador válida à data da aleição e residam na Região.
+Art. 7.º São eleitores e elegíveis para as comissões venatórias os caçadores de nacionalidade portuguesa maiores de 18 anos que possuam carta de caçador válida à data da aleição e residam na Região.
 
-###### Art. 8.º - 1 - A DSF providenciará, com a colaboração das comissões venatórias de ilha, a elaboração dos cadernos eleitorais dos caçadores para as eleições dos respectivos representantes nas mesmas comissões.
+Art. 8.º - 1 - A DSF providenciará, com a colaboração das comissões venatórias de ilha, a elaboração dos cadernos eleitorais dos caçadores para as eleições dos respectivos representantes nas mesmas comissões.
 
 2 - Para efeitos do disposto no número anterior serão organizadas mesas eleitorais nas sedes de concelho das respectivas ilhas, as quais serão constituídas por um representante da DSF, que preside, um representante da câmara municipal e dois caçadores nomeados pela comissão venatória de ilha.
 
@@ -192,24 +211,24 @@ d) Um representante das organizações de defesa da Natureza.
 
 9 - As comissões venatórias deverão ser constituídas no período dos 30 dias subsequentes à data das eleições.
 
-###### Art. 9.º - 1 - Cada mesa eleitoral elaborará uma acta do resultado das eleições, assinada por todos os seus membros, que será remetida em envelope lacrado, no prazo de 24 horas, à DSF. com todos os elementos constantes das respectivas eleições.
+Art. 9.º - 1 - Cada mesa eleitoral elaborará uma acta do resultado das eleições, assinada por todos os seus membros, que será remetida em envelope lacrado, no prazo de 24 horas, à DSF. com todos os elementos constantes das respectivas eleições.
 
 2 - A DSF nomeará uma comissão de apuramento, constituída por dois representantes seus e três caçadores indicados pela comissão venatória em funcionamento na ilha, a qual é presidida por um dos representantes daqueles serviços, competindo-lhe apurar os resultados das eleições.
 
-###### Art. 10.º No caso de demissão de representantes dos caçadores, desde que não seja possível, com a inclusão dos suplentes, atingir mais de 50% do número fixado para esses membros, serão efectuadas novas eleições, anunciadas com a antecedência de 30 dias.
+Art. 10.º No caso de demissão de representantes dos caçadores, desde que não seja possível, com a inclusão dos suplentes, atingir mais de 50% do número fixado para esses membros, serão efectuadas novas eleições, anunciadas com a antecedência de 30 dias.
 
-###### Art. 11.º Os representantes dos agricultores serão indicados pelas assembleias municipais, sendo para o efeito ouvidas, quando existam, as associações de agricultores.
+Art. 11.º Os representantes dos agricultores serão indicados pelas assembleias municipais, sendo para o efeito ouvidas, quando existam, as associações de agricultores.
 
-###### Art. 12.º Os encargos decorrentes da aplicação do disposto no presente diploma serão suportados pelo orçamento da Secretaria Regional da Economia.
+Art. 12.º Os encargos decorrentes da aplicação do disposto no presente diploma serão suportados pelo orçamento da Secretaria Regional da Economia.
 
-###### Art. 13.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 13.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 26 de Março de 1987.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 15 de Abril de 1987.**
+Assinado em 15 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

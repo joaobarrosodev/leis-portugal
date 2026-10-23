@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1986-218885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ca2370bdfa7ff9afe0c185bbb6b74bc6d44ba49f53bb7da7441ede220e7433d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5443e1d22dcf47b2aad789fc7d71b646d3c94747f6410d0835cae928fe6a027
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Deficiente
+- Madeira.região Autónoma
+- Segurança Social
+- Subsídio de Renda de CASA
+relationships:
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444405:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:40Z'
   warnings: []
   errors: []
 ---
@@ -91,26 +115,26 @@ Considerando a necessidade de efectuar a sua adaptação para aplicação na Reg
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 31 de Abril, o seguinte:
 
-###### Artigo 1.º É aplicado na Região Autónoma da Madeira o regime de atribuição do subsídio de venda de casa definido pelo [Decreto-Lei n.º 68/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1986-196194), de 27 de Março, com as adaptações constantes dos artigos seguintes.
+Artigo 1.º É aplicado na Região Autónoma da Madeira o regime de atribuição do subsídio de venda de casa definido pelo [Decreto-Lei n.º 68/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1986-196194), de 27 de Março, com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º As competências atribuídas nos artigos 2.º, n.º 2, 12.º, n.º 1, e 23.º, n.º 1, aos Ministros das Obras Públicas, Transportes e Comunicações e do Trabalho e Segurança Social são exercidas pelos Secretários Regionais do Equipamento Social e dos Assuntos Sociais.
+Art. 2.º As competências atribuídas nos artigos 2.º, n.º 2, 12.º, n.º 1, e 23.º, n.º 1, aos Ministros das Obras Públicas, Transportes e Comunicações e do Trabalho e Segurança Social são exercidas pelos Secretários Regionais do Equipamento Social e dos Assuntos Sociais.
 
-###### Art. 3.º O modelo de impresso referido no n.º 1 do artigo 12.º e os avisos previstos no n.º 1 do artigo 25.º são publicados no Jornal Oficial.
+Art. 3.º O modelo de impresso referido no n.º 1 do artigo 12.º e os avisos previstos no n.º 1 do artigo 25.º são publicados no Jornal Oficial.
 
-###### Art. 4.º As competências atribuídas aos centros regionais de segurança social e seus conselhos directivos são exercidas pela Direcção Regional de Segurança Social e pelo director regional de Segurança Social, respectivamente.
+Art. 4.º As competências atribuídas aos centros regionais de segurança social e seus conselhos directivos são exercidas pela Direcção Regional de Segurança Social e pelo director regional de Segurança Social, respectivamente.
 
-###### Art. 5.º Das decisões sobre deferimento ou indeferimento do subsídio de renda, a que se refere o n.º 3 do artigo 13.º, proferidas pelo director regional de Segurança Social, ou por quem o substituir por delegação de competências, cabe recurso hierárquico para o Secretário Regional dos Assuntos Sociais, cabendo dessa decisão recurso contencioso para o tribunal administrativo competente.
+Art. 5.º Das decisões sobre deferimento ou indeferimento do subsídio de renda, a que se refere o n.º 3 do artigo 13.º, proferidas pelo director regional de Segurança Social, ou por quem o substituir por delegação de competências, cabe recurso hierárquico para o Secretário Regional dos Assuntos Sociais, cabendo dessa decisão recurso contencioso para o tribunal administrativo competente.
 
-###### Art. 6.º A suspensão excepcional de despejos será proposta ao Ministro da República, por resolução do Governo Regional, para os efeitos previstos no artigo 21.º do [Decreto-Lei n.º 68/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1986-196194), de 27 de Março.
+Art. 6.º A suspensão excepcional de despejos será proposta ao Ministro da República, por resolução do Governo Regional, para os efeitos previstos no artigo 21.º do [Decreto-Lei n.º 68/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1986-196194), de 27 de Março.
 
-###### Art. 7.º Incumbe ao Secretário Regional dos Assuntos Sociais a competência prevista no n.º 2 do artigo 25.º
+Art. 7.º Incumbe ao Secretário Regional dos Assuntos Sociais a competência prevista no n.º 2 do artigo 25.º
 
 Aprovado em plenário do Governo Regional em 5 de Junho de 1986.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 25 de Junho de 1986.**
+Assinado em 25 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

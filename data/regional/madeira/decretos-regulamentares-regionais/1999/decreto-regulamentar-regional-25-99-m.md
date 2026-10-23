@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/1999/12/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1999-661155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff26e930e66de829c34b3dbbde1815c99f36af267146d81827f1c68227c8245f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53142e85db1844b76fb94f2acf12a5cd3f13bfc54aee3a3ebf4d2ea614b4ebb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,19 +73,26 @@ subjects:
 - Deslocação em Serviço
 - Direcção Regional da Administração Pública e Local
 - Extinção de Lugares
+- Gratificação
 - Integração de Trabalhadores
-- Secretaria Regional do Plano e da Coordenação
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Chefia
 - Pessoal de Inspecção
-- Madeira.região Autónoma
 - Quadro de Pessoal
-- Gratificação
+- Secretaria Regional do Plano e da Coordenação
 relationships:
 - type: amended_by
   target: pt:dre:309036:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348527:por
+  label: "Alterados os arts. 1º, 3º, 4º, 20º, 23º, 31º e 39º; aditados os arts. 18º-A, 18º-B, 18º-C e 35º-A; as secções VI\
+    \ a X do Cap. II passam a secções VIII a XII, respectivamente e revogado o art. 40º da orgânica da DRAPL, anexa ao presente\
+    \ diploma, pelo DRR.14/2001/M.2001.06.15.PG-RAM, DR.IS-B [157] de 09/Jul/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2001-348527
+  date: '2001-06-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -114,16 +121,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:182203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:450619:por
+  label: "Revogados os arts. 36º e 37º pelo DRR.17/2002/M.2002.10.29.PG-RAM,DR.IS-B [269] de 21/Nov/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2002-450619
+  date: '2002-10-29'
+- type: repealed_by
+  target: pt:dre:309036:por
+  label: "Revogado, a partir de 11.11.2010, o presente diploma, alterado pelo DRR 14/2001/M de 09-Jul, pelo DRR.3/2010/M.10.11.2010.PG-RAM,\
+    \ DR.IS [218] de 10.11.2010, que manteve, contudo, em vigor a estrutura orgânica interna da DRAPL e o mapa de pessoal\
+    \ dele constantes, respectivamente, até ao início de vigência dos diplomas que aprovem a nova estrutura interna e até\
+    \ à publicação do novo mapa de pessoal.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2010-309036
+  date: '2010-11-10'
 article_structure:
   article_count: 43
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:24Z'
   warnings: []
   errors: []
 ---
@@ -156,11 +212,11 @@ Aprovado em Conselho do Governo Regional em 4 de Novembro de 1999.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 26 de Novembro de 1999.**
+Assinado em 26 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Orgânica da Direcção Regional da Administração Pública e Local
 

@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1985-327647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7993be10e37421d31dedc408f53ea38f707303ab0cc0447eee3dbef75a7627f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cb894e6280d3e187bfaeac71aaf6004a1f0e1f022eaa782b7298eea255563fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete Regional de Gestão do Fundo de Desemprego
+- Gratificação
+- Madeira.região Autónoma
+- Pessoal de Inspecção
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:38Z'
   warnings: []
   errors: []
 ---
@@ -92,22 +96,22 @@ Tendo em conta que tais características imprimem às funções de inspecção u
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Pelo exercício de funções de inspecção os funcionários do Gabinete Regional de Gestão do Fundo de Desemprego encarregados de funções de fiscalização externa têm direito a uma gratificação mensal de 5000$00, a actualizar por portaria dos Secretários Regionais do Plano e dos Assuntos Sociais.
+Artigo 1.º Pelo exercício de funções de inspecção os funcionários do Gabinete Regional de Gestão do Fundo de Desemprego encarregados de funções de fiscalização externa têm direito a uma gratificação mensal de 5000$00, a actualizar por portaria dos Secretários Regionais do Plano e dos Assuntos Sociais.
 
-###### Art. 2.º - 1 - O direito à gratificação no seu montante máximo fica condicionado à realização de 15 deslocações mensais.
+Art. 2.º - 1 - O direito à gratificação no seu montante máximo fica condicionado à realização de 15 deslocações mensais.
 
 2 - Sempre que o número de deslocações seja inferior a 15, o abono da gratificação fixado no n.º 1 deste artigo será calculado na base de 1:30.
 
-###### Art. 3.º As dúvidas resultantes da aplicação ou interpretação deste diploma serão resolvidas por despacho do Secretário Regional dos Assuntos Sociais.
+Art. 3.º As dúvidas resultantes da aplicação ou interpretação deste diploma serão resolvidas por despacho do Secretário Regional dos Assuntos Sociais.
 
-###### Art. 4.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Novembro de 1984.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 21 de Dezembro de 1984.**
+Assinado em 21 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

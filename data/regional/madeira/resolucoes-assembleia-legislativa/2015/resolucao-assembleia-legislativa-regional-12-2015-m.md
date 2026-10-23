@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/24000/0967209674.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/12/2015/12/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/12-2015-72843428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54248065a2acad68eb3948ad4a7874a137c016c1fc99da687d294a605fa35f40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d02f7eeb67dc749209cea0a708ea1f7b02b6c4b4d5cb405b95dd8b8a788bf47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Assembleia Legislativa Regional
 - Assembleia Legislativa
-- Orçamento
+- Assembleia Legislativa Regional
 - Madeira.região Autónoma
+- Orçamento
+- Região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/10/2014/08/20/m/dre
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/2/2015/01/26/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/2/2015/01/26/m/dre
+- type: cites
+  target: pt:dre:175275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56305786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325239:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:05Z'
   warnings: []
   errors: []
 ---
@@ -105,12 +117,12 @@ A Assembleia Legislativa da Região Autónoma da Madeira, nos termos do disposto
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 19 de novembro de 2015.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
 Mapa de Desenvolvimento das Receitas para 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/12/24000/0967209674.pdf))](https://files.diariodarepublica.pt/1s/2015/12/24000/0967209674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/12/24000/0967209674.pdf)
 
 Mapa do Desenvolvimento das Despesas para 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/12/24000/0967209674.pdf))](https://files.diariodarepublica.pt/1s/2015/12/24000/0967209674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/12/24000/0967209674.pdf)

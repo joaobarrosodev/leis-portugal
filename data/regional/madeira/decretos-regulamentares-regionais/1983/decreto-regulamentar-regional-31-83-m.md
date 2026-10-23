@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/29500/41064108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1983-444427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbf2553090b1b93df6c1da1f6cb58528f38a69d47580f88ed734f89b22410e5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65a65a1ca5a11cfef44366e585ec2142069f6bd0454911d01edd60e293e66baf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Delegação Escolar
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:444744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600886:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:444744:por
+  label: "Revogado pelo DLR.5/96/M.1996.05.10.ALR-RAM, DR.IS-A [126] de 30/Mai/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-1996-444744
+  date: '1996-05-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:23Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +118,13 @@ Assim, nos termos das alíneas b) e d) do artigo 229.º da Constituição, o Gov
 
 ### CAPÍTULO I
 
-###### Artigo 1.º - 1 - A nível concelhio funcionarão delegações escolares, designadas abreviadamente no presente diploma por DLE, que dependem hierarquicamente da Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário (DAPEPP), exercendo na respectiva área territorial funções de apoio administrativo.
+Artigo 1.º - 1 - A nível concelhio funcionarão delegações escolares, designadas abreviadamente no presente diploma por DLE, que dependem hierarquicamente da Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário (DAPEPP), exercendo na respectiva área territorial funções de apoio administrativo.
 
 2 - No concelho do Funchal funcionarão 2 delegações escolares.
 
 3 - Nos restantes concelhos da Região funcionará em cada um apenas uma DLE.
 
-###### Art. 2.º No exercício das suas atribuições, as DLE estabelecerão relações com os seguintes órgãos directivos:
+Art. 2.º No exercício das suas atribuições, as DLE estabelecerão relações com os seguintes órgãos directivos:
 
 a) Jardins-de-infância - director;
 
@@ -122,9 +142,9 @@ g) Acção Social Escolar - órgãos e estruturas responsáveis.
 
 ### CAPÍTULO II
 
-###### Art. 3.º As DLE serão dirigidas por um delegado escolar, que será coadjuvado por subdelegados escolares.
+Art. 3.º As DLE serão dirigidas por um delegado escolar, que será coadjuvado por subdelegados escolares.
 
-###### Art. 4.º - 1 - São atribuições das DLE, no âmbito da Direcção Regional de Finanças, Administração e Pessoal:
+Art. 4.º - 1 - São atribuições das DLE, no âmbito da Direcção Regional de Finanças, Administração e Pessoal:
 
 a) Organizar e manter actualizado o cadastro das escolas e secretaria de delegação escolar;
 
@@ -154,7 +174,7 @@ b) Organizar os processos de inscrição na Caixa Geral de Aposentações e Mont
 
 c) Passar declarações para efeitos de liquidação do imposto complementar.
 
-###### Art. 5.º No exercício das atribuições das DLE compete, nomeadamente, ao delegado escolar:
+Art. 5.º No exercício das atribuições das DLE compete, nomeadamente, ao delegado escolar:
 
 a) Visitar os estabelecimentos de ensino;
 
@@ -184,7 +204,7 @@ m) Velar pela higiene escolar nos estabelecimentos de ensino;
 
 n) Informar os órgãos competentes de participação dos corpos docentes e alunos nas manifestações de carácter educativo e, bem assim, da realização de festas do mesmo carácter nas instalações escolares.
 
-###### Art. 6.º - 1 - Aos subdelegados escolares compete, nomeadamente:
+Art. 6.º - 1 - Aos subdelegados escolares compete, nomeadamente:
 
 a) O exercício das competências do delegado escolar, de acordo com prévia definição, por despacho, do respectivo delegado escolar;
 
@@ -194,15 +214,15 @@ b) Velar pelos serviços da delegação escolar dentro dos sectores que lhes for
 
 ### CAPÍTULO III — Do pessoal da DLE
 
-###### Art. 7.º - 1 - Cada DLE terá, para além do delegado, um número de subdelegados estabelecido de acordo com o mapa I anexo ao presente diploma.
+Art. 7.º - 1 - Cada DLE terá, para além do delegado, um número de subdelegados estabelecido de acordo com o mapa I anexo ao presente diploma.
 
 2 - Para efeitos de fixação do número de subdelegados tomar-se-á em consideração, nomeadamente, o número de docentes e de discentes dependentes da respectiva delegação em termos de número de lugares em exercício.
 
-###### Art. 8.º - 1 - Cada DLE terá o pessoal administrativo e auxiliar de apoio constante do mapa II anexo ao presente diploma.
+Art. 8.º - 1 - Cada DLE terá o pessoal administrativo e auxiliar de apoio constante do mapa II anexo ao presente diploma.
 
 2 - Ao provimento do pessoal referido no número anterior aplicar-se-á o disposto no artigo 61.º do [Decreto Regulamentar Regional n.º 1/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1982-600886), de 29 de Janeiro.
 
-###### Art. 9.º - 1 - Os lugares de delegado e subdelegado escolares são providos por candidatos aprovados em cursos especiais de formação a definir por portaria do Secretário Regional de Educação ouvida a Direcção Regional de Administração Pública.
+Art. 9.º - 1 - Os lugares de delegado e subdelegado escolares são providos por candidatos aprovados em cursos especiais de formação a definir por portaria do Secretário Regional de Educação ouvida a Direcção Regional de Administração Pública.
 
 2 - Os cursos referidos no número anterior versarão, nomeadamente:
 
@@ -222,7 +242,7 @@ f) Educação permanente.
 
 4 - Circunstâncias excepcionais poderão justificar uma nomeação pelo Secretário Regional de Educação, sem preenchimento dos requisitos mencionados nos números anteriores.
 
-###### Art. 10.º - 1 - Poderão candidatar-se aos cursos especiais de formação mencionados no artigo anterior:
+Art. 10.º - 1 - Poderão candidatar-se aos cursos especiais de formação mencionados no artigo anterior:
 
 a) Os professores efectivos do ensino primário que tenham prestado funções nas delegações por 3 anos consecutivos ou alternados;
 
@@ -234,7 +254,7 @@ d) Outros professores do ensino primário com pelo menos 5 anos de serviço doce
 
 2 - Os candidatos admitidos frequentarão os cursos com dispensa de todas as suas actividades, sendo-lhes devidas, se for caso disso, as ajudas de custo e os subsídios de viagem previstos na lei geral.
 
-###### Art. 11.º - 1 - O lugar de delegado será provido por despacho do Secretário Regional de Educação de entre subdelegados em exercício e considerados aptos no curso referido no artigo 10.º
+Art. 11.º - 1 - O lugar de delegado será provido por despacho do Secretário Regional de Educação de entre subdelegados em exercício e considerados aptos no curso referido no artigo 10.º
 
 2 - A nomeação do delegado será feita em comissão de serviço por 3 anos renováveis tacitamente.
 
@@ -244,31 +264,31 @@ a) Por manifestação de vontade por parte dos interessados, desde que esta seja
 
 b) Por despacho do Secretário Regional de Educação e na sequência de procedimento disciplinar em que se tenha concluído pela pena de multa ou superior.
 
-###### Art. 12.º - 1 - Os subdelegados serão nomeados por despacho do Secretário Regional de Educação de entre os candidatos considerados aptos no curso referido no artigo 10.º
+Art. 12.º - 1 - Os subdelegados serão nomeados por despacho do Secretário Regional de Educação de entre os candidatos considerados aptos no curso referido no artigo 10.º
 
 2 - As nomeações dos subdelegados far-se-ão de acordo com o estabelecido no artigo anterior para delegados.
 
-###### Art. 13.º - 1 - Ao cargo de delegado escolar é atribuída a letra F do funcionalismo público.
+Art. 13.º - 1 - Ao cargo de delegado escolar é atribuída a letra F do funcionalismo público.
 
 2 - Ao cargo de subdelegado escolar é atribuída a letra G do funcionalismo público.
 
-###### Art. 14.º O serviço prestado pelos delegados e subdelegados escolares é contado para todos os efeitos como serviço docente.
+Art. 14.º O serviço prestado pelos delegados e subdelegados escolares é contado para todos os efeitos como serviço docente.
 
-###### Art. 15.º Sempre que se verificar a existência de uma vaga de delegado escolar ou de subdelegado escolar a mesma poderá ser provida, de acordo com os interessados e conveniência para o serviço, por transferência de funcionários já providos nos respectivos cargos, por aviso a enviar a todas as delegações escolares.
+Art. 15.º Sempre que se verificar a existência de uma vaga de delegado escolar ou de subdelegado escolar a mesma poderá ser provida, de acordo com os interessados e conveniência para o serviço, por transferência de funcionários já providos nos respectivos cargos, por aviso a enviar a todas as delegações escolares.
 
-###### Art. 16.º - 1 - Os delegados e subdelegados escolares terão direito à gratificação mensal de 3000$00, paga durante os 12 meses do ano.
+Art. 16.º - 1 - Os delegados e subdelegados escolares terão direito à gratificação mensal de 3000$00, paga durante os 12 meses do ano.
 
 2 - Sempre que o subdelegado escolar aufira, como professor, vencimento superior ao referido no n.º 2 do artigo 13.º, ser-lhe-á abonado o que lhe competir como professor, acrescido da respectiva gratificação referida no número anterior.
 
-###### Art. 17.º A gratificação referida no artigo anterior será actualizada sempre que se verifiquem aumentos da função pública, sendo a percentagem do aumento idêntica àquela que se verifique para a letra F da tabela de vencimentos da função pública.
+Art. 17.º A gratificação referida no artigo anterior será actualizada sempre que se verifiquem aumentos da função pública, sendo a percentagem do aumento idêntica àquela que se verifique para a letra F da tabela de vencimentos da função pública.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 18.º - 1 - Os actuais delegados de zona escolar poderão ser providos, independentemente de todas as formalidades legais, excepto o visto da Comissão de Contas, nos lugares de delegado escolar na delegação onde já vinham exercendo funções.
+Art. 18.º - 1 - Os actuais delegados de zona escolar poderão ser providos, independentemente de todas as formalidades legais, excepto o visto da Comissão de Contas, nos lugares de delegado escolar na delegação onde já vinham exercendo funções.
 
 2 - Os actuais assistentes dos delegados de zona escolar que se encontram à data da publicação deste diploma dispensados de serviço docente poderão ser providos, independentemente de quaisquer formalidades legais, excepto o visto da Comissão de Contas, em lugares de subdelegado escolar na respectiva delegação, de acordo com o disposto no mapa I anexo a este diploma.
 
-###### Art. 19.º - 1 - Os actuais assistentes dos delegados de zona escolar que se encontrem à data da publicação deste diploma não dispensados de serviço docente:
+Art. 19.º - 1 - Os actuais assistentes dos delegados de zona escolar que se encontrem à data da publicação deste diploma não dispensados de serviço docente:
 
 a) Poderão ser providos, independentemente de todas as formalidades legais, excepto o visto da Comissão de Contas, em vagas de subdelegado escolar ainda existentes na respectiva delegação, mediante proposta do respectivo delegado;
 
@@ -276,28 +296,28 @@ b) Poderão ser providos, independentemente de quaisquer formalidades legais, ex
 
 2 - Se os respectivos interessados não pretenderem o provimento nos termos das alíneas a) e b) do número anterior, regressarão ao quadro de origem.
 
-###### Art. 20.º - 1 - Na impossibilidade do preenchimento dos lugares de delegado e subdelegado escolar nas condições expressas nos artigos 11.º e 12.º, poderão respectivamente os mesmos, por conveniência de serviço, ser providos de entre os candidatos referidos no artigo 10.º, por despacho do Secretário Regional de Educação.
+Art. 20.º - 1 - Na impossibilidade do preenchimento dos lugares de delegado e subdelegado escolar nas condições expressas nos artigos 11.º e 12.º, poderão respectivamente os mesmos, por conveniência de serviço, ser providos de entre os candidatos referidos no artigo 10.º, por despacho do Secretário Regional de Educação.
 
 2 - Os delegados escolares e os subdelegados escolares providos nos termos do número anterior frequentarão obrigatoriamente o curso especial de formação referido no artigo 9.º deste diploma.
 
-###### Art. 21.º O actual pessoal administrativo e auxiliar de apoio que à data da publicação do presente diploma se encontra a prestar funções nas delegações escolares poderá ser provido, independentemente de quaisquer formalidades, excepto o visto da Comissão de Contas, em lugares de quadro previstos no mapa II anexo a este diploma.
+Art. 21.º O actual pessoal administrativo e auxiliar de apoio que à data da publicação do presente diploma se encontra a prestar funções nas delegações escolares poderá ser provido, independentemente de quaisquer formalidades, excepto o visto da Comissão de Contas, em lugares de quadro previstos no mapa II anexo a este diploma.
 
-###### Art. 22.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 22.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em plenário do Governo Regional em 15 de Setembro de 1983.
 
-**O Presidente do Governo em Exercício, Susano Manuel Barreto de França.**
+O Presidente do Governo em Exercício, Susano Manuel Barreto de França.
 
-**Assinado em 6 de Outubro de 1983.**
+Assinado em 6 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma de Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma de Madeira, Lino Dias Miguel.
 
 Mapa I a que se refere o n.º 1 do artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/29500/41064108.pdf))](https://files.diariodarepublica.pt/1s/1983/12/29500/41064108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/29500/41064108.pdf)
 
 Mapa II a que se refere o n.º 1 do artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/29500/41064108.pdf))](https://files.diariodarepublica.pt/1s/1983/12/29500/41064108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/29500/41064108.pdf)

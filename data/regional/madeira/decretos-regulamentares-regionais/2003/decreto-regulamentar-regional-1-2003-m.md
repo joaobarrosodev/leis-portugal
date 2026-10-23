@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/2003/01/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2003-167066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e24ff5708b9d598f1f50561549aa83b107a1309b543dd6a5f793c2039343bdb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baff20d9ebfc8f1649b344445dc3d9f62d8d0dba8401f6be2e75d4524ad3d807
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Educação Especial
-- Pessoal Dirigente
 - Direcção Regional de Educação Especial e Reabilitação
-- Pessoal Operário
-- Orgânica
-- Pessoal Técnico de Diagnóstico e Terapêutica
+- Educação Especial
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Pessoal Operário
+- Pessoal Técnico de Diagnóstico e Terapêutica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:588834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a manutenção em vigor do DRR 28/2001/M, de 20-Out, na redacção do presente diploma, pelo DRR.5/2005/M.21.02.2005.PG-RAM,\
+    \ DR.IS-B [47] de 08.03.2005, até à publicação integral dos diplomas a que se refere o n.º 4 do seu art. 4.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/20-ae/2001/10/31/p/dre
   label: null
@@ -91,16 +97,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584407:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:58Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +165,9 @@ f) ...
 
 2 - ...
 
-###### Artigo 7.º — Natureza e atribuições
+Artigo 7.º
+
+Natureza e atribuições
 
 1 - O CA é constituído pelo director regional, que preside, pelos directores de serviços e pelos chefes de divisão da Divisão de Serviços Administrativos e da Divisão de Apoio Financeiro.
 
@@ -161,7 +181,9 @@ c) ...
 
 d) ...
 
-###### Artigo 8.º — Atribuições e estrutura
+Artigo 8.º
+
+Atribuições e estrutura
 
 1 - ...
 
@@ -185,7 +207,9 @@ c) ...
 
 d) Equipamento e Conservação.
 
-###### Artigo 9.º — Natureza e atribuições
+Artigo 9.º
+
+Natureza e atribuições
 
 1 - Os SAT são constituídos pelo Gabinete de Estudos e Pareceres Jurídicos (GEPJ), pela Divisão de Apoio Financeiro (DAF), pela Divisão de Recursos Humanos (DRH) e pela Divisão de Apoio Social (DAS).
 
@@ -247,7 +271,9 @@ d) Assegurar o funcionamento de um espaço de informação à pessoa com defici�
 
 e) Promover a recolha, compilação, sistematização, tratamento e difusão de documentação da área social, com interesse para a DREER.
 
-###### Artigo 15.º — Atribuições e funcionamento
+Artigo 15.º
+
+Atribuições e funcionamento
 
 1 - ...
 
@@ -261,7 +287,9 @@ d) ...
 
 2 - O GCAS é dirigido por um coordenador, equiparado para todos os efeitos legais a chefe de divisão.
 
-###### Artigo 21.º — Estrutura e funcionamento
+Artigo 21.º
+
+Estrutura e funcionamento
 
 1 - ...
 
@@ -293,11 +321,11 @@ Aprovado em Conselho do Governo Regional em 13 de Dezembro de 2002.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva, Vice-Presidente do Governo Regional.
 
-**Assinado em 6 de Janeiro de 2003.**
+Assinado em 6 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — MAPA I
 

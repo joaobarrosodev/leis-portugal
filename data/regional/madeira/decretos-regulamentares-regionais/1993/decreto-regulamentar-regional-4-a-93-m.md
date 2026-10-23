@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 27/1993, 1º Suplemento, Série I-B de 1993-02-02
   number: '27'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 438-(2) a 438-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/027b01/00020025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4-a/1993/02/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-1993-258159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 426c840d86df9a897f9bfe51dc11f3034c302173c65b0f41d294356bb977c206
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b921b34cd109e8b6359c23a02190bc46e6c758da6c4e9a2bbc0f3ac6269f4173
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Governo Regional
 - Definição de Competências
+- Direcção Regional de Estradas
 - Direcção Regional de Obras Públicas
+- Direcção Regional de Saneamento Básico
 - Direcção Regional de Urbanismo
 - Direcção Regional do Ambiente
-- Direcção Regional de Saneamento Básico
-- Direcção Regional de Estradas
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Secretaria Regional do Equipamento Social e Ambiente
 - Transferência de Pessoal
 relationships:
@@ -83,6 +83,59 @@ relationships:
   target: pt:dre:262367:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:275586:por
+  label: "Alterados os artigos 4.º, 17.º, 18.º, 19.º, 20.º, 25.º, 80.º e 95.º, aditados os artigos 20.º-A, 20.º-B e 20.º-C,\
+    \ substituída a epígrafe da divisão V do capítulo III e aditada ao mesmo capítulo a divisão V-A, e alterado o quadro de\
+    \ pessoal a que se refere o mapa I do anexo I, pelo DRR.3/94/M.08.03.1994.GR-RAM, DR.IS-B [56] de 08.03.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-1994-275586
+  date: '1994-03-08'
+- type: amended_by
+  target: pt:dre:231364:por
+  label: "Alterado o quadro de pessoal, constante do mapa V do anexo I, pelo DRR.7/95/M.05.04.1995.GR-RAM, DR.IS-B [81] de\
+    \ 05.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1995-231364
+  date: '1995-04-05'
+- type: amended_by
+  target: pt:dre:468808:por
+  label: "Alterados os artigos 13.º, 83.º, 85.º, 86.º e os quadros de pessoal a que se referem os mapas I a V constantes do\
+    \ anexo I, pelo DRR.5/96/M.17.05.1996.PG-RAM, DR.IS-B [115] de 17.05.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1996-468808
+  date: '1996-05-17'
+- type: amended_by
+  target: pt:dre:211389:por
+  label: "Alteada a redacção dos arts. 1º, 4º, 7º, 18º, 19º, 24º a 26º, 29º e 80º, substituída a epigrafe da divisão VII,\
+    \ aditados ás divisões I e II do cap. III os arts. 7º-A e 10º-A, respectivamente, aditados à divisão III do cap. III os\
+    \ arts. 13º-A e 13º-B e alterado o quadro de pessoal a que se referem os mapas I e II do anexo I, pelo DRR.3/98/M.1998.02.06.PG-RAM\
+    \ DR.IS-B [48] de 26/Fev/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-1998-211389
+  date: '1998-02-06'
+- type: amended_by
+  target: pt:dre:529865:por
+  label: "Aditado o art. 82º-A e alterados os arts. 80º, 83º, 84º, 85º, 88º, 89º, 90º e 91º, bem como os quadros de pessoal\
+    \ constantes dos mapas I a VI do anexo I, na redacção conferida pelos DRR 3/94/M de 08-Mar, 7/95/M, de 05-Abr, 5/96/M,\
+    \ de 17-Mai e 3/98/M de 26-Fev, pelo DRR.4-A/2000/M.2000.02.25.PG-RAM DR.IS-B [47]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-a-2000-529865
+  date: '2000-02-25'
+- type: amended_by
+  target: pt:dre:230108:por
+  label: "Alterados os arts. 44º, 45º e 47º, aditada a secção II-A (subordinada à epígrafe «Direcção de Serviços de Inspecção\
+    \ Ambiental») à Divisão IX do Cap. III, aditados os arts. 49º-A e 49º-B à secção II-A da divisão IX do Cap. III, determinado\
+    \ que o art. 82º-A passe a 82º-B, aditados os arts. 82º-A, 82º-C, 82º-D e 82º-E e alterados os quadros de pessoal dos\
+    \ mapas I, II, III, V e VI do anexo I, todos da Lei Orgânica aprovada pelo presente diploma (na redacção dos DRR 3/94/M\
+    \ de 08-Mar; 7/95/M de 05-Abr; 5/96/M de 17-Mai; 3/98/M de 26-Fev e 4-A/2000/M de 25-Fev) PELO DRR.39-A/2000/M.2000.08.10.PG-RAM,\
+    \ DR.IS-B [184]SUPL\0L\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/39-a-2000-230108
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:262367:por
+  label: "Extinta a Direcção Regional de Estradas, criada pela al. l) do art. 4º do presente diploma com a entrada em funcionamento\
+    \ da RAMEDM, S.A., criada pelo DLR.8/2007/M.29.12.2006.AL-RAM, DR.IS [9] de 12.01.2007, que remeteu para aquela sociedade\
+    \ todas as referências à direcção feitas em acto normativo ou administrativo, contrato ou documento de qualquer outra\
+    \ natureza, assim como determinou a transição para a citada sociedade dos processos administrativos em curso, nos termos\
+    \ do estabelecido no nº 3 do art. 23º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2007-262367
+  date: '2006-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/26/1992/11/11/m/dre
   label: null
@@ -107,16 +160,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/97/1992/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/97/1992/02/18/p/dre
+- type: cites
+  target: pt:dre:158578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:409496:por
+  label: "Rectificado o artigo 24.º, alínea b) do artigo 30.º, alínea d) do artigo 46.º e o n.º 1 do artigo 83.º pela DECL-RECT.54/93.31.03.1993.PCM,\
+    \ DR.IS-B [76]3ºSupl de 31.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/54-1993-409496
+  date: '1993-03-31'
+- type: repealed_by
+  target: pt:dre:314198:por
+  label: "Revogado pelo DRR.7/2001/M.2001.04.24.PG-RAM DR.IS-B [109] DE 11/MAI/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2001-314198
+  date: '2001-04-24'
 article_structure:
-  article_count: 1
-  section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:43Z'
   warnings: []
   errors: []
 ---
@@ -139,9 +239,9 @@ Em execução do disposto no artigo 13.º do [Decreto Legislativo Regional n.º 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Secretaria Regional do Equipamento Social e Ambiente, adiante abreviadamente designada por SRESA, é o departamento do Governo Regional da Madeira a que se referem os artigos 1.º, alínea e), e 5.º do [Decreto Legislativo Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-668491), de 11 de Novembro, competindo-lhe a definição e execução da política regional respeitante aos sectores de ambiente, estradas, habitação, obras públicas, recursos hídricos, saneamento básico e urbanismo.
+Artigo 1.º A Secretaria Regional do Equipamento Social e Ambiente, adiante abreviadamente designada por SRESA, é o departamento do Governo Regional da Madeira a que se referem os artigos 1.º, alínea e), e 5.º do [Decreto Legislativo Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-668491), de 11 de Novembro, competindo-lhe a definição e execução da política regional respeitante aos sectores de ambiente, estradas, habitação, obras públicas, recursos hídricos, saneamento básico e urbanismo.
 
-###### Art. 2.º Constituem atribuições da SRESA;
+Art. 2.º Constituem atribuições da SRESA;
 
 a) Elaborar, no quadro do Plano de Desenvolvimento Regional, os planos sectoriais relativos aos seus domínios de actuação;
 
@@ -153,7 +253,7 @@ d) Assegurar a observância das disposições reguladoras das tarefas que lhe s�
 
 e) Promover formas de cooperação com entidades regionais, nacionais e estrangeiras, no âmbito das suas áreas de actuação.
 
-###### Art. 3.º - 1 - A SRESA é representada e superiormente dirigida pelo Secretário Regional do Equipamento Social e Ambiente, a quem compete, nomeadamente:
+Art. 3.º - 1 - A SRESA é representada e superiormente dirigida pelo Secretário Regional do Equipamento Social e Ambiente, a quem compete, nomeadamente:
 
 a) Definir e orientar a política da Região para os sectores de actividades referidos no artigo 1.º, coordenando a elaboração dos respectivos planos de desenvolvimento e promovendo o seu cumprimento;
 
@@ -175,7 +275,7 @@ g) Exercer as demais competências que lhe sejam cometidas por lei.
 
 ### CAPÍTULO II — Estrutura geral
 
-###### Art. 4.º Para a prossecução dos seus objectivos, a SRESA compreende os seguintes organismos e serviços de concepção, coordenação, consulta, execução e apoio técnico:
+Art. 4.º Para a prossecução dos seus objectivos, a SRESA compreende os seguintes organismos e serviços de concepção, coordenação, consulta, execução e apoio técnico:
 
 a) Gabinete do Secretário Regional (GSR);
 
@@ -201,21 +301,21 @@ l) Direcção Regional de Estradas (DRE);
 
 m) Direcção Regional de Urbanismo (DRU).
 
-###### Art. 5.º Com carácter consultivo, funcionam no âmbito da SRESA os seguintes órgãos:
+Art. 5.º Com carácter consultivo, funcionam no âmbito da SRESA os seguintes órgãos:
 
 a) Conselho Regional de Equipamento Social;
 
 b) Comissão Regional de Ambiente.
 
-###### Art. 6.º O Secretário Regional do Equipamento Social e Ambiente exerce a tutela sobre o Instituto de Habitação da Região Autónoma da Madeira (IHM), o Laboratório Regional de Engenharia Civil (LREC) e o Instituto de Gestão da Água (IGA).
+Art. 6.º O Secretário Regional do Equipamento Social e Ambiente exerce a tutela sobre o Instituto de Habitação da Região Autónoma da Madeira (IHM), o Laboratório Regional de Engenharia Civil (LREC) e o Instituto de Gestão da Água (IGA).
 
 ### CAPÍTULO III — Atribuições e estrutura dos órgãos e serviços
 
-##### DIVISÃO I
+DIVISÃO I
 
 Gabinete do Secretário Regional
 
-###### Art. 7.º - 1 - O GSR é constituído por um chefe do Gabinete, um adjunto do Gabinete e dois secretários pessoais.
+Art. 7.º - 1 - O GSR é constituído por um chefe do Gabinete, um adjunto do Gabinete e dois secretários pessoais.
 
 2 - O GSR é dirigido pelo chefe do Gabinete, na directa dependência do Secretário Regional.
 
@@ -243,13 +343,13 @@ f) Exercer as competências que lhe sejam delegadas pelo Secretário Regional.
 
 8 - Para assuntos interdepartamentais, podem ser nomeados, nos termos da lei, conselheiros técnicos, os quais serão, para todos os efeitos, equiparados a adjuntos do Gabinete.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Gabinete de Estudos e Planeamento
 
-###### Art. 8.º O GEP é o serviço destinado ao acompanhamento dos investimentos e aspectos correlativos da actividade geral da SRESA, subentendendo, para o efeito, a coordenação de fluxos de informação técnico-económica com os demais serviços, bem como a promoção de estudos sectoriais afins.
+Art. 8.º O GEP é o serviço destinado ao acompanhamento dos investimentos e aspectos correlativos da actividade geral da SRESA, subentendendo, para o efeito, a coordenação de fluxos de informação técnico-económica com os demais serviços, bem como a promoção de estudos sectoriais afins.
 
-###### Art. 9.º Na prossecução dos objectivos enunciados, são atribuições do GEP:
+Art. 9.º Na prossecução dos objectivos enunciados, são atribuições do GEP:
 
 a) No quadro do Plano de Desenvolvimento Regional, recolher, preparar e coordenar os elementos destinados à elaboração dos planos plurianuais e anuais dos investimentos sectoriais;
 
@@ -271,7 +371,7 @@ i) Recolher estatísticas específicas sectoriais e do sector da construção e 
 
 j) Promover a celebração de protocolos de colaboração com entidades sectoriais afins, a realização de conferências, seminários e outras actividades, visando a divulgação da informação, bem como a participação em acções de aperfeiçoamento profissional.
 
-###### Art. 10.º - 1 - O GEP é dirigido por um director, a quem compete:
+Art. 10.º - 1 - O GEP é dirigido por um director, a quem compete:
 
 a) Assegurar o bom funcionamento do Gabinete, promovendo a adopção das medidas necessárias à prossecução das suas atribuições, de modo a propiciar uma acção integrada e dinamizante do mesmo;
 
@@ -289,13 +389,13 @@ g) Exercer as competências que lhes sejam superiormente delegadas ou subdelegad
 
 2 - O director do GEP é equiparado, para todos os efeitos legais, a director de serviços.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Gabinete de Estudos e Pareceres Jurídicos
 
-###### Art. 11.º O GEPJ é um serviço de apoio técnico-jurídico ao Gabinete do Secretário Regional, com funções exclusivas de mera consulta jurídica.
+Art. 11.º O GEPJ é um serviço de apoio técnico-jurídico ao Gabinete do Secretário Regional, com funções exclusivas de mera consulta jurídica.
 
-###### Art. 12.º São atribuições do GEPJ:
+Art. 12.º São atribuições do GEPJ:
 
 a) Emitir pareceres e elaborar estudos jurídicos;
 
@@ -305,21 +405,21 @@ c) Participar na elaboração de pareceres necessários à pronúncia da Região
 
 d) Promover a adequada e necessária difusão de legislação de interesse para a Secretaria Regional.
 
-###### Art. 13.º O GEPJ é coordenado pelo consultor jurídico de mais elevada categoria profissional em exercício efectivo de funções no mesmo Gabinete.
+Art. 13.º O GEPJ é coordenado pelo consultor jurídico de mais elevada categoria profissional em exercício efectivo de funções no mesmo Gabinete.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Gabinete de Aquisição de Imóveis
 
-###### Art. 14.º O GAI é o serviço destinado a proceder aos estudos adequados à concretização das aquisições de imóveis necessários a obras públicas, assim como estudos de aquisição para outros fins de interesse público.
+Art. 14.º O GAI é o serviço destinado a proceder aos estudos adequados à concretização das aquisições de imóveis necessários a obras públicas, assim como estudos de aquisição para outros fins de interesse público.
 
-###### Art. 15.º Na prossecução dos objectivos enunciados, são atribuições do GAI:
+Art. 15.º Na prossecução dos objectivos enunciados, são atribuições do GAI:
 
 a) Promover as negociações necessárias à regularização das aquisições e, bem assim, indemnizações, pagamentos, permutas ou outras formas de compensação a prestar a terceiros, por prejuízos ou danos consequentes de obras públicas ou outros, procedendo aos trâmites dos respectivos acordos e defendendo nos tribunais os interesses do Governo Regional sobre a matéria em causa;
 
 b) Proceder a todas as tramitações e trabalhos burocráticos, técnicos e forenses que caimbam no âmbito das suas atribuições e ainda aos que, dentro da mesma linha de acção, lhe sejam superiormente cometidos.
 
-###### Art. 16.º - 1 - O GAI é coordenado por um director, a quem compete:
+Art. 16.º - 1 - O GAI é coordenado por um director, a quem compete:
 
 a) Assegurar o bom funcionamento do Gabinete, promovendo a adopção das medidas necessárias à prossecução das suas atribuições, de modo a propiciar uma acção dinamizante do mesmo;
 
@@ -331,13 +431,13 @@ d) Exercer as competências que lhe sejam superiormente delegadas ou subdelegada
 
 2 - O director do GAI é equiparado, para todos os efeitos legais, a director de serviços.
 
-##### DIVISÃO V
+DIVISÃO V
 
 Direcção de Serviços de Pessoal, Administração e Finanças
 
-###### Art. 17.º A DSPAF é o organismo que, no âmbito da SRESA, se destina a coordenar a gestão dos recursos humanos, financeiros e patrimoniais móveis não mecânicos, a assegurar os procedimentos administrativos dessa gestão e a promover as medidas tendentes ao aperfeiçoamento organizacional e de modernização administrativa.
+Art. 17.º A DSPAF é o organismo que, no âmbito da SRESA, se destina a coordenar a gestão dos recursos humanos, financeiros e patrimoniais móveis não mecânicos, a assegurar os procedimentos administrativos dessa gestão e a promover as medidas tendentes ao aperfeiçoamento organizacional e de modernização administrativa.
 
-###### Art. 18.º Na prossecução dos objectivos enunciados, são atribuições da DSPAF:
+Art. 18.º Na prossecução dos objectivos enunciados, são atribuições da DSPAF:
 
 a) Formular propostas para definição das coordenadas e dos objectivos a prosseguir no âmbito da gestão e da formação do pessoal;
 
@@ -359,7 +459,7 @@ i) Coordenar a gestão financeira dos organismos e serviços da SRESA, promovend
 
 j) Apoiar, nos domínios financeiros e de gestão de pessoal, os organismos tutelados pelo Secretário Regional do Equipamento Social e Ambiente.
 
-###### Art. 19.º - 1 - A DSPAF compreende os seguintes serviços:
+Art. 19.º - 1 - A DSPAF compreende os seguintes serviços:
 
 a) Divisão de Pessoal;
 
@@ -413,7 +513,7 @@ f) Elaborar o processamento de todas as despesas e proceder ao serviço de escri
 
 g) Elaborar o controlo de execução financeira e contabilidade dos custos de investimentos.
 
-###### Art. 20.º Ao director de serviços de Pessoal, Administração e Finanças compete:
+Art. 20.º Ao director de serviços de Pessoal, Administração e Finanças compete:
 
 a) Coordenar todas as acções ligadas aos serviços de pessoal, administração e finanças, garantindo a articulação da actuação das divisões e a coordenação com todos os organismos da SRESA e assegurando o bom funcionamento da Direcção de Serviços de modo a propiciar uma acção dinamizante da mesma;
 
@@ -423,13 +523,13 @@ c) Coordenar a distribuição de todo o pessoal adstrito à Direcção de Servi�
 
 d) Exercer as competências que lhe sejam superiormente delegadas ou subdelegadas.
 
-##### DIVISÃO VI
+DIVISÃO VI
 
 Gabinete de Topografia e Desenho
 
-###### Art. 21.º O GTD é o serviço destinado a coordenar a informação geográfica ou geograficamente referenciável de âmbito regional, bem como a execução dos trabalhos de cartografia, topografia e desenho necessários à concretização de empreendimentos por parte dos diversos departamentos da SRESA.
+Art. 21.º O GTD é o serviço destinado a coordenar a informação geográfica ou geograficamente referenciável de âmbito regional, bem como a execução dos trabalhos de cartografia, topografia e desenho necessários à concretização de empreendimentos por parte dos diversos departamentos da SRESA.
 
-###### Art. 22.º No prossecução dos objectivos enunciados, são atribuições do GTD:
+Art. 22.º No prossecução dos objectivos enunciados, são atribuições do GTD:
 
 a) Desenvolver estudos e trabalhos que permitam a obtenção de dados georreferenciáveis necessários às actividades de ordenamento do território, de conservação do ambiente e de planeamento e gestão dos recursos naturais;
 
@@ -451,7 +551,7 @@ i) Proceder a todos os trabalhos que sejam atinentes ao Gabinete, quando superio
 
 j) Colaborar na gestão do pessoal de topografia e desenho nos diversos serviços da SRESA e apoiá-los na execução dos respectivos trabalhos.
 
-###### Art. 23.º - 1 - O GTD é dirigido por um director, a quem compete:
+Art. 23.º - 1 - O GTD é dirigido por um director, a quem compete:
 
 a) Assegurar o bom funcionamento do Gabinete, promovendo a adopção das medidas necessárias à prossecução das suas atribuições, de modo a propiciar uma acção integrada e dinamizante do mesmo;
 
@@ -463,13 +563,13 @@ d) Exercer as competências que lhe sejam superiormente delegadas ou subdelegada
 
 2 - O director do GTD é equiparado, para todos os efeitos legais, a director de serviços.
 
-##### DIVISÃO VII
+DIVISÃO VII
 
 ##### Divisão de Informática
 
-###### Art. 24.º A DI é o serviço destinado à gestão e implementação das tecnologias de informatização no âmbito da SRESA.
+Art. 24.º A DI é o serviço destinado à gestão e implementação das tecnologias de informatização no âmbito da SRESA.
 
-###### Art. 25.º Na prossecução dos objectivos enunciados, são atribuições da DI:
+Art. 25.º Na prossecução dos objectivos enunciados, são atribuições da DI:
 
 a) Planificar, analisar e actualizar as implementações informáticas:
 
@@ -493,7 +593,7 @@ h) Relacionar-se com outras secretarias regionais e, em especial, com os Serviç
 
 i) Relacionar-se com outras instituições afins, através de protocolos de cooperação.
 
-###### Art. 26.º Ao chefe da Divisão de Informática compete:
+Art. 26.º Ao chefe da Divisão de Informática compete:
 
 a) Assegurar o bom funcionamento da Divisão, promovendo a adopção das medidas necessárias à prossecução das suas atribuições, de modo a propiciar uma acção integrada e dinamizante da mesma;
 
@@ -503,13 +603,13 @@ c) Coordenar a distribuição de todo o pessoal adstrito à Divisão e superinte
 
 d) Exercer as competências que lhe sejam superiormente delegadas ou subdelegadas.
 
-##### DIVISÃO VIII
+DIVISÃO VIII
 
 Direcção Regional de Obras Públicas
 
-###### Art. 27.º A DROP, em estreita ligação com o Secretário Regional do Equipamento Social e Ambiente, coordena a política de planeamento e concretização de obras públicas da responsabilidade do Governo Regional.
+Art. 27.º A DROP, em estreita ligação com o Secretário Regional do Equipamento Social e Ambiente, coordena a política de planeamento e concretização de obras públicas da responsabilidade do Governo Regional.
 
-###### Art. 28.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à DROP:
+Art. 28.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à DROP:
 
 a) Promover e coordenar todas as acções de planificação, construção e manutenção de edifícios públicos e monumentos;
 
@@ -519,7 +619,7 @@ c) Coordenar, executar e fiscalizar as obras do sector escolar e proceder à def
 
 d) Programar e coordenar a utilização e assegurar a manutenção de todos os equipamentos e viaturas ao serviço da SRESA.
 
-###### Art. 29.º - 1 - Ao director regional de Obras Públicas compete:
+Art. 29.º - 1 - Ao director regional de Obras Públicas compete:
 
 a) Coordenar e orientar a acção dos diversos serviços da Direcção Regional, segundo as directrizes do Secretário Regional;
 
@@ -539,7 +639,7 @@ f) Definir e propor para superior decisão tudo o que se torne necessário ao bo
 
 4 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços que, por proposta sua, seja designado pelo Secretário Regional.
 
-###### Art. 30.º A DROP compreende os seguintes serviços:
+Art. 30.º A DROP compreende os seguintes serviços:
 
 a) Gabinete de Estudos e Planeamento de Obras Públicas (GEPOP);
 
@@ -555,7 +655,7 @@ f) Área Administrativa.
 
 #### SECÇÃO I — Gabinete de Estudos e Planeamento de Obras Públicas
 
-###### Art. 31.º São atribuições do GEPOP:
+Art. 31.º São atribuições do GEPOP:
 
 a) Proceder à inventariação e definição das necessidades existentes em matéria de edifícios, de hidráulica, de parque de materiais e equipamento mecânico;
 
@@ -575,7 +675,7 @@ h) Colaborar, quando solicitado pelo GAI, em avaliações de imóveis;
 
 i) Promover o estudo do sector de edifícios, através de registo, comportamento e estatísticas relativas às unidades de produção que normalmente operam na Região, entendendo-se como tal as empresas de construção civil, projectistas e consultores, bem como as empresas que exploram, produzem, transformam ou comercializam produtos utilizados no sector.
 
-###### Art. 32.º - 1 - O GEPOP é equiparado a direcção de serviços e compreende uma Divisão de Projectos.
+Art. 32.º - 1 - O GEPOP é equiparado a direcção de serviços e compreende uma Divisão de Projectos.
 
 2 - Compete à Divisão de Projectos:
 
@@ -585,7 +685,7 @@ b) Dar parecer, quando solicitado, sobre projectos elaborados noutros serviços 
 
 #### SECÇÃO II — Direcção de Serviços de Edifícios e Monumentos
 
-###### Art. 33.º São atribuições da DSEM:
+Art. 33.º São atribuições da DSEM:
 
 a) Propor e coordenar os estudos e operações relativos à execução das acções de planeamento de edifícios públicos e monumentos e definir as orientações necessárias à satisfação das carências detectadas, em íntima colaboração com o GEPOP;
 
@@ -605,7 +705,7 @@ h) Coordenar e fiscalizar as obras do sector, quer em regime de empreitada, quer
 
 i) Providenciar em tudo o que se relacione com o sector de modo a permitir uma acção dinamizante do mesmo.
 
-###### Art. 34.º - 1 - A DSEM compreende os seguintes serviços:
+Art. 34.º - 1 - A DSEM compreende os seguintes serviços:
 
 a) Divisão de Construção e Manutenção;
 
@@ -621,7 +721,7 @@ c) Divisão de Electricidade.
 
 #### SECÇÃO III — Direcção de Serviços de Hidráulica
 
-###### Art. 35.º São atribuições da DSH:
+Art. 35.º São atribuições da DSH:
 
 a) Coordenar e executar as obras de equipamento social a levar a efeito para satisfação das carências e resolução dos problemas do sector;
 
@@ -647,7 +747,7 @@ l) Conceder licenças para extracção de materiais nos leitos e margens de curs
 
 m) Providenciar em tudo o que se relacione com o sector, de modo a propiciar uma acção dinamizante do mesmo.
 
-###### Art. 36.º - 1 - A DSH compreende os seguintes serviços:
+Art. 36.º - 1 - A DSH compreende os seguintes serviços:
 
 a) Divisão de Construção;
 
@@ -659,7 +759,7 @@ b) Divisão de Fiscalização e Manutenção.
 
 #### SECÇÃO IV — Direcção de Serviços de Construções Escolares e Equipamento
 
-###### Art. 37.º - 1 - São atribuições da DSCEE:
+Art. 37.º - 1 - São atribuições da DSCEE:
 
 a) Estabelecer critérios e definir normas que caracterizem as construções escolares relativamente a todos os níveis e ramos de ensino;
 
@@ -693,7 +793,7 @@ o) Providenciar em tudo o que se relacione com o sector, de modo a permitir uma 
 
 3 - O planeamento e aquisição do material didáctico e laboratorial, dada a sua especialidade, constituirá atribuição da Secretaria Regional da Educação.
 
-###### Art. 38.º - 1 - A DSCEE compreende os seguintes serviços:
+Art. 38.º - 1 - A DSCEE compreende os seguintes serviços:
 
 a) Divisão de Construção e Fiscalização;
 
@@ -709,7 +809,7 @@ c) Divisão de Equipamento.
 
 #### SECÇÃO V — Direcção de Serviços de Parque de Materiais e Equipamento Mecânico
 
-###### Art. 39.º São atribuições da DSPMEM:
+Art. 39.º São atribuições da DSPMEM:
 
 a) Programar e coordenar a utilização de todos os equipamentos mecânicos e viaturas ao serviço da SRESA, à excecpção dos equipamentos muito específicos em que só se justifique a sua utilização por determinado serviço;
 
@@ -731,7 +831,7 @@ i) Efectuar todos os trabalhos de serralharia, carpintaria e pintura da SRESA, s
 
 j) Custear todos os materiais fornecidos a cada obra, a fim de informar o centro de custos de obras.
 
-###### Art. 40.º - 1 - A DSPMEM compreende os seguintes serviços:
+Art. 40.º - 1 - A DSPMEM compreende os seguintes serviços:
 
 a) Divisão de Materiais e Equipamento;
 
@@ -743,21 +843,21 @@ b) Divisão de Assistência e Manutenção Mecânica.
 
 #### SECÇÃO VI — Área Administrativa
 
-###### Art. 41.º São atribuições da Área Administrativa exercer as funções de carácter comum aos diversos serviços da DROP, nos domínios do expediente, arquivo, pessoal, economato e contabilidade, sob a orientação dos serviços centrais da Secretaria Regional.
+Art. 41.º São atribuições da Área Administrativa exercer as funções de carácter comum aos diversos serviços da DROP, nos domínios do expediente, arquivo, pessoal, economato e contabilidade, sob a orientação dos serviços centrais da Secretaria Regional.
 
-##### DIVISÃO IX
+DIVISÃO IX
 
 Direcção Regional de Ambiente
 
-###### Art. 42.º A DRA, em estreita ligação com o Secretário Regional do Equipamento Social e Ambiente, coordena a política de conservação e gestão do ambiente.
+Art. 42.º A DRA, em estreita ligação com o Secretário Regional do Equipamento Social e Ambiente, coordena a política de conservação e gestão do ambiente.
 
-###### Art. 43.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à DRA:
+Art. 43.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à DRA:
 
 a) Promover a preservação e melhoria da qualidade de vida, quer individual, quer colectiva, criando os meios adequados para assegurar a integração das políticas de crescimento económico e social, de gestão racional dos recursos naturais e de protecção do ambiente e conservação da natureza;
 
 b) Promover acções de sensibilização e fomentar e apoiar a participação dos cidadãos em iniciativas conducentes à defesa dos componentes ambientais.
 
-###### Art. 44.º - 1 - Ao director regional do Ambiente compete:
+Art. 44.º - 1 - Ao director regional do Ambiente compete:
 
 a) Coordenar e orientar a acção dos diversos serviços da Direcção Regional, segundo as directrizes do Secretário Regional;
 
@@ -777,7 +877,7 @@ O director regional pode avocar as competências dos directores de serviços e c
 
 4 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços que, por proposta sua, seja designado pelo Secretário Regional.
 
-###### Art. 45.º A DRA compreende os seguintes serviços:
+Art. 45.º A DRA compreende os seguintes serviços:
 
 a) Direcção de Serviços da Qualidade do Ambiente (DSQA);
 
@@ -787,7 +887,7 @@ c) Área Administrativa.
 
 #### SECÇÃO I — Direcção de Serviços da Qualidade do Ambiente
 
-###### Art. 46.º são atribuições da DSQA:
+Art. 46.º são atribuições da DSQA:
 
 a) Implementar a definição e colaborar na execução de uma política integrada de conservação da natureza e de protecção, gestão e optimização dos recursos naturais;
 
@@ -819,7 +919,7 @@ o) Prestar apoio técnico às autarquias locais no âmbito da sua competência;
 
 p) Propor a celebração de acordos e convenções nacionais e internacionais no âmbito da protecção e melhoria do ambiente e participar nas actividades dos organismos nacionais e internacionais que se ocupam de assuntos relacionados com as suas atribuições.
 
-###### Art. 47.º - 1 - A DSQA compreende os seguintes serviços:
+Art. 47.º - 1 - A DSQA compreende os seguintes serviços:
 
 a) Divisão de Promoção da Qualidade do Ambiente;
 
@@ -831,7 +931,7 @@ b) Divisão de Controlo da Qualidade do Ambiente.
 
 #### SECÇÃO II — Direcção de Serviços de Estudos, Documentação e Informação
 
-###### Art. 48.º São atribuições da DSEDI:
+Art. 48.º São atribuições da DSEDI:
 
 a) Promover a elaboração, a nível regional, de um plano de protecção da qualidade do ambiente, em coordenação com todos os serviços intervenientes neste domínio;
 
@@ -853,7 +953,7 @@ i) Efectuar a recolha, análise e divulgação dos normativos relativos à prote
 
 j) Promover a elaboração de monografias e cartas de carácter paisagístico, ecológico, geográfico e cultural.
 
-###### Art. 49.º - 1 - A DSEDI compreende os seguintes serviços:
+Art. 49.º - 1 - A DSEDI compreende os seguintes serviços:
 
 a) Divisão de Estudos e Planeamento;
 
@@ -865,15 +965,15 @@ b) Divisão de Educação Ambiental.
 
 #### SECÇÃO III — Área Administrativa
 
-###### Art. 50.º São atribuições da Área Administrativa exercer as funções de carácter comum aos diversos serviços da DRA nos domínios do expediente, arquivo, pessoal, economato e contabilidade, sob a orientação dos serviços centrais da Secretaria Regional.
+Art. 50.º São atribuições da Área Administrativa exercer as funções de carácter comum aos diversos serviços da DRA nos domínios do expediente, arquivo, pessoal, economato e contabilidade, sob a orientação dos serviços centrais da Secretaria Regional.
 
-##### DIVISÃO X
+DIVISÃO X
 
 Direcção Regional de Saneamento Básico
 
-###### Art. 51.º A DRSB, em estreita ligação com o Secretário Regional do Equipamento Social e Ambiente, coordena a política regional a desenvolver no sector e exerce as competências em tal domínio atribuídas à administração regional autónoma.
+Art. 51.º A DRSB, em estreita ligação com o Secretário Regional do Equipamento Social e Ambiente, coordena a política regional a desenvolver no sector e exerce as competências em tal domínio atribuídas à administração regional autónoma.
 
-###### Art. 52.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à DRSB:
+Art. 52.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à DRSB:
 
 a) Proceder à planificação e execução de estações de tratamento e emissários finais de águas residuais;
 
@@ -881,7 +981,7 @@ b) Planificar, executar e proceder à exploração de infra-estruturas de saneam
 
 c) Exercer funções inspectivas e normativas nos domínios referidos nas alíneas anteriores.
 
-###### Art. 53.º - 1 - Ao director regional de Saneamento Básico compete:
+Art. 53.º - 1 - Ao director regional de Saneamento Básico compete:
 
 a) Coordenar e orientar a acção dos diversos serviços da Direcção Regional, segundo as directrizes do Secretário Regional;
 
@@ -901,7 +1001,7 @@ f) Definir e propor para superior decisão tudo o que se torne necessário ao bo
 
 4 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços que, por proposta sua, seja designado pelo Secretário Regional.
 
-###### Art. 54.º A DRSB compreende os seguintes serviços:
+Art. 54.º A DRSB compreende os seguintes serviços:
 
 a) Direcção de Serviços de Estudos e Obras (DSEO);
 
@@ -911,7 +1011,7 @@ c) Área Administrativa.
 
 #### SECÇÃO I — Direcção de Serviços de Estudos e Obras
 
-###### Art. 55.º São atribuições da DSEO:
+Art. 55.º São atribuições da DSEO:
 
 a) Proceder à inventariação das necessidades existentes em matéria de saneamento básico, assegurando a recolha e a análise de dados e estatísticas necessários ao planeamento e estudo de sistemas de águas residuais e resíduos sólidos;
 
@@ -939,7 +1039,7 @@ m) Dirigir a execução de obras da Direcção Regional que eventualmente venham
 
 n) Controlar os custos das obras executadas e em execução.
 
-###### Art. 56.º - 1 - A DSEO compreende os seguintes serviços:
+Art. 56.º - 1 - A DSEO compreende os seguintes serviços:
 
 a) Divisão de Estudos e Planeamento;
 
@@ -951,7 +1051,7 @@ b) Divisão de Obras.
 
 #### SECÇÃO II — Direcção de Serviços de Operações
 
-###### Art. 57.º São atribuições da DSOP:
+Art. 57.º São atribuições da DSOP:
 
 a) Promover e controlar o processamento de resíduos sólidos, dentro dos exigíveis limites de qualidade e de preservação do meio ambiente;
 
@@ -959,7 +1059,7 @@ b) Assegurar a exploração dos sistemas de processamento dos resíduos sólidos
 
 c) Exercer uma acção inspectiva no que se refere à qualidade das águas residuais e respectivos meios receptores.
 
-###### Art. 58.º - 1 - A DSOP compreende os seguintes serviços:
+Art. 58.º - 1 - A DSOP compreende os seguintes serviços:
 
 a) Divisão de Exploração, Conservação e Controlo de Qualidade;
 
@@ -985,21 +1085,21 @@ O apoio que for expressamente determinado por resolução do Conselho do Governo
 
 #### SECÇÃO III — Área Administrativa
 
-###### Art. 59.º São atribuições da Área Administrativa exercer as funções de carácter comum aos diversos serviços da DRSB nos domínios do expediente, arquivo, pessoal, economato e contabilidade, sob a orientação dos serviços centrais da Secretaria Regional.
+Art. 59.º São atribuições da Área Administrativa exercer as funções de carácter comum aos diversos serviços da DRSB nos domínios do expediente, arquivo, pessoal, economato e contabilidade, sob a orientação dos serviços centrais da Secretaria Regional.
 
-##### DIVISÃO XI
+DIVISÃO XI
 
 Direcção Regional de Estradas
 
-###### Art. 60.º A DRE, em estreita ligação com o Secretário Regional do Equipamento Social e Ambiente, coordena a política de planeamento e concretização das infra-estruturas rodoviárias da responsabilidade do Governo Regional.
+Art. 60.º A DRE, em estreita ligação com o Secretário Regional do Equipamento Social e Ambiente, coordena a política de planeamento e concretização das infra-estruturas rodoviárias da responsabilidade do Governo Regional.
 
-###### Art. 61.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à DRE:
+Art. 61.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à DRE:
 
 a) Promover a modernização da rede regional de estadas, assegurando bons níveis de acessibilidade e de integração entre todas as parcelas do território regional e racionalizando as ligações funcionais entre os centros mais populosos;
 
 b) Prosseguir a reabilitação e conservação periódica da rede regional de estradas, promovendo a melhoria das condições de segurança rodiviária.
 
-###### Art. 62.º - 1 - Ao director regional de Estradas compete:
+Art. 62.º - 1 - Ao director regional de Estradas compete:
 
 a) Coordenar e orientar a acção dos diversos serviços da Direcção Regional, segundo as directrizes do Secretário Regional;
 
@@ -1019,7 +1119,7 @@ f) Definir e propor para superior decisão tudo o que se torne necessário ao bo
 
 4 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços que, por proposta sua, seja designado pelo Secretário Regional.
 
-###### Art. 63.º A DRE compreende os seguintes serviços:
+Art. 63.º A DRE compreende os seguintes serviços:
 
 a) Direcção de Serviços de Obras (DSO);
 
@@ -1029,7 +1129,7 @@ c) Área Administrativa.
 
 #### SECÇÃO I — Direcção de Serviços de Obras
 
-###### Art. 64.º São atribuições da DSO:
+Art. 64.º São atribuições da DSO:
 
 a) Proceder à inventariação e definição das necessidades existentes em matéria da rede rodoviária e estabelecer as prioridades da sua concretização, acelerando o esforço de construção das condideradas fundamentais, numa perspectiva de desenvolvimento integrado;
 
@@ -1047,7 +1147,7 @@ g) Colaborar na definição da rede rodoviária municipal, numa perspectiva de q
 
 h) Proceder à contagem de trânsito para fins estatísticos e elaborar relatórios sobre a evolução do tráfego.
 
-###### Art. 65.º - 1 - A DSO compreende os seguintes serviços:
+Art. 65.º - 1 - A DSO compreende os seguintes serviços:
 
 a) Divisão de Projectos;
 
@@ -1059,7 +1159,7 @@ b) Divisão de Fiscalização.
 
 #### SECÇÃO II — Direcção de Serviços de Conservação
 
-###### Art. 66.º São atribuições da DSC:
+Art. 66.º São atribuições da DSC:
 
 a) Proceder ao diagnóstico sistemático do estado de conservação das estradas regionais;
 
@@ -1075,7 +1175,7 @@ f) Melhorar a segurança rodoviária, designadamente mediante a correcção do t
 
 g) Proceder à sinalização vertical e horizontal das estradas.
 
-###### Art. 67.º - 1 - A DSC compreende os seguintes serviços:
+Art. 67.º - 1 - A DSC compreende os seguintes serviços:
 
 a) Divisão de Manutenção;
 
@@ -1087,21 +1187,21 @@ b) Divisão de Construção.
 
 #### SECÇÃO III — Área Administrativa
 
-###### Art. 68.º São atribuições da Área Administrativa exercer as funções de carácter comum aos diversos serviços da DRE nos domínios do expediente, arquivo, pessoal, economato, orçamento e contabilidade, sob orientação dos serviços centrais da Secretaria Regional.
+Art. 68.º São atribuições da Área Administrativa exercer as funções de carácter comum aos diversos serviços da DRE nos domínios do expediente, arquivo, pessoal, economato, orçamento e contabilidade, sob orientação dos serviços centrais da Secretaria Regional.
 
-##### DIVISÃO XII
+DIVISÃO XII
 
 Direcção Regional de Urbanismo
 
-###### Art. 69.º A DRU, em estreita ligação com o Secretário Regional do Equipamento Social e Ambiente, coordena a política de planeamento urbanístico e territorial.
+Art. 69.º A DRU, em estreita ligação com o Secretário Regional do Equipamento Social e Ambiente, coordena a política de planeamento urbanístico e territorial.
 
-###### Art. 70.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à DRU:
+Art. 70.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à DRU:
 
 a) Estudar e formular princípios orientadores do ordenamento territorial, promover e acompanhar a elaboração de planos de ocupação e velar pela coerência das diversas intervenções ubanísticas com esses planos;
 
 b) Colaborar na realização dos estudos e acções a concretizar pelas autarquias locais e outras entidades no âmbito da instalação de infra-estruturas e equipamentos de utilidade colectiva.
 
-###### Art. 71.º - 1 - Ao director regional de Urbanismo compete:
+Art. 71.º - 1 - Ao director regional de Urbanismo compete:
 
 a) Coordenar e orientar a acção dos diversos serviços da Direcção Regional, segundo as directrizes do Secretário Regional;
 
@@ -1121,7 +1221,7 @@ f) Definir e propor para superior decisão tudo o que se torne necessário ao bo
 
 4 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços que, por proposta sua, seja designado pelo Secretário Regional.
 
-###### Art. 72.º A DRU compreende os seguintes serviços:
+Art. 72.º A DRU compreende os seguintes serviços:
 
 a) Gabinete de Planeamento Urbanístico (GPU);
 
@@ -1131,7 +1231,7 @@ c) Área Administrativa.
 
 #### SECÇÃO I — Gabinete de Planeamento Urbanístico
 
-###### Art. 73.º São atribuições do GPU:
+Art. 73.º São atribuições do GPU:
 
 a) Colaborar na recolha e tratamento dos dados necessários à formulação das bases políticas de ordenamento físico da Região, nomeadamente a elaboração de soluções alternativas de ocupação do território pelas actividades humanas, através da concretização de planos de ordenamento físico, compatibilizando o uso do solo, população, emprego, habitação, indústria, recreio, energia, vias de comunicação, saneamento básico e transportes;
 
@@ -1175,7 +1275,7 @@ s) Preparar projectos, no âmbito do ordenamento urbano e territorial, passívei
 
 t) Assegurar a apreciação, nos termos da lei, de loteamentos a promover na Região, em colaboração com os demais departamentos governamentais competentes.
 
-###### Art. 74.º - 1 - O GPU é equiparado a direcção de serviços e compreende os seguintes serviços:
+Art. 74.º - 1 - O GPU é equiparado a direcção de serviços e compreende os seguintes serviços:
 
 a) Divisão de Ordenamento;
 
@@ -1187,7 +1287,7 @@ b) Divisão de Renovação Urbana.
 
 #### SECÇÃO II — Gabinete de Apoio Técnico às Autarquias Locais
 
-###### Art. 75.º São atribuições do GATAL:
+Art. 75.º São atribuições do GATAL:
 
 a) Promover a articulação das obras de iniciativa das autarquias e de instituições de interesse público com as obras de iniciativa do Governo Regional, de modo a assegurar a perfeita funcionalidade dos planos elaborados;
 
@@ -1203,7 +1303,7 @@ f) Prestar assistência técnica e fiscalizar as obras em curso, com o objectivo
 
 g) Elaborar mensalmente autos de medição de trabalhos em execução, para efeitos de processamento pelas respectivas entidades promotoras das importâncias devidas aos adjudicatários.
 
-###### Art. 76.º - 1 - O GATAL é equiparado a direcção de serviços e compreende os seguintes serviços:
+Art. 76.º - 1 - O GATAL é equiparado a direcção de serviços e compreende os seguintes serviços:
 
 a) Divisão de Estudos e Planeamento;
 
@@ -1215,15 +1315,15 @@ b) Divisão de Fiscalização.
 
 #### SECÇÃO III — Área Administrativa
 
-###### Art. 77.º São atribuições da Área Administrativa exercer as funções de carácter comum aos diversos serviços da DRU nos domínios do expediente, arquivo, pessoal, economato e contabilidade, sob a orientação dos serviços centrais da Secretaria Regional.
+Art. 77.º São atribuições da Área Administrativa exercer as funções de carácter comum aos diversos serviços da DRU nos domínios do expediente, arquivo, pessoal, economato e contabilidade, sob a orientação dos serviços centrais da Secretaria Regional.
 
-##### DIVISÃO XIII
+DIVISÃO XIII
 
 Órgãos consultivos
 
 #### SECÇÃO I — Conselho Regional do Equipamento Social
 
-###### Art. 78.º - 1 - O Conselho Regional do Equipamento Social, abreviadamente designado por Conselho, é um órgão de consulta do Secretário Regional do Equipamento Social e Ambiente, no respeitante às grandes linhas de orientação da política da SRESA nos domínios da respectiva actuação.
+Art. 78.º - 1 - O Conselho Regional do Equipamento Social, abreviadamente designado por Conselho, é um órgão de consulta do Secretário Regional do Equipamento Social e Ambiente, no respeitante às grandes linhas de orientação da política da SRESA nos domínios da respectiva actuação.
 
 2 - O Conselho tem como vogais permanentes os directores regionais de Ambiente, de Estradas, de Obras Públicas, de Saneamento Básico, de Urbanismo, o director do Laboratório Regional de Engenharia Civil, o presidente do conselho directivo do Instituto de Habitação da Região Autónoma da Madeira e o presidente do conselho directivo do Instituto de Gestão da Água.
 
@@ -1233,7 +1333,7 @@ b) Divisão de Fiscalização.
 
 #### SECÇÃO II — Comissão Regional de Ambiente
 
-###### Art. 79.º - 1 - A Comissão Regional de Ambiente, abreviadamente designada por Comissão, é um órgão consultivo no sector do ambiente ao qual compete emitir parecer sobre a definição da política e execução das acções de defesa do ambiente e do património natural e apresentar propostas, sugestões e recomendações no mesmo âmbito.
+Art. 79.º - 1 - A Comissão Regional de Ambiente, abreviadamente designada por Comissão, é um órgão consultivo no sector do ambiente ao qual compete emitir parecer sobre a definição da política e execução das acções de defesa do ambiente e do património natural e apresentar propostas, sugestões e recomendações no mesmo âmbito.
 
 2 - A Comissão é constituída pelos director regional de Ambiente, director regional de Urbanismo, director de serviços da Qualidade do Ambiente, director do Gabinete de Planeamento Urbanístico, três representantes da associação dos municípios da Região, um representante da Direcção Regional de Planeamento, um representante da Direcção Regional dos Assuntos Culturais, um representante da Direcção Regional de Turismo e um representante do Parque Natural da Madeira.
 
@@ -1247,7 +1347,7 @@ A Comissão pode ser convocada com carácter extraordinário, sempre que se just
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 80.º - 1 - O pessoal da SRESA é agrupado de acordo com a seguinte classificação:
+Art. 80.º - 1 - O pessoal da SRESA é agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -1271,21 +1371,21 @@ g) Pessoal operário.
 
 5 - São criados os quadros de pessoal da DRA e da DRU, os quais constam dos mapas III e VI, respectivamente, do anexo I a este diploma.
 
-###### Art. 81.º As condições de ingresso e acesso dos funcionários da SRESA são as estabelecidas na legislação nacional e regional aplicáveis e as previstas neste diploma.
+Art. 81.º As condições de ingresso e acesso dos funcionários da SRESA são as estabelecidas na legislação nacional e regional aplicáveis e as previstas neste diploma.
 
-###### Art. 82.º O pessoal dirigente é provido de acordo com o estatuto que, para o mesmo pessoal, estiver em vigor na Região Autónoma da Madeira.
+Art. 82.º O pessoal dirigente é provido de acordo com o estatuto que, para o mesmo pessoal, estiver em vigor na Região Autónoma da Madeira.
 
-###### Art. 83.º - 1 - Do grupo de pessoal auxiliar constante dos quadros a que se refere o n.º 2 do artigo 80.º fazem também parte as carreiras de operador de central dessalinizadora, operador de reprografia, auxiliar de topografia, tractorista, auxiliar de cantina e cafetaria, fiscal de obras públicas, auxiliar de central dessalinizadora, auxiliar técnico, cozinheiro, fiel de armazém, guarda da natureza e leitor-cobrador e as categorias de encarregado de armazéns, encarregado de central dessinalizadora, chefe de armazém, auxiliar de limpeza e servente.
+Art. 83.º - 1 - Do grupo de pessoal auxiliar constante dos quadros a que se refere o n.º 2 do artigo 80.º fazem também parte as carreiras de operador de central dessalinizadora, operador de reprografia, auxiliar de topografia, tractorista, auxiliar de cantina e cafetaria, fiscal de obras públicas, auxiliar de central dessalinizadora, auxiliar técnico, cozinheiro, fiel de armazém, guarda da natureza e leitor-cobrador e as categorias de encarregado de armazéns, encarregado de central dessinalizadora, chefe de armazém, auxiliar de limpeza e servente.
 
 2 - Do grupo de pessoal operário qualificado constante dos quadros a que se refere o número anterior faz, igualmente, parte a categoria de ajudante.
 
 3 - A carreira de guarda da natureza e a categoria de ajudante serão extintas à medida que ficarem vagos, na totalidade, os respectivos lugares presentemente ocupados.
 
-###### Art. 84.º As escalas salariais das carreiras e categorias referidas no artigo anterior que não constem do anexo n.º 1 ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, são as que se indicam no anexo II ao presente diploma, de que faz parte integrante.
+Art. 84.º As escalas salariais das carreiras e categorias referidas no artigo anterior que não constem do anexo n.º 1 ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, são as que se indicam no anexo II ao presente diploma, de que faz parte integrante.
 
-###### Art. 85.º As carreiras de operador de central dessalinizadora e de auxiliar de topografia são de estrutura vertical, sendo de estrutura horizontal as restantes carreiras referidas no n.º 1 do artigo 83.º
+Art. 85.º As carreiras de operador de central dessalinizadora e de auxiliar de topografia são de estrutura vertical, sendo de estrutura horizontal as restantes carreiras referidas no n.º 1 do artigo 83.º
 
-###### Art. 86.º - 1 - O recrutamento para a categoria de encarregado de central dessalinizadora faz-se, mediante concurso, de entre operadores de central dessalinizadora principais com, pelo menos, três anos de serviço na categoria e classificação mínima de Bom.
+Art. 86.º - 1 - O recrutamento para a categoria de encarregado de central dessalinizadora faz-se, mediante concurso, de entre operadores de central dessalinizadora principais com, pelo menos, três anos de serviço na categoria e classificação mínima de Bom.
 
 2 - O recrutamento dos operadores de central dessalinizadora principais faz-se por concurso, de entre operadores de central dessalinizadora posicionados no 3.º escalão ou superior.
 
@@ -1293,15 +1393,15 @@ g) Pessoal operário.
 
 4 - Para efeitos do disposto no número anterior, considera-se habilitação profissional adequada a posse da carteira profissional de electricista ou de mecânico.
 
-###### Art. 87.º O recrutamento dos auxiliares de topografia principais faz-se, mediante concurso, de entre auxiliares de topografia posicionados no 3.º escalão ou superior.
+Art. 87.º O recrutamento dos auxiliares de topografia principais faz-se, mediante concurso, de entre auxiliares de topografia posicionados no 3.º escalão ou superior.
 
-###### Art. 88.º O recutamento para ingresso nas carreiras de auxiliar de topografia, operador de reprografia, auxiliar de cantina e cafetaria, auxiliar técnico e auxiliar de central dessalinizadora e para as categorias de auxiliar de limpeza e servente faz-se mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória.
+Art. 88.º O recutamento para ingresso nas carreiras de auxiliar de topografia, operador de reprografia, auxiliar de cantina e cafetaria, auxiliar técnico e auxiliar de central dessalinizadora e para as categorias de auxiliar de limpeza e servente faz-se mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 89.º - 1 - O recrutamento para a categoria de encarregado de armazéns faz-se, mediante concurso, de entre chefes de armazém com pelo menos três anos de serviço na categoria e classificação mínima de Bom.
+Art. 89.º - 1 - O recrutamento para a categoria de encarregado de armazéns faz-se, mediante concurso, de entre chefes de armazém com pelo menos três anos de serviço na categoria e classificação mínima de Bom.
 
 2 - O recrutamento para a categoria de chefe de armazém faz-se, por concurso, de entre fiéis de armazém posicionados no 4.º escalão ou superior.
 
-###### Art. 90.º - 1 - O recrutamento para ingresso nas carreiras de fiscal de obras públicas, fiel de armazém e cozinheiro faz-se, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória acrescida de habilitação profissional específica, devidamente comprovada, ou da permanência, durante pelo menos três anos, com classificação de Bom, no mínimo, na categoria de auxiliar.
+Art. 90.º - 1 - O recrutamento para ingresso nas carreiras de fiscal de obras públicas, fiel de armazém e cozinheiro faz-se, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória acrescida de habilitação profissional específica, devidamente comprovada, ou da permanência, durante pelo menos três anos, com classificação de Bom, no mínimo, na categoria de auxiliar.
 
 2 - O provimento nas categorias de auxiliar referidas na parte final do número anterior - auxiliar fiscal de obras públicas, auxiliar de fiel de armazém e auxiliar de cozinheiro - faz-se por contrato administrativo por um ano, renovável, sendo a respectiva selecção feita, por concurso, de entre indivíduos de idade não inferior a 18 anos e habilitados com a escolaridade obrigatória.
 
@@ -1309,44 +1409,44 @@ g) Pessoal operário.
 
 4 - Os indivíduos providos nos termos do n.º 2 deste artigo serão remunerados por índice correspondente ao do 1.º escalão da respectiva categoria de ingresso, deduzido de 15 pontos.
 
-###### Art. 91.º O recrutamento para ingresso na carreira de tractorista obedece às normas que para o mesmo efeito se encontram definidas no artigo 26.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426) para a carreira de motorista de ligeiros.
+Art. 91.º O recrutamento para ingresso na carreira de tractorista obedece às normas que para o mesmo efeito se encontram definidas no artigo 26.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426) para a carreira de motorista de ligeiros.
 
-###### Art. 92.º O recrutamento para ingresso na carreira de leitor-cobrador faz-se, mediante concurso, de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente.
+Art. 92.º O recrutamento para ingresso na carreira de leitor-cobrador faz-se, mediante concurso, de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente.
 
-###### Art. 93.º - 1 - Os funcionários providos na categoria de servente que reúnam as condições de tempo de serviço e habilitação previstos no artigo 30.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426) poderão ingressar nas categorias de base das carreiras de pessoal operário correspondentes às funções efectivamente exercidas, mediante aprovação em concurso de provas práticas de conhecimentos.
+Art. 93.º - 1 - Os funcionários providos na categoria de servente que reúnam as condições de tempo de serviço e habilitação previstos no artigo 30.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426) poderão ingressar nas categorias de base das carreiras de pessoal operário correspondentes às funções efectivamente exercidas, mediante aprovação em concurso de provas práticas de conhecimentos.
 
 2 - O tempo de serviço referido no número anterior é considerado como prestado na categoria de aprendiz, ajudante e praticante, exclusivamente para efeitos de ingresso nas categorias de base nas carreiras operárias.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 94.º Os organismos e serviços referidos no artigo 4.º instruem os processos relativos às matérias da sua competência, cabendo a direcção da instrução aos respectivos dirigentes.
+Art. 94.º Os organismos e serviços referidos no artigo 4.º instruem os processos relativos às matérias da sua competência, cabendo a direcção da instrução aos respectivos dirigentes.
 
-###### Art. 95.º As referências constantes de acto normativo ou administrativo ou de contrato à Direcção Regional de Ambiente e Urbanismo entendem-se feitas à Direcção Regional de Ambiente, à Direcção Regional de Urbanismo ou a ambas, em função das matérias que estiverem em causa.
+Art. 95.º As referências constantes de acto normativo ou administrativo ou de contrato à Direcção Regional de Ambiente e Urbanismo entendem-se feitas à Direcção Regional de Ambiente, à Direcção Regional de Urbanismo ou a ambas, em função das matérias que estiverem em causa.
 
-###### Art. 96.º - 1 - Os funcionários providos em lugares dos quadros a que se referem os mapas I, II, IV e V do anexo I ao [Decreto Regulamentar Regional n.º 27/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1989-262124) mantêm-se nos mesmos lugares dos correspondentes mapas do anexo I a este diploma.
+Art. 96.º - 1 - Os funcionários providos em lugares dos quadros a que se referem os mapas I, II, IV e V do anexo I ao [Decreto Regulamentar Regional n.º 27/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1989-262124) mantêm-se nos mesmos lugares dos correspondentes mapas do anexo I a este diploma.
 
 2 - Os funcionários providos em lugares do quadro a que se refere o mapa III do anexo I ao [Decreto Regulamentar Regional n.º 27/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1989-262124) transitam, nos termos da lei geral e por despacho do Secretário Regional do Equipamento Social e Ambiente, para os quadros a que se referem os mapas III e VI do anexo I ao presente diploma.
 
-###### Art. 97.º Os concursos pendentes à data da entrada em vigor deste decreto regulamentar regional mantêm a respectiva validade, sendo os lugares a prover os constantes dos quadros anexos ao presente diploma.
+Art. 97.º Os concursos pendentes à data da entrada em vigor deste decreto regulamentar regional mantêm a respectiva validade, sendo os lugares a prover os constantes dos quadros anexos ao presente diploma.
 
-###### Art. 98.º Sem prejuízo do disposto no artigo 80.º, n.º 4, fica revogado o [Decreto Regulamentar Regional n.º 27/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1989-262124), de 30 de Dezembro, bem como as Portarias n.os [59/91](https://diariodarepublica.pt/dr/detalhe/portaria/59-1991-500393), [191/91](https://diariodarepublica.pt/dr/detalhe/portaria/191-1991-457438), [97/92](https://diariodarepublica.pt/dr/detalhe/portaria/97-1992-158578) e [358/92](https://diariodarepublica.pt/dr/detalhe/portaria/358-1992-217713), de 24 de Abril, 29 de Agosto, 22 de Abril e 6 de Novembro, respectivamente.
+Art. 98.º Sem prejuízo do disposto no artigo 80.º, n.º 4, fica revogado o [Decreto Regulamentar Regional n.º 27/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1989-262124), de 30 de Dezembro, bem como as Portarias n.os [59/91](https://diariodarepublica.pt/dr/detalhe/portaria/59-1991-500393), [191/91](https://diariodarepublica.pt/dr/detalhe/portaria/191-1991-457438), [97/92](https://diariodarepublica.pt/dr/detalhe/portaria/97-1992-158578) e [358/92](https://diariodarepublica.pt/dr/detalhe/portaria/358-1992-217713), de 24 de Abril, 29 de Agosto, 22 de Abril e 6 de Novembro, respectivamente.
 
-###### Art. 99.º O presente diploma entra imediatamente em vigor.
+Art. 99.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 17 de Dezembro de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 5 de Janeiro de 1993.**
+Assinado em 5 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## Anexo I a que se refere o n.º 2 do artigo 80.º do Decreto Regulamentar Regional n.º 4-A/93/M
+Anexo I a que se refere o n.º 2 do artigo 80.º do Decreto Regulamentar Regional n.º 4-A/93/M
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/027b01/00020025.pdf))](https://files.diariodarepublica.pt/1s/1993/02/027b01/00020025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/027b01/00020025.pdf)
 
-## Anexo II a que se refere o artigo 84.º do Decreto Regulamentar Regional n.º 4-A/93/M
+Anexo II a que se refere o artigo 84.º do Decreto Regulamentar Regional n.º 4-A/93/M
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/027b01/00020025.pdf))](https://files.diariodarepublica.pt/1s/1993/02/027b01/00020025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/027b01/00020025.pdf)

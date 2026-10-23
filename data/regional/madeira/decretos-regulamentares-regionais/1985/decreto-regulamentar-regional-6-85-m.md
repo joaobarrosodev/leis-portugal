@@ -46,40 +46,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1985-327142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fd151589ad38392adc21e24140e952b5538de3bc535f571752c369b43c10feb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89baed2e950d70b4dc6f1551c1b343557cb791ed9b90e36674829c6f17f24697
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional do Equipamento Social
 relationships:
 - type: amended_by
   target: pt:dre:171550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:171550:por
+  label: "Alterados os artigos 4º, 5º e 16º pelo DRR.22/85/M.08.11.1985.GR-RAM, DR.IS [257] de 08.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-1985-171550
+  date: '1985-11-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A ESTRUTURA ORGÂNICA PELO DECRETO REGULAMENTAR REGIONAL 1/89/M, PUBLICADO NO DR.IS, 9, DE 890111.\0 890111."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-01-11'
+- type: cites
+  target: pt:dre:299006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678867:por
+  label: null
+  source: null
 article_structure:
-  article_count: 63
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 64
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:38Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +161,9 @@ Visa-se, assim, com o presente diploma dar cumprimento ao referido preceito, dot
 
 Assim, o Governo Regional da Madeira decreta nos termos da alínea b) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 31 de Abril, o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 A Secretaria Regional do Equipamento Social, abreviadamente designada por SRES, superiormente dirigida pelo Secretário Regional do Equipamento Social, é o departamento do Governo da Região Autónoma da Madeira a que se refere a alínea b) do n.º 2 do artigo 2.º do [Decreto Regional n.º 12/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1978-446142), de 21 de Fevereiro, e cujas atribuições e orgânica passam a ser as constantes do presente diploma e dos anexos que dele fizerem parte.
 
@@ -1286,7 +1353,9 @@ i) Dar parecer quanto a licenças para edificações ou reedificações a levar 
 
 j) Elaborar os relatórios que lhe forem solicitados superiormente, assim como o relatório anual sobre os serviços a seu cargo.
 
-###### Artigo 49.º — Divisão de Gestão Social
+###### Artigo 49.º
+
+##### Divisão de Gestão Social
 
 À Divisão de Gestão Social compete:
 
@@ -1302,7 +1371,9 @@ e) Executar os programas de realojamento de famílias abrangidas por obras de ur
 
 f) Acompanhar, na sua vivência, as famílias residentes em bairros ou zonas de construção da responsabilidade da Direcção Regional de Habitação Urbanismo e Ambiente.
 
-###### Artigo 50.º — Divisão de Gestão Patrimonial
+###### Artigo 50.º
+
+##### Divisão de Gestão Patrimonial
 
 À Divisão de Gestão Patrimonial compete:
 
@@ -1416,7 +1487,7 @@ As direcções regionais e de serviços e os gabinetes ou similares que constitu
 
 ###### Artigo 62.º
 
-**O Secretário Regional poderá incumbir os serviços e servidores a eles vinculados da satisfação de trabalhos que caibam no âmbito das respectivas especialidades.**
+O Secretário Regional poderá incumbir os serviços e servidores a eles vinculados da satisfação de trabalhos que caibam no âmbito das respectivas especialidades.
 
 ###### Artigo 63.º
 
@@ -1428,18 +1499,18 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 17 de Setembro de 1984.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 14 de Dezembro de 1984.**
+Assinado em 14 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04700/04670492.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04700/04670492.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04700/04670492.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04700/04670492.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04700/04670492.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04700/04670492.pdf)

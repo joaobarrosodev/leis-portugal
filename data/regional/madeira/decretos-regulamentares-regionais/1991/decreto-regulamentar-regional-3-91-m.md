@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/072b00/15951597.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/1991/03/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1991-621706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e118efbbf5d24d1ff8c59d94cef2b7fe017cebf26946cd5e41bd3611deb67b05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b81c451be2b57da36da0fa91a5fdd0cd384d35ad373648ce91447ad66ec4aa67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auditoria Jurídica
 - Direcção Regional de Segurança Social
 - Direcção Regional dos Hospitais
 - Gabinete do Secretário Regional dos Assuntos Sociais
-- Auditoria Jurídica
-- Pessoal Técnico Superior
 - Madeira.região Autónoma
+- Pessoal Técnico Superior
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:186538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:283539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662950:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:186538:por
+  label: "Revogado, na parte respeitante ao Gabinete, pelo DRR.8/92/M.24.03.1992.GR-RAM, DR.IS-B [70] de 24.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1992-186538
+  date: '1992-03-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:23Z'
   warnings: []
   errors: []
 ---
@@ -106,37 +139,37 @@ Em consequência, reveste o presente diploma carácter intercalar e parcelar na 
 
 Assim, o Governo Regional da Madeira decreta, nos termos do artigo 10.º do [Decreto Legislativo Regional n.º 6/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1989-612467), de 18 de Fevereiro, da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º É criado no Gabinete do Secretário Regional dos Assuntos Sociais, como órgão de apoio directo ao Secretário Regional, um gabinete de estudos e pareceres jurídicos, ao qual cabem funções exclusivas de mera consulta jurídica (emissão de pareceres e estudos jurídicos).
+Artigo 1.º É criado no Gabinete do Secretário Regional dos Assuntos Sociais, como órgão de apoio directo ao Secretário Regional, um gabinete de estudos e pareceres jurídicos, ao qual cabem funções exclusivas de mera consulta jurídica (emissão de pareceres e estudos jurídicos).
 
-###### Art. 2.º São igualmente criados gabinetes de estudos e pareceres jurídicos nas Direcções Regionais de Saúde Pública, de Segurança Social e dos Hospitais, como órgãos de apoio directo aos respectivos directores regionais, aos quais cabem funções exclusivas de mera consulta jurídica (emissão de pareceres e estudos jurídicos).
+Art. 2.º São igualmente criados gabinetes de estudos e pareceres jurídicos nas Direcções Regionais de Saúde Pública, de Segurança Social e dos Hospitais, como órgãos de apoio directo aos respectivos directores regionais, aos quais cabem funções exclusivas de mera consulta jurídica (emissão de pareceres e estudos jurídicos).
 
-###### Art. 3.º - 1 - O quadro de pessoal a integrar nos gabinetes ora criados é o constante do anexo I ao presente diploma, alterando-se em conformidade a redacção das Portarias n.os [129/87](https://diariodarepublica.pt/dr/detalhe/portaria/129-1987-662731), de 20 de Novembro, [132/87](https://diariodarepublica.pt/dr/detalhe/portaria/132-1987-662718), de 20 de Novembro, [133/87](https://diariodarepublica.pt/dr/detalhe/portaria/133-1987-662713), de 20 de Novembro, e [105/87](https://diariodarepublica.pt/dr/detalhe/portaria/105-1987-662950), de 24 de Setembro, que estabeleceram, respectivamente, os quadros de pessoal do Gabinete do Secretário e serviços de apoio, da Direcção Regional de Saúde Pública, da Direcção Regional de Segurança Social e da Direcção Regional dos Hospitais.
+Art. 3.º - 1 - O quadro de pessoal a integrar nos gabinetes ora criados é o constante do anexo I ao presente diploma, alterando-se em conformidade a redacção das Portarias n.os [129/87](https://diariodarepublica.pt/dr/detalhe/portaria/129-1987-662731), de 20 de Novembro, [132/87](https://diariodarepublica.pt/dr/detalhe/portaria/132-1987-662718), de 20 de Novembro, [133/87](https://diariodarepublica.pt/dr/detalhe/portaria/133-1987-662713), de 20 de Novembro, e [105/87](https://diariodarepublica.pt/dr/detalhe/portaria/105-1987-662950), de 24 de Setembro, que estabeleceram, respectivamente, os quadros de pessoal do Gabinete do Secretário e serviços de apoio, da Direcção Regional de Saúde Pública, da Direcção Regional de Segurança Social e da Direcção Regional dos Hospitais.
 
 2 - O quadro de pessoal da Direcção Regional dos Hospitais, estabelecido pela [Portaria n.º 105/87](https://diariodarepublica.pt/dr/detalhe/portaria/105-1987-662950), de 24 de Setembro, é igualmente alterado no que concerne à carreira técnica superior, passando a ser o constante do anexo II ao presente diploma.
 
-###### Art. 4.º - 1 - O pessoal que à data da entrada em vigor do presente diploma se encontre provido nos lugares da carreira de consultor jurídico dos quadros orgânicos do Gabinete do Secretário Regional dos Assuntos Sociais e das Direcções Regionais de Saúde Pública e de Segurança Social, estabelecidos, respectivamente, pelas Portarias n.os [129/87](https://diariodarepublica.pt/dr/detalhe/portaria/129-1987-662731), [132/87](https://diariodarepublica.pt/dr/detalhe/portaria/132-1987-662718) e [133/87](https://diariodarepublica.pt/dr/detalhe/portaria/133-1987-662713), todas de 20 de Novembro, transita para o quadro aprovado pelo n.º 1 do artigo anterior e constante do anexo I, de acordo com a tabela de equivalências fornecida pelo anexo III, sendo-lhe contado, para todos os efeitos legais, o tempo de serviço prestado na carreira e categorias anteriores.
+Art. 4.º - 1 - O pessoal que à data da entrada em vigor do presente diploma se encontre provido nos lugares da carreira de consultor jurídico dos quadros orgânicos do Gabinete do Secretário Regional dos Assuntos Sociais e das Direcções Regionais de Saúde Pública e de Segurança Social, estabelecidos, respectivamente, pelas Portarias n.os [129/87](https://diariodarepublica.pt/dr/detalhe/portaria/129-1987-662731), [132/87](https://diariodarepublica.pt/dr/detalhe/portaria/132-1987-662718) e [133/87](https://diariodarepublica.pt/dr/detalhe/portaria/133-1987-662713), todas de 20 de Novembro, transita para o quadro aprovado pelo n.º 1 do artigo anterior e constante do anexo I, de acordo com a tabela de equivalências fornecida pelo anexo III, sendo-lhe contado, para todos os efeitos legais, o tempo de serviço prestado na carreira e categorias anteriores.
 
 2 - O pessoal licenciado em Direito que à data da entrada em vigor do presente diploma esteja provido nos dois lugares da carreira técnica superior, a destacar, nos termos dos n.os 1 e 2 do artigo anterior, do quadro orgânico da Direcção Regional dos Hospitais, estabelecido pela [Portaria n.º 105/87](https://diariodarepublica.pt/dr/detalhe/portaria/105-1987-662950), de 24 de Setembro, transita para o quadro constante do anexo I, de acordo com a tabela de equivalências fornecida pelo anexo III, sendo-lhe contado, para todos os efeitos legais, o tempo de serviço prestado na carreira e categorias anteriores.
 
-###### Art. 5.º São revogados os artigos 4.º, n.os 1, alínea b), e 3, 8.º e 9.º do [Decreto Regulamentar Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1988-283539), de 21 de Janeiro, e a alínea b) do artigo 141.º do Regulamento da Direcção Regional dos Hospitais, aprovado por despacho de 4 de Maio de 1984.
+Art. 5.º São revogados os artigos 4.º, n.os 1, alínea b), e 3, 8.º e 9.º do [Decreto Regulamentar Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1988-283539), de 21 de Janeiro, e a alínea b) do artigo 141.º do Regulamento da Direcção Regional dos Hospitais, aprovado por despacho de 4 de Maio de 1984.
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 3 de Janeiro de 1991.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 24 de Janeiro de 1991.**
+Assinado em 24 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/072b00/15951597.pdf))](https://files.diariodarepublica.pt/1s/1991/03/072b00/15951597.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/072b00/15951597.pdf)
 
 ## ANEXO II — Quadro da carreira técnica superior da Direcção Regional dos Hospitais, a que se refere o n.º 2 do artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/072b00/15951597.pdf))](https://files.diariodarepublica.pt/1s/1991/03/072b00/15951597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/072b00/15951597.pdf)
 
 ## ANEXO III — Tabela de equivalências a que se referem os n.os 1 e 2 do artigo 4.º
 

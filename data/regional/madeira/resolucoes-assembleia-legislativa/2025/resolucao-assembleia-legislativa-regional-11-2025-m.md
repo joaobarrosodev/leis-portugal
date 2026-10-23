@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/11/2025/07/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/11-2025-927000227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52308b0745fbaec409377062678c8b23dd2edd7c597254fb659e567b1c942a2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8cd3ff3ab2eb44f660de18ab2c82119e0b6a73940c9bf0ac22992181ddfd0af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Assembleia Legislativa
 - Beneficiário
 - Estatuto da Aposentação
 - Iniciativa Legislativa
 - Invalidez
-- Assembleia Legislativa
+- Madeira.região Autónoma
 - Pensão de Invalidez
 - Pensão de Velhice
-- Proteção na Velhice
 - Prestações da Segurança Social
-- Madeira.região Autónoma
+- Proteção na Velhice
+- Região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167-e/2013/12/31/p/dre
@@ -104,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:164427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:48Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +190,7 @@ Não obstante, deve esta alteração prevenir situações de abuso, prevendo um 
 
 Toda a fundamentação que aqui se apresenta, por respeito ao princípio da igualdade e da equiparação, aplica-se ao regime de aposentação da Caixa Geral de Aposentações, I. P., previsto no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de dezembro, porque, à semelhança do disposto no regime de segurança social, o [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de dezembro, prevê no n.º 4 do artigo 37.º a possibilidade de se fixar, em diploma especial, limites de idade e tempo de serviço inferiores, dependendo dos casos.
 
-Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
+Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
 
 ###### Artigo 1.º — Objeto
 
@@ -198,7 +226,9 @@ b) Após 2014, à idade normal de acesso à pensão de velhice determinada no n�
 
 7 - O disposto no presente artigo não é aplicável quando se revelar prejudicial para os beneficiários da Região Autónoma da Madeira, por comparação com o resultado da aplicação do regime geral.
 
-###### Artigo 20.º-B — Beneficiário da Região Autónoma da Madeira
+Artigo 20.º-B
+
+Beneficiário da Região Autónoma da Madeira
 
 Para efeitos do disposto no artigo anterior, considera-se beneficiário da Região Autónoma da Madeira quem preencha cumulativamente os seguintes requisitos:
 
@@ -232,4 +262,6 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação e produz ef
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de julho de 2025.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119372417

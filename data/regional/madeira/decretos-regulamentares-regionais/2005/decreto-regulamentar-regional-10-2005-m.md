@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/076b00/30313044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2005/04/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2005-548431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5efffb2bf62b1d9ea47fdf55dee8e7c41d772ca3b5f0fad44417cbbbe81adc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c59b235c5be91c915c46b03419cd8d443c51cd016a4b35e0335f5e6427b2f678
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional do Plano e Finanças
 - Estatuto
-- Madeira.região Autónoma
 - Instituto de Gestão de Fundos Comunitários
+- Madeira.região Autónoma
+- Secretaria Regional do Plano e Finanças
 relationships:
 - type: amended_by
   target: pt:dre:456482:por
@@ -114,16 +114,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456482:por
+  label: "Revogado pelo DRR.15/2008/M.02.07.2008.PG-RAM, DR.IS [126] de 02.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2008-456482
+  date: '2008-07-02'
 article_structure:
   article_count: 34
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 34
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:09Z'
   warnings: []
   errors: []
 ---
@@ -170,13 +223,13 @@ O presente diploma produz efeitos no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 3 de Março de 2005.
 
-**O Presidente do Governo Regional, em exercício, Eduardo António Brazão de Castro.**
+O Presidente do Governo Regional, em exercício, Eduardo António Brazão de Castro.
 
-**Assinado em 21 de Março de 2005.**
+Assinado em 21 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — ESTATUTO DO INSTITUTO DE GESTÃO DE FUNDOS COMUNITÁRIOS
 
@@ -314,7 +367,9 @@ f) Exercer as demais competências que lhe sejam superiormente atribuídas.
 
 4 - Na dependência da DSAF funcionam a Divisão Administrativa e de Pessoal (DAP), a Divisão Financeira (DF) e a Divisão de Orçamento e Contabilidade (DOC).
 
-##### SUBSECÇÃO I — Divisão Administrativa e de Pessoal
+##### SUBSECÇÃO I
+
+##### Divisão Administrativa e de Pessoal
 
 ###### Artigo 7.º — Competências
 
@@ -384,7 +439,9 @@ d) Secção de Apoio Administrativo aos Fundos Comunitários.
 
 3 - A chefia da DAP corresponde a um cargo de direcção intermédia de 2.º grau designado por chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão Financeira
+##### SUBSECÇÃO II
+
+##### Divisão Financeira
 
 ###### Artigo 8.º — Competências
 
@@ -416,7 +473,9 @@ l) Exercer as demais competências que lhe sejam superiormente atribuídas.
 
 3 - A chefia da DF corresponde a um cargo de direcção intermédia de 2.º grau designado por chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão de Orçamento e Contabilidade
+##### SUBSECÇÃO III
+
+##### Divisão de Orçamento e Contabilidade
 
 ###### Artigo 9.º — Competências
 
@@ -486,7 +545,9 @@ c) Exercer as demais competências que lhe sejam superiormente atribuídas.
 
 4 - A chefia da DSC corresponde a um cargo de direcção intermédia de 1.º grau designado por director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Auditoria
+##### SUBSECÇÃO I
+
+##### Divisão de Auditoria
 
 ###### Artigo 11.º — Competências
 
@@ -512,7 +573,9 @@ i) Exercer as demais competências que lhe sejam superiormente atribuídas.
 
 2 - A chefia da DAU corresponde a um cargo de direcção intermédia de 2.º grau designado por chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão de Planeamento e Monitorização
+##### SUBSECÇÃO II
+
+##### Divisão de Planeamento e Monitorização
 
 ###### Artigo 12.º — Competências
 
@@ -582,7 +645,9 @@ o) Exercer as demais competências que lhe sejam superiormente atribuídas.
 
 4 - A chefia da DSGIR corresponde a um cargo de direcção intermédia de 1.º grau designado por director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Intervenções Regionais
+##### SUBSECÇÃO I
+
+##### Divisão de Intervenções Regionais
 
 ###### Artigo 14.º — Competências
 
@@ -616,7 +681,9 @@ n) Exercer as demais competências que lhe sejam superiormente atribuídas.
 
 2 - A chefia da DIR corresponde a um cargo de direcção intermédia de 2.º grau designado por chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão de Acompanhamento
+##### SUBSECÇÃO II
+
+##### Divisão de Acompanhamento
 
 ###### Artigo 15.º — Competências
 
@@ -648,7 +715,9 @@ m) Exercer as demais competências que lhe sejam superiormente atribuídas.
 
 2 - A chefia da DAC corresponde a um cargo de direcção intermédia de 2.º grau designado por chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão de Informação e Apoio à Gestão
+##### SUBSECÇÃO III
+
+##### Divisão de Informação e Apoio à Gestão
 
 ###### Artigo 16.º — Competências
 
@@ -724,7 +793,9 @@ j) Exercer as demais competências que lhe sejam superiormente atribuídas.
 
 4 - A chefia da DSAC corresponde a um cargo de direcção intermédia de 1.º grau designado por director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Avaliação
+##### SUBSECÇÃO I
+
+##### Divisão de Avaliação
 
 ###### Artigo 18.º — Competências
 
@@ -746,7 +817,9 @@ g) Exercer as demais competências que lhe sejam superiormente atribuídas.
 
 2 - A chefia da DA corresponde a um cargo de direcção intermédia de 2.º grau designado por chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão de Coordenação
+##### SUBSECÇÃO II
+
+##### Divisão de Coordenação
 
 ###### Artigo 19.º — Competências
 
@@ -774,7 +847,9 @@ j) Exercer as demais competências que lhe sejam superiormente atribuídas.
 
 2 - A chefia da DC corresponde a um cargo de direcção intermédia de 2.º grau designado por chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão de Informação e Publicidade
+##### SUBSECÇÃO III
+
+##### Divisão de Informação e Publicidade
 
 ###### Artigo 20.º — Competências
 
@@ -900,7 +975,7 @@ O recrutamento para o cargo de chefe de divisão da DF é alargado, nos termos d
 
 ###### Artigo 26.º — Transição de pessoal
 
-**O chefe da Secção de Pessoal e o chefe da Secção de Apoio Administrativo aos Fundos de Finalidade Estrutural transitam para chefe da Secção de Pessoal e Formação e chefe da Secção de Apoio Administrativo aos Fundos Comunitários, respectivamente, transição esta a ocorrer automaticamente com a entrada em vigor do presente diploma.**
+O chefe da Secção de Pessoal e o chefe da Secção de Apoio Administrativo aos Fundos de Finalidade Estrutural transitam para chefe da Secção de Pessoal e Formação e chefe da Secção de Apoio Administrativo aos Fundos Comunitários, respectivamente, transição esta a ocorrer automaticamente com a entrada em vigor do presente diploma.
 
 ###### Artigo 27.º — Carreira de tesoureiro-chefe
 

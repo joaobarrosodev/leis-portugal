@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2000/03/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2000-515259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99deb739be8e5610425cb269115da516a1ac238185fa787ccb80b16e457af885
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d4e840f55acbf09ad78de14adc35e32bd07746f2f6034e97ab0214a2e8371ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ subjects:
 - Centro de Juventude
 - Definição de Competências
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Política de Juventude
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Política de Juventude
 relationships:
 - type: cites
   target: celex:31985D0368
@@ -81,13 +81,13 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:29Z'
   warnings: []
   errors: []
 ---
@@ -290,11 +290,11 @@ Aprovado em Conselho do Governo Regional em 3 de Fevereiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 24 de Fevereiro de 2000.**
+Assinado em 24 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Do MAPA I ao MAPA IV
 

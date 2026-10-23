@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/10/1994/08/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/10-1994-225434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61add9b6a705f63fc6804158c86f24c755f8ab71d0b0348675bcb39be1b5ef31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ab97f31aaa9a6ac36f21d10cdaab17305cd59535e92b1eaff1b6e86741db9df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Desporto
 - Equipamento Desportivo
-- Terceira Idade
-- Tempos Livres
+- Madeira.região Autónoma
 - Pensionista
 - Política Cultural
-- Madeira.região Autónoma
-- Desporto
+- Tempos Livres
+- Terceira Idade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:37Z'
   warnings: []
   errors: []
 ---
@@ -102,18 +106,18 @@ Sendo bem conhecidas as dificuldades económicas, sociais e culturais dos pensio
 
 Assim, nos termos da alínea b) do n.º 1 do artigo 19.º e da alínea bb) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, a Assembleia Legislativa Regional resolve:
 
-###### Base I
+Base I
 
 A Região Autónoma da Madeira releva e louva as medidas e acções que se criem no sentido de tornar mais humana e digna a vida dos mais idosos e inválidos no seu território.
 
-###### Base II
+Base II
 
 O poder público deve promover isenções ou reduções nos preços e demais facilidades no acesso a actividades ou instalações culturais, desportivas ou recreativas da Região Autónoma da Madeira a pessoas que beneficiem de pensões de reforma, velhice ou invalidez.
 
-###### Base III
+Base III
 
 As diversas instituições sociais privadas da Região Autónoma da Madeira que promovam actividades de integração, adaptação ou ocupação dos tempos livres das pessoas referidas na base anterior devem ser incentivadas, compensadas e premiadas pelo poder público.
 
 Aprovada em sessão plenária da Assembleia legislativa Regional da Madeira em 29 de Junho de 1994.
 
-**O Presidente da Assembleia Legislativa Regional da Madeira, em exercício, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional da Madeira, em exercício, José Miguel Jardim d'Olival Mendonça.

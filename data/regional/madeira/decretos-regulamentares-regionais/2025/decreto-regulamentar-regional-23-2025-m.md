@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2025/12/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2025-962603410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bd6f9ce7d089d3ba6967c85713d1c28b353651737db4b1b7544a0261a2fb28f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a93ef119f0bbe3f013fcbad1ddbf8f5ad2bd61d8e407b99c0537ee85202d1953
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Campo de Golfe
-- Ordenamento do Território
 - Definição de Competências
 - Fiscalização
 - Golfe
-- Medidas Preventivas
 - Madeira.região Autónoma
+- Medidas Preventivas
+- Ordenamento do Território
 - Santana
-- Autarquia Local
-- Secretaria Regional dos Equipamentos e Infraestruturas
 - Secretaria Regional de Turismo Ambiente e Cultura
+- Secretaria Regional dos Equipamentos e Infraestruturas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2024/01/08/p/dre
@@ -118,16 +118,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/2017/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/2017/08/16/p/dre
+- type: cites
+  target: pt:dre:107573232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108001410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153138207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165129791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216512882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836222484:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:56Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +192,7 @@ Considerando que o objetivo de tais medidas preventivas é o de evitar que a alt
 
 Assim:
 
-O Governo Regional da Madeira decreta, ao abrigo das disposições conjugadas do artigo 52.º da [Lei n.º 31/2014](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), de 30 de maio, alterada pela [Lei n.º 74/2017](https://diariodarepublica.pt/dr/detalhe/lei/74-2017-108001410), de 16 de agosto, e pelos Decretos-Leis n.<sup>os</sup>[3/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2021-153138207), de 7 de janeiro, [52/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2021-165129791), de 15 de junho, e [10/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), de 8 de janeiro, do n.º 8 do artigo 108.º, do artigo 110.º e do n.º 4 do artigo 112.º, todos do [Decreto Legislativo Regional n.º 18/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2017-107573232), de 27 de junho, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[13/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2020-140346290), de 14 de agosto, e [34/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2023-216512882), de 1 de agosto, e ainda nos termos da alínea g) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+O Governo Regional da Madeira decreta, ao abrigo das disposições conjugadas do artigo 52.º da [Lei n.º 31/2014](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), de 30 de maio, alterada pela [Lei n.º 74/2017](https://diariodarepublica.pt/dr/detalhe/lei/74-2017-108001410), de 16 de agosto, e pelos Decretos-Leis n.os[3/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2021-153138207), de 7 de janeiro, [52/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2021-165129791), de 15 de junho, e [10/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), de 8 de janeiro, do n.º 8 do artigo 108.º, do artigo 110.º e do n.º 4 do artigo 112.º, todos do [Decreto Legislativo Regional n.º 18/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2017-107573232), de 27 de junho, alterado pelos Decretos Legislativos Regionais n.os[13/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2020-140346290), de 14 de agosto, e [34/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2023-216512882), de 1 de agosto, e ainda nos termos da alínea g) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -204,11 +248,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 20 de novembro de 2025.
 
-**O Secretário Regional do Turismo, Ambiente e Cultura, no exercício da presidência, António Eduardo de Freitas Jesus.**
+O Secretário Regional do Turismo, Ambiente e Cultura, no exercício da presidência, António Eduardo de Freitas Jesus.
 
-**Assinado em 2 de dezembro de 2025.**
+Assinado em 2 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -216,4 +260,7 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 (a que se refere o artigo 2.º)
 
-![](https://files.diariodarepublica.pt/images/962603410/958774534.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/962603410/958774534.png) |
+| --- |
+
+119840468

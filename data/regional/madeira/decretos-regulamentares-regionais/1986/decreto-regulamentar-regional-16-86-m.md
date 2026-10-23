@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1986-222601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c3180dcf707ab0573b9f52ab08c3c64ba8fb1e3ca6816fe7fcc1b2944f6bf26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a96e3d675cccb565944696ed7c9fd7428beadf371533a48ab8c9acf6b61cbf04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Regional de Agricultura
+- Estatuto da Vinha e do Vinho
+- Instituto do Vinho da Madeira
+- Licenciamento
+- Madeira.região Autónoma
+- Região Demarcada
+- Secretaria Regional da Economia
+- Vinha
+- Vinho
+- Vitivinicultor
 relationships:
 - type: amended_by
   target: pt:dre:66145304:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:261141:por
+  label: "Dada nova redação ao art. 9º pelo DRR.7/2013/M.14.05.2013.PG-RAM, DR.IS [92] de 14.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2013-261141
+  date: '2013-05-14'
+- type: cites
+  target: pt:dre:177644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546424:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66145304:por
+  label: Revogado, a partir de 10.01.2015, pelo(a) Decreto Legislativo Regional n.º 1-A/2015/M - Diário da República n.º 6/2015,
+    1º Suplemento, Série I de 2015-01-09, que o manteve, contudo, transitoriamente em vigor nos termos do disposto no seu
+    art. 32.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2015-66145304
+  date: '2015-01-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:40Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +137,7 @@ Nestes termos:
 
 O Governo Regional decreta, ao abrigo do artigo 229.º, alínea b), da Constituição da República Portuguesa e do artigo 33.º alínea b), do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º - 1 - Para efeitos da sua inscrição como viticultores, a que se refere o artigo 2.º do Estatuto da Vinha e do Vinho da Região, aprovado pelo [Decreto Regulamentar Regional n.º 20/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1985-177644), de 21 de Outubro, os detentores de vinhas de castas europeias e de produtores directos, qualquer que seja o destino da produção, cujo povoamento total ultrapasse os 50 pés de videira, sejam vinhas contínuas, em bardos, latadas e outras formas, seja vinha em bordadura, deverão efectuar uma declaração com indicação discriminada de todas as vinhas de sua propriedade ou de sua exploração, utilizando um impresso de modelo a acordar entre os Serviços Agrícolas da Direcção Regional de Agricultura (SADRA) e o Instituto do Vinho da Madeira (IVM).
+Artigo 1.º - 1 - Para efeitos da sua inscrição como viticultores, a que se refere o artigo 2.º do Estatuto da Vinha e do Vinho da Região, aprovado pelo [Decreto Regulamentar Regional n.º 20/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1985-177644), de 21 de Outubro, os detentores de vinhas de castas europeias e de produtores directos, qualquer que seja o destino da produção, cujo povoamento total ultrapasse os 50 pés de videira, sejam vinhas contínuas, em bardos, latadas e outras formas, seja vinha em bordadura, deverão efectuar uma declaração com indicação discriminada de todas as vinhas de sua propriedade ou de sua exploração, utilizando um impresso de modelo a acordar entre os Serviços Agrícolas da Direcção Regional de Agricultura (SADRA) e o Instituto do Vinho da Madeira (IVM).
 
 2 - A declaração a que se refere o número anterior deverá ser entregue nos SADRA ou na junta de freguesia da área de residência do declarante no prazo de 90 dias a contar da data da entrada em vigor do presente diploma.
 
@@ -108,23 +147,23 @@ O Governo Regional decreta, ao abrigo do artigo 229.º, alínea b), da Constitui
 
 5 - Os SADRA deverão promover, nos casos em que ainda não tenha sido efectuado, o cadastro e classificação das vinhas destinadas a vinho generoso da Madeira e fornecer ao IVM os elementos relativos a esse cadastro indispensáveis à acção de disciplina vinícola a seu cargo.
 
-###### Art. 2.º - 1 - Com base nas declarações de vinhas e suas alterações, a que se refere o artigo 1.º, os SADRA deverão proceder aos devidos apuramentos e actualizações anuais, com vista a conhecer-se regularmente, por freguesia e por proprietário e viticultor, o número de vinhas e videiras, seu destino, área e forma de exploração, bem como outros elementos de utilidade.
+Art. 2.º - 1 - Com base nas declarações de vinhas e suas alterações, a que se refere o artigo 1.º, os SADRA deverão proceder aos devidos apuramentos e actualizações anuais, com vista a conhecer-se regularmente, por freguesia e por proprietário e viticultor, o número de vinhas e videiras, seu destino, área e forma de exploração, bem como outros elementos de utilidade.
 
 2 - Em face dos elementos constantes das declarações de vinhas e das observações que interesse efectuar, será fornecido aos declarantes o respectivo cartão de viticultor, cujo modelo e termos de emissão e revalidação serão igualmente acordados entre os SADRA e o IVM, tendo em conta as suas necessidades.
 
 3 - O cartão de viticultor será apresentado ou referenciado em todos os actos relativos quer a vinhas quer ao vinho em que se verifique a intervenção dos organismos com acção na matéria, bem como das instituições de crédito em relação a operações de apoio e fomento do sector.
 
-###### Art. 3.º - 1 - Para efeitos deste diploma, consideram-se em situação regular, quanto à sua plantação, as vinhas de castas europeias pertencentes na totalidade às categorias das recomendadas ou autorizadas da lista geral de castas da Região e que tenham sido objecto das declarações a que se refere o artigo 1.º
+Art. 3.º - 1 - Para efeitos deste diploma, consideram-se em situação regular, quanto à sua plantação, as vinhas de castas europeias pertencentes na totalidade às categorias das recomendadas ou autorizadas da lista geral de castas da Região e que tenham sido objecto das declarações a que se refere o artigo 1.º
 
 2 - Os proprietários das vinhas nas condições a que se refere o número anterior poderão solicitar, em requerimento dirigido ao director regional de Agricultura, a emissão de documento comprovativo da legalidade da plantação.
 
-###### Art. 4.º - 1 - As vinhas de castas europeias que não se encontrem na situação a que se refere o n.º 1 do artigo 3.º deverão ser reestruturadas no prazo máximo de oito anos.
+Art. 4.º - 1 - As vinhas de castas europeias que não se encontrem na situação a que se refere o n.º 1 do artigo 3.º deverão ser reestruturadas no prazo máximo de oito anos.
 
 2 - Deverão igualmente ser reestruturadas ou reconvertidas no prazo máximo de oito anos as vinhas de produtores directos.
 
-###### Art. 5.º As vinhas que não se encontrem em situação regular por não constarem das declarações a que se refere o artigo 1.º ou porque, embora constando dessas declarações, não satisfaçam os requisitos e não sejam reestruturadas ou reconvertidas conforme o estipulado no artigo 4.º serão futuramente consideradas ilegais, sendo abrangidas pelo disposto no artigo 17.º
+Art. 5.º As vinhas que não se encontrem em situação regular por não constarem das declarações a que se refere o artigo 1.º ou porque, embora constando dessas declarações, não satisfaçam os requisitos e não sejam reestruturadas ou reconvertidas conforme o estipulado no artigo 4.º serão futuramente consideradas ilegais, sendo abrangidas pelo disposto no artigo 17.º
 
-###### Art. 6.º - 1 - Podem ser efectuadas livremente:
+Art. 6.º - 1 - Podem ser efectuadas livremente:
 
 a) A retancha ou replantação de bacelos ou de enxertos prontos nos primeiros seis anos após a plantação, para o preenchimento de falhas até então verificadas, em vinhas consideradas em situação regular ou em vinhas plantadas legalmente;
 
@@ -134,7 +173,7 @@ c) A plantação conduzida em ramadas ou parreiras, para fins ornamentais ou de 
 
 2 - As plantações destinadas a ensaios ou estudos por parte dos serviços da Secretaria Regional da Economia, em campos seus ou a estabelecer em colaboração com outras entidades oficiais ou privadas, podem ser efectuadas mediante despacho do Secretário Regional da Economia, sob parecer dos serviços competentes, o mesmo acontecendo com os campos de ensaio dos estabelecimentos de ensino agrícola.
 
-###### Art. 7.º - 1 - As plantações de vinhas não abrangidas pelo artigo 6.º carecem de autorização ou licença prévia da Secretaria Regional da Economia, através da Direcção Regional de Agricultura, mediante informação da Direcção dos Serviços Agrícolas.
+Art. 7.º - 1 - As plantações de vinhas não abrangidas pelo artigo 6.º carecem de autorização ou licença prévia da Secretaria Regional da Economia, através da Direcção Regional de Agricultura, mediante informação da Direcção dos Serviços Agrícolas.
 
 2 - Para efeitos de autorização ou licença considera-se:
 
@@ -144,7 +183,7 @@ b) Transferência ou substituição de vinha - a plantação, seguida de bacelos
 
 c) Vinha nova - a plantação a efectuar em terreno que não tenha vinha e sem compromisso de arranque de outra vinha.
 
-###### Art. 8.º As reestruturações ou reconstituições são autorizadas nas seguintes condições:
+Art. 8.º As reestruturações ou reconstituições são autorizadas nas seguintes condições:
 
 a) Que as vinhas a reestruturar tenham sido objecto das declarações a que se refere o artigo 1.º e que à data do pedido e subsequente vistoria existam, pelo menos, 50% das cepas do povoamento inicial e estas se encontrem dispersas por toda a área, constituindo vinha não abandonada;
 
@@ -152,7 +191,7 @@ b) Que a área a reestruturar seja a mesma do povoamento originário;
 
 c) Que a vinha a reestruturar se encontre em zonas que, devido às condições edafo-climáticas, são susceptíveis de produzir vinhos de qualidade ou onde outras culturas não tenham possibilidades económicas de exploração.
 
-###### Art. 9.º - 1 - As transferências ou substituições de vinhas são autorizadas nas seguintes condições:
+Art. 9.º - 1 - As transferências ou substituições de vinhas são autorizadas nas seguintes condições:
 
 a) Que as vinhas a transferir ou a substituir tenham sido objecto das declarações previstas no artigo 1.º e se localizem no mesmo concelho da vinha a arrancar;
 
@@ -162,38 +201,38 @@ c) Que a área ocupada pela vinha a plantar não seja superior à da anterior pl
 
 2 - Em todos os casos de transferência ou substituição de vinha, os povoamentos originários terão de ser arrancados no decurso de três anos culturais posteriores à concessão das respectivas licenças.
 
-###### Art. 10.º As novas plantações, a que se refere o artigo 3.º do Estatuto da Vinha e do Vinho da Região Autónoma da Madeira, poderão ser autorizadas no âmbito do plano regional de reestruturação e reconversão dos vinhedos, quando destinadas à produção de vinhos de qualidade, em face de parecer favorável dos SADRA e do IVM, e deverão obedecer às normas técnicas e outros condicionalismos constantes do referido artigo e seguintes.
+Art. 10.º As novas plantações, a que se refere o artigo 3.º do Estatuto da Vinha e do Vinho da Região Autónoma da Madeira, poderão ser autorizadas no âmbito do plano regional de reestruturação e reconversão dos vinhedos, quando destinadas à produção de vinhos de qualidade, em face de parecer favorável dos SADRA e do IVM, e deverão obedecer às normas técnicas e outros condicionalismos constantes do referido artigo e seguintes.
 
-###### Art. 11.º É proibida a plantação de híbridos produtores directos e de produtores directos.
+Art. 11.º É proibida a plantação de híbridos produtores directos e de produtores directos.
 
-###### Art. 12.º A plantação de vinhas para a produção de uva de mesa e passa, bem como exigências com elas relacionadas, obedecerá às disposições que forem estabelecidas por portaria do Secretário Regional da Economia.
+Art. 12.º A plantação de vinhas para a produção de uva de mesa e passa, bem como exigências com elas relacionadas, obedecerá às disposições que forem estabelecidas por portaria do Secretário Regional da Economia.
 
-###### Art. 13.º - 1 - Os requerimentos para obtenção de autorização ou licença de plantação de vinha deverão ser feitos pelos proprietários ou seus legais representantes, dirigidos ao director regional de Agricultura e entregues nos serviços agrícolas regionais.
+Art. 13.º - 1 - Os requerimentos para obtenção de autorização ou licença de plantação de vinha deverão ser feitos pelos proprietários ou seus legais representantes, dirigidos ao director regional de Agricultura e entregues nos serviços agrícolas regionais.
 
 2 - Os requerimentos que não sejam entregues até ao dia 15 de Setembro de cada ano só serão apreciados no ano seguinte após aquela data.
 
 3 - As licenças de plantação deverão ser utilizadas no prazo de três anos após a sua concessão, findo o qual caducarão, salvo em casos justificados, em que, a requerimento dos interessados, antes de findo aquele prazo, poderão ser renovadas por uma só vez e igual período.
 
-###### Art. 14.º Os proprietários que pretendam arrancar as suas vinhas, mantendo o direito para futuras plantações, poderão solicitar o registo das vinhas a arrancar, pelo que deverão também dirigir o necessário requerimento nos termos do artigo anterior.
+Art. 14.º Os proprietários que pretendam arrancar as suas vinhas, mantendo o direito para futuras plantações, poderão solicitar o registo das vinhas a arrancar, pelo que deverão também dirigir o necessário requerimento nos termos do artigo anterior.
 
-###### Art. 15.º Da decisão proferida sobre os requerimentos a solicitar autorizações relacionadas com plantações de vinhas cabe recurso hierárquico, a interpor no prazo de 30 dias, directamente para o Secretário Regional da Economia.
+Art. 15.º Da decisão proferida sobre os requerimentos a solicitar autorizações relacionadas com plantações de vinhas cabe recurso hierárquico, a interpor no prazo de 30 dias, directamente para o Secretário Regional da Economia.
 
-###### Art. 16.º São consideradas vinhas em situação irregular todas as vinhas plantadas após a entrada em vigor do presente diploma sem a necessária autorização.
+Art. 16.º São consideradas vinhas em situação irregular todas as vinhas plantadas após a entrada em vigor do presente diploma sem a necessária autorização.
 
-###### Art. 17.º As vinhas em situação irregular e cuja regularização não foi efectuada ficam sujeitas ao disposto no artigo 10.º do [Decreto-Lei n.º 504-I/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-i-1985-250617), de 30 de Dezembro.
+Art. 17.º As vinhas em situação irregular e cuja regularização não foi efectuada ficam sujeitas ao disposto no artigo 10.º do [Decreto-Lei n.º 504-I/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-i-1985-250617), de 30 de Dezembro.
 
-###### Art. 18.º A falta de apresentação ou a falsidade no preenchimento das declarações de vinhas a que se referem os n.os 1 e 2 do artigo 1.º do presente diploma, bem como a inobservância do estabelecido no n.º 3 do mesmo artigo, ficam sujeitas ao disposto no artigo 12.º do [Decreto-Lei n.º 504-I/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-i-1985-250617), de 30 de Dezembro.
+Art. 18.º A falta de apresentação ou a falsidade no preenchimento das declarações de vinhas a que se referem os n.os 1 e 2 do artigo 1.º do presente diploma, bem como a inobservância do estabelecido no n.º 3 do mesmo artigo, ficam sujeitas ao disposto no artigo 12.º do [Decreto-Lei n.º 504-I/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-i-1985-250617), de 30 de Dezembro.
 
-###### Art. 19.º Por portaria do Secretário Regional da Economia serão estabelecidas as disposições regulamentares necessárias à execução deste diploma.
+Art. 19.º Por portaria do Secretário Regional da Economia serão estabelecidas as disposições regulamentares necessárias à execução deste diploma.
 
-###### Art. 20.º O prazo indicado no n.º 2 do artigo 1.º poderá ser prorrogado por despacho do Secretário Regional da Economia.Art. 21.º Este diploma entra em vigor 30 dias após a sua publicação.
+Art. 20.º O prazo indicado no n.º 2 do artigo 1.º poderá ser prorrogado por despacho do Secretário Regional da Economia.Art. 21.º Este diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em Conselho do Governo Regional em 17 de Julho de 1986.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 31 de Julho de 1986.**
+Assinado em 31 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

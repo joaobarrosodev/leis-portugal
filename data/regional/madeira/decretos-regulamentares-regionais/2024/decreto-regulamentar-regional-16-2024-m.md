@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2024/08/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2024-885361661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a221d57d03f274e84da9aebe7c4ac6babc2cc470846a338b42def66b85cec82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9442e49a2d75eb4dcdf19bb4e86fcac4a67c8f92a30fd1a097bb53b90b5384f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Secretaria Regional da Agricultura Pescas e Ambiente
-- Instituto do Vinho Bordado e do Artesanato da Madeira
 - Arm-águas e Resíduos da Madeira
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Instituto das Florestas e Conservação da Natureza
+- Instituto do Vinho Bordado e do Artesanato da Madeira
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Regional da Agricultura Pescas e Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:935613494:por
@@ -119,16 +119,182 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105643550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114513613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205450899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74443081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:837135338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:848804210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:935613494:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 13/2025/M - Diário da República n.º 179/2025, Série I de 2025-09-17,
+    nos termos do n.º 2 do artigo 23.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2025-935613494
+  date: '2025-09-17'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:3/2024/M
+  label: Revoga, a partir de 24 de agosto de 2024 e nos termos do n.º 2 do artigo 27.º, o Decreto Regulamentar Regional n.º
+    3/2024/M - Diário da República n.º 14/2024, Série I de 2024-01-19
+  source: null
+  date: '2024-01-19'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:9/2024/M
+  label: Revoga, a partir de 24 de agosto de 2024, o Decreto Regulamentar Regional n.º 9/2024/M - Diário da República n.º
+    32/2024, Série I de 2024-02-14
+  source: null
+  date: '2024-02-14'
 article_structure:
   article_count: 28
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:41Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +309,7 @@ A este departamento do Governo Regional foram cometidas atribuições nos setore
 
 Atentas as atribuições que foram cometidas à Secretaria Regional de Agricultura, Pescas e Ambiente, que agrega todas as competências da anteriormente designada Secretaria Regional de Agricultura e Ambiente, cuja orgânica foi aprovada pelo [Decreto Regulamentar Regional n.º 9/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-848804210), de 14 de fevereiro, e as competências nos setores das pescas e aquicultura, do mar e economia azul, da coordenação da política regional do mar e articulação com as demais entidades competentes, bem como da gestão dos fundos comunitários de mar e pescas da extinta Secretaria Regional de Economia, Mar e Pescas, cuja orgânica foi aprovada pelo [Decreto Regulamentar Regional n.º 3/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2024-837135338), de 19 de janeiro, sucedendo a estes departamentos regionais, impõe-se aprovar a orgânica da Secretaria Regional de Agricultura, Pescas e Ambiente de acordo com esta nova realidade, por forma a dotar este departamento de uma estrutura dinâmica, apta a prosseguir as funções que deve assegurar, com vista a garantir a necessária eficiência e eficácia no cumprimento da respetiva missão.
 
-Assim, nos termos dos n.<sup>os</sup>1 e 2 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, do n.º 3 do artigo 56.º, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos dos n.os1 e 2 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, do n.º 3 do artigo 56.º, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E COMPETÊNCIAS
 
@@ -329,7 +495,7 @@ a) ARM - Águas e Resíduos da Madeira, S. A.;
 
 b) CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM;
 
-c) GESBA - Empresa de Gestão do Setor da Banana, L.<sup>da</sup>
+c) GESBA - Empresa de Gestão do Setor da Banana, L.da
 
 ### CAPÍTULO III — DOS SERVIÇOS
 
@@ -387,7 +553,7 @@ i) Exercer as demais funções que lhe forem cometidas e ou delegadas pelo Secre
 
 1 - A organização interna do Gabinete do Secretário Regional obedece ao modelo de estrutura hierarquizada, compreendendo as unidades orgânicas nucleares e flexíveis, bem como as secções ou áreas de coordenação a que se refere o n.º 2 do artigo anterior.
 
-2 - A organização interna a que se refere o número anterior é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro.
+2 - A organização interna a que se refere o número anterior é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro.
 
 ##### SUBSECÇÃO II — MISSÃO DOS SERVIÇOS EXECUTIVOS
 
@@ -427,7 +593,7 @@ i) Exercer as demais funções que lhe forem cometidas e ou delegadas pelo Secre
 
 ###### Artigo 15.º — Instituto das Florestas e Conservação da Natureza, IP-RAM
 
-1 - O Instituto das Florestas e Conservação da Natureza, IP-RAM, abreviadamente designado por IFCN, IP-RAM, criado pelo [Decreto Legislativo Regional n.º 21/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2016-74443081), de 13 de maio, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[42/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2016-105643550), de 29 de dezembro, e [3/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2018-114513613), de 12 de janeiro, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão promover a conservação da natureza, o ordenamento e a gestão sustentável da bio e geodiversidade, da paisagem e da floresta, bem como dos recursos a ela associados e ainda a gestão das áreas protegidas.
+1 - O Instituto das Florestas e Conservação da Natureza, IP-RAM, abreviadamente designado por IFCN, IP-RAM, criado pelo [Decreto Legislativo Regional n.º 21/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2016-74443081), de 13 de maio, alterado pelos Decretos Legislativos Regionais n.os[42/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2016-105643550), de 29 de dezembro, e [3/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2018-114513613), de 12 de janeiro, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão promover a conservação da natureza, o ordenamento e a gestão sustentável da bio e geodiversidade, da paisagem e da floresta, bem como dos recursos a ela associados e ainda a gestão das áreas protegidas.
 
 2 - O IFCN, IP-RAM, é dirigido por um conselho diretivo, composto por um presidente e por dois vogais, equiparados, respetivamente, a cargos de direção superior de 1.º grau e de 2.º grau.
 
@@ -441,7 +607,7 @@ i) Exercer as demais funções que lhe forem cometidas e ou delegadas pelo Secre
 
 ###### Artigo 17.º — Sistema centralizado de gestão de recursos humanos
 
-1 - Para a gestão do pessoal a SRAPA adota, nos termos dos artigos 6.º a 9.º do [Decreto Legislativo Regional n.º 11/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), de 3 de agosto, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[1-A/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), de 31 de janeiro, [28-A/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), de 30 de dezembro, e [26/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), de 29 de dezembro, o sistema centralizado de gestão de recursos humanos, doravante designado por sistema centralizado de gestão, nos seguintes órgãos e serviços da administração direta:
+1 - Para a gestão do pessoal a SRAPA adota, nos termos dos artigos 6.º a 9.º do [Decreto Legislativo Regional n.º 11/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), de 3 de agosto, alterado pelos Decretos Legislativos Regionais n.os[1-A/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), de 31 de janeiro, [28-A/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2021-176800365), de 30 de dezembro, e [26/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), de 29 de dezembro, o sistema centralizado de gestão de recursos humanos, doravante designado por sistema centralizado de gestão, nos seguintes órgãos e serviços da administração direta:
 
 a) Gabinete do Secretário Regional;
 
@@ -477,7 +643,7 @@ ii) Aos trabalhadores dos serviços referidos no número anterior com vínculo d
 
 ###### Artigo 18.º — Carreiras subsistentes
 
-1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador e de chefe de departamento é o constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de agosto, objeto da [Declaração de Retificação n.º 15-I/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), de 30 de setembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[16/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088), de 15 de julho, e [4/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2005-547063), de 15 de abril, sendo-lhes aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas Leis n.<sup>os</sup>[64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, [66/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513) de 31 de dezembro, e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, pelo [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, e pelas Leis n.<sup>os</sup>[35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, e [80/2017](https://diariodarepublica.pt/dr/detalhe/lei/80-2017-108021175), de 18 de agosto.
+1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador e de chefe de departamento é o constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de agosto, objeto da [Declaração de Retificação n.º 15-I/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), de 30 de setembro, alterado pelos Decretos Legislativos Regionais n.os[16/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088), de 15 de julho, e [4/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2005-547063), de 15 de abril, sendo-lhes aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas Leis n.os[64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, [66/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513) de 31 de dezembro, e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro, pelo [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, e pelas Leis n.os[35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, e [80/2017](https://diariodarepublica.pt/dr/detalhe/lei/80-2017-108021175), de 18 de agosto.
 
 2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da [Lei n.º 75/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-2014-56747377), de 12 de setembro.
 
@@ -527,7 +693,7 @@ b) Nas alíneas a) e b) do n.º 1 e no n.º 2 do artigo 2.º e nos artigos 3.º 
 
 5 - Para além do vertido no número anterior, transitam ainda para a Direção Regional do Ambiente e Mar, sem dependência de quaisquer formalidades, os trabalhadores que, não se encontrando integrados nas unidades orgânicas referidas no número anterior, se encontrem integrados em postos de trabalho relativos a atribuições que transitam para esta Direção Regional indicadas na alínea b) do n.º 1 do artigo 20.º
 
-6 - Sem prejuízo do disposto nos n.<sup>os</sup>4 e 5, até à entrada em vigor dos diplomas que aprovam a organização interna dos serviços da Direção Regional do Ambiente e Mar que se refere o n.º 2 do artigo 21.º, mantêm-se nesta Direção Regional, incluindo o respetivo pessoal, as unidades orgânicas nucleares e flexíveis previstas na Portaria n.º 658/2020, de 15 de outubro, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 194, de 15 de outubro de 2020, e no Despacho n.º 402/2020, de 19 de outubro, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 195, de 19 de outubro de 2020, bem como as comissões de serviço dos respetivos titulares de cargos dirigentes das unidades orgânicas neles previstos.
+6 - Sem prejuízo do disposto nos n.os4 e 5, até à entrada em vigor dos diplomas que aprovam a organização interna dos serviços da Direção Regional do Ambiente e Mar que se refere o n.º 2 do artigo 21.º, mantêm-se nesta Direção Regional, incluindo o respetivo pessoal, as unidades orgânicas nucleares e flexíveis previstas na Portaria n.º 658/2020, de 15 de outubro, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 194, de 15 de outubro de 2020, e no Despacho n.º 402/2020, de 19 de outubro, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 195, de 19 de outubro de 2020, bem como as comissões de serviço dos respetivos titulares de cargos dirigentes das unidades orgânicas neles previstos.
 
 7 - Mantém-se a comissão de serviço do atual titular do cargo de diretor regional de Pescas e Mar, agora renomeado para diretor regional de Pescas.
 
@@ -539,9 +705,9 @@ b) Nas alíneas a) e b) do n.º 1 e no n.º 2 do artigo 2.º e nos artigos 3.º 
 
 2 - Até à entrada em vigor dos novos diplomas orgânicos, mantêm-se em vigor, com as devidas adaptações, os atuais diplomas orgânicos dos serviços objeto das reestruturações previstas no número anterior, incluindo os relativos à sua organização interna.
 
-3 - A reestruturação da Direção Regional de Agricultura e Desenvolvimento Rural e a reestruturação do Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM, previstas nas alíneas c) e d) do n.º 1 do artigo 20.º, respetivamente, produzem efeitos com a entrada em vigor do diploma que proceder à alteração do [Decreto Legislativo Regional n.º 5/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2013-257860), de 5 de fevereiro, mantendo-se até então a estrutura interna existente, designadamente, no que diz respeito à Direção Regional de Agricultura e Desenvolvimento Rural, a decorrente das alterações introduzidas com a entrada em vigor do [Decreto Regulamentar Regional n.º 9/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-848804210), de 14 de fevereiro, nomeadamente nos n.<sup>os</sup>3 a 6 do artigo 20.º e no n.º 4 do artigo 21.º desse diploma.
+3 - A reestruturação da Direção Regional de Agricultura e Desenvolvimento Rural e a reestruturação do Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM, previstas nas alíneas c) e d) do n.º 1 do artigo 20.º, respetivamente, produzem efeitos com a entrada em vigor do diploma que proceder à alteração do [Decreto Legislativo Regional n.º 5/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2013-257860), de 5 de fevereiro, mantendo-se até então a estrutura interna existente, designadamente, no que diz respeito à Direção Regional de Agricultura e Desenvolvimento Rural, a decorrente das alterações introduzidas com a entrada em vigor do [Decreto Regulamentar Regional n.º 9/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-848804210), de 14 de fevereiro, nomeadamente nos n.os3 a 6 do artigo 20.º e no n.º 4 do artigo 21.º desse diploma.
 
-4 - A reestruturação da Direção Regional de Veterinária e Bem-Estar Animal, prevista na alínea a) do n.º 2 do artigo 20.º, produz efeitos com a entrada em vigor do respetivo diploma orgânico, mantendo-se até então a estrutura interna decorrente das alterações introduzidas com a entrada em vigor do [Decreto Regulamentar Regional n.º 9/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-848804210), de 14 de fevereiro, designadamente nos n.<sup>os</sup>3 a 6 do artigo 20.º e no n.º 4 do artigo 21.º desse diploma.
+4 - A reestruturação da Direção Regional de Veterinária e Bem-Estar Animal, prevista na alínea a) do n.º 2 do artigo 20.º, produz efeitos com a entrada em vigor do respetivo diploma orgânico, mantendo-se até então a estrutura interna decorrente das alterações introduzidas com a entrada em vigor do [Decreto Regulamentar Regional n.º 9/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-848804210), de 14 de fevereiro, designadamente nos n.os3 a 6 do artigo 20.º e no n.º 4 do artigo 21.º desse diploma.
 
 5 - A reestruturação da Direção Regional do Ordenamento do Território, prevista na alínea b) do n.º 2 do artigo 20.º, produz efeitos com a entrada em vigor do respetivo diploma orgânico.
 
@@ -551,11 +717,11 @@ b) Nas alíneas a) e b) do n.º 1 e no n.º 2 do artigo 2.º e nos artigos 3.º 
 
 1 - Até à entrada em vigor dos diplomas que aprovam a organização interna dos serviços do Gabinete do Secretário Regional, a que se refere o n.º 2 do artigo 9.º, mantêm-se apenas em vigor neste Gabinete as unidades orgânicas, incluindo o respetivo pessoal, bem como as comissões de serviço dos respetivos titulares de cargos dirigentes, previstas nos seguintes diplomas:
 
-a) Na alínea a) do n.º 1 do artigo 2.º e nos artigos 3.º e 4.º da Portaria n.º 50/2020, de 28 de fevereiro, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 36, de 28 de fevereiro de 2020, alterada pelas Portarias n.<sup>os</sup>106/2020, de 31 de março, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 60, de 31 de março de 2020, e 380/2022, de 20 de julho, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 127, de 20 de julho de 2022;
+a) Na alínea a) do n.º 1 do artigo 2.º e nos artigos 3.º e 4.º da Portaria n.º 50/2020, de 28 de fevereiro, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 36, de 28 de fevereiro de 2020, alterada pelas Portarias n.os106/2020, de 31 de março, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 60, de 31 de março de 2020, e 380/2022, de 20 de julho, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 127, de 20 de julho de 2022;
 
 b) Na alínea b) do artigo 2.º e no artigo 4.º da Portaria n.º 191/2020, de 6 de maio, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 85, suplemento, de 6 de maio de 2020;
 
-c) Na alínea a) do n.º 1 e nos n.<sup>os</sup> 2, 3 e 4 do artigo 2.º e nos artigos 3.º, 6.º, 7.º e 8.º do Despacho n.º 134/2020, de 2 de abril, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 65, de 2 de abril de 2020, alterado pelos Despachos n.<sup>os</sup>267/2021, de 16 de julho, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 125, de 16 de julho de 2021, e 407/2022, de 23 de novembro, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 219, 3.º suplemento, de 23 de novembro de 2022; e
+c) Na alínea a) do n.º 1 e nos n.os 2, 3 e 4 do artigo 2.º e nos artigos 3.º, 6.º, 7.º e 8.º do Despacho n.º 134/2020, de 2 de abril, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 65, de 2 de abril de 2020, alterado pelos Despachos n.os267/2021, de 16 de julho, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 125, de 16 de julho de 2021, e 407/2022, de 23 de novembro, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 219, 3.º suplemento, de 23 de novembro de 2022; e
 
 d) Nos artigos 2.º, 3.º e 4.º do Despacho n.º 173/2020, de 12 de maio, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 91, suplemento, de 12 de maio de 2020.
 
@@ -615,11 +781,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 8 de agosto de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 20 de agosto de 2024.**
+Assinado em 20 de agosto de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -647,3 +813,7 @@ Dotação de lugares de cargos de direção intermédia de 1.º grau dependentes
 |  | Número de lugares |
 | --- | --- |
 | Cargos de direção intermédia de 1.º grau | 4 |
+
+118039416
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { text-indent:0px; text-align:center; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { text-indent:0px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

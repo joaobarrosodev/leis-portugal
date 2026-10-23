@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/18000/24062408.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1985-180608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0afed7c6d9afdb424cc91063955798c78bc1a2f2b85be8157f84d0b274887656
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 860db9f4af97c78b19e5e20b0d1b13483ce86642cf7682dfd3a473cdc81cd578
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inspecção Regional de Espectáculos
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:549997:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454039:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:549997:por
+  label: "Revogado pelo DRR.23/89/M.09.11.1989.GR-RAM, DR.IS [258] de 09.11.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-1989-549997
+  date: '1989-11-09'
 article_structure:
-  article_count: 1
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:33Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +134,9 @@ O Governo Regional decreta, ao abrigo da alínea b) do artigo 229.º da Constitu
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Inspecção Regional de Espectáculos, abreviadamente designada por IRE, é o órgão de superintendência e fiscalização dos sectores dos espectáculos e divertimentos públicos da Região Autónoma da Madeira, que funciona na dependência directa do Secretário Regional do Turismo e Cultura.
+Artigo 1.º A Inspecção Regional de Espectáculos, abreviadamente designada por IRE, é o órgão de superintendência e fiscalização dos sectores dos espectáculos e divertimentos públicos da Região Autónoma da Madeira, que funciona na dependência directa do Secretário Regional do Turismo e Cultura.
 
-###### Art. 2.º À Inspecção Regional de Espectáculos compete:
+Art. 2.º À Inspecção Regional de Espectáculos compete:
 
 a) Fiscalizar o cumprimento da legislação sobre espectáculos e divertimentos públicos;
 
@@ -110,7 +146,7 @@ c) Propor o encerramento de recintos de espectáculos e divertimentos públicos 
 
 d) Estudar e propor as decisões respeitantes à afectação a fins diferentes da exploração teatral de recintos licenciados como teatros e cine-teatros.
 
-###### Art. 3.º - 1 - A Inspecção Regional de Espectáculos é dirigida pelo inspector regional, ao qual compete:
+Art. 3.º - 1 - A Inspecção Regional de Espectáculos é dirigida pelo inspector regional, ao qual compete:
 
 a) Presidir ao conselho técnico;
 
@@ -126,7 +162,7 @@ e) Executar tudo o mais que lhe for expressamente cometido por leis e regulament
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 4.º A Inspecção Regional de Espectáculos compreende os seguintes órgãos;
+Art. 4.º A Inspecção Regional de Espectáculos compreende os seguintes órgãos;
 
 a) Conselho técnico;
 
@@ -138,7 +174,7 @@ d) Repartição Administrativa.
 
 #### SECÇÃO I — Conselho técnico
 
-###### Art. 5.º - 1 - O conselho técnico é o órgão de consulta para o sector dos espectáculos, que tem a seguinte composição:
+Art. 5.º - 1 - O conselho técnico é o órgão de consulta para o sector dos espectáculos, que tem a seguinte composição:
 
 a) O inspector regional de Espectáculos, que presidirá;
 
@@ -156,13 +192,13 @@ f) Um representante da Direcção Regional dos Desportos, sempre que o conselho 
 
 3 - Os elementos referidos nas alíneas b), c), d) e f) do n.º 1 serão designados pelos respectivos secretários regionais.
 
-###### Art. 6.º Ao conselho técnico compete:
+Art. 6.º Ao conselho técnico compete:
 
 a) Dar parecer sobre projectos de construção, adaptação ou alteração dos recintos de espectáculos ou divertimentos públicos e nos demais casos que lhe devem ser submetidos;
 
 b) Realizar vistorias a todos os recintos de espectáculos e divertimentos públicos, com vista a verificar o cumprimento das disposições legais aplicáveis e, de um modo particular, as que se referem à manutenção das condições técnicas e de segurança.
 
-###### Art. 7.º - 1 - Da decisão desfavorável do conselho técnico caberá recurso para o Secretário Regional do Turismo e Cultura, que submeterá o processo a uma comissão de revisão, cuja composição será a seguinte:
+Art. 7.º - 1 - Da decisão desfavorável do conselho técnico caberá recurso para o Secretário Regional do Turismo e Cultura, que submeterá o processo a uma comissão de revisão, cuja composição será a seguinte:
 
 a) Um engenheiro assessor da Secretaria Regional do Equipamento Social, que presidirá;
 
@@ -172,9 +208,11 @@ c) Um engenheiro da Direcção de Serviços de Urbanismo e Ambiente.
 
 2 - Os elementos referidos no número anterior serão designados pelos respectivos secretários regionais.
 
-#### SECÇÃO II — Divisão de Inspecção o Contencioso
+#### SECÇÃO II
 
-###### Art. 8.º À Divisão de Inspecção e Contencioso compete:
+##### Divisão de Inspecção o Contencioso
+
+Art. 8.º À Divisão de Inspecção e Contencioso compete:
 
 a) Orientar e coordenar os serviços de inspecção;
 
@@ -190,7 +228,7 @@ f) Instruir os processos de infracções que forem verificados pela Inspecção 
 
 #### SECÇÃO III — Repartição Administrativa
 
-###### Art. 9.º A Repartição Administrativa é o órgão que exerce a superintendência administrativa e financeira da Inspecção Regional de Espectáculos, à qual compete:
+Art. 9.º A Repartição Administrativa é o órgão que exerce a superintendência administrativa e financeira da Inspecção Regional de Espectáculos, à qual compete:
 
 a) Executar o serviço de expediente geral e prestar aos órgãos e serviços o apoio técnico e administrativo;
 
@@ -202,7 +240,7 @@ d) Assegurar a gestão do património existente, zelando pela conservação das 
 
 e) Desempenhar outras funções de natureza administrativa de que seja superiormente incumbida.
 
-###### Art. 10.º A Repartição Administrativa compreende os seguintes serviços:
+Art. 10.º A Repartição Administrativa compreende os seguintes serviços:
 
 a) Secção de Registo de Actividade;
 
@@ -210,7 +248,7 @@ b) Serviço de Contabilidade;
 
 c) Serviço de Apoio Técnico.
 
-###### Art. 11.º À Secção de Registo de Actividade compete:
+Art. 11.º À Secção de Registo de Actividade compete:
 
 a) A concessão de visto para realização de espectáculos e divertimentos públicos;
 
@@ -226,7 +264,7 @@ f) A organização e informação dos processos relativos à concessão de autor
 
 g) A passagem de alvarás e licenças de recinto.
 
-###### Art. 12.º Ao Serviço de Contabilidade compete:
+Art. 12.º Ao Serviço de Contabilidade compete:
 
 a) Elaborar o projecto de orçamento anual da Inspecção Regional de Espectáculos, bem como promover a execução do orçamento aprovado;
 
@@ -234,7 +272,7 @@ b) Processar as verbas referentes às vistorias e outras, previstas na legislaç
 
 c) Controlar a liquidação do adicional sobre o preço dos bilhetes dos espectáculos e de outras taxas previstas na lei e informar a Divisão de Inspecção e Contencioso sobre eventuais infracções.
 
-###### Art. 13.º Ao Serviço de Apoio Técnico compete:
+Art. 13.º Ao Serviço de Apoio Técnico compete:
 
 a) Aprovar os projectos de construção, reconstrução, adaptação e alteração de recintos de espectáculos e divertimentos públicos, nos termos que a lei fixar;
 
@@ -244,7 +282,7 @@ c) Determinar as vistorias locais previstas na legislação sobre espectáculos.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 14.º - 1 - O pessoal do quadro da Inspecção Regional de Espectáculos é agrupado em:
+Art. 14.º - 1 - O pessoal do quadro da Inspecção Regional de Espectáculos é agrupado em:
 
 a) Pessoal dirigente;
 
@@ -258,15 +296,15 @@ d) Pessoal operário e auxiliar.
 
 3 - O quadro de pessoal poderá ser alterado mediante portaria conjunta das Secretarias Regionais de Turismo e Cultura e do Plano:
 
-###### Art. 15.º As condições de ingresso, acesso profissional, provimento e suas formas do pessoal do quadro da Inspecção Regional de Espectáculos serão realizadas de harmonia com as disposições conjuntas do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, do [Decreto Regional n.º 25/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/25-1979-363958), de 30 de Outubro, e demais legislação aplicável.
+Art. 15.º As condições de ingresso, acesso profissional, provimento e suas formas do pessoal do quadro da Inspecção Regional de Espectáculos serão realizadas de harmonia com as disposições conjuntas do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, do [Decreto Regional n.º 25/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/25-1979-363958), de 30 de Outubro, e demais legislação aplicável.
 
-###### Art. 16.º - 1 - É criada a carreira de inspector, que se desenvolve pelas categorias de inspector coordenador, principal, de 1.ª classe e de 2.ª classe.
+Art. 16.º - 1 - É criada a carreira de inspector, que se desenvolve pelas categorias de inspector coordenador, principal, de 1.ª classe e de 2.ª classe.
 
 2 - O ingresso na carreira é condicionada à posse do grau de licenciatura.
 
 3 - A progressão na carreira reger-se-á pelas normas definidas para a carreira técnica superior.
 
-###### Art. 17.º - 1 - É criada a carreira de subinspector, que se desenvolve pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem as letras J, L e M.
+Art. 17.º - 1 - É criada a carreira de subinspector, que se desenvolve pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem as letras J, L e M.
 
 2 - O ingresso na carreira está condicionado à posse do curso geral do ensino secundário ou equivalente.
 
@@ -274,32 +312,32 @@ d) Pessoal operário e auxiliar.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 18.º O pessoal com funções de inspecção fica isento de horário de trabalho, não lhe sendo por isso devida qualquer remuneração pelos trabalhos prestados fora do horário normal.
+Art. 18.º O pessoal com funções de inspecção fica isento de horário de trabalho, não lhe sendo por isso devida qualquer remuneração pelos trabalhos prestados fora do horário normal.
 
-###### Art. 19.º - 1 - Os funcionários com funções de inspecção devem levantar autos de notícia por todas as infracções às disposições legais relativas a espectáculos e divertimentos públicos que presenciarem ou de que tiverem conhecimento.
+Art. 19.º - 1 - Os funcionários com funções de inspecção devem levantar autos de notícia por todas as infracções às disposições legais relativas a espectáculos e divertimentos públicos que presenciarem ou de que tiverem conhecimento.
 
 2 - Os funcionários a que se refere o número anterior podem, no exercício das suas funções e por causa delas, solicitar das autoridades administrativas e policiais o auxílio de que necessitem.
 
-###### Art. 20.º Ao pessoal com funções de inspecção é atribuída uma gratificação mensal no valor correspondente a 20% do respectivo vencimento.
+Art. 20.º Ao pessoal com funções de inspecção é atribuída uma gratificação mensal no valor correspondente a 20% do respectivo vencimento.
 
-###### Art. 21.º O inspector regional de Espectáculos tem direito a livre acesso aos recintos de espectáculos e divertimentos públicos, bem como os inspectores e subinspectores, quando se encontrem em serviço.
+Art. 21.º O inspector regional de Espectáculos tem direito a livre acesso aos recintos de espectáculos e divertimentos públicos, bem como os inspectores e subinspectores, quando se encontrem em serviço.
 
-###### Art. 22.º Ao pessoal com funções de inspecção serão distribuídos cartões de identidade de livre trânsito do modelo que for aprovado pelo Secretário Regional de Turismo e Cultura, sob proposta do inspector regional de Espectáculos.
+Art. 22.º Ao pessoal com funções de inspecção serão distribuídos cartões de identidade de livre trânsito do modelo que for aprovado pelo Secretário Regional de Turismo e Cultura, sob proposta do inspector regional de Espectáculos.
 
-###### Art. 23.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 23.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 31 de Maio de 1985.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 21 de Junho de 1985.**
+Assinado em 21 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ## ANEXO — Inspecção Regional de Espectáculos
 
 Quadro do pessoal a que se refere o n.º 2 do artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/18000/24062408.pdf))](https://files.diariodarepublica.pt/1s/1985/08/18000/24062408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18000/24062408.pdf)

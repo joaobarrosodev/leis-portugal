@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/4/1993/05/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/4-1993-282751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08ef9460e307721548c14309a4530333095cdaa8dfa6ce90b4065f1ec1b88fdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fbf34279e63036f80b4e65b92647ffe481eb6d02bdab81442b402799f3b7226
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assembleia Regional
 - Assembleia da República
+- Assembleia Regional
+- Desporto
 - Madeira.região Autónoma
 - Processo Legislativo
-- Desporto
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:35Z'
   warnings: []
   errors: []
 ---
@@ -113,15 +117,15 @@ Nestes termos:
 
 A Assembleia Legislativa Regional, ao abrigo dos artigos 170.º e 229.º, n.º 1, alínea f), da Constituição da República, apresenta à Assembleia da República a seguinte proposta de lei:
 
-###### Artigo 1.º É criado o Fundo Nacional de Integração Desportiva (FNID), dotado de autonomia financeira e funcionando na dependência do Governo da República.
+Artigo 1.º É criado o Fundo Nacional de Integração Desportiva (FNID), dotado de autonomia financeira e funcionando na dependência do Governo da República.
 
-###### Art. 2.º São objectivos do FNID:
+Art. 2.º São objectivos do FNID:
 
 1) Suportar os encargos com as deslocações, por via aérea, no âmbito das respectivas participações nas provas integradas, nos calendários oficiais das federações das equipas e atletas amadores ou não profissionais do continente para as Regiões Autónomas, das Regiões Autónomas para o continente e entre as Regiões Autónomas;
 
 2) Suportar os encargos resultantes do transporte dos apetrechos julgados imprescindíveis para a prática da respectiva modalidade.
 
-###### Art. 3.º Constituem receitas do FNID:
+Art. 3.º Constituem receitas do FNID:
 
 1) A importância correspondente à taxa a fixar por lei sobre cada bilhete de entrada em todas as competições desportivas oficiais;
 
@@ -129,8 +133,8 @@ A Assembleia Legislativa Regional, ao abrigo dos artigos 170.º e 229.º, n.º 1
 
 3) As dotações garantidas pelo Orçamento do Estado necessárias à solvabilidade do FNID.
 
-###### Art. 4.º O estabelecimento das regras de gestão do FNID compete ao Governo da República, que, conjuntamente com os governos de cada uma das Regiões Autónomas, definirá as normas para a sua utilização e acesso.
+Art. 4.º O estabelecimento das regras de gestão do FNID compete ao Governo da República, que, conjuntamente com os governos de cada uma das Regiões Autónomas, definirá as normas para a sua utilização e acesso.
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 20 de Abril de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.

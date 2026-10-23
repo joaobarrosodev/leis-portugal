@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/14/2000/08/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/14-2000-339869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97ea3461f1e45b6a17f0960b41a3182ff5826aaa7a31a9df215f60a7192119e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 949a37672a120f52cdcf2a8714dc61417bc9342f9e477231203ffc9f63e7bc41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,20 @@ reuse:
 subjects:
 - Curso de Medicina
 - Estudante
-- Numerus Clausus
 - Madeira.região Autónoma
+- Numerus Clausus
 - Recomendação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:15Z'
   warnings: []
   errors: []
 ---
@@ -103,4 +103,4 @@ Assim, a Assembleia Legislativa Regional da Madeira, no uso dos seus poderes est
 
 Aprovada em Sessão Plenária da Assembleia Legislativa Regional da Madeira em 11 de Julho de 2000.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24800/0006500069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/35/2024/12/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12eab2d040fee3516bf8f1e147be69eaba12ca09ffbd0f8e94dadc966be4cdc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e32cb059e9216f2619eb11519e77a987a0c7efc357459ff8df3acd61303da0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Pública
-- SIADAP
 - Assembleia Legislativa
+- Avaliação do Pessoal
 - Madeira.região Autónoma
 - Regulamento
-- Avaliação do Pessoal
+- SIADAP
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2024/01/10/p/dre
@@ -113,16 +113,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolalram/41/2020/10/27/m/dre
   label: null
   source: http://data.dre.pt/eli/resolalram/41/2020/10/27/m/dre
+- type: cites
+  target: pt:dre:107061814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146435545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207485807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216598403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836437684:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:43Z'
   warnings: []
   errors: []
 ---
@@ -137,15 +181,15 @@ Da aplicação do referido regulamento, que regula a gestão do desempenho na As
 
 Tendo em consideração as alterações aos regimes legais subsidiariamente aplicáveis aos trabalhadores parlamentares e dirigentes da Assembleia Legislativa da Região Autónoma da Madeira, designadamente as decorrentes do [Decreto-Lei n.º 12/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2024-836437684), de 10 de janeiro, impõe-se proceder às alterações necessárias à cabal aplicação do sistema de avaliação, com repercussões nas alterações de posicionamento remuneratório dos trabalhadores integrados nas carreiras parlamentares, desde logo, no que concerne à implementação, a partir de 1 de janeiro de 2025, do ciclo de avaliação anual e à introdução de novas menções qualitativas e quantitativas no âmbito da avaliação final dos trabalhadores, destacando-se ainda a alteração do número de pontos necessários para efeitos de alteração obrigatória de posicionamento remuneratório de dez para oito pontos.
 
-A revisão da atual regulamentação toma por base a estrutura orgânica e competências dos órgãos da Assembleia Legislativa da Região Autónoma da Madeira, de forma ajustada ao [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de setembro, republicado pelo [Decreto Legislativo Regional n.º 13/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), de 23 de maio, e alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[1-A/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), de 31 de janeiro, [12/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2023-207485807), de 15 de fevereiro, e [35/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2023-216598403), de 2 de agosto, face à natureza do primeiro órgão de governo próprio da Região.
+A revisão da atual regulamentação toma por base a estrutura orgânica e competências dos órgãos da Assembleia Legislativa da Região Autónoma da Madeira, de forma ajustada ao [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de setembro, republicado pelo [Decreto Legislativo Regional n.º 13/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), de 23 de maio, e alterado pelos Decretos Legislativos Regionais n.os[1-A/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), de 31 de janeiro, [12/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2023-207485807), de 15 de fevereiro, e [35/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2023-216598403), de 2 de agosto, face à natureza do primeiro órgão de governo próprio da Região.
 
 Foi ouvido o representante dos trabalhadores parlamentares da Assembleia Legislativa da Região Autónoma da Madeira.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, considerando a pronúncia e proposta do conselho de administração, nos termos da alínea h) do artigo 19.º e do n.º 2 do artigo 29.º, em conjugação com o n.º 2 do artigo 39.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de setembro, na sua atual redação, resolve aprovar a primeira alteração ao regulamento de gestão do desempenho na Assembleia Legislativa da Região Autónoma da Madeira.
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, considerando a pronúncia e proposta do conselho de administração, nos termos da alínea h) do artigo 19.º e do n.º 2 do artigo 29.º, em conjugação com o n.º 2 do artigo 39.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de setembro, na sua atual redação, resolve aprovar a primeira alteração ao regulamento de gestão do desempenho na Assembleia Legislativa da Região Autónoma da Madeira.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 dedezembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
 ## ANEXO — Primeira alteração ao regulamento de gestão do desempenho na Assembleia Legislativa da Região Autónoma da Madeira (GEDALM)
 
@@ -185,11 +229,15 @@ f) [...]
 
 6 - A fim de garantir o cumprimento dos prazos previstos no presente regulamento, os serviços informam os trabalhadores abrangidos pelo n.º 2, na primeira quinzena de dezembro do ano que antecede a avaliação, de que devem requerer a avaliação por ponderação curricular.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 São objeto de avaliação ordinária todos os trabalhadores da Assembleia Legislativa da Região Autónoma da Madeira que, no ano anterior, tenham relação jurídica de emprego público com, pelo menos, seis meses e o correspondente serviço efetivo, independentemente do serviço onde este tenha sido prestado.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -207,7 +255,9 @@ d) [...]
 
 4 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -225,7 +275,9 @@ f) [...]
 
 2 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -243,7 +295,9 @@ f) [...]
 
 8 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -265,7 +319,9 @@ d) [Anterior alínea c).]
 
 6 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Mediante requerimento do trabalhador apresentado até ao dia 31 de dezembro do ano civil que antecede a avaliação, dirigido ao secretário-geral, há lugar à avaliação extraordinária:
 
@@ -281,7 +337,9 @@ b) [...]
 
 5 - [...]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - No início de cada ciclo anual de avaliação ou no início do exercício destas funções, os dirigentes intermédios contratualizam com o avaliador os parâmetros de avaliação, bem como os indicadores do desempenho aplicáveis à avaliação dos objetivos.
 
@@ -293,11 +351,13 @@ b) [...]
 
 5 - Para o parâmetro «Objetivos» é atribuída uma ponderação de 75 % e para o parâmetro «Competências» uma ponderação de 25 %.
 
-6 - São aplicáveis aos dirigentes as menções avaliativas previstas nos n.<sup>os</sup>3 e 4 do artigo 22.º
+6 - São aplicáveis aos dirigentes as menções avaliativas previstas nos n.os3 e 4 do artigo 22.º
 
 7 - A avaliação do desempenho dos dirigentes intermédios tem os efeitos previstos no respetivo estatuto, em matéria de renovação, não renovação ou cessação da comissão de serviço.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 O presente regulamento é objeto de revisão por resolução ou regulamento da Assembleia Legislativa, ao abrigo do disposto no n.º 1 do artigo 39.º do [Decreto Legislativo Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059), de 7 de setembro, na sua atual redação.»
 
@@ -324,3 +384,5 @@ e) Zero pontos por cada menção correspondente ao mais baixo nível de avaliaç
 ###### Artigo 5.º — Entrada em vigor
 
 A presente resolução entra em vigor em 1 de janeiro de 2025.
+
+118488465

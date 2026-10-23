@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/1995/04/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1995-231357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c86426dd5320b37214e4ac57ec8e6e8165c87f35e5f75a5725f5bd82d5c81fb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49815865da27437aac299df75c5ae0d0bae318a2ab43aa7f0850508279024cfe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
 - Carreira Profissional
 - Jornal Oficial
-- Secretaria Regional dos Assuntos Sociais
-- Pessoal Técnico Superior
 - Madeira.região Autónoma
+- Pessoal de Saúde
+- Pessoal Técnico Superior
 - Reestruturação de Carreiras
+- Secretaria Regional dos Assuntos Sociais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/241/1994/09/22/p/dre
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/1992/04/02/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/1992/04/02/m/dre
+- type: cites
+  target: pt:dre:189350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2689797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681580:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:58Z'
   warnings: []
   errors: []
 ---
@@ -118,22 +138,22 @@ O presente diploma visa agora introduzir essas alterações no regime legal da c
 
 Assim, o Governo Regional da Madeira, ao abrigo do disposto nos artigos 16.º e 21.º do [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto, no artigo 229.º, n.º 1, alínea d), da Constituição, decreta o seguinte:
 
-###### Artigo 1.º O [Decreto-Lei n.º 241/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), de 22 de Setembro, é aplicável na Região Autónoma da Madeira com as especialidades constantes dos artigos seguintes.
+Artigo 1.º O [Decreto-Lei n.º 241/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), de 22 de Setembro, é aplicável na Região Autónoma da Madeira com as especialidades constantes dos artigos seguintes.
 
-###### Art. 2.º As referências feitas, bem como as competências atribuídas ao Ministério da Saúde, no artigo 3.º, n.º 1, do [Decreto-Lei n.º 241/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), de 22 de Setembro, entendem-se reportadas, na Região Autónoma da Madeira, à Secretaria Regional dos Assuntos Sociais.
+Art. 2.º As referências feitas, bem como as competências atribuídas ao Ministério da Saúde, no artigo 3.º, n.º 1, do [Decreto-Lei n.º 241/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), de 22 de Setembro, entendem-se reportadas, na Região Autónoma da Madeira, à Secretaria Regional dos Assuntos Sociais.
 
-###### Art. 3.º A referência feita no artigo 3.º, n.º 1, do [Decreto-Lei n.º 241/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), de 22 de Setembro, ao Diário da República considera-se reportada ao Jornal Oficial da Região Autónoma da Madeira.
+Art. 3.º A referência feita no artigo 3.º, n.º 1, do [Decreto-Lei n.º 241/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), de 22 de Setembro, ao Diário da República considera-se reportada ao Jornal Oficial da Região Autónoma da Madeira.
 
-###### Art. 4.º A referência feita no n.º 2 do artigo 5.º do [Decreto-Lei n.º 241/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), de 22 de Setembro, ao Despacho Ministerial n.º 34/86, de 22 de Agosto, entende-se reportada ao [Despacho n.º 17/89](https://diariodarepublica.pt/dr/detalhe/despacho/17-1989-2689797), de 25 de Setembro, do Secretário Regional dos Assuntos Sociais, publicado no Jornal Oficial da Região Autónoma da Madeira, de 16 de Outubro de 1989.
+Art. 4.º A referência feita no n.º 2 do artigo 5.º do [Decreto-Lei n.º 241/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441), de 22 de Setembro, ao Despacho Ministerial n.º 34/86, de 22 de Agosto, entende-se reportada ao [Despacho n.º 17/89](https://diariodarepublica.pt/dr/detalhe/despacho/17-1989-2689797), de 25 de Setembro, do Secretário Regional dos Assuntos Sociais, publicado no Jornal Oficial da Região Autónoma da Madeira, de 16 de Outubro de 1989.
 
-###### Art. 5.º O presente diploma entra imediatamente em vigor.
+Art. 5.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 15 de Fevereiro de 1995.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 7 de Março de 1995.**
+Assinado em 7 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

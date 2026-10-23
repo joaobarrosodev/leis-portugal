@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/24500/0478304786.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/42/2016/12/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/42-2016-105601582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ef6a4e4072b2b9a759e84c6b6c5eb08a8d3bbb74f466ba2e614367bc8f7918f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f03cb8c89a9da063ccd8b462f7ca19d235b2f6e3b2d5e5c7f07ad7740412fe27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Protecção à Família
 - Assistência a Familiares
 - Código do Trabalho
-- Faltas
+- Deficiente
 - Doente Crónico
-- Proteção ao Deficiente
+- Faltas
 - Madeira.região Autónoma
+- Proteção ao Deficiente
+- Protecção à Família
 - Recomendação
 relationships:
 - type: cites
@@ -118,16 +118,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:174796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56348175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70152047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74007209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170436:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:25Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +282,9 @@ São alterados os artigos 49.º, 52.º, 53.º, 54.º e 57.º do Código do Traba
 
 7 - ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -226,7 +312,9 @@ d) ...
 
 9 - ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - Os progenitores têm direito a licença para assistência de filho com deficiência ou doença crónica, por um período até seis meses, prorrogável até a maioridade do filho, sujeita a reavaliações a cada quatro anos, bem como à apresentação do respetivo atestado médico.
 
@@ -236,7 +324,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Os progenitores de menor com deficiência ou doença crónica, com idade não superior a três anos, têm direito a redução de cinco horas do período normal de trabalho semanal, ou outras condições de trabalho especiais, para assistência ao filho.
 
@@ -252,7 +342,9 @@ d) ...
 
 7 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - O trabalhador que pretende trabalhar a tempo parcial ou em regime de horário de trabalho flexível deve solicitá-lo ao empregador, por escrito, com a antecedência de 15 dias, com os seguintes elementos:
 
@@ -312,7 +404,9 @@ Os artigos 7.º, 19.º, 20.º, 35.º, 36.º, 38.º e 75.º do [Decreto-Lei n.º 
 
 4 - A proteção conferida aos trabalhadores independentes não integra as prestações previstas no n.º 2.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O subsídio para assistência a filho é concedido, nas situações de impedimento para o exercício da atividade laboral determinadas pela necessidade de prestar assistência inadiável e imprescindível a filhos menores ou, independentemente da idade, que consigo coabitam, em caso de doença ou acidente, medicamente certificadas, nos seguintes termos:
 
@@ -326,7 +420,9 @@ b) [Revogada.]
 
 4 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Em situações de impedimento para o exercício da atividade laboral é concedido um subsídio para assistência a filho com deficiência ou doença crónica, sujeito a reavaliação a cada quatro anos.
 
@@ -336,23 +432,31 @@ a) [Revogada.]
 
 b) ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 O montante diário dos subsídios por riscos específicos e para assistência a filho é igual a 100 % da remuneração de referência do beneficiário.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O montante diário dos subsídios para assistência a filho com deficiência ou doença crónica é igual a 100 % da remuneração de referência do beneficiário, tendo como limite máximo mensal o correspondente a duas vezes o indexante dos apoios sociais (IAS).
 
 2 - Caso os beneficiários residam nas regiões autónomas ou a uma distância superior a 300 km da unidade de saúde em questão, o montante do subsídio por assistência a filho é acrescido de 20 %.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - O montante diário dos subsídios presentes no presente capítulo não pode ser inferior ao valor do indexante dos apoios sociais (IAS).
 
 2 - O montante diário mínimo do subsídio parental alargado não pode ser inferior a 60 % de um 30 avos do valor do IAS.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -374,7 +478,9 @@ a) A vigência da licença não poderá ultrapassar os três meses consecutivos;
 
 b) Para o exercício do direito, o trabalhador informa o empregador, com a entrega de um atestado médico.
 
-###### Artigo 36.º-A — Montante do subsídio excecional complementar para assistência à família com filho com deficiência ou doença crónica
+Artigo 36.º-A
+
+Montante do subsídio excecional complementar para assistência à família com filho com deficiência ou doença crónica
 
 O montante diário do subsídio complementar para assistência à família com filho com deficiência ou doença crónica é igual a 100 % da remuneração diária de referência do beneficiário, tendo como limite o equivalente diário a duas vezes o indexante dos apoios sociais (IAS).»
 
@@ -384,4 +490,4 @@ A presente lei entra em vigor com o orçamento do próximo ano.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de novembro de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.

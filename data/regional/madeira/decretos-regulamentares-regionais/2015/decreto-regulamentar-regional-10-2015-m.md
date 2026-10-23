@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15800/0596905972.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2015/08/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2015-70014799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64ef81937587e0d0ad117151dc79e6a327754e7078b27392da0f7835d4b8d0e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87c3eefc5794ffa75b2d0b7bd9fe3dfcfafa17cf57d49c5a9f98d2d85f4b39d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
+- DIREÇÃO REGIONAL DO PATRIMÓNIO E DE GESTÃO DOS SERVIÇOS PARTILHADOS
 - Direcção Regional do Património
 - Diretor Regional
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- DIREÇÃO REGIONAL DO PATRIMÓNIO E DE GESTÃO DOS SERVIÇOS PARTILHADOS
 relationships:
 - type: amended_by
   target: pt:dre:116470102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106630891:por
+  label: Alterados os arts. 1.º e 3.º e aditados os arts. 4.º-A e 6.º-A ao presente diploma, que é republicado, pelo(a) Decreto
+    Regulamentar Regional n.º 5/2017/M - Diário da República n.º 56/2017, Série I de 2017-03-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2017-106630891
+  date: '2017-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
   label: null
@@ -114,16 +120,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67332420:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116470102:por
+  label: Revogado, a partir de 25.09.2018, o presente diploma, pelo(a) Decreto Regulamentar Regional n.º 12/2018/M - Diário
+    da República n.º 184/2018, Série I de 2018-09-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2018-116470102
+  date: '2018-09-24'
 article_structure:
   article_count: 11
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:02Z'
   warnings: []
   errors: []
 ---
@@ -280,14 +328,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 9 de julho de 2015.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 17 de julho de 2015.**
+Assinado em 17 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO I — Mapa de cargos dirigentes a que se refere o artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15800/0596905972.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15800/0596905972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15800/0596905972.pdf)

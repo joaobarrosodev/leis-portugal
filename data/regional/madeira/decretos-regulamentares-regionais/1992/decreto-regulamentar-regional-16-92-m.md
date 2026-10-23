@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/1992/07/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1992-292517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b09a9b7c55bb1b78b0567759a9d817e3d15ab99e753293bd54375c742a76b690
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de7813fb0917e036ae7febec21b93481553aeac5a78d354c6289c6e03cd08870
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,18 @@ subjects:
 - Definição de Competências
 - Estabelecimento Industrial
 - Licenciamento
-- Poluição Industrial
 - Madeira.região Autónoma
+- Poluição Industrial
 relationships:
 - type: amended_by
   target: pt:dre:316921:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:316921:por
+  label: "Alterado o art. 1.º pelo DRR.7/99/M.1999.05.07.PG-RAM DR.IS-B [123] de 27/Mai/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1999-316921
+  date: '1999-05-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/1991/03/08/p/dre
   label: null
@@ -89,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:459430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:28Z'
   warnings: []
   errors: []
 ---
@@ -115,18 +132,18 @@ Assim:
 
 O Governo Regional decreta, ao abrigo da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
 
-###### Artigo 1.º As referências feitas e as competências atribuídas nos artigos 2.º, alínea g), e 8.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, aos Ministérios da Indústria e Energia e da Agricultura, Pescas e Alimentação consideram-se reportadas e são exercidas na Região Autónoma da Madeira pela Secretaria Regional da Economia.
+Artigo 1.º As referências feitas e as competências atribuídas nos artigos 2.º, alínea g), e 8.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, aos Ministérios da Indústria e Energia e da Agricultura, Pescas e Alimentação consideram-se reportadas e são exercidas na Região Autónoma da Madeira pela Secretaria Regional da Economia.
 
-###### Art. 2.º O produto das coimas aplicadas por força do referido [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) que sejam cobradas na Região Autónoma da Madeira constitui receita própria.
+Art. 2.º O produto das coimas aplicadas por força do referido [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) que sejam cobradas na Região Autónoma da Madeira constitui receita própria.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 de Junho de 1992.
 
 O Vice-Presidente do Governo Regional, Miguel José Luís de Sousa.
 
-**Assinado em 6 de Julho de 1992.**
+Assinado em 6 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

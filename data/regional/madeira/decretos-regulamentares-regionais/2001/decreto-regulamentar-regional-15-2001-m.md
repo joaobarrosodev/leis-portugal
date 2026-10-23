@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2001/07/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2001-348525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d88aa13b5b4245f9fd3d334ca43a05af200bb04a8c1bd19c84bdb071f1006461
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 404c58dc43fe08fca47b591a2d764558dca5f416b3446cf512bc2eb2d71b84f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional do Comércio Indústria e Energia
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -114,16 +114,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:493027:por
+  label: "Revogado, com excepção da estrutura das unidades orgânicas até à sua regulamentação, nos termos previstos no art.\
+    \ 21º do DLR 17/2007/M, de 12-Nov, pelo DRR.7/2009/M.03.08.2009.PG-RAM, DR.IS [148] de 03.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2009-493027
+  date: '2009-08-03'
 article_structure:
-  article_count: 31
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 32
+  section_count: 36
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:43Z'
   warnings: []
   errors: []
 ---
@@ -144,13 +198,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 24 de Maio de 2001.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 15 de Junho de 2001.**
+Assinado em 15 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica da Direcção Regional do Comércio, Indústria e Energia
 
@@ -188,7 +242,9 @@ j) Coordenar e assegurar a recolha, organização, tratamento e difusão de info
 
 ### CAPÍTULO II — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 3.º
+#### SECÇÃO I
+
+###### Artigo 3.º
 
 Estrutura
 
@@ -266,7 +322,9 @@ b) Divisão de Gestão Financeira e Organização de Recursos Humanos (DGFORH).
 
 6 - A DSG é dirigida por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Estudos e Planeamento
+##### SUBSECÇÃO I
+
+##### Divisão de Estudos e Planeamento
 
 ###### Artigo 7.º — Competências
 
@@ -302,7 +360,9 @@ d) Apoiar os utilizadores e gerir a distribuição dos recursos informáticos de
 
 e) Executar tudo o mais que por determinação superior lhe for determinado.
 
-##### SUBSECÇÃO II — Divisão de Gestão Financeira e Organização de Recursos Humanos
+##### SUBSECÇÃO II
+
+##### Divisão de Gestão Financeira e Organização de Recursos Humanos
 
 ###### Artigo 9.º — Competências
 
@@ -394,7 +454,9 @@ c) Divisão das Operações do Comércio Externo (DOCE).
 
 4 - A DSC é dirigida por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Registo e Licenciamento Comercial
+##### SUBSECÇÃO I
+
+##### Divisão de Registo e Licenciamento Comercial
 
 ###### Artigo 12.º — Competências
 
@@ -418,7 +480,9 @@ h) Assegurar os contactos e a colaboração com as entidades responsáveis pela 
 
 2 - A chefia da DRLC compete a um chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão de Concorrência e Preços
+##### SUBSECÇÃO II
+
+##### Divisão de Concorrência e Preços
 
 ###### Artigo 13.º — Competências
 
@@ -442,7 +506,9 @@ h) Assegurar os contactos e a colaboração com as entidades responsáveis pela 
 
 2 - A chefia da DCP compete a um chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão das Operações do Comércio Externo
+##### SUBSECÇÃO III
+
+##### Divisão das Operações do Comércio Externo
 
 ###### Artigo 14.º — Competências
 
@@ -478,7 +544,9 @@ c) Divisão de Geologia e Minas (DGM).
 
 4 - A DSI é dirigida por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Fomento e Licenciamento Industrial
+##### SUBSECÇÃO I
+
+##### Divisão de Fomento e Licenciamento Industrial
 
 ###### Artigo 16.º — Competências
 
@@ -508,7 +576,9 @@ l) Acompanhar e fiscalizar projectos e obras da responsabilidade do Governo Regi
 
 2 - A chefia da DFLI compete a um chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão da Qualidade Industrial
+##### SUBSECÇÃO II
+
+##### Divisão da Qualidade Industrial
 
 ###### Artigo 17.º — Competências
 
@@ -530,7 +600,9 @@ g) Apoiar o Instituto Português da Qualidade no acompanhamento do funcionamento
 
 2 - A chefia da DQI compete a um chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão de Geologia e Minas
+##### SUBSECÇÃO III
+
+##### Divisão de Geologia e Minas
 
 ###### Artigo 18.º — Competências
 
@@ -574,7 +646,9 @@ c) Divisão de Utilização Racional de Energia (DURE).
 
 3 - A DSE é dirigida por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Energia Eléctrica
+##### SUBSECÇÃO I
+
+##### Divisão de Energia Eléctrica
 
 ###### Artigo 20.º — Competências
 
@@ -600,7 +674,9 @@ i) Avaliar as interacções dos preços das diferentes formas de energia e acomp
 
 2 - A chefia da DEE compete a um chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão de Combustíveis
+##### SUBSECÇÃO II
+
+##### Divisão de Combustíveis
 
 ###### Artigo 21.º — Competências
 
@@ -624,7 +700,9 @@ h) Promover a elaboração e adaptação de legislação relativa às actividade
 
 2 - A chefia da DC compete a um chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão de Utilização Racional de Energia
+##### SUBSECÇÃO III
+
+##### Divisão de Utilização Racional de Energia
 
 ###### Artigo 22.º — Competências
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16000/0001600019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2023/08/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2023-220076077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2159b46bdc18d69b675742dd527c95dac8abaf1e388c21e63a8c7bb37718f59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c04641da20ae3ae4bba8f3158cc18e3172fd5786eae16ecb4566767ceb37f3d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ subjects:
 - Alienação de Participação Social
 - Capital Social
 - Comissão de Acompanhamento
-- Governo Regional
 - Delegação de Competências
-- Regulamentação de Atos Legislativos
 - Empresa Participada
-- Setor Empresarial do Estado
+- Governo Regional
 - Interesse Público
 - Madeira.região Autónoma
+- Regulamentação de Atos Legislativos
 - Secretário Regional das Finanças
+- Setor Empresarial do Estado
 - Venda Directa
 relationships:
 - type: cites
@@ -96,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:190814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:36Z'
   warnings: []
   errors: []
 ---
@@ -178,11 +194,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 3 de agosto de 2023.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 14 de agosto de 2023.**
+Assinado em 14 de agosto de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -225,3 +241,5 @@ A venda direta das ações formaliza-se com a assinatura do contrato de compra e
 ###### Artigo 7.º — Resolução da venda
 
 A Região Autónoma da Madeira poderá resolver a venda direta até ao momento do pagamento da compra e venda das ações, quando razões de interesse público, reconhecidas por despacho do Secretário Regional das Finanças, o aconselhem.
+
+116774707

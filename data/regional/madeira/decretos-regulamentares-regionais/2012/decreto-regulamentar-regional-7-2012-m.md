@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/10700/0292502928.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2012/06/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2012-177804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c97cb113e28bc79ce0522451491a32c7e938f3ed050d1efdd2aeac6f772d1f20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 074645d2d0b551c98cc144ab8b65270a4ecc85e2b9ef36810dbb2594a3f2da30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Governo Regional
+- Centro de Arbitragem de Conflitos de Consumo
+- Conselho Regional dos Assuntos Sociais
 - Definição de Competências
 - Gabinete do Secretário Regional dos Assuntos Sociais
+- Governo Regional
 - Inspecção Regional da Saúde e Assuntos Sociais
 - Inspecção Regional das Actividades Económicas
 - Integração de Trabalhadores
-- Centro de Arbitragem de Conflitos de Consumo
-- Conselho Regional dos Assuntos Sociais
-- Secretaria Regional dos Assuntos Sociais
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Regional dos Assuntos Sociais
 - Secretário Regional dos Assuntos Sociais
 - Subdirector Regional
 relationships:
@@ -85,6 +85,12 @@ relationships:
   target: pt:dre:70055498:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:503846:por
+  label: "Alterados os arts 6.º, 7.º e 12.º, do presente diploma, pelo DRR.15/2013/M.25.11.2013.PG-RAM, DR.IS [228] de 25.11.2013\
+    \ \013 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2013-503846
+  date: '2013-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
   label: null
@@ -125,16 +131,75 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64/2011/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64/2011/12/22/p/dre
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70055497:por
+  label: Revogado o presente diploma, na redação do DRR 15/2013/M, de 25-nov pelo(a) Decreto Regulamentar Regional n.º 15/2015/M
+    - Diário da República n.º 161/2015, Série I de 2015-08-19 que determina a transição da Direção de Serviços Jurídicos e
+    de Suporte à Governação para a Secretaria Regional da Inclusão e Assuntos Sociais, sem prejuízo do disposto no n.º 2 do
+    art. 28.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2015-70055497
+  date: '2015-08-19'
+- type: repealed_by
+  target: pt:dre:70055498:por
+  label: Revogado a partir de 20.08.2015 o presente diploma, na redação do DRR 15/2013/M, de 25-nov pelo(a) Decreto Regulamentar
+    Regional n.º 16/2015/M - Diário da República n.º 161/2015, Série I de 2015-08-19, sem prejuízo do disposto no n.º 2 do
+    art. 21.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2015-70055498
+  date: '2015-08-19'
 article_structure:
-  article_count: 15
+  article_count: 16
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:52Z'
   warnings: []
   errors: []
 ---
@@ -309,7 +374,9 @@ A dotação de cargos de direção superior do 2.º grau, de direção interméd
 
 4 - Por força da organização e funcionamento do Governo Regional aprovada pelo [Decreto Regulamentar Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2011-146269), de 14 de novembro, e da consequente transferência de pessoal dos serviços da extinta Secretaria Regional dos Recursos Humanos para a Secretaria Regional dos Assuntos Sociais, operada nos termos do artigo 12.º do referido diploma, e da transição a que se referem os n.os 1 e 3 do presente artigo, as listas nominativas do pessoal do Gabinete e serviços dependentes da Secretaria Regional dos Assuntos Sociais e do IASAÚDE, IP-RAM serão objeto de publicitação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.
 
-### CAPÍTULO VIII — Artigo 15.º
+### CAPÍTULO VIII
+
+###### Artigo 15.º
 
 Revogação
 
@@ -327,14 +394,14 @@ São revogados os Decretos Regulamentares Regionais n.os [2/2004/M](https://diar
 
 Aprovado em Conselho do Governo Regional em 19 de abril de 2012.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 11 de maio de 2012.**
+Assinado em 11 de maio de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO — Cargos de direção intermédia do 1.º grau e chefes de departamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/10700/0292502928.pdf))](https://files.diariodarepublica.pt/1s/2012/06/10700/0292502928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/10700/0292502928.pdf)

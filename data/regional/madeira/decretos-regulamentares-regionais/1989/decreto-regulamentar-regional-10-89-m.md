@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1989-615058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fbf0a6766d8b68a7ad4e5c8d2faab4f11e16ec8ffb5bbed8aa1458564245ad4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78f5c9040fd114a17b66951700998f8413a8cb658bd8bdf7d550707fd97ef33f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auto-estrada
+- Funchal
+- Madeira.região Autónoma
+- Medidas Preventivas
 relationships:
 - type: amended_by
   target: pt:dre:598309:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:598309:por
+  label: "Prorrogado, por mais um ano, o prazo fixado no presente diploma, pelo DRR.4/91/M.24.04.1991.GR-RAM, DR.IS-B [95]\
+    \ de 24.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1991-598309
+  date: '1991-04-24'
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:02Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +118,7 @@ Assim:
 
 O Governo Regional da Madeira, ao abrigo da alínea d) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta o seguinte:
 
-###### Artigo 1.º - 1 - Fica sujeita a medidas preventivas, pelo prazo de dois anos, a área definida na planta anexa ao presente diploma e que dele faz parte integrante.
+Artigo 1.º - 1 - Fica sujeita a medidas preventivas, pelo prazo de dois anos, a área definida na planta anexa ao presente diploma e que dele faz parte integrante.
 
 2 - As medidas preventivas determinadas no número anterior consistem na sujeição a autorização da Secretaria Regional do Equipamento Social, precedida de parecer da Câmara Municipal do Funchal, da prática dos actos ou actividades seguintes:
 
@@ -124,18 +146,18 @@ l) Quaisquer outras actividades ou trabalhos que afectem a integridade e caracte
 
 3 - As autorizações a que se refere o número anterior não dispensam quaisquer outros condicionalismos exigidos por lei nem prejudicam a competência legalmente atribuída a outras entidades.
 
-###### Art. 2.º Às medidas preventivas estabelecidas por este decreto regulamentar regional aplica-se o regime constante dos artigo 11.º a 13.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+Art. 2.º Às medidas preventivas estabelecidas por este decreto regulamentar regional aplica-se o regime constante dos artigo 11.º a 13.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
-###### Art. 3.º São competentes para promover o cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a Secretaria Regional do Equipamento Social e a Câmara Municipal do Funchal.
+Art. 3.º São competentes para promover o cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a Secretaria Regional do Equipamento Social e a Câmara Municipal do Funchal.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 22 de Fevereiro de 1989.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 15 de Março de 1989.**
+Assinado em 15 de Março de 1989.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08100/14881489.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08100/14881489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08100/14881489.pdf)

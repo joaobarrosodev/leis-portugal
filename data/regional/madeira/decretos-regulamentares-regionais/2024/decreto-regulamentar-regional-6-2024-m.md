@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/02200/0003300039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2024/01/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2024-839799725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ee2b602345b8f221612344d8e0003c187e1a3f5fdd08eff50e9ce00063f0f3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d6fd8ffaf8db08883d49a8541ecc810b4f4107d0b3b52733fdafd31b30bc37f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Madeira.região Autónoma
+- Orgânica
 - Presidência do Governo Regional
 - Secretaria Geral
-- Orgânica
-- Madeira.região Autónoma
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:4/2020/M
+  label: Altera, a partir de 1 de fevereiro de 2024, os artigos 1.º, 2.º, 3.º e 5.º, o anexo e a epígrafe do capítulo III
+    eliminando as secções I e II do mesmo, revoga os artigos 7.º e 11.º e republica o Decreto Regulamentar Regional n.º 4/2020/M,
+    de 15 de janeiro, Diário da República n.º 10/2020, Série I
+  source: null
+  date: '2020-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/decl
   label: null
@@ -110,16 +117,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128113536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224081980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69778948:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 20
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:51Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +237,9 @@ São alterados os artigos 1.º, 2.º, 3.º e 5.º do [Decreto Regulamentar Regio
 
 A Presidência do Governo Regional é o departamento do Governo, a que se refere a alínea a) do artigo 1.º do [Decreto Regulamentar Regional n.º 15/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2023-224081980), de 10 de novembro, que tem por missão a condução geral da política regional, bem como definir, conduzir e executar a política regional nos domínios dos assuntos parlamentares.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Na prossecução da sua missão, são atribuições da Presidência do Governo Regional definir e controlar a execução da condução geral da política regional, e definir e estudar a política regional no domínio dos assuntos parlamentares.
 
@@ -164,11 +253,15 @@ A Presidência do Governo Regional é o departamento do Governo, a que se refere
 
 6 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A Presidência do Governo Regional prossegue as suas atribuições através da Secretaria-Geral da Presidência.
 
-###### Artigo 5.º — Organização interna da Secretaria-Geral da Presidência
+Artigo 5.º
+
+Organização interna da Secretaria-Geral da Presidência
 
 1 - A organização interna da Secretaria-Geral da Presidência que compreende as unidades orgânicas e todos os serviços e secções administrativas da Presidência do Governo Regional que funcionam na sua direta dependência, obedece ao modelo de estrutura hierarquizada.
 
@@ -200,23 +293,25 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 de janeiro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 24 de janeiro de 2024.**
+Assinado em 24 de janeiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## ANEXO I — ANEXO
+## ANEXO I
+
+## ANEXO
 
 Cargos de direção superior da administração direta
 
 (a que se refere o artigo 10.º)
 
-|  |  |
-| --- | --- |
 |  | Número de lugares |
+| --- | --- |
+|  |  |
 | Secretário-Geral - cargo de direção superior de 1.º grau (a) ... | 1 |
 | Chefe de departamento (b)... | 1 |
 
@@ -266,7 +361,7 @@ A Presidência do Governo Regional prossegue as suas atribuições através da S
 
 ### CAPÍTULO III — Secretaria-Geral da Presidência
 
-#### SECÇÃO I
+SECÇÃO I
 
 Secretaria-Geral da Presidência
 
@@ -322,7 +417,7 @@ n) Desenvolver e coordenar toda a atividade relacionada com a informação que e
 
 4 - O cargo de Secretário-Geral pode ser exercido pelo chefe do Gabinete do Presidente do Governo Regional, que, uma vez provido no lugar, substituirá este transitoriamente nas suas faltas e impedimentos, podendo delegar competências próprias em trabalhador da carreira técnica superior ou titular de categoria não inferior a chefe de departamento.
 
-#### SECÇÃO II
+SECÇÃO II
 
 Direção Regional das Comunidades e Cooperação Externa
 
@@ -366,12 +461,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 (a que se refere o artigo 10.º)
 
-|  |  |
-| --- | --- |
 |  | Número de lugares |
+| --- | --- |
+|  |  |
 | Secretário-Geral - Cargo de direção superior de 1.º grau (a)... | 1 |
 | Chefe de departamento (b)... | 1 |
 
 (a) Exercido de acordo com o estabelecido no artigo 6.º
 
 (b) A extinguir quando vagar.
+
+117286027

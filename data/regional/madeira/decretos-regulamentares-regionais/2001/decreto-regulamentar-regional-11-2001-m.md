@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/155b00/40714083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2001/07/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2001-348315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58393f7cbf1486c6782ac89d632a76a65550bce010d08adb9aad39098a640645
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad025450e50ee8f5da04b9c53c7a807e769c0ead08e951cff8dd0aa942ff3c64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Direcção Regional das Pescas
 - Direcção Regional das Florestas
+- Direcção Regional das Pescas
 - Direcção Regional de Agricultura
 - Direcção Regional de Pecuária
-- Direcção Regional do Ambiente
 - Direcção Regional de Saneamento Básico
-- Orgânica
+- Direcção Regional do Ambiente
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Regime de Pessoal
 - Secretaria Regional do Ambiente e dos Recursos Naturais
@@ -83,6 +83,17 @@ relationships:
   target: pt:dre:693196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187899:por
+  label: "Alterados os arts 22º e 25º e os mapas I e II anexos (este último na redacção da Port 64/2002, de 29-Abr-legislação\
+    \ regional da Madeira) e revogado o nº 5 do art 34º pelo DRR.7/2003/M.2003.01.31.PG-RAM, DR.IS-B [44], de 21/Fev\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2003-187899
+  date: '2003-01-31'
+- type: amended_by
+  target: pt:dre:547846:por
+  label: "Alterado o art. 3.º do presente diploma, pelo DRR.19/2005/M.02.03.2005.PG-RAM, DR.IS-B [77] de 20.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2005-547846
+  date: '2005-03-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
   label: null
@@ -123,16 +134,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/221/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/221/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:138572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639915:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:693196:por
+  label: "Revogado, com as alterações introduzidas pelos DRR 7/2003/M de 21-Fev e 19/2005/M de 20-Abr (este último não referido\
+    \ pelo legislador), pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B [94] de 16.05.2005, e extinta a Divisão do Parque de\
+    \ Máquinas e Viaturas do Gabinete do Secretário Regional (criada pela al. f) do art. 5º do DRR 7/84/M de 19-Abr) e constante\
+    \ da orgânica ora revogada\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
 article_structure:
   article_count: 44
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:41Z'
   warnings: []
   errors: []
 ---
@@ -547,7 +618,9 @@ n) Organizar a participação da SRA, ou a de alguns dos seus organismos ou repr
 
 o) Exercer todas as restantes competências que, dentro da sua área funcional, lhe sejam superiormente cometidas.
 
-##### SUBSECÇÃO VII — Divisão do Parque de Máquinas e Viaturas
+##### SUBSECÇÃO VII
+
+##### Divisão do Parque de Máquinas e Viaturas
 
 ###### Artigo 27.º — Natureza
 
@@ -697,22 +770,22 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho de Governo Regional em 24 de Maio de 2001.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 15 de Junho de 2001.**
+Assinado em 15 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA I
 
 (a que se refere o n.º 2 do artigo 31.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/07/155b00/40714083.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/07/155b00/40714083.pdf)](https://files.diariodarepublica.pt/1s/2001/07/155b00/40714083.pdf)
 
 MAPA II
 
 (a que se refere o n.º 6 do artigo 31.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/07/155b00/40714083.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/07/155b00/40714083.pdf)](https://files.diariodarepublica.pt/1s/2001/07/155b00/40714083.pdf)

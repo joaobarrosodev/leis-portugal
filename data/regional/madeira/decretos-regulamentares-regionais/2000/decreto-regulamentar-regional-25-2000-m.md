@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/077b00/14441451.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/2000/03/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2000-506053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4d53e097f29f506a0c88be3d8e2ced14731336507b97ebfc1c490fe2a78e42d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbc8025a326e5f8aa3bb5e5e62f5431bff0f210a177051d7c1f97b5791835891
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Definição de Competências
 - Direcção Regional de Orçamento e Contabilidade
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 relationships:
@@ -117,16 +117,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/186/1998/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/186/1998/03/19/p/dre
+- type: cites
+  target: pt:dre:182203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:661695:por
+  label: "Revogado pelo DRR.19/2003/M.2003.07.23.PG-RAM DR.IS-B [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2003-661695
+  date: '2003-07-23'
 article_structure:
-  article_count: 43
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 35
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:32Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +208,9 @@ Natureza
 
 A Direcção Regional de Orçamento e Contabilidade, abreviadamente designada por DROC, é o órgão da Secretaria Regional do Plano e da Coordenação a que se refere a alínea e) do n.º 2 do artigo 4.º do [Decreto Regulamentar Regional n.º 2-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-a-1997-182203), de 29 de Janeiro, e cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes.
 
-###### Artigo 5.º — Estrutura
+Artigo 5.º
+
+Estrutura
 
 1 - Os órgãos de concepção e apoio da DROC são os seguintes:
 
@@ -183,13 +234,19 @@ g) Departamento de Controlo das Receitas.
 
 4 - Os órgãos a que se referem as alíneas d), e), f), e g) do n.º 1 deste artigo funcionam na directa e imediata dependência do director de serviços de Contabilidade.
 
-##### SUBSECÇÃO II — Departamento Administrativo e de Contabilidade
+SUBSECÇÃO II
 
-###### Artigo 8.º — Natureza
+Departamento Administrativo e de Contabilidade
+
+Artigo 8.º
+
+Natureza
 
 O Departamento Administrativo e de Contabilidade, abreviadamente designado por DAC, dá apoio administrativo à DROC.
 
-###### Artigo 9.º — Atribuições
+Artigo 9.º
+
+Atribuições
 
 1 - São atribuições do DAC:
 
@@ -225,7 +282,9 @@ Na secção III do capítulo II é inserida e aditada a subsecção I, bem como 
 
 Departamento de Controlo e Arquivo da Conta
 
-###### Artigo 11.º-A — Natureza e atribuições
+Artigo 11.º-A
+
+Natureza e atribuições
 
 O Departamento de Controlo e Arquivo da Conta, abreviadamente designado por DCAC, é um serviço de apoio do director de serviços do Orçamento e da Conta que tem por atribuições assegurar o registo e arquivamento de todos os processos relativos à Conta da Região Autónoma da Madeira.»
 
@@ -237,25 +296,39 @@ Na secção IV do capítulo II são inseridas e aditadas as subsecções I, II, 
 
 Departamento de Controlo das Despesas
 
-###### Artigo 13.º-A — Natureza e atribuições
+Artigo 13.º-A
+
+Natureza e atribuições
 
 O Departamento de Controlo das Despesas, abreviadamente designado por DCD, é um serviço de apoio do director de serviços de Contabilidade e tem por atribuições assegurar o cumprimento dos actos de conferência, verificação e liquidação das despesas públicas e requisições de fundos.
 
-##### SUBSECÇÃO II — Departamento de Controlo dos Vencimentos
+SUBSECÇÃO II
 
-###### Artigo 13.º-B — Natureza e atribuições
+Departamento de Controlo dos Vencimentos
+
+Artigo 13.º-B
+
+Natureza e atribuições
 
 O Departamento de Controlo dos Vencimentos, abreviadamente designado por DCV, é um serviço de apoio do director de serviços de Contabilidade que tem por atribuições efectuar o controlo de todas as despesas com vencimentos.
 
-##### SUBSECÇÃO III — Departamento de Controlo dos Recursos Próprios de Terceiros
+SUBSECÇÃO III
 
-###### Artigo 13.º-C — Natureza e atribuições
+Departamento de Controlo dos Recursos Próprios de Terceiros
+
+Artigo 13.º-C
+
+Natureza e atribuições
 
 O Departamento de Controlo dos Recursos Próprios de Terceiros, abreviadamente designado por DCRPT, é um serviço de apoio do director de serviços de Contabilidade que tem por atribuições assegurar o controlo dos movimentos dos recursos próprios de terceiros, competindo-lhe elaborar as correspondentes folhas de despesa.
 
-##### SUBSECÇÃO IV — Departamento de Controlo das Receitas
+SUBSECÇÃO IV
 
-###### Artigo 13.º-D — Natureza e atribuições
+Departamento de Controlo das Receitas
+
+Artigo 13.º-D
+
+Natureza e atribuições
 
 O Departamento de Controlo das Receitas, abreviadamente designado por DCR, é um serviço de apoio do director de serviços de Contabilidade e tem por atribuições assegurar o controlo e escrituração das receitas.»
 
@@ -309,11 +382,11 @@ Aprovado em Conselho do Governo Regional em 27 de Janeiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 17 de Fevereiro de 2000.**
+Assinado em 17 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO
 
@@ -573,7 +646,9 @@ O Departamento de Controlo dos Recursos Próprios de Terceiros, abreviadamente d
 
 O Departamento de Controlo das Receitas, abreviadamente designado por DCR, é um serviço de apoio do director de serviços de Contabilidade e tem por atribuições assegurar o controlo e escrituração das receitas.
 
-#### SECÇÃO V — Divisão dos Orçamentos Privativos
+#### SECÇÃO V
+
+##### Divisão dos Orçamentos Privativos
 
 ###### Artigo 14.º — Natureza
 
@@ -653,10 +728,10 @@ O pessoal do quadro da SRF afecto à DROC transita para o quadro desta direcçã
 
 Mapa I - Direcção Regional de Orçamento e Contabilidade
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/03/077b00/14441451.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/03/077b00/14441451.pdf)](https://files.diariodarepublica.pt/1s/2000/03/077b00/14441451.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 16.º do [Decreto Regulamentar Regional n.º 21/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1993-375871))
 
 Mapa II - Gabinete de Estudos e Pareceres Jurídicos e Económicos
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/03/077b00/14441451.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/03/077b00/14441451.pdf)](https://files.diariodarepublica.pt/1s/2000/03/077b00/14441451.pdf)

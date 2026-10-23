@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/067b00/15731581.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/1999/03/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1999-145671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eff211b33896347036ab4beab8d2351e011de9f40052c495ea4f03adf7b59a33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0511ee617a32f22ef2079724e1b46e941de6fcd4d648f73b1902aed0effe53fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Ensino Técnico Profissional
 - Escola Profissional de Hotelaria e Turismo da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:548416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:323081:por
+  label: "Alterado pelo DRR.6/99/M.1999.04.30.PG-RAM,DR.IS-B [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1999-323081
+  date: '1999-04-30'
+- type: amended_by
+  target: pt:dre:515258:por
+  label: "Alterados os arts. 5º e 9º pelo DRR.15/2000/M.2000.02.24.PG-RAM,DR.IS-B [69] de 22/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2000-515258
+  date: '2000-02-24'
+- type: amended_by
+  target: pt:dre:171335:por
+  label: "Alterados os arts 1º, 2º, 9º, 10º, 11º, 13º, 19º e 20º e aditados os arts 5º-A, 5º-B, 5º-C, 6º-A, 6º-B, 6º-C, 6º-C,\
+    \ 6ºE e 10º-A pelo DRR.13/2002/M.2002.08.19.PG-RAM DR.IS-B [190] de 19/Ago/2002, e republicado na integra com as alterações\
+    \ ora introduzidas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2002-171335
+  date: '2002-08-19'
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a manutenção em vigor do presente diploma, na redacção do DRR 6/99/M, de 18-Mai, 15/2000/M, de 22-Mar,\
+    \ e 13/2002/M, de 19-Ago, pelo DRR.5/2005/M.21.02.2005.PG-RAM, DR.IS-B [47] de 08.03.2005, até à publicação integral dos\
+    \ diplomas a que se refere o n.º 4 do seu art. 4.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/1998/09/18/m/dre
   label: null
@@ -84,16 +108,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:241444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:548416:por
+  label: Revogado com as alterações constantes dos DRR 6/99/M de 18-Mai, 15/2000/M de 22-Mar e 13/2002/M de 19-Ago, pelo DRR.17/2005/M.30.03.2005.PG-RAM,
+    DR.IS-B [76] de 19.04.2005
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2005-548416
+  date: '2005-03-30'
 article_structure:
   article_count: 28
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:24Z'
   warnings: []
   errors: []
 ---
@@ -122,13 +160,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 4 de Fevereiro de 1999.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 25 de Fevereiro de 1999.**
+Assinado em 25 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.
 
 ORGÂNICA DA ESCOLA PROFISSIONAL DE HOTELARIA E TURISMO DA MADEIRA
 
@@ -356,7 +394,9 @@ b) Secção de Contabilidade e Tesouraria (SCT);
 
 c) Secção de Economato (SE).
 
-###### Artigo 11.º — Secção de Administração Geral, Pessoal e Secretariado da Escola
+###### Artigo 11.º
+
+#### Secção de Administração Geral, Pessoal e Secretariado da Escola
 
 À SAGPSE compete:
 
@@ -372,7 +412,9 @@ e) Assegurar todas as tarefas de âmbito administrativo inerentes aos formadores
 
 f) Assegurar o apoio adequado ao funcionamento das aulas.
 
-###### Artigo 12.º — Secção de Contabilidade e Tesouraria
+###### Artigo 12.º
+
+#### Secção de Contabilidade e Tesouraria
 
 À SCT compete:
 
@@ -388,7 +430,9 @@ e) Prestar as necessárias informações inerentes à execução orçamental;
 
 f) Elaborar a conta anual de gerência.
 
-###### Artigo 13.º — Secção de Economato
+###### Artigo 13.º
+
+#### Secção de Economato
 
 À SE compete:
 
@@ -516,10 +560,10 @@ d) O regime do internato de alunos.
 
 (a que se refere o artigo 22.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/03/067b00/15731581.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/03/067b00/15731581.pdf)](https://files.diariodarepublica.pt/1s/1999/03/067b00/15731581.pdf)
 
 ## ANEXO II — Mapa de equivalências
 
 (a que se refere o artigo 24.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/03/067b00/15731581.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/03/067b00/15731581.pdf)](https://files.diariodarepublica.pt/1s/1999/03/067b00/15731581.pdf)

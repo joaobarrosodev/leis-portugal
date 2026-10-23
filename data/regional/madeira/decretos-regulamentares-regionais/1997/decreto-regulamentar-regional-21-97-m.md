@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/1997/09/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1997-654151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd491549d25716fe946e5d7bbf093ca1eaeb9fd4da83380b591466802418b08f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c72b6ebd1d93088994dade031c42c6ad627473dfa8388abb08aa6dfe6f8cd5de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,25 @@ subjects:
 - Definição de Competências
 - Direcção Regional dos Recursos Humanos
 - Inspecção Regional das Actividades Económicas
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:515260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:542254:por
+  label: "Alterado o art. 22º pelo DRR.4/99/M.1999.03.23.PG-RAM, DR.IS-B [83] de 09/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1999-542254
+  date: '1999-03-23'
+- type: amended_by
+  target: pt:dre:515260:por
+  label: "Alterados os arts. 3º, 13º, 15º, 16º, 17º, 18º, 19º e 23º e aditados os arts. 19º-A, 19º-B, 19º-C, 31º-A, 31º-B,\
+    \ 31º-C e 31º-D pelo DRR.22/2000/M.2000.03.02.PG-RAM,DR.Is-B [69] de 22/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2000-515260
+  date: '2000-03-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/4/1997/02/07/m/dre
   label: null
@@ -84,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:09Z'
   warnings: []
   errors: []
 ---
@@ -122,11 +149,11 @@ Aprovado em Conselho do Governo Regional em 31 de Julho de 1997.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
 
-**Assinado em 25 de Agosto de 1997.**
+Assinado em 25 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ORGÂNICA DA DIRECÇÃO REGIONAL DOS RECURSOS HUMANOS
 
@@ -272,7 +299,9 @@ k) Realizar estudos sobre temas cooperativos, designadamente os que possibilitem
 
 4 - A DSE é dirigida por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Programas de Emprego
+##### SUBSECÇÃO I
+
+##### Divisão de Programas de Emprego
 
 ###### Artigo 6.º — Competências
 
@@ -298,7 +327,9 @@ i) Credenciar as cooperativas e suas organizações de grau superior para os efe
 
 2 - A chefia da DPE compete a um chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão de Promoção de Emprego e Desenvolvimento Local
+##### SUBSECÇÃO II
+
+##### Divisão de Promoção de Emprego e Desenvolvimento Local
 
 ###### Artigo 7.º — Competências
 
@@ -324,7 +355,9 @@ i) Estudar, promover e coordenar a produção de meios de publicitação das med
 
 2 - A chefia da DPEDL compete a um chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão de Acompanhamento, Controlo e Avaliação
+##### SUBSECÇÃO III
+
+##### Divisão de Acompanhamento, Controlo e Avaliação
 
 ###### Artigo 8.º — Competências
 
@@ -384,7 +417,9 @@ k) Elaborar estudos, informações e pareceres técnicos e jurídicos sobre mat�
 
 4 - O CRE é dirigido por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Mercado de Emprego
+##### SUBSECÇÃO I
+
+##### Divisão de Mercado de Emprego
 
 ###### Artigo 10.º — Competências
 
@@ -412,7 +447,9 @@ j) Controlar a situação dos desempregados inscritos, em especial dos que benef
 
 2 - A chefia da DME compete a um chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão de Prestações de Desemprego
+##### SUBSECÇÃO II
+
+##### Divisão de Prestações de Desemprego
 
 ###### Artigo 11.º — Competências
 
@@ -740,4 +777,4 @@ f) Encaminhar e acompanhar os projectos, quer na fase de preparação, quer na f
 
 Direcção Regional dos Recursos Humanos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/219b00/52195229.pdf))](https://files.diariodarepublica.pt/1s/1997/09/219b00/52195229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/219b00/52195229.pdf)

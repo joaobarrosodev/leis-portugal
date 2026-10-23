@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 36/1997, 1º Suplemento, Série I-B de 1997-02-12
   number: '36'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 688-(2) a 688-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/036b01/00020007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4-a/1997/02/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-1997-230948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fd4d39fea83af0f189c2fc830d843c7744de16e861888ad667c20bbec293d6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a251a9065dc48feb2b0cd6fc54346689b86d4e469a7ab4501839b28f9a9b9321
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Direcção Regional do Comércio e Indústria
 - Direcção Regional dos Transportes Terrestres
 - Gabinete de Gestão do Litoral
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Secretaria Regional da Economia e Cooperação Externa
 - Secretário Regional da Economia e Cooperação Externa
@@ -80,6 +80,12 @@ relationships:
   target: pt:dre:348305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505390:por
+  label: "Alterados os arts. 4º, 9º, 12º e 13º e aditados os arts. 13º-A, 13º-B e 13º-C à subsecção IV do anexo pelo DRR.26/2000/M.2000.03.14.PG-RAM,DR.IS-B\
+    \ [79] de 03/Abr/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2000-505390
+  date: '2000-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/24-a/1996/12/04/m/dre
   label: null
@@ -92,16 +98,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:348305:por
+  label: "Revogado, á excepção da parte referente aos diversos órgãos e serviços não regulamentados pelo DRR 5/2001/M, de\
+    \ 01-Mar, que se mantém em vigor até à data da entrada em vigor dos diplomas que aprovarão as respectivas orgânicas, pelo\
+    \ DRR.5/2001/M.2001.03.01.PG-RAM DR.IS-B [71] DE 24/MAR/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2001-348305
+  date: '2001-03-01'
 article_structure:
   article_count: 23
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:13Z'
   warnings: []
   errors: []
 ---
@@ -134,13 +163,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional de 30 de Janeiro de 1997.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 12 de Fevereiro de 1997.**
+Assinado em 12 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ORGÂNICA DA SECRETARIA REGIONAL DE ECONOMIA E COOPERAÇÃO EXTERNA
 
@@ -438,4 +467,4 @@ O regime retributivo aplicável ao pessoal da Secretaria Regional de Economia e 
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/036b01/00020007.pdf))](https://files.diariodarepublica.pt/1s/1997/02/036b01/00020007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/036b01/00020007.pdf)

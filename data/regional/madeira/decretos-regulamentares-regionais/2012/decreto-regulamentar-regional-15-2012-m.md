@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2012/06/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2012-178544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 684f4a43ea505e48d88b90cd01754c4afbb629a713d55ccfa2d62226fa925842
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50fc70c08496493fe7fc322477c65eb8ef6c7e4ae5fbdfd749f6e5f122ea83c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Regional do Trabalho
-- Secretaria Regional da Educação e Recursos Humanos
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Regional da Educação e Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:74316109:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70055497:por
+  label: Determinada a extinção da Direção Regional do Trabalho, sendo as suas atribuições integradas na Direção Regional
+    do Trabalho e da Ação Inspetiva pelo(a) Decreto Regulamentar Regional n.º 15/2015/M - Diário da República n.º 161/2015,
+    Série I de 2015-08-19, nos termos dos arts. 24.º e 26.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2015-70055497
+  date: '2015-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/16/1993/09/13/m/dre
   label: null
@@ -113,16 +120,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661569:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74316109:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 14/2016/M - Diário da República n.º 84/2016, Série I de 2016-05-02,
+    sem prejuízo do disposto no art. 13.º, ], e determinada a sucessão da DRTAI em todos os direitos, obrigações e posição
+    jurídica contratual ou processual da Direção Regional do Trabalho
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2016-74316109
+  date: '2016-05-02'
 article_structure:
-  article_count: 17
+  article_count: 18
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:40Z'
   warnings: []
   errors: []
 ---
@@ -161,11 +219,11 @@ O presente decreto regulamentar regional entra em vigor no dia seguinte ao da su
 
 Aprovado em Conselho do Governo Regional em 17 de maio de 2012.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 6 de junho de 2012.**
+Assinado em 6 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -439,7 +497,9 @@ m) Elaborar produtos metodológicos específicos no âmbito da igualdade e não 
 
 Compete ao Secretariado assegurar e apoiar administrativamente o diretor regional.
 
-### CAPÍTULO III — Artigo 12.º
+### CAPÍTULO III
+
+###### Artigo 12.º
 
 Tipo de organização interna
 
@@ -461,8 +521,8 @@ O pessoal da DIRTRA, constante do respetivo mapa de pessoal, integra o sistema c
 
 ## ANEXO II — Cargos de direção superior a que se refere o artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12400/0330803312.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12400/0330803312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12400/0330803312.pdf)
 
 ## ANEXO III — Cargos de direção intermédia a que se refere o artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12400/0330803312.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12400/0330803312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12400/0330803312.pdf)

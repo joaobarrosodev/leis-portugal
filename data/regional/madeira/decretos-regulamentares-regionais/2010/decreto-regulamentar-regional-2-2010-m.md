@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2010/05/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2010-332705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79a1f8c8d2d004a5baeac55b61ff95c82b9e8f655ba7e3195d9d1d97494af9cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 031927ce60d86bde222fe01e2a49d04799e7e6af2327d7fe08d0eddae57abee6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,95 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Cobrança de Impostos
-- Gestão Financeira
+- Contratação de Pessoal
 - Contrato de Locação Financeira
 - Definição de Competências
 - Despesas Públicas
 - Direcção Regional de Informática
 - Direcção Regional de Orçamento e Contabilidade
-- Secretaria Regional do Plano e Finanças
 - Dotação Orçamental
+- Equipamento Informático
 - Execução do Orçamento
 - Fiscalização
 - Fundo de Maneio
+- Gestão Financeira
 - Gestão Orçamental
-- IRS
-- Veículo
-- Contratação de Pessoal
-- Equipamento Informático
-- Orçamento Regional
 - IRC
+- IRS
 - Madeira.região Autónoma
+- Orçamento Regional
 - Receita Própria
 - Retenção na Fonte
+- Secretaria Regional do Plano e Finanças
 - Secretário Regional do Plano e Finanças
 - Taxa
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:105657288:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333363:por
+  label: "Alterado o art. 2º do DLR 3/2001/M de 22-Fev, com a redacção constante do presente diploma, pelo DLR 14/2010/M.05.08.2010.AL-RAM,\
+    \ DR.IS [151] de 05.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2010-333363
+  date: '2010-08-05'
+- type: amended_by
+  target: pt:dre:485631:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DLR.2/2011/M.10.01.2011.AL-RAM,\
+    \ DR.IS [6] de 10.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2011-485631
+  date: '2011-01-10'
+- type: amended_by
+  target: pt:dre:145060:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DLR.20/2011/M.26.12.2011.AL-RAM,\
+    \ DR.IS [246] de 26.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2011-145060
+  date: '2011-12-26'
+- type: amended_by
+  target: pt:dre:189511:por
+  label: "Alterado os art. 2º do DLR 3/2001/M, de 22-fev, na redação do presente diploma, pelo DLR.42/2012/M.31.12.2012.AL-RAM,\
+    \ DR.IS [252] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2012-189511
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164412:por
+  label: "Mantidas em vigor na RAM as taxas de imposto sobre o rendimento das pessoas singulares estabelecidas no art. 2º\
+    \ do DLR 3/2001/M, de 22-fev, na redação do presente diploma, pelo DLR.31-A/2013/M.31.12.2013.AL-RAM, DR.IS [253-2.º supl]\
+    \ de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/31-a-2013-164412
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66012654:por
+  label: Mantidas em vigor na RAM as taxas de Imposto sobre o Rendimento das Pessoas Singulares (IRS) estabelecidas no art.
+    2º do DLR 3/2001/M, de 22-fev, alterado pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 18/2014/M - Diário
+    da República n.º 252/2014, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2014-66012654
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Mantidas em vigor as taxas de imposto sobre o rendimento das pessoas coletivas, para vigorar na RAM, estabelecidas
+    no art 2.º (alterado pelo presente diploma e pelos DLR 29-A/2001/M de 20-dez, 30-A/2003/M de 31-dez, 21-A/2005/M de 30-dez,
+    3/2007/M de 09-jan, 2-A/2008/M de 16-jan, 45/2008/M de 31-dez, 34/2009/M de 31-dez e 2/2011/M de 10-jan, 20/2011/M de
+    26-dez, 31-A/2013/M de 31-dez e 18/2014/M de 31-dez) do DLR 2/2001/M de 20-fev, pelo(a) Decreto Legislativo Regional n.º
+    17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
+- type: amended_by
+  target: pt:dre:74985443:por
+  label: Alterado o art. 2.º do DLR 3/2001/M de 22-fev, na redação do presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 33/2016/M - Diário da República n.º 138/2016, Série I de 2016-07-20 que republica a parte dispositiva do primeiro
+    diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/33-2016-74985443
+  date: '2016-07-20'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Mantidas em vigor, com efeitos desde 01.01.2017, para a Região Autónoma da Madeira as taxas de imposto sobre o rendimento
+    das pessoas coletivas aprovadas pelo art. 2.º do DLR 2/2001/M de 20-fev, na redação do presente diploma, pelo(a) Decreto
+    Legislativo Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/411/1991/10/17/p/dre
   label: null
@@ -136,16 +197,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:34Z'
   warnings: []
   errors: []
 ---
@@ -378,7 +483,7 @@ Taxas gerais de imposto
 
 1 - A tabela de taxas do imposto aplicável aos sujeitos passivos de IRS residentes na Região Autónoma da Madeira, em substituição da tabela de taxas gerais previstas no artigo 68.º do CIRS, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/05/10200/0181901823.pdf))](https://files.diariodarepublica.pt/1s/2010/05/10200/0181901823.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/10200/0181901823.pdf)
 
 2 - O quantitativo do rendimento colectável, quando superior a (euro) 4793, é dividido em duas partes: uma, igual ao limite do maior dos escalões que nele couber, à qual se aplica a taxa da coluna (B) correspondente a esse escalão; outra, igual ao excedente, à qual se aplica a taxa da coluna (A) respeitante ao escalão imediatamente superior.
 
@@ -396,10 +501,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em Conselho do Governo Regional em 6 de Maio de 2010.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 18 de Maio de 2010.**
+Assinado em 18 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

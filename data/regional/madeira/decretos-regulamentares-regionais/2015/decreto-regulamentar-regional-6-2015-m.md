@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13300/0477704782.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2015/07/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2015-69782196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8546a2bfad84a8f0ac7c6a336c623c3c4cdc85c547ea7f3c2b8b7157c69a232
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c12e4c702f3b3a253548a284f05a34b47bd7fa22277d966c20336d5cf7ef7064
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Governo Regional
 - Definição de Competências
+- Direção Regional de Planeamento Recursos e Gestão de Obras Públicas
 - Direcção Regional da Administração da Justiça
-- Vice-presidência do Governo Regional
+- Direcção Regional de Estradas
+- Direcção Regional de Infra-estruturas e Equipamentos
 - Direcção Regional dos Assuntos Europeus e da Cooperação Externa
 - Direcção Regional dos Edifícios Públicos
-- Direcção Regional de Infra-estruturas e Equipamentos
-- Direcção Regional de Estradas
-- Laboratório Regional de Engenharia Civil
-- Direção Regional de Planeamento Recursos e Gestão de Obras Públicas
-- Representação Permanente da RAM
-- Viamadeira
-- Orgânica
-- Madeira.região Autónoma
-- Secretaria Regional
 - Gestão de Recursos Humanos
-- Transferência de Pessoal
+- Governo Regional
+- Laboratório Regional de Engenharia Civil
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Reestruturação de Serviços
+- Representação Permanente da RAM
+- Secretaria Regional
 - Secretaria Regional dos Assuntos Parlamentares e Europeus
+- Transferência de Pessoal
+- Viamadeira
+- Vice-presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:114561727:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73230228:por
+  label: Alterados os arts 5.º, 10.º e 14.º e o Anexo I, aditado o art 15.º-A, extinta (a partir de 22.01.2016) a Representação
+    Permanente da Região Autónoma da Madeira em Lisboa e revogados (a partir de 22.01.2016, sem prejuízo do disposto nos no.s
+    4 e 5 do art. 7.º do DRR 3/2016/M de 21-jan) a al. h) do n.º 1 do art 2.º, as als. d) e e) do n.º 1 e o n.º 2 do art 5.º,
+    os arts 11.º, 12.º e 16.º, eliminada a Secção III do Capítulo III do presente diploma, pelo(a) Decreto Regulamentar Regional
+    n.º 3/2016/M - Diário da República n.º 14/2016, Série I de 2016-01-21, que procede à republicação, em anexo, da orgânica
+    da Secretaria Regional dos Assuntos Parlamentares e Europeus
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2016-73230228
+  date: '2016-01-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
   label: null
@@ -130,16 +140,129 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/
   label: null
   source: http://data.dre.pt/eli/port/
+- type: cites
+  target: pt:dre:145229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114561727:por
+  label: Revogado, o presente diploma, na redação do DRR 3/2016/M de 21-jan, à exceção da parte referente aos diversos órgãos
+    e serviços não regulamentados no presente diploma, cujas atribuições e competências transitaram para outros departamentos
+    governamentais, que se mantém em vigor até à data da entrada em vigor dos diplomas que aprovarão as respetivas orgânicas
+    pelo(a) Decreto Regulamentar Regional n.º 2/2018/M - Diário da República n.º 17/2018, Série I de 2018-01-24, nos termos
+    do seu art. 19.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2018-114561727
+  date: '2018-01-24'
 article_structure:
   article_count: 22
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:06Z'
   warnings: []
   errors: []
 ---
@@ -174,11 +297,11 @@ Objeto
 
 Aprovado em Conselho do Governo Regional em 18 de junho de 2015.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 30 de junho de 2015.**
+Assinado em 30 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -416,8 +539,8 @@ Todas as referências legais ou regulamentares feitas à Vice-Presidência do Go
 
 ## ANEXO I — Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13300/0477704782.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13300/0477704782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13300/0477704782.pdf)
 
 ## ANEXO II — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/13300/0477704782.pdf))](https://files.diariodarepublica.pt/1s/2015/07/13300/0477704782.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/13300/0477704782.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/22/2005/12/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/22-2005-489541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d3bcd8fcd0e579d073f41f6558c911d6d01c600c5018f2468236071b25e9345
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a9c06e4e657b2a3f71610796c0aa029f44d35f28a9bae90b05b696282a3b410
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/10-a/2000/04/27/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/10-a/2000/04/27/m/dre
+- type: cites
+  target: pt:dre:241999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:50Z'
   warnings: []
   errors: []
 ---
@@ -95,4 +103,4 @@ A Assembleia Legislativa da Madeira, reunida em Plenário em 15 de Novembro de 2
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de Novembro de 2005.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/190b00/43044305.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/1991/08/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1991-402768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 285a7d7a65ea52b0cd96f8e98c8ecdc31827c234d3ce5d9473aa436c5fafc24c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d364247bb94d39c2793346f2204d1d2bb3295d88b7a59771ab5303d65fd2877
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Animador Pedagógico
-- Estatuto
 - Ensino Básico
+- Estatuto
 - Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:438196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:438196:por
+  label: "Revogado pelo DLR.15/98/M.1998.07.21.ALR-RAM, DR.IS-A [183] de 10/Ago/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-1998-438196
+  date: '1998-07-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:19Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +111,11 @@ Considerando que se pretende uma maior eficiência na formação contínua dos p
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição da República e da alínea f) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 364/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1979-370782), de 4 de Setembro, o seguinte:
 
-###### Artigo 1.º Para efeitos de animação pedagógica, as escolas de cada concelho serão agrupadas em núcleo.
+Artigo 1.º Para efeitos de animação pedagógica, as escolas de cada concelho serão agrupadas em núcleo.
 
-###### Art. 2.º Constituem um núcleo de animação o animador pedagógico e um grupo de 20 a 50 professores ou o conjunto dos professores de cada concelho em que estes números não sejam atingidos.
+Art. 2.º Constituem um núcleo de animação o animador pedagógico e um grupo de 20 a 50 professores ou o conjunto dos professores de cada concelho em que estes números não sejam atingidos.
 
-###### Art. 3.º Compete ao animador pedagógico:
+Art. 3.º Compete ao animador pedagógico:
 
 a) Dinamizar o trabalho de grupo e fomentar o espírito de equipa entre os professores, tendo em conta as orientações definidas pela Direcção Regional do Ensino;
 
@@ -126,20 +135,20 @@ h) Aderir às actividades dos conselhos escolares, sempre que solicitado;
 
 i) Dar conhecimento à Direcção Regional do Ensino dos planos escolares anuais.
 
-###### Art. 4.º O animador pedagógico, no exercício de tais funções, terá direito a uma gratificação mensal equivalente a 10% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e dos ensinos básico e secundário, a abonar durante os 12 meses do ano.
+Art. 4.º O animador pedagógico, no exercício de tais funções, terá direito a uma gratificação mensal equivalente a 10% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e dos ensinos básico e secundário, a abonar durante os 12 meses do ano.
 
-###### Art. 5.º Os animadores pedagógicos serão nomeados pelo Secretário Regional da Educação, Juventude e Emprego.
+Art. 5.º Os animadores pedagógicos serão nomeados pelo Secretário Regional da Educação, Juventude e Emprego.
 
-###### Art. 6.º O exercício de funções de animador pedagógico será fixado por um prazo de dois anos, podendo ser sucessivamente prorrogado por idênticos períodos, cessando em qualquer momento por decisão superior ou a pedido do interessado com a antecedência de 60 dias.
+Art. 6.º O exercício de funções de animador pedagógico será fixado por um prazo de dois anos, podendo ser sucessivamente prorrogado por idênticos períodos, cessando em qualquer momento por decisão superior ou a pedido do interessado com a antecedência de 60 dias.
 
-###### Art. 7.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1991.
+Art. 7.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1991.
 
 Aprovado em Conselho do Governo Regional em 2 de Maio de 1991.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 24 de Maio de 1991.**
+Assinado em 24 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

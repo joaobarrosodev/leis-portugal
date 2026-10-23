@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/17/2025/10/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/17-2025-941547434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 959fea236bbebf4243383a571f38bef1be91300181a2d94e719bb04e7e5166df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bce02a85dda6dbcf6aa80399f0cae22032d0ce4f789e9f552cfb7de24340bc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
+- Assembleia Legislativa
 - Estatuto dos Benefícios Fiscais
 - Iniciativa Legislativa
-- Assembleia Legislativa
-- Assembleia da República
 - Madeira.região Autónoma
 - Zona Franca
 relationships:
@@ -97,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/45-a/2024/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/45-a/2024/12/31/p/dre
+- type: cites
+  target: pt:dre:161766414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901667918:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:49Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +169,7 @@ Neste contexto, urge prorrogar os efeitos do atual regime da ZFM até ao final d
 
 Mostra-se, igualmente, relevante que se prorroguem os efeitos dos benefícios ainda contidos no artigo 33.º do Estatuto dos Benefícios Fiscais (EBF), na sequência da prorrogação dos efeitos do regime em vigor, por forma a garantir a coerência, estabilidade, atratividade e previsibilidade do regime em vigor.
 
-Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
+Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
 
 ###### Artigo 1.º — Objeto
 
@@ -215,7 +239,7 @@ O artigo 2.º da [Lei n.º 21/2021](https://diariodarepublica.pt/dr/detalhe/lei/
 
 1 - [...]
 
-2 - A vigência dos n.<sup>os</sup>4 a 20 do artigo 33.º do EBF, para efeitos da remissão do n.º 13 do artigo 36.º-A, é prorrogada até 31 de dezembro de 2033.
+2 - A vigência dos n.os4 a 20 do artigo 33.º do EBF, para efeitos da remissão do n.º 13 do artigo 36.º-A, é prorrogada até 31 de dezembro de 2033.
 
 3 - [...]»
 
@@ -225,4 +249,6 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de outubro de 2025.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119679546

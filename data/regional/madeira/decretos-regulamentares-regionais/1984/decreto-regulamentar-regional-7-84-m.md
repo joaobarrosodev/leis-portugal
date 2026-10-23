@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/09300/13041340.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,120 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1984-654954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8a06caa53e87a533da8ab1b93e9f619733c6dd29e0ee9097f12ab456193a0b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d8d5de142c02bfaef786ba5c3a60a0a9e4c9c5a67e75a857142a246f56e71a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Previdência Agro-pecuária
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional da Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:584873:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662681:por
+  label: "Alterados os arts. 8º e 11º pelo DRR.5/87/M.21.02.1987.GR-RAM, DR.IS [44] de 21.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1987-662681
+  date: '1987-02-21'
+- type: amended_by
+  target: pt:dre:693196:por
+  label: "Extinta a Divisão do Parque de Máquinas e Viaturas do Gabinete do Secretário Regional criada pela al. f) do art.\
+    \ 5º deste diploma, pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B [94] de 16.05.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
+- type: amended_by
+  target: pt:dre:584873:por
+  label: "Extinta a Direcção Regional de Pecuária, criada pela al. b) do art. 7º do presente diploma, pela DRR.31/2005/M.26.09.2005.PG-RAM,\
+    \ DR.IS-B [211] de 03.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2005-584873
+  date: '2005-09-26'
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678196:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:611503:por
+  label: "Revogado pelo DRR.5/89/M.14.02.1989.GR-RAM, DR.IS [37] de 14.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1989-611503
+  date: '1989-02-14'
 article_structure:
   article_count: 108
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 36
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:30Z'
   warnings: []
   errors: []
 ---
@@ -520,7 +600,9 @@ d) Estudar, planear e promover acções de preparação pedagógica e de especia
 
 e) Definir critérios objectivos de recrutamento do pessoal para os serviços de extensão em colaboração com os outros departamentos.
 
-#### SECÇÃO VI — Divisão do Parque de Máquinas e Viaturas
+#### SECÇÃO VI
+
+##### Divisão do Parque de Máquinas e Viaturas
 
 ###### Artigo 25.º
 
@@ -1216,7 +1298,9 @@ c) Apoiar tecnicamente a organização dos processos de aquisição de equipamen
 
 d) Garantir a conservação e operacionalidade do equipamento, mobiliário e outro material.
 
-##### SUBSECÇÃO IV — Secção de Informação e Documentação Técnica
+##### SUBSECÇÃO IV
+
+#### Secção de Informação e Documentação Técnica
 
 ###### Artigo 64.º
 
@@ -1864,14 +1948,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Plenário do Governo Regional de 29 de Dezembro de 1983.
 
-**O Presidente do Governo, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 1 de Fevereiro de 1984.**
+Assinado em 1 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 QUADRO DE PESSOAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/04/09300/13041340.pdf))](https://files.diariodarepublica.pt/1s/1984/04/09300/13041340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/04/09300/13041340.pdf)

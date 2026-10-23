@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/11/21800/0508805092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2010/11/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2010-309036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 214964e5a45751ecb255f54bf5b9008e65295161125560b970d114a9eb9ab36d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01203ab52f19eab835aa55bc4c9834bf08075cc09403f515415c820fddd0a8d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Coordenador
 - Definição de Competências
-- Regime Laboral
 - Direcção Regional da Administração Pública e Local
-- Vice-presidência do Governo Regional
 - Extinção de Lugares
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Chefia
 - Pessoal de Inspecção
-- Madeira.região Autónoma
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Regime Laboral
+- Vice-presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:70014798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:190375:por
+  label: "Alterados os arts. 1.º e 4.º e a dotação de lugares de direção intermédia constantes da orgânica publicada em anexo,\
+    \ pelo DRR.39/2012/M.27.12.2012.PG-RAM, DR.IS [250] de 27.12.2012, que a republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/39-2012-190375
+  date: '2012-12-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
   label: null
@@ -122,16 +128,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70014798:por
+  label: Revogado (a partir de 15.08.2015), o presente diploma, na redação do DRR 39/2012/M de 27-dez pelo(a) Decreto Regulamentar
+    Regional n.º 9/2015/M - Diário da República n.º 158/2015, Série I de 2015-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2015-70014798
+  date: '2015-08-14'
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:35Z'
   warnings: []
   errors: []
 ---
@@ -168,11 +224,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 22 de Outubro de 2010.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Novembro de 2010.**
+Assinado em 2 de Novembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -442,4 +498,4 @@ A dotação de cargos de direcção superior do 1.º grau e de direcção interm
 
 ## ANEXO — (a que se refere o artigo 16.º da orgânica da DRAPL)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/21800/0508805092.pdf))](https://files.diariodarepublica.pt/1s/2010/11/21800/0508805092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/21800/0508805092.pdf)

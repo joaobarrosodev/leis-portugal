@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2000/03/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2000-508461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 206fb5ac6a01480b90521c60a98bf91b2465d20502579b6364f11b7e09bf956f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c5592cfa623f4cf474ffe6c916e078ffc88e5ffce45e8ea560bbdc6579697bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Informática
-- Secretaria Regional do Plano e da Coordenação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional do Plano e da Coordenação
 relationships:
 - type: amended_by
   target: pt:dre:191542:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191542:por
+  label: "Mantida em vigor, até à entrada em vigor dos diplomas que aprovarem a estrutura interna da DRI, a estrutura orgânica\
+    \ estabelecida no presente diploma pelo DRR.27/2012/M.30.10.2012.PG-RAM, DR.IS [210] de 30.10.2012, sem prejuízo do disposto\
+    \ no nº 1 do seu art. 3º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2012-191542
+  date: '2012-10-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -107,16 +114,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:182203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692040:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247978:por
+  label: "Revogados os quadros de pessoal anexos com a aprovação dos quadros de pessoal previstos nos nºs 1 a 3 do art. 26º\
+    \ da lei orgânica aprovada pelo DRR.2/2008/M.15.02.2008.PG-RAM, DR.IS [33] de 15.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2008-247978
+  date: '2008-02-15'
 article_structure:
   article_count: 33
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:31Z'
   warnings: []
   errors: []
 ---
@@ -151,11 +196,11 @@ Aprovado em Conselho do Governo Regional em 10 de Fevereiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 28 de Fevereiro de 2000.**
+Assinado em 28 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ORGÂNICA DA DIRECÇÃO REGIONAL DE INFORMÁTICA
 
@@ -363,7 +408,9 @@ l) Manter actualizado o inventário de dados necessários aos sistemas de inform
 
 2 - O director de serviços de Produção é substituído nas suas ausências e impedimentos pelo chefe de divisão ou funcionário integrado nas carreiras de informática para o efeito designado.
 
-##### SUBSECÇÃO I — Divisão de Exploração
+##### SUBSECÇÃO I
+
+##### Divisão de Exploração
 
 ###### Artigo 14.º — Natureza e atribuições
 
@@ -399,7 +446,9 @@ a) Divisão de Projectos;
 
 b) Divisão de Sistemas de Informação.
 
-##### SUBSECÇÃO I — Divisão de Projectos
+##### SUBSECÇÃO I
+
+##### Divisão de Projectos
 
 ###### Artigo 18.º — Natureza e atribuições
 
@@ -421,7 +470,9 @@ f) Colaborar em projectos pilotos experimentais empreendidos na área competente
 
 g) Responder a outras solicitações que lhe sejam dirigidas nas suas áreas de competência.
 
-##### SUBSECÇÃO II — Divisão de Sistemas de Informação
+##### SUBSECÇÃO II
+
+##### Divisão de Sistemas de Informação
 
 ###### Artigo 19.º — Natureza e atribuições
 
@@ -481,7 +532,9 @@ a) Divisão de Inovação Tecnológica;
 
 b) Divisão de Qualidade e Segurança.
 
-##### SUBSECÇÃO I — Divisão de Inovação Tecnológica
+##### SUBSECÇÃO I
+
+##### Divisão de Inovação Tecnológica
 
 ###### Artigo 23.º — Natureza e atribuições
 
@@ -499,7 +552,9 @@ d) Conduzir e apoiar o desenvolvimento de projectos especiais de concepção e i
 
 e) Responder às solicitações no domínio da sua especialidade.
 
-##### SUBSECÇÃO II — Divisão de Qualidade e Segurança
+##### SUBSECÇÃO II
+
+##### Divisão de Qualidade e Segurança
 
 ###### Artigo 24.º — Natureza e atribuições
 

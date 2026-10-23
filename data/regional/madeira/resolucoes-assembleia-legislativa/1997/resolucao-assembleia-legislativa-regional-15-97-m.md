@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/15/1997/07/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/15-1997-150888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ca9c4d7335c5213b6cebf5465497799dcad51e815b176d5b4cbfe4738cd2ce7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87ba5a4d7b42b452f4d8401999b832dc17753b6b52657e88ac1ff2db49f22795
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência de Turismo
-- Turismo
-- Promoção Turística
 - Congresso
 - Madeira.região Autónoma
+- Promoção Turística
+- Turismo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:55Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +100,4 @@ A Assembleia Legislativa Regional resolve recomendar ao Governo Regional a promo
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 5 de Junho de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival de Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival de Mendonça.

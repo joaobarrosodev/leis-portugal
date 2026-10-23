@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/1/1998/01/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/1-1998-225179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be3380d76898d08967dcf5ae2453008d34eee0ea7d8ff178d9622c8f3962133e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 261bab8b18245ecbe1a8d4fb57dcf322208559459a190b251098b7786d6e5ca8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Regional
-- Governo Regional
 - Definição de Competências
-- Presidência do Governo Regional
 - Estatuto
 - Estatuto Político-Administrativo da Região Autónoma da Madeira
+- Governo Regional
+- Madeira.região Autónoma
+- Ministro da República
+- Presidência do Governo Regional
+- Presidente da Assembleia da República
 - Presidente da República
 - Presidente do Governo Regional
 - Primeiro-ministro
-- Ministro da República
-- Presidente da Assembleia da República
-- Madeira.região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:00Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +113,8 @@ Nos actos ao âmbito da Região Autónoma da Madeira, a presidência destes comp
 
 Tratando-se então de um acto de iniciativa do Estado, na Região, compete ao Ministro da República a presidência, se estiver presente e na ausência do ministro da respectiva tutela;
 
-**O Presidente da República, ou o Presidente da Assembleia da República ou o Primeiro-Ministro presidem sempre em quaisquer circunstâncias, caso pessoalmente presentes.**
+O Presidente da República, ou o Presidente da Assembleia da República ou o Primeiro-Ministro presidem sempre em quaisquer circunstâncias, caso pessoalmente presentes.
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 13 de Novembro de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival de Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival de Mendonça.

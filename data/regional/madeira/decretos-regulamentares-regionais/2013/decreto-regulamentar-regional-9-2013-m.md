@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2013/05/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2013-261115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6efbea2739af74350897109e6a9836d0ddc1d3210785ad8728d0ff51a6de7355
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a298c1c73f1faefa778fdb4cd7dbfd236e49518e9a738e73681ee26858cf50a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,16 @@ reuse:
 subjects:
 - Abono para Falhas
 - Acesso à Informação
-- Reestruturação de Serviços
+- Administração Regional
 - Aquisição de Bens e Serviços
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
 - Cativação de Verba
+- Cobrança de Dívidas
 - Cobrança de Impostos
-- Gestão Financeira
-- Governo Regional
+- Conselho do Governo Regional
+- Contabilidade Pública
 - Contenção de Despesas
 - Contrato de Locação Financeira
 - Controlo Financeiro
@@ -85,41 +86,40 @@ subjects:
 - Direcção Regional de Orçamento e Contabilidade
 - Direcção Regional do Património
 - Direcção Regional do Tesouro
-- Secretaria Regional do Plano e Finanças
 - Dívida Pública
 - Dívidas ao Estado
 - Dotação Orçamental
 - Duodécimo
-- Empresa Pública Regional
 - Empresa Pública
+- Empresa Pública Regional
 - Execução do Orçamento
+- Fet-m
+- Finanças Regionais
 - Fiscalização
 - Fundo de Maneio
 - Fundos Autónomos
-- Presidente do Governo Regional
+- Gestão Financeira
 - Gestão Orçamental
-- Conselho do Governo Regional
+- Governo Regional
 - Instituto de Desenvolvimento Regional
-- Finanças Regionais
-- Veículo
 - Liquidação de Despesas
 - Locação Financeira
-- Fet-m
+- Madeira.região Autónoma
 - Orçamento Regional
 - Organismo Autónomo
-- Tesouraria
 - Plano Oficial de Contabilidade
 - Prazo
+- Presidente do Governo Regional
 - Prestação de Contas
-- Madeira.região Autónoma
 - Receita
-- Cobrança de Dívidas
+- Reestruturação de Serviços
 - Reposição de Verbas
 - Responsabilidade Financeira
+- Secretaria Regional do Plano e Finanças
 - Secretário Regional
-- Administração Regional
-- Contabilidade Pública
+- Tesouraria
 - Tutela
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:498741:por
@@ -161,16 +161,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:189511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:498741:por
+  label: "Revogado o art. 4.º pelo DRR.12/2013/M.26.07.2013.PG-RAM, DR.IS [143] de 26.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2013-498741
+  date: '2013-07-26'
 article_structure:
   article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:54Z'
   warnings: []
   errors: []
 ---
@@ -499,10 +544,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em Conselho do Governo Regional em 18 de abril de 2013.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 15 de maio de 2013.**
+Assinado em 15 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

@@ -46,40 +46,164 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1990-557796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b8f0d18e4f8d7bf61cdbe60c64c640031710dd3887f3dcee25e5bec82e55708
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d91d4d468096886354b76a7c89eea8ea488520daedf4c3645b3d748a33cbf8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional das Pescas
+- Direcção Regional de Agricultura
+- Direcção Regional de Pecuária
+- Direcção Regional do Comércio e Indústria
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional da Economia
 relationships:
 - type: amended_by
   target: pt:dre:234110:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217927:por
+  label: "Criada a carreira de coordenador de decorações na Secretaria Regional da Economia pelo DLR.12/92/M.21.04.1992.ALR-RAM,\
+    \ DR.IS-A [93] de 21.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-1992-217927
+  date: '1992-04-21'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:624202:por
+  label: Rectificado pela DECL.DD3131.1990.10.16.PCM, DR.IS [252]2ºSupl de 31.10.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-624202
+  date: '1990-10-16'
+- type: repealed_by
+  target: pt:dre:645716:por
+  label: "Revogado pelo DRR.5/93/M.05.02.1993.GR-RAM, DR.IS-B [30] de 05.02.1993, na parte respeitante aos serviços abrangidos\
+    \ no citado diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1993-645716
+  date: '1993-02-05'
+- type: repealed_by
+  target: pt:dre:677438:por
+  label: "Revogado pelo DRR.7/93/M.27.03.1993.GR-RAM, DR.IS-B [73] de 27.03.1993, em tudo o que se revelar incompatível com\
+    \ o citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1993-677438
+  date: '1993-03-27'
+- type: repealed_by
+  target: pt:dre:265712:por
+  label: "Revogado pelo DRR.20/93/M.28.06.1993.GR-RAM, DR.IS-B [149] de 28.06.1993, em tudo o que se mostrar inconciliável\
+    \ com o citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1993-265712
+  date: '1993-06-28'
+- type: repealed_by
+  target: pt:dre:655331:por
+  label: "Revogado pelo DRR.7/94/M.30.08.1994.GR-RAM, DR.IS-B [200] de 30.08.1994, em tudo o que se revelar incompatível com\
+    \ o citado diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1994-655331
+  date: '1994-08-30'
 article_structure:
-  article_count: 17
-  section_count: 52
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 16
+  section_count: 54
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:13Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +226,9 @@ Orgânica de Secretaria Regional da Economia
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Secretaria Regional da Economia, adiante designada por SREC, é o departamento do Governo Regional da Madeira que tem por atribuições definir e executar as acções necessárias ao cumprimento da política regional respeitante à agricultura, florestas, pecuária, pescas, alimentação, comércio e indústria.
+Artigo 1.º A Secretaria Regional da Economia, adiante designada por SREC, é o departamento do Governo Regional da Madeira que tem por atribuições definir e executar as acções necessárias ao cumprimento da política regional respeitante à agricultura, florestas, pecuária, pescas, alimentação, comércio e indústria.
 
-###### Art. 2.º - 1 - A SREC é superiormente dirigida pelo Secretário Regional, a quem compete, designadamente:
+Art. 2.º - 1 - A SREC é superiormente dirigida pelo Secretário Regional, a quem compete, designadamente:
 
 a) Definir a política para os sectores de actividade referidos no artigo anterior, elaborando os respectivos planos de desenvolvimento a serem integrados no plano geral de desenvolvimento regional;
 
@@ -126,7 +250,7 @@ h) Exercer as demais competências que lhe sejam cometidas por lei.
 
 3 - O Secretário Regional poderá, igualmente, avocar as competências dos directores regionais e de serviços.
 
-###### Art. 3.º Ao Secretário Regional da Economia compete exercer a tutela sobre os seguintes serviços personalizados e fundos públicos:
+Art. 3.º Ao Secretário Regional da Economia compete exercer a tutela sobre os seguintes serviços personalizados e fundos públicos:
 
 a) Instituto do Vinho da Madeira;
 
@@ -144,7 +268,7 @@ f) Fundo Regional de Intervenção e Garantia Agrícola.
 
 #### SECÇÃO I — Órgãos e serviços
 
-###### Art. 4.º A SREC compreende os seguintes órgãos e serviços:
+Art. 4.º A SREC compreende os seguintes órgãos e serviços:
 
 a) Gabinete do Secretário Regional;
 
@@ -164,7 +288,7 @@ h) Direcção Regional do Comércio e Indústria.
 
 #### SECÇÃO II — Gabinete do Secretário Regional
 
-###### Art. 5.º - 1 - O Gabinete do Secretário Regional da Economia compreende um chefe de gabinete, um adjunto e duas secretárias particulares.
+Art. 5.º - 1 - O Gabinete do Secretário Regional da Economia compreende um chefe de gabinete, um adjunto e duas secretárias particulares.
 
 2 - Podem ser destacados para prestar serviço junto do Gabinete do Secretário Regional quaisquer funcionários ou agentes da SREC.
 
@@ -172,9 +296,9 @@ h) Direcção Regional do Comércio e Indústria.
 
 #### SECÇÃO III — Órgãos e serviços de apoio
 
-###### Art. 6.º - A Assessoria Técnica é um serviço de estudo e planeamento, competindo-lhe, designadamente, prestar apoio técnico e científico ao Gabinete do Secretário Regional em matérias que exijam preparação específica, elaborando os estudos e pareceres que lhe sejam solicitados.
+Art. 6.º - A Assessoria Técnica é um serviço de estudo e planeamento, competindo-lhe, designadamente, prestar apoio técnico e científico ao Gabinete do Secretário Regional em matérias que exijam preparação específica, elaborando os estudos e pareceres que lhe sejam solicitados.
 
-###### Art. 7.º A Assessoria Jurídica é um órgão de apoio ao Gabinete do Secretário Regional, com funções exclusivas de mera consulta jurídica, competindo-lhe o seguinte:
+Art. 7.º A Assessoria Jurídica é um órgão de apoio ao Gabinete do Secretário Regional, com funções exclusivas de mera consulta jurídica, competindo-lhe o seguinte:
 
 a) Emitir pareceres e elaborar estudos jurídicos;
 
@@ -184,7 +308,7 @@ c) Participar na elaboração dos pareceres necessários à pronúncia da Regiã
 
 d) Promover a adequada e necessária difusão de toda a legislação de interesse para a Secretaria Regional.
 
-###### Art. 8.º - 1 - A Direcção dos Serviços Administrativos e Financeiros, abreviadamente designada por DSAF, é o departamento que, sob a orientação do Secretário Regional e em cooperação com os demais serviços, coordena a gestão dos recursos humanos e assegura o apoio administrativo e financeiro da SREC.
+Art. 8.º - 1 - A Direcção dos Serviços Administrativos e Financeiros, abreviadamente designada por DSAF, é o departamento que, sob a orientação do Secretário Regional e em cooperação com os demais serviços, coordena a gestão dos recursos humanos e assegura o apoio administrativo e financeiro da SREC.
 
 2 - À DSAF compete, nomeadamente:
 
@@ -218,7 +342,7 @@ c) Divisão de Informática.
 
 #### SECÇÃO I — Atribuições
 
-###### Art. 9.º - 1 - Cabe, genericamente, à Direcção Regional da Agricultura, abreviadamente designada por DRA, apoiar o Secretário Regional na execução da política definida pelo Governo Regional para o sector agrário e assegurar, de acordo com as orientações superiormente estabelecidas, a sua dinamização e modernização.
+Art. 9.º - 1 - Cabe, genericamente, à Direcção Regional da Agricultura, abreviadamente designada por DRA, apoiar o Secretário Regional na execução da política definida pelo Governo Regional para o sector agrário e assegurar, de acordo com as orientações superiormente estabelecidas, a sua dinamização e modernização.
 
 2 - Incumbe, designadamente, à DRA:
 
@@ -230,7 +354,7 @@ c) Promover a recolha, tratamento e difusão da informação técnico-económica
 
 #### SECÇÃO II — Estrutura
 
-###### Art. 10.º A DRA compreende os seguintes órgãos e serviços:
+Art. 10.º A DRA compreende os seguintes órgãos e serviços:
 
 a) Director regional;
 
@@ -256,7 +380,7 @@ l) Repartição dos Serviços Administrativos.
 
 #### SECÇÃO III — Director regional
 
-###### Art. 11.º - 1 - Ao director regional de Agricultura compete, genericamente, superintender a acção de todos os órgãos e serviços da DRA e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou de decisão superior.
+Art. 11.º - 1 - Ao director regional de Agricultura compete, genericamente, superintender a acção de todos os órgãos e serviços da DRA e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou de decisão superior.
 
 2 - No âmbito do disposto no número anterior, compete, designadamente, ao director regional:
 
@@ -268,17 +392,17 @@ c) Apresentar superiormente o plano de actividades e o orçamento anual da DRA e
 
 d) Promover a gestão participativa por objectivos, criando as condições necessárias a uma maior descentralização e atribuição de responsabilidades que conduzam a um aumento da eficiência dos diversos serviços.
 
-###### Art. 12.º - 1 - O director regional pode delegar ou subdelegar poderes da sua competência nos titulares dos cargos dirigentes dos diversos serviços da DRA.
+Art. 12.º - 1 - O director regional pode delegar ou subdelegar poderes da sua competência nos titulares dos cargos dirigentes dos diversos serviços da DRA.
 
 2 - O director regional pode avocar as competências dos vários directores de serviços e chefes de divisão da DRA.
 
 3 - Nas suas faltas ou impedimentos, será o director regional substituído por um director de serviços ou por um técnico superior, para o efeito designado.
 
-###### Art. 13.º O director regional será apoiado por consultores jurídicos, com funções exclusivas de mera consulta jurídica.
+Art. 13.º O director regional será apoiado por consultores jurídicos, com funções exclusivas de mera consulta jurídica.
 
 #### SECÇÃO IV — Gabinete de Planeamento Agrário e Assuntos Europeus
 
-###### Art. 14.º - 1 - O Gabinete de Planeamento Agrário e Assuntos Europeus, abreviadamente designado por GAPAAE, é dirigido por um director de serviços.
+Art. 14.º - 1 - O Gabinete de Planeamento Agrário e Assuntos Europeus, abreviadamente designado por GAPAAE, é dirigido por um director de serviços.
 
 2 - Ao GAPAAE compete, designadamente:
 
@@ -294,7 +418,7 @@ e) Compilar, organizar e difundir toda a bibliografia, documentação, textos e 
 
 #### SECÇÃO V — Direcção dos Serviços de Produção Agrícola
 
-###### Art. 15.º - 1 - À Direcção dos Serviços de Produção Agrícola, abreviadamente designada por DSPA, compete, nomeadamente:
+Art. 15.º - 1 - À Direcção dos Serviços de Produção Agrícola, abreviadamente designada por DSPA, compete, nomeadamente:
 
 a) Executar os programas da política agrícola da DRA;
 
@@ -326,7 +450,7 @@ g) Biblioteca e Arquivo.
 
 #### SECÇÃO VI — Direcção dos Serviços Florestais
 
-###### Art. 16.º - 1 - À Direcção dos Serviços Florestais, abreviadamente designada por DSF, compete, designadamente:
+Art. 16.º - 1 - À Direcção dos Serviços Florestais, abreviadamente designada por DSF, compete, designadamente:
 
 a) Promover a elaboração e a realização dos planos e projectos, de infra-estruturas ou outros, necessários à prossecução dos objectivos de política florestal que forem definidos e aprovados pela DRA;
 
@@ -356,7 +480,7 @@ c) Divisão de Vida Animal.
 
 #### SECÇÃO VII — Direcção dos Serviços de Investigação Agrícola
 
-###### Art. 17.º - 1 - À Direcção dos Serviços de Investigação Agrícola, abreviadamente designada por DSIA, compete, nomeadamente:
+Art. 17.º - 1 - À Direcção dos Serviços de Investigação Agrícola, abreviadamente designada por DSIA, compete, nomeadamente:
 
 a) Promover, coordenar e apoiar a investigação e experimentação agrícola, de harmonia com os programas aprovados no âmbito do sector;
 
@@ -376,7 +500,7 @@ c) Divisão de Análises Agrícolas.
 
 #### SECÇÃO VIII — Direcção dos Serviços Hidroagrícolas
 
-###### Art. 18.º - 1 - À Direcção dos Serviços Hidroagrícolas, abreviadamente designada por DSH, compete, designadamente:
+Art. 18.º - 1 - À Direcção dos Serviços Hidroagrícolas, abreviadamente designada por DSH, compete, designadamente:
 
 a) Promover a execução dos programas da política hidroagrícola da DRA, bem como contribuir para a realização e coordenação dos novos aproveitamentos hidroagrícolas, visando a utilização das áreas irrigadas;
 
@@ -398,7 +522,7 @@ b) Divisão de Cadastro, Distribuição e Controlo de Caudais.
 
 #### SECÇÃO IX — Direcção dos Serviços de Agro-Indústria e Comércio Agrícola
 
-###### Art. 19.º - 1 - À Direcção dos Serviços de Agro-Indústria e Comércio Agrícola, abreviadamente designada por DSAICA, compete, nomeadamente:
+Art. 19.º - 1 - À Direcção dos Serviços de Agro-Indústria e Comércio Agrícola, abreviadamente designada por DSAICA, compete, nomeadamente:
 
 a) Colaborar com o FRIGA e com organizações representativas dos agentes económicos na regularização, orientação e funcionamento dos mercados agrícolas e pecuários;
 
@@ -438,7 +562,7 @@ e) Divisão de Qualidade Alimentar.
 
 #### SECÇÃO X — Direcção dos Serviços de Extensão Rural
 
-###### Art. 20.º - 1 - À Direcção dos Serviços de Extensão Rural, abreviadamente designada por DSER, compete, nomeadamente:
+Art. 20.º - 1 - À Direcção dos Serviços de Extensão Rural, abreviadamente designada por DSER, compete, nomeadamente:
 
 a) Estudar, definir e propor a aplicação dos meios mais adequados ao desenvolvimento integral das comunidades rurais da Região, habilitando as populações para uma participação consciente no estudo e execução dos programas de autodesenvolvimento a levar a cabo com a intervenção de serviços diferenciados;
 
@@ -454,9 +578,11 @@ a) Divisão de Estudos, Planeamento, Coordenação e Associativismo;
 
 b) Divisão de Formação Profissional.
 
-#### SECÇÃO XI — Divisão do Jardim Botânico
+#### SECÇÃO XI
 
-###### Art. 21.º À Divisão do Jardim Botânico, que funciona na dependência directa do director regional, compete, designadamente:
+##### Divisão do Jardim Botânico
+
+Art. 21.º À Divisão do Jardim Botânico, que funciona na dependência directa do director regional, compete, designadamente:
 
 a) Promover a investigação científica nos domínios da botânica, em colaboração com os organismos afins, nacionais e estrangeiros;
 
@@ -476,9 +602,11 @@ h) Proceder à introdução e aclimatização de plantas úteis ou para fins de 
 
 i) Contribuir para a formação profissional do pessoal técnico e auxiliar de jardinagem.
 
-#### SECÇÃO XII — Divisão do Parque de Máquinas e Viaturas
+#### SECÇÃO XII
 
-###### Art. 22.º À Divisão do Parque de Máquinas e Viaturas, que funciona na directa dependência do director regional, compete, nomeadamente:
+##### Divisão do Parque de Máquinas e Viaturas
+
+Art. 22.º À Divisão do Parque de Máquinas e Viaturas, que funciona na directa dependência do director regional, compete, nomeadamente:
 
 a) Coordenar a utilização e manutenção de todas as máquinas, viaturas e outro equipamento mecânico da SREC, distribuídos de modo a promover a maximização da sua eficiência;
 
@@ -490,7 +618,7 @@ d) Apoiar técnica e materialmente os agricultores, sempre que solicitada para t
 
 #### SECÇÃO XIII — Repartição dos Serviços Administrativos
 
-###### Art. 23.º À Repartição dos Serviços Administrativos, adiante designada por RSA, que funciona na directa dependência do director regional, compete, designadamente:
+Art. 23.º À Repartição dos Serviços Administrativos, adiante designada por RSA, que funciona na directa dependência do director regional, compete, designadamente:
 
 a) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRA;
 
@@ -504,7 +632,7 @@ d) Promover, assegurar e colaborar na gestão dos recursos patrimoniais, numa pe
 
 #### SECÇÃO I — Atribuições
 
-###### Art. 24.º - 1 - Cabe, genericamente, à Direcção Regional da Pecuária, adiante apenas designada por DRP, apoiar o Secretário Regional na execução da política definida pelo Governo Regional para o sector pecuário e assegurar, de acordo com as orientações superiormente estabelecidas, a sua dinamização e modernização.
+Art. 24.º - 1 - Cabe, genericamente, à Direcção Regional da Pecuária, adiante apenas designada por DRP, apoiar o Secretário Regional na execução da política definida pelo Governo Regional para o sector pecuário e assegurar, de acordo com as orientações superiormente estabelecidas, a sua dinamização e modernização.
 
 2 - Compete à DRP, designadamente:
 
@@ -524,7 +652,7 @@ g) Promover a investigação científica de acordo com os programas aprovados.
 
 #### SECÇÃO II — Estrutura
 
-###### Art. 25.º A DRP compreende os seguintes órgãos e serviços:
+Art. 25.º A DRP compreende os seguintes órgãos e serviços:
 
 a) Director regional;
 
@@ -538,9 +666,9 @@ e) Repartição dos Serviços Administrativos.
 
 #### SECÇÃO III — Director regional
 
-###### Art. 36.º Compete, genericamente, ao director regional da Pecuária promover a execução da política e a prossecução dos objectivos definidos pelo Governo Regional para o sector pecuário, superintender a acção de todos os órgãos e serviços da DRP e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou de decisão superior.
+Art. 36.º Compete, genericamente, ao director regional da Pecuária promover a execução da política e a prossecução dos objectivos definidos pelo Governo Regional para o sector pecuário, superintender a acção de todos os órgãos e serviços da DRP e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou de decisão superior.
 
-###### Art. 27.º - 1 - O director regional pode delegar ou subdelegar poderes da sua competência nos titulares dos cargos dirigentes dos diversos serviços da DRP.
+Art. 27.º - 1 - O director regional pode delegar ou subdelegar poderes da sua competência nos titulares dos cargos dirigentes dos diversos serviços da DRP.
 
 2 - O director regional pode avocar as competências dos vários directores de serviços e chefes de divisão da DRP.
 
@@ -550,7 +678,7 @@ e) Repartição dos Serviços Administrativos.
 
 #### SECÇÃO IV — Gabinete de Estudos e Planeamento
 
-###### Art. 28.º - 1 - O Gabinete de Estudos e Planeamento, abreviadamente designado por GEP, é dirigido por um director de serviços.
+Art. 28.º - 1 - O Gabinete de Estudos e Planeamento, abreviadamente designado por GEP, é dirigido por um director de serviços.
 
 2 - Ao GEP compete, designadamente:
 
@@ -574,7 +702,7 @@ i) Coordenar e assegurar a representação da DRP em congressos e outras reuniõ
 
 #### SECÇÃO V — Direcção dos Serviços Veterinários
 
-###### Art. 29.º - 1 - À Direcção dos Serviços Veterinários, abreviadamente designada por DSV, compete, nomeadamente:
+Art. 29.º - 1 - À Direcção dos Serviços Veterinários, abreviadamente designada por DSV, compete, nomeadamente:
 
 a) Promover, coordenar e orientar a defesa sanitária dos animais domésticos, dos silvestres, dos aquáticos e das abelhas, bem como as acções de saúde pública contra as enfermidades transmissíveis ou prejudiciais ao homem;
 
@@ -600,7 +728,7 @@ d) Divisão Veterinária de Fronteiras.
 
 #### SECÇÃO VI — Laboratório Regional de Veterinária
 
-###### Art. 30.º - 1 - O Laboratório Regional de Veterinária, abreviadamente designado por LRV, é dirigido por um director de serviços.
+Art. 30.º - 1 - O Laboratório Regional de Veterinária, abreviadamente designado por LRV, é dirigido por um director de serviços.
 
 2 - Ao LRV compete, nomeadamente:
 
@@ -628,7 +756,7 @@ b) Divisão de Bromatologia.
 
 #### SECÇÃO VII — Repartição dos Serviços Administrativos
 
-###### Art. 31.º À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, que funciona na directa dependência do director regional, compete, designadamente:
+Art. 31.º À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, que funciona na directa dependência do director regional, compete, designadamente:
 
 a) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRP;
 
@@ -642,7 +770,7 @@ d) Promover, assegurar e colaborar na gestão dos recursos patrimoniais, numa pe
 
 #### SECÇÃO I — Atribuições
 
-###### Art. 32.º - 1 - Cabe, genericamente, à Direcção Regional das Pescas, abreviadamente designada por DRPescas, executar a política definida pelo Governo Regional para o sector das pescas e assegurar, de acordo com as orientações superiormente estabelecidas, a sua dinamização e modernização.
+Art. 32.º - 1 - Cabe, genericamente, à Direcção Regional das Pescas, abreviadamente designada por DRPescas, executar a política definida pelo Governo Regional para o sector das pescas e assegurar, de acordo com as orientações superiormente estabelecidas, a sua dinamização e modernização.
 
 2 - Incumbe à DRPescas, designadamente:
 
@@ -678,7 +806,7 @@ p) Assegurar a ligação à Inspecção-Geral das Pescas e aos serviços homólo
 
 #### SECÇÃO II — Estrutura
 
-###### Art. 33.º A DRPescas compreende os seguintes órgãos e serviços:
+Art. 33.º A DRPescas compreende os seguintes órgãos e serviços:
 
 a) Director regional;
 
@@ -694,7 +822,7 @@ f) Repartição dos Serviços Administrativos.
 
 #### SECÇÃO III — Director regional
 
-###### Art. 34.º - 1 - Compete, genericamente, ao director regional superintender a acção de todos os serviços e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou de decisão superior.
+Art. 34.º - 1 - Compete, genericamente, ao director regional superintender a acção de todos os serviços e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou de decisão superior.
 
 2 - No âmbito do disposto no número anterior, compete, designadamente, ao director regional:
 
@@ -710,17 +838,17 @@ e) Coordenar a elaboração, em tempo útil e nos termos das directivas, dos pla
 
 f) Manter uma relação estreita com as associações representativas do sector.
 
-###### Art. 35.º - 1 - O director regional pode delegar ou subdelegar poderes da sua competência nos titulares dos cargos dirigentes dos diversos serviços da DRPescas.
+Art. 35.º - 1 - O director regional pode delegar ou subdelegar poderes da sua competência nos titulares dos cargos dirigentes dos diversos serviços da DRPescas.
 
 2 - O director regional pode avocar as competências dos vários directores de serviço e chefes de divisão.
 
 3 - O director regional é substituído, nos casos de falta ou impedimento, por um dos directores de serviço, para o efeito designado.
 
-###### Art. 36.º O director regional será apoiado por consultores jurídicos com funções de mera consulta jurídica.
+Art. 36.º O director regional será apoiado por consultores jurídicos com funções de mera consulta jurídica.
 
 #### SECÇÃO IV — Direcção dos Serviços de Desenvolvimento e Administração das Pescas
 
-###### Art. 37.º - 1 - À Direcção dos Serviços de Desenvolvimento e Administração das Pescas, abreviadamente designada por DSDAP, compete, nomeadamente:
+Art. 37.º - 1 - À Direcção dos Serviços de Desenvolvimento e Administração das Pescas, abreviadamente designada por DSDAP, compete, nomeadamente:
 
 a) Promover a elaboração de estudos técnico-económicos tendentes ao desenvolvimento do sector das pescas;
 
@@ -752,7 +880,7 @@ c) Divisão de Inspecção das Pescas.
 
 #### SECÇÃO V — Direcção dos Serviços de Estudos e Investigação das Pescas
 
-###### Art. 38.º - 1 - À Direcção dos Serviços de Estudos e Investigação das Pescas, abreviadamente designada por DSEIP, compete, nomeadamente:
+Art. 38.º - 1 - À Direcção dos Serviços de Estudos e Investigação das Pescas, abreviadamente designada por DSEIP, compete, nomeadamente:
 
 a) Assegurar e coordenar, de acordo com os programas superiormente aprovados, a investigação científica aplicada e técnica do sector;
 
@@ -780,7 +908,7 @@ b) Divisão de Técnicas e Artes de Pesca.
 
 #### SECÇÃO VI — Direcção dos Serviços de Recepção de Pescado
 
-###### Art. 39.º À Direcção dos Serviços de Recepção de Pescado, abreviadamente designada por DSRP, compete, nomeadamente:
+Art. 39.º À Direcção dos Serviços de Recepção de Pescado, abreviadamente designada por DSRP, compete, nomeadamente:
 
 a) Realizar todas as operações necessárias à primeira venda de pescado fresco, a efectuar pelo sistema de leilão;
 
@@ -796,11 +924,11 @@ f) Administrar os varadouros afectos à DRPescas.
 
 #### SECÇÃO VII — Direcção dos Serviços de Entrepostos Frigoríficos
 
-###### Art. 40.º À Direcção dos Serviços de Entrepostos Frigoríficos, abreviadamente designada por DSEF, compete administrar as instalações frigoríficas da DRPescas.
+Art. 40.º À Direcção dos Serviços de Entrepostos Frigoríficos, abreviadamente designada por DSEF, compete administrar as instalações frigoríficas da DRPescas.
 
 #### SECÇÃO VIII — Repartição dos Serviços Administrativos
 
-###### Art. 41.º À Repartição dos Serviços Administrativos, adiante designada por RSA, que funciona na directa dependência do director regional, compete, nomeadamente:
+Art. 41.º À Repartição dos Serviços Administrativos, adiante designada por RSA, que funciona na directa dependência do director regional, compete, nomeadamente:
 
 a) Promover e assegurar todas as acções relativas à gestão corrente e provisional do pessoal da DRPescas;
 
@@ -814,7 +942,7 @@ d) Promover e colaborar na gestão dos recursos patrimoniais, numa perspectiva d
 
 #### SECÇÃO I — Atribuições
 
-###### Art. 42.º - 1 - Cabe, genericamente, à Direcção Regional do Comércio e Indústria, abreviadamente designada por DRCI, apoiar o Secretário Regional na execução da política definida pelo Governo Regional para os sectores do comércio, indústria, energia e promoção do investimento.
+Art. 42.º - 1 - Cabe, genericamente, à Direcção Regional do Comércio e Indústria, abreviadamente designada por DRCI, apoiar o Secretário Regional na execução da política definida pelo Governo Regional para os sectores do comércio, indústria, energia e promoção do investimento.
 
 2 - Incumbe à DRCI, designadamente:
 
@@ -838,7 +966,7 @@ i) Estudar, promover e propor, em cooperação com os diversos órgãos e servi�
 
 #### SECÇÃO II — Estrutura
 
-###### Art. 43.º A DRCI compreende os seguintes órgãos e serviços:
+Art. 43.º A DRCI compreende os seguintes órgãos e serviços:
 
 a) Director regional;
 
@@ -860,7 +988,7 @@ i) Repartição dos Serviços Administrativos.
 
 #### SECÇÃO III — Director regional
 
-###### Art. 44.º - 1 - Compete, genericamente, ao director regional superintender a acção de todos os órgãos e serviços da DRCI e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou decisão superior.
+Art. 44.º - 1 - Compete, genericamente, ao director regional superintender a acção de todos os órgãos e serviços da DRCI e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou decisão superior.
 
 2 - No âmbito do disposto no número anterior, compete, designadamente, ao director regional:
 
@@ -870,17 +998,17 @@ b) Superintender na realização de estudos e outros trabalhos considerados impo
 
 c) Promover a gestão participativa por objectivos, criando as condições necessárias a uma maior descentralização e atribuição de responsabilidades que conduzam a um aumento da eficiência dos diversos serviços.
 
-###### Art. 45.º - 1 - O director regional pode delegar ou subdelegar poderes da sua competência nos titulares dos cargos dirigentes dos diversos serviços da DRCI.
+Art. 45.º - 1 - O director regional pode delegar ou subdelegar poderes da sua competência nos titulares dos cargos dirigentes dos diversos serviços da DRCI.
 
 2 - O director regional pode avocar as competências dos vários directores de serviços e chefes de divisão da DRCI.
 
 3 - Nas suas faltas ou impedimentos, será o director regional substituído por um director de serviços ou por um técnico superior, para o efeito designado.
 
-###### Art. 46.º O director regional será apoiado por consultores jurídicos com funções exclusivas de mera consulta jurídica.
+Art. 46.º O director regional será apoiado por consultores jurídicos com funções exclusivas de mera consulta jurídica.
 
 #### SECÇÃO IV — Gabinete de Estudos e Planeamento
 
-###### Art. 47.º - 1 - O Gabinete de Estudos e Planeamento, abreviadamente designado por GEP, é dirigido por um director de serviços.
+Art. 47.º - 1 - O Gabinete de Estudos e Planeamento, abreviadamente designado por GEP, é dirigido por um director de serviços.
 
 2 - Ao GEP compete, designadamente:
 
@@ -896,7 +1024,7 @@ e) Emitir pareceres sobre projectos de diplomas nacionais e elaborar propostas e
 
 #### SECÇÃO V — Gabinete de Coordenação do Frio
 
-###### Art. 48.º - 1 - O Gabinete de Coordenação do Frio, abreviadamente designado por GCF, é dirigido por um director de serviços.
+Art. 48.º - 1 - O Gabinete de Coordenação do Frio, abreviadamente designado por GCF, é dirigido por um director de serviços.
 
 2 - Ao GCF compete, designadamente:
 
@@ -922,7 +1050,7 @@ j) Assegurar a representação oficial do sector do frio em todos os organismos 
 
 #### SECÇÃO VI — Direcção dos Serviços do Comércio
 
-###### Art. 49.º - 1 - À Direcção dos Serviços do Comércio, abreviadamente designada por DSC, compete, designadamente:
+Art. 49.º - 1 - À Direcção dos Serviços do Comércio, abreviadamente designada por DSC, compete, designadamente:
 
 a) Propor e executar as acções que se enquadrem na política superiormente definida para o sector comercial, especialmente no âmbito do registo e cadastro de actividades;
 
@@ -944,7 +1072,7 @@ d) Divisão de Concorrência e Preços.
 
 #### SECÇÃO VII — Direcção dos Serviços da Indústria
 
-###### Art. 50.º - 1 - À Direcção dos Serviços da Indústria, abreviadamente designada por DSI, compete, designadamente:
+Art. 50.º - 1 - À Direcção dos Serviços da Indústria, abreviadamente designada por DSI, compete, designadamente:
 
 a) Prestar apoio técnico ao director regional no domínio dos sectores industrial e de electricidade, bem como no do aproveitamento dos recursos naturais;
 
@@ -974,11 +1102,11 @@ b) Divisão da Qualidade Industrial.
 
 #### SECÇÃO VIII — Serviço de Apoio às Pequenas e Médias Empresas Industriais
 
-###### Art. 51.º O Serviço de Apoio às Pequenas e Médias Empresas Industriais, abreviadamente designado por SAPMEI, é dirigido por um director de serviços e rege-se pelo [Decreto Regulamentar Regional n.º 11/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1981-565186), de 3 de Setembro.
+Art. 51.º O Serviço de Apoio às Pequenas e Médias Empresas Industriais, abreviadamente designado por SAPMEI, é dirigido por um director de serviços e rege-se pelo [Decreto Regulamentar Regional n.º 11/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1981-565186), de 3 de Setembro.
 
 #### SECÇÃO IX — Direcção dos Serviços da Inspecção Económica
 
-###### Art. 52.º - 1 - A actual Direcção de Serviços de Fiscalização Económica passa a designar-se por Direcção dos Serviços da Inspecção Económica.
+Art. 52.º - 1 - A actual Direcção de Serviços de Fiscalização Económica passa a designar-se por Direcção dos Serviços da Inspecção Económica.
 
 2 - A Direcção dos Serviços da Inspecção Económica rege-se pelo [Decreto Regulamentar Regional n.º 6/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1981-389387), de 31 de Março.
 
@@ -986,7 +1114,7 @@ b) Divisão da Qualidade Industrial.
 
 #### SECÇÃO X — Direcção dos Serviços de Energia
 
-###### Art. 53.º - 1 - À Direcção dos Serviços de Energia, abreviadamente designada por DSE, compete, designadamente:
+Art. 53.º - 1 - À Direcção dos Serviços de Energia, abreviadamente designada por DSE, compete, designadamente:
 
 a) Propor, em conformidade com as orientações superiores, a definição da política energética para a Região Autónoma da Madeira;
 
@@ -1016,7 +1144,7 @@ b) Divisão de Electricidade.
 
 #### SECÇÃO XI — Repartição dos Serviços Administrativos
 
-###### Art. 54.º À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, compete, designadamente:
+Art. 54.º À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, compete, designadamente:
 
 a) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCI;
 
@@ -1030,7 +1158,7 @@ d) Promover, assegurar e colaborar na gestão dos recursos patrimoniais, numa pe
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 55.º - 1 - O pessoal da SREC é agrupado de acordo com a seguinte classificação:
+Art. 55.º - 1 - O pessoal da SREC é agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -1048,15 +1176,15 @@ g) Pessoal auxiliar.
 
 2 - Os quadros de pessoal da SREC são os constantes do anexo n.º 1 ao presente diploma.
 
-###### Art. 56.º Para além do disposto neste diploma, o ingresso e o acesso dos funcionários da SREC nas respectivas carreiras regem-se pelo regime estabelecido no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, no [Decreto-Lei n.º 220/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1988-371625), de 28 de Junho, no [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, e demais legislação aplicável.
+Art. 56.º Para além do disposto neste diploma, o ingresso e o acesso dos funcionários da SREC nas respectivas carreiras regem-se pelo regime estabelecido no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, no [Decreto-Lei n.º 220/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1988-371625), de 28 de Junho, no [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, e demais legislação aplicável.
 
-###### Art. 57.º O pessoal dirigente é provido de acordo com o estabelecido no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, sem prejuízo das adaptações que lhe venham a ser introduzidas através de diploma regional.
+Art. 57.º O pessoal dirigente é provido de acordo com o estabelecido no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, sem prejuízo das adaptações que lhe venham a ser introduzidas através de diploma regional.
 
-###### Art. 58.º As condições de ingresso e acesso do pessoal da carreira técnica de fiscalização são as estabelecidas no [Decreto Regulamentar Regional n.º 6/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1981-389387), de 31 de Março.
+Art. 58.º As condições de ingresso e acesso do pessoal da carreira técnica de fiscalização são as estabelecidas no [Decreto Regulamentar Regional n.º 6/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1981-389387), de 31 de Março.
 
-###### Art. 59.º O pessoal de informática é recrutado e provido nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, aplicado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 9/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1982-391838), de 2 de Junho.
+Art. 59.º O pessoal de informática é recrutado e provido nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, aplicado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 9/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1982-391838), de 2 de Junho.
 
-###### Art. 60.º - 1 - Para além das carreiras do regime geral, que, nos termos do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, integram o grupo de pessoal auxiliar, dele fazem, ainda, parte as carreiras de guarda florestal, operador de reprografia, cozinheiro, encarregado geral de serviços de matadouros, encarregado de serviços de matadouros, encarregado geral, encarregado, adegueiro, auxiliar técnico, auxiliar técnico de agricultura, auxiliar técnico de herbário, auxiliar técnico de laboratório, chefe de armazém, chefe de oficinas, cortador de carnes, equitador, fiel de armazém de serviços de matadouros, controlador de serviços de matadouros, fiel de armazém, fiscal de serviço de águas, guarda agrícola, guarda de água de rega, lavadeira, levadeiro, motorista-ajudante, oficial de matança, trabalhador rural, tratador de animais, tractorista, viveirista, auxiliar técnico de pecuária, escolhedor-verificador de pesagem, mestre costeiro, maquinista marítimo, apontador, vendedor, caixa, contramestre, marinheiro-pescador, ajudante de maquinista, operador de grua, operador de varadouro, condutor de empilhador, condutor de máquinas pesadas, auxiliar de limpeza e servente, as quais constam do anexo a que se refere o n.º 2 do artigo 55.º
+Art. 60.º - 1 - Para além das carreiras do regime geral, que, nos termos do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, integram o grupo de pessoal auxiliar, dele fazem, ainda, parte as carreiras de guarda florestal, operador de reprografia, cozinheiro, encarregado geral de serviços de matadouros, encarregado de serviços de matadouros, encarregado geral, encarregado, adegueiro, auxiliar técnico, auxiliar técnico de agricultura, auxiliar técnico de herbário, auxiliar técnico de laboratório, chefe de armazém, chefe de oficinas, cortador de carnes, equitador, fiel de armazém de serviços de matadouros, controlador de serviços de matadouros, fiel de armazém, fiscal de serviço de águas, guarda agrícola, guarda de água de rega, lavadeira, levadeiro, motorista-ajudante, oficial de matança, trabalhador rural, tratador de animais, tractorista, viveirista, auxiliar técnico de pecuária, escolhedor-verificador de pesagem, mestre costeiro, maquinista marítimo, apontador, vendedor, caixa, contramestre, marinheiro-pescador, ajudante de maquinista, operador de grua, operador de varadouro, condutor de empilhador, condutor de máquinas pesadas, auxiliar de limpeza e servente, as quais constam do anexo a que se refere o n.º 2 do artigo 55.º
 
 2 - As escalas salariais das carreiras referidas no número anterior e que não constem do anexo n.º 1 ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, ou de legislação especial, são as previstas no anexo n.º 1 ao presente diploma.
 
@@ -1074,15 +1202,15 @@ g) Pessoal auxiliar.
 
 #### SECÇÃO II — Estatuto do Guarda Florestal
 
-###### Art. 61.º É aprovado o Estatuto do Guarda Florestal publicado no anexo n.º 2 ao presente diploma, do qual faz parte integrante.
+Art. 61.º É aprovado o Estatuto do Guarda Florestal publicado no anexo n.º 2 ao presente diploma, do qual faz parte integrante.
 
 ### CAPÍTULO VIII — Disposições finais e transitórias
 
-###### Art. 62.º - 1 - O tempo de serviço prestado pelo pessoal contratado ao abrigo do processo de regularização previsto nos artigos 37.º e 38.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, desde que superior a um ano, é considerado como prestado nas categorias de ajudante e praticante, exclusivamente para efeitos de ingresso nas carreiras do grupo de pessoal operário.
+Art. 62.º - 1 - O tempo de serviço prestado pelo pessoal contratado ao abrigo do processo de regularização previsto nos artigos 37.º e 38.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, desde que superior a um ano, é considerado como prestado nas categorias de ajudante e praticante, exclusivamente para efeitos de ingresso nas carreiras do grupo de pessoal operário.
 
 2 - Sem prejuízo da aplicação de regimes mais favoráveis, o tempo de serviço prestado em situação irregular pelo pessoal que foi integrado directamente nos quadros de pessoal da SRAP ao abrigo do n.º 2 do artigo 48.º do [Decreto Regulamentar Regional n.º 5/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1989-611503), de 14 de Fevereiro, releva na respectiva categoria de ingresso, bem como para efeitos de aposentação e sobrevivência, mediante o pagamento dos correspondentes descontos.
 
-###### Art. 63.º - 1 - O pessoal dos quadros da SRAP e da vice-presidência e Coordenação Económica, que transitam para os quadros anexos ao presente diploma, é integrado em igual categoria e carreira ou equivalente com a mesma área funcional e para o escalão a que corresponda o mesmo índice ou, quando não se verifique coincidência de índice, para o escalão cujo índice seja imediatamente superior na estrutura da categoria para que se processa a transição.
+Art. 63.º - 1 - O pessoal dos quadros da SRAP e da vice-presidência e Coordenação Económica, que transitam para os quadros anexos ao presente diploma, é integrado em igual categoria e carreira ou equivalente com a mesma área funcional e para o escalão a que corresponda o mesmo índice ou, quando não se verifique coincidência de índice, para o escalão cujo índice seja imediatamente superior na estrutura da categoria para que se processa a transição.
 
 2 - A carreira técnica de fiscalização e as categorias de encarregado geral, letra H, encarregado, letra I, e controlador são extintas, transitando o correspondente pessoal, respectivamente, para as carreiras técnica de inspecção económica e técnica profissional de inspecção económica e para as categorias de encarregado geral de serviços de matadouros, encarregado de serviços de matadouros e controlador de secções de matadouros, considerando-se como tendo sido prestado na carreira ou categoria para que transitam o tempo de serviço prestado na carreira ou categoria anterior.
 
@@ -1090,35 +1218,35 @@ g) Pessoal auxiliar.
 
 4 - A transição e integração referidas nos números anteriores far-se-á pela aplicação deste diploma e elaboração e publicação de lista nominativa.
 
-###### Art. 64.º - 1 - Enquanto não forem criados oficialmente os cursos técnico-profissionais necessários, o recrutamento para ingresso nas carreiras do grupo de pessoal técnico-profissional faz-se de entre indivíduos possuidores do 11.º ano de escolaridade das áreas a fixar no aviso de abertura do concurso.
+Art. 64.º - 1 - Enquanto não forem criados oficialmente os cursos técnico-profissionais necessários, o recrutamento para ingresso nas carreiras do grupo de pessoal técnico-profissional faz-se de entre indivíduos possuidores do 11.º ano de escolaridade das áreas a fixar no aviso de abertura do concurso.
 
 2 - A nomeação dos funcionários a que se refere o número anterior é considerada como estágio de ingresso, após o qual e mediante boa informação do serviço serão os mesmos providos a título definitivo na categoria de ingresso.
 
-###### Art. 65.º Os concursos pendentes à data de entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover por aquele modo os que lhes correspondam no mapa anexo n.º 1 ao presente diploma.
+Art. 65.º Os concursos pendentes à data de entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover por aquele modo os que lhes correspondam no mapa anexo n.º 1 ao presente diploma.
 
-###### Art. 66.º Aos funcionários da Direcção Regional das Pescas, sempre que as respectivas atribuições funcionais assim o justifiquem, poderão ser atribuídos subsídios de mar e de mergulho, a fixar por portaria conjunta dos Secretários Regionais da Economia e das Finanças.
+Art. 66.º Aos funcionários da Direcção Regional das Pescas, sempre que as respectivas atribuições funcionais assim o justifiquem, poderão ser atribuídos subsídios de mar e de mergulho, a fixar por portaria conjunta dos Secretários Regionais da Economia e das Finanças.
 
-###### Art. 67.º Os encargos resultantes da aplicação do presente diploma são suportados por dotação a inscrever no orçamento da Secretaria Regional da Economia.
+Art. 67.º Os encargos resultantes da aplicação do presente diploma são suportados por dotação a inscrever no orçamento da Secretaria Regional da Economia.
 
-###### Art. 68.º Em tudo o que não estiver especialmente previsto neste diploma em matéria de regime retributivo aplica-se, subsidiariamente, o [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e demais legislação complementar.
+Art. 68.º Em tudo o que não estiver especialmente previsto neste diploma em matéria de regime retributivo aplica-se, subsidiariamente, o [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e demais legislação complementar.
 
-###### Art. 69.º São revogados os Decretos Regulamentares Regionais n.os [8/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1982-391977), de 1 de Junho, [3/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-193620), de 4 de Março, e [5/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1989-611503), de 14 de Fevereiro, a [Portaria n.º 171/79](https://diariodarepublica.pt/dr/detalhe/portaria/171-1979-515849), de 31 de Dezembro, bem como os quadros de pessoal anexos aos Decretos Regulamentares Regionais n.os [6/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1981-389387), de 31 de Março, e [11/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1981-565186), de 3 de Setembro.
+Art. 69.º São revogados os Decretos Regulamentares Regionais n.os [8/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1982-391977), de 1 de Junho, [3/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-193620), de 4 de Março, e [5/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1989-611503), de 14 de Fevereiro, a [Portaria n.º 171/79](https://diariodarepublica.pt/dr/detalhe/portaria/171-1979-515849), de 31 de Dezembro, bem como os quadros de pessoal anexos aos Decretos Regulamentares Regionais n.os [6/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1981-389387), de 31 de Março, e [11/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1981-565186), de 3 de Setembro.
 
-###### Art. 70.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 70.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 29 de Junho de 1990.
 
-**O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 24 de Julho de 1990.**
+Assinado em 24 de Julho de 1990.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-## ANEXO Nº 1 A QUE SE REFERE O Nº 2 DO ARTIGO 55º DO DECRETO REGULAMENTAR REGIONAL
+ANEXO Nº 1 A QUE SE REFERE O Nº 2 DO ARTIGO 55º DO DECRETO REGULAMENTAR REGIONAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21200/37433769.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21200/37433769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21200/37433769.pdf)
 
-## Anexo n.º 2 a que se refere o artigo 61.º do Decreto Regulam Regional n.º 20/90/M
+Anexo n.º 2 a que se refere o artigo 61.º do Decreto Regulam Regional n.º 20/90/M
 
 Estatuto do Guarda Florestal
 
@@ -1244,4 +1372,4 @@ Podem candidatar-se ao primeiro concurso que se realizar após a entrada em vigo
 
 Mapa anexo a que se refere o artigo 15.º do estatuto do guarda florestal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21200/37433769.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21200/37433769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21200/37433769.pdf)

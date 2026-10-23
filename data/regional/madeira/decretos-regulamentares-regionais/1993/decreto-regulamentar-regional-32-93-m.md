@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/32/1993/09/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1993-651685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd43d0a0f272eea4bf8567e6819b5ddb2dd6620d866a5975e6b199e883cf9ac1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06c22e03c0bf13fa67a43a4157bf363f204d04bafc54e48ed9f334a4d63273b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Ensino Preparatório
-- Secretaria Regional da Educação
-- Pessoal Docente
+- Governo Regional
 - Madeira.região Autónoma
+- Pessoal Docente
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:517385:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 224/93, DE 28 DE OUTUBRO, PUBLICADA NO DR.IS-B, 255, 3SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 1997.03.17\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1997-02-27'
+- type: amended_by
+  target: pt:dre:517385:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 17/Mar/19971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1997-517385
+  date: '1997-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/2/1993/01/20/m/dre
   label: null
@@ -89,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/41/1991/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/41/1991/01/17/p/dre
+- type: cites
+  target: pt:dre:492471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584979:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:40Z'
   warnings: []
   errors: []
 ---
@@ -175,14 +212,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 29 de Julho de 1993.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 19 de Agosto de 1993.**
+Assinado em 19 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## Anexo a que se refere o n.º 2 do artigo 1.º do presente diploma
+Anexo a que se refere o n.º 2 do artigo 1.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/229b00/54865491.pdf))](https://files.diariodarepublica.pt/1s/1993/09/229b00/54865491.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/229b00/54865491.pdf)

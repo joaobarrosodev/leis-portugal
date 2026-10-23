@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/25200/0654606546.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/18/2014/12/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/18-2014-66012655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc7d443b726b83bc82f695d0bb15ac750d68f05643e5da38c998c76cbac47e01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 741a24c559b4c2eeb5e2778efff9c06a009e529ef5ed3ab5b81e61644e8967fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional
 - Desenvolvimento Regional
 - Despesas Públicas
 - Investimento Público
+- Madeira.região Autónoma
 - Planeamento Económico
 - Plano de Desenvolvimento Regional
 - Plano de Investimentos e Despesas de Desenvolvimento
-- Madeira.região Autónoma
-- Administração Regional
 relationships:
 - type: amended_by
   target: pt:dre:70007185:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70007185:por
+  label: Aprovada a alteração ao Plano de Investimentos e Despesas de Desenvolvimento da Administração da Região Autónoma
+    da Madeira para o ano de 2015 pelo(a) Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 5/2015/M -
+    Diário da República n.º 157/2015, Série I de 2015-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/5-2015-70007185
+  date: '2015-08-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:01Z'
   warnings: []
   errors: []
 ---
@@ -101,4 +108,4 @@ A Assembleia Legislativa da Madeira, reunida em Plenário em 12 de dezembro de 2
 
 Aprovada em Sessão Plenária da Assembleia Legislativa da Madeira, em 12 de dezembro de 2014.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.

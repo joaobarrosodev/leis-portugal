@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23600/0005600058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/38/2024/12/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/38-2024-898989651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c2aa876688d1d1b142669b4c18bd3e28582e5b2e94fd556771e777a3680d779
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12f30830864b027440a81431e381a8d4931d9ecce36e42ed544bc8c5e3cd1608
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caniço
-- Ordenamento do Território
 - Interesse Público
+- Madeira.região Autónoma
 - Medidas Preventivas
 - Obras Públicas
-- Madeira.região Autónoma
+- Ordenamento do Território
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2024/01/08/p/dre
@@ -112,16 +112,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/2017/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/2017/08/16/p/dre
+- type: cites
+  target: pt:dre:107573232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108001410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153138207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165129791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216512882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836222484:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:49Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +186,7 @@ Nestes termos, e encontrando-se em causa um empreendimento de reconhecido e rele
 
 Assim:
 
-O Governo Regional da Madeira, ao abrigo das disposições conjugadas do artigo 52.º da [Lei n.º 31/2014](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), de 30 de maio, alterada pela [Lei n.º 74/2017](https://diariodarepublica.pt/dr/detalhe/lei/74-2017-108001410), de 16 de agosto, e pelos Decretos-Leis n.<sup>os</sup>[3/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2021-153138207), de 7 de janeiro, [52/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2021-165129791), de 15 de junho, e [10/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), de 8 de janeiro, do n.º 8 do artigo 108.º, do artigo 110.º e do n.º 4 do artigo 112.º, todos do [Decreto Legislativo Regional n.º 18/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2017-107573232), de 27 de junho, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[13/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2020-140346290), de 14 de agosto, e [34/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2023-216512882), de 1 de agosto, e ainda nos termos da alínea g) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
+O Governo Regional da Madeira, ao abrigo das disposições conjugadas do artigo 52.º da [Lei n.º 31/2014](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), de 30 de maio, alterada pela [Lei n.º 74/2017](https://diariodarepublica.pt/dr/detalhe/lei/74-2017-108001410), de 16 de agosto, e pelos Decretos-Leis n.os[3/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2021-153138207), de 7 de janeiro, [52/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2021-165129791), de 15 de junho, e [10/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2024-836222484), de 8 de janeiro, do n.º 8 do artigo 108.º, do artigo 110.º e do n.º 4 do artigo 112.º, todos do [Decreto Legislativo Regional n.º 18/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2017-107573232), de 27 de junho, alterado pelos Decretos Legislativos Regionais n.os[13/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2020-140346290), de 14 de agosto, e [34/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2023-216512882), de 1 de agosto, e ainda nos termos da alínea g) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, decreta o seguinte:
 
 ###### Artigo 1.º — Sujeição a medidas preventivas
 
@@ -192,12 +236,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 21 de novembro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 29 de novembro de 2024.**
+Assinado em 29 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-![](https://files.diariodarepublica.pt/images/898989651/898993864.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/898989651/898993864.png) |
+| --- |
+
+118413222

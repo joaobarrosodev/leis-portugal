@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/111b00/25282534.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1993/05/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-275644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb2ef6b0afa284f60a841eeed0b80c17bdd131ce9b6e93398f1e118a4aa9396e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f22b885e2943082f8e947fe75462cf1342388a6e849995aa725af90e80bff722
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Direcção Regional do Património
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Transferência de Pessoal
 relationships:
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:582230:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515257:por
+  label: "Alterados os arts. 14º, 17º, 18º, 33º e 36º, aditados os arts. 38º e 39º ao cap. IV e revogados o art. 33º e o mapa\
+    \ II pelo DRR.18/2000/M.2000.02.28.PG-RAM,DR.IS-B [69] de 22/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2000-515257
+  date: '2000-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/26/1992/11/11/m/dre
   label: null
@@ -88,16 +94,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:575480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:582230:por
+  label: "Revogado pelo DRR.1/2004/M.16.01.2004.PG-RAM, DR.IS-B [31] de 06.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2004-582230
+  date: '2004-01-16'
 article_structure:
-  article_count: 39
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 38
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:34Z'
   warnings: []
   errors: []
 ---
@@ -112,19 +139,19 @@ Nestes termos, o [Decreto Regulamentar Regional n.º 3/93/M](https://diariodarep
 
 Assim, ao abrigo do disposto no n.º 1 da alínea d) do artigo 229.º da Constituição da República Portuguesa e da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, conjugado com o artigo 13.º do [Decreto Legislativo Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-668491), de 11 de Novembro, o Governo Regional da Madeira decreta o seguinte:
 
-###### Artigo 1.º É aprovada a orgânica da Direcção Regional do Património, adiante designada abreviadamente por DRPA, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a orgânica da Direcção Regional do Património, adiante designada abreviadamente por DRPA, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º As referências feitas à Direcção de Serviços do Património e Economato passam a entender-se como reportadas à DRPA.
+Art. 2.º As referências feitas à Direcção de Serviços do Património e Economato passam a entender-se como reportadas à DRPA.
 
-###### Art. 3.º O presente diploma entra imediatamente em vigor.
+Art. 3.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 25 de Março de 1993.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 19 de Abril de 1993.**
+Assinado em 19 de Abril de 1993.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Orgânica da Direcção Regional do Património
 
@@ -244,7 +271,9 @@ a) Secção de Contabilidade;
 
 b) Secção de Expediente e Arquivo.
 
-###### Artigo 8.º — Secção de Contabilidade
+###### Artigo 8.º
+
+#### Secção de Contabilidade
 
 A Secção de Contabilidade é o órgão de apoio administrativo à DRPA, ao qual compete, designadamente:
 
@@ -254,7 +283,9 @@ b) Assegurar o processamento das despesas, de acordo com o orçamento aprovado e
 
 c) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-###### Artigo 9.º — Secção de Expediente e Arquivo
+###### Artigo 9.º
+
+#### Secção de Expediente e Arquivo
 
 A Secção de Expediente e Arquivo é o órgão de apoio administrativo à DRPA, ao qual compete, designadamente:
 
@@ -264,7 +295,9 @@ b) Organizar o registo e expediente da correspondência da DRPA;
 
 c) Executar tudo o mais que lhe seja superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO III — Divisão de Fiscalização Patrimonial
+##### SUBSECÇÃO III
+
+##### Divisão de Fiscalização Patrimonial
 
 ###### Artigo 10.º — Natureza e estrutura
 
@@ -332,7 +365,9 @@ d) Executar todas as acções necessárias à administração, aquisição e ali
 
 e) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO I — Divisão de Cadastro e Inventário
+##### SUBSECÇÃO I
+
+##### Divisão de Cadastro e Inventário
 
 ###### Artigo 16.º — Natureza e atribuições
 
@@ -368,7 +403,9 @@ b) Assegurar todo o apoio administrativo e instrumental relativo ao processament
 
 c) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-###### Artigo 19.º — Secção de Cadastro e Inventário de Bens Imóveis
+###### Artigo 19.º
+
+#### Secção de Cadastro e Inventário de Bens Imóveis
 
 A Secção de Cadastro e Inventário de Bens Imóveis é um órgão de apoio administrativo e instrumental à DSGP, ao qual compete, designadamente:
 
@@ -380,7 +417,9 @@ c) Assegurar todo o apoio administrativo no que respeita à organização, elabo
 
 d) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-###### Artigo 20.º — Secção de Cadastro e Inventário de Bens Móveis
+###### Artigo 20.º
+
+#### Secção de Cadastro e Inventário de Bens Móveis
 
 A Secção de Cadastro e Inventário de Bens Móveis é um órgão de apoio administrativo à DSGP, ao qual compete, designadamente:
 
@@ -428,7 +467,9 @@ i) Assegurar o processamento dos actos relativos à aquisição de veículos aut
 
 j) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO I — Divisão de Aquisições
+##### SUBSECÇÃO I
+
+##### Divisão de Aquisições
 
 ###### Artigo 24.º — Natureza e atribuições
 
@@ -464,7 +505,9 @@ a) Coordenar e assegurar todo o apoio administrativo e instrumental, no que resp
 
 b) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-###### Artigo 27.º — Secção de Aquisições de Máquinas e Equipamentos
+###### Artigo 27.º
+
+#### Secção de Aquisições de Máquinas e Equipamentos
 
 A Secção de Aquisições de Máquinas e Equipamentos é um órgão de apoio administrativo e instrumental à DSA, ao qual compete, nomeadamente:
 
@@ -474,7 +517,9 @@ b) Assegurar todo o apoio administrativo e instrumental nos actos de aquisição
 
 c) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-###### Artigo 28.º — Secção de Aquisições de Bens e Serviços de Uso Corrente
+###### Artigo 28.º
+
+#### Secção de Aquisições de Bens e Serviços de Uso Corrente
 
 A Secção de Aquisições de Bens e Serviços de Uso Corrente é um órgão de apoio administrativo e instrumental à DSA ao qual compete:
 
@@ -582,8 +627,8 @@ O desenvolvimento indiciário das carreiras de regime específico é o constante
 
 Mapa I anexo a que se refere o n.º 2 do artigo 29.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/111b00/25282534.pdf))](https://files.diariodarepublica.pt/1s/1993/05/111b00/25282534.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/111b00/25282534.pdf)
 
 Mapa II anexo a que se refere o artigo 37.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/111b00/25282534.pdf))](https://files.diariodarepublica.pt/1s/1993/05/111b00/25282534.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/111b00/25282534.pdf)

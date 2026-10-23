@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/26/2005/07/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2005-233520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 448615d4ac38f0ec0881b784f7796c7aaf1c2c47a9374075e86dbc138b5ca892
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d89a7a7dc80ac55d993bb2395b70616a06ee602dd023254f0da1089b338cfff5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Definição de Competências
 - Direcção Regional das Florestas
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -107,16 +107,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:188489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693196:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608763:por
+  label: "Revogado, a partir de 21.05.2009, com excepção das estruturas de organização vigente das unidades nucleares e flexíveis,\
+    \ que deverão manter-se em vigor até à publicação da regulamentação prevista nos n.os 4, 5 e 8 do artigo 21.º e 2 do artigo\
+    \ 24.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de Novembro, pelo DRR.6/2009/M.20.05.2009.PG-RAM, DR.IS [97]\
+    \ de 20.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2009-608763
+  date: '2009-05-20'
 article_structure:
   article_count: 30
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:14Z'
   warnings: []
   errors: []
 ---
@@ -601,13 +641,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 19 de Maio de 2005.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 9 de Junho de 2005.**
+Assinado em 9 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — (a que se refere o artigo 27.º)
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 227/2005, 1º Suplemento, Série I-B de 2005-11-25
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6802-(2) a 6802-(44)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/11/227b01/00020044.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/19-a/2005/11/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/19-a-2005-234479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1ceb9824ddd288014b845e6486a7505a34ad9d709da9041000fbe4dfadb7ba3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4765d3d4ea601b8e7340d1831aea6498261c89a2897fc8193fae34934b924e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,44 @@ relationships:
   target: pt:dre:215874470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640644:por
+  label: "Alterados os artigos 20.º, 25.º e 34.º do Regimento aprovado pela Resolução 1/2000/M, de 12 de Janeiro, na redacção\
+    \ do presente diploma, pela RES.17/2007/M.21.08.2007.AL-RAM, DR.IS [160] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/17-2007-640644
+  date: '2007-08-21'
+- type: amended_by
+  target: pt:dre:585064:por
+  label: "Alterados os arts. 12.º, 76.º, 81.º, 89.º, 90.º, 98.º, 166º, 206.º, 207.º, 208.º e 238.º do Regimento da Assembleia\
+    \ Legislativa da Madeira, aprovado pela Res 1/2000/M, de 12-Jan, da RAM, alterado e republicado pelo presente diploma,\
+    \ pela RES.16-A/2008/M.15.07.2008.AL-RAM, DR.IS [135-Supl] de 15.07.2008 que o republica na íntegra.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/16-a-2008-585064
+  date: '2008-07-15'
+- type: amended_by
+  target: pt:dre:603182:por
+  label: "Alterados os arts. 11º, 21º, 28º, 33º, 88º, 90º, 92º, 117º, 147º e 202º e eliminados os arts. 86º e 136º do Regimento\
+    \ da Assembleia Legislativa da Madeira, aprovado pela Res 1/2000/M de 12-Jan, alterado e republicado pelo presente diploma,\
+    \ pela RES.2/2009/M.15.01.2009.AL-RAM, DR.IS [10] de 15.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/2-2009-603182
+  date: '2009-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolalr/1/2000/01/12/m/dre
   label: null
   source: http://data.dre.pt/eli/resolalr/1/2000/01/12/m/dre
+- type: cites
+  target: pt:dre:514057:por
+  label: null
+  source: null
 article_structure:
   article_count: 347
   section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:47Z'
   warnings: []
   errors: []
 ---
@@ -1247,7 +1271,7 @@ O Regimento da Assembleia Legislativa da Madeira, no seu novo texto, é publicad
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 9 de Novembro de 2005.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
 ## ANEXO — REGIMENTO DA ASSEMBLEIA LEGISLATIVA DA MADEIRA
 
@@ -2077,7 +2101,7 @@ Nos casos do artigo 233.º da Constituição, o Presidente da Assembleia Legisla
 
 ###### Artigo 68.º — Apreciação de outras matérias
 
-**O Presidente da Assembleia Legislativa incluirá na primeira parte da ordem do dia prevista no n.º 2 do artigo 82.º a apreciação das seguintes matérias:**
+O Presidente da Assembleia Legislativa incluirá na primeira parte da ordem do dia prevista no n.º 2 do artigo 82.º a apreciação das seguintes matérias:
 
 a) Deliberações sobre o mandato de deputado;
 
@@ -2239,7 +2263,7 @@ g) À comunicação de qualquer decisão do Presidente da Assembleia Legislativa
 
 ###### Artigo 83.º — Convite a individualidades estranhas à Assembleia Legislativa
 
-**O Presidente da Assembleia Legislativa poderá, a título excepcional, ouvida a Conferência de Líderes, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.**
+O Presidente da Assembleia Legislativa poderá, a título excepcional, ouvida a Conferência de Líderes, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso da palavra
 
@@ -2797,7 +2821,7 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 ###### Artigo 140.º — Envio de propostas de alteração
 
-**O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.**
+O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 141.º — Apreciação de projectos ou de propostas sobre legislação do trabalho
 
@@ -2839,7 +2863,9 @@ A comissão competente deve promover a consulta da Associação de Municípios d
 
 ##### DIVISÃO IV — Discussão e votação
 
-##### SUBDIVISÃO I — Disposições gerais
+SUBDIVISÃO I
+
+Disposições gerais
 
 ###### Artigo 147.º — Conhecimento prévio dos projectos e propostas de decreto legislativo regional
 
@@ -2863,7 +2889,9 @@ Não será admitido o requerimento previsto no n.º 2 do artigo anterior enquant
 
 Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 147.º, salvo no que respeita à obrigatoriedade da distribuição em folhas avulsas aos deputados.
 
-##### SUBDIVISÃO II — Discussão e votação na generalidade
+SUBDIVISÃO II
+
+Discussão e votação na generalidade
 
 ###### Artigo 151.º — Objecto
 
@@ -2877,7 +2905,9 @@ Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa 
 
 2 - Neste caso, a Assembleia Legislativa delibera também sobre aquele que serve de base à discussão e votação na especialidade.
 
-##### SUBDIVISÃO III — Discussão e votação na especialidade
+SUBDIVISÃO III
+
+Discussão e votação na especialidade
 
 ###### Artigo 153.º — Regra geral
 
@@ -3391,7 +3421,7 @@ b) Que o Presidente da Assembleia Legislativa ou as comissões entendam que deve
 
 ###### Artigo 216.º — Comunicação ao autor ou aos autores da petição
 
-**O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.**
+O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.
 
 #### SECÇÃO VII — Inquéritos
 

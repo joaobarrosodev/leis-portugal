@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/031b00/07450753.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/2004/02/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2004-582230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04b72b2aef823b8109b3e0f9dce28ff760e173397c6e27a2b347bff973073573
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe5301a4e77862c7646e802661d386c72d2d2e230b293468a5937fa438c65b18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Definição de Competências
 - Direcção Regional do Património
 - Integração de Trabalhadores
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Inspecção
-- Madeira.região Autónoma
 - Quadro de Pessoal
 - Remuneração
 relationships:
@@ -119,16 +119,77 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:547845:por
+  label: "Revogado pelo DRR.20/2005/M.21.03.2005.PG-RAM, DR.IS-B [77] de 20.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2005-547845
+  date: '2005-03-21'
 article_structure:
   article_count: 49
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:04Z'
   warnings: []
   errors: []
 ---
@@ -159,13 +220,13 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 18 de Dezembro de 2003.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 16 de Janeiro de 2004.**
+Assinado em 16 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Orgânica da Direcção Regional do Património
 
@@ -253,7 +314,9 @@ b) O Departamento Administrativo.
 
 2 - Os serviços referidos no número anterior funcionam na dependência directa do director regional.
 
-##### SUBSECÇÃO I — Divisão de Inspecção Patrimonial
+##### SUBSECÇÃO I
+
+##### Divisão de Inspecção Patrimonial
 
 ###### Artigo 6.º — Natureza e atribuições
 
@@ -337,7 +400,9 @@ c) A Secção de Cadastro e Inventário de Bens Imóveis;
 
 d) A Secção de Referenciação.
 
-##### SUBSECÇÃO I — Divisão de Registo e Cadastro
+##### SUBSECÇÃO I
+
+##### Divisão de Registo e Cadastro
 
 ###### Artigo 14.º — Natureza e atribuições
 
@@ -365,7 +430,9 @@ b) Manter e organizar um arquivo e uma base de dados de informação sobre os im
 
 2 - O Gabinete de Coordenação Imobiliária é chefiado por um funcionário da carreira de coordenador.
 
-##### SUBSECÇÃO III — Secção de Cadastro e Inventário de Bens Imóveis
+##### SUBSECÇÃO III
+
+#### Secção de Cadastro e Inventário de Bens Imóveis
 
 ###### Artigo 17.º — Natureza e atribuições
 
@@ -377,7 +444,9 @@ b) Assegurar todo o expediente e arquivo relativo às aquisições, alienações
 
 c) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO IV — Secção de Referenciação
+##### SUBSECÇÃO IV
+
+#### Secção de Referenciação
 
 ###### Artigo 18.º — Natureza e atribuições
 
@@ -427,7 +496,9 @@ c) O Departamento de Aquisição de Bens Inventariáveis;
 
 d) O Departamento de Aquisição de Bens de Consumo.
 
-##### SUBSECÇÃO I — Divisão de Gestão e Inventariação
+##### SUBSECÇÃO I
+
+##### Divisão de Gestão e Inventariação
 
 ###### Artigo 22.º — Natureza e atribuições
 
@@ -485,7 +556,9 @@ a) A Secção de Cadastro e Inventário de Bens Móveis;
 
 b) A Secção de Aquisição de Bens Inventariáveis.
 
-##### SUBSECÇÃO IV — Secção de Cadastro e Inventário de Bens Móveis
+##### SUBSECÇÃO IV
+
+#### Secção de Cadastro e Inventário de Bens Móveis
 
 ###### Artigo 27.º — Natureza e atribuições
 
@@ -495,7 +568,9 @@ a) Organizar e manter actualizado o inventário dos bens móveis e o cadastro es
 
 b) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO V — Secção de Aquisição de Bens Inventariáveis
+##### SUBSECÇÃO V
+
+#### Secção de Aquisição de Bens Inventariáveis
 
 ###### Artigo 28.º — Natureza e atribuições
 
@@ -527,7 +602,9 @@ a) A Secção de Bens de Consumo;
 
 b) A Secção de Armazém.
 
-##### SUBSECÇÃO VII — Secção de Bens de Consumo
+##### SUBSECÇÃO VII
+
+#### Secção de Bens de Consumo
 
 ###### Artigo 31.º — Natureza e atribuições
 
@@ -537,7 +614,9 @@ a) Coordenar e assegurar todo o apoio administrativo e instrumental, no que resp
 
 b) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO VIII — Secção de Armazém
+##### SUBSECÇÃO VIII
+
+#### Secção de Armazém
 
 ###### Artigo 32.º — Natureza e atribuições
 

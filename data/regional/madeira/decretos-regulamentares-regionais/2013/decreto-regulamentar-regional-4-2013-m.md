@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03200/0091700919.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2013/02/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2013-258721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3747b7c061a7a324986eba5968733027118419228da2c98d7e46c11921d340b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cee57675b3a74da9713b2684a0f0e2820a611384eeb302121421e2969e2d6eb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Diretor Regional
 - Direcção Regional de Estradas
-- Orgânica
+- Diretor Regional
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Transferência de Competências
 relationships:
 - type: amended_by
@@ -117,16 +117,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:145229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630413:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75437528:por
+  label: Revogado, a partir de 01.10.2016, pelo(a) Decreto Regulamentar Regional n.º 21/2016/M - Diário da República n.º 189/2016,
+    Série I de 2016-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2016-75437528
+  date: '2016-09-30'
 article_structure:
   article_count: 10
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:53Z'
   warnings: []
   errors: []
 ---
@@ -157,9 +223,9 @@ Aprovado em Conselho do Governo Regional em 31 de janeiro de 2013.
 
 O Vice-Presidente do Governo Regional, no exercício da Presidência, João Cunha e Silva.
 
-**Assinado em 4 de fevereiro de 2013.**
+Assinado em 4 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -271,4 +337,4 @@ A transição dos trabalhadores da RAMEDM far-se-á nos termos constantes do Dec
 
 Mapa de Cargos de Direção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03200/0091700919.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03200/0091700919.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03200/0091700919.pdf)

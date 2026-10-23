@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2003/07/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2003-667559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a4fce516349771bc83c7cbf7c0fa840374012b1c09fa1bf6c371cc2729462dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c69ecbe41039e272d94600804dc7a33dc6ff060e0cb2e152efa92553f579268a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Conselho Administrativo
+- Conselho Consultivo
 - Conselho Pedagógico
 - Conservatório-escola Profissional das Artes da Madeira
 - Definição de Competências
 - Direção
-- Conselho Consultivo
-- Orgânica
-- Pessoal não Docente
 - Estabelecimento de Ensino
-- Pessoal Docente
-- Presidente
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Pessoal Docente
+- Pessoal não Docente
+- Presidente
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Regulamento Disciplinar
 relationships:
 - type: amended_by
   target: pt:dre:548428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a manutenção em vigor do presente diploma, rectificado pela decl-rect 10-L/2003, de 31-Jul, pelo DRR.5/2005/M.21.02.2005.PG-RAM,\
+    \ DR.IS-B [47] de 08.03.2005, até à publicação integral dos diplomas a que se refere o n.º 4 do seu art. 4.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/2000/01/31/m/dre
   label: null
@@ -114,16 +120,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:434244:por
+  label: "Rectificado pela DECL-RECT.10-L/2003.2003.07.31.PCM, DR.IS-B [175]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-l-2003-434244
+  date: '2003-07-31'
+- type: repealed_by
+  target: pt:dre:548428:por
+  label: "Revogado o DRR 17/2000/M de 22-Mar, com as alterações constantes deste diploma, pelo DRR.11/2005/M.30.03.2005.PG-RAM,\
+    \ DR.IS-B [76] de 19.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2005-548428
+  date: '2005-03-30'
 article_structure:
-  article_count: 38
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 35
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:59Z'
   warnings: []
   errors: []
 ---
@@ -268,7 +313,9 @@ Pessoal docente - Lugares do quadro e necessidades transitórias
 
 3 - A remuneração dos docentes referidos no n.º 1 é a prevista pela convenção colectiva de trabalho para o ensino particular e cooperativo não superior.
 
-###### Artigo 17.º — Formadores
+Artigo 17.º
+
+Formadores
 
 1 - Os formadores são recrutados através de oferta pública de emprego a realizar nos termos da legislação em vigor, publicitada em órgão de comunicação de expansão regional.
 
@@ -282,11 +329,15 @@ Pessoal docente - Lugares do quadro e necessidades transitórias
 
 6 - A remuneração dos formadores contratados em regime de prestação de serviços é calculada com base na hora de formação efectivamente ministrada e nas horas de reunião previstas, em conformidade com a legislação nacional e regional que regulamente os encargos com a formação profissional.
 
-###### Artigo 18.º — Minutas dos contratos
+Artigo 18.º
+
+Minutas dos contratos
 
 As minutas dos contratos individual de trabalho e de prestação de serviços, celebrados nos termos dos artigos 16.º e 17.º deste diploma, são aprovadas pelo Secretário Regional de Educação.
 
-###### Artigo 19.º — Requisitos habilitacionais
+Artigo 19.º
+
+Requisitos habilitacionais
 
 1 - A selecção do pessoal docente rege-se pelo princípio da adequação dos perfis dos candidatos às exigências profissionais previamente definidas.
 
@@ -340,15 +391,15 @@ Aprovado em Conselho do Governo Regional em 23 de Maio de 2003.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 12 de Junho de 2003.**
+Assinado em 12 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Mapa anexo a que se refere o artigo 21.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158b00/39863995.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158b00/39863995.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158b00/39863995.pdf)
 
 ## ANEXO — Orgânica do Conservatório - Escola Profissional das Artes da Madeira
 
@@ -582,7 +633,9 @@ b) Promover, de modo adequado, à recolha, compilação, sistematização, trata
 
 2 - O DAGPS é dirigido por um chefe de departamento, contratado por livre escolha do Secretário Regional de Educação, em regime de comissão de serviço, por três anos, renovável por iguais períodos, de acordo com a lei geral do trabalho, e na sua dependência funciona a Secção de Administração Geral, Pessoal e Secretariado (SAGPSE).
 
-###### Artigo 12.º — Secção de Administração Geral, Pessoal e Secretariado
+###### Artigo 12.º
+
+#### Secção de Administração Geral, Pessoal e Secretariado
 
 À SAGPSE compete:
 
@@ -604,7 +657,9 @@ f) Assegurar o apoio adequado ao funcionamento das aulas.
 
 2 - O DCTPE é dirigido por um chefe de departamento, contratado por livre escolha do Secretário Regional de Educação, em regime de comissão de serviço, por três anos, renovável por iguais períodos, de acordo com a lei geral do trabalho, e na sua dependência funciona a Secção de Contabilidade, Tesouraria, Património e Economato (SCTPE).
 
-###### Artigo 14.º — Secção de Contabilidade, Tesouraria, Património e Economato
+###### Artigo 14.º
+
+#### Secção de Contabilidade, Tesouraria, Património e Economato
 
 À SCTPE compete:
 
@@ -702,4 +757,4 @@ O CEPAM tem um regulamento interno, sujeito à aprovação do presidente da dire
 
 Mapa anexo a que se refere o artigo 21.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158b00/39863995.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158b00/39863995.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158b00/39863995.pdf)

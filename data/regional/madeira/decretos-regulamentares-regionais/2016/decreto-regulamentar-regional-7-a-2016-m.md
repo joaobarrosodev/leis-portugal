@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 28/2016, 1º Suplemento, Série I de 2016-02-10
   number: '28'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 444-(2) a 444-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/02801/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7-a/2016/02/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-a-2016-73467032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebdf0de48d88d726329cc7cc5708fbfa11127ec8f9939733a19ae49148d877ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4923d361363319f85d59124c7cfc0cf9466cea65ecce575ea37a2fa493ef61ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,25 @@ reuse:
 subjects:
 - ILHA da Madeira
 - ILHA de Porto Santo
-- Transporte Marítimo
-- Transporte Aéreo
 - Madeira.região Autónoma
 - Reembolso
 - Subsídio
 - Subsídio de Transporte
-- Transporte de Passageiros
 - Subsídio Social de Mobilidade
+- Transporte Aéreo
+- Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:73723309:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73723309:por
+  label: Alterado o art. 6.º do DRR 1-A/2016/M de 20-jan, na redação do presente diploma, pelo(a) Decreto Regulamentar Regional
+    n.º 8-A/2016/M - Diário da República n.º 40/2016, 1º Suplemento, Série I de 2016-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-a-2016-73723309
+  date: '2016-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2015/12/30/m/dre
   label: null
@@ -104,13 +110,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:15Z'
   warnings: []
   errors: []
 ---
@@ -151,10 +157,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado em Conselho do Governo Regional em 4 de fevereiro de 2016.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 8 de fevereiro de 2016.**
+Assinado em 8 de fevereiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

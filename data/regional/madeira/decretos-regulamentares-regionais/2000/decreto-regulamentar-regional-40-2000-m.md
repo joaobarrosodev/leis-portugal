@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/40/2000/08/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5628e863520c7cd93a8ca54c7f3a25fc8c32620e1a2df39db8aeada53bc2bed3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8db5421af3d6c5b94c453697947180a3677ae9e198a177e4f06e579faa13bd4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Estatística
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
@@ -97,16 +97,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:182203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692040:por
+  label: null
+  source: null
 article_structure:
-  article_count: 44
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 37
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:38Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +165,9 @@ Natureza
 
 2 - ...
 
-###### Artigo 3.º — Estrutura
+Artigo 3.º
+
+Estrutura
 
 1 - ...
 
@@ -155,7 +185,9 @@ e) Departamento de Administração;
 
 f) Departamento de Coordenação e Difusão Estatística
 
-###### Artigo 4.º — Competências
+Artigo 4.º
+
+Competências
 
 1 - ...
 
@@ -189,7 +221,9 @@ n) ...
 
 3 - O director regional pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.
 
-###### Artigo 5.º — Estrutura e funcionamento
+Artigo 5.º
+
+Estrutura e funcionamento
 
 1 - ...
 
@@ -203,7 +237,9 @@ d) Chefe de Departamento de Coordenação e Difusão Estatística.
 
 2 - ...
 
-###### Artigo 12.º — Natureza e atribuições
+Artigo 12.º
+
+Natureza e atribuições
 
 ...
 
@@ -231,13 +267,19 @@ Os artigos 7.º e 8.º passam, respectivamente, a artigos 14.º e 15.º, com as 
 
 Departamento de Administração
 
-###### Artigo 14.º — Natureza e estrutura
+Artigo 14.º
+
+Natureza e estrutura
 
 O Departamento de Administração, adiante designado abreviadamente por DA, é um órgão de apoio administrativo à DRE, que funciona na dependência directa do director regional e compreende as Secções de Contabilidade, de Pessoal, de Arquivo e de Cadastro e Inventário.
 
-#### SECÇÃO VIII — Departamento de Coordenação e Difusão Estatística
+SECÇÃO VIII
 
-###### Artigo 15.º — Natureza e estrutura
+Departamento de Coordenação e Difusão Estatística
+
+Artigo 15.º
+
+Natureza e estrutura
 
 O Departamento de Coordenação e Difusão Estatística, adiante designado abreviadamente por DCDE, é um órgão de apoio administrativo e instrumental à DRE, que funciona na dependência directa do director regional e compreende as Secções de Coordenação e de Difusão Estatística.»
 
@@ -271,7 +313,9 @@ i) Assegurar o apoio administrativo a todos os serviços da DRE;
 
 j) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-###### Artigo 15.º-A — Atribuições
+Artigo 15.º-A
+
+Atribuições
 
 O DCDE é um órgão de apoio administrativo e instrumental à DRE, ao qual são cometidas, designadamente, as seguintes atribuições:
 
@@ -327,11 +371,11 @@ Aprovado em Conselho do Governo Regional em 6 de Julho de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 20 de Julho de 2000.**
+Assinado em 20 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — [Decreto Legislativo Regional n.º 18/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1993-661567), de 13 de Setembro - Orgânica da Direcção Regional de Estatística
 
@@ -467,7 +511,9 @@ b) Divisão de Estatísticas Demográficas, Sociais e dos Serviços;
 
 c) Divisão de Estatísticas Agrícolas e Censos.
 
-##### SUBSECÇÃO I — Divisão de Estatísticas Económicas e Financeiras
+##### SUBSECÇÃO I
+
+##### Divisão de Estatísticas Económicas e Financeiras
 
 ###### Artigo 9.º — Natureza e atribuições
 
@@ -483,7 +529,9 @@ d) Colaborar no planeamento e orientação técnica dos recenseamentos e inquér
 
 e) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO II — Divisão de Estatísticas Demográficas, Sociais e dos Serviços
+##### SUBSECÇÃO II
+
+##### Divisão de Estatísticas Demográficas, Sociais e dos Serviços
 
 ###### Artigo 10.º — Natureza e atribuições
 
@@ -501,7 +549,9 @@ e) Colaborar no planeamento e orientação técnica dos recenseamentos e inquér
 
 f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO III — Divisão de Estatísticas Agrícolas e Censos
+##### SUBSECÇÃO III
+
+##### Divisão de Estatísticas Agrícolas e Censos
 
 ###### Artigo 11.º — Natureza e atribuições
 
@@ -519,7 +569,9 @@ e) Colaborar com o INE na elaboração dos programas de censos e inquéritos esp
 
 f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-#### SECÇÃO V — Divisão de Estudos e Contas Económicas Regionais
+#### SECÇÃO V
+
+##### Divisão de Estudos e Contas Económicas Regionais
 
 ###### Artigo 12.º — Natureza e atribuições
 

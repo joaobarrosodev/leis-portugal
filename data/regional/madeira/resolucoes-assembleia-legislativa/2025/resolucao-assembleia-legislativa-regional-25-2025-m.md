@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/25/2025/12/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/25-2025-976310899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fc0846825a9a9a7f6ea108abea110dbd1bd9535de58025f91ea898a10436c15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 061a0cc3d020441135cdf2f0eb5f3286437dbb4732c15748910e1a35db635b7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Legislativa
-- Orçamento
 - Madeira.região Autónoma
-relationships: []
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:52Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ A Assembleia Legislativa da Região Autónoma da Madeira, nos termos do disposto
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 4 de dezembro de 2025.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
 
 ## ANEXO — Mapas orçamentais
 
@@ -99,31 +103,31 @@ Mapas da receita
 
 Orçamento ALRAM - 2026 - Receita
 
-| Designação | Receita prevista | % |
+| (Valores em euros) |  |  |
 | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) |
+| DesignaçãoReceita prevista% |  |  |
 | Dotação do Orçamento da RAM | 18 053 000,00 | 99,5 % |
 | Receitas próprias | 85 000,00 | 0,5 % |
 | Total | 18 138 000,00 | 100 % |
 
 Orçamento ALRAM - 2026 - Receita
 
-| Designação | Designação | Designação | Valores | % |
+| (Valores em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) |
+| DesignaçãoValores% |  |  |  |  |
 | Receitas correntes |  |  | 17 318 000,00 | 95,48 % |
 | Fonte financiamento | 311 | RI não afetas a projetos cofinanciados | 17 258 000,00 | 95,15 % |
 | Fonte financiamento | 513 | RP do ano - Com outras origens | 60 000,00 | 0,33 % |
 | Receitas de capital |  |  | 820 000,00 | 4,52 % |
 | Fonte financiamento | 311 | RI não afetas a projetos cofinanciados | 795 000,00 | 4,38 % |
 | Fonte financiamento | 513 | RP do ano - Com outras origens | 25 000,00 | 0,14 % |
-| Total Geral | Total Geral | Total Geral | 18 138 000,00 | 100,00 % |
+| Total Geral | 18 138 000,00 | 100,00 % |  |  |
 
 Orçamento ALRAM - 2026 - Receita
 
-| Rubrica | Rubrica | Rubrica | Alínea | Subalínea | Fonte de financiamento | Designação | Valores | % |
+| (Valores em euros) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) |
+| Rubrica | Alínea | Subalínea | Fonte de financiamento | Designação | Valores | % |  |  |
 | 04 | 02 | 01 | 01 | 78 | 513 | Juros de mora | 1 000,00 | 0,01 % |
 | 05 | 02 | 02 | 01 | 00 | 513 | Companhias de seguros e fundos de pensões | 6 000,00 | 0,03 % |
 | 06 | 04 | 02 | 11 | O0 | 311 | Funcionamento normal - pessoal | 11 633 000,00 | 64,14 % |
@@ -135,15 +139,15 @@ Orçamento ALRAM - 2026 - Receita
 | 08 | 02 | 02 | 99 | 03 | 513 | Subsídio social de mobilidade | 24 000,00 | 0,13 % |
 | 10 | 04 | 02 | 10 | 00 | 311 | Transferências de capital - Funcionamento normal | 795 000,00 | 4,38 % |
 | 15 | 01 | 01 | 01 | 01 | 513 | Reposições não abatidas nos pagamentos | 25 000,00 | 0,14 % |
-| Total | Total | Total | Total | Total | Total | Total | 18 138 000,00 | 100,00 % |
+| Total | 18 138 000,00 | 100,00 % |  |  |  |  |  |  |
 
 Mapas da despesa
 
 Orçamento ALRAM - 2026 - Despesa
 
-| Descrição | Valores | % |
+| (Valores em euros) |  |  |
 | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) |
+| Descrição | Valores | % |
 | Despesas com pessoal | 11 633 000,00 | 64,14 % |
 | Aquisição de bens e serviços | 2 107 000,00 | 11,62 % |
 | Transferências correntes | 3 572 000,00 | 19,69 % |
@@ -153,9 +157,9 @@ Orçamento ALRAM - 2026 - Despesa
 
 Orçamento ALRAM - 2026 - Despesa
 
-| Designação | Valores | % |
+| (Valores em euros) |  |  |
 | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) |
+| Designação | Valores | % |
 | 01 - Despesas c/ o pessoal | 11 633 000,00 | 64,14 % |
 | 01.01 - Remunerações certas e permanentes | 6 819 000,00 | 37,60 % |
 | 01.02 - Abonos variáveis ou eventuais | 949 000,00 | 5,23 % |
@@ -175,9 +179,9 @@ Orçamento ALRAM - 2026 - Despesa
 
 Orçamento ALRAM - 2026 - Despesa
 
-| Rubrica | Rubrica | Rubrica | Alínea | Subalínea | Fonte de financiamento | Designação | Valores | % |
+| (Valores em euros) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) |
+| Rubrica | Alínea | Subalínea | Fonte de financiamento | Designação | Valores | % |  |  |
 | 01 | 01 | 01 | 00 | 00 | 311 | Titulares de órgãos de soberania e membros de órgãos autárquicos | 2 786 000,00 | 15,36 % |
 | 01 | 01 | 02 | 00 | 00 | 311 | Órgãos sociais | 68 000,00 | 0,37 % |
 | 01 | 01 | 03 | A0 | 00 | 311 | Pessoal dos quadros - Regime de função pública - Pessoal em funções | 1 872 000,00 | 10,32 % |
@@ -269,4 +273,8 @@ Orçamento ALRAM - 2026 - Despesa
 | 07 | 01 | 09 | B0 | 00 | 311 | Equipamento administrativo - Outros | 60 000,00 | 0,33 % |
 | 07 | 01 | 10 | B0 | 00 | 311 | Equipamento básico - Outros | 10 000,00 | 0,06 % |
 | 07 | 01 | 15 | 00 | 00 | 311 | Outros investimentos | 10 000,00 | 0,06 % |
-| Total Geral | Total Geral | Total Geral | Total Geral | Total Geral | Total Geral | Total Geral | 18 138 000,00 | 100,00 % |
+| Total Geral | 18 138 000,00 | 100,00 % |  |  |  |  |  |  |
+
+119857332
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:11px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:justify; text-align-last:right; } .Tbl5 { min-height:26px; } .Tbl6 { text-align:center; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:34px; } .Tbl13 { min-height:28px; } .Tbl14 { text-align:left; }

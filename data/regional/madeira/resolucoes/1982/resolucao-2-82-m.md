@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 293/1982, 1º Suplemento, Série I de 1982-12-21
   number: '293'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4182-(1) a 4182-(152)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf
 entry_into_force_dates: []
@@ -47,36 +47,170 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/2-1982-140369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a07f0d845ecb1a497e0b27b94bef0824a2b8d065a334bad961fde7d30b5f0d08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30e98ca891358a0c16f6c9a62502e948b6e225d7d5ca6517a0a60c2e911c1109
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Madeira.região Autónoma
+- Orçamento Regional
+relationships:
+- type: cites
+  target: pt:dre:144414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633750:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:22Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +241,7 @@ Presidência do Governo Regional, 25 de Março de 1982. - O Presidente do Govern
 
 Orçamento da Região Autónoma da Madeira para 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Introdução
 
@@ -169,7 +303,7 @@ Para o montante do défice orçamental contribuiu, para além dos serviços regi
 
 As despesas totais ascendem a 16670839 contos, sendo 8524214 contos (51,1%) de despesas correntes, 817143 contos (5%) de despesas de capital e 7329482 contos (43,9%) de investimentos do plano. As despesas do plano estão subdivididas do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 O valor das receitas ascende a 16670839 contos, dos quais 9354818 contos (56,1%) de receitas correntes e 7316021 contos (43,9%) de receitas de capital.
 
@@ -185,7 +319,7 @@ A estas receitas acrescem as «Contas de ordem», no total de 3372714 contos, qu
 
 As receitas correntes previstas para 1982 estão repartidas do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 A previsão das receitas cobradas na Região para 1982, constituídas na sua maior parte por receitas de impostos, foi fixada em 6625839 contos, o que implica um acréscimo de 46,2% relativamente ao orçamento de 1981.
 
@@ -219,13 +353,13 @@ QUADRO II
 
 Receitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO III
 
 Despesas total
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 b) Despesas correntes
 
@@ -235,7 +369,7 @@ QUADRO IV
 
 Despesas correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 c) Despesas de capital
 
@@ -245,7 +379,7 @@ QUADRO V
 
 Despesas de capital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 d) Investimentos do plano
 
@@ -255,11 +389,11 @@ QUADRO VI
 
 Investimento do Plano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Não considerando as contas de ordem, as despesas totais elevam-se a 16670839 contos, das quais 51,1% são despesas correntes, 44,0% investimentos do plano e 4,9% despesas de capital (ver quadro VIII). A sua repartição percentual pela Assembleia Regional, Presidência e Secretarias Regionais é a seguinte:
 
@@ -287,7 +421,7 @@ QUADRO VIII
 
 Orçamento de despesas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 As transferências correntes atingem o montante de 2629032 contos, ou seja 30,8% das despesas correntes e 15,8% das despesas totais (sem contas de ordem).
 
@@ -365,11 +499,11 @@ QUADRO IX
 
 Orçamento dos serviços autónomos para 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 ANEXOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Secretaria Regional do Planeamento e Finanças, 25 de Março de 1982. - O Secretário Regional do Planeamento e Finanças, Susano Manuel Barreto de França.
 
@@ -465,7 +599,7 @@ QUADRO I
 
 Resumo das projecções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 2 - Evolução económica recente na Região
 
@@ -511,7 +645,7 @@ O consumo público (ordenados e salários e outros bens e serviços) atingiu em 
 
 A cobrança de receitas para o sector público, originadas na Região, não tem evoluído ao mesmo ritmo da realização de despesas. A taxa de cobertura das despesas correntes pelas receitas correntes (excluídas as transferências do OGE) tem vindo a degradar-se, embora apresentando ligeira melhoria em 1981, o que se pode verificar pela observação dos valores à frente inseridos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 ### CAPÍTULO II — Orientações globais da política económica e social
 
@@ -573,13 +707,13 @@ QUADRO II
 
 Superfície da Madeira segundo o declive
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO III
 
 Explorações agrícolas por classes de área
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Para se vencer a inércia com que o sector se debate e para que se mantenha, ou evolua positivamente, a importância da actividade, os organismos públicos relacionados com a área em questão têm vindo a preocupar-se com a aplicação de um conjunto de medidas e acções que visem essencialmente as estruturas, a produtividade e a modernização do sector, e se enquadrem, ao mesmo tempo, nos esforços que estão a ser efectuados, no País e na Região, com vista à integração nas comunidades europeias.
 
@@ -595,7 +729,7 @@ QUADRO IV
 
 Evolução da produção das principais culturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Ainda no campo da fruticultura, merece atenção especial a produção de fruta subtropical, nomeadamente de abacate, anona, manga, maracujá e papaia, que podem vir a constituir uma importante fonte de receita para a economia regional, devido às possibilidades que existem de exportação para mercados europeus. Embora a área de cultivo destas espécies não seja muito grande, uma vez que ela se situa na costa sul, sobretudo abaixo dos 250 m de altitude, com excepção do maracujá, que pode ir até aos 600 m, as perspectivas de desenvolvimento das fruteiras subtropicais são bastante positivas, constituindo estas também uma valiosa alternativa para a cultura da bananeira se esta já vier a encontrar no futuro grandes obstáculos para a sua manutenção.
 
@@ -627,13 +761,13 @@ QUADRO V
 
 Matança de gado segundo as espécies
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO VI
 
 Produção de carne de frango e ovos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Como medidas de apoio ao aumento da produção e produtividade agrícolas globais, pretende-se continuar a incentivar, na medida do possível, a mecanização, quer pela cedência na utilização de máquinas agrícolas quer pela atribuição de subsídios para a sua aquisição, prosseguir no estudo dos solos para apurar a real aptidão agrícola, incentivar, sempre que possível, a fertilização e a correcção dos terrenos agricultados, divulgar, junto do agricultor, a prática correcta da luta antiparasitária e fomentar a melhoria dos sistemas de regadio existentes, de modo a se conseguir uma maior economia de trabalho e de volumes na utilização da água.
 
@@ -657,7 +791,7 @@ QUADRO VII
 
 Pesca descarregada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 De uma forma geral, as infra-estruturas portuárias têm constituído um grande obstáculo ao desenvolvimento da actividade piscatória devido à falta de cais de abrigo nos portos de pesca da Região, com excepção para o porto do Funchal, para onde ocorrem as embarcações dos portos vizinhos, no caso de fortes temporais impedirem o desembarque nas suas localidades em condições de segurança. Os projectos em infra-estruturas incluem a ampliação e, sobretudo, melhoramento dos portos localizados em todo o arquipélago, assim como o equipamento dos varadouros, de modo a torná-los aptos para a varagem de embarcações com maior tonelagem de arqueação.
 
@@ -689,7 +823,7 @@ QUADRO VIII
 
 Origem do produto da indústria a preços de mercado, por actividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Com a instalação de parques industriais pretende-se promover a criação de infra-estruturas adequadas à implantação de estabelecimentos industriais, para o que será prestado apoio técnico, económico e financeiro às autarquias locais que tenham a seu cargo a competência da dinamização dos referidos parques. Neste momento encontra-se já em fase adiantada o projecto referente ao parque industrial de Santa Cruz (Caniço).
 
@@ -713,7 +847,7 @@ QUADRO IX
 
 Produção de electricidade - EEM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Tendo em vista satisfazer as crescentes necessidades de consumo de energia nas suas diversas utilizações, conforme os valores constantes do quadro X, o programa de investimentos no sector contempla uma série de acções que abrangem desde ampliações das centrais térmicas existentes e melhoria do seu equipamento, aumento da produção hidráulica e aperfeiçoamento das redes de transporte e distribuição até estudos de prospecção da riqueza energética e investigação tecnológica, estes no domínio das energias renováveis.
 
@@ -735,19 +869,19 @@ QUADRO X
 
 Evolução do consumo de energia eléctrica por ramos de actividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XI
 
 Produção e consumo de energia eléctrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XII
 
 Investimentos da EEM para 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 1.5 - Construção civil e obras públicas
 
@@ -769,31 +903,31 @@ QUADRO XIII
 
 Elementos sobre a construção e obras públicas na Região Autónoma da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XIV
 
 Indicadores da construção e obras públicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XV
 
 Consumo de cimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XVI
 
 Formação bruta de capital fixo, por tipos de bens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XVII
 
 Edifícios concluídos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Conforme já foi assinalado, as entidades oficiais contribuíram em larga medida para a grande expansão do sector no período em análise, já que a participação relativa do sector público no valor bruto da produção passou de 19,2% em 1974 para 50,4% em 1979, ficando a dever-se este aumento de participação à aceleração do ritmo de construção de estradas, de edifícios para habitação social e à construção de outras infra-estruturas de carácter económico e social.
 
@@ -825,7 +959,7 @@ QUADRO XVIII
 
 Evolução do turismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Deste quadro se infere que o número de hóspedes e dormidas em 1981 foi inferior ao que se verificou em 1980, o que terá a ver com a crise internacional e também com a subida dos preços no País, os quais se procurou que acompanhassem a revalorização do dólar. De facto, assiste-se, assim, a uma variação negativa no número de hóspedes (- 3,8%), bem como no número de dormidas (- 6%). A capacidade de alojamento aumentou um pouco, de 11454 camas em 1980 para 11053 em 1981, enquanto a ocupação média baixou, situando-se ao nível dos 54%, o que representa um decréscimo de 6% relativamente a igual período do ano anterior.
 
@@ -861,7 +995,7 @@ QUADRO XIX
 
 Evolução segundo o país de residência habitual
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 O turismo pressupõe também a existência de adequadas infra-estruturas económicas, sociais, culturais, recreativas e de saneamento básico, consideradas o suporte base de um desenvolvimento ordenado. Nessa medida, a delimitação das áreas de ocupação turística surge como uma questão de fundo que, tendo em conta esses aspectos, torna imperiosa a utilização racional dos recursos naturais. Aqui residiu uma das razões de ser do plano de desenvolvimento integrado de Porto Santo, concluído em 1981 e já em vigor, e do plano director de urbanização Garajau - Baía de Abra, em elaboração.
 
@@ -989,17 +1123,17 @@ De uma maneira geral, a situação educacional subsiste precária: a taxa de ana
 
 QUADRO XX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XXI
 
 A) Ensino primário oficial:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 B) Ensino preparatório (1978/1979):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Tendo como base a estratégia da política educacional de reformular o ensino e valorizar os recursos, e no campo da progressiva eliminação das discriminações, terá de prosseguir o fomento de todo um conjunto de acções visando um maior acesso da população às estruturas do ensino ou, ainda, dando-lhe condições de melhoramento do seu nível profissional.
 
@@ -1113,7 +1247,7 @@ Os indicadores apresentados no quadro XXVI, referentes às características dos 
 
 Do QUADRO XXII ao QUADRO XXVI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 No capítulo das condições de habitabilidade dos fogos concluídos (quadro XXV), note-se que, apesar de uma melhoria acentuada no que respeita a água canalizada, energia eléctrica e esgotos, no período de 1975-1979, continua a construir-se um número significativo de habitações sem as mínimas condições de higiene, sendo, por isso, necessário reforçar a intervenção fiscalizadora para a resolução do problema.
 
@@ -1215,7 +1349,7 @@ Dada a escassez de receitas da Região, a fonte principal de financiamento dos i
 
 Os diversos sectores globais por que se reparte o montante do PIDDAR-82 são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Relativamente ao PIDDAR-81, onde se previa o dispêndio de 6516154 contos - e sobre o qual há este ano, portanto, um acréscimo de previsão de 12,5% -, as verbas a absorver pelos sectores sociais são ligeiramente menores (37,5% contra 43,1% em 1981), como são relativamente menores também as referentes aos investimentos municipais (11,4% contra 23%), enquanto as referentes aos sectores produtivos, às infra-estruturas económicas e aos sectores de apoio subiram relativamente bastante (respectivamente 13,5% contra 10,5%, 34% contra 21,4% e 3,6% contra 2%).
 
@@ -1277,7 +1411,7 @@ De todos os empreendimentos das câmaras, em curso e a iniciar (alguns com previ
 
 7 - Por sectores globais, já vimos no n.º 1 deste capítulo a repartição dos montantes referentes ao total do PIDDAR-82; vejamo-la agora com respeito aos sectores individualizados (em percentagem sobre aquele total) e comparando-a com a referente a 1981, cujas percentagens vão entre parêntesis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Anteriormente foram já feitas algumas considerações sobre as diferenças de percentagem existentes, para os mesmos sectores, nos anos de 1981 e 1982, pelo que nos dispensamos de as referir.
 
@@ -1287,11 +1421,11 @@ Se se tiver em consideração que o PIDDAR-82 é apenas superior em 12,5% ao PID
 
 Plano de Investimentos e de Despesas de Desenvolvimento da Administração da Região Autónoma da Madeira - 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 PIDDAR - 1982
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Plano a médio prazo 1981-1984
 
@@ -1371,13 +1505,13 @@ QUADRO I
 
 Indicadores macroeconómicos da zona da OCDE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO II
 
 Taxas de desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Os efeitos da crise económica fizeram sentir-se desde logo com maior acuidade nas economias mais vulneráveis, em especial na portuguesa. Em finais de 1973 manifestou-se já uma tendência acentuada para o crescimento da taxa de inflação, com repercussões sensíveis na diminuição da taxa de crescimento do produto, e para o agravamento do défice da balança comercial. As alterações institucionais levadas a cabo em 1974, ao permitirem a expansão dos rendimentos salariais e das pensões sociais, não acompanhadas de medidas continuadas e globais tendentes à adequação da oferta interna às novas necessidades da procura, provocaram o surgimento do problema estrutural de desequilíbrio externo que, desde então, tem condicionado em larga medida o desenvolvimento de economia portuguesa. Para esta situação concorreram também os crescentes défices do sector público e a política de recuperação do nível de investimento.
 
@@ -1409,13 +1543,13 @@ QUADRO III
 
 Estruturas da despesa interna - Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO IV
 
 Estrutura da despesa interna - Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Quanto ao consumo público, ele atingiu na Região cerca de 22% do produto interno bruto a custo de factores nos anos considerados, enquanto no continente representou 15,6%, o que revela uma maior preponderância do sector público na economia regional.
 
@@ -1427,7 +1561,7 @@ QUADRO V
 
 Formação bruta de capital fixo por agentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 A posição relativa quer da exportação, quer da importação de bens e serviços é na Região, no período em análise, bastante superior à que se regista no continente, sintoma da maior vulnerabilidade da economia regional face ao exterior.
 
@@ -1441,7 +1575,7 @@ QUADRO VI
 
 Estrutura do PIB(ver nota *)(índice pm) por sectores de actividade - Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 (nota *) Na Madeira não foi apurado o PIB por sectores.
 
@@ -1449,7 +1583,7 @@ QUADRO VII
 
 Estrutura do PIB(índice cf) por actividade - Continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 A distribuição da FBCF por sectores (quadro VIII) a nível regional apresenta distorções salientes, pois o sector dos serviços absorveu, em 1976 e 1977, respectivamente 71,5% e 63,6% do total, facto que, em parte, justifica o seu acentuado peso na economia da Região.
 
@@ -1461,7 +1595,7 @@ QUADRO VIII
 
 Formação bruta de capital fixo por sectores de actividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Assim, em termos médios, verifica-se no período de 1976-1982 (quadro IX) um crescimento anual do PIB(índice pm) da ordem dos 25%, tanto na Madeira como no continente.
 
@@ -1469,7 +1603,7 @@ QUADRO IX
 
 Produto interno bruto a preços de mercado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 No que se refere ao indicador produto per capita, a relação entre o continente e a Madeira é, em termos médios, no período considerado, de 2 para 1 (quadro X). Este facto deve-se, por um lado, a que a taxa de actividade na Madeira é inferior à do continente e, por outro, à menor produtividade média, em consequência da quase inexistência, a nível regional, de indústrias capital-intensivas, as quais registam, no continente, elevados níveis de produtividade.
 
@@ -1477,7 +1611,7 @@ QUADRO X
 
 Produto «per capita»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 2 - População e emprego
 
@@ -1493,7 +1627,7 @@ QUADRO XI
 
 População residente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 O decréscimo verificado entre 1960 e 1970 é devido à redução da taxa de natalidade e, principalmente, ao elevado fluxo emigratório (cerca de 68000 indivíduos emigrados legal e ilegalmente).
 
@@ -1503,7 +1637,7 @@ QUADRO XII
 
 Evolução da população residente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Na origem da quebra do saldo migratório há a assinalar, sobretudo, o retorno das ex-colónias de cerca de 12500 indivíduos e, ainda, os decréscimos de emigração legal, em cerca de 33%, da emigração clandestina e das migrações internas (para as restantes parcelas do território português), estimando-se que as 2 últimas correntes tenham diminuído cerca de 45% (quadros XII e XIV).
 
@@ -1511,13 +1645,13 @@ A evolução demográfica no último decénio está igualmente patente no quadro
 
 QUADRO XIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XIV
 
 Emigração legal da Região da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 No que se refere à distribuição da população na Região por concelhos (quadro XV) assiste-se de 1970 para 1981 a um agravamento da concentração acentuada da população nos concelhos do sul da ilha da Madeira que se localizam na área de influência do Funchal - Funchal, Câmara de Lobos, Machico e Santa Cruz. Com efeito, esta zona que congregava em 1970 cerca de 71% da população reforçou a sua posição na década de 70 em cerca de 4 pontos percentuais. Porto Santo viu também consideravelmente aumentada a sua população (+ 16,5%). Os concelhos mais repulsivos foram, por ordem decrescente, Calheta (- 16,4%), Ponta do Sol (- 16,3%), São Vicente (- 15,6%), Ribeira Brava (- 15,5%), Santana (- 12,4%) e Porto Moniz (- 11,3%).
 
@@ -1527,11 +1661,11 @@ QUADRO XV
 
 População residente por concelhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XVI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Por não se dispor, neste momento, de todos os dados do último recenseamento da população (Março de 1981), designadamente no que concerne à distribuição etária da população e à população activa e atendendo ainda ao carácter provisório dos elementos já divulgados, adiantam-se alguns comentários que se julga serem de grande interesse na análise dos recursos humanos regionais, baseados em perspectivas demográficas em 31 de Dezembro de 1980, 1985, 1990, 1995 e 2000, elaboradas pela Direcção de Serviços de Estudos do Instituto Nacional de Estatística e publicadas em Março de 1979. O leque de perspectivas então apresentado assentou em 6 hipóteses de evolução, tendo-se optado pela hipótese principal, com migrações, a qual, tal como as outras, tem por base a estrutura da população em 31 de Dezembro de 1975 e assenta nos seguintes pressupostos:
 
@@ -1551,13 +1685,13 @@ QUADRO XVII
 
 Estrutura etária da população
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XVIII
 
 Coeficiente de dependência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Quanto às perspectivas de evolução demográfica no horizonte do plano prevê-se, de acordo com a hipótese considerada e já atrás explicitada, que em 1985 a população da Região atinja os 255500 indivíduos (quadro XIX). Nesta evolução registar-se-á a descida do grupo etário 0-14 anos de 34,9% em 1980 para, 30,1% em 1985.
 
@@ -1569,7 +1703,7 @@ QUADRO XIX
 
 Indicadores demográficos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Como anteriormente já se disse, em 1970, cerca de 55% da população encontrava-se em idade activa e, no entanto, a percentagem da população a exercer uma profissão relativamente à população total era muito menor (cerca de 35,5%). Embora a taxa de actividade deva ter aumentado, sobretudo no que se refere à feminina, continua a existir um potencial humano muito importante ainda por absorver. Tenha-se em consideração que o grupo da população potencialmente activa apresenta uma tendência para reforçar a sua posição relativa, como já se constatou. Importa, portanto, adoptar uma estratégia de desenvolvimento que não descure a preocupação de criação de postos de trabalho e preparar, através de uma adequada política de educação, a população da Região, em especial a que tem estado afastada, por razões várias, de uma participação mais efectiva na actividade económica.
 
@@ -1611,13 +1745,13 @@ QUADRO XX
 
 Evolução da procura de emprego por parte de desempregados segundo o sexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XXI
 
 Decomposição dos pedidos de emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Ao analisarmos a relação ofertas/pedidos de emprego, constata-se que em 1981 apenas nas profissões ligadas à construção civil as ofertas excediam os pedidos de emprego. Ora, estas profissões não se afiguram como as mais adequadas à maioria dos que se apresentam pela primeira vez no mercado de trabalho. As preferências deste grupo de candidatos estão altamente concentradas num reduzido número de grupos profissionais que não são muito exigentes, em termos de qualificação técnico-profissional. Assim, em finais de 1981, os grupos empregados de escritório, vendedores, trabalhadores de hotelaria e similares e trabalhadores dos serviços representavam cerca de 92% da procura de primeiro emprego (quadro XXII).
 
@@ -1627,7 +1761,7 @@ O número de desempregados que, com referência ao final do ano, recebia subsíd
 
 Evolução dos subsídios de desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 De entre os factores que têm originado a concessão de subsídio de desemprego ressalta o motivo «cessação de contratos a prazo», o qual, em 1981, foi responsável por cerca de 78% do total de candidatos inscritos.
 
@@ -1635,13 +1769,13 @@ QUADRO XXII
 
 Composição profissional do desemprego (final de 1981)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XXIII
 
 Pedidos e ofertas de emprego por satisfazer (final de 1981)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Trabalho
 
@@ -1655,7 +1789,7 @@ A regulamentação colectiva de trabalho aplicável à Região é de 2 tipos: in
 
 Os instrumentos de âmbito regional publicados em 1980 e 1981 (até Maio) foram os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 No que concerne a instrumentos de âmbito supra-regional, em 1980 foram publicados 9, elevando-se esse número a 17 em 1981.
 
@@ -1797,7 +1931,7 @@ QUADRO XXIV
 
 Índice de preços no consumidor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 O mesmo quadro mostra que o intervalo de variação percentual do IPC na Região, no referido período, é inferior ao resgistado no continente, com um valor mínimo de 19,9% em 1980 e máximo de cerca de 22,6% em 1978 e 1981. Para o continente o valor mínimo registado foi de 16,6% em 1980, contra um valor máximo de 24,2% em 1979.
 
@@ -1815,7 +1949,7 @@ QUADRO XXV
 
 Índices de preços no consumidor na Madeira e continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 4 - Relações com exterior
 
@@ -1829,13 +1963,13 @@ QUADRO XXVI
 
 Alguns indicadores da balança de transacções corentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XXVII
 
 Alguns indicadores da balança de transacções correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 4.2 - Comércio com o exterior
 
@@ -1845,7 +1979,7 @@ QUADRO XXVIII
 
 Taxa de cobertura das importações pelas exportações - Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 O agravamento registado na taxa de cobertura global ficou a dever-se em maior grau à tendência acentuada ao desequilíbrio nas trocas comerciais com o estrangeiro, pois, após uma fase de equilíbrio ou quase equilíbrio em 1974 e 1975, tem vindo a verificar-se uma situação cada vez mais desfavorável para a Região, atingindo um valor mínimo em 1980, ano em que as exportações para o estrangeiro apenas representaram 53,8% das suas importações.
 
@@ -1865,13 +1999,13 @@ QUADRO XXIX
 
 Importação por países e grupos de países
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XXX
 
 Exportação por países e grupos de países
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Analisando melhor as relações comerciais da Região com o exterior através de índices de exportação (quadro XXXI), em termos de volume, valor e preços, verifica-se que no caso das exportações há uma quebra no volume das mesmas em relação ao ano de 1975, apesar de registar uma melhoria significativa relativamente ao ano anterior. A quebra global registada foi devida à grande diminuição no volume das exportações de peixe fresco ou congelado, de conservas de peixe e de vinho da Madeira (ver quadro XXXII), pois os restantes produtos com tradicional peso nas exportações, como a banana, os bordados da Madeira, as flores e as obras de vime, tiveram no período de 1975-1980 um crescimento razoável, com especial relevo para a banana. Assinale-se, contudo, que a evolução positiva do volume exportado destes últimos produtos não conseguiu, no entanto, contrabalançar a quebra que se verificou na exportação de produtos piscícolas e vinho da Madeira.
 
@@ -1889,25 +2023,25 @@ QUADRO XXXI
 
 Índice das exportações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XXXIII
 
 Índice das importações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XXXII
 
 Algumas das principais mercadorias saídas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XXXIV
 
 Importação de alguns produtos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Objectivos e medidas de política:
 
@@ -1939,7 +2073,7 @@ QUADRO XXXV
 
 Emigração legal (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 (nota a) Referem-se ao número de passaportes concedidos.
 
@@ -1967,7 +2101,7 @@ QUADRO XXXVI
 
 Evolução dos depósitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 A procura de depósitos a prazo tem-se expandido a taxas (homólogas) muito elevadas, as quais atingiram 63%, 58% e 42%, respectivamente em 1979, 1980 e 1981. Assiste-se, no entanto, a um sensível abrandamento do seu ritmo de crescimento. A desaceleração que se vem verificando não é certamente alheia a atenuação do impacte das últimas subidas das taxas de juro ocorridas em 1977 e 1978, a persistência de acentuados níveis de inflação e a elevação das taxas de juro na zona do dólar. O crescimento dos depósitos de emigrantes tem sido superior ao dos agentes económicos residentes, com excepção do ano de 1980, em que se registou um abrandamento em consonância com a desaceleração registada nas remessas de emigrantes, em parte como reflexo da revalorização do escudo operada nesse ano.
 
@@ -1979,7 +2113,7 @@ QUADRO XXXVII
 
 Evolução do crédito interno
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 O saldo do crédito concedido no fim de Novembro de 1981 totalizava cerca de 15855 contos, cabendo aos sectores produtivos cerca de 72% deste valor. De entre estes destaca-se o sector do comércio por grosso e a retalho, restaurantes e hotéis, com 30,4% (sendo de referir que, neste último, a rubrica «Restaurantes e hotéis» foi responsável por cerca de 33,6% do crédito concedido), seguindo-se construção e obras públicas, que representava cerca de 20%, e o sector das indústrias transformadoras, com 9,5%. O sector agrícola absorvia apenas uma reduzida parcela (4,4%), reflectindo em parte a fraca capacidade de endividamento da maior parte das empresas agrícolas, dada a sua pequena dimensão. Note-se que a pecuária, onde ultimamente se constituíram empresas de média dimensão, na sequência da política de fomento prosseguida pelas entidades oficiais, apresenta uma preponderância absoluta no recurso a crédito, absorvendo cerca de 68% do montante global atribuído ao sector agrícola (quadro XXXIX).
 
@@ -1989,7 +2123,7 @@ QUADRO XXXVIII
 
 Evolução do crédito interno
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 No que se refere ao crédito a particulares para habitação verifica-se que, apesar da posição relevante que ocupa na estrutura do crédito de longo prazo, ele fica aquém do mesmo no continente, com uma diferença de cerca de 10 pontos percentuais. Esta situação resulta certamente dos mais elevados custos da construção e dos terrenos, o que o recurso ao crédito, para este fim, inacessível a muitas famílias com carências habitacionais.
 
@@ -1997,13 +2131,13 @@ QUADRO XXXIX
 
 Distribuição sectorial do crédito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 QUADRO XL
 
 Bonificações concedidas pelo Banco de Portugal na RAM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 No que se refere à distribuição do crédito por sectores e prazos não se denotam grandes alterações entre 1980 e 1981, embora em Setembro deste último ano se tenha registado, em relação ao período homólogo do ano anterior, um ligeiro reforço da posição relativa do crédito de longo prazo em detrimento do crédito de curto prazo (quadro XLI).
 
@@ -2015,7 +2149,7 @@ QUADRO XLI
 
 Repartição dos saldos de créditos por sectores e prazos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Política orçamental
 
@@ -2375,7 +2509,7 @@ QUADRO XLII
 
 Evolução da taxa de ocupação - Cama
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Contudo, apesar de o sector revelar crescentes índices de desenvolvimento, comprovados pelo aumento do número de turistas na década de 70, é notória a quebra que está a sofrer, devendo-se tal facto, em grande parte, à forte recessão económica que tem abalado todo o mundo, em particular os países principais mercados geradores de turismo na Região.
 
@@ -2921,7 +3055,7 @@ QUADRO XLIII
 
 Actividade desenvolvida por objectivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 No sector constata-se que o número de profissionais existentes é ainda escasso, embora tivesse duplicado entre 1978 (99) e 1979 (201). Relativamente ao número de educadoras de infância, pode, no entanto, dizer-se que actualmente ele é suficiente (14) face aos lugares existentes em creches e jardins-de-infância.
 
@@ -3089,7 +3223,9 @@ Elaboração de legislação sobre as Desertas, com o objectivo de aí se consti
 
 Prospecção e desenvolvimento das energias renováveis, com vista à sua utilização prática, dada a sua não poluição do ambiente.
 
-### CAPÍTULO IV — Programas e projectos de investimentos a realizar no âmbito do plano a médio prazo 1981-1984
+CAPÍTULO IV
+
+Programas e projectos de investimentos a realizar no âmbito do plano a médio prazo 1981-1984
 
 Neste capítulo, referem-se os principais programas e projectos que o Governo Regional vai realizar no decurso do período de 1981-1984, correspondente à vigência do plano a médio prazo (PMP). Não se incluem, portanto, nem os empreendimentos e acções a realizar pelo Governo Central na Região - em que avulta a ampliação do Aeroporto de Santa Catarina, que vai responder ao anseio das populações locais em verem o arquipélago dotado com uma infra-estrutura dimensionada para os grandes aviões de longo curso -, nem os empreendimentos das autarquias locais (que vão, todavia, discriminados em apenso), nem os das empresas públicas do Estado, embora a todos possam ser, ou ter sido, feitas referências mais ou menos minuciosas, de acordo com a sua importância.
 
@@ -3101,7 +3237,7 @@ No período de 1981-1982, o volume total de encargos orçamentados para os inves
 
 Por sectores individualizados, a repartição do montante consignado ao período de 1981-1982, primeira metade do PMP, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29301/00010152.pdf)
 
 Donde se conclui a grande importância que assumem actualmente nas preocupações do Governo Regional o sector dos transportes (especialmente estradas regionais e portos do Funchal e de Porto Santo), o da habitação, os investimentos municipais, o da educação, o da agricultura, silvicultura e pecuária, os circuitos de distribuição e comercialização e o do turismo, que avultam entre todos, embora todos exijam a maior atenção e venham a sofrer no PMP o necessário impulso, através de apoio financeiro e outras medidas de fomento e promoção.
 

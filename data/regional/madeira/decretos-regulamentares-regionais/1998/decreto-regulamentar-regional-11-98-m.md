@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/198b00/45014505.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1998/08/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1998-448289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86171d4287459aae216f43424e239974dd8c15b071d6668129e77f9fd6f46459
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65a442dc41987c5e5904219d5ec1c982d05bf338961402eab9790fe8bfa103e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Federação de Bombeiros
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Serviço Regional de Protecção Civil da Madeira
 relationships:
@@ -90,16 +90,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:509787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:672143:por
+  label: "Revogado pelo DLR.7/2006/M.16.03.2006.AL-RAM, DR.IS-A [64] de 30.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2006-672143
+  date: '2006-03-16'
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:14Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +151,9 @@ Atribuições
 
 n) Criar equipas móveis de intervenção rápida.
 
-###### Artigo 8.º — Estrutura
+Artigo 8.º
+
+Estrutura
 
 O SRPCM é superiormente dirigido por um presidente, que será coadjuvado por um vice-presidente, e integra:
 
@@ -146,7 +169,9 @@ e) Repartição dos Serviços Gerais e Pessoal;
 
 f) Repartição de Contabilidade e Património.
 
-###### Artigo 16.º — Composição
+Artigo 16.º
+
+Composição
 
 1 - ...
 
@@ -182,13 +207,17 @@ p) ...
 
 2 - ...
 
-###### Artigo 32.º — Natureza das repartições administrativas
+Artigo 32.º
+
+Natureza das repartições administrativas
 
 1 - A Repartição dos Serviços Gerais e Pessoal (RSGP) é um serviço destinado essencialmente a prestar apoio administrativo ao SRPCM e a todos os serviços que o integram nas áreas do expediente, arquivo, assuntos gerais e pessoal.
 
 2 - A Repartição de Contabilidade e Património (RCP) é um serviço destinado essencialmente a prestar apoio administrativo ao SRPCM e a todos os serviços que o integram nas áreas da contabilidade, orçamento e património.
 
-###### Artigo 33.º — Atribuições
+Artigo 33.º
+
+Atribuições
 
 1 - São atribuições da RSGP:
 
@@ -226,7 +255,9 @@ g) Proceder à recolha e preparação de elementos estatísticos;
 
 h) Colaborar, nas suas áreas de competência, na elaboração dos relatórios de actividades do SRPCM.
 
-###### Artigo 34.º — Estrutura
+Artigo 34.º
+
+Estrutura
 
 1 - A RSGP compreende:
 
@@ -258,11 +289,11 @@ Aprovado em Conselho do Governo Regional de 6 de Agosto de 1998.
 
 Pelo Presidente do Governo Regional, João Paulo Baptista Fontes.
 
-**Assinado em 6 de Agosto de 1998.**
+Assinado em 6 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Quadro de pessoal do Serviço Regional de Protecção Civil da Madeira
 

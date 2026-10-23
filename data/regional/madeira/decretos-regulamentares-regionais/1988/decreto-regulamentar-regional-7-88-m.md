@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/03800/05370540.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1988-283159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1005f2326bcac46db10c2054c2ed0939dad16643a37ce98b47fbffc93994f2c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c032799a5e97e745d9a5ec464b4ec396030896e816292428368d1a29ff222fe7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos de História do Atlântico
+- Estatuto
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:669489:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175519:por
+  label: "Alterado o artigo 3.º, aditada a secção II-A, que compreende os artigos 5.º-A, 5.º-B e 5.º-C e o capítulo II-A,\
+    \ que compreende os artigos 13.º-A, 13.º-B, 13.º-C e 13.º-D, e revogada a alínea e) do n.º 1 do artigo 4.º do Estatuto,\
+    \ pelo DRR.4/92/M.13.03.1992.GR-RAM, DR.IS-B [61] de 13.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1992-175519
+  date: '1992-03-13'
+- type: cites
+  target: pt:dre:177433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669489:por
+  label: "Revogado pelo DRR.33/93/M.08.10.1993.GR-RAM, DR.IS-B [236] de 08.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-1993-669489
+  date: '1993-10-08'
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:00Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +138,19 @@ Assim:
 
 O Governo da Região Autónoma da Madeira, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto do Centro de Estudos de História do Atlântico, que faz parte integrante deste diploma.
+Artigo 1.º É aprovado o Estatuto do Centro de Estudos de História do Atlântico, que faz parte integrante deste diploma.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 26 de Novembro de 1987.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 19 de Dezembro de 1987.**
+Assinado em 19 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Estatuto do Centro de Estudos de História do Atlântico
 
@@ -320,4 +360,4 @@ O presente Estatuto poderá ser objecto de revisão decorrido um ano após a sua
 
 ## ANEXO — Quadro de pessoal a que se refere o n.º 2 do artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/02/03800/05370540.pdf))](https://files.diariodarepublica.pt/1s/1988/02/03800/05370540.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/03800/05370540.pdf)

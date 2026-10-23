@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13500/0002400038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/24/2021/07/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/24-2021-167281006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2c026987250395b03821aaafc998d7f45994626685023ac72ed038c6c397a1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ece96db2b1701d254855856a819563e226950012e7f2e42136fabf7e3a8e2df6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Autonomia Financeira
 - Financiamento
-- Política Fiscal
 - Lei das Finanças Locais
-- Política Financeira
-- Política Social
 - Madeira.região Autónoma
-- Açores
+- Política Financeira
+- Política Fiscal
+- Política Social
 relationships:
 - type: cites
   target: celex:32009R0479
@@ -102,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
-  article_count: 48
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:16Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +180,9 @@ Assim, a natural evolução da Autonomia, deve ser um dos temas centrais no decu
 
 Articulado: Artigos a alterar, a aditar ou revogar
 
-###### Artigo 3.º — Princípios fundamentais
+Artigo 3.º
+
+Princípios fundamentais
 
 ...
 
@@ -180,31 +206,43 @@ i) Princípio da regionalização de serviços;
 
 j) [Anterior alínea i).]
 
-###### Artigo 4.º — Princípio da legalidade
+Artigo 4.º
+
+Princípio da legalidade
 
 A autonomia financeira das regiões autónomas exerce-se no quadro da Constituição, dos respetivos estatutos político-administrativos, da lei de enquadramento orçamental, da presente lei e demais legislação complementar, bem como das normas e tratados da União Europeia, tendo, ainda, em consideração as restantes obrigações internacionais assumidas pelo Estado Português.
 
-###### Artigo 5.º — Princípio da autonomia financeira das regiões autónomas
+Artigo 5.º
+
+Princípio da autonomia financeira das regiões autónomas
 
 1 - A autonomia financeira das regiões autónomas traduz-se na existência de património e finanças próprios e reflete-se na autonomia patrimonial, fiscal, orçamental e de tesouraria.
 
 2 - A autonomia financeira visa garantir aos órgãos de governo próprio das regiões autónomas os meios necessários à prossecução das suas atribuições, bem como a disponibilidade dos instrumentos adequados à promoção do desenvolvimento económico e social e do bem-estar e da qualidade de vida das populações, à eliminação das desigualdades resultantes da situação de insularidade e de ultraperiferia e à realização da convergência económica com o restante território nacional e com a União Europeia.
 
-###### Artigo 6.º — Princípio da estabilidade orçamental
+Artigo 6.º
+
+Princípio da estabilidade orçamental
 
 1 - A autonomia financeira das regiões autónomas desenvolve-se no quadro do princípio da estabilidade orçamental, que pressupõe, no médio prazo, uma situação próxima do equilíbrio orçamental.
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 7.º — Princípio da estabilidade das relações financeiras
+Artigo 7.º
+
+Princípio da estabilidade das relações financeiras
 
 O Estado e as regiões autónomas devem atuar em cooperação, sendo garantido pelo Estado aos órgãos de governo próprio das regiões autónomas a estabilidade dos meios necessários à prossecução dos seus direitos constitucionais e ao cumprimento das suas obrigações.
 
-###### Artigo 7.º-A — Princípio da autonomia fiscal
+Artigo 7.º-A
+
+Princípio da autonomia fiscal
 
 As regiões autónomas podem adotar medidas específicas de política fiscal como instrumentos de equilíbrio e de desenvolvimento sustentável, tendo em conta as características e os condicionalismos especiais de regiões ultraperiféricas e nos termos da Constituição.
 
-###### Artigo 8.º — Princípio da coesão e solidariedade nacional
+Artigo 8.º
+
+Princípio da coesão e solidariedade nacional
 
 1 - Cabe ao Estado promover a eliminação das desigualdades resultantes da situação de insularidade e de ultraperifericidade e a realização da convergência económica das regiões autónomas com o restante território nacional e com a União Europeia.
 
@@ -216,11 +254,15 @@ As regiões autónomas podem adotar medidas específicas de política fiscal com
 
 5 - A solidariedade regional para com o Estado traduz-se numa vinculação das regiões autónomas à prossecução dos objetivos orçamentais definidos no quadro da lei de enquadramento orçamental.
 
-###### Artigo 8.º-A — Princípio da equidade
+Artigo 8.º-A
+
+Princípio da equidade
 
 O Estado assegura um tratamento imparcial, justo e equilibrado entre as regiões autónomas, tendo sempre em consideração as respetivas características intrínsecas, necessidades, especificidades e exigências em termos de desenvolvimento económico e social.
 
-###### Artigo 9.º — Princípio da continuidade territorial
+Artigo 9.º
+
+Princípio da continuidade territorial
 
 1 - O princípio da continuidade territorial assenta na necessidade de corrigir as desigualdades estruturais que resultam do caráter ultraperiférico e insular dos arquipélagos dos Açores e da Madeira e visa a plena consagração dos direitos de cidadania das populações insulares, vinculando, designadamente, o Estado ao seu cumprimento, de acordo com as suas obrigações constitucionais e com as normas e tratados europeus.
 
@@ -228,29 +270,41 @@ O Estado assegura um tratamento imparcial, justo e equilibrado entre as regiões
 
 3 - O Estado deve adotar medidas específicas destinadas a mitigar as dificuldades estruturais intransponíveis a que se referem os números anteriores com incidência, designadamente, sobre a política financeira e a política fiscal.
 
-###### Artigo 10.º — Princípio da regionalização de serviços
+Artigo 10.º
+
+Princípio da regionalização de serviços
 
 A regionalização de serviços e a transferência de poderes prosseguem de acordo com a Constituição e com a lei, devendo ser sempre acompanhadas dos correspondentes meios financeiros para fazer face aos respetivos encargos, nos termos do artigo 53.º
 
-###### Artigo 11.º — Princípio da coordenação
+Artigo 11.º
+
+Princípio da coordenação
 
 (Revogado.)
 
-###### Artigo 12.º — Princípio da transparência
+Artigo 12.º
+
+Princípio da transparência
 
 1 - ...
 
 2 - (Revogado.)
 
-###### Artigo 13.º — Princípio do controlo
+Artigo 13.º
+
+Princípio do controlo
 
 (Revogado.)
 
-###### Artigo 14.º — Transferências orçamentais
+Artigo 14.º
+
+Transferências orçamentais
 
 (Revogado.)
 
-###### Artigo 15.º — Conselho de acompanhamento das Políticas Financeiras
+Artigo 15.º
+
+Conselho de acompanhamento das Políticas Financeiras
 
 1 - ...
 
@@ -290,7 +344,9 @@ k) Acompanhar as iniciativas conjuntas entre o Estado Português e as regiões a
 
 8 - ...
 
-###### Artigo 16.º — Equilíbrio orçamental
+Artigo 16.º
+
+Equilíbrio orçamental
 
 1 - ...
 
@@ -308,7 +364,9 @@ k) Acompanhar as iniciativas conjuntas entre o Estado Português e as regiões a
 
 8 - O Decreto Regulamentar Regional de execução orçamental prevê os mecanismos de correção adequados para as entidades públicas reclassificadas que se encontrem em situação de incumprimento.
 
-###### Artigo 17.º — Anualidade e plurianualidade
+Artigo 17.º
+
+Anualidade e plurianualidade
 
 1 - ...
 
@@ -318,13 +376,17 @@ k) Acompanhar as iniciativas conjuntas entre o Estado Português e as regiões a
 
 4 - O disposto nos números anteriores não prejudica a possibilidade de existir um período complementar de execução orçamental, nos termos previstos no decreto regulamentar de execução orçamental da respetiva região autónoma.
 
-###### Artigo 18.º — Unidade e universalidade
+Artigo 18.º
+
+Unidade e universalidade
 
 1 - ...
 
 2 - Os orçamentos das regiões autónomas são independentes do Orçamento do Estado.
 
-###### Artigo 20.º — Quadro plurianual
+Artigo 20.º
+
+Quadro plurianual
 
 1 - Anualmente, o Governo Regional apresenta à Assembleia Legislativa uma proposta de decreto legislativo regional com o quadro plurianual de programação orçamental.
 
@@ -348,11 +410,15 @@ c) As projeções de receitas, por fonte de financiamento.
 
 8 - Os saldos apurados em cada ano nas missões de base orgânica podem transitar para os anos seguintes, de acordo com regras a definir pelo Governo Regional.
 
-###### Artigo 28.º — Imposto sobre o valor acrescentado
+Artigo 28.º
+
+Imposto sobre o valor acrescentado
 
 Constitui receita de cada circunscrição o IVA apurado no todo nacional e transferido de acordo com o regime da capitação, nos termos do artigo 28.º-A.
 
-###### Artigo 28.º-A — Apuramento da receita do imposto sobre o valor acrescentado
+Artigo 28.º-A
+
+Apuramento da receita do imposto sobre o valor acrescentado
 
 1 - O montante de IVA cobrado que constitui receita das Regiões Autónomas dos Açores e da Madeira é transferido por duodécimos calculados nos termos dos números seguintes.
 
@@ -394,13 +460,17 @@ d) PN - População nacional no ano t-2, de acordo com os últimos dados divulga
 
 7 - Nos casos em que a Lei do Orçamento do Estado não estiver publicada até ao momento da transferência do primeiro duodécimo provisório, deve ser utilizado o montante do duodécimo transferido em dezembro do ano anterior, até à sua publicação.
 
-###### Artigo 36.º — Receitas líquidas da exploração dos jogos sociais
+Artigo 36.º
+
+Receitas líquidas da exploração dos jogos sociais
 
 1 - Constitui receita de cada região autónoma uma participação nos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa, determinado pelo método da capitação.
 
 2 - ...
 
-###### Artigo 36.º-A — Criação de novos impostos e taxas pelo Estado
+Artigo 36.º-A
+
+Criação de novos impostos e taxas pelo Estado
 
 1 - Constitui receita de cada região autónoma, o imposto ou taxa, criado pelo Estado, cobrado em cada uma das regiões, determinado de acordo com o regime de capitação.
 
@@ -408,11 +478,15 @@ d) PN - População nacional no ano t-2, de acordo com os últimos dados divulga
 
 3 - O modo de atribuição às regiões autónomas das respetivas receitas é estabelecido em diploma próprio, ouvidos os Governos Regionais.
 
-###### Artigo 39.º — Dívida flutuante
+Artigo 39.º
+
+Dívida flutuante
 
 Para fazer face a necessidades de tesouraria, as regiões autónomas podem emitir dívida flutuante.
 
-###### Artigo 40.º — Limites à dívida regional
+Artigo 40.º
+
+Limites à dívida regional
 
 1 - O rácio da dívida pública, na ótica de Maastricht, apurada de acordo com a definição utilizada no Procedimento dos Défices Excessivos, prevista no [Regulamento (CE) 479/2009](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32009R0479), de 25 de maio, com o Produto Interno Bruto, das entidades constantes do n.º 2 do artigo 2.º, não pode ultrapassar, em 31 de dezembro de cada ano, o mesmo rácio para a dívida do Estado.
 
@@ -434,19 +508,25 @@ c) A contração de empréstimos se destinar a financiar projetos de interesse c
 
 7 - (Revogado.)
 
-###### Artigo 41.º — Apoio da Agência de Gestão da Tesouraria e da Dívida Pública
+Artigo 41.º
+
+Apoio da Agência de Gestão da Tesouraria e da Dívida Pública
 
 1 - ...
 
 2 - Para efeitos do número anterior, a contração de empréstimos pelas regiões autónomas, nos termos definidos na presente lei, no âmbito da cooperação e apoio a prestar às regiões e numa ótica de gestão e minimização de custos diretos e indiretos decorrentes das dívidas públicas regionais, pode ser concretizada através de empréstimos diretos do Estado e/ou de operações estruturadas pelo IGCP - Agência de Gestão da Tesouraria e da Dívida Pública, após solicitação expressa pelas regiões.
 
-###### Artigo 42.º — Tratamento da dívida pública regional
+Artigo 42.º
+
+Tratamento da dívida pública regional
 
 1 - A dívida pública regional goza do mesmo tratamento fiscal que a dívida pública do Estado.
 
 2 - O custo dos empréstimos a contrair pelas regiões autónomas junto do Estado deve refletir, somente, o custo de financiamento da República, para o prazo de cada desembolso, sem acréscimo de qualquer margem ou demais encargos.
 
-###### Artigo 43.º — Responsabilidade pelas obrigações das regiões autónomas
+Artigo 43.º
+
+Responsabilidade pelas obrigações das regiões autónomas
 
 1 - ...
 
@@ -456,11 +536,15 @@ c) A contração de empréstimos se destinar a financiar projetos de interesse c
 
 4 - Nas situações legalmente previstas deve o Estado assumir ou garantir compromissos assumidos pelas regiões autónomas.
 
-###### Artigo 44.º — Procedimento de deteção de desvios
+Artigo 44.º
+
+Procedimento de deteção de desvios
 
 Em caso de incumprimento do limite previsto no n.º 1 do artigo 40.º, o Conselho informa o Governo, a Assembleia da República e a Assembleia Legislativa da região autónoma em causa.
 
-###### Artigo 45.º — Sanção por incumprimento dos limites à dívida regional total
+Artigo 45.º
+
+Sanção por incumprimento dos limites à dívida regional total
 
 1 - O incumprimento do disposto nos artigos 16.º e 40.º pela região autónoma pode dar lugar à retenção nas transferências do Estado que lhe sejam devidas nos anos subsequentes, de valor igual ao excesso de endividamento, face ao limite máximo determinado nos termos do artigo anterior.
 
@@ -470,7 +554,9 @@ Em caso de incumprimento do limite previsto no n.º 1 do artigo 40.º, o Conselh
 
 4 - A avaliação do cumprimento do previsto no número anterior, atende sempre à tendência evidenciada pelas contas públicas da região autónoma em causa.
 
-###### Artigo 48.º — Transferências orçamentais
+Artigo 48.º
+
+Transferências orçamentais
 
 1 - ...
 
@@ -488,7 +574,9 @@ Em caso de incumprimento do limite previsto no n.º 1 do artigo 40.º, o Conselh
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 48.º-A — Fundo de Coesão Social para as regiões ultraperiféricas
+Artigo 48.º-A
+
+Fundo de Coesão Social para as regiões ultraperiféricas
 
 1 - O Fundo de Coesão Social visa compensar as regiões autónomas pelos sobrecustos das desigualdades derivadas da insularidade e ultraperificidade, nas áreas da sáude e da educação, tendo em consideração o estabelecido nos artigos 64.º e 74.º da Constituição e o preceituado na alínea j) do n.º 1 do artigo 227.º e do n.º 1 do artigo 229.º da Constituição.
 
@@ -496,17 +584,21 @@ Em caso de incumprimento do limite previsto no n.º 1 do artigo 40.º, o Conselh
 
 3 - As verbas a transferir para cada região autónoma, a que se refere o número anterior, são apuradas de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/07/13500/0002400038.pdf))](https://files.diariodarepublica.pt/1s/2021/07/13500/0002400038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/07/13500/0002400038.pdf)
 
 4 - As transferências do Orçamento do Estado referentes ao Fundo de Coesão Social, apuradas nos termos do número anterior, processam-se de acordo com o n.º 7 do artigo 48.º
 
-###### Artigo 49.º — Fundo de Coesão para as regiões ultraperiféricas
+Artigo 49.º
+
+Fundo de Coesão para as regiões ultraperiféricas
 
 1 - O Fundo de Coesão para as regiões ultraperiféricas destina-se a apoiar, exclusivamente, programas e projetos de investimentos constantes dos planos anuais de investimento das regiões autónomas, tendo em conta o preceituado na alínea g) do artigo 9.º e na alínea j) do n.º 1 do artigo 227.º da Constituição, e visa assegurar a convergência económica com o restante território nacional.
 
 2 - O Fundo de Coesão dispõe, em cada ano, de verbas do Orçamento do Estado, a transferir para os Orçamentos Regionais, para financiar os programas e projetos de investimento que preencham os requisitos do número anterior e é igual a 55 % das transferências orçamentais para cada região autónoma definidas nos termos do artigo 48.º
 
-###### Artigo 49.º-A — Circunstâncias excecionais
+Artigo 49.º-A
+
+Circunstâncias excecionais
 
 1 - Sem prejuízo do disposto no artigo 7.º, pode a Lei do Orçamento do Estado determinar transferências do Orçamento do Estado de montante inferior àquele que resultaria da aplicação da presente lei.
 
@@ -516,13 +608,17 @@ Em caso de incumprimento do limite previsto no n.º 1 do artigo 40.º, o Conselh
 
 4 - Os valores que seriam de transferir para as regiões autónomas e que tenham sido objeto de redução por força da aplicação deste artigo, são para as mesmas redirecionadas no prazo máximo de três anos, sendo contabilizados como despesa do Estado no ano em que é efetuada a transferência.
 
-###### Artigo 50.º — Comparticipação nacional em sistemas de incentivos
+Artigo 50.º
+
+Comparticipação nacional em sistemas de incentivos
 
 1 - A comparticipação nacional nos sistemas comunitários de incentivos financeiros de apoio ao setor produtivo é assegurada, anualmente, pelo Orçamento do Estado ou pelos orçamentos das entidades que tutelam as respetivas áreas.
 
 2 - ...
 
-###### Artigo 51.º — Projetos de interesse comum
+Artigo 51.º
+
+Projetos de interesse comum
 
 1 - Por projetos de interesse comum entendem-se aqueles que são promovidos por razões de interesse ou estratégia nacional, que tenham por efeito uma diminuição dos custos de insularidade ou que tenham relevância especial nas áreas sociais, ambientais, do desenvolvimento das novas tecnologias, dos transportes, das comunicações, ou outras áreas de interesse comum.
 
@@ -546,7 +642,9 @@ Em caso de incumprimento do limite previsto no n.º 1 do artigo 40.º, o Conselh
 
 11 - (Revogado.)
 
-###### Artigo 51.º-A — Apoio extraordinário
+Artigo 51.º-A
+
+Apoio extraordinário
 
 1 - A solidariedade nacional vincula o Estado a apoiar as regiões autónomas em situações imprevistas resultantes de catástrofes naturais, assim como em situações que resultem em calamidade económica e social, visando, designadamente, ações de reconstrução e recuperação de infraestruturas e atividades económicas e sociais, bem como o apoio às respetivas populações afetadas.
 
@@ -556,13 +654,17 @@ Em caso de incumprimento do limite previsto no n.º 1 do artigo 40.º, o Conselh
 
 4 - Através de Resolução do Conselho de Ministros, e no prazo máximo de 90 dias após a apresentação do relatório referido no número anterior, o Governo definirá o montante de apoio a atribuir à região autónoma afetada, atento à urgência do apoio financeiro e aos danos causados constantes do relatório.
 
-###### Artigo 52.º — Protocolos financeiros
+Artigo 52.º
+
+Protocolos financeiros
 
 1 - ...
 
 2 - Sem prejuízo do disposto no número anterior, o Estado e as regiões autónomas podem celebrar protocolos com vista ao reequilíbrio financeiro das mesmas.
 
-###### Artigo 52.º-A — Continuidade territorial
+Artigo 52.º-A
+
+Continuidade territorial
 
 1 - No cumprimento do princípio da continuidade territorial, o Estado assume os encargos relacionados com a necessidade de corrigir as desigualdades estruturais, originadas pelo afastamento, pela insularidade e pela ultraperiferia das regiões autónomas, visando a plena consagração dos direitos de cidadania das populações aí residentes, de acordo com as suas obrigações constitucionais.
 
@@ -572,11 +674,15 @@ Em caso de incumprimento do limite previsto no n.º 1 do artigo 40.º, o Conselh
 
 4 - Para a concretização do referido nos números anteriores, são inscritos no Orçamento do Estado de cada ano, os montantes necessários que permitem ao Estado cumprir com as referidas obrigações constitucionais.
 
-###### Artigo 54.º — Transferência de atribuições e competências para as autarquias locais
+Artigo 54.º
+
+Transferência de atribuições e competências para as autarquias locais
 
 No âmbito da transferência de atribuições e competências para as autarquias locais por parte do Estado, compete ao Estado assegurar os recursos financeiros e o património adequado ao desempenho das funções transferidas.
 
-###### Artigo 55.º — Princípios gerais
+Artigo 55.º
+
+Princípios gerais
 
 As competências tributárias dos órgãos regionais observam os limites constitucionais e estatutários e, ainda, os seguintes princípios:
 
@@ -594,7 +700,9 @@ f) ...
 
 g) ...
 
-###### Artigo 59.º — Adaptação do sistema fiscal nacional às especificidades regionais
+Artigo 59.º
+
+Adaptação do sistema fiscal nacional às especificidades regionais
 
 1 - ...
 
@@ -612,13 +720,17 @@ g) ...
 
 8 - As Assembleias Legislativas podem majorar os limites dos benefícios fiscais previstos no Estatuto dos Benefícios Fiscais e demais legislação vigente.
 
-###### Artigo 59.º-A — Centro Internacional de Negócios da Madeira
+Artigo 59.º-A
+
+Centro Internacional de Negócios da Madeira
 
 1 - O Estado reconhece o Centro Internacional de Negócios da Madeira como instrumento estratégico de interesse nacional, comprometendo-se com a sua defesa e promoção junto das instâncias europeias em pleno respeito com o estatuto especial das regiões ultraperiféricas, de acordo com o consagrado no Tratado de Funcionamento da União Europeia, nomeadamente quanto a uma verdadeira discriminação positiva de tais regiões no âmbito de matéria fiscal.
 
 2 - O regime jurídico do Centro Internacional de Negócios da Madeira é regulado pelo disposto no Estatuto dos Benefícios Fiscais e legislação complementar em vigor.
 
-###### Artigo 61.º — Competências administrativas regionais
+Artigo 61.º
+
+Competências administrativas regionais
 
 1 - ...
 
@@ -630,7 +742,9 @@ g) ...
 
 5 - No caso das regiões autónomas optarem pela regionalização dos serviços fiscais, não há lugar ao pagamento previsto na alínea c) do n.º 2.
 
-###### Artigo 66.º — Finanças das autarquias locais
+Artigo 66.º
+
+Finanças das autarquias locais
 
 1 - ...
 
@@ -638,7 +752,9 @@ g) ...
 
 3 - As receitas fiscais pertencentes às regiões autónomas nos termos da Constituição, dos Estatutos Político-Administrativos e da presente lei não podem ser afetas às autarquias locais sediadas nas regiões autónomas, no âmbito do regime financeiro estabelecido para aquelas.
 
-###### Artigo 68.º-A — Encargos com os subsistemas de saúde
+Artigo 68.º-A
+
+Encargos com os subsistemas de saúde
 
 1 - Os encargos resultantes da prestação de cuidados de saúde a beneficiários de subsistemas públicos de saúde, criados pelo Estado, são da sua responsabilidade.
 
@@ -646,7 +762,9 @@ g) ...
 
 3 - Os encargos com as prestações de cuidados de saúde realizadas por estabelecimentos dos Serviços Regionais de Saúde, aos beneficiários daqueles subsistemas, apurados até à data da entrada em vigor da presente lei, deverão ser regularizados, através do orçamento do Serviço Nacional de Saúde, no prazo de 90 dias.
 
-###### Artigo 71.º — Norma transitória
+Artigo 71.º
+
+Norma transitória
 
 1 - ...
 
@@ -658,7 +776,9 @@ g) ...
 
 5 - (Revogado.)
 
-###### Artigo 72.º — Adoção do Plano Oficial de Contabilidade Pública
+Artigo 72.º
+
+Adoção do Plano Oficial de Contabilidade Pública
 
 (Revogado.)»
 
@@ -666,4 +786,6 @@ A presente Resolução deverá ser enviada à Assembleia Legislativa da Região 
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de junho de 2021.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+114381326

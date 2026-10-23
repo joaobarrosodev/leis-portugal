@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/11/2006/06/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/11-2006-353547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0938650934dab6d64c476cab4ab5f8131ebf1dfb2ad29baa637b467d7b08d5c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ef5da56391a8695b9f5c1a5fade01f72e7927325c02d2b1fb48a431291ef3a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2005/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2005/11/08/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:56Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +130,9 @@ Composição e designação
 
 4 - Os membros designados pela Assembleia da República e por cada uma das Assembleias Legislativas das Regiões Autónomas cooptam o sétimo membro do conselho regulador.
 
-###### Artigo 17.º — Cooptação
+Artigo 17.º
+
+Cooptação
 
 1 - No prazo máximo de cinco dias contados da publicação na 1.ª série-A do Diário da República, os membros designados reunirão, sob convocação do membro mais velho, para procederem à cooptação do sétimo membro do conselho regulador.
 
@@ -128,7 +142,9 @@ Composição e designação
 
 4 - ...
 
-###### Artigo 22.º — Cessação de funções
+Artigo 22.º
+
+Cessação de funções
 
 1 - ...
 
@@ -136,13 +152,17 @@ Composição e designação
 
 3 - O preenchimento de vaga ou vagas é assegurado, no prazo de 10 dias e consoante os casos, através de cooptação, de acordo com o previsto no artigo 17.º, de designação por resolução da Assembleia da República, conforme o artigo 16.º, ou da respectiva ou respectivas Assembleias Legislativas das Regiões Autónomas dos Açores e da Madeira, nos termos do artigo 16.º-A.
 
-###### Artigo 29.º — Quórum
+Artigo 29.º
+
+Quórum
 
 1 - O conselho regulador só pode reunir e deliberar com a presença de quatro dos seus membros, tendo o presidente voto de qualidade.
 
 2 - As deliberações são tomadas por maioria, exigindo-se em qualquer caso o voto favorável de quatro membros.
 
-###### Artigo 39.º — Composição e designação
+Artigo 39.º
+
+Composição e designação
 
 1 - ...
 
@@ -180,4 +200,4 @@ A presente lei entra imediatamente em vigor.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 10 de Maio de 2006.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

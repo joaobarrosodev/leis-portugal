@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/30/2000/05/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-2000-275831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc515b9f510edd4dec8b32c4a463d305dd7b342295005c227b97f34a6f3bfa49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7f07798bb92823ddcca370d1dc147a2a4e3b350bcd8141d1a03f66215e5ba17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Regional de Saúde
-- Pessoal Dirigente
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:545187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545187:por
+  label: "Extintos o Centro Hospitalar do Funchal e o Centro Regional de Saúde, criados pelo DRR 27/92/M de 24-Set, com a\
+    \ redacção conferida pelo presente; e mantido aquele diploma transitoriamente em vigor até à aprovação do Regulamento\
+    \ Interno do Serviço Regional de Saúde, em tudo o que não contrarie o disposto no DLR.9/2003/M.2003.05.12.ALR-RAM DR.IS-A\
+    \ [122] de 27/Mai/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2003-545187
+  date: '2003-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -111,16 +119,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/420/1993/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/420/1993/04/21/p/dre
+- type: cites
+  target: pt:dre:167041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692858:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:34Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +211,9 @@ f) Divisão de Nutrição.
 
 3 - ...
 
-###### Artigo 29.º — Órgãos de gestão
+Artigo 29.º
+
+Órgãos de gestão
 
 1 - ...
 
@@ -237,7 +283,9 @@ d) ...
 
 12 - (Actual n.º 11.)
 
-###### Artigo 30.º — Órgãos de direcção dos centros de saúde
+Artigo 30.º
+
+Órgãos de direcção dos centros de saúde
 
 1 - ...
 
@@ -319,7 +367,9 @@ e) Dirigir e coordenar a gestão administrativa das consultas;
 
 f) Assegurar a realização de outras tarefas de apoio que lhe sejam cometidas nas respectivas áreas de actuação.
 
-###### Artigo 31.º — Órgãos de direcção do Laboratório de Saúde Pública
+Artigo 31.º
+
+Órgãos de direcção do Laboratório de Saúde Pública
 
 1 - ...
 
@@ -393,7 +443,9 @@ d) Coordenar e controlar a actividade desenvolvida pela Secção de Expediente;
 
 e) Assegurar a realização de outras tarefas de apoio aos serviços que lhe sejam cometidas.
 
-###### Artigo 29.º-B — Departamento de Gestão Financeira
+Artigo 29.º-B
+
+Departamento de Gestão Financeira
 
 O Departamento de Gestão Financeira é o órgão de apoio e de execução técnico-administrativo à Direcção de Serviços Financeiros, que tem por atribuições assegurar o apoio técnico e administrativo na área financeira, a quem compete, em especial:
 
@@ -423,7 +475,9 @@ l) Prestar informação de cabimento orçamental;
 
 m) Desenvolver quaisquer outras acções de gestão financeira e assegurar, em geral, o normal funcionamento das secções que integra.
 
-###### Artigo 29.º-C — Departamento de Acordos e Convenções
+Artigo 29.º-C
+
+Departamento de Acordos e Convenções
 
 O Departamento de Acordos e Convenções é o órgão de apoio e de execução de cariz técnico-administrativo à Divisão de Entidades Convencionadas, que tem por atribuições assegurar o apoio técnico e administrativo na área dos acordos e convenções, a quem compete, em especial:
 
@@ -437,7 +491,9 @@ d) Promover a organização dos processos de prestadores de serviços, na área 
 
 e) Coordenar e controlar a actividade desenvolvida pelas secções.
 
-###### Artigo 29.º-D — Departamento de Documentação e Divulgação
+Artigo 29.º-D
+
+Departamento de Documentação e Divulgação
 
 O Departamento de Documentação e Divulgação é o órgão de apoio e de execução de cariz técnico-administrativo à Divisão de Documentação e Divulgação, que tem por atribuições assegurar o apoio técnico e administrativo na área da documentação e divulgação, a quem compete, em especial:
 
@@ -453,7 +509,9 @@ e) Organizar e manter actualizados ficheiros de legislação, jurisprudência e 
 
 f) Gerir o Serviço de Reprografia e assegurar o registo e gestão dos documentos em arquivo.
 
-###### Artigo 29.º-E — Departamento de Reembolsos
+Artigo 29.º-E
+
+Departamento de Reembolsos
 
 O Departamento de Reembolsos é o órgão de apoio e de execução de cariz técnico-administrativo ao conselho de administração do Centro Regional de Saúde, que tem por atribuições assegurar o apoio técnico e administrativo na área dos reembolsos, a quem compete, em especial:
 
@@ -475,7 +533,9 @@ h) Gerir o pessoal do Departamento;
 
 i) Prestar apoio que no âmbito da sua competência lhe seja solicitada.
 
-###### Artigo 29.º-F — Departamento de Encaminhamento de Doentes
+Artigo 29.º-F
+
+Departamento de Encaminhamento de Doentes
 
 O Departamento de Encaminhamento de Doentes é o órgão de apoio e de execução de cariz técnico-administrativo ao conselho de administração do Centro Regional de Saúde, que tem por atribuições assegurar o apoio técnico e administrativo, na área do encaminhamento de doentes, a quem compete, em especial:
 
@@ -515,11 +575,11 @@ Aprovado em Conselho do Governo Regional em 23 de Março de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 10 de Abril de 2000.**
+Assinado em 10 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA I
 

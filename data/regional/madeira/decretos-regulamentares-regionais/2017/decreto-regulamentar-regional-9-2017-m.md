@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16000/0488704888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2017/08/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2017-108028574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d30e230f56de3558f82cb55231782d1249362e1064d526e7d96c7c5f3c1c0357
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 361d2aa5c9cffba92f7482e796e4ab7ad930220c946bdac6b69c5f4fe8be32c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Definição de Competências
-- Presidência do Governo Regional
-- Secretaria Regional da Saúde
-- Vice-presidência do Governo Regional
-- Gestão Orçamental
 - Conselho do Governo Regional
+- Definição de Competências
+- Gestão Orçamental
+- Governo Regional
 - Integração de Serviços
-- Secretaria Regional da Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Presidência do Governo Regional
 - Secretaria Regional
 - Secretaria Regional da Agricultura e Pescas
+- SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
+- Secretaria Regional da Educação
+- SECRETARIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS
+- Secretaria Regional da Saúde
+- SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
 - Secretaria Regional do Ambiente e Recursos Naturais
+- Secretaria Regional dos Assuntos Parlamentares e Europeus
 - Transferência de Pessoal
 - Transferência de Serviços
-- SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
-- SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
-- SECRETARIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS
-- Secretaria Regional dos Assuntos Parlamentares e Europeus
+- Vice-presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:114157368:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114157368:por
+  label: Substituída a estrutura orgânica do XII Governo Regional da Madeira, constante do DRR 2/2015/M de 12-mai, com as
+    alterações introduzidas pelo presente, que é revogado, a partir de 08.11.2017 pelo(a) Decreto Regulamentar Regional n.º
+    13/2017/M - Diário da República n.º 214/2017, Série I de 2017-11-0; e determinada a extinção, a partir de 08.11.2017 da
+    Secretaria Regional dos Assuntos Parlamentares e Europeus, da Secretaria Regional das Finanças e da Administração Pública
+    e da Secretaria Regional da Economia, Turismo e Cultura, e a remissão das respetivas referências legais para os departamentos
+    regionais que, pelo citado DRR 13/2017M, integram as atribuições nas respetivas áreas e tutelam esses setores.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2017-114157368
+  date: '2017-11-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/2/2015/05/12/m/dre
   label: null
@@ -107,16 +117,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:19Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +195,9 @@ b) [...].
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -225,7 +253,9 @@ f) [...].
 
 5 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -261,7 +291,9 @@ d) (Revogado.)
 
 4 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - À Secretaria Regional da Saúde são cometidas as atribuições referentes aos seguintes setores:
 
@@ -289,10 +321,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 27 de julho de 2017.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 2 de agosto de 2017.**
+Assinado em 2 de agosto de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

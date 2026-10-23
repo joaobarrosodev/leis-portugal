@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/26/2001/10/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2001-584623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 101537238b533a1271fca11338a741d08b64f0fa85353da45a5247a7c8307396
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c853af3799f150aba7d3c867325bd8b9d535a1a532655a33cff6d6d38b915012
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
 subjects:
 - Definição de Competências
 - Direcção Regional de Formação Profissional
-- Secretaria Regional da Educação
 - Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:588834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a manutenção em vigor do presente diploma, rectificado pela decl-rect 20-AH/2001, de 31-Out, pelo DRR.5/2005/M.21.02.2005.PG-RAM,\
+    \ DR.IS-B [47] de 08.03.2005, até à publicação integral dos diplomas a que se refere o n.º 4 do seu art. 4.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -116,16 +122,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667145:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:483467:por
+  label: "Rectificada pela DECL-RECT.20-AH/2001.2001.10.31.PCM DR.IS-B [253]5ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-ah-2001-483467
+  date: '2001-10-31'
 article_structure:
-  article_count: 29
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 30
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:46Z'
   warnings: []
   errors: []
 ---
@@ -154,13 +209,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Agosto de 2001.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 20 de Setembro de 2001.**
+Assinado em 20 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ORGÂNICA DA DIRECÇÃO REGIONAL DE FORMAÇÃO PROFISSIONAL
 
@@ -230,7 +285,9 @@ h) Horários de trabalho.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 3.º
+#### SECÇÃO I
+
+###### Artigo 3.º
 
 Estrutura
 
@@ -384,7 +441,9 @@ p) Colaborar com as entidades competentes, no âmbito do rendimento mínimo gara
 
 2 - Na dependência da DSFP funcionam a Divisão de Coordenação da Actividade Formativa (DCAF), a Divisão de Orientação e Acompanhamento (DOA), a Divisão de Inserção na Vida Activa (DIVA) e a Divisão de Coordenação Financeira de Projectos (DCFP).
 
-##### SUBSECÇÃO I — Divisão de Coordenação da Actividade Formativa
+##### SUBSECÇÃO I
+
+##### Divisão de Coordenação da Actividade Formativa
 
 ###### Artigo 10.º — Atribuições
 
@@ -414,7 +473,9 @@ l) Assegurar, em articulação com a DOA, acções de acompanhamento vocacional 
 
 2 - Na dependência da DCAF funciona a Secção de Apoio Logístico (SAL).
 
-##### SUBSECÇÃO II — Divisão de Orientação e Acompanhamento
+##### SUBSECÇÃO II
+
+##### Divisão de Orientação e Acompanhamento
 
 ###### Artigo 11.º — Atribuições
 
@@ -434,7 +495,9 @@ f) Assegurar a avaliação vocacional e o encaminhamento de candidatos a acçõe
 
 g) Colaborar com a DIVA na integração e acompanhamento dos jovens na formação no posto de trabalho.
 
-##### SUBSECÇÃO III — Divisão de Inserção na Vida Activa
+##### SUBSECÇÃO III
+
+##### Divisão de Inserção na Vida Activa
 
 ###### Artigo 12.º — Atribuições
 
@@ -454,7 +517,9 @@ f) Facultar a formação complementar a todos os formandos que frequentaram acç
 
 g) Coordenar e dinamizar as actividades da UNIVA em articulação com a DOA.
 
-##### SUBSECÇÃO IV — Divisão de Coordenação Financeira de Projectos
+##### SUBSECÇÃO IV
+
+##### Divisão de Coordenação Financeira de Projectos
 
 ###### Artigo 13.º — Atribuições
 
@@ -496,7 +561,9 @@ g) Desenvolver, em consonância com as instâncias responsáveis pela gestão e 
 
 3 - Na directa dependência do director de serviços do Fundo Social Europeu funciona ainda o Gabinete de Coordenação Pedagógica e Acompanhamento (GCPA), o Departamento para Pagamentos do Fundo Social Europeu (DPFSE) e o Departamento de Documentação do FSE (DDFSE).
 
-##### SUBSECÇÃO I — Divisão de Análise Financeira
+##### SUBSECÇÃO I
+
+##### Divisão de Análise Financeira
 
 ###### Artigo 15.º — Atribuições
 
@@ -508,7 +575,9 @@ b) Articula-se, com o GCPA e a DSI, no sentido de poder certificar técnica, ped
 
 c) Propor a emissão das ordens de pagamento relativas às acções aprovadas no âmbito do Fundo Social Europeu.
 
-##### SUBSECÇÃO II — Divisão de Sistemas de Informação
+##### SUBSECÇÃO II
+
+##### Divisão de Sistemas de Informação
 
 ###### Artigo 16.º — Atribuições
 
@@ -592,7 +661,9 @@ e) Coordenar e orientar, em colaboração com a DSFP, as acções necessárias �
 
 3 - Na dependência da DSAFP funcionam ainda o Gabinete de Coordenação Financeira e Património (GCFP) e o Departamento de Serviços Administrativos (DSA).
 
-##### SUBSECÇÃO I — Divisão de Gestão de Recursos Humanos
+##### SUBSECÇÃO I
+
+##### Divisão de Gestão de Recursos Humanos
 
 ###### Artigo 21.º — Atribuições
 
@@ -618,7 +689,9 @@ i) Instruir, de acordo com orientações superiores e em articulação com os co
 
 j) Executar todas as demais tarefas que decorram do normal desempenho das suas funções.
 
-##### SUBSECÇÃO II — Divisão de Aprovisionamento e Gestão de Stocks
+##### SUBSECÇÃO II
+
+##### Divisão de Aprovisionamento e Gestão de Stocks
 
 ###### Artigo 22.º — Atribuições
 

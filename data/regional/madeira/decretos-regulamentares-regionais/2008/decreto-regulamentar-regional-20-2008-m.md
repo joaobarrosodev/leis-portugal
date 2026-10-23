@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/09/17300/0625506257.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2008/09/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d7e329490085d6d5e96d2d530d633ef5eeda4f266cdc71694264391ed0ec33c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 867ed04ab3be62eff4cb4ccbae475a50ad791dfa506531839877ffe6054f950b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Recrutamento de Pessoal
 - Direção Regional de Agricultura e Desenvolvimento Rural
 - Direcção Regional de Veterinária
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Estatuto Remuneratório
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:191520:por
@@ -119,16 +119,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/po
   label: null
   source: http://data.dre.pt/eli/po
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191520:por
+  label: "Revogado (mantendo-se a estrutura interna atual, até à publicação dos diplomas que aprovam a organização interna\
+    \ da DRADR), pelo DRR.31/2012/M.05.11.2012.PG-RAM, DR.IS [213] de 05.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2012-191520
+  date: '2012-11-05'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:29Z'
   warnings: []
   errors: []
 ---
@@ -287,11 +341,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 14 de Agosto de 2008.
 
-**O Secretário Regional dos Recursos Humanos, no exercício da Presidência do Governo, Eduardo António Brazão de Castro.**
+O Secretário Regional dos Recursos Humanos, no exercício da Presidência do Governo, Eduardo António Brazão de Castro.
 
-**Assinado em 1 de Setembro de 2008.**
+Assinado em 1 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -299,4 +353,4 @@ O Representante da República para a Região Autónoma da Madeira, Antero Alves 
 
 (a que se refere o n.º 1 do artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/17300/0625506257.pdf))](https://files.diariodarepublica.pt/1s/2008/09/17300/0625506257.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/17300/0625506257.pdf)

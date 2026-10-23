@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/19/1996/08/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/19-1996-411659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bb4b3e116687ee55bc55f4fbb03ed0efa4eae241fff64696cff9284e4ce6173
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e16b3da01b33b3e97dfb7b3586bf5f80aad3e8c56744733cfb7a136d4e0e40b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
+- Agricultor
 - Agrupamento de Produtores
-- Financiamento
+- Ajuda Comunitária
 - Banana
+- Comércio
+- Financiamento
 - Governo Regional
-- União Europeia
+- Madeira.região Autónoma
 - Organização Comum de Mercado
 - Política Agrícola Comum
-- Agricultor
-- Madeira.região Autónoma
-- Recomendação
 - Produção Agrícola
+- Recomendação
 - Restrição à Importação
-- Comércio
+- União Europeia
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:49Z'
   warnings: []
   errors: []
 ---
@@ -126,4 +126,4 @@ A Assembleia Legislativa Regional da Madeira aprova a seguinte resolução:
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 27 de Junho de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.

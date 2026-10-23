@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/08700/0248502488.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2008/05/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2008-249536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87644db87ea17fd57530b47fba93fb9165735279c33d9b5626abec1594f2d47b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30d1ea50b0455134ef9b990892bd93c570a07fe8722e8e20a9439f3b7a65ce66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Regional de Administração Educativa
-- Secretaria Regional da Educação e Cultura
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Regional da Educação e Cultura
 - Transferência de Competências
 relationships:
 - type: amended_by
@@ -120,16 +120,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2
   label: null
   source: http://data.dre.pt/eli/lei/2
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178504:por
+  label: "Revogado pelo DRR.10/2012/M.22.06.2012.PG-RAM, DR.IS [120] de 22.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2012-178504
+  date: '2012-06-22'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:25Z'
   warnings: []
   errors: []
 ---
@@ -160,11 +213,11 @@ O presente decreto regulamentar regional entra em vigor no dia seguinte ao da su
 
 Aprovado em Conselho do Governo Regional em 3 de Abril de 2008.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 14 de Abril de 2008.**
+Assinado em 14 de Abril de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -278,4 +331,4 @@ b) É adoptado o modelo de estrutura matricial na área de actividade relativa �
 
 ## ANEXO II — (mapa a que se refere o artigo 5.º do anexo i)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/08700/0248502488.pdf))](https://files.diariodarepublica.pt/1s/2008/05/08700/0248502488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/08700/0248502488.pdf)

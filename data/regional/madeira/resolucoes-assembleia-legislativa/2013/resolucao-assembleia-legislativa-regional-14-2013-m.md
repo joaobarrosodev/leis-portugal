@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/14/2013/06/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/14-2013-496919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53655eb7f5212c4fedbdc34efbe7654d3c5ad00b4a736b7747c880b1839daac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f126c1be7fe50a821ae2e4b94b8196c67c86c3dd775ab32a1519e9705f328633
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Constituição
 - Assembleia Legislativa
-- Madeira.região Autónoma
+- Constituição
 - Diploma Legal
+- Madeira.região Autónoma
 - Processo Legislativo
 relationships: []
 article_structure:
-  article_count: 27
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:51Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +151,9 @@ Os artigos 6.º, 46.º, 51.º, 105.º, 112.º, 115.º, 118.º, 119.º, 133.º, 1
 
 2 - ...
 
-###### Artigo 46.º — (Liberdade de associação)
+Artigo 46.º
+
+(Liberdade de associação)
 
 1 - ...
 
@@ -161,7 +163,9 @@ Os artigos 6.º, 46.º, 51.º, 105.º, 112.º, 115.º, 118.º, 119.º, 133.º, 1
 
 4 - Não são consentidas associações armadas nem de tipo militar, militarizadas ou paramilitares, nem organizações racistas ou que perfilhem qualquer ideologia totalitária ou autoritária contrária ao Estado de Direito Democrático.
 
-###### Artigo 51.º — (Associações e Partidos Políticos)
+Artigo 51.º
+
+(Associações e Partidos Políticos)
 
 1 - ...
 
@@ -175,7 +179,9 @@ Os artigos 6.º, 46.º, 51.º, 105.º, 112.º, 115.º, 118.º, 119.º, 133.º, 1
 
 6 - ...
 
-###### Artigo 105.º — (Orçamento)
+Artigo 105.º
+
+(Orçamento)
 
 1 - ...
 
@@ -189,7 +195,9 @@ Os artigos 6.º, 46.º, 51.º, 105.º, 112.º, 115.º, 118.º, 119.º, 133.º, 1
 
 6 - O Orçamento deve ainda contemplar os recursos financeiros que devem ser transferidos para as Regiões Autónomas por conta das prestações sociais que se desenvolvem em nome do Estado, designadamente na realização dos Direitos fundamentais à saúde, à segurança social, à habitação e à educação, as quais são incumbência estadual e não regional.
 
-###### Artigo 112.º — (Atos normativos)
+Artigo 112.º
+
+(Atos normativos)
 
 1 - São atos legislativos as leis, os decretos-leis e as leis regionais.
 
@@ -205,7 +213,9 @@ Os artigos 6.º, 46.º, 51.º, 105.º, 112.º, 115.º, 118.º, 119.º, 133.º, 1
 
 7 - A transposição de atos jurídicos da União Europeia para a ordem jurídica interna assume a forma de lei, decreto-lei ou, nos termos do disposto no n.º 4, lei regional.
 
-###### Artigo 115.º — (Referendo)
+Artigo 115.º
+
+(Referendo)
 
 1 - ...
 
@@ -233,7 +243,9 @@ Os artigos 6.º, 46.º, 51.º, 105.º, 112.º, 115.º, 118.º, 119.º, 133.º, 1
 
 13 - ...
 
-###### Artigo 118.º — (Princípio da renovação)
+Artigo 118.º
+
+(Princípio da renovação)
 
 1 - ...
 
@@ -241,7 +253,9 @@ Os artigos 6.º, 46.º, 51.º, 105.º, 112.º, 115.º, 118.º, 119.º, 133.º, 1
 
 3 - Os titulares de cargos políticos depois de concluídos os três mandatos não podem assumir novo mandato durante o quadriénio imediatamente subsequente ao último mandato consecutivo permitido.
 
-###### Artigo 119.º — (Publicidade dos atos)
+Artigo 119.º
+
+(Publicidade dos atos)
 
 1 - ...
 
@@ -261,7 +275,9 @@ g) ...
 
 h) Os decretos regulamentares e os demais decretos e regulamentos do Governo bem como os decretos regulamentares regionais.
 
-###### Artigo 133.º — (Competência quanto a outros órgãos)
+Artigo 133.º
+
+(Competência quanto a outros órgãos)
 
 Compete ao Presidente da República, relativamente a outros órgãos:
 
@@ -295,7 +311,9 @@ o) ...
 
 p) ...
 
-###### Artigo 134.º — (Competência para prática de atos próprios)
+Artigo 134.º
+
+(Competência para prática de atos próprios)
 
 Compete ao Presidente da República, na prática de atos próprios:
 
@@ -317,7 +335,9 @@ h) ...
 
 i) ...
 
-###### Artigo 136.º — (Promulgação e veto)
+Artigo 136.º
+
+(Promulgação e veto)
 
 1 - No prazo de vinte dias contados da receção de qualquer decreto da Assembleia da República e das Assembleias Legislativas das Regiões Autónomas para ser promulgado como lei, ou da publicação da decisão do Tribunal Constitucional que não se pronuncie pela inconstitucionalidade de norma dele constante, deve o Presidente da República promulgá-lo ou exercer o direito de veto, solicitando nova apreciação do diploma em mensagem fundamentada.
 
@@ -335,7 +355,9 @@ d) Os Estatutos Político-Administrativos das Regiões Autónomas.
 
 4 - No prazo de quarenta dias contados da receção de qualquer decreto do Governo da República, dos Governos das Regiões Autónomas para ser promulgado, ou da publicação do Tribunal Constitucional que não se pronuncie pela inconstitucionalidade da norma dele constante, deve o Presidente da República promulgá-lo ou exercer o direito de veto, comunicando por escrito aos Governos o sentido de veto.
 
-###### Artigo 160.º — (Perda e renúncia do mandato)
+Artigo 160.º
+
+(Perda e renúncia do mandato)
 
 1 - ...
 
@@ -347,7 +369,9 @@ c) ...
 
 d) Sejam judicialmente condenados por crime de responsabilidade o exercício da sua função em tal pena ou por participação em organizações racistas ou que perfilhem qualquer ideologia totalitária autoritária contrária ao Estado de Direito democrático.
 
-###### Artigo 161.º — (Competência política e legislativa)
+Artigo 161.º
+
+(Competência política e legislativa)
 
 1 - ...
 
@@ -379,7 +403,9 @@ n) ...
 
 o) ...
 
-###### Artigo 162.º — (Competência de fiscalização)
+Artigo 162.º
+
+(Competência de fiscalização)
 
 ...
 
@@ -393,7 +419,9 @@ d) ...
 
 e) ...
 
-###### Artigo 164.º — (Reserva absoluta de competência legislativa)
+Artigo 164.º
+
+(Reserva absoluta de competência legislativa)
 
 ...
 
@@ -437,7 +465,9 @@ s) ...
 
 t) ...
 
-###### Artigo 167.º — (Iniciativa da lei e do referendo)
+Artigo 167.º
+
+(Iniciativa da lei e do referendo)
 
 1 - A iniciativa da lei e do referendo compete aos deputados, aos grupos parlamentares, ao Governo e às Assembleias Legislativas das Regiões Autónomas e, ainda, nos termos e condições estabelecidas na lei, a grupos de cidadãos eleitores.
 
@@ -455,7 +485,9 @@ t) ...
 
 8 - ...
 
-###### Artigo 168.º — (Discussão e votação)
+Artigo 168.º
+
+(Discussão e votação)
 
 1 - ...
 
@@ -481,7 +513,9 @@ e) ...
 
 f) Os Estatutos Político-Administrativos das Regiões Autónomas, a lei de finanças regionais e as leis relativas à eleição dos Deputados às Assembleias Legislativas.
 
-###### Artigo 226.º — (Estatutos e leis eleitorais)
+Artigo 226.º
+
+(Estatutos e leis eleitorais)
 
 1 - A iniciativa de revisão dos Estatutos Político-Administrativos e das leis relativas à eleição dos deputados às Assembleias Legislativas das Regiões Autónomas compete aos respetivos deputados.
 
@@ -495,7 +529,9 @@ f) Os Estatutos Político-Administrativos das Regiões Autónomas, a lei de fina
 
 6 - As leis eleitorais dos deputados às Assembleias Legislativas das Regiões Autónomas regulam o exercício do direito de voto e de eleição dos cidadãos com dupla residência nas regiões e noutras parcelas do território português ou no estrangeiro.
 
-###### Artigo 227.º — (Autonomia legislativa)
+Artigo 227.º
+
+(Autonomia legislativa)
 
 1 - As Regiões Autónomas são pessoas coletivas territoriais e têm os seguintes poderes, a desenvolver nos respetivos Estatutos:
 
@@ -579,7 +615,9 @@ o) Regime do ordenamento do território e do urbanismo.
 
 4 - (Eliminado.)
 
-###### Artigo 229.º — (Cooperação dos órgãos de soberania e dos órgãos regionais)
+Artigo 229.º
+
+(Cooperação dos órgãos de soberania e dos órgãos regionais)
 
 1 - ...
 
@@ -589,7 +627,9 @@ o) Regime do ordenamento do território e do urbanismo.
 
 4 - ...
 
-###### Artigo 231.º — (Órgãos de governo próprio das Regiões)
+Artigo 231.º
+
+(Órgãos de governo próprio das Regiões)
 
 1 - ...
 
@@ -605,7 +645,9 @@ o) Regime do ordenamento do território e do urbanismo.
 
 7 - O Estatuto dos titulares dos órgãos de governo próprio das Regiões Autónomas compreende os direitos e deveres, regalias, imunidades, impedimentos e incompatibilidades, constitucional e legalmente consagrados aos Deputados da Assembleia da República e Membros do Governo da República com as necessárias adaptações que devem ser definidas nos respetivos Estatutos Político-administrativo.
 
-###### Artigo 232.º — (Competência da Assembleia Legislativa da Região Autónoma)
+Artigo 232.º
+
+(Competência da Assembleia Legislativa da Região Autónoma)
 
 1 - É da exclusiva competência da Assembleia Legislativa da Região Autónoma o exercício das atribuições referidas no n.º 1 do artigo 227.º, alíneas a) e b), na segunda parte da alínea c), nas alíneas d), e), h), j), m) e o), à exceção da participação na elaboração dos planos nacionais, p), x) e z), bem como de todas as referidas no n.º 2.
 
@@ -615,7 +657,9 @@ o) Regime do ordenamento do território e do urbanismo.
 
 4 - ...
 
-###### Artigo 233.º — (Promulgação e veto de Leis Regionais)
+Artigo 233.º
+
+(Promulgação e veto de Leis Regionais)
 
 1 - Compete ao Presidente da República promulgar e mandar publicar as leis regionais e os decretos regulamentares regionais e exercer o direito de veto, nos termos dos artigos 136.º, 278.º e 279.º
 
@@ -627,7 +671,9 @@ o) Regime do ordenamento do território e do urbanismo.
 
 5 - (Eliminado.)
 
-###### Artigo 278.º — (Fiscalização preventiva da constitucionalidade)
+Artigo 278.º
+
+(Fiscalização preventiva da constitucionalidade)
 
 1 - ...
 
@@ -645,7 +691,9 @@ o) Regime do ordenamento do território e do urbanismo.
 
 8 - ...
 
-###### Artigo 279.º — (Efeitos da decisão)
+Artigo 279.º
+
+(Efeitos da decisão)
 
 1 - Se o Tribunal Constitucional se pronunciar pela inconstitucionalidade de norma constante de qualquer lei, decreto ou acordo internacional deverá o diploma ser vetado pelo Presidente da República e devolvido ao órgão que o tiver aprovado.
 
@@ -655,7 +703,9 @@ o) Regime do ordenamento do território e do urbanismo.
 
 4 - ...
 
-###### Artigo 281.º — (Fiscalização abstrata da constitucionalidade e da legalidade)
+Artigo 281.º
+
+(Fiscalização abstrata da constitucionalidade e da legalidade)
 
 1 - ...
 
@@ -697,4 +747,4 @@ g) As Assembleias Legislativas das Regiões Autónomas, os Presidentes das Assem
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de maio de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.

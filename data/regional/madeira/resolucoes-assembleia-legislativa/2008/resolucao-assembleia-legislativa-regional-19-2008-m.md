@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/19/2008/08/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/19-2008-455642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e4d833599ba382d85372d06b021f3507ff557a51e4e59451eefc8de0ed62982
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0facc6ce6f877da3de363b09306fccf2043f9206f16ae5be9c51f03d95f7a31d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Beneficiário
-- Titulo de Transporte
-- Transporte Aéreo
 - Madeira.região Autónoma
 - Reembolso
 - Subsídio
 - Subsídio de Apoio Social
 - Tarifa Aérea
+- Titulo de Transporte
+- Transporte Aéreo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/66/2008/04/09/p/dre
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/316-a/2008/04/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/316-a/2008/04/23/p/dre
+- type: cites
+  target: pt:dre:249844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:16Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +156,9 @@ Assim:
 
 A Assembleia Legislativa da Região Autónoma da Madeira, nos termos no disposto na alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e na alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 31/91](https://diariodarepublica.pt/dr/detalhe/lei/31-1991-662558), de 5 de Junho, com as alterações introduzidas pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, apresenta à Assembleia da República a seguinte proposta de lei:
 
-###### Artigo 1.º — Alteração
+Artigo 1.º
+
+Alteração
 
 São alterados os artigos 3.º, 4.º e 12.º do [Decreto-Lei n.º 66/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2008-249844), de 9 de Abril, passando a ter a seguinte redacção:
 
@@ -148,7 +170,9 @@ São alterados os artigos 3.º, 4.º e 12.º do [Decreto-Lei n.º 66/2008](https
 
 2 - Sem prejuízo do previsto no número anterior, quando o beneficiário viajar ao serviço, ou por conta de uma pessoa colectiva ou singular, o reembolso pode ser solicitado por esta última, desde que, na factura emitida em nome desta, conste o nome do beneficiário, o respectivo número de contribuinte e sejam anexados os respectivos talões de embarque e restantes documentos previstos no artigo 7.º
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O subsídio a atribuir ao beneficiário reporta-se ao pagamento e utilização efectiva do título de transporte pelo beneficiário.
 
@@ -156,20 +180,26 @@ São alterados os artigos 3.º, 4.º e 12.º do [Decreto-Lei n.º 66/2008](https
 
 3 - Não é atribuído subsídio quando a tarifa praticada tiver um montante igual ou inferior ao que for estabelecido no número anterior.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A revisão do valor do subsídio social de mobilidade deve ser efectuada no decurso dos primeiros três meses de cada ano seguinte à sua aplicação, após audição dos órgãos de governo próprio da Região Autónoma da Madeira.
 
 2 - (Eliminado).»
 
-###### Artigo 2.º — Revogação
+Artigo 2.º
+
+Revogação
 
 É revogada a [Portaria n.º 316-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/316-a-2008-402681), de 23 de Abril.
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor com a aprovação do Orçamento de Estado para o ano de 2009.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de Julho de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

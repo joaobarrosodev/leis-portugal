@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 76/2003, 1º Suplemento, Série I-B de 2003-03-31
   number: '76'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2080-(2) a 2080-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/076b01/00020008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11-a/2003/03/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-a-2003-684637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8d42079a1d9f3f7a9c8759f806963a789991162115e833b80dfa0b88fd6d026
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab3366252a891c1757a483d7a4d20609c692b7a8165a622b9e0ddba8239a533b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Auditoria Regional do Equipamento Social e Transportes
-- Governo Regional
 - Definição de Competências
-- Direcção Regional do Ordenamento do Território
-- Integração de Trabalhadores
-- Secretaria Regional do Equipamento Social e Transportes
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Direcção Regional de Geografia e Cadastro
+- Direcção Regional do Ordenamento do Território
+- Governo Regional
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Regional do Equipamento Social e Transportes
 - Secretário Regional do Equipamento Social e Transportes
 relationships:
 - type: amended_by
   target: pt:dre:249979:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249979:por
+  label: "Reestruturada a Direcção Regional de Geografia e Cadastro, criada pelo presente diploma, que passa a designar-se\
+    \ Direcção Regional de Informação Geográfica e de Ordenamento do Território (DRIGOT), pelo DRR.7/2008/M.21.04.2008.PG-RAM,\
+    \ DR.IS [78] de 21.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2008-249979
+  date: '2008-04-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2003/01/28/p/dre
   label: null
@@ -115,16 +122,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:166402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:483604:por
+  label: "Rectificado pela DECL-RECT.5-D/2003.2003.04.29.PCM, DR.IS-B [100}4ºSupl de 30/Abr/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-d-2003-483604
+  date: '2003-04-29'
+- type: repealed_by
+  target: pt:dre:591740:por
+  label: "Revogado pelo DRR.6/2005/M.09.02.2005.PG-RAM, DR.IS-B [48] de 09.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2005-591740
+  date: '2005-02-09'
 article_structure:
-  article_count: 23
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:58Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +210,9 @@ Os artigos 1.º, 4.º, 5.º, 7.º, 37.º, 42.º, 64.º, 66.º, 67.º, 70.º, 86.
 
 A Secretaria Regional do Equipamento Social e Transportes, adiante abreviadamente designada por SRES, é o departamento do Governo Regional da Madeira a que se referem os artigos 1.º, alínea b), e 5.º do [Decreto Regulamentar Regional n.º 43/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-2000-582847), de 12 de Dezembro, competindo-lhe a definição e execução da política regional respeitante aos sectores das obras públicas, estradas, urbanismo, litoral, portos, aeroportos, transportes terrestres, ordenamento do território e informação geográfica e cadastral.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Para a prossecução dos seus objectivos, a SRES compreende os seguintes organismos e serviços de concepção, coordenação, consulta, controlo, execução e apoio técnico:
 
@@ -193,7 +244,9 @@ n) ...
 
 o) Direcção Regional de Geografia e Cadastro (DRGC).
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -209,7 +262,9 @@ d) ...
 
 e) [Anterior alínea f).]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -227,11 +282,15 @@ e) [Anterior alínea f).]
 
 8 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 A AREST é o serviço destinado a assegurar o cumprimento, por parte dos organismos e serviços da SRES e dos serviços tutelados pelo Secretário Regional, das leis, regulamentos, instruções, directivas, despachos e demais normas jurídicas ou contratuais, no domínio das obras públicas, estradas, urbanismo, litoral, portos, aeroportos, transportes terrestres, ordenamento do território e informação geográfica e cadastral.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -245,11 +304,15 @@ A AREST é o serviço destinado a assegurar o cumprimento, por parte dos organis
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 A DROT, em estreita ligação com o Secretário Regional do Equipamento Social e Transportes, coordena os estudos e acções conducentes à concretização da política regional de ordenamento do território e gere e fiscaliza o domínio público marítimo, à excepção das áreas de interesse portuário e zonas terrestres e marítimas afectas à exploração dos portos da Região Autónoma da Madeira, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - Ao director regional de Ordenamento do Território compete:
 
@@ -281,7 +344,9 @@ n) [Anterior alínea m).]
 
 o) [Anterior alínea n).]
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 A DROT compreende os seguintes serviços:
 
@@ -291,7 +356,9 @@ b) ...
 
 c) [Anterior alínea d).]
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 São atribuições do GATAL:
 
@@ -311,7 +378,9 @@ g) Elaborar autos de medição de trabalhos em execução, para efeitos de proce
 
 h) Proceder aos trabalhos de topografia e outros necessários à perfeita identificação dos terrenos, de modo a fornecer os elementos e bases necessários à execução dos projectos de estudo e das obras.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - ...
 
@@ -321,7 +390,9 @@ h) Proceder aos trabalhos de topografia e outros necessários à perfeita identi
 
 4 - ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - As referências constantes de acto normativo ou administrativo, contrato ou de documento de outra natureza à Direcção Regional de Urbanismo ou ao Gabinete de Gestão do Litoral entendem-se feitas à Direcção Regional de Ordenamento do Território e as referências nos mesmos termos à Direcção de Serviços de Finanças e Contabilidade, ao Gabinete de Planeamento Urbanístico e à Divisão de Concursos e Contratos entendem-se feitas à Direcção de Serviços de Orçamento e Contabilidade, ao Gabinete de Gestão do Território e à Direcção de Serviços de Concursos e Contratos, respectivamente.
 
@@ -347,7 +418,9 @@ Natureza
 
 A DRGC, em estreita ligação com o Secretário Regional do Equipamento Social e Transportes, coordena os estudos e acções conducentes à concretização da política regional de informação geográfica, cartografia e cadastro.
 
-###### Artigo 85.º-B — Atribuições
+Artigo 85.º-B
+
+Atribuições
 
 No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à DRGC:
 
@@ -363,7 +436,9 @@ e) Elaborar e propor à aprovação do Secretário Regional as medidas legislati
 
 f) Colaborar, no domínio das suas áreas de actuação, com outras instituições ou organismos na implementação de projectos sectoriais de sistemas de informação geográfica ou projectos de investigação.
 
-###### Artigo 85.º-C — Competências do director regional
+Artigo 85.º-C
+
+Competências do director regional
 
 1 - Ao director regional de Geografia e Cadastro compete:
 
@@ -393,7 +468,9 @@ j) Definir e propor para superior decisão tudo o que se torne necessário ao bo
 
 4 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços que, por proposta sua, seja designado pelo Secretário Regional.
 
-###### Artigo 85.º-D — Estrutura
+Artigo 85.º-D
+
+Estrutura
 
 A DRGC compreende os seguintes serviços:
 
@@ -403,7 +480,9 @@ b) Gabinete de Informação Cadastral (GIC);
 
 c) Núcleo Administrativo (NA).
 
-###### Artigo 85.º-E — Atribuições e estrutura
+Artigo 85.º-E
+
+Atribuições e estrutura
 
 1 - São atribuições do GCIG:
 
@@ -425,7 +504,9 @@ h) Desenvolver acções de articulação com os programas nacionais ou europeus 
 
 2 - O GCIG é equiparado a direcção de serviços.
 
-###### Artigo 85.º-F — Atribuições e estrutura
+Artigo 85.º-F
+
+Atribuições e estrutura
 
 1 - São atribuições do GIC:
 
@@ -441,7 +522,9 @@ e) Promover a difusão da informação cadastral.
 
 2 - O GIC é equiparado a direcção de serviços.
 
-###### Artigo 85.º-G — Atribuições e estrutura
+Artigo 85.º-G
+
+Atribuições e estrutura
 
 1 - Na directa dependência do director regional funciona o NA.
 
@@ -485,13 +568,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 27 de Fevereiro de 2003.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Março de 2003.**
+Assinado em 20 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 5.º)
 

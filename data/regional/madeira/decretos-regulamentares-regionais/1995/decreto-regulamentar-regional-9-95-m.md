@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/092b00/22382243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/1995/04/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1995-224063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb04c306211e0f5724a2cf267d1082184e7905b3b2eedee7c61acda5b15a17db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 485179dcee59dd54b6d536b221c5056341f45ea1e6c4a0a16965784fbd538cbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Estatuto
 - Carreira Profissional
-- Recrutamento de Pessoal
-- Incompatibilidades
-- Integração de Trabalhadores
+- Definição de Competências
 - Descrição de Funções
-- Pessoal de Inspecção
 - Estágio de Formação
+- Estatuto
+- Horário de Trabalho
+- Incompatibilidades
+- Inspecção Regional do Trabalho
+- Integração de Trabalhadores
 - Madeira.região Autónoma
+- Pessoal de Inspecção
 - Promoção Profissional
 - Quadro de Pessoal
-- Horário de Trabalho
+- Recrutamento de Pessoal
 - Remuneração
-- Inspecção Regional do Trabalho
 - Segredo Profissional
 relationships:
 - type: amended_by
@@ -98,16 +98,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/16/1993/05/28/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/16/1993/05/28/m/dre
+- type: cites
+  target: pt:dre:265699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:649480:por
+  label: "Revogado pelo DRR.19/97/M.1997.08.25.PG-RAM DR.IS-B [215] de 1997.09.17 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1997-649480
+  date: '1997-08-25'
 article_structure:
-  article_count: 20
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:58Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +163,7 @@ Nestes termos:
 
 O Governo Regional decreta, ao abrigo da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 35.º, 42.º a 49.º e 58.º a 67.º do Estatuto da Inspecção Regional do Trabalho, aprovado pelo [Decreto Regulamentar Regional n.º 9/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1986-402923), de 30 de Abril, com a redacção que lhe foi dada pelo [Decreto Regulamentar Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1989-549851), de 11 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 35.º, 42.º a 49.º e 58.º a 67.º do Estatuto da Inspecção Regional do Trabalho, aprovado pelo [Decreto Regulamentar Regional n.º 9/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1986-402923), de 30 de Abril, com a redacção que lhe foi dada pelo [Decreto Regulamentar Regional n.º 24/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1989-549851), de 11 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 35.º — Quadro de pessoal
 
@@ -344,20 +381,20 @@ d) Os inspectores-adjuntos de 3.ª classe e os inspectores-adjuntos auxiliares s
 
 Aos concursos pendentes são aplicáveis as disposições legais vigentes à data da abertura, incluindo o respectivo regime de estágio.
 
-###### Art. 2.º São revogados os artigos 33.º, 34.º, 50.º a 52.º, 54.º a 56.º e 68.º a 70.º do Estatuto da Inspecção Regional do Trabalho.
+Art. 2.º São revogados os artigos 33.º, 34.º, 50.º a 52.º, 54.º a 56.º e 68.º a 70.º do Estatuto da Inspecção Regional do Trabalho.
 
-###### Art. 3.º A transição a que se refere o artigo 66.º, na redacção que lhe é dada pelo presente diploma, opera-se com efeitos reportados a 1 de Janeiro de 1995.
+Art. 3.º A transição a que se refere o artigo 66.º, na redacção que lhe é dada pelo presente diploma, opera-se com efeitos reportados a 1 de Janeiro de 1995.
 
 Aprovado em Conselho do Governo Regional em 15 de Fevereiro de 1995.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 7 de Março de 1995.**
+Assinado em 7 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ## ANEXO I — Mapa a que se referem os artigos 35.º, 49.º e 59.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/04/092b00/22382243.pdf))](https://files.diariodarepublica.pt/1s/1995/04/092b00/22382243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/092b00/22382243.pdf)

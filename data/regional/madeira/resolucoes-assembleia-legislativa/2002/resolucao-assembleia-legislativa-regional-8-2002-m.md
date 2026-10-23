@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/8/2002/08/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/8-2002-185498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7db2fda89ededaa38d655cdf694eba1254e765ec509c4d90218c47020a7511ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab50e2902df202493bdc35200d59f588f4fb47ecc4c80f2caf7c6fc6b2a522ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Segurança Interna
 - Madeira.região Autónoma
+- PSP
 - Recomendação
+- Segurança Interna
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/511/1999/11/24/p/dre
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolalr/20/2001/07/09/m/dre
   label: null
   source: http://data.dre.pt/eli/resolalr/20/2001/07/09/m/dre
+- type: cites
+  target: pt:dre:348522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643086:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:34Z'
   warnings: []
   errors: []
 ---
@@ -145,4 +153,4 @@ Nestas circunstâncias, a Assembleia Legislativa Regional da Madeira delibera re
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 4 de Julho de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.

@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1990-575480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0eb1515229e52e5855c4fcb14ab3bac5c91c0102ef1ab3bdc70ce7b32970e51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0c9884dbd7b0e8657c412dd3bb8f8c67a7e3c5f46447e53709740d0786ece4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:375871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:275644:por
+  label: "Transferidos os funcionários do quadro de pessoal aprovado no presente diploma (afectos à Direcção de Serviços do\
+    \ Património e Economato) para o quadro de pessoal, aprovado pelo DRR.11/93/M.13.05.1993.GR-RAM, DR.IS-B [111] de 13.05.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1993-275644
+  date: '1993-05-13'
+- type: cites
+  target: pt:dre:181419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612463:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:269189:por
+  label: "Revogados os artigos 16.º a 24.º pelo DRR.18/93/M.19.06.1993.GR-RAM, DR.IS-B [142] de 19.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-1993-269189
+  date: '1993-06-19'
+- type: repealed_by
+  target: pt:dre:268057:por
+  label: "Revogados os artigos 5.º a 11.º, 14.º e 15.º pelo DRR.19/93/M.24.06.1993.GR-RAM, DR.IS-B [146] de 24.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1993-268057
+  date: '1993-06-24'
+- type: repealed_by
+  target: pt:dre:375871:por
+  label: "Revogados os artigos 25.º a 33.º pelo DRR.21/93/M.07.07.1993.GR-RAM, DR.IS-B [157] de 07.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-1993-375871
+  date: '1993-07-07'
 article_structure:
-  article_count: 40
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 39
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:10Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +162,21 @@ Assim:
 
 O Governo Regional da Região Autónoma da Madeira, nos termos do artigo 7.º do [Decreto Legislativo Regional n.º 1/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1990-223997), de 10 de Janeiro, da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta o seguinte:
 
-###### Artigo 1.º É aprovada a Lei Orgânica da Secretaria Regional das Finanças, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a Lei Orgânica da Secretaria Regional das Finanças, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º As competências atribuídas à Vice-Presidência do Governo Regional e Coordenação Económica nas áreas de finanças e orçamento transitam para a Secretaria Regional das Finanças, pelo que a referência feita em diploma legal ao Vice-Presidente do Governo Regional, pressupondo a sua competência nessas áreas, deverá ser entendida como reportada ao Secretário Regional das Finanças.
+Art. 2.º As competências atribuídas à Vice-Presidência do Governo Regional e Coordenação Económica nas áreas de finanças e orçamento transitam para a Secretaria Regional das Finanças, pelo que a referência feita em diploma legal ao Vice-Presidente do Governo Regional, pressupondo a sua competência nessas áreas, deverá ser entendida como reportada ao Secretário Regional das Finanças.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 4 de Maio de 1990.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 28 de Maio de 1990.**
+Assinado em 28 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 LEI ORGÂNICA DA SECRETARIA REGIONAL DAS FINANÇAS
 
@@ -324,7 +386,9 @@ h) Executar tudo o mais que lhe seja atribuído por lei ou que decorra do normal
 
 3 - A DSPE compreende um serviço administrativo, que funciona na dependência directa do director de serviços, competindo-lhe prestar todo o apoio necessário ao desempenho das suas funções.
 
-##### SUBSECÇÃO V — Divisão das Finanças Locais
+##### SUBSECÇÃO V
+
+##### Divisão das Finanças Locais
 
 ###### Artigo 14.º — Natureza e atribuições
 
@@ -686,12 +750,12 @@ c) É extinta a categoria de tesoureiro do quadro de pessoal da Direcção Regio
 
 d) Na sequência da alínea anterior, o funcionário provido na categoria de tesoureiro transita para a categoria de tesoureiro-chefe.
 
-## Anexo I a que se refere o n.º 2 do artigo 34.º do presente diploma
+Anexo I a que se refere o n.º 2 do artigo 34.º do presente diploma
 
 Quadro de pessoal da Secretaria Regional das Finanças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14700/27322740.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14700/27322740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14700/27322740.pdf)
 
-## Anexo II a que se refere o n.º 3 do artigo 34.º do presente diploma
+Anexo II a que se refere o n.º 3 do artigo 34.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14700/27322740.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14700/27322740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14700/27322740.pdf)

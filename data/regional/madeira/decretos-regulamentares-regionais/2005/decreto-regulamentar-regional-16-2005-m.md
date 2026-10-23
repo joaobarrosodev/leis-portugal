@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2005/04/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2005-548423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 336b21668dbafada3f435e9717dc871e85949bd954ad4dfad57d6112e85cf510
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41ca99132e8b2d657006be24c82e63aa1757e6d9c33281c5a92e842f619008fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,44 @@ subjects:
 - Definição de Competências
 - Direcção Regional de Educação Especial e Reabilitação
 - Integração de Trabalhadores
-- Secretaria Regional da Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:456262:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248482:por
+  label: "Mantido em vigor o presente diploma na parte referente às matérias que transitam para a Secretaria Regional de Educação\
+    \ e Cultura (SREC) pelo DRR.1/2008/M.17.01.2008.PG-RAM, DR.IS [12] de 17.01.2008, até à publicação integral dos diplomas\
+    \ referidos nos nºs 2 do art. 5º e do art. 6º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2008-248482
+  date: '2008-01-17'
+- type: amended_by
+  target: pt:dre:456262:por
+  label: "Determinada a transição de pessoal, nos termos dos n.ºs 1 e 2 do art. 9.º, e revogado o presente diploma, com excepção\
+    \ dos arts. 4.º, 5.º e 7.º a 33.º e do mapa de quadro de pessoal constante da estrutura orgânica da DREER, mantidos em\
+    \ vigor até à publicação dos diplomas que aprovam, criam e alteram as unidades orgânicas nucleares e flexíveis, e o quadro\
+    \ de pessoal, pelo DRR.14/2008/M.30.06.2008.PG-RAM, DR.IS [124] de 30.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2008-456262
+  date: '2008-06-30'
 - type: cites
   target: celex:31985D0368
   label: null
   source: http://data.europa.eu/eli/dec/1985/368/oj
 article_structure:
   article_count: 37
-  section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 39
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:11Z'
   warnings: []
   errors: []
 ---
@@ -125,13 +140,15 @@ Aprovado em Conselho do Governo Regional em 10 de Março de 2005.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 30 de Março de 2005.**
+Assinado em 30 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Natureza e atribuições
 
@@ -277,7 +294,9 @@ d) Colaborar na preparação de projectos de diplomas relacionados com a activid
 
 2 - O GEPJ é dirigido por um coordenador, equiparado para todos os efeitos legais a chefe de divisão.
 
-#### SECÇÃO IV — Divisão de Recursos Humanos
+#### SECÇÃO IV
+
+##### Divisão de Recursos Humanos
 
 ###### Artigo 8.º — Natureza e atribuições
 
@@ -315,7 +334,9 @@ c) Divisão de Motricidade Humana (DMH);
 
 d) Divisão de Arte e Criatividade (DAC).
 
-##### SUBSECÇÃO I — Divisão de Apoio Social
+##### SUBSECÇÃO I
+
+##### Divisão de Apoio Social
 
 ###### Artigo 10.º — Natureza e atribuições
 
@@ -331,19 +352,25 @@ d) Assegurar o funcionamento de um espaço de informação à pessoa com defici�
 
 e) Promover a recolha, compilação, sistematização, tratamento e difusão de documentação da área social com interesse para a DREER.
 
-##### SUBSECÇÃO II — Divisão de Psicologia
+##### SUBSECÇÃO II
+
+##### Divisão de Psicologia
 
 ###### Artigo 11.º — Natureza e atribuições
 
 A DP é um órgão de apoio aos serviços, centros e estabelecimentos afectos à DREER, incumbindo-lhe a observação, diagnóstico e orientação dos educandos e futuros utentes com vista à adaptação ou reeducação escolar, profissional e social, consoante as características individuais, disfunções ou perturbações, e o apoio psicoterapêutico, nos casos em que apresentem desvios emocionais e comportamentais resultantes de deficiências ou de sobredotação.
 
-##### SUBSECÇÃO III — Divisão de Motricidade Humana
+##### SUBSECÇÃO III
+
+##### Divisão de Motricidade Humana
 
 ###### Artigo 12.º — Natureza e atribuições
 
 A DMH é um órgão de apoio aos serviços, centros e estabelecimentos afectos à DREER no despiste, diagnóstico e desenvolvimento das capacidades psicossomáticas no âmbito da motricidade humana, visando a integração na vida activa dos indivíduos portadores de deficiência ou sobredotação, através de processos de estimulação da maturação individual, das aprendizagens escolares, da formação e ou reconversão sócio-profissional, da prática desportiva e da ocupação dos tempos livres e de lazer.
 
-##### SUBSECÇÃO IV — Divisão de Arte e Criatividade
+##### SUBSECÇÃO IV
+
+##### Divisão de Arte e Criatividade
 
 ###### Artigo 13.º — Natureza e atribuições
 
@@ -451,7 +478,9 @@ c) Promover o acompanhamento social, psicológico e pedagógico às crianças e 
 
 6 - As normas de funcionamento dos CAP são objecto de regulamento interno, aprovado pelo director regional, sob proposta conjunta do director de serviços e do director técnico, ouvidos os coordenadores.
 
-##### SUBSECÇÃO III — Divisão Coordenadora de Apoio aos Sobredotados
+##### SUBSECÇÃO III
+
+##### Divisão Coordenadora de Apoio aos Sobredotados
 
 ###### Artigo 19.º — Atribuições e funcionamento
 
@@ -465,7 +494,9 @@ c) Colaborar na identificação, observação, orientação, encaminhamento e ac
 
 d) Coordenar os recursos humanos necessários à intervenção multidisciplinar em crianças e jovens para os quais se aconselhem estratégias próprias de intervenção psicológica, social ou cognitiva.
 
-##### SUBSECÇÃO IV — Divisão de Actividade Motora Adaptada
+##### SUBSECÇÃO IV
+
+##### Divisão de Actividade Motora Adaptada
 
 ###### Artigo 20.º — Atribuições e funcionamento
 
@@ -585,7 +616,9 @@ a) Gabinete de Informática (GI);
 
 b) Gabinete do Audiovisual (GAV).
 
-##### SUBSECÇÃO I — Divisão de Apoio à Formação e Investigação Científica
+##### SUBSECÇÃO I
+
+##### Divisão de Apoio à Formação e Investigação Científica
 
 ###### Artigo 27.º — Atribuições
 
@@ -601,7 +634,9 @@ d) Propor protocolos com instituições de ensino superior para efeitos de forma
 
 e) Incentivar e apoiar a investigação científica na área de educação especial e sobredotação.
 
-##### SUBSECÇÃO II — Divisão de Adaptação às Novas Tecnologias de Informação e Comunicação
+##### SUBSECÇÃO II
+
+##### Divisão de Adaptação às Novas Tecnologias de Informação e Comunicação
 
 ###### Artigo 28.º — Atribuições
 

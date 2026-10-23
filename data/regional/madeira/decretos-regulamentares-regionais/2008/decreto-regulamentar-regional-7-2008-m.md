@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2008/04/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2008-249979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: caed123c2ddf2b98e74a01d44a2c5014d044ab14e662e2c364e490f06f53530c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1afbe72bdcc9e9480d703e98941b137cf8c03786707697115e07de37cf89f267
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Conselho Regional
 - Coordenador
 - Criação de Serviços
 - Definição de Competências
-- Direcção Regional de Informação Geográfica e de Ordenamento do Território
-- Secretaria Regional do Equipamento Social
-- Diretor Regional
-- Direcção Regional dos Edifícios Públicos
-- Direcção Regional de Infra-estruturas e Equipamentos
 - Direcção Regional de Estradas
-- Ramedm
-- Extinção de Serviços
-- Recrutamento de Pessoal
-- Laboratório Regional de Engenharia Civil
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Direcção Regional de Geografia e Cadastro
+- Direcção Regional de Informação Geográfica e de Ordenamento do Território
+- Direcção Regional de Infra-estruturas e Equipamentos
+- Direcção Regional dos Edifícios Públicos
+- Diretor Regional
+- Extinção de Serviços
+- Laboratório Regional de Engenharia Civil
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Ramedm
+- Recrutamento de Pessoal
+- Secretaria Regional do Equipamento Social
 - Secretário Regional
 relationships:
 - type: amended_by
   target: pt:dre:191519:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670491:por
+  label: "Alterados os arts. 1º, 5º, 6º, 8º, 18º, 19º, 20º, 27º, 28º, 30º, e 38º, a denominação da subsec. IV da sec. I do\
+    \ cap. III - a qual passa a denominar-se «Subseccção IV Direcção Regional de Informação Geográfica», e o anexo II, todos\
+    \ do presente diploma, pelo DRR.6/2011/M.06.07.2011.PG-RAM, DR.IS [128] de 06.07.2011, que o republicou em anexo, com\
+    \ as alterações por ele introduzidas, e remetidas para a Direcção Regional de Informação Geográfica (DRIG) quaisquer referências\
+    \ à Direcção Regional de Informação Geográfica e Ordenamento do Território (DRIGOT), com excepção daquelas que se prendam\
+    \ com as competências em matéria de urbanismo, litoral e ordenamento do território, que corresponderão aos departamentos\
+    \ e serviços para onde as mesmas transitam.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2011-670491
+  date: '2011-07-06'
+- type: amended_by
+  target: pt:dre:174830:por
+  label: "Extinta a Auditoria Regional do Equipamento Social, assim como são extintos, sendo objecto de fusão, o Gabinete\
+    \ do Secretário Regional do Equipamento Social, o Gabinete de Gestão e Controlo Orçamental e o Gabinete de Pessoal e Administração\
+    \ (cujas atribuições são integradas na DRPRGOP) da ex-Secretaria Regional do Equipamento Social, cuja orgânica consta\
+    \ do presente diploma, alterado pelo DRR 6/2011/M de 06-jul, pelo DRR.25/2012/M.03.09.2012.PG-RAM, DR.IS [170] de 03.09.2012,\
+    \ que manteve em vigor, até à aprovação da organização interna da DRPRGOP, no referente à anterior estrutura dos serviços\
+    \ relativos aos organismos ora extintos. \0tos. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2012-174830
+  date: '2012-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -130,16 +151,83 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999
   label: null
   source: http://data.dre.pt/eli/lei/44/1999
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693441:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145229:por
+  label: "Revogado, com a entrada em vigor dos respectivos diplomas orgânicos e na parte relativa ao Gabinete do Secretário\
+    \ Regional, Direcção Regional de Edifícios Públicos, Direcção Regional de Infra-Estruturas e Equipamentos, Gabinete de\
+    \ Pessoal e Administração, Gabinete de Gestão e Controlo Orçamental e Auditoria Regional do Equipamento Social, o presente\
+    \ diploma na redacção do DRR 6/2011/M, de 06-Jul pelo DRR.9/2011/M.19.12.2011.PG-RAM, DR.IS [241] de 19.12.2011, que revoga\
+    \ também as referências às entidades que passaram para a tutela da Vice-Presidência do Governo Regional.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2011-145229
+  date: '2011-12-19'
+- type: repealed_by
+  target: pt:dre:191519:por
+  label: "Revogado na parte que se reporta à Direção Regional de Informação Geográfica, pelo DRR.30/2012/M.05.11.2012.PG-RAM,\
+    \ DR.IS [213] de 05.11.2012, nos termos do nº 2 do art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-2012-191519
+  date: '2012-11-05'
 article_structure:
   article_count: 42
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:31Z'
   warnings: []
   errors: []
 ---
@@ -248,7 +336,7 @@ O Conselho Regional do Equipamento Social é o órgão consultivo da SRES.
 
 ###### Artigo 8.º — Sector empresarial
 
-**O Secretário Regional do Equipamento Social exerce a tutela e as competências no âmbito da função accionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:**
+O Secretário Regional do Equipamento Social exerce a tutela e as competências no âmbito da função accionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:
 
 a) Cimentos Madeira, Lda.;
 
@@ -726,20 +814,20 @@ Aprovado em Conselho do Governo Regional em 19 de Março de 2008.
 
 O Vice-Presidente do Governo Regional, no exercício da Presidência, João Carlos Cunha e Silva.
 
-**Assinado em 7 de Abril de 2008.**
+Assinado em 7 de Abril de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07800/0229202300.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07800/0229202300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07800/0229202300.pdf)
 
 ## ANEXO II — Cargos de direcção intermédia de 1.º grau dos serviços da administração directa da SRES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07800/0229202300.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07800/0229202300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07800/0229202300.pdf)
 
 ## ANEXO III — Chefes de departamento da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07800/0229202300.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07800/0229202300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07800/0229202300.pdf)

@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1989-612469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce4d9a059df146c9a6a0036519951135c739996bc7887eb8515e8b4d6ad3fe7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 391e6a19d54a9546da4c96e7e72b5245ff8fcd78a6ad1b92f3a1a985fea0d01b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gabinete do Secretário Regional da Administração Pública
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612468:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:08Z'
   warnings: []
   errors: []
 ---
@@ -225,7 +236,9 @@ b) Secção de Contabilidade e Património.
 
 4 - O Centro de Informação e Documentação é, para efeitos de chefia, equiparado a uma secção administrativa.
 
-#### SECÇÃO II — Divisão de estudos, planeamento e estatística (DEPE)
+#### SECÇÃO II
+
+##### Divisão de estudos, planeamento e estatística (DEPE)
 
 ###### Artigo 8.º — Natureza
 
@@ -347,12 +360,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 12 de Janeiro de 1989.
 
-**O Presidente do Governo Regional, Alberto João Gonçalves Cardoso Jardim.**
+O Presidente do Governo Regional, Alberto João Gonçalves Cardoso Jardim.
 
-**Assinado em 3 de Fevereiro de 1989.**
+Assinado em 3 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04100/06750679.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04100/06750679.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04100/06750679.pdf)

@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1989-549989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 217f17215c0e75030f021a48c9046353c94bbb6f25e9ae268a14c7c57c920387
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5a3186bff09efe5b1e82557d2691ed8461a7a417d837833f913cedea65b8910
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acidente de Trabalho
+- Contrato de Trabalho
+- Direito do Trabalho
+- Doença Profissional
+- Higiene do Trabalho
+- Madeira.região Autónoma
+- Medicina do Trabalho
+- Multa
+- Segurança no Trabalho
+relationships:
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196241:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:05Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +109,7 @@ Nem será esse o objectivo aliás, sem prejuízo de se pretender uma maior cober
 
 Assim, ao abrigo do disposto na alínea d) do n.º 1 do artigo 229.º da Constituição, o Governo da Região Autónoma da Madeira decreta o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto Regulamentar Regional n.º 5/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1986-196241), de 3 de Abril, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto Regulamentar Regional n.º 5/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1986-196241), de 3 de Abril, passa a ter a seguinte redacção:
 
 1 - Metade do produto das coimas aplicadas em processos cuja instrução esteja cometida à Inspecção Regional do Trabalho reverterá para esta, a título de compensação de custos de funcionamento e despesas processuais.
 
@@ -104,14 +121,14 @@ b) 35% para a Segurança Social e 15% para o orçamento da Região, quanto ao pr
 
 3 - O produto das coimas será depositado, mediante guias, em conta corrente à ordem da Região Autónoma da Madeira, competindo à entidade gestora daquela proceder às respectivas transferências.
 
-###### Art. 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 1990.
+Art. 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 1990.
 
 Aprovado em Conselho do Governo Regional em 12 de Outubro de 1989.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 25 de Outubro de 1989.**
+Assinado em 25 de Outubro de 1989.
 
-**Publique-se**
+Publique-se
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

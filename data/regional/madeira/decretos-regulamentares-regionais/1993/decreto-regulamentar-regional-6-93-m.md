@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/068b00/14321432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/1993/03/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1993-637684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 543ab5570557c869f63ee08e593deef8d73b94696ea5193207eda49232836c61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6936e1800edc3d79ac9224f6457c1d2a157f723ec8a2f6e93a7fd80488190a81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Nacional de Saúde
-- Madeira.região Autónoma
 - Cobrança de Dívidas
 - Estabelecimento Hospitalar
+- Madeira.região Autónoma
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:405955:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505632:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma do art. 1º, pelo AC.134/2000.2000.02.29.TCS\
+    \ DR.IS-A [78] de 01/Abr/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/134-2000-505632
+  date: '2000-02-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/194/1992/09/08/p/dre
   label: null
@@ -87,16 +93,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:234916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681580:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405955:por
+  label: "Revogado pelo DLR.1/2000/M.2000.01.05.ALR-RAM,DR.IS-A [25] de 31/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2000-405955
+  date: '2000-01-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:44Z'
   warnings: []
   errors: []
 ---
@@ -111,16 +138,16 @@ Considerando que as razões justificativas da adopção do novo regime se verifi
 
 Assim, o Governo Regional da Madeira, ao abrigo do disposto no [Decreto-Lei n.º 391/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1980-461862), de 3 de Setembro, nos artigos 17.º e 21.º do [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto, no artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, e no artigo 229.º, n.º 1, da Constituição, decreta o seguinte:
 
-###### Artigo 1.º É aplicado à cobrança de dívidas às instituições e serviços públicos integrados no Serviço Regional de Saúde da Região Autónoma da Madeira o disposto no [Decreto-Lei n.º 194/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1992-234916), de 8 de Setembro.
+Artigo 1.º É aplicado à cobrança de dívidas às instituições e serviços públicos integrados no Serviço Regional de Saúde da Região Autónoma da Madeira o disposto no [Decreto-Lei n.º 194/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1992-234916), de 8 de Setembro.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 de Fevereiro de 1993.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Março de 1993.**
+Assinado em 2 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

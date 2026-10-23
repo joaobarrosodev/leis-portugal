@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/075b00/20042013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2004/03/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2004-210023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 170573540314be355faa6676266a97be2a69cadba0ee100c80857e2f2ff213a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92b9099121688e69b2a10fd64f3e355b8be958e54b445b1c0be96acd7fa2b8ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Planeamento e Finanças
-- Secretaria Regional do Plano e Finanças
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Remuneração
+- Secretaria Regional do Plano e Finanças
 relationships:
 - type: amended_by
   target: pt:dre:549468:por
@@ -112,16 +112,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:270435:por
+  label: "Rectificado pela DECL-RECT.42/2004.03.05.2004.PCM, DR.IS-B [118] de 20.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/42-2004-270435
+  date: '2004-05-03'
+- type: repealed_by
+  target: pt:dre:549468:por
+  label: "Revogado pelo DRR.21/2005/M.21.03.2005.PG-RAM, DR.IS-B [78] de 21.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2005-549468
+  date: '2005-03-21'
 article_structure:
   article_count: 32
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:08Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +204,11 @@ Aprovado em Conselho do Governo Regional em 12 de Fevereiro de 2004.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 4 de Março de 2004.**
+Assinado em 4 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Orgânica da Direcção Regional de Planeamento e Finanças
 
@@ -418,7 +464,9 @@ e) Participar na definição de medidas de carácter global e sectorial, nomeada
 
 4 - A DSEP compreende a Divisão de Planeamento.
 
-###### Artigo 11.º — Divisão de Planeamento
+###### Artigo 11.º
+
+##### Divisão de Planeamento
 
 À Divisão de Planeamento (DP) compete:
 
@@ -456,7 +504,9 @@ g) Coordenar a elaboração dos relatórios de execução do PIDDAR.
 
 4 - A DSISPA compreende a Divisão de Elaboração, Acompanhamento e Controlo de Execução do PIDDAR.
 
-###### Artigo 13.º — Divisão de Elaboração, Acompanhamento e Controlo da Execução do PIDDAR
+###### Artigo 13.º
+
+##### Divisão de Elaboração, Acompanhamento e Controlo da Execução do PIDDAR
 
 À Divisão de Elaboração, Acompanhamento e Controlo da Execução do PIDDAR (DEACEP) compete:
 
@@ -500,7 +550,9 @@ j) Executar tudo o mais que lhe for cometido ou que decorra do normal desempenho
 
 4 - A DSFAC compreende a Divisão de Finanças.
 
-###### Artigo 15.º — Divisão de Finanças
+###### Artigo 15.º
+
+##### Divisão de Finanças
 
 À Divisão de Finanças (DF) compete:
 
@@ -540,7 +592,9 @@ a) A Divisão de Garantias;
 
 b) A Divisão de Apoios e Património Financeiro.
 
-###### Artigo 17.º — Divisão de Garantias
+###### Artigo 17.º
+
+##### Divisão de Garantias
 
 À Divisão de Garantias (DG) compete:
 
@@ -552,7 +606,9 @@ c) Administrar os processos de regularização e de recuperação de créditos d
 
 d) Fiscalizar a actividade das entidades beneficiárias do aval da Região.
 
-###### Artigo 18.º — Divisão de Apoios e Património Financeiro
+###### Artigo 18.º
+
+##### Divisão de Apoios e Património Financeiro
 
 À Divisão de Apoios e Património Financeiro (DAPF) compete:
 
@@ -604,7 +660,9 @@ a) A Divisão de Estudos e Análise Financeira Autárquica;
 
 b) A Divisão de Cooperação Técnica e Financeira.
 
-###### Artigo 20.º — Divisão de Estudos e Análise Financeira Autárquica
+###### Artigo 20.º
+
+##### Divisão de Estudos e Análise Financeira Autárquica
 
 À Divisão de Estudos e Análise Financeira Autarquica (EAFA) compete:
 
@@ -616,7 +674,9 @@ c) Elaborar e recolher estudos e pareceres necessários à correcta aplicação 
 
 d) Participar na elaboração e adaptação de medidas legislativas relativas às especificidades próprias das autarquias locais da Região e acompanhar e apreciar os efeitos da respectiva aplicação.
 
-###### Artigo 21.º — Divisão de Cooperação Técnica e Financeira
+###### Artigo 21.º
+
+##### Divisão de Cooperação Técnica e Financeira
 
 À Divisão de Cooperação Técnica e Financeira (DCTF) compete:
 

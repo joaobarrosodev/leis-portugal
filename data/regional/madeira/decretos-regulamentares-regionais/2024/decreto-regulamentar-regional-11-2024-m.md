@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03200/0002600037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2024/02/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12ae15669637c955d752a2e90e035577dd578ce6a7ff37b759cce727d841ddf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff4be64758687ec2afbb65394f22903128f20571d06aaa8b9d0a24ae2e94fbdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Criação de Serviços
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Direção Regional de Economia e Transportes Terrestres
+- Governo Regional
 - Hospital Central
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Regulamentação de Atos Legislativos
 - Secretaria Regional
-- Secretário Regional
 - Secretaria Regional dos Equipamentos e Infraestruturas
-- Direção Regional de Economia e Transportes Terrestres
+- Secretário Regional
 relationships:
 - type: amended_by
   target: pt:dre:899370950:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:35/2020/M
+  label: Mantém em vigor, nos termos do n.º 4 do artigo 22.º, o Decreto Regulamentar Regional n.º 35/2020/M, de 22 de maio,
+    Diário da República n.º 100/2020, Série I
+  source: null
+  date: '2020-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/decl
   label: null
@@ -122,16 +128,161 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127621147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128277509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134305983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170322931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174357075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179804278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205450899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224081980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:898867724:por
+  label: Revogados a partir de 1 de janeiro de 2025 a alínea f) do n.º 1 do artigo 5.º e o artigo 15.º pelo(a) Decreto Legislativo
+    Regional n.º 13/2024/M - Diário da República n.º 235/2024, Série I de 2024-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2024-898867724
+  date: '2024-12-04'
+- type: repealed_by
+  target: pt:dre:899370950:por
+  label: Revogado a partir de 10 de dezembro de 2024 pelo(a) Decreto Regulamentar Regional n.º 39/2024/M - Diário da República
+    n.º 238/2024, Série I de 2024-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/39-2024-899370950
+  date: '2024-12-09'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:9/2019/M
+  label: Revoga, a partir de 15 de fevereiro de 2024, no respeitante às normas relativas às atribuições no âmbito dos setores
+    da energia e dos transportes e mobilidade terrestre, o Decreto Regulamentar Regional n.º 9/2019/M, de 31 de dezembro,
+    Diário da República n.º 251/2019, Série I
+  source: null
+  date: '2019-12-31'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:9/2020/M
+  label: Revoga, a partir de 15 de fevereiro de 2024, o Decreto Regulamentar Regional n.º 9/2020/M, de 20 de janeiro, Diário
+    da República n.º 13/2020, Série I
+  source: null
+  date: '2020-01-20'
 article_structure:
   article_count: 27
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:40Z'
   warnings: []
   errors: []
 ---
@@ -494,11 +645,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 1 de fevereiro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 9 de fevereiro de 2024.**
+Assinado em 9 de fevereiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -506,9 +657,9 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 Cargos de direção superior da administração direta
 
-|  |  |
-| --- | --- |
 |  | Número de lugares |
+| --- | --- |
+|  |  |
 | Cargos de direção superior de 1.º grau... | 6 |
 | Cargos de direção superior de 2.º grau... | 2 |
 
@@ -516,7 +667,9 @@ Cargos de direção superior da administração direta
 
 Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
 
-|  |  |
-| --- | --- |
 |  | Número de lugares |
+| --- | --- |
+|  |  |
 | Cargos de direção intermédia de 1.º grau... | 3 |
+
+117349086

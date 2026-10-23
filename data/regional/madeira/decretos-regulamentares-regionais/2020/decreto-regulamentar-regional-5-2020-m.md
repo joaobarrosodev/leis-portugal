@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/01000/0002500035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2020/01/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2020-128113537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e0d6bc3362fb79429fa8b9d7e6fcbfd7be92afece7ed65ac4716800500cad04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d921be100f7b7b9f60e00181ee4283f52052712b75e2a7f9add3554ac91efa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,49 +66,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjunto de Gabinete
-- Função Pública
-- Reestruturação de Serviços
-- Património
-- Pessoal Dirigente
+- Administração Pública
+- Administração Regional
+- Alteração Climática
 - Chefe de Gabinete
-- Saneamento Básico
-- Ordenamento do Território
-- Gestão Financeira
 - Comunicação Social
-- Governo Regional
-- Recursos Hídricos
+- Conselho Diretivo
+- Conselho do Governo Regional
 - Definição de Competências
 - Desenvolvimento Regional
+- Direção Regional do Ambiente e Alterações Climáticas
 - Direcção Regional do Ordenamento do Território
 - Direcção Regional do Ordenamento do Território e Ambiente
-- Gestão Administrativa
-- Administração Pública
-- Recursos Geológicos
+- Função Pública
+- Funcionário Público
 - Gestão
-- Conselho do Governo Regional
-- Conselho Diretivo
-- Integração de Trabalhadores
+- Gestão Administrativa
 - Gestão de Material
-- Orgânica
-- Pessoal de Gabinete
-- Política do Ambiente
-- Urbanismo
-- Presidente
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Governo Regional
+- Instituto das Florestas e Conservação da Natureza
+- Integração de Trabalhadores
 - Madeira.região Autónoma
+- Ordenamento do Território
+- Orgânica
+- Património
+- Pessoal de Gabinete
+- Pessoal Dirigente
+- PIDDAR
+- Política do Ambiente
+- Presidente
+- Recursos Geológicos
+- Recursos Hídricos
 - Recursos Naturais
 - Reestruturação de Carreiras
+- Reestruturação de Serviços
 - Regime de Pessoal
-- Alteração Climática
-- Secretário Regional
-- Funcionário Público
-- Administração Regional
-- Gestão de Recursos Humanos
-- Transferência de Competências
-- Vogal
-- PIDDAR
-- Instituto das Florestas e Conservação da Natureza
+- Saneamento Básico
 - Secretaria Regional do Ambiente Recursos Naturais e Alterações Climáticas
-- Direção Regional do Ambiente e Alterações Climáticas
+- Secretário Regional
+- Transferência de Competências
+- Urbanismo
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:848804210:por
@@ -154,16 +154,154 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105643550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114344783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114513613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126318034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74240288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74443081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:848804210:por
+  label: Revogado, a partir de 15 de fevereiro de 2024, pelo(a) Decreto Regulamentar Regional n.º 9/2024/M - Diário da República
+    n.º 32/2024, Série I de 2024-02-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2024-848804210
+  date: '2024-02-14'
 article_structure:
   article_count: 24
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:30Z'
   warnings: []
   errors: []
 ---
@@ -496,11 +634,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 21 de novembro de 2019.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 13 de dezembro de 2019.**
+Assinado em 13 de dezembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -508,16 +646,18 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/01000/0002500035.pdf))](https://files.diariodarepublica.pt/1s/2020/01/01000/0002500035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/01000/0002500035.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 15.º)
 
 Cargos de direção superior da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/01000/0002500035.pdf))](https://files.diariodarepublica.pt/1s/2020/01/01000/0002500035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/01000/0002500035.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 15.º)
 
 Dotação de lugares de cargos de direção intermédia de 1.º grau dependentes do Gabinete do Secretário Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/01000/0002500035.pdf))](https://files.diariodarepublica.pt/1s/2020/01/01000/0002500035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/01000/0002500035.pdf)
+
+112909654

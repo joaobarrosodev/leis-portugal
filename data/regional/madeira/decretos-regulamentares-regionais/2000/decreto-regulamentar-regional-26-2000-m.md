@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/26/2000/04/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2000-505390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acacaf553ab7a4ccfbabfbab851e629b2890e76777d1d0593304fa8cb922e597
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a44bc5ee83359900691f0bff05d429b1b99ebcd680d012b17d2d42251c7f55e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Definição de Competências
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 - Secretaria Regional da Economia e Cooperação Externa
@@ -102,16 +102,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/4/1999/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/4/1999/01/02/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491914:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:348305:por
+  label: "Revogado, á excepção da parte referente aos diversos órgãos e serviços não regulamentados pelo DRR 5/2001/M, 01-Mar\
+    \ que se mantém em vigor até à data da entrada em vigor dos diplomas que aprovarão as respectivas orgânicas, pelo DRR.5/2001/M.2001.03.01.PG-RAM\
+    \ DR.IS-B [71] DE 24/MAR/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2001-348305
+  date: '2001-03-01'
 article_structure:
-  article_count: 11
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:33Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +183,9 @@ c) ...
 
 d) Departamento dos Serviços Administrativos.
 
-###### Artigo 9.º — Atribuições
+Artigo 9.º
+
+Atribuições
 
 1 - ...
 
@@ -184,7 +217,9 @@ d) Instruir processos que permitam verificar e controlar o processamento das des
 
 e) Exercer as demais funções que lhe sejam superiormente determinadas.
 
-###### Artigo 12.º — Serviços do Gabinete de Planeamento e Controlo de Gestão
+Artigo 12.º
+
+Serviços do Gabinete de Planeamento e Controlo de Gestão
 
 1 - O GPCG compreende os seguintes serviços:
 
@@ -198,7 +233,9 @@ d) ...
 
 e) Secção Administrativa dos Serviços de Apoio ao Gabinete Regional e Património.
 
-###### Artigo 13.º — Competências dos serviços do Gabinete de Planeamento e Controlo de Gestão
+Artigo 13.º
+
+Competências dos serviços do Gabinete de Planeamento e Controlo de Gestão
 
 1 - ...
 
@@ -224,7 +261,9 @@ Ao anexo do [Decreto Regulamentar Regional n.º 4-A/97/M](https://diariodarepubl
 
 Departamento dos Serviços Administrativos
 
-###### Artigo 13.º-A — Natureza e estrutura
+Artigo 13.º-A
+
+Natureza e estrutura
 
 1 - O Departamento dos Serviços Administrativos, abreviadamente designado por DSA, é o serviço de apoio administrativo e logístico do Gabinete do Secretário Regional e serviços de apoio e funciona na directa dependência do chefe de gabinete.
 
@@ -234,7 +273,9 @@ a) Secção de Secretariado Administrativo;
 
 b) Secção de Expediente e Arquivo.
 
-###### Artigo 13.º-B — Competências
+Artigo 13.º-B
+
+Competências
 
 Ao DSA compete:
 
@@ -248,7 +289,9 @@ d) Velar pela segurança e conservação das instalações e dos equipamentos;
 
 e) Superintender o pessoal auxiliar e coordenar o respectivo trabalho.
 
-###### Artigo 13.º-C — Chefes de departamento
+Artigo 13.º-C
+
+Chefes de departamento
 
 1 - São criados no mapa III anexo à [Portaria n.º 4/99](https://diariodarepublica.pt/dr/detalhe/portaria/4-1999-491914), de 12 de Janeiro, rectificada pela declaração inserta no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 29, suplemento, de 16 de Março de 1999, três lugares de chefe de departamento, a extinguir quando vagarem.
 
@@ -274,8 +317,8 @@ Aprovado em Conselho do Governo Regional em 24 de Fevereiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 14 de Março de 2000.**
+Assinado em 14 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

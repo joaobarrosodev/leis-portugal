@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/19/2012/03/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/19-2012-553934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dfbbb0850dddbb467c5fdf7e75c1645e9f9561331bc617898d7366a107554bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93b3a3be7b24665af1875ccaa4c28fbd31efaae299fee78683cf28876956e2ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Beneficiário
-- Titulo de Transporte
-- Transporte Aéreo
 - Estudante
 - Madeira.região Autónoma
 - Subsídio de Apoio Social
 - Tarifa Aérea
+- Titulo de Transporte
+- Transporte Aéreo
 - Transporte de Passageiros
 relationships:
 - type: cites
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2008/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2008/08/27/p/dre
+- type: cites
+  target: pt:dre:249844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:38Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +188,9 @@ e) ...
 
 f) ...
 
-###### Artigo 4.º — Subsídio
+Artigo 4.º
+
+Subsídio
 
 1 - O subsídio a atribuir ao beneficiário reporta-se ao pagamento e utilização efetiva dos títulos de transporte por este, assumindo a modalidade de pagamento de um valor fixo, sem prejuízo do subsídio complementar.
 
@@ -180,7 +206,9 @@ b) Aos beneficiários abrangidos pelo presente diploma, que tenham necessidade d
 
 5 - Para efeitos do número anterior, os beneficiários que realizem as deslocações aéreas com início e ou fim no Porto Santo beneficiam em condições de igualdade dos apoios previstos, considerando-se o somatório das tarifas aéreas.
 
-###### Artigo 7.º — Documento comprovativo da elegibilidade
+Artigo 7.º
+
+Documento comprovativo da elegibilidade
 
 1 - ...
 
@@ -204,4 +232,4 @@ A presente lei entra em vigor com a publicação do Orçamento do Estado para 20
 
 Aprovada em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 1 de março de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/283b00/86528663.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/1999/12/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1999-631259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8282833cc49f92c2077bd7324d26daa5bc0595c2db825b45e798628cd32bd8d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3c316cdc892ee1a8636fe4ccb6becef514073f3dd437313dafca69ad0d585a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ILHA de Porto Santo
-- Governo Regional
-- Presidência do Governo Regional
-- Secretaria Geral
 - Delegação do Governo Regional
-- Orgânica
+- Governo Regional
+- ILHA de Porto Santo
 - Madeira.região Autónoma
+- Orgânica
+- Presidência do Governo Regional
 - Quadro de Pessoal
+- Secretaria Geral
 - Secretário Geral
 relationships:
 - type: amended_by
   target: pt:dre:346721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276010:por
+  label: "Aditados os arts 11º-A, 11º-B e 30º-A à orgânica aprovada pelo DRR 5/97/M de 17-Mar, assim como é alterado o quadro\
+    \ de pessoal constante do mesmo diploma, com as alterações introduzidas pelo presente, pelo DRR.31/2000/M.2000.04.18.PG-RAM\
+    \ DR.IS-B [107] de 09/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2000-276010
+  date: '2000-04-18'
+- type: amended_by
+  target: pt:dre:492181:por
+  label: "Alterados os arts. 11º-A, e o art. 12º e revogado o art. 11º-B da orgânica da Presidência do Governo Regional e\
+    \ alterado o respectivo quadro de pessoal, ambos aprovados pelo DRR 5/97/M de 17-Mar, com a redacção do presente diploma,\
+    \ pelo DRR.32/2005/M.25.11.2005.PG-RAM, DR.IS-B [236] de 12.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-2005-492181
+  date: '2005-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -115,16 +129,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/401/1993/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/401/1993/04/14/p/dre
+- type: cites
+  target: pt:dre:165637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689659:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:348305:por
+  label: "Revogada a al. c) do art. 1.º e os arts. 20.º a 29.º do DRR 5/97/M, de 25-Fev, republicando-o em anexo ao presente\
+    \ diploma, pelo DRR.5/2001/M.2001.03.01.PG-RAM DR.IS-B [71] DE 24/MAR/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2001-348305
+  date: '2001-03-01'
+- type: repealed_by
+  target: pt:dre:346721:por
+  label: "Revogado pelo DRR.6/2006/M.24.05.2006.PG-RAM, DR.IS-B [113] de 12.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2006-346721
+  date: '2006-05-24'
 article_structure:
-  article_count: 58
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 42
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:23Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +224,9 @@ Secretário-geral
 
 5 - O cargo de secretário-geral será exercido pelo chefe do Gabinete do Presidente, que, uma vez provido o titular, o substituirá transitoriamente nas suas faltas ou impedimentos, podendo delegar nestas circunstâncias em funcionário da carreira técnica superior de categoria não inferior a assessor ou em funcionário de categoria não inferior a chefe de departamento, devendo o acto de delegação especificar os serviços em relação aos quais os poderes são conferidos.
 
-###### Artigo 5.º — Estrutura
+Artigo 5.º
+
+Estrutura
 
 A Secretaria-Geral compreende os departamentos seguintes:
 
@@ -179,9 +242,13 @@ e) Departamento de Cadastro e Património;
 
 f) Departamento de Pessoal.
 
-##### DIVISÃO I — Departamento de Expediente
+DIVISÃO I
 
-###### Artigo 6.º — Competência
+Departamento de Expediente
+
+Artigo 6.º
+
+Competência
 
 Compete ao Departamento de Expediente:
 
@@ -197,9 +264,13 @@ e) ...
 
 f) ...
 
-##### DIVISÃO II — Departamento de Documentação e Arquivo
+DIVISÃO II
 
-###### Artigo 7.º — Competência
+Departamento de Documentação e Arquivo
+
+Artigo 7.º
+
+Competência
 
 Compete ao Departamento de Documentação e Arquivo:
 
@@ -215,9 +286,13 @@ e) ...
 
 f) Assegurar em geral o normal funcionamento da Presidência, em tudo o que não seja da competência específica dos demais serviços.
 
-##### DIVISÃO III — Departamento de Contabilidade
+DIVISÃO III
 
-###### Artigo 8.º — Competência
+Departamento de Contabilidade
+
+Artigo 8.º
+
+Competência
 
 Compete ao Departamento de Contabilidade:
 
@@ -241,9 +316,13 @@ i) ...
 
 j) ...
 
-##### DIVISÃO IV — Departamento do Jornal Oficial
+DIVISÃO IV
 
-###### Artigo 9.º — Competência
+Departamento do Jornal Oficial
+
+Artigo 9.º
+
+Competência
 
 Na dependência directa da Secretaria-Geral funciona, sob a responsabilidade de um técnico superior, o Departamento do Jornal Oficial, ao qual compete:
 
@@ -255,7 +334,9 @@ c) ...
 
 d) ...
 
-###### Artigo 10.º — Quadro
+Artigo 10.º
+
+Quadro
 
 1 - ...
 
@@ -273,7 +354,9 @@ e) Pessoal auxiliar.
 
 3 - ...
 
-###### Artigo 12.º — Admissão e promoção
+Artigo 12.º
+
+Admissão e promoção
 
 1 - ...
 
@@ -297,11 +380,15 @@ b) O recrutamento para acesso para a categoria de ornamentista principal far-se-
 
 10 - ...
 
-###### Artigo 13.º — Exercício temporário de funções
+Artigo 13.º
+
+Exercício temporário de funções
 
 Os funcionários poderão exercer, temporariamente, funções em regime de comissão de serviço, destacamento, requisição ou substituição.
 
-###### Artigo 18.º — Comissões de estudo e prestação de serviços
+Artigo 18.º
+
+Comissões de estudo e prestação de serviços
 
 1 - ...
 
@@ -313,9 +400,13 @@ b) A admissão de pessoal, nos termos da legislação em vigor, assim como o con
 
 3 - ...
 
-#### SECÇÃO II — Assessoria Jurídica
+SECÇÃO II
 
-###### Artigo 19.º — Funcionamento e competência
+Assessoria Jurídica
+
+Artigo 19.º
+
+Funcionamento e competência
 
 Na dependência directa do Presidente do Governo Regional funciona a Assessoria Jurídica, que integra os sectores de contencioso, apoio jurídico e notariado, aos quais compete:
 
@@ -327,7 +418,9 @@ c) ...
 
 d) ...
 
-###### Artigo 22.º — Competência
+Artigo 22.º
+
+Competência
 
 ...
 
@@ -351,7 +444,9 @@ i) ...
 
 j) ...
 
-###### Artigo 28.º — Quadro
+Artigo 28.º
+
+Quadro
 
 1 - ...
 
@@ -367,7 +462,9 @@ e) Pessoal operário.
 
 2 - ...
 
-###### Artigo 29.º — Admissão e promoção
+Artigo 29.º
+
+Admissão e promoção
 
 1 - ...
 
@@ -381,7 +478,9 @@ Inseridos na secção I, são aditados os artigos 9.º-A, divisão V, e 9.º-B, 
 
 Departamento de Cadastro e Património
 
-###### Artigo 9.º-A — Competência
+Artigo 9.º-A
+
+Competência
 
 Compete ao Departamento de Cadastro e Património:
 
@@ -397,9 +496,13 @@ e) Elaborar o registo diário dos automóveis afectos a todos os serviços da Pr
 
 f) Praticar e assegurar tudo o que de mais se torne legalmente necessário para a prossecução dos seus fins.
 
-##### DIVISÃO VI — Departamento de Pessoal
+DIVISÃO VI
 
-###### Artigo 9.º-B — Competência
+Departamento de Pessoal
+
+Artigo 9.º-B
+
+Competência
 
 Compete ao Departamento de Pessoal:
 
@@ -433,7 +536,9 @@ Inserido no capítulo II, «Disposições finais», é aditado o artigo 30.º, c
 
 Disposições finais
 
-###### Artigo 30.º — Regras de transição dos chefes de repartição
+Artigo 30.º
+
+Regras de transição dos chefes de repartição
 
 1 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.
 
@@ -459,11 +564,11 @@ Aprovado em Conselho do Governo Regional em 26 de Outubro de 1999.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 16 de Novembro de 1999.**
+Assinado em 16 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — [Decreto Regulamentar Regional n.º 5/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1997-517386)
 
@@ -739,7 +844,7 @@ O tempo de serviço prestado na Secretaria-Geral, nos termos dos artigos 11.º, 
 
 ###### Artigo 17.º — Aproveitamento subsidiário do pessoal
 
-**O secretário-geral poderá determinar, quando os trabalhos o aconselhem ou o imponham, que o pessoal atribuído a cada serviço preste a qualquer dos outros a colaboração tida por conveniente.**
+O secretário-geral poderá determinar, quando os trabalhos o aconselhem ou o imponham, que o pessoal atribuído a cada serviço preste a qualquer dos outros a colaboração tida por conveniente.
 
 ###### Artigo 18.º — Comissões de estudo e prestação de serviços
 
@@ -879,10 +984,10 @@ MAPA I
 
 Quadro do pessoal a que se refere o artigo 10.º, n.º 2, do presente diploma
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86528663.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86528663.pdf)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86528663.pdf)
 
 MAPA II
 
 Quadro de pessoal a que se refere o artigo 28.º, n.º 2, do presente diploma
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86528663.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86528663.pdf)](https://files.diariodarepublica.pt/1s/1999/12/283b00/86528663.pdf)

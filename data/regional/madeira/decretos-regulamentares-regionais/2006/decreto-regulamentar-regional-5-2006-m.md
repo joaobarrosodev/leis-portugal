@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2006/06/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2006-346373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1436009f607308bf587b148e1e268424393d966acc66c2e9bee4960953f955e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72b3c1d1a54cb231330e1cd4f2a8e1e2c9d9eb1d48a7ae15b32e040874a527a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,30 @@ reuse:
 subjects:
 - Cartório Notarial
 - Centro de Formalidades de Empresas
-- Formação Profissional
-- Gestão Financeira
-- Governo Regional
 - Conservador
 - Conservatória do Registo Automóvel
+- Conservatória do Registo Civil
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
 - Definição de Competências
 - Direcção Regional da Administração da Justiça
 - Diretor Regional
-- Registo Automóvel
-- Registos e Notariado
-- Recrutamento de Pessoal
+- Formação Profissional
+- Gestão Financeira
+- Governo Regional
+- Madeira.região Autónoma
+- Mobilidade de Pessoal
 - Notário
 - Orgânica
-- Zona Tributária Privilegiada
-- Madeira.região Autónoma
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Registo Automóvel
 - Registo Civil
-- Registo Predial
-- Mobilidade de Pessoal
-- Conservatória do Registo Civil
-- Subdirector Regional
 - Registo Comercial
+- Registo Predial
+- Registos e Notariado
+- Subdirector Regional
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:179348:por
@@ -136,16 +136,91 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/56-a/2002
   label: null
   source: http://data.dre.pt/eli/port/56-a/2002
+- type: cites
+  target: pt:dre:150328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584775:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179348:por
+  label: "Revoga o DRR 4/2004/M, de 20-fev, na redacção do presente diploma, pelo DRR.17/2012/M.26.07.2012.PG-RAM, DR.IS [144]\
+    \ de 26.07.2012, que mantém em vigor a atual estrutura orgânica interna da DRAJ, bem como o mapa de pessoal, nos termos\
+    \ do n.º 2 do art. 2.º. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2012-179348
+  date: '2012-07-26'
 article_structure:
-  article_count: 44
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 38
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:20Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +253,9 @@ A orgânica da Direcção Regional da Administração da Justiça (DRAJ), aprova
 
 A DRAJ é o órgão do Governo Regional, dependente da Vice-Presidência do Governo Regional, dotado de autonomia administrativa, ao qual cabe a direcção, orientação e coordenação dos serviços dos registos civil, predial, comercial e de automóveis, da Divisão do Jornal Oficial e do notariado da Região Autónoma da Madeira.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +287,9 @@ l) Assegurar o exercício das funções de notário privativo do Governo Regiona
 
 4 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -252,7 +331,9 @@ d) ...
 
 e) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -278,13 +359,17 @@ b) ...
 
 Serviços de apoio interdepartamental
 
-###### Artigo 9.º-A — Gabinete do cartório notarial privativo
+Artigo 9.º-A
+
+Gabinete do cartório notarial privativo
 
 1 - Na dependência directa do director regional da Administração da Justiça funciona o gabinete do cartório notarial privativo do Governo Regional, ao qual compete o exercício das funções de notário privativo do Governo Regional, independentemente da faculdade de recorrer aos notários, públicos ou privados, nos actos e contratos em que a Região tiver interesse e o Governo Regional for outorgante.
 
 2 - Nas faltas ou impedimentos do pessoal técnico superior integrado no gabinete compete ao director regional da Administração da Justiça o exercício das funções notariais referidas no número anterior, competência que poderá delegar, mediante despacho, em funcionário de reconhecida competência.
 
-###### Artigo 9.º-B — Divisão do Jornal Oficial da Região
+Artigo 9.º-B
+
+Divisão do Jornal Oficial da Região
 
 Na dependência directa do director regional da Administração da Justiça funciona, sob a direcção de um chefe de divisão, cargo de direcção intermédia do 2.º grau, a Divisão do Jornal Oficial da Região Autónoma da Madeira, à qual compete:
 
@@ -306,7 +391,9 @@ Coordenador de impressão
 
 2 - O programa das provas referido no número anterior será aprovado através de despacho do Vice-Presidente do Governo Regional, mantendo-se transitoriamente em vigor o despacho conjunto da Presidência e Vice-Presidência do Governo Regional, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 17, de 24 de Janeiro de 2006.
 
-###### Artigo 17.º-B — Carreira de coordenador
+Artigo 17.º-B
+
+Carreira de coordenador
 
 1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.
 
@@ -344,15 +431,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 3 de Maio de 2006.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 23 de Maio de 2006.**
+Assinado em 23 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/112b00/41284137.pdf))](https://files.diariodarepublica.pt/1s/2006/06/112b00/41284137.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/112b00/41284137.pdf)
 
 ## ANEXO II — (a que se refere o artigo 6.º do presente diploma)
 
@@ -526,7 +613,9 @@ g) Exercer as funções que lhe sejam solicitadas pelo director regional em mat�
 
 2 - Nas faltas ou impedimentos do pessoal técnico superior integrado no gabinete, compete ao director regional da Administração da Justiça o exercício das funções notariais referidas no número anterior, competência que poderá delegar, mediante despacho, em funcionário de reconhecida competência.
 
-###### Artigo 9.º-B — Divisão do Jornal Oficial da Região
+###### Artigo 9.º-B
+
+##### Divisão do Jornal Oficial da Região
 
 Na dependência directa do director regional da Administração da Justiça funciona, sob a direcção de um chefe de divisão, cargo de direcção intermédia do 2.º grau, a Divisão do Jornal Oficial da Região Autónoma da Madeira, à qual compete:
 
@@ -806,4 +895,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 17.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/112b00/41284137.pdf))](https://files.diariodarepublica.pt/1s/2006/06/112b00/41284137.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/112b00/41284137.pdf)

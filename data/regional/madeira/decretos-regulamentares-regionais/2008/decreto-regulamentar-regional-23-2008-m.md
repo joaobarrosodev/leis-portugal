@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2008/12/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8d126a25d9630cb681df0f5f011f3bbfa8194a42004573943056f8b11c19080
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0a82fb073e8b2cbbafe52dd6c704026faca506ec4f74bc5b9f6fae5679f830a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Administração Regional
 - Definição de Competências
 - Direcção Regional da Administração Pública
-- Vice-presidência do Governo Regional
-- Orgânica
-- Porto Santo
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Porto Santo
 - Quadro de Pessoal
 - Regime de Pessoal
-- Administração Regional
+- Vice-presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:190274:por
@@ -120,16 +120,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:218312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660321:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:190274:por
+  label: "Revogado pelo DRR.38/2012/M.27.12.2012.PG-RAM, DR.IS [250] de 27.12.2012 e mantida em vigor a estrutura de organização\
+    \ interna nos termos do art. 2º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/38-2012-190274
+  date: '2012-12-27'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:29Z'
   warnings: []
   errors: []
 ---
@@ -162,11 +208,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 13 de Novembro de 2008.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 5 de Dezembro de 2008.**
+Assinado em 5 de Dezembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -260,4 +306,4 @@ MAPA
 
 Quadros dirigentes a que se refere o artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24100/0879108793.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24100/0879108793.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24100/0879108793.pdf)

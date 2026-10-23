@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/1995/05/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1995-529438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cfaad3d4d5c753f86ec133ae88bf6986adbe6773c2912541a4e435b2f8f598b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6af0a36c9599ba52097510338cda6d2fd0bddd958758da9828b99df380553e8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento de Explorações Agrícolas
-- Ajuda Comunitária
 - Agrupamento de Produtores
-- Financiamento
+- Ajuda Comunitária
 - CEE
 - Definição de Competências
 - Direcção Regional de Agricultura
 - Direito de Associação
-- Fruto
-- Mercado Agrícola
 - Exploração Agrícola
-- Política Agrícola Comum
-- Produto Hortícola
+- Financiamento
+- Fruto
 - Madeira.região Autónoma
-- Produção Agrícola
-- Regulamento CE
+- Mercado Agrícola
 - Pecuária
+- Política Agrícola Comum
+- Produção Agrícola
+- Produto Hortícola
+- Regulamento CE
 - Secretário Regional da Agricultura Florestas e Pescas
 relationships:
 - type: cites
@@ -98,15 +98,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1990/2602/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:54Z'
   warnings: []
   errors: []
 ---
@@ -123,11 +123,11 @@ Tratando-se de matéria cujo poder regulamentar não se encontra reservado aos �
 
 O Governo Regional da Madeira, ao abrigo das disposições combinadas do artigo 9.º, n.º 1, do Decreto-Lei n.º 49/95, de 15 de Março, e do artigo 49.º, alínea d), na sua segunda parte, e da Lei n.º 13/91, de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º Na Região Autónoma da Madeira, o despacho de reconhecimento a que se reporta o artigo 3.º do Decreto-Lei n.º 49/95, de 15 de Março, é da competência do Secretário Regional de Agricultura, Florestas e Pescas.
+Artigo 1.º Na Região Autónoma da Madeira, o despacho de reconhecimento a que se reporta o artigo 3.º do Decreto-Lei n.º 49/95, de 15 de Março, é da competência do Secretário Regional de Agricultura, Florestas e Pescas.
 
-###### Art. 2.º O pedido de reconhecimento bem como os respectivos documentos a que se refere o artigo 5.º do Decreto-Lei n.º 49/95, de 15 de Março, serão, na Região Autónoma da Madeira, dirigidos ao director regional de Agricultura e apresentados junto à respectiva Direcção Regional de Agricultura.
+Art. 2.º O pedido de reconhecimento bem como os respectivos documentos a que se refere o artigo 5.º do Decreto-Lei n.º 49/95, de 15 de Março, serão, na Região Autónoma da Madeira, dirigidos ao director regional de Agricultura e apresentados junto à respectiva Direcção Regional de Agricultura.
 
-###### Art. 3.º Sem prejuízo do modelo a que se refere o artigo 6.º do Decreto-Lei n.º 49/95, de 15 de Março, a tramitação do pedido de reconhecimento, na Região Autónoma da Madeira, a que se reporta o referido artigo far-se-á nos seguintes termos:
+Art. 3.º Sem prejuízo do modelo a que se refere o artigo 6.º do Decreto-Lei n.º 49/95, de 15 de Março, a tramitação do pedido de reconhecimento, na Região Autónoma da Madeira, a que se reporta o referido artigo far-se-á nos seguintes termos:
 
 a) O director regional de Agricultura definirá o serviço integrado organicamente na Direcção Regional de Agricultura competente para a emissão do parecer informativo a que se refere a alínea a) do artigo 6.º do Decreto-Lei n.º 49/95, de 15 de Março, que, nos termos daquela mesma alínea, deverá analisar, da observância dos requisitos exigidos e dos elementos de instrução processual;
 
@@ -135,18 +135,18 @@ b) O serviço a que se refere a alínea anterior submeterá, nos termos da alín
 
 c) As competências a que se referem as alíneas d) e e) do mesmo artigo 6.º do decreto-lei citado serão exercidas igualmente, na Região Autónoma da Madeira, pela Direcção Regional de Agricultura.
 
-###### Art. 4.º As competências para a recepção das informações, a que se refere a alínea a) do artigo 7.º, e para a elaboração dos relatórios, a que se refere a alínea b) do mesmo artigo 7.º e o n.º 2 do artigo 9.º do Decreto-Lei n.º 49/95, de 15 de Março, serão exercidas, na Região Autónoma da Madeira, pela Direcção Regional de Agricultura.
+Art. 4.º As competências para a recepção das informações, a que se refere a alínea a) do artigo 7.º, e para a elaboração dos relatórios, a que se refere a alínea b) do mesmo artigo 7.º e o n.º 2 do artigo 9.º do Decreto-Lei n.º 49/95, de 15 de Março, serão exercidas, na Região Autónoma da Madeira, pela Direcção Regional de Agricultura.
 
-###### Art. 5.º Serão igualmente exercidas pela Direcção Regional de Agricultura, nesta Região Autónoma, as competências consagradas no artigo 8.º do Decreto-Lei n.º 49/95, de 15 de Março.
+Art. 5.º Serão igualmente exercidas pela Direcção Regional de Agricultura, nesta Região Autónoma, as competências consagradas no artigo 8.º do Decreto-Lei n.º 49/95, de 15 de Março.
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 20 de Abril de 1995.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Maio de 1995.**
+Assinado em 2 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

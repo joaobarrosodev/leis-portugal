@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/03700/0057500577.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/7/2016/02/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/7-2016-73677888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ce3ce6b1f07688cf5c67b595737e22bff675cbea8ebae8d24e24cad913f53ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 294770c19bc06f87872548d98341f4d26fba324ba5e9bc164d7e48ff9fd6ed34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
+- Assembleia da República
 - BENS Imóveis
 - Código de Procedimento e de Processo Tributário
 - Código do Processo Civil
-- Execução Fiscal
-- Assembleia da República
-- Processo Tributário
-- Madeira.região Autónoma
 - Diploma Legal
+- Execução Fiscal
 - Execução por Dívidas
+- Família
 - Habitação
+- Madeira.região Autónoma
 - Processo de Execução
+- Processo Tributário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/433/1999/10/26/p/dre
@@ -107,16 +107,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70152049:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:25Z'
   warnings: []
   errors: []
 ---
@@ -195,13 +223,17 @@ Os artigos 219.º, 220.º e 231.º do Código de Procedimento e de Processo Trib
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 220.º — [...]
+Artigo 220.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Excetua-se o imóvel que constitua a casa de morada de família do executado e do cônjuge ou com quem viva em condições análogas à dos cônjuges.
 
-###### Artigo 231.º — Formalidades de penhora de imóveis
+Artigo 231.º
+
+Formalidades de penhora de imóveis
 
 1 - ...
 
@@ -233,4 +265,4 @@ A presente lei entra em vigor imediatamente após a publicação do Orçamento d
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de janeiro de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.

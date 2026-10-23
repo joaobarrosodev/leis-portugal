@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11700/23212324.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-571474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aed658c6cc5569b2d3d9ee641537e28f56477fd8e44d093fc54b49d09490c41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3c0ee1fab987db85539a119077c2287df39c37c2bdded88675c34586db57903
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo Regional de Intervenção e Garantia Agrícola
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:693854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:550818:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:693854:por
+  label: "Revogado o presente diploma e extinto o Fundo Regional de Intervenção e Garantia Agrícola (FRIGA), pelo DLR.4/2006/M.14.02.2006.AL-RAM,\
+    \ DR.IS-A [41] de 27.02.2006, determinando que após a sua extinção, as suas competências, direitos e obrigações passem\
+    \ a ser assegurados pela Direcção Regional de Agricultura e Desenvolvimento Rural, determinado ainda, que os funcionários\
+    \ do quadro de pessoal do FRIGA transitem para o quadro de pessoal do Gabinete do Secretário Regional do Ambiente e dos\
+    \ Recursos Naturais cuja orgânica foi aprovada pelo DRR 23/2005/M de 16-Mar\0r\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-2006-693854
+  date: '2006-02-14'
 article_structure:
-  article_count: 14
+  article_count: 15
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:17Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +113,9 @@ Nestes termos:
 
 O Governo Regional, ao abrigo do artigo 12.º do [Decreto Legislativo Regional n.º 25/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1989-550818), de 30 de Novembro, e da primeira parte da alínea d) do n.º 1 do artigo 229.º da Constituição, decreta o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Legislação aplicável
 
@@ -294,14 +313,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho de Governo em 29 de Março de 1990.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Abril de 1990.**
+Assinado em 20 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Mapa anexo a que se refere o artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11700/23212324.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11700/23212324.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11700/23212324.pdf)

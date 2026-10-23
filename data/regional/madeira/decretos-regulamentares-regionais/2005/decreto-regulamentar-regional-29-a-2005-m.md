@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 167/2005, 1º Suplemento, Série I-B de 2005-08-31
   number: '167'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5302-(2) a 5302-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/167b01/00020017.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/29-a/2005/08/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-a-2005-692577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6181b6815cbd6d325a45462a2306ff7917eb2b999d8c8a8771e9bc0d9c29225
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 890ea87a61f5d9f5726713a2df2cf7c9736e97de3b263ab9fdf6c9550e4d3fe7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,131 @@ subjects:
 - Administração Fiscal
 - Apoio Administrativo
 - Apoio Técnico
-- Pessoal Dirigente
 - Definição de Competências
-- Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
-- Gestão Administrativa
-- Remuneração Acessória
-- Integração de Trabalhadores
 - Direcção de Finanças da Região Autónoma da Madeira
-- Orgânica
+- Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
+- Direcção Regional dos Assuntos Fiscais
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Remuneração
-- Direcção Regional dos Assuntos Fiscais
+- Remuneração Acessória
 - Serviço de Finanças
-- Gestão de Recursos Humanos
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:993031451:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:537579:por
+  label: "Alterados os arts. 3º, 10º e 50º e criada uma subsecção IV, composta pelos novos arts. 24º-A e 24º-B que são aditados\
+    \ à orgânica aprovada no presente diploma, pelo DLR.28/2006/M.30.06.2006.AL-RAM, DR.IS [138] de 19.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2006-537579
+  date: '2006-06-30'
+- type: amended_by
+  target: pt:dre:485631:por
+  label: "Mantido em vigor, até à revisão dos suplementos remuneratórios a que se refere o art. 112º da Lei 12-A/2008, de\
+    \ 27-Fev, o suplemento de integração na RAM atribuído aos trabalhadores da Direcção Regional dos Assuntos Fiscais, ao\
+    \ abrigo do art. 44º bem como o suplemento de produtividade atribuído aos trabalhadores da mesma Direcção Regional, ao\
+    \ abrigo dos art.s 45.º e seguintes (conjugado com os art. 34º e seguintes do DLR 28/2006/M, de 19-Jul, revisto pelo DLR\
+    \ 29/2009/M, de 04-Dez), pelo DLR.2/2011/M.10.01.2011.AL-RAM, DR.IS [6] de 10.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2011-485631
+  date: '2011-01-10'
+- type: amended_by
+  target: pt:dre:66012654:por
+  label: Mantido em vigor o suplemento de integração na RAM, atribuído aos trabalhadores da Direção Regional dos Assuntos
+    Fiscais ao abrigo do art. 44.º do presente diploma pelo(a) Decreto Legislativo Regional n.º 18/2014/M - Diário da República
+    n.º 252/2014, Série I de 2014-12-31, nos termos do disposto no n.º 1 do art. 47.º daquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2014-66012654
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:70055496:por
+  label: Mantidos transitoriamente em vigor os arts. 34.º a 36.º pelo(a) Decreto Regulamentar Regional n.º 14/2015/M - Diário
+    da República n.º 161/2015, Série I de 2015-08-19, até à entrada em vigor da portaria a que se refere o art. 17.º daquele
+    diploma; que igualmente manteve em vigor os arts. 39.º, 44.º, 50.º e 52.º do presente diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2015-70055496
+  date: '2015-08-19'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Mantido em vigor, com efeitos desde 01.01.2017, o suplemento de integração na Região Autónoma da Madeira atribuído
+    aos trabalhadores da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira ao abrigo do art. 44.º (mantido
+    em vigor pelo art. 20.º do DRR 14/2015/M de 19-ago) do presente diploma, pelo(a) Decreto Legislativo Regional n.º 42-A/2016/M
+    - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30 nos termos do n.º 1 do seu art. 46.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Mantido em vigor, com efeitos desde 01.01.2018, o suplemento de integração na Região Autónoma da Madeira atribuído
+    aos trabalhadores da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira ao abrigo do art. 44.º (mantido
+    em vigor pelo art. 20.º do DRR 14/2015/M de 19-ago) do presente diploma, pelo(a) Decreto Legislativo Regional n.º 2/2018/M
+    - Diário da República n.º 6/2018, Série I de 2018-01-09 nos termos do n.º 1 do seu art. 44.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Mantido em vigor, com efeitos a 01.01.2019, o suplemento de integração na Região Autónoma da Madeira atribuído aos
+    trabalhadores da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira ao abrigo do art. 44.º do presente
+    diploma, mantido em vigor pelo art. 20.º do DRR 14/2015/M de 19-ago, pelo(a) Decreto Legislativo Regional n.º 26/2018/M
+    - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Mantido em vigor, com efeitos desde 01.01.2020, o suplemento de integração na Região Autónoma da Madeira, atribuído
+    aos trabalhadores da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, ao abrigo do art. 44.º (mantido
+    em vigor ao abrigo do art. 20.º do DRR 14/2015/M de 19-ago) do presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
+- type: amended_by
+  target: pt:dre:152639812:por
+  label: Mantido em vigor, a partir de 01.01.2021, o suplemento de integração na Região Autónoma da Madeira atribuído aos
+    trabalhadores da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira ao abrigo do art. 44.º (mantido
+    em vigor pelo art. 20.º do DRR 14/2015/M de 19-ago) do presente diploma, pelo(a) Decreto Legislativo Regional n.º 18/2020/M
+    - Diário da República n.º 253/2020, Série I de 2020-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2020-152639812
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:176800365:por
+  label: Mantido em vigor, a partir de 31.12.2021, com efeitos a 01.01.2022, o suplemento de integração na Região Autónoma
+    da Madeira atribuído aos trabalhadores da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira ao abrigo
+    do art. 44.º (mantido em vigor pelo art. 20.º do DRR 14/2015/M de 19-ago) do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 28-A/2021/M - Diário da República n.º 252/2021, 1º Suplemento, Série I de 2021-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-a-2021-176800365
+  date: '2021-12-30'
+- type: amended_by
+  target: pt:dre:205450899:por
+  label: Mantido em vigor, a partir de 30.12.2022 e com efeitos a 01.01.2023, o suplemento de integração na Região Autónoma
+    da Madeira, atribuído aos trabalhadores da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, ao
+    abrigo do art. 44.º (mantido em vigor pelo art. 20.º do DRR 14/2015/M de 19-ago) do presente diploma pelo(a) Decreto Legislativo
+    Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2022-205450899
+  date: '2022-12-29'
+- type: amended_by
+  target: pt:dre:873755644:por
+  label: Mantido em vigor, na administração pública regional, o suplemento de integração na Região Autónoma da Madeira, atribuído
+    aos trabalhadores da AT-RAM, ao abrigo do artigo 44.º do presente diploma, pelo(a) Decreto Legislativo Regional n.º 6/2024/M
+    - Diário da República n.º 145/2024, Série I de 2024-07-29, nos termos da sua alínea b) do n.º 1 do artigo 58.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2024-873755644
+  date: '2024-07-29'
+- type: amended_by
+  target: pt:dre:923290710:por
+  label: Mantido em vigor, o suplemento de integração, previsto no artigo 44.º, pelo(a) Decreto Legislativo Regional n.º 2/2025/M
+    - Diário da República n.º 125/2025, Série I de 2025-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2025-923290710
+  date: '2025-07-02'
+- type: amended_by
+  target: pt:dre:993031451:por
+  label: Mantido em vigor o suplemento de integração na Região Autónoma da Madeira, atribuído aos trabalhadores da Autoridade
+    Tributária e Assuntos Fiscais da Região Autónoma da Madeira, ao abrigo do artigo 44.º, pelo(a) Decreto Legislativo Regional
+    n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2025-993031451
+  date: '2025-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2005/01/18/p/dre
   label: null
@@ -128,16 +233,142 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/772/2002/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/772/2002/07/02/p/dre
+- type: cites
+  target: pt:dre:142714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673600:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:258293:por
+  label: "Revogado, com exceção dos art.s 39.º, 44.º, 50.º e 52.º, o DRR.2/2013/M.01.02.2013.PG-RAM, DR.IS [23] de 01.02.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2013-258293
+  date: '2013-02-01'
 article_structure:
   article_count: 57
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:15Z'
   warnings: []
   errors: []
 ---
@@ -194,13 +425,13 @@ Este diploma entra em vigor no dia 1 de Setembro de 2005.
 
 Aprovado em Conselho do Governo Regional em 11 de Agosto de 2005.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 23 de Agosto de 2005.**
+Assinado em 23 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Orgânica da Direcção Regional dos Assuntos Fiscais
 
@@ -708,7 +939,9 @@ c) A Secção de Expediente e Arquivo.
 
 2 - Os SAG são chefiados por um coordenador, aplicando-se a este o regime previsto no artigo 40.º do presente diploma.
 
-##### DIVISÃO I — Secção de Contabilidade
+##### DIVISÃO I
+
+#### Secção de Contabilidade
 
 ###### Artigo 28.º — Natureza e competências
 
@@ -726,7 +959,9 @@ e) Assegurar o expediente do contencioso estatístico relativamente às formalid
 
 f) Elaborar e disponibilizar mensalmente indicadores de gestão sobre a área administrativa e financeira.
 
-##### DIVISÃO II — Secção de Vencimentos
+##### DIVISÃO II
+
+#### Secção de Vencimentos
 
 ###### Artigo 29.º — Natureza e competências
 
@@ -742,7 +977,9 @@ d) Preparar a emissão de certidões que sejam solicitadas no âmbito de matéri
 
 e) Prestar informações de cabimento orçamental no âmbito de despesas a efectuar com o pessoal.
 
-##### DIVISÃO III — Secção de Expediente e Arquivo
+##### DIVISÃO III
+
+#### Secção de Expediente e Arquivo
 
 ###### Artigo 30.º — Natureza e competências
 

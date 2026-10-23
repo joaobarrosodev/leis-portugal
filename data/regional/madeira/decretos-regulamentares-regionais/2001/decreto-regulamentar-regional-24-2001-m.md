@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/2001/10/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2001-626384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ce478d63ac9ff119bd1377b4eb5bc5773baee2f9774dd842cd10f454a1f71ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6179bee0c25fa13cf81e360de204cd011356027421b6e568b078574f854b55f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,27 @@ reuse:
 subjects:
 - Definição de Competências
 - Gabinete do Secretário Regional de Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretário Regional da Educação
 - Secretário Regional de Educação
 - Transferência de Pessoal
-- Secretário Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:588834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a transição do pessoal do Departamento da Inspecção Regional de Educação (assim como a sua reestruturação\
+    \ em IRE), do pessoal afecto à Divisão Administrativa de Processamento de Abonos e à Divisão de Acção Social Escolar do\
+    \ GGCO (ambas fundidas, respectivamente, na DRAE e DRPRE), constantes do anexo ao presente diploma, para idêntico lugar\
+    \ do quadro da IRE, e para correspondentes lugares do quadro da DRAE e da DRPRE, respectivamente, pelo DRR.5/2005/M.21.02.2005.PG-RAM,\
+    \ DR.IS-B [47] de 08.03.2005, nos termos dos arts. 45.º e 46.º; assim como determinada a manutenção em vigor do presente\
+    \ DRR, com as devidas restrições, até à publicação integral dos diplomas a que se refere o n.º 4 do art. 4.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
   label: null
@@ -118,16 +128,85 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668484:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:483465:por
+  label: "Rectificado pela DECL-RECT.20-AF/2001.2001.10.25.PCM, DR.IS-B [253]-5ºSupl de 31/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-af-2001-483465
+  date: '2001-10-25'
 article_structure:
-  article_count: 39
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 43
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:45Z'
   warnings: []
   errors: []
 ---
@@ -156,19 +235,21 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Agosto de 2001.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 20 de Setembro de 2001.**
+Assinado em 20 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica dos departamentos e órgãos dependentes do Gabinete do Secretário Regional de Educação
 
 ### CAPÍTULO I — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 1.º
+#### SECÇÃO I
+
+###### Artigo 1.º
 
 Departamentos e órgãos
 
@@ -180,7 +261,9 @@ b) Órgãos de concepção e de apoio;
 
 c) Órgão de apoio logístico.
 
-#### SECÇÃO II — Artigo 2.º
+#### SECÇÃO II
+
+###### Artigo 2.º
 
 Departamentos de natureza técnica e técnico-pedagógica
 
@@ -190,7 +273,9 @@ a) Núcleo Estratégico da Sociedade de Informação;
 
 b) Departamento da Inspecção Regional de Educação.
 
-#### SECÇÃO III — Artigo 3.º
+#### SECÇÃO III
+
+###### Artigo 3.º
 
 Órgãos de concepção e de apoio
 
@@ -202,7 +287,9 @@ b) Gabinete de Estudos e Pareceres Jurídicos;
 
 c) Gabinete de Apoio Técnico.
 
-#### SECÇÃO IV — Artigo 4.º
+#### SECÇÃO IV
+
+###### Artigo 4.º
 
 Órgão de apoio logístico
 
@@ -264,7 +351,9 @@ b) Divisão de Estudos e Pareceres Jurídicos (DEPJ);
 
 c) Divisão Administrativa e de Recursos Humanos (DARH).
 
-##### SUBSECÇÃO I — Divisão de Programas e Projectos
+##### SUBSECÇÃO I
+
+##### Divisão de Programas e Projectos
 
 ###### Artigo 8.º — Atribuições
 
@@ -276,7 +365,9 @@ b) Elaborar estudos no domínio da sociedade de informação;
 
 c) Cooperar com outras entidades públicas ou privadas que desenvolvam projectos no domínio da sociedade de informação.
 
-##### SUBSECÇÃO II — Divisão de Estudos e Pareceres Jurídicos
+##### SUBSECÇÃO II
+
+##### Divisão de Estudos e Pareceres Jurídicos
 
 ###### Artigo 9.º — Atribuições
 
@@ -288,7 +379,9 @@ b) Emitir pareceres sobre projectos de diplomas;
 
 c) Elaborar propostas de diplomas que se enquadrem na sua esfera de intervenção.
 
-##### SUBSECÇÃO III — Divisão Administrativa e de Recursos Humanos
+##### SUBSECÇÃO III
+
+##### Divisão Administrativa e de Recursos Humanos
 
 ###### Artigo 10.º — Atribuições
 
@@ -618,7 +711,9 @@ a) Divisão de Controlo Orçamental (DCO);
 
 b) Divisão Administrativa e de Processamento de Abonos (DAPA).
 
-###### Artigo 27.º — Divisão de Controlo Orçamental
+###### Artigo 27.º
+
+##### Divisão de Controlo Orçamental
 
 1 - São atribuições da DCO, designadamente:
 
@@ -642,7 +737,9 @@ a) Secção de Contabilidade dos Serviços com Autonomia (SCSCA);
 
 b) Secção de Contabilidade dos Serviços sem Autonomia (SCSSA).
 
-###### Artigo 28.º — Divisão Administrativa e de Processamento de Abonos
+###### Artigo 28.º
+
+##### Divisão Administrativa e de Processamento de Abonos
 
 1 - São atribuições da DAPA, designadamente:
 
@@ -700,7 +797,9 @@ d) Promover e divulgar a informação e documentação relativa às suas activid
 
 4 - A DSASE compreende a Secção de Apoio Administrativo (SAA).
 
-###### Artigo 31.º — Divisão de Acção Social Escolar
+###### Artigo 31.º
+
+##### Divisão de Acção Social Escolar
 
 São atribuições da DASE, designadamente:
 
@@ -712,7 +811,9 @@ c) Proceder à recolha de dados estatísticos referentes à sua área de compet�
 
 d) Propor as medidas que julgar mais convenientes para o bom funcionamento dos serviços.
 
-###### Artigo 32.º — Divisão de Apoios Sócio-Educativos
+###### Artigo 32.º
+
+##### Divisão de Apoios Sócio-Educativos
 
 São atribuições da DAS, designadamente:
 
@@ -724,7 +825,9 @@ c) Proceder à recolha de dados estatísticos relativos à sua área de competê
 
 d) Propor critérios para atribuição de outros apoios sócio-educativos.
 
-##### SUBSECÇÃO III — Divisão de Estudos e Análise Financeira
+##### SUBSECÇÃO III
+
+##### Divisão de Estudos e Análise Financeira
 
 ###### Artigo 33.º — Atribuições
 
@@ -870,28 +973,28 @@ h) Pessoal auxiliar.
 
 Gabinete do Secretário
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
 
 Gabinete de Estudos e Pareceres Jurídicos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
 
 Gabinete de Apoio Técnico
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
 
 Gabinete de Gestão e Controlo Orçamental
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
 
 Núcleo Estratégico da Sociedade de Informação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
 
 Departamento da Inspecção Regional de Educação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
 
 Quadro dos supranumerários
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)](https://files.diariodarepublica.pt/1s/2001/10/242b00/66066622.pdf)

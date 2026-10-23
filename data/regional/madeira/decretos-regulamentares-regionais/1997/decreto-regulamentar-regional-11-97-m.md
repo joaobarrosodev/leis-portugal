@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/109b00/23012305.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1997/05/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1997-385261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7d495574959b6924801340e04357bd043684e7ed36252d7d58c08b1e9aca888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e88971108c9b76e5c31cc6c36e0e4eb4e97570fcd2f9227e22bdbd6270c6c785
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional dos Transportes Terrestres
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Secretaria Regional da Economia e Cooperação Externa
 relationships:
 - type: amended_by
   target: pt:dre:314198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:411354:por
+  label: "Alterados os arts. 5º. 9º, 13º, 16º e 19º e aditados os arts. 18º-A, 18º-B, 18º-C, 21º-A e 21º-B à lei orgânica\
+    \ pelo DRR.6/2000/M.2000.02.15.PG-RAM DR.IS-B [63] de 15/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2000-411354
+  date: '2000-02-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1995/07/26/p/dre
   label: null
@@ -102,16 +108,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:583793:por
+  label: "Rectificada pela DECL-RECT.10-E/97.1997.05.28.PCM DR.IS-B [125]2ºSUPL DE 31/MAI/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-e-1997-583793
+  date: '1997-05-28'
+- type: repealed_by
+  target: pt:dre:314198:por
+  label: "Revogado pelo DRR.7/2001/M.2001.04.24.PG-RAM DR.IS-B [109] DE 11/MAI/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2001-314198
+  date: '2001-04-24'
 article_structure:
-  article_count: 25
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 26
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:04Z'
   warnings: []
   errors: []
 ---
@@ -140,11 +208,11 @@ Aprovado em Conselho do Governo Regional em 20 de Março de 1997.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Pontes, Secretário Regional do Plano e da Coordenação.
 
-**Assinado em 10 de Abril de 1997.**
+Assinado em 10 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ORGÂNICA DA DIRECÇÃO REGIONAL DOS TRANSPORTES TERRESTRES
 
@@ -162,7 +230,9 @@ A Direcção Regional dos Transportes Terrestres, adiante apenas designada por D
 
 ### CAPÍTULO II — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 3.º
+#### SECÇÃO I
+
+###### Artigo 3.º
 
 Estrutura
 
@@ -250,7 +320,9 @@ b) Divisão de Contra-Ordenações;
 
 c) Divisão de Prevenção Rodoviária.
 
-###### Artigo 9.º — Divisão de Viação
+###### Artigo 9.º
+
+##### Divisão de Viação
 
 1 - À Divisão de Viação compete, designadamente:
 
@@ -280,7 +352,9 @@ d) Registar as taxas e outras importâncias cobradas em matéria de viação e p
 
 4 - A RSV compreende a Secção de Condutores.
 
-###### Artigo 10.º — Divisão de Contra-Ordenações
+###### Artigo 10.º
+
+##### Divisão de Contra-Ordenações
 
 1 - À Divisão de Contra-Ordenações compete, designadamente:
 
@@ -298,7 +372,9 @@ f) Participar criminalmente junto do tribunal competente nos casos de incumprime
 
 2 - A Divisão de Contra-Ordenações compreende a Secção de Contra-Ordenações, que presta o apoio administrativo à execução das competências referidas no número anterior.
 
-###### Artigo 11.º — Divisão de Prevenção Rodoviária
+###### Artigo 11.º
+
+##### Divisão de Prevenção Rodoviária
 
 À Divisão de Prevenção Rodoviária compete, nomeadamente:
 
@@ -326,7 +402,9 @@ b) A Divisão de Homologações e Inspecções;
 
 c) A Repartição de Transportes Terrestres.
 
-###### Artigo 14.º — Divisão de Transportes Terrestres
+###### Artigo 14.º
+
+##### Divisão de Transportes Terrestres
 
 À Divisão de Transportes Terrestres compete, designadamente:
 
@@ -344,7 +422,9 @@ f) Assegurar o cumprimento dos requisitos de acesso à actividade de transportes
 
 g) Fiscalizar o cumprimento das leis e regulamentos aplicáveis aos transportes particulares.
 
-###### Artigo 15.º — Divisão de Homologações e Inspecções
+###### Artigo 15.º
+
+##### Divisão de Homologações e Inspecções
 
 À Divisão de Homologações e Inspecções compete, designadamente:
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/26/1992/09/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1992-238872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c5bace6c0e8f10a24e7798f0ee21b4b7183fc4b6073a4e324e78d98dcf6779d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e36034db799a95d901aa6b7c178fb6112935a499519a5db6e421cbba9636e6b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Instituto de Habitação da Região Autónoma da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:197497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:300045:por
+  label: "Dada nova redacção ao artº 16º pelo DRR.32/2000/M.2000.04.26.PG-RAM, DR.IS-B [119] de 23/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-2000-300045
+  date: '2000-04-26'
+- type: amended_by
+  target: pt:dre:311588:por
+  label: "Alterados os arts 12º, 15º, 17º e 18º e o art. 16º na redacção dada pelo DRR 32/2000/M, de 23-Mai; aditados os arts\
+    \ 11º-A, 11º-B, 11º-C, 11º-D, 16º-A, 16º-B e 16º-C, republicado na integra o presente diploma com as alterações ora introduzidas,\
+    \ pelo DRR.39/2000/M.2000.06.30.PG-RAM DR.IS-B [170] de 25/Jul/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/39-2000-311588
+  date: '2000-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
@@ -82,16 +94,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197497:por
+  label: "Revogados os arts. 11º-A, 11º-B, 11º-C e 11º-D, alterados os arts. 4º, 7º, 9º, 12º, 15º, 16º, 16º-A, 16º-B, 16º-C,\
+    \ 17º, e 18º, e aditados os arts. 15º-A, 17º-A, 19º-A e 24º-A ao presente diploma, com a redacção dada pelos DRR 32/2000/M\
+    \ de 23-Mai e 39/2000/M de 25-Jul, pelo DRR.12/2002/M.2002.06.20.PG-RAM DR.IS-B [171] de 26/Jul/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2002-197497
+  date: '2002-06-20'
 article_structure:
-  article_count: 31
+  article_count: 30
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:30Z'
   warnings: []
   errors: []
 ---
@@ -124,21 +163,21 @@ Assim:
 
 O Governo Regional da Madeira, ao abrigo do artigo 15.º do Decreto Legislativo n.º 11/88/M, de 12 de Novembro, e nos termos da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º É aprovada a Lei Orgânica do Instituto de Habitação da Região Autónoma da Madeira, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a Lei Orgânica do Instituto de Habitação da Região Autónoma da Madeira, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º Fica revogado o [Decreto Regulamentar Regional n.º 18/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1989-547038), de 6 de Setembro.
+Art. 2.º Fica revogado o [Decreto Regulamentar Regional n.º 18/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1989-547038), de 6 de Setembro.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Julho de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 27 de Agosto de 1992.**
+Assinado em 27 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Lei Orgânica do Instituto de Habitação da Região Autónoma da Madeira
 
@@ -592,6 +631,6 @@ No âmbito das atribuições previstas na alínea f) do artigo 2.º deste diplom
 
 Quadro de pessoal do IHM
 
-## Anexo a que se refere o n.º 2 do artigo 23.º do Decreto Regulamentar Regional n.º 26/92/M, de 18 de Setembro
+Anexo a que se refere o n.º 2 do artigo 23.º do Decreto Regulamentar Regional n.º 26/92/M, de 18 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/216b00/44614469.pdf))](https://files.diariodarepublica.pt/1s/1992/09/216b00/44614469.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/216b00/44614469.pdf)

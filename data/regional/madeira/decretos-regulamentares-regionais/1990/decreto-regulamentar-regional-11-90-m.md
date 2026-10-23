@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13200/25032513.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1990-575140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0544e6b3f1db7cd42b030d55966f68abffe36b9e8cf9f8686a6ef2eaf6ba1f86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebc61450b5514c8142c2ab66a05588be7dd8bc9be4f86c749c8a969076230bb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Coordenadora
+- Definição de Competências
+- Inspecção Regional de Bombeiros
+- Madeira.região Autónoma
+- Orgânica
+- Proteção Civil
+- Serviço Regional de Protecção Civil da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:672143:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:514202:por
+  label: "Alterados o art. 8º e o mapa anexo, e aditada a secção V-A, que integra o art. 31º-A, pelo DRR.11/95/M.08.05.1995.GR-RAM,\
+    \ DR.IS-B [106] de 08.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1995-514202
+  date: '1995-05-08'
+- type: amended_by
+  target: pt:dre:448289:por
+  label: "Alterada a redacção dos arts. 6º, 8º, 16º, 32º, 33º, 34º, o nº 2 do art. 35º (com as alteracões introduzidas pelo\
+    \ DRR 11/95/M de 04-Abr), revogado o nº 4 do art. 35º e o art. 36º e mantido transitoriamente em vigor a escala salarial\
+    \ constante do nº 4 do art. 35º, pelo DRR.11/98/M.1998.08.06.PG-RAM, DR.IS-B [198] de 28/Ago/1998\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1998-448289
+  date: '1998-08-06'
+- type: amended_by
+  target: pt:dre:346080:por
+  label: "Alterado o art. 12.º pelo DRR.8/99/M.1999.06.21.PG-RAM DR.IS-B [175] DE 29/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1999-346080
+  date: '1999-06-21'
+- type: amended_by
+  target: pt:dre:303612:por
+  label: "Alterados os arts. 6.º, 7.º, 8.º, 32.º, 33.º e 37.º e aditado o art. 8.º-A, na redacção dos DRR 11/95/M, de 08-Mai\
+    \ e 08/99/M, de 29-Jul, pelo DRR.34/2000/M.2000.05.29.PG-RAM DR.IS-B [141] DE 20/JUN/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/34-2000-303612
+  date: '2000-05-29'
+- type: amended_by
+  target: pt:dre:240986:por
+  label: "Alterado o art. 12º, na redacção do DRR 8/99/M, de 29-Jul, pelo DRR.1/2002/M.2001.12.13.PG-RAM, DR.IS-B [11] de\
+    \ 14/Jan/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2002-240986
+  date: '2001-12-13'
+- type: amended_by
+  target: pt:dre:672143:por
+  label: "Transferidos os direitos, obrigações, património e recursos financeiros do Serviço Regional de Protecção Civil da\
+    \ Madeira (SRPCM), para o Serviço Regional de Protecção Civil e Bombeiros da Madeira (SRPCBM) pelo DLR.7/2006/M.16.03.2006.AL-RAM,\
+    \ DR.IS-A [64] de 30.03.2006, que revoga o presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2006-672143
+  date: '2006-03-16'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612468:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:10Z'
   warnings: []
   errors: []
 ---
@@ -260,7 +324,7 @@ d) Repartição dos Serviços Administrativos.
 
 ###### Artigo 10.º — Nomeação
 
-**O presidente do SRPCM é nomeado por despacho conjunto do Ministro da República e do Presidente do Governo Regional.**
+O presidente do SRPCM é nomeado por despacho conjunto do Ministro da República e do Presidente do Governo Regional.
 
 ###### Artigo 11.º — Competências
 
@@ -680,18 +744,18 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional de 2 de Novembro de 1989.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 24 de Maio de 1990.**
+Assinado em 24 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ## ANEXO I — Quadro da pessoal a que se refere o artigo 35.º do Decreto Regulamentar Regional n.º 11/90/M
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13200/25032513.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13200/25032513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13200/25032513.pdf)
 
 ## ANEXO II — (a que se refere o n.º 4 do artigo 35.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13200/25032513.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13200/25032513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13200/25032513.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/01300/0000300010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2020/01/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2020-128277507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3c697987fdab5d7849963ea44f5d77ef2b3b268957744317f378b46eb6df80e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d926d71132b647abe83adbb6d875c2f5e41ca9ecbaa4340ab89ebebabb473f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Secretaria Regional do Turismo e Cultura
-- Turismo
-- Pessoal Dirigente
-- Governo Regional
+- Administração Pública
+- Administração Regional
 - Criação de Serviços
+- Cultura
 - Definição de Competências
+- Direção Regional do Arquivo e Biblioteca da Madeira
 - Direcção Regional da Cultura
 - Direcção Regional de Turismo
 - Diretor Regional
-- Administração Pública
 - Extinção de Serviços
 - Gabinete Governamental
+- Governo Regional
 - Integração de Serviços
 - Integração de Trabalhadores
-- Orgânica
-- Cultura
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Reestruturação de Serviços
 - Secretaria Regional
+- Secretaria Regional do Turismo e Cultura
 - Secretário Regional
 - Secretário Regional do Turismo e Cultura
-- Administração Regional
 - Transferência de Pessoal
 - Transferência de Serviços
-- Direção Regional do Arquivo e Biblioteca da Madeira
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:890505015:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:890505015:por
+  label: Determinado que, a partir de 11 de outubro de 2024, a Direção Regional dos Arquivos, das Bibliotecas e do Livro sucede,
+    para todos os efeitos legais, à Direção Regional do Arquivo e Biblioteca da Madeira, prevista na alínea d) do n.º 1 do
+    artigo 6.º e no artigo 12.º do presente diploma pelo(a) Decreto Regulamentar Regional n.º 22/2024/M - Diário da República
+    n.º 197/2024, Série I de 2024-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2024-890505015
+  date: '2024-10-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/decl
   label: null
@@ -135,16 +143,114 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126318034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67522990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74483694:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:890505015:por
+  label: Revogado, a partir de 11 de outubro de 2024, pelo(a) Decreto Regulamentar Regional n.º 22/2024/M - Diário da República
+    n.º 197/2024, Série I de 2024-10-10 nos termos do artigo 27.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2024-890505015
+  date: '2024-10-10'
 article_structure:
   article_count: 24
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:31Z'
   warnings: []
   errors: []
 ---
@@ -265,7 +371,7 @@ d) Direção Regional do Arquivo e Biblioteca da Madeira.
 
 ###### Artigo 7.º — Entidades tuteladas
 
-**O Secretário Regional exerce a tutela sobre a Associação de Promoção da Madeira - AP Madeira.**
+O Secretário Regional exerce a tutela sobre a Associação de Promoção da Madeira - AP Madeira.
 
 ### CAPÍTULO III — Dos serviços
 
@@ -403,18 +509,20 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 21 de novembro de 2019.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 19 de dezembro de 2019.**
+Assinado em 19 de dezembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO I — Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/01300/0000300010.pdf))](https://files.diariodarepublica.pt/1s/2020/01/01300/0000300010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/01300/0000300010.pdf)
 
 ## ANEXO II — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/01300/0000300010.pdf))](https://files.diariodarepublica.pt/1s/2020/01/01300/0000300010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/01300/0000300010.pdf)
+
+112909598

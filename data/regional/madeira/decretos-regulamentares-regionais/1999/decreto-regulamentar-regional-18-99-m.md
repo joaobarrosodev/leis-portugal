@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/1999/11/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1999-639905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0607424735c4effc25cd3ac13e0d2ed2f384c3a4b047d0ded389382258c45324
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85cf234839ab582aadd857c094f3d21b0d232856317614c501cec9e7d4a73c25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional das Pescas
-- Secretaria Regional da Agricultura Florestas e Pescas
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Gestão de Recursos Humanos
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional da Agricultura Florestas e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:191516:por
@@ -97,16 +97,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191516:por
+  label: "Revogado o DRR 11/96/M, de 06-set, na redação do DRR 18/99/M, de 30-nov, pelo DRR.32/2012/M.05.11.2012.PG-RAM, DR.IS\
+    \ [213] de 05.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-2012-191516
+  date: '2012-11-05'
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:20Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +165,9 @@ b) Departamento de Contabilidade, que compreende duas secções administrativas.
 
 3 - ...
 
-###### Artigo 9.º — Quadro
+Artigo 9.º
+
+Quadro
 
 1 - ...
 
@@ -185,7 +213,9 @@ Chefes de departamento
 
 6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
-###### Artigo 10.º-B — Chefes de repartição
+Artigo 10.º-B
+
+Chefes de repartição
 
 Com a entrada em vigor do presente diploma são extintos os lugares de chefe de repartição.»
 
@@ -201,11 +231,11 @@ Aprovado em Conselho do Governo Regional em 14 de Outubro de 1999.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 4 de Novembro de 1999.**
+Assinado em 4 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Quadro de pessoal da Direcção Regional de Pescas
 

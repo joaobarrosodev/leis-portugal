@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2000/03/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2a51d64f6b195e1b7cdf05b1ef0a28d1e94cd79b2dce5eacda6631d73fe874c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffd5daad096a4bfadcd3a8f31e62700053211132707acdd4291b616d460de303
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Criação de Lugares
 - Definição de Competências
 - Direcção Regional de Educação Especial e Reabilitação
 - Diretor Regional
 - Extinção de Lugares
-- Recrutamento de Pessoal
 - Integração de Trabalhadores
-- Secretaria Regional da Educação
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Chefia
-- Madeira.região Autónoma
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
+- Secretaria Regional da Educação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/e
@@ -121,16 +121,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:186556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661768:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:27Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +213,9 @@ Estrutura
 
 6 - O conselho técnico interno reunirá uma vez por mês e extraordinariamente sempre que convocado pelo respectivo director técnico, competindo a um elemento da carreira de assistente administrativo lavrar a acta com a súmula da reunião.
 
-###### Artigo 27.º — Estrutura
+Artigo 27.º
+
+Estrutura
 
 1 - ...
 
@@ -199,7 +241,9 @@ b) ...
 
 c) ...
 
-###### Artigo 29.º — Quadro de pessoal
+Artigo 29.º
+
+Quadro de pessoal
 
 1 - ...
 
@@ -349,7 +393,9 @@ c) ...
 
 36 - ...
 
-###### Artigo 30.º — Transição de pessoal
+Artigo 30.º
+
+Transição de pessoal
 
 1 - ...
 
@@ -391,11 +437,15 @@ e) Promover a publicitação das circulares e regulamentos internos.
 
 3 - O director regional de Educação Especial e Reabilitação pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.
 
-###### Artigo 20.º-A — Conselho técnico
+Artigo 20.º-A
+
+Conselho técnico
 
 Em cada serviço ou estabelecimento dependente da DREER com, pelo menos, duas profissões de técnico de diagnóstico e terapêutica de entre as previstas no mapa anexo ao presente diploma haverá um conselho técnico com as atribuições e constituição previstas no artigo 13.º do [Decreto-Lei n.º 564/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1999-661768), de 21 de Dezembro.
 
-###### Artigo 31.º — Regras de transição a chefe de departamento
+Artigo 31.º
+
+Regras de transição a chefe de departamento
 
 1 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.
 
@@ -429,11 +479,11 @@ Aprovado em Conselho do Governo Regional em 17 de Janeiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 15 de Fevereiro de 2000.**
+Assinado em 15 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.
 
 ## ANEXO I — Mapa a que se referem os artigos 4.º e 6.º
 

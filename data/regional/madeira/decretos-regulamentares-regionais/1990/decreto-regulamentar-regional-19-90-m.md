@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1990-557001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20184c25d1503c924baf9efb0fa11054e0ff370c082636bae7ecf4b3318bbb0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a01e9bb375d06e431023858976dd5102d928e4ef0387ef5da2d5f93a8549652a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Regional de Aplicação de Coimas em Matéria Económica
+- Fiscalização Económica
+- Infracção Antieconómica
+- Madeira.região Autónoma
+- Multa
+- Proteção do Consumidor
+- Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:220144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599511:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:13Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +113,9 @@ Nestes termos:
 
 O Governo Regional da Madeira, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição e do artigo 1.º do [Decreto Legislativo Regional n.º 16/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1990-574923), de 6 de Junho, decreta o seguinte:
 
-###### Artigo 1.º A Comissão Regional de Aplicação de Coimas em Matéria Económica, adiante designada por Comissão, é a autoridade administrativa com competência para aplicar coimas e sanções acessórias, nos termos do artigo 1.º do [Decreto Legislativo Regional n.º 17/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1986-220144), de 9 de Setembro, com a redacção que lhe foi dada pelo [Decreto Legislativo Regional n.º 16/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1990-574923), de 6 de Junho, e funciona nas instalações da Direcção dos Serviços de Fiscalização Económica.
+Artigo 1.º A Comissão Regional de Aplicação de Coimas em Matéria Económica, adiante designada por Comissão, é a autoridade administrativa com competência para aplicar coimas e sanções acessórias, nos termos do artigo 1.º do [Decreto Legislativo Regional n.º 17/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1986-220144), de 9 de Setembro, com a redacção que lhe foi dada pelo [Decreto Legislativo Regional n.º 16/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1990-574923), de 6 de Junho, e funciona nas instalações da Direcção dos Serviços de Fiscalização Económica.
 
-###### Art. 2.º - 1 - A Comissão é constituída por um presidente, que será o director dos Serviços de Fiscalização Económica, e por dois vogais, a nomear por despacho do Secretário Regional da Economia.
+Art. 2.º - 1 - A Comissão é constituída por um presidente, que será o director dos Serviços de Fiscalização Económica, e por dois vogais, a nomear por despacho do Secretário Regional da Economia.
 
 2 - Os membros da Comissão têm direito a um suplemento mensal, de quantitativo a fixar por despacho conjunto dos Secretários Regionais da Economia e das Finanças.
 
@@ -100,17 +123,17 @@ O Governo Regional da Madeira, ao abrigo da alínea d) do n.º 1 do artigo 229.�
 
 4 - Os membros da Comissão tomam posse perante o Secretário Regional da Economia.
 
-###### Art. 3.º A Comissão será assistida pelos serviços administrativos da Direcção dos Serviços de Fiscalização Económica.
+Art. 3.º A Comissão será assistida pelos serviços administrativos da Direcção dos Serviços de Fiscalização Económica.
 
-###### Art. 4.º A Comissão reunirá quinzenalmente, podendo ser convocada extraordinariamente pelo presidente sempre que este o entenda necessário.
+Art. 4.º A Comissão reunirá quinzenalmente, podendo ser convocada extraordinariamente pelo presidente sempre que este o entenda necessário.
 
-###### Art. 5.º - 1 - Os processos de contra-ordenação enviados à Comissão pela Direcção dos Serviços de Fiscalização Económica serão registados em livro próprio.
+Art. 5.º - 1 - Os processos de contra-ordenação enviados à Comissão pela Direcção dos Serviços de Fiscalização Económica serão registados em livro próprio.
 
 2 - No prazo de dois dias a contar da sua entrada o serviço de apoio fará o processo concluso ao presidente da Comissão para despacho.
 
 3 - No prazo de cinco dias a contar da conclusão referida no número anterior o presidente proferirá despacho em que conhecerá da competência da Comissão e das excepções, nulidades ou irregularidades.
 
-###### Art. 6.º - 1 - Se o presidente considerar que a infracção constitui crime, que se verifica concurso de crime e contra-ordenação ou que, pelo mesmo facto, uma pessoa deve responder a título de crime e outra a título de contra-ordenação, ordenará a remessa do processo ao Ministério Público.
+Art. 6.º - 1 - Se o presidente considerar que a infracção constitui crime, que se verifica concurso de crime e contra-ordenação ou que, pelo mesmo facto, uma pessoa deve responder a título de crime e outra a título de contra-ordenação, ordenará a remessa do processo ao Ministério Público.
 
 2 - Se o presidente considerar que o processo enferma de nulidades ou irregularidades, designadamente falta de audição do arguido ou falta de nomeação de defensor oficioso, em conformidade com o disposto no artigo 53.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, devolverá o mesmo à entidade instrutora para suprimento daquelas.
 
@@ -118,7 +141,7 @@ O Governo Regional da Madeira, ao abrigo da alínea d) do n.º 1 do artigo 229.�
 
 4 - Se considerar adquirida a prescrição do procedimento pela contra-ordenação, o presidente mandará arquivar o processo.
 
-###### Art. 7.º - 1 - Se o presidente concluir pela inexistência de excepções, nulidades ou irregularidades, procederá, no prazo de 15 dias, à elaboração de um projecto de decisão, após o que o processo voltará aos serviços administrativos referidos no artigo 3.º, a fim de ir com vista a cada um dos vogais pelos prazos sucessivos de cinco dias.
+Art. 7.º - 1 - Se o presidente concluir pela inexistência de excepções, nulidades ou irregularidades, procederá, no prazo de 15 dias, à elaboração de um projecto de decisão, após o que o processo voltará aos serviços administrativos referidos no artigo 3.º, a fim de ir com vista a cada um dos vogais pelos prazos sucessivos de cinco dias.
 
 2 - Findos os prazos referidos no número anterior, o processo será concluso ao presidente, o qual designará o dia para a reunião e decisão final.
 
@@ -126,20 +149,20 @@ O Governo Regional da Madeira, ao abrigo da alínea d) do n.º 1 do artigo 229.�
 
 4 - Tal decisão será notificada ao arguido, ao seu representante legal, quando este exista, e ao seu defensor oficioso, de harmonia com o disposto nos artigos 46.º e 47.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e para efeitos do estabelecido no capítulo IV do mesmo diploma.
 
-###### Art. 8.º Aplicar-se-ão as normas do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e, subsidiariamente, os preceitos reguladores do processo criminal em tudo quanto não se encontrar regulado no presente diploma.
+Art. 8.º Aplicar-se-ão as normas do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e, subsidiariamente, os preceitos reguladores do processo criminal em tudo quanto não se encontrar regulado no presente diploma.
 
-###### Art. 9.º O montante das coimas aplicadas pela contra-ordenação constituirá receita da Região, a depositar nos respectivos cofres.
+Art. 9.º O montante das coimas aplicadas pela contra-ordenação constituirá receita da Região, a depositar nos respectivos cofres.
 
-###### Art. 10.º É revogado o [Decreto Regulamentar Regional n.º 2/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1987-599511), de 9 de Janeiro.
+Art. 10.º É revogado o [Decreto Regulamentar Regional n.º 2/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1987-599511), de 9 de Janeiro.
 
-###### Art. 11.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 11.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 29 de Junho de 1990.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 23 de Julho de 1990.**
+Assinado em 23 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

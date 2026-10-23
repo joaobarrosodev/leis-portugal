@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/041b00/09050910.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2004/02/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2004-570501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f425bf69b8232654da03f6c67cba920199378c17691c2dd80aa40d88310ac3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0302627d819b779a7c267f9c616e49038e2325c4fb10f9e87327e40cc679fb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajudas de Custo
-- Governo Regional
 - Definição de Competências
-- Infracção Disciplinar
+- Estágio de Formação
 - Fiscalização
+- Governo Regional
 - Incompatibilidades
+- Infracção Disciplinar
+- Inspecção Regional dos Assuntos Sociais
 - Inspector Regional
 - Integração de Trabalhadores
 - Livre Trânsito
+- Madeira.região Autónoma
 - Notificação
-- Secretaria Regional dos Assuntos Sociais
 - Orgânica
 - Pessoal Técnico Superior de Inspecção
 - Profissão Independente
-- Estágio de Formação
-- Madeira.região Autónoma
 - Quadro de Pessoal
-- Inspecção Regional dos Assuntos Sociais
+- Secretaria Regional dos Assuntos Sociais
 - Segredo Profissional
 - Serviço Regional de Saúde
 relationships:
@@ -122,16 +122,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:167377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177804:por
+  label: "Revogado o presente diploma e determinado nos termos do nº2 do art. 10º e do nº3 do art. 16º que a Inspeção Regional\
+    \ da Saúde e Assuntos Sociais passa a designar-se Inspeção das Atividades em Saúde, e é integrada no Gabinete do Secretário\
+    \ Regional e serviços dependentes da Secretaria Regional dos Assuntos Sociais, bem como determinada a transição do pessoal\
+    \ da Inspeção Regional da Saúde e Assuntos Sociais, de igual forma, cuja orgânica foi aprovada pelo citado diploma, pelo\
+    \ DRR.7/2012/M.01.06.2012.PG-RAM, DR.IS [107] de 01.06.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2012-177804
+  date: '2012-06-01'
 article_structure:
   article_count: 28
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:06Z'
   warnings: []
   errors: []
 ---
@@ -442,13 +487,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 22 de Janeiro de 2004.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Fevereiro de 2004.**
+Assinado em 2 de Fevereiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — Quadro de pessoal da Inspecção Regional dos Assuntos Sociais
 

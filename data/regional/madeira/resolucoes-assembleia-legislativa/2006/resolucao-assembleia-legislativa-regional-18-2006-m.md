@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/18/2006/08/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/18-2006-540467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3f60a344cfdf5b4ef93522770e31c81fb43687a7816f4fe676881d234bfbee5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00ee9bbdd94d91b39015d3783ae3d48c0dd0de9308c8a4e2952a62a46adad9e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Assembleia Legislativa Regional
+- Comissão de Coordenação Regional
 - Comissão de Protecção de Menores
 - Criança
-- Comissão de Coordenação Regional
-- Jovem
-- Assembleia da República
-- Madeira.região Autónoma
 - Diploma Legal
+- Jovem
+- Madeira.região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1991/05/17/p/dre
@@ -104,16 +104,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:174848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656109:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:57Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +210,9 @@ g) Garantir, em articulação com a Comissão Nacional, a aplicação das orient
 
 h) Coordenar, acompanhar e apoiar a intervenção das comissões de protecção de crianças e jovens instaladas na Região Autónoma da Madeira de forma a melhorar a qualidade da sua intervenção.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -206,7 +240,9 @@ d) Um representante da União das Instituições Particulares de Solidariedade S
 
 9 - O funcionamento da Comissão de Coordenação Regional será estabelecido por diploma próprio do Governo Regional.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - São órgãos da Comissão Nacional:
 
@@ -220,7 +256,9 @@ a) O presidente;
 
 b) O plenário de todos os membros da Comissão Regional.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -240,4 +278,4 @@ b) O plenário de todos os membros da Comissão Regional.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 26 de Julho de 2006.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

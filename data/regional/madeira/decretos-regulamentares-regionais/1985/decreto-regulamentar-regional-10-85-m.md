@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/11800/14051415.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1985-151548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9753765e792f3a4d22f07f4f08be3da4d8d183292f0afb02076e6c63e6d6635b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ccfa8f3be6b752d9e7c410c26ea45b032fe6dffd1330b00530ff63ca16a7e5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional do Turismo e Cultura
 relationships:
 - type: amended_by
   target: pt:dre:549997:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:549997:por
+  label: "Revogado pelo DRR.23/89/M.09.11.1989.GR-RAM, DR.IS [258] de 09.11.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-1989-549997
+  date: '1989-11-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:32Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +142,11 @@ O Governo Regional decreta, ao abrigo da alínea b) do artigo 229.º da Constitu
 
 ### CAPÍTULO I — Disposições comuns
 
-###### Artigo 1.º A Secretaria Regional do Turismo e Cultura, abreviadamente designada por SRTC, superiormente dirigida pelo Secretário Regional do Turismo e Cultura, é o departamento do Governo da Região Autónoma da Madeira a que se refere o artigo 1.º do [Decreto Legislativo Regional n.º 18/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1983-432662), de 31 de Dezembro, cujas atribuições e orgânica passam a ser as constantes do presente diploma e do anexo que dele faz parte.
+Artigo 1.º A Secretaria Regional do Turismo e Cultura, abreviadamente designada por SRTC, superiormente dirigida pelo Secretário Regional do Turismo e Cultura, é o departamento do Governo da Região Autónoma da Madeira a que se refere o artigo 1.º do [Decreto Legislativo Regional n.º 18/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1983-432662), de 31 de Dezembro, cujas atribuições e orgânica passam a ser as constantes do presente diploma e do anexo que dele faz parte.
 
-###### Art. 2.º São atribuições da SRTC estudar, definir e promover a execução da política regional respeitante ao turismo e cultura, bem como fomentar actividades naqueles domínios, sem prejuízo das atribuições e competências conferidas por lei a outros departamentos.
+Art. 2.º São atribuições da SRTC estudar, definir e promover a execução da política regional respeitante ao turismo e cultura, bem como fomentar actividades naqueles domínios, sem prejuízo das atribuições e competências conferidas por lei a outros departamentos.
 
-###### Art. 3.º No âmbito da competência genérica referida nos artigos anteriores, compete à SRTC:
+Art. 3.º No âmbito da competência genérica referida nos artigos anteriores, compete à SRTC:
 
 a) Estudar, definir e orientar a política da Região nos sectores do seu âmbito;
 
@@ -124,7 +164,7 @@ g) Incentivar a participação das populações na vida cultural através de uma
 
 h) Superintender em toda a matéria referente a jogo.
 
-###### Art. 4.º - 1 - Compete ao Secretário Regional do Turismo e Cultura:
+Art. 4.º - 1 - Compete ao Secretário Regional do Turismo e Cultura:
 
 a) Estudar e definir a política de turismo e cultura, promovendo a sua execução de acordo com as orientações gerais do Governo Regional;
 
@@ -146,7 +186,7 @@ g) Promover todas as formas de coordenação das acções com as outras secretar
 
 ### CAPÍTULO II — Estrutura orgânica
 
-###### Art. 5.º Do Secretário Regional dependem directamente os seguintes órgãos de coordenação, apoio e execução:
+Art. 5.º Do Secretário Regional dependem directamente os seguintes órgãos de coordenação, apoio e execução:
 
 a) Gabinete do Secretário Regional;
 
@@ -158,7 +198,7 @@ d) Conselho Regional de Turismo;
 
 e) Repartição Administrativa.
 
-###### Art. 6.º A SRTC compreende as seguintes direcções regionais:
+Art. 6.º A SRTC compreende as seguintes direcções regionais:
 
 a) Direcção Regional de Turismo;
 
@@ -166,11 +206,11 @@ b) Direcção Regional dos Assuntos Culturais.
 
 #### SECÇÃO I — Gabinete do Secretário Regional
 
-###### Art. 7.º - 1 - O Gabinete do Secretário Regional é integrado pelo chefe do Gabinete, por um adjunto e um secretário particular.
+Art. 7.º - 1 - O Gabinete do Secretário Regional é integrado pelo chefe do Gabinete, por um adjunto e um secretário particular.
 
 2 - Poderão ainda ser destacados ou requisitados para prestar apoio junto do Gabinete do Secretário Regional quaisquer elementos da SRTC ou a ela estranhos.
 
-###### Art. 8.º - 1 - É da competência do chefe do Gabinete do Secretário Regional:
+Art. 8.º - 1 - É da competência do chefe do Gabinete do Secretário Regional:
 
 a) Dirigir o Gabinete e representar o Secretário Regional, excepto nos actos de carácter pessoal;
 
@@ -186,7 +226,7 @@ e) Regular o serviço de despachos e conferências, preparar os trabalhos e exec
 
 #### SECÇÃO II — Gabinete Jurídico
 
-###### Art. 9.º - 1 - O Gabinete Jurídico é o órgão de consulta jurídica e de apoio legislativo da SRTC.
+Art. 9.º - 1 - O Gabinete Jurídico é o órgão de consulta jurídica e de apoio legislativo da SRTC.
 
 2 - Ao Gabinete Jurídico compete:
 
@@ -202,7 +242,7 @@ e) Promover a recolha de informação e documentação jurídica respeitante à 
 
 #### SECÇÃO III — Gabinete de Divulgação Cultural e Apoio à População
 
-###### Art. 10.º Ao Gabinete de Divulgação Cultural e Apoio à População compete:
+Art. 10.º Ao Gabinete de Divulgação Cultural e Apoio à População compete:
 
 a) Informar quanto ao funcionamento dos vários departamentos públicos e de outros estabelecimentos úteis;
 
@@ -218,7 +258,7 @@ f) Defender as tradições regionais do nosso património cultural tendo em vist
 
 #### SECÇÃO IV — Conselho Regional de Turismo
 
-###### Art. 11.º - 1 - O Conselho Regional de Turismo é o órgão de coordenação e consulta para o sector do turismo, que funciona de harmonia com as disposições dos artigos seguintes.
+Art. 11.º - 1 - O Conselho Regional de Turismo é o órgão de coordenação e consulta para o sector do turismo, que funciona de harmonia com as disposições dos artigos seguintes.
 
 2 - O Conselho Regional de Turismo é composto por:
 
@@ -254,7 +294,7 @@ o) 1 representante do Sindicato das Agências de Viagens e Turismo, da Marinha M
 
 3 - O presidente será substituído nas suas faltas ou impedimentos pelo vice-presidente.
 
-###### Art. 12.º Ao Conselho Regional de Turismo compete:
+Art. 12.º Ao Conselho Regional de Turismo compete:
 
 a) Definir as grandes linhas gerais de actuação para o turismo na Região Autónoma da Madeira, de acordo com os planos globais;
 
@@ -262,7 +302,7 @@ b) Apreciar e dar parecer sobre os planos de actividades anuais e plurianuais e 
 
 c) Dar parecer sobre os assuntos de interesse turístico regional que sejam submetidos à sua apreciação.
 
-###### Art. 13.º - 1 - As reuniões do Conselho Regional de Turismo são ordinárias e extraordinárias.
+Art. 13.º - 1 - As reuniões do Conselho Regional de Turismo são ordinárias e extraordinárias.
 
 2 - As reuniões ordinárias são realizadas uma vez por ano, para apreciação dos planos de actividade e orçamento para o ano seguinte.
 
@@ -280,7 +320,7 @@ b) Em casos excepcionais poderá ser convocado o Conselho Regional de Turismo se
 
 5 - As reuniões do Conselho Regional de Turismo terão lugar na sede da SRTC.
 
-###### Art. 14.º - 1 - O Conselho Regional de Turismo pode funcionar, orgânica e legalmente, desde que esteja presente a maioria dos seus membros.
+Art. 14.º - 1 - O Conselho Regional de Turismo pode funcionar, orgânica e legalmente, desde que esteja presente a maioria dos seus membros.
 
 2 - As deliberações do Conselho Regional de Turismo serão tomadas por voto secreto e por maioria simples de votos dos membros presentes.
 
@@ -288,13 +328,13 @@ b) Em casos excepcionais poderá ser convocado o Conselho Regional de Turismo se
 
 4 - De todas as reuniões do Conselho Regional de Turismo será lavrada acta, em livro próprio, a qual, depois de aprovada, será assinada pelo presidente e pelo secretário.
 
-###### Art. 15.º O Conselho Regional de Turismo poderá funcionar em reuniões restritas, quando sejam objecto de deliberação assuntos específicos, a fim de serem devidamente preparados e submetidos às reuniões plenárias.
+Art. 15.º O Conselho Regional de Turismo poderá funcionar em reuniões restritas, quando sejam objecto de deliberação assuntos específicos, a fim de serem devidamente preparados e submetidos às reuniões plenárias.
 
-###### Art. 16.º Servirá de secretário o funcionário da SRTC que for designado para o efeito pela mesma, sem direito a voto, ao qual competirá elaborar a acta das reuniões e dar andamento a todo o seu expediente.
+Art. 16.º Servirá de secretário o funcionário da SRTC que for designado para o efeito pela mesma, sem direito a voto, ao qual competirá elaborar a acta das reuniões e dar andamento a todo o seu expediente.
 
 #### SECÇÃO V — Repartição Administrativa
 
-###### Art. 17.º - 1 - A Repartição Administrativa é o órgão que exerce superintendência administrativa e financeira sobre todos os órgãos da SRTC.
+Art. 17.º - 1 - A Repartição Administrativa é o órgão que exerce superintendência administrativa e financeira sobre todos os órgãos da SRTC.
 
 2 - À Repartição Administrativa compete:
 
@@ -344,7 +384,7 @@ c) Executar o serviço de reprografia.
 
 #### SECÇÃO VI — Direcção Regional de Turismo
 
-###### Art. 18.º - 1 - A Direcção Regional de Turismo é o órgão de orientação, execução e coordenação da política de turismo da Região, à qual compete:
+Art. 18.º - 1 - A Direcção Regional de Turismo é o órgão de orientação, execução e coordenação da política de turismo da Região, à qual compete:
 
 a) Elaborar os planos de actividades anuais e plurianuais e os respectivos orçamentos e submetê-los a parecer do Conselho Regional de Turismo;
 
@@ -388,7 +428,7 @@ t) Desenvolver quaisquer outras actividades que, no âmbito da sua competência,
 
 2 - Nenhuma entidade ou serviço poderá passar licenças ou conceder autorizações ou alvarás para a instalação ou funcionamento de qualquer estabelecimento ou exercício de actividades ligadas à indústria turística sem que o interessado haja obtido aprovação da Direcção Regional de Turismo.
 
-###### Art. 19.º - 1 - A Direcção Regional de Turismo é dirigida pelo director regional, ao qual compete:
+Art. 19.º - 1 - A Direcção Regional de Turismo é dirigida pelo director regional, ao qual compete:
 
 a) Promover a execução das determinações do Secretário Regional e, bem assim, ter em atenção os pareceres do Conselho Regional de Turismo;
 
@@ -408,7 +448,7 @@ g) Executar tudo o mais que lhe for expressamente cometido por leis e regulament
 
 3 - O director regional será substituído nas suas faltas ou impedimentos pelo director de serviços de maior antiguidade ou, na sua impossibilidade, pelo técnico superior mais antigo ao serviço da Direcção Regional.
 
-###### Art. 20.º A Direcção Regional de Turismo compreende os seguintes serviços:
+Art. 20.º A Direcção Regional de Turismo compreende os seguintes serviços:
 
 a) Direcção de Serviços de Empresas, Actividades Turísticas e Inspecção;
 
@@ -424,7 +464,7 @@ f) Repartição Administrativa.
 
 ##### SUBSECÇÃO I — Direcção de Serviços de Empresas, Actividades Turísticas e Inspecção
 
-###### Art. 21.º À Direcção de Serviços de Empresas, Actividades Turísticas e Inspecção compete:
+Art. 21.º À Direcção de Serviços de Empresas, Actividades Turísticas e Inspecção compete:
 
 a) Superintender nas aprovações, licenciamento, classificações e estudos sobre preços dos empreendimentos turísticos;
 
@@ -436,13 +476,13 @@ d) Orientar os processos para os pedidos de concessão de alvarás de agências 
 
 e) Elaborar os estudos e dar parecer sobre tarifas e tabelas de preços a praticar pelas diversas actividades e serviços turísticos e demais actividades que estejam sob jurisdição da Direcção Regional de Turismo.
 
-###### Art. 22.º A Direcção de Serviços de Empresas, Actividades Turísticas e Inspecção compreende os seguintes serviços:
+Art. 22.º A Direcção de Serviços de Empresas, Actividades Turísticas e Inspecção compreende os seguintes serviços:
 
 a) Divisão de Empresas, Actividades Turísticas e Inspecção;
 
 b) Divisão de Estudos e Planeamento.
 
-###### Art. 23.º À Divisão de Empresas, Actividades Turísticas e Inspecção compete:
+Art. 23.º À Divisão de Empresas, Actividades Turísticas e Inspecção compete:
 
 a) Proceder à aprovação, licenciamento e classificação das empresas e actividades turísticas, bem como à sua inspecção, nos termos da respectiva legislação;
 
@@ -462,7 +502,7 @@ h) Proceder ao estudo de medidas legislativas sobre o ordenamento do território
 
 i) Inspeccionar e orientar as obras em execução.
 
-###### Art. 24.º À Divisão de Estudos e Planeamento compete:
+Art. 24.º À Divisão de Estudos e Planeamento compete:
 
 a) Elaborar os mapas mensais e anuais de estatística, em colaboração estreita com os serviços oficiais de estatística e outros, de modo que permitam uma observação permanente deste destino turístico;
 
@@ -474,7 +514,7 @@ d) Analisar os projectos de investimento no sector turístico, bem como sugerir 
 
 ##### SUBSECÇÃO II — Direcção de Serviços de Promoção
 
-###### Art. 25.º À Direcção de Serviços de Promoção compete:
+Art. 25.º À Direcção de Serviços de Promoção compete:
 
 a) Promover e dinamizar a publicidade turística da Região Autónoma;
 
@@ -492,7 +532,7 @@ g) Dinamizar a promoção turística da Região, designadamente através de publ
 
 h) Fiscalizar a propaganda turística efectuada por outras entidades.
 
-###### Art. 26.º A Direcção de Serviços de Promoção compreende a Divisão de Promoção, à qual compete:
+Art. 26.º A Direcção de Serviços de Promoção compreende a Divisão de Promoção, à qual compete:
 
 a) Manter uma pesquisa contínua dos mercados geradores de turismo, tendo em atenção a evolução dos destinos concorrentes desta Região Autónoma;
 
@@ -508,7 +548,7 @@ f) Manter, com a máxima eficiência, os postos de informação de turismo.
 
 ##### SUBSECÇÃO III — Direcção de Serviços de Animação
 
-###### Art. 27.º À Direcção de Serviços de Animação compete:
+Art. 27.º À Direcção de Serviços de Animação compete:
 
 a) Promover, dinamizar e executar os programas de animação;
 
@@ -518,7 +558,7 @@ c) Realizar exposições, concertos, certames, festivais e outras manifestaçõe
 
 d) Promover e dinamizar todas as iniciativas regionais que exprimam os valores culturais, históricos e tradicionais da Região.
 
-###### Art. 28.º A Direcção de Serviços de Animação compreende a Divisão de Animação, à qual compete:
+Art. 28.º A Direcção de Serviços de Animação compreende a Divisão de Animação, à qual compete:
 
 a) Promover a realização de exposições, concursos, certames, festivais e outras manifestações de interesse para o turismo interno e externo, bem como propor a participação em iniciativas particulares que tenham idêntico sentido;
 
@@ -530,7 +570,7 @@ d) Executar os programas definidos no âmbito da Direcção Regional de Turismo,
 
 ##### SUBSECÇÃO IV — Direcção de Serviços de Artes Gráficas e Produção Editorial
 
-###### Art. 29.º À Direcção de Serviços de Artes Gráficas e Produção Editorial compete:
+Art. 29.º À Direcção de Serviços de Artes Gráficas e Produção Editorial compete:
 
 a) Elaborar originais sob a forma de desenho, maqueta, ou outros para a feitura de folhetos, cartazes e demais material no âmbito da promoção e animação turística;
 
@@ -544,7 +584,7 @@ e) Apoiar as comunidades emigrantes nas realizações de carácter social e asso
 
 f) Seleccionar e fornecer imagens sob a forma de fotografia, slide, filme ou video-cassette para publicações nacionais e estrangeiras.
 
-###### Art. 30.º A Direcção de Serviços de Artes Gráficas e Produção Editorial compreende a Divisão de Produção Editorial, à qual compete:
+Art. 30.º A Direcção de Serviços de Artes Gráficas e Produção Editorial compreende a Divisão de Produção Editorial, à qual compete:
 
 a) Elaborar textos conforme as necessidades dos diversos departamentos da Secretaria Regional;
 
@@ -556,7 +596,7 @@ d) Preparar e coordenar acções no âmbito das campanhas publicitárias e promo
 
 ##### SUBSECÇÃO V — Direcção de Serviços de Formação Profissional
 
-###### Art. 31.º - 1 - À Direcção de Serviços de Formação Profissional compete:
+Art. 31.º - 1 - À Direcção de Serviços de Formação Profissional compete:
 
 a) Conferir orientação superior à direcção da Escola de Hotelaria e Turismo no que respeita aos sectores administrativos, disciplinar e pedagógico;
 
@@ -570,13 +610,13 @@ e) Proceder e orientar a realização de estudos sobre as necessidades profissio
 
 2 - O director de serviços pode, por conveniência de serviços, acumular a direcção da Escola de Hotelaria e Turismo da Madeira.
 
-###### Art. 32.º A Direcção de Serviços de Formação Profissional compreende os seguintes serviços:
+Art. 32.º A Direcção de Serviços de Formação Profissional compreende os seguintes serviços:
 
 a) Divisão de Formação Turística e Hoteleira;
 
 b) Divisão de Aplicação.
 
-###### Art. 33.º À Divisão de Formação Turística e Hoteleira compete:
+Art. 33.º À Divisão de Formação Turística e Hoteleira compete:
 
 a) Elaborar o plano de actividades pedagógicas para os sectores de turismo e hotelaria e submetê-los a aprovação superior;
 
@@ -586,7 +626,7 @@ c) Propor a contratação dos professores necessários para assegurar a activida
 
 d) Propor a contratação dos monitores necessários para assegurar tanto a actividade pedagógica dos cursos de hotelaria como a manutenção dos serviços do estabelecimento de aplicação profissional.
 
-###### Art. 34.º À Divisão de Aplicação compete:
+Art. 34.º À Divisão de Aplicação compete:
 
 a) Elaborar o plano de actividades pedagógicas no estabelecimento de aplicação e submetê-los a aprovação superior;
 
@@ -594,7 +634,7 @@ b) Assegurar o regular funcionamento do estabelecimento de aplicação profissio
 
 c) Determinar o horário da aplicação dos alunos nos diferentes serviços do estabelecimento de aplicação, tendo em conta a harmonia do sector pedagógico com o de aplicação.
 
-###### Art. 35.º A Escola de Hotelaria e Turismo, integrada na Divisão de Formação Turística e Hoteleira, compreende um departamento administrativo, ao qual compete:
+Art. 35.º A Escola de Hotelaria e Turismo, integrada na Divisão de Formação Turística e Hoteleira, compreende um departamento administrativo, ao qual compete:
 
 a) Promover a elaboração do orçamento anual, de acordo com os planos de actividade superiormente aprovados;
 
@@ -610,7 +650,7 @@ f) Organizar o registo de admissão dos alunos, respectivos processos, aproveita
 
 ##### SUBSECÇÃO VI — Repartição Administrativa
 
-###### Art. 36.º À Repartição Administrativa competirão essencialmente as matérias respeitantes a:
+Art. 36.º À Repartição Administrativa competirão essencialmente as matérias respeitantes a:
 
 a) Pessoal;
 
@@ -634,7 +674,7 @@ j) Inventariar o material existente na Direcção Regional de Turismo, bem como 
 
 k) Promover as acções necessárias à conservação das instalações dos serviços da Direcção Regional de Turismo.
 
-###### Art. 37.º A Repartição Administrativa compreende as seguintes secções:
+Art. 37.º A Repartição Administrativa compreende as seguintes secções:
 
 a) Secção de Administração Geral e do Pessoal;
 
@@ -644,7 +684,7 @@ c) Secção de Expediente e Arquivo.
 
 #### SECÇÃO VII — Direcção Regional dos Assuntos Culturais
 
-###### Art. 38.º A Direcção Regional dos Assuntos Culturais é o órgão de orientação, execução e coordenação da política cultural da Região, à qual compete:
+Art. 38.º A Direcção Regional dos Assuntos Culturais é o órgão de orientação, execução e coordenação da política cultural da Região, à qual compete:
 
 a) Promover o arrolamento, inventário, classificação, recuperação, restauro, conservação, reavaliação e reconversão do património cultural da Região;
 
@@ -664,7 +704,7 @@ h) Cooperar culturalmente com os povos e nações de língua portuguesa, estabel
 
 i) Exercer a actividade editorial, nos termos definidos regulamentarmente.
 
-###### Art. 39.º - 1 - A Direcção Regional é dirigida pelo director regional, ao qual compete:
+Art. 39.º - 1 - A Direcção Regional é dirigida pelo director regional, ao qual compete:
 
 a) Promover a execução das determinações do Secretário Regional;
 
@@ -684,7 +724,7 @@ h) Executar tudo o mais que lhe for expressamente cometido por leis e regulament
 
 2 - O director regional será substituído nas suas faltas ou impedimentos pelo director de serviços de maior antiguidade ou, na sua impossibilidade, pelo técnico superior mais antigo ao serviço da Direcção Regional.
 
-###### Art. 40.º - 1 - A Direcção Regional dos Assuntos Culturais compreende os seguintes serviços:
+Art. 40.º - 1 - A Direcção Regional dos Assuntos Culturais compreende os seguintes serviços:
 
 a) Direcção de Serviços dos Assuntos Culturais;
 
@@ -712,7 +752,7 @@ j) Repartição Administrativa.
 
 ##### SUBSECÇÃO I — Direcção de Serviços dos Assuntos Culturais
 
-###### Art. 41.º À Direcção de Serviços dos Assuntos Culturais compete:
+Art. 41.º À Direcção de Serviços dos Assuntos Culturais compete:
 
 a) Proceder ao levantamento de toda a bibliografia existente sobre a história da Madeira;
 
@@ -724,7 +764,7 @@ d) Fomentar o intercâmbio com instituições culturais;
 
 e) Fomentar o intercâmbio com centros de documentação, incentivando a animação cultural em ordem a apoiar o gosto pela cultura.
 
-###### Art. 42.º A Direcção de Serviços dos Assuntos Culturais compreende os seguintes serviços:
+Art. 42.º A Direcção de Serviços dos Assuntos Culturais compreende os seguintes serviços:
 
 a) Divisão de Investigação e Apoio às Ciências Históricas;
 
@@ -732,7 +772,7 @@ b) Divisão de Documentação Contemporânea;
 
 c) Divisão de Animação e Divulgação Cultural.
 
-###### Art. 43.º À Divisão de Investigação e Apoio às Ciências Históricas compete:
+Art. 43.º À Divisão de Investigação e Apoio às Ciências Históricas compete:
 
 a) Proceder ao levantamento de toda a bibliografia e documentação existente sobre a história da Madeira;
 
@@ -744,7 +784,7 @@ d) Orientar ou coordenar a edição do Arquivo Histórico da Madeira;
 
 e) Participar em colóquios e conferências nacionais ou estrangeiras de temática histórica.
 
-###### Art. 44.º À Divisão de Documentação Contemporânea compete:
+Art. 44.º À Divisão de Documentação Contemporânea compete:
 
 a) Orientar, coordenar e seleccionar a aquisição de publicações que importem aos serviços de documentação;
 
@@ -754,7 +794,7 @@ c) Promover contactos de âmbito científico com todos os serviços de documenta
 
 d) Catalogar todos os documentos destinados ao depósito legal, bem como orientar e coordenar o seu acesso ao público.
 
-###### Art. 45.º À Divisão de Animação e Divulgação Cultural compete:
+Art. 45.º À Divisão de Animação e Divulgação Cultural compete:
 
 a) Cooperar com as direcções de serviços em publicações e cartazes, responsabilizando-se pela montagem gráfica e seus trâmites;
 
@@ -768,7 +808,7 @@ e) Apoiar e incentivar a dinamização cultural dos museus dependentes da Direc�
 
 ##### SUBSECÇÃO II — Direcção de Serviços de Defesa do Património Cultural
 
-###### Art. 46.º A Direcção de Serviços de Defesa do Património Cultural é o órgão executivo incumbido de:
+Art. 46.º A Direcção de Serviços de Defesa do Património Cultural é o órgão executivo incumbido de:
 
 a) Promover o arrolamento, inventário crítico, classificação, avaliação, recuperação, restauro, conservação e reconversão do património cultural da Região, com a correspondente interpretação, em ordem à criação de uma estrutura museológica específica;
 
@@ -788,13 +828,13 @@ h) Dar parecer, mediante consulta obrigatória, sobre projectos respeitantes a e
 
 i) Propor ao Governo Regional a classificação de imóveis, segundo um processo devidamente elaborado, nas categorias já existentes de imóvel de interesse público (IIP) e de valor concelhio (VC).
 
-###### Art. 47.º A Direcção de Serviços de Defesa do Património Cultural compreende os seguintes serviços:
+Art. 47.º A Direcção de Serviços de Defesa do Património Cultural compreende os seguintes serviços:
 
 a) Divisão de Estudos e Projectos de Defesa do Património;
 
 b) Divisão de Conservação e Restauro.
 
-###### Art. 48.º À Divisão de Estudos e Projectos de Defesa do Património compete:
+Art. 48.º À Divisão de Estudos e Projectos de Defesa do Património compete:
 
 a) Colaborar com os diferentes órgãos e serviços do Governo Regional na preparação e coordenação de programas de actividades;
 
@@ -802,7 +842,7 @@ b) Elaborar estudos, projectos técnicos e maquetas com vista à criação, inst
 
 c) Assegurar, através das brigadas ou missões para o efeito constituídas, a salvaguarda do património considerado em risco de deterioração imediata.
 
-###### Art. 49.º À Divisão de Conservação e Restauro compete:
+Art. 49.º À Divisão de Conservação e Restauro compete:
 
 a) Superintender e coordenar técnica e administrativamente os centros e oficinas de conservação e restauro dependentes da Direcção Regional dos Assuntos Culturais e dar apoio logístico a serviços similares dependentes de outros serviços do Governo Regional e de autarquias locais, bem como a entidades ou organismos subsidiados pelo Governo Regional;
 
@@ -814,7 +854,7 @@ d) Colaborar na organização de brigadas móveis de técnicos para a execução
 
 ##### SUBSECÇÃO III — Repartição Administrativa
 
-###### Art. 50.º À Repartição Administrativa competirão essencialmente matérias respeitantes a:
+Art. 50.º À Repartição Administrativa competirão essencialmente matérias respeitantes a:
 
 a) Pessoal;
 
@@ -834,7 +874,7 @@ h) Inventariar o material existente na Direcção Regional, bem como as necessid
 
 i) Promover as acções necessárias à conservação das instalações dos serviços da Direcção Regional.
 
-###### Art. 51.º A Repartição Administrativa compreende as seguintes secções:
+Art. 51.º A Repartição Administrativa compreende as seguintes secções:
 
 a) Secção de Administração Geral e do Pessoal;
 
@@ -844,7 +884,7 @@ c) Secção de Expediente e Arquivo.
 
 ## TÍTULO II — Pessoal
 
-###### Art. 52.º - 1 - O pessoal do quadro da Secretaria Regional do Turismo e Cultura é agrupado em:
+Art. 52.º - 1 - O pessoal do quadro da Secretaria Regional do Turismo e Cultura é agrupado em:
 
 a) Pessoal dirigente;
 
@@ -862,9 +902,9 @@ f) Pessoal operário e auxiliar.
 
 3 - O quadro de pessoal poderá ser alterado mediante portaria conjunta dos Secretários Regionais do Turismo e Cultura e do Plano.
 
-###### Art. 53.º As condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal no quadro da SRTC serão realizadas de harmonia com as disposições conjuntas do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, do [Decreto Regional n.º 25/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/25-1979-363958), de 30 de Outubro, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, dos artigos 20.º, 21.º, 23.º, 25.º, 31.º, 34.º e 35.º do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março, do [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho, e demais legislação aplicável.
+Art. 53.º As condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal no quadro da SRTC serão realizadas de harmonia com as disposições conjuntas do [Decreto Regulamentar Regional n.º 3/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-329866), de 6 de Setembro, do [Decreto Regional n.º 25/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/25-1979-363958), de 30 de Outubro, do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, dos artigos 20.º, 21.º, 23.º, 25.º, 31.º, 34.º e 35.º do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março, do [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho, e demais legislação aplicável.
 
-###### Art. 54.º - 1 - É criada a carreira de técnico de animação de turismo, que se desenvolve pelas categorias de principal, 1.ª classe e 2.ª classe, a que correspondem as letras J, L e M.
+Art. 54.º - 1 - É criada a carreira de técnico de animação de turismo, que se desenvolve pelas categorias de principal, 1.ª classe e 2.ª classe, a que correspondem as letras J, L e M.
 
 2 - O técnico de animação de turismo tem como tarefas preparar e executar acções de diversão, no âmbito de iniciativas direccionadas para a população residente e para o turista.
 
@@ -872,32 +912,32 @@ f) Pessoal operário e auxiliar.
 
 4 - O acesso à categoria superior fica condicionado à permanência de, pelo menos, 3 anos na categoria imediatamente inferior e classificação de serviço não inferior a Bom.
 
-###### Art. 55.º Para satisfazer necessidades transitórias que não possam ser asseguradas pelo pessoal permanente poderá ser contratado pessoal além do quadro, por período não superior a um ano.
+Art. 55.º Para satisfazer necessidades transitórias que não possam ser asseguradas pelo pessoal permanente poderá ser contratado pessoal além do quadro, por período não superior a um ano.
 
-###### Art. 56.º A realização de estudos, inquéritos e outros trabalhos de carácter eventual e técnico poderá ser confiada, mediante contrato de prestação de serviços, a entidade nacional ou estrangeira, cuja actividade ficará sempre sujeita à orientação da Secretaria Regional e não conferirá a qualidade de agente administrativo.
+Art. 56.º A realização de estudos, inquéritos e outros trabalhos de carácter eventual e técnico poderá ser confiada, mediante contrato de prestação de serviços, a entidade nacional ou estrangeira, cuja actividade ficará sempre sujeita à orientação da Secretaria Regional e não conferirá a qualidade de agente administrativo.
 
-###### Art. 57.º A Secretaria Regional do Turismo e Cultura poderá requisitar ou destacar de quaisquer serviços públicos e empresas públicas nacionalizadas o pessoal indispensável ao seu funcionamento, mediante despacho do Secretário Regional e anuência do serviço de origem ou da empresa, bem como do interessado.
+Art. 57.º A Secretaria Regional do Turismo e Cultura poderá requisitar ou destacar de quaisquer serviços públicos e empresas públicas nacionalizadas o pessoal indispensável ao seu funcionamento, mediante despacho do Secretário Regional e anuência do serviço de origem ou da empresa, bem como do interessado.
 
-###### Art. 58.º A transição do pessoal presentemente ao serviço da Secretaria Regional do Turismo e Cultura para o quadro ora criado far-se-á com dispensa de quaisquer formalidades, a não ser a elaboração de uma lista nominativa única, sujeita a visto da Comissão de Contas.
+Art. 58.º A transição do pessoal presentemente ao serviço da Secretaria Regional do Turismo e Cultura para o quadro ora criado far-se-á com dispensa de quaisquer formalidades, a não ser a elaboração de uma lista nominativa única, sujeita a visto da Comissão de Contas.
 
 ## TÍTULO III — Disposições finais
 
-###### Art. 59.º As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Secretário Regional do Turismo e Cultura.
+Art. 59.º As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Secretário Regional do Turismo e Cultura.
 
-###### Art. 60.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 60.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 14 de Fevereiro de 1985.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 22 de Março de 1985.**
+Assinado em 22 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ## ANEXO — Secretaria Regional do Turismo e Cultura
 
 Quadro do pessoal a que se refere o n.º 2 do artigo 52.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/11800/14051415.pdf))](https://files.diariodarepublica.pt/1s/1985/05/11800/14051415.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/11800/14051415.pdf)

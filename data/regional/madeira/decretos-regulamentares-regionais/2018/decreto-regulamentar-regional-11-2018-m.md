@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/18400/0483804841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2018/09/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2018-116470101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 929dd12060aad16e13224d113eebb1b7023408f20d3e5169ec65e6decc61c93e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c59efe38abc88b8b23a4aba6be6ef20c1c376ffb15cc2e330c1c7a569eccc7a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
 - Construção Civil
-- Governo Regional
 - Definição de Competências
 - Diretor Regional
+- Governo Regional
 - Indústria da Construção
 - Industrial da Construção Civil
+- Investigação Científica e Tecnológica
 - Laboratório Regional de Engenharia Civil
+- Madeira.região Autónoma
 - Obras Públicas
 - Orgânica
-- Urbanismo
-- Madeira.região Autónoma
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Regional dos Equipamentos e Infraestruturas
+- Secretário Regional dos Equipamentos e Infraestruturas
 - Segurança das Instalações
 - Segurança dos Edifícios
-- Secretário Regional dos Equipamentos e Infraestruturas
-- Secretaria Regional dos Equipamentos e Infraestruturas
+- Urbanismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decl
@@ -125,16 +125,128 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114157368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114561727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73000147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74848669:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:19Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +273,9 @@ Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo
 
 O Laboratório Regional de Engenharia Civil, abreviadamente designado por LREC, é um serviço central, de natureza executiva, da administração direta da Região Autónoma da Madeira, integrado na Secretaria Regional dos Equipamentos e Infraestruturas, adiante designada por SREI.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -189,7 +303,9 @@ k) [Anterior alínea j).]
 
 l) [Anterior alínea k).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -227,13 +343,17 @@ m) Preparar e coordenar os assuntos a submeter a despacho e assegurar a transmis
 
 5 - O diretor regional pode, igualmente, avocar as competências dos responsáveis pelos serviços do LREC.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
 2 - A estrutura hierarquizada do LREC é constituída por unidades orgânicas nucleares e flexíveis, secções e áreas de coordenação administrativa, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos [Decretos Legislativos Regionais n.os 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A dotação de cargos de direção superior e de direção intermédia de 1.º grau consta do anexo ao presente diploma, do qual faz parte integrante.»
 
@@ -243,9 +363,11 @@ A dotação de cargos de direção superior e de direção intermédia de 1.º g
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/18400/0483804841.pdf))](https://files.diariodarepublica.pt/1s/2018/09/18400/0483804841.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/18400/0483804841.pdf)
 
-###### Artigo 2.º — Aditamento de artigo ao [Decreto Regulamentar Regional n.º 17/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2016-74848669), de 5 de julho
+Artigo 2.º
+
+Aditamento de artigo ao [Decreto Regulamentar Regional n.º 17/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2016-74848669), de 5 de julho
 
 No capítulo iv do [Decreto Regulamentar Regional n.º 17/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2016-74848669), de 5 de julho, é aditado o artigo 8.º-A, com a seguinte redação:
 
@@ -259,15 +381,21 @@ Carreiras subsistentes
 
 3 - Os postos de trabalho relativos às carreiras de chefe de departamento são extintos à medida que vagarem.»
 
-###### Artigo 3.º — Norma transitória
+Artigo 3.º
+
+Norma transitória
 
 Nos termos legais aplicáveis, mantêm-se os procedimentos concursais de recrutamento de pessoal pendentes à data em entrada em vigor do presente diploma.
 
-###### Artigo 4.º — Republicação
+Artigo 4.º
+
+Republicação
 
 É republicado, em anexo ao presente decreto regulamentar regional, do qual faz parte integrante, o [Decreto Regulamentar Regional n.º 17/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2016-74848669), de 5 de julho, com as alterações introduzidas pelo presente diploma.
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
@@ -275,27 +403,37 @@ Aprovado em Conselho do Governo Regional em 9 de agosto de 2018.
 
 O Vice-Presidente do Governo Regional, em exercício, Pedro Miguel Amaro de Bettencourt Calado.
 
-**Assinado em 20 de agosto de 2018.**
+Assinado em 20 de agosto de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## ANEXO — (a que se refere o artigo 4.º)
+ANEXO
+
+(a que se refere o artigo 4.º)
 
 Republicação do [Decreto Regulamentar Regional n.º 17/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2016-74848669), de 5 de julho
 
-### CAPÍTULO I — Natureza, missão, atribuições e órgãos
+CAPÍTULO I
 
-###### Artigo 1.º — Natureza
+Natureza, missão, atribuições e órgãos
+
+Artigo 1.º
+
+Natureza
 
 O Laboratório Regional de Engenharia Civil, abreviadamente designado por LREC, é um serviço central, de natureza executiva, da administração direta da Região Autónoma da Madeira, integrado na Secretaria Regional dos Equipamentos e Infraestruturas, adiante designada por SREI.
 
-###### Artigo 2.º — Missão
+Artigo 2.º
+
+Missão
 
 O Laboratório Regional de Engenharia Civil tem por missão realizar, coordenar e promover a investigação científica e o desenvolvimento tecnológico, bem como outras atividades científicas e técnicas necessárias ao progresso e à boa prática da engenharia civil, exercendo a sua ação, fundamentalmente, nos domínios da construção e obras públicas, da habitação e urbanismo, do ambiente, da indústria dos materiais, componentes e outros produtos para a construção e em áreas afins, visando a sua atividade, no essencial, a qualidade e a segurança das obras, a proteção e a reabilitação do património natural e construído, bem como a modernização e inovação tecnológicas do setor da construção.
 
-###### Artigo 3.º — Atribuições
+Artigo 3.º
+
+Atribuições
 
 Para a prossecução da sua missão, o LREC tem as seguintes atribuições:
 
@@ -323,7 +461,9 @@ k) Defender a propriedade intelectual dos seus estudos e projetos;
 
 l) Exercer as demais atribuições que lhe sejam legalmente cometidas.
 
-###### Artigo 4.º — Diretor regional
+Artigo 4.º
+
+Diretor regional
 
 1 - O LREC é dirigido pelo diretor regional do Laboratório Regional de Engenharia Civil, adiante designado abreviadamente por diretor regional, cargo de direção superior de 1.º grau.
 
@@ -361,33 +501,49 @@ m) Preparar e coordenar os assuntos a submeter a despacho e assegurar a transmis
 
 5 - O diretor regional pode, igualmente, avocar as competências dos responsáveis pelos serviços do LREC.
 
-### CAPÍTULO II — Estrutura e funcionamento geral
+CAPÍTULO II
 
-###### Artigo 5.º — Organização interna
+Estrutura e funcionamento geral
+
+Artigo 5.º
+
+Organização interna
 
 1 - A organização interna do LREC obedece ao modelo de estrutura hierarquizada.
 
 2 - A estrutura hierarquizada do LREC é constituída por unidades orgânicas nucleares e flexíveis, secções e áreas de coordenação administrativa, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos [Decretos Legislativos Regionais n.os 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro.
 
-###### Artigo 6.º — Dotação de cargos de direção
+Artigo 6.º
+
+Dotação de cargos de direção
 
 A dotação de cargos de direção superior e de direção intermédia de 1.º grau consta do anexo ao presente diploma, do qual faz parte integrante.
 
-### CAPÍTULO III — Carreira de investigação científica
+CAPÍTULO III
 
-###### Artigo 7.º — Carreira de investigação científica
+Carreira de investigação científica
+
+Artigo 7.º
+
+Carreira de investigação científica
 
 1 - O LREC compreende pessoal integrado nas carreiras gerais e pessoal da carreira de investigação científica.
 
 2 - O regime da carreira de investigação científica é o definido no [Decreto-Lei n.º 124/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1999-534996), de 20 de abril, alterado pela [Lei n.º 157/99](https://diariodarepublica.pt/dr/detalhe/lei/157-1999-570560), de 14 de setembro.
 
-### CAPÍTULO IV — Disposições finais e transitórias
+CAPÍTULO IV
 
-###### Artigo 8.º — Norma transitória
+Disposições finais e transitórias
+
+Artigo 8.º
+
+Norma transitória
 
 Até à entrada em vigor dos diplomas que aprovam a organização interna referida no artigo 5.º, mantém-se em vigor a Portaria n.º 82/2013, de 9 de setembro, bem como as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas nela previstas.
 
-###### Artigo 8.º-A — Carreiras subsistentes
+Artigo 8.º-A
+
+Carreiras subsistentes
 
 1 - O desenvolvimento indiciário das carreiras de chefe de departamento é o constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de agosto, objeto de retificação pela [Declaração de Retificação n.º 15-I/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), de 30 de setembro, publicada no Diário da República, 1.ª série-A, n.º 299, 2.º suplemento, de 30 de setembro de 1999, sendo-lhes aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas [Leis n.os 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e [66/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513) e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), ambas de 31 de dezembro, pelo [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, e pela [Lei n.º 80/2017](https://diariodarepublica.pt/dr/detalhe/lei/80-2017-108021175), de 18 de agosto.
 
@@ -395,14 +551,22 @@ Até à entrada em vigor dos diplomas que aprovam a organização interna referi
 
 3 - Os postos de trabalho relativos às carreiras de chefe de departamento são extintos à medida que vagarem.
 
-###### Artigo 9.º — Norma revogatória
+Artigo 9.º
+
+Norma revogatória
 
 É revogado o [Decreto Regulamentar Regional n.º 1/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2013-258161), de 29 de janeiro.
 
-###### Artigo 10.º — Entrada em vigor
+Artigo 10.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO — Dotação de lugares a que se refere o artigo 6.º
+ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/18400/0483804841.pdf))](https://files.diariodarepublica.pt/1s/2018/09/18400/0483804841.pdf)
+Dotação de lugares a que se refere o artigo 6.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/18400/0483804841.pdf)
+
+111632801

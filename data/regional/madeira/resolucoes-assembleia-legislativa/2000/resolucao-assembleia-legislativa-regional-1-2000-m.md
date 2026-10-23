@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/1/2000/01/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/1-2000-514057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0c3b67f28f476948eca70bb2c3f4db242f1d8ce6e2c0dfad46ab1c5308415a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 959153a608ac485e611bcabe1059de4672d814d66febad45e1384f7721e22b75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação de Municípios
-- Parlamentar
 - Assembleia Legislativa Regional
+- Associação de Municípios
 - Cargos Políticos
-- Eleição
 - Comissão de Inquérito
+- Comissão de Regimento e Mandatos
 - Comissão Permanente
-- Governo Regional
+- Contabilidade Pública
 - Definição de Competências
+- Direito de Petição
+- Eleição
 - Estatuto
+- Governo Regional
 - Grupo Parlamentar
 - Imunidade Parlamentar
 - Incompatibilidades
 - Inconstitucionalidade
-- Publicitação
 - Legalidade
-- Comissão de Regimento e Mandatos
+- Madeira.região Autónoma
 - Mandato
 - Ministro da República
 - Moção Política
 - Orçamento
 - Orçamento Regional
+- Parlamentar
 - Plano de Desenvolvimento Regional
 - Presidente da Assembleia Legislativa Regional
+- Processo Legislativo
 - Programa
-- Madeira.região Autónoma
-- Direito de Petição
+- Publicitação
 - Referendo
 - Regimento
 - Responsabilidade Criminal
 - Segurança Social
-- Processo Legislativo
-- Contabilidade Pública
 - Substituição de Funções
 - Vice-presidente
 relationships:
@@ -105,16 +105,180 @@ relationships:
   target: pt:dre:215874470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234479:por
+  label: "Introduzidas as seguintes alterações ao Regimento da Assembleia Legislativa Regional da Madeira, aprovada pelo presente\
+    \ diploma, pela RES.19-A/2005/M.09.11.2005.AL-RAM, DR.IS-B [227-Supl] de 25.11.2005, que o republica em anexo: - substituídas\
+    \ em todo o normativo do Regimento as expressões “Assembleia Legislativa Regional”, Ministro da República” e “Decreto\
+    \ da Assembleia”, respectivamente, pelas expressões “Assembleia Legislativa”, Representante da República” e “Decreto da\
+    \ Assembleia Legislativa da Madeira”; - eliminados o art. 1º; o nº 1 do art. 2º; os arts. 4º, 6º, 10º, 11º, 12º, 13º,\
+    \ 14º e 15º; a secção III do cap. I do tit. I, sob a epígrafe “Poderes”; a al. n) do nº 1 do art. 21º; a al. i) do art.\
+    \ 22º; o nº 2 do art. 56º; os nºs 2 4 e 5 do art. 107º; os nºs 4 e 5 do art. 117º; o nº 4 do art. 127º; o nº 2 do art.\
+    \ 129º; e o nº 3 do art. 198º; - alterados os nºs 2 e 3 do art. 2º; os arts. 3º, 5º, 7º, 8º, 9º, 16º, 17º e 18º, que passam\
+    \ a constituir, respectivamente, os arts. 1º, 2º, 3º, 4º, 5º, 6º, 7º, 8º e 9º; as als. a), b), c) e d) do nº 2 do art.\
+    \ 20º; a ordem das als. o) e p) do art. 21º, que passam respectivamente a n) e o); o nº 2 do art. 25º; o nº 1 do art.\
+    \ 28º; as als. c), d) e i) do art. 29º; a al. a) do art. 31º; a epígrafe da divisão III do Regimento; a epígrafe e os\
+    \ nºs 1, 2 e 3 do art. 33º, que passa a art. 24º; o nº 5 do art. 34º; o nº 3 do art. 42º; o nº 2 do art. 43º; a al. a)\
+    \ do art. 47º; o art. 49º; as als. a), g) e h) do art. 50º; as als. b) e i) do art. 55º; o nº 1 e a numeração do nº 3,\
+    \ que passa a constituir o nº 2, ambos do art. 56º; o nº 1 do art. 60º; os nºs 1, 2 e 3 do art. 64º; o nº 1 do art. 68º;\
+    \ os nºs 1, 2 e 3 do art. 69º, passando aquele último nº a nº 5; as als. b), j) e l) do art. 71º; o nº 2 do art. 73º;\
+    \ o nº 2 do art. 78º: a numeração e redacção do art. 83º, que passa a art. 74º; a al. e) do nº 1 e o nº 5 do art. 85º;\
+    \ o nº 1 do art. 88º; o nº 1 do art. 90º; o art. 92º; a al. e) do nº 1 do art. 93º; a numeração dos nºs 3, 4 e 5 do art.\
+    \ 99º, que passam respectivamente a nºs 5, 3 e 6; a epígrafe e o nº 7 do art.100º, que passa a constituir o art. 91º,\
+    \ e a numeração dos respectivos nº 2 - este com nova redacção passando a constituir o nº 8 e nºs 3 e 4 - que passam a\
+    \ nºs 2 e 3; os nºs 2 e 3 do art. 102º; o nº 1 do art. 104º; a epígrafe e o nº 1 do art. 105º, que passa a art. 96º; a\
+    \ numeração do nº 3 do art. 107º que passa a nº 2 do mesmo art.; a redacção e numeração do art. 108º, que passa a art.\
+    \ 99º; a epígrafe do art. 109º, que passa a art. 100º; a epígrafe e o nº 3 do art. 111º, que passa a constituir o art.\
+    \ 102º, assim como a ordem das als. a), c) e d) do nº 1 daquele art. que passam respectivamente a als. c), d) e a) – esta\
+    \ com nova redacção; o nº 2 do art. 115º; os nºs 1 e 2 do art. 116º; a epígrafe do art. 117º, que passa a art. 108º; a\
+    \ epígrafe e os nºs 1 e 2 do art. 121º; os nºs 1 e 2 do art. 122º; a epígrafe do art. 128º, que passa a art. 119º, bem\
+    \ como a ordem dos respectivos nºs 1, 2, 3 e 4 , que passam, respectivamente a nºs 2, 3, 4 e 5; as als. a) e d) do nº\
+    \ 1 do art. 129º e a ordem dos respectivos nºs 3 e 4, que passam a nºs 2 e 3; a epígrafe e os nºs 2 e 3 do art. 130º,\
+    \ que passa a art. 121º, e o respectivo nº 4, que passa a nº 5º; o nº 1 do art. 135º; as als. a) e b) do nº 1 e o nº 2\
+    \ do art. 136º; a epígrafe e o corpo do art. 137º, que passa a art. 129º; a al. d) do nº 1 do art. 141º e renumera o nº\
+    \ 2 do mesmo art. para nº 3º; os nºs 1 e 2 do art. 142º; o nº 1 do art. 143º; os nºs 1, 2 e 3 do art. 144º, a epígrafe\
+    \ da divisão III da secção I do cap. I do tit. IV; o nº 1 do art. 146º e renumera o nº 2 do mesmo art. para nº 3; os nºs\
+    \ 3 e 4 do art. 150º; os nºs 1 e 2 do art. 153º; a epígrafe o corpo do art. 154º, que passa a art. 146º; a epígrafe e\
+    \ o nº 1 do art. do art. 155º, que passa a constituir o art. 147º; a epígrafe do art. 156º, que passa a art. 148º, assim\
+    \ como o nº 1 daquele art. que passa a constituir o nº 2, o art. 157º, que passa a art. 149º; o art. 158º, que passa a\
+    \ art. 150º; o nº 1 do art. 159º, a epígrafe e o nº 1- que passa a nº 2 - do art. 165º, que passa a art. 157º, a epígrafe\
+    \ e a numeração do art. 170º, que passa com nova redacção a art. 162º; o nº 1 do art. 174º; o nº 1 do art. 176º; o nº\
+    \ 1 do art. 184º; os nºs 1 e 3 do art. 191º; os nºs 3 e 4 do art. 194º; o art. 195º, que passa a art. 187º; os nºs 1 e\
+    \ 4 do art. 196º; o nº 3 do art. 197º, os nºs 1 e 2 do art. 198º; o nº 2 do art. 199º; a epígrafe e o nº 1 do art. 200º,\
+    \ que passa a art. 192º; os nºs 1 e 3 do art. 202º; o nº 2 do art. 203; o nº 1 do art. 207º; o nº 2 do art. 221º; o nº\
+    \ 1 do art. 225º; o nº 2 do art. 231º; os nºs 1 e 2 do art. 242º; o nº 2 do art. 244º; as als. b) e c) do nº 1 do art.\
+    \ 246º e a ordem das als. d), e), f) do mesmo nº e art. que passam respectivamente a e), f) e g); e o nº 2 do art. 248º;\
+    \ - aditados os nºs 4 e 5 ao art. 33º; a al. d) ao art. 37º; os nºs 3 e 4 ao art. 69º; a al. q) ao art. 71º; a al. e)\
+    \ ao art. 82º; o nº 2 ao art. 95º; uns novos nºa 4 e 7 ao art. 99º; os nºs 4, 9º, 10º e 11º ao art. 100º - agora renumerado\
+    \ para 91º; o nº 4 ao art. 102º; o nº 3 ao art. 104º; o nº 4 ao art. 106º; o nº 3 ao art. 109º, renumerado para art. 100º;\
+    \ um novo nº 4 ao art. 117º, renumerado para art. 108º; um novo nº 3 ao art. 118º; os nºs 3 e 4 ao art. 122º; um novo\
+    \ nº 1 ao art. 128º, renumerado para 119º; um novo nº 4 ao art. 130º, renumerado para 121º; o art. 124º ao cap. V do tit.\
+    \ III; adita um novo nº 2 e um nº 4 ao art. 141º, um novo nº 2 ao art. 146º; os nºs 2 e 3 ao art. 155º, renumerado para\
+    \ 147º; um novo nº 1 ao art. 156º, renumerado para 148º; um novo nº 1 ao art. 165º, renumerado para 157º; uns novos nºs\
+    \ 5 e 6 ao art. 172º; adita os nºs 2, 3, 4, 5 e 6 ao art. 174º; os nºs 3, 4, 5, e 6 ao art. 177º; um novo nº 4º ao art.\
+    \ 202; um nº 3 ao art. 244º; uma nova al. c) ao nº 1 do art. 246º; um cap. VIII ao tit. IV, constituído pelos novos arts.\
+    \ 239º, 240º, 241º, 242º, e 243º; e - renumerados os arts. 19º a 132º - que passam a arts. 133º a 246º e os arts. 247º\
+    \ a 249º a arts. 244º a 246º. \0º a 246º. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/19-a-2005-234479
+  date: '2005-11-09'
+- type: amended_by
+  target: pt:dre:640644:por
+  label: "Alterados os artigos 20.º (na redacção da Resolução 19-A/2005/M, de 25 de Novembro), 24.º, 25.º e 34.º (os dois\
+    \ últimos na redacção da Resolução 19-A/2005/M, de 25 de Novembro), 35.º, 37.º, 40.º, 45.º, 47.º, 66.º, 69.º, 74.º, 78.º,\
+    \ 81.º, 84.º, 86.º, 87.º, 88.º, 91.º, 92.º, 93.º, 95.º, 98.º, 113.º, 158.º, 164.º, 166.º, 169.º, 182.º, 191.º, 195.º,\
+    \ 198.º, 201.º, 202.º, 207.º, 213.º, 215.º, 236.º e 238.º, eliminado o n.º 3 do artigo 113.º e a alínea c) do n.º 1 do\
+    \ artigo 238.º e republicado em anexo o Regimento aprovado pelo presente, pela Resolução 17/2007/M.21.08.2007.AL-RAM,\
+    \ DR.IS [160] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/17-2007-640644
+  date: '2007-08-21'
+- type: amended_by
+  target: pt:dre:585064:por
+  label: "Alterados os arts. 12.º e 76.º (ambos na redacção da Res 19-A/2005/M, de 25-Nov), 81.º (na redacção da Res 19-A/2005/M,\
+    \ de 25-Nov e da Res 17/2007/M, de 21-Ago), 89.º e 90.º ( ambos na redacção da Res 19-A/2005/M, de 25-Nov), 98.º e 166º.\
+    \ (ambos na redacção na redacção da Res 19-A/2005/M, de 25-Nov e da Res 17/2007/M, de 21-Ago), 206.º (na redacção da Res\
+    \ 19-A/2005/M, de 25-Nov), 207.º (na redacção da Res 19-A/2005/M, de 25-Nov e da Res 17/2007/M, de 21-Ago), 208.º (na\
+    \ redacção da Res 19-A/2005/M, de 25-Nov) e 238.º (na redacção da Res 19-A/2005/M, de 25-Nov e da Res 17/2007/M, de 21-Ago)\
+    \ do Regimento da Assembleia Legislativa da Madeira, aprovado pelo presente diploma, pela RES.16-A/2008/M.15.07.2008.AL-RAM,\
+    \ DR.IS [135-Supl] de 15.07.2008, que o republica.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/16-a-2008-585064
+  date: '2008-07-15'
+- type: amended_by
+  target: pt:dre:603182:por
+  label: "Introduzidas as seguintes alterações ao Regimento da Assembleia Legislativa da Madeira, aprovado pelo presente diploma,\
+    \ com as alterações constantes das Res 19-A/2005/M de 25-Nov, 17/2007M de 21-Ago e 16-A/2008/M de 15-Jul, pela RES.2/2009/M.15.01.2009.AL-RAM,\
+    \ DR.IS [10] de 15.01.2009, que procedeu à sua republicação na sua redacção actual: alterados os arts. 11º, 16º, 18º,\
+    \ 21º, 27º, 28º, 32º, 33º, 37º, 41º, 62º, 66º, 76º, 78º, 81º, 88º, 90º, 92º, 98º, 117º, 118º, 147º, 160º, 166º, 202º,\
+    \ 235º, 236º, 238º e 241º e eliminados os art. 86º e 136º ; aditados: - a secção III com a epígrafe “Medidas a adoptar\
+    \ em caso de violação das regras de conduta” e o art. 9º-B, com a epígrafe “Medidas imediatas”, ao cap. I, “Deputados”,\
+    \ do tit. I, “Deputados e Grupos Parlamentares” ; - o art. 38º-A com a epígrafe “Composição” à secção II “Comissão de\
+    \ Regimentos e Mandatos”, do cap. II, “Comissões”, do tit. II, “Organização da Assembleia Legislativa; - e os arts. 166º-A,\
+    \ com a epígrafe “Objecto” e 166º-B, com a epígrafe “Pluralidade dos projectos ou propostas”, integrados na subdivisão\
+    \ I, intitulada “Discussão e votação na generalidade”, assim como os arts. 166º-C, 166º-D e 166º-E, respectivamente, com\
+    \ as seguintes epígrafes “Regra geral”, “Requerimento de adiamento da votação” e “Votação final global”, todos integrados\
+    \ na subdivisão II intitulada “Discussão e votação na especialidade”, à divisão VII, “Resoluções”, da secção I, “Processo\
+    \ legislativo comum” do cap. I, “Processo legislativo”, do tit. IV, “Formas de processo”.\0”.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/2-2009-603182
+  date: '2009-01-15'
+- type: amended_by
+  target: pt:dre:544397:por
+  label: "Dada nova redação aos arts. 9º (alterado pela Res 19-A/2005 de 25-Nov), 24º (alterado pela Res 17/2007/M de 21-Ago),\
+    \ 60º (alterado pela Res 19-A/2005 de 25-Nov), 66º (alterado pela Res 17/2007/M de 21-Ago), 69º (alterado pelas Res 19-A/2005\
+    \ de 25-Nov e 17/2007/M de 21-Ago), 78º (alterado pelas Res 19-A/2005 de 25-Nov, 17/2007/M de 21-Ago e 2/2009/M de 15-Jan),\
+    \ 81º (alterado pelas Res 17/2007/M de 21-Ago, 16-A/2008/M de 15-Jul, e 2/2009/M de 15-Jan), 84º (alterado pela Res17/2007/M\
+    \ de 21-Ago), 85º (alterado pela Res 19-A/2005 de 25-Nov), 89º (alterado pela Res 16-A/2008/M de 15-Jul), 90º (alterado\
+    \ pelas Res 19-A/2005 de 25-Nov e 2/2009/M de 15-Jan), 91º (alterado pelas Res 19-A/2005 de 25-Nov, 16-A/2008/M de 15-Jul\
+    \ e 17/2007/M de 21-Ago), 92º (alterado pelas Res 19-A/2005 de 25-Nov, 17/2007/M de 21-Ago e 2/2009/M de 15-Jan), 94º,\
+    \ 97º, 100º (alterado pela Res 19-A/2005/M de 25-Nov), 101º, 105º, 136º, 162º (os dois últimos alterados pela Res 19-A/2005\
+    \ de 25-Nov) e 236º (alterado pelas Res 17/2007/M de 21-Ago, 2/2009/M de 15-Jan) do Regimento da Assembleia Legislativa\
+    \ da Madeira, pela RES.5/2012/M.17.01.2012.AL-RAM, DR.IS [12] de 17.01.2012, que o republicou.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/5-2012-544397
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:504571:por
+  label: "Declarada a ilegalidade das normas constantes dos arts. 164.º, 164.º-A, 164.º-B, 164.º-C, 164.º-D e 164.º-E, todos\
+    \ do Regimento da Assembleia Legislativa da Região Autónoma da Madeira, aprovado pelo presente diploma, na parte em que\
+    \ determinam que a discussão e votação na generalidade dos projetos ou propostas de Resolução se efetua no seio das comissões\
+    \ especializadas e não no Plenário, pelo AC.645/2013.06.11.2013.TCS, DR.IS [215] de 06.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/645-2013-504571
+  date: '2013-11-06'
+- type: amended_by
+  target: pt:dre:70297427:por
+  label: Alterados, a partir de 16.09.2015, os arts 8.º, 12.º, 13.º, 15.º, 20.º, 24.º, 26.º, 33.º, 35.º, 36.º, 41.º, 47.º,
+    48.º, 55.º, 56.º, 60.º, 62.º, 67.º, 68.º, 74.º, 76.º, 81.º, 84.º, 85.º, 89.º, 92.º, 97.º, 99.º, 106.º, 107.º, 108.º, 109.º,
+    111.º, 113.º, 116.º, 118.º, 119.º, 120.º, 121.º, 123.º, 140.º, 143.º, 145.º, 146.º, 148.º, 156.º, 164.º, 172.º, 180.º,
+    184.º, 189.º, 193.º, 194.º, 196.º, 197.º, 198.º, 204.º, 205.º, 206.º, 211.º, 213.º, 217.º, 234.º, 235.º, 236.º, 238.º,
+    239.º, 241.º e a denominação da Divisão III da Secção I do Capítulo I do Título II, aditados o n.º 4 do art 20.º, os arts
+    41.º-A e 48.º-A, o n.º 4 do art 55.º, os n.ºs 3 e 4 do art 62.º, as als k) e l) do art 68.º, o n.º 4 do art 84.º, o n.º
+    9 do art 89.º, o n.º 4 do art 97.º, o n.º 4 do art 99.º, o n.º 9 do art 107.º, o n.º 4 do art 108.º, o n.º 4 do art 109.º,
+    o n.º 6 do art 118.º, o n.º 2 do art 121.º, os n.ºs 3 e 4 do art 123.º e o art. 203.º-A, e revogados os n.ºs 7 e 9 do
+    art 24.º, a al c) do art 41.º, os n.ºs 3 e 4 do art 67.º, os n.ºs 6 e 7 do art 81.º, as als a), b), c) e d) do n.º 1 do
+    art 97.º, o n.º 2 do art 106.º, o n.º 2 do art 145.º, o art 147.º, os arts 164.º-A, 164.º-B, 164.º-C, 164.º-D e 164.º-E,
+    o n.º 4 do art 198.º, os arts 199.º e 200.º, o n.º 2 do art 217.º, a al b) do art 235.º, a al a) do n.º 1 e as als a),
+    b) e c) do n.º 2 e os n.ºs 6 e 7 do art 236.º e a al a) do art 238.º, todos do Regimento da Assembleia Legislativa da
+    Região Autónoma da Madeira aprovado pelo presente diploma (na redação e sistematização da Res 5/2012/M de 17-jan AL),
+    pelo(a) Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M - Diário da República n.º 180/2015,
+    Série I de 2015-09-15) que procede à renumeração e republicação em anexo do referido Regimento
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427
+  date: '2015-09-15'
+- type: amended_by
+  target: pt:dre:132783836:por
+  label: Alterados os arts. 63.º, 104.º e 119.º do Regimento aprovado pelo presente diploma, republicado pela Res 9/2015/M
+    de 15-set, e republicado em anexo pelo(a) Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 16-A/2020/M
+    - Diário da República n.º 85/2020, 1º Suplemento, Série I de 2020-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/16-a-2020-132783836
+  date: '2020-04-30'
+- type: amended_by
+  target: pt:dre:137808122:por
+  label: Alterado o art. 104.º do Regimento da Assembleia Legislativa da Região Autónoma da Madeira pelo(a) Resolução da Assembleia
+    Legislativa da Região Autónoma da Madeira n.º 24/2020/M - Diário da República n.º 135/2020, Série I de 2020-07-14, que
+    o republicou com a presente alteração
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/24-2020-137808122
+  date: '2020-07-14'
+- type: amended_by
+  target: pt:dre:164091786:por
+  label: Declarada a ilegalidade, com força obrigatória geral, da norma constante do n.º 1 do art. 63.º e da norma que resulta
+    da conjugação do n.º 2 do art. 104.º com o n.º 1 do art. 63.º do Regimento da Assembleia Legislativa da Região Autónoma
+    da Madeira aprovado pela presente Resolução, na redação da Res 16-A/2020/M de 30-abr AL, pelo(a) Acórdão do Tribunal Constitucional
+    n.º 171/2020 - Diário da República n.º 102/2021, Série I de 2021-05-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/171-2020-164091786
+  date: '2021-05-26'
+- type: amended_by
+  target: pt:dre:215874470:por
+  label: Alterados os arts. 43.º, 152.º, 214.º e 216.º e republicado o Regimento da Assembleia Legislativa Regional da Madeira,
+    aprovado pelo presente diploma pelo(a) Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 15/2023/M
+    - Diário da República n.º 140/2023, Série I de 2023-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/15-2023-215874470
+  date: '2023-07-20'
 article_structure:
-  article_count: 248
+  article_count: 249
   section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:14Z'
   warnings: []
   errors: []
 ---
@@ -129,9 +293,7 @@ Regimento da Assembleia Legislativa Regional da Madeira
 
 #### SECÇÃO I — Mandato
 
-Artigo I.º
-
-Representatividade e âmbito
+###### Artigo I.º — Representatividade e âmbito
 
 Os deputados representam toda a Região e não os círculos por que tiverem sido eleitos.
 
@@ -1127,7 +1289,7 @@ Nos casos do artigo 233.º da Constituição, o Presidente da Assembleia poderá
 
 ###### Artigo 77.º — Apreciação de outras matérias
 
-**O Presidente da Assembleia incluirá na primeira parte da ordem do dia prevista do n.º 2 do artigo 91.º a apreciação das seguintes matérias:**
+O Presidente da Assembleia incluirá na primeira parte da ordem do dia prevista do n.º 2 do artigo 91.º a apreciação das seguintes matérias:
 
 a) Deliberações sobre o mandato de deputado;
 
@@ -1285,7 +1447,7 @@ g) À comunicação de qualquer decisão do Presidente da Assembleia ou delibera
 
 ###### Artigo 92.º — Convite a individualidades estranhas à Assembleia
 
-**O Presidente da Assembleia poderá, a título excepcional, ouvida a Conferência, convidar individualidades estranhas à Assembleia a tomar lugar na sala e a usar da palavra.**
+O Presidente da Assembleia poderá, a título excepcional, ouvida a Conferência, convidar individualidades estranhas à Assembleia a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso da palavra
 
@@ -1805,7 +1967,7 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 ###### Artigo 148.º — Envio de propostas de alteração
 
-**O Presidente da Assembleia poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.**
+O Presidente da Assembleia poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 149.º — Apreciação de projectos ou de propostas sobre legislação do trabalho
 
@@ -1847,7 +2009,9 @@ A comissão competente deve promover a consulta da Associação de Municípios d
 
 ##### DIVISÃO IV — Discussão e votação
 
-##### SUBDIVISÃO I — Disposições gerais
+SUBDIVISÃO I
+
+Disposições gerais
 
 ###### Artigo 155.º — Conhecimento prévio dos projectos e propostas
 
@@ -1865,7 +2029,9 @@ Não será admitido o requerimento previsto no artigo anterior enquanto não tiv
 
 Até ao anúncio da votação podem quatro deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de nova apreciação no prazo que foi designado, não se aplicando neste caso o disposto no artigo 155.º, salvo o que respeita à obrigatoriedade da distribuição em folhas avulsas.
 
-##### SUBDIVISÃO II — Discussão e votação na generalidade
+SUBDIVISÃO II
+
+Discussão e votação na generalidade
 
 ###### Artigo 159.º — Objecto
 
@@ -1879,7 +2045,9 @@ Até ao anúncio da votação podem quatro deputados, pelo menos, requerer a bai
 
 2 - Neste caso, a Assembleia delibera também sobre aquele que serve de base à discussão e votação na especialidade.
 
-##### SUBDIVISÃO III — Discussão e votação na especialidade
+SUBDIVISÃO III
+
+Discussão e votação na especialidade
 
 ###### Artigo 161.º — Regra geral
 
@@ -2369,7 +2537,7 @@ b) Que o Presidente da Assembleia ou as comissões entendam que devem ser public
 
 ###### Artigo 224.º — Comunicação ao autor ou aos autores da petição
 
-**O Presidente da Assembleia comunicará ao autor ou ao primeiro dos autores da petição o relatório da Comissão e as diligências subsequentes que tenham sido adoptadas.**
+O Presidente da Assembleia comunicará ao autor ou ao primeiro dos autores da petição o relatório da Comissão e as diligências subsequentes que tenham sido adoptadas.
 
 #### SECÇÃO VII — Inquéritos
 
@@ -2571,4 +2739,4 @@ f) O prazo para redacção final será de dois dias.
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 30 de Novembro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.

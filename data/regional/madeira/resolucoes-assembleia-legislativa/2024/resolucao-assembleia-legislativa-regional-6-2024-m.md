@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05600/0002300024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/6/2024/03/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/6-2024-856211143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20ed744386f0ef93529302c39d4bb8c4b8800310e94f4ee7f43907389e9e1bb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 801e585e1ee59f70d646676ad951facc64c969cbd0731aa23bea0a0b897285b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
 subjects:
 - Assembleia Legislativa Regional
 - Combate à Violência
-- Mulher
 - Comemoração
-- Madeira.região Autónoma
-- Violência Doméstica
 - DIA
+- Madeira.região Autónoma
+- Mulher
+- Violência Doméstica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:46Z'
   warnings: []
   errors: []
 ---
@@ -115,10 +119,12 @@ Sendo a Assembleia Legislativa da Madeira a casa de todos/as os/as Madeirenses, 
 
 Este contributo deverá ser promovido através de uma agenda da responsabilidade da Presidência da Assembleia Legislativa, que deverá contemplar o maior envolvimento social possível pois esta causa merece a ação coletiva da nossa sociedade.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>130/99, de 21 de agosto, e 12/2000, de 21 de junho, resolve o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os130/99, de 21 de agosto, e 12/2000, de 21 de junho, resolve o seguinte:
 
 Através da sua Presidência, elaborar, anualmente, uma agenda que assinale o Dia Internacional pela Eliminação da Violência contra as Mulheres e os 16 dias de ativismo.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 25 de janeiro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+117481975

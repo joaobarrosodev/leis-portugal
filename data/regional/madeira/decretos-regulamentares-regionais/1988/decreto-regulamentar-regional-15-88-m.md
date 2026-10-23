@@ -49,36 +49,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1988-373240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b09a975bc312437429abcab81822733d75b18a1a43a6ee4d25ed95bba6cec9df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f63b80a4009b9858c96c95ae810778bc5beb4eced7fdb7fb091a914715576251
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ACTO Administrativo
+- Jornal Oficial
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:55Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +102,7 @@ Considerando a necessidade de se proceder à simplificação das normas sobre a 
 
 Nos termos das alíneas b), c) e d) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o Governo da Região Autónoma da Madeira decreta o seguinte:
 
-###### Artigo 1.º - 1 - As declarações, avisos ou outros documentos relativos à situação e movimentação dos funcionários e agentes da administração regional autónoma da Madeira e dos institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos, destinados a publicação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, poderão ser efectuados em apêndice à mesma série.
+Artigo 1.º - 1 - As declarações, avisos ou outros documentos relativos à situação e movimentação dos funcionários e agentes da administração regional autónoma da Madeira e dos institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos, destinados a publicação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, poderão ser efectuados em apêndice à mesma série.
 
 2 - No caso de incluir no mesmo apêndice matéria relativa à Presidência do Governo e a mais de uma secretaria regional, a Secretaria-Geral da Presidência promoverá a distribuição dos apêndices por todos os serviços em causa, nos termos do n.º 7 do presente artigo.
 
@@ -105,9 +116,9 @@ Nos termos das alíneas b), c) e d) do artigo 33.º do [Decreto-Lei n.º 318-D/7
 
 7 - Os apêndices são de distribuição obrigatória por todos os serviços ou organismos da Presidência do Governo ou da secretaria regional a que pertence o serviço que originou a respectiva publicação.
 
-###### Art. 2.º A publicidade dos resultados dos concursos será feita mediante aviso a publicar na 2.ª série, informando os interessados do local ou locais onde podem ser consultadas as listas provisória, definitiva ou de classificação final de candidatos, consoante os casos.
+Art. 2.º A publicidade dos resultados dos concursos será feita mediante aviso a publicar na 2.ª série, informando os interessados do local ou locais onde podem ser consultadas as listas provisória, definitiva ou de classificação final de candidatos, consoante os casos.
 
-###### Art. 3.º - 1 - Os funcionários ou agentes, quando providos a título definitivo em lugar diverso, em consequência de concurso, transferência, reclassificação ou reconversão profissional, são exonerados dos lugares que vêm ocupando, com efeitos à data da posse.
+Art. 3.º - 1 - Os funcionários ou agentes, quando providos a título definitivo em lugar diverso, em consequência de concurso, transferência, reclassificação ou reconversão profissional, são exonerados dos lugares que vêm ocupando, com efeitos à data da posse.
 
 2 - Os extractos a publicar na 2.ª série do Jornal Oficial, ou nos apêndices relativos ao provimento de funcionários ou agentes, de acordo com o disposto no n.º 1 do presente artigo, conterão obrigatoriamente referência ao estipulado no final do mesmo número.
 
@@ -115,20 +126,20 @@ Nos termos das alíneas b), c) e d) do artigo 33.º do [Decreto-Lei n.º 318-D/7
 
 4 - É obrigatória a apresentação da declaração relativa a incompatibilidades e acumulações não permitidas, prevista na alínea a) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, em todos os casos em que o funcionário mantenha o direito ao lugar de origem.
 
-###### Art. 4.º Os diplomas de demissão, exoneração, passagem à situação de licença ilimitada, actividades fora do quadro, despachos de rescisão de contratos ou de assalariamentos e, de um modo geral, de todos os actos que modifiquem a situação dos funcionários, sem aumento de vencimento nem mudança de verba por onde se efectue o seu pagamento, não estão sujeitos a anotação pela Secção Regional da Madeira do Tribunal de Contas.
+Art. 4.º Os diplomas de demissão, exoneração, passagem à situação de licença ilimitada, actividades fora do quadro, despachos de rescisão de contratos ou de assalariamentos e, de um modo geral, de todos os actos que modifiquem a situação dos funcionários, sem aumento de vencimento nem mudança de verba por onde se efectue o seu pagamento, não estão sujeitos a anotação pela Secção Regional da Madeira do Tribunal de Contas.
 
-###### Art. 5.º - 1 - Não se fará a publicação na 2.ª série do Jornal Oficial dos despachos que concedem licenças ilimitadas, devendo os serviços competentes promover a comunicação aos interessados, bem como aos departamentos envolvidos, nomeadamente à Secção Regional da Madeira do Tribunal de Contas, à Caixa Geral de Aposentações, ao Montepio dos Servidores do Estado e à Direcção-Geral de Protecção Social dos Funcionários e Agentes da Administração Pública (ADSE).
+Art. 5.º - 1 - Não se fará a publicação na 2.ª série do Jornal Oficial dos despachos que concedem licenças ilimitadas, devendo os serviços competentes promover a comunicação aos interessados, bem como aos departamentos envolvidos, nomeadamente à Secção Regional da Madeira do Tribunal de Contas, à Caixa Geral de Aposentações, ao Montepio dos Servidores do Estado e à Direcção-Geral de Protecção Social dos Funcionários e Agentes da Administração Pública (ADSE).
 
 2 - Não se fará, igualmente, a publicação no Jornal Oficial de declarações relativas a termos de requisição ou interinidade, destacamentos de pessoal e alteração do nome dos funcionários ou agentes em virtude de mudança do respectivo estado civil.
 
-###### Art. 6.º O presente diploma entra imediatamente em vigor.
+Art. 6.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional de 3 de Junho de 1988.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Junho de 1988.**
+Assinado em 20 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

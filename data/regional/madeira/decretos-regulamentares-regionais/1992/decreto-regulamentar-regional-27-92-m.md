@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/27/1992/09/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68e7d6cf88304a2132aeca021e042c70a845935517dbe11fed0ed29eec9a467b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88b7904e8ae0ca173552f6c6670b85f992fc6e35a582767a48dcace56d5e3c8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,82 @@ reuse:
 subjects:
 - Centro Hospitalar do Funchal
 - Centro Regional de Saúde
-- Secretaria Regional dos Assuntos Sociais
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional dos Assuntos Sociais
 - Serviço Regional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:545187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571260:por
+  label: "Alterados os arts. 7º, 10º, 19º e 27º, pelo DRR.6-B/93/M.1993.03.24.GR-RAM, DR.IS-B [71]Supl de 25/Mar/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-b-1993-571260
+  date: '1993-03-24'
+- type: amended_by
+  target: pt:dre:512983:por
+  label: "Alterado o art. 30º, pelo DRR.10/95/M.1995.04.04.GR-RAM, DR.IS-B [103] de 04/Mai/1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1995-512983
+  date: '1995-04-04'
+- type: amended_by
+  target: pt:dre:509787:por
+  label: "Alterado o art 24º pelo DRR.3-A/97/M.1997.02.06.PG-RAM, DR.IS-B [31]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-a-1997-509787
+  date: '1997-02-06'
+- type: amended_by
+  target: pt:dre:167041:por
+  label: "Alterado o art. 30º pelo DRR.5/98/M.1998.03.19.ALR-RAM, DR.IS [80] de 04/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1998-167041
+  date: '1998-03-19'
+- type: amended_by
+  target: pt:dre:275831:por
+  label: "Alterados os arts. 28º, 29º, 30º e 31º, com a redacção conferida pelos DRR 10/95/M de 04-Mai, 5/98/M de 04-Abr e\
+    \ pela Port 420/93 de 19-Nov [publicada em Jornal Oficial da RAM], e aditados os arts. 29º-A, 29º-B, 29º-C, 29º-D, 29º-E\
+    \ e 29º-F, pelo DRR.30/2000/M.2000.04.10.PG-RAM DR.IS-B [104]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-2000-275831
+  date: '2000-04-10'
+- type: amended_by
+  target: pt:dre:293323:por
+  label: "Alterado o art. 21º pelo DRR.33/2000/M.2000.05.08.PG-RAM, DR.IS-B [124] de 29/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-2000-293323
+  date: '2000-05-08'
+- type: amended_by
+  target: pt:dre:545187:por
+  label: "Extintos o Centro Hospitalar do Funchal e o Centro Regional de Saúde, criados pelo presente com a redacção conferida\
+    \ pelos DRR 6-B/93/M de 25-Mar, 10/95/M de 04-Abr, 3-A/97/M de 26-Fev, 5/98/M de 04-Abr, 30/2000/M de 05-Mai e 33/2000/M\
+    \ de 29-Mai; e mantido este diploma transitoriamente em vigor até à aprovação do Regulamento Interno do Serviço Regional\
+    \ de Saúde, em tudo o que não contrarie o disposto no DLR.9/2003/M.2003.05.12.ALR-RAM DR.IS-A [122] de 27/Mai/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2003-545187
+  date: '2003-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/21/1991/08/07/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/21/1991/08/07/m/dre
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681580:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:231487:por
+  label: "Revogado o Cap. IV, pelo DRR.6/95/M.1995.03.07.GR-RAM, DR.IS-B [80] de 04/Abr/1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1995-231487
+  date: '1995-03-07'
 article_structure:
   article_count: 42
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:30Z'
   warnings: []
   errors: []
 ---
@@ -628,10 +681,10 @@ As medidas regulamentares necessárias à execução do presente diploma serão 
 
 Aprovado em Conselho do Governo Regional em 30 de Julho de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Agosto de 1992.**
+Assinado em 20 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

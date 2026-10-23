@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 71/1993, 1º Suplemento, Série I-B de 1993-03-25
   number: '71'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1480-(2) a 1480-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/071b01/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6-a/1993/03/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-a-1993-571259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f160c649c03e19aa07b5d42fccec7c498ea43bebf8cc24edfbe0f80c6a883abe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d52a15338d3385893777a6a3d84bf1b28e207d9fab09c66036a6df3e620fd377
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ subjects:
 - Centro Hospitalar do Funchal
 - Centro Regional de Saúde
 - Centro Regional de Segurança Social
-- Governo Regional
 - Direcção Regional de Saúde
 - Direcção Regional de Segurança Social
-- Secretaria Regional dos Assuntos Sociais
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional dos Assuntos Sociais
 - Serviço Regional de Protecção Civil da Madeira
 relationships:
 - type: amended_by
@@ -88,16 +88,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/26/1992/11/11/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/26/1992/11/11/m/dre
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681580:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:593683:por
+  label: "Rectificado pela DECL-RECT.102/93.31.05.1993.PCM, DR.IS-B [126]4ºSupl de 31.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/102-1993-593683
+  date: '1993-05-31'
+- type: repealed_by
+  target: pt:dre:509787:por
+  label: "Revogado totalmente pelo DRR.3-A/97/M.1997.02.06.PG-RAM, DR.IS-B [31]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-a-1997-509787
+  date: '1997-02-06'
 article_structure:
   article_count: 15
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:44Z'
   warnings: []
   errors: []
 ---
@@ -242,10 +260,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 4 de Março de 1993.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 24 de Março de 1993.**
+Assinado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

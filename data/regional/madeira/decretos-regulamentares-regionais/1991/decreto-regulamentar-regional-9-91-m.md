@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/1991/05/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1991-641430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7a47c6cc31fa09fced85a83448675083a9e0f24039199dff2f1d46e719fc6ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 286ee2db351dbe56461e7c5c07cbcccccfcd62be981912047e6e260c842d22a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orçamento Regional
 - Madeira.região Autónoma
+- Orçamento Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/72-a/1991/02/08/p/dre
@@ -76,16 +76,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/2/1991/03/05/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/2/1991/03/05/m/dre
+- type: cites
+  target: pt:dre:272009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466188:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:24Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +208,7 @@ No ano de 1991 a aquisição e aluguer de veículos com motor destinados ao tran
 
 ###### Artigo 14.º — Execução do diploma
 
-**O Secretário Regional das Finanças fornecerá as instruções necessárias à boa execução deste diploma.**
+O Secretário Regional das Finanças fornecerá as instruções necessárias à boa execução deste diploma.
 
 ###### Artigo 15.º — Vigência
 
@@ -204,10 +216,10 @@ As disposições do presente diploma produzem efeitos desde a data da entrada em
 
 Aprovado em Conselho do Governo Regional em 14 de Março de 1991.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 12 de Abril de 1991.**
+Assinado em 12 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

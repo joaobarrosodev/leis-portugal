@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07700/0000400007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2022/04/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2022-182291600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbf1ff905e4160bbc8520e390d2501b3387fdefb3122a9c2168bc07407eec066
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7a19f1067815a05c25df9346fda80c4239f2f2b6cbbe65ead71dd63a65cc8ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direção Regional de Agricultura e Desenvolvimento Rural
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Secretaria Regional da Agricultura e Desenvolvimento Rural
 relationships:
 - type: amended_by
@@ -115,16 +115,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:126318034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126904849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135056059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138217584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170322931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173732862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176147944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:896297378:por
+  label: Revogado, a partir de 13 de novembro de 2024, pelo(a) Decreto Regulamentar Regional n.º 29/2024/M - Diário da República
+    n.º 219/2024, Série I de 2024-11-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-2024-896297378
+  date: '2024-11-12'
+- type: repealed_by
+  target: pt:dre:896349666:por
+  label: Revogado, a partir de 14 de novembro de 2024, pelo(a) Decreto Regulamentar Regional n.º 30/2024/M - Diário da República
+    n.º 220/2024, Série I de 2024-11-13 nos termos do artigo 9.º do presente diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-2024-896349666
+  date: '2024-11-13'
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:34Z'
   warnings: []
   errors: []
 ---
@@ -245,7 +309,9 @@ qq) ...
 
 rr) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A organização interna da DRA obedece ao modelo estrutural misto.
 
@@ -253,7 +319,9 @@ rr) ...
 
 3 - É adotado o modelo de estrutura matricial, no desenvolvimento de áreas transversais de interesse estratégico para a agricultura, pecuária e desenvolvimento rural, de molde a possibilitar a implementação de projetos através de equipas multidisciplinares.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -281,10 +349,12 @@ Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratóri
 
 Aprovado em Conselho do Governo Regional em 17 de março de 2022.
 
-**O Secretário Regional de Educação, Ciência e Tecnologia, no exercício da Presidência, Jorge Maria Abreu de Carvalho.**
+O Secretário Regional de Educação, Ciência e Tecnologia, no exercício da Presidência, Jorge Maria Abreu de Carvalho.
 
-**Assinado em 1 de abril de 2022.**
+Assinado em 1 de abril de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+115228757

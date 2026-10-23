@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 293/1990, 1º Suplemento, Série I de 1990-12-21
   number: '293'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5202-(123) a 5202-(125)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29301/01230125.pdf
 entry_into_force_dates: []
@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/10-1990-406083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8715e0a1604e412d1fd63dcc47def5790f3a40cd34b43ecf5ad865d7714f09e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25b1a8c3d31e26847a74e8eeef93caf7790b65d262954b42e1d89b2a45f7c7bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia Legislativa Regional
+- Madeira.região Autónoma
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:26Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +93,7 @@ A Assembleia Legislativa Regional da Madeira, reunida em plenário em 21 de Nove
 
 Aprovada pela Assembleia Legislativa Regional da Madeira em 21 de Novembro de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
 Orçamento da Assembleia Legislativa Regional da Madeira para o ano de 1991
 
@@ -106,8 +113,8 @@ Assembleia Legislativa Regional da Madeira, no Funchal, 19 de Novembro de 1990. 
 
 I - Mapa de desenvolvimento das receitas para 1991
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/29301/01230125.pdf))](https://files.diariodarepublica.pt/1s/1990/12/29301/01230125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29301/01230125.pdf)
 
 II - Mapa de desenvolvimento das despesas para 1991
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/29301/01230125.pdf))](https://files.diariodarepublica.pt/1s/1990/12/29301/01230125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29301/01230125.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/14700/0443404436.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/2017/08/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2017-107791621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bb01a0049ea9413863cf5f519fafe354284d33d15acb5080011b0e22f3fc86c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d8c477e3683b67bca853559d852f067335c85a445c0298498c4ec5c3d8aa051
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Conselho Económico e da Concertação Social
 - Definição de Competências
-- Presidente
+- Financiamento
 - Madeira.região Autónoma
+- Presidente
 - Regulamento Interno
 - Remuneração
-- Senha de Presença
 - SECRETARIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS
-- Conselho Económico e da Concertação Social
+- Senha de Presença
 relationships:
 - type: amended_by
   target: pt:dre:128326624:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:128326624:por
+  label: Determinado que a Secretaria Regional de Inclusão Social e Cidadania prestará o apoio instrumental que se mostrar
+    necessário para o regular funcionamento do Conselho Económico e da Concertação Social da Região Autónoma da Madeira até
+    à mobilidade a que se refere o art. 11.º do presente diploma, bem como o apoio logístico ao Conselho até à sua instalação
+    em sede própria, pelo(a) Decreto Regulamentar Regional n.º 10/2020/M - Diário da República n.º 14/2020, Série I de 2020-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2020-128326624
+  date: '2020-01-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/2016/01/15/m/dre
   label: null
@@ -103,13 +111,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:18Z'
   warnings: []
   errors: []
 ---
@@ -238,10 +246,10 @@ A participação nas reuniões dos órgãos do Conselho confere aos membros que 
 
 Aprovado em Conselho do Governo Regional em 13 de julho de 2017.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 19 de julho de 2017.**
+Assinado em 19 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

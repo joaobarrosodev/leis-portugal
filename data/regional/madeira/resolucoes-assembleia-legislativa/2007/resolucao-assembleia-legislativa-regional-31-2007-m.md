@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/31/2007/12/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/31-2007-627784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0aefad18f3a0317d2e4dc411fa1c623272cc8c30650647bb7443f9e28030cf7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 155b94ceaad25f875e93d046b618bc143c8386eb31fb48a7dee5c5cc5d8efbe0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
 - Lei de Finanças das Regiões Autónomas
-- Política Financeira
 - Madeira.região Autónoma
+- Política Financeira
+- Região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2005/01/18/p/dre
@@ -95,16 +95,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2007/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2007/02/19/p/dre
+- type: cites
+  target: pt:dre:181004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 95
+  article_count: 70
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:10Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +175,9 @@ São alterados os artigos 2.º, 3.º, 6.º, 7.º, 8.º, 15.º, 19.º, 25.º, 30.
 
 Para efeitos do disposto no artigo anterior, a presente lei abrange as matérias relativas às receitas regionais, ao poder tributário próprio das Regiões Autónomas, à adaptação do sistema fiscal nacional e às relações financeiras entre as Regiões Autónomas e as autarquias locais sediadas nas Regiões Autónomas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -169,13 +199,17 @@ h) [Anterior alínea f).]
 
 i) [Anterior alínea g).]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A autonomia financeira regional desenvolve-se no quadro do princípio da estabilidade orçamental, que pressupõe, no médio prazo, uma situação próxima do equilíbrio orçamental.
 
 2 - Tanto o Estado como as Regiões Autónomas contribuem reciprocamente entre si para a realização dos seus objectivos financeiros, no quadro do princípio da estabilidade dos respectivos orçamentos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O princípio da solidariedade nacional visa assegurar a promoção do desenvolvimento económico e social e do bem-estar e da qualidade de vida das populações, vincula o Estado a suportar os custos das desigualdades derivadas da insularidade, designadamente no respeitante a transportes, comunicações, energia, educação, cultura, saúde, desporto e segurança social, com vista à eliminação das desigualdades resultantes da situação de insularidade e de ultraperiferia e a realização da convergência económica com o restante território nacional e com a União Europeia.
 
@@ -187,7 +221,9 @@ i) [Anterior alínea g).]
 
 5 - (Anterior n.º 6.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 ...
 
@@ -197,7 +233,9 @@ b) ...
 
 c) ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -211,7 +249,9 @@ c) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Constitui receita de cada circunscrição o imposto sobre o valor acrescentado cobrado pela aplicação do regime suspensivo, de acordo com as regras vigentes para as transacções intracomunitárias, às operações realizadas com o continente, às importações e às aquisições intracomunitárias e pelas operações nela realizadas, de acordo com os critérios definidos nos n.os 2 e 3 do artigo 1.º do [Decreto-Lei n.º 347/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1985-181004), de 23 de Agosto.
 
@@ -225,11 +265,15 @@ c) 0,975 em 2010 e anos seguintes.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Constitui receita de cada Região Autónoma o produto das taxas, emolumentos e preços devidos pela prestação de serviços regionais, pelos actos de remoção de limites jurídicos às actividades dos particulares da competência dos órgãos regionais e pela utilização de bens do domínio público regional.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - As Regiões Autónomas podem em cada ano contrair dívida fundada desde que respeitem o limite máximo previsto no n.º 3 do presente artigo e não correspondam a um endividamento líquido adicional proporcionalmente superior ao do Estado naquele ano, calculado, para cada Região, de harmonia com o princípio da capitação.
 
@@ -243,7 +287,9 @@ Constitui receita de cada Região Autónoma o produto das taxas, emolumentos e p
 
 6 - Os saldos de endividamento líquido de um determinado ano podem ser utilizados num dos três anos subsequentes.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -251,15 +297,21 @@ Constitui receita de cada Região Autónoma o produto das taxas, emolumentos e p
 
 3 - A redução prevista no n.º 1 será utilizada na amortização de dívida da Região Autónoma respectiva.
 
-###### Artigo 33.º — Apoio do Instituto de Gestão da Tesouraria e do Crédito Público, I. P.
+Artigo 33.º
+
+Apoio do Instituto de Gestão da Tesouraria e do Crédito Público, I. P.
 
 As Regiões Autónomas podem recorrer ao apoio do Instituto de Gestão da Tesouraria e do Crédito Público, I. P., quer para a organização de emissões de dívida pública regional quer para o acompanhamento da sua gestão, com vista a minimizar custos e risco e a coordenar as operações de dívida pública regional com a dívida pública directa do Estado.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 Os empréstimos a emitir pelas Regiões Autónomas podem beneficiar de garantia pessoal do Estado, nos termos da respectiva lei.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -275,13 +327,15 @@ Os empréstimos a emitir pelas Regiões Autónomas podem beneficiar de garantia 
 
 7 - A repartição deste montante pelas Regiões Autónomas, que tem em conta as respectivas características estruturais, é feita de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24100/0892608941.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24100/0892608941.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24100/0892608941.pdf)
 
 8 - A partir do ano t+1, da repartição resultante da aplicação dos critérios previstos no n.º 5 não pode, em caso algum, resultar um montante para cada Região Autónoma inferior ao montante recebido no ano anterior, actualizado de acordo com o disposto no n.º 2 deste artigo, fazendo-se as necessárias compensações por dedução dos montantes da Região Autónoma que tenha um crescimento superior ao definido no mesmo n.º 2.
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -301,13 +355,17 @@ IpC(índice t) = indicador de poder de compra per capita de cada Região Autóno
 
 4 - As transferências previstas neste artigo processam-se em prestações trimestrais, a efectuar nos cinco primeiros dias de cada trimestre.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - A comparticipação nacional nos sistemas comunitários de incentivos financeiros de apoio ao sector produtivo é assegurada pelo Orçamento do Estado ou pelos orçamentos das entidades que tutelam as respectivas áreas, independentemente da sua natureza nacional ou regional.
 
 2 - São também transferidas para as Regiões Autónomas as importâncias correspondentes ao pagamento das bonificações devidas nos respectivos territórios e resultantes da aplicação de sistemas de incentivos criados a nível nacional.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Por projectos de interesse comum entendem-se aqueles que são promovidos por razões de interesse ou estratégia nacional e ainda os susceptíveis de produzir efeito económico positivo para o conjunto da economia nacional, aferido, designadamente, pelas suas consequências em termos de balança de pagamentos ou de criação de postos de trabalho, e, bem como, aqueles que tenham por efeito uma diminuição dos custos de insularidade ou relevância especial nas áreas sociais, ambientais, do desenvolvimento das novas tecnologias, dos transportes e das comunicações.
 
@@ -317,7 +375,9 @@ IpC(índice t) = indicador de poder de compra per capita de cada Região Autóno
 
 4 - As poupanças do Estado resultantes da aplicação dos artigos 37.º e 38.º, determinadas tendo por referência os montantes transferidos no ano de 2006, são afectas ao financiamento dos projectos de interesse comum.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -337,7 +397,9 @@ IpC(índice t) = indicador de poder de compra per capita de cada Região Autóno
 
 9 - (Anterior n.º 6.)
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -361,7 +423,9 @@ c)...
 
 5 - No caso de as Regiões Autónomas optarem pela regionalização dos serviços fiscais, não há lugar a qualquer pagamento compensatório ao Estado.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -369,7 +433,9 @@ c)...
 
 3 - As receitas fiscais pertencentes às Regiões Autónomas nos termos da Constituição, dos Estatutos Político-Administrativos e da presente lei não podem ser afectas às autarquias locais sediadas nas Regiões Autónomas, no âmbito do regime financeiro estabelecido para aquelas.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 O disposto na presente lei:
 
@@ -381,23 +447,31 @@ c)...
 
 d) Não contraria o disposto na Constituição e nos Estatutos Político-Administrativos das Regiões Autónomas.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 O Governo da República aprova os actos necessários à execução do disposto no n.º 6 do artigo 15.º, no n.º 2 do artigo 19.º, no n.º 3 do artigo 40.º e no artigo 65.º-A no prazo de 120 dias após a publicação da presente lei.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - No âmbito da transferência do Estado para a Região Autónoma da Madeira das atribuições e competências previstas na Constituição e na lei em relação às suas receitas fiscais próprias, assim como do poder de praticar todos os actos necessários à sua administração e gestão, as referências legais feitas na legislação fiscal nacional ao Ministro das Finanças ou ao director-geral dos Impostos entendem-se reportadas aos titulares dos correspondentes órgãos regionais.
 
 2 - Até que se encontrem criados e instalados todos os meios necessários ao exercício do poder tributário conferido às Regiões Autónomas, a Direcção-Geral dos Impostos, através dos seus departamentos e serviços, e os serviços do Estado continuam a assegurar a realização dos procedimentos em matéria administrativa necessários ao exercício do mencionado poder, incluindo os relativos à liquidação e cobrança dos impostos que constituem receita própria das Regiões Autónomas.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - As Regiões Autónomas devem adoptar, no período máximo de dois anos após a data de entrada em vigor da presente lei, o Plano Oficial de Contabilidade Pública e respectivos planos de contas sectoriais.
 
 2 - O Governo da República disponibiliza às Regiões Autónomas as aplicações informáticas integradas, bem como o apoio técnico necessário para o cumprimento do disposto neste artigo.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 A presente lei é revista no ano de 2013.»
 
@@ -413,11 +487,15 @@ Princípio da autonomia financeira regional
 
 2 - A autonomia financeira visa garantir aos órgãos de governo próprio das Regiões Autónomas os meios necessários à prossecução das suas atribuições, bem como a disponibilidade dos instrumentos adequados à promoção do desenvolvimento económico e social e do bem-estar e da qualidade de vida das populações, à eliminação das desigualdades resultantes da situação de insularidade e de ultraperiferia e à realização da convergência económica com o restante território nacional e com a União Europeia.
 
-###### Artigo 8.º-A — Princípio da continuidade territorial
+Artigo 8.º-A
+
+Princípio da continuidade territorial
 
 O princípio da continuidade territorial assenta na necessidade de corrigir as desigualdades estruturais, originadas pelo afastamento e pela insularidade, e visa a plena consagração dos direitos de cidadania das populações insulares, vinculando, designadamente, o Estado ao seu cumprimento, de acordo com as suas obrigações constitucionais.
 
-###### Artigo 65.º-A — Acertos de transferências
+Artigo 65.º-A
+
+Acertos de transferências
 
 As verbas devidas decorrentes da aplicação do disposto nos artigos 5.º, n.º 6, 30.º e 31.º da [Lei n.º 13/98](https://diariodarepublica.pt/dr/detalhe/lei/13-1998-210978), de 24 de Fevereiro, são entregues às Regiões Autónomas mediante a celebração de um acordo de regularização.»
 
@@ -435,7 +513,7 @@ O presente diploma entra em vigor em 1 de Janeiro de 2008.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 8 de Novembro de 2007.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
 ## ANEXO — [Lei Orgânica n.º 1/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2007-517981), de 19 de Fevereiro
 
@@ -781,7 +859,7 @@ Os empréstimos a emitir pelas Regiões Autónomas podem beneficiar de garantia 
 
 7 - A repartição deste montante pelas Regiões Autónomas, que tem em conta as respectivas características estruturais, é feita de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24100/0892608941.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24100/0892608941.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24100/0892608941.pdf)
 
 8 - A partir do ano t+1, da repartição resultante da aplicação dos critérios previstos no n.º 5 não pode, em caso algum, resultar um montante para cada Região Autónoma inferior ao montante recebido no ano anterior, actualizado de acordo com o disposto no n.º 2 deste artigo, fazendo-se as necessárias compensações por dedução dos montantes da Região Autónoma que tenha um crescimento superior ao definido no mesmo n.º 2.
 

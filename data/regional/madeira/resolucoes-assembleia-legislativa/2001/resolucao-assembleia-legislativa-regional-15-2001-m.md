@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/15/2001/05/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/15-2001-332950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c79d428c9be4f70a4edce64269d0b5c4c96c369255e2e37f947ae89e0f5b3835
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 730d23c9c2170e0bd5ec8d7fde3b90a3f610c8dd696fdbc168a2cc4b231e9772
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Legislativa Regional
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal Administrativo
-- Madeira.região Autónoma
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/10-a/2000/04/27/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/10-a/2000/04/27/m/dre
+- type: cites
+  target: pt:dre:241999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:22Z'
   warnings: []
   errors: []
 ---
@@ -101,4 +109,4 @@ A Assembleia Legislativa Regional da Madeira, nos termos do artigo 31.º, n.º 2
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 17 de Abril de 2001.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.

@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1989-613054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56c212749da9b928bfd49f937a4cb96e240ae465ac14a7feeb5887b5da2ad15f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04223ea4da179bf46e675715799606303c013cacefc5b90c0537af8e1d4dc7bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Biblioteca
+- Madeira.região Autónoma
+- Pessoal Técnico Profissional
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357304:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:09Z'
   warnings: []
   errors: []
 ---
@@ -91,18 +102,18 @@ Verifica-se, entretanto, que os considerandos que enformam o preâmbulo daquele 
 
 Nestes termos, em conformidade com o disposto nas alíneas b) e c) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, conjugado com as alíneas d), h) e j) do artigo 229.º da Constituição, o Governo da Região Autónoma da Madeira decreta o seguinte:
 
-###### Artigo 1.º Os funcionários da administração regional e local que à data da entrada em vigor do presente diploma se encontrem na categoria de auxiliar técnico de bibliotecas, arquivos e documentação e que exerçam funções nas bibliotecas itinerantes e fixas transitam para a carreira técnico-profissional, nível 3, com dispensa das habilitações literárias exigidas para o ingresso na aludida carreira, desde que tenham frequentado, com aproveitamento, o curso de formação de técnicos de bibliotecas conferido pela Fundação Calouste Gulbenkian e previsto nas Portarias conjuntas n.os 38/88 e 39/88, publicadas em suplemento à 1.ª série do Jornal Oficial, n.º 91, de 15 de Junho de 1988.
+Artigo 1.º Os funcionários da administração regional e local que à data da entrada em vigor do presente diploma se encontrem na categoria de auxiliar técnico de bibliotecas, arquivos e documentação e que exerçam funções nas bibliotecas itinerantes e fixas transitam para a carreira técnico-profissional, nível 3, com dispensa das habilitações literárias exigidas para o ingresso na aludida carreira, desde que tenham frequentado, com aproveitamento, o curso de formação de técnicos de bibliotecas conferido pela Fundação Calouste Gulbenkian e previsto nas Portarias conjuntas n.os 38/88 e 39/88, publicadas em suplemento à 1.ª série do Jornal Oficial, n.º 91, de 15 de Junho de 1988.
 
-###### Art. 2.º Aos funcionários abrangidos pelo disposto no artigo anterior é permitido o acesso na carreira, independentemente da posse das habilitações legalmente exigidas.
+Art. 2.º Aos funcionários abrangidos pelo disposto no artigo anterior é permitido o acesso na carreira, independentemente da posse das habilitações legalmente exigidas.
 
-###### Art. 3.º É revogado o [Decreto Regulamentar Regional n.º 21/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1988-357304), de 25 de Novembro.
+Art. 3.º É revogado o [Decreto Regulamentar Regional n.º 21/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1988-357304), de 25 de Novembro.
 
 Aprovado em Conselho do Governo Regional em 19 de Janeiro de 1989.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 13 de Fevereiro de 1989.**
+Assinado em 13 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

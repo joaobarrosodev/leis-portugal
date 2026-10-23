@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1989, 5º Suplemento, Série I de 1989-12-30
   number: '299'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 5668-(64) a 5668-(93)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29905/00640093.pdf
 entry_into_force_dates: []
@@ -46,40 +46,155 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1989-262123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6007c57d0ca82d2426e3b752e67d0a414cebc168950a755cf25e7ed40e4bbc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e29742bbefe2e401294febe4d69ef8ed1ff0e8b1cdff709b652917d462f56808
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Educação Juventude e Emprego
 relationships:
 - type: amended_by
   target: pt:dre:268778:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575134:por
+  label: "Criado um quadro destinado a actividades não docentes na Secretaria Regional da Educação, Juventude e Emprego, cuja\
+    \ orgânica se encontra aprovada pelo presente diploma, pelo DLR.17/90/M.08.06.1990.ALR-RAM, DR.IS [132] de 08.06.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-1990-575134
+  date: '1990-06-08'
+- type: amended_by
+  target: pt:dre:596886:por
+  label: "Alterados os artigos 31.º, 72.º, 78.º, 81.º, 91.º, 93.º, 97.º, 100.º,101.º e aditados à subdivisão VIII (Inspecção\
+    \ Pedagógica), os artigos 45-A, 109.º-A e 109.º-B, pelo DRR.6/91/M.30.04.1991.GR-RAM, DR.IS-B [99] de 30.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1991-596886
+  date: '1991-04-30'
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:292076:por
+  label: "Revogados os n.ºs 11, 12 e 13 do artigo 106.º, o artigo 107.º e o n.º 2 do artigo 109.º pelo DRR.24/91/M.25.09.1991.GR-RAM,\
+    \ DR.IS-B [221] de 25.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-1991-292076
+  date: '1991-09-25'
+- type: repealed_by
+  target: pt:dre:303217:por
+  label: "Revogado o quadro do Centro Regional de Formação Profissional no respeitante à carreira de cozinheiro, constante\
+    \ do anexo ao presente diploma, pelo DLR.20/92/M.20.06.1992.ALR-RAM, DR.IS-A [140] de 20.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-1992-303217
+  date: '1992-06-20'
+- type: repealed_by
+  target: pt:dre:268778:por
+  label: "Revogados os artigos 71.º a 84.º e 97.º a 102.º, na redacção do Decreto Regulamentar Regional n.º 6/91/M, de 30\
+    \ de Abril, pelo DRR.17/93/M.17.06.1993.GR-RAM, DR.IS-B [140] de 17.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1993-268778
+  date: '1993-06-17'
 article_structure:
-  article_count: 1
-  section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 53
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:07Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +209,11 @@ Assim, nos termos do artigo 3.º do [Decreto Regulamentar Regional n.º 23/88/M]
 
 ## TÍTULO I — Conceito, atribuições e competências
 
-###### Artigo 1.º A Secretaria Regional da Educação, Juventude e Emprego, abreviadamente designada por SREJE, é o departamento do Governo Regional da Madeira a que se refere a alínea a) do artigo 1.º do [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, cujas atribuições e orgânica são as constantes do presente diploma e dos anexos que dele fazem parte integrante.
+Artigo 1.º A Secretaria Regional da Educação, Juventude e Emprego, abreviadamente designada por SREJE, é o departamento do Governo Regional da Madeira a que se refere a alínea a) do artigo 1.º do [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, cujas atribuições e orgânica são as constantes do presente diploma e dos anexos que dele fazem parte integrante.
 
-###### Art. 2.º Constituem atribuições da SREJE o estudo e a execução da política educativa, de juventude, de formação profissional, de emprego e desportiva da Região Autónoma da Madeira (RAM), assim como contribuir para a definição dos princípios gerais do sistema nacional de educação.
+Art. 2.º Constituem atribuições da SREJE o estudo e a execução da política educativa, de juventude, de formação profissional, de emprego e desportiva da Região Autónoma da Madeira (RAM), assim como contribuir para a definição dos princípios gerais do sistema nacional de educação.
 
-###### Art. 3.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à SREJE:
+Art. 3.º No âmbito da competência genérica referida no artigo anterior, incumbe, especialmente, à SREJE:
 
 a) Estudar, orientar e executar a política educativa na Região, assim como contribuir para a sua definição;
 
@@ -114,15 +229,15 @@ e) Assegurar a observância das disposições reguladoras das tarefas que lhe s�
 
 ### CAPÍTULO I — Estrutura geral
 
-###### Art. 4.º A SREJE compreende os serviços referidos no artigo 1.º do [Decreto Regulamentar Regional n.º 23/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1988-361174), de 27 de Dezembro.
+Art. 4.º A SREJE compreende os serviços referidos no artigo 1.º do [Decreto Regulamentar Regional n.º 23/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1988-361174), de 27 de Dezembro.
 
-###### Art. 5.º Por despacho do Secretário Regional, poderão constituir-se grupos de trabalho de carácter transitório, com funções de estudo ou executivas, cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes, sendo o seu mandato, composição, funcionamento e demais condições estabelecidas naquele despacho.
+Art. 5.º Por despacho do Secretário Regional, poderão constituir-se grupos de trabalho de carácter transitório, com funções de estudo ou executivas, cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes, sendo o seu mandato, composição, funcionamento e demais condições estabelecidas naquele despacho.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 ##### DIVISÃO I — Gabinete do Secretário Regional
 
-###### Art. 6.º - 1 - Compete ao Secretário Regional:
+Art. 6.º - 1 - Compete ao Secretário Regional:
 
 a) Representar a Secretaria Regional;
 
@@ -130,11 +245,11 @@ b) Definir a política educativa, promovendo a sua execução, designadamente no
 
 2 - O Secretário Regional pode delegar nos directores regionais, directores de serviços e demais pessoal dirigente as competências que julgar convenientes, nos termos e condições da lei.
 
-###### Art. 7.º - 1 - O Gabinete do Secretário Regional é constituído pelo chefe de gabinete, um adjunto e dois secretários particulares.
+Art. 7.º - 1 - O Gabinete do Secretário Regional é constituído pelo chefe de gabinete, um adjunto e dois secretários particulares.
 
 2 - Para além do pessoal referido no n.º 1, o Secretário Regional poderá destacar dos serviços da SREJE os funcionários necessários para prestarem apoio ao seu Gabinete.
 
-###### Art. 8.º É da competência do chefe de gabinete, nomeadamente:
+Art. 8.º É da competência do chefe de gabinete, nomeadamente:
 
 a) Dirigir o Gabinete e representar o Secretário Regional, excepto nos actos de carácter pessoal;
 
@@ -148,9 +263,9 @@ e) Assegurar o expediente do Gabinete e executar os demais serviços que lhe for
 
 ##### DIVISÃO II — Gabinete de Estudos e Pareceres Jurídicos
 
-###### Art. 9.º O Gabinete de Estudos e Pareceres Jurídicos é um órgão com funções exclusivas de mera consulta jurídica.
+Art. 9.º O Gabinete de Estudos e Pareceres Jurídicos é um órgão com funções exclusivas de mera consulta jurídica.
 
-###### Art. 10.º Ao Gabinete de Estudos e Pareceres Jurídicos compete, nomeadamente:
+Art. 10.º Ao Gabinete de Estudos e Pareceres Jurídicos compete, nomeadamente:
 
 a) Emitir pareceres e elaborar estudos jurídicos;
 
@@ -158,7 +273,7 @@ b) Emitir pareceres sobre propostas de diplomas legais.
 
 ##### DIVISÃO III — Direcção Regional do Ensino
 
-###### Art. 11.º A Direcção Regional do Ensino superintende na organização e funcionamento da educação pré-escolar e dos ensinos básico, secundário e superior, competindo-lhe, nomeadamente:
+Art. 11.º A Direcção Regional do Ensino superintende na organização e funcionamento da educação pré-escolar e dos ensinos básico, secundário e superior, competindo-lhe, nomeadamente:
 
 a) Contribuir para a definição da política educativa na Região em coordenação com os serviços do Ministério da Educação, garantindo assim a intercomunicabilidade de docentes e discentes;
 
@@ -178,7 +293,7 @@ h) Desenvolver as acções tendentes à concessão de equivalências de estudo;
 
 i) Propor medidas que visem a extensão, criação e organização do ensino superior na RAM, velando pela sua qualidade e eficiência e, sem prejuízo de observância dos princípios de autonomia dos respectivos estabelecimentos de ensino, colaborar com outros departamentos da SREJE nas acções respeitantes ao seu funcionamento.
 
-###### Art. 12.º - 1 - A Direcção Regional do Ensino compreende os seguintes serviços:
+Art. 12.º - 1 - A Direcção Regional do Ensino compreende os seguintes serviços:
 
 a) Direcção de Serviços da Educação Pré-Escolar e do Ensino Básico (1.º ciclo) (DSEPEB);
 
@@ -196,9 +311,11 @@ g) Centro de Meios Áudio-Visuais (CEMAV).
 
 2 - Na dependência do director regional do Ensino funcionam a Inspecção Pedagógica (IP), como serviço de controlo e fiscalização pedagógica, em relação à educação pré-escolar e aos ensinos básico e secundário, oficial e particular e as Divisões de Formação Contínua (DFC) e de Programas e Equivalências (DPE).
 
-##### SUBDIVISÃO I — Direcção de Serviços da Educação Pré-Escolar e do Ensino Básico (1.º ciclo)
+SUBDIVISÃO I
 
-###### Art. 13.º - 1 - À DSEPEB compete, nomeadamente:
+Direcção de Serviços da Educação Pré-Escolar e do Ensino Básico (1.º ciclo)
+
+Art. 13.º - 1 - À DSEPEB compete, nomeadamente:
 
 a) Promover e fomentar a realização de acções para formação contínua de educadores de infância e de professores do 1.º ciclo do ensino básico, em colaboração, quando necessário, com os serviços correspondentes do Ministério da Educação;
 
@@ -212,9 +329,11 @@ e) Orientar, em colaboração com a DSEPC, as actividades pedagógicas dos estab
 
 2 - Dependentes da DSEPEB funcionam a Divisão de Infância e o Gabinete de Apoio à Expressão Musical e Dramática.
 
-#### SECÇÃO I — Divisão de Infância
+#### SECÇÃO I
 
-###### Art. 14.º À Divisão de Infância compete, nomeadamente:
+##### Divisão de Infância
+
+Art. 14.º À Divisão de Infância compete, nomeadamente:
 
 a) Promover as acções destinadas à primeira e segunda infâncias numa perspectiva de apoio à família com carácter supletivo, visando o desenvolvimento integral e a inserção na vida da comunidade;
 
@@ -222,7 +341,7 @@ b) Prestar todo o apoio técnico-pedagógico aos estabelecimentos de educação 
 
 #### SECÇÃO II — Gabinete de Apoio à Expressão Musical e Dramática
 
-###### Art. 15.º Ao Gabinete de Apoio à Expressão Musical e Dramática, que é dirigido por um director, equiparado a chefe de divisão, compete, nomeadamente:
+Art. 15.º Ao Gabinete de Apoio à Expressão Musical e Dramática, que é dirigido por um director, equiparado a chefe de divisão, compete, nomeadamente:
 
 a) Promover o desenvolvimento físico e motor, valorizando as capacidades sensoriais, afectivas e intelectuais para as diversas formas de expressão estética;
 
@@ -232,9 +351,11 @@ c) Promover a criatividade, a improvisação e a expressividade;
 
 d) Promover o desenvolvimento da personalidade da criança.
 
-##### SUBDIVISÃO II — Direcção de Serviços do Ensino Básico (2.º e 3.º ciclos)
+SUBDIVISÃO II
 
-###### Art. 16.º À DSEB compete, nomeadamente:
+Direcção de Serviços do Ensino Básico (2.º e 3.º ciclos)
+
+Art. 16.º À DSEB compete, nomeadamente:
 
 a) Promover a realização de medidas que visem a melhoria da qualidade e eficiência do ensino do 2.º ciclo directo e indirecto, em colaboração estreita com o Centro de Meios Áudio-Visuais;
 
@@ -244,9 +365,11 @@ c) Observar, em colaboração com a Inspecção Pedagógica, as condições de a
 
 d) Promover acções destinadas à sensibilização de educandos e encarregados de educação para o cumprimento da escolaridade obrigatória.
 
-##### SUBDIVISÃO III — Direcção de Serviços do Ensino Secundário
+SUBDIVISÃO III
 
-###### Art. 17.º - 1 - À DSES compete, nomeadamente:
+Direcção de Serviços do Ensino Secundário
+
+Art. 17.º - 1 - À DSES compete, nomeadamente:
 
 a) Promover a realização de medidas que visem a melhoria da qualidade e eficiência do ensino secundário;
 
@@ -260,9 +383,11 @@ e) Favorecer a orientação e formação técnico-profissional dos jovens com vi
 
 2 - Dependentes da DSES funcionam a Divisão do Ensino Técnico-Profissional e Profissional (DETPP) e o Gabinete de Apoio Psicológico e de Orientação Escolar e Profissional (GAPOEP).
 
-#### SECÇÃO I — Divisão do Ensino Técnico-Profissional e Profissional
+#### SECÇÃO I
 
-###### Art. 18.º À DETPP compete, nomeadamente:
+##### Divisão do Ensino Técnico-Profissional e Profissional
+
+Art. 18.º À DETPP compete, nomeadamente:
 
 a) Facultar os contactos e experiências com o mundo do trabalho;
 
@@ -270,7 +395,7 @@ b) Propor a organização de cursos técnico-profissionais e profissionais adequ
 
 #### SECÇÃO II — Gabinete de Apoio Psicológico e de Orientação Escolar e Profissional
 
-###### Art. 19.º Ao GAPOEP, que é dirigido por um director, equiparado a chefe de divisão, compete, nomeadamente:
+Art. 19.º Ao GAPOEP, que é dirigido por um director, equiparado a chefe de divisão, compete, nomeadamente:
 
 a) Promover acções de orientação escolar e profissional;
 
@@ -278,9 +403,11 @@ b) Apoiar o desenvolvimento psicológico dos alunos;
 
 c) Elaboração e desenvolvimento de projectos e programas de acção, visando a avaliação e intervenção de situações específicas dentro do campo educativo e em colaboração com outros agentes e valências da comunidade.
 
-##### SUBDIVISÃO IV — Direcção de Serviços do Ensino Particular e Cooperativo
+SUBDIVISÃO IV
 
-###### Art. 20.º A DSEPC exercerá a superintendência em todo o ensino ministrado fora dos estabelecimentos públicos, incluindo instituições de solidariedade social com valência de infância, com excepção dos estabelecimentos de formação ou cultura eclesiástica, nos termos das disposições em vigor, e dos estabelecimentos de ensino superior, competindo-lhe, nomeadamente:
+Direcção de Serviços do Ensino Particular e Cooperativo
+
+Art. 20.º A DSEPC exercerá a superintendência em todo o ensino ministrado fora dos estabelecimentos públicos, incluindo instituições de solidariedade social com valência de infância, com excepção dos estabelecimentos de formação ou cultura eclesiástica, nos termos das disposições em vigor, e dos estabelecimentos de ensino superior, competindo-lhe, nomeadamente:
 
 a) Proporcionar aos estabelecimentos de ensino particular e cooperativo e às instituições particulares de solidariedade social com valência de infância o apoio técnico, nos domínios pedagógicos e administrativo, em colaboração com as demais direcções desta Secretaria Regional, nos termos previstos por lei;
 
@@ -294,9 +421,11 @@ e) Accionar as acções relativas aos processos de concessão de paralelismo e a
 
 f) Proceder à apreciação dos relatórios apresentados pelos diversos estabelecimentos de ensino particular e cooperativo e instituições particulares de solidariedade social com valência de infância, insertos nesta Região, com a colaboração da IP.
 
-##### SUBDIVISÃO V — Direcção de Serviços do Ensino Superior
+SUBDIVISÃO V
 
-###### Art. 21.º À D. S. E. Sup. compete, designadamente:
+Direcção de Serviços do Ensino Superior
+
+Art. 21.º À D. S. E. Sup. compete, designadamente:
 
 a) Elaborar ou colaborar na elaboração dos diplomas que se relacionem com o funcionamento das instituições de ensino superior na RAM, no âmbito da competência exclusiva dos seus órgãos de governo próprio;
 
@@ -312,9 +441,11 @@ f) Apoiar os estabelecimentos privados de ensino superior da Região;
 
 g) Efectuar os estudos relativos à definição de critérios de concessão de regalias aos estudantes do ensino superior.
 
-##### SUBDIVISÃO VI — Direcção de Serviços de Educação Física e Desporto Escolar
+SUBDIVISÃO VI
 
-###### Art. 22.º À DSEFDE compete exercer as funções de coordenação das actividades curriculares da educação física e do desporto escolar, nomeadamente:
+Direcção de Serviços de Educação Física e Desporto Escolar
+
+Art. 22.º À DSEFDE compete exercer as funções de coordenação das actividades curriculares da educação física e do desporto escolar, nomeadamente:
 
 a) Proporcionar acções necessárias à implementação e coordenação da disciplina curricular de Educação Física ao nível da educação pré-escolar e dos ensinos básico e secundário, superior universitário e especial;
 
@@ -338,9 +469,11 @@ j) Indicar para nomeação os coordenadores concelhios de educação física e d
 
 k) Colaborar na elaboração de programas de educação física ou na reformulação dos mesmos, a nível regional.
 
-##### SUBDIVISÃO VII — Centro de Meios Áudio-Visuais
+SUBDIVISÃO VII
 
-###### Art. 23.º - 1 - Ao CMAV, que será dirigido por um director, equiparado a director de serviços, compete, nomeadamente:
+Centro de Meios Áudio-Visuais
+
+Art. 23.º - 1 - Ao CMAV, que será dirigido por um director, equiparado a director de serviços, compete, nomeadamente:
 
 a) Enquadrar professores e alunos na importância pedagógica das técnicas áudio-visuais, possibilitando-lhes um contacto mais directo com o equipamento áudio-visual e dando-lhes condições de vir a produzir o seu próprio material;
 
@@ -360,7 +493,7 @@ g) Passar a vidéocassette filmes que, pelo seu conteúdo, interessam às escola
 
 #### SECÇÃO I — Gabinete Técnico Operacional
 
-###### Art. 24.º - 1 - Ao GTO, que será dirigido por um coordenador, equiparado a chefe de repartição, compete, nomeadamente:
+Art. 24.º - 1 - Ao GTO, que será dirigido por um coordenador, equiparado a chefe de repartição, compete, nomeadamente:
 
 a) Planificar e organizar os serviços operacionais;
 
@@ -368,9 +501,11 @@ b) Promover acções de informação de carácter técnico.
 
 2 - Dependente do GTO funciona a Secção Técnica.
 
-##### SUBDIVISÃO VIII — Inspecção Pedagógica
+SUBDIVISÃO VIII
 
-###### Art. 25.º À IP, que será orientada por um inspector-coordenador-chefe, compete, nomeadamente:
+Inspecção Pedagógica
+
+Art. 25.º À IP, que será orientada por um inspector-coordenador-chefe, compete, nomeadamente:
 
 a) Verificar e assegurar o cumprimento das disposições legais e das orientações de âmbito pedagógico definidas superiormente;
 
@@ -396,13 +531,17 @@ k) Dar parecer, sempre que solicitada, sobre as formas de assegurar a escolarida
 
 l) Propor e colaborar na instauração de processos de sindicância, bem como instruir processos de inquérito e processos disciplinares ao pessoal docente dos estabelecimentos de ensino oficial, particular e cooperativo.
 
-##### SUBDIVISÃO IX — Divisão de Formação Contínua
+SUBDIVISÃO IX
 
-###### Art. 26.º À DFC compete assegurar o complemento, aperfeiçoamento e actualização de conhecimentos e de competências profissionais, bem como possibilitar a mobilidade e a progressão na carreira em estreita colaboração com as direcções de serviços do ensino respectivas.
+##### Divisão de Formação Contínua
 
-##### SUBDIVISÃO X — Divisão de Programas e Equivalências
+Art. 26.º À DFC compete assegurar o complemento, aperfeiçoamento e actualização de conhecimentos e de competências profissionais, bem como possibilitar a mobilidade e a progressão na carreira em estreita colaboração com as direcções de serviços do ensino respectivas.
 
-###### Art. 27.º À DPE compete, nomeadamente:
+SUBDIVISÃO X
+
+##### Divisão de Programas e Equivalências
+
+Art. 27.º À DPE compete, nomeadamente:
 
 a) Assegurar a aplicabilidade dos programas curriculares em estreita colaboração com as direcções de serviços do ensino respectivas;
 
@@ -410,7 +549,7 @@ b) Desenvolver as acções tendentes à concessão de equivalências de estudos.
 
 ##### DIVISÃO IV — Direcção Regional de Educação Especial
 
-###### Art. 28.º A DREE, dotada de autonomia técnica e administrativa, orienta e coordena os estabelecimentos e serviços de educação especial oficiais, competindo-lhe, designadamente:
+Art. 28.º A DREE, dotada de autonomia técnica e administrativa, orienta e coordena os estabelecimentos e serviços de educação especial oficiais, competindo-lhe, designadamente:
 
 a) Assegurar a educação e integração familiar e social das crianças e jovens com deficiências auditivas, intelectuais, motoras, visuais e outras que exijam métodos especiais de acção;
 
@@ -442,11 +581,11 @@ n) Preparar os planos gerais de actividades, incluindo os orçamentos, e submet�
 
 o) Autorizar as despesas, designadamente com bens de consumo, aquisição de material ou equipamento, até aos limites estabelecidos.
 
-###### Art. 29.º No âmbito da sua competência, a DREE assegura a coordenação da iniciativa privada comparticipada, designadamente a cargo das instituições de utilidade pública, com a oficial, tendo em vista o racional aproveitamento dos meios disponíveis.
+Art. 29.º No âmbito da sua competência, a DREE assegura a coordenação da iniciativa privada comparticipada, designadamente a cargo das instituições de utilidade pública, com a oficial, tendo em vista o racional aproveitamento dos meios disponíveis.
 
-###### Art. 30.º A DREE superintende na gestão dos estabelecimentos e serviços afectos à sua área, submetendo a despacho do Secretário Regional da Educação, Juventude e Emprego os assuntos que careçam de apreciação ou decisão superior.
+Art. 30.º A DREE superintende na gestão dos estabelecimentos e serviços afectos à sua área, submetendo a despacho do Secretário Regional da Educação, Juventude e Emprego os assuntos que careçam de apreciação ou decisão superior.
 
-###### Art. 31.º A DREE compreende os seguintes órgãos e serviços:
+Art. 31.º A DREE compreende os seguintes órgãos e serviços:
 
 a) Conselho Administrativo (CA);
 
@@ -462,9 +601,11 @@ f) Centro de Documentação, Estudo e Divulgação (CDED);
 
 g) Serviços gerais.
 
-##### SUBDIVISÃO I — Conselho Administrativo
+SUBDIVISÃO I
 
-###### Art. 32.º - 1 - O CA é constituído pelo director regional, que preside, pelos directores de serviços e pelo chefe da RSA.
+Conselho Administrativo
+
+Art. 32.º - 1 - O CA é constituído pelo director regional, que preside, pelos directores de serviços e pelo chefe da RSA.
 
 2 - AO CA compete coadjuvar o director regional, designadamente no que se refere a:
 
@@ -476,9 +617,11 @@ c) Apreciar as contas de gerência;
 
 d) Pronunciar-se sobre os demais aspectos administrativos que interessam ao bom funcionamento da DREE.
 
-##### SUBDIVISÃO II — Conselho Técnico
+SUBDIVISÃO II
 
-###### Art. 33.º - 1 - O CT é constituído pelo director regional, que preside, pelos directores de serviços e pelos directores técnicos.
+Conselho Técnico
+
+Art. 33.º - 1 - O CT é constituído pelo director regional, que preside, pelos directores de serviços e pelos directores técnicos.
 
 2 - Compete ao CT coadjuvar o director regional, nomeadamente no que se refere a:
 
@@ -494,9 +637,11 @@ e) Fomentar iniciativas que visem a informação e sensibilização da comunidad
 
 f) Pronunciar-se sobre as matérias que respeitem a coordenação e articulação dos serviços que prosseguem actividades afins, tendo em vista uma política de acção integrada.
 
-##### SUBDIVISÃO III — Direcção de Serviços Técnicos de Educação
+SUBDIVISÃO III
 
-###### Art. 34.º - 1 - À DSTE compete a coordenação dos serviços a seguir designados:
+Direcção de Serviços Técnicos de Educação
+
+Art. 34.º - 1 - À DSTE compete a coordenação dos serviços a seguir designados:
 
 a) Serviço Técnico de Educação de Deficientes Auditivos;
 
@@ -510,13 +655,15 @@ e) Serviço de Lares (SL).
 
 2 - Aos serviços técnicos de educação compete garantir a educação e integração social e familiar das crianças e jovens com deficiências sensoriais, intelectuais, motoras e outras que exijam métodos especiais de acção técnico-pedagógica.
 
-###### Art. 35.º Cada um dos serviços referidos no artigo anterior poderá ser composto por um ou mais estabelecimentos e dirigido por um director técnico, obrigatoriamente especializada na deficiência respectiva, ou por um técnico com formação adequada a designar pelo director regional.
+Art. 35.º Cada um dos serviços referidos no artigo anterior poderá ser composto por um ou mais estabelecimentos e dirigido por um director técnico, obrigatoriamente especializada na deficiência respectiva, ou por um técnico com formação adequada a designar pelo director regional.
 
-###### Art. 36.º O SL tem como função apoiar os serviços técnicos de educação e o Serviço de Integração Sócio-Profissional nos tempos livres e de repouso dos educandos, sem prejuízo do princípio de total integração das crianças e jovens, designadamente em colocações familiares.
+Art. 36.º O SL tem como função apoiar os serviços técnicos de educação e o Serviço de Integração Sócio-Profissional nos tempos livres e de repouso dos educandos, sem prejuízo do princípio de total integração das crianças e jovens, designadamente em colocações familiares.
 
-##### SUBDIVISÃO IV — Direcção de Serviços de Apoio Técnico
+SUBDIVISÃO IV
 
-###### Art. 37.º À DSAT compete a coordenação dos serviços a seguir designados:
+Direcção de Serviços de Apoio Técnico
+
+Art. 37.º À DSAT compete a coordenação dos serviços a seguir designados:
 
 a) Serviço de Psicologia (SP);
 
@@ -528,19 +675,21 @@ d) Serviço de Terapêutica (S. Ter.);
 
 e) Valências médicas.
 
-###### Art. 38.º O SP tem por função apoiar os serviços técnicos de educação e os serviços de apoio técnico, incumbindo-lhe a observação, diagnóstico e orientação psicopedagógica dos educandos, e futuros utentes em colaboração com outras valências e serviços.
+Art. 38.º O SP tem por função apoiar os serviços técnicos de educação e os serviços de apoio técnico, incumbindo-lhe a observação, diagnóstico e orientação psicopedagógica dos educandos, e futuros utentes em colaboração com outras valências e serviços.
 
-###### Art. 39.º O SS tem por função apoiar os serviços técnicos de educação e os serviços de apoio técnico, contribuindo para a identificação das causas e consequências sociais inerentes à problemática dos educandos e futuros utentes, e motivar a responsabilização da comunidade pela integração social dos deficientes em colaboração com outras valências e serviços.
+Art. 39.º O SS tem por função apoiar os serviços técnicos de educação e os serviços de apoio técnico, contribuindo para a identificação das causas e consequências sociais inerentes à problemática dos educandos e futuros utentes, e motivar a responsabilização da comunidade pela integração social dos deficientes em colaboração com outras valências e serviços.
 
-###### Art. 40.º O SISP tem por função apoiar os serviços técnicos de educação no que se refere à orientação, formação e integração profissional dos educandos em colaboração com outros serviços e entidades.
+Art. 40.º O SISP tem por função apoiar os serviços técnicos de educação no que se refere à orientação, formação e integração profissional dos educandos em colaboração com outros serviços e entidades.
 
-###### Art. 41.º O S. Ter. tem por função apoiar os serviços técnicos de educação e o SISP, especialmente no que se refere à estimulação e reeducação psicomotora, sensorial e de fala dos educandos.
+Art. 41.º O S. Ter. tem por função apoiar os serviços técnicos de educação e o SISP, especialmente no que se refere à estimulação e reeducação psicomotora, sensorial e de fala dos educandos.
 
-###### Art. 42.º As valências médicas têm por função o exame e o diagnóstico dos educandos e futuros utentes, de forma a permitir um melhor e mais eficaz acompanhamento, quer no processo de admissão e encaminhamento para o serviço técnico mais adequado, quer no próprio processo educativo, para o que, de acordo com o âmbito de acção da DREE, abrangerão, designadamente, fisioterapia, oftalmologia, otorrinolaringologia, pediatria e psiquiatria.
+Art. 42.º As valências médicas têm por função o exame e o diagnóstico dos educandos e futuros utentes, de forma a permitir um melhor e mais eficaz acompanhamento, quer no processo de admissão e encaminhamento para o serviço técnico mais adequado, quer no próprio processo educativo, para o que, de acordo com o âmbito de acção da DREE, abrangerão, designadamente, fisioterapia, oftalmologia, otorrinolaringologia, pediatria e psiquiatria.
 
-##### SUBDIVISÃO V — Repartição de Serviços Administrativos
+SUBDIVISÃO V
 
-###### Art. 43.º - 1 - À RSA compete coordenar e orientar toda a actividade dos serviços mencionados no número seguinte e dar parecer sobre orçamentos, contas de gerência e demais elementos de gestão das instituições particulares de solidariedade social da tutela.
+Repartição de Serviços Administrativos
+
+Art. 43.º - 1 - À RSA compete coordenar e orientar toda a actividade dos serviços mencionados no número seguinte e dar parecer sobre orçamentos, contas de gerência e demais elementos de gestão das instituições particulares de solidariedade social da tutela.
 
 2 - Na dependência desta Repartição funcionam os seguintes serviços:
 
@@ -554,9 +703,11 @@ d) Secção de Aprovisionamento;
 
 e) Tesouraria.
 
-##### SUBDIVISÃO VI — Centro de Documentação, Estudo e Divulgação
+SUBDIVISÃO VI
 
-###### Art. 44.º O CDED tem por função prestar apoio técnico ao director regional e aos serviços da DREE, competindo-lhe, designadamente:
+Centro de Documentação, Estudo e Divulgação
+
+Art. 44.º O CDED tem por função prestar apoio técnico ao director regional e aos serviços da DREE, competindo-lhe, designadamente:
 
 a) Colher e organizar informações, documentos e outro material relacionado com a educação especial, bem como colaborar com outros serviços no campo da investigação, da informação e sensibilização da comunidade para a problemática da deficiência;
 
@@ -564,9 +715,11 @@ b) Colaborar na elaboração e realização de planos de actividades, estudos e 
 
 c) Colaborar na organização e realização de acções de formação do pessoal da DREE e de integração de crianças e jovens deficientes no meio social.
 
-##### SUBDIVISÃO VII — Serviços gerais
+SUBDIVISÃO VII
 
-###### Art. 45.º - 1 - Aos serviços gerais compete, nomeadamente:
+Serviços gerais
+
+Art. 45.º - 1 - Aos serviços gerais compete, nomeadamente:
 
 a) Proceder à preparação, confecção e distribuição de refeições;
 
@@ -584,7 +737,7 @@ c) Sector de equipamento e manutenção.
 
 ##### DIVISÃO V — Direcção Regional de Estudos e Planeamento da Educação
 
-###### Art. 46.º A DREPE é um órgão de concepção, coordenação e apoio, no âmbito da SREJE, ao qual incumbe, nomeadamente:
+Art. 46.º A DREPE é um órgão de concepção, coordenação e apoio, no âmbito da SREJE, ao qual incumbe, nomeadamente:
 
 a) Contribuir para a formulação da política educativa na Região, bem como proceder ao estudo das carências e planeamento das actividades a realizar no âmbito do ensino e da educação;
 
@@ -614,7 +767,7 @@ m) Organizar, implementar e divulgar programas no âmbito dos programas da CEE, 
 
 n) As demais atribuições que lhe forem determinadas pelo Secretário Regional.
 
-###### Art. 47.º - 1 - A DREPE compreende os seguintes órgãos:
+Art. 47.º - 1 - A DREPE compreende os seguintes órgãos:
 
 a) Direcção de Serviços de Estudo e Planeamento (DSEP);
 
@@ -626,9 +779,11 @@ d) Direcção de Serviços de Biblioteca (DSB).
 
 2 - Na dependência da DREPE funciona uma Secção Administrativa e Documental (SAD).
 
-##### SUBDIVISÃO I — Direcção de Serviços de Estudos e Planeamento
+SUBDIVISÃO I
 
-###### Art. 48.º À DSEP compete, designadamente:
+Direcção de Serviços de Estudos e Planeamento
+
+Art. 48.º À DSEP compete, designadamente:
 
 a) Contribuir para a dinamização da renovação permanente da actividade educativa, elaborando estudos, relatórios, pareceres ou projectos no domínio da inovação educacional, bem como no das grandes linhas de acção pedagógica;
 
@@ -642,9 +797,11 @@ e) Preparar os planos no sector da educação;
 
 f) Apresentar estudos e projectos na área da educação a serem aprovados e financiados pela CEE.
 
-##### SUBDIVISÃO II — Direcção de Serviços de Programação, Equipamento e Manutenção
+SUBDIVISÃO II
 
-###### Art. 49.º À DSPEM compete:
+Direcção de Serviços de Programação, Equipamento e Manutenção
+
+Art. 49.º À DSPEM compete:
 
 a) Acompanhar e avaliar da execução dos investimentos do Plano e elaboração dos relatórios respeitantes a essa execução no que se refere a equipamentos;
 
@@ -658,9 +815,11 @@ e) Colaborar com a SRES e os municípios na escolha e aquisição do equipamento
 
 f) Promover uma racional utilização das instalações escolares, através de acções convenientes, em colaboração com a SRES e os municípios, tendo em vista uma optimização das mesmas.
 
-##### SUBDIVISÃO III — Direcção de Serviços de Educação Permanente e Assuntos Comunitários
+SUBDIVISÃO III
 
-###### Art. 50.º À DSEPAC compete:
+Direcção de Serviços de Educação Permanente e Assuntos Comunitários
+
+Art. 50.º À DSEPAC compete:
 
 a) Elaborar e implementar projectos e programas educativos, especificamente programas de educação cívica;
 
@@ -688,9 +847,11 @@ l) Promover o ensino das línguas estrangeiras dos países da CE;
 
 m) Divulgar informação sobre a CE nos cursos de educação de base de adultos.
 
-##### SUBDIVISÃO IV — Direcção de Serviços de Bibliotecas
+SUBDIVISÃO IV
 
-###### Art. 51.º À DSB incumbe:
+Direcção de Serviços de Bibliotecas
+
+Art. 51.º À DSB incumbe:
 
 a) Promover o livro, ensinar a arte de utilizar o livro e a biblioteca, incentivando o gosto pela leitura;
 
@@ -700,9 +861,9 @@ c) Apoiar os professores das escolas de ensino básico da respectiva área, medi
 
 ##### DIVISÃO VI — Direcção Regional dos Desportos
 
-###### Art. 52.º A DRD é o órgão da SREJE que visa a criação das condições técnicas, materiais e humanas necessárias ao desenvolvimento desportivo e ao apoio e fomento das iniciativas no domínio da ocupação dos tempos livres, da cultura e do desporto.
+Art. 52.º A DRD é o órgão da SREJE que visa a criação das condições técnicas, materiais e humanas necessárias ao desenvolvimento desportivo e ao apoio e fomento das iniciativas no domínio da ocupação dos tempos livres, da cultura e do desporto.
 
-###### Art. 53.º No âmbito da competência genérica definida no artigo anterior, à DRD compete, nomeadamente:
+Art. 53.º No âmbito da competência genérica definida no artigo anterior, à DRD compete, nomeadamente:
 
 a) Definir as modalidades desportivas de âmbito regional, estabelecendo as suas áreas de implantação e a sua delimitação geográfica, criando pólos de desenvolvimento;
 
@@ -722,7 +883,7 @@ h) Fomentar o contacto com os diversos órgãos correspondentes do governo centr
 
 i) Fazer a articulação com as câmaras municipais e conselhos directivos, com vista a uma utilização maximizada das instalações desportivas afectas à SREJE.
 
-###### Art. 54.º A DRD compreende os seguintes órgãos e serviços:
+Art. 54.º A DRD compreende os seguintes órgãos e serviços:
 
 a) Conselho Regional Desportivo (CRD);
 
@@ -734,11 +895,13 @@ d) Serviços sub-regionais;
 
 e) Repartição Administrativa (RA).
 
-##### SUBDIVISÃO I — Conselho Regional Desportivo
+SUBDIVISÃO I
 
-###### Art. 55.º O CRD é o órgão de consulta, coordenação e apoio da DRD no exercício das suas atribuições.
+Conselho Regional Desportivo
 
-###### Art. 56.º O CRD terá a seguinte composição:
+Art. 55.º O CRD é o órgão de consulta, coordenação e apoio da DRD no exercício das suas atribuições.
+
+Art. 56.º O CRD terá a seguinte composição:
 
 a) Director regional dos Desportos;
 
@@ -768,7 +931,7 @@ n) Um representante das estruturas militares;
 
 o) Dois elementos a designar pelos atletas, sendo um deles um particante profissional.
 
-###### Art. 57.º Compete ao CRD:
+Art. 57.º Compete ao CRD:
 
 a) Assegurar a coordenação entre todos os sectores que intervêm, directa ou indirectamente, no processo desportivo;
 
@@ -776,9 +939,11 @@ b) Propor e colaborar nos estudos relativos à situação desportiva regional, s
 
 c) Colaborar e dar parecer em todos os assuntos que o director regional entenda conveniente submeter-lhe.
 
-##### SUBDIVISÃO II — Direcção de Serviços de Programação, Apoio Técnico, Formação e Documentação
+SUBDIVISÃO II
 
-###### Art. 58.º - 1 - À DSPATFD compete, nomeadamente:
+Direcção de Serviços de Programação, Apoio Técnico, Formação e Documentação
+
+Art. 58.º - 1 - À DSPATFD compete, nomeadamente:
 
 a) Estudar a situação desportiva regional a todos os níveis;
 
@@ -806,9 +971,11 @@ a) Escolas de desporto;
 
 b) Centros de estágio.
 
-##### SUBDIVISÃO III — Direcção de Serviços de Actividades, Instalações e Apetrechamento
+SUBDIVISÃO III
 
-###### Art. 59.º - 1 - À DSAIA compete, nomeadamente:
+Direcção de Serviços de Actividades, Instalações e Apetrechamento
+
+Art. 59.º - 1 - À DSAIA compete, nomeadamente:
 
 a) Fomentar e coordenar todas as áreas de actividades desportivas;
 
@@ -846,9 +1013,11 @@ c) Piscinas;
 
 d) Outras instalações desportivas a serem integradas no património da SREJE.
 
-#### SECÇÃO I — Divisão de Actividades e de Instalações Desportivas
+#### SECÇÃO I
 
-###### Art. 60.º À DAID compete, nomeadamente:
+##### Divisão de Actividades e de Instalações Desportivas
+
+Art. 60.º À DAID compete, nomeadamente:
 
 a) Desenvolver e promover a criação de condições que permitam acesso progressivo das populações a uma prática desportiva de recreação e lazer;
 
@@ -858,9 +1027,11 @@ c) Pôr em prática e apoiar, técnica e materialmente, as práticas desportivas
 
 d) Promover a criação de condições que permitam o controlo e gestão, manutenção e apetrechamento das instalações definitivas integradas no património da SREJE.
 
-#### SECÇÃO II — Divisão do Desporto Federado
+#### SECÇÃO II
 
-###### Art. 61.º À DDF compete, nomeadamente:
+##### Divisão do Desporto Federado
+
+Art. 61.º À DDF compete, nomeadamente:
 
 a) Exercer a tutela dos organismos não governamentais de carácter desportivo, de harmonia com a legislação em vigor;
 
@@ -872,17 +1043,21 @@ d) Apoiar as associações de modalidades desportivas regionais federadas;
 
 e) Colaborar na elaboração de critérios da participação e integração das equipas e atletas nas competições nacionais e internacionais.
 
-##### SUBDIVISÃO IV — Serviços sub-regionais
+SUBDIVISÃO IV
 
-###### Art. 62.º Os serviços sub-regionais (delegações da DRD) serão criados por despacho do Secretário Regional da Educação, Juventude e Emprego, mediante proposta do director regional dos Desportos, e têm por objectivos:
+Serviços sub-regionais
+
+Art. 62.º Os serviços sub-regionais (delegações da DRD) serão criados por despacho do Secretário Regional da Educação, Juventude e Emprego, mediante proposta do director regional dos Desportos, e têm por objectivos:
 
 a) Permitir uma descentralização dos serviços nas zonas onde o crescimento do fenómeno desportivo o justifique;
 
 b) Apoiar e coordenar todas as actividades desportivas desenvolvidas nas referidas zonas de acordo com a regulamentação a ser criada.
 
-##### SUBDIVISÃO V — Repartição Administrativa
+SUBDIVISÃO V
 
-###### Art. 63.º - 1 - À RA compete, nomeadamente:
+Repartição Administrativa
+
+Art. 63.º - 1 - À RA compete, nomeadamente:
 
 a) Coordenar e orientar as secções referidas no número seguinte;
 
@@ -898,7 +1073,7 @@ e) Desempenhar outras funções de natureza administrativa de que seja superiorm
 
 ##### DIVISÃO VII — Direcção Regional da Juventude
 
-###### Art. 64.º - 1 - A DRJ é um órgão de concepção e coordenação que visa proporcionar aos jovens, com a sua própria participação e em articulação com outros departamentos, respostas adequadas aos seus anseios e aspirações.
+Art. 64.º - 1 - A DRJ é um órgão de concepção e coordenação que visa proporcionar aos jovens, com a sua própria participação e em articulação com outros departamentos, respostas adequadas aos seus anseios e aspirações.
 
 2 - À DRJ compete, nomeadamente:
 
@@ -924,7 +1099,7 @@ j) Promover o apoio à iniciativa dos jovens empresários.
 
 3 - Na dependência da DRJ funciona uma secção administrativa (SA).
 
-###### Art. 65.º A DRJ compreende:
+Art. 65.º A DRJ compreende:
 
 a) Direcção de Serviços da Juventude (DSJ);
 
@@ -936,9 +1111,11 @@ d) Gabinete de Apoio Legislativo (GAL);
 
 e) Gabinete Coordenador de Intercâmbio Juvenil (GCIJ)
 
-##### SUBDIVISÃO I — Direcção de Serviços da Juventude
+SUBDIVISÃO I
 
-###### Art. 66.º À DSJ incumbe:
+Direcção de Serviços da Juventude
+
+Art. 66.º À DSJ incumbe:
 
 a) Elaborar, coordenar e desenvolver os estudos necessários a um programa de ocupação de tempos livres;
 
@@ -962,9 +1139,11 @@ j) Organizar e manter actualizado o registo das associações juvenis;
 
 k) Potenciar o intercâmbio e a comunicação das diversas colectividades e organismos juvenis, organizando encontros e debates sobre a problemática juvenil.
 
-##### SUBDIVISÃO II — Gabinete de Animação Juvenil
+SUBDIVISÃO II
 
-###### Art. 67.º Ao GA, que é dirigido por um director, equiparado a chefe de divisão, compete:
+Gabinete de Animação Juvenil
+
+Art. 67.º Ao GA, que é dirigido por um director, equiparado a chefe de divisão, compete:
 
 a) Promover, incentivar e apoiar a realização de exposições;
 
@@ -976,9 +1155,11 @@ d) Acompanhar as actividades de ocupação de tempos livres;
 
 e) Proceder à divulgação de todo o tipo de documentação que apoie as iniciativas dos jovens nos domínios artístico, cultural e musical.
 
-##### SUBDIVISÃO III — Centro Coordenador de Informação e Documentação Juvenil
+SUBDIVISÃO III
 
-###### Art. 68.º Ao CCIDJ, que é dirigido por um director, equiparado a chefe de divisão, compete:
+Centro Coordenador de Informação e Documentação Juvenil
+
+Art. 68.º Ao CCIDJ, que é dirigido por um director, equiparado a chefe de divisão, compete:
 
 a) Divulgar as actividades desenvolvidas pela Direcção Regional;
 
@@ -1004,9 +1185,11 @@ k) Coordenar e assegurar a boa execução da acção de intercâmbio juvenil e a
 
 l) Assegurar os serviços de recepção e encaminhamento dos utentes da Direcção Regional.
 
-##### SUBDIVISÃO IV — Gabinete de Apoio Legislativo
+SUBDIVISÃO IV
 
-###### Art. 69.º O GAL, que funciona na dependência directa do director regional, é um órgão com funções de consulta jurídica, competindo-lhe, nomeadamente:
+Gabinete de Apoio Legislativo
+
+Art. 69.º O GAL, que funciona na dependência directa do director regional, é um órgão com funções de consulta jurídica, competindo-lhe, nomeadamente:
 
 a) Emitir pareceres e elaborar estudos jurídicos;
 
@@ -1016,9 +1199,11 @@ c) Apreciar projectos de diplomas de carácter sectorial no que respeita à juve
 
 d) Analisar e dar parecer sobre questões que digam respeito aos jovens.
 
-##### SUBDIVISÃO V — Gabinete Coordenador de Intercâmbio Juvenil
+SUBDIVISÃO V
 
-###### Art. 70.º - 1 - O GCIJ, que funciona na dependência directa do director regional, é dirigido por um director, equiparado a chefe de divisão.
+Gabinete Coordenador de Intercâmbio Juvenil
+
+Art. 70.º - 1 - O GCIJ, que funciona na dependência directa do director regional, é dirigido por um director, equiparado a chefe de divisão.
 
 2 - Ao GCIJ incumbe:
 
@@ -1036,9 +1221,9 @@ f) Elaborar o regulamento de funcionamento das pousadas de juventude.
 
 ##### DIVISÃO VIII — Direcção Regional do Emprego
 
-###### Art. 71.º A DREM é o órgão da SREJE que visa contribuir para a definição da política de emprego.
+Art. 71.º A DREM é o órgão da SREJE que visa contribuir para a definição da política de emprego.
 
-###### Art. 72.º No âmbito da competência genérica definida no artigo anterior, à DREM compete, especialmente:
+Art. 72.º No âmbito da competência genérica definida no artigo anterior, à DREM compete, especialmente:
 
 a) Contribuir para a definição da política de emprego e elaboração da respectiva legislação;
 
@@ -1064,9 +1249,9 @@ k) Apoiar tecnicamente as relações com entidades nacionais e internacionais em
 
 l) Elaborar pareceres e prestar apoio técnico sobre assuntos da sua área de intervenção.
 
-###### Art. 73.º A DREM é dotada de autonomia administrativa.
+Art. 73.º A DREM é dotada de autonomia administrativa.
 
-###### Art. 74.º - 1 - A DREM compreende os seguintes órgãos e serviços:
+Art. 74.º - 1 - A DREM compreende os seguintes órgãos e serviços:
 
 a) Conselho Administrativo (CA);
 
@@ -1076,9 +1261,11 @@ c) Direcção de Serviços de Promoção do Emprego (DSPE).
 
 2 - Na dependência directa do director regional, funciona a Divisão de Estudos, Planeamento e Administração (DEPA).
 
-##### SUBDIVISÃO I — Conselho Administrativo
+SUBDIVISÃO I
 
-###### Art. 75.º - 1 - O CA é constituído pelo director regional, que preside, pelo director de Serviços de Promoção de Emprego, pelo chefe da Divisão de Estudos, Planeamento e Administração e pelo chefe da Repartição de Serviços Administrativos.
+Conselho Administrativo
+
+Art. 75.º - 1 - O CA é constituído pelo director regional, que preside, pelo director de Serviços de Promoção de Emprego, pelo chefe da Divisão de Estudos, Planeamento e Administração e pelo chefe da Repartição de Serviços Administrativos.
 
 2 - Enquanto o cargo de chefe da Repartição de Serviços Administrativos não se encontrar provido, as respectivas funções no CA serão asseguradas pelo chefe de secção responsável pelos serviços de contabilidade da DREM.
 
@@ -1092,9 +1279,11 @@ c) Apreciar as contas de gerência;
 
 d) Pronunciar-se sobre os demais aspectos administrativos que interessam ao bom funcionamento da DREM.
 
-##### SUBDIVISÃO II — Direcção de Serviços de Emprego e do Sector Cooperativo
+SUBDIVISÃO II
 
-###### Art. 76.º - 1 - À DSESC compete:
+Direcção de Serviços de Emprego e do Sector Cooperativo
+
+Art. 76.º - 1 - À DSESC compete:
 
 a) Promover o ajustamento entre a procura e a oferta de emprego, nomeadamente através de acções de colocação e de mobilidade geográfica e profissional dos trabalhadores;
 
@@ -1120,7 +1309,7 @@ j) Coordenar todas as questões referentes ao sector cooperativo, nomeadamente a
 
 #### SECÇÃO I — Centro de Emprego do Funchal
 
-###### Art. 77.º - 1 - Ao CEF compete, especialmente:
+Art. 77.º - 1 - Ao CEF compete, especialmente:
 
 a) Colaborar na aplicação de medidas e programas que visem fomentar o emprego, em especial de grupos de desempregados de difícil colocação;
 
@@ -1138,9 +1327,11 @@ g) Elaborar informações e proceder ao tratamento estatístico do movimento dos
 
 2 - O CEF é dirigido por um director, equiparado a chefe de divisão.
 
-#### SECÇÃO II — Divisão do Sector Cooperativo
+#### SECÇÃO II
 
-###### Art. 78.º À DSC compete:
+##### Divisão do Sector Cooperativo
+
+Art. 78.º À DSC compete:
 
 a) Realizar ou promover estudos sobre temas cooperativos, designadamente os que possibilitem o planeamento e desenvolvimento de acções globais ou sectoriais de acordo com as necessidades do sector;
 
@@ -1162,9 +1353,11 @@ f) Acompanhar a aplicação dos meios financeiros concedidos por organismos púb
 
 g) Exercer funções consultivas sobre matérias da sua competência, a solicitação de departamentos do Governo Regional ou de organizações do sector cooperativo.
 
-##### SUBDIVISÃO III — Direcção de Serviços de Promoção do Emprego
+SUBDIVISÃO III
 
-###### Art. 79.º - 1 - À DSPE incumbe:
+Direcção de Serviços de Promoção do Emprego
+
+Art. 79.º - 1 - À DSPE incumbe:
 
 a) Recolher e organizar informações sobre oportunidades de criação de postos de trabalho e proceder à sua divulgação;
 
@@ -1182,9 +1375,11 @@ g) Promover o estudo e divulgação de matérias relativas ao Fundo Social Europ
 
 2 - Na dependência da DSPE funcionam as Divisões de Programas de Emprego (DPE) e do Fundo Social Europeu (DFSE).
 
-#### SECÇÃO I — Divisão de Programas de Emprego
+#### SECÇÃO I
 
-###### Art. 80.º À DPE compete:
+##### Divisão de Programas de Emprego
+
+Art. 80.º À DPE compete:
 
 a) Recolher e organizar a informação necessária à análise das possibilidades de criação de postos de trabalho;
 
@@ -1202,9 +1397,11 @@ g) Analisar os pedidos de apoio técnico ou financeiro que sejam formulados na s
 
 h) Acompanhar as entidades apoiadas, providenciando pela correcta aplicação dos apoios concedidos.
 
-#### SECÇÃO II — Divisão do Fundo Social Europeu
+#### SECÇÃO II
 
-###### Art. 81.º À DFSE compete:
+##### Divisão do Fundo Social Europeu
+
+Art. 81.º À DFSE compete:
 
 a) Participar na elaboração dos instrumentos necessários de acesso aos apoios do Fundo Social Europeu, nos termos das correspondentes regras regionais, nacionais e comunitárias;
 
@@ -1218,9 +1415,11 @@ e) Promover a realização de estudos tendentes a avaliar os resultados dos apoi
 
 f) Propor a adopção das medidas necessárias a uma boa gestão das acções apoiadas e a correcta aplicação dos apoios recebidos.
 
-##### SUBDIVISÃO IV — Divisão de Estudos, Planeamento e Administração
+SUBDIVISÃO IV
 
-###### Art. 82.º - 1 - À DEPA compete, nomeadamente:
+##### Divisão de Estudos, Planeamento e Administração
+
+Art. 82.º - 1 - À DEPA compete, nomeadamente:
 
 a) Elaborar estudos visando a adopção de medidas na área de intervenção da DREM e colaborar na elaboração da respectiva legislação;
 
@@ -1240,7 +1439,7 @@ g) Promover a elaboração dos orçamentos e contas de gerência e coordenar o f
 
 #### SECÇÃO I — Repartição de Serviços Administrativos
 
-###### Art. 83.º - 1 - À RSA compete, nomeadamente:
+Art. 83.º - 1 - À RSA compete, nomeadamente:
 
 a) Coordenar e orientar as secções referidas no número seguinte;
 
@@ -1264,7 +1463,7 @@ c) Tesouraria.
 
 #### SECÇÃO II — Núcleo de informação e Documentação
 
-###### Art. 84.º Ao NID compete:
+Art. 84.º Ao NID compete:
 
 a) Propor a aquisição de livros, revistas e demais publicações ou documentação de carácter técnico, administrativo ou cultural de interesse para a DREM;
 
@@ -1274,9 +1473,9 @@ c) Manter organizados os arquivos e ficheiros e todos o material documentalísti
 
 ##### DIVISÃO IX — Direcção Regional de Finanças, Administração e Pessoal
 
-###### Art. 85.º A DRFAP exerce a superintendência financeira e administrativa sobre todos os departamentos e serviços dependentes da Secretaria Regional da Educação, Juventude e Emprego.
+Art. 85.º A DRFAP exerce a superintendência financeira e administrativa sobre todos os departamentos e serviços dependentes da Secretaria Regional da Educação, Juventude e Emprego.
 
-###### Art. 86.º À DRFAP compete, nomeadamente:
+Art. 86.º À DRFAP compete, nomeadamente:
 
 a) Superintender e coordenar a gestão administrativa e financeira dos estabelecimentos de ensino, bem como dos órgãos e serviços dependentes da Secretaria Regional;
 
@@ -1294,7 +1493,7 @@ g) Colaborar com a DREPE na programação e orientação das operações relativ
 
 h) Proceder ao tratamento dos dados estatísticos relativos às áreas de competência desta Direcção Regional.
 
-###### Art. 87.º A DRFAP compreende os seguintes serviços:
+Art. 87.º A DRFAP compreende os seguintes serviços:
 
 a) Direcção de Serviços de Administração e Pessoal (DSAP);
 
@@ -1308,9 +1507,11 @@ e) Centro de Informática (CI);
 
 f) Inspecção Administrativo-Financeira (IAF).
 
-##### SUBDIVISÃO I — Direcção de Serviços de Administração e Pessoal
+SUBDIVISÃO I
 
-###### Art. 88.º À DSAP compete, designadamente:
+Direcção de Serviços de Administração e Pessoal
+
+Art. 88.º À DSAP compete, designadamente:
 
 a) Proceder à preparação e execução das operações ligadas à gestão de todo o pessoal dos departamentos e serviços dependentes da Secretaria Regional;
 
@@ -1322,7 +1523,7 @@ d) Realizar acções de formação, actualização e aperfeiçoamento do pessoal
 
 e) Proceder à recolha de dados estatísticos relativos a esta Direcção de Serviços.
 
-###### Art. 89.º A DSAP compreende os seguintes serviços:
+Art. 89.º A DSAP compreende os seguintes serviços:
 
 a) Divisão de Pessoal não Docente (DPND);
 
@@ -1332,9 +1533,11 @@ c) Divisão Administrativa da Educação Pré-Escolar e do Ensino Básico (1.º 
 
 d) Repartição Administrativa (RA).
 
-#### SECÇÃO I — Divisão de Pessoal não Docente
+#### SECÇÃO I
 
-###### Art. 90.º - 1 - À DPND compete, nomeadamente:
+##### Divisão de Pessoal não Docente
+
+Art. 90.º - 1 - À DPND compete, nomeadamente:
 
 a) Coordenar, orientar e executar todo o serviço de expediente relacionado com o pessoal técnico, administrativo, operário e auxiliar dos estabelecimentos de ensino preparatório e secundário, bem como dos departamentos e serviços da SREJE;
 
@@ -1346,9 +1549,11 @@ d) Elaborar o cadastro das escolas, no que respeita ao número de lugares criado
 
 2 - Na dependência da DPND funciona a Secção de Pessoal não Docente.
 
-#### SECÇÃO II — Divisão de Pessoal Docente
+#### SECÇÃO II
 
-###### Art. 91.º - 1 - À DPD compete, nomeadamente:
+##### Divisão de Pessoal Docente
+
+Art. 91.º - 1 - À DPD compete, nomeadamente:
 
 a) Coordenar, orientar e executar todo o serviço de expediente relacionado com o pessoal docente, dos estabelecimentos de ensino preparatório e secundário;
 
@@ -1358,9 +1563,11 @@ c) Elaborar o cadastro das escolas, no que respeita ao número de lugares criado
 
 2 - Na dependência da DPD funciona a Secção de Pessoal Docente.
 
-#### SECÇÃO III — Divisão Administrativa da Educação Pré Escolar e do Ensino Básico (1.º ciclo)
+#### SECÇÃO III
 
-###### Art. 92.º - 1 - À DAEPEB compete, nomeadamente:
+##### Divisão Administrativa da Educação Pré Escolar e do Ensino Básico (1.º ciclo)
+
+Art. 92.º - 1 - À DAEPEB compete, nomeadamente:
 
 a) Coordenar e orientar todo o serviço administrativo da divisão, de acordo com as orientações superiormente definidas;
 
@@ -1378,7 +1585,7 @@ e) Proceder à recolha de dados estatísticos relativos a esta Divisão.
 
 #### SECÇÃO IV — Repartição Administrativa
 
-###### Art. 93.º À RA compete:
+Art. 93.º À RA compete:
 
 a) Assegurar o expediente dos vários serviços da Secretaria Regional;
 
@@ -1394,9 +1601,11 @@ f) Prestar apoio administrativo aos grupos de trabalho que forem constituídos n
 
 g) Desempenhar outras funções de natureza administrativa de que seja superiormente incumbido.
 
-##### SUBDIVISÃO II — Direcção de Serviços da Acção Social Escolar
+SUBDIVISÃO II
 
-###### Art. 94.º - 1 - À DSASE compete, nomeadamente:
+Direcção de Serviços da Acção Social Escolar
+
+Art. 94.º - 1 - À DSASE compete, nomeadamente:
 
 a) Realizar os estudos necessários à formulação de propostas de definição da política da acção social escolar, propondo, se necessário, a adaptação da legislação nacional aos condicionalismos da Região;
 
@@ -1412,9 +1621,11 @@ f) Cooperar com os órgãos competentes da Secretaria Regional dos Assuntos Soci
 
 2 - Na dependência da DSASE funciona a Secção Administrativa.
 
-##### SUBDIVISÃO III — Direcção de Serviços de Finanças
+SUBDIVISÃO III
 
-###### Art. 95.º - 1 - À DSF compete, nomeadamente:
+Direcção de Serviços de Finanças
+
+Art. 95.º - 1 - À DSF compete, nomeadamente:
 
 a) Elaborar os projectos de orçamento da Secretaria Regional;
 
@@ -1432,7 +1643,7 @@ f) Proceder à recolha dos dados estatísticos referentes à área da sua compet
 
 #### SECÇÃO I — Repartição de Finanças
 
-###### Art. 96.º - 1 - À RF compete, nomeadamente:
+Art. 96.º - 1 - À RF compete, nomeadamente:
 
 a) Coordenar e orientar as secções referidas no número seguinte;
 
@@ -1452,9 +1663,11 @@ c) Secção de Contabilidade dos Serviços Centrais da SREJE;
 
 d) Secção de Contabilidade dos Serviços Autónomos tutelados pela SREJE.
 
-##### SUBDIVISÃO IV — Centro Regional de Formação Profissional
+SUBDIVISÃO IV
 
-###### Art. 97.º - 1 - Ao CRFP, que é dotado de autonomia administrativa, compete, nomeadamente:
+Centro Regional de Formação Profissional
+
+Art. 97.º - 1 - Ao CRFP, que é dotado de autonomia administrativa, compete, nomeadamente:
 
 a) Recolher e tratar as informações relativas à determinação das necessidades regionais de formação e reabilitação profissionais, de colaboração com a Direcção Regional de Emprego;
 
@@ -1488,7 +1701,7 @@ e) Gabinete Técnico (GT).
 
 #### SECÇÃO I — Conselho Administrativo
 
-###### Art. 98.º - 1 - O CA é constituído pelo director do Centro, que preside, pelo chefe da Divisão Administrativa e pelo chefe da Secção de Contabilidade e Tesouraria.
+Art. 98.º - 1 - O CA é constituído pelo director do Centro, que preside, pelo chefe da Divisão Administrativa e pelo chefe da Secção de Contabilidade e Tesouraria.
 
 2 - Ao CA compete:
 
@@ -1498,9 +1711,11 @@ b) Proceder à avaliação económica das despesas;
 
 c) Fiscalizar a cobrança das receitas.
 
-#### SECÇÃO II — Divisão Administrativa
+#### SECÇÃO II
 
-###### Art. 99.º - 1 - À DA compete, designadamente:
+##### Divisão Administrativa
+
+Art. 99.º - 1 - À DA compete, designadamente:
 
 a) Proceder à elaboração do orçamento do Centro;
 
@@ -1512,9 +1727,11 @@ d) Proporcionar serviços de apoio aos estagiários, nomeadamente no plano admin
 
 2 - Na dependência desta Divisão funcionam as Secções Administrativa e de Contabilidade e Tesouraria.
 
-#### SECÇÃO III — Divisão de Formação Profissional
+#### SECÇÃO III
 
-###### Art. 100.º À DFP compete, designadamente:
+##### Divisão de Formação Profissional
+
+Art. 100.º À DFP compete, designadamente:
 
 a) Providenciar todos os requisitos necessários à intervenção dos fundos estruturais da CEE, nomeadamente o Fundo Social Europeu;
 
@@ -1526,7 +1743,7 @@ d) Desenvolver a cooperação, com os serviços competentes no âmbito da forma�
 
 #### SECÇÃO IV — Gabinete de Informação e Orientação Profissional
 
-###### Art. 101.º Ao GIOP, que é dirigido por um director, equiparado a chefe de divisão, incumbe, especialmente:
+Art. 101.º Ao GIOP, que é dirigido por um director, equiparado a chefe de divisão, incumbe, especialmente:
 
 a) Promover a organização e coordenar o movimento de candidaturas a acções de formação profissional desenvolvidas no quadro do Centro;
 
@@ -1534,15 +1751,17 @@ b) Conceber e preparar os instrumentos técnicos de tratamento a utilizar pelos 
 
 #### SECÇÃO V — Gabinete Técnico
 
-###### Art. 102.º Ao GT incumbe, nomeadamente:
+Art. 102.º Ao GT incumbe, nomeadamente:
 
 a) Preparar no plano pedagógico as acções programadas e acompanhar a aplicação prática das metodologias adoptadas;
 
 b) Providenciar todas as acções necessárias à manutenção do Centro, nomeadamente instalações e equipamentos.
 
-##### SUBDIVISÃO V — Centro de Informática
+SUBDIVISÃO V
 
-###### Art. 103.º Ao CI, que é dirigido por um director, equiparado a director de serviços, compete, designadamente:
+Centro de Informática
+
+Art. 103.º Ao CI, que é dirigido por um director, equiparado a director de serviços, compete, designadamente:
 
 a) Estudar, definir e promover o tratamento automático da informação correspondente às funções da SREJE;
 
@@ -1560,9 +1779,11 @@ g) Orientar as tarefas de organização exigidas para uma correcta implementaç�
 
 h) Acompanhar a evolução da política informática da administração pública regional.
 
-##### SUBDIVISÃO VI — Inspecção Administrativo-Financeira
+SUBDIVISÃO VI
 
-###### Art. 104.º À IAF, que será orientada por um inspector-coordenador-chefe, compete, nomeadamente:
+Inspecção Administrativo-Financeira
+
+Art. 104.º À IAF, que será orientada por um inspector-coordenador-chefe, compete, nomeadamente:
 
 a) Realizar inspecções ao funcionamento, no plano administrativo-financeiro, dos estabelecimentos oficiais de ensino, bem como dos serviços dependentes da SREJE;
 
@@ -1576,7 +1797,7 @@ e) Colaborar com os serviços da IP na instrução dos processos disciplinares q
 
 ## TÍTULO III — Pessoal
 
-###### Art. 105.º - 1 - O pessoal do quadro da SREJE é agrupado em:
+Art. 105.º - 1 - O pessoal do quadro da SREJE é agrupado em:
 
 a) Pessoal dirigente;
 
@@ -1596,7 +1817,7 @@ g) Pessoal operário.
 
 3 - Para além do disposto no presente diploma, o ingresso e o acesso nas carreiras e categorias do quadro de pessoal da SREJE regem-se pelo disposto no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro, aplicado à Região pelos Decretos Regulamentares Regionais n.os [18/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1983-455937) e [19/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1984-396548), respectivamente de 29 de Agosto e 28 de Dezembro, [Decreto-Lei n.º 384-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1985-168598), de 30 de Setembro, [Decreto Regulamentar Regional n.º 15/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1984-400040), de 9 de Outubro, [Decreto Regulamentar Regional n.º 9/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1982-391838), de 2 de Junho, que aplica à Região o [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, [Decreto-Lei n.º 102/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1984-661731), de 29 de Março, [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, [Decreto Legislativo Regional n.º 19/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-1989-619748), de 13 de Julho, [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, [Decreto Regulamentar Regional n.º 16/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1988-378279), de 28 de Julho, e demais legislação regional e geral aplicável.
 
-###### Art. 106.º - 1 - O pessoal dirigente é provido de acordo com o estatuto que para o referido pessoal estiver em vigor na Região Autónoma da Madeira.
+Art. 106.º - 1 - O pessoal dirigente é provido de acordo com o estatuto que para o referido pessoal estiver em vigor na Região Autónoma da Madeira.
 
 2 - Do grupo de pessoal auxiliar constante dos quadros a que se refere o n.º 2 do artigo 105.º fazem também parte as carreiras e categorias de auxiliar de instalações desportivas e de meios áudio-visuais, fiel de armazém, auxiliar de limpeza, auxiliar técnico administrativo e operador de reprografia.
 
@@ -1642,7 +1863,7 @@ d) Monitores de formação profissional estagiários, por concurso de provas te�
 
 e) As escalas salariais da carreira de monitor de formação profissional são as constantes do mapa anexo ao presente diploma.
 
-###### Art. 107.º - 1 - O recrutamento dos estagiários previsto nas carreiras referidas nos n.os 11 e 13 do artigo anterior far-se-á em função do número de vagas ocorridas nas categorias de ingresso na respectiva carreira.
+Art. 107.º - 1 - O recrutamento dos estagiários previsto nas carreiras referidas nos n.os 11 e 13 do artigo anterior far-se-á em função do número de vagas ocorridas nas categorias de ingresso na respectiva carreira.
 
 2 - O estágio, cuja duração não pode ser inferior a seis meses, tem carácter probatório e visa a formação e adaptação dos candidatos às funções para que foram recrutados.
 
@@ -1666,7 +1887,7 @@ b) A rescisão do contrato e a dispensa dos estagiários, sem direito a qualquer
 
 8 - O tempo de serviço prestado durante o período de estágio será contado para todos os efeitos legais, desde que não haja interrupção de serviço.
 
-###### Art. 108.º - 1 - O recrutamento para ingresso nas carreiras de operador de reprografia e de auxiliar de limpeza far-se-á mediante concurso de entre indivíduos habilitados com a escolaridade obrigatória.
+Art. 108.º - 1 - O recrutamento para ingresso nas carreiras de operador de reprografia e de auxiliar de limpeza far-se-á mediante concurso de entre indivíduos habilitados com a escolaridade obrigatória.
 
 2 - Os actuais técnicos auxiliares de 2.ª classe (letra S) do quadro da Direcção Regional de Educação Especial transitarão para a categoria de técnico auxiliar de 2.ª classe, logo que adquiram as habilitações exigidas, independentemente de quaisquer formalidades legais, excepto o visto da Secção Regional do Tribunal de Contas.
 
@@ -1674,24 +1895,24 @@ b) A rescisão do contrato e a dispensa dos estagiários, sem direito a qualquer
 
 4 - O coordenador do CMAV será recrutado de entre técnicos-adjuntos especialistas principais, com pelo menos três anos de bom e efectivo serviço, ou indivíduos com curso superior e adequada experiência profissional não inferior a três anos.
 
-###### Art. 109.º - 1 - As categorias de capataz, auxiliar técnico administrativo e encarregado de armazém, previstas no actual quadro de pessoal da SREJE, são extintas à medida que vagarem.
+Art. 109.º - 1 - As categorias de capataz, auxiliar técnico administrativo e encarregado de armazém, previstas no actual quadro de pessoal da SREJE, são extintas à medida que vagarem.
 
 2 - As transições para as novas categorias das carreiras de monitor de formação profissional e de técnico de emprego, decorrentes da aplicação do presente diploma, processam-se nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
 
-###### Art. 110.º O Secretário Regional poderá autorizar a contratação, além dos quadros, do pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços da SREJE.
+Art. 110.º O Secretário Regional poderá autorizar a contratação, além dos quadros, do pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços da SREJE.
 
 ## TÍTULO IV — Disposições finais
 
-###### Art. 111.º Este diploma entra imediatamente em vigor e, no tocante às reclassificações e revalorizações, produz os efeitos estabelecidos no [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, adaptado à Região pelo [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 16 de Fevereiro.
+Art. 111.º Este diploma entra imediatamente em vigor e, no tocante às reclassificações e revalorizações, produz os efeitos estabelecidos no [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, adaptado à Região pelo [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 16 de Fevereiro.
 
 Aprovado em Conselho do Governo Regional em 16 de Novembro de 1989.
 
 Pelo Presidente do Governo Regional, Miguel José Luís de Sousa.
 
-**Assinado em 15 de Dezembro de 1989.**
+Assinado em 15 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29905/00640093.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29905/00640093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29905/00640093.pdf)

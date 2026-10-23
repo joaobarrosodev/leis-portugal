@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/36/2012/12/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-2012-189968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aed8ce0c5994d37370446312547c7be32fd7b9b41835e7542780a73ea0c9d1b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b38e41fdb41326f4c22e3be9404c6edbfb032c8289e67d6fddf53b4f081c784f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Definição de Competências
-- Vice-presidência do Governo Regional
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Vice-presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:69782196:por
@@ -109,16 +109,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:145229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69782196:por
+  label: Revogado o DRR 9/2011/M de 19-dez DR.IS [241], na redação do presente diploma, pelo(a) Decreto Regulamentar Regional
+    n.º 6/2015/M - Diário da República n.º 133/2015, Série I de 2015-07-10, nos termos do art. 3.º deste último, com exceção
+    da parte referente aos diversos órgãos e serviços não regulamentados neste último, que se mantém em vigor até à data da
+    entrada em vigor dos diplomas que aprovarão as respetivas orgânicas
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2015-69782196
+  date: '2015-07-10'
 article_structure:
-  article_count: 34
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:46Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +191,9 @@ Assim, ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 
 
 3 - Com o objetivo de aumentar a flexibilidade e eficácia da gestão, podem ser criadas por despacho do Vice-Presidente do Governo, sob proposta do dirigente máximo do serviço, equipas de projeto temporárias e com objetivos especificados, nos termos do n.º 3 do artigo 20.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro, alterado e republicado pelo [Decreto Legislativo Regional n.º 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de Agosto.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1- ...
 
@@ -181,7 +223,9 @@ j) Direção Regional de Estradas.
 
 4 - Os serviços referidos nas alíneas b), c), d), e), f), g), h), i) e j) do n.º 1 e a alínea a) do n.º2 do presente artigo, são dirigidos por um diretor regional, cargo de direção superior do 1.º grau.
 
-###### Artigo 7.º — Serviços da Administração indireta e empresas públicas e organismos
+Artigo 7.º
+
+Serviços da Administração indireta e empresas públicas e organismos
 
 1- A Vice-Presidência do Governo exerce superintendência e tutela sobre as seguintes entidades:
 
@@ -207,7 +251,9 @@ f) VIAMADEIRA - Concessão Viária da Madeira, S.A.
 
 3 - O Vice-Presidente do Governo exerce a tutela sobre a AREAM - Agência Regional de Energia e Ambiente da Região Autónoma da Madeira.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -227,7 +273,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Na organização interna das unidades orgânicas, será criada uma direção de serviços a que se refere a alínea b) do n.º 2 do artigo 8.º, a qual será aprovada por portaria conjunta do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças.
 
@@ -247,11 +295,15 @@ c) Organizar e manter atualizado o cadastro e inventário dos bens móveis do Ga
 
 2- O anexo I da orgânica da Vice-Presidência do Governo, aprovada pelo [Decreto Regulamentar Regional n.º 9/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2011-145229), de 19 de dezembro, passa a ter a seguinte redação:
 
-## ANEXO I — Cargos de direção superior, de direção intermédia do 1.º grau e chefes de departamento
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24800/0724307249.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24800/0724307249.pdf)
+Cargos de direção superior, de direção intermédia do 1.º grau e chefes de departamento
 
-###### Artigo 2.º — Aditamento de secções ao [Decreto Regulamentar Regional n.º 9/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2011-145229), de 19 de dezembro
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24800/0724307249.pdf)
+
+Artigo 2.º
+
+Aditamento de secções ao [Decreto Regulamentar Regional n.º 9/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2011-145229), de 19 de dezembro
 
 No capítulo III, Secção II do [Decreto Regulamentar Regional n.º 9/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2011-145229), de 19 de dezembro, são aditadas as subsecções II e III, com a seguinte redação:
 
@@ -259,7 +311,9 @@ No capítulo III, Secção II do [Decreto Regulamentar Regional n.º 9/2011/M](h
 
 Serviço de Estudos, Planeamento e Controlo de Gestão
 
-###### Artigo 11.º - A — Natureza e atribuições
+Artigo 11.º - A
+
+Natureza e atribuições
 
 Ao Serviço de Estudos, Planeamento e Controlo de Gestão, abreviadamente designado por SEPCG, sob a orientação do Vice-Presidente do Governo e em cooperação com os demais serviços, compete nomeadamente:
 
@@ -281,9 +335,13 @@ h) Assegurar, controlar e manter atualizado o cadastro patrimonial afeto à Vice
 
 i) Emitir os pareceres e exercer as demais funções que lhe sejam determinadas.
 
-##### SUBSECÇÃO III — Serviço de Contabilidade e Pessoal
+SUBSECÇÃO III
 
-###### Artigo 11.º - B — Natureza e atribuições
+Serviço de Contabilidade e Pessoal
+
+Artigo 11.º - B
+
+Natureza e atribuições
 
 1 - O Serviço de Contabilidade e Pessoal, abreviadamente designado por SCP, é o serviço que, sob a orientação do Vice-Presidente do Governo e em cooperação com os demais serviços, assegura o apoio, execução e coordenação nas áreas da contabilidade, orçamento, aprovisionamento e recursos humanos.
 
@@ -319,13 +377,17 @@ n) Exercer as demais funções que lhe sejam superiormente determinadas.
 
 3 - O SCP poderá corresponder-se diretamente com os restantes departamentos governamentais da Vice-Presidência do Governo, em matéria da sua competência, para garantir maior celeridade e eficácia na prossecução dos objetivos propostos".
 
-###### Artigo 3.º — Alteração à organização sistemática do [Decreto Regulamentar Regional n.º 9/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2011-145229), de 19 de dezembro
+Artigo 3.º
+
+Alteração à organização sistemática do [Decreto Regulamentar Regional n.º 9/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2011-145229), de 19 de dezembro
 
 1 - A anterior Subsecção II passa a constituir a Subsecção IV, mantendo a epígrafe "Departamento dos Serviços Administrativos".
 
 2 - A anterior Subsecção III passa a constituir a Subsecção V, mantendo a epígrafe "Departamento de Apoio".
 
-###### Artigo 4.º — Criação de serviços
+Artigo 4.º
+
+Criação de serviços
 
 1 - São criados os seguintes serviços:
 
@@ -337,37 +399,51 @@ b) Direção Regional de Estradas;
 
 3 - Com a entrada em vigor do diploma que proceder à extinção da RAMEDM - Estradas da Madeira S.A., as atribuições e competências daquela empresa pública são integradas na Direção Regional de Estradas.
 
-###### Artigo 5.º — Republicação
+Artigo 5.º
+
+Republicação
 
 É republicado, em anexo ao presente diploma, do qual faz parte integrante, a orgânica da Vice-Presidência do Governo, publicada em anexo ao Decreto Regulamentar Regional n.º9/2011/M, de 19 de dezembro, com as alterações introduzidas pelo presente diploma.
 
-###### Artigo 6.º — Produção de efeitos
+Artigo 6.º
+
+Produção de efeitos
 
 O presente diploma produz efeitos com a entrada em vigor dos diplomas referidos nos n.º 2 e 3 do artigo 4.º do presente diploma.
 
-###### Artigo 7.º — Entrada em vigor
+Artigo 7.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 22 de novembro de 2012.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 10 de dezembro de 2012.**
+Assinado em 10 de dezembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## ANEXO — Orgânica da Vice-Presidência do Governo
+ANEXO
 
-### CAPÍTULO I — Natureza, atribuições e competências
+Orgânica da Vice-Presidência do Governo
 
-###### Artigo 1.º — Natureza e missão
+CAPÍTULO I
+
+Natureza, atribuições e competências
+
+Artigo 1.º
+
+Natureza e missão
 
 A Vice-Presidência do Governo é o departamento do Governo Regional da Madeira que tem por missão definir, coordenar e executar a política regional nos sectores da administração da justiça, administração pública, assuntos europeus, comércio, economia, edifícios e equipamentos públicos, empreendedorismo, energia, estradas, indústria, inovação, obras públicas, qualidade, simplificação e modernização administrativa.
 
-###### Artigo 2.º — Atribuições
+Artigo 2.º
+
+Atribuições
 
 Constituem atribuições da Vice-Presidência do Governo:
 
@@ -381,7 +457,9 @@ d) Assegurar a observância das disposições reguladoras das tarefas que lhe s�
 
 e) Promover formas de cooperação com entidades regionais, nacionais e internacionais, no âmbito das suas áreas de atuação.
 
-###### Artigo 3.º — Competências
+Artigo 3.º
+
+Competências
 
 1 - A Vice-Presidência do Governo é superiormente dirigida pelo Vice-Presidente do Governo, a quem compete, designadamente:
 
@@ -419,9 +497,13 @@ n) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe se
 
 4 - O Vice-Presidente do Governo poderá, igualmente, avocar as competências dos responsáveis pelos organismos e serviços da Vice-Presidência.
 
-### CAPÍTULO II — Estrutura Orgânica
+CAPÍTULO II
 
-###### Artigo 4.º — Tipo de organização interna
+Estrutura Orgânica
+
+Artigo 4.º
+
+Tipo de organização interna
 
 1 - A organização interna da Vice-Presidência do Governo obedece ao modelo de estrutura hierarquizada.
 
@@ -429,11 +511,15 @@ n) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe se
 
 3 - Com o objetivo de aumentar a flexibilidade e eficácia da gestão, podem ser criadas por despacho do Vice-Presidente do Governo, sob proposta do dirigente máximo do serviço, equipas de projeto temporárias e com objetivos especificados, nos termos do n.º 3 do artigo 20.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro, alterado e republicado pelo [Decreto Legislativo Regional n.º 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de Agosto.
 
-###### Artigo 5.º — Estrutura geral
+Artigo 5.º
+
+Estrutura geral
 
 A Vice-Presidência do Governo prossegue as suas atribuições através de serviços integrados na administração direta da Região Autónoma da Madeira (RAM) e exerce a tutela e superintendência sobre organismos de administração indireta e, ainda, a tutela sobre entidades integradas no sector empresarial da RAM.
 
-###### Artigo 6.º — Serviços da Administração Direta
+Artigo 6.º
+
+Serviços da Administração Direta
 
 1 - Integram a administração direta da RAM, no âmbito da Vice-Presidência do Governo, os seguintes serviços centrais:
 
@@ -467,7 +553,9 @@ b) Representação Permanente da Região Autónoma da Madeira em Lisboa (RPL).
 
 4 - Os serviços referidos nas alíneas b), c), d), e), f), g) e h), i) e j) do n.º 1 e a alínea a) do n.º 2 do presente artigo, são dirigidos por um diretor regional, cargo de direção superior do 1.º grau.
 
-###### Artigo 7.º — Serviços da Administração indireta e empresas públicas e organismos
+Artigo 7.º
+
+Serviços da Administração indireta e empresas públicas e organismos
 
 1 - A Vice-Presidência do Governo exerce superintendência e tutela sobre as seguintes entidades:
 
@@ -493,11 +581,17 @@ f) VIAMADEIRA - Concessão Viária da Madeira, S.A.
 
 3 - O Vice-Presidente do Governo exerce a tutela sobre a AREAM - Agência Regional de Energia e Ambiente da Região Autónoma da Madeira.
 
-### CAPÍTULO III — Gabinete do Vice-Presidente do Governo
+CAPÍTULO III
 
-#### SECÇÃO I — Do Gabinete
+Gabinete do Vice-Presidente do Governo
 
-###### Artigo 8.º — Composição
+SECÇÃO I
+
+Do Gabinete
+
+Artigo 8.º
+
+Composição
 
 1 - O Gabinete do Vice-Presidente do Governo, designado no presente diploma por Gabinete, compreende um chefe de gabinete, três adjuntos e três secretários pessoais.
 
@@ -517,7 +611,9 @@ e) Departamento de Apoio.
 
 4 - Para os assuntos interdepartamentais, podem ser nomeados, nos termos da lei, conselheiros técnicos, os quais serão, para todos os efeitos, equiparados a adjuntos do Gabinete.
 
-###### Artigo 9.º — Chefe do Gabinete
+Artigo 9.º
+
+Chefe do Gabinete
 
 Compete genericamente ao chefe de gabinete:
 
@@ -525,7 +621,9 @@ a) Dirigir o Gabinete, assegurando o seu expediente normal, bem como a prática 
 
 b) Coordenar o Gabinete e assegurar a sua ligação funcional com os vários serviços integrados, dependentes ou sob tutela do Gabinete do Vice-Presidente do Governo e, ainda, com outros departamentos do Governo.
 
-###### Artigo 10.º — Adjuntos
+Artigo 10.º
+
+Adjuntos
 
 Aos adjuntos do Gabinete compete:
 
@@ -533,19 +631,29 @@ a) Prestar ao Vice-Presidente do Governo o apoio técnico que lhes for determina
 
 b) Substituir o chefe de gabinete nas suas ausências e impedimentos
 
-#### SECÇÃO II — Órgãos e serviços de apoio
+SECÇÃO II
 
-##### SUBSECÇÃO I — Estrutura Nuclear
+Órgãos e serviços de apoio
 
-###### Artigo 11.º — Serviços
+SUBSECÇÃO I
+
+Estrutura Nuclear
+
+Artigo 11.º
+
+Serviços
 
 1 - Na organização interna das unidades orgânicas, será criada uma direção de serviços a que se refere a alínea b) do n.º 2 do artigo 8.º, a qual será aprovada por portaria conjunta do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças.
 
 .2 - Até à aprovação do diploma referido no número anterior, mantém-se em vigor a Portaria n.º 122/2008, de 20 de agosto.
 
-##### SUBSECÇÃO II — Serviço de Estudos, Planeamento e Controlo de Gestão
+SUBSECÇÃO II
 
-###### Artigo 11.º - A — Natureza e atribuições
+Serviço de Estudos, Planeamento e Controlo de Gestão
+
+Artigo 11.º - A
+
+Natureza e atribuições
 
 Ao Serviço de Estudos, Planeamento e Controlo de Gestão, abreviadamente designado por SEPCG, sob a orientação do Vice-Presidente do Governo e em cooperação com os demais serviços, compete nomeadamente:
 
@@ -567,9 +675,13 @@ h) Assegurar, controlar e manter atualizado o cadastro patrimonial afeto à Vice
 
 i) Emitir os pareceres e exercer as demais funções que lhe sejam determinadas.
 
-##### SUBSECÇÃO III — Serviço de Contabilidade e Pessoal
+SUBSECÇÃO III
 
-###### Artigo 11.º - B — Natureza e atribuições
+Serviço de Contabilidade e Pessoal
+
+Artigo 11.º - B
+
+Natureza e atribuições
 
 1 - O Serviço de Contabilidade e Pessoal, abreviadamente designado por SCP, é o serviço que, sob a orientação do Vice-Presidente do Governo e em cooperação com os demais serviços, assegura o apoio, execução e coordenação nas áreas da contabilidade, orçamento, aprovisionamento e recursos humanos.
 
@@ -605,13 +717,19 @@ n) Exercer as demais funções que lhe sejam superiormente determinadas.
 
 3 - O SCP poderá corresponder-se diretamente com os restantes departamentos governamentais da Vice-Presidência do Governo, em matéria da sua competência, para garantir maior celeridade e eficácia na prossecução dos objetivos propostos.
 
-##### SUBSECÇÃO IV — Departamento dos Serviços Administrativos
+SUBSECÇÃO IV
 
-###### Artigo 12.º — Natureza e estrutura
+Departamento dos Serviços Administrativos
+
+Artigo 12.º
+
+Natureza e estrutura
 
 O Departamento dos Serviços Administrativos, abreviadamente designado por DSA, é o serviço de apoio administrativo e logístico do Gabinete e dos órgãos e serviços de apoio que funciona na direta dependência do chefe de gabinete.
 
-###### Artigo 13.º — Competência
+Artigo 13.º
+
+Competência
 
 Ao DSA compete:
 
@@ -623,17 +741,25 @@ c) Assegurar o tratamento, acondicionamento e gestão de documentos e proceder �
 
 d) Organizar e manter atualizado o cadastro e inventário dos bens móveis do Gabinete do Vice-Presidente e dos órgãos e serviços de apoio.
 
-##### SUBSECÇÃO V — Departamento de Apoio
+SUBSECÇÃO V
 
-###### Artigo 14.º — Natureza e atribuições
+Departamento de Apoio
+
+Artigo 14.º
+
+Natureza e atribuições
 
 1 - O Departamento de Apoio, abreviadamente designado por DA, é um serviço de apoio direto ao Vice-Presidente do Governo Regional.
 
 2 - A organização e o apoio administrativo e logístico do DA serão definidos por despacho do Vice-Presidente do Governo.
 
-### CAPÍTULO IV — Representação Permanente da Região Autónoma da Madeira em Lisboa
+CAPÍTULO IV
 
-###### Artigo 15.º — Competências e estrutura
+Representação Permanente da Região Autónoma da Madeira em Lisboa
+
+Artigo 15.º
+
+Competências e estrutura
 
 1 - A RPL tem por incumbência acolher e prestar apoio às ações e eventos de âmbito oficial, devidamente programados e autorizados para ocorrerem em Lisboa, com o intuito de promover, divulgar e informar sobre matérias e atividades de interesse para a Região Autónoma da Madeira.
 
@@ -645,28 +771,42 @@ b) Prestar colaboração às atividades oficiais que decorram na RPL.
 
 3 - As funções de secretariado serão desempenhadas por quem for designado no despacho referido no número anterior.
 
-### CAPÍTULO V — Pessoal
+CAPÍTULO V
 
-###### Artigo 16.º — Dotação do Pessoal Dirigente e Chefias
+Pessoal
+
+Artigo 16.º
+
+Dotação do Pessoal Dirigente e Chefias
 
 A dotação de lugares de direção superior, de direção intermédia do 1.º grau e de chefes de departamento, dos órgãos e serviços dependentes do Gabinete do Vice-Presidente do Governo, é o constante do anexo I ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 17.º — Carreira de Coordenador
+Artigo 17.º
+
+Carreira de Coordenador
 
 1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.
 
 2 - A descrição do conteúdo funcional da carreira de coordenador constará do respetivo mapa de pessoal.
 
-### CAPÍTULO VI — Disposições finais e transitórias
+CAPÍTULO VI
 
-###### Artigo 18.º — Transição de pessoal
+Disposições finais e transitórias
+
+Artigo 18.º
+
+Transição de pessoal
 
 A transição do pessoal far-se-á para igual carreira e categoria, através de lista nominativa a aprovar por despacho do Vice-Presidente do Governo.
 
-###### Artigo 19.º — Norma Transitória
+Artigo 19.º
+
+Norma Transitória
 
 Sem prejuízo do que vier a ser estabelecido nas respetivas orgânicas, os serviços da extinta Secretaria Regional do Equipamento Social referidos no artigo 2.º do diploma preambular, ficam na dependência do Gabinete do Vice-Presidente do Governo.
 
-## Anexo I — Cargos de direção superior, de direção intermédia do 1.º grau e chefes de departamento
+Anexo I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24800/0724307249.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24800/0724307249.pdf)
+Cargos de direção superior, de direção intermédia do 1.º grau e chefes de departamento
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24800/0724307249.pdf)

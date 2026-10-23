@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 135/2008, 1º Suplemento, Série I de 2008-07-15
   number: '135'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4442-(2) a 4442-(36)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/13501/0000200036.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/16-a/2008/07/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/16-a-2008-585064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 608bacf95712ca8428f64b6b82bbc1276780f8a95adde00ca06358c4cb7d5eaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d19daea42ac91d25c9be1d8c7fd99877e5b97377e1522e7be18c813d9c385a8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,55 +66,68 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação de Municípios
-- Parlamentar
 - Assembleia Legislativa Regional
+- Associação de Municípios
 - Cargos Políticos
-- Eleição
 - Comissão de Inquérito
+- Comissão de Regimento e Mandatos
 - Comissão Permanente
-- Governo Regional
+- Contabilidade Pública
 - Definição de Competências
+- Direito de Petição
+- Direito de Voto
+- Eleição
 - Estatuto
+- Governo Regional
 - Grupo Parlamentar
 - Imunidade Parlamentar
 - Incompatibilidades
 - Inconstitucionalidade
-- Publicitação
 - Legalidade
-- Comissão de Regimento e Mandatos
+- Madeira.região Autónoma
 - Mandato
 - Moção Política
 - Orçamento Regional
+- Parlamentar
 - Plano de Desenvolvimento Regional
 - Presidente da Assembleia Legislativa Regional
+- Processo Legislativo
 - Programa
-- Madeira.região Autónoma
-- Direito de Petição
+- Publicitação
 - Referendo
 - Regimento
 - Responsabilidade Criminal
 - Segurança Social
-- Processo Legislativo
-- Contabilidade Pública
 - Substituição de Funções
 - Vice-presidente
-- Direito de Voto
 relationships:
 - type: amended_by
   target: pt:dre:215874470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603182:por
+  label: "Alterados os arts. 76º, 90º, 98º, 166º e 238º do Regimento da Assembleia Legislativa da Madeira, aprovado pela Res\
+    \ 1/2000/M de 12-Jan, alterado e republicado pelo presente diploma, pela RES.2/2009/M.15.01.2009.AL-RAM, DR.IS [10] de\
+    \ 15.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/2-2009-603182
+  date: '2009-01-15'
+- type: amended_by
+  target: pt:dre:544397:por
+  label: "Dada nova redação aos arts. 81º, 89º e 90º do Regimento da Assembleia Legislativa da Madeira, aprovado pela Res\
+    \ 1/2000/M de 12-Jan, alterado pelo presente diploma, pela RES.5/2012/M.17.01.2012.AL-RAM, DR.IS [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/5-2012-544397
+  date: '2012-01-17'
 article_structure:
-  article_count: 259
-  section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 249
+  section_count: 47
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:15Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +182,9 @@ o) ...
 
 2 - ...
 
-###### Artigo 76.º — Período de antes da ordem do dia
+Artigo 76.º
+
+Período de antes da ordem do dia
 
 1 - ...
 
@@ -197,7 +212,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 81.º — Emissão de voto
+Artigo 81.º
+
+Emissão de voto
 
 1 - ...
 
@@ -209,7 +226,9 @@ b) ...
 
 5 - Em casos excepcionais, pode o Plenário deliberar que os votos, apesar de entrarem fora do prazo previsto no n.º 2, sejam discutidos de imediato.
 
-###### Artigo 89.º — Invocação do Regimento
+Artigo 89.º
+
+Invocação do Regimento
 
 1 - ...
 
@@ -221,7 +240,9 @@ b) ...
 
 5 - O uso da palavra para invocar o Regimento ou interpelar a Mesa não pode exceder um minuto.
 
-###### Artigo 90.º — Requerimentos
+Artigo 90.º
+
+Requerimentos
 
 1 - ...
 
@@ -247,7 +268,9 @@ c) Não há lugar a declarações de voto orais.
 
 9 - Apenas o uso da palavra para efeitos do disposto nos artigos 89.º, 91.º e 92.º do Regimento não é considerado nos tempos globais referidos nos números anteriores.
 
-###### Artigo 98.º — Duração do uso da palavra
+Artigo 98.º
+
+Duração do uso da palavra
 
 1 - No período da ordem do dia, o tempo global do uso da palavra para o debate na generalidade do projecto ou proposta de lei ou de decreto legislativo regional, salvo quanto a Conferência dos Representantes dos Grupos Parlamentares dispuser diversamente, não poderá exceder:
 
@@ -273,7 +296,9 @@ d) O Governo dispõe de tempo igual ao do grupo parlamentar com maior representa
 
 3 - Apenas o uso da palavra para efeitos do disposto nos artigos 89.º, 91.º e 92.º do Regimento não é considerado nos tempos globais referidos nos números anteriores.
 
-###### Artigo 166.º — Resoluções
+Artigo 166.º
+
+Resoluções
 
 1 - ...
 
@@ -291,11 +316,15 @@ d) O Governo dispõe de tempo igual ao do grupo parlamentar com maior representa
 
 8 - Quando o Governo Regional se fizer representar no debate, o tempo global do uso da palavra é igual ao do maior grupo parlamentar.
 
-###### Artigo 206.º — Reunião da Assembleia Legislativa
+Artigo 206.º
+
+Reunião da Assembleia Legislativa
 
 No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do artigo 12.º, o debate será agendado e organizado pela Conferência dos Representantes dos Grupos Parlamentares.
 
-###### Artigo 207.º — Debate sob a forma de interpelação
+Artigo 207.º
+
+Debate sob a forma de interpelação
 
 1 - O debate será aberto com a intervenção de um representante do grupo parlamentar interpelante e dos membros do Governo por período não superior a quinze minutos cada.
 
@@ -307,7 +336,9 @@ No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do arti
 
 5 - O debate termina com as intervenções de um deputado do grupo parlamentar interpelante e do Presidente ou membro do Governo Regional que o encerra, não podendo nenhuma das intervenções exceder quinze minutos cada.
 
-###### Artigo 208.º — Debates de urgência
+Artigo 208.º
+
+Debates de urgência
 
 1 - Os grupos parlamentares e deputados representantes de partido podem requerer, com a presença do Governo Regional, debates sobre questões de interesse público, actual e urgente.
 
@@ -315,7 +346,9 @@ No caso de exercício do direito previsto nas alíneas d) e f) do n.º 1 do arti
 
 3 - O debate será agendado e organizado pela Conferência dos Representantes dos Grupos Parlamentares.
 
-###### Artigo 238.º — Regra supletiva
+Artigo 238.º
+
+Regra supletiva
 
 1 - ...
 
@@ -351,7 +384,7 @@ As alterações ao Regimento entram em vigor no dia seguinte ao da sua publicaç
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de Junho de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
 REGIMENTO DA ASSEMBLEIA LEGISLATIVA DA REGIÃO AUTÓNOMA DA MADEIRA
 
@@ -581,7 +614,7 @@ Os deputados que não integrem qualquer grupo parlamentar ou não sejam únicos 
 
 #### SECÇÃO I — Presidente
 
-##### DIVISÃO I
+DIVISÃO I
 
 Estatuto e eleição
 
@@ -623,7 +656,7 @@ Estatuto e eleição
 
 3 - Nas faltas ou impedimentos do Presidente e Vice-Presidentes, a Presidência da Mesa será exercida por um deputado a indicar pelo partido de representação maioritária na Assembleia Legislativa.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Competência
 
@@ -729,7 +762,7 @@ i) Assinar os documentos expedidos em nome da Assembleia Legislativa;
 
 j) Chefiar as deputações da Assembleia Legislativa de que faça parte.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Conferência dos Representantes dos Grupos Parlamentares
 
@@ -935,7 +968,7 @@ e) Proceder a inquérito a factos ocorridos no âmbito da Assembleia Legislativa
 
 #### SECÇÃO III — Comissões especializadas
 
-##### DIVISÃO I
+DIVISÃO I
 
 Comissões especializadas permanentes
 
@@ -1013,7 +1046,7 @@ j) Pronunciar-se sobre as matérias que lhe sejam submetidas nos termos da alín
 
 l) Em geral, pronunciar-se sobre todos os problemas submetidos à sua apreciação pela Assembleia Legislativa ou pelo Presidente.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Comissões eventuais
 
@@ -1271,7 +1304,7 @@ c) Com mais de 16 deputados, três reuniões.
 
 ###### Artigo 68.º — Apreciação de outras matérias
 
-**O Presidente da Assembleia Legislativa incluirá na primeira parte da ordem do dia prevista no n.º 2 do artigo 82.º a apreciação das seguintes matérias:**
+O Presidente da Assembleia Legislativa incluirá na primeira parte da ordem do dia prevista no n.º 2 do artigo 82.º a apreciação das seguintes matérias:
 
 a) Deliberações sobre o mandato de deputado;
 
@@ -1435,7 +1468,7 @@ g) À comunicação de qualquer decisão do Presidente da Assembleia Legislativa
 
 ###### Artigo 83.º — Convite a individualidades estranhas à Assembleia Legislativa
 
-**O Presidente da Assembleia Legislativa poderá, a título excepcional, ouvida a Conferência dos Representantes dos Grupos Parlamentares, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.**
+O Presidente da Assembleia Legislativa poderá, a título excepcional, ouvida a Conferência dos Representantes dos Grupos Parlamentares, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso da palavra
 
@@ -1887,7 +1920,7 @@ Os serviços da Assembleia Legislativa, sob a direcção da Mesa, elaborarão no
 
 #### SECÇÃO I — Processo legislativo comum
 
-##### DIVISÃO I
+DIVISÃO I
 
 Objecto
 
@@ -1895,7 +1928,7 @@ Objecto
 
 Tomam a forma de decreto legislativo regional e seguem o processo estabelecido nos artigos seguintes os actos previstos nas alíneas b), c) e d) do n.º 1 do artigo 36.º e c), d), e), f), g), h) e j) do n.º 1 do artigo 37.º e no artigo 39.º do Estatuto da Região.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Iniciativa
 
@@ -2011,7 +2044,7 @@ b) Quanto à comissão competente.
 
 5 - Consideram-se propostas de eliminação as que se destinam a suprimir a disposição em discussão.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Exame das iniciativas
 
@@ -2029,7 +2062,7 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 ###### Artigo 140.º — Envio de propostas de alteração
 
-**O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.**
+O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 141.º — Apreciação de projectos ou de propostas sobre legislação do trabalho
 
@@ -2069,11 +2102,11 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 A comissão competente deve promover a consulta da Associação de Municípios da Região Autónoma da Madeira (AMRAM) e a delegação regional da Associação Nacional de Freguesias (ANAFRE) sempre que se trate de projectos ou propostas respeitantes às autarquias locais ou outras iniciativas que o justifiquem.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Discussão e votação
 
-##### SUBDIVISÃO I
+SUBDIVISÃO I
 
 Disposições gerais
 
@@ -2099,7 +2132,7 @@ Não será admitido o requerimento previsto no n.º 2 do artigo anterior enquant
 
 Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 147.º, salvo no que respeita à obrigatoriedade da distribuição em folhas avulsas aos deputados.
 
-##### SUBDIVISÃO II
+SUBDIVISÃO II
 
 Discussão e votação na generalidade
 
@@ -2115,7 +2148,7 @@ Discussão e votação na generalidade
 
 2 - Neste caso, a Assembleia Legislativa delibera também sobre aquele que serve de base à discussão e votação na especialidade.
 
-##### SUBDIVISÃO III
+SUBDIVISÃO III
 
 Discussão e votação na especialidade
 
@@ -2165,7 +2198,7 @@ A requerimento de 10 deputados, a votação na especialidade poderá ser adiada 
 
 3 - A votação final global não é precedida de discussão, podendo cada deputado ou grupo parlamentar produzir uma declaração escrita nos termos do artigo 95.º
 
-##### DIVISÃO V
+DIVISÃO V
 
 Redacção final
 
@@ -2191,7 +2224,7 @@ Redacção final
 
 Considera-se definitivo o texto sobre o qual não tenham recaído reclamações ou depois de elas terem sido decididas.
 
-##### DIVISÃO VI
+DIVISÃO VI
 
 Assinatura e segunda deliberação
 
@@ -2229,7 +2262,7 @@ Os projectos e as propostas de decreto legislativo regional aprovados denominam-
 
 3 - Se a Assembleia Legislativa não confirmar o decreto da Assembleia Legislativa da Madeira, a iniciativa legislativa não poderá ser renovada na mesma sessão legislativa.
 
-##### DIVISÃO VII
+DIVISÃO VII
 
 Resoluções
 
@@ -2253,7 +2286,7 @@ Resoluções
 
 #### SECÇÃO II — Processos legislativos especiais
 
-##### DIVISÃO I
+DIVISÃO I
 
 Projecto de alteração ao Estatuto Político-Administrativo da Região
 
@@ -2305,7 +2338,7 @@ O projecto aprovado toma a forma de resolução, assinada pelo Presidente da Ass
 
 O parecer aprovado pela Assembleia Legislativa toma a forma de resolução, assinada pelo Presidente da Assembleia Legislativa e por este enviada, no prazo de três dias, ao Presidente da Assembleia da República, sem prejuízo de ulterior publicação no Diário.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Propostas de lei a submeter à Assembleia da República
 
@@ -2327,7 +2360,7 @@ b) A proposta aprovada toma a forma de resolução, assinada pelo Presidente da 
 
 A Assembleia Legislativa pode enviar representantes à comissão que na Assembleia da República apreciar a proposta de lei.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Pedidos de autorização legislativa
 
@@ -2651,7 +2684,7 @@ b) Que o Presidente da Assembleia Legislativa ou as comissões entendam que deve
 
 ###### Artigo 216.º — Comunicação ao autor ou aos autores da petição
 
-**O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.**
+O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.
 
 #### SECÇÃO VII — Inquéritos
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/1995/01/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1995-145018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ffe093049ca3f1c51e348a723c810bb458e7311031df585d8030b18a17b36b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 011a87a27bb64ff9f96dac628fe579019e3bb9aa1fc5bdc5b3f2878ec241f74f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Apoio ao Investimento
 - Definição de Competências
 - Direcção Regional do Comércio e Indústria
-- Política Energética
-- Fiscalização
-- Apoio ao Investimento
-- Gestão dos Recursos
-- QCA
 - Energia
-- Programa Energia
+- Fiscalização
+- Gestão dos Recursos
 - Madeira.região Autónoma
+- Política Energética
+- Programa Energia
+- QCA
 - Recursos Energéticos
 - Regime de Apoio
 - Secretaria Regional da Economia e Cooperação Externa
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:299449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:50Z'
   warnings: []
   errors: []
 ---
@@ -115,20 +123,20 @@ Assim:
 
 O Governo Regional da Madeira, ao abrigo da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º A execução do [Decreto-Lei n.º 195/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1994-299449), de 19 de Julho, nos termos do respectivo artigo 18.º, compete, na Região Autónoma da Madeira, aos diversos órgãos e serviços do Governo Regional, de acordo com o estabelecido no artigo seguinte deste diploma.
+Artigo 1.º A execução do [Decreto-Lei n.º 195/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1994-299449), de 19 de Julho, nos termos do respectivo artigo 18.º, compete, na Região Autónoma da Madeira, aos diversos órgãos e serviços do Governo Regional, de acordo com o estabelecido no artigo seguinte deste diploma.
 
-###### Art. 2.º Na Região Autónoma da Madeira, compete à Direcção Regional do Comércio e Indústria, através da Direcção de Serviços de Energia, da Secretaria Regional de Economia e Cooperação Externa, a recepção e instrução das candidaturas, bem como a realização das correspondentes acções de controlo e pagamento dos respectivos incentivos.
+Art. 2.º Na Região Autónoma da Madeira, compete à Direcção Regional do Comércio e Indústria, através da Direcção de Serviços de Energia, da Secretaria Regional de Economia e Cooperação Externa, a recepção e instrução das candidaturas, bem como a realização das correspondentes acções de controlo e pagamento dos respectivos incentivos.
 
-###### Art. 3.º Após instrução dos processos de candidatura ao nível da Região Autónoma da Madeira, deverão estes ser enviados ao organismo gestor nos termos de protocolo a estabelecer entre aquele organismo e a entidade referida no artigo 2.º deste diploma.
+Art. 3.º Após instrução dos processos de candidatura ao nível da Região Autónoma da Madeira, deverão estes ser enviados ao organismo gestor nos termos de protocolo a estabelecer entre aquele organismo e a entidade referida no artigo 2.º deste diploma.
 
-###### Art. 4.º A fiscalização e o acompanhamento das operações efectuadas na Região Autónoma da Madeira competem à Direcção Regional do Comércio e Indústria, através da Direcção de Serviços de Energia, da Secretaria Regional de Economia e Cooperação Externa, devendo, no final de cada semestre, ser apresentado ao organismo gestor um relatório circunstanciado sobre as acções de controlo levadas a cabo.
+Art. 4.º A fiscalização e o acompanhamento das operações efectuadas na Região Autónoma da Madeira competem à Direcção Regional do Comércio e Indústria, através da Direcção de Serviços de Energia, da Secretaria Regional de Economia e Cooperação Externa, devendo, no final de cada semestre, ser apresentado ao organismo gestor um relatório circunstanciado sobre as acções de controlo levadas a cabo.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 24 de Novembro de 1994.
 
-**O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 18 de Dezembro de 1994.**
+Assinado em 18 de Dezembro de 1994.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

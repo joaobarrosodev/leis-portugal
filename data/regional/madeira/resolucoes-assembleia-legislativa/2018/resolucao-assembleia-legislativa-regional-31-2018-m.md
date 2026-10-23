@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/22300/0535205353.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/31/2018/11/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/31-2018-117011522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7c688984fb27323582671670a443d0aa67239b7ed9a95734afed1028c9fe8ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84e1f00dd0fad0e418000479ba03b86e5a85ae2345e40563368b003a9e52fba0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
+- Assembleia Legislativa
 - Código dos Impostos Especiais de Consumo
-- Imposto Especial sobre o Consumo de Tabaco
+- Diploma Legal
 - Imposto Especial sobre o Consumo
 - Imposto Especial sobre o Consumo de Bebidas Alcoólicas
+- Imposto Especial sobre o Consumo de Tabaco
 - Iniciativa Legislativa
-- Assembleia Legislativa
-- Assembleia da República
 - Madeira.região Autónoma
-- Diploma Legal
 relationships:
 - type: cites
   target: celex:31992L0079
@@ -104,16 +104,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:42Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +198,9 @@ São alterados os artigos 73.º, 81.º, 105.º-A e 114.º do [Decreto-Lei n.º 7
 
 3 - Em derrogação ao disposto no número anterior, a taxa de imposto aplicável às outras bebidas fermentadas, tranquilas e espumantes, produzidas nas pequenas sidrarias identificadas no artigo 81.º da presente lei, é a prevista no n.º 2 do artigo anterior.
 
-###### Artigo 81.º — Pequenos produtores de vinho e de sidra
+Artigo 81.º
+
+Pequenos produtores de vinho e de sidra
 
 1 - Salvo disposição em contrário, os pequenos produtores de vinho e de sidra ficam dispensados das obrigações relacionadas com a produção, circulação e controlo previstas no presente Código.
 
@@ -190,7 +212,9 @@ São alterados os artigos 73.º, 81.º, 105.º-A e 114.º do [Decreto-Lei n.º 7
 
 5 - Os depositários autorizados que detenham vinho ou sidra adquirido aos pequenos produtores devem identificar a sua proveniência e registar os respetivos movimentos na contabilidade de existências, ficando sujeitos ao regime geral.
 
-###### Artigo 105.º-A — [...]
+Artigo 105.º-A
+
+[...]
 
 1 - ...
 
@@ -198,7 +222,9 @@ São alterados os artigos 73.º, 81.º, 105.º-A e 114.º do [Decreto-Lei n.º 7
 
 3 - ...
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - ...
 
@@ -216,4 +242,6 @@ O presente diploma entra em vigor no primeiro dia do ano civil seguinte ao da su
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de outubro de 2018.
 
-**O Presidente da Assembleia Legislativa, em exercício, Miguel José Luís de Sousa.**
+O Presidente da Assembleia Legislativa, em exercício, Miguel José Luís de Sousa.
+
+111807146

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/2001/05/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2001-344432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cb266d4a7f241a7321c03fd93f1eecee7b4f1c42483ec590e9cca2e311ebfc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54b9ed1a0fdf169fd21e459eaac8f108ac5adf07d4aec0b7c45bcec282dc71b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Secretaria Regional da Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: cites
   target: eli:http://data.dr
@@ -111,16 +111,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:186556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 16
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:50Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +257,9 @@ b) Definir a política educativa, promovendo a sua execução, designadamente no
 
 ### CAPÍTULO II — Estrutura da Secretaria Regional de Educação
 
-#### SECÇÃO I — Artigo 4.º
+#### SECÇÃO I
+
+###### Artigo 4.º
 
 Estrutura
 
@@ -203,7 +289,9 @@ c) A Escola Profissional de Hotelaria e Turismo da Madeira.
 
 3 - A natureza, atribuições, orgânica, funcionamento e pessoal de cada um dos organismos e serviços referidos nas alíneas a), b), c), d), e), f) e g) do n.º 1 constarão de decreto regulamentar regional.
 
-#### SECÇÃO II — Artigo 5.º
+#### SECÇÃO II
+
+###### Artigo 5.º
 
 Estrutura e atribuições do Gabinete do Secretário Regional
 
@@ -237,7 +325,9 @@ b) Substituir o chefe do Gabinete nas suas ausências e impedimentos.
 
 Mediante proposta do Secretário Regional de Educação, podem ser nomeados e exonerados livremente conselheiros técnicos por resolução do Conselho do Governo Regional, que farão parte integrante do Gabinete do Secretário Regional, os quais serão, para todos os efeitos, equiparados a adjuntos.
 
-##### SUBSECÇÃO I — Artigo 8.º
+##### SUBSECÇÃO I
+
+###### Artigo 8.º
 
 Estrutura
 
@@ -249,7 +339,9 @@ b) Órgãos de concepção e de apoio;
 
 c) Órgão de apoio logístico.
 
-##### SUBSECÇÃO II — Artigo 9.º
+##### SUBSECÇÃO II
+
+###### Artigo 9.º
 
 Departamentos de natureza técnica e técnico-pedagógica
 
@@ -263,7 +355,9 @@ b) Departamento da Inspecção Regional de Educação.
 
 3 - O Departamento da Inspecção Regional de Educação é dirigido por um coordenador, equiparado, para todos os efeitos legais, a subdirector regional.
 
-##### SUBSECÇÃO III — Artigo 10.º
+##### SUBSECÇÃO III
+
+###### Artigo 10.º
 
 Órgãos de concepção e de apoio
 
@@ -279,7 +373,9 @@ c) Gabinete de Apoio Técnico.
 
 3 - O órgão referido na alínea b) é dirigido por um coordenador, equiparado, para todos os efeitos legais, a chefe de divisão.
 
-##### SUBSECÇÃO IV — Artigo 11.º
+##### SUBSECÇÃO IV
+
+###### Artigo 11.º
 
 Órgão de apoio logístico
 
@@ -335,8 +431,8 @@ Aprovado em Conselho do Governo Regional em 5 de Abril de 2001.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 19 de Abril de 2001.**
+Assinado em 19 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

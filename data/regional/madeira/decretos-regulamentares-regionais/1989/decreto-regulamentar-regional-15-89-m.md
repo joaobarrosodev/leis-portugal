@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1989-619693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b90e147be022078713a1f2cf1d32487df69ad7b89d5b58f92deae3b992c76ae6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21f0691e15d379db7450f499b19a4bf574a8d92f38adf1169630b563a62ec72b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Apoio ao Investimento
+- Madeira.região Autónoma
+- Sistema de Incentivos ao Potencial Endogeno
+relationships:
+- type: cites
+  target: pt:dre:183654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354724:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:03Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +109,11 @@ Assim, nos termos da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](h
 
 ### CAPÍTULO I — Disposição geral
 
-###### Artigo 1.º A aplicação na Região Autónoma da Madeira (RAM) do Sistema de Incentivos ao Potencial Endógeno (SIPE), criado pelo [Decreto-Lei n.º 15-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-b-1988-183654), de 18 de Janeiro, e regulamento pela [Portaria n.º 679/88](https://diariodarepublica.pt/dr/detalhe/portaria/679-1988-354724), de 11 de Outubro, é efectuada com as adaptações constantes dos artigos seguintes.
+Artigo 1.º A aplicação na Região Autónoma da Madeira (RAM) do Sistema de Incentivos ao Potencial Endógeno (SIPE), criado pelo [Decreto-Lei n.º 15-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-b-1988-183654), de 18 de Janeiro, e regulamento pela [Portaria n.º 679/88](https://diariodarepublica.pt/dr/detalhe/portaria/679-1988-354724), de 11 de Outubro, é efectuada com as adaptações constantes dos artigos seguintes.
 
 ### CAPÍTULO II — Das candidaturas e do processo de apreciação
 
-###### Art. 2.º - 1 - Os processos de candidatura ao SIPE, relativos a projectos a executar na RAM, são apresentados, em duplicado, no Serviço de Apoio às Pequenas e Médias Empresas Industriais (SAPMEI), em três fases, segundo o seguinte calendário:
+Art. 2.º - 1 - Os processos de candidatura ao SIPE, relativos a projectos a executar na RAM, são apresentados, em duplicado, no Serviço de Apoio às Pequenas e Médias Empresas Industriais (SAPMEI), em três fases, segundo o seguinte calendário:
 
 Até 30 de Abril (1.ª fase);
 
@@ -112,7 +127,7 @@ a) Verificar o cumprimento das condições de acesso e requisitos de elegibilida
 
 b) Avaliar as aplicações relevantes.
 
-###### Art. 3.º - 1 - Com a incumbência de efectuar a apreciação dos processos de candidatura ao SIPE relativos a projectos a executar na Região é constituída uma comissão regional de análise com a seguinte composição:
+Art. 3.º - 1 - Com a incumbência de efectuar a apreciação dos processos de candidatura ao SIPE relativos a projectos a executar na Região é constituída uma comissão regional de análise com a seguinte composição:
 
 a) Um representante da Direcção Regional de Planeamento (DRP), que preside;
 
@@ -126,7 +141,7 @@ a) Propor o montante de incentivo a atribuir às acções;
 
 b) Elaborar a lista regional de projectos seleccionados, devidamente hierarquizada, e a lista de projectos não seleccionados.
 
-###### Art. 4.º - 1 - O SAPMEI e a comissão regional de análise poderão solicitar aos promotores das acções esclarecimentos complementares, os quais deverão ser apresentados no prazo máximo de quinze dias.
+Art. 4.º - 1 - O SAPMEI e a comissão regional de análise poderão solicitar aos promotores das acções esclarecimentos complementares, os quais deverão ser apresentados no prazo máximo de quinze dias.
 
 2 - O SAPMEI enviará, no prazo de 30 dias, os processos de candidatura, devidamente instruídos, à comissão regional de análise.
 
@@ -134,18 +149,18 @@ b) Elaborar a lista regional de projectos seleccionados, devidamente hierarquiza
 
 ### CAPÍTULO III — Do acompanhamento e fiscalização
 
-###### Art. 5.º Compete ao SAPMEI, em colaboração estreita com a DRT, quando se trate de projectos ligados ao turismo, acompanhar e fiscalizar a utilização dada aos incentivos concedidos, devendo, para o efeito, elaborar relatórios semestrais.
+Art. 5.º Compete ao SAPMEI, em colaboração estreita com a DRT, quando se trate de projectos ligados ao turismo, acompanhar e fiscalizar a utilização dada aos incentivos concedidos, devendo, para o efeito, elaborar relatórios semestrais.
 
 ### CAPÍTULO IV — Disposição final
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 1 de Junho de 1989.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 16 de Junho de 1989.**
+Assinado em 16 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

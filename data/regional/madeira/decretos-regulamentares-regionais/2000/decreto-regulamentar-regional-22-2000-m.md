@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/2000/03/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2000-515260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 099140abc525f2fb8d77be8f5a3bb5dca4104cf28fce4b4cb2345a631b578230
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2a832724cf41fb047173b261b762fd0602bb2dc8e6708252211a0c437364365
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Definição de Competências
 - Direcção Regional dos Recursos Humanos
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 relationships:
@@ -101,16 +101,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654151:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:31Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +189,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -195,7 +225,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -217,9 +249,13 @@ g) O Departamento de Cadastro e Património.
 
 3 - Os serviços referidos no número anterior são chefiados por chefes de departamento.
 
-##### SUBSECÇÃO I — Departamento de Recursos Humanos
+SUBSECÇÃO I
 
-###### Artigo 16.º — [...]
+Departamento de Recursos Humanos
+
+Artigo 16.º
+
+[...]
 
 1 - Compete ao Departamento de Recursos Humanos, designadamente:
 
@@ -241,9 +277,13 @@ h) ...
 
 2 - O Departamento de Recursos Humanos integra a Secção de Pessoal.
 
-##### SUBSECÇÃO II — Departamento de Orçamento e Contabilidade
+SUBSECÇÃO II
 
-###### Artigo 17.º — [...]
+Departamento de Orçamento e Contabilidade
+
+Artigo 17.º
+
+[...]
 
 1 - Compete ao Departamento de Orçamento e Contabilidade, designadamente:
 
@@ -273,9 +313,13 @@ c) ...
 
 d) ...
 
-##### SUBSECÇÃO III — Departamento de Expediente e Serviços Gerais
+SUBSECÇÃO III
 
-###### Artigo 18.º — [...]
+Departamento de Expediente e Serviços Gerais
+
+Artigo 18.º
+
+[...]
 
 1 - Compete ao Departamento de Expediente e Serviços Gerais, designadamente:
 
@@ -291,9 +335,13 @@ e) ...
 
 2 - O Departamento de Expediente e Serviços Gerais integra a Secção de Arquivo.
 
-##### SUBSECÇÃO IV — Departamento de Economato
+SUBSECÇÃO IV
 
-###### Artigo 19.º — [...]
+Departamento de Economato
+
+Artigo 19.º
+
+[...]
 
 1 - Compete ao Departamento de Economato, designadamente:
 
@@ -305,7 +353,9 @@ c) Executar as acções que superiormente lhe forem cometidas.
 
 2 - O Departamento de Economato integra a Secção de Aprovisionamento.
 
-###### Artigo 23.º — Carreira de agente de desenvolvimento
+Artigo 23.º
+
+Carreira de agente de desenvolvimento
 
 1 - ...
 
@@ -325,7 +375,9 @@ Ao [Decreto Regulamentar Regional n.º 21/97/M](https://diariodarepublica.pt/dr/
 
 Departamento de Vencimentos
 
-###### Artigo 19.º-A — Competências
+Artigo 19.º-A
+
+Competências
 
 1 - Compete ao Departamento de Vencimentos, designadamente:
 
@@ -337,19 +389,29 @@ c) Executar as acções que superiormente lhe forem cometidas.
 
 2 - O Departamento de Vencimentos integra a Secção de Vencimentos.
 
-##### SUBSECÇÃO VI — Departamento de Documentação e Relações Públicas
+SUBSECÇÃO VI
 
-###### Artigo 19.º-B — Competências
+Departamento de Documentação e Relações Públicas
+
+Artigo 19.º-B
+
+Competências
 
 O Departamento de Documentação e Relações Públicas é o órgão de apoio e de execução técnico-administrativa ao Secretário Regional, Gabinete e serviços de apoio que tem por atribuições, designadamente, assegurar a gestão de toda a documentação, o apoio administrativo, o registo e a gestão dos documentos em arquivo nas áreas da gestão da documentação e de relações públicas.
 
-##### SUBSECÇÃO VII — Departamento de Cadastro e Património
+SUBSECÇÃO VII
 
-###### Artigo 19.º-C — Competências
+Departamento de Cadastro e Património
+
+Artigo 19.º-C
+
+Competências
 
 Compete ao Departamento de Cadastro e Património proceder à guarda e conservação dos bens e materiais existentes na Secretaria Regional dos Recursos Humanos, organizar e manter actualizado o respectivo inventário e praticar e assegurar tudo o que mais se torne legalmente necessário para a prossecução dos seus fins.
 
-###### Artigo 31.º-A — Regras de transição para chefe de departamento
+Artigo 31.º-A
+
+Regras de transição para chefe de departamento
 
 1 - São extintos os lugares de chefe de repartição que constam do quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 21/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1997-654151), de 22 de Setembro.
 
@@ -365,19 +427,25 @@ Compete ao Departamento de Cadastro e Património proceder à guarda e conserva�
 
 7 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
-###### Artigo 31.º-B — Concursos pendentes e expectativas de promoção
+Artigo 31.º-B
+
+Concursos pendentes e expectativas de promoção
 
 1 - Mantêm-se em vigor e são válidos os concursos cujos avisos de abertura se encontravam publicados à data da publicação do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, por força do disposto no seu artigo 30.º e no artigo 10.º do [Decreto-Lei n.º 204/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843), de 11 de Julho, adaptado à Região pela Resolução n.º 1014/98, de 6 de Agosto, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 53, de 11 de Agosto de 1998.
 
 2 - Os candidatos que tenham sido ou vierem a ser nomeados nesses concursos são integrados nas categorias de chefe de departamento ou de técnico superior de 1.ª classe, de acordo com o disposto no artigo anterior, na parte aplicável.
 
-###### Artigo 31.º-C — Carreira de coordenador
+Artigo 31.º-C
+
+Carreira de coordenador
 
 1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.
 
 2 - O recrutamento para as categorias de coordenador especialista e de coordenador far-se-á de entre coordenadores e pessoal do grupo administrativo, respectivamente, com o mínimo de três anos na respectiva carreira, e estes últimos com comprovada experiência na área administrativa.
 
-###### Artigo 31.º-D — Carreira de operador de comunicações
+Artigo 31.º-D
+
+Carreira de operador de comunicações
 
 1 - A categoria de operador de comunicações integra o grupo de pessoal auxiliar.
 
@@ -405,13 +473,13 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 10 de Fevereiro de 2000.
 
-**O Presidente do Governo Regional, Alberto João Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Gonçalves Jardim.
 
-**Assinado em 2 de Março de 2000.**
+Assinado em 2 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Secretaria Regional dos Recursos Humanos
 

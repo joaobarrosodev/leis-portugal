@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/2-1990-332064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 294acbc148499a814cff6c1735d36681a771c71b7386fbe6d9bd427dd88a52f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21e767d4af2d8035d55a603082415c9624008c8edbb69292734f6522b5b388fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Madeira.região Autónoma
+- Pensão de Invalidez
+- Pensão de Velhice
+- Rectificação de Numero de Diploma
+- Segurança Social
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:24Z'
   warnings: []
   errors: []
 ---
@@ -107,10 +113,10 @@ Assim:
 
 Nos termos e ao abrigo do disposto na alínea f) do n.º 1 do artigo 229.º, conjugado com o n.º 1 do artigo 170.º, ambos da Constituição da República Portuguesa, a Assembleia Legislativa Regional aprova, para servir de proposta de lei à Assembleia da República, o seguinte:
 
-###### Artigo 1.º Os valores mínimos das pensões de reforma e de invalidez do regime geral e equiparados são iguais ao valor do salário mínimo para os trabalhadores do comércio, indústria e serviços.
+Artigo 1.º Os valores mínimos das pensões de reforma e de invalidez do regime geral e equiparados são iguais ao valor do salário mínimo para os trabalhadores do comércio, indústria e serviços.
 
-###### Art. 2.º Os encargos resultantes da aplicação do presente diploma serão satisfeitos por conta das dotações a inscrever no Orçamento do Estado.
+Art. 2.º Os encargos resultantes da aplicação do presente diploma serão satisfeitos por conta das dotações a inscrever no Orçamento do Estado.
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional aos 25 de Janeiro de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.

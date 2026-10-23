@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/061b00/12981299.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/1992/03/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1992-175519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa3ed67180869caa07ca96a9cf41025cb7bdd36a9ddbd579a788dd0cc622323c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64b71617c7f9badab53d76dbb2db1471eee0063bfbdaf8886e7937bd1de096cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Centro de Estudos de História do Atlântico
 - Estatuto
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:669489:por
@@ -82,16 +82,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:283159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669489:por
+  label: "Revogado pelo DRR.33/93/M.08.10.1993.GR-RAM, DR.IS-B [236] de 08.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-1993-669489
+  date: '1993-10-08'
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:33Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +121,7 @@ O [Decreto Legislativo Regional n.º 3/91/M](https://diariodarepublica.pt/dr/det
 
 Assim, o Governo Regional da Madeira, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição e da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º O artigo 3.º do Estatuto do Centro de Estudos de História do Atlântico, aprovado pelo [Decreto Regulamentar Regional n.º 7/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1988-283159), de 15 de Fevereiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do Estatuto do Centro de Estudos de História do Atlântico, aprovado pelo [Decreto Regulamentar Regional n.º 7/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1988-283159), de 15 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — Órgãos e serviços
 
@@ -120,7 +137,7 @@ d) Conselho consultivo;
 
 e) Secção administrativa.
 
-###### Art. 2.º É aditada ao Estatuto do Centro a secção II-A, sob a epígrafe «Do conselho administrativo», que compreende os artigos 5.º-A, 5.º-B e 5.º-C, com a seguinte redacção:
+Art. 2.º É aditada ao Estatuto do Centro a secção II-A, sob a epígrafe «Do conselho administrativo», que compreende os artigos 5.º-A, 5.º-B e 5.º-C, com a seguinte redacção:
 
 #### SECÇÃO II-A — Do conselho administrativo
 
@@ -168,7 +185,7 @@ g) Deliberar sobre quaisquer outros assuntos de gestão financeira e patrimonial
 
 4 - De todas as reuniões são lavradas actas, assinadas pelos membros presentes.
 
-###### Art. 3.º É aditado ao Estatuto do Centro o capítulo II-A, sob a epígrafe «Da gestão financeira e patrimonial», que compreende os artigos 13.º-A, 13.º-B, 13.º-C e 13.º-D, com a seguinte redacção:
+Art. 3.º É aditado ao Estatuto do Centro o capítulo II-A, sob a epígrafe «Da gestão financeira e patrimonial», que compreende os artigos 13.º-A, 13.º-B, 13.º-C e 13.º-D, com a seguinte redacção:
 
 ### CAPÍTULO II-A — Da gestão financeira e patrimonial
 
@@ -204,16 +221,16 @@ d) Outros valores que por lei, contrato ou outro título lhe sejam atribuídos.
 
 Os saldos apurados no fim de cada ano económico transitam para o ano seguinte, a fim de serem utilizados pelo Centro, salvo os relativos às dotações inscritas no orçamento da Região, cujos montantes serão repostos nos respectivos cofres.
 
-###### Art. 4.º É revogada a alínea e) do n.º 1 do artigo 4.º do Estatuto do Centro.
+Art. 4.º É revogada a alínea e) do n.º 1 do artigo 4.º do Estatuto do Centro.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 23 de Janeiro de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 17 de Fevereiro de 1992.**
+Assinado em 17 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

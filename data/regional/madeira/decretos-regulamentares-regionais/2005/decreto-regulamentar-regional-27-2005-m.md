@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/27/2005/07/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2005-236957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 875ea45abb54a269aba50cdb74c591aa86ed873e34c22aa1b537661cae9a7876
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1789f87cd4bdf41342e94f2e015b6373ef7d6bb22e44351c84a4065518ce70b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
+- Direção Regional de Agricultura e Desenvolvimento Rural
 - Direcção Regional de Pecuária
 - Diretor Regional
 - Gabinete do Secretário Regional da Administração Pública
 - Integração de Trabalhadores
-- Direção Regional de Agricultura e Desenvolvimento Rural
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Secretaria Regional do Ambiente e dos Recursos Naturais
 relationships:
@@ -113,16 +113,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:167376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693196:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454021:por
+  label: "Revogado, com excepção do quadro de pessoal em anexo e da estrutura de cargos de direcção intermédia dos 1º e 2º\
+    \ graus, a partir de 09.09.2008 e nos termos do art. 9º, pelo DRR.20/2008/M.08.09.2008.SRRH-RAM, DR.IS [173] de 08.09.2008\0\
+    08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2008-454021
+  date: '2008-09-08'
 article_structure:
   article_count: 52
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 50
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:14Z'
   warnings: []
   errors: []
 ---
@@ -277,7 +320,9 @@ e) A Secção de Apoio Administrativo.
 
 5 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 6.º — Divisão de Planeamento e Estatística
+###### Artigo 6.º
+
+##### Divisão de Planeamento e Estatística
 
 1 - À Divisão de Planeamento e Estatística compete:
 
@@ -297,7 +342,9 @@ a) O Núcleo de Planeamento;
 
 b) O Núcleo de Estatística.
 
-###### Artigo 7.º — Divisão de Gestão Administrativa e Financeira
+###### Artigo 7.º
+
+##### Divisão de Gestão Administrativa e Financeira
 
 1 - À Divisão de Gestão Administrativa e Financeira compete:
 
@@ -343,7 +390,9 @@ f) A Secção de Contabilidade.
 
 3 - A Divisão de Gestão Administrativa e Financeira inclui dois coordenadores na área de contabilidade, dois na área de pessoal, um na área de vencimentos e um na área de expediente e arquivo.
 
-###### Artigo 8.º — Divisão de Política Sócio-Estrutural
+###### Artigo 8.º
+
+##### Divisão de Política Sócio-Estrutural
 
 1 - À Divisão de Política Sócio-Estrutural compete:
 
@@ -359,7 +408,9 @@ a) O Núcleo de Avaliação e Acompanhamento de Projectos;
 
 b) O Núcleo da Rede de Informação de Contabilidade Agrícola.
 
-###### Artigo 9.º — Divisão de Gestão da Qualidade
+###### Artigo 9.º
+
+##### Divisão de Gestão da Qualidade
 
 1 - À Divisão de Gestão da Qualidade compete:
 
@@ -431,7 +482,9 @@ e) A Secção de Apoio Administrativo.
 
 6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 11.º — Divisão de Inspecção e Controlo
+###### Artigo 11.º
+
+##### Divisão de Inspecção e Controlo
 
 À Divisão de Inspecção e Controlo compete:
 
@@ -447,7 +500,9 @@ e) Emitir, quando requerido pelos mercados de destino ou imposição regulamenta
 
 f) Promover o adequado controlo fitossanitário dos viveiristas licenciados para operação no território da Região Autónoma da Madeira.
 
-###### Artigo 12.º — Divisão de Informação de Mercados Agrícolas e Publicações
+###### Artigo 12.º
+
+##### Divisão de Informação de Mercados Agrícolas e Publicações
 
 À Divisão de Informação de Mercados Agrícolas e Publicações compete:
 
@@ -465,7 +520,9 @@ f) Proceder à edição e difusão das publicações periódicas da DRADR sobre 
 
 g) Promover a realização de inquéritos sobre a conjuntura e evolução dos diferentes mercados de produtos agro-alimentares.
 
-###### Artigo 13.º — Divisão de Infra-Estruturas e Apoio ao Comércio Agrícola
+###### Artigo 13.º
+
+##### Divisão de Infra-Estruturas e Apoio ao Comércio Agrícola
 
 À Divisão de Infra-Estruturas e Apoio ao Comércio Agrícola compete:
 
@@ -485,7 +542,9 @@ g) Apoiar as explorações agrícolas empresariais, em articulação com a DSIAP
 
 h) Promover a implementação, nas empresas e explorações agrícolas de dimensão relevante, de sistemas de autocontrolo para cumprimento das normas comunitárias de comercialização aplicáveis ao sector das frutas e produtos hortícolas.
 
-###### Artigo 14.º — Divisão de Sistemas para a Qualificação e Segurança Alimentar
+###### Artigo 14.º
+
+##### Divisão de Sistemas para a Qualificação e Segurança Alimentar
 
 1 - À Divisão de Sistemas para a Qualificação e Segurança Alimentar compete:
 
@@ -537,7 +596,9 @@ d) A Secção de Apoio Administrativo.
 
 6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 16.º — Divisão de Informação e Divulgação Agrária
+###### Artigo 16.º
+
+##### Divisão de Informação e Divulgação Agrária
 
 À Divisão de Informação e Divulgação Agrária compete:
 
@@ -549,7 +610,9 @@ c) Promover a divulgação dos programas, medidas e acções de apoio comunitár
 
 d) Apoiar os produtores no acesso e na utilização da informação disponibilizada nos serviços de «balcão verde» que forem criados nas zonas rurais.
 
-###### Artigo 17.º — Divisão de Apoio Sócio-Estrutural
+###### Artigo 17.º
+
+##### Divisão de Apoio Sócio-Estrutural
 
 À Divisão de Apoio Sócio-Estrutural compete:
 
@@ -561,7 +624,9 @@ c) Apoiar e prestar assistência técnica às casas do povo e promover a realiza
 
 d) Promover e coordenar os certames de promoção e divulgação de produtos regionais, sem prejuízo de competências atribuídas a outras entidades.
 
-###### Artigo 18.º — Divisão de Formação
+###### Artigo 18.º
+
+##### Divisão de Formação
 
 À Divisão de Formação compete:
 
@@ -619,7 +684,9 @@ h) O Núcleo de Biblioteca e Documentação.
 
 6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 20.º — Divisão de Horticultura
+###### Artigo 20.º
+
+##### Divisão de Horticultura
 
 À Divisão de Horticultura compete:
 
@@ -635,7 +702,9 @@ e) Divulgar junto dos horticultores e técnicos os trabalhos de experimentação
 
 f) Efectuar estudos de caracterização organoléptica e composição química de produtos hortícolas.
 
-###### Artigo 21.º — Divisão de Floricultura
+###### Artigo 21.º
+
+##### Divisão de Floricultura
 
 À Divisão de Floricultura compete:
 
@@ -651,7 +720,9 @@ e) Divulgar junto dos floricultores e técnicos os trabalhos de experimentação
 
 f) Desenvolver acções que promovam a dinamização do sector comercial da floricultura.
 
-###### Artigo 22.º — Divisão de Fruticultura
+###### Artigo 22.º
+
+##### Divisão de Fruticultura
 
 1 - À Divisão de Fruticultura compete:
 
@@ -673,7 +744,9 @@ h) Efectuar estudos de caracterização organoléptica e de composição químic
 
 2 - A Divisão de Fruticultura compreende o Núcleo de Viveiros.
 
-###### Artigo 23.º — Divisão de Apoio à Produção
+###### Artigo 23.º
+
+##### Divisão de Apoio à Produção
 
 À Divisão de Apoio à Produção compete:
 
@@ -685,7 +758,9 @@ c) Coordenar e promover a divulgação, junto dos agricultores, das novas técni
 
 d) Promover, no âmbito do apoio técnico, uma estreita ligação com os serviços prestados pelo LQA, pela DSMSA e pela DSDR.
 
-###### Artigo 24.º — Divisão de Máquinas Agrícolas
+###### Artigo 24.º
+
+##### Divisão de Máquinas Agrícolas
 
 À Divisão de Máquinas Agrícolas compete:
 
@@ -765,7 +840,9 @@ j) Os Serviços de Apoio.
 
 6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 26.º — Divisão de Protecção das Culturas
+###### Artigo 26.º
+
+##### Divisão de Protecção das Culturas
 
 1 - À Divisão de Protecção das Culturas compete:
 
@@ -805,7 +882,9 @@ f) O Núcleo de Nematologia;
 
 g) O Núcleo de Entomologia.
 
-###### Artigo 27.º — Divisão de Análise de Resíduos
+###### Artigo 27.º
+
+##### Divisão de Análise de Resíduos
 
 À Divisão de Análise de Resíduos compete:
 
@@ -825,7 +904,9 @@ g) Assegurar apoio didáctico a instituições de ensino, especialmente secundá
 
 h) Assegurar a divulgação da actividade e dos estudos desenvolvidos na Divisão junto do seu público alvo, instituições de ensino e outras entidades de carácter científico ou técnico.
 
-###### Artigo 28.º — Divisão do MicroLab Madeira
+###### Artigo 28.º
+
+##### Divisão do MicroLab Madeira
 
 À Divisão do MicroLab Madeira compete:
 
@@ -841,7 +922,9 @@ e) Assegurar apoio didáctico a instituições de ensino, especialmente secundá
 
 f) Assegurar a divulgação da actividade e dos estudos desenvolvidos na Divisão junto do seu público alvo, instituições de ensino e outras entidades de carácter científico ou técnico.
 
-###### Artigo 29.º — Divisão do Programa Madeira-Med
+###### Artigo 29.º
+
+##### Divisão do Programa Madeira-Med
 
 À Divisão do Programa Madeira-Med compete promover e executar o Programa Madeira-Med, com o objectivo de controlar os níveis populacionais da mosca-do-mediterrâneo na RAM.
 
@@ -891,7 +974,9 @@ d) A Secção de Apoio Administrativo.
 
 5 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 31.º — Divisão de Produção Animal
+###### Artigo 31.º
+
+##### Divisão de Produção Animal
 
 1 - À Divisão de Produção Animal compete:
 
@@ -917,7 +1002,9 @@ a) A Secção de Apoio Administrativo da Estação Zootécnica da Madeira;
 
 b) A Secção de Apoio Administrativo do Centro de Ovinicultura de Santana.
 
-###### Artigo 32.º — Divisão de Programação e Estudos Pecuários
+###### Artigo 32.º
+
+##### Divisão de Programação e Estudos Pecuários
 
 À Divisão de Programação e Estudos Pecuários compete:
 
@@ -929,7 +1016,9 @@ c) Organizar e coordenar todas as acções necessárias à execução de program
 
 d) Organizar e divulgar toda a informação necessária ao desenvolvimento das produções pecuárias, tendo em conta o bem-estar animal assim como o respeito pelo meio ambiente.
 
-###### Artigo 33.º — Divisão de Pecuária Biológica
+###### Artigo 33.º
+
+##### Divisão de Pecuária Biológica
 
 À Divisão de Pecuária Biológica compete:
 
@@ -999,7 +1088,9 @@ d) A Secção de Apoio Administrativo.
 
 6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 35.º — Divisão de Gestão das Medidas
+###### Artigo 35.º
+
+##### Divisão de Gestão das Medidas
 
 À Divisão de Gestão das Medidas compete:
 
@@ -1023,7 +1114,9 @@ i) Integrar a representação regional nos comités de gestão e noutros órgão
 
 j) Assegurar a formação adequada às entidades ou serviços da DRADR responsáveis pela recepção das candidaturas.
 
-###### Artigo 36.º — Divisão de Controlo
+###### Artigo 36.º
+
+##### Divisão de Controlo
 
 À Divisão de Controlo compete:
 
@@ -1037,7 +1130,9 @@ d) Elaborar os manuais relativos aos procedimentos, metodologias e normas espec�
 
 e) Assegurar o regular funcionamento do SUC, através da participação na comissão permanente.
 
-###### Artigo 37.º — Divisão do Parcelar Agrícola
+###### Artigo 37.º
+
+##### Divisão do Parcelar Agrícola
 
 À Divisão do Parcelar Agrícola compete:
 
@@ -1083,7 +1178,9 @@ c) A Secção de Apoio Administrativo.
 
 5 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 39.º — Divisão de Assistência Técnica e Apoio à Produção
+###### Artigo 39.º
+
+##### Divisão de Assistência Técnica e Apoio à Produção
 
 À Divisão de Assistência Técnica e Apoio à Produção compete:
 
@@ -1101,7 +1198,9 @@ f) Colaborar com a Divisão de Promoção na elaboração de planos de formaçã
 
 g) Adoptar medidas de quantificação de trabalho bem como de controlo de qualidade dos serviços prestados para futura implementação de um sistema de qualidade/certificação dos serviços.
 
-###### Artigo 40.º — Divisão de Promoção
+###### Artigo 40.º
+
+##### Divisão de Promoção
 
 À Divisão de Promoção compete:
 
@@ -1161,7 +1260,9 @@ d) A Secção de Apoio Administrativo.
 
 6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 42.º — Divisão de Distribuição e Controlo de Caudais
+###### Artigo 42.º
+
+##### Divisão de Distribuição e Controlo de Caudais
 
 À Divisão de Distribuição e Controlo de Caudais compete:
 
@@ -1173,7 +1274,9 @@ c) Promover a caracterização, a monitorização e o controlo da qualidade da �
 
 d) Definir critérios para a racionalização e optimização da água de rega.
 
-###### Artigo 43.º — Divisão de Cadastro
+###### Artigo 43.º
+
+##### Divisão de Cadastro
 
 1 - À Divisão de Cadastro compete:
 
@@ -1183,7 +1286,9 @@ b) Aplicar modelos informáticos à gestão do cadastro.
 
 2 - A Divisão de Cadastro compreende a Secção de Apoio Administrativo.
 
-###### Artigo 44.º — Divisão de Concepção e Dinamização de Aproveitamentos Hidroagrícolas
+###### Artigo 44.º
+
+##### Divisão de Concepção e Dinamização de Aproveitamentos Hidroagrícolas
 
 À Divisão de Concepção e Dinamização de Aproveitamentos Hidroagrícolas compete:
 
@@ -1225,7 +1330,9 @@ h) Assegurar a gestão da documentação e do arquivo da DRADR.
 
 4 - O GJ compreende a Secção de Apoio Administrativo.
 
-#### SECÇÃO XIII — Divisão de Matadouros
+#### SECÇÃO XIII
+
+##### Divisão de Matadouros
 
 ###### Artigo 46.º — Estrutura e competências
 
@@ -1323,13 +1430,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 19 de Maio de 2005.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 8 de Junho de 2005.**
+Assinado em 8 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA ANEXO
 

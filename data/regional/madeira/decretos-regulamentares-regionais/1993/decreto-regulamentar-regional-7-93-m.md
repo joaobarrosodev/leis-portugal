@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/1993/03/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1993-677438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da7f1bfc738cec4e84f126d372e129deeebaa7ebc2b9666a2cba583c2bf5d95c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db785f0464638c810a867aac3097e6d7e885c34348061588134b7187421ba29f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,48 @@ subjects:
 - Corpo de Polícia Florestal
 - Direcção Regional das Florestas
 - Estatuto
-- Mestre Florestal
-- Orgânica
 - Guarda Florestal
 - Madeira.região Autónoma
+- Mestre Florestal
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:485631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226179:por
+  label: "Dada nova redacção ao art. 11º e aditado um lugar de chefe de repartição ao quadro de pessoal pelo DRR.13/96/M.17.10.1996.GR-RAM,\
+    \ DR.IS-B [241] de 17.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1996-226179
+  date: '1996-10-17'
+- type: amended_by
+  target: pt:dre:231958:por
+  label: "Acrescentado o art 28º ao anexo II pelo DLR.4-A/97/M.1997.04.21.ALR-RAM, DR.IS-A [93]-Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-a-1997-231958
+  date: '1997-04-21'
+- type: amended_by
+  target: pt:dre:639907:por
+  label: "Alterados os arts. 3º, 6º, 7º e 11º e a epígrafe da secção III, revogado o art. 17º, substituído o quadro de pessoal\
+    \ todos do presente diploma, com a redacção conferida pelo DRR 13/96/M de 17-Out, e aditados os arts. 16º-A e 19º-A pelo\
+    \ DRR.16/99/M.1999.11.04.PG-RAM, DR.IS-B [279] de 30.11.1999\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1999-639907
+  date: '1999-11-04'
+- type: amended_by
+  target: pt:dre:482388:por
+  label: "Mantido em vigor, até à revisão dos suplementos remuneratórios a que se refere o art. 112º da Lei 12-A/2008 de 27-Fev,\
+    \ o subsídio de penosidade atribuído aos guardas florestais ao abrigo deste diploma, com a redacção conferida pelo art.\
+    \ 25º do DLR 4-A/97/M de 21-Abr, pelo DLR.34/2009/M.31.12.2009.AL-RAM, DR.IS [252] de 31.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/34-2009-482388
+  date: '2009-12-31'
+- type: amended_by
+  target: pt:dre:485631:por
+  label: "Mantido em vigor, até à revisão dos suplementos remuneratórios a que se refere o art. 112º da Lei 12-A/2008, de\
+    \ 27-Fev, o subsídio de penosidade atribuído aos guardas florestais ao abrigo do presente diploma, na redacção do art.\
+    \ 25º do DLR 4-A/97/M, de 21-Abr, pelo DLR.2/2011/M.10.01.2011.AL-RAM, DR.IS [6] de 10.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2011-485631
+  date: '2011-01-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/1993/01/08/p/dre
   label: null
@@ -95,16 +127,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197368:por
+  label: "Revogado o art. 18.º pelo DRR.1/99/M.1999.01.22.PG-RAM DR.IS-B [18] DE 22/JAN/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-1999-197368
+  date: '1999-01-22'
+- type: repealed_by
+  target: pt:dre:188489:por
+  label: "Revogado pelo DRR.11/2002/M.2002.06.19.PG-RAM DR.IS-B [169] de 24/Jul/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2002-188489
+  date: '2002-06-19'
 article_structure:
   article_count: 47
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:45Z'
   warnings: []
   errors: []
 ---
@@ -461,17 +539,17 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 de Fevereiro de 1993.
 
-**O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Março de 1993.**
+Assinado em 2 de Março de 1993.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## Anexo I ao Decreto Regulamentar Regional n.º 7/93/M, que consagra a orgânica da Direcção Regional de Florestas
+Anexo I ao Decreto Regulamentar Regional n.º 7/93/M, que consagra a orgânica da Direcção Regional de Florestas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/073b00/15011511.pdf))](https://files.diariodarepublica.pt/1s/1993/03/073b00/15011511.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/073b00/15011511.pdf)
 
-## Anexo II ao Decreto Regulamentar Regional n.º/93/M, que aprova a orgânica da Direcção Regional de Florestas
+Anexo II ao Decreto Regulamentar Regional n.º/93/M, que aprova a orgânica da Direcção Regional de Florestas
 
 Estatuto do Corpo de Polícia Florestal (CPF)
 

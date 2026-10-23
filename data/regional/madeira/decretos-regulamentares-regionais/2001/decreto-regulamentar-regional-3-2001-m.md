@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/063b00/14861487.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2001/03/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2001-391429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33c4557f29aad53d34c4423b22343b32eec5fedff4cdd473934bfc34effbc295
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9012415e9383ae0988b406eeba37287343c1bae344b4ce11e900e2f05a7126cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Gabinete do Secretário Regional dos Recursos Humanos
 - Inspecção Regional das Actividades Económicas
 - Instituto do Bordado Tapeçaria e Artesanato da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Secretaria Regional dos Recursos Humanos
 relationships:
 - type: amended_by
@@ -90,16 +90,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:396900:por
+  label: "Revogado pelo DRR.1/2009/M.08.01.2009.PG-RAM, DR.IS [5] de 08.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2009-396900
+  date: '2009-01-08'
 article_structure:
   article_count: 12
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:48Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +219,7 @@ Até à publicação dos diplomas a que se refere o artigo 4.º, n.os 2 e 3, man
 
 ###### Artigo 11.º — Pessoal
 
-**O Secretário Regional poderá, nos termos legais, nomear, destacar, requisitar ou contratar funcionários ou agentes da administração pública central, regional ou local, dos institutos públicos e de empresas públicas ou privadas reputados necessários à actividade da Secretaria Regional ou de qualquer dos seus serviços.**
+O Secretário Regional poderá, nos termos legais, nomear, destacar, requisitar ou contratar funcionários ou agentes da administração pública central, regional ou local, dos institutos públicos e de empresas públicas ou privadas reputados necessários à actividade da Secretaria Regional ou de qualquer dos seus serviços.
 
 ###### Artigo 12.º — Entrada em vigor
 
@@ -206,10 +227,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em 19 de Janeiro de 2001.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 19 de Fevereiro de 2001.**
+Assinado em 19 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

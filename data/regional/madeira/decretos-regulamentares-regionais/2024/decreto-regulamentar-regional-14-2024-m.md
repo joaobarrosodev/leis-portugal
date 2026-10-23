@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/15200/0001700033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2024/08/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2024-875716583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f243436e0ed82c8bdde8c116544c2dfe33211878e1985bed1bf4e603d164cc91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24ddb0abf4679f0c01e29aa4537b5a5bf3fd180d81e664ecada5b9e53c4b1282
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Agência de Inovação e Modernização da Região Autónoma da Madeira
+- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
 - Definição de Competências
+- Direcção Regional do Orçamento e Tesouro
 - Gabinete do Secretário Regional das Finanças
 - Inspecção Regional de Finanças
 - Instituto de Desenvolvimento Empresarial
 - Instituto de Desenvolvimento Regional
-- Orgânica
-- Direcção Regional do Orçamento e Tesouro
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Secretaria Regional das Finanças
-- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
-- Agência de Inovação e Modernização da Região Autónoma da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:933746511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:40/2020/M
+  label: Mantém em vigor, nos termos do n.º 4 do artigo 27.º do presente diploma, a estrutura orgânica da Direção Regional
+    do Orçamento e Tesouro, constante do Decreto Regulamentar Regional n.º 40/2020/M, de 12 de agosto, Diário da República
+    n.º 156/2020, Série I
+  source: null
+  date: '2020-08-12'
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:42/2020/M
+  label: Mantém em vigor, nos termos do n.º 4 do artigo 27.º do presente diploma, a estrutura orgânica das Direções Regionais
+    do Património e de Informática constantes, respetivamente, dos anexos A e B do Decreto Regulamentar Regional n.º 42/2020/M,
+    de 4 de novembro, Diário da República n.º 215/2020, Série I
+  source: null
+  date: '2020-11-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -122,16 +136,176 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140087211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147533140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166099800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186771210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205450899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211499218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224081980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70007184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836604897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:848804211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763927:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:933746511:por
+  label: Revogado, a partir de 2 de setembro de 2025, pelo(a) Decreto Regulamentar Regional n.º 12/2025/M - Diário da República
+    n.º 167/2025, Série I de 2025-09-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2025-933746511
+  date: '2025-09-01'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:2/2024/M
+  label: Revoga, a partir de 8 de agosto de 2024, o Decreto Regulamentar Regional n.º 2/2024/M, de 15 de janeiro, Diário da
+    República n.º 10/2024, Série I
+  source: null
+  date: '2024-01-15'
 article_structure:
   article_count: 32
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:41Z'
   warnings: []
   errors: []
 ---
@@ -156,13 +330,13 @@ Este departamento terá, assim, por missão preparar a implementação e criaç�
 
 O Gabinete Regional para a Conformidade Digital, Proteção de Dados e Cibersegurança, com uma natureza interdepartamental e uma missão transversal a todos os departamentos regionais, no apoio e definição das políticas a adotar em matéria de conformidade digital, proteção de dados e cibersegurança da administração pública regional, recentemente criado pelo [Decreto Regulamentar Regional n.º 2/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2024-836604897), de 15 de janeiro, e em pleno funcionamento com aprovação da respetiva orgânica, aprovada pelo [Decreto Regulamentar Regional n.º 10/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-848804211), de 14 de fevereiro, veio consolidar definitivamente e dar resposta a novas necessidades permanentes da administração pública regional, nomeadamente decorrentes das obrigações legais no âmbito da proteção de dados e de implementação de políticas de cibersegurança.
 
-Por sua vez, em conformidade com o disposto na alínea a) do n.º 8 do artigo 4.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, mantém-se a "Unidade de Reforma das Finanças Públicas e de Acompanhamento do Planeamento e Políticas Públicas", cuja atividade tem sido fulcral na reforma e modernização das finanças públicas da Região Autónoma da Madeira e que, mais recentemente, assumiu a responsabilidade de dar início e prosseguir a estratégia do Governo Regional delineada para o acompanhamento e planeamento das políticas públicas e de coordenação e acompanhamento do planeamento dos investimentos públicos regionais, refletida na Resolução do Conselho do Governo n.º 1262/2023, de 30 de novembro, e nos n.<sup>os</sup>4 e 5 do artigo 11.º do seu diploma orgânico, aprovado pelo supracitado [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927).
+Por sua vez, em conformidade com o disposto na alínea a) do n.º 8 do artigo 4.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, mantém-se a "Unidade de Reforma das Finanças Públicas e de Acompanhamento do Planeamento e Políticas Públicas", cuja atividade tem sido fulcral na reforma e modernização das finanças públicas da Região Autónoma da Madeira e que, mais recentemente, assumiu a responsabilidade de dar início e prosseguir a estratégia do Governo Regional delineada para o acompanhamento e planeamento das políticas públicas e de coordenação e acompanhamento do planeamento dos investimentos públicos regionais, refletida na Resolução do Conselho do Governo n.º 1262/2023, de 30 de novembro, e nos n.os4 e 5 do artigo 11.º do seu diploma orgânico, aprovado pelo supracitado [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927).
 
 No âmbito do setor empresarial da Região Autónoma da Madeira, para além das funções de acionista que estão cometidas a este departamento regional, este departamento do Governo mantém a tutela setorial que já exercia sobre a SDM - Sociedade de Desenvolvimento da Madeira, S. A., e a PATRIRAM - Titularidade e Gestão do Património Público Regional, S. A., e Polo Científico e Tecnológico da Madeira, Madeira Tecnopolo, S. A.
 
 Finalmente, ao nível da gestão de recursos humanos desta secretaria regional, mantém-se o sistema misto de gestão, como sistema centralizado de gestão de recursos humanos, que abrange os serviços da administração direta, com exceção da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, e que consiste na integração dos trabalhadores com relação jurídica de emprego público constituída por tempo indeterminado, integrados nas carreiras gerais e nas carreiras e categorias subsistentes, na Secretaria Regional das Finanças e posterior afetação aos órgãos e serviços por ele abrangidos e sistema de gestão descentralizado nos respetivos serviços da administração indireta e direta, relativamente aos trabalhadores com relação jurídica de emprego público constituída por tempo indeterminado, integrados nas carreiras especiais, com funções cuja especialização é exigida apenas no âmbito das atribuições do serviço.
 
-Assim, nos termos do n.º 2 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa e das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos do n.º 2 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa e das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E COMPETÊNCIAS
 
@@ -394,7 +568,7 @@ j) Exercer as demais funções que lhe forem cometidas e ou delegadas pelo Secre
 
 1 - A organização interna do GSRF integra a Unidade de Gestão da Secretaria Regional das Finanças com a missão e atribuições previstas no artigo seguinte e compreende as unidades orgânicas nucleares e flexíveis que funcionam sob a sua direta dependência.
 
-2 - A organização interna a que se refere o número anterior obedece ao modelo de estrutura hierarquizada e é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e com observância do disposto no n.º 3 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927).
+2 - A organização interna a que se refere o número anterior obedece ao modelo de estrutura hierarquizada e é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e com observância do disposto no n.º 3 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927).
 
 ###### Artigo 10.º — Unidade de Gestão da Secretaria Regional das Finanças
 
@@ -436,7 +610,7 @@ i) Desenvolver procedimentos de controlo interno;
 
 ###### Artigo 11.º — Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
 
-1 - A Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, abreviadamente designada por AT-RAM, tem por missão assegurar e administrar os impostos sobre o rendimento, a despesa, o consumo, o património e outros tributos legalmente previstos, executar as políticas e orientações fiscais definidas pelo Governo Regional da Madeira em matéria tributária, a exercer no âmbito da Região Autónoma da Madeira de acordo com os artigos 140.º e 141.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revista pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, nomeadamente a liquidação e cobrança dos impostos que constituem receita da Região.
+1 - A Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, abreviadamente designada por AT-RAM, tem por missão assegurar e administrar os impostos sobre o rendimento, a despesa, o consumo, o património e outros tributos legalmente previstos, executar as políticas e orientações fiscais definidas pelo Governo Regional da Madeira em matéria tributária, a exercer no âmbito da Região Autónoma da Madeira de acordo com os artigos 140.º e 141.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revista pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, nomeadamente a liquidação e cobrança dos impostos que constituem receita da Região.
 
 2 - A AT-RAM é dirigida por um diretor regional, cargo de direção superior de 1.º grau, coadjuvado por um subdiretor regional, cargo de direção superior de 2.º grau.
 
@@ -560,7 +734,7 @@ O regime aplicável ao pessoal da SRF é o genericamente estabelecido para os tr
 
 ###### Artigo 25.º — Carreiras subsistentes
 
-1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador (SRPC) e de chefe de departamento é o constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de agosto, objeto da [Declaração de Retificação n.º 15-I/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), de 30 de setembro, sendo-lhes aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas Leis n.<sup>os</sup> [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e [66/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513) e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), ambas de 31 de dezembro.
+1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador (SRPC) e de chefe de departamento é o constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de agosto, objeto da [Declaração de Retificação n.º 15-I/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), de 30 de setembro, sendo-lhes aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e [66/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513) e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), ambas de 31 de dezembro.
 
 2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da [Lei n.º 75/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-2014-56747377), de 12 de setembro.
 
@@ -578,7 +752,7 @@ O regime aplicável ao pessoal da SRF é o genericamente estabelecido para os tr
 
 2 - Sem prejuízo das alterações orgânicas que se revelaram necessárias e adequadas ao funcionamento dos serviços previstos nos artigos 5.º e 6.º, as estruturas orgânicas das Direções Regionais do Património e de Informática, referidas nas alíneas e) e f) do n.º 1 do artigo 5.º, são objeto de reorganização.
 
-3 - Os diplomas legais que procedem à reorganização dos serviços referidos nos n.<sup>os</sup>1 e 2 são aprovados no prazo de 45 dias a contar da entrada em vigor do presente diploma.
+3 - Os diplomas legais que procedem à reorganização dos serviços referidos nos n.os1 e 2 são aprovados no prazo de 45 dias a contar da entrada em vigor do presente diploma.
 
 4 - Até à aprovação dos diplomas a que se refere o número anterior, mantêm-se em vigor as estruturas orgânicas das Direções Regionais do Orçamento e Tesouro, do Património e de Informática constantes, respetivamente, do [Decreto Regulamentar Regional n.º 40/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2020-140087211), de 12 de agosto, e dos anexos A e B do [Decreto Regulamentar Regional n.º 42/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-2020-147533140), de 4 de novembro.
 
@@ -610,11 +784,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 18 de julho de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 1 de agosto de 2024.**
+Assinado em 1 de agosto de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -644,3 +818,7 @@ Cargos de direção superior e intermédia dos serviços dependentes do Gabinete
 | --- | --- |
 | Cargos de direção superior de 2.º grau | 1 |
 | Cargos de direção intermédia de 1.º grau | 6 |
+
+117985114
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-decoration:none; text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:17px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { text-decoration:none; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-left-style:solid; border-right-width:1px; border-top-style:solid; vertical-align:middle; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-left-style:solid; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); vertical-align:middle; } .Tbl12 { text-align:center; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-left-style:none; border-right-width:1px; border-top-style:solid; vertical-align:middle; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-left-style:solid; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); vertical-align:middle; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; }

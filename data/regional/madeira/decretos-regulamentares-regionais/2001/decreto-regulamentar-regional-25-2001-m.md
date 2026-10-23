@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/2001/10/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2001-626386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f127d9c84b7f84b5930f4c6167926f10b07e41064968492035a467c6c6474cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d3dac637430427ac180c2c39c2fa273307ff11c3c484caa4af8fc5139974999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,29 @@ reuse:
 subjects:
 - Definição de Competências
 - Direcção Regional de Administração Educativa
-- Secretaria Regional da Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:548421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a manutenção em vigor do presente diploma, pelo DRR.5/2005/M.21.02.2005.PG-RAM, DR.IS-B [47] de 08.03.2005,\
+    \ até à publicação integral dos diplomas a que se refere o n.º 4 do seu art. 4.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
+- type: amended_by
+  target: pt:dre:548421:por
+  label: "Extinta a Direcção da Serviços de Gestão de Recursos Humanos de Pessoal Docente, a Direcção de Serviços de Gestão\
+    \ de Recursos Humanos de Pessoal não Docente, a Divisão de Pessoal Docente e a Divisão de pessoal não Docente constantes\
+    \ da orgânica da Direcção Regional de Administração Educativa aprovada pelo presente diploma, pelo DRR.12/2005/M.30.03.2005.PG-RAM,\
+    \ DR.IS-B [76] de 19.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2005-548421
+  date: '2005-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
   label: null
@@ -104,16 +118,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 23
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:45Z'
   warnings: []
   errors: []
 ---
@@ -152,13 +194,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Agosto de 2001.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 20 de Setembro de 2001.**
+Assinado em 20 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica da Direcção Regional de Administração Educativa
 
@@ -248,7 +290,9 @@ l) Autorizar a colocação de trabalhadores ao abrigo dos programas ocupacionais
 
 ### CAPÍTULO II — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 3.º
+#### SECÇÃO I
+
+###### Artigo 3.º
 
 Estrutura
 
@@ -282,7 +326,9 @@ c) Divisão de Apoio Técnico (DAT).
 
 O secretariado é o órgão de apoio administrativo do director regional, competindo-lhe a organização e conservação do arquivo do seu gabinete, bem como o registo e expediente da correspondência e da documentação que lhe estão afectas.
 
-##### SUBSECÇÃO II — Divisão de Estudos e Pareceres Jurídicos
+##### SUBSECÇÃO II
+
+##### Divisão de Estudos e Pareceres Jurídicos
 
 ###### Artigo 6.º — Natureza e atribuições
 
@@ -294,7 +340,9 @@ b) Emitir pareceres sobre projectos e propostas de diplomas que lhe sejam submet
 
 c) Participar na elaboração de pareceres necessários à pronúncia da Região nos termos constitucionais.
 
-##### SUBSECÇÃO III — Divisão de Apoio Técnico
+##### SUBSECÇÃO III
+
+##### Divisão de Apoio Técnico
 
 ###### Artigo 7.º — Natureza e atribuições
 
@@ -352,9 +400,11 @@ p) Estabelecer protocolos de colaboração com outros serviços e organismos reg
 
 2 - Na dependência da DSGRHPD funciona a Divisão de Pessoal Docente (DPD).
 
-##### SUBSECÇÃO I — Artigo 9.º
+##### SUBSECÇÃO I
 
-##### Divisão de Pessoal Docente
+###### Artigo 9.º
+
+Divisão de Pessoal Docente
 
 1 - À DPD compete, nomeadamente:
 
@@ -366,7 +416,9 @@ c) Elaborar o cadastro das escolas, no que respeita ao número de lugares criado
 
 2 - Na dependência da DPD funciona o Departamento de Apoio Administrativo de Pessoal Docente (DAAPD).
 
-##### SUBSECÇÃO II — Artigo 10.º
+##### SUBSECÇÃO II
+
+###### Artigo 10.º
 
 Departamento de Apoio Administrativo de Pessoal Docente
 
@@ -418,9 +470,11 @@ n) Proporcionar aos estabelecimentos de ensino particular e cooperativo, às ins
 
 2 - Na dependência da DSGRHPND funciona a Divisão de Gestão de Pessoal não Docente (DGPND) e a Divisão de Recrutamento de Pessoal não Docente (DRPND).
 
-##### SUBSECÇÃO I — Artigo 12.º
+##### SUBSECÇÃO I
 
-##### Divisão de Gestão de Pessoal não Docente
+###### Artigo 12.º
+
+Divisão de Gestão de Pessoal não Docente
 
 1 - À DGPND compete, nomeadamente:
 
@@ -446,7 +500,9 @@ j) Executar as medidas de desenvolvimento organizacional e de modernização adm
 
 2 - Na dependência da Divisão de Pessoal não Docente funciona o Departamento de Apoio Administrativo de Pessoal não Docente (DAAPND).
 
-##### SUBSECÇÃO II — Artigo 13.º
+##### SUBSECÇÃO II
+
+###### Artigo 13.º
 
 Departamento de Apoio Administrativo de Pessoal não Docente
 
@@ -458,9 +514,11 @@ a) Secção de Expediente e Arquivo;
 
 b) Secção de Pessoal não Docente.
 
-##### SUBSECÇÃO III — Artigo 14.º
+##### SUBSECÇÃO III
 
-##### Divisão de Recrutamento de Pessoal não Docente
+###### Artigo 14.º
+
+Divisão de Recrutamento de Pessoal não Docente
 
 1 - À DRPND compete, nomeadamente:
 

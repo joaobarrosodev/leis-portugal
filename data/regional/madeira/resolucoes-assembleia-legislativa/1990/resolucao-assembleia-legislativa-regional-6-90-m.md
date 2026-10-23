@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/6-1990-332257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a980cb3914cb0097848e7a25d22eb9d43a54c70fb5cd09856509d5a2a0d8acde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 788f0f9865847ebd871031ece4cf9691c8ec40d9d10113d71739c1ba0577e3de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desenvolvimento Regional
+- Despesas Públicas
+- Madeira.região Autónoma
+- Plano de Investimentos
+- Plano de Investimentos e Despesas de Desenvolvimento
+- Plano Económico
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:26Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +93,7 @@ A Assembleia Legislativa Regional da Madeira, reunida em Plenário em 15 de Mar�
 
 Aprovada pela Assembleia Legislativa Regional da Madeira em 15 de Março de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz de Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz de Mendonça.
 
 PLANO DE INVESTIMENTOS E DESPESAS DE DESENVOLVIMENTO DA ADMINISTRAÇÃO DA REGIÃO AUTÓNOMA DA MADEIRA PARA 1990(PIDDAR 90)
 
@@ -353,7 +359,7 @@ De acordo com o recenseamento agrícola de 1986, cerca de metade da superfície 
 
 Os programas de reestruturação ou reconversão que têm sido aplicados desde 1985, ao abrigo das ajudas de pré-adesão (PAPE-CEE), conduziram à obtenção dos seguintes resultados, em termos de área de vinha plantada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 Estes programas tiveram uma adesão crescente até 1988, tendo-se registado em 1989 uma quebra acentuada no ritmo de reestruturação, devida, fundamentalmente, ao facto de os programas de apoio se terem mostrado pouco incentivadores.
 
@@ -1433,7 +1439,7 @@ Nos alojamentos construídos desde 1981 regista-se, de acordo com o quadro que s
 
 Fogos concluídos segundo alguns equipamentos fixos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 Os objectivos a prosseguir no âmbito da habitação são os seguintes:
 
@@ -1701,11 +1707,11 @@ Estes projectos vão referenciados nas fichas que adiante se inserem, respeitant
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 O Programa Operacional Plurifundos irá possibilitar também a realização de investimentos comparticipados a fundo perdido pela Comunidade, representando estes 26,8% do total do PIDDAR 90 (quadro III).
 
@@ -1715,17 +1721,17 @@ São ainda de grande vulto os investimentos a realizar em 1990 pelo Governo Regi
 
 Globalmente, o montante de 20882251 contos reparte-se pelos seguintes domínios de actuação (de acordo com o quadro IV):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 As infra-estruturas e equipamentos colectivos ocupam uma posição preponderante (77,5% do total do montante de investimentos), o que traduz o grande esforço na criação de condições básicas de desenvolvimento.
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 Os incentivos e apoios directos à actividade empresarial, que constituem importante instrumento da estratégia de desenvolvimento, são, na sua maior parte, suportados pelo Orçamento do Estado. As verbas afectas a este domínio de intervenção do PIDDAR 90, que representam cerca de 5% do total, referem-se apenas a parte dos incentivos a atribuir a projectos a realizar na Região.
 
@@ -1735,13 +1741,13 @@ A repartição do montante do PIDDAR para 1990 pelas várias secretarias regiona
 
 QUADRO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 O grande volume de investimentos da Secretaria Regional do Equipamento Social advém do facto de ser responsável pela execução de obras de diversos sectores tutelados por outras secretarias regionais, bem como dos vultosos investimentos em construção de estradas regionais e municipais, num total de 3672000 contos.
 
 A afectação por grandes sectores de actividade económica e social é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 Esta distribuição da despesa de investimento traduz a concretização de uma política determinada do Governo Regional de privilegiar os sectores económicos, os quais absorvem 54,1% da despesa total. Contudo, os sectores sociais não são descurados, sendo de salientar o montante destinado ao sector da habitação (1170827 contos).
 
@@ -1791,7 +1797,7 @@ A discriminação dos vários programas e projectos, devidamente quantificados f
 
 Nos sectores produtivos (que envolvem 5,4 milhões de contos), a agricultura vai despender 2,7 milhões de contos, sendo de destacar, pela sua importância, o Programa de Orientação, Fomento e Melhoria da Produção Vegetal e Animal, onde sobressai o Projecto de Desenvolvimento Agrícola do Porto Santo, comparticipado pela CEE no âmbito das ajudas de pré-adesão. É também importante o Programa de Acções e Programas no âmbito do PEDAP, comparticipado pela Comunidade Económica Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 Ainda no sector Agrícola há que destacar os projectos de hidráulica e o da impermeabilização da lagoa do Santo da Serra.
 
@@ -1839,68 +1845,68 @@ Ao sector da administração pública regional estão afectos no PIDDAR 273683 c
 
 QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VII - 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VII - 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VII - 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VII - 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VII - 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VII - 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VII - 7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VII - 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VIII - 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VIII - 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VIII - 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VIII - 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VIII - 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VIII - 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VIII - 7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
 
 QUADRO VIII - 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf))](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/09500/19342007.pdf)

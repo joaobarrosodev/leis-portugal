@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/027b00/06660671.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2003/02/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2003-167377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1aeaaf36f2d9d1de49d02a8d3be7d227c2d7b615ef407f9d3419db30be92928
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 481970b14f6a943a254f17f7ef00ce9d98c893b5dd6b2be373a7cab19de3439c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Proteção Civil
 - Centro de Segurança Social da Madeira
-- Governo Regional
 - Criação de Serviços
-- Saúde
 - Definição de Competências
 - Direcção Regional de Gestão e Desenvolvimento dos Recursos
-- Gabinete do Secretário Regional dos Assuntos Sociais
-- Integração de Trabalhadores
-- Secretaria Regional dos Assuntos Sociais
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Direcção Regional de Planeamento e Saúde Pública
+- Gabinete do Secretário Regional dos Assuntos Sociais
+- Governo Regional
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Proteção Civil
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Saúde
+- Secretaria Regional dos Assuntos Sociais
 - Segurança Social
 - Serviço Regional de Prevenção da Toxicodependência
 - Serviço Regional de Protecção Civil da Madeira
@@ -131,16 +131,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/75/2001/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/75/2001/02/07/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241776:por
+  label: "Revogado pelo DRR.29/2005/M.06.07.2005.AL-RAM, DR.IS-B [153] de 10.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-2005-241776
+  date: '2005-07-06'
 article_structure:
   article_count: 32
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:03Z'
   warnings: []
   errors: []
 ---
@@ -179,11 +224,11 @@ Aprovado em Conselho do Governo Regional em 13 de Dezembro de 2002.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva, Vice-Presidente.
 
-**Assinado em 6 de Janeiro de 2003.**
+Assinado em 6 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO
 
@@ -315,7 +360,9 @@ f) Executar os procedimentos relativos à gestão de pessoal, designadamente rec
 
 3 - A DSA integra a Divisão de Coordenação Administrativa.
 
-###### Artigo 10.º — Divisão de Coordenação Administrativa
+###### Artigo 10.º
+
+##### Divisão de Coordenação Administrativa
 
 1 - A Divisão de Coordenação Administrativa, abreviadamente designada por DCA, é o serviço da DSA ao qual compete dirigir e acompanhar as actividades relativas ao expediente geral, à contabilidade e ao pessoal.
 
@@ -363,7 +410,9 @@ c) Organizar e efectuar os procedimentos administrativos e contabilísticos rela
 
 d) Manter o cadastro patrimonial dos bens móveis e coordenar a respectiva manutenção.
 
-###### Artigo 14.º — Divisão de Serviços Jurídicos
+###### Artigo 14.º
+
+##### Divisão de Serviços Jurídicos
 
 À Divisão de Serviços Jurídicos, abreviadamente designada por DSJ, compete:
 
@@ -371,7 +420,9 @@ a) Emitir pareceres jurídicos e elaborar projectos de diplomas legais;
 
 b) Promover o arquivo e divulgação de legislação de interesse para os serviços.
 
-###### Artigo 15.º — Divisão de Informação e Relações Públicas
+###### Artigo 15.º
+
+##### Divisão de Informação e Relações Públicas
 
 A Divisão de Informação e Relações Públicas, abreviadamente designada por DIRP, é um serviço de assessoria e apoio técnico ao qual compete proceder à recolha, compilação e divulgação de documentação e bibliografia de interesse e dinamizar as actividades de relações públicas da Secretaria Regional dos Assuntos Sociais.
 

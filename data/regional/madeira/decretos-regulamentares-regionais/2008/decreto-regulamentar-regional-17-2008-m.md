@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/13200/0432904332.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2008/07/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2008-456539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 642d1b7b4a39f9f9f31f04f7bdb0131d12b8cdf126a36810d291c93f3df06f00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48d450b6ee83659cbf7b143b69dc66a5382af850fc0cea9c83f6eec7c3a23ab3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Direcção Regional das Pescas
 - Definição de Competências
+- Direção Regional de Agricultura e Desenvolvimento Rural
 - Direcção Regional das Florestas
-- Direcção Regional do Ambiente
+- Direcção Regional das Pescas
 - Direcção Regional de Saneamento Básico
+- Direcção Regional de Veterinária
+- Direcção Regional do Ambiente
 - Extinção de Serviços
 - Fundo Madeirense do Seguro de Colheitas
 - Gabinete Governamental
+- Governo Regional
 - Instituto do Vinho Bordado e do Artesanato da Madeira
-- Direção Regional de Agricultura e Desenvolvimento Rural
-- Direcção Regional de Veterinária
+- Madeira.região Autónoma
 - Orgânica
 - Parque Natural da Madeira
-- Madeira.região Autónoma
 - Quadro de Pessoal
 - Secretaria Regional do Ambiente e dos Recursos Naturais
 - Secretário Regional
@@ -90,6 +90,12 @@ relationships:
   target: pt:dre:553440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670502:por
+  label: "Alterados os arts. 1º e 2º e aditado o art. 5º-A ao presente diploma pelo DRR.5/2011/M.06.07.2011.PG-RAM, DR.IS\
+    \ [128] de 06.07.2011, que o republicou em anexo, com as alterações e aditamento por ele introduzidos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2011-670502
+  date: '2011-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
   label: null
@@ -126,16 +132,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693196:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553440:por
+  label: "Revogado, a partir de 14.03.2012, o presente diploma, alterado pelo DRR 5/2011/M de 06-jul, pelo DRR.2/2012/M.13.03.2012.PG-RAM,\
+    \ DR.IS [52] de 13.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2012-553440
+  date: '2012-03-13'
 article_structure:
   article_count: 16
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:28Z'
   warnings: []
   errors: []
 ---
@@ -218,7 +266,7 @@ e) A Direcção Regional de Pescas.
 
 ###### Artigo 5.º — Superintendência e tutela
 
-**O Secretário Regional tem a tutela e superintendência do Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P., Parque Natural da Madeira e Fundo Madeirense do Seguro de Colheitas.**
+O Secretário Regional tem a tutela e superintendência do Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P., Parque Natural da Madeira e Fundo Madeirense do Seguro de Colheitas.
 
 ###### Artigo 6.º — Tipologia dos serviços
 
@@ -390,12 +438,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 12 de Junho de 2008.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Julho de 2008.**
+Assinado em 2 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13200/0432904332.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13200/0432904332.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13200/0432904332.pdf)

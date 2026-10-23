@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/02400/0083400834.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2018/02/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2018-114627388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21ff5f028612dd5538992a756a0e84f67a093daee84e7688596b986f7b6ef203
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abda94c51c36bbd0f90b27a853bcee13e57c85440cfb44e22ad26890b75d2896
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Chefe de Gabinete
 - Definição de Competências
-- Presidência do Governo Regional
 - Gabinete Governamental
-- Presidente do Governo Regional
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Presidência do Governo Regional
+- Presidente do Governo Regional
 - Secretário Geral
 relationships:
 - type: amended_by
@@ -119,16 +119,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: repealed_by
+  target: pt:dre:128113536:por
+  label: Revogado, a partir de 16.01.2020, pelo(a) Decreto Regulamentar Regional n.º 4/2020/M - Diário da República n.º 10/2020,
+    Série I de 2020-01-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2020-128113536
+  date: '2020-01-15'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:20Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +163,9 @@ Organização interna do Gabinete do Presidente do Governo Regional
 
 2 - A organização interna a que se refere o número anterior é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/629387/details/normal?l=1), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os [24/2012/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/174815/details/normal?l=1), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/588851/details/normal?l=1), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/105657288/details/normal?l=1), de 30 de dezembro.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -167,7 +175,9 @@ Organização interna do Gabinete do Presidente do Governo Regional
 
 4 - O cargo de Secretário-Geral pode ser exercido, por inerência de funções, pelo Chefe do Gabinete do Presidente do Governo Regional, que, uma vez provido no lugar, o substituirá transitoriamente nas suas faltas e impedimentos, podendo delegar competências próprias em trabalhador da carreira técnica superior ou titular de categoria não inferior a Chefe de Departamento.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 A dotação dos cargos de direção superior e intermédia da administração direta da Presidência do Governo consta do Anexo I ao presente diploma, do qual faz parte integrante.»
 
@@ -179,18 +189,22 @@ O Anexo I ao [Decreto Regulamentar Regional n.º 7/2015/M](https://diariodarepub
 
 Mapa a que se refere o artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/02/02400/0083400834.pdf))](https://files.diariodarepublica.pt/1s/2018/02/02400/0083400834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/02/02400/0083400834.pdf)
 
-###### Artigo 4.º — Entrada em vigor e produção de efeitos
+Artigo 4.º
+
+Entrada em vigor e produção de efeitos
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos no 1.º dia do mês seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 de janeiro de 2018.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 25 de janeiro de 2018.**
+Assinado em 25 de janeiro de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+111103985

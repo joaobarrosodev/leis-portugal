@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 84/2001, 1º Suplemento, Série I-B de 2001-04-09
   number: '84'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2114-(2) a 2114-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/084b01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/10-a/2001/04/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/10-a-2001-468631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9b8699246748a803833b2e1e06cac92e9ed267ab03478e0591f42aecf19e86c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5aa3ce1e6da621d375e4d2eb46a341a2740ae3a08756aae9469290aa1ef6688
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Legislativa Regional
-- Orçamento
 - Madeira.região Autónoma
+- Orçamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/10-a/2000/04/27/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/10-a/2000/04/27/m/dre
+- type: cites
+  target: pt:dre:241999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:21Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +103,14 @@ A Assembleia Legislativa Regional da Madeira, reunida em Plenário em 28 de Mar�
 
 Aprovada em Sessão Plenária da Assembleia Legislativa Regional da Madeira em 28 de Março de 2001.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
 Orçamento da Assembleia Legislativa Regional da Madeira para o ano 2001
 
 I - Mapa resumo
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/04/084b01/00020005.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/04/084b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/2001/04/084b01/00020005.pdf)
 
 II - Mapa de desenvolvimento das despesas para 2001
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/04/084b01/00020005.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/04/084b01/00020005.pdf)](https://files.diariodarepublica.pt/1s/2001/04/084b01/00020005.pdf)

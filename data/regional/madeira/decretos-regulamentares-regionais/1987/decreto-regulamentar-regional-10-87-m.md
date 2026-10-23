@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09700/17351735.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1987-665737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 157ba291de0121139decb27b7e41a06862c8af308dbe892428a332e6106a36a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bd5f240c6405b2ff322a44d0b944d1c6a669a6e61960057a3a558f3f3d26150
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- IPSS
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:72791379:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:662077:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:72791379:por
+  label: Revogado (a partir de 03.12.2015) pelo(a) Decreto Legislativo Regional n.º 9/2015/M - Diário da República n.º 236/2015,
+    Série I de 2015-12-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2015-72791379
+  date: '2015-12-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:47Z'
   warnings: []
   errors: []
 ---
@@ -99,14 +112,14 @@ Nesta conformidade:
 
 O Governo Regional, ao abrigo do disposto na alínea b) do artigo 229.º da Constituição da República, decreta o seguinte:
 
-###### Artigo único. É revogado o artigo 32.º do Estatuto das Instituições Particulares de Solidariedade Social, anexo ao [Decreto Regulamentar Regional n.º 3/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1984-662077), de 22 de Março.
+Artigo único. É revogado o artigo 32.º do Estatuto das Instituições Particulares de Solidariedade Social, anexo ao [Decreto Regulamentar Regional n.º 3/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1984-662077), de 22 de Março.
 
 Aprovado em Conselho do Governo Regional em 5 de Março de 1987.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 25 de Março de 1987.**
+Assinado em 25 de Março de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20900/0923809240.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2015/10/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2015-70804097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95129571d62b53fabb9761e23fdf362528a23d880dc5c2ab45da39a9dbe9b4c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9d233702a6eb7aa2ea36a76d3d122e5213d5fd03542597f670350e8808f49b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Região Autónoma
-- Pessoal Dirigente
-- Comércio Internacional
+- Administração Pública
+- Administração Regional
+- Apoio à Exportação
 - Comércio Externo
+- Comércio Internacional
 - Criação de Serviços
 - Definição de Competências
 - Diretor Regional
+- Empreendedorismo
 - Internacionalização Empresarial
-- Administração Pública
-- Apoio à Exportação
 - Investimento Estrangeiro
+- Madeira.região Autónoma
 - Orgânica
 - Organismo do Estado
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Pequenas e Médias Empresas
-- Administração Regional
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Região Autónoma
 - SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
 relationships:
 - type: amended_by
@@ -129,16 +129,91 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/200
   label: null
   source: http://data.dre.pt/eli/lei/64-a/200
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67522990:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115288238:por
+  label: Revogado o presente diploma e determinada a extinção da Direção Regional da Inovação, Valorização e Empreendedorismo,
+    sendo as respetivas atribuições integradas na Direção Regional Adjunta de Economia pelo(a) Decreto Regulamentar Regional
+    n.º 7/2018/M - Diário da República n.º 92/2018, Série I de 2018-05-14, nos termos do art. 29.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2018-115288238
+  date: '2018-05-14'
 article_structure:
   article_count: 7
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:04Z'
   warnings: []
   errors: []
 ---
@@ -257,14 +332,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 24 de setembro de 2015.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 6 de outubro de 2015.**
+Assinado em 6 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO — Dotação de lugares dos dirigentes intermédios de 1.º grau
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/20900/0923809240.pdf))](https://files.diariodarepublica.pt/1s/2015/10/20900/0923809240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/20900/0923809240.pdf)

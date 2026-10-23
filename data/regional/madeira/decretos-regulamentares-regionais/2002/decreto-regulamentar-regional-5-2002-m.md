@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/039b00/12731289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2002/02/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2002-284679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4cf56298705ce5c4fca0f3fb03c65659863973a4ad512266f67c728f2cd6315
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dfb173e3a3668bf116b4135fa1a6a0cee8e6e854237cdb1fb401a884fa425e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Agricultura
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Secretaria Regional do Ambiente e dos Recursos Naturais
 relationships:
@@ -75,6 +75,21 @@ relationships:
   target: pt:dre:236957:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:167376:por
+  label: "Eliminadas as als. d) e e) do art. 13.º, a al. e) do n.º 1 do art. 14.º e a al. d) do n.º 1 do art. 17.º e alterado\
+    \ o quadro de pessoal a que se refere o n.º 1 do art. 27.º todos do presente diploma e republicado na integra, pelo DRR.5/2003/M.2003.01.09.PG-RAM\
+    \ DR.IS-B [27] DE 01/FEV/2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2003-167376
+  date: '2003-01-09'
+- type: amended_by
+  target: pt:dre:693196:por
+  label: "Mantido em vigor o presente diploma orgânico e o quadro de pessoal, alterado e republicado pelo DRR 5/2003/M de\
+    \ 11-Fev pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B [94] de 16.05.2005, até à entrada em vigor do novo diploma orgânico\
+    \ da Direcção Regional de Agricultura e Desenvolvimento Rural, previsto no nº 2 do art. 4º daquele diploma, para a qual\
+    \ transitam as competências, direitos e obrigações de que era titular a Direcção Regional de Agricultura\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
   label: null
@@ -115,16 +130,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:218475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655331:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:236957:por
+  label: "Revogado pelo DRR.27/2005/M.19.05.2005.PG-RAM, DR.IS-B [131] de 11.07.2005, na redacção do DRR 5/2003/M de 01-Fev\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2005-236957
+  date: '2005-05-19'
 article_structure:
   article_count: 29
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:55Z'
   warnings: []
   errors: []
 ---
@@ -791,13 +868,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 28 de Dezembro de 2001.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 24 de Janeiro de 2002.**
+Assinado em 24 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Quadro de pessoal
 

@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1990-332406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8e7553168f507c369bd93635ec23ec913fefe789cf45d9a9ba373815b7568e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8be614ab36e2f233a26f643095b76a5f869ca769f9e50bf79a2a400770fd1302
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Poluição Sonora
+- Regulamento
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:14Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +100,9 @@ Considera-se, no entanto, que o estatuído sobre a realização de espectáculos
 
 Assim, o Governo Regional da Madeira, nos termos da alínea b) do artigo 33.º do Decreto-Lei n.º 318-D/76, de 30 de Abril, decreta o seguinte:
 
-###### Artigo 1.º A aplicação na Região Autónoma da Madeira do Regulamento Geral sobre o Ruído, adiante designado por Regulamento, e seus anexos, aprovados pelo Decreto-Lei n.º 251/87, de 24 de Junho, com as alterações introduzidas pelo Decreto-Lei n.º 292/89, de 2 de Setembro, é efectuada com as adaptações constantes do artigo seguinte.
+Artigo 1.º A aplicação na Região Autónoma da Madeira do Regulamento Geral sobre o Ruído, adiante designado por Regulamento, e seus anexos, aprovados pelo Decreto-Lei n.º 251/87, de 24 de Junho, com as alterações introduzidas pelo Decreto-Lei n.º 292/89, de 2 de Setembro, é efectuada com as adaptações constantes do artigo seguinte.
 
-###### Art. 2.º - 1 - O disposto no artigo 21.º do Regulamento não é aplicável a esta Região Autónoma, mantendo-se em vigor, neste âmbito o estatuído no Regulamento Policial da Região Autónoma da Madeira, aprovado pela Portaria n.º 22/79, de 29 de Março.
+Art. 2.º - 1 - O disposto no artigo 21.º do Regulamento não é aplicável a esta Região Autónoma, mantendo-se em vigor, neste âmbito o estatuído no Regulamento Policial da Região Autónoma da Madeira, aprovado pela Portaria n.º 22/79, de 29 de Março.
 
 2 - A competência atribuída à Direcção-Geral de Viação pela alínea c) do n.º 3 do artigo 22.º do Regulamento será exercida pela Direcção Regional dos Transportes Terrestres.
 
@@ -111,16 +114,16 @@ Assim, o Governo Regional da Madeira, nos termos da alínea b) do artigo 33.º d
 
 6 - O produto das coimas aplicadas nos termos do Regulamento reverterá para o Orçamento da Região, sendo afectado a programas nos domínios do ambiente e da saúde.
 
-###### Art. 3.º - 1 - O presente diploma entra imediatamente em vigor, não afectando a validade das licenças e autorizações respeitantes a pedidos que tenham dado entrada nos serviços competentes até à presente data, ainda que as mesmas sejam concedidas ou prorrogadas em data posterior.
+Art. 3.º - 1 - O presente diploma entra imediatamente em vigor, não afectando a validade das licenças e autorizações respeitantes a pedidos que tenham dado entrada nos serviços competentes até à presente data, ainda que as mesmas sejam concedidas ou prorrogadas em data posterior.
 
 2 - A classificação referida no artigo 4.º do Regulamento, na redacção dada pelo artigo 1.º do Decreto-Lei n.º 292/89, de 2 de Setembro, será realizada no prazo de um ano a contar da data da entrada em vigor do presente diploma pela Direcção Regional do Ambiente e Urbanismo e submetida, para homologação, ao Secretário Regional do Equipamento Social.
 
 Aprovado em Conselho do Governo Regional em 8 de Janeiro de 1990.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 29 de Janeiro de 1990.**
+Assinado em 29 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

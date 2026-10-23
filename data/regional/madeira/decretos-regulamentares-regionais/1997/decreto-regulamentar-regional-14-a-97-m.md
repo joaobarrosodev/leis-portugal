@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 173/1997, 3º Suplemento, Série I-B de 1997-07-29
   number: '173'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3928-(12) a 3928-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/173b03/00120019.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14-a/1997/07/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-a-1997-363920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14de7ab020bed4c487044b8dacc53762e20a95d4b20ca45a50811cca92adcf3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cb16ed6945f355ac3ee08110d05dcaeb68749a6d00f0c467c2830c5d38b62b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Direcção Regional do Planeamento
-- Secretaria Regional do Plano e da Coordenação
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional do Plano e da Coordenação
 relationships:
 - type: amended_by
   target: pt:dre:612591:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:639911:por
+  label: "Alterado pelo DRR.22/99/M.1999.11.05.PG-RAM, DR.IS-B [279] de 30/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-1999-639911
+  date: '1999-11-05'
+- type: amended_by
+  target: pt:dre:612591:por
+  label: "Mantido em vigor o quadro de pessoal da DRP, constante do anexo deste diploma, até à entrada em vigor da orgânica\
+    \ da DRPF ou criação do Instituto de Desenvolvimento Regional, DRR.1-A/2001/M.2001.03.12.PG-RAM DR.IS-B [61]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-a-2001-612591
+  date: '2001-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/24-a/1996/12/04/m/dre
   label: null
@@ -92,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:182203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 30
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:05Z'
   warnings: []
   errors: []
 ---
@@ -142,11 +169,11 @@ Aprovado em Conselho do Governo Regional em 10 de Julho de 1997.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 29 de Julho de 1997.**
+Assinado em 29 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ORGÂNICA DA DIRECÇÃO REGIONAL DO PLANEAMENTO
 
@@ -262,7 +289,9 @@ d) Centro de Informação e Documentação.
 
 3 - Os órgãos citados no n.º 1 funcionam na directa dependência do director regional.
 
-##### SUBSECÇÃO I — Artigo 6.º
+##### SUBSECÇÃO I
+
+###### Artigo 6.º
 
 Gabinete de Ordenamento do Território
 
@@ -280,7 +309,9 @@ d) Acompanhar as acções sectoriais e avaliar o impacte das políticas globais 
 
 e) Elaborar estudos estratégicos relativos ao ordenamento do território, na perspectiva da optimização e racionalização da ocupação do espaço, com vista ao seu desenvolvimento integrado, harmonioso e sustentável.
 
-##### SUBSECÇÃO II — Artigo 7.º
+##### SUBSECÇÃO II
+
+###### Artigo 7.º
 
 Gabinete de Coordenação das Intervenções Comunitárias
 
@@ -308,7 +339,9 @@ i) Participar na avaliação do impacte e dos efeitos das intervenções operaci
 
 j) Colaborar na preparação da informação e assegurar a divulgação de normas e procedimentos relativos às intervenções comunitárias de âmbito regional ou sectorial.
 
-##### SUBSECÇÃO III — Artigo 8.º
+##### SUBSECÇÃO III
+
+###### Artigo 8.º
 
 Gabinete de Apoio Jurídico
 
@@ -322,7 +355,9 @@ b) Emitir pareceres sobre propostas de portarias, de decretos regulamentares reg
 
 c) Participar na elaboração de pareceres de projectos e propostas de outros diplomas legislativos.
 
-##### SUBSECÇÃO IV — Artigo 9.º
+##### SUBSECÇÃO IV
+
+###### Artigo 9.º
 
 Centro de Informação e Documentação
 
@@ -372,7 +407,9 @@ a) Divisão de Estudos;
 
 b) Divisão de Planeamento.
 
-##### SUBSECÇÃO I — Divisão de Estudos
+##### SUBSECÇÃO I
+
+##### Divisão de Estudos
 
 ###### Artigo 11.º — Competências
 
@@ -390,7 +427,9 @@ e) Analisar o impacte da política de investimento a nível global, sectorial e 
 
 f) Manter actualizada uma base de dados sócio-económicos que permita a caracterização da realidade regional em estreita articulação com os organismos com competência na área da estatística.
 
-##### SUBSECÇÃO II — Divisão de Planeamento
+##### SUBSECÇÃO II
+
+##### Divisão de Planeamento
 
 ###### Artigo 12.º — Competências
 
@@ -432,7 +471,9 @@ a) Divisão de Coordenação, Acompanhamento e Avaliação dos Programas e Proje
 
 b) Divisão de Controlo da Execução Financeira do PIDDAR.
 
-##### SUBSECÇÃO I — Divisão de Coordenação, Acompanhamento e Avaliação dos Programas e Projectos
+##### SUBSECÇÃO I
+
+##### Divisão de Coordenação, Acompanhamento e Avaliação dos Programas e Projectos
 
 ###### Artigo 14.º — Competências
 
@@ -452,7 +493,9 @@ f) Colaborar na definição de metodologias visando a elaboração e alimentaç�
 
 g) Desenvolver e promover estudos de análise do investimento público e do seu impacte na evolução sócio-económica da Região.
 
-##### SUBSECÇÃO II — Divisão de Controlo da Execução Financeira do PIDDAR
+##### SUBSECÇÃO II
+
+##### Divisão de Controlo da Execução Financeira do PIDDAR
 
 ###### Artigo 15.º — Competências
 
@@ -504,7 +547,9 @@ b) Divisão de Incentivos Regionais;
 
 c) Divisão do Fundo de Coesão e Iniciativas Comunitárias.
 
-##### SUBSECÇÃO I — Divisão do POPRAM
+##### SUBSECÇÃO I
+
+##### Divisão do POPRAM
 
 ###### Artigo 17.º — Competências
 
@@ -522,7 +567,9 @@ e) Acompanhar o processo de transferências financeiras comunitárias;
 
 f) Elaborar os relatórios de execução e acompanhamento do POPRAM.
 
-##### SUBSECÇÃO II — Divisão de Incentivos Regionais
+##### SUBSECÇÃO II
+
+##### Divisão de Incentivos Regionais
 
 ###### Artigo 18.º — Competências
 
@@ -540,7 +587,9 @@ e) Colaborar na preparação da informação e assegurar a divulgação de norma
 
 f) Colaborar na preparação dos pedidos de financiamento para os estudos e medidas de assistência técnica relacionados com os incentivos regionais.
 
-##### SUBSECÇÃO III — Divisão do Fundo de Coesão e Iniciativas Comunitárias
+##### SUBSECÇÃO III
+
+##### Divisão do Fundo de Coesão e Iniciativas Comunitárias
 
 ###### Artigo 19.º — Competências
 
@@ -580,7 +629,9 @@ a) Divisão de Acompanhamento e Controlo;
 
 b) Divisão de Avaliação.
 
-##### SUBSECÇÃO I — Divisão de Acompanhamento e Controlo
+##### SUBSECÇÃO I
+
+##### Divisão de Acompanhamento e Controlo
 
 ###### Artigo 21.º — Competências
 
@@ -594,7 +645,9 @@ c) Garantir o controlo contabilístico-financeiro durante a execução dos proje
 
 d) Propor a adopção das medidas adequadas tendo em vista a melhoria dos níveis de eficiência e eficácia dos apoios concedidos e garantir o cumprimento das decisões de aprovação.
 
-##### SUBSECÇÃO II — Divisão de Avaliação
+##### SUBSECÇÃO II
+
+##### Divisão de Avaliação
 
 ###### Artigo 22.º — Competências
 
@@ -680,4 +733,4 @@ O regime aplicável ao pessoal da DRP é o genericamente estabelecido para os tr
 
 São revogadas as disposições do [Decreto Regulamentar Regional n.º 10/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1993-274413), de 10 de Maio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b03/00120019.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b03/00120019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b03/00120019.pdf)

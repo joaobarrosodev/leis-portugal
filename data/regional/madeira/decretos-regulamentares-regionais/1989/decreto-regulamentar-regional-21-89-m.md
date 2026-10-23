@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/25700/48964903.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1989-550071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f5488e8a7492848603007a69cef5d09096eb019535e279c18ea876c6a4768a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e23acdc3549fb45c9c517a894a51ab7c8ffc6c535424cbffa14ea0dc34de6624
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:282750:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682066:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:282750:por
+  label: "Revogado pelo DRR.14/93/M.25.05.1993.GR-RAM, DR.IS-B [121] de 25.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1993-282750
+  date: '1993-05-25'
 article_structure:
   article_count: 32
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:05Z'
   warnings: []
   errors: []
 ---
@@ -340,7 +400,7 @@ O tempo de serviço prestado na Secretaria-Geral, nos termos dos artigos 11.º, 
 
 ###### Artigo 17.º — Aproveitamento subsidiário do pessoal
 
-**O secretário-geral poderá determinar, quando os trabalhos o aconselhem ou o imponham, que o pessoal atribuído a cada serviço preste a qualquer dos outros a colaboração tida por conveniente.**
+O secretário-geral poderá determinar, quando os trabalhos o aconselhem ou o imponham, que o pessoal atribuído a cada serviço preste a qualquer dos outros a colaboração tida por conveniente.
 
 ###### Artigo 18.º — Comissões de estudo e prestação de serviços
 
@@ -468,14 +528,14 @@ O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 15 de Junho de 1989.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 1 de Agosto de 1989.**
+Assinado em 1 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/25700/48964903.pdf))](https://files.diariodarepublica.pt/1s/1989/11/25700/48964903.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/25700/48964903.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/25700/48964903.pdf))](https://files.diariodarepublica.pt/1s/1989/11/25700/48964903.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/25700/48964903.pdf)

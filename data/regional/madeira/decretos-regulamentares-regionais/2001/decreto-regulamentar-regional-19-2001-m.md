@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/193b00/53925401.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2001/08/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2001-516220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f292f2075bdc5b1955f928b8691e0ed92334775131339ce87f7c4b75d3931ada
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d50cfa4247fcd0d82e3f5e8940e90fbafd410c80a9bddd148a07797a93ec742a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Planeamento e Finanças
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Remuneração
 - Transferência de Pessoal
@@ -112,16 +112,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:437860:por
+  label: "Rectificado pela DECL-RECT.15-O/2001.2001.08.31.PCM, DR.IS-B [202]4ºSupl.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-o-2001-437860
+  date: '2001-08-31'
+- type: repealed_by
+  target: pt:dre:210023:por
+  label: "Revogado pelo DRR.7/2004/M.04.03.2004.ALR-RAM, DR.IS-B [75] de 29.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2004-210023
+  date: '2004-03-04'
 article_structure:
   article_count: 55
-  section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 38
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:44Z'
   warnings: []
   errors: []
 ---
@@ -156,11 +202,11 @@ Aprovado em Conselho do Governo Regional em 12 de Julho de 2001.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 27 de Julho de 2001.**
+Assinado em 27 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica da Direcção Regional de Planeamento e Finanças
 
@@ -402,7 +448,9 @@ b) Divisão de Planeamento.
 
 2 - O DA prestará todo o apoio administrativo e logístico necessário ao bom funcionamento da DSEP e respectivas divisões.
 
-##### SUBSECÇÃO I — Divisão de Estudos
+##### SUBSECÇÃO I
+
+##### Divisão de Estudos
 
 ###### Artigo 18.º — Natureza e atribuições
 
@@ -410,7 +458,9 @@ b) Divisão de Planeamento.
 
 2 - Sem prejuízo da necessária coordenação e complementaridade de competências, à DES competem, de forma principal, as actividades a que se referem as alíneas a) a c) e g) a i) do n.º 1 do artigo 15.º
 
-##### SUBSECÇÃO II — Divisão de Planeamento
+##### SUBSECÇÃO II
+
+##### Divisão de Planeamento
 
 ###### Artigo 19.º — Natureza e atribuições
 
@@ -458,7 +508,9 @@ b) Divisão de Controlo da Execução Financeira do PIDDAR.
 
 2 - O DA prestará todo o apoio administrativo e logístico necessário ao bom funcionamento da DSISPA e respectivas divisões.
 
-##### SUBSECÇÃO I — Divisão de Coordenação, Acompanhamento e Avaliação dos Programas e Projectos
+##### SUBSECÇÃO I
+
+##### Divisão de Coordenação, Acompanhamento e Avaliação dos Programas e Projectos
 
 ###### Artigo 23.º — Natureza e atribuições
 
@@ -466,7 +518,9 @@ b) Divisão de Controlo da Execução Financeira do PIDDAR.
 
 2 - À DCAAPP competem, a título principal, as actividades a que se referem as alíneas a) a e) e i) do n.º 1 do artigo 20.º
 
-##### SUBSECÇÃO II — Divisão de Controlo da Execução Financeira do PIDDAR
+##### SUBSECÇÃO II
+
+##### Divisão de Controlo da Execução Financeira do PIDDAR
 
 ###### Artigo 24.º — Natureza e atribuições
 
@@ -522,7 +576,9 @@ b) Divisão da Dívida Pública Regional;
 
 c) Serviço de Coordenação e Apoio Administrativo.
 
-##### SUBSECÇÃO I — Divisão de Finanças
+##### SUBSECÇÃO I
+
+##### Divisão de Finanças
 
 ###### Artigo 28.º — Natureza e atribuições
 
@@ -530,7 +586,9 @@ c) Serviço de Coordenação e Apoio Administrativo.
 
 2 - À DIF competem, a título principal, as actividades a que se referem as alíneas a) a h) e n) do n.º 1 do artigo 25.º
 
-##### SUBSECÇÃO II — Divisão da Dívida Pública Regional
+##### SUBSECÇÃO II
+
+##### Divisão da Dívida Pública Regional
 
 ###### Artigo 29.º — Natureza e atribuições
 
@@ -584,7 +642,9 @@ b) Divisão de Acompanhamento das Finanças Locais.
 
 2 - O DA prestará todo o apoio administrativo e logístico necessário ao bom funcionamento da DSFL e respectivas divisões.
 
-##### SUBSECÇÃO I — Divisão de Apoio às Autarquias Locais
+##### SUBSECÇÃO I
+
+##### Divisão de Apoio às Autarquias Locais
 
 ###### Artigo 34.º — Natureza e atribuições
 
@@ -592,7 +652,9 @@ b) Divisão de Acompanhamento das Finanças Locais.
 
 2 - À DAAL competem, a título principal, as actividades a que se referem as alíneas a) a c) e h) do n.º 1 do artigo 31.º
 
-##### SUBSECÇÃO II — Divisão de Acompanhamento das Finanças Locais
+##### SUBSECÇÃO II
+
+##### Divisão de Acompanhamento das Finanças Locais
 
 ###### Artigo 35.º — Natureza e atribuições
 
@@ -636,7 +698,9 @@ b) Serviço de Apoio Administrativo e Coordenação das Entradas de Fundos;
 
 c) Serviço de Apoio Administrativo e Coordenação das Saídas de Fundos.
 
-##### SUBSECÇÃO I — Divisão do Tesouro Regional
+##### SUBSECÇÃO I
+
+##### Divisão do Tesouro Regional
 
 ###### Artigo 39.º — Natureza
 

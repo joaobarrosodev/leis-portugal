@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2012/06/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2012-178846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7032a0018d132dad94c8ee67c3e5fe798a0a998a086092b93be6af795d3fe2a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09f972f52ca59822b9846297dafcbfe8b08fd688583d93eb62158bdd33e8eaa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Conselho Administrativo
 - Definição de Competências
+- Direcção Regional de Qualificação Profissional
 - Diretor Regional
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
-- Direcção Regional de Qualificação Profissional
+- Orgânica
+- Pessoal Dirigente
 - Transferência de Competências
 relationships:
 - type: amended_by
@@ -107,16 +107,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:73462829:por
+  label: Revogado, a partir de 09.02.2016 e com efeitos a 01.01.2016, o presente diploma, extinta a Direção Regional de Qualificação
+    Profissional cuja orgânica foi por este aprovada, e transferidas as competências, direitos e obrigações da referida Direção
+    Regional para o Instituto para a Qualificação, IP-RAM, pelo(a) Decreto Legislativo Regional n.º 6/2016/M - Diário da República
+    n.º 26/2016, Série I de 2016-02-08, sem prejuízo do disposto no n.º 2 do art. 23.º deste e nos termos dos seus arts. 22.º
+    e 24.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2016-73462829
+  date: '2016-02-08'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:49Z'
   warnings: []
   errors: []
 ---
@@ -149,11 +186,11 @@ O presente decreto regulamentar regional entra em vigor no dia seguinte ao da su
 
 Aprovado em Conselho do Governo Regional em 17 de maio de 2012.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 5 de junho de 2012.**
+Assinado em 5 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -273,8 +310,8 @@ O pessoal da DRQP constante da Portaria n.º 157/2008, de 12 de setembro, integr
 
 ## ANEXO II — Cargos de direção superior a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11900/0309903101.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11900/0309903101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11900/0309903101.pdf)
 
 ## ANEXO III — Cargos de direção intermédia a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11900/0309903101.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11900/0309903101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11900/0309903101.pdf)

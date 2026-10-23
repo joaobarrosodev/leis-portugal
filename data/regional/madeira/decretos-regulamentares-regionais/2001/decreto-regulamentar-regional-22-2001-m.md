@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/2001/10/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2001-621353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a30d1de9d72107ea4b32a1acd3537577157feb0bf2dcbb88ce2f80800bda6922
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa1671630650de1f4c86155337f83f6115030f7266fc4441870966fa1baef299
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,26 @@ reuse:
 subjects:
 - Incompatibilidades
 - Instituto do Desporto da Região Autónoma da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:548429:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a manutenção em vigor do presente diploma, pelo DRR.5/2005/M.21.02.2005.PG-RAM, DR.IS-B [47] de 08.03.2005,\
+    \ até à publicação integral dos diplomas a que se refere o n.º 4 do seu art. 4.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
+- type: amended_by
+  target: pt:dre:548429:por
+  label: "Extinta a Direcção de Serviços de Estudos e Investigação constante da al. d) do art. 6.º da orgânica aprovada pelo\
+    \ presente diploma, pelo DRR.15/2005/M.30.03.2005.PG-RAM, DR.IS-B [76] de 19.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2005-548429
+  date: '2005-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -111,16 +123,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/137/1999/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/137/1999/02/26/p/dre
+- type: cites
+  target: pt:dre:165250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:45Z'
   warnings: []
   errors: []
 ---
@@ -149,13 +201,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Agosto de 2001.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 20 de Setembro de 2001.**
+Assinado em 20 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.
 
 ORGÂNICA DO INSTITUTO DO DESPORTO DA REGIÃO AUTÓNOMA DA MADEIRA
 
@@ -341,7 +393,9 @@ b) Divisão de Gestão de Projectos, adiante designada DGP;
 
 c) Divisão de Projectos de Arquitectura Desportiva, adiante designada DPAD.
 
-###### Artigo 8.º — Divisão Coordenadora dos Equipamentos Desportivos
+###### Artigo 8.º
+
+##### Divisão Coordenadora dos Equipamentos Desportivos
 
 Compete à DCED, designadamente:
 
@@ -357,7 +411,9 @@ e) Propor a formação específica e organizar a reciclagem técnico-profissiona
 
 f) Propor os materiais e equipamentos próprios, a criar nas instalações desportivas, necessários às reparações e manutenções a efectuar.
 
-###### Artigo 9.º — Divisão de Gestão de Projectos
+###### Artigo 9.º
+
+##### Divisão de Gestão de Projectos
 
 Compete à DGP, designadamente:
 
@@ -371,7 +427,9 @@ d) Proceder à gestão e direcção técnica da execução de projectos e de obr
 
 e) Apresentar anualmente o plano e orçamento parcelares da divisão necessários ao cumprimento das tarefas, prioridades e estratégias definidas.
 
-###### Artigo 10.º — Divisão de Projectos de Arquitectura Desportiva
+###### Artigo 10.º
+
+##### Divisão de Projectos de Arquitectura Desportiva
 
 Compete à DPAD, designadamente:
 
@@ -429,7 +487,9 @@ a) Divisão de Apoio às Actividades Desportivas, adiante designada DAAD;
 
 b) Divisão de Apoio ao Desporto para Todos, adiante designada DADpT.
 
-###### Artigo 12.º — Divisão de Apoio às Actividades Desportivas
+###### Artigo 12.º
+
+##### Divisão de Apoio às Actividades Desportivas
 
 Compete à DAAD, designadamente:
 
@@ -455,7 +515,9 @@ j) Apoiar e avaliar o treino dos praticantes desportivos federados das diferente
 
 l) Colaborar e prestar apoio no acompanhamento, tratamento e recuperação dos praticantes desportivos de alta competição.
 
-###### Artigo 13.º — Divisão de Apoio ao Desporto para Todos
+###### Artigo 13.º
+
+##### Divisão de Apoio ao Desporto para Todos
 
 Compete à DADpT, designadamente:
 
@@ -493,7 +555,9 @@ b) Divisão de Gestão Financeira (DGF);
 
 c) Divisão de Marketing (DM).
 
-###### Artigo 15.º — Divisão de Estudos e Pareceres Jurídicos
+###### Artigo 15.º
+
+##### Divisão de Estudos e Pareceres Jurídicos
 
 A DEPJ tem funções exclusivas de mera consulta jurídica, cabendo-lhe, nomeadamente:
 
@@ -505,7 +569,9 @@ c) Participar na elaboração de pareceres necessários à pronúncia da Região
 
 d) Promover de modo adequado a recolha, compilação, sistematização, tratamento e difusão de legislação e documentação técnico-jurídica de interesse para o IDRAM.
 
-###### Artigo 16.º — Divisão de Gestão Financeira
+###### Artigo 16.º
+
+##### Divisão de Gestão Financeira
 
 A DGF tem funções de controlo e gestão das receitas e despesas do IDRAM, cabendo-lhe, nomeadamente:
 
@@ -529,7 +595,9 @@ i) Criar e manter actualizado o registo patrimonial do IDRAM;
 
 j) Elaborar e acompanhar a execução dos contratos-programa de desenvolvimento desportivo que titulem a execução de apoios financeiros, humanos ou materiais.
 
-###### Artigo 17.º — Divisão de Marketing
+###### Artigo 17.º
+
+##### Divisão de Marketing
 
 A DM tem funções de estudo e organização para apoio às iniciativas do IDRAM e de entidades desportivas não governamentais sediadas na Região, competindo-lhe, nomeadamente:
 
@@ -769,6 +837,6 @@ g) Pessoal operário.
 
 É vedado aos membros do conselho directivo do Instituto do Desporto da Região Autónoma da Madeira e aos titulares de cargos dirigentes que prestem serviço no Instituto do Desporto da Região Autónoma da Madeira fazerem parte dos corpos directivos de natureza executiva de federações, associações ou clubes desportivos.
 
-## Anexo a que se refere o n.º 2 do artigo 23.º da orgânica aprovada pelo presente diploma
+Anexo a que se refere o n.º 2 do artigo 23.º da orgânica aprovada pelo presente diploma
 
 [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/10/237b00/64586469.pdf)

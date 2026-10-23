@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/05200/0084000841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/9/2016/03/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2016-73865563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9992bc4b92bd2d00b35cdd3612d2a42d3a57fd72b7c4cee9585d8c26609fcbf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41d7c0b20d31bd0b02dd25e43388790266f88567453c952717b7e9d9a2dde405
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Água
 - Águas Públicas
-- Recursos Hídricos
-- Madeira.região Autónoma
 - Domínio Público Hídrico
+- Madeira.região Autónoma
+- Recursos Hídricos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/4/2006/01/16/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
+- type: cites
+  target: pt:dre:533644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:26Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +156,9 @@ Os artigos 11.º, 12.º, 15.º, 17.º e 28.º da [Lei n.º 54/2005](https://diar
 
 7 - Nas Regiões Autónomas, se a margem atingir uma via de acesso, estrada regional ou municipal existente, de acordo com a legislação regional, a sua largura só se estende até essa via.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -152,7 +166,9 @@ Os artigos 11.º, 12.º, 15.º, 17.º e 28.º da [Lei n.º 54/2005](https://diar
 
 3 - Nas Regiões Autónomas, os terrenos junto à crista das arribas alcantiladas das respetivas ilhas constituem propriedade privada, a ser regulamentada através de legislação regional.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -166,7 +182,9 @@ Os artigos 11.º, 12.º, 15.º, 17.º e 28.º da [Lei n.º 54/2005](https://diar
 
 6 - O processo de reconhecimento de propriedade privada sobre parcelas de leitos e margens públicos localizados nas Regiões Autónomas dos Açores e da Madeira, são objeto de um regime específico adequado às especificidades regionais, a criar através de legislação regional.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -186,7 +204,9 @@ Os artigos 11.º, 12.º, 15.º, 17.º e 28.º da [Lei n.º 54/2005](https://diar
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -200,4 +220,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de fevereiro de 2016.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.

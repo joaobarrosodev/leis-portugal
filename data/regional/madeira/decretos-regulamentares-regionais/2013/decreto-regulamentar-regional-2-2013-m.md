@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/02300/0065300657.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2013/02/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2013-258293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d5b6b6fee61ad99bc55538d6d705d91bb09ea00a50be7dd3b4d824eb955af1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e31e0de3f1f11a76410ee4b27b179787ce0bba7911b4b10fd51a64e2b9239764
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Orgânica
-- Madeira.região Autónoma
 - Direcção Regional dos Assuntos Fiscais
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:106579666:por
@@ -114,16 +114,81 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/320-a/2
   label: null
   source: http://data.dre.pt/eli/port/320-a/2
+- type: cites
+  target: pt:dre:145591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692577:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:258478:por
+  label: "Retificado o art. 9º, pela DECL-RECT.9/2013.22.02.2013.PCM, DR.IS [38] de 22.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/9-2013-258478
+  date: '2013-02-22'
+- type: repealed_by
+  target: pt:dre:70055496:por
+  label: Revogado, a partir de 20.08.2015, o presente diploma pelo(a) Decreto Regulamentar Regional n.º 14/2015/M - Diário
+    da República n.º 161/2015, Série I de 2015-08-19; que determinou, nos termos do disposto no n.º 2 do seu art. 16.º, a
+    sucessão pela Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira (AT-RAM) nas atribuições da Direção
+    Regional dos Assuntos Fiscais.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2015-70055496
+  date: '2015-08-19'
 article_structure:
   article_count: 17
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:51Z'
   warnings: []
   errors: []
 ---
@@ -358,14 +423,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em 28 de dezembro de 2012.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 17 de janeiro de 2013.**
+Assinado em 17 de janeiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO — (mapa a que se refere o artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/02300/0065300657.pdf))](https://files.diariodarepublica.pt/1s/2013/02/02300/0065300657.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/02300/0065300657.pdf)

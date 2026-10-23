@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/215b00/50235031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/1997/09/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1997-649480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95f167d0c2ddc51f458da86af52e44962938d48b703f32d22113db2f59493b47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91c71ef1b7782e761e3a0b9cc68bbc669682a829431e9e436a54be8c0686fb75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto
 - Carreira Profissional
+- Estatuto
+- Inspecção Regional do Trabalho
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Inspecção
-- Madeira.região Autónoma
 - Quadro de Pessoal
-- Inspecção Regional do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:348524:por
@@ -93,16 +93,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:224063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:348524:por
+  label: "Revogado pelo DRR.17/2001/M.2001.06.19.PG-RAM DR.IS-B [157] DE 09/JUL/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2001-348524
+  date: '2001-06-19'
 article_structure:
   article_count: 56
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:08Z'
   warnings: []
   errors: []
 ---
@@ -139,11 +176,11 @@ Aprovado em Conselho do Governo Regional em 31 de Julho de 1997.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
 
-**Assinado em 25 de Agosto de 1997.**
+Assinado em 25 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ESTATUTO DA INSPECÇÃO REGIONAL DO TRABALHO
 
@@ -217,7 +254,9 @@ g) Desempenhar outras funções que, por lei ou determinação superior, lhe sej
 
 3 - Nas suas ausências ou impedimentos, o secretário regional da tutela poderá, mediante despacho, delegar alguns dos poderes que integram a competência do inspector regional.
 
-###### Artigo 6.º — Divisão de Inspecção
+###### Artigo 6.º
+
+##### Divisão de Inspecção
 
 1 - À Divisão de Inspecção compete, em geral, executar as acções inspectivas, nos termos da lei e do presente Estatuto.
 
@@ -649,6 +688,6 @@ d) Exercer qualquer actividade por conta de outrem.
 
 2 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos, se neles obtiverem aproveitamento, para as categorias objecto de concurso e constantes dos mapas anexos ao presente diploma.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/215b00/50235031.pdf))](https://files.diariodarepublica.pt/1s/1997/09/215b00/50235031.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/215b00/50235031.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/215b00/50235031.pdf))](https://files.diariodarepublica.pt/1s/1997/09/215b00/50235031.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/215b00/50235031.pdf)

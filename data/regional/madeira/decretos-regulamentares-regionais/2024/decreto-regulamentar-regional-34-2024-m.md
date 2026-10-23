@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/23000/0002000025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/34/2024/11/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2024-897994599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 665815c0f6cd972b81fcbb3fca4a54cd29d18dfef48e85540b452f01c3cc1b06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 519c2408af467542a88d39355cc6b320d434acc99f03e05265a4ec048e3feba5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo Regional da Madeira
-- Pessoal Dirigente
-- Diretor Regional
-- Orgânica
-- Madeira.região Autónoma
-- SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
 - Direção Regional dos Arquivos das Bibliotecas e do Livro
+- Diretor Regional
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
 relationships:
 - type: amended_by
   target: pt:dre:936698800:por
@@ -117,16 +117,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132514390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890505015:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:936698800:por
+  label: Revogado, a partir de 27 de setembro de 2025, pelo(a) Decreto Regulamentar Regional n.º 14/2025/M - Diário da República
+    n.º 186/2025, Série I de 2025-09-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2025-936698800
+  date: '2025-09-26'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:27/2020/M
+  label: Revoga, a partir de 2 de dezembro de 2024, nos termos do artigo 10.º, o Decreto Regulamentar Regional n.º 27/2020/M,
+    de 27 de abril, Diário da República n.º 82/2020, Série I
+  source: null
+  date: '2020-04-27'
 article_structure:
   article_count: 10
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:48Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +203,7 @@ A DRABL compreende o Arquivo e Biblioteca da Madeira, no contexto do qual se ope
 
 À DRABL são cometidas atribuições nas áreas dos arquivos e do património arquivístico, das bibliotecas, do livro e da leitura, e da investigação científica no âmbito da história insular e atlântica.
 
-Assim, nos termos da alínea f) do n.º 1 do artigo 7.º, dos artigos 17.º, 22.º e 26.º do [Decreto Regulamentar Regional n.º 22/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2024-890505015), de 10 de outubro, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup> [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, retificado pela [Declaração de Retificação n.º 1/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2008-386779), de 4 de janeiro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos da alínea f) do n.º 1 do artigo 7.º, dos artigos 17.º, 22.º e 26.º do [Decreto Regulamentar Regional n.º 22/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2024-890505015), de 10 de outubro, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, retificado pela [Declaração de Retificação n.º 1/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2008-386779), de 4 de janeiro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E ÓRGÃOS
 
@@ -249,7 +309,7 @@ g) Exercer as competências que lhe são conferidas no Estatuto do Pessoal Dirig
 
 ###### Artigo 6.º — Organização interna
 
-A organização interna da DRABL obedece ao modelo de estrutura hierarquizada, compreendendo unidades orgânicas nucleares e flexíveis e secções ou áreas de coordenação, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, retificado pela [Declaração de Retificação n.º 1/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2008-386779), de 4 de janeiro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
+A organização interna da DRABL obedece ao modelo de estrutura hierarquizada, compreendendo unidades orgânicas nucleares e flexíveis e secções ou áreas de coordenação, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, retificado pela [Declaração de Retificação n.º 1/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2008-386779), de 4 de janeiro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
 
 ###### Artigo 7.º — Dotação de cargos de direção
 
@@ -273,11 +333,11 @@ Até à entrada em vigor dos diplomas que aprovam a organização interna referi
 
 Aprovado em Conselho do Governo Regional em 14 de novembro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 22 de novembro de 2024.**
+Assinado em 22 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -292,3 +352,7 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 |  | Dotação de lugares |
 | --- | --- |
 | Cargos de direção intermédia de 1.º grau | 6 |
+
+118384922
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; }

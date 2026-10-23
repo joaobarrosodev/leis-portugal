@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1983-443723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90b8cdca9b367f8e84d3fe8365b2c2dc0281ebcc6d462945a6d18698a1c15b24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ec6d5a22382c36c46f89e3609369001318817b0dd9cf38f07c8bf46525bbd46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Diretivo
+- Ensino Preparatório
+- Gratificação
+- Madeira.região Autónoma
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:226789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452689:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:22Z'
   warnings: []
   errors: []
 ---
@@ -91,30 +104,30 @@ Tendo sido publicado o [Decreto-Lei n.º 312/83](https://diariodarepublica.pt/dr
 
 Assim, o Governo Regional decreta, ao abrigo das alíneas b) e d) do artigo 229.º da Constituição e do artigo 6.º do [Decreto-Lei n.º 312/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1983-452689), de 1 de Julho, o seguinte:
 
-###### Artigo 1.º - 1 - Os presidentes dos conselhos directivos dos estabelecimentos de ensino preparatório e secundário passam a auferir uma gratificação mensal de 5000$00, em acréscimo do vencimento.
+Artigo 1.º - 1 - Os presidentes dos conselhos directivos dos estabelecimentos de ensino preparatório e secundário passam a auferir uma gratificação mensal de 5000$00, em acréscimo do vencimento.
 
 2 - O disposto no número anterior aplica-se igualmente aos encarregados de direcção dos estabelecimentos dos ensinos preparatório e secundário, presidente da comissão instaladora dos estabelecimentos daqueles graus de ensino e ainda ao director da escola do magistério primário.
 
-###### Art. 2.º Os vencimentos dos vice-presidentes e restantes professores dos conselhos directivos e das comissões instaladoras dos ensinos preparatório e secundário são acrescidos de uma gratificação mensal no montante de 4000$00
+Art. 2.º Os vencimentos dos vice-presidentes e restantes professores dos conselhos directivos e das comissões instaladoras dos ensinos preparatório e secundário são acrescidos de uma gratificação mensal no montante de 4000$00
 
-###### Art. 3.º - 1 - Os presidentes dos conselhos directivos dos estabelecimentos de ensino preparatório e secundário que tenham uma frequência escolar superior a 2500 alunos passam a auferir uma gratificação mensal de 6500$00, em acréscimo do vencimento.
+Art. 3.º - 1 - Os presidentes dos conselhos directivos dos estabelecimentos de ensino preparatório e secundário que tenham uma frequência escolar superior a 2500 alunos passam a auferir uma gratificação mensal de 6500$00, em acréscimo do vencimento.
 
 2 - Os vencimentos dos vice-presidentes e restantes professores dos conselhos directivos dos estabelecimentos de ensino preparatório e secundário que reúnam as mesmas condições referidas no ponto anterior são acrescidos de uma gratificação mensal no montante de 5000$00.
 
-###### Art. 4.º As gratificações referidas nos artigos anteriores serão actualizadas sempre que se verifiquem aumentos da função pública, sendo a percentagem de aumento idêntica àquela que se verifique para a letra C da tabela de vencimentos da função pública.
+Art. 4.º As gratificações referidas nos artigos anteriores serão actualizadas sempre que se verifiquem aumentos da função pública, sendo a percentagem de aumento idêntica àquela que se verifique para a letra C da tabela de vencimentos da função pública.
 
-###### Art. 5.º É vedada aos membros docentes dos conselho directivos e das comissões instaladoras e ao director da escola do magistério primário a prestação de serviço lectivo extraordinário, exceptuados casos de força maior expressamente autorizados por despacho do Secretário Regional de Educação.
+Art. 5.º É vedada aos membros docentes dos conselho directivos e das comissões instaladoras e ao director da escola do magistério primário a prestação de serviço lectivo extraordinário, exceptuados casos de força maior expressamente autorizados por despacho do Secretário Regional de Educação.
 
-###### Art. 6.º O tempo de serviço prestado em órgãos directivos de 1 de Janeiro de 1980 até à entrada em vigor do presente diploma poderá ser bonificado pelo factor 1.2,5, contado para efeitos de progressão nas fases, mas não para efeitos de concurso, devendo, neste caso, os docentes que optem por este regime repor o montante das gratificações auferidas naquele período.
+Art. 6.º O tempo de serviço prestado em órgãos directivos de 1 de Janeiro de 1980 até à entrada em vigor do presente diploma poderá ser bonificado pelo factor 1.2,5, contado para efeitos de progressão nas fases, mas não para efeitos de concurso, devendo, neste caso, os docentes que optem por este regime repor o montante das gratificações auferidas naquele período.
 
-###### Art. 7.º O presente diploma produz efeitos a partir de 1 de Julho de 1983.
+Art. 7.º O presente diploma produz efeitos a partir de 1 de Julho de 1983.
 
 Aprovado em plenário do Governo Regional de 29 de Setembro de 1983.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 9 de Outubro de 1983.**
+Assinado em 9 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

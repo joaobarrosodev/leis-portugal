@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1984-661951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ddadf630ab2483e241e66998bc87636e7bfff97c588eca123ac28d6beae29a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2228e7119cfa3f97d2b5b7338af37e43a7eb48d39c6c99d49f275e432c890ad8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Consultiva
+- Comissão de Gestão
+- Criação de Serviços
+- Definição de Competências
+- Fundo Madeirense do Seguro de Colheitas
+- Madeira.região Autónoma
+- Orgânica
+- Regulamento
+- Seguro Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:582386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182636:por
+  label: "Alterado o art. 28º e revogados os arts 34º e 35º, pelo DRR.13/85/M.1985.07.11.GR-RAM DR.IS [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1985-182636
+  date: '1985-07-11'
+- type: amended_by
+  target: pt:dre:496327:por
+  label: "Alterada a al. d) do art. 12º, as als b) e c) do art. 38º, revogado o art. 14º e aditada uma al. e) ao art. 38º\
+    \ pelo DRR.22/87/M.1987.10.10.GR-RAM DR.IS [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-1987-496327
+  date: '1987-10-10'
+- type: amended_by
+  target: pt:dre:324346:por
+  label: "Alterados os arts 1º, 2º, 4º, 5º, 6º, 7º, 12º, 19º, 22º, 24º e 30º pelo DRR.25/93/M.1993.07.27.GR-RAM DR.IS-B [194]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-1993-324346
+  date: '1993-07-27'
+- type: amended_by
+  target: pt:dre:582386:por
+  label: "Alterados os arts. 1º, 6º, 7º e 15º pelo DRR.12/99/M.1999.08.16.PG-RAM,DR.IS-B [206] de 03/Set/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1999-582386
+  date: '1999-08-16'
+- type: cites
+  target: pt:dre:277085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309886:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:28Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +155,7 @@ O Governo Regional decreta, ao abrigo das alíneas b) e d) do artigo 229.º da C
 
 I - Do seguro de colheitas
 
-###### Artigo 1.º O seguro de colheitas abrange as culturas referidas no n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março - vinhas de castas europeias, banana, cana-de-açúcar, batata (semilha), batata-doce, culturas hortícolas em estufa, floricultura, fruticultura, feijão-verde (vaginha), morango e tomate -, com as especificações a seguir mencionadas:
+Artigo 1.º O seguro de colheitas abrange as culturas referidas no n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março - vinhas de castas europeias, banana, cana-de-açúcar, batata (semilha), batata-doce, culturas hortícolas em estufa, floricultura, fruticultura, feijão-verde (vaginha), morango e tomate -, com as especificações a seguir mencionadas:
 
 a) As culturas hortícolas em estufa referem-se a: alface, feijão-verde (vaginha), meloa, pepino, pimento e tomate;
 
@@ -124,15 +163,15 @@ b) A floricultura sob coberto engloba: antúrio, orquídeas (cateleia, cimbídio
 
 c) A fruticultura refere-se a: citrinos (laranja, limão e tangerina), pomóideas (maçã e pêra), prunóideas (pêssego); na subtropical refere-se especificamente a: abacate, anona, manga, maracujá e papaia.
 
-###### Art. 2.º Sem prejuízo do expresso no n.º 3 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, o seguro cobrirá os seguintes riscos: incêndio, raio, explosão, vento forte, tromba-d'água, granizo e efeitos da acção do mar (maresia).
+Art. 2.º Sem prejuízo do expresso no n.º 3 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, o seguro cobrirá os seguintes riscos: incêndio, raio, explosão, vento forte, tromba-d'água, granizo e efeitos da acção do mar (maresia).
 
-###### Art. 3.º Não poderão ser cobertas colheitas de cultura em regime de forçagem, quer em estufas, quer em abrigos, quando feitas de materiais não perenes, para além dos períodos máximos de utilização definidos nas condições da apólice.
+Art. 3.º Não poderão ser cobertas colheitas de cultura em regime de forçagem, quer em estufas, quer em abrigos, quando feitas de materiais não perenes, para além dos períodos máximos de utilização definidos nas condições da apólice.
 
-###### Art. 4.º As culturas referidas no artigo 1.º só poderão ser cobertas pelo seguro de colheitas mediante parecer favorável da Direcção Regional de Agricultura, que deverá atender aos seguintes aspectos: correcta utilização do solo, localização da cultura, uso de tecnologia adequada e o estabelecido nas condições gerais da apólice.
+Art. 4.º As culturas referidas no artigo 1.º só poderão ser cobertas pelo seguro de colheitas mediante parecer favorável da Direcção Regional de Agricultura, que deverá atender aos seguintes aspectos: correcta utilização do solo, localização da cultura, uso de tecnologia adequada e o estabelecido nas condições gerais da apólice.
 
-###### Art. 5.º O parecer referido no artigo anterior será elaborado a pedido do candidato ao seguro e considera-se como favorável, se não for dada resposta no prazo máximo de 15 dias, a contar da data de entrada do respectivo requerimento na citada Direcção Regional. No entanto, para capitais a segurar com valor superior a 500000$00, é sempre obrigatório o referido parecer.
+Art. 5.º O parecer referido no artigo anterior será elaborado a pedido do candidato ao seguro e considera-se como favorável, se não for dada resposta no prazo máximo de 15 dias, a contar da data de entrada do respectivo requerimento na citada Direcção Regional. No entanto, para capitais a segurar com valor superior a 500000$00, é sempre obrigatório o referido parecer.
 
-###### Art. 6.º Para efeitos do presente decreto regulamentar, considera-se:
+Art. 6.º Para efeitos do presente decreto regulamentar, considera-se:
 
 a) Estufa para horticultura: construção fechada de estrutura metálica, com as paredes e a cobertura integralmente revestidas de material transparente ou translúcido, equipada ou não com sistema de climatização;
 
@@ -144,17 +183,17 @@ As bandas laterais, quando integralmente fechadas (abrigos), deverão ter uma pr
 
 c) Para as culturas referidas nas alíneas anteriores, a obrigatoriedade do expresso no artigo 4.º, excluído o artigo 5.º
 
-###### Art. 7.º O seguro de colheitas apenas poderá cobrir as culturas da vinha e de fruteiras previstas no n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, a partir do quinto ano de plantação, salvo no que respeita às prunóideas, em que será a partir do terceiro ano de plantação.
+Art. 7.º O seguro de colheitas apenas poderá cobrir as culturas da vinha e de fruteiras previstas no n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, a partir do quinto ano de plantação, salvo no que respeita às prunóideas, em que será a partir do terceiro ano de plantação.
 
-###### Art. 8.º Não ficam abrangidas pelo seguro de colheitas as árvores, as estufas ou qualquer outro tipo de capital fundiário, bem como os viveiros destinados à produção de plantas, salvo se efectuadas no interior das estufas.
+Art. 8.º Não ficam abrangidas pelo seguro de colheitas as árvores, as estufas ou qualquer outro tipo de capital fundiário, bem como os viveiros destinados à produção de plantas, salvo se efectuadas no interior das estufas.
 
-###### Art. 9.º O seguro garantirá ao produtor apenas os prejuízos sofridos pelas culturas abrangidas pelo contrato de seguro que tenham origem em qualquer dos riscos cobertos pela apólice.
+Art. 9.º O seguro garantirá ao produtor apenas os prejuízos sofridos pelas culturas abrangidas pelo contrato de seguro que tenham origem em qualquer dos riscos cobertos pela apólice.
 
-###### Art. 10.º O contrato de seguro de colheitas deve, nos termos do artigo 2.º deste decreto regulamentar e do n.º 3 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, cobrir todos os riscos neles previstos, encontrando-se, portanto, vedada a cobertura de riscos isolados.
+Art. 10.º O contrato de seguro de colheitas deve, nos termos do artigo 2.º deste decreto regulamentar e do n.º 3 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, cobrir todos os riscos neles previstos, encontrando-se, portanto, vedada a cobertura de riscos isolados.
 
-###### Art. 11.º É obrigatório segurar todas as culturas da mesma espécie que o segurado possuir no mesmo concelho.
+Art. 11.º É obrigatório segurar todas as culturas da mesma espécie que o segurado possuir no mesmo concelho.
 
-###### Art. 12.º De harmonia com o disposto no artigo 2.º deste decreto regulamentar, entende-se por:
+Art. 12.º De harmonia com o disposto no artigo 2.º deste decreto regulamentar, entende-se por:
 
 a) Vento forte - vento que, no momento do sinistro, tenha atingido velocidade instantânea superior a 80 km por hora;
 
@@ -166,19 +205,19 @@ d) Maresia - queima provocada sobre as culturas resultante da deposição de got
 
 Concelhos de Porto Moniz, São Vicente e Santana: de 1 de Novembro a 30 de Junho; nos restantes concelhos: de 1 de Abril a 30 de Outubro.
 
-###### Art. 13.º O progressivo alargamento do seguro de colheitas a outras culturas e riscos, nos termos do n.º 3 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, será efectivado por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças, mediante proposta apresentada pela comissão de gestão do Fundo Madeirense do Seguro de Colheitas, adiante designado abreviadamente por Fundo, referido no artigo 9.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, ouvidos o Instituto de Seguros de Portugal e a entidade gestora do pool do seguro de colheitas.
+Art. 13.º O progressivo alargamento do seguro de colheitas a outras culturas e riscos, nos termos do n.º 3 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, será efectivado por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças, mediante proposta apresentada pela comissão de gestão do Fundo Madeirense do Seguro de Colheitas, adiante designado abreviadamente por Fundo, referido no artigo 9.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, ouvidos o Instituto de Seguros de Portugal e a entidade gestora do pool do seguro de colheitas.
 
-###### Art. 14.º Serão consideradas como constituindo um único sinistro as perdas ou danos que ocorram nas 48 horas seguintes ao momento em que os bens seguros sofram os primeiros danos.
+Art. 14.º Serão consideradas como constituindo um único sinistro as perdas ou danos que ocorram nas 48 horas seguintes ao momento em que os bens seguros sofram os primeiros danos.
 
-###### Art. 15.º Para efeitos de cálculo de valor do seguro e do montante da indemnização em caso de sinistro, serão consideradas as produções unitárias regionais do último decénio e os preços de garantia e de intervenção, acrescidos de eventuais subsídios, ou, na ausência de tais preços, os praticados regionalmente.
+Art. 15.º Para efeitos de cálculo de valor do seguro e do montante da indemnização em caso de sinistro, serão consideradas as produções unitárias regionais do último decénio e os preços de garantia e de intervenção, acrescidos de eventuais subsídios, ou, na ausência de tais preços, os praticados regionalmente.
 
-###### Art. 16.º No caso de as produções declaradas na proposta de seguro se afastarem consideravelmente das produções médias referidas no artigo anterior (mais de 20%), recai sobre o segundo o ónus de apresentar a prova bastante de tal facto.
+Art. 16.º No caso de as produções declaradas na proposta de seguro se afastarem consideravelmente das produções médias referidas no artigo anterior (mais de 20%), recai sobre o segundo o ónus de apresentar a prova bastante de tal facto.
 
-###### Art. 17.º Desde o momento em que o seguro comece a produzir efeitos, não são admitidas reduções nos valores declarados, ainda que devidas a acidentes meteorológicos, pragas, doenças, deficiências de desenvolvimento ou qualquer outra causa.
+Art. 17.º Desde o momento em que o seguro comece a produzir efeitos, não são admitidas reduções nos valores declarados, ainda que devidas a acidentes meteorológicos, pragas, doenças, deficiências de desenvolvimento ou qualquer outra causa.
 
-###### Art. 18.º São permitidas, no entanto, correcções de erros de cálculo cometidos pelo segurado nas declarações iniciais, desde que as mesmas tenham lugar dentro do período de 30 dias seguintes àquele em que se iniciem os efeitos do seguro. Em caso de redução, será concedido o estorno de metade do prémio correspondente à redução operada.
+Art. 18.º São permitidas, no entanto, correcções de erros de cálculo cometidos pelo segurado nas declarações iniciais, desde que as mesmas tenham lugar dentro do período de 30 dias seguintes àquele em que se iniciem os efeitos do seguro. Em caso de redução, será concedido o estorno de metade do prémio correspondente à redução operada.
 
-###### Art. 19.º O montante a indemnizar, de acordo com o disposto no n.º 2 do artigo 3.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, será calculado com base no valor da produção final, deduzidos os gastos gerais de cultivo ou de colheitas não realizadas, e atenderá às seguintes regras:
+Art. 19.º O montante a indemnizar, de acordo com o disposto no n.º 2 do artigo 3.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, será calculado com base no valor da produção final, deduzidos os gastos gerais de cultivo ou de colheitas não realizadas, e atenderá às seguintes regras:
 
 a) O montante da indemnização, com excepção dos sinistros decorrentes da verificação dos riscos de incêndio, raio e explosão, será o equivalente a 80% do valor dos prejuízos apurados, deduzido da aplicação de uma franquia de 5% sobre o capital seguro de cada verba afectada. No caso particular da banana, a franquia será de 2,5% por sinistro, nos mesmos termos anteriores;
 
@@ -186,17 +225,17 @@ b) No cálculo de qualquer indemnização relativa a seguro de culturas com vár
 
 c) Não serão, em qualquer caso, indemnizáveis prejuízos que sejam inferiores a 5% do valor da respectiva verba segura. No caso da banana, não serão indemnizáveis prejuízos inferiores a 2,5% por sinistro.
 
-###### Art. 20.º As indemnizações por sinistros abrangidos pelo seguro de colheitas não deverão ser pagas antes do início das épocas normais de comercialização dos produtos, excepto quando o sinistro ocorrer numa fase do ciclo produtivo em que, técnica e economicamente, seja viável a renovação da cultura ou a implantação de outra em sua substituição.
+Art. 20.º As indemnizações por sinistros abrangidos pelo seguro de colheitas não deverão ser pagas antes do início das épocas normais de comercialização dos produtos, excepto quando o sinistro ocorrer numa fase do ciclo produtivo em que, técnica e economicamente, seja viável a renovação da cultura ou a implantação de outra em sua substituição.
 
-###### Art. 21.º Em caso de dúvida acerca da verificação de qualquer dos riscos previstos de natureza meteorológica, dever-se-ão consultar os serviços regionais do Instituto Nacional de Meteorologia e Geofísica.
+Art. 21.º Em caso de dúvida acerca da verificação de qualquer dos riscos previstos de natureza meteorológica, dever-se-ão consultar os serviços regionais do Instituto Nacional de Meteorologia e Geofísica.
 
-###### Art. 22.º Os contratos de seguro de colheitas são temporários, não prorrogáveis, tendo em atenção a duração fixada nas condições da apólice. É fixado o período de carência de 5 dias para o início dos riscos em relação à data da efectivação do seguro. Os riscos de vento forte, granizo e maresia só ficam abrangidos se a respectiva proposta tiver sido aprovada até 28 de Fevereiro, relativamente a culturas situadas nos concelhos de Porto Moniz, São Vicente e Santana, e até 30 de Setembro, nos restantes concelhos.
+Art. 22.º Os contratos de seguro de colheitas são temporários, não prorrogáveis, tendo em atenção a duração fixada nas condições da apólice. É fixado o período de carência de 5 dias para o início dos riscos em relação à data da efectivação do seguro. Os riscos de vento forte, granizo e maresia só ficam abrangidos se a respectiva proposta tiver sido aprovada até 28 de Fevereiro, relativamente a culturas situadas nos concelhos de Porto Moniz, São Vicente e Santana, e até 30 de Setembro, nos restantes concelhos.
 
-###### Art. 23.º Sem prejuízo do disposto no artigo 25.º, compete ao Instituto de Seguros de Portugal, mediante parecer favorável da comissão de gestão do Fundo e da entidade gestora do pool, fixar as taxas para a determinação dos prémios e os agrupamentos regionais segundo critério edafo-climático, quando for caso disso, e as classes de riscos por cultura.
+Art. 23.º Sem prejuízo do disposto no artigo 25.º, compete ao Instituto de Seguros de Portugal, mediante parecer favorável da comissão de gestão do Fundo e da entidade gestora do pool, fixar as taxas para a determinação dos prémios e os agrupamentos regionais segundo critério edafo-climático, quando for caso disso, e as classes de riscos por cultura.
 
-###### Art. 24.º No ano de 1984 as taxas a aplicar para a determinação dos prémios de riscos são as seguintes:
+Art. 24.º No ano de 1984 as taxas a aplicar para a determinação dos prémios de riscos são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/06500/08950900.pdf))](https://files.diariodarepublica.pt/1s/1984/03/06500/08950900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/06500/08950900.pdf)
 
 A distribuição das culturas por classes de riscos é a seguinte:
 
@@ -208,17 +247,17 @@ Classe III: citrinos (laranja, limão e tangerina), abacate, manga, papaia, anon
 
 Classe IV: banana.
 
-###### Art. 25.º O prémio simples, líquido de bonificações, calculado de acordo com o disposto nos artigos anteriores, não poderá, em algum caso, ser inferior a 500$00.
+Art. 25.º O prémio simples, líquido de bonificações, calculado de acordo com o disposto nos artigos anteriores, não poderá, em algum caso, ser inferior a 500$00.
 
-###### Art. 26.º O Instituto de Seguros de Portugal, até 30 de Novembro de cada ano, estabelecerá, mediante parecer favorável da comissão de gestão do Fundo e da entidade gestora do pool, as normas tarifárias e as condições gerais da apólice que regerão o seguro de colheitas.
+Art. 26.º O Instituto de Seguros de Portugal, até 30 de Novembro de cada ano, estabelecerá, mediante parecer favorável da comissão de gestão do Fundo e da entidade gestora do pool, as normas tarifárias e as condições gerais da apólice que regerão o seguro de colheitas.
 
-###### Art. 27.º As condições gerais da apólice do seguro de colheitas deverão determinar, entre outros aspectos, o âmbito das coberturas de riscos e a compensação por quebras de produção resultantes da ocorrência de qualquer dos riscos previstos.
+Art. 27.º As condições gerais da apólice do seguro de colheitas deverão determinar, entre outros aspectos, o âmbito das coberturas de riscos e a compensação por quebras de produção resultantes da ocorrência de qualquer dos riscos previstos.
 
-###### Art. 28.º É concedido aos associados das cooperativas agrícolas ou de outras associações de lavoura legalmente reconhecidas a faculdade de efectuarem, nos termos do n.º 1 do artigo 6.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, o seguro em conjunto (num mínimo de 10), através da respectiva cooperativa ou de outra associação de lavoura, nos moldes e condições a estabelecer pelo Instituto de Seguros de Portugal.
+Art. 28.º É concedido aos associados das cooperativas agrícolas ou de outras associações de lavoura legalmente reconhecidas a faculdade de efectuarem, nos termos do n.º 1 do artigo 6.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, o seguro em conjunto (num mínimo de 10), através da respectiva cooperativa ou de outra associação de lavoura, nos moldes e condições a estabelecer pelo Instituto de Seguros de Portugal.
 
-###### Art. 29.º De harmonia com o disposto no n.º 1 do artigo 6.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, na fase actual o Governo Regional bonificará, através de despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças, mediante proposta da comissão de gestão do Fundo, os prémios de risco de seguro de todas as culturas previstas no n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, tendo em consideração a redacção dada pelo artigo 1.º deste decreto regulamentar.
+Art. 29.º De harmonia com o disposto no n.º 1 do artigo 6.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, na fase actual o Governo Regional bonificará, através de despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças, mediante proposta da comissão de gestão do Fundo, os prémios de risco de seguro de todas as culturas previstas no n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, tendo em consideração a redacção dada pelo artigo 1.º deste decreto regulamentar.
 
-###### Art. 30.º Independentemente do expresso no artigo anterior, terão bonificações adicionais os prémios de contratos de seguro de colheitas feitos nas seguintes condições:
+Art. 30.º Independentemente do expresso no artigo anterior, terão bonificações adicionais os prémios de contratos de seguro de colheitas feitos nas seguintes condições:
 
 a) Através de cooperativas agrícolas, ou de outras associações de lavoura, legalmente reconhecidas, quando celebrados sem intervenção de mediador;
 
@@ -226,13 +265,13 @@ b) Que se enquadrem nos seguintes planos de desenvolvimento regional, aprovados 
 
 c) Contratos de seguros celebrados por agricultores (ex-colonos) que tenham sido abrangidos pelo [Decreto Regional n.º 13/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1977-277085), de 18 de Outubro (e demais legislação complementar), relativo à extinção do regime de colonia.
 
-###### Art. 31.º As situações descritas no artigo 30.º têm de ser devidamente comprovadas através de documento emitido, a pedido do interessado, pelos órgãos competentes da Secretaria Regional de Agricultura e Pescas.
+Art. 31.º As situações descritas no artigo 30.º têm de ser devidamente comprovadas através de documento emitido, a pedido do interessado, pelos órgãos competentes da Secretaria Regional de Agricultura e Pescas.
 
-###### Art. 32.º As seguradoras deverão considerar, para todos os efeitos, nomeadamente para o cálculo de encargos, taxas e comissões, os prémios de contrato de seguro de colheitas, deduzidos das respectivas bonificações.
+Art. 32.º As seguradoras deverão considerar, para todos os efeitos, nomeadamente para o cálculo de encargos, taxas e comissões, os prémios de contrato de seguro de colheitas, deduzidos das respectivas bonificações.
 
-###### Art. 33.º O esquema de bonificações será anualmente fixado, cabendo à comissão de gestão do Fundo propor, até 15 de Outubro, aos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças as alterações a introduzir para o ano seguinte.
+Art. 33.º O esquema de bonificações será anualmente fixado, cabendo à comissão de gestão do Fundo propor, até 15 de Outubro, aos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças as alterações a introduzir para o ano seguinte.
 
-###### Art. 34.º Para 1984 vigorará o seguinte esquema de bonificações:
+Art. 34.º Para 1984 vigorará o seguinte esquema de bonificações:
 
 a) É concedida uma bonificação de 10% nos prémio de contratos de seguro de todas as culturas indicadas no n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, tendo em considerarão o expresso no artigo 1.º do presente decreto regulamentar;
 
@@ -242,15 +281,15 @@ c) Sem prejuízo do disposto nas alíneas a) e b), e tendo em atenção o estabe
 
 d) Sem prejuízo do disposto nas alíneas a) e b) e tendo em atenção o estabelecido no artigo 31.º, beneficiam de uma bonificação adicional de 25% os prémios de contratos de seguro feitos por agricultores (ex-colonos), conforme referido na alínea c) do artigo 30.º
 
-###### Art. 35.º Para efeitos do disposto nas alíneas c) e d), os contratos de seguro contemplados nas duas situações previstas apenas beneficiam de uma bonificação adicional de 25%.
+Art. 35.º Para efeitos do disposto nas alíneas c) e d), os contratos de seguro contemplados nas duas situações previstas apenas beneficiam de uma bonificação adicional de 25%.
 
 II - Do Fundo Madeirense do Seguro de Colheitas
 
-###### Art. 36.º O Fundo, que funciona na dependência da Secretaria Regional de Agricultura e Pescas, é um órgão dotado de personalidade jurídica e com autonomia financeira e administrativa.
+Art. 36.º O Fundo, que funciona na dependência da Secretaria Regional de Agricultura e Pescas, é um órgão dotado de personalidade jurídica e com autonomia financeira e administrativa.
 
-###### Art. 37.º Sob proposta da comissão de gestão do Fundo, poderá ser acordada a colaboração do Instituto de Seguros de Portugal em matéria de estatística e contas relativas à concessão de bonificações.
+Art. 37.º Sob proposta da comissão de gestão do Fundo, poderá ser acordada a colaboração do Instituto de Seguros de Portugal em matéria de estatística e contas relativas à concessão de bonificações.
 
-###### Art. 38.º O Fundo, como instrumento de suporte de todo o seguro de colheitas, destina-se, nos termos do n.º 1 do artigo 7.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, a:
+Art. 38.º O Fundo, como instrumento de suporte de todo o seguro de colheitas, destina-se, nos termos do n.º 1 do artigo 7.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, a:
 
 a) Bonificar os prémios de seguro, de acordo com o previsto no artigo 6.º do citado diploma;
 
@@ -260,13 +299,13 @@ c) Colaborar com a entidade gestora do pool na política de regulação de sinis
 
 d) Promover a divulgação do seguro de colheitas;
 
-###### Art. 39.º O pagamento das bonificações dos prémios de seguro mencionados na alínea a) do artigo 38.º será efectuado de acordo com o estabelecido por norma do Instituto de Seguros de Portugal, ouvida a comissão de gestão do Fundo.
+Art. 39.º O pagamento das bonificações dos prémios de seguro mencionados na alínea a) do artigo 38.º será efectuado de acordo com o estabelecido por norma do Instituto de Seguros de Portugal, ouvida a comissão de gestão do Fundo.
 
-###### Art. 40.º A norma do Instituto de Seguros de Portugal referida no artigo anterior deverá subordinar a liquidação às seguradoras das bonificações dos prémios de seguros à apresentação por aquelas de determinados dados técnicos e estatísticos relativos ao seguro de colheitas na Região Autónoma da Madeira.
+Art. 40.º A norma do Instituto de Seguros de Portugal referida no artigo anterior deverá subordinar a liquidação às seguradoras das bonificações dos prémios de seguros à apresentação por aquelas de determinados dados técnicos e estatísticos relativos ao seguro de colheitas na Região Autónoma da Madeira.
 
-###### Art. 41.º A compensação prevista na alínea b) do artigo 38.º será estabelecida por norma do Instituto de Seguros de Portugal, mediante parecer favorável da comissão de gestão do Fundo e da entidade gestora do pool. Relativamente ao ano de 1984, fica desde já estabelecido que essa percentagem será de 90%.
+Art. 41.º A compensação prevista na alínea b) do artigo 38.º será estabelecida por norma do Instituto de Seguros de Portugal, mediante parecer favorável da comissão de gestão do Fundo e da entidade gestora do pool. Relativamente ao ano de 1984, fica desde já estabelecido que essa percentagem será de 90%.
 
-###### Art. 42.º Constituem receitas do Fundo, nos termos do artigo 8.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março:
+Art. 42.º Constituem receitas do Fundo, nos termos do artigo 8.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março:
 
 a) Uma dotação do orçamento da Região Autónoma da Madeira;
 
@@ -278,21 +317,21 @@ d) Quaisquer outras receitas ou dotações que lhe sejam atribuídas;
 
 e) Aplicações financeiras das importâncias correspondentes às dotações e percentagens acima referidas.
 
-###### Art. 43.º A dotação orçamental prevista na alínea a) do artigo 42.º é fixada anualmente sob proposta da comissão de gestão do Fundo.
+Art. 43.º A dotação orçamental prevista na alínea a) do artigo 42.º é fixada anualmente sob proposta da comissão de gestão do Fundo.
 
-###### Art. 44.º Com vista à cabal prossecução dos objectivos previstos no artigo 7.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, e a possibilitar o alargamento do seguro de colheitas a outras culturas e riscos, o Fundo deverá reter um montante correspondente à aplicação de determinada percentagem sobre o valor que a dotação do orçamento da Região Autónoma da Madeira teve nesse ano, que constituirá uma reserva de estabilidade.
+Art. 44.º Com vista à cabal prossecução dos objectivos previstos no artigo 7.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, e a possibilitar o alargamento do seguro de colheitas a outras culturas e riscos, o Fundo deverá reter um montante correspondente à aplicação de determinada percentagem sobre o valor que a dotação do orçamento da Região Autónoma da Madeira teve nesse ano, que constituirá uma reserva de estabilidade.
 
-###### Art. 45.º A percentagem prevista no artigo anterior será fixada pelos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças, sob proposta da comissão de gestão do Fundo, não podendo, no entanto, ser inferior a 10% do valor das receitas anuais do Fundo.
+Art. 45.º A percentagem prevista no artigo anterior será fixada pelos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças, sob proposta da comissão de gestão do Fundo, não podendo, no entanto, ser inferior a 10% do valor das receitas anuais do Fundo.
 
-###### Art. 46.º No caso de o Fundo não ter disponibilidades para satisfazer integralmente as suas responsabilidades, será reforçada, para o efeito, a dotação do orçamento da Região Autónoma da Madeira.
+Art. 46.º No caso de o Fundo não ter disponibilidades para satisfazer integralmente as suas responsabilidades, será reforçada, para o efeito, a dotação do orçamento da Região Autónoma da Madeira.
 
-###### Art. 47.º De harmonia com o disposto no artigo 9.º do Decreto legislativo Regional n.º 2/83/M, de 7 de Março, a gestão do Fundo é assegurada por uma comissão constituída por 1 representante da Secretaria Regional de Agricultura e Pescas, 1 representante da Secretaria Regional do Planeamento e Finanças e pelo representante do Governo da Região Autónoma da Madeira no conselho consultivo do Instituto de Seguros de Portugal.
+Art. 47.º De harmonia com o disposto no artigo 9.º do Decreto legislativo Regional n.º 2/83/M, de 7 de Março, a gestão do Fundo é assegurada por uma comissão constituída por 1 representante da Secretaria Regional de Agricultura e Pescas, 1 representante da Secretaria Regional do Planeamento e Finanças e pelo representante do Governo da Região Autónoma da Madeira no conselho consultivo do Instituto de Seguros de Portugal.
 
-###### Art. 48.º A comissão de gestão referida no artigo anterior, cujo mandato tem a duração de 3 anos, podendo ser renovado, é nomeada por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças.
+Art. 48.º A comissão de gestão referida no artigo anterior, cujo mandato tem a duração de 3 anos, podendo ser renovado, é nomeada por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças.
 
-###### Art. 49.º Os membros da comissão de gestão têm direito a remuneração mensal, bem como a abono das despesas de transporte, a ajudas de custo e outras despesas inerentes, no desempenho das funções que lhes estão cometidas, sendo os respectivos montantes fixados por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças e suportados pelo Fundo.
+Art. 49.º Os membros da comissão de gestão têm direito a remuneração mensal, bem como a abono das despesas de transporte, a ajudas de custo e outras despesas inerentes, no desempenho das funções que lhes estão cometidas, sendo os respectivos montantes fixados por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças e suportados pelo Fundo.
 
-###### Art. 50.º Além de outras atribuições já referidas, compete à comissão de gestão do Fundo, nomeadamente, o seguinte:
+Art. 50.º Além de outras atribuições já referidas, compete à comissão de gestão do Fundo, nomeadamente, o seguinte:
 
 a) Propor anualmente às Secretarias Regionais de Agricultura e Pescas e do Planeamento e Finanças os esquemas de bonificação do seguro de colheitas, de acordo com o previsto no artigo 6.º e na alínea a) do n.º 1 do artigo 7.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março;
 
@@ -306,11 +345,11 @@ e) Propor às Secretarias Regionais de Agricultura e Pescas e do Planeamento e F
 
 f) Gerir as disponibilidades do Fundo e apresentar, nos termos legais em vigor, as contas de gerência às Secretarias Regionais de Agricultura e Pescas e do Planeamento e Finanças.
 
-###### Art. 51.º A comissão de gestão referida no artigo 47.º deverá, no prazo de 30 dias, após a data do despacho de nomeação, elaborar o regulamento da organização e funcionamento do Fundo, a submeter à aprovação dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças.
+Art. 51.º A comissão de gestão referida no artigo 47.º deverá, no prazo de 30 dias, após a data do despacho de nomeação, elaborar o regulamento da organização e funcionamento do Fundo, a submeter à aprovação dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças.
 
 III - Da Comissão Consultiva Madeirense do Seguro de Colheitas
 
-###### Art. 52.º A Comissão Consultiva Madeirense do Seguro de Colheitas, criada pelo [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, funcionará junto da Secretaria Regional de Agricultura e Pescas e integrará, segundo o n.º 1 do artigo 11.º do mesmo decreto, os seguintes elementos:
+Art. 52.º A Comissão Consultiva Madeirense do Seguro de Colheitas, criada pelo [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, funcionará junto da Secretaria Regional de Agricultura e Pescas e integrará, segundo o n.º 1 do artigo 11.º do mesmo decreto, os seguintes elementos:
 
 1 representante da Secretaria Regional de Agricultura e Pescas;
 
@@ -326,17 +365,17 @@ III - Da Comissão Consultiva Madeirense do Seguro de Colheitas
 
 1 representante do Fundo Madeirense do Seguro de Colheitas.
 
-###### Art. 53.º A Comissão Consultiva, referida no artigo anterior, será presidida pelo representante da Secretaria Regional de Agricultura e Pescas e nomeada por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças.
+Art. 53.º A Comissão Consultiva, referida no artigo anterior, será presidida pelo representante da Secretaria Regional de Agricultura e Pescas e nomeada por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças.
 
-###### Art. 54.º A Comissão Consultiva, cujo mandato é de 3 anos, reúne por convocação do respectivo presidente, por sua iniciativa ou a solicitação da maioria dos membros em exercício.
+Art. 54.º A Comissão Consultiva, cujo mandato é de 3 anos, reúne por convocação do respectivo presidente, por sua iniciativa ou a solicitação da maioria dos membros em exercício.
 
-###### Art. 55.º A convocação da reunião da Comissão Consultiva deve ser feita, por escrito, com uma antecedência mínima de 15 dias.
+Art. 55.º A convocação da reunião da Comissão Consultiva deve ser feita, por escrito, com uma antecedência mínima de 15 dias.
 
-###### Art. 56.º Os membros da Comissão Consultiva têm direito a abono de despesas de transporte e a ajudas de custo, a fixar por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças, sob proposta do respectivo presidente.
+Art. 56.º Os membros da Comissão Consultiva têm direito a abono de despesas de transporte e a ajudas de custo, a fixar por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças, sob proposta do respectivo presidente.
 
-###### Art. 57.º O Fundo dará apoio administrativo ao funcionamento da Comissão Consultiva e suportará os encargos inerentes.
+Art. 57.º O Fundo dará apoio administrativo ao funcionamento da Comissão Consultiva e suportará os encargos inerentes.
 
-###### Art. 58.º De harmonia com o disposto no n.º 2 do artigo 11.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, constituem atribuições da Comissão Consultiva:
+Art. 58.º De harmonia com o disposto no n.º 2 do artigo 11.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, constituem atribuições da Comissão Consultiva:
 
 a) Dar parecer sobre os objectivos a prosseguir pelo seguro de colheitas, sobre os critérios de bonificação dos prémios de seguro de colheitas, a que se referem os n.os 1 e 2 do artigo 6.º do citado diploma, e sobre o alargamento do seguro de colheitas a outras culturas e riscos;
 
@@ -346,26 +385,26 @@ c) Pronunciar-se acerca de quaisquer assuntos que lhe sejam submetidos pelos Sec
 
 d) Formular propostas sobre as matérias respeitantes ao seguro de colheitas, de modo a contribuir para uma correcta definição e dinamização deste tipo de seguros.
 
-###### Art. 59.º Os pareceres mencionados nas alíneas a) e b) do artigo 58.º referem-se a propostas da comissão de gestão do Fundo, no âmbito da sua competência, sempre que esta julgar conveniente.
+Art. 59.º Os pareceres mencionados nas alíneas a) e b) do artigo 58.º referem-se a propostas da comissão de gestão do Fundo, no âmbito da sua competência, sempre que esta julgar conveniente.
 
 IV - Disposições finais
 
-###### Art. 60.º A Secretaria Regional de Agricultura e Pescas prestará o apoio necessário à comissão de gestão do Fundo e à actividade seguradora, com especial relevo para o fornecimento de elementos que permitam caracterizar as culturas abrangidas pelo seguro de colheitas e os sinistros de carácter meteorológico e climatérico.
+Art. 60.º A Secretaria Regional de Agricultura e Pescas prestará o apoio necessário à comissão de gestão do Fundo e à actividade seguradora, com especial relevo para o fornecimento de elementos que permitam caracterizar as culturas abrangidas pelo seguro de colheitas e os sinistros de carácter meteorológico e climatérico.
 
-###### Art. 61.º O Instituto Nacional de Meteorologia e Geofísica, através dos seus serviços regionais, prestará à comissão de gestão do Fundo e à actividade seguradora o apoio necessário à caracterização dos riscos de natureza meteorológica e climatérica, mediante protocolo a estabelecer entre o referido Instituto e a Secretaria Regional de Agricultura e Pescas.
+Art. 61.º O Instituto Nacional de Meteorologia e Geofísica, através dos seus serviços regionais, prestará à comissão de gestão do Fundo e à actividade seguradora o apoio necessário à caracterização dos riscos de natureza meteorológica e climatérica, mediante protocolo a estabelecer entre o referido Instituto e a Secretaria Regional de Agricultura e Pescas.
 
-###### Art. 62.º A comissão de gestão do Fundo e a entidade gestora do pool poderão contactar directamente com os serviços oficiais para a realização dos objectivos do Fundo.
+Art. 62.º A comissão de gestão do Fundo e a entidade gestora do pool poderão contactar directamente com os serviços oficiais para a realização dos objectivos do Fundo.
 
-###### Art. 63.º As dúvidas que se suscitarem na aplicação do presente decreto regulamentar serão resolvidas por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças, sob proposta da comissão de gestão do Fundo.
+Art. 63.º As dúvidas que se suscitarem na aplicação do presente decreto regulamentar serão resolvidas por despacho conjunto dos Secretários Regionais de Agricultura e Pescas e do Planeamento e Finanças, sob proposta da comissão de gestão do Fundo.
 
-###### Art. 64.º Este decreto regulamentar entra em vigor na data da sua publicação.
+Art. 64.º Este decreto regulamentar entra em vigor na data da sua publicação.
 
 Aprovado em sessão plenária do Conselho do Governo Regional em 5 de Janeiro de 1984.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Fevereiro de 1984.**
+Assinado em 2 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2000/03/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2000-515254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0aced7ba4f8a7c2e102aaa89a2a6f558004fc26ee5291c98949aa9830bfd7e8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e1c00667854698433b8021cbb56d9a4516e5c11777513d062b55e2e594f820f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Definição de Competências
 - Inspecção Regional das Actividades Económicas
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 relationships:
@@ -77,6 +77,21 @@ relationships:
   target: pt:dre:175343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348479:por
+  label: "Alterados os arts 6º e 10º do DRR 2/96/M, de 30-Jan, na redacção do DRR 20/97/M de 22-Set e do presente diploma,\
+    \ pelo DRR 12/2001/M, de 19-Jun, DR.IS-B [156], de 7-Jul pelo DRR.12/2001/M.2001.06.19.PG-RAM, DR.IS-B [156] de 07/Jul/2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2001-348479
+  date: '2001-06-19'
+- type: amended_by
+  target: pt:dre:635211:por
+  label: "Alterados os arts. 6º, 9º, 13º a 21º, 24º e 26º, alterada a designação dos arts. 26º-B e 30º, aditado um artº 28º,\
+    \ revogado os arts, 26º-A, 27º, 28º, 29º, 30º, 31º, e32º, alterados e substituidos os quadros de pessoal e republicado\
+    \ em anexo o DRR 2/96/M de 24-Fev, alterado pelo presente diploma, pelo DRR.15/2002/M.2002.08.23.PG-RAM, DR.IS-B [216]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2002-635211
+  date: '2002-08-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -101,16 +116,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175343:por
+  label: "Revogado, sem prejuízo do nº2 do art. 2º, o DRR 2/96/M, de 24-Fev, na redação do presente diploma e dos DRR 20/97/M,\
+    \ de 22-set, 12/2001/M, de 07-jul, 15/2002/M, de 18-set e do DLR 5/2008, de 19-fev, pelo DRR.19/2012/M.22.08.2012.PG-RAM,\
+    \ DR.IS [162] de 22.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2012-175343
+  date: '2012-08-22'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:29Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +197,9 @@ c) ...
 
 d) Departamento de Expediente, Documentação, Arquivo e de Processos.
 
-###### Artigo 10.º — Departamento de Expediente, Documentação, Arquivo e de Processos
+Artigo 10.º
+
+Departamento de Expediente, Documentação, Arquivo e de Processos
 
 1 - Ao Departamento de Expediente, Documentação, Arquivo e de Processos compete promover os procedimentos relacionados com o expediente geral e arquivo, bem como os relativos aos processos instaurados pela IRAE no âmbito das suas competências inspectivas, para além de outras acções de carácter administrativo indispensáveis ao normal funcionamento dos serviços.
 
@@ -195,11 +243,11 @@ Aprovado em Conselho do Governo Regional em 10 de Fevereiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 29 de Fevereiro de 2000.**
+Assinado em 29 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA
 

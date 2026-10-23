@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/14400/0390003904.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2012/07/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2012-179348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7ec7de3627e01bb88c80bc248dadadf89756efb5050230806fffbf21c757a07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8df60fb898bc810a20806624eed03842a55245974445a5fbfa4e8161ef69fc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Definição de Competências
 - Direcção Regional da Administração da Justiça
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:75020431:por
@@ -114,16 +114,81 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/2/1993/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/2/1993/01/02/p/dre
+- type: cites
+  target: pt:dre:145229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75020431:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 18/2016/M - Diário da República n.º 140/2016, Série I de 2016-07-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2016-75020431
+  date: '2016-07-22'
 article_structure:
   article_count: 27
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:40Z'
   warnings: []
   errors: []
 ---
@@ -160,9 +225,9 @@ Aprovado em Conselho do Governo Regional em 20 de junho de 2012.
 
 O Vice-Presidente do Governo Regional, no exercício da Presidência, João Carlos Cunha e Silva.
 
-**Assinado em 12 de julho de 2012.**
+Assinado em 12 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -446,4 +511,4 @@ Os lugares de direção superior de 1.º grau e de direção intermédia de 1.º
 
 ## ANEXO — (a que se refere o artigo 24.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/14400/0390003904.pdf))](https://files.diariodarepublica.pt/1s/2012/07/14400/0390003904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/14400/0390003904.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15600/0007600080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/40/2020/08/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2020-140087211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6051cc60dbc6348d517d188cce5dec9234976a1427cab304c993ac4d3daec0a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 172301b77d75faa8aece3020b53325172e309ffbc0893ac8a8a66fced0d46029
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Governo Regional
 - Definição de Competências
-- Diretor Regional
-- Orgânica
-- Madeira.região Autónoma
-- Subdirector Regional
 - DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
+- Diretor Regional
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Subdirector Regional
 - Vice-Presidência do Governo Regional e dos Assuntos Parlamentares
 relationships:
 - type: amended_by
   target: pt:dre:888344734:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:836604897:por
+  label: Mantida em vigor a estrutura orgânica da Direção Regional do Orçamento e Tesouro, constante do presente diploma pelo(a)
+    Decreto Regulamentar Regional n.º 2/2024/M - Diário da República n.º 10/2024, Série I de 2024-01-15 nos termos do n.º
+    6 do artigo 25.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2024-836604897
+  date: '2024-01-15'
+- type: amended_by
+  target: pt:dre:875716583:por
+  label: Mantida em vigor, a estrutura orgânica da Direção Regional do Orçamento e Tesouro, constante do presente diploma
+    pelo(a) Decreto Regulamentar Regional n.º 14/2024/M - Diário da República n.º 152/2024, Série I de 2024-08-07, nos termos
+    do n.º 4 do artigo 27.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2024-875716583
+  date: '2024-08-07'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -119,16 +133,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107522253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126318034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126904849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128114253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129790955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70025059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73083504:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:888344734:por
+  label: Revogado, a partir de 21 de setembro de 2024, o presente diploma, pelo(a) Decreto Regulamentar Regional n.º 18/2024/M
+    - Diário da República n.º 183/2024, Série I de 2024-09-20, nos termos da sua alínea a) do artigo 12.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2024-888344734
+  date: '2024-09-20'
 article_structure:
   article_count: 12
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:30Z'
   warnings: []
   errors: []
 ---
@@ -271,14 +347,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 8 de julho de 2020.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 22 de julho de 2020.**
+Assinado em 22 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO I — Quadro de cargos dirigentes a que se refere o artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15600/0007600080.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15600/0007600080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15600/0007600080.pdf)
+
+113482542

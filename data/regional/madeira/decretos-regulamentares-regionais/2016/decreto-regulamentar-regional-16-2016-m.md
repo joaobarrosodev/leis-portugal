@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/05/09700/0161901620.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2016/05/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2016-74483694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05366e35cab2ca59f719749ea9dceba0bb3369498a2cc86a4e57ee64f10cc07a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9c21b348f3230b2aa8499701712266b5e199de582f89585d93f3489f9e0c9c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - Definição de Competências
 - Direcção Regional da Cultura
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
 relationships:
 - type: amended_by
@@ -109,16 +109,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: repealed_by
+  target: pt:dre:132636077:por
+  label: Revogado, a partir de 29.04.2020, o DRR 21/2015/M de 30-nov, alterado pelo presente diploma, pelo(a) Decreto Regulamentar
+    Regional n.º 28/2020/M - Diário da República n.º 83/2020, Série I de 2020-04-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-2020-132636077
+  date: '2020-04-28'
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:11Z'
   warnings: []
   errors: []
 ---
@@ -159,9 +165,11 @@ O Governo Regional da Madeira decreta, nos termos da alínea d) do n.º 1 do art
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/05/09700/0161901620.pdf))](https://files.diariodarepublica.pt/1s/2016/05/09700/0161901620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/05/09700/0161901620.pdf)
 
-###### Artigo 3.º — Alteração ao [Decreto Regulamentar Regional n.º 21/2015/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/72765779/details/normal?l=1), de 30 de novembro
+Artigo 3.º
+
+Alteração ao [Decreto Regulamentar Regional n.º 21/2015/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/72765779/details/normal?l=1), de 30 de novembro
 
 1 - O artigo 4.º do [Decreto Regulamentar Regional n.º 21/2015/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/72765779/details/normal?l=1), de 30 de novembro, passa a ter a seguinte redação:
 
@@ -191,22 +199,26 @@ d) [...]
 
 Dotação de lugares dos dirigentes intermédios de 1.º grau
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/05/09700/0161901620.pdf))](https://files.diariodarepublica.pt/1s/2016/05/09700/0161901620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/05/09700/0161901620.pdf)
 
-###### Artigo 4.º — Norma Revogatória
+Artigo 4.º
+
+Norma Revogatória
 
 É revogado o artigo 5.º do [Decreto Regulamentar Regional n.º 21/2015/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/72765779/details/normal?l=1), de 30 de novembro.
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo em 21 de abril de 2016.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 5 de maio de 2016.**
+Assinado em 5 de maio de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

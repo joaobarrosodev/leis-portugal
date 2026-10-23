@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/18700/33733374.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1988-376831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4296a748417ce7fb237473b01399f9c4c7f267b922b399d36e639f5667a0e5e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae0c420a66b8938ba8798a49075d3721f06531fc4aeb4a7b9d935208e3818421
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Desenvolvimento Industrial
+- Desenvolvimento Regional
+- Madeira.região Autónoma
+- Sistema de Incentivos de BASE Regional
 relationships:
 - type: amended_by
   target: pt:dre:609672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:609672:por
+  label: "Revogado pelo DRR.12/89/M.1989.03.23.GR-RAM, DR.IS [129] de 06/Jun/1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1989-609672
+  date: '1989-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:57Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +122,7 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte.
 
-###### Artigo 1.º Na Região Autónoma da Madeira, os projectos candidatos ao Sistema de Incentivos de Base Regional serão apreciados, acompanhados e fiscalizados pelas seguintes entidades:
+Artigo 1.º Na Região Autónoma da Madeira, os projectos candidatos ao Sistema de Incentivos de Base Regional serão apreciados, acompanhados e fiscalizados pelas seguintes entidades:
 
 a) SAPMEI - Serviço de Apoio às Pequenas e Médias Empresas Industriais, da Direcção Regional do Comércio e Indústria;
 
@@ -110,7 +132,7 @@ c) DRE - Direcção Regional do Emprego;
 
 d) Comissão de Apreciação dos Projectos de Investimento na Indústria (CAPII), de composição a definir por portaria dos Secretários Regionais da Economia, do Plano e dos Assuntos Sociais.
 
-###### Art. 2.º - 1 - Compete ao SAPMEI:
+Art. 2.º - 1 - Compete ao SAPMEI:
 
 a) Verificar o cumprimento das condições de acesso e de não exclusão previstas nos n.os 1 a 4 do artigo 2.º do [Decreto-Lei n.º 15-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1988-183653), de 18 de Janeiro;
 
@@ -140,28 +162,28 @@ b) Solicitar, sempre que necessário e dada a natureza dos projectos, pareceres 
 
 4 - Compete à DRE a fiscalização da criação dos postos de trabalho e da sua manutenção por um período mínimo de quatro anos.
 
-###### Art. 3.º - 1 - Todos os processos de candidatura deverão ser apresentados no SAPMEI, independentemente de a empresa candidata ser ou não PME.
+Art. 3.º - 1 - Todos os processos de candidatura deverão ser apresentados no SAPMEI, independentemente de a empresa candidata ser ou não PME.
 
 2 - No caso de o projecto englobar operações de investimento estrangeiro, o SAPMEI dará conhecimento do pedido de incentivos ao Serviço de Investimento Estrangeiro, da Secretaria Regional do Plano, o qual lhe fornecerá, no prazo de dez dias úteis, a informação adequada.
 
 3 - O SAPMEI e a DRP poderão, sempre que necessário, solicitar aos promotores do projecto esclarecimentos complementares, que deverão ser apresentados no prazo de vinte dias.
 
-###### Art. 4.º - 1 - Os processos de candidatura, devidamente instruídos, serão remetidos pelo SAPMEI à DRP no prazo de 30 dias a contar do termo de cada período de candidatura, para efeitos do disposto no n.º 2 do artigo 2.º
+Art. 4.º - 1 - Os processos de candidatura, devidamente instruídos, serão remetidos pelo SAPMEI à DRP no prazo de 30 dias a contar do termo de cada período de candidatura, para efeitos do disposto no n.º 2 do artigo 2.º
 
 2 - A DRP emitirá o seu parecer e remetê-lo-á à Comissão de Apreciação no prazo máximo de dez dias.
 
 3 - A Comissão de Apreciação elaborará uma proposta de lista regional de projectos, que será devidamente hierarquizada tendo em conta os pareceres do SAPMEI e da DRP, e remetê-la-á à Direcção-Geral de Desenvolvimento Regional no prazo máximo de vinte dias, a fim de ser incluída nas listagens a submeter a Comissão de Selecção.
 
-###### Art. 5.º Para calcular a percentagem a que se refere o n.º 7.º da [Portaria n.º 36-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-1988-183652), de 18 de Janeiro, variável no intervalo correspondente à zona de modulação 3, serão estabelecidos critérios pelo Secretário Regional da Economia, por proposta da Comissão de Apreciação, em função das prioridades da política industrial regional.
+Art. 5.º Para calcular a percentagem a que se refere o n.º 7.º da [Portaria n.º 36-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-1988-183652), de 18 de Janeiro, variável no intervalo correspondente à zona de modulação 3, serão estabelecidos critérios pelo Secretário Regional da Economia, por proposta da Comissão de Apreciação, em função das prioridades da política industrial regional.
 
-###### Art. 6.º O presente diploma entra em vigor no dia imediato à sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia imediato à sua publicação.
 
 Aprovado em Conselho do Governo Regional em 16 de Junho de 1988.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 8 de Julho de 1988.**
+Assinado em 8 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/1992/07/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1992-292510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcbf9ce6c356d67a536922193a4d446fda3c5f97db9d246c6026acff7bb144fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12c068e64e4b877392b628e3d9cf16396c42d84c3b62668458cac488642ef315
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:27Z'
   warnings: []
   errors: []
 ---
@@ -109,22 +121,22 @@ Assim:
 
 O Conselho do Governo, ao abrigo da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º É aplicável à Região Autónoma da Madeira o [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, que aprova o Regulamento do Exercício da Actividade Industrial.
+Artigo 1.º É aplicável à Região Autónoma da Madeira o [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, que aprova o Regulamento do Exercício da Actividade Industrial.
 
-###### Art. 2.º - 1 - As referências feitas, bem como as competências atribuídas pelo [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, ao Ministério do Ambiente e Recursos Naturais consideram-se feitas e serão exercidas na Região Autónoma da Madeira pela Secretaria Regional do Equipamento Social e pelo Parque Natural da Madeira quando o projecto industrial se situe dentro da área delimitada como fazendo parte deste último.
+Art. 2.º - 1 - As referências feitas, bem como as competências atribuídas pelo [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, ao Ministério do Ambiente e Recursos Naturais consideram-se feitas e serão exercidas na Região Autónoma da Madeira pela Secretaria Regional do Equipamento Social e pelo Parque Natural da Madeira quando o projecto industrial se situe dentro da área delimitada como fazendo parte deste último.
 
 2 - As competências atribuídas pelo diploma referido no número anterior às Direcções-Gerais da Pecuária e dos Cuidados de Saúde Primários e à Inspecção-Geral do Trabalho são exercidas na Região Autónoma da Madeira pelas Direcções Regionais de Pecuária e de Saúde Pública e pela Inspecção Regional do Trabalho, respectivamente.
 
 3 - As competências atribuídas pelo dito [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547) à Direcção-Geral da Qualidade do Ambiente são exercidas na Região Autónoma da Madeira conjuntamente pela Direcção Regional do Ambiente e pelo Parque Natural da Madeira, sempre que o projecto industrial se situe dentro da área delimitada como fazendo parte deste último.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 4 de Junho de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 25 de Junho de 1992.**
+Assinado em 25 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

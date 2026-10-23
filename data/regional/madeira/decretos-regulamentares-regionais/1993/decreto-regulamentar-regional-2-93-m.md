@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/1993/01/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1993-584979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7382b0b050842a7c95665cdb78c18b4078933bbc739cfe2d725226690a33eed0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2a6a60ada555580ab41c444a84afa59f566e744ad31616250aaf92840c1fa4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Definição de Competências
-- Secretaria Regional da Educação
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:517385:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660476:por
+  label: "Extinta a Direcção Regional dos Desportos, criada no presente diploma, pelo DLR.19/93/M.17.09.1993.ALR-RAM, DR.IS-A\
+    \ [219] de 17.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-1993-660476
+  date: '1993-09-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 1997.03.17\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1997-02-27'
+- type: amended_by
+  target: pt:dre:517385:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 17/Mar/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1997-517385
+  date: '1997-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/20/1992/06/20/m/dre
   label: null
@@ -116,16 +134,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/443/1991/05/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/443/1991/05/28/p/dre
+- type: cites
+  target: pt:dre:177390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 19
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:37Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +216,9 @@ O Governo Regional da Região Autónoma da Madeira decreta, nos termos da alíne
 
 Lei Orgânica da Secretaria Regional de Educação
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Natureza
 
@@ -180,7 +252,9 @@ b) Definir a política educativa, promovendo a sua execução, designadamente no
 
 ### CAPÍTULO II — Estrutura da Secretaria Regional de Educação
 
-#### SECÇÃO I — Artigo 4.º
+#### SECÇÃO I
+
+###### Artigo 4.º
 
 Estrutura
 
@@ -250,7 +324,9 @@ c) Serviços de Informática;
 
 d) Repartição dos Serviços Administrativos.
 
-##### SUBSECÇÃO II — Artigo 9.º
+##### SUBSECÇÃO II
+
+###### Artigo 9.º
 
 Gabinete de Estudos e Pareceres Jurídicos
 
@@ -262,7 +338,9 @@ b) Emitir pareceres sobre projectos e propostas de diplomas que lhe sejam submet
 
 c) Participar na elaboração dos pareceres necessários à pronúncia da Região nos termos constitucionais.
 
-##### SUBSECÇÃO III — Artigo 10.º
+##### SUBSECÇÃO III
+
+###### Artigo 10.º
 
 Gabinete de Gestão e Controlo Orçamental
 
@@ -270,7 +348,9 @@ Gabinete de Gestão e Controlo Orçamental
 
 2 - Na dependência do Gabinete de Gestão e Controlo Orçamental funciona a Divisão de Gestão Orçamental.
 
-###### Artigo 11.º — Divisão de Gestão Orçamental
+###### Artigo 11.º
+
+##### Divisão de Gestão Orçamental
 
 1 - À Divisão de Gestão Orçamental compete, nomeadamente:
 
@@ -298,7 +378,9 @@ a) Secção de Contabilidade dos Serviços Centrais da SER;
 
 b) Secção de Contabilidade dos Serviços Autónomos tutelados pela SRE.
 
-##### SUBSECÇÃO IV — Artigo 13.º
+##### SUBSECÇÃO IV
+
+###### Artigo 13.º
 
 Serviços de Informática
 
@@ -320,7 +402,9 @@ g) Orientar as tarefas de organização exigidas para uma correcta implementaç�
 
 h) Acompanhar a evolução da política informática da administração pública regional.
 
-##### SUBSECÇÃO V — Artigo 14.º
+##### SUBSECÇÃO V
+
+###### Artigo 14.º
 
 Repartição dos Serviços Administrativos
 
@@ -380,10 +464,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 3 de Dezembro de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 22 de Dezembro de 1992.**
+Assinado em 22 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

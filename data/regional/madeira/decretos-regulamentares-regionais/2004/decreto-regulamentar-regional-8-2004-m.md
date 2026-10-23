@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/2004/04/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2004-218312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8512036a98c6b5adc3a941b21915f88e23a2649a76bcecebb9c5517810f99a3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bdebd1a5421f16fca11e89d93e6ebe446a9d1d66312851ef62c8fae457da3de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Delegação do Governo Regional
 - Direcção Regional da Administração Pública
 - Extinção de Serviços
 - Integração de Trabalhadores
-- Delegação do Governo Regional
+- Madeira.região Autónoma
 - Orgânica
 - Porto Santo
-- Madeira.região Autónoma
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:444198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660321:por
+  label: "Alterados: os arts. 1º, 2º, 3º, 4º e 9º, bem como os arts. 11º e 12º, que passam respectivamente a 10º e 11º e o\
+    \ tit. da secção IV do cap. II, que passa a \"Posto de Atendimento ao Cidadão\" [englobando o novo art. 5º-A]; criadas:\
+    \ uma secção V no cap. II, com o anterior tit. da secção IV [englobando o art. 6º] e uma secção VI no cap. II, com o tit.\
+    \ \"Direcção de Serviços de Gestão de Recursos e Manutenção\" [englobando o novo art. 6º-A]; revogado o art. 10º; e aditados\
+    \ os arts. 5º-A e 6º-A do presente diploma pelo DRR.3/2006/M.11.04.2006.PG-RAM, DR.IS-B [85] de 03.05.2006, que o republicou\
+    \ com todas as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2006-660321
+  date: '2006-04-11'
+- type: amended_by
+  target: pt:dre:262079:por
+  label: "Alterado o art. 4º da orgânica aprovada no presente diploma, com a redacção introduzida pelo DRR 3/2006/M de 03-Mai,\
+    \ pelo DRR.1/2007/M.13.12.2006.PG-RAM, DR.IS [5] de 08.01.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2007-262079
+  date: '2006-12-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/5/2001/03/24/m/dre
   label: null
@@ -94,16 +110,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:444198:por
+  label: "Revogado pelo DRR.23/2008/M.15.12.2008.PG-RAM, DR.IS [241] de 15.12.2008, que manteve, contudo, nos termos do respectivo\
+    \ nº 2 do art. 2º, transitoriamente em vigor, a estrutura orgânica constante do presente diploma.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2008-444198
+  date: '2008-12-15'
 article_structure:
   article_count: 15
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:09Z'
   warnings: []
   errors: []
 ---
@@ -144,13 +182,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 4 de Março de 2004.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 17 de Março de 2004.**
+Assinado em 17 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica da Direcção Regional para a Administração Pública de Porto Santo
 

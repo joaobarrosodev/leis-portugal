@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2005/05/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2005-693196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 463bb35b5489c84d386f8cea943b6332c1466cca89c1c65382ba5088ecf83d70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e10f1801c62e6a5999353494b2e07df1a2ca94e122dd988549c26f6214a4288
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Direcção Regional das Pescas
 - Criação de Serviços
 - Definição de Competências
+- Direção Regional de Agricultura e Desenvolvimento Rural
 - Direcção Regional das Florestas
-- Direcção Regional do Ambiente
+- Direcção Regional das Pescas
 - Direcção Regional de Saneamento Básico
+- Direcção Regional de Veterinária
+- Direcção Regional do Ambiente
 - Extinção de Lugares
 - Extinção de Serviços
 - Fundo Madeirense do Seguro de Colheitas
 - Gabinete dos Assuntos Europeus
 - Gabinete Governamental
 - Gabinete Jurídico
+- Gestão de Recursos Humanos
+- Governo Regional
+- Iga-investimentos e Gestão da ÁGUA
 - Instituto do Bordado Tapeçaria e Artesanato da Madeira
 - Instituto do Vinho da Madeira
 - Integração de Trabalhadores
-- Direção Regional de Agricultura e Desenvolvimento Rural
-- Direcção Regional de Veterinária
-- Valor Ambiente
+- Madeira.região Autónoma
 - Orgânica
 - Parque Natural da Madeira
-- Madeira.região Autónoma
 - Quadro de Pessoal
 - Secretaria Regional do Ambiente e dos Recursos Naturais
 - Secretário Regional do Ambiente e Recursos Naturais
-- Gestão de Recursos Humanos
-- Iga-investimentos e Gestão da ÁGUA
 - Tutela
+- Valor Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:456539:por
@@ -139,16 +139,83 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/221/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/221/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:138572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:693854:por
+  label: "Revogado o DRR 9/90/M de 22-Mai, extinto o Fundo Regional de Intervenção e Garantia Agrícola (FRIGA), cujo quadro\
+    \ de pessoal foi aprovada pelo citado diploma, e determinado que os funcionários desse Fundo Regional transitem para o\
+    \ quadro de pessoal do Gabinete do Secretário Regional do Ambiente e dos Recursos Naturais cuja orgânica foi aprovada\
+    \ pelo presente diploma, pelo DLR.4/2006/M.14.02.2006.AL-RAM, DR.IS-A [41] de 27.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-2006-693854
+  date: '2006-02-14'
+- type: repealed_by
+  target: pt:dre:456539:por
+  label: "Revogado, com excepção dos quadros de pessoal que se encontram em anexo e da estrutura de cargos de direcção intermédia\
+    \ de 1.º e 2.º graus, até à efectiva regulamentação destes nas portarias e despachos respectivos, pelo DRR.17/2008/M.10.07.2008.PG-RAM,\
+    \ DR.IS [132] de 10.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2008-456539
+  date: '2008-07-10'
 article_structure:
   article_count: 44
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:14Z'
   warnings: []
   errors: []
 ---
@@ -829,7 +896,9 @@ O pessoal do Gabinete transita para o quadro de pessoal constante do mapa I anex
 
 2 - Os estágios pendentes à data de entrada em vigor do presente diploma legal prosseguem até final, transitando os estagiários se neles obtiverem aproveitamento, para as categorias objecto de concurso e constantes do mapa I anexo a este diploma.
 
-###### Artigo 37.º — Divisão do Parque de Máquinas e Viaturas
+###### Artigo 37.º
+
+##### Divisão do Parque de Máquinas e Viaturas
 
 1 - É extinta a Divisão do Parque de Máquinas e Viaturas (DPMV) do Gabinete do Secretário Regional.
 
@@ -875,22 +944,22 @@ Aprovado em Conselho do Governo Regional em 6 de Abril de 2005.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 22 de Abril de 2005.**
+Assinado em 22 de Abril de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — MAPA I
 
 (n.º 2 do artigo 28.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/094b00/33673380.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/094b00/33673380.pdf)](https://files.diariodarepublica.pt/1s/2005/05/094b00/33673380.pdf)
 
 MAPA II
 
 (n.º 5 do artigo 28.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/094b00/33673380.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/05/094b00/33673380.pdf)](https://files.diariodarepublica.pt/1s/2005/05/094b00/33673380.pdf)
 
 Todos os lugares do quadro serão extintos à medida que vagarem.

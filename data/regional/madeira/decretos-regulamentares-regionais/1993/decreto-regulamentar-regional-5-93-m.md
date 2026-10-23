@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/030b00/04800493.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/1993/02/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1993-645716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e9c2cb4888f6ddab81a02756f7ae01ae27b9a88d2a413b89067ad074aafab76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c3be2b6015c4cabb21d2e3dfbc907cd8a8cc65811075e17de9312953a024de4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - Direcção Regional de Portos
 - Direcção Regional do Comércio e Indústria
 - Direcção Regional dos Transportes Terrestres
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Secretaria Regional da Economia e Cooperação Externa
 relationships:
@@ -80,6 +80,13 @@ relationships:
   target: pt:dre:692040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:281816:por
+  label: "Alterado o artigo 7.º, aditados os artigos 7.º-A, 7.º-B, 7.º-C e alterado o quadro de pessoal do Departamento de\
+    \ Planeamento e Controle de Gestão, constante do mapa anexo ao presente diploma, pelo DRR.12/93/M.18.05.1993.GR-RAM, DR.IS-B\
+    \ [115] de 18.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1993-281816
+  date: '1993-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -120,16 +127,111 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/347/1991/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/347/1991/04/19/p/dre
+- type: cites
+  target: pt:dre:157399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626204:por
+  label: "Revogadas, a partir de 01.03.1996, as disposições específicas, pelo DRR.2/96/M.24.02.1996.PG-RAM, DR.IS-B [47] de\
+    \ 24.02.1996, no respeitante ao nele previsto.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1996-626204
+  date: '1996-02-24'
+- type: repealed_by
+  target: pt:dre:230948:por
+  label: "Revogado pelo DRR.4-A/97/M.1997.02.12.SRECE-RAM DR.IS-B [36]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-a-1997-230948
+  date: '1997-02-12'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 45
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:44Z'
   warnings: []
   errors: []
 ---
@@ -146,29 +248,29 @@ Importa, pois, aprovar a lei orgânica que a há-de reger.
 
 Assim, o Governo Regional decreta, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea c) do artigo 49.º e do n.º 1 do artigo 50.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 15 de Junho, o seguinte:
 
-###### Artigo 1.º É aprovada a orgânica da Secretaria Regional de Economia e Cooperação Externa, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a orgânica da Secretaria Regional de Economia e Cooperação Externa, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º É revogado o [Decreto Regulamentar Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1990-557796), de 13 de Setembro, com as alterações introduzidas pelas Portarias n.os [347/91](https://diariodarepublica.pt/dr/detalhe/portaria/347-1991-592754), de 10 de Dezembro, e [145/92](https://diariodarepublica.pt/dr/detalhe/portaria/145-1992-168203), de 4 de Junho, na parte respeitante aos serviços abrangidos pelo presente diploma.
+Art. 2.º É revogado o [Decreto Regulamentar Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1990-557796), de 13 de Setembro, com as alterações introduzidas pelas Portarias n.os [347/91](https://diariodarepublica.pt/dr/detalhe/portaria/347-1991-592754), de 10 de Dezembro, e [145/92](https://diariodarepublica.pt/dr/detalhe/portaria/145-1992-168203), de 4 de Junho, na parte respeitante aos serviços abrangidos pelo presente diploma.
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 3 de Dezembro de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 4 de Janeiro de 1993.**
+Assinado em 4 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Orgânica da Secretaria Regional de Economia e Cooperação Externa
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Secretaria Regional de Economia e Cooperação Externa, adiante designada por SRECE, é o departamento do Governo Regional da Madeira que tem por atribuições definir e executar as acções necessárias ao cumprimento da política regional respeitante ao comércio, comunicações, Comunidades Europeias, energia, indústria e transportes.
+Artigo 1.º A Secretaria Regional de Economia e Cooperação Externa, adiante designada por SRECE, é o departamento do Governo Regional da Madeira que tem por atribuições definir e executar as acções necessárias ao cumprimento da política regional respeitante ao comércio, comunicações, Comunidades Europeias, energia, indústria e transportes.
 
-###### Art. 2.º - 1 - A SRECE é superiormente dirigida pelo Secretário Regional, a quem compete, designadamente:
+Art. 2.º - 1 - A SRECE é superiormente dirigida pelo Secretário Regional, a quem compete, designadamente:
 
 a) Definir a política para os sectores de actividade referidos no artigo anterior, elaborando os respectivos planos de desenvolvimento, a serem integrados no plano geral de desenvolvimento regional;
 
@@ -210,7 +312,7 @@ c) Portos.
 
 #### SECÇÃO I — Órgãos e serviços
 
-###### Art. 3.º A SRECE compreende os seguintes órgãos e serviços:
+Art. 3.º A SRECE compreende os seguintes órgãos e serviços:
 
 a) Gabinete do Secretário Regional;
 
@@ -234,7 +336,7 @@ j) Direcção Regional de Portos.
 
 #### SECÇÃO II — Gabinete do Secretário Regional
 
-###### Art. 4.º - 1 - O Gabinete do Secretário Regional de Economia e Cooperação Externa compreende um chefe do Gabinete, um adjunto e duas secretárias pessoais.
+Art. 4.º - 1 - O Gabinete do Secretário Regional de Economia e Cooperação Externa compreende um chefe do Gabinete, um adjunto e duas secretárias pessoais.
 
 2 - Podem ser destacados para prestar serviço junto do Gabinete do Secretário Regional quaisquer funcionários ou agentes da SRECE.
 
@@ -246,7 +348,7 @@ b) Coordenar o Gabinete e a sua ligação funcional com os vários serviços int
 
 #### SECÇÃO III — Órgãos e serviços de apoio
 
-###### Art. 5.º A Assessoria Jurídica é um órgão de apoio ao Gabinete do Secretário Regional com funções de mera consulta jurídica, competindo-lhe o seguinte:
+Art. 5.º A Assessoria Jurídica é um órgão de apoio ao Gabinete do Secretário Regional com funções de mera consulta jurídica, competindo-lhe o seguinte:
 
 a) Emitir pareceres e elaborar estudos jurídicos;
 
@@ -256,7 +358,7 @@ c) Participar na elaboração dos pareceres necessários à pronúncia da Regiã
 
 d) Promover a adequada e necessária difusão de toda a legislação de interesse para a SRECE.
 
-###### Art. 6.º - 1 - A Direcção dos Serviços Administrativos e Financeiros, abreviadamente designada por DSAF, é o departamento que, sob a orientação do Secretário Regional e em cooperação com os demais serviços, coordena a gestão dos recursos humanos e assegura o apoio administrativo e financeiro da SRECE.
+Art. 6.º - 1 - A Direcção dos Serviços Administrativos e Financeiros, abreviadamente designada por DSAF, é o departamento que, sob a orientação do Secretário Regional e em cooperação com os demais serviços, coordena a gestão dos recursos humanos e assegura o apoio administrativo e financeiro da SRECE.
 
 2 - À DSAF compete, nomeadamente:
 
@@ -288,7 +390,7 @@ b) Divisão de Finanças e Contabilidade;
 
 c) Divisão de Informática.
 
-###### Art. 7.º - 1 - O Gabinete de Planeamento e Controle de Gestão, abreviadamente designado por GPCG, é um órgão de apoio ao Secretário Regional e poderá ser dirigido por um licenciado, que, para todos os efeitos legais, é equiparado a director regional.
+Art. 7.º - 1 - O Gabinete de Planeamento e Controle de Gestão, abreviadamente designado por GPCG, é um órgão de apoio ao Secretário Regional e poderá ser dirigido por um licenciado, que, para todos os efeitos legais, é equiparado a director regional.
 
 2 - Ao GPCG compete, designadamente:
 
@@ -308,7 +410,7 @@ f) Proceder ao planeamento e controlo de gestão e execução dos diversos secto
 
 #### SECÇÃO I — Atribuições
 
-###### Art. 8.º - 1 - Cabe, genericamente, à Direcção Regional do Comércio e Indústria, abreviadamente designada por DRCI, apoiar o Secretário Regional na execução da política definida pelo Governo Regional para os sectores do comércio, energia e indústria.
+Art. 8.º - 1 - Cabe, genericamente, à Direcção Regional do Comércio e Indústria, abreviadamente designada por DRCI, apoiar o Secretário Regional na execução da política definida pelo Governo Regional para os sectores do comércio, energia e indústria.
 
 2 - Incumbe à DRCI, designadamente:
 
@@ -332,7 +434,7 @@ i) Estudar, promover e propor, em cooperação com os diversos órgãos e servi�
 
 #### SECÇÃO II — Estrutura
 
-###### Art. 9.º A DRCI compreende os seguintes órgãos e serviços:
+Art. 9.º A DRCI compreende os seguintes órgãos e serviços:
 
 a) Director regional;
 
@@ -354,7 +456,7 @@ i) Repartição dos Serviços Administrativos.
 
 #### SECÇÃO III — Director regional
 
-###### Art. 10.º - 1 - Compete, genericamente, ao director regional superintender a acção de todos os órgãos e serviços da DRCI e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou decisão superior.
+Art. 10.º - 1 - Compete, genericamente, ao director regional superintender a acção de todos os órgãos e serviços da DRCI e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou decisão superior.
 
 2 - No âmbito do disposto no número anterior, compete, designadamente, ao director regional:
 
@@ -364,17 +466,17 @@ b) Superintender a realização de estudos e outros trabalhos considerados impor
 
 c) Promover a gestão participativa por objectivos, criando as condições necessárias a uma maior descentralização e atribuição de responsabilidades, que conduzam a um aumento da eficiência dos diversos serviços.
 
-###### Art. 11.º - 1 - O director regional pode delegar ou subdelegar competências nos termos da lei.
+Art. 11.º - 1 - O director regional pode delegar ou subdelegar competências nos termos da lei.
 
 2 - O director regional pode avocar as competências dos directores de serviços e chefes de divisão da DRCI.
 
 3 - Nas suas faltas ou impedimentos, será o director regional substituído por um director de serviços ou por um técnico superior designado para o efeito.
 
-###### Art. 12.º O director regional será apoiado por consultores jurídicos, com funções exclusivas de mera consulta jurídica.
+Art. 12.º O director regional será apoiado por consultores jurídicos, com funções exclusivas de mera consulta jurídica.
 
 #### SECÇÃO IV — Gabinete de Estudos e Planeamento
 
-###### Art. 13.º - 1 - O Gabinete de Estudos e Planeamento, abreviadamente designado por GEP, é dirigido por um director de serviços.
+Art. 13.º - 1 - O Gabinete de Estudos e Planeamento, abreviadamente designado por GEP, é dirigido por um director de serviços.
 
 2 - Ao GEP compete, designadamente:
 
@@ -390,7 +492,7 @@ e) Emitir pareceres sobre projectos de diplomas nacionais e elaborar propostas e
 
 #### SECÇÃO V — Gabinete de Coordenação do Frio
 
-###### Art. 14.º - 1 - O Gabinete de Coordenação do Frio, abreviadamente designado por GCF, é dirigido por um director de serviços.
+Art. 14.º - 1 - O Gabinete de Coordenação do Frio, abreviadamente designado por GCF, é dirigido por um director de serviços.
 
 2 - Ao GCF compete, designadamente:
 
@@ -416,7 +518,7 @@ j) Assegurar a representação oficial do sector do frio em todos os organismos 
 
 #### SECÇÃO VI — Direcção de Serviços do Comércio
 
-###### Art. 15.º - 1 - À Direcção de Serviços do Comércio, abreviadamente designada por DSC, compete, nomeadamente:
+Art. 15.º - 1 - À Direcção de Serviços do Comércio, abreviadamente designada por DSC, compete, nomeadamente:
 
 a) Propor e executar as acções que se enquadrem na política superiormente definida para o sector comercial, especialmente no âmbito do registo e cadastro de actividades;
 
@@ -438,7 +540,7 @@ b) Divisão de Concorrência e Preços.
 
 #### SECÇÃO VII — Direcção de Serviços da Indústria
 
-###### Art. 16.º - 1 - À Direcção de Serviços da Indústria, abreviadamente designada por DSI, compete, nomeadamente:
+Art. 16.º - 1 - À Direcção de Serviços da Indústria, abreviadamente designada por DSI, compete, nomeadamente:
 
 a) Prestar apoio técnico ao director regional no domínio do sector industrial, bem como no do aproveitamento dos recursos naturais;
 
@@ -466,7 +568,7 @@ b) Divisão da Qualidade Industrial.
 
 #### SECÇÃO VIII — Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento
 
-###### Art. 17.º - 1 - O Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento, abreviadamente designado por SAPMEI, é dirigido por um director de serviços e rege-se pelo [Decreto Regulamentar Regional n.º 11/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1981-565186), de 3 de Setembro.
+Art. 17.º - 1 - O Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento, abreviadamente designado por SAPMEI, é dirigido por um director de serviços e rege-se pelo [Decreto Regulamentar Regional n.º 11/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1981-565186), de 3 de Setembro.
 
 2 - O SAPMEL compreende as seguintes divisões:
 
@@ -476,7 +578,7 @@ b) Divisão de Apoio às Pequenas e Médias Empresas, Acompanhamento e Controle 
 
 #### SECÇÃO IX — Inspecção Regional das Actividades Económicas
 
-###### Art. 18.º - 1 - A actual Direcção dos Serviços de Inspecção Económica passa a designar-se Inspecção Regional das Actividades Económicas (IRAE) e é dirigida por um inspector regional, que, para todos os efeitos legais, é equiparado a director de serviços.
+Art. 18.º - 1 - A actual Direcção dos Serviços de Inspecção Económica passa a designar-se Inspecção Regional das Actividades Económicas (IRAE) e é dirigida por um inspector regional, que, para todos os efeitos legais, é equiparado a director de serviços.
 
 2 - A IRAE rege-se pelo [Decreto Regulamentar Regional n.º 6/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1981-389387), de 31 de Março.
 
@@ -490,7 +592,7 @@ b) Divisão Técnica.
 
 #### SECÇÃO X — Direcção de Serviços de Energia
 
-###### Art. 19.º - 1 - À Direcção de Serviços de Energia, abreviadamente designada por DSE, compete, designadamente:
+Art. 19.º - 1 - À Direcção de Serviços de Energia, abreviadamente designada por DSE, compete, designadamente:
 
 a) Propor, em conformidade com as orientações superiores, a definição da política energética para a Região Autónoma da Madeira;
 
@@ -526,7 +628,7 @@ b) Divisão de Electricidade.
 
 #### SECÇÃO XI — Repartição dos Serviços Administrativos
 
-###### Art. 20.º À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, compete, designadamente:
+Art. 20.º À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, compete, designadamente:
 
 a) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCI;
 
@@ -540,7 +642,7 @@ d) Promover, assegurar e colaborar na gestão dos recursos patrimoniais, numa pe
 
 #### SECÇÃO I — Atribuições
 
-###### Art. 21.º - 1 - Cabe, genericamente, à Direcção Regional das Comunidades Europeias e da Cooperação Externa, abreviadamente designada por DRCE, assessorar o Secretário Regional na execução da política definida pelo Governo Regional nos domínios dos assuntos europeus e da cooperação externa.
+Art. 21.º - 1 - Cabe, genericamente, à Direcção Regional das Comunidades Europeias e da Cooperação Externa, abreviadamente designada por DRCE, assessorar o Secretário Regional na execução da política definida pelo Governo Regional nos domínios dos assuntos europeus e da cooperação externa.
 
 2 - Incumbe à DRCE, designadamente:
 
@@ -568,7 +670,7 @@ l) Propor todas as acções de promoção, estímulo e captação de investiment
 
 #### SECÇÃO II — Estrutura
 
-###### Art. 22.º A DRCE compreende os seguintes ógãos e serviços:
+Art. 22.º A DRCE compreende os seguintes ógãos e serviços:
 
 a) Director regional;
 
@@ -586,7 +688,7 @@ g) Repartição dos Serviços Administrativos.
 
 #### SECÇÃO III — Director regional
 
-###### Art. 23.º - 1 - Compete, genericamente, ao director regional superintender a acção de todos os órgãos e serviços da DRCE e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou decisão superior.
+Art. 23.º - 1 - Compete, genericamente, ao director regional superintender a acção de todos os órgãos e serviços da DRCE e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou decisão superior.
 
 2 - Compete, especificamente, ao director regional:
 
@@ -598,7 +700,7 @@ c) Estabelecer a conveniente interligação com os órgãos nacionais e regionai
 
 3 - Para além das competências referidas nos números anteriores, poderão ser atribuídas outras, mediante despacho do Secretário Regional da SRECE.
 
-###### Art. 24.º - 1 - O director regional pode delegar ou subdelegar competências nos termos da lei.
+Art. 24.º - 1 - O director regional pode delegar ou subdelegar competências nos termos da lei.
 
 2 - O director regional pode avocar as competências dos directores de serviço e chefes de divisão da DRCE.
 
@@ -606,7 +708,7 @@ c) Estabelecer a conveniente interligação com os órgãos nacionais e regionai
 
 #### SECÇÃO IV — Gabinete dos Assuntos Jurídicos
 
-###### Art. 25.º - 1 - O Gabinete dos Assuntos Jurídicos é composto por um director de serviços e por consultores jurídicos.
+Art. 25.º - 1 - O Gabinete dos Assuntos Jurídicos é composto por um director de serviços e por consultores jurídicos.
 
 2 - Ao director de serviços compete:
 
@@ -624,7 +726,7 @@ b) Emitir pareceres sobre projectos e propostas de portarias, de decretos regula
 
 #### SECÇÃO V — Direcção de Serviços dos Assuntos Europeus
 
-###### Art. 26.º - 1 - À Direcção de Serviços dos Assuntos Europeus, abreviadamente designada por DSAE, compete, nomeadamente:
+Art. 26.º - 1 - À Direcção de Serviços dos Assuntos Europeus, abreviadamente designada por DSAE, compete, nomeadamente:
 
 a) Acompanhar e coordenar, a nível regional, os assuntos relativos às questões de política económica e financeira relacionados com a integração nas Comunidades Europeias;
 
@@ -646,7 +748,7 @@ b) Divisão da Agricultura, Pescas e Relações Externas.
 
 #### SECÇÃO VI — Direcção de Serviços da Cooperação Externa
 
-###### Art. 27.º - 1 - À Direcção de Serviços da Cooperação Externa, abreviadamente designada por DSCE, compete, nomeadamente:
+Art. 27.º - 1 - À Direcção de Serviços da Cooperação Externa, abreviadamente designada por DSCE, compete, nomeadamente:
 
 a) Acolher e orientar os potenciais investidores estrangeiros e prestar-lhes todas as informações e esclarecimentos em matéria da sua competência;
 
@@ -668,11 +770,11 @@ b) Divisão do Investimento Estrangeiro.
 
 #### SECÇÃO VII — Serviços de Informática
 
-###### Art. 28.º Aos Serviços de Informática compete assegurar a gestão e funcionamento do sistema informático da DRCE e a boa manutenção do equipamento informático.
+Art. 28.º Aos Serviços de Informática compete assegurar a gestão e funcionamento do sistema informático da DRCE e a boa manutenção do equipamento informático.
 
 #### SECÇÃO VIII — Centro de Informação e Documentação
 
-###### Art. 29.º O Centro de Informação e Documentação é dirigido por um chefe de divisão e compete-lhe, nomeadamente:
+Art. 29.º O Centro de Informação e Documentação é dirigido por um chefe de divisão e compete-lhe, nomeadamente:
 
 a) Acompanhar os assuntos no domínio da cultura, educação, investigação, informação, saúde e juventude;
 
@@ -682,7 +784,7 @@ c) Assegurar a gestão e funcionamento da biblioteca.
 
 #### SECÇÃO IX — Repartição dos Serviços Administrativos
 
-###### Art. 30.º À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, compete, nomeadamente:
+Art. 30.º À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, compete, nomeadamente:
 
 a) Coadjuvar a DRCE, competindo-lhe assegurar o apoio administrativo a todos os serviços dela dependentes;
 
@@ -700,7 +802,7 @@ f) Velar pela segurança e conservação das instalações e dos equipamentos.
 
 #### SECÇÃO I — Atribuições
 
-###### Art. 31.º - 1 - O Gabinete da Zona Franca da Madeira, abreviadamente designado por GZFM, criado ao abrigo do disposto no artigo 2.º, n.º 1, do [Decreto Legislativo Regional n.º 22/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1986-221730), de 2 de Outubro, é dirigido por um licenciado, que, para todos os efeitos legais, é equiparado a director regional, e funciona na dependência directa do Secretário Regional.
+Art. 31.º - 1 - O Gabinete da Zona Franca da Madeira, abreviadamente designado por GZFM, criado ao abrigo do disposto no artigo 2.º, n.º 1, do [Decreto Legislativo Regional n.º 22/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1986-221730), de 2 de Outubro, é dirigido por um licenciado, que, para todos os efeitos legais, é equiparado a director regional, e funciona na dependência directa do Secretário Regional.
 
 2 - Ao GZFM compete, designadamente:
 
@@ -718,7 +820,7 @@ e) Executar tudo o mais que lhe for expressamente cometido ou que decorra do nor
 
 #### SECÇÃO II — Repartição dos Serviços Administrativos
 
-###### Art. 32.º À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, compete, designadamente:
+Art. 32.º À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, compete, designadamente:
 
 a) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal do GZFM;
 
@@ -732,13 +834,13 @@ d) Promover, assegurar e colaborar na gestão dos recursos patrimoniais, numa pe
 
 #### SECÇÃO I — Atribuições
 
-###### Art. 33.º - 1 - São atribuições da Direcção Regional dos Transportes Terrestres, abreviadamente designada por DRTT, apoiar o Secretário Regional na execução da política definida pelo Governo Regional para o sector dos transportes terrestres, nomeadamente em matéria de planeamento e gestão, desenvolvimento, controlo e fiscalização dos sistemas de transportes.
+Art. 33.º - 1 - São atribuições da Direcção Regional dos Transportes Terrestres, abreviadamente designada por DRTT, apoiar o Secretário Regional na execução da política definida pelo Governo Regional para o sector dos transportes terrestres, nomeadamente em matéria de planeamento e gestão, desenvolvimento, controlo e fiscalização dos sistemas de transportes.
 
 2 - Compete especificamente à DRTT exercer as atribuições conferidas pelo Código da Estrada e seu regulamento, bem como pelo Regulamento de Transportes em Automóveis e disposições complementares, às Direcções-Gerais de Viação e de Transportes Terrestres.
 
 #### SECÇÃO II — Estrutura
 
-###### Art. 34.º A DRTT compreende os seguintes órgãos e serviços:
+Art. 34.º A DRTT compreende os seguintes órgãos e serviços:
 
 a) Director regional;
 
@@ -752,7 +854,7 @@ e) Repartição dos Serviços Administrativos.
 
 #### SECÇÃO III — Director regional
 
-###### Art. 35.º - 1 - Compete, genericamente, ao director regional superintender a acção de todos os órgãos e serviços da DRTT e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou decisão superior.
+Art. 35.º - 1 - Compete, genericamente, ao director regional superintender a acção de todos os órgãos e serviços da DRTT e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou decisão superior.
 
 2 - No âmbito do disposto no número anterior, compete, designadamente, ao director regional:
 
@@ -772,13 +874,13 @@ d) Executar tudo o mais que lhe for expressamente cometido ou que decorra do nor
 
 #### SECÇÃO IV — Gabinete Técnico de Apoio
 
-###### Art. 36.º O Gabinete Técnico de Apoio, abreviadamente designado por GTA, é o órgão técnico-administrativo de apoio ao director regional, com atribuições em matérias de estudo e planeamento nos vários domínios de intervenção da DRTT.
+Art. 36.º O Gabinete Técnico de Apoio, abreviadamente designado por GTA, é o órgão técnico-administrativo de apoio ao director regional, com atribuições em matérias de estudo e planeamento nos vários domínios de intervenção da DRTT.
 
 #### SECÇÃO V — Direcção de Serviços de Viação e Prevenção Rodoviária
 
-###### Art. 37.º A Direcção de Serviços de Viação e Prevenção Rodoviária, abreviadamente designada por DSVPR, é um departamento de estudo, coordenação e promoção de medidas para a prossecução de uma eficiente política nos domínios da circulação e da segurança rodoviária.
+Art. 37.º A Direcção de Serviços de Viação e Prevenção Rodoviária, abreviadamente designada por DSVPR, é um departamento de estudo, coordenação e promoção de medidas para a prossecução de uma eficiente política nos domínios da circulação e da segurança rodoviária.
 
-###### Art. 38.º São atribuições da DSVPR, designadamente:
+Art. 38.º São atribuições da DSVPR, designadamente:
 
 a) Proceder a estudos e análises de tráfego, bem como estabelecer planos para o seu ordenamento e controlo;
 
@@ -802,7 +904,7 @@ j) Estudar as causas e factores intervenientes nos acidentes de trânsito e conc
 
 l) Ministrar cursos de técnicos de segurança rodoviária.
 
-###### Art. 39.º - 1 - A DSVPR compreende as seguintes divisões:
+Art. 39.º - 1 - A DSVPR compreende as seguintes divisões:
 
 a) Divisão de Viação;
 
@@ -814,9 +916,9 @@ b) Divisão de Prevenção Rodoviária.
 
 #### SECÇÃO VI — Direcção de Serviços de Inspecções e Homologações
 
-###### Art. 40.º A Direcção de Serviços de Inspecções e Homologações, abreviadamente designada por DSIH, é um departamento de coordenação, controlo e fiscalização dos sistemas de transportes.
+Art. 40.º A Direcção de Serviços de Inspecções e Homologações, abreviadamente designada por DSIH, é um departamento de coordenação, controlo e fiscalização dos sistemas de transportes.
 
-###### Art. 41.º São atribuições da DSIH, designadamente:
+Art. 41.º São atribuições da DSIH, designadamente:
 
 a) Emitir livretes;
 
@@ -842,7 +944,7 @@ l) Homologar todos os tipos de veículos automóveis e reboques;
 
 m) Atribuir a lotação e carga útil dos veículos inspeccionados.
 
-###### Art. 42.º - 1 - A DSIH compreende as seguintes divisões:
+Art. 42.º - 1 - A DSIH compreende as seguintes divisões:
 
 a) Divisão de Inspecções;
 
@@ -854,7 +956,7 @@ b) Divisão de Homologações.
 
 #### SECÇÃO VII — Repartição dos Serviços Administrativos
 
-###### Art. 43.º - 1 - A Repartição dos Serviços Administrativos, abreviadamente designada por RSA, é o serviço de apoio administrativo e logístico da DRTT e funciona na directa dependência do director regional.
+Art. 43.º - 1 - A Repartição dos Serviços Administrativos, abreviadamente designada por RSA, é o serviço de apoio administrativo e logístico da DRTT e funciona na directa dependência do director regional.
 
 2 - A RSA compreende as seguintes secções:
 
@@ -866,7 +968,7 @@ c) Secção de Pessoal;
 
 d) Secção de Contabilidade e Património.
 
-###### Art. 44.º São atribuições da RSA:
+Art. 44.º São atribuições da RSA:
 
 a) Organizar e executar o serviço de expediente geral, registo, reprodução de documentos e arquivo;
 
@@ -880,17 +982,17 @@ e) Prestar aos serviços da DRTT o apoio administrativo que for determinado pelo
 
 ### CAPÍTULO VII — Direcção Regional de Aeroportos
 
-###### Art. 45.º A orgânica e a estrutura da Direcção Regional de Aeroportos, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Regulamentar Regional n.º 21/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1986-627245), de 31 de Dezembro.
+Art. 45.º A orgânica e a estrutura da Direcção Regional de Aeroportos, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Regulamentar Regional n.º 21/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1986-627245), de 31 de Dezembro.
 
 ### CAPÍTULO VIII — Direcção Regional de Portos
 
-###### Art. 46.º A orgânica e a estrutura da Direcção Regional de Portos, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Regulamentar Regional n.º 10/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1991-640086), de 21 de Maio, alterado pelo [Decreto Regulamentar Regional n.º 2/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1992-157399), de 13 de Fevereiro, e pela [Portaria n.º 151/92](https://diariodarepublica.pt/dr/detalhe/portaria/151-1992-171938), de 12 de Junho.
+Art. 46.º A orgânica e a estrutura da Direcção Regional de Portos, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Regulamentar Regional n.º 10/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1991-640086), de 21 de Maio, alterado pelo [Decreto Regulamentar Regional n.º 2/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1992-157399), de 13 de Fevereiro, e pela [Portaria n.º 151/92](https://diariodarepublica.pt/dr/detalhe/portaria/151-1992-171938), de 12 de Junho.
 
 ### CAPÍTULO IX — Pessoal
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 47.º - 1 - O pessoal da SRECE, à excepção dos serviços autónomos, é agrupado de acordo com a seguinte classificação:
+Art. 47.º - 1 - O pessoal da SRECE, à excepção dos serviços autónomos, é agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -910,15 +1012,15 @@ h) Pessoal auxiliar.
 
 2 - Os quadros de pessoal da SRECE, à excepção dos serviços autónomos, são os constantes do mapa anexo ao presente diploma.
 
-###### Art. 48.º - 1 - Para além do disposto neste diploma, o ingresso e o acesso dos funcionários da SRECE referidos no artigo anterior nas respectivas carreiras obedecem ao regime estabelecido no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, com as adaptações introduzidas pelo [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e pelo [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, e demais legislação aplicável.
+Art. 48.º - 1 - Para além do disposto neste diploma, o ingresso e o acesso dos funcionários da SRECE referidos no artigo anterior nas respectivas carreiras obedecem ao regime estabelecido no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, com as adaptações introduzidas pelo [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e pelo [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, e demais legislação aplicável.
 
 2 - As condições de ingresso e acesso do pessoal das carreiras técnicas de inspecção económica são as estabelecidas no [Decreto Regulamentar Regional n.º 6/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1981-389387), de 31 de Março.
 
 3 - O pessoal de informática é recrutado e provido nos termos do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, adaptado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 8/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1991-616852), de 6 de Maio, e respectiva legislação complementar.
 
-###### Art. 49.º O pessoal dirigente é provido de acordo com o estabelecido no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, adaptado à Região pelo [Decreto Legislativo Regional n.º 8/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1991-475950), de 18 de Março.
+Art. 49.º O pessoal dirigente é provido de acordo com o estabelecido no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, adaptado à Região pelo [Decreto Legislativo Regional n.º 8/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1991-475950), de 18 de Março.
 
-###### Art. 50.º - 1 - Para além das carreiras do regime geral, que, nos termos do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, integram o grupo de pessoal auxiliar, dele fazem ainda parte as carreiras de operador de reprografia, auxiliar técnico e auxiliar de limpeza, as quais constam do anexo a que se refere o n.º 2 do artigo 47.º
+Art. 50.º - 1 - Para além das carreiras do regime geral, que, nos termos do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, integram o grupo de pessoal auxiliar, dele fazem ainda parte as carreiras de operador de reprografia, auxiliar técnico e auxiliar de limpeza, as quais constam do anexo a que se refere o n.º 2 do artigo 47.º
 
 2 - As escalas salariais das carreiras referidas no número anterior constam do anexo n.º 1 ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
 
@@ -928,7 +1030,7 @@ h) Pessoal auxiliar.
 
 #### SECÇÃO II — Carreira de inspector de viação
 
-###### Art. 51.º - 1 - A carreira de agente técnico de viação é extinta, transitando o correspondente pessoal, nos termos previstos no presente diploma, para a carreira de inspector de viação, ora criada.
+Art. 51.º - 1 - A carreira de agente técnico de viação é extinta, transitando o correspondente pessoal, nos termos previstos no presente diploma, para a carreira de inspector de viação, ora criada.
 
 2 - Compete, genericamente, ao inspector de viação executar operações de selecção de condutores, inspeccionar veículos e seus equipamentos e acessórios e fiscalizar o ensino de condução e executar, a partir de orientações e instruções precisas, trabalho de apoio técnico.
 
@@ -940,7 +1042,7 @@ h) Pessoal auxiliar.
 
 ##### SUBSECÇÃO I — Regime de estágio
 
-###### Art. 52.º - 1 - O estágio para ingresso na carreira de inspector de viação obedece ao disposto no [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, com as alterações decorrentes do disposto no [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, sem prejuízo das seguintes regras:
+Art. 52.º - 1 - O estágio para ingresso na carreira de inspector de viação obedece ao disposto no [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, com as alterações decorrentes do disposto no [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, sem prejuízo das seguintes regras:
 
 a) O estágio inclui a frequência de curso(s) de formação directamente relacionado(s) com as funções a exercer;
 
@@ -952,22 +1054,22 @@ c) O estágio tem duração até um ano, a fixar no aviso de abertura do concurs
 
 3 - Os estagiários são remunerados pelo índice 155, sem prejuízo do direito de opção pela remuneração do lugar de origem, no caso de pessoal provido definitivamente.
 
-###### Art. 53.º O conteúdo curricular, o sistema de funcionamento e os critérios de avaliação do curso de formação exigidos para provimento na carreira de inspector de viação constarão do respectivo regulamento de estágio.
+Art. 53.º O conteúdo curricular, o sistema de funcionamento e os critérios de avaliação do curso de formação exigidos para provimento na carreira de inspector de viação constarão do respectivo regulamento de estágio.
 
 ### CAPÍTULO X — Disposições finais e transitórias
 
-###### Art. 54.º - 1 - O pessoal dos quadros da Secretaria Regional da Economia, da Vice-Presidência do Governo Regional e Coordenação Económica e da Direcção Regional dos Transportes Terrestres, que transita para os quadros anexos ao presente diploma, é integrado em igual categoria e carreira ou equivalente, com a mesma área funcional, e para o escalão a que corresponda o mesmo índice ou, quando não se verifique coincidência de índice, para o escalão cujo índice seja imediatamente superior na estrutura da categoria para que se processa a transição.
+Art. 54.º - 1 - O pessoal dos quadros da Secretaria Regional da Economia, da Vice-Presidência do Governo Regional e Coordenação Económica e da Direcção Regional dos Transportes Terrestres, que transita para os quadros anexos ao presente diploma, é integrado em igual categoria e carreira ou equivalente, com a mesma área funcional, e para o escalão a que corresponda o mesmo índice ou, quando não se verifique coincidência de índice, para o escalão cujo índice seja imediatamente superior na estrutura da categoria para que se processa a transição.
 
 2 - A transição e integração referidas no número anterior far-se-ão pela aplicação deste diploma e elaboração e publicação da lista nominativa.
 
-###### Art. 55.º Sem prejuízo do disposto no n.º 5 do artigo 51.º, enquanto não forem criados oficialmente os cursos técnico-profissionais adequados, o recrutamento para ingresso nas carreiras do grupo de pessoal técnico-profissional, níveis 3 e 4, faz-se, respectivamente, de entre indivíduos possuidores do 11.º e 12.º ano de escolaridade das áreas a fixar no aviso de abertura do concurso.
+Art. 55.º Sem prejuízo do disposto no n.º 5 do artigo 51.º, enquanto não forem criados oficialmente os cursos técnico-profissionais adequados, o recrutamento para ingresso nas carreiras do grupo de pessoal técnico-profissional, níveis 3 e 4, faz-se, respectivamente, de entre indivíduos possuidores do 11.º e 12.º ano de escolaridade das áreas a fixar no aviso de abertura do concurso.
 
-###### Art. 56.º Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os que lhes correspondam no mapa anexo ao presente diploma.
+Art. 56.º Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os que lhes correspondam no mapa anexo ao presente diploma.
 
-###### Art. 57.º Os encargos resultantes da aplicação do presente diploma são suportados por dotação a inscrever no orçamento da SRECE.
+Art. 57.º Os encargos resultantes da aplicação do presente diploma são suportados por dotação a inscrever no orçamento da SRECE.
 
-###### Art. 58.º Em tudo o que não estiver especialmente previsto neste diploma em matéria de regime retributivo aplica-se, subsidiariamente, o [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e demais legislação complementar.
+Art. 58.º Em tudo o que não estiver especialmente previsto neste diploma em matéria de regime retributivo aplica-se, subsidiariamente, o [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e demais legislação complementar.
 
 Mapa anexo a que se refere o n.º 2 do artigo 47.º do Decreto Regulamentar Regional n.º 5/93/M, de 5 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/030b00/04800493.pdf))](https://files.diariodarepublica.pt/1s/1993/02/030b00/04800493.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/030b00/04800493.pdf)

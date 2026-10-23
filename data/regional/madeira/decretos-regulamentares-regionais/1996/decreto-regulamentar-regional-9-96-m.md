@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/1996/06/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1996-429023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce7ecdcb55527b0bdefd7636d41ba0c6200363ea2096786e69e0afc7e8ca4ad2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4015a6955bea238e286965ecc5d34a9f596679814b7f52d1c2e55cef49963c82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/23/1993/07/13/m/dre
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:390598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:03Z'
   warnings: []
   errors: []
 ---
@@ -134,24 +142,24 @@ i) Elaborar o plano anual e o relatório de actividades em colaboração com a D
 
 2 - O GAPD é dirigido por um coordenador, equiparado, para todos os efeitos legais, a chefe de divisão.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Ao quadro de pessoal constante do mapa anexo ao [Decreto Regulamentar Regional n.º 23/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1993-390598), de 13 de Julho, é aditado o lugar mencionado no anexo I ao presente diploma.
 
-###### Artigo 3.º
+Artigo 3.º
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 23 de Maio de 1996.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 3 de Junho de 1996.**
+Assinado em 3 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## Anexo I a que se refere o artigo 2.º do presente diploma
+Anexo I a que se refere o artigo 2.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/148b00/16811682.pdf))](https://files.diariodarepublica.pt/1s/1996/06/148b00/16811682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/148b00/16811682.pdf)

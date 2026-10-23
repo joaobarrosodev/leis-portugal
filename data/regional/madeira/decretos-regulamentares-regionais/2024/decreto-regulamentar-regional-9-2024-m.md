@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03200/0000300016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2024/02/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-848804210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66e5f066976ffb587542da2c393088bc4a1f7f35ce67d0fd5acd71157bd2725d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 300f764f5d36aa24402977a8e60c2bd5ee260a0c6b85adf627ee19d9e96e4880
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Governo Regional
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Direção Regional de Agricultura e Desenvolvimento Rural
+- Direção Regional do Ambiente e Alterações Climáticas
+- Governo Regional
 - Integração de Serviços
 - Integração de Trabalhadores
-- Direção Regional de Agricultura e Desenvolvimento Rural
 - Orgânica
+- Reestruturação de Serviços
+- Região Autónoma da Madeira
+- Regulamentação de Atos Legislativos
 - Secretaria Regional
 - Secretaria Regional da Agricultura e Ambiente
-- Direção Regional do Ambiente e Alterações Climáticas
-- Região Autónoma da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:885361661:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:37/2020/M
+  label: Mantém em vigor, nos termos do n.º 5 do artigo 21.º, o Decreto Regulamentar Regional n.º 37/2020/M, de 3 de junho,
+    Diário da República n.º 108/2020, Série I
+  source: null
+  date: '2020-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/de
   label: null
@@ -122,16 +128,194 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105643550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114513613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128113537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128326625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135056059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138217584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182291600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182339807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205450899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224081980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74443081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:885361661:por
+  label: Revogado a partir de 24 de agosto de 2024 pelo(a) Decreto Regulamentar Regional n.º 16/2024/M - Diário da República
+    n.º 163/2024, Série I de 2024-08-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2024-885361661
+  date: '2024-08-23'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:5/2020/M
+  label: Revoga, a partir de 15 de fevereiro de 2024, o Decreto Regulamentar Regional n.º 5/2020/M, de 15 de janeiro, Diário
+    da República n.º 10/2020, Série I
+  source: null
+  date: '2020-01-15'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:11/2020/M
+  label: Revoga, a partir de 15 de fevereiro de 2024, o Decreto Regulamentar Regional n.º 11/2020/M, de 21 de janeiro, Diário
+    da República n.º 14/2020, Série I
+  source: null
+  date: '2020-01-21'
 article_structure:
   article_count: 27
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:53Z'
   warnings: []
   errors: []
 ---
@@ -584,11 +768,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 25 de janeiro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 9 de fevereiro de 2024.**
+Assinado em 9 de fevereiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -596,18 +780,18 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 Cargos de direção superior da administração direta
 
-|  |  |
-| --- | --- |
 |  | Número de lugares |
+| --- | --- |
+|  |  |
 | Cargos de direção superior de 1.º grau... | 4 |
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 18.º)
 
 Cargos de direção superior da administração indireta
 
-|  |  |
-| --- | --- |
 |  | Número de lugares |
+| --- | --- |
+|  |  |
 | Cargos de direção superior de 1.º grau... | 2 |
 | Cargos de direção superior de 2.º grau... | 4 |
 
@@ -615,7 +799,11 @@ Cargos de direção superior da administração indireta
 
 Dotação de lugares de cargos de direção intermédia de 1.º grau dependentes do Gabinete do Secretário Regional
 
-|  |  |
-| --- | --- |
 |  | Número de lugares |
+| --- | --- |
+|  |  |
 | Cargos de direção intermédia de 1.º grau... | 5 |
+
+117349053
+
+.Tbl1 { text-align:center; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl2 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:center; } .Tbl3 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl4 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl5 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl6 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:Black; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl7 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl8 { text-align:center; border-left-color:Black; border-bottom-color:transparent; border-bottom-color:transparent; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:8.5; vertical-align:top; } .Tbl9 { text-align:justify; border-bottom-color:transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:transparent; background-color:transparent; color:#000000; font-style:Regular; font-size:6.5; vertical-align:top; }

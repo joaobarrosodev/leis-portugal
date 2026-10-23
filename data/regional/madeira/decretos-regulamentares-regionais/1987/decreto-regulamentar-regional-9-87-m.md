@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b2cdaf092ee44def562d7c6df64febbe8ea361d2d88a8d422c5c0d088175f36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8054e7d745e7361d7e6534ce26c07b2b1ec047a0fe2be6b522a9a84e413957d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Financiamento
+- Investimento
+- Madeira.região Autónoma
+- Pesca
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452510:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:53Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +115,9 @@ Nestes termos:
 
 O Governo Regional decreta, ao abrigo da alínea b) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, n.º 3, 5.º, 6.º, n.os 2 e 3, e 11.º do [Decreto Regulamentar Regional n.º 12/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-452510), de 25 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, n.º 3, 5.º, 6.º, n.os 2 e 3, e 11.º do [Decreto Regulamentar Regional n.º 12/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-452510), de 25 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 a) ...
 
@@ -113,7 +129,7 @@ c) ...
 
 3 - Durante o período de utilização a taxa de juro a suportar pelo Governo Regional será de 10%.
 
-###### Art. 5.º As taxas de juro anuais a suportar pelo Governo Regional para os diferentes projectos de investimento contemplados no presente diploma serão as seguintes:
+Art. 5.º As taxas de juro anuais a suportar pelo Governo Regional para os diferentes projectos de investimento contemplados no presente diploma serão as seguintes:
 
 a) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:
 
@@ -145,7 +161,7 @@ c) Para a aquisição de artes e apetrechos de pesca:
 
 2.º ano - 4%.
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 a) ...
 
@@ -157,18 +173,18 @@ c) ...
 
 3 - No prazo de 45 dias a contar da recepção do projecto, o Secretário Regional da Economia decidirá da atribuição dos auxílios previstos neste diploma, sendo respeitadas as orientações consagradas para o sector das pescas e respectivos limites orçamentais.
 
-###### Art. 11.º Os auxílios financeiros revistos neste diploma não serão comutativos com quaisquer outros, com excepção dos previstos nos programas de reestruturação e modernização da frota de pesca da Região aprovados no âmbito da política de estruturas da pesca da Comunidade Económica Europeia.
+Art. 11.º Os auxílios financeiros revistos neste diploma não serão comutativos com quaisquer outros, com excepção dos previstos nos programas de reestruturação e modernização da frota de pesca da Região aprovados no âmbito da política de estruturas da pesca da Comunidade Económica Europeia.
 
-###### Art. 2.º É revogado o artigo 10.º do [Decreto Regulamentar Regional n.º 12/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-452510), de 25 de Junho.
+Art. 2.º É revogado o artigo 10.º do [Decreto Regulamentar Regional n.º 12/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-452510), de 25 de Junho.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 5 de Março de 1987.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 25 de Março de 1987.**
+Assinado em 25 de Março de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/43/2000/12/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-2000-582847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01f3a6b409b961a1ca3ef1dea6ab0c2d956e69f8da9b52cef853acf13914f587
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d70dea94ffbfb326036a811c189279187ffeefa079a4cae5296871afa7e1390b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração dos Portos da Região Autónoma da Madeira
+- Agência Regional de Energia e Ambiente
 - ANAM
-- Secretaria Regional do Turismo e Cultura
+- Centro de Empresas e Inovação da Madeira
+- Centro Internacional de Negócios da Madeira
 - Governo Regional
-- Presidência do Governo Regional
-- Vice-presidência do Governo Regional
-- Secretaria Regional do Plano e Finanças
-- Instituto de Habitação da Região Autónoma da Madeira
 - Instituto de Desenvolvimento Empresarial
+- Instituto de Habitação da Região Autónoma da Madeira
 - Instituto do Desporto da Região Autónoma da Madeira
 - Instituto do Vinho da Madeira
 - Laboratório Regional de Engenharia Civil
-- Agência Regional de Energia e Ambiente
-- Centro de Empresas e Inovação da Madeira
-- Centro Internacional de Negócios da Madeira
-- Secretaria Regional da Educação
-- Secretaria Regional do Equipamento Social e Transportes
-- Sociedade de Desenvolvimento da Ponta do Oeste
-- Secretaria Regional dos Assuntos Sociais
+- Madeira.região Autónoma
 - Orgânica
 - Parque Natural da Madeira
-- Madeira.região Autónoma
+- Presidência do Governo Regional
+- Secretaria Regional da Educação
 - Secretaria Regional do Ambiente e dos Recursos Naturais
+- Secretaria Regional do Equipamento Social e Transportes
+- Secretaria Regional do Plano e Finanças
+- Secretaria Regional do Turismo e Cultura
+- Secretaria Regional dos Assuntos Sociais
 - Secretaria Regional dos Recursos Humanos
+- Sociedade de Desenvolvimento da Ponta do Oeste
 - Sociedade de Desenvolvimento do Porto Santo
 - Transferência de Serviços
 - Vialitoral
+- Vice-presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:571667:por
@@ -109,16 +109,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:515211:por
+  label: "Rectificado pela DECL-RECT.16-P/2000.2000.11.30.PCM DR.IS-B [277]4ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-p-2000-515211
+  date: '2000-11-30'
 article_structure:
   article_count: 17
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:39Z'
   warnings: []
   errors: []
 ---
@@ -393,8 +414,8 @@ Aprovado em Conselho do Governo Regional em 16 de Novembro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 21 de Novembro de 2000.**
+Assinado em 21 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.

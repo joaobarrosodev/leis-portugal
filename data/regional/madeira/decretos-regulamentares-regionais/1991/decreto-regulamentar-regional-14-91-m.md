@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/1991/08/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1991-674623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef4f3f6ca2f45ecc7455671777da61f350aee332387aaa185fb945bc1f245866
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1175931f03328ab317b56da363e064c1cbe771e93e5edcbb4e2272275e7f1fa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Construção Civil
 - Avaliação de Impacte Ambiental
-- Proteção do Ambiente
-- Política do Ambiente
+- Construção Civil
 - Madeira.região Autónoma
+- Política do Ambiente
 - Poluição
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: celex:31985L0337
   label: null
   source: http://data.europa.eu/eli/dir/1985/337/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:18Z'
   warnings: []
   errors: []
 ---
@@ -101,28 +101,28 @@ Considerando que estes diplomas definem um âmbito de aplicação da AIA indispe
 
 Nestes termos, o Governo Regional da Madeira, ao abrigo do disposto na alínea d) do n.º 1 do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º - 1 - O processo prévio de avaliação do impacte ambiental (AIA) é, na Região, da competência do Secretário Regional do Equipamento Social, considerando-se reportadas a este membro do Governo Regional as referências contidas no Decreto-Lei n.º 186/90, de 6 de Junho, e no Decreto Regulamentar n.º 38/90, de 27 de Novembro, a membro do Governo ou a ministro responsável pela área do ambiente e a ministro responsável pela área do ordenamento do território.
+Artigo 1.º - 1 - O processo prévio de avaliação do impacte ambiental (AIA) é, na Região, da competência do Secretário Regional do Equipamento Social, considerando-se reportadas a este membro do Governo Regional as referências contidas no Decreto-Lei n.º 186/90, de 6 de Junho, e no Decreto Regulamentar n.º 38/90, de 27 de Novembro, a membro do Governo ou a ministro responsável pela área do ambiente e a ministro responsável pela área do ordenamento do território.
 
 2 - Quando se trate de projectos localizados na área de intervenção do Parque Natural da Madeira, as competências a que se reporta o número anterior são exercidas pelo Secretário Regional da Economia.
 
-###### Art. 2.º As entidades encarregues da instrução do processo da AIA são a Direcção Regional de Ambiente e Urbanismo, no caso do n.º 1 do artigo anterior, e o Parque Natural da Madeira, no caso do n.º 2.
+Art. 2.º As entidades encarregues da instrução do processo da AIA são a Direcção Regional de Ambiente e Urbanismo, no caso do n.º 1 do artigo anterior, e o Parque Natural da Madeira, no caso do n.º 2.
 
-###### Art. 3.º Aos serviços acima referidos, no domínio das competências atribuídas, cabe prestar apoio, desde que tal lhe seja solicitado pelo dono da obra, à elaboração do estudo de impacte ambiental (EIA), contando, para o efeito, com a colaboração dos serviços da administração pública regional competentes em função dos aspectos a atender.
+Art. 3.º Aos serviços acima referidos, no domínio das competências atribuídas, cabe prestar apoio, desde que tal lhe seja solicitado pelo dono da obra, à elaboração do estudo de impacte ambiental (EIA), contando, para o efeito, com a colaboração dos serviços da administração pública regional competentes em função dos aspectos a atender.
 
-###### Art. 4.º - 1 - As competências conferidas e as referências feitas pelo Decreto-Lei n.º 186/90 a «membro do Governo da tutela» são atribuídas e consideram-se reportadas a «membro do Governo Regional da tutela».
+Art. 4.º - 1 - As competências conferidas e as referências feitas pelo Decreto-Lei n.º 186/90 a «membro do Governo da tutela» são atribuídas e consideram-se reportadas a «membro do Governo Regional da tutela».
 
 2 - As competências atribuídas aos serviços competentes do Ministério do Ambiente e Recursos Naturais pelo n.º 2 do artigo 6.º e pelo artigo 7.º do Decreto Regulamentar n.º 38/90 cabem à Direcção Regional de Ambiente e Urbanismo ou ao Parque Natural da Madeira, de acordo com o disposto no artigo 1.º
 
-###### Art. 5.º, A Secretaria Regional do Equipamento Social reunirá as necessárias informações relativas ao processo da AIA na Região, que facultará ao Ministério do Ambiente e Recursos Naturais, tendo em vista o cumprimento da Directiva n.º [85/337/CEE](http://data.europa.eu/eli/dir/1985/337/oj?locale=pt), designadamente do disposto na alínea c) do n.º 3 do seu artigo 2.º
+Art. 5.º, A Secretaria Regional do Equipamento Social reunirá as necessárias informações relativas ao processo da AIA na Região, que facultará ao Ministério do Ambiente e Recursos Naturais, tendo em vista o cumprimento da Directiva n.º [85/337/CEE](http://data.europa.eu/eli/dir/1985/337/oj?locale=pt), designadamente do disposto na alínea c) do n.º 3 do seu artigo 2.º
 
-###### Art. 6.º O presente diploma entra imediatamente em vigor.
+Art. 6.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 20 de Junho de 1991.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 11 de Julho de 1991.**
+Assinado em 11 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
 Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

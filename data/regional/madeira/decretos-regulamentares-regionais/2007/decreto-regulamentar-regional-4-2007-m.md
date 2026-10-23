@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2007/02/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c6adf2cdd8f17a71c92da1ed078cd5966088f3b284e812a9a8d5c26849c6453
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b263932855850f21e15103e688533477629ab1155e04a38a70fe01269aed550
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Serviço Regional de Prevenção da Toxicodependência
 relationships:
@@ -95,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/82/2005/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/82/2005/01/25/p/dre
+- type: cites
+  target: pt:dre:139429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 22
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:23Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +179,9 @@ f) A Divisão de Serviços Administrativos.
 
 3 - A Divisão de Serviços Administrativos integra a Secção de Assuntos Gerais e Pessoal e a Secção de Contabilidade e Aprovisionamento.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -179,7 +205,9 @@ f) ...
 
 5 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -205,13 +233,17 @@ g) Um representante do Centro de Segurança Social da Madeira;
 
 h) Um representante do Conselho Empresarial da Madeira.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A Divisão de Prevenção, abreviadamente designada por DP, é o serviço da DSP ao qual compete proceder à promoção, dinamização e execução das acções e projectos de prevenção do consumo de drogas e da toxicodependência e, em especial, promover, dinamizar e executar as competências a que se referem as alíneas b), c), d) e g) do n.º 2 do artigo anterior.
 
 2 - A DP é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -219,7 +251,9 @@ h) Um representante do Conselho Empresarial da Madeira.
 
 3 - O GIP é dirigido por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -227,7 +261,9 @@ h) Um representante do Conselho Empresarial da Madeira.
 
 3 - O GEP é dirigido por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 10.º — Divisão de Serviços Administrativos
+Artigo 10.º
+
+Divisão de Serviços Administrativos
 
 1 - A Divisão de Serviços Administrativos, abreviadamente designada por DSA, é o órgão ao qual compete executar as actividades relativas à gestão dos recursos financeiros, humanos e materiais afectos ao SRPT.
 
@@ -255,7 +291,9 @@ a) A Secção de Assuntos Gerais e Pessoal;
 
 b) A Secção de Contabilidade e Aprovisionamento.
 
-###### Artigo 11.º — Secção de Assuntos Gerais e Pessoal
+Artigo 11.º
+
+Secção de Assuntos Gerais e Pessoal
 
 1 - A Secção de Assuntos Gerais e Pessoal, abreviadamente designada por SAP, é o serviço de execução administrativa da DSA para as áreas de expediente, arquivo geral e recursos humanos.
 
@@ -269,7 +307,9 @@ c) Assegurar os serviços de atendimento ao público e de reprografia;
 
 d) Coordenar a actividade do pessoal auxiliar.
 
-###### Artigo 12.º — Secção de Contabilidade e Aprovisionamento
+Artigo 12.º
+
+Secção de Contabilidade e Aprovisionamento
 
 1 - A Secção de Contabilidade e Aprovisionamento, abreviadamente designada por SCA, é o serviço de execução administrativa da DSA para as áreas de orçamento, contabilidade e aprovisionamento.
 
@@ -285,7 +325,9 @@ d) Manter o cadastro patrimonial dos bens móveis e coordenar a respectiva manut
 
 e) Assegurar a gestão dos recursos materiais, logísticos e informáticos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -305,7 +347,9 @@ g) Pessoal auxiliar.
 
 2 - O quadro de pessoal do SRPT é o constante do anexo ao presente diploma e pode ser alterado por portaria conjunta do membro do Governo que tutela o SRPT e dos membros do Governo que tutelam as áreas das finanças e da administração pública.
 
-###### Artigo 14.º — Do regime financeiro
+Artigo 14.º
+
+Do regime financeiro
 
 As despesas do SRPT são cobertas por dotação orçamental, inscrita em rubrica orgânica própria do orçamento da SRAS.»
 
@@ -351,11 +395,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 Janeiro de 2007.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 29 de Janeiro de 2007.**
+Assinado em 29 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -363,7 +407,7 @@ O Representante da República para a Região Autónoma da Madeira, Antero Alves 
 
 (a que se refere o artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03300/11821190.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03300/11821190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03300/11821190.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º do presente diploma)
 
@@ -543,7 +587,9 @@ g) Promover, coordenar, desenvolver e aplicar metodologias de avaliação das di
 
 3 - A DSP é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 7.º — Divisão de Prevenção
+###### Artigo 7.º
+
+##### Divisão de Prevenção
 
 1 - A Divisão de Prevenção, abreviadamente designada por DP, é o serviço da DSP ao qual compete proceder à promoção, dinamização e execução das acções e projectos de prevenção do consumo de drogas e da toxicodependência e, em especial, promover, dinamizar e executar as competências a que se referem as alíneas b), c), d) e g) do n.º 2 do artigo anterior.
 
@@ -585,7 +631,9 @@ e) Assegurar a interligação com o Observatório Europeu da Droga.
 
 3 - O GEP é dirigido por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 10.º — Divisão de Serviços Administrativos
+###### Artigo 10.º
+
+##### Divisão de Serviços Administrativos
 
 1 - A Divisão de Serviços Administrativos, abreviadamente designada por DSA, é o órgão ao qual compete executar as actividades relativas à gestão dos recursos financeiros, humanos e materiais afectos ao SRPT.
 
@@ -613,7 +661,9 @@ a) A Secção de Assuntos Gerais e Pessoal;
 
 b) A Secção de Contabilidade e Aprovisionamento.
 
-###### Artigo 11.º — Secção de Assuntos Gerais e Pessoal
+###### Artigo 11.º
+
+#### Secção de Assuntos Gerais e Pessoal
 
 1 - A Secção de Assuntos Gerais e Pessoal, abreviadamente designada por SAP, é o serviço de execução administrativa da DSA para as áreas de expediente, arquivo geral e recursos humanos.
 
@@ -627,7 +677,9 @@ c) Assegurar os serviços de atendimento ao público e de reprografia;
 
 d) Coordenar a actividade do pessoal auxiliar.
 
-###### Artigo 12.º — Secção de Contabilidade e Aprovisionamento
+###### Artigo 12.º
+
+#### Secção de Contabilidade e Aprovisionamento
 
 1 - A Secção de Contabilidade e Aprovisionamento, abreviadamente designada por SCA, é o serviço de execução administrativa da DSA para as áreas de orçamento, contabilidade e aprovisionamento.
 
@@ -677,4 +729,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 13.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03300/11821190.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03300/11821190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03300/11821190.pdf)

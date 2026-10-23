@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1984-654568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4eb8a6802a198fb5ae57ae4f7b6814c449343cc0b8a3a475cdd0a3647eefbeb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d7fd359e565c7f972fb4490e67dae3b69a8e8f7342352c3864b3f2042038dbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Direcção Regional de Educação Especial
+- Madeira.região Autónoma
+- Pessoal Auxiliar
+relationships:
+- type: cites
+  target: pt:dre:311004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455936:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:29Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +110,14 @@ Atendendo, porém, a que, no continente, o pessoal pertencente aos quadros de se
 
 O Governo Regional decreta, ao abrigo do disposto na alínea b) do artigo 229.º da Constituição e na alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo único. É aplicado às carreiras de pessoal auxiliar do quadro da Direcção Regional de Educação Especial o regime previsto no [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro, com as alterações já introduzidas pelo [Decreto Regulamentar Regional n.º 19/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1983-455936), de 29 de Agosto.
+Artigo único. É aplicado às carreiras de pessoal auxiliar do quadro da Direcção Regional de Educação Especial o regime previsto no [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro, com as alterações já introduzidas pelo [Decreto Regulamentar Regional n.º 19/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1983-455936), de 29 de Agosto.
 
 Aprovado em Plenário do Conselho do Governo Regional em 23 de Fevereiro de 1984.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 9 de Março de 1984.**
+Assinado em 9 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2015/06/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2015-67522990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d938702eab31778d2a25a1befbe3d0db5aad9284ced18325c30d4e3f7b6565b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e567e02c14f1c309fb297b24c5873b24bd873191fecafacdb387314494a0d90d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,46 +66,58 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração dos Portos da Região Autónoma da Madeira
-- Reestruturação de Serviços
-- Região Autónoma
-- Secretaria Regional do Turismo e Cultura
-- Turismo
+- Administração Pública
+- Administração Regional
+- Centro de Empresas e Inovação da Madeira
 - Centro de Estudos de História do Atlântico
-- Pessoal Dirigente
-- Secretaria Regional da Economia
-- Governo Regional
 - Criação de Serviços
+- Cultura
 - Definição de Competências
-- Direcção Regional dos Assuntos Culturais
+- Direção Regional da Economia e Transportes
 - Direcção Regional da Cultura
 - Direcção Regional do Comércio Indústria e Energia
+- Direcção Regional dos Assuntos Culturais
 - Empresa de Electricidade da Madeira
 - Escola Profissional de Hotelaria e Turismo da Madeira
-- Administração Pública
 - Extinção de Serviços
 - Gabinete do Secretário Regional do Turismo e Cultura
+- Governo Regional
 - Inspecção Regional das Actividades Económicas
 - Integração de Serviços
 - Integração de Trabalhadores
 - Madeira Parques Empresariais
-- Centro de Empresas e Inovação da Madeira
-- Secretaria Regional da Cultura Turismo e Transportes
+- Madeira.região Autónoma
 - Orgânica
 - Organismo do Estado
-- Cultura
-- Madeira.região Autónoma
+- Pessoal Dirigente
+- Reestruturação de Serviços
+- Região Autónoma
 - Secretaria Regional
+- Secretaria Regional da Cultura Turismo e Transportes
+- Secretaria Regional da Economia
+- SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
+- Secretaria Regional do Turismo e Cultura
 - Secretário Regional
-- Administração Regional
 - Transferência de Pessoal
 - Transferência de Serviços
-- SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
-- Direção Regional da Economia e Transportes
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:130277357:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74483694:por
+  label: Alterados o art. 14.º e o anexo I pelo(a) Decreto Regulamentar Regional n.º 16/2016/M - Diário da República n.º 97/2016,
+    Série I de 2016-05-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2016-74483694
+  date: '2016-05-19'
+- type: amended_by
+  target: pt:dre:130277357:por
+  label: Determinada a manutenção em vigor do disposto nos n.os 7 e 8 do art. 22.º do presente diploma pelo(a) Decreto Regulamentar
+    Regional n.º 22/2020/M - Diário da República n.º 54/2020, Série I de 2020-03-17, nos termos do respetivo art. 32.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2020-130277357
+  date: '2020-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/
   label: null
@@ -146,16 +158,141 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:174549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115288238:por
+  label: Revogadas as als. a) a g) do art. 3.º, as als. b) e c) do n.º 1 do art. 6.º, a al. b) do n.º 1 do art. 7.º e os arts.
+    8.º, 12.º, 15.º e 16.º pelo(a) Decreto Regulamentar Regional n.º 7/2018/M - Diário da República n.º 92/2018, Série I de
+    2018-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2018-115288238
+  date: '2018-05-14'
+- type: repealed_by
+  target: pt:dre:128277507:por
+  label: Revogado, a partir de 21.01.2020, pelo(a) Decreto Regulamentar Regional n.º 7/2020/M - Diário da República n.º 13/2020,
+    Série I de 2020-01-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2020-128277507
+  date: '2020-01-20'
 article_structure:
   article_count: 27
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:06Z'
   warnings: []
   errors: []
 ---
@@ -506,22 +643,22 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo em 28 de maio de 2015.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 4 de junho de 2015.**
+Assinado em 4 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO I — Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/11700/0413304138.pdf))](https://files.diariodarepublica.pt/1s/2015/06/11700/0413304138.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/11700/0413304138.pdf)
 
 ## ANEXO II — Dirigentes dos organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/11700/0413304138.pdf))](https://files.diariodarepublica.pt/1s/2015/06/11700/0413304138.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/11700/0413304138.pdf)
 
 ## ANEXO III — Dotação de lugares dos dirigentes intermédios de 1.º grau do Gabinete do Secretário Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/11700/0413304138.pdf))](https://files.diariodarepublica.pt/1s/2015/06/11700/0413304138.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/11700/0413304138.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2004/02/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2004-570111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f777e99715052b49b09e5c4287909be567259a4e408f4f92bf7e64d41d8c76a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c2478406d69622f7228b34e90b994dc92bc797a2dc6263ab9a4ab218eca0c4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,41 @@ reuse:
 subjects:
 - Cartório Notarial
 - Centro de Formalidades de Empresas
-- Formação Profissional
-- Gestão Financeira
-- Governo Regional
 - Conservador
 - Conservatória do Registo Automóvel
+- Conservatória do Registo Civil
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
 - Definição de Competências
 - Direcção Regional da Administração da Justiça
 - Diretor Regional
-- Registo Automóvel
-- Registos e Notariado
-- Recrutamento de Pessoal
+- Formação Profissional
+- Gestão Financeira
+- Governo Regional
+- Madeira.região Autónoma
+- Mobilidade de Pessoal
 - Notário
 - Orgânica
-- Zona Tributária Privilegiada
-- Madeira.região Autónoma
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Registo Automóvel
 - Registo Civil
-- Registo Predial
-- Mobilidade de Pessoal
-- Conservatória do Registo Civil
-- Subdirector Regional
 - Registo Comercial
+- Registo Predial
+- Registos e Notariado
+- Subdirector Regional
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:179348:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346373:por
+  label: "Alterada a orgânica aprovada pelo presente diploma, pelo DRR.5/2006/M.23.05.2006.PG-RAM, DR.IS-B [112] de 09.06.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2006-346373
+  date: '2006-05-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/2003/10/08/p/dre
   label: null
@@ -116,16 +122,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:287458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179348:por
+  label: "Revogado o presente diploma, na redação do DRR 5/2006/M, de 09-jun, pelo DRR.17/2012/M.26.07.2012.PG-RAM, DR.IS\
+    \ [144] de 26.07.2012, que mantém em vigor a atual estrutura orgânica interna da DRAJ, bem como o mapa de pessoal, nos\
+    \ termos do n.º 2 do art. 2.º. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2012-179348
+  date: '2012-07-26'
 article_structure:
   article_count: 26
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:08Z'
   warnings: []
   errors: []
 ---
@@ -550,13 +591,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 15 de Janeiro de 2004.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 9 de Fevereiro de 2004.**
+Assinado em 9 de Fevereiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 17.º)
 

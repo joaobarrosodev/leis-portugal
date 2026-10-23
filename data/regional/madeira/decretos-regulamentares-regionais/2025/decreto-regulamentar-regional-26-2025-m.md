@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/26/2025/12/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2025-992879820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ba53347b7e371c9e016c3c79f4a60f3de36fd9fc986f3cbf7ab40326d531100
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 886ec3d689311637ce654056e7751e6bc9b22d76becc477b482ab9b0f62537be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Governo Regional
-- Orgânica
-- Urbanismo
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Secretaria Regional
-- Secretaria Regional de Turismo
-- Ambiente e Cultura
+- Secretaria Regional de Turismo, Ambiente e Cultura
+- Urbanismo
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:9/2025/M
+  label: Altera, a partir de 30 de dezembro de 29025, os artigos 2.º, 3.º, 4.º, 5.º e o anexo III do Decreto Regulamentar
+    Regional n.º 9/2025/M, de 1 de agosto, Diário da República n.º 147/2025, Série I de 2025-08-01
+  source: null
+  date: '2025-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/15/2025/10/01/m/dre
   label: null
@@ -99,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916745909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927416006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:937443531:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:58Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +150,7 @@ Atendendo a esse facto, importa alterar o diploma orgânico da SRTAC, atualizand
 
 Assim:
 
-Nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa e do n.º 3 do artigo 56.º, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
+Nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa e do n.º 3 do artigo 56.º, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -137,7 +166,9 @@ São alterados os artigos 2.º, 3.º, 4.º e 5.º do [Decreto Regulamentar Regio
 
 A Secretaria Regional de Turismo, Ambiente e Cultura, adiante designada abreviadamente por SRTAC, é o departamento do Governo Regional da Madeira a que se refere a alínea b) do artigo 1.º e o artigo 3.º do [Decreto Regulamentar Regional n.º 5/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2025-916745909), de 5 de maio, alterado pelo [Decreto Regulamentar Regional n.º 15/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2025-937443531), de 1 de outubro.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -179,7 +210,9 @@ r) [Anterior alínea p).]
 
 s) [Anterior alínea q).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]
 
@@ -253,7 +286,9 @@ hh) [Anterior alínea ee).]
 
 ii) [Anterior alínea ff).]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -299,11 +334,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 de dezembro de 2025.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 23 de dezembro de 2025.**
+Assinado em 23 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -318,3 +353,7 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 | Cargos | Número de lugares |  |
 | --- | --- | --- |
 | [...] | 4 | » |
+
+119929463
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-left-style:solid; border-right-width:1px; border-top-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-left-style:solid; border-right-width:1px; border-top-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl9 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; }

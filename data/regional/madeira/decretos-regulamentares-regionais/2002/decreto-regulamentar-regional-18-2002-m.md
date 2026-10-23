@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2002/12/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2002-437620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e393abe538de693a733ba286dbbf0c88ace424aac44877a942c05727b24c32f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 527bcda76f9675f9cff55bf7983820b0424dddea9d89c730fd4cdcd89fd4963d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional dos Transportes Terrestres
-- Pessoal de Inspecção
 - Madeira.região Autónoma
+- Pessoal de Inspecção
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 relationships:
@@ -76,6 +76,14 @@ relationships:
   target: pt:dre:684637:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684637:por
+  label: "Alterados os arts 1º, 4º, 5º, 7º, 37º, 42º, 64º, 66º, 67º, 70º, 86º, 97º, revogados os arts 72º e 73º, alterada\
+    \ a secção III da div. XII do cap. II, eliminada a secção IV, aditada a div. XIII-A e aditada nessa div. os arts. 85º-A,\
+    \ 85º-B, 85º-C, 85º-D, 85º-E, 85º-F, e 85º-G, aditado ao anexo I o mapa VI do DRR 7/2001/M de11-Mai,alterado pelo presente\
+    \ diploma, pelo DRR.11-A/2003/M.2003.03.20.PG-RAM, DR.IS-B [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-a-2003-684637
+  date: '2003-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
   label: null
@@ -108,16 +116,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:254592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658214:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:54Z'
   warnings: []
   errors: []
 ---
@@ -248,8 +300,8 @@ Aprovado em Conselho do Governo Regional em 24 de Outubro de 2002.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 11 de Novembro de 2002.**
+Assinado em 11 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

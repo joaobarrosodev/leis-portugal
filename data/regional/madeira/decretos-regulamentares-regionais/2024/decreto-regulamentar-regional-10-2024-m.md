@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/03200/0001700025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2024/02/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-848804211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ac71720a5e5226a14955f5e05a6426f6238663cb1de666bd1530c8dad96c5cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faf06c952a6e707a4647d1d26ab2474c947bf263d2e3694f6aa082cfda69e506
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Criação de Serviços
-- Extinção de Serviços
-- Orgânica
-- Madeira.região Autónoma
-- Secretaria Regional das Finanças
-- Gestão de Recursos Humanos
 - Estatuto Remuneratório
-- Regulamento Geral de Proteção de Dados
+- Extinção de Serviços
 - Gabinete Regional para a Conformidade Digital Proteção de Dados e Cibersegurança
+- Gestão de Recursos Humanos
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Regulamento Geral de Proteção de Dados
+- Secretaria Regional das Finanças
 relationships:
 - type: cites
   target: celex:32016R0679
@@ -120,16 +120,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168697988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170221042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836604897:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:40Z'
   warnings: []
   errors: []
 ---
@@ -386,18 +438,20 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 25 de janeiro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 9 de fevereiro de 2024.**
+Assinado em 9 de fevereiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO — (a que se refere o artigo 10.º)
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Designação dos cargos dirigentes | Qualificação dos cargos dirigentes | Grau | Número de lugares |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | Diretor ... | Direção superior... | 1.º | 1 |
 | Diretor adjunto... | Direção intermédia ... | 1.º | 2 |
+
+117352293

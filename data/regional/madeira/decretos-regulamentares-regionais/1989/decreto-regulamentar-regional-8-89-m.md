@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04100/06790688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1989-612463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc0b15ab12e24ca6135ec508674baeb3d36c7c3f10f7f61a5fb3e129ec3a1c7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67bac282623d6b51ab133b6de650fcf4713fc745bf1bff4d33aa017bef31a457
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Vice-presidência e Coordenação Económica
 relationships:
 - type: amended_by
   target: pt:dre:574893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665943:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:574893:por
+  label: "Revogado o presente diploma, com as alterações introduzidas pela Port 135/89 de 27-Set, pelo DRR.10/90/M.30.05.1990.GR-RAM,\
+    \ DR.IS [124] de 30.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1990-574893
+  date: '1990-05-30'
 article_structure:
-  article_count: 29
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 31
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:08Z'
   warnings: []
   errors: []
 ---
@@ -98,33 +150,35 @@ Nestes termos:
 
 O Governo Regional da Madeira decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada a Lei Orgânica da Vice-Presidência e Coordenação Económica, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a Lei Orgânica da Vice-Presidência e Coordenação Económica, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º A orgânica e a estrutura da Direcção Regional de Aeroportos, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Regulamentar Regional n.º 21/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1986-627245), de 31 de Dezembro.
+Art. 2.º A orgânica e a estrutura da Direcção Regional de Aeroportos, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Regulamentar Regional n.º 21/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1986-627245), de 31 de Dezembro.
 
-###### Art. 3.º A orgânica e a estrutura do Serviço Regional de Estatística da Madeira, bem como o respectivo quadro de pessoal, são os contantes do [Decreto Regulamentar Regional n.º 6/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1988-283279), de 12 de Fevereiro.
+Art. 3.º A orgânica e a estrutura do Serviço Regional de Estatística da Madeira, bem como o respectivo quadro de pessoal, são os contantes do [Decreto Regulamentar Regional n.º 6/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1988-283279), de 12 de Fevereiro.
 
-###### Art. 4.º A orgânica e a estrutura dos Serviços de Informática, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Regulamentar Regional n.º 8/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1987-665943), de 24 de Abril.
+Art. 4.º A orgânica e a estrutura dos Serviços de Informática, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Regulamentar Regional n.º 8/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1987-665943), de 24 de Abril.
 
-###### Art. 5.º As orgânicas, a estrutura e os quadros de pessoal da Direcção de Serviços de Fiscalização Económica e do Serviço de Apoio às Pequenas e Médias Empresas Industriais são, respectivamente, os constantes do [Decreto Regulamentar Regional n.º 6/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1981-389387), de 31 de Março, com as alterações que lhe foram introduzidas pela [Portaria n.º 51/87](https://diariodarepublica.pt/dr/detalhe/portaria/51-1987-663354), de 11 de Maio, e do [Decreto Regulamentar Regional n.º 11/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1981-565186), de 3 de Setembro.
+Art. 5.º As orgânicas, a estrutura e os quadros de pessoal da Direcção de Serviços de Fiscalização Económica e do Serviço de Apoio às Pequenas e Médias Empresas Industriais são, respectivamente, os constantes do [Decreto Regulamentar Regional n.º 6/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1981-389387), de 31 de Março, com as alterações que lhe foram introduzidas pela [Portaria n.º 51/87](https://diariodarepublica.pt/dr/detalhe/portaria/51-1987-663354), de 11 de Maio, e do [Decreto Regulamentar Regional n.º 11/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1981-565186), de 3 de Setembro.
 
-###### Art. 6.º Ficam revogados os Decretos Regulamentares Regionais n.os [8/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1986-195193), de 29 de Abril, e [7/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1987-665893), de 21 de Abril.
+Art. 6.º Ficam revogados os Decretos Regulamentares Regionais n.os [8/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1986-195193), de 29 de Abril, e [7/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1987-665893), de 21 de Abril.
 
-###### Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 5 de Janeiro de 1989.
 
 Pelo Presidente do Governo Regional, Miguel José Luís de Sousa.
 
-**Assinado em 3 de Fevereiro de 1989.**
+Assinado em 3 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Lei Orgânica da Vice-Presidência e Coordenação Económica
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Natureza e atribuições
 
@@ -158,7 +212,9 @@ l) Exercer as demais competências que lhe sejam cometidas por lei.
 
 ### CAPÍTULO II — Estrutura da Vice-Presidência e Coordenação Económica
 
-#### SECÇÃO I — Artigo 3.º
+#### SECÇÃO I
+
+###### Artigo 3.º
 
 Estrutura
 
@@ -480,7 +536,9 @@ r) Realizar vistorias a instalações eléctricas e tomar e propor as medidas le
 
 s) Organizar o cadastro dos técnicos responsáveis por instalações eléctricas.
 
-###### Artigo 20.º — Divisão das Actividades Comerciais
+###### Artigo 20.º
+
+##### Divisão das Actividades Comerciais
 
 À Divisão das Actividades Comerciais compete propor e executar as acções que se enquadrem na política superiormente definida para os sectores comercial e industrial, especialmente no âmbito de registo e cadastro de actividades.
 
@@ -596,7 +654,9 @@ Ao Gabinete de Estudos e Pareceres Económicos compete elaborar estudos económi
 
 O Gabinete de Estudos e Pareceres Jurídicos é um órgão com funções de mera consulta jurídica, cabendo-lhe também coordenar, a nível regional, todas as acções, de carácter jurídico, de adaptação e implementação relacionadas com a integração nas Comunidades Europeias.
 
-### CAPÍTULO III — Artigo 29.º
+### CAPÍTULO III
+
+###### Artigo 29.º
 
 Do pessoal
 
@@ -626,4 +686,4 @@ O Vice-Presidente poderá autorizar, quando tal se justifique, o recrutamento de
 
 ## ANEXO I — Quadro de pessoal da Vice Presidência e Coordenação Económica, a que se refere o nº 2 do artigo 29º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04100/06790688.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04100/06790688.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04100/06790688.pdf)

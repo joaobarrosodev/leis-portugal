@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1987-420424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e55c2d40ed7531b9fd4bb0a511bb1fe4671a0632be8240f5f44fa6390b39167
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1765dc8b6219dd4ca1b5da652d867fb9be7e7bc83957e9d4621f1af4f05712c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carne
+- Controlo de Qualidade
+- Madeira.região Autónoma
+- Proteção do Consumidor
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:48Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +113,7 @@ Assim:
 
 O Governo Regional, nos termos da alínea b) do artigo 229.º da Constituição e do artigo 33.º, alínea b), do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta o seguinte:
 
-###### Artigo 1.º É aplicável à Região Autónoma da Madeira o [Decreto-Lei n.º 261/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1984-381747), de 31 de Julho, com as seguintes adaptações:
+Artigo 1.º É aplicável à Região Autónoma da Madeira o [Decreto-Lei n.º 261/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1984-381747), de 31 de Julho, com as seguintes adaptações:
 
 1 - As competências atribuídas à Direcção-Geral da Pecuária, Junta Nacional dos Produtos Pecuários e Serviços Regionais de Agricultura cabem, na Região Autónoma da Madeira, à Direcção Regional de Pecuária.
 
@@ -101,13 +121,15 @@ O Governo Regional, nos termos da alínea b) do artigo 229.º da Constituição 
 
 3 - Os artigos abaixo enumerados do [Decreto-Lei n.º 261/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1984-381747), de 31 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - As contra-ordenações previstas nos regulamentos anexos, em conjugação com o [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, serão apreciadas pelo Secretário Regional da Economia, depois de investigadas e instruídas pela autoridade competente.
 
-## ANEXO II — CAPÍTULO II
+## ANEXO II
 
-###### Art. 4.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de preparação de carnes pré-embaladas devem solicitar autorização nesse sentido à Direcção Regional de Pecuária em requerimento, nos termos dos artigos 73.º e 79.º do [Decreto Regulamentar Regional n.º 7/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1984-654954), de 19 de Abril, do qual constem:
+### CAPÍTULO II
+
+Art. 4.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de preparação de carnes pré-embaladas devem solicitar autorização nesse sentido à Direcção Regional de Pecuária em requerimento, nos termos dos artigos 73.º e 79.º do [Decreto Regulamentar Regional n.º 7/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1984-654954), de 19 de Abril, do qual constem:
 
 a) ...
 
@@ -121,11 +143,13 @@ b) ...
 
 ### CAPÍTULO V
 
-###### Art. 24.º Qualquer outro tipo de embalagem a utilizar para este efeito carece de autorização especial da Direcção Regional de Pecuária, ouvida a Direcção Regional de Saúde Pública.
+Art. 24.º Qualquer outro tipo de embalagem a utilizar para este efeito carece de autorização especial da Direcção Regional de Pecuária, ouvida a Direcção Regional de Saúde Pública.
 
-## ANEXO III — CAPÍTULO II
+## ANEXO III
 
-###### Art. 6.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de preparação de carnes picadas devem solicitar autorização nesse sentido à Direcção Regional de Pecuária em requerimento, nos termos dos artigos 73.º e 79.º do [Decreto Regulamentar Regional n.º 7/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1984-654954), de 19 de Abril, do qual constem:
+### CAPÍTULO II
+
+Art. 6.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de preparação de carnes picadas devem solicitar autorização nesse sentido à Direcção Regional de Pecuária em requerimento, nos termos dos artigos 73.º e 79.º do [Decreto Regulamentar Regional n.º 7/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1984-654954), de 19 de Abril, do qual constem:
 
 a) ...
 
@@ -139,7 +163,7 @@ b) ...
 
 ## ANEXO IV — II - Normas processuais do licenciamento
 
-###### Art. 4.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de corte e desossagem de carcaças de aves devem solicitar autorização nesse sentido à Direcção Regional de Pecuária em requerimento apresentado, nos termos dos artigos 73.º e 79.º do [Decreto Regulamentar Regional n.º 7/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1984-654954), de 19 de Abril, no âmbito das respectivas atribuições:
+Art. 4.º - 1 - As pessoas singulares ou colectivas interessadas na instalação de estabelecimentos de corte e desossagem de carcaças de aves devem solicitar autorização nesse sentido à Direcção Regional de Pecuária em requerimento apresentado, nos termos dos artigos 73.º e 79.º do [Decreto Regulamentar Regional n.º 7/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1984-654954), de 19 de Abril, no âmbito das respectivas atribuições:
 
 a) ...
 
@@ -151,25 +175,25 @@ b) ...
 
 4 - ...
 
-###### Art. 21.º Qualquer outro tipo de embalagem a utilizar para este efeito carece de autorização especial da Direcção Regional de Pecuária, ouvida a Direcção Regional de Saúde Pública.
+Art. 21.º Qualquer outro tipo de embalagem a utilizar para este efeito carece de autorização especial da Direcção Regional de Pecuária, ouvida a Direcção Regional de Saúde Pública.
 
-###### Art. 2.º - 1 - Na adaptação do [Decreto-Lei n.º 261/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1984-381747), de 31 de Julho, fica suprimido o n.º 5 do artigo 19.º do capítulo II do anexo IV.
+Art. 2.º - 1 - Na adaptação do [Decreto-Lei n.º 261/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1984-381747), de 31 de Julho, fica suprimido o n.º 5 do artigo 19.º do capítulo II do anexo IV.
 
 2 - Os modelos de guias anexos ao anexo IV, capítulo IV, capítulo II, artigo 19.º, n.º 1, e o anexo n.º 1 do capítulo II, n.º 3 do artigo 4.º, são substituídos pelos anexos constantes do presente diploma.
 
-###### Art. 3.º O presente diploma entra em vigor 60 dias após a sua publicação.
+Art. 3.º O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 de Maio de 1987.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 29 de Maio de 1987.**
+Assinado em 29 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-## ANEXO N.º 1 — [([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf)
+## ANEXO N.º 1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf)
 
 ## ANEXO N.º 2 — Veículos especiais para transporte de carnes e seus produtos
 
@@ -211,10 +235,10 @@ Guia sanitária de trânsito de carnes n.º ...
 
 Os produtos abaixo discriminados, acompanhados desta guia e portadores da marca de inspecção sanitária a seguir referenciada, foram reconhecidos como próprios para consumo público:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf)
 
-## ANEXO N.º 4 — [([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf)
+## ANEXO N.º 4 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf)
 
 ## ANEXO N.º 5 — Armazém ou depósito de carnes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf))](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/16100/28062811.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/24/2008/11/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/24-2008-440562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdf477d04c28cb21f2ca42c1d4d22b2944215f4c9202c571626863ce9edf9344
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26cc061237ee01a7366c759b0e2987257498f348016019cad47186a83f8f5dff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Complemento Social de Pensão
 - Custos da Insularidade
+- Madeira.região Autónoma
 - Pensão de Invalidez
 - Pensão de Reforma
 - Pensão Social
 - Pensionista
-- Madeira.região Autónoma
 - Proteção Social
 - Segurança Social
 relationships:
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31/1991/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/1991/07/20/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:17Z'
   warnings: []
   errors: []
 ---
@@ -148,4 +160,4 @@ O presente diploma entra em vigor com a entrada em vigor do Orçamento do Estado
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Outubro de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

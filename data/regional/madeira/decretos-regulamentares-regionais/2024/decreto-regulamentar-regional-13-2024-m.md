@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/13400/0000600016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2024/07/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3ba55bc9039a0762ac8d2328fbf888df031480a3784e7e9acb128cfc5075ee7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e49237ac4c96af88531d14ab2cade36b224700e93f381061e307c463113e140c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo Regional
-- Secretaria Regional da Agricultura Pescas e Ambiente
-- Presidência do Governo Regional
+- Madeira.região Autónoma
 - Orçamento Regional
 - Orgânica
-- Madeira.região Autónoma
-- Secretaria Regional das Finanças
+- Presidência do Governo Regional
+- Secretaria Regional da Agricultura Pescas e Ambiente
 - SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
-- Secretaria Regional dos Equipamentos e Infraestruturas
 - Secretaria Regional da Educação Ciência e Tecnologia
 - Secretaria Regional da Saúde e Proteção Civil
+- Secretaria Regional das Finanças
 - Secretaria Regional de Inclusão Trabalho e Juventude
+- Secretaria Regional dos Equipamentos e Infraestruturas
 relationships:
 - type: amended_by
   target: pt:dre:916745909:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:26/2022/M
+  label: Mantém-se, até à aprovação do Orçamento da Região Autónoma da Madeira para 2024, a expressão orçamental da organização
+    e funcionamento do Governo Regional aprovada pelo Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, Diário
+    da República n.º 250/2022, Série I
+  source: null
+  date: '2022-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2012/01/20/p/dre
   label: null
@@ -122,16 +129,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205450899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224081980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:916745909:por
+  label: Revogado, a partir de 6 de maio de 2025, com efeitos reportados a 15 de abril de 2025, pelo(a) Decreto Regulamentar
+    Regional n.º 5/2025/M - Diário da República n.º 85/2025, Série I de 2025-05-05 nos termos dos artigos 13.º e 19.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2025-916745909
+  date: '2025-05-05'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:15/2023/M
+  label: Revoga, a partir de 13 de julho de 2024, com efeitos reportados a 6 de junho de 2024 e nos termos dos artigos 12.º
+    e 19.º, o Decreto Regulamentar Regional n.º 15/2023/M, de 10 de novembro, Diário da República n.º 218/2023, Série I
+  source: null
+  date: '2023-11-10'
 article_structure:
   article_count: 20
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:41Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +203,7 @@ validation:
 
 Aprova a organização e funcionamento do XV Governo Regional da Madeira
 
-Os artigos 56.º, n.º 3, e 69.º, alínea c), do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, estabelecem a competência do Governo Regional para aprovar a sua organização e funcionamento, objetivo prosseguido por via deste diploma, que aprova a sua organização e funcionamento, procedendo à redistribuição e reformulação de atribuições entre os seus departamentos regionais.
+Os artigos 56.º, n.º 3, e 69.º, alínea c), do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, estabelecem a competência do Governo Regional para aprovar a sua organização e funcionamento, objetivo prosseguido por via deste diploma, que aprova a sua organização e funcionamento, procedendo à redistribuição e reformulação de atribuições entre os seus departamentos regionais.
 
 Assim, nos termos dos artigos 227.º, n.º 1, alínea d), e 231.º, n.º 6, da Constituição da República Portuguesa, e dos artigos 56.º, n.º 3, 69.º, alíneas c) e d), e 70.º, n.º 1, do Estatuto Político-Administrativo da Região Autónoma da Madeira, o Governo Regional da Madeira decreta o seguinte:
 
@@ -284,7 +347,7 @@ c) Polo Científico e Tecnológico da Madeira, Madeira Tecnopolo, S. A.
 
 6 - No âmbito da sua missão de sustentabilidade das finanças públicas, compete à Secretaria Regional das Finanças, a coordenação intersectorial no desenvolvimento das políticas públicas, nomeadamente nas áreas com maior impacto orçamental.
 
-7 - Podem ainda ser cometidas à Secretaria Regional das Finanças atribuições de coordenação e supervisão de atividades comuns ou de funcionamento em rede, intra ou interdepartamental, nos termos e para os efeitos do disposto nos artigos 8.º e 9.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro.
+7 - Podem ainda ser cometidas à Secretaria Regional das Finanças atribuições de coordenação e supervisão de atividades comuns ou de funcionamento em rede, intra ou interdepartamental, nos termos e para os efeitos do disposto nos artigos 8.º e 9.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro.
 
 8 - Na dependência da Secretaria Regional das Finanças funcionam ainda as seguintes estruturas de missão:
 
@@ -342,7 +405,7 @@ j) Mobilidade aérea.
 
 a) Madeira Parques Empresariais, Sociedade Gestora, S. A.;
 
-b) StartUp Madeira - More Than Ideas, L.<sup>da</sup>
+b) StartUp Madeira - More Than Ideas, L.da
 
 3 - A Secretaria Regional de Economia, Turismo e Cultura exerce a tutela sobre a Associação de Promoção da Madeira.
 
@@ -412,7 +475,7 @@ a) ARM - Águas e Resíduos da Madeira, S. A.;
 
 b) CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM;
 
-c) GESBA - Empresa de Gestão do Setor da Banana, L.<sup>da</sup>
+c) GESBA - Empresa de Gestão do Setor da Banana, L.da
 
 4 - Na dependência da Secretaria Regional de Agricultura, Pescas e Ambiente funciona ainda a estrutura de missão da Autoridade de Gestão do PEPAC - R. A. Madeira.
 
@@ -550,7 +613,7 @@ Os meios físicos, administrativos, técnicos e financeiros necessários ao func
 
 2 - As competências, os direitos e as obrigações de que eram titulares os departamentos regionais extintos ou alterados são automaticamente transferidos para os correspondentes novos departamentos, organismos ou serviços que os substituem, sem dependência de quaisquer formalidades.
 
-3 - Até à constituição formal de novas unidades de gestão, as atribuições constantes nos n.<sup>os</sup>2, 3 e 5 do artigo 68.º do [Decreto Legislativo Regional n.º 26/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), de 29 de dezembro, continuam a ser asseguradas pelas unidades que, até à data, desempenham essas funções, sem prejuízo do disposto no número seguinte.
+3 - Até à constituição formal de novas unidades de gestão, as atribuições constantes nos n.os2, 3 e 5 do artigo 68.º do [Decreto Legislativo Regional n.º 26/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), de 29 de dezembro, continuam a ser asseguradas pelas unidades que, até à data, desempenham essas funções, sem prejuízo do disposto no número seguinte.
 
 4 - O processo de extinção dos serviços dependentes dos gabinetes das extintas secretarias regionais, nomeadamente de transferência de processos, decorre nos termos e prazo a estabelecer por despacho conjunto dos membros do Governo Regional dos departamentos regionais que integram as atribuições do departamento extinto, publicitado nas respetivas páginas eletrónicas.
 
@@ -598,10 +661,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 27 de junho de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 9 de julho de 2024.**
+Assinado em 9 de julho de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+117887404

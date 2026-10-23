@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/23000/0003000034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/36/2024/11/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-2024-897994601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc947f21fc9f8a1ea12cc3f7ff17c90eecb12bce7b500469a73e1399c2bd1d0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a3969697ea535c8090766f5f640ee3fff0b0041fb4726dfd3fec1706e8445a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Autoridade Regional para as Condições de Trabalho
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:17/2001/M
+  label: Determina a manutenção em vigor, nos termos do n.º 2 do artigo 10.º, dos artigos 18.º a 23.º, 27.º e 29.º a 48.º
+    do Decreto Regulamentar Regional n.º 17/2001/M - Diário da República n.º 157/2001, Série I-B de 2001-07-09
+  source: null
+  date: '2001-07-09'
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:14/2002/M
+  label: Determina a manutenção em vigor, nos termos do n.º 3 do artigo 10.º, dos artigos 2.º a 4.º e 6.º e dos anexos i e
+    ii do Decreto Regulamentar Regional n.º 14/2002/M - Diário da República n.º 215/2002, Série I-B de 2002-09-17
+  source: null
+  date: '2002-09-17'
+- type: amends
+  target: pt:numero:portaria:240/2016
+  label: Determina a manutenção em vigor, nos termos do n.º 1 do artigo 10.º, da alínea b) do artigo 2.º, do artigo 4.º e,
+    na parte correspondente, do artigo 5.º da Portaria n.º 240/2016, de 23 de junho
+  source: null
+  date: '2016-06-23'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -111,16 +129,106 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74316109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:838326049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:876300988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891867288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:893782293:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:14/2016/M
+  label: Revoga, a partir de 28 de novembro de 2024, na parte em que dispõe sobre matéria inspetiva e sem prejuízo do disposto
+    no artigo 10.º, o Decreto Regulamentar Regional n.º 14/2016/M - Diário da República n.º 84/2016, Série I de 2016-05-02
+  source: null
+  date: '2016-05-02'
 article_structure:
   article_count: 12
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:49Z'
   warnings: []
   errors: []
 ---
@@ -137,9 +245,9 @@ De acordo com as exigências impostas pelas referidas Convenções da OIT, a org
 
 Nestes termos, urge aprovar a orgânica da ARCT, onde se contempla nomeadamente a sua natureza, missão, âmbito de atuação, atribuições e órgãos.
 
-A presente orgânica subordina-se ao regime de organização da administração direta da Região Autónoma da Madeira, constante do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, retificado pela [Declaração de Retificação n.º 1/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-876300988), de 12 de agosto, razão pela qual se mantêm em vigor as normas relativas à organização interna atual, até à entrada em vigor dos diplomas subsequentes a aprovar em harmonia com aquele regime, salvaguardando-se, ainda, o normativo com sede própria, relacionado com as carreiras de inspetor do trabalho.
+A presente orgânica subordina-se ao regime de organização da administração direta da Região Autónoma da Madeira, constante do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, retificado pela [Declaração de Retificação n.º 1/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-876300988), de 12 de agosto, razão pela qual se mantêm em vigor as normas relativas à organização interna atual, até à entrada em vigor dos diplomas subsequentes a aprovar em harmonia com aquele regime, salvaguardando-se, ainda, o normativo com sede própria, relacionado com as carreiras de inspetor do trabalho.
 
-Assim, ao abrigo do disposto na alínea d) do n.º 1 do artigo 227.º e no n.º 6 do artigo 231.º da Constituição da República Portuguesa, nas alíneas c) e d) do artigo 69.º e no n.º 1 do artigo 70.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, no n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, retificado pela [Declaração de Retificação n.º 1/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-876300988), de 12 de agosto, no artigo 9.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, e no artigo 14.º do [Decreto Regulamentar Regional n.º 26/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2024-891867288), de 21 de outubro, retificado pela [Declaração de Retificação n.º 2/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2024-893782293), de 29 de outubro, o Governo Regional da Madeira decreta o seguinte:
+Assim, ao abrigo do disposto na alínea d) do n.º 1 do artigo 227.º e no n.º 6 do artigo 231.º da Constituição da República Portuguesa, nas alíneas c) e d) do artigo 69.º e no n.º 1 do artigo 70.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, no n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, retificado pela [Declaração de Retificação n.º 1/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-876300988), de 12 de agosto, no artigo 9.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, e no artigo 14.º do [Decreto Regulamentar Regional n.º 26/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2024-891867288), de 21 de outubro, retificado pela [Declaração de Retificação n.º 2/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2024-893782293), de 29 de outubro, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ÂMBITO DE ATUAÇÃO, ATRIBUIÇÕES E ÓRGÃOS
 
@@ -151,7 +259,7 @@ O presente diploma aprova a orgânica da Autoridade Regional para as Condições
 
 1 - A ARCT é um serviço central de controlo, auditoria e fiscalização, da administração direta da Região Autónoma da Madeira, integrado na estrutura da Secretaria Regional de Inclusão, Trabalho e Juventude, a que se refere a alínea e) do n.º 1 do artigo 6.º do [Decreto Regulamentar Regional n.º 26/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2024-891867288), de 21 de outubro, retificado pela [Declaração de Retificação n.º 2/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2024-893782293), de 29 de outubro.
 
-2 - A ARCT desenvolve a sua ação inspetiva no âmbito de poderes de autoridade pública de acordo com os princípios vertidos nas Convenções n.<sup>os</sup>81, 129 e 155 da Organização Internacional do Trabalho, ratificadas pelo Estado Português, através do [Decreto-Lei n.º 44148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44148-1962-642569), de 6 de janeiro de 1962, e dos Decretos do Governo n.<sup>os</sup>[91/81](https://diariodarepublica.pt/dr/detalhe/decreto/91-1981-579735) e [1/85](https://diariodarepublica.pt/dr/detalhe/decreto-governo/1-1985-328993), de 17 de julho e de 16 de janeiro, respetivamente, dispondo para o efeito de autonomia técnica e de independência.
+2 - A ARCT desenvolve a sua ação inspetiva no âmbito de poderes de autoridade pública de acordo com os princípios vertidos nas Convenções n.os81, 129 e 155 da Organização Internacional do Trabalho, ratificadas pelo Estado Português, através do [Decreto-Lei n.º 44148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44148-1962-642569), de 6 de janeiro de 1962, e dos Decretos do Governo n.os[91/81](https://diariodarepublica.pt/dr/detalhe/decreto/91-1981-579735) e [1/85](https://diariodarepublica.pt/dr/detalhe/decreto-governo/1-1985-328993), de 17 de julho e de 16 de janeiro, respetivamente, dispondo para o efeito de autonomia técnica e de independência.
 
 3 - A ARCT tem por missão a promoção da melhoria das condições de trabalho, através do controlo do cumprimento das normas em matéria laboral e de segurança e saúde no trabalho.
 
@@ -263,11 +371,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 14 de novembro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 22 de novembro de 2024.**
+Assinado em 22 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -277,3 +385,5 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 | --- | --- |
 | Cargos de direção superior de 1.º grau | 1 |
 | Cargos de direção intermédia de 1.º grau | 2 |
+
+118385084

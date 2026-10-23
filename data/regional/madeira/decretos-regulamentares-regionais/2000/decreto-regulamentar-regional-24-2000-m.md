@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/072b00/12061225.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/2000/03/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2000-508584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a96bcf224371694164fd5b08e8be8b8066df86db9ce900fec8a805ab7cd2b17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00c77820d0b0ca9c98955ea34c483e71aea439a7fff5aa0d3c69496a7dfe33a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional do Turismo e Cultura
 - Centro de Estudos de História do Atlântico
-- Governo Regional
 - Conselho Regional da Cultura e Animação
 - Conselho Regional do Turismo
-- Direcção Regional dos Assuntos Culturais
 - Direcção Regional de Turismo
-- Orgânica
+- Direcção Regional dos Assuntos Culturais
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional do Turismo e Cultura
 relationships:
 - type: amended_by
   target: pt:dre:693182:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187705:por
+  label: "Condiderados automáticamente alterados, em função das disposições do presente diploma, os quadros de pessoal das\
+    \ Direcçoes Regionais de Turismo e dos Assuntos Culturais pelo DRR.10/2002/M.2002.06.17.PG-RAM, DR.IS-B [165] de 19/Jul/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2002-187705
+  date: '2002-06-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
   label: null
@@ -120,16 +127,122 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:150320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683043:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:522263:por
+  label: "Rectificado pela DECL-RECT.6-Q/2000.2000.05.31.PCM, DR.IS-B [126]3ºSupl. de 31/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-q-2000-522263
+  date: '2000-05-31'
+- type: repealed_by
+  target: pt:dre:693182:por
+  label: "Revogado pelo DRR.14/2003/M.2003.06.06.PG-RAM, DR.IS-B [148] de 30/Jun/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2003-693182
+  date: '2003-06-06'
 article_structure:
-  article_count: 42
-  section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 58
+  section_count: 49
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:32Z'
   warnings: []
   errors: []
 ---
@@ -378,7 +491,9 @@ c) Secção de Administração Geral e Arquivo (SAGA);
 
 d) Secção de Pessoal (SP).
 
-##### SUBSECÇÃO I — Artigo 11.º
+##### SUBSECÇÃO I
+
+###### Artigo 11.º
 
 Departamento de Orçamento e Receitas
 
@@ -396,7 +511,9 @@ d) Controlar as requisições de fundos dos serviços autónomos;
 
 e) Controlar a emissão de quaisquer títulos de receitas, bem como a arrecadação das mesmas, nos serviços não autónomos.
 
-##### SUBSECÇÃO II — Artigo 12.º
+##### SUBSECÇÃO II
+
+###### Artigo 12.º
 
 Departamento de Contabilidade e Património
 
@@ -412,9 +529,11 @@ c) Organizar e manter actualizado o inventário dos bens móveis confiados ao GS
 
 d) Arrecadar as eventuais receitas legais da DSA e assegurar a sua entrega regular no departamento competente do Governo Regional.
 
-##### SUBSECÇÃO III — Artigo 13.º
+##### SUBSECÇÃO III
 
-#### Secção de Administração Geral e Arquivo
+###### Artigo 13.º
+
+Secção de Administração Geral e Arquivo
 
 1 - A SAGA, com competência nas áreas de administração geral, é chefiada por um chefe de secção.
 
@@ -428,7 +547,9 @@ c) Assegurar a aquisição e gestão do material e equipamento necessários ao f
 
 d) Assegurar o serviço de expedição e arquivo de toda a correspondência e demais documentação do GSR.
 
-##### SUBSECÇÃO IV — Artigo 14.º
+##### SUBSECÇÃO IV
+
+###### Artigo 14.º
 
 #### Secção de Pessoal
 
@@ -520,7 +641,9 @@ d) Direcção de Serviços de Animação Turística (DSAT);
 
 e) Núcleo de Serviços de Turismo do Porto Santo (NSTPS).
 
-##### SUBSECÇÃO I — Artigo 19.º
+##### SUBSECÇÃO I
+
+###### Artigo 19.º
 
 Director regional
 
@@ -538,7 +661,9 @@ d) Executar tudo o mais que lhe for expressamente cometido por disposição lega
 
 3 - O director regional é substituído nas suas ausências ou impedimentos pelo dirigente da DRT para o efeito designado.
 
-##### SUBSECÇÃO II — Artigo 20.º
+##### SUBSECÇÃO II
+
+###### Artigo 20.º
 
 Departamento Administrativo
 
@@ -552,7 +677,9 @@ b) Secção de Pessoal (SP);
 
 c) Secção de Contabilidade e Património (SCP).
 
-###### Artigo 21.º — Secção de Administração Geral e Arquivo
+###### Artigo 21.º
+
+#### Secção de Administração Geral e Arquivo
 
 À SAGA compete:
 
@@ -564,7 +691,9 @@ c) Assegurar a aquisição e gestão do material e equipamento necessários ao f
 
 d) Assegurar o serviço de expedição e arquivo de toda a correspondência e demais documentação.
 
-###### Artigo 22.º — Secção de Pessoal
+###### Artigo 22.º
+
+#### Secção de Pessoal
 
 À SP compete:
 
@@ -572,7 +701,9 @@ a) Executar os actos respeitantes à administração do pessoal;
 
 b) Organizar e manter actualizado o registo biográfico do pessoal.
 
-###### Artigo 23.º — Secção de Contabilidade e Património
+###### Artigo 23.º
+
+#### Secção de Contabilidade e Património
 
 À SCP compete:
 
@@ -586,7 +717,9 @@ d) Organizar e manter actualizado o inventário dos bens duradouros, segundo as 
 
 e) Arrecadar as receitas legais e assegurar a sua entrega regular no departamento competente do Governo Regional.
 
-##### SUBSECÇÃO III — Artigo 24.º
+##### SUBSECÇÃO III
+
+###### Artigo 24.º
 
 Direcção de Serviços de Empreendimentos e Actividades Turísticas
 
@@ -602,7 +735,9 @@ a) Divisão de Empreendimentos Turísticos (DET);
 
 b) Divisão de Actividades Turísticas (DAT).
 
-###### Artigo 25.º — Divisão de Empreendimentos Turísticos
+###### Artigo 25.º
+
+##### Divisão de Empreendimentos Turísticos
 
 À DET compete:
 
@@ -632,7 +767,9 @@ c) Estudar e propor os prazos de início e conclusão de obras justificativas de
 
 d) Participar nas actividades das comissões de estudo e elaboração dos planos de obras das zonas de jogo e dar parecer sobre os mesmos planos.
 
-###### Artigo 26.º — Divisão de Actividades Turísticas
+###### Artigo 26.º
+
+##### Divisão de Actividades Turísticas
 
 À DAT compete:
 
@@ -678,7 +815,9 @@ c) Accionar os assuntos referentes a jogo cuja competência esteja atribuída, p
 
 d) Tratar e acompanhar os demais assuntos do âmbito do jogo, de harmonia com o estatuído nas disposições legais aplicáveis.
 
-##### SUBSECÇÃO IV — Artigo 27.º
+##### SUBSECÇÃO IV
+
+###### Artigo 27.º
 
 Direcção de Serviços de Promoção Turística
 
@@ -694,7 +833,9 @@ b) Divisão de Promoção e Relações Públicas (DPRP).
 
 4 - O pessoal recepcionista em serviço nos postos de turismo usa, obrigatoriamente, uniforme, cujo modelo e respectivas normas de utilização são fixados por portaria do Secretário Regional do Turismo e Cultura.
 
-###### Artigo 28.º — Divisão de Estudos, Planeamento e Informação Turísticas
+###### Artigo 28.º
+
+##### Divisão de Estudos, Planeamento e Informação Turísticas
 
 À DEPIT compete:
 
@@ -746,7 +887,9 @@ e) Promover a defesa do consumidor, através de divulgação de informações so
 
 f) Assegurar a gestão de stocks de todos os materiais promocionais, garantindo a sua reposição sistemática.
 
-###### Artigo 29.º — Divisão de Promoção e Relações Públicas
+###### Artigo 29.º
+
+##### Divisão de Promoção e Relações Públicas
 
 À DPRP compete:
 
@@ -780,7 +923,9 @@ f) Coordenar as actividades e pessoal dos postos de turismo da DRT;
 
 g) Assegurar o protocolo em todos os eventos realizados pela DRT.
 
-##### SUBSECÇÃO V — Artigo 30.º
+##### SUBSECÇÃO V
+
+###### Artigo 30.º
 
 Direcção de Serviços de Animação Turística
 
@@ -788,7 +933,9 @@ Direcção de Serviços de Animação Turística
 
 2 - A DSAT é dirigida por um director de serviços e compreende a Divisão de Eventos e Material de Animação (DEMA), dirigida por um chefe de divisão.
 
-###### Artigo 31.º — Divisão de Eventos e Material de Animação
+###### Artigo 31.º
+
+##### Divisão de Eventos e Material de Animação
 
 À DEMA compete:
 
@@ -804,7 +951,9 @@ e) Manter actualizado o inventário de todo o material utilizado nas acções de
 
 f) Zelar pela conservação do material referido na alínea anterior.
 
-##### SUBSECÇÃO VI — Artigo 32.º
+##### SUBSECÇÃO VI
+
+###### Artigo 32.º
 
 Núcleo de Serviços de Turismo do Porto Santo
 
@@ -842,7 +991,9 @@ d) Direcção de Serviços de Museus (DSM);
 
 e) Inspecção Regional de Espectáculos (IRE).
 
-##### SUBSECÇÃO I — Artigo 35.º
+##### SUBSECÇÃO I
+
+###### Artigo 35.º
 
 Director regional
 
@@ -860,9 +1011,11 @@ d) Executar tudo o mais que lhe for expressamente cometido por disposição lega
 
 3 - O director regional é substituído nas suas ausências ou impedimentos pelo dirigente da DRAC para o efeito designado.
 
-##### SUBSECÇÃO II — Artigo 36.º
+##### SUBSECÇÃO II
 
-##### Divisão de Serviços Administrativos
+###### Artigo 36.º
+
+Divisão de Serviços Administrativos
 
 1 - A DSAD é a unidade orgânica de apoio administrativo, no âmbito das competências do director regional, nas áreas de administração geral e de pessoal, orçamento, contabilidade e património.
 
@@ -876,7 +1029,9 @@ c) Secção de Orçamento e Receitas (SOR);
 
 d) Secção de Contabilidade e Património (SCP).
 
-###### Artigo 37.º — Secção de Administração Geral e Arquivo
+###### Artigo 37.º
+
+#### Secção de Administração Geral e Arquivo
 
 À SAGA compete:
 
@@ -888,7 +1043,9 @@ c) Assegurar a aquisição e gestão do material e equipamento necessários ao f
 
 d) Assegurar o serviço de expedição e arquivo de toda a correspondência e demais documentação.
 
-###### Artigo 38.º — Secção de Pessoal
+###### Artigo 38.º
+
+#### Secção de Pessoal
 
 À SP compete:
 
@@ -896,7 +1053,9 @@ a) Executar os actos respeitantes à administração do pessoal;
 
 b) Organizar e manter actualizado o registo biográfico do pessoal.
 
-###### Artigo 39.º — Secção de Orçamento e Receitas
+###### Artigo 39.º
+
+#### Secção de Orçamento e Receitas
 
 À SOR compete:
 
@@ -906,7 +1065,9 @@ b) Prestar informação de cabimento orçamental referente a todas as despesas, 
 
 c) Arrecadar as receitas legais e assegurar a sua entrega regular no departamento competente do Governo Regional.
 
-###### Artigo 40.º — Secção de Contabilidade e Património
+###### Artigo 40.º
+
+#### Secção de Contabilidade e Património
 
 À SCP compete:
 
@@ -914,7 +1075,9 @@ a) Processar as remunerações e outros abonos devidos ao pessoal, bem como as d
 
 b) Organizar e manter actualizado o inventário dos bens duradouros, segundo as normas estipuladas.
 
-##### SUBSECÇÃO III — Artigo 41.º
+##### SUBSECÇÃO III
+
+###### Artigo 41.º
 
 Direcção de Serviços do Património e Actividades Culturais
 
@@ -928,7 +1091,9 @@ b) Divisão de Animação e Divulgação Culturais (DADC);
 
 c) Divisão de Publicações (DP).
 
-###### Artigo 42.º — Divisão de Protecção do Património Cultural
+###### Artigo 42.º
+
+##### Divisão de Protecção do Património Cultural
 
 À DPPC compete:
 
@@ -946,7 +1111,9 @@ f) Superintender tecnicamente em trabalhos de conservação ou restauro de peça
 
 g) Desenvolver acções de divulgação do património cultural da RAM.
 
-###### Artigo 43.º — Divisão de Animação e Divulgação Culturais
+###### Artigo 43.º
+
+##### Divisão de Animação e Divulgação Culturais
 
 1 - À DADC compete:
 
@@ -968,7 +1135,9 @@ c) Os núcleos de exposições de obras artísticas, na galeria do edifício sed
 
 d) A Casa do Artista, no Solar de São Cristóvão, concelho de Machico, criada pela Resolução n.º 106/2000, de 27 de Janeiro, do Conselho do Governo Regional, e que possui regulamento próprio.
 
-###### Artigo 44.º — Divisão de Publicações
+###### Artigo 44.º
+
+##### Divisão de Publicações
 
 À DP compete:
 
@@ -980,7 +1149,9 @@ c) Dar parecer sobre projectos editoriais, visando a afirmação da identidade c
 
 d) Fomentar o intercâmbio de publicações de âmbito cultural.
 
-##### SUBSECÇÃO IV — Artigo 45.º
+##### SUBSECÇÃO IV
+
+###### Artigo 45.º
 
 Direcção de Serviços de Bibliotecas e Arquivos
 
@@ -1060,7 +1231,9 @@ f) Prescrita por disposição legal.
 
 3 - A incorporação da documentação dos órgãos referidos nas alíneas b), c) e d) do número anterior é feita de acordo com o disposto nos artigos 38.º do Código do Registo Civil, 34.º do Código do Notariado e 2.º do Regulamento de Conservação e Eliminação de Documentos em Arquivos nos Tribunais Judiciais ([Portaria n.º 1003/99](https://diariodarepublica.pt/dr/detalhe/portaria/1003-1999-683043), de 10 de Novembro, que aprova o Regulamento de Conservação Arquivística dos Tribunais Judiciais).
 
-##### SUBSECÇÃO V — Artigo 49.º
+##### SUBSECÇÃO V
+
+###### Artigo 49.º
 
 Direcção de Serviços de Museus
 
@@ -1102,7 +1275,9 @@ e) Colaborar e cooperar com entidades públicas e privadas, em ordem a assegurar
 
 6 - A DSM deve possuir um regulamento de funcionamento dos seus museus e núcleos museológicos, salvaguardando a especificidade de cada um, sujeito a aprovação do director regional dos Assuntos Culturais.
 
-##### SUBSECÇÃO VI — Artigo 50.º
+##### SUBSECÇÃO VI
+
+###### Artigo 50.º
 
 Inspecção Regional de Espectáculos
 
@@ -1212,11 +1387,11 @@ Aprovado em Conselho do Governo Regional em 10 de Fevereiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 2 de Março de 2000.**
+Assinado em 2 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 QUADROS DE PESSOAL
 

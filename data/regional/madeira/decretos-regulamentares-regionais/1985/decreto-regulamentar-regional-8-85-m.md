@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1985-325544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aaa700db1872c0c00c8cbe41b61b7af947b469ded7bfb4290e37ce955c549332
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cef80e7c9323d8e0b4cb7e3189a08db895bfcd750d953d3945c75ccadb3fd17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Preparatório
+- Ensino Secundário
+- Madeira.região Autónoma
+- Serviços Administrativos
+relationships:
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472514:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:38Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +117,9 @@ Considerando a competência cometida aos órgãos do Governo da Região Autónom
 
 Nos termos da alínea b) do artigo 229.º da Constituição da República Portuguesa, o Governo Regional decreta o seguinte:
 
-###### Artigo 1.º É aplicado à Região Autónoma da Madeira o disposto no artigo 1.º do [Decreto-Lei n.º 189/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1984-386423), de 8 de Junho.
+Artigo 1.º É aplicado à Região Autónoma da Madeira o disposto no artigo 1.º do [Decreto-Lei n.º 189/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1984-386423), de 8 de Junho.
 
-###### Art. 2.º - 1 - As atribuições dos serviços administrativos dos estabelecimentos de ensino preparatório, secundário e da Escola do Magistério Primário do Funchal, bem como as competências do chefe de serviços administrativos, categoria criada pelo [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), de 24 de Julho, e do tesoureiro, serão definidas por portaria conjunta do Presidente do Governo Regional e do Secretário Regional de Educação.
+Art. 2.º - 1 - As atribuições dos serviços administrativos dos estabelecimentos de ensino preparatório, secundário e da Escola do Magistério Primário do Funchal, bem como as competências do chefe de serviços administrativos, categoria criada pelo [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), de 24 de Julho, e do tesoureiro, serão definidas por portaria conjunta do Presidente do Governo Regional e do Secretário Regional de Educação.
 
 2 - As regras de funcionamento dos serviços administrativos, bem como os impressos a utilizar pelos mesmos, serão fixadas por portaria do Secretário Regional de Educação.
 
@@ -107,10 +127,10 @@ Nos termos da alínea b) do artigo 229.º da Constituição da República Portug
 
 Aprovado em Conselho do Governo Regional em 14 de Fevereiro de 1985.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 6 de Março de 1985.**
+Assinado em 6 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

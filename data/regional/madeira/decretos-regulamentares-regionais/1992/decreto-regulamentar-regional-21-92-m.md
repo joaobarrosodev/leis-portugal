@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/1992/08/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1992-261327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9528eeea13129a295287f98f5128ffccbc22323f5b773b980ba05a5722d874da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 715fb5afe0cceb1e5fdf47bbcd0e7f65e2d5bed681002ce49bb27ff859263e29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:29Z'
   warnings: []
   errors: []
 ---
@@ -101,18 +105,18 @@ Considerando ainda que do protocolo em referência e das negociações posterior
 
 O Conselho do Governo decreta, ao abrigo da alínea h) do n.º 1 do artigo 229.º da Constituição e das alíneas d) e i) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
 
-###### Artigo 1.º Pelo presente diploma fica a Vice-Presidência do Governo Regional e Coordenação Económica, em representação da Região Autónoma da Madeira, autorizada com outras entidades de direito público e privado, a praticar todos os actos necessários à promoção da criação do CITMA - Centro de Ciência e Tecnologia da Madeira, associação de direito privado sem fins lucrativos, e a participar no respectivo património social na qualidade de associado fundador.
+Artigo 1.º Pelo presente diploma fica a Vice-Presidência do Governo Regional e Coordenação Económica, em representação da Região Autónoma da Madeira, autorizada com outras entidades de direito público e privado, a praticar todos os actos necessários à promoção da criação do CITMA - Centro de Ciência e Tecnologia da Madeira, associação de direito privado sem fins lucrativos, e a participar no respectivo património social na qualidade de associado fundador.
 
-###### Art. 2.º Por efeito do disposto no número anterior, fica ainda a Vice-Presidência do Governo Regional e Coordenação Económica obrigada, em nome da Região Autónoma da Madeira, ao cumprimento das obrigações estatutárias e regulamentares, bem como das deliberações dos respectivos órgãos sociais, tendo em vista a normal prossecução dos fins da associação.
+Art. 2.º Por efeito do disposto no número anterior, fica ainda a Vice-Presidência do Governo Regional e Coordenação Económica obrigada, em nome da Região Autónoma da Madeira, ao cumprimento das obrigações estatutárias e regulamentares, bem como das deliberações dos respectivos órgãos sociais, tendo em vista a normal prossecução dos fins da associação.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte à sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado em Conselho do Governo Regional em 9 de Julho de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 1 de Agosto de 1992.**
+Assinado em 1 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

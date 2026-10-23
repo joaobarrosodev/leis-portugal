@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2001/07/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2001-348524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81f913825a0a7b30180da99f7f4e2739c81535901adcf54a7a2171814bcef69f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01167bd78cd0a5e2ce0c71db9b4c76eb9ec17388aa8d78b99b1924d9229b1cfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Inspecção Regional do Trabalho
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:897994601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:635592:por
+  label: "Alterados os arts. 29º a 37º, 39º e 40º do Estatuto e Orgânica e o quadro de pessoal anexo II, pelo DRR.14/2002/M.2002.08.23.PG-RAM,\
+    \ DR.IS-B [215] de 17/Set/2002\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2002-635592
+  date: '2002-08-23'
+- type: amended_by
+  target: pt:dre:178505:por
+  label: "Mantidos em vigor os arts. 18º a 23º, 27º e 29º a 48º, pelo DRR.12/2012/M.22.06.2012.PG-RAM, DR.IS [120] de 22.06.2012,\
+    \ nos termos do art. 9º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2012-178505
+  date: '2012-06-22'
+- type: amended_by
+  target: pt:dre:74316109:por
+  label: Mantidos em vigor os arts. 18.º a 23.º, 27.º e 29.º a 48.º, pelo(a) Decreto Regulamentar Regional n.º 14/2016/M -
+    Diário da República n.º 84/2016, Série I de 2016-05-02, nos termos do n.º 2 do seu art. 13.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2016-74316109
+  date: '2016-05-02'
+- type: amended_by
+  target: pt:dre:897994601:por
+  label: Determinada a manutenção em vigor dos artigos 18.º a 23.º, 27.º e 29.º a 48.º pelo(a) Decreto Regulamentar Regional
+    n.º 36/2024/M - Diário da República n.º 230/2024, Série I de 2024-11-27, nos termos do n.º 2 do artigo 10.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-2024-897994601
+  date: '2024-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/2000/06/02/p/dre
   label: null
@@ -115,16 +139,87 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649480:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:684808:por
+  label: "Rectificado pela DECL-RECT.14-I/2001.2001.07.31.PCM, DR.IS-B [176]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-i-2001-684808
+  date: '2001-07-31'
+- type: repealed_by
+  target: pt:dre:396900:por
+  label: "Revogado o presente diploma, na redacção do DRR 14/2002/M, de 17-Set, pelo DRR.1/2009/M.08.01.2009.PG-RAM, DR.IS\
+    \ [5] de 08.01.2009, sem prejuízo do disposto no nº2 do seu art. 23º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2009-396900
+  date: '2009-01-08'
 article_structure:
   article_count: 60
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:43Z'
   warnings: []
   errors: []
 ---
@@ -173,11 +268,11 @@ Aprovado em Conselho do Governo Regional em 31 de Maio de 2001.
 
 O Vice-Presidente do Governo Regional, em exercício da Presidência, João Carlos Cunha e Silva.
 
-**Assinado em 19 de Junho de 2001.**
+Assinado em 19 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Estatuto e orgânica da Inspecção Regional do Trabalho
 
@@ -805,6 +900,6 @@ O provimento na categoria de encarregado de instalações e equipamentos é feit
 
 6 - Os funcionários e agentes que se aposentaram durante o ano de 1998 e até à entrada em vigor do presente diploma terão a sua pensão de aposentação calculada com base no índice que couber ao escalão em que ficarem posicionados.
 
-## ANEXO I — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)
+## ANEXO I — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)
 
-## ANEXO II — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)
+## ANEXO II — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)

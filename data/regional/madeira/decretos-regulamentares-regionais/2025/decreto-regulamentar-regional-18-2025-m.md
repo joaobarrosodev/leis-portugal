@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/11/21300/0009000095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2025/11/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2025-944098805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 771e6a0adc7c82022ff1817a1c5ca4ea89fc83de85eaa151b44150854f80e855
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e871a50e4e6864dedda8b35e41b7887ac77c6ac15561250c1b6559de6e0ee24a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Presidente
-- Madeira.região Autónoma
-- Secretário Regional da Economia
 - Conselho Consultivo de Economia
+- Definição de Competências
+- Madeira.região Autónoma
+- Presidente
+- Secretário Regional da Economia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
@@ -95,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916745909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:921363346:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:55Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +145,7 @@ A transversalidade do conhecimento inerente ao setor económico, bem como das in
 
 Consequentemente, o presente diploma procede à criação do Conselho Consultivo de Economia, com a definição da natureza, competências e composição, bem como o estatuto deste órgão.
 
-Assim, nos termos do disposto na alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, na alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, no n.º 4 do artigo 7.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua atual redação e no n.º 2 do artigo 5.º do [Decreto Regulamentar Regional n.º 7/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2025-921363346), de 13 de junho, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos do disposto na alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, na alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, no n.º 4 do artigo 7.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua atual redação e no n.º 2 do artigo 5.º do [Decreto Regulamentar Regional n.º 7/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2025-921363346), de 13 de junho, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
@@ -317,10 +341,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 16 de outubro de 2025.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 31 de outubro de 2025.**
+Assinado em 31 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+119721657

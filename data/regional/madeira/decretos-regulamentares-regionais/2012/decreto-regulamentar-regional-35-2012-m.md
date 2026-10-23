@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/35/2012/12/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2012-189956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70c3397e6a3b67bd1adab76f99e74bcea03d85b50874fe459fa00fb05d15d56c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e518d1d1ce8406a34a99caae7c0271aa6ca7d36d3dc7545ef8b7f48c72c86bee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Conservatório-escola Profissional das Artes da Madeira
 - Definição de Competências
 - Direção
-- Gestão Escolar
-- Gestão do Património
-- Orgânica
-- Pessoal não Docente
-- Pessoal Docente
-- Presidente
-- Madeira.região Autónoma
 - Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Escolar
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Pessoal Docente
+- Pessoal não Docente
+- Presidente
 relationships:
 - type: amended_by
   target: pt:dre:123770992:por
@@ -123,16 +123,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/1998/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/1998/01/12/p/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667338:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:123770992:por
+  label: Revogado, na redacção do presente diploma, nos termos do art. 2.º, o DRR 13/2012/M, de 22-jun, pelo(a) Decreto Regulamentar
+    Regional n.º 5/2019/M - Diário da República n.º 150/2019, Série I de 2019-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2019-123770992
+  date: '2019-08-07'
 article_structure:
-  article_count: 39
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 30
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:46Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +223,9 @@ c)...;
 
 d)...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O CEPAM é dirigido por uma direção constituída por três elementos, sendo um presidente e dois diretores sectoriais.
 
@@ -199,7 +247,9 @@ c)...
 
 7 - O diretor setorial da área dos recursos humanos, espaços e administração é equiparado para todos os efeitos legais, a cargo de direção intermédia de 2.º grau.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1-...:
 
@@ -259,7 +309,9 @@ b) Ensino artístico especializado.
 
 3- O presidente da direção pode, nos termos da lei, delegar competências em titulares de cargos de direção ou chefia.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 -...:
 
@@ -275,7 +327,9 @@ e)...
 
 2 - Na dependência do Diretor sectorial funciona o serviço de produção, comunicação e relações externas.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 -...:
 
@@ -305,7 +359,9 @@ c)...;
 
 d)...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1-...:
 
@@ -337,7 +393,9 @@ e)...;
 
 f)...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1-...:
 
@@ -371,7 +429,9 @@ i)...
 
 4- O CA é secretariado pelo Chefe de Serviços de Administração Escolar do Núcleo de Contabilidade, Tesouraria, Património e Economato.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O gabinete de recursos humanos e assessoria jurídica é o serviço de apoio à Direção, o qual funciona na dependência direta do presidente e a quem compete, nomeadamente:
 
@@ -385,13 +445,17 @@ c)...
 
 3 - O coordenador do gabinete de recursos humanos e assessoria jurídica é equiparado para todos os efeitos legais, a cargo de direção intermédia de 2.º grau.
 
-###### Artigo 15.º — Núcleo de Administração Geral, Pessoal e Secretariado
+Artigo 15.º
+
+Núcleo de Administração Geral, Pessoal e Secretariado
 
 1- O Núcleo de Administração Geral, Pessoal e Secretariado (NAGPS) é o órgão de apoio à direção nas áreas de administração geral, pessoal e secretariado, na direta dependência do diretor sectorial da área dos recursos humanos, espaços e administração.
 
 2- O NAGPS é dirigido por um assistente técnico e na sua dependência funciona a secção de administração geral, pessoal e secretariado (SAGPS).
 
-###### Artigo 17.º — Núcleo de Contabilidade, Tesouraria, Património e Economato
+Artigo 17.º
+
+Núcleo de Contabilidade, Tesouraria, Património e Economato
 
 1 - O Núcleo de Contabilidade, Tesouraria, Património e Economato (NCTPE) é o órgão de apoio à direção nas áreas de orçamento, tesouraria, património e economato, na direta dependência do diretor sectorial da área financeira e de património.
 
@@ -411,11 +475,11 @@ O presente diploma entra em vigor a partir da data de entrada em vigor do Orçam
 
 Aprovado em Conselho do Governo Regional em 22 de novembro de 2012.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 23 de novembro de 2012.**
+Assinado em 23 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -711,7 +775,9 @@ c) Promover, de modo adequado, a recolha, compilação, sistematização, tratam
 
 2- O NAGPS é dirigido por um assistente técnico e na sua dependência funciona a secção de administração geral, pessoal e secretariado (SAGPS).
 
-###### Artigo 16.º — Secção de Administração Geral, Pessoal e Secretariado
+###### Artigo 16.º
+
+#### Secção de Administração Geral, Pessoal e Secretariado
 
 À Secção de Administração Geral, Pessoal e Secretariado (SAGPS) compete:
 
@@ -733,7 +799,9 @@ f) Assegurar o apoio adequado ao funcionamento das aulas.
 
 2 - O NCTPE é dirigido por um Chefe de Serviços de Administração Escolar e na sua dependência funciona a Secção de Contabilidade, Tesouraria, Património e Economato (SCTPE).
 
-###### Artigo 18.º — Secção de Contabilidade, Tesouraria, Património e Economato
+###### Artigo 18.º
+
+#### Secção de Contabilidade, Tesouraria, Património e Economato
 
 À Secção de Contabilidade, Tesouraria, Património e Economato (SCTPE) compete:
 

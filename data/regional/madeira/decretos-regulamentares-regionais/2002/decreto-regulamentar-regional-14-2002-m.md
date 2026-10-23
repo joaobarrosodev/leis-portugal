@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2002/09/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7a5859793b332f6e98f8791a2e4cc20432c23be64234e72d3ad54d2b2c9fedf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46c8d9cf574a063c7537e2d06e183eca95126219b6df72345d014d10709face6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto
-- Sistema Retributivo
 - Carreira Profissional
-- Remuneração Acessória
 - Descrição de Funções
-- Pessoal de Inspecção
+- Estatuto
+- Inspecção Regional do Trabalho
 - Madeira.região Autónoma
+- Pessoal de Inspecção
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 - Remuneração
-- Inspecção Regional do Trabalho
+- Remuneração Acessória
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:897994601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178505:por
+  label: "Mantidos em vigor os arts. 2º a 4º, 6º e anexos I e II, pelo DRR.12/2012/M.22.06.2012.PG-RAM, DR.IS [120] de 22.06.2012,\
+    \ nos termos do art. 9º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2012-178505
+  date: '2012-06-22'
+- type: amended_by
+  target: pt:dre:74316109:por
+  label: Mantidos em vigor os arts. 2.º a 4.º e 6.º e anexos I e II, pelo(a) Decreto Regulamentar Regional n.º 14/2016/M -
+    Diário da República n.º 84/2016, Série I de 2016-05-02 nos termos do n.º 3 do seu art. 13.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2016-74316109
+  date: '2016-05-02'
+- type: amended_by
+  target: pt:dre:897994601:por
+  label: Determinada a manutenção em vigor dos artigos 2.º a 4.º e 6.º e dos anexos i e ii pelo(a) Decreto Regulamentar Regional
+    n.º 36/2024/M - Diário da República n.º 230/2024, Série I de 2024-11-27, nos termos do n.º 3 do artigo 10.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-2024-897994601
+  date: '2024-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
   label: null
@@ -122,16 +140,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:254592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:396900:por
+  label: "Revogado o DRR 17/2001/M, de 09-Jul, na redacção do presente diploma, pelo DRR.1/2009/M.08.01.2009.PG-RAM, DR.IS\
+    \ [5] de 08.01.2009, sem prejuízo do disposto no nº2 do seu art. 23º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2009-396900
+  date: '2009-01-08'
 article_structure:
-  article_count: 16
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:53Z'
   warnings: []
   errors: []
 ---
@@ -166,11 +234,15 @@ b) Transitoriamente, e enquanto haja funcionários nelas integrados, as carreira
 
 2 - As vagas que forem ocorrendo nas carreiras referidas na alínea b) do número anterior transitam, automaticamente, para a carreira de inspector superior do trabalho.
 
-###### Artigo 30.º — Carreira de inspector superior do trabalho
+Artigo 30.º
+
+Carreira de inspector superior do trabalho
 
 Integram a carreira de inspector superior do trabalho as categorias de inspector superior principal, inspector superior, inspector principal e inspector.
 
-###### Artigo 31.º — Condições de ingresso e de acesso na carreira de inspector superior do trabalho
+Artigo 31.º
+
+Condições de ingresso e de acesso na carreira de inspector superior do trabalho
 
 1 - O ingresso na carreira de inspector superior do trabalho faz-se, em regra, para a categoria de inspector de entre indivíduos habilitados com licenciatura considerada adequada e aprovados em estágio, com classificação não inferior a Bom (14 valores), sem prejuízo do disposto no n.º 1 do artigo 36.º
 
@@ -182,11 +254,15 @@ b) Inspector superior, de entre inspectores principais com, pelo menos, três an
 
 c) Inspector principal, de entre inspectores com, pelo menos, três anos de serviço na categoria classificados de Bom.
 
-###### Artigo 32.º — Carreira de inspector técnico do trabalho
+Artigo 32.º
+
+Carreira de inspector técnico do trabalho
 
 Integram a carreira de inspector técnico do trabalho as categorias de inspector técnico especialista principal, inspector técnico especialista e inspector técnico principal.
 
-###### Artigo 33.º — Condições de acesso na carreira de inspector técnico do trabalho
+Artigo 33.º
+
+Condições de acesso na carreira de inspector técnico do trabalho
 
 O recrutamento para as categorias de acesso da carreira de inspector técnico do trabalho faz-se mediante concurso e obedece às seguintes regras:
 
@@ -194,11 +270,15 @@ a) Inspector técnico especialista principal, de entre inspectores técnicos esp
 
 b) Inspector técnico especialista, de entre inspectores técnicos principais com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
-###### Artigo 34.º — Carreira de inspector-adjunto do trabalho
+Artigo 34.º
+
+Carreira de inspector-adjunto do trabalho
 
 Integram a carreira de inspector-adjunto do trabalho as categorias de inspector-adjunto especialista principal, inspector-adjunto especialista, inspector-adjunto principal e inspector-adjunto.
 
-###### Artigo 35.º — Condições de acesso na carreira de inspector-adjunto do trabalho
+Artigo 35.º
+
+Condições de acesso na carreira de inspector-adjunto do trabalho
 
 O recrutamento para as categorias de acesso da carreira de inspector-adjunto do trabalho faz-se mediante concurso e obedece às seguintes regras:
 
@@ -208,7 +288,9 @@ b) Inspector-adjunto especialista, de entre inspectores-adjuntos principais com,
 
 c) Inspector-adjunto principal, de entre inspectores-adjuntos com, pelo menos, três anos de serviço na categoria classificados de Bom.
 
-###### Artigo 36.º — Estágio
+Artigo 36.º
+
+Estágio
 
 1 - A admissão ao estágio para ingresso na carreira de inspector superior do trabalho é feita mediante concurso, de entre indivíduos que satisfaçam, cumulativamente, os requisitos gerais de admissão e estejam habilitados com carta de condução de veículos ligeiros.
 
@@ -218,7 +300,9 @@ c) Inspector-adjunto principal, de entre inspectores-adjuntos com, pelo menos, t
 
 4 - A partir da nomeação a que se refere o número anterior e por causa que lhes seja imputável, os inspectores que não prestem o tempo de serviço correspondente à duração do estágio ficam obrigados a reembolsar a IRT de todas as despesas efectuadas com a sua formação.
 
-###### Artigo 37.º — Conteúdo funcional
+Artigo 37.º
+
+Conteúdo funcional
 
 1 - Os inspectores do trabalho concebem e desenvolvem metodologias e acções de informação, de aconselhamento e de controlo, no âmbito dos poderes de autoridade pública, nas empresas e outras organizações, com vista à promoção da melhoria das condições de trabalho.
 
@@ -264,11 +348,15 @@ a) Realizar trabalhos e estudos de apoio às decisões da competência do pessoa
 
 b) Assegurar a instrução de processos de averiguações, de inquéritos e disciplinares.
 
-###### Artigo 39.º — Remunerações
+Artigo 39.º
+
+Remunerações
 
 As escalas salariais das carreiras de inspecção do trabalho são as fixadas no anexo II do presente diploma, de acordo com o disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril.
 
-###### Artigo 40.º — Suplemento de função inspectiva
+Artigo 40.º
+
+Suplemento de função inspectiva
 
 1 - O pessoal das carreiras de inspecção e o pessoal dirigente ou equiparado nomeado para exercer funções de direcção sobre aquele pessoal têm direito a um suplemento de função inspectiva, para compensação dos ónus específicos inerentes ao seu exercício, no valor de 22,5% da respectiva remuneração de base.
 
@@ -314,11 +402,11 @@ Aprovado em Conselho do Governo Regional em 1 de Agosto de 2002.
 
 O Vice-Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 23 de Agosto de 2002.**
+Assinado em 23 de Agosto de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — MAPA DE TRANSIÇÃO
 

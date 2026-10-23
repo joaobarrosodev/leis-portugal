@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/24/2012/06/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/24-2012-178796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0e1312f081be0529bd644b9b66976d10a98bc1a32eadff0ac4a23d02568d7db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bd157dc7e55cdf339d6e4510c16fbdd1b9a0c3889370428e247543a000d6737
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Abastecimento
 - Abastecimento de BENS Essenciais
+- Direitos de Importação
+- IFAP
+- Importação
+- Madeira.região Autónoma
 - Ministro da Agricultura do MAR do Ambiente e do Ordenamento do Território
 - Pagamento
-- Importação
-- IFAP
-- Madeira.região Autónoma
-- Recomendação
-- Direitos de Importação
 - Produto Agrícola
+- Recomendação
 relationships:
 - type: cites
   target: celex:31991D0315
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:41Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +121,4 @@ Nestes termos, porque estes atrasos são de todo inconvenientes e incompreensív
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de maio de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.

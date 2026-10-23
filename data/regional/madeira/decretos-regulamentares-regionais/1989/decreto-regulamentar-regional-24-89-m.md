@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/26000/49744976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1989-549851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6ee2a4fece15c41dd07544818b64b67a73255204548c7c4f1812f9f2acd2d8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2025e41afe33d1e22b70ec771381a3847736ac51bb37f1ef3d2d6e22b003f0cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Inspecção Regional do Trabalho
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:649480:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 42, 43, 44, 47 E 49 DO ESTATUTO APROVADO PELO DRR 9/86/M DE 30-ABR NA REDACÇÃO CONSTANTE DO PREENETE\
+    \ DIPLOMA, PELO DRR 9/95/M DE 07-MAR DR.IS-B [92] DE 19/ABR/1995. REVOGADOS OS ART 51, 52, 55, 56 DO ESTATUTO APROVADO\
+    \ PELO DRR 9/86/M DE 30-ABR NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO DRR 9/95/M DE 07-MAR DR.IS-B [92] DE 19/ABRL/1995.\0\
+    [92] DE 19/ABRL/1995."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-04-19'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:649480:por
+  label: "Revogado pelo DRR.19/97/M.1997.08.25.PG-RAM DR.IS-B [215] de 1997.09.17T\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1997-649480
+  date: '1997-08-25'
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:05Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +137,7 @@ Nestes termos:
 
 Ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição, o Governo Regional da Madeira decreta o seguinte:
 
-###### Artigo 1.º Os artigos 42.º a 44.º, 47.º, 49.º, 51.º, 52.º, 55.º e 56.º do Estatuto da Inspecção Regional do Trabalho (IRT), aprovado pelo [Decreto Regulamentar Regional n.º 9/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1986-402923), de 30 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 42.º a 44.º, 47.º, 49.º, 51.º, 52.º, 55.º e 56.º do Estatuto da Inspecção Regional do Trabalho (IRT), aprovado pelo [Decreto Regulamentar Regional n.º 9/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1986-402923), de 30 de Abril, passam a ter a seguinte redacção:
 
 ###### Artigo 42.º — Natureza das carreiras
 
@@ -225,22 +261,22 @@ b) Para o grupo de técnicos, 560 horas, a efectuar em seis meses.
 
 2 - ...
 
-###### Art. 2.º O quadro de pessoal da IRT, anexo à [Portaria n.º 196/86](https://diariodarepublica.pt/dr/detalhe/portaria/196-1986-227578), de 19 de Dezembro, publicada no Jornal Oficial, 1.ª série, n.º 4, de 3 de Fevereiro de 1987, é alterado, na parte relativa ao pessoal técnico de inspecção, conforme mapa anexo ao presente diploma, do qual faz parte integrante.
+Art. 2.º O quadro de pessoal da IRT, anexo à [Portaria n.º 196/86](https://diariodarepublica.pt/dr/detalhe/portaria/196-1986-227578), de 19 de Dezembro, publicada no Jornal Oficial, 1.ª série, n.º 4, de 3 de Fevereiro de 1987, é alterado, na parte relativa ao pessoal técnico de inspecção, conforme mapa anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 3.º São revogados o n.º 3 do artigo 36.º, os artigos 37.º e 53.º, o n.º 3 do artigo 54.º e o n.º 2 do artigo 69.º do Estatuto da Inspecção Regional do Trabalho.
+Art. 3.º São revogados o n.º 3 do artigo 36.º, os artigos 37.º e 53.º, o n.º 3 do artigo 54.º e o n.º 2 do artigo 69.º do Estatuto da Inspecção Regional do Trabalho.
 
-###### Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1988, no que concerne às reclassificações e revalorizações nele estabelecidas.
+Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1988, no que concerne às reclassificações e revalorizações nele estabelecidas.
 
 Aprovado em Conselho do Governo Regional em 12 de Outubro de 1989.
 
 Pelo Presidente do Governo Regional, Miguel José Luís de Sousa, Vice-Presidente do Governo Regional.
 
-**Assinado em 26 de Outubro de 1989.**
+Assinado em 26 de Outubro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Mapa a que se refere o artigo 2.º do Decreto Regulamentar Regional n.º 24/89/M
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26000/49744976.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26000/49744976.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/26000/49744976.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/14000/0240902412.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2016/07/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2016-75020431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad63d844f89b5c25f0516ea7129642be8ce72def393b3cd6e9d55783cfbeea84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40cba7244d53675b549838ea19349f109841d0d19bdf0a588532560f1f8ac65f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
 subjects:
 - Cartório Notarial
 - Centro de Formalidades de Empresas
-- Pessoal Dirigente
 - Conservatória do Registo Automóvel
+- Conservatória do Registo Civil
 - Conservatória do Registo Comercial
-- Instituto dos Registos e do Notariado
 - Conservatória do Registo Predial
 - Definição de Competências
 - Direcção Regional da Administração da Justiça
 - Diretor Regional
-- Registos e Notariado
-- Orgânica
-- Porto Moniz
+- Instituto dos Registos e do Notariado
 - Madeira.região Autónoma
-- Conservatória do Registo Civil
+- Orgânica
+- Pessoal Dirigente
+- Porto Moniz
+- Registos e Notariado
 - Secretaria Regional dos Assuntos Parlamentares e Europeus
 relationships:
 - type: amended_by
@@ -126,16 +126,144 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/2005/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/2005/08/12/p/dre
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69782196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73230228:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:136053638:por
+  label: Revogados a al. j) do art. 3.º, a al. b) do art. 5.º e o art. 9.º pelo(a) Decreto Regulamentar Regional n.º 38/2020/M
+    - Diário da República n.º 117/2020, Série I de 2020-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/38-2020-136053638
+  date: '2020-06-18'
+- type: repealed_by
+  target: pt:dre:896791628:por
+  label: Revogado, a partir de 16 de novembro de 2024, pelo(a) Decreto Regulamentar Regional n.º 33/2024/M - Diário da República
+    n.º 222/2024, Série I de 2024-11-15 nos termos do artigo 20.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-2024-896791628
+  date: '2024-11-15'
 article_structure:
   article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:09Z'
   warnings: []
   errors: []
 ---
@@ -364,11 +492,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 9 de junho de 2016.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 28 de junho de 2016.**
+Assinado em 28 de junho de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -376,4 +504,4 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 (a que se refere o artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14000/0240902412.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14000/0240902412.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14000/0240902412.pdf)

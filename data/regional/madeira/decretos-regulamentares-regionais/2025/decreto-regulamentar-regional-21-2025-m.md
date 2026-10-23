@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/2025/11/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2025-949908824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7a1e67d19a1918699974f5b25d01718fe259d19f04c487c851bed70f0ccc3bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3d35007c15ad10e1b410b095fe76239651541fc9431d931434eb5c4c614fcc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Agência de Inovação e Modernização da Região Autónoma da Madeira
 - Definição de Competências
+- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
 - Gabinete do Secretário Regional das Finanças
 - Inspecção Regional de Finanças
 - Instituto de Desenvolvimento Regional
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Secretaria Regional das Finanças
-- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
-- Agência de Inovação e Modernização da Região Autónoma da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:1110002352:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:12/2025/M
+  label: Altera, a partir de 22 de novembro de 2025, o artigo 14.º e o anexo i do Decreto Regulamentar Regional n.º 12/2025/M,
+    de 1 de setembro, Diário da República n.º 167/2025, Série I
+  source: null
+  date: '2025-09-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/12/2025/09/01/m/dre
   label: null
@@ -100,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916745909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:933746511:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:56Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +148,7 @@ O [Decreto Regulamentar Regional n.º 12/2025/M](https://diariodarepublica.pt/dr
 
 Em conformidade, e alinhamento com a referida reestruturação da Direção Regional do Património, procede-se à alteração da orgânica da Secretaria Regional das Finanças, de modo a ajustá-la às modificações introduzidas naquela Direção.
 
-Assim, nos termos do n.º 1 do artigo 12.º do [Decreto Regulamentar Regional n.º 5/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2025-916745909), de 5 de maio, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, e das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira, decreta o seguinte:
+Assim, nos termos do n.º 1 do artigo 12.º do [Decreto Regulamentar Regional n.º 5/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2025-916745909), de 5 de maio, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, e das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira, decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -150,11 +176,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 6 de novembro de 2025.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 18 de novembro de 2025.**
+Assinado em 18 de novembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -164,7 +190,11 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 Cargos de direção superior da administração direta
 
-| Mapa de cargos dirigentes a que se refere o artigo 25.º | Número de lugares | Número de lugares |
+| Mapa de cargos dirigentes a que se refere o artigo 25.º | Número de lugares |  |
 | --- | --- | --- |
-| Cargos de direção superior de 1.º grau | [...] | [...] |
+| Cargos de direção superior de 1.º grau | [...] |  |
 | Cargos de direção superior de 2.º grau | 3 | » |
+
+119789399
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; }

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/15/2013/06/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/15-2013-497385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aaeefe372555c2f06fbe8ea4181ff7241353e879650ebe56167dfc0a93e77de7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c408fe585008a656d40fc03308c969535642aa66ee0f84ee367196c7b6076c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
+- Assembleia da República
 - Conselho Superior da Magistratura
 - Eleição Legislativa
+- Governo Regional
 - Juiz
-- Tribunal Constitucional
-- Assembleia da República
-- Partido Político
-- Supremo Tribunal de Justiça
 - Madeira.região Autónoma
 - Ministério Público
+- Partido Político
 - Revisão Constitucional
+- Supremo Tribunal de Justiça
 - Tribunal
+- Tribunal Constitucional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
+- type: cites
+  target: pt:dre:506783:por
+  label: null
+  source: null
 article_structure:
-  article_count: 54
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:51Z'
   warnings: []
   errors: []
 ---
@@ -228,7 +232,9 @@ Os artigos 6.º, 46.º, 51.º, 57.º, 84.º, 101.º, 103.º, 105.º, 112.º, 115
 
 2 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -238,7 +244,9 @@ Os artigos 6.º, 46.º, 51.º, 57.º, 84.º, 101.º, 103.º, 105.º, 112.º, 115
 
 4 - Não são consentidas associações armadas nem de tipo militar, militarizadas ou paramilitares, nem organizações racistas ou que perfilhem qualquer ideologia totalitária ou autoritária contrária ao Estado de Direito Democrático.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -252,7 +260,9 @@ Os artigos 6.º, 46.º, 51.º, 57.º, 84.º, 101.º, 103.º, 105.º, 112.º, 115
 
 6 - (Passa a 5.)
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - É garantido o direito à greve, exceto:
 
@@ -270,7 +280,9 @@ d) No setor da Saúde.
 
 4 - ...
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - ...
 
@@ -278,13 +290,17 @@ d) No setor da Saúde.
 
 3 - O regime, condições de utilização e limites do domínio público das Regiões Autónomas são fixados por lei regional.
 
-###### Artigo 101.º — (Sistema financeiro)
+Artigo 101.º
+
+(Sistema financeiro)
 
 1 - O sistema financeiro é estruturado pela lei, de modo a garantir a formação, a captação e a segurança das poupanças, bem como a aplicação dos meios financeiros necessários ao desenvolvimento económico e social.
 
 2 - As Regiões Autónomas são dotadas de sistema financeiro próprio, elaborado por leis regionais subordinadas aos princípios da Constituição e do respetivo Estatuto Político-Administrativo.
 
-###### Artigo 103.º — (Sistema fiscal)
+Artigo 103.º
+
+(Sistema fiscal)
 
 1 - ...
 
@@ -292,7 +308,9 @@ d) No setor da Saúde.
 
 3 - ...
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - ...
 
@@ -306,7 +324,9 @@ d) No setor da Saúde.
 
 6 - O Orçamento do Estado deve ainda contemplar os recursos financeiros que devem ser transferidos para as Regiões Autónomas por conta das prestações sociais que se desenvolvem em nome do Estado, designadamente na realização dos direitos fundamentais à saúde, à segurança social, à habitação e à educação, as quais são uma incumbência estadual e não regional.
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - São atos legislativos as leis, os decretos-leis e as leis regionais.
 
@@ -324,7 +344,9 @@ d) No setor da Saúde.
 
 8 - A transposição de atos jurídicos da União Europeia para a ordem jurídica interna assume a forma de lei, decreto-lei ou, nos termos do disposto no n.º 4, lei regional.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - ...
 
@@ -356,17 +378,23 @@ b) As questões e os atos de conteúdo orçamental, tributário ou financeiro.
 
 13 - (Passa a 12.)
 
-###### Artigo 123.º — (Reelegibilidade)
+Artigo 123.º
+
+(Reelegibilidade)
 
 Não é admitida a reeleição para um segundo mandato consecutivo, nem durante o decénio imediatamente subsequente ao termo do mandato
 
-###### Artigo 128.º — (Mandato)
+Artigo 128.º
+
+(Mandato)
 
 1 - O mandato do Presidente da República tem a duração de dez anos e termina com a posse do novo Presidente eleito.
 
 2 - ...
 
-###### Artigo 133.º — [...]
+Artigo 133.º
+
+[...]
 
 ...
 
@@ -400,7 +428,9 @@ o) [Passa a n).]
 
 p) [Passa a o).]
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 ...
 
@@ -422,23 +452,31 @@ h) ...
 
 i) ...
 
-###### Artigo 148.º — (Composição)
+Artigo 148.º
+
+(Composição)
 
 A Assembleia da República é composta por cento e oitenta e um Deputados.
 
-###### Artigo 149.º — (Círculos eleitorais)
+Artigo 149.º
+
+(Círculos eleitorais)
 
 1 - Oitenta e um Deputados são eleitos por um círculo eleitoral nacional e os restantes por círculos eleitorais uninominais geograficamente definidos na lei, aproximadamente proporcionais ao número de eleitores nacionalmente inscritos.
 
 2 - Os Deputados eleitos pelo círculo eleitoral nacional resultam do apuramento pelo sistema de representação proporcional e o método da média mais alta de Hondt na conversão dos votos em número de mandatos.
 
-###### Artigo 151.º — (Candidaturas)
+Artigo 151.º
+
+(Candidaturas)
 
 1 - As candidaturas são apresentadas, nos termos da lei, em listas subscritas por cinco mil cidadãos eleitores, no caso do círculo eleitoral nacional, e por mil cidadãos eleitores, nos círculos eleitorais uninominais.
 
 2 - Ninguém pode figurar em mais de uma lista, nem qualquer cidadão eleitor pode subscrever mais de uma lista.
 
-###### Artigo 160.º — [...]
+Artigo 160.º
+
+[...]
 
 1 - ...
 
@@ -452,7 +490,9 @@ d) Sejam judicialmente condenados por crime de responsabilidade no exercício da
 
 2 - ...
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 ...
 
@@ -484,7 +524,9 @@ n) [Passa a m).]
 
 o) [Passa a n).]
 
-###### Artigo 162.º — [...]
+Artigo 162.º
+
+[...]
 
 ...
 
@@ -498,7 +540,9 @@ d) ...
 
 e) ...
 
-###### Artigo 163.º — (Competência quanto a outros órgãos)
+Artigo 163.º
+
+(Competência quanto a outros órgãos)
 
 a) ...
 
@@ -518,7 +562,9 @@ h) Eleger, por maioria de dois terços dos Deputados presentes, desde que superi
 
 i) ...
 
-###### Artigo 164.º — (Reserva absoluta de competência legislativa)
+Artigo 164.º
+
+(Reserva absoluta de competência legislativa)
 
 É da exclusiva competência da Assembleia da República, sem prejuízo das competências das Regiões Autónomas, legislar sobre as seguintes matérias:
 
@@ -572,7 +618,9 @@ x) Definição dos crimes, penas, medidas de segurança e respetivos pressuposto
 
 z) Regime geral de punição de infrações disciplinares, bem como dos atos ilícitos de mera ordenação social e do respetivo processo.
 
-###### Artigo 165.º — (Reserva relativa da competência legislativa)
+Artigo 165.º
+
+(Reserva relativa da competência legislativa)
 
 1 - É da exclusiva competência da Assembleia da República legislar sobre as seguintes matérias, salvo autorização ao Governo:
 
@@ -600,7 +648,9 @@ h) Criação de impostos e sistema fiscal nacional e regime nacional das taxas e
 
 5 - ...
 
-###### Artigo 167.º — [...]
+Artigo 167.º
+
+[...]
 
 1 - A iniciativa da lei e do referendo compete aos Deputados, aos grupos parlamentares, ao Governo e às Assembleias Legislativas das Regiões Autónomas, e ainda, nos termos e condições estabelecidos na lei, a grupos de cidadãos eleitores.
 
@@ -618,7 +668,9 @@ h) Criação de impostos e sistema fiscal nacional e regime nacional das taxas e
 
 8 - ...
 
-###### Artigo 168.º — [...]
+Artigo 168.º
+
+[...]
 
 1 - ...
 
@@ -644,7 +696,9 @@ e) [Passa a d).]
 
 e) Os Estatutos Político-Administrativos das Regiões Autónomas e as leis relativas à eleição dos Deputados às respetivas Assembleias Legislativas.
 
-###### Artigo 209.º — (Categorias de tribunais)
+Artigo 209.º
+
+(Categorias de tribunais)
 
 1 - Existem as seguintes categorias de tribunais:
 
@@ -660,7 +714,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 210.º — [...]
+Artigo 210.º
+
+[...]
 
 1 - ...
 
@@ -676,7 +732,9 @@ c) ...
 
 7 - O Supremo Tribunal de Justiça será dotado de uma Secção Constitucional à qual compete especificamente administrar a Justiça em matérias da natureza jurídico-constitucional.
 
-###### Artigo 212.º — (Tribunais administrativos e fiscais)
+Artigo 212.º
+
+(Tribunais administrativos e fiscais)
 
 1 - O Supremo Tribunal Administrativo é o órgão superior da hierarquia dos tribunais administrativos e fiscais, sem prejuízo da competência própria do Supremo Tribunal de Justiça em matérias de natureza jurídico-constitucional.
 
@@ -684,7 +742,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 216.º — (Garantias e incompatibilidades)
+Artigo 216.º
+
+(Garantias e incompatibilidades)
 
 1 - Os juízes e os agentes do Ministério Público de primeira instância, bem como os Juízes conselheiros e agentes do Ministério Público nas secções Regionais do Tribunal de Contas, não podem permanecer mais de três anos na mesma comarca, devendo o Estado ou no caso a Região Autónoma assegurar a colocação laboral do respetivo cônjuge em condições idênticas às dos últimos dois anos, não podendo os juízes e os agentes do Ministério Público ser transferidos, suspensos, aposentados ou demitidos senão nos casos previstos na lei.
 
@@ -696,11 +756,15 @@ c) ...
 
 5 - ...
 
-###### Artigo 217.º — (Nomeação, colocação, transferência e promoção de juízes)
+Artigo 217.º
+
+(Nomeação, colocação, transferência e promoção de juízes)
 
 A nomeação, a colocação, a transferência e a promoção dos juízes e dos agentes do Ministério Público e o exercício da ação disciplinar competem ao Conselho Superior da Magistratura, nos termos da lei e com salvaguarda das garantias previstas na Constituição.
 
-###### Artigo 218.º — (Conselho Superior da Magistratura)
+Artigo 218.º
+
+(Conselho Superior da Magistratura)
 
 1 - O Conselho Superior da Magistratura é presidido pelo Presidente do Supremo Tribunal de Justiça.
 
@@ -730,7 +794,9 @@ h) Um procurador-geral-adjunto no Tribunal de Contas.
 
 6 - (O n.º 3.)
 
-###### Artigo 219.º — (Funções e estatuto)
+Artigo 219.º
+
+(Funções e estatuto)
 
 1 - ...
 
@@ -742,7 +808,9 @@ h) Um procurador-geral-adjunto no Tribunal de Contas.
 
 5 - ...
 
-###### Artigo 220.º — (Procurador-Geral da República)
+Artigo 220.º
+
+(Procurador-Geral da República)
 
 1 - O Procurador-Geral da República é a entidade superior do Ministério Público, com a competência definida na lei.
 
@@ -750,7 +818,9 @@ h) Um procurador-geral-adjunto no Tribunal de Contas.
 
 3 - O mandato do Procurador-Geral da República tem a duração de três anos, sem prejuízo do disposto na alínea m) do artigo 133.º
 
-###### Artigo 225.º — (Regime político-administrativo dos Açores e da Madeira)
+Artigo 225.º
+
+(Regime político-administrativo dos Açores e da Madeira)
 
 1 - ...
 
@@ -772,7 +842,9 @@ d) Tribunais de recurso;
 
 e) Sistema nacional de segurança social.
 
-###### Artigo 226.º — [...]
+Artigo 226.º
+
+[...]
 
 1 - Os Estatutos Político-Administrativos concretizam e estruturam o regime autonómico insular nas seguintes matérias:
 
@@ -814,7 +886,9 @@ o) Outras matérias já contidas na Constituição e nos estatutos, bem como as 
 
 6 - (Atual n.º 4.)
 
-###### Artigo 227.º — (Poderes das Regiões Autónomas)
+Artigo 227.º
+
+(Poderes das Regiões Autónomas)
 
 1 - As Regiões Autónomas são pessoas coletivas territoriais e têm os seguintes poderes:
 
@@ -896,13 +970,17 @@ o) Regime do ordenamento do território e do urbanismo.
 
 4 - (Eliminado.)
 
-###### Artigo 228.º — (Autonomia legislativa)
+Artigo 228.º
+
+(Autonomia legislativa)
 
 1 - A autonomia legislativa das Regiões Autónomas concretiza-se sobre as matérias enunciadas na Constituição e nos respetivos Estatutos Político-Administrativos.
 
 2 - ...
 
-###### Artigo 229.º — [...]
+Artigo 229.º
+
+[...]
 
 1 - ...
 
@@ -912,11 +990,15 @@ o) Regime do ordenamento do território e do urbanismo.
 
 4 - ...
 
-###### Artigo 230.º — (Referendo Regional)
+Artigo 230.º
 
-**O Presidente da Assembleia Legislativa pode convocar referendos regionais, de natureza vinculativa, sobre matérias de relevante interesse regional que devam ser decididas por órgão do Estado ou pelos órgãos das Regiões Autónomas.**
+(Referendo Regional)
 
-###### Artigo 231.º — [...]
+O Presidente da Assembleia Legislativa pode convocar referendos regionais, de natureza vinculativa, sobre matérias de relevante interesse regional que devam ser decididas por órgão do Estado ou pelos órgãos das Regiões Autónomas.
+
+Artigo 231.º
+
+[...]
 
 1 - ...
 
@@ -932,13 +1014,17 @@ o) Regime do ordenamento do território e do urbanismo.
 
 7 - ...
 
-###### Artigo 232.º — [...]
+Artigo 232.º
+
+[...]
 
 1 - É da exclusiva competência da Assembleia Legislativa da Região Autónoma o exercício das atribuições referidas no n.º 1 do artigo 227.º, alíneas a) e b), segunda parte da alínea c) nas alíneas d), e), h), j), m), o), à exceção da participação na elaboração dos planos nacionais, p), x) e z), bem como de todas as referidas no seu n.º 2.
 
 2 - Compete à Assembleia Legislativa da Região Autónoma apresentar propostas de referendo regional, através do qual os cidadãos eleitores recenseados no respetivo território possam, por decisão do Presidente da Assembleia Legislativa, ser chamados a pronunciar-se diretamente, a título vinculativo, acerca de questões de relevante interesse regional, aplicando-se, com as necessárias adaptações, o disposto no artigo 115.º
 
-###### Artigo 233.º — (Promulgação e Veto do Presidente da Assembleia Legislativa)
+Artigo 233.º
+
+(Promulgação e Veto do Presidente da Assembleia Legislativa)
 
 1 - Compete ao Presidente da Assembleia Legislativa assinar e mandar publicar os decretos legislativos regionais e os decretos regulamentares regionais.
 
@@ -950,7 +1036,9 @@ o) Regime do ordenamento do território e do urbanismo.
 
 5 - (Eliminado.)
 
-###### Artigo 239.º — [...]
+Artigo 239.º
+
+[...]
 
 1 - ...
 
@@ -962,7 +1050,9 @@ o) Regime do ordenamento do território e do urbanismo.
 
 5 - Caberá aos executivos municipais reservar, em cada concelho, os locais e espaços adequados à afixação de toda a propaganda eleitoral e partidária.
 
-###### Artigo 278.º — (Fiscalização preventiva da constitucionalidade e da legalidade)
+Artigo 278.º
+
+(Fiscalização preventiva da constitucionalidade e da legalidade)
 
 1 - Onde se refere Tribunal Constitucional, deverá passar a referir-se Secção Constitucional do Supremo Tribunal de Justiça.
 
@@ -988,7 +1078,9 @@ o) Regime do ordenamento do território e do urbanismo.
 
 11 - O prazo referido no número anterior pode ser encurtado por motivo de urgência, por decisão do Presidente da República ou a pedido do Presidente da Assembleia Legislativa.
 
-###### Artigo 279.º — [...]
+Artigo 279.º
+
+[...]
 
 1 - Se a Secção Constitucional do Supremo Tribunal de Justiça se pronunciar pela inconstitucionalidade de norma constante de qualquer decreto ou acordo internacional, deverá o diploma ser vetado pelo Presidente da República e devolvido ao órgão que o tiver aprovado.
 
@@ -998,19 +1090,27 @@ o) Regime do ordenamento do território e do urbanismo.
 
 4 - (A referência feita ao Tribunal Constitucional deverá ser reportada à Secção Constitucional do Supremo Tribunal de Justiça.)
 
-###### Artigo 280.º — [...]
+Artigo 280.º
+
+[...]
 
 (As referências feitas ao Tribunal Constitucional devem considerar-se reportadas à Secção Constitucional do Supremo Tribunal de Justiça.)
 
-###### Artigo 281.º — [...]
+Artigo 281.º
+
+[...]
 
 (As referências feitas ao Tribunal Constitucional devem considerar-se reportadas à Secção Constitucional do Supremo Tribunal de Justiça e na alínea g), do n.º 2, deve ser eliminado o inciso "os Representantes da República".)
 
-###### Artigo 282.º — [...]
+Artigo 282.º
+
+[...]
 
 (As referências feitas ao Tribunal Constitucional devem considerar-se reportadas à Secção Constitucional do Supremo Tribunal de Justiça.)
 
-###### Artigo 283.º — [...]
+Artigo 283.º
+
+[...]
 
 (As referências feitas ao Tribunal Constitucional devem considerar-se reportadas à Secção Constitucional do Supremo Tribunal de Justiça.)»
 
@@ -1034,11 +1134,15 @@ Conforme a atual numeração, são aditados ao texto constitucional os seguintes
 
 2 - Igual recurso cabe de idênticos atos de natureza processual praticados pelos Tribunais, violadores de direitos, liberdades e garantias, esgotados que sejam os recursos ordinários.
 
-###### Artigo 26.º-A — (Direito à diferença)
+Artigo 26.º-A
+
+(Direito à diferença)
 
 O Estado respeita na sua organização a identidade regional e local, e promove a proteção cultural das diferentes Regiões, mesmo que minoritárias, no respeito pelo direito à diferença reconhecido a todas as comunidades.
 
-###### Artigo 155.º-A — (Trabalhos parlamentares)
+Artigo 155.º-A
+
+(Trabalhos parlamentares)
 
 1 - O Presidente da Assembleia da República, ou quem o substituir, deverá advertir todos os deputados que prejudiquem o bom andamento da sessão ou cujo comportamento não seja compatível com as disposições regimentais.
 
@@ -1056,4 +1160,4 @@ O Estado respeita na sua organização a identidade regional e local, e promove 
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de maio de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.

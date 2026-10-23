@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 31/1997, 1º Suplemento, Série I-B de 1997-02-06
   number: '31'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 644-(2) a 644-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/031b01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3-a/1997/02/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-a-1997-509787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14da1c08fe6829c4ec177376f59b990590987826d3606419f82b44e1e7d02788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43b7258b9669e3946e47cb3ef5f087921d4b412794c4154f1c4968297e5b9370
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
 subjects:
 - Centro Hospitalar do Funchal
 - Centro Regional de Saúde
-- Governo Regional
 - Direcção Regional de Saúde
 - Extinção de Serviços
 - Gabinete do Secretário Regional dos Assuntos Sociais e Parlamentares
-- Secretaria Regional dos Assuntos Sociais e Parlamentares
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional dos Assuntos Sociais e Parlamentares
 - Secretário Regional dos Assuntos Sociais e Parlamentares
 - Serviço Regional de Protecção Civil da Madeira
 - Serviço Regional de Saúde
@@ -82,6 +82,20 @@ relationships:
   target: pt:dre:545187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515268:por
+  label: "Alterados os arts. 3º, 14º, 15º, 16º, 17º, 18º e 19º e aditados os arts. 14º-A e 14º-B ao cap. III, e os arts. 25º-A,\
+    \ 25º-B e 25º-C ao cap. IV, pelo DRR.13/2000/M.2000.02.17.PG-RAM DR.IS-B [68] de 21/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2000-515268
+  date: '2000-02-17'
+- type: amended_by
+  target: pt:dre:545187:por
+  label: "Extintos o Centro Hospitalar do Funchal e o Centro Regional de Saúde, criados pelo DRR 27/92/M de 24-Set, com a\
+    \ redacção conferida pelo presente; e mantido aquele diploma transitoriamente em vigor até à aprovação do Regulamento\
+    \ Interno do Serviço Regional de Saúde, em tudo o que não contrarie o disposto no DLR.9/2003/M.2003.05.12.ALR-RAM DR.IS-A\
+    \ [122] de 27/Mai/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2003-545187
+  date: '2003-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre
   label: null
@@ -122,16 +136,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/324/1994/05/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/324/1994/05/27/p/dre
+- type: cites
+  target: pt:dre:175502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681580:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:167377:por
+  label: "Revogado pelo DRR.4/2003/M.2003.01.06.PG-RAM DR.IS-B [27] DE 01/FEV/2003 mantendo transitoriamente em vigor as disposições\
+    \ relativas ás direcções regionais, Gabinete para a Qualidade e Investigação e Serviço Regional de Saúde\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2003-167377
+  date: '2003-01-06'
 article_structure:
   article_count: 26
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:12Z'
   warnings: []
   errors: []
 ---
@@ -382,10 +450,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação
 
 Aprovado em Conselho do Governo Regional de 13 de Janeiro de 1997.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 6 de Fevereiro de 1997.**
+Assinado em 6 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

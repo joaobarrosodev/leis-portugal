@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/10200/0000900018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/5/2022/05/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/5-2022-184002944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 032939aa850fb52c7dd993289ca45076b425cda8a6b71ec483250afa25635dda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07b316361fc495f4ce10e05f4b22e436b8cbc3289aaee805aad5e4726b23b6eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Acesso ao Emprego
 - Comparticipação do Estado
-- Portugal
-- Emigrante
-- Inconstitucionalidade
 - Emigração
+- Emigrante
 - Emprego
+- Inconstitucionalidade
 - Madeira.região Autónoma
+- Portugal
 - Programa Regressar
 relationships:
 - type: cites
@@ -100,16 +100,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/60/2019/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/60/2019/03/28/p/dre
+- type: cites
+  target: pt:dre:121665680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122960401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125290656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128366524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128832423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155601285:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:28Z'
   warnings: []
   errors: []
 ---
@@ -278,11 +306,15 @@ Objeto
 
 2 - A presente medida consiste na atribuição de um apoio financeiro a conceder pelo Instituto do Emprego e da Formação Profissional, I. P., adiante designado por IEFP, I. P., aos emigrantes ou familiares de emigrantes que iniciem atividade laboral por conta de outrem no território de Portugal Continental, bem como na comparticipação das despesas inerentes ao seu regresso e do seu agregado familiar.
 
-###### Artigo 2.º — Objetivos
+Artigo 2.º
+
+Objetivos
 
 A presente medida tem como objetivo incentivar o regresso e a fixação de emigrantes ou familiares de emigrantes em Portugal, através de um apoio financeiro a conceder diretamente aos destinatários, bem como da comparticipação em custos de transporte de bens e nos custos de viagem dos destinatários e respetivos membros do agregado familiar, mediante a celebração de um contrato de trabalho em Portugal Continental.
 
-###### Artigo 3.º — Destinatários
+Artigo 3.º
+
+Destinatários
 
 1 - São destinatários dos apoios previstos na presente medida os cidadãos que reúnam, cumulativamente, as seguintes condições:
 
@@ -402,4 +434,6 @@ Pelas razões anteriormente expostas, a Assembleia Legislativa da Região Autón
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de maio de 2022.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+115346385

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 184/2000, 1º Suplemento, Série I-B de 2000-08-10
   number: '184'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3934-(2) a 3934-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/39-a/2000/08/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-a-2000-230108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c13622b5c44b093a52976cff52649bc5ce07971cb648f2129bf45ecda8b6eb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af9e76f1750c30da2a4508ccca8e407ff540c4004da290eb8792b43b50f75fe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Governo Regional
+- Carreira Profissional
 - Criação de Serviços
 - Definição de Competências
 - Direcção Regional do Ambiente
-- Carreira Profissional
-- Recrutamento de Pessoal
+- Gestão de Recursos Humanos
+- Governo Regional
 - Integração de Trabalhadores
-- Secretário Regional do Equipamento Social e Ambiente
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Chefia
-- Madeira.região Autónoma
+- Pessoal Dirigente
 - Progressão na Carreira
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
 - Remuneração
 - Secretaria Regional do Equipamento Social e Ambiente
-- Gestão de Recursos Humanos
+- Secretário Regional do Equipamento Social e Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:314198:por
@@ -130,16 +130,77 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:211389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634930:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314198:por
+  label: "Revogado pelo DRR.7/2001/M.2001.04.24.PG-RAM DR.IS-B [109] DE 11/MAI/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2001-314198
+  date: '2001-04-24'
 article_structure:
-  article_count: 15
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:38Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +255,7 @@ i) [Anterior alínea f).]
 
 4 - ...
 
-###### Artigo 45.º
+Artigo 45.º
 
 A DRA compreende os seguintes serviços:
 
@@ -206,7 +267,7 @@ c) Direcção de Serviços de Inspecção Ambiental (DSIA);
 
 d) [Anterior alínea c).]
 
-###### Artigo 47.º
+Artigo 47.º
 
 1 - ...
 
@@ -240,7 +301,7 @@ d) No âmbito das acções de fiscalização ambientais, propor superiormente a 
 
 e) Coordenar todas as acções de inspecção e assegurar o bom funcionamento da Direcção.
 
-###### Artigo 49.º-B
+Artigo 49.º-B
 
 1 - A DSIA compreende uma Divisão de Inspecção Ambiental.
 
@@ -276,11 +337,11 @@ São aditados os artigos 82.º-C, 82.º-D e 82.º-E, com a seguinte redacção:
 
 2 - O recrutamento para as categorias de coordenador especialista e de coordenador faz-se, respectivamente, de entre coordenadores e de entre assistentes administrativos com um mínimo de três anos na respectiva carreira, estes últimos com comprovada experiência na área administrativa.
 
-###### Artigo 82.º-D
+Artigo 82.º-D
 
 A escala salarial da carreira de coordenador referida no artigo anterior é a constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto.
 
-###### Artigo 82.º-E
+Artigo 82.º-E
 
 1 - Os actuais chefes de secção transitam independentemente de quaisquer formalidades para a categoria de coordenador.
 
@@ -310,30 +371,30 @@ Aprovado em Conselho do Governo Regional em 3 de Agosto de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 10 de Agosto de 2000.**
+Assinado em 10 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — a que se refere o artigo 10.º
 
 Mapa I - Serviços dependentes do Secretário Regional
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)
 
 Mapa II - Direcção Regional de Obras Públicas
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)
 
 Mapa III - Direcção Regional do Ambiente
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)
 
 Mapa V - Direcção Regional de Estradas
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)
 
 Mapa VI - Direcção Regional de Urbanismo
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184b01/00020006.pdf)

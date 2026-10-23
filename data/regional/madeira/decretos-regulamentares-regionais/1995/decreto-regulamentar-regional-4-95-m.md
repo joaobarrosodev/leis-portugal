@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/025b00/05480556.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/1995/01/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1995-141407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e037f388f1a84c682628315c926a1bd10c45bdee61f5a7bc81f12385de8e9357
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8158333dd1f505d359d8448a5bde3c999929246dfe5f14695f7fb81712554b95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Câmara de Provadores
-- Pessoal Dirigente
 - Comissão de Serviço
 - Conselho de Direção
 - Conselho Geral
 - Definição de Competências
 - Formas de Provimento
-- Recrutamento de Pessoal
 - Instituto do Vinho da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:167388:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:639903:por
+  label: "Alterados os arts. 3º e 21º, alterado o quadro de pessoal e aditados os arts. 23º-A e 23º-B, pelo DRR.20/99/M.1999.11.04.PG-RAM,\
+    \ DR.IS-B [279] de 30/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1999-639903
+  date: '1999-11-04'
+- type: amended_by
+  target: pt:dre:253032:por
+  label: "Alterado o art. 22º e aditado o art. 21º-A, pelo DRR.7/2002/M.2002.02.05.PG-RAM, DR.IS-B [54] de 05/Mar/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2002-253032
+  date: '2002-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/26/1992/11/11/m/dre
   label: null
@@ -98,16 +109,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:284761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678851:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:167388:por
+  label: "Revogado pelo DRR.3/2003/M.2003.01.09.PG-RAM DR.IS-B [26] de 31/Jan/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2003-167388
+  date: '2003-01-09'
 article_structure:
   article_count: 25
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:55Z'
   warnings: []
   errors: []
 ---
@@ -548,12 +596,12 @@ O presente diploma entra em vigor no dia da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 15 de Dezembro de 1994.
 
-**O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 30 de Dezembro de 1994.**
+Assinado em 30 de Dezembro de 1994.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## Anexo ao Decreto Regulamentar Regional n.º 4/95/M, que consagra a orgânica do Instituto do Vinho da Madeira
+Anexo ao Decreto Regulamentar Regional n.º 4/95/M, que consagra a orgânica do Instituto do Vinho da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/025b00/05480556.pdf))](https://files.diariodarepublica.pt/1s/1995/01/025b00/05480556.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/025b00/05480556.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2011/05/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2011-287802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a6a75e40eadb3ab1346c9e5ba5fa4d35551cd707ca5f5c7124348cd2940dac7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 101a03f55de5f26bb438497f8e75803b7528974f8a18c608b74304e6e5eab948
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,56 +66,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Regime do Contrato de Trabalho em Funções Públicas
+- Administração Pública
+- Administração Regional
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Financiamento
-- Formação Profissional
-- Pessoal Dirigente
+- Cedência de Interesse Público
+- Cobrança de Dívidas
 - Cobrança de Impostos
-- Gestão Financeira
 - Concurso
+- Contabilidade Pública
 - Contrato de Locação Financeira
 - Controlo Financeiro
 - Definição de Competências
 - Despesas Públicas
 - Direcção Regional da Administração Pública e Local
 - Direcção Regional de Orçamento e Contabilidade
-- Secretaria Regional do Plano e Finanças
+- Direcção Regional dos Assuntos Fiscais
 - Dívida Pública
 - Dívidas ao Estado
 - Dotação Orçamental
 - Duodécimo
-- Administração Pública
-- Execução do Orçamento
-- Fundo de Maneio
-- Recrutamento de Pessoal
-- Gestão Orçamental
-- Finanças Regionais
-- Veículo
 - Equipamento Informático
+- Execução do Orçamento
+- Finanças Regionais
+- Financiamento
+- Formação Profissional
+- Funcionário Público
+- Fundo de Maneio
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Gestão Orçamental
+- Madeira.região Autónoma
 - Orçamento Regional
 - Organismo do Estado
+- Pessoal Dirigente
 - Plano Oficial de Contabilidade Pública
-- Madeira.região Autónoma
 - Promoção Profissional
 - Receita Pública
-- Cobrança de Dívidas
-- Cedência de Interesse Público
+- Recrutamento de Pessoal
+- Regime do Contrato de Trabalho em Funções Públicas
 - Retenção na Fonte
-- Direcção Regional dos Assuntos Fiscais
+- Secretaria Regional do Plano e Finanças
 - Secretário Regional do Plano e Finanças
-- Funcionário Público
-- Administração Regional
-- Gestão de Recursos Humanos
-- Contabilidade Pública
 - Subsídio
+- Trabalhador com Contrato de Trabalho em Funções Públicas
 - Transferência de Verbas
 - Tributação
-- Trabalhador com Contrato de Trabalho em Funções Públicas
+- Veículo
 relationships:
 - type: cites
   target: celex:31993R3605
@@ -124,13 +124,13 @@ relationships:
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:35Z'
   warnings: []
   errors: []
 ---
@@ -409,10 +409,10 @@ Sem prejuízo dos apoios já autorizados na decorrência do artigo 41.º do Orç
 
 Aprovado em Conselho do Governo Regional em 28 de Abril de 2011.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 6 de Maio de 2011.**
+Assinado em 6 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

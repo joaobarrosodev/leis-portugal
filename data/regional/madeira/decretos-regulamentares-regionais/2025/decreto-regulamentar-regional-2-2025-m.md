@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00200/0012700131.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2025/01/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-901998031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6fbf3b39bb5baacfac2bd7234dd27e5b4750eceef5e420391a6bc84f6bf8a39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e417816e6ffbaa33e9a75be7354d4b63f16d82bfdc45fadb88e36015297f8d72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Direção Regional do Trabalho e da Ação Inspetiva
 - Direcção Regional do Trabalho
 - Diretor Regional
-- Orgânica
 - Madeira.região Autónoma
-- Transferência de Competências
-- Direção Regional do Trabalho e da Ação Inspetiva
+- Orgânica
 - Parque Desportivo dos Trabalhadores Dr. Sidónio Fernandes
+- Pessoal Dirigente
 - Secretaria Regional de Inclusão Trabalho e Juventude
+- Transferência de Competências
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decleg
@@ -115,16 +115,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74316109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:876300988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891867288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:893782293:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:26/2024/M
+  label: Revoga, a partir de 4 de janeiro de 2025, sem prejuízo do disposto no artigo 10.º, o Decreto Regulamentar Regional
+    n.º 26/2024/M, de 21 de outubro, Diário da República n.º 204/2024, Série I na parte em que dispõe sobre matéria laboral,
+    e determina, nos termos dos artigos 8.º e 9.º, que a Direção Regional do Trabalho sucede nas atribuições da Direção Regional
+    do Trabalho e da Ação Inspetiva relativas à atividade laboral
+  source: null
+  date: '2024-10-21'
 article_structure:
   article_count: 12
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:55Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +199,7 @@ Na sequência da aprovação da orgânica da SRITJ, pelo [Decreto Regulamentar R
 
 Neste enquadramento, por forma a dar cumprimento ao disposto no n.º 2 do artigo 25.º do referido [Decreto Regulamentar Regional n.º 26/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2024-891867288), de 21 de outubro, com o presente diploma, procede-se à aprovação da orgânica da Direção Regional do Trabalho, contemplando a sua natureza, missão, atribuições e órgãos.
 
-Assim, ao abrigo do disposto na alínea d) do n.º 1 do artigo 227.º e no n.º 6 do artigo 231.º da Constituição da República Portuguesa, nas alíneas c) e d) do artigo 69.º e no n.º 1 do artigo 70.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, no n.º 1 do artigo 24.º, do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, retificado pela [Declaração de Retificação n.º 1/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-876300988), de 12 de agosto, e na alínea b) do n.º 1 do artigo 6.º e no artigo 11.º do [Decreto Regulamentar Regional n.º 26/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2024-891867288), de 21 de outubro, retificado pela [Declaração de Retificação n.º 2/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2024-893782293), de 29 de outubro, o Governo Regional da Madeira decreta o seguinte:
+Assim, ao abrigo do disposto na alínea d) do n.º 1 do artigo 227.º e no n.º 6 do artigo 231.º da Constituição da República Portuguesa, nas alíneas c) e d) do artigo 69.º e no n.º 1 do artigo 70.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, no n.º 1 do artigo 24.º, do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, retificado pela [Declaração de Retificação n.º 1/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-876300988), de 12 de agosto, e na alínea b) do n.º 1 do artigo 6.º e no artigo 11.º do [Decreto Regulamentar Regional n.º 26/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2024-891867288), de 21 de outubro, retificado pela [Declaração de Retificação n.º 2/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2024-893782293), de 29 de outubro, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E ÓRGÃOS
 
@@ -239,7 +299,7 @@ g) Executar o mais que lhe for expressamente cometido por diploma regional ou qu
 
 1 - A organização interna da DRT obedece ao modelo de estrutura hierarquizada.
 
-2 - A organização interna a que se refere o número anterior é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, retificado pela [Declaração de Retificação n.º 1/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-876300988), de 12 de agosto.
+2 - A organização interna a que se refere o número anterior é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, retificado pela [Declaração de Retificação n.º 1/2024/M/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-876300988), de 12 de agosto.
 
 ###### Artigo 7.º — Dotação de cargos de direção
 
@@ -273,11 +333,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 12 de dezembro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 27 de dezembro de 2024.**
+Assinado em 27 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -287,3 +347,7 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 | --- | --- |
 | Cargos de direção superior de 1.º grau | 1 |
 | Cargos de direção intermédia de 1.º grau | 2 |
+
+118515842
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:21px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; }

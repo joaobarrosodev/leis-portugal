@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2220055:por
-title: Portaria n.º 528/2002(2.ªsérie)
+title: Portaria n.º 528/2002 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/528-2002-2220055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T16:32:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 333e2757abd624adecdb91f16e5e9a5668648d98924045c37156d58e27f9e6e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87afb740f14f0f20578e909fa3fea4a6704d5791b3be98c28a9ddc7b2c71c35f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:32:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alienação de BENS
+- Alienação de Imóveis
+- BENS Imóveis do Estado
+- Câmara Municipal
+- Figueira da Foz
+relationships:
+- type: cites
+  target: pt:dre:228665:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T16:32:51Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 528/2002(2.ªsérie)
+# Portaria n.º 528/2002 (2.ª série)
 
 Portaria n.º 528/2002 (2.ª série). - O município da Figueira da Foz solicitou a cedência da estrada florestal que liga as povoações de Santana e Santo Amaro da Boiça. A referida estrada tem um comprimento de 2,3 km e uma largura, com inclusão de valetas, de 6 m, sendo o asfalto de 4,5 m, o que totaliza 13 800 m2 de área.
 

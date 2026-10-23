@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/08/19500/27742776.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1985-181187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78113424e115d9a5ffd48ce786a15070d994bd72bc14ec5d7d67bee813d3a3df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc13f4f6bb98483dba3e51f4f7cb0ceaa58aa8a13c8a2ff82e631d3ae0382abe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Ensino Preparatório
+- Madeira.região Autónoma
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:374778:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:181451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297010:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374778:por
+  label: "Revogado pelo DLR.4/88/M.1988.05.18.ARM, DR.IS [115] de 18/Mai/1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-1988-374778
+  date: '1988-05-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:34Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +119,7 @@ Nos termos da alínea b) do artigo 229.º da Constituição da República Portug
 
 ### CAPÍTULO I — Dos professores extraordinários do quadro e adjuntos
 
-###### Artigo 1.º - 1 - Os lugares providos de professores extraordinários do quadro e de adjuntos dos ensinos preparatório e secundário são transformados em lugares do quadro de efectivos do respectivo estabelecimento de ensino.
+Artigo 1.º - 1 - Os lugares providos de professores extraordinários do quadro e de adjuntos dos ensinos preparatório e secundário são transformados em lugares do quadro de efectivos do respectivo estabelecimento de ensino.
 
 2 - Os titulares dos lugares do quadro de professores extraordinários e de adjuntos referidos no número anterior consideram-se, para todos os efeitos legais, providos naqueles lugares na categoria de efectivos.
 
@@ -106,7 +127,7 @@ Nos termos da alínea b) do artigo 229.º da Constituição da República Portug
 
 ### CAPÍTULO II — Da integração de professores provisórios nos quadros
 
-###### Art. 2.º - 1 - Poderão candidatar-se aos concursos de professores efectivos a partir do ano de 1986, inclusive, os professores provisórios dos ensinos preparatório e secundário que satisfaçam uma das seguintes condições:
+Art. 2.º - 1 - Poderão candidatar-se aos concursos de professores efectivos a partir do ano de 1986, inclusive, os professores provisórios dos ensinos preparatório e secundário que satisfaçam uma das seguintes condições:
 
 a) Se encontrem no ano lectivo de 1985-1986 em exercício de funções docentes, colocados na 1.ª fase do concurso realizado ao abrigo do [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho, tendo sido opositores aos respectivos concursos nos termos do artigo 4.º do mesmo diploma;
 
@@ -122,7 +143,7 @@ b) Possuir, pelo menos, 3 anos de serviço docente efectivo prestado no ensino o
 
 4 - O serviço docente efectivo referido na alínea b) do n.º 2 será contado nos termos da lei geral em vigor.
 
-###### Art. 3.º - 1 - O direito à candidatura nos anos de 1986 e seguintes só é reconhecido se os docentes, cumulativamente:
+Art. 3.º - 1 - O direito à candidatura nos anos de 1986 e seguintes só é reconhecido se os docentes, cumulativamente:
 
 a) Forem opositores aos sucessivos concursos referidos no n.º 1 do artigo 2.º, logo que reúnam as condições fixadas no n.º 2 do mesmo artigo e até obterem provimento;
 
@@ -130,21 +151,21 @@ b) Manifestem, em cada concurso de efectivos, disponibilidade de colocação em 
 
 2 - Às condições mencionadas no n.º 1 acresce, para os docentes referidos na alínea a) do n.º 1 do artigo 2.º, a obrigatoriedade, enquanto não forem providos como efectivos, de se candidatarem aos concursos de professores provisórios, nas condições expressas no artigo 4.º do [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho.
 
-###### Art. 4.º - 1 - As candidaturas referidas nos artigos anteriores serão feitas para o grupo, subgrupo ou disciplinas em que os docentes obtiverem colocação para o ano lectivo de 1985-1986 como titulares de habilitação própria.
+Art. 4.º - 1 - As candidaturas referidas nos artigos anteriores serão feitas para o grupo, subgrupo ou disciplinas em que os docentes obtiverem colocação para o ano lectivo de 1985-1986 como titulares de habilitação própria.
 
 2 - Os docentes que obtiverem colocação em grupo, subgrupo ou disciplinas para que apenas possuam habilitação suficiente deverão candidatar-se a um e um só dos grupos, subgrupos ou disciplinas para que disponham de habilitação própria.
 
-###### Art. 5.º - 1 - Aos docentes que se encontrem em regime de contratação plurianual e sejam candidatos nos termos do disposto nos artigos 2.º, e 3.º deste diploma serão automaticamente renovados os respectivos contratos até que obtenham provimento como professores efectivos.
+Art. 5.º - 1 - Aos docentes que se encontrem em regime de contratação plurianual e sejam candidatos nos termos do disposto nos artigos 2.º, e 3.º deste diploma serão automaticamente renovados os respectivos contratos até que obtenham provimento como professores efectivos.
 
 2 - Os contratos dos docentes que, por qualquer motivo, se não apresentem a concurso nos termos referidos no número anterior não serão renovados, passando os referidos docentes a situar-se, para efeitos de concurso de professores provisórios, na alínea d) do n.º 1 do artigo 3.º do [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho.
 
-###### Art. 6.º - 1 - A ordenação dos docentes abrangidos pelo disposto no artigo 2.º tomará por base a classificação da sua habilitação académica, à qual acrescerá um valor por cada ano de serviço docente efectivo prestado para além dos 3 anos de serviço referidos na alínea b) do n.º 2 do mesmo artigo, até ao limite de 20 anos.
+Art. 6.º - 1 - A ordenação dos docentes abrangidos pelo disposto no artigo 2.º tomará por base a classificação da sua habilitação académica, à qual acrescerá um valor por cada ano de serviço docente efectivo prestado para além dos 3 anos de serviço referidos na alínea b) do n.º 2 do mesmo artigo, até ao limite de 20 anos.
 
 2 - Ao serviço docente efectivo referido no número anterior é aplicável o disposto no n.º 4 do artigo 2.º deste diploma.
 
-###### Art. 7.º Os docentes mencionados no artigo 2.º deste decreto regulamentar serão ordenados, nos termos do disposto no artigo 17.º do [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho, tendo em conta o disposto no artigo 6.º deste diploma.
+Art. 7.º Os docentes mencionados no artigo 2.º deste decreto regulamentar serão ordenados, nos termos do disposto no artigo 17.º do [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho, tendo em conta o disposto no artigo 6.º deste diploma.
 
-###### Art. 8.º - 1 - O provimento dos docentes a que se refere o artigo 2.º será feito por nomeação provisória, até um período máximo de 4 anos.
+Art. 8.º - 1 - O provimento dos docentes a que se refere o artigo 2.º será feito por nomeação provisória, até um período máximo de 4 anos.
 
 2 - Para efeitos do provimento referido no número anterior, os docentes deverão possuir as condições físicas e psicológicas adequadas para o exercício das respectivas funções, reconhecidas como tal por exames médicos a realizar pelos serviços competentes da Secretaria Regional dos Assuntos Sociais, de acordo com regras a estabelecer por despacho conjunto dos Secretários Regionais da Educação e dos Assuntos Sociais.
 
@@ -154,13 +175,13 @@ b) Manifestem, em cada concurso de efectivos, disponibilidade de colocação em 
 
 5 - Os docentes que não sejam aprovados na avaliação não poderão candidatar-se de novo aos concursos a que se refere o artigo 2.º deste diploma, sem prejuízo da sua integração na alínea d) do n.º 1 do artigo 3.º do [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho, para efeitos de concurso de professores provisórios imediatamente sequencial.
 
-###### Art. 9.º - 1 - Nos dois primeiros anos do período de nomeação provisória serão facultadas aos docentes unidades de formação, em especial de natureza psicopedagógica, teórica e prática, as quais poderão envolver seminários presenciais, a realizar nas épocas de interrupção das actividades lectivas.
+Art. 9.º - 1 - Nos dois primeiros anos do período de nomeação provisória serão facultadas aos docentes unidades de formação, em especial de natureza psicopedagógica, teórica e prática, as quais poderão envolver seminários presenciais, a realizar nas épocas de interrupção das actividades lectivas.
 
 2 - O sistema de formação a que se refere o número anterior será o que for definido a nível nacional, salvaguardando-se, no entanto, as especificidades próprias da Região, mediante portaria do Secretário Regional da Educação.
 
 3 - Para efeitos do disposto no n.º 1, a Secretaria Regional da Educação celebrará protocolos com as instituições de formação inicial de professores.
 
-###### Art. 10.º - 1 - Após o período de 2 anos referido no n.º 1 do artigo anterior e durante os 2 anos imediatamente subsequentes, os professores requererão a prestação de uma prova de avaliação, a realizar perante júri para o efeito designado.
+Art. 10.º - 1 - Após o período de 2 anos referido no n.º 1 do artigo anterior e durante os 2 anos imediatamente subsequentes, os professores requererão a prestação de uma prova de avaliação, a realizar perante júri para o efeito designado.
 
 2 - Durante o período subsequente à formação, o docente pode repetir a prova de avaliação uma só vez.
 
@@ -170,13 +191,13 @@ b) Manifestem, em cada concurso de efectivos, disponibilidade de colocação em 
 
 ### CAPÍTULO III — Da progressão na carreira
 
-###### Art. 11.º Aos professores extraordinários do quadro e adjuntos abrangidos pelo artigo 1.º deste diploma serão mantidas na categoria de efectivos as fases que lhes tenham sido concedidas nas anteriores categorias.
+Art. 11.º Aos professores extraordinários do quadro e adjuntos abrangidos pelo artigo 1.º deste diploma serão mantidas na categoria de efectivos as fases que lhes tenham sido concedidas nas anteriores categorias.
 
-###### Art. 12.º - 1 - Os docentes que se efectivarem ao abrigo do disposto no artigo 2.º terão direito à atribuição das fases a que se referem os Decretos-Leis n.os 74/78, de 18 de Abril, e 513-M1/79, de 27 de Dezembro, e a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), de 27 de Julho, logo que a sua nomeação como professores efectivos se converta em definitiva.
+Art. 12.º - 1 - Os docentes que se efectivarem ao abrigo do disposto no artigo 2.º terão direito à atribuição das fases a que se referem os Decretos-Leis n.os 74/78, de 18 de Abril, e 513-M1/79, de 27 de Dezembro, e a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), de 27 de Julho, logo que a sua nomeação como professores efectivos se converta em definitiva.
 
 2 - Enquanto na situação de professor efectivo com nomeação provisória é atribuído ao docente o vencimento correspondente à 1.ª fase do respectivo escalão do professor efectivo.
 
-###### Art. 13.º Para efeitos do disposto no artigo anterior, considera-se como tempo de serviço:
+Art. 13.º Para efeitos do disposto no artigo anterior, considera-se como tempo de serviço:
 
 a) Até 7 de Maio de 1976, todo o tempo de serviço docente prestado no ensino oficial ou equivalente;
 
@@ -184,11 +205,11 @@ b) Após 7 de Maio de 1976, inclusive, só será contado o tempo de serviço pre
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 14.º - 1 - Os docentes que terminem o primeiro ano de profissionalização em 30 de Junho de 1985 completarão o segundo ano de profissionalização no ano lectivo de 1985-1986.
+Art. 14.º - 1 - Os docentes que terminem o primeiro ano de profissionalização em 30 de Junho de 1985 completarão o segundo ano de profissionalização no ano lectivo de 1985-1986.
 
 2 - O disposto no número anterior não será, no entanto, aplicável aos docentes que estejam a profissionalizar-se em escolas da Região e pretendam ser opositores ao concurso para professores efectivos a nível nacional, regulado pelo [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, sendo neste caso adoptadas as disposições constantes da alínea b) do n.º 1 e dos n.os 2 e 3 do artigo 14.º do citado diploma.
 
-###### Art. 15.º - 1 - Para preenchimento, em exclusivo, das vagas sobrantes do concurso normal de professores efectivos do ano de 1985 poderá o Secretário Regional da Educação autorizar a abertura de um concurso extraordinário, ao qual podem ser opositores, por ordem de prioridade na respectiva seriação:
+Art. 15.º - 1 - Para preenchimento, em exclusivo, das vagas sobrantes do concurso normal de professores efectivos do ano de 1985 poderá o Secretário Regional da Educação autorizar a abertura de um concurso extraordinário, ao qual podem ser opositores, por ordem de prioridade na respectiva seriação:
 
 a) Docentes profissionalizados não efectivos, incluindo os que terminem com aproveitamento a profissionalização em exercício ou as licenciaturas nos ramos de formação educacional ou de ensino;
 
@@ -204,24 +225,24 @@ b) Docentes que se encontrem em regime de contratação plurianual não abrangid
 
 6 - Os docentes referidos na alínea b) do n.º 1 são ordenados nos termos referidos no artigo 7.º deste diploma.
 
-###### Art. 16.º Para preenchimento, em exclusivo, das vagas sobrantes do concurso normal de professores efectivos do ano de 1986 será aberto na 1.ª quinzena do mês de Julho de 1986, um concurso extraordinário para professores efectivos, ao qual só poderão ser opositores os docentes referidos no n.º 1 do artigo 14.º deste diploma.
+Art. 16.º Para preenchimento, em exclusivo, das vagas sobrantes do concurso normal de professores efectivos do ano de 1986 será aberto na 1.ª quinzena do mês de Julho de 1986, um concurso extraordinário para professores efectivos, ao qual só poderão ser opositores os docentes referidos no n.º 1 do artigo 14.º deste diploma.
 
-###### Art. 17.º - 1 - É aplicado à Região o disposto no n.º 1 do artigo 16.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio.
+Art. 17.º - 1 - É aplicado à Região o disposto no n.º 1 do artigo 16.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio.
 
 2 - As disposições dos diplomas a que se refere o n.º 1 do artigo 16.º do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, aplicáveis à profissionalização em exercício mantêm-se em vigor até que os docentes referidos no n.º 1 do artigo 14.º deste diploma concluam a respectiva profissionalização.
 
-###### Art. 18.º - 1 - Regressam ao seu lugar de origem, até 15 de Setembro de 1986, todos os orientadores e delegados de grupo à profissionalização em exercício, cessando as correspondentes funções a partir daquela data.
+Art. 18.º - 1 - Regressam ao seu lugar de origem, até 15 de Setembro de 1986, todos os orientadores e delegados de grupo à profissionalização em exercício, cessando as correspondentes funções a partir daquela data.
 
 2 - Os docentes abrangidos pelo n.º 1 deste artigo mantêm o direito à respectiva gratificação mensal até 30 de Setembro de 1986.
 
-###### Art. 19.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 19.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 5 de Julho de 1985.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 26 de Julho de 1985.**
+Assinado em 26 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

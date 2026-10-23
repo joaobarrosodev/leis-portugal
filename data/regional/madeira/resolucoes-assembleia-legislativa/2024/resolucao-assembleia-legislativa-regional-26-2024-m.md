@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23800/0002200073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/26/2024/12/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/26-2024-899370949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed162cc569a00f437d8e82b80a3824af264be926950f2cec893aa1a44e02aa86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fbe37ab0d53242e7e08cb6f96b3193220fc38fb790ba5217c956e719a3fb67e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -98,16 +98,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:168804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 199
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 182
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:41Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +188,9 @@ Os artigos 26.º, 49.º, 50.º, 62.º, 80.º, 84.º, 86.º, 87.º-A, 88.º, 90.�
 
 4 - [...]
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...]
 
@@ -158,7 +200,9 @@ Os artigos 26.º, 49.º, 50.º, 62.º, 80.º, 84.º, 86.º, 87.º-A, 88.º, 90.�
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [...]
 
@@ -186,7 +230,9 @@ d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câm
 
 9 - Para efeitos do disposto no n.º 3 do artigo 47.º-A, o presidente da câmara pode determinar a constituição de mais de uma mesa de voto antecipado em mobilidade.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 [...]
 
@@ -206,7 +252,9 @@ g) [...]
 
 h) [...]
 
-###### Artigo 80.º — Modo de exercício do direito
+Artigo 80.º
+
+Modo de exercício do direito
 
 1 - O direito de voto é exercido pessoalmente pelo cidadão eleitor.
 
@@ -214,7 +262,9 @@ h) [...]
 
 3 - O direito de voto dos eleitores é exercido presencialmente, sem prejuízo das particularidades previstas nos artigos 83.º-A a 88.º
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - [...]
 
@@ -248,7 +298,9 @@ e) Membros integrantes de delegações oficiais do Estado e da Região Autónoma
 
 5 - (Anterior n.º 6.)
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - Os eleitores que se encontrem nas condições previstas nas alíneas d) e e) n.º 1 do artigo 84.º podem requerer, por meios eletrónicos ou por via postal, ao presidente da câmara do município em que se encontre recenseado, até ao 20.º dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, indicando o seu número de identificação civil e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direção do estabelecimento hospitalar, ou emitido pelo diretor do estabelecimento prisional, conforme os casos.
 
@@ -268,7 +320,9 @@ e) Membros integrantes de delegações oficiais do Estado e da Região Autónoma
 
 9 - A junta de freguesia, destinatária dos votos recebidos, remete-os ao presidente da mesa da assembleia de voto em que o eleitor deveria exercer o direito de sufrágio, até à hora prevista no artigo 44.º
 
-###### Artigo 87.º-A — [...]
+Artigo 87.º-A
+
+[...]
 
 1 - Qualquer eleitor que esteja nas condições previstas no artigo 84.º pode exercer o direito de sufrágio entre o 12.º e o 10.º dias anteriores à eleição, junto das representações diplomáticas, consulares ou nas delegações externas dos ministérios e instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos previstos no artigo 85.º, sendo a intervenção do presidente da câmara municipal da competência do funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respetiva.
 
@@ -276,7 +330,9 @@ e) Membros integrantes de delegações oficiais do Estado e da Região Autónoma
 
 3 - [...]
 
-###### Artigo 88.º — Votos dos deficientes
+Artigo 88.º
+
+Votos dos deficientes
 
 1 - O eleitor afetado por doença ou deficiência física notórias, que a mesa verifique não poder praticar os atos descritos no artigo 103.º, vota acompanhado de outro eleitor por si escolhido, que garanta a fidelidade de expressão do seu voto e que fica obrigado a sigilo absoluto.
 
@@ -288,11 +344,15 @@ e) Membros integrantes de delegações oficiais do Estado e da Região Autónoma
 
 5 - Os eleitores portadores de deficiência visual podem, se assim o entenderem, requerer à mesa a disponibilização de matriz em braille que lhes permita, sozinhos, praticar os atos descritos no artigo 103.º
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 O direito de voto é exercido, em regra, junto da mesa de voto correspondente ao local por onde o eleitor está recenseado, salvo o disposto quanto aos modos de exercício do voto antecipado.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...]
 
@@ -302,7 +362,9 @@ O direito de voto é exercido, em regra, junto da mesa de voto correspondente ao
 
 4 - Os eleitores inscritos para o voto antecipado em mobilidade, que não o tenham exercido, podem fazê-lo no dia da eleição nas assembleias de voto onde se encontrem recenseados.
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - [...]
 
@@ -322,7 +384,9 @@ O direito de voto é exercido, em regra, junto da mesa de voto correspondente ao
 
 9 - Os boletins de voto, em número igual ao dos eleitores inscritos na assembleia ou secção de voto mais 10 %, bem como as respetivas matrizes em braille em número não inferior a duas por cada assembleia ou secção de voto, são remetidos em sobrescrito fechado e lacrado.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - Cada eleitor, apresentando-se perante a mesa, indica o seu nome, entregando ao presidente o seu documento de identificação civil, se o tiver.
 
@@ -338,7 +402,9 @@ O direito de voto é exercido, em regra, junto da mesa de voto correspondente ao
 
 7 - Após votar, o eleitor que tenha requerido uma matriz do boletim de voto em braille devolve-a à mesa.
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - [...]
 
@@ -378,13 +444,17 @@ Paridade
 
 3 - Para cumprimento do disposto no número anterior, não podem ser colocados mais de dois candidatos do mesmo sexo, consecutivamente, na ordenação da lista.
 
-###### Artigo 15.º-B — Incumprimento da paridade
+Artigo 15.º-B
+
+Incumprimento da paridade
 
 1 - No caso de uma lista não observar o disposto no artigo anterior, o mandatário é notificado, nos termos fixados na presente lei, para proceder à sua correção no prazo legalmente estabelecido.
 
 2 - A não correção da lista de candidatura no prazo previsto determina a rejeição de toda a lista.
 
-###### Artigo 47.º-A — Mesas de voto antecipado em mobilidade
+Artigo 47.º-A
+
+Mesas de voto antecipado em mobilidade
 
 1 - São constituídas as seguintes mesas de voto antecipado em mobilidade:
 
@@ -400,11 +470,15 @@ c) Na Região Autónoma dos Açores, nove mesas, a funcionar uma por cada ilha, 
 
 4 - A designação dos membros das mesas é efetuada nos termos do artigo 50.º
 
-###### Artigo 83.º-A — Voto antecipado em mobilidade
+Artigo 83.º-A
+
+Voto antecipado em mobilidade
 
 Podem votar antecipadamente em mobilidade todos os cidadãos residentes na Região e inscritos no respetivo recenseamento eleitoral que nele pretendam exercer o seu direito de voto.
 
-###### Artigo 84.º-A — Modo de exercício do direito de voto antecipado em mobilidade em território nacional
+Artigo 84.º-A
+
+Modo de exercício do direito de voto antecipado em mobilidade em território nacional
 
 1 - Os eleitores referidos no artigo 83.º-A exercem o seu direito de sufrágio numa mesa de voto em mobilidade constituída para o efeito nos termos do artigo 47.º-A.
 
@@ -464,13 +538,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de novembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
 Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira
 
-## TÍTULO I
+TÍTULO I
 
 CAPACIDADE ELEITORAL
 
@@ -548,7 +622,7 @@ Desde a data da apresentação de candidaturas e até ao dia das eleições, os 
 
 2 - Movido procedimento criminal contra algum candidato e indiciado este por despacho de pronúncia ou equivalente, o processo só pode seguir após a proclamação dos resultados da eleição.
 
-## TÍTULO II
+TÍTULO II
 
 SISTEMA ELEITORAL
 
@@ -622,7 +696,7 @@ d) No caso de restar um só mandato para distribuir e de os termos seguintes da 
 
 4 - Os deputados que forem nomeados membros do Governo Regional não podem exercer o mandato até à cessação daquelas funções e são substituídos nos termos do n.º 1.
 
-## TÍTULO III
+TÍTULO III
 
 ORGANIZAÇÃO DO PROCESSO ELEITORAL
 
@@ -994,7 +1068,7 @@ f) Obter certidões das operações de votação e apuramento.
 
 2 - O presidente da câmara municipal entrega também a cada presidente de assembleia ou secção de voto, até três dias antes do dia designado para a eleição, os boletins de voto que lhes forem remetidos pelo Representante da República na Região Autónoma da Madeira.
 
-## TÍTULO IV
+TÍTULO IV
 
 CAMPANHA ELEITORAL
 
@@ -1166,7 +1240,7 @@ A partir da publicação do decreto que marque a data de eleição é proibida a
 
 O financiamento da campanha eleitoral segue o regime previsto nos artigos 15.º e seguintes da [Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/lei/19-2003-692850), de 20 de junho.
 
-## TÍTULO V
+TÍTULO V
 
 ELEIÇÃO
 
@@ -1692,7 +1766,7 @@ Aos candidatos e aos mandatários de cada lista proposta à eleição, bem como,
 
 A Assembleia Legislativa da Região Autónoma da Madeira verifica os poderes dos candidatos proclamados eleitos.
 
-## TÍTULO VI
+TÍTULO VI
 
 ILÍCITO ELEITORAL
 
@@ -1874,7 +1948,7 @@ Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois 
 
 ###### Artigo 159.º — Recusa de receber reclamações, protestos ou contraprotestos
 
-**O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto é punido com pena de prisão até 1 ano e pena de multa de € 100 a € 500.**
+O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto é punido com pena de prisão até 1 ano e pena de multa de € 100 a € 500.
 
 ###### Artigo 160.º — Não comparência da força armada
 
@@ -1900,7 +1974,7 @@ Aquele que não cumprir obrigações que lhe sejam impostas pela presente lei ou
 
 Aquele que extraviar, retiver ou não entregar a documentação para o exercício do voto antecipado ou o sobrescrito contendo o boletim de voto, nos casos previstos na lei, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
 
-## TÍTULO VII
+TÍTULO VII
 
 DISPOSIÇÕES FINAIS
 
@@ -1948,6 +2022,8 @@ Ficam revogados os diplomas que disponham em coincidência ou em contrário com 
 
 Para os efeitos da Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira se declara que ... (nome do cidadão eleitor), residente em ..., portador do bilhete de identidade n.º ..., de ... de ... de ..., inscrito na assembleia de voto (ou secção de voto) de ..., com o n.º ..., exerceu antecipadamente o seu direito de voto no dia ... de ... de ...
 
-**O Presidente da Câmara Municipal de ...**
+O Presidente da Câmara Municipal de ...
 
 ... (assinatura).
+
+118428719

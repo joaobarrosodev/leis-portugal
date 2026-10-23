@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/227b00/46024609.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/28/1992/10/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1992-233558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a96da0123db4320d234a82d0d117ebc190da7112854a9b1c9fb6e2d305c2a781
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91dc9b8fde2bb957b314d73d444ee42d3b61d6943585c23ba08043465bd955f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Conselho Regional de Segurança Social
 - Criação de Serviços
 - Direcção Regional de Segurança Social
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Segurança Social
 - Transferência de Pessoal
 - Transferência Patrimonial
@@ -79,16 +79,51 @@ relationships:
   target: pt:dre:480292:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521996:por
+  label: "Alterada a redacção dos arts 13º, 15º e 20º adita os arts 30º-A e 30º-B inseridos no Capítulo III)DRR.28/2000/M.2000.03.30.PG-RAM,\
+    \ DR.IS-B [98] de 27/Abr/2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-2000-521996
+  date: '2000-03-30'
+- type: amended_by
+  target: pt:dre:480292:por
+  label: "Transferidos para o Centro de Segurança Social da Madeira (CSSM) todos os bens móveis e imóveis atribuídos às entidades\
+    \ referidas no art. 36º do DLR 26/2004/M de 20-Ago, DR.IS-A [196], assim como são transferidos os direitos e obrigações,\
+    \ nos termos dos arts. 46º e 47º do citado DLR, pertencentes à Direcção Regional de Segurança Social e ao Centro de Segurança\
+    \ Social da Madeira, criados pelo presente DRR; e, ainda, revogado o presente DRR, na redacção do DRR 28/2000/M de 27-Abr,\
+    \ pelo citado DLR\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2004-480292
+  date: '2004-07-14'
+- type: cites
+  target: pt:dre:262123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662713:por
+  label: null
+  source: null
 article_structure:
   article_count: 45
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:30Z'
   warnings: []
   errors: []
 ---
@@ -415,7 +450,9 @@ g) Promover e verificar o cumprimento dos instrumentos legislativos internaciona
 
 h) Emitir pareceres sobre o direito internacional, nomeadamente para coordenação com o direito interno de segurança social.
 
-###### Artigo 19.º — Divisão de Gestão e Formação de Pessoal
+###### Artigo 19.º
+
+##### Divisão de Gestão e Formação de Pessoal
 
 Compete à DGFP:
 
@@ -425,7 +462,9 @@ b) Proceder à aplicação dos métodos e técnicas de recrutamento, selecção 
 
 c) Elaborar e gerir o plano de formação e aperfeiçoamento profissional do pessoal do Centro, através do levantamento de necessidades de formação, da definição de prioridades, da organização e avaliação das acções formativas de iniciativa própria e da coordenação e apoio à participação dos funcionários em acções de formação e aperfeiçoamento profissional da iniciativa de outras entidades.
 
-###### Artigo 20.º — Divisão de Coordenação dos Serviços Locais
+###### Artigo 20.º
+
+##### Divisão de Coordenação dos Serviços Locais
 
 1 - A DCSL compreende:
 
@@ -449,7 +488,9 @@ d) Administrar e gerir instalações e equipamento dos serviços locais, em arti
 
 4 - Os coordenadores são remunerados pelo índice 350 da escala salarial da função pública.
 
-###### Artigo 21.º — Divisão de Fiscalização
+###### Artigo 21.º
+
+##### Divisão de Fiscalização
 
 1 - Compete à DF:
 
@@ -725,10 +766,10 @@ O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Julho de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Agosto de 1992.**
+Assinado em 20 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

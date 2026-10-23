@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00700/01260127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1987-599511
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e04fccdd6da1970fa6f9f502e8c154d33d7563183520624face3cbffbbb1414
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04473c8dfcc66363ff7d3951633ffb479df8e09d22dc5550991527c3a5a32d4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção dos Serviços de Fiscalização Económica
+- Infracção Antieconómica
+- Madeira.região Autónoma
+- Multa
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:557001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:220144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:557001:por
+  label: "Revogado pelo DRR.19/90/M.30.08.1990.GR-RAM, DR.IS [200] de 30.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1990-557001
+  date: '1990-08-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:49Z'
   warnings: []
   errors: []
 ---
@@ -95,40 +122,40 @@ Nestes termos:
 
 O Governo Regional decreta, ao abrigo da alínea b) do artigo 229.º da Constituição e do artigo 33.º, alínea b), do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º A entidade competente para a aplicação das coimas e sanções acessórias previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, indicada pelo [Decreto Legislativo Regional n.º 17/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1986-220144), de 9 de Setembro, adiante designada por Secretário Regional da Economia, disporá de uma secretaria privativa e será assistida por um licenciado em Direito, que emitirá o seu parecer, propondo as medidas que deverão ser tomadas.
+Artigo 1.º A entidade competente para a aplicação das coimas e sanções acessórias previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, indicada pelo [Decreto Legislativo Regional n.º 17/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1986-220144), de 9 de Setembro, adiante designada por Secretário Regional da Economia, disporá de uma secretaria privativa e será assistida por um licenciado em Direito, que emitirá o seu parecer, propondo as medidas que deverão ser tomadas.
 
-###### Art. 2.º O licenciado em Direito que for nomeado pelo Secretário Regional da Economia terá direito a uma gratificação mensal, de quantitativo a fixar por despacho conjunto dos Secretários Regionais do Plano e da Economia.
+Art. 2.º O licenciado em Direito que for nomeado pelo Secretário Regional da Economia terá direito a uma gratificação mensal, de quantitativo a fixar por despacho conjunto dos Secretários Regionais do Plano e da Economia.
 
-###### Art. 3.º Por despacho do Secretário Regional da Economia serão designados os funcionários que constituirão a secretaria privativa.
+Art. 3.º Por despacho do Secretário Regional da Economia serão designados os funcionários que constituirão a secretaria privativa.
 
-###### Art. 4.º - 1 - A secretaria procederá ao registo, em livro próprio, dos processos por contra-ordenações que lhe forem enviados pela DSFE.
+Art. 4.º - 1 - A secretaria procederá ao registo, em livro próprio, dos processos por contra-ordenações que lhe forem enviados pela DSFE.
 
 2 - No prazo de dois dias a contar da sua entrada a secretaria fará o processo concluso ao Secretário Regional da Economia, que despachará para emissão de parecer jurídico no prazo de sete dias.
 
 3 - No prazo de quinze dias a contar da emissão do parecer referido no número anterior o Secretário Regional da Economia proferirá despacho em que conhecerá da competência e das excepções, nulidades ou irregularidades.
 
-###### Art. 5.º - 1 - Se o Secretário Regional da Economia considerar que a infracção constitui crime, que se verifica concurso de crime e contra-ordenação ou que, pelo mesmo facto, uma pessoa deve responder a título de crime e outro a título de contra-ordenação, ordenará a remessa do processo ao Ministério Público.
+Art. 5.º - 1 - Se o Secretário Regional da Economia considerar que a infracção constitui crime, que se verifica concurso de crime e contra-ordenação ou que, pelo mesmo facto, uma pessoa deve responder a título de crime e outro a título de contra-ordenação, ordenará a remessa do processo ao Ministério Público.
 
 2 - Se o Secretário Regional da Economia considerar que o processo enferma de nulidades ou irregularidades, designadamente a falta de audição do arguido ou falta de nomeação de defensor oficioso, em conformidade com o disposto no artigo 53.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, devolverá o mesmo à entidade instrutora para o suprimento daquelas.
 
 3 - Se considerar verificada a prescrição do procedimento pela contra-ordenação, o Secretário Regional da Economia mandará arquivar o processo.
 
-###### Art. 6.º - 1 - Se o Secretário Regional da Economia concluir pela inexistência de excepções, nulidades ou irregularidades, emitirá a sua decisão.
+Art. 6.º - 1 - Se o Secretário Regional da Economia concluir pela inexistência de excepções, nulidades ou irregularidades, emitirá a sua decisão.
 
 2 - Tal decisão será notificada ao arguido, ao seu representante legal, quando este exista, e ao seu defensor, de harmonia com o disposto nos artigos 46.º e 47.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e para os efeitos do estabelecido no capítulo IV do mesmo diploma.
 
-###### Art. 7.º Sempre que houver lugar ao processamento de coimas e à aplicação de sanções acessórias previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, o processo será remetido à DSFE.
+Art. 7.º Sempre que houver lugar ao processamento de coimas e à aplicação de sanções acessórias previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, o processo será remetido à DSFE.
 
-###### Art. 8.º Aplicar-se-ão as normas do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e, subsidiariamente, os preceitos reguladores do processo criminal em tudo quanto não se encontrar regulado no presente diploma.
+Art. 8.º Aplicar-se-ão as normas do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e, subsidiariamente, os preceitos reguladores do processo criminal em tudo quanto não se encontrar regulado no presente diploma.
 
-###### Art. 9.º O montante das coimas aplicadas pelas contra-ordenações previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911) de 20 de Janeiro, que constituem receita da RAM, nos termos do artigo 2.º do [Decreto Legislativo Regional n.º 17/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1986-220144), de 9 de Setembro, será depositado nos respectivos cofres.
+Art. 9.º O montante das coimas aplicadas pelas contra-ordenações previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911) de 20 de Janeiro, que constituem receita da RAM, nos termos do artigo 2.º do [Decreto Legislativo Regional n.º 17/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1986-220144), de 9 de Setembro, será depositado nos respectivos cofres.
 
 Aprovado em Conselho do Governo Regional em 25 de Novembro de 1986.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 12 de Dezembro de 1986.**
+Assinado em 12 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

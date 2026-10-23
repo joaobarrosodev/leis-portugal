@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/1994/10/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1994-600488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a890208b449a569f40f19a970845f80816247083f423c814ca2f758910898f52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddc562fd698a6911d57660049ad010e4a69fb0317321442b1148ea4b67619faf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,16 @@ relationships:
   target: pt:dre:197115:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144860:por
+  label: "Alterado o art. 2º, pelo DRR.2/95/M.1994.12.18.GR-RAM, de 20/Jan/1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1995-144860
+  date: '1994-12-18'
+- type: amended_by
+  target: pt:dre:197115:por
+  label: "Alterado o art. 2º pelo DRR.4/98/M.1998.03.03.PG-RAM, DR.IS-B [68] de 21/Mar/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1998-197115
+  date: '1998-03-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/184/1994/07/01/p/dre
   label: null
@@ -81,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:291641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:45Z'
   warnings: []
   errors: []
 ---
@@ -107,13 +125,13 @@ Nestes termos:
 
 O Governo Regional da Madeira decreta, ao abrigo da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), 5 de Junho, o seguinte:
 
-###### Artigo 1.º A execução do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, nos termos do respectivo artigo 41.º, compete na Região Autónoma de Madeira aos diversos órgãos e serviços do Governo Regional, de acordo com o estabelecido nos artigos seguintes deste diploma.
+Artigo 1.º A execução do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, nos termos do respectivo artigo 41.º, compete na Região Autónoma de Madeira aos diversos órgãos e serviços do Governo Regional, de acordo com o estabelecido nos artigos seguintes deste diploma.
 
-###### Art. 2.º - 1 - A recepção e instrução das candidaturas a que se referem os subcapítulos III e IV do capítulo I do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, compete ao Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento (SAPMEI), da Secretaria Regional da Economia e Cooperação Externa.
+Art. 2.º - 1 - A recepção e instrução das candidaturas a que se referem os subcapítulos III e IV do capítulo I do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, compete ao Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento (SAPMEI), da Secretaria Regional da Economia e Cooperação Externa.
 
 2 - Compete às instituições de crédito signatárias do protocolo previsto no n.º 4 do artigo 29.º do citado [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641) a recepção e a instrução das candidaturas dos projectos referidos nos subcapítulos I e II do capítulo I do mencionado diploma.
 
-###### Art. 3.º No âmbito do presente diploma, compete ainda ao SAPMEI:
+Art. 3.º No âmbito do presente diploma, compete ainda ao SAPMEI:
 
 a) Avaliar a relevância comercial dos projectos, bem como a sua adequação aos objectivos do PROCOM;
 
@@ -121,7 +139,7 @@ b) Determinar o valor do apoio financeiro a conceder;
 
 c) Submeter à comissão de avaliação a proposta relativa a cada processo de candidatura para os projectos a que se referem os subcapítulos I, II, III e IV do aludido [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641).
 
-###### Art. 4.º Incumbe às instituições de crédito remeter ao SAPMEI:
+Art. 4.º Incumbe às instituições de crédito remeter ao SAPMEI:
 
 a) Os resultados da instrução técnica efectuada nos termos do n.º 2 do artigo 2.º;
 
@@ -129,24 +147,24 @@ b) Mensalmente a lista dos pagamentos efectuados e dos respectivos documentos ju
 
 c) Os relatórios finais dos investimentos concluídos.
 
-###### Art. 5.º É da competência da Secretaria Regional das Finanças a realização dos pagamentos de incentivos a que se refere o presente diploma.
+Art. 5.º É da competência da Secretaria Regional das Finanças a realização dos pagamentos de incentivos a que se refere o presente diploma.
 
-###### Art. 6.º Após a instrução dos processos de candidatura, ao nível regional, deverão estes ser submetidos ao gestor da intervenção operacional comércio e serviços para apreciação no âmbito da comissão de avaliação.
+Art. 6.º Após a instrução dos processos de candidatura, ao nível regional, deverão estes ser submetidos ao gestor da intervenção operacional comércio e serviços para apreciação no âmbito da comissão de avaliação.
 
-###### Art. 7.º A fiscalização e acompanhamento das operações efectuadas na Região Autónoma da Madeira são exercidas pelo SAPMEI e pelas instituições de crédito no âmbito das respectivas competências, a quem incumbe efectuar as acções de verificação e controlo físico, financeiro e contabilístico dos investimentos realizados, sem prejuízo das competências próprias das demais entidades envolvidas no sistema.
+Art. 7.º A fiscalização e acompanhamento das operações efectuadas na Região Autónoma da Madeira são exercidas pelo SAPMEI e pelas instituições de crédito no âmbito das respectivas competências, a quem incumbe efectuar as acções de verificação e controlo físico, financeiro e contabilístico dos investimentos realizados, sem prejuízo das competências próprias das demais entidades envolvidas no sistema.
 
-###### Art. 8.º Da regulamentação regional para as operações de controlo será dado pelos organismos competentes da Região Autónoma da Madeira prévio conhecimento ao gestor da intervenção operacional comércio e serviços.
+Art. 8.º Da regulamentação regional para as operações de controlo será dado pelos organismos competentes da Região Autónoma da Madeira prévio conhecimento ao gestor da intervenção operacional comércio e serviços.
 
-###### Art. 9.º No final de cada semestre deverá o SAPMEI apresentar ao gestor da intervenção operacional comércio e serviços um relatório circunstanciado sobre as acções de controlo levadas a cabo nesta Região Autónoma.
+Art. 9.º No final de cada semestre deverá o SAPMEI apresentar ao gestor da intervenção operacional comércio e serviços um relatório circunstanciado sobre as acções de controlo levadas a cabo nesta Região Autónoma.
 
-###### Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 1 de Setembro de 1994.
 
-**O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Setembro de 1994.**
+Assinado em 20 de Setembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

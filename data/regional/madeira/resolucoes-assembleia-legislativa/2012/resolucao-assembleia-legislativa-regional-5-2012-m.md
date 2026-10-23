@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/5/2012/01/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/5-2012-544397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b34624c3341e4130cde8baa714ab355acdb2ced687f7b06945ca987d308b9abd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ae4e741219d6add9c0840612a288c0cc6db66379637af4ba5e41f3929c47d17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Parlamentar
-- Grupo Parlamentar
 - Assembleia Legislativa
+- Grupo Parlamentar
 - Madeira.região Autónoma
+- Parlamentar
+- Recurso
 - Regimento
 relationships:
 - type: amended_by
   target: pt:dre:215874470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70297427:por
+  label: Alterados, a partir de 16.09.2015, os arts 8.º, 12.º, 13.º, 15.º, 20.º, 24.º, 26.º, 33.º, 35.º, 36.º, 41.º, 47.º,
+    48.º, 55.º, 56.º, 60.º, 62.º, 67.º, 68.º, 74.º, 76.º, 81.º, 84.º, 85.º, 89.º, 92.º, 97.º, 99.º, 106.º, 107.º, 108.º, 109.º,
+    111.º, 113.º, 116.º, 118.º, 119.º, 120.º, 121.º, 123.º, 140.º, 143.º, 145.º, 146.º, 148.º, 156.º, 164.º, 172.º, 180.º,
+    184.º, 189.º, 193.º, 194.º, 196.º, 197.º, 198.º, 204.º, 205.º, 206.º, 211.º, 213.º, 217.º, 234.º, 235.º, 236.º, 238.º,
+    239.º, 241.º e a denominação da Divisão III da Secção I do Capítulo I do Título II, aditados o n.º 4 do art 20.º, os arts
+    41.º-A e 48.º-A, o n.º 4 do art 55.º, os n.ºs 3 e 4 do art 62.º, as als k) e l) do art 68.º, o n.º 4 do art 84.º, o n.º
+    9 do art 89.º, o n.º 4 do art 97.º, o n.º 4 do art 99.º, o n.º 9 do art 107.º, o n.º 4 do art 108.º, o n.º 4 do art 109.º,
+    o n.º 6 do art 118.º, o n.º 2 do art 121.º, os n.ºs 3 e 4 do art 123.º e o art 203.º-A, e revogados os n.ºs 7 e 9 do art
+    24.º, a al c) do art 41.º, os n.ºs 3 e 4 do art 67.º, os n.ºs 6 e 7 do art 81.º, as als a), b), c) e d) do n.º 1 do art
+    97.º, o n.º 2 do art 106.º, o n.º 2 do art 145.º, o art 147.º, os arts 164.º-A, 164.º-B, 164.º-C, 164.º-D e 164.º-E, o
+    n.º 4 do art 198.º, os arts 199.º e 200.º, o n.º 2 do art 217.º, a al b) do art 235.º, a al a) do n.º 1 e as als a), b)
+    e c) do n.º 2 e os n.ºs 6 e 7 do art 236.º e a al a) do art 238.º, todos do Regimento da Assembleia Legislativa da Região
+    Autónoma da Madeira aprovado pela Res 1/2000/M de 12-jan, na redação e sistematização do presente diploma, pelo(a) Resolução
+    da Assembleia Legislativa da Região Autónoma da Madeira n.º 9/2015/M - Diário da República n.º 180/2015, Série I de 2015-09-15
+    que procede à renumeração e republicação em anexo do referido Regimento
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2015-70297427
+  date: '2015-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolalr/1/2000/01/12/m/dre
   label: null
   source: http://data.dre.pt/eli/resolalr/1/2000/01/12/m/dre
+- type: cites
+  target: pt:dre:514057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 274
+  article_count: 254
   section_count: 63
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:48Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +142,9 @@ c) ...
 
 d) Invocar o Regimento e apresentar reclamações e protestos.
 
-###### Artigo 24.º — Conferência dos Representantes dos Grupos Parlamentares
+Artigo 24.º
+
+Conferência dos Representantes dos Grupos Parlamentares
 
 1 - ...
 
@@ -141,7 +166,9 @@ d) Invocar o Regimento e apresentar reclamações e protestos.
 
 10 - (Revogado.)
 
-###### Artigo 60.º — Fixação da ordem do dia
+Artigo 60.º
+
+Fixação da ordem do dia
 
 1 - ...
 
@@ -153,7 +180,9 @@ d) Invocar o Regimento e apresentar reclamações e protestos.
 
 5 - ...
 
-###### Artigo 66.º — Direito à fixação da ordem do dia
+Artigo 66.º
+
+Direito à fixação da ordem do dia
 
 1 - Os grupos parlamentares têm direito à fixação da ordem do dia de reuniões plenárias, durante cada sessão legislativa, nos termos seguintes:
 
@@ -177,7 +206,9 @@ c) ...
 
 Realização das reuniões
 
-###### Artigo 69.º — Dias e horas das reuniões e votações
+Artigo 69.º
+
+Dias e horas das reuniões e votações
 
 1 - ...
 
@@ -187,7 +218,9 @@ Realização das reuniões
 
 4 - A Mesa da Assembleia é responsável pela elaboração do guião das votações, o qual deve ser distribuído por todos os deputados com a antecedência mínima de vinte e quatro horas.
 
-###### Artigo 78.º — Tratamento de assuntos no período de antes da ordem do dia
+Artigo 78.º
+
+Tratamento de assuntos no período de antes da ordem do dia
 
 1 - ...
 
@@ -203,7 +236,9 @@ Realização das reuniões
 
 7 - Não poderá haver mais que uma declaração política semanal.
 
-###### Artigo 81.º — Emissão de voto
+Artigo 81.º
+
+Emissão de voto
 
 1 - ...
 
@@ -219,7 +254,9 @@ Realização das reuniões
 
 7 - ...
 
-###### Artigo 84.º — Uso da palavra pelos Deputados
+Artigo 84.º
+
+Uso da palavra pelos Deputados
 
 1 - ...
 
@@ -249,7 +286,9 @@ l) ...
 
 3 - ...
 
-###### Artigo 85.º — Uso da palavra pelos membros do Governo
+Artigo 85.º
+
+Uso da palavra pelos membros do Governo
 
 ...
 
@@ -267,7 +306,9 @@ f) ...
 
 g) Fazer protestos.
 
-###### Artigo 89.º — Requerimentos
+Artigo 89.º
+
+Requerimentos
 
 1 - ...
 
@@ -287,7 +328,9 @@ g) Fazer protestos.
 
 9 - ...
 
-###### Artigo 90.º — Recursos e protestos
+Artigo 90.º
+
+Recursos e protestos
 
 1 - O deputado que pedir a palavra para recursos e protestos limitar-se-á a indicar sucintamente o seu objecto e fundamento.
 
@@ -311,7 +354,9 @@ g) Fazer protestos.
 
 11 - (Revogado.)
 
-###### Artigo 91.º — Reacções contra ofensas à honra ou consideração
+Artigo 91.º
+
+Reacções contra ofensas à honra ou consideração
 
 1 - A palavra para explicações poderá ser pedida quando ocorrer incidente que justifique a defesa da honra ou dignidade pessoal do deputado.
 
@@ -319,7 +364,9 @@ g) Fazer protestos.
 
 3 - ...
 
-###### Artigo 92.º — Uso da palavra para esclarecimentos
+Artigo 92.º
+
+Uso da palavra para esclarecimentos
 
 1 - ...
 
@@ -331,7 +378,9 @@ g) Fazer protestos.
 
 5 - ...
 
-###### Artigo 94.º — Declaração de voto
+Artigo 94.º
+
+Declaração de voto
 
 1 - ...
 
@@ -341,7 +390,9 @@ g) Fazer protestos.
 
 4 - ...
 
-###### Artigo 97.º — Duração do uso da palavra
+Artigo 97.º
+
+Duração do uso da palavra
 
 1 - ...
 
@@ -357,7 +408,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 100.º — Voto
+Artigo 100.º
+
+Voto
 
 1 - ...
 
@@ -367,7 +420,9 @@ d) ...
 
 4 - Com excepção das votações nominais e por escrutínio secreto, o voto do Presidente e demais membros da Mesa em funções, a não ser que se manifestem em sentido contrário, são contados como incluídos no partido a que pertencem.
 
-###### Artigo 101.º — Forma das votações
+Artigo 101.º
+
+Forma das votações
 
 1 - ...
 
@@ -383,13 +438,17 @@ d) ...
 
 3 - Nas votações por levantados e sentados, a Mesa apura os resultados de acordo com a representatividade dos Grupos Parlamentares e Partidos, especificando o número de votos individualmente expressos em sentido distinto da respectiva bancada e a sua influência no resultado, quando a haja.
 
-###### Artigo 105.º — Convocação e ordem do dia
+Artigo 105.º
+
+Convocação e ordem do dia
 
 1 - As reuniões de cada comissão serão marcadas pela maioria dos seus membros ou pelo presidente com a antecedência mínima de vinte e quatro horas.
 
 2 - A ordem do dia é fixada pelos membros que a convocaram ou pelo seu Presidente, exigindo-se em ambas as situações a sua distribuição, reduzida a escrito, por todos os grupos parlamentares representados na Comissão.
 
-###### Artigo 136.º — Tramitação dos projectos e propostas
+Artigo 136.º
+
+Tramitação dos projectos e propostas
 
 1 - Admitido qualquer projecto ou proposta de decreto legislativo regional, o Presidente da Assembleia Legislativa envia o seu texto para apreciação para a Comissão Especializada.
 
@@ -411,7 +470,9 @@ c) No caso de a comissão não apresentar o parecer no prazo inicial ou no da pr
 
 7 - A Assembleia Legislativa poderá constituir uma comissão eventual para apreciação do projecto ou da proposta, quando a sua importância e especialidade o justifiquem.
 
-###### Artigo 162.º — Segunda deliberação
+Artigo 162.º
+
+Segunda deliberação
 
 1 - ...
 
@@ -425,7 +486,9 @@ c) No caso de a comissão não apresentar o parecer no prazo inicial ou no da pr
 
 6 - ...
 
-###### Artigo 236.º — Regra supletiva
+Artigo 236.º
+
+Regra supletiva
 
 1 - ...
 
@@ -457,7 +520,7 @@ c) ...
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 13 de Dezembro de 2011.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
 REGIMENTO DA ASSEMBLEIA LEGISLATIVA DA REGIÃO AUTÓNOMA DA MADEIRA
 
@@ -1399,7 +1462,7 @@ c) Com mais de 16 deputados, três reuniões.
 
 ###### Artigo 68.º — Apreciação de outras matérias
 
-**O Presidente da Assembleia Legislativa incluirá na primeira parte da ordem do dia prevista no n.º 2 do artigo 82.º a apreciação das seguintes matérias:**
+O Presidente da Assembleia Legislativa incluirá na primeira parte da ordem do dia prevista no n.º 2 do artigo 82.º a apreciação das seguintes matérias:
 
 a) Deliberações sobre o mandato de deputado;
 
@@ -1577,7 +1640,7 @@ g) À comunicação de qualquer decisão do Presidente da Assembleia Legislativa
 
 ###### Artigo 83.º — Convite a individualidades estranhas à Assembleia Legislativa
 
-**O Presidente da Assembleia Legislativa poderá, a título excepcional, ouvida a Conferência dos Representantes dos Grupos Parlamentares, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.**
+O Presidente da Assembleia Legislativa poderá, a título excepcional, ouvida a Conferência dos Representantes dos Grupos Parlamentares, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso da palavra
 
@@ -2153,7 +2216,7 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 ###### Artigo 138.º — Envio de propostas de alteração
 
-**O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.**
+O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 139.º — Apreciação de projectos ou de propostas sobre legislação do trabalho
 
@@ -2195,7 +2258,9 @@ A comissão competente deve promover a consulta da Associação de Municípios d
 
 ##### DIVISÃO IV — Discussão e votação
 
-##### SUBDIVISÃO I — Disposições gerais
+SUBDIVISÃO I
+
+Disposições gerais
 
 ###### Artigo 145.º — Conhecimento prévio dos projectos e propostas de decreto legislativo regional
 
@@ -2219,7 +2284,9 @@ Não será admitido o requerimento previsto no n.º 2 do artigo anterior enquant
 
 Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 145.º, salvo no que respeita à obrigatoriedade da distribuição em folhas avulsas aos deputados.
 
-##### SUBDIVISÃO II — Discussão e votação na generalidade
+SUBDIVISÃO II
+
+Discussão e votação na generalidade
 
 ###### Artigo 149.º — Objecto
 
@@ -2233,7 +2300,9 @@ Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa 
 
 2 - Neste caso, a Assembleia Legislativa delibera também sobre aquele que serve de base à discussão e votação na especialidade.
 
-##### SUBDIVISÃO III — Discussão e votação na especialidade
+SUBDIVISÃO III
+
+Discussão e votação na especialidade
 
 ###### Artigo 151.º — Regra geral
 
@@ -2349,7 +2418,9 @@ Os projectos e as propostas de decreto legislativo regional aprovados denominam-
 
 2 - O tempo global da duração e termo do debate, em função da natureza e importância das matérias, nos termos do disposto no n.º 1 do artigo 111.º, será fixado pelo regulamento de cada comissão.
 
-##### SUBDIVISÃO I — Discussão e votação na generalidade
+SUBDIVISÃO I
+
+Discussão e votação na generalidade
 
 ###### Artigo 164.º-A — Objecto
 
@@ -2365,7 +2436,9 @@ Os projectos e as propostas de decreto legislativo regional aprovados denominam-
 
 2 - Neste caso, a Comissão delibera também sobre aquele que serve de base à discussão e votação na especialidade.
 
-##### SUBDIVISÃO II — Discussão e votação na especialidade
+SUBDIVISÃO II
+
+Discussão e votação na especialidade
 
 ###### Artigo 164.º-C — Regra Geral
 
@@ -2777,7 +2850,7 @@ b) Que o Presidente da Assembleia Legislativa ou as comissões entendam que deve
 
 ###### Artigo 214.º — Comunicação ao autor ou aos autores da petição
 
-**O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.**
+O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.
 
 #### SECÇÃO VII — Inquéritos
 

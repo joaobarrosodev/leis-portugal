@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/28/2000/04/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2000-521996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82a110feabafbfea95cbbd8ca6e663452f097291b087b0e5063cf6201350218f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68c690f74dccf8af2e87a1fc4d0d1eef6bebcf0a6fe48ed20d7771654dff9981
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Centro de Segurança Social da Madeira
 - Definição de Competências
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Segurança Social
 relationships:
@@ -105,16 +105,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/203/1994/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/203/1994/04/08/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509787:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480292:por
+  label: "Revogado o DRR 28/92/M de 01-Out, na redacção do presente diploma, pelo DLR.26/2004/M.14.07.2004.ALR-RAM, DR.IS-A\
+    \ [196] de 20.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2004-480292
+  date: '2004-07-14'
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:33Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +187,9 @@ c) Departamento de Prestações Diferidas.
 
 5 - Ao Departamento de Prestações Diferidas compete assegurar as actividades previstas na alínea c) do n.º 2 do presente artigo.
 
-###### Artigo 15.º — Direcção de Serviços de Administração e Gestão
+Artigo 15.º
+
+Direcção de Serviços de Administração e Gestão
 
 1 - A DSAG compreende:
 
@@ -173,7 +209,9 @@ d) Departamento de Expediente, Arquivo e Microfilmagem.
 
 5 - Ao Departamento de Expediente, Arquivo e Microfilmagem compete assegurar as actividades relacionadas com a expedição de correspondência e demais documentos, bem como organizar o arquivo, produzir microformas e garantir a sua conservação e fácil consulta e efectuar o expurgo dos documentos.
 
-###### Artigo 20.º — Divisão de Coordenação dos Serviços Locais
+Artigo 20.º
+
+Divisão de Coordenação dos Serviços Locais
 
 1 - ...
 
@@ -203,7 +241,9 @@ Regras de transição a chefe de departamento
 
 6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
-###### Artigo 30.º-B — Carreira de tesoureiro-chefe
+Artigo 30.º-B
+
+Carreira de tesoureiro-chefe
 
 1 - O ingresso na carreira de tesoureiro-chefe far-se-á, mediante concurso, de entre:
 
@@ -233,16 +273,16 @@ Aprovado em Conselho do Governo Regional em 10 de Março de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 30 de Março de 2000.**
+Assinado em 30 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — Quadro da Direcção Regional da Segurança Social
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/04/098b00/17391742.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/04/098b00/17391742.pdf)](https://files.diariodarepublica.pt/1s/2000/04/098b00/17391742.pdf)
 
 ## ANEXO II — Quadro de pessoal do Centro de Segurança Social da Madeira
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/04/098b00/17391742.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/04/098b00/17391742.pdf)](https://files.diariodarepublica.pt/1s/2000/04/098b00/17391742.pdf)

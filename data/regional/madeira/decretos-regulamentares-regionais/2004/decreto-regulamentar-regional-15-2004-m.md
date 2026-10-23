@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2004/12/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2004-212810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59193257ff82056fa978050e05684c4fc6231d4b248749a0df699b45e03f1fc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3718aba98edc5226482b8aa125591561d8afd834c780af01d93d3019de5af08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Distribuição de Energia Elétrica
 - Energia Elétrica
-- Qualidade dos Serviços
 - Fiscalização
-- Regulamento da Qualidade de Serviço do Sistema Eléctrico de Serviço Público
-- Serviço Público
+- Madeira.região Autónoma
 - Prestação de Serviços
 - Produção de Energia Elétrica
-- Madeira.região Autónoma
+- Qualidade dos Serviços
 - Reclamação
 - Regulamento
+- Regulamento da Qualidade de Serviço do Sistema Eléctrico de Serviço Público
 - Sanção
+- Serviço Público
 - Sistema Eléctrico de Serviço Público
 - Sistema Eléctrico Independente
-- Comércio
 - Utente
 relationships:
 - type: cites
@@ -110,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:300579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 62
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:06Z'
   warnings: []
   errors: []
 ---
@@ -168,13 +196,13 @@ Nestes termos, o Governo Regional da Madeira, ao abrigo da alínea d) do n.º 1 
 
 Aprovado em Conselho do Governo Regional em 30 de Setembro de 2004.
 
-**O Secretário Regional dos Recursos Humanos, em substituição do Presidente do Governo Regional, Eduardo António Brazão de Castro.**
+O Secretário Regional dos Recursos Humanos, em substituição do Presidente do Governo Regional, Eduardo António Brazão de Castro.
 
-**Assinado em 15 de Novembro de 2004.**
+Assinado em 15 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO
 
@@ -386,7 +414,7 @@ b) Duração média das interrupções do sistema (SAIDI), em minutos.
 
 Os indicadores para as redes de distribuição em média tensão e baixa tensão previstos no n.º 2 do artigo anterior, com excepção do indicador END, referentes a interrupções longas não tendo como origem o sistema produtor e não abrangidas pelo n.º 1 do artigo 13.º, não deverão exceder os seguintes valores anuais:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 #### SECÇÃO II — Qualidade individual
 
@@ -418,13 +446,13 @@ Duração total das interrupções (horas por ano) - duas.
 
 Número de interrupções por ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 Duração total das interrupções
 
 (horas por ano)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 ### CAPÍTULO III — Qualidade da onda de tensão
 
@@ -624,7 +652,7 @@ b) Informar individualmente e com a antecedência mínima estabelecida no Regula
 
 Os indicadores gerais de qualidade do relacionamento comercial e os respectivos padrões a observar são os constantes do seguinte quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 ###### Artigo 31.º — Cálculo dos indicadores gerais
 
@@ -710,7 +738,7 @@ b) No período de oito horas a contar do momento de regularização da situaçã
 
 1 - Os indicadores individuais de natureza comercial e os respectivos padrões a observar pela entidade concessionária do transporte e distribuidor vinculado no relacionamento com cada um dos seus clientes são os constantes do quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 2 - Os padrões estabelecidos no número anterior devem integrar, de forma expressa, o clausulado dos contratos de fornecimento de energia eléctrica.
 
@@ -1178,7 +1206,7 @@ Severidade de curta duração (P(índice st)) medida num período de dez minutos
 
 Severidade de longa duração (P(índice lt)) calculada sobre uma sequência de 12 valores de P(índice st) relativos a um intervalo de duas horas, segundo a expressão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 Sobretensão temporária à frequência industrial - sobretensão ocorrendo num dado local com uma duração relativamente longa.
 
@@ -1210,7 +1238,7 @@ Individualmente, segundo a sua amplitude relativa (U(índice h)) em relação à
 
 Globalmente, ou seja, pelo valor da distorção harmónica total (DHT) calculado pela expressão seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 Tensão inter-harmónica - tensão sinusoidal cuja frequência está compreendida entre as frequências harmónicas, ou seja, cuja frequência não é um múltiplo inteiro da frequência fundamental.
 
@@ -1246,7 +1274,7 @@ A informação anteriormente referida deverá ser registada e conservada durante
 
 1.2.2.1 - Quadro geral de classificação. - Apresenta-se em seguida o quadro geral de classificação das interrupções. A entidade concessionária do transporte e distribuidor vinculado poderá recorrer a um maior detalhe classificativo se assim o entender como necessário:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 1.2.2.2 - Origem das interrupções:
 
@@ -1322,7 +1350,7 @@ Para interrupções de duração elevada (acima dos trinta minutos) considera-se
 
 Em suma, o indicador ENF é obtido a partir do somatório dos valores estimados de energia não fornecida correspondentes a todas as interrupções em todos os PdE durante um determinado período (normalmente, um ano civil), de acordo com a seguinte expressão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 1.3.2.2 - TIE - tempo de interrupção equivalente. - Indicador que representa o tempo de interrupção da potência média fornecida expectável (no caso de não ter havido interrupções) num determinado período (normalmente, um ano civil) e que é dado pela expressão:
 
@@ -1344,15 +1372,15 @@ T - duração do período considerado, em minutos.
 
 1.3.2.3 - SAIFI - frequência média das interrupções do sistema. - Indicador que representa o número médio de interrupções verificadas nos pontos de entrega durante um determinado período (normalmente, um ano civil), dado por:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 1.3.2.4 - SAIDI - duração média das interrupções do sistema. - Indicador que representa a duração média das interrupções verificadas nos pontos de entrega durante um determinado período (normalmente um ano civil), dado por:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 1.3.2.5 - SARI - tempo médio de reposição de serviço do sistema. - Indicador que representa o tempo médio de reposição de serviço durante um determinado período (normalmente um ano civil), dado por:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 1.3.3 - Cálculo dos indicadores gerais das redes de distribuição. - Os indicadores gerais utilizados para determinar o desempenho das redes de distribuição no que respeita à continuidade de serviço são os identificados e descritos nos números seguintes:
 
@@ -1370,27 +1398,27 @@ T - período de tempo considerado, em minutos.
 
 1.3.3.2 - TIEPI - tempo de interrupção equivalente da potência instalada. - Rede MT - indicador que representa o tempo de interrupção da potência instalada e que é dado pela seguinte expressão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 1.3.3.3 - SAIFI - frequência média das interrupções do sistema:
 
 Rede MT - indicador que representa o número médio de interrupções verificadas nos pontos de entrega (PTD ou PTC), durante um determinado período (normalmente um ano civil), dado por:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 Rede BT - indicador que representa o número médio de interrupções verificadas nos pontos de entrega (clientes BT), durante um determinado período (normalmente um ano civil), dado por:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 1.3.3.4 - SAIDI - tempo médio das interrupções do sistema:
 
 Rede MT - indicador que representa a duração média das interrupções verificadas nos pontos de entrega (PTD e PTC) durante um determinado período (normalmente um ano civil), dado por:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 Rede BT - indicador que representa a duração média das interrupções verificadas nos pontos de entrega (clientes BT) durante um determinado período (normalmente um ano civil), dado por:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 2 - Procedimentos a observar no método de cálculo dos indicadores individuais:
 
@@ -1418,7 +1446,7 @@ NI(índice j) - número total de interrupções ocorridas no ponto de entrega j,
 
 DI - Duração total das interrupções - este indicador representa a duração total das interrupções acidentais longas verificadas num ponto de entrega num determinado período (normalmente um ano civil), e é dado por:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 3 - Procedimentos a observar quando ocorram casos fortuitos ou de força maior:
 
@@ -1532,7 +1560,7 @@ Em condições normais de exploração, não considerando as interrupções de a
 
 Níveis de referência
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 Para a avaliação destes índices de severidade devem ser excluídas as situações associadas à reposição de serviço do sistema produtor.
 
@@ -1540,7 +1568,7 @@ Para a avaliação destes índices de severidade devem ser excluídas as situaç
 
 Níveis de referência
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 A distorção harmónica total (DHT em percentagem), calculada de acordo com a NP EN 50 160, não deverá ser superior a 8% para as redes AT.
 
@@ -1550,11 +1578,11 @@ A distorção harmónica total (DHT em percentagem), calculada de acordo com a N
 
 O início ocorre quando, num determinado ponto da rede, o valor eficaz da tensão de uma ou mais fases cai repentinamente para um valor situado entre 90% e 1% da tensão declarada U(índice c) e termina quando a tensão retoma um valor acima de 90% de U(índice c) acrescido de um valor de histerese (v. figura seguinte):
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 O início ocorre quando, num determinado ponto da rede, o valor eficaz da tensão de uma ou mais fases cai repentinamente para um valor situado entre 90% e 1% da tensão de referência deslizante U(índice rd) (valor eficaz da tensão existente imediatamente antes do início da cava) e termina quando a tensão retoma um valor acima dos 90% dessa tensão de referência acrescida de um valor de histerese. Esta metodologia é recomendada como preferencial no relatório técnico CEI 61000-2-8 para AT (v. figura seguinte):
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 As causas usuais das cavas de tensão são os curto-circuitos que ocorrem nas redes de energia eléctrica ou nas instalações dos clientes. Estas quedas de tensão propagam-se pelas redes, sendo a sua amplitude tanto maior quanto maior for a proximidade ao defeito.
 
@@ -1564,13 +1592,13 @@ Não existem de momento recomendações internacionais para os valores de refer�
 
 Agregação de medidas - as cavas de tensão que ocorram simultaneamente em mais do que uma fase serão contabilizadas como um único evento (cava equivalente). A esta cava equivalente corresponde a amplitude da cava mais profunda ((Delta)U(índice max)) e uma duração equivalente ((Delta)T(índice eq)) dada pela seguinte expressão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 Agregação de eventos - para fins estatísticos e tendo em conta os potenciais efeitos das cavas de tensão nas instalações de utilização de energia eléctrica, poderá proceder-se à agregação das cavas que ocorram num determinado intervalo de tempo (período de agregação) num ponto da rede. Nesse caso, apenas será contabilizado o evento de maior severidade (medida pelo produto (Delta)U x (Delta)T) ocorrido nesse intervalo de tempo. Para efeitos de divulgação a entidades interessadas recomenda-se a adopção de períodos de agregação temporal de um ou dez minutos, com a apresentação dos resultados em conformidade com o seguinte quadro resumo (de acordo com a CEI 61000-2-8):
 
 Nota. - Na col. 1.ª é referenciada a duração mínima de uma cava (0,01") correspondente ao tempo de um semiciclo da onda de tensão (50 Hz).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 Com a apresentação dos resultados deverá ser indicado o período de medição, o período de agregação (se utilizado) e, no caso do período de medição ser superior a um ano, se os valores apresentados se referem a valores totais, máximos, médios ou correspondem a 95% de probabilidade de ocorrência.
 
@@ -1620,7 +1648,7 @@ S(índice cc(índice AT)) - potência de curto-circuito mínima no ponto de inte
 
 5.3.1.2 - Potência requisitada ou potência contratada superior a 0,1% da potência de curto-circuito S(índice cc) mínima no ponto de interligação. - Nos casos em que a potência requisitada ou contratada pelas instalações seja superior a 0,1% da potência de curto-circuito mínima no ponto de interligação, a emissão de flicker de curta e longa duração não poderá exceder os valores obtidos a partir das expressões seguintes:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 5.3.2 - Valores limite de emissão de flicker para instalações ligadas às redes a pontos de interligação de média tensão (MT):
 
@@ -1628,11 +1656,11 @@ S(índice cc(índice AT)) - potência de curto-circuito mínima no ponto de inte
 
 IEC 61000-3-7: Tabela 4
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 5.3.2.2 - Etapa 2 - limites de emissão proporcionais à potência contratada. - No caso da não verificação da etapa anterior, os níveis de emissão para o flicker de curta e longa duração deverão ser inferiores aos limites assim obtidos:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 Nas ilhas onde apenas existirem redes de média tensão o coeficiente de transferência do flicker de curta duração (P(índice st)) da AT para a MT (T(índice P(índice stAM))) assumirá o valor zero.
 
@@ -1652,7 +1680,7 @@ S(índice cc(índice AT)) - potência de curto-circuito mínima no ponto de inte
 
 5.4.1.2 - Potência requisitada ou contratada superior a 0,1% da potência de curto-circuito S(índice cc) mínima no ponto de interligação. - No caso em que a potência requisitada ou contratada pela instalação seja superior a 0,1% da potência de curto-circuito mínima no ponto de interligação, a emissão de harmónicas não poderá exceder os valores obtidos a partir das expressões seguintes:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 5.4.2 - Valores limite de emissão de harmónicas para instalações ligadas às redes a pontos de interligação de média tensão (MT):
 
@@ -1668,7 +1696,7 @@ S(índice cc(índice MT)) - a potência de curto-circuito mínima no ponto de in
 
 Caso contrário, há que determinar a potência de distorção equivalente da instalação i, SDwi (MVA), obtida pela soma ponderada das potências das j cargas não lineares instaladas SDwj (MVA), afectadas do respectivo coeficiente de ponderação w(índice j):
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 O critério de aceitação da ligação passa então a ser:
 
@@ -1678,7 +1706,7 @@ Em alternativa, é possível garantir condições de ligação equivalentes, est
 
 IEC 61000-3-6: Tabela 7
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 Excepções:
 
@@ -1696,7 +1724,7 @@ Zh - impedância harmónica de ordem h vista do ponto de interligação (Ómega)
 
 E(índice U(índice h(índice i))) - limite individual de emissão de tensão harmónica de ordem h da instalação i (V), dado por:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
+[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)](https://files.diariodarepublica.pt/1s/2004/12/287b00/70107038.pdf)
 
 Em termos de distorsão harmónica total, a instalação i deverá respeitar o seguinte limite de emissão harmónica total, DHT(índice u(índice i)), dado por:
 

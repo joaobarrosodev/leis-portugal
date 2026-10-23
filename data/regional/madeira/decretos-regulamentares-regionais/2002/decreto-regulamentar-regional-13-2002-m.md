@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/08/190b00/58325845.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2002/08/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2002-171335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fa81b5e8e1fc78680c3cbf20356e1b78f1e5d867c53da1c15ba5d0890305aa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d16c5e1656b363bafdf7e2513329f16a14029806da058a2bb45965c1d63cd625
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
 subjects:
 - Ensino Técnico Profissional
 - Escola Profissional de Hotelaria e Turismo da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:345313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a manutenção em vigor do DRR 3/99/M, de 20-Mar, na redacção do presente diploma, pelo DRR.5/2005/M.21.02.2005.PG-RAM,\
+    \ DR.IS-B [47] de 08.03.2005, até à publicação integral dos diplomas a que se refere o n.º 4 do seu art. 4.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/1998/09/18/m/dre
   label: null
@@ -95,16 +101,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:145671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515258:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:548416:por
+  label: "Revogado o DRR 3/99/M de 20-Mar, com as alterações constantes do presente diploma, pelo DRR.17/2005/M.30.03.2005.PG-RAM,\
+    \ DR.IS-B [76] de 19.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2005-548416
+  date: '2005-03-30'
 article_structure:
-  article_count: 55
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 39
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:53Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +175,9 @@ Os artigos 1.º, 2.º, 9.º, 10.º, 11.º, 13.º, 19.º e 20.º do [Decreto Regu
 
 «CAPÍTULO I
 
-###### Artigo 1.º — Natureza e atribuições
+Artigo 1.º
+
+Natureza e atribuições
 
 1 - ...
 
@@ -177,11 +211,17 @@ m) Cooperar na análise sobre o fenómeno turístico e suas implicações socioe
 
 4 - ...
 
-### CAPÍTULO II — Órgãos, serviços, património e competências
+CAPÍTULO II
 
-#### SECÇÃO I — Estrutura e património
+Órgãos, serviços, património e competências
 
-###### Artigo 2.º — Estrutura
+SECÇÃO I
+
+Estrutura e património
+
+Artigo 2.º
+
+Estrutura
 
 1 - ...
 
@@ -191,9 +231,13 @@ m) Cooperar na análise sobre o fenómeno turístico e suas implicações socioe
 
 4 - ...
 
-#### SECÇÃO V — Conselho administrativo
+SECÇÃO V
 
-###### Artigo 9.º — Composição e competências
+Conselho administrativo
+
+Artigo 9.º
+
+Composição e competências
 
 1 - ...
 
@@ -229,9 +273,13 @@ i) ...
 
 3 - ...
 
-#### SECÇÃO VI — Serviços
+SECÇÃO VI
 
-###### Artigo 10.º — Departamento de Gestão Administrativa e Financeira
+Serviços
+
+Artigo 10.º
+
+Departamento de Gestão Administrativa e Financeira
 
 1 - O DGAF é um órgão de apoio à DAF.
 
@@ -275,7 +323,9 @@ c) Secção de Economato.
 
 5 - Na dependência directa do director do DGAF funciona o Serviço de Expediente Geral.
 
-###### Artigo 11.º — Secção de Administração Geral, Pessoal e Secretariado
+Artigo 11.º
+
+Secção de Administração Geral, Pessoal e Secretariado
 
 ...
 
@@ -289,7 +339,9 @@ d) [Actual alínea e)];
 
 e) [Actual alínea f)].
 
-###### Artigo 13.º — Secção de Economato
+Artigo 13.º
+
+Secção de Economato
 
 À SE compete:
 
@@ -301,7 +353,9 @@ c) Assegurar a aquisição, segurança e conservação dos bens alimentares, em 
 
 d) Efectuar procedimentos administrativos relativos à aquisição e locação de equipamentos, serviços e bens.
 
-###### Artigo 19.º — Regime do pessoal não docente
+Artigo 19.º
+
+Regime do pessoal não docente
 
 1 - ...
 
@@ -319,7 +373,9 @@ d) Efectuar procedimentos administrativos relativos à aquisição e locação d
 
 8 - ...
 
-###### Artigo 20.º — Regime do pessoal docente
+Artigo 20.º
+
+Regime do pessoal docente
 
 1 - ...
 
@@ -353,7 +409,9 @@ Serviços de apoio
 
 A cada serviço de apoio cabe assegurar a componente técnica de gestão e funcionamento da EPHTM sob a coordenação do director e de harmonia com as deliberações vinculadas pelos órgãos da mesma.
 
-###### Artigo 5.º-B — Gabinete Técnico e de Estudos
+Artigo 5.º-B
+
+Gabinete Técnico e de Estudos
 
 1 - Ao GTE compete:
 
@@ -367,7 +425,9 @@ d) Organizar e manter actualizado, em estreita colaboração com a Direcção Ad
 
 2 - O GTE é dirigido por um coordenador.
 
-###### Artigo 5.º-C — Gabinete Jurídico
+Artigo 5.º-C
+
+Gabinete Jurídico
 
 1 - O GJ é um serviço de apoio à direcção nas áreas jurídicas, administrativas e financeiras.
 
@@ -383,7 +443,9 @@ d) Proceder à recolha, compilação, sistematização, tratamento e difusão da
 
 3 - O GJ é dirigido por um coordenador.
 
-###### Artigo 6.º-A — Direcção Pedagógica
+Artigo 6.º-A
+
+Direcção Pedagógica
 
 1 - À DP compete, designadamente:
 
@@ -427,7 +489,9 @@ c) Área Científico-Tecnológica;
 
 d) Área das Ciências Humanas e Sociais.
 
-###### Artigo 6.º-B — Departamento de Desenvolvimento Curricular
+Artigo 6.º-B
+
+Departamento de Desenvolvimento Curricular
 
 1 - Ao DDC compete, designadamente:
 
@@ -441,7 +505,9 @@ d) Zelar pela actualização da biblioteca.
 
 2 - O DDC é coordenado por um elemento da equipa formativa nomeado pelo director, perante proposta do CP.
 
-###### Artigo 6.º-C — Unidade de Inserção na Vida Activa
+Artigo 6.º-C
+
+Unidade de Inserção na Vida Activa
 
 À UNIVA compete, designadamente:
 
@@ -453,7 +519,9 @@ c) Acompanhar os alunos nos processos de formação em contexto de trabalho;
 
 d) Desenvolver acções de informação e divulgação junto de outros estabelecimentos de educação e formação.
 
-###### Artigo 6.º-D — Direcção de Estabelecimentos de Aplicação
+Artigo 6.º-D
+
+Direcção de Estabelecimentos de Aplicação
 
 1 - À DEA compete:
 
@@ -479,7 +547,9 @@ i) Zelar em articulação com o GTE pela conservação e manutenção dos equipa
 
 3 - A DEA é assegurada por um assistente de direcção.
 
-###### Artigo 6.º-E — Direcção Administrativo-Financeira
+Artigo 6.º-E
+
+Direcção Administrativo-Financeira
 
 1 - À DAF compete, designadamente:
 
@@ -515,7 +585,9 @@ p) Propor a promoção e recrutamento de pessoal necessário ao bom funcionament
 
 2 - Na dependência da DAF funciona o Departamento de Gestão Administrativa e Financeira (DGAF).
 
-###### Artigo 10.º-A — Serviço de Expediente Geral
+Artigo 10.º-A
+
+Serviço de Expediente Geral
 
 1 - O SEG é um serviço de apoio ao DGAF e tem como principal função a organização e a gestão da informação.
 
@@ -537,11 +609,11 @@ Aprovado em Conselho do Governo Regional em 4 de Julho de 2002.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 22 de Julho de 2002.**
+Assinado em 22 de Julho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.
 
 ORGÂNICA DA ESCOLA PROFISSIONAL DE HOTELARIA E TURISMO DA MADEIRA
 
@@ -1005,7 +1077,9 @@ a) Proceder à recepção, classificação, registo e distribuição de toda a c
 
 b) Assegurar as tarefas necessárias à organização e gestão do arquivo.
 
-###### Artigo 11.º — Secção de Administração Geral, Pessoal e Secretariado
+###### Artigo 11.º
+
+#### Secção de Administração Geral, Pessoal e Secretariado
 
 À Secção de Administração Geral, Pessoal e Secretariado compete:
 
@@ -1019,7 +1093,9 @@ d) Assegurar todas as tarefas de âmbito administrativo inerentes aos formadores
 
 e) Assegurar o apoio adequado ao funcionamento das aulas.
 
-###### Artigo 12.º — Secção de Contabilidade e Tesouraria
+###### Artigo 12.º
+
+#### Secção de Contabilidade e Tesouraria
 
 À Secção de Contabilidade e Tesouraria compete:
 
@@ -1035,7 +1111,9 @@ e) Prestar as necessárias informações inerentes à execução orçamental;
 
 f) Elaborar a conta anual de gerência.
 
-###### Artigo 13.º — Secção de Economato
+###### Artigo 13.º
+
+#### Secção de Economato
 
 À Secção de Economato compete:
 

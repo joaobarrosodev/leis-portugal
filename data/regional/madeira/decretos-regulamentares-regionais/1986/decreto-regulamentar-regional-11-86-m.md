@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1986-228576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d7f0cc1b33dfb5af554b6f713c9c7e34009d40d47857093485e3754269e0785
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10d9d634955a3f2cb4f9e8f3ae2eed81940c85b943afce7a1cce9332376225b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Artesanato
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:328860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:39Z'
   warnings: []
   errors: []
 ---
@@ -106,36 +124,36 @@ Nestes termos:
 
 O Governo Regional decreta, ao abrigo da alínea b) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º Todo o bem ou produto do bordado e tapeçaria produzido na Região Autónoma da Madeira, independentemente do seu modelo, desenho, dimensão, método de composição, fabrico ou forma de apresentação, será submetido obrigatoriamente, antes da sua comercialização, à apreciação técnica do Instituto do Bordado, Tapeçarias e Artesanato da Madeira (IBTAM).
+Artigo 1.º Todo o bem ou produto do bordado e tapeçaria produzido na Região Autónoma da Madeira, independentemente do seu modelo, desenho, dimensão, método de composição, fabrico ou forma de apresentação, será submetido obrigatoriamente, antes da sua comercialização, à apreciação técnica do Instituto do Bordado, Tapeçarias e Artesanato da Madeira (IBTAM).
 
-###### Art. 2.º A apreciação do IBTAM destina-se a assegurar a natureza, qualidade e autenticidade dos produtos, independentemente de se destinarem à venda no território nacional ou à exportação, os quais serão materializados mediante a aposição em cada peça ou objecto de um selo de chumbo, apertado por alicate, com a marca de garantia aprovada pela Resolução do Governo Regional da Madeira n.º 384/79, de 29 de Novembro, publicada no Jornal Oficial, 1.ª série, n.º 40, de 13 de Dezembro de 1979.
+Art. 2.º A apreciação do IBTAM destina-se a assegurar a natureza, qualidade e autenticidade dos produtos, independentemente de se destinarem à venda no território nacional ou à exportação, os quais serão materializados mediante a aposição em cada peça ou objecto de um selo de chumbo, apertado por alicate, com a marca de garantia aprovada pela Resolução do Governo Regional da Madeira n.º 384/79, de 29 de Novembro, publicada no Jornal Oficial, 1.ª série, n.º 40, de 13 de Dezembro de 1979.
 
-###### Art. 3.º O IBTAM poderá rejeitar as peças ou unidades que não se encontrem com a indispensável qualidade de bordado, desenhos, formas, modelos, matérias-primas ou acessórios.
+Art. 3.º O IBTAM poderá rejeitar as peças ou unidades que não se encontrem com a indispensável qualidade de bordado, desenhos, formas, modelos, matérias-primas ou acessórios.
 
-###### Art. 4.º Fica proibida na Região:
+Art. 4.º Fica proibida na Região:
 
 a) A exposição e comercialização de tecidos que contenham desenhos e motivos do bordado da Madeira estampados;
 
 b) A exposição e venda ambulante de bordado e tapeçaria da Madeira, com excepção dos bomboteiros.
 
-###### Art. 5.º Na exposição e venda de bordado, tapeçaria, obra de vime e artesanato da Madeira deverá existir uma clara separação e individualização física em relação aos produtos similares provenientes de outras zonas do País ou do estrangeiro.
+Art. 5.º Na exposição e venda de bordado, tapeçaria, obra de vime e artesanato da Madeira deverá existir uma clara separação e individualização física em relação aos produtos similares provenientes de outras zonas do País ou do estrangeiro.
 
-###### Art. 6.º Todos os produtos deverão conter em termos bem visíveis a denominação da sua origem (país, localidade ou região) para assegurar uma perfeita visão e conhecimento de todo e qualquer objecto.
+Art. 6.º Todos os produtos deverão conter em termos bem visíveis a denominação da sua origem (país, localidade ou região) para assegurar uma perfeita visão e conhecimento de todo e qualquer objecto.
 
-###### Art. 7.º Ao IBTAM e à Direcção de Serviços de Fiscalização Económica (DSFE), sem prejuízo da competência cometida a outras entidades, cumprirá velar pelo cumprimento do disposto neste diploma.
+Art. 7.º Ao IBTAM e à Direcção de Serviços de Fiscalização Económica (DSFE), sem prejuízo da competência cometida a outras entidades, cumprirá velar pelo cumprimento do disposto neste diploma.
 
-###### Art. 8.º Às infracções ao disposto no presente diploma são aplicáveis as penalidades previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, nomeadamente as do seu artigo 67.º, se outras mais graves lhes não couberem.
+Art. 8.º Às infracções ao disposto no presente diploma são aplicáveis as penalidades previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, nomeadamente as do seu artigo 67.º, se outras mais graves lhes não couberem.
 
-###### Art. 9.º Fica revogada a [Portaria n.º 41/85](https://diariodarepublica.pt/dr/detalhe/portaria/41-1985-328860), de 20 de Março.
+Art. 9.º Fica revogada a [Portaria n.º 41/85](https://diariodarepublica.pt/dr/detalhe/portaria/41-1985-328860), de 20 de Março.
 
-###### Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 2 de Maio de 1986.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 23 de Maio de 1986.**
+Assinado em 23 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

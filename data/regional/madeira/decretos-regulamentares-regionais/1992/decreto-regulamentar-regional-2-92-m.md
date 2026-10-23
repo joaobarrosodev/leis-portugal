@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/037b00/09380939.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/1992/02/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1992-157399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ea8e7fb6bc08ef936d613a5ea78a0247c27c7cb78a86d6e69d876b1c81e9318
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e7fff02fe7422ad32c8b5f8fbe8996390ba676da55f0d46f87c3add4e4415c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional da Administração Pública
 - Direcção Regional de Portos
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:667370:por
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640086:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667370:por
+  label: "Revogado pelo DRR.23/97/M.09.10.1997.PG-RAM, DR.IS-B [234] de 09.10.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-1997-667370
+  date: '1997-09-19'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:28Z'
   warnings: []
   errors: []
 ---
@@ -106,19 +119,19 @@ Assim:
 
 O Governo Regional da Madeira decreta, nos termos da alínea d) do artigo 229.º da Constituição e da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
 
-###### Artigo 1.º São aprovadas as alterações aos artigos 2.º, 3.º, 5.º, 7.º e 8.º e ao anexo I da Lei Orgânica da Direcção Regional de Portos, cujo texto se publica em anexo ao presente decreto regulamentar e que dele faz parte integrante.
+Artigo 1.º São aprovadas as alterações aos artigos 2.º, 3.º, 5.º, 7.º e 8.º e ao anexo I da Lei Orgânica da Direcção Regional de Portos, cujo texto se publica em anexo ao presente decreto regulamentar e que dele faz parte integrante.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Dezembro de 1991.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 23 de Janeiro de 1992.**
+Assinado em 23 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Lei Orgânica da Direcção Regional de Portos
 
@@ -226,4 +239,4 @@ p) Propor concessões ao departamento governamental da tutela para utilização 
 
 1 - Compete à assessoria jurídica exclusivamente a elaboração de estudos, pareceres e apoio jurídico.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/037b00/09380939.pdf))](https://files.diariodarepublica.pt/1s/1992/02/037b00/09380939.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/037b00/09380939.pdf)

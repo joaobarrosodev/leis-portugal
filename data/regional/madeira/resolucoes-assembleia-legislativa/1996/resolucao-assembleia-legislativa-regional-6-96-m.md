@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/6/1996/03/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/6-1996-534393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7c7028c656df3ad90e2178be5aef6d78f3248f6c3ec9161839ee44e8e43b4ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76466d6cbda4ee1b4ea6c546ba72f4116436810e3c21e96f0f973d1a1645f98f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Legislativa Regional
-- Orçamento
 - Madeira.região Autónoma
-relationships: []
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:51Z'
   warnings: []
   errors: []
 ---
@@ -89,8 +93,8 @@ A Assembleia Legislativa Regional da Madeira, reunida em Plenário de 15 de Feve
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 15 de Fevereiro de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
 Orçamento da Assembleia Legislativa Regional para o ano de 1996
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/064b00/05150517.pdf))](https://files.diariodarepublica.pt/1s/1996/03/064b00/05150517.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/064b00/05150517.pdf)

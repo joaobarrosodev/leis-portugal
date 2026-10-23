@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/207b00/30053015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1996/09/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1996-241447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd9ab85e0187b98a80c9fdf58a8937a1b5f5b241d76b28b096b486d55c538060
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26c002d7e65d14262863b373aa398529bb670a37ffd61cc206a2a762570190b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Direcção Regional das Pescas
 - Definição de Competências
+- Direcção Regional das Pescas
 - Formas de Provimento
+- Gestão de Recursos Humanos
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 - Recrutamento de Pessoal
 - Secretaria Regional da Agricultura Florestas e Pescas
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:191516:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:639905:por
+  label: "Alterados os arts. 3º e 9º, aditados os arts. 10º-A e 10º-B e alterado o Quadro de Pessoal, pelo DRR.18/99/M.1999.11.04.PG-RAM,\
+    \ DR.IS-B [279] de 30/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-1999-639905
+  date: '1999-11-04'
+- type: amended_by
+  target: pt:dre:693196:por
+  label: "Mantido em vigor o presente diploma orgânico e o quadro de pessoal, com a redacção dada do DRR 18/99/M de 30-Nov,\
+    \ pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B [94] de 16.05.2005, até à entrada em vigor do novo diploma orgânico, previsto\
+    \ no nº 2 do art. 4º do citado DRR 23/2005/M\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/1993/01/08/p/dre
   label: null
@@ -104,16 +117,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191516:por
+  label: "Revogado o presente diploma, mantendo-se a estrutura interna atual até a publicação dos diplomas que aprovam a organização\
+    \ interna da Direção Regional de Pescas, na redação do DRR 18/99/M, de 30-nov, pelo DRR.32/2012/M.05.11.2012.PG-RAM, DR.IS\
+    \ [213] de 05.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-2012-191516
+  date: '2012-11-05'
 article_structure:
   article_count: 11
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:59Z'
   warnings: []
   errors: []
 ---
@@ -194,21 +246,21 @@ b) Repartição de Contabilidade, que compreende duas secções administrativas.
 
 a) Direcção de Serviços de Desenvolvimento e Administração das Pescas, que compreende as seguintes divisões:
 
-##### Divisão de Coordenação Técnica e Profissional;
+Divisão de Coordenação Técnica e Profissional;
 
-##### Divisão de Planeamento e Estatística;
+Divisão de Planeamento e Estatística;
 
-##### Divisão de Transformação e Mercados;
+Divisão de Transformação e Mercados;
 
 Serviço de Inspecção das Pescas;
 
 b) Direcção de Serviços de Investigação das Pescas, que compreende as seguintes divisões:
 
-##### Divisão de Aquicultura Marítima;
+Divisão de Aquicultura Marítima;
 
-##### Divisão de Biologia e Oceanografia Pesqueira;
+Divisão de Biologia e Oceanografia Pesqueira;
 
-##### Divisão de Técnicas e Artes de Pesca;
+Divisão de Técnicas e Artes de Pesca;
 
 c) Direcção dos Serviços de Entrepostos Frigoríficos;
 
@@ -414,12 +466,12 @@ O presente diploma entra em vigor à data da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 de Julho de 1996.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Agosto de 1996.**
+Assinado em 2 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/207b00/30053015.pdf))](https://files.diariodarepublica.pt/1s/1996/09/207b00/30053015.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/207b00/30053015.pdf)

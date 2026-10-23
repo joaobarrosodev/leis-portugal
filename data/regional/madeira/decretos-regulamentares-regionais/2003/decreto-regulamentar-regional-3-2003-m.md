@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/026b00/06510661.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2003/01/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2003-167388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f292091b6cc8a0f10c0d79389bdc689dc6b77f3a8dbcdcf8da852dab235f15b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7beb2c475510d369563c7f30a4fe5a88d35ed55d71ea43770db249ee65ca080
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ relationships:
   target: pt:dre:286081:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693196:por
+  label: "Mantido em vigor o diploma orgânico e o quadro de pessoal pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B [94] de\
+    \ 16.05.2005, até à entrada em vigor do novo diploma orgânico\0co\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/97/2001/03/26/p/dre
   label: null
@@ -105,16 +111,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:141407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639903:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:655915:por
+  label: "Rectificado pela DECL-RECT.1-X/2003.2003.02.28.PCM, DR.IS-B [50]2ºSupl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-x-2003-655915
+  date: '2003-02-28'
+- type: repealed_by
+  target: pt:dre:286081:por
+  label: "Revogado pelo DLR.18/2006/M.15.05.2006.AL-RAM, DR.IS-A [103] de 29.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2006-286081
+  date: '2006-05-15'
 article_structure:
   article_count: 26
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:03Z'
   warnings: []
   errors: []
 ---
@@ -351,7 +403,9 @@ e) Criar comissões especializadas para o estudo e apreciação de assuntos espe
 
 #### SECÇÃO III — Serviços operativos
 
-##### SUBSECÇÃO I — Divisão de Controlo e Regulamentação Vitivinícola
+##### SUBSECÇÃO I
+
+##### Divisão de Controlo e Regulamentação Vitivinícola
 
 ###### Artigo 12.º — Natureza, competências e estrutura
 
@@ -399,7 +453,9 @@ a) Secção das Contas Correntes e Estatística;
 
 b) Secção de Controlo das Bebidas Espirituosas.
 
-##### SUBSECÇÃO II — Divisão de Laboratório Vitivinícola
+##### SUBSECÇÃO II
+
+##### Divisão de Laboratório Vitivinícola
 
 ###### Artigo 13.º — Natureza, competências e estatuto
 
@@ -423,7 +479,9 @@ h) Exercer as demais competências que, dentro da sua área funcional, lhe sejam
 
 2 - A DLV é, para todos os efeitos, o laboratório vitivinícola oficial da Região Autónoma da Madeira e os boletins ou outros documentos dela emanados, nos termos da alínea a) do número anterior, fazem fé em juízo e têm a qualidade de documentos autênticos.
 
-##### SUBSECÇÃO III — Divisão de Vitivinicultura
+##### SUBSECÇÃO III
+
+##### Divisão de Vitivinicultura
 
 ###### Artigo 14.º — Natureza e competências
 
@@ -447,7 +505,9 @@ h) Emitir pareceres técnicos no âmbito da produção vitícola;
 
 i) Exercer as demais competências que, dentro da sua área funcional, lhe sejam superiormente atribuídas.
 
-##### SUBSECÇÃO IV — Divisão de Promoção e Divulgação
+##### SUBSECÇÃO IV
+
+##### Divisão de Promoção e Divulgação
 
 ###### Artigo 15.º — Natureza e competências
 
@@ -475,7 +535,9 @@ i) Exercer as demais competências que, dentro da sua área funcional, lhe sejam
 
 3 - A DPD, para a realização das suas competências, compreende ainda a Secção de Documentação e Biblioteca.
 
-##### SUBSECÇÃO V — Divisão de Gestão Administrativa e Financeira
+##### SUBSECÇÃO V
+
+##### Divisão de Gestão Administrativa e Financeira
 
 ###### Artigo 16.º — Natureza, competências e estrutura
 
@@ -659,13 +721,13 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 2003.
 
 Aprovado em Conselho do Governo Regional em 20 de Dezembro de 2002.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 9 de Janeiro de 2003.**
+Assinado em 9 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 20.º)
 

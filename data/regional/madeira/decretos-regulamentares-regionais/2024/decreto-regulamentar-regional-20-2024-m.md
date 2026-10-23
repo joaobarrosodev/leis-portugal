@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18800/0010300110.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2024/09/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2024-889128431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 586f1c087dbc89e7dc6eea44f1f0612384327720a764b9200515adf04decb67a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a9ec1e9576230d0810055462feb3c9d7ba5953e1ab736613d4a0992369ce20b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Definição de Competências
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Secretaria Regional da Saúde e Proteção Civil
 relationships:
 - type: cites
@@ -111,16 +111,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127657050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133054720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134505605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207332030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:848804213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1172217160:por
+  label: Revogado, a partir de 22 de setembro de 2026, pelo(a) Decreto Regulamentar Regional n.º 17/2026/M - Diário da República
+    n.º 183/2026, Série I de 2026-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2026-1172217160
+  date: '2026-09-20'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:1/2020/M
+  label: Revoga, a partir de 28 de setembro de 2024, o Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro, Diário
+    da República n.º 1/2020, Série I
+  source: null
+  date: '2020-01-02'
 article_structure:
   article_count: 21
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:44Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +215,7 @@ Por outro lado, atenta a evolução na estrutura orgânica e funcional dos servi
 
 Neste contexto, o presente diploma disciplina a organização e o funcionamento da Secretaria Regional de Saúde e Proteção Civil, por forma a que esta possa com a maior qualidade, eficácia e eficiência servir os cidadãos.
 
-Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, do n.º 1 do artigo 21.º e do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup> [24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e do n.º 2 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, do n.º 1 do artigo 21.º e do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os [24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e do n.º 2 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E COMPETÊNCIAS
 
@@ -227,13 +303,13 @@ b) Serviço Regional de Proteção Civil, IP-RAM.
 
 ###### Artigo 7.º — Setor empresarial da Região Autónoma da Madeira
 
-**O Secretário Regional de Saúde e Proteção Civil exerce tutela e superintendência sobre o Serviço de Saúde da Região Autónoma da Madeira, EPERAM.**
+O Secretário Regional de Saúde e Proteção Civil exerce tutela e superintendência sobre o Serviço de Saúde da Região Autónoma da Madeira, EPERAM.
 
 ### CAPÍTULO III — DOS SERVIÇOS
 
 #### SECÇÃO I — SERVIÇOS DA ADMINISTRAÇÃO DIRETA
 
-##### SUBSECÇÃO I
+SUBSECÇÃO I
 
 GABINETE DO SECRETÁRIO REGIONAL E SERVIÇOS DEPENDENTES
 
@@ -265,9 +341,9 @@ f) Exercer as demais funções que lhe forem cometidas e ou delegadas pelo Secre
 
 1 - A organização interna do Gabinete obedece ao modelo de estrutura hierarquizada e compreende as unidades orgânicas nucleares e flexíveis que funcionam sob a direta dependência do Secretário Regional.
 
-2 - A organização interna a que se refere o número anterior é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e atento o disposto no n.º 3 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho.
+2 - A organização interna a que se refere o número anterior é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e atento o disposto no n.º 3 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho.
 
-##### SUBSECÇÃO II
+SUBSECÇÃO II
 
 MISSÃO DO SERVIÇO EXECUTIVO
 
@@ -287,7 +363,7 @@ DIREÇÃO REGIONAL DA SAÚDE
 
 2 - A DRPPIL é dirigida por um diretor regional, cargo de direção superior de 1.º grau.
 
-##### SUBSECÇÃO III
+SUBSECÇÃO III
 
 MISSÃO DOS ÓRGÃOS CONSULTIVOS
 
@@ -365,11 +441,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 12 de setembro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 25 de setembro de 2024.**
+Assinado em 25 de setembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -398,3 +474,5 @@ Dotação de lugares dos dirigentes intermédios das unidades orgânicas depende
 | --- | --- |
 | Cargos de direção intermédia de 1.º grau | 3 |
 | Cargos de direção intermédia de 2.º grau | 2 |
+
+118162066

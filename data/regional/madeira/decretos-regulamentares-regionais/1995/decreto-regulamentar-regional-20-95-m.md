@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/189b00/51535157.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/1995/08/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1995-429384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d331c5b16d87caaf7629fabf92ee8f68919b968b761fec39d536a2f7e74c173a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70f204d768dda135ca1ffbd2f1d29a8571a3d1442813f838a7e617627d3ad2ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Alvará
 - Ambulância
-- Formação Profissional
-- Fiscalização
 - Equipamento de Veículo
+- Fiscalização
+- Formação Profissional
 - Madeira.região Autónoma
 - Regulamento
 - Transporte de Doentes
@@ -82,16 +82,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/38/1992/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/38/1992/03/28/p/dre
+- type: cites
+  target: pt:dre:187932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286726:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:570502:por
+  label: "Revogado pelo DRR.3/2004/M.02.02.2004.PG-RAM, DR.IS-B [41] de 18.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2004-570502
+  date: '2004-02-02'
+- type: repealed_by
+  target: pt:dre:538811:por
+  label: "Revogado pelo DLR.35/2006/M.04.08.2006.AL-RAM, DR.IS [158] de 17.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/35-2006-538811
+  date: '2006-08-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:54Z'
   warnings: []
   errors: []
 ---
@@ -108,21 +126,21 @@ Nestes termos:
 
 Ao abrigo do disposto no n.º 2 do artigo 6.º e nos artigos 11.º e 15.º do [Decreto-Lei n.º 38/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1992-187932), de 28 de Março, o Governo Regional decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Transporte de Doentes, anexo ao presente diploma e do qual faz parte integrante.
+Artigo 1.º É aprovado o Regulamento do Transporte de Doentes, anexo ao presente diploma e do qual faz parte integrante.
 
-###### Art. 2.º As disposições do Regulamento aprovado, em anexo, não são aplicáveis às ambulâncias com licença válida à data da entrada em vigor do presente diploma sempre que o seu cumprimento exija a realização de modificações nas viaturas ou no respectivo equipamento.
+Art. 2.º As disposições do Regulamento aprovado, em anexo, não são aplicáveis às ambulâncias com licença válida à data da entrada em vigor do presente diploma sempre que o seu cumprimento exija a realização de modificações nas viaturas ou no respectivo equipamento.
 
-###### Art. 3.º Mantêm-se reservadas à Cruz Vermelha Portuguesa, aos corpos de bombeiros e à PSP as actividades de transporte de emergência enquadráveis nos seus âmbitos específicos.
+Art. 3.º Mantêm-se reservadas à Cruz Vermelha Portuguesa, aos corpos de bombeiros e à PSP as actividades de transporte de emergência enquadráveis nos seus âmbitos específicos.
 
 Aprovado em Conselho do Governo Regional de 4 de Julho de 1995.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 24 de Julho de 1995.**
+Assinado em 24 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ## ANEXO — Regulamento da Actividade de Transporte de Doentes na Região Autónoma da Madeira
 

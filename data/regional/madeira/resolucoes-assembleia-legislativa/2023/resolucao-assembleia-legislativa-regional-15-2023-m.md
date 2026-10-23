@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14000/0003500098.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/15/2023/07/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/15-2023-215874470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d381e8011e83f31f6af22ddadb76baf5053832d1a3c227548d544413c1e22ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e2b20cdee70eef1a1528128763f4d27f9f837fa951a71657ed21b929c38b40b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Parlamentar
 - Assembleia Legislativa Regional
 - Comissão Permanente
-- Petição
-- Madeira.região Autónoma
 - Direito de Petição
+- Madeira.região Autónoma
+- Parlamentar
+- Petição
 - Regimento
 relationships:
 - type: cites
@@ -115,16 +115,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolalram/24/2020/07/14/m/dre
   label: null
   source: http://data.dre.pt/eli/resolalram/24/2020/07/14/m/dre
+- type: cites
+  target: pt:dre:132783836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137808122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70297427:por
+  label: null
+  source: null
 article_structure:
-  article_count: 253
+  article_count: 250
   section_count: 63
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:32Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +195,9 @@ Os artigos 43.º, 152.º, 214.º e 216.º do Regimento da Assembleia Legislativa
 
 2 - Excecionalmente, e quando tal se justifique, o Plenário delibera, sob proposta da Conferência dos Representantes dos Partidos, alterar o elenco das comissões especializadas permanentes ou a repartição de competências entre elas.
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - (Atual corpo do artigo.)
 
@@ -155,7 +205,9 @@ Os artigos 43.º, 152.º, 214.º e 216.º do Regimento da Assembleia Legislativa
 
 3 - Até ao anúncio da votação, o autor de uma iniciativa legislativa pode requerer, de forma potestativa, a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado.
 
-###### Artigo 214.º — [...]
+Artigo 214.º
+
+[...]
 
 1 - As petições são apreciadas em reunião plenária sempre que se verifique uma das condições seguintes:
 
@@ -167,7 +219,9 @@ b) Sejam subscritas por menos de 1000 cidadãos, devidamente identificados os se
 
 3 - [...]
 
-###### Artigo 216.º — [...]
+Artigo 216.º
+
+[...]
 
 1 - [...]
 
@@ -187,7 +241,7 @@ O presente diploma entra em vigor na legislatura seguinte àquela em que for apr
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de julho de 2023.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
 ## ANEXO — REGIMENTO DA ASSEMBLEIA LEGISLATIVA DA REGIÃO AUTÓNOMA DA MADEIRA
 
@@ -1119,7 +1173,7 @@ c) Com mais de 16 deputados, três reuniões.
 
 ###### Artigo 73.º — Apreciação de outras matérias
 
-**O Presidente da Assembleia Legislativa inclui na primeira parte da ordem do dia prevista no n.º 2 do artigo 87.º a apreciação das seguintes matérias:**
+O Presidente da Assembleia Legislativa inclui na primeira parte da ordem do dia prevista no n.º 2 do artigo 87.º a apreciação das seguintes matérias:
 
 a) Mensagens do Presidente da República à Assembleia;
 
@@ -1295,7 +1349,7 @@ g) À comunicação de qualquer decisão do Presidente da Assembleia Legislativa
 
 ###### Artigo 88.º — Convite a individualidades estranhas à Assembleia Legislativa
 
-**O Presidente da Assembleia Legislativa poderá, a título excecional, ouvida a Conferência dos Representantes dos Partidos, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.**
+O Presidente da Assembleia Legislativa poderá, a título excecional, ouvida a Conferência dos Representantes dos Partidos, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso da palavra
 
@@ -1885,7 +1939,7 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 ###### Artigo 143.º — Envio de propostas de alteração
 
-**O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projeto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afete os princípios e o sistema do texto a que se refere.**
+O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projeto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afete os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 144.º — Apreciação de projetos ou de propostas sobre legislação do trabalho
 
@@ -1927,7 +1981,9 @@ A comissão competente deve promover a consulta da Associação de Municípios d
 
 ##### DIVISÃO IV — Discussão e votação
 
-##### SUBDIVISÃO I — Disposições gerais
+SUBDIVISÃO I
+
+Disposições gerais
 
 ###### Artigo 150.º — Conhecimento prévio dos projetos e propostas de decreto legislativo regional
 
@@ -1949,7 +2005,9 @@ A comissão competente deve promover a consulta da Associação de Municípios d
 
 3 - Até ao anúncio da votação, o autor de uma iniciativa legislativa pode requerer, de forma potestativa, a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado.
 
-##### SUBDIVISÃO II — Discussão e votação na generalidade
+SUBDIVISÃO II
+
+Discussão e votação na generalidade
 
 ###### Artigo 153.º — Objeto
 
@@ -1963,7 +2021,9 @@ A comissão competente deve promover a consulta da Associação de Municípios d
 
 2 - Neste caso, a Assembleia Legislativa delibera também sobre aquele que serve de base à discussão e votação na especialidade.
 
-##### SUBDIVISÃO III — Discussão e votação na especialidade
+SUBDIVISÃO III
+
+Discussão e votação na especialidade
 
 ###### Artigo 155.º — Regra geral
 
@@ -2463,7 +2523,7 @@ b) Que o Presidente da Assembleia Legislativa ou as comissões entendam que deve
 
 ###### Artigo 217.º — Comunicação ao autor ou aos autores da petição
 
-**O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adotadas.**
+O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adotadas.
 
 #### SECÇÃO VII — Inquéritos
 
@@ -2690,3 +2750,5 @@ O parecer depois de apresentado ao Presidente da Assembleia Legislativa, a fim d
 5 - As alterações do Regimento devem ser aprovadas por maioria absoluta dos deputados presentes.
 
 6 - O Regimento com as alterações escritas no lugar próprio será objeto de nova publicação.
+
+116674664

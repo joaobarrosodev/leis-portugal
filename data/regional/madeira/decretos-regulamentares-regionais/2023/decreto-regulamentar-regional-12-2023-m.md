@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15700/0009500123.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2023/08/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2023-219915289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f58ee60589bd3caaec49d0ea4c5a9c4e58184714b04129bbe735288a73467ad7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 739a8d09d649eaf3bc0b95e6bff5013b8e3813d24c06d951fd56347af1607e5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Ensino Profissional
 - Escola Profissional de Hotelaria e Turismo da Madeira
 - Hotel de Aplicação
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal Docente
-- Madeira.região Autónoma
 - Quadro de Pessoal
 - Regime de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/
@@ -117,16 +117,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:115124397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117514522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127899796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170322931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178394356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215874469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 61
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:36Z'
   warnings: []
   errors: []
 ---
@@ -165,11 +245,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado em Conselho do Governo Regional em 27 de julho de 2023.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 8 de agosto de 2023.**
+Assinado em 8 de agosto de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -331,7 +411,9 @@ b) O Gabinete de Psicologia, Educação Inclusiva e Orientação (GPEIO);
 
 c) O Gabinete de Apoio à Formação (GAF).
 
-###### Artigo 7.º — Divisão de Educação e Formação
+###### Artigo 7.º
+
+##### Divisão de Educação e Formação
 
 1 - À DEF compete, designadamente:
 
@@ -549,7 +631,9 @@ c) O Gabinete de Apoio à Gestão (GAG);
 
 d) O Núcleo de Aquisições e Aprovisionamento (NAA).
 
-###### Artigo 15.º — Divisão de Recursos Financeiros
+###### Artigo 15.º
+
+##### Divisão de Recursos Financeiros
 
 1 - A DRF é uma unidade orgânica de apoio à DAF, à qual compete:
 
@@ -645,7 +729,9 @@ c) Executar as restantes tarefas legalmente atribuídas à tesouraria.
 
 4 - O NCO é coordenado por um trabalhador a designar pelo diretor da EHTM.
 
-###### Artigo 18.º — Divisão de Recursos Humanos
+###### Artigo 18.º
+
+##### Divisão de Recursos Humanos
 
 1 - À DRH compete:
 
@@ -795,9 +881,13 @@ j) Executar tudo o mais que lhe seja superiormente determinado, na sua área fun
 
 2 - A Direção de F&B é coordenada por um trabalhador, designado pelo diretor da EHTM.
 
-##### SUBSECÇÃO IV — Divisão de Apoio Jurídico
+##### SUBSECÇÃO IV
 
-###### Artigo 23.º — Divisão de Apoio Jurídico
+##### Divisão de Apoio Jurídico
+
+###### Artigo 23.º
+
+##### Divisão de Apoio Jurídico
 
 1 - A DAJ depende diretamente do diretor e a ela compete:
 
@@ -817,9 +907,13 @@ g) Executar tudo o mais que lhe seja superiormente determinado, na sua área fun
 
 2 - A DAJ é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-##### SUBSECÇÃO V — Divisão de Instalações e Equipamentos
+##### SUBSECÇÃO V
 
-###### Artigo 24.º — Divisão de Instalações e Equipamentos
+##### Divisão de Instalações e Equipamentos
+
+###### Artigo 24.º
+
+##### Divisão de Instalações e Equipamentos
 
 1 - A DIE depende diretamente do diretor e a ela compete:
 
@@ -1249,9 +1343,9 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Mapa de cargos dirigentes
 
-|  |  |
-| --- | --- |
 |  | Dotação de lugares |
+| --- | --- |
+|  |  |
 | Cargos de direção superior de 1.º grau ... | 1 |
 | Cargos de direção superior de 2.º grau ... | 2 |
 | Cargos de direção intermédia de 1.º grau ... | 1 |
@@ -1261,20 +1355,20 @@ Mapa de cargos dirigentes
 
 Mapa privativo de pessoal (CCT Hotelaria) - Hotel-Escola
 
-|  |  |  |  |  |  |
+| Área de atividade | Atribuições/Competências/Atividades | Cargo/Carreira/Categoria | Área de formação académica e/ou profissional | Postos<br>de<br>trabalho |  |
 | --- | --- | --- | --- | --- | --- |
-| Área de atividade | Atribuições/Competências/Atividades | Atribuições/Competências/Atividades | Cargo/Carreira/Categoria | Área de formação académica e/ou profissional | Postos de trabalho |
+|  |  |  |  |  |  |
 | Hotel... | Previsão, organização, direção e controlo das actividades inerentes ao funcionamento do hotel e todas as suas valências; coordenação do trabalho dos seus colaboradores imediatos, colaboração na determinação da política geral do hotel-escola, tendo em conta a situação presente, os resultados obtidos e as previsões feitas, estabelecendo o programa com vista à concretização dessa política; determinação dos objectivos e planificação das estratégias a seguir para a respetiva conssecução; zelo pela manutenção em dia dos inventários das diversas valências do hotel-escola; coordenação do levantamento de necessidades de instalações, equipamentos e pessoal; delegação nos colaboradores da execução detalhada do programa; elaboração dos relatórios de gestão. | Dirigentes... | Diretor... | Licenciatura em gestão hoteleira, turismo ou compatível. Certificação como formador. | 1 |
-|  | Assessoria ao diretor na execução das suas funções, substituindo-o nas suas ausências e impedimentos. Pode ter a seu cargo a coordenação de serviços que lhe sejam delegados. | Dirigentes... | Assistente de direção/Subdiretor. | Licenciatura em gestão hoteleira, turismo ou compatível. Preferencialmente, certificação como formador. | 1 |
-|  | Coordenação da limpeza e arranjo diários dos andares e da atividade do pessoal sobre as suas ordens; superviviona a apresentação e o trabalho dos empregados de andares; coordena e executa a ornamentação, asseio e decoração das salas e zonas de convívio; verificação do bom funcionamento da aparelhagem eléctrica, sonora, telefónica, instalações sanitárias e o estado dos móveis, alcatifas e cortinados, velando pela sua conservação ou a sua substituição quando necessárias; manutenção de uma reserva de roupas, de material de limpeza, procedendo à respetiva distribuição; eventual receção e acompanhamento dos hóspedes, fornecendo indicação ao pessoal acerca dos horários e preferências daqueles; verificação da ocupação dos quartos, recolha e entrega na receção de objectos esquecidos pelos clientes; receção de reclamações dos hóspedes e encaminhamento para o diretor do hotel; supervisão do tratamento de roupa dos clientes. Envio diário (ou em outra periodicidade a combinar) de relatório ao seu superior hierárquico. Lecionação de disciplinas na sua área de competência. | Governante de andares/Formador(a)... | Governante de andares/Formador(a)... | Formação profissional e/ou experiência profissional na área. Certificação como formador. | 1 |
+|  | Assessoria ao diretor na execução das suas funções, substituindo-o nas suas ausências e impedimentos. Pode ter a seu cargo a coordenação de serviços que lhe sejam delegados. | Assistente de direção/Subdiretor. | Licenciatura em gestão hoteleira, turismo ou compatível. Preferencialmente, certificação como formador. | 1 |  |
+|  | Coordenação da limpeza e arranjo diários dos andares e da atividade do pessoal sobre as suas ordens; superviviona a apresentação e o trabalho dos empregados de andares; coordena e executa a ornamentação, asseio e decoração das salas e zonas de convívio; verificação do bom funcionamento da aparelhagem eléctrica, sonora, telefónica, instalações sanitárias e o estado dos móveis, alcatifas e cortinados, velando pela sua conservação ou a sua substituição quando necessárias; manutenção de uma reserva de roupas, de material de limpeza, procedendo à respetiva distribuição; eventual receção e acompanhamento dos hóspedes, fornecendo indicação ao pessoal acerca dos horários e preferências daqueles; verificação da ocupação dos quartos, recolha e entrega na receção de objectos esquecidos pelos clientes; receção de reclamações dos hóspedes e encaminhamento para o diretor do hotel; supervisão do tratamento de roupa dos clientes. Envio diário (ou em outra periodicidade a combinar) de relatório ao seu superior hierárquico. Lecionação de disciplinas na sua área de competência. | Governante de andares/Formador(a)... | Formação profissional e/ou experiência profissional na área. Certificação como formador. | 1 |  |
 |  | Organização e supervisionamento dos serviços de receção de hotel-escola, sob coordenação do diretor. Estabelecimento de procedimentos e rotinas, formação e acompanhamento de estagiários e da equipa. Garante o cumprimento dos necessários procedimentos que garantam a proteção de dados (segundo RGPD), a segurança e satisfação dos clientes. Realiza check-in e check-out, registo e reservas e presta assessoria aos clientes sobre pontos turísticos e demais dúvidas. | Rececionistas... | Chefe de receção... | Formação profissional e/ou experiência profissional na área. Preferencialmente, certificação como formador. | 1 |
 |  | Execução dos serviços de receção de hotel-escola, sob supervisão do/a chefe de receção. Cumprimento dos necessários procedimentos que garantam a proteção de dados (segundo RGPD), a segurança e satisfação dos clientes. Realiza check-in e check-out, registo e reservas e presta assessoria aos clientes sobre pontos turísticos e demais dúvidas.Substitui o/a chefe de receção nas suas ausências e impedimentos. |  | Rececionista de 1.ª... | Formação profissional e/ou experiência profissional na área. Preferencialmente, certificação como formador | 2 |
 |  | Execução dos serviços de receção de hotel-escola, sob supervisão do/a chefe de receção. Cumprimento dos necessários procedimentos que garantam a proteção de dados (segundo RGPD), a segurança e satisfação dos clientes. Realiza check-in e check-out, registo e reservas e presta assessoria aos clientes sobre pontos turísticos e demais dúvidas. |  | Rececionista de 2.ª... | Formação profissional e/ou experiência profissional na área. | 2 |
-| F&B... | Supervisão e orientação da equipa de cozinha; supervisão do preparo e montagem dos pratos; supervisão da elaboração das ementas, das cartas de vinhos e das receitas; controlo de stocks de produtos e do estado de conservação dos alimentos; supervisão da agenda do restaurante e bar do hotel-escola, planificação das funções e da agenda de eventos e análise das vendas; colaboração direta com o diretor do hotel-escola. | Diretor de F&B... | Diretor de F&B... | Formação e/ou experiência profissional na área. Certificação como formador. | 1 |
+| F&B... | Supervisão e orientação da equipa de cozinha; supervisão do preparo e montagem dos pratos; supervisão da elaboração das ementas, das cartas de vinhos e das receitas; controlo de stocks de produtos e do estado de conservação dos alimentos; supervisão da agenda do restaurante e bar do hotel-escola, planificação das funções e da agenda de eventos e análise das vendas; colaboração direta com o diretor do hotel-escola. | Diretor de F&B... | Formação e/ou experiência profissional na área. Certificação como formador. | 1 |  |
 | Cozinha... | Organização, coordenação, direção e verificação dos trabalhos de cozinha e grill; elaboração (ou colaboração) das ementas do restaurante e da cantina; orientação do pessoal da cozinha sobre a preparação e confecção dos pratos; criação de receitas e preparação de especialidades; verificação da ordem e a limpeza de todas as secções e utensílios de cozinha; estabelecimento dos turnos de trabalho; previsão e indicação de admissão do pessoal e supervisionamento da sua apresentação e higiene; atualização do inventário de todo o material de cozinha; responsabilidade pela conservação dos alimentos entregues à secção; e tudo o mais previsto no CCT-Hotelaria. Formador. | Cozinheiros... | Chefe de Cozinha... | Formação profissional na área de cozinha e pastelaria; habilitação escolar de nível secundário e certificação como formador. | 1 |
 |  | Colaboração com o chefe de cozinha; partilha das tarefas para que estiver autorizado, substituição do chefe de cozinha nas suas ausências e impedimentos. Formador. |  | Subchefe de cozinha... | Formação profissional na área de cozinha e pastelaria; habilitação escolar de nível secundário e certificação como formador. | 1 |
 |  | Preparação e confecção das refeições e pratos ligeiros; elaboração (ou colabora na elaboração) das ementas; receção dos víveres e os outros produtos necessários à confecção das refeições, sendo responsável pela sua guarda e conservação; preparação do peixe, dos legumes e das carnes; execução das operações culinárias; empratamento e guarnecimento dos pratos cozinhados; confeção dos doces destinados às refeições; zelo pela limpeza da cozinha, dos utensílios e demais equipamentos; e tudo o mais previsto no CCT-Hotelaria. |  | Cozinheiros de 1.ª... | Formação profissional na área de cozinha, preferencialmente com certificação como formador. | 3 |
-|  | Preparação e confecção das refeições e pratos ligeiros; elaboração (ou colabora na elaboração) das ementas; receção dos víveres e os outros produtos necessários à confecção das refeições, sendo responsável pela sua guarda e conservação; preparação do peixe, dos legumes e das carnes; execução das operações culinárias; empratamento e guarnecimento dos pratos cozinhados; confeção dos doces destinados às refeições; zelo pela limpeza da cozinha, dos utensílios e demais equipamentos; e tudo o mais previsto no CCT-Hotelaria. |  | Cozinheiros de 2.ª... | Formação profissional na área de cozinha. | 2 |
+|  |  | Cozinheiros de 2.ª... | Formação profissional na área de cozinha. | 2 |  |
 | Pastelaria e chocolataria. | Planificação, direção, distribuição, coordenação e fiscalização de todas as tarefas e fases do trabalho de pastelaria, nele intervindo onde e quando necessário; requisição de matérias-primas e outros produtos, cuidando da sua conservação, pela qual é responsável; criação de receitas e colaboração na elaboração das ementas e listas de bens a adquirir; manutenção em dia dos inventários de material e stocks de matérias-primas; planificação, preparação e execução de trabalhos de chocolataria. | Pasteleiros... | Chefe de Pastelaria... | Formação profissional na área de cozinha e pastelaria; habilitação escolar de nível secundário e certificação como formador. | 1 |
 |  | Preparação de massas, desde o início da sua preparação, vigia as temperaturas e pontos de cozedura e age em todas as fases do fabrico dirigindo o funcionamento das máquinas, em tudo procedendo de acordo com as instruções do mestre/chefe, substituindo-o nas suas faltas e impedimentos. Confecciona sobremesas e colabora, dentro da sua especialização, nos trabalhos de cozinha; preparação e execução de trabalhos de chocolataria. |  | Pasteleiro de 1.ª... | Escolaridade mínima, com formação em cozinha e pastelaria. Eventual certificação como formador. | 1 |
 | Restaurante e Bar... | Suprevisão e gestão da equipa de restauração da sala e esplanada, gestão e coordenação das reservas de sala de forma a rentabilizar a sua utilização e a garantir a qualidade do serviço. | Restaurante... | Chefe de sala... | Formação profissional e experiência na área. Certificação como formador. | 1 |
@@ -1286,5 +1380,7 @@ Mapa privativo de pessoal (CCT Hotelaria) - Hotel-Escola
 | Lavandaria... | Coordenação da equipa de lavandaria e rouparia, planificação do respetivo trabalho, zelo pelo bom funcionamento dos equipamentos e garantia das condições de segurança e requisição de eventuais reparações, sob supervisão do diretor do hotel-escola. Receção, tratamento, arrumação e distribuição das roupas de serviço e dos clientes do hotel-escola, restaurante, residência de estudantes, e outros serviços internos ou externos, ocupando-se dos trabalhos de lavagem e limpeza mecânica ou manual, dobragem e engomadoria das roupas confiadas ao serviço; registo dos serviços prestados, para faturação; verificação dos "stocks"; coordenação e colaboração na limpeza da secção; elaboração ou colaboração na realização dos inventários regulares ou permanentes. | Funcionários da Lavandaria e Rouparia. | Chefe de rouparia/lavandaria | Formação profissional e/ou experiência na área. Eventual certificação como formador. | 1 |
 |  | Receção, tratamento, arrumação e distribuição das roupas de serviço e dos clientes do hotel-escola, restaurante, residência de estudantes, e outros serviços internos ou externos, ocupando-se dos trabalhos de lavagem e limpeza mecânica ou manual, dobragem e engomadoria das roupas confiadas ao serviço. |  | Empregado/a de rouparia/lavandaria. | Formação profissional e/ou experiência na área. | 3 |
 |  | Confeção, reparação e outros serviços de costura de roupas, fardas, cortinados, atoalhados e demais peças solicitadas, no âmbito dos diversos serviços da Escola e do Hotel-Escola. |  | Costureira... | Formação profissional e/ou experiência na área. | 1 |
-| Total... | Total... | Total... | Total... | Total... | 34 |
-| Total... | Total... | Total... | Total... | Total... | 34 |
+| Total... | 34 |  |  |  |  |
+| 34 |  |  |  |  |  |
+
+116759333

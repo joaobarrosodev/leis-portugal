@@ -47,36 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1983-311819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 038f5bcaf2151f77304711684a1ac99c356694d186b348eddeb4a9fc1398665b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7a0996634ffe69ba79b55f460e200750f15ed5e777597f1cca820d89f5dcc1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ação Social Escolar
+- Carreira Profissional
+- Madeira.região Autónoma
+- Pessoal Técnico Auxiliar
+relationships:
+- type: cites
+  target: pt:dre:139890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600516:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:24Z'
   warnings: []
   errors: []
 ---
@@ -97,27 +133,27 @@ Nestes termos:
 
 O Governo Regional decreta, ao abrigo das alíneas b) e d) do artigo 229.º da Constituição e da alínea b) do artigo 7.º do [Decreto-Lei n.º 364/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1979-370782), de 4 de Setembro, o seguinte:
 
-###### Artigo 1.º Os estabelecimentos dos ensinos preparatório e secundário e a Escola do Magistério Primário passam a ser dotados, nos termos do presente diploma, de um quadro técnico da acção social escolar, de acordo com o estabelecido nos artigos seguintes.
+Artigo 1.º Os estabelecimentos dos ensinos preparatório e secundário e a Escola do Magistério Primário passam a ser dotados, nos termos do presente diploma, de um quadro técnico da acção social escolar, de acordo com o estabelecido nos artigos seguintes.
 
-###### Art. 2.º - 1 - O quadro referido no artigo anterior constitui um quadro único em que se integram as dotações de cada estabelecimento de ensino e o seu dimensionamento processa-se de acordo com o disposto no mapa anexo ao presente diploma.
+Art. 2.º - 1 - O quadro referido no artigo anterior constitui um quadro único em que se integram as dotações de cada estabelecimento de ensino e o seu dimensionamento processa-se de acordo com o disposto no mapa anexo ao presente diploma.
 
 2 - As categorias do quadro técnico da acção social escolar desenvolvem-se em termos de pessoal técnico auxiliar, a que correspondem, as letras J, L ou M, conforme as respectivas categorias sejam de principal, de 1.ª classe ou de 2.ª classe.
 
-###### Art. 3.º O pessoal do quadro técnico da acção social escolar exercerá as suas funções na directa dependência do membro do conselho directivo encarregado do pelouro da acção social escolar ou do director da Escola do Magistério Primário.
+Art. 3.º O pessoal do quadro técnico da acção social escolar exercerá as suas funções na directa dependência do membro do conselho directivo encarregado do pelouro da acção social escolar ou do director da Escola do Magistério Primário.
 
-###### Art. 4.º - 1 - Os funcionários que se encontram colocados ao abrigo da [Portaria n.º 207/77](https://diariodarepublica.pt/dr/detalhe/portaria/207-1977-139890), de 18 de Abril, na acção social escolar e os posteriormente contratados para exercerem idênticas funções, desde que, pelo menos, portadores do curso complementar do ensino secundário ou equivalente, são providos em lugares de técnico auxiliar de 1.ª classe no estabelecimento de ensino onde se encontram a prestar funções à data de entrada em vigor do presente diploma.
+Art. 4.º - 1 - Os funcionários que se encontram colocados ao abrigo da [Portaria n.º 207/77](https://diariodarepublica.pt/dr/detalhe/portaria/207-1977-139890), de 18 de Abril, na acção social escolar e os posteriormente contratados para exercerem idênticas funções, desde que, pelo menos, portadores do curso complementar do ensino secundário ou equivalente, são providos em lugares de técnico auxiliar de 1.ª classe no estabelecimento de ensino onde se encontram a prestar funções à data de entrada em vigor do presente diploma.
 
 2 - O tempo de serviço prestado pelos funcionários referidos no número anterior até à data do provimento como técnico auxiliar de 1.ª classe é contado para efeitos de promoção à categoria seguinte.
 
-###### Art. 5.º - 1 - Os funcionários referidos no n.º 1 do artigo anterior, desde que possuam o curso geral do ensino secundário ou equivalente, são providos em lugares de técnico auxiliar de 2.ª classe no estabelecimento de ensino onde se encontram a exercer funções à data da entrada em vigor do presente diploma.
+Art. 5.º - 1 - Os funcionários referidos no n.º 1 do artigo anterior, desde que possuam o curso geral do ensino secundário ou equivalente, são providos em lugares de técnico auxiliar de 2.ª classe no estabelecimento de ensino onde se encontram a exercer funções à data da entrada em vigor do presente diploma.
 
 2 - O tempo de serviço prestado pelos funcionários referidos no número anterior até à data do provimento como técnico auxiliar de 2.ª classe é contado para efeitos de promoção à categoria seguinte.
 
-###### Art. 6.º - 1 - Os provimentos referidos nos artigos 4.º e 5.º far-se-ão independentemente de quaisquer formalidades legais, salvo visto da Comissão de Contas.
+Art. 6.º - 1 - Os provimentos referidos nos artigos 4.º e 5.º far-se-ão independentemente de quaisquer formalidades legais, salvo visto da Comissão de Contas.
 
 2 - Após aqueles provimentos, as necessidades surgidas nos estabelecimentos de ensino, em termos de quadro técnico da acção social escolar, serão satisfeitas através do disposto nos artigos seguintes, sem prejuízo da legislação geral em vigor.
 
-###### Art. 7.º - 1 - O ingresso na carreira de técnico auxiliar da acção social escolar far-se-á por concurso público documental, ao qual poderão ser opositores os candidatos portadores, pelo menos, do curso geral do ensino secundário ou equivalente.
+Art. 7.º - 1 - O ingresso na carreira de técnico auxiliar da acção social escolar far-se-á por concurso público documental, ao qual poderão ser opositores os candidatos portadores, pelo menos, do curso geral do ensino secundário ou equivalente.
 
 2 - O aviso de abertura do concurso referido no número anterior será mandado publicar no jornal Oficial pela Direcção Regional de Finanças, Administração e Pessoal e dele constarão todas as disposições que o regem.
 
@@ -135,40 +171,40 @@ d) Candidatos portadores do curso geral do ensino secundário ou equivalente nã
 
 5 - Em caso de empate resultante da aplicação do disposto no número anterior, preferirá o candidato que tiver classificação mais elevada nos respectivos cursos; se, mesmo assim, o empate subsistir, preferirá o mais idoso.
 
-###### Art. 8.º O acesso à categoria superior, dentro da carreira técnica da acção social escolar, fica condicionado às regras gerais em vigor e, em todos os casos, à permanência de um mínimo de 3 anos na categoria imediatamente anterior.
+Art. 8.º O acesso à categoria superior, dentro da carreira técnica da acção social escolar, fica condicionado às regras gerais em vigor e, em todos os casos, à permanência de um mínimo de 3 anos na categoria imediatamente anterior.
 
-###### Art. 9.º - 1 - Os funcionários que se encontram colocados ao abrigo da [Portaria n.º 207/77](https://diariodarepublica.pt/dr/detalhe/portaria/207-1977-139890), de 18 de Abril, que não sejam portadores do curso geral do ensino secundário ou equivalente e que possuam, pelo menos, 5 anos de serviço prestado na acção social escolar e 10 anos de serviço na função pública são providos na categoria de escriturário-dactilógrafo principal, prevista no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e em lugares vagos do quadro único dos estabelecimentos de ensino, criado pelo [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto.
+Art. 9.º - 1 - Os funcionários que se encontram colocados ao abrigo da [Portaria n.º 207/77](https://diariodarepublica.pt/dr/detalhe/portaria/207-1977-139890), de 18 de Abril, que não sejam portadores do curso geral do ensino secundário ou equivalente e que possuam, pelo menos, 5 anos de serviço prestado na acção social escolar e 10 anos de serviço na função pública são providos na categoria de escriturário-dactilógrafo principal, prevista no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e em lugares vagos do quadro único dos estabelecimentos de ensino, criado pelo [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto.
 
 2 - Os funcionários que se encontram colocados ao abrigo da [Portaria n.º 207/77](https://diariodarepublica.pt/dr/detalhe/portaria/207-1977-139890), de 18 de Abril, que não sejam portadores do curso geral do ensino secundário ou equivalente e que possuam, pelo menos, 5 anos de serviço prestado na acção social escolar são providos na categoria de escriturário-dactilógrafo de 1.ª classe, prevista no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e em lugares vagos do quadro único dos estabelecimentos de ensino, criado pelo [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto.
 
-###### Art. 10.º São permitidas as transferências dentro do quadro único criado pelo presente diploma; sempre que se apresente mais de um candidato à transferência, esta far-se-á de acordo com as regras estabelecidas nas alíneas seguintes, funcionando cada uma delas como grau de preferência:
+Art. 10.º São permitidas as transferências dentro do quadro único criado pelo presente diploma; sempre que se apresente mais de um candidato à transferência, esta far-se-á de acordo com as regras estabelecidas nas alíneas seguintes, funcionando cada uma delas como grau de preferência:
 
 a) Mais tempo de serviço prestado na acção social escolar;
 
 b) Mais tempo de serviço prestado à função pública.
 
-###### Art. 11.º As funções do pessoal do quadro técnico da acção social escolar, bem como a sua articulação com o conselho directivo, director, ou quem as suas vezes fizer, constarão de portaria do Secretário Regional de Educação, sob proposta da Direcção Regional de Finanças, Administração e Pessoal.
+Art. 11.º As funções do pessoal do quadro técnico da acção social escolar, bem como a sua articulação com o conselho directivo, director, ou quem as suas vezes fizer, constarão de portaria do Secretário Regional de Educação, sob proposta da Direcção Regional de Finanças, Administração e Pessoal.
 
-###### Art. 12.º Até à publicação da portaria referida no artigo anterior, mantém-se em vigor a [Portaria n.º 165/82](https://diariodarepublica.pt/dr/detalhe/portaria/165-1982-600516), de 12 de Novembro, publicada no Jornal Oficial, 1.ª série, n.º 32, de 25 de Novembro de 1982.
+Art. 12.º Até à publicação da portaria referida no artigo anterior, mantém-se em vigor a [Portaria n.º 165/82](https://diariodarepublica.pt/dr/detalhe/portaria/165-1982-600516), de 12 de Novembro, publicada no Jornal Oficial, 1.ª série, n.º 32, de 25 de Novembro de 1982.
 
-###### Art. 13.º - 1 - No caso de necessidades, devidamente fundamentadas em termos de acção social escolar, e perante a insuficiência de pessoal do quadro técnico, poderão exercer, transitoriamente, tais funções professores vinculados à Secretaria Regional de Educação até 30 de Setembro do respectivo ano escolar, de acordo com o disposto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, ou de legislação subsequente, para os quais não haja serviço docente para distribuir e ainda docentes que tenham sido abrangidos pelo disposto no artigo 20.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
+Art. 13.º - 1 - No caso de necessidades, devidamente fundamentadas em termos de acção social escolar, e perante a insuficiência de pessoal do quadro técnico, poderão exercer, transitoriamente, tais funções professores vinculados à Secretaria Regional de Educação até 30 de Setembro do respectivo ano escolar, de acordo com o disposto no [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, ou de legislação subsequente, para os quais não haja serviço docente para distribuir e ainda docentes que tenham sido abrangidos pelo disposto no artigo 20.º do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
 
 2 - O serviço prestado pelos docentes referidos no número anterior é considerado, para todos os efeitos legais, como serviço docente.
 
-###### Art. 14.º O quadro técnico previsto neste diploma será integrado no quadro técnico dos estabelecimentos dos ensinos preparatório, secundário e médio, aquando da sua criação.
+Art. 14.º O quadro técnico previsto neste diploma será integrado no quadro técnico dos estabelecimentos dos ensinos preparatório, secundário e médio, aquando da sua criação.
 
 Aprovado em plenário do Governo Regional em 17 de Fevereiro de 1983.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 11 de Março de 1983.**
+Assinado em 11 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Mapa a que se refere o n.º 1 do artigo 2.º do Decreto Regulamentar Regional n.º 8/83/M
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09200/14021403.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09200/14021403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09200/14021403.pdf)
 
 Nota. - Os estabelecimentos de ensino que, além das instalações da sede, utilizam anexos para o funcionamento de aulas e que, em conjunto, tenham uma frequência escolar até 1500 alunos serão dotados de mais uma unidade.

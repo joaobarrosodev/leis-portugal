@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 85/2020, 1º Suplemento, Série I de 2020-04-30
   number: '85'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7-(4) a 7-(66)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/08501/0000400066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/16-a/2020/04/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/16-a-2020-132783836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86df053f0d8560ff71900ead388791f3c9fda264fee1429a6fb3a69af5d600a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 748ca9f0d34c88aef93f8500c002f4950e59af3981e2ae97d512a9d424f5b4ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolalram/9/2015/09/15/m/dre
   label: null
   source: http://data.dre.pt/eli/resolalram/9/2015/09/15/m/dre
+- type: cites
+  target: pt:dre:234479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70297427:por
+  label: null
+  source: null
 article_structure:
-  article_count: 252
+  article_count: 250
   section_count: 63
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:58Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +164,9 @@ Quórum
 
 2 - ...
 
-###### Artigo 104.º — Requisitos da votação
+Artigo 104.º
+
+Requisitos da votação
 
 1 - ...
 
@@ -148,7 +178,9 @@ Quórum
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 119.º — Instalações e apoio
+Artigo 119.º
+
+Instalações e apoio
 
 1 - ...
 
@@ -166,7 +198,7 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de abril de 2020.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
 ## ANEXO — REGIMENTO DA ASSEMBLEIA LEGISLATIVA DA REGIÃO AUTÓNOMA DA MADEIRA
 
@@ -1140,7 +1172,7 @@ c) Com mais de 16 deputados, três reuniões.
 
 ###### Artigo 73.º — Apreciação de outras matérias
 
-**O Presidente da Assembleia Legislativa inclui na primeira parte da ordem do dia prevista no n.º 2 do artigo 87.º a apreciação das seguintes matérias:**
+O Presidente da Assembleia Legislativa inclui na primeira parte da ordem do dia prevista no n.º 2 do artigo 87.º a apreciação das seguintes matérias:
 
 a) Mensagens do Presidente da República à Assembleia;
 
@@ -1316,7 +1348,7 @@ g) À comunicação de qualquer decisão do Presidente da Assembleia Legislativa
 
 ###### Artigo 88.º — Convite a individualidades estranhas à Assembleia Legislativa
 
-**O Presidente da Assembleia Legislativa poderá, a título excecional, ouvida a Conferência dos Representantes dos Partidos, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.**
+O Presidente da Assembleia Legislativa poderá, a título excecional, ouvida a Conferência dos Representantes dos Partidos, convidar individualidades estranhas à Assembleia Legislativa a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso da palavra
 
@@ -1906,7 +1938,7 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 ###### Artigo 143.º — Envio de propostas de alteração
 
-**O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projeto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afete os princípios e o sistema do texto a que se refere.**
+O Presidente da Assembleia Legislativa poderá também enviar à comissão que se tenha pronunciado sobre o projeto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afete os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 144.º — Apreciação de projetos ou de propostas sobre legislação do trabalho
 
@@ -1948,7 +1980,9 @@ A comissão competente deve promover a consulta da Associação de Municípios d
 
 ##### DIVISÃO IV — Discussão e votação
 
-##### SUBDIVISÃO I — Disposições gerais
+SUBDIVISÃO I
+
+Disposições gerais
 
 ###### Artigo 150.º — Conhecimento prévio dos projetos e propostas de decreto legislativo regional
 
@@ -1966,7 +2000,9 @@ A comissão competente deve promover a consulta da Associação de Municípios d
 
 Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de apreciação no prazo que for designado, não se aplicando, neste caso, o disposto no artigo 150.º, salvo no que respeita à obrigatoriedade da distribuição aos deputados.
 
-##### SUBDIVISÃO II — Discussão e votação na generalidade
+SUBDIVISÃO II
+
+Discussão e votação na generalidade
 
 ###### Artigo 153.º — Objeto
 
@@ -1980,7 +2016,9 @@ Até ao anúncio da votação, podem 10 deputados, pelo menos, requerer a baixa 
 
 2 - Neste caso, a Assembleia Legislativa delibera também sobre aquele que serve de base à discussão e votação na especialidade.
 
-##### SUBDIVISÃO III — Discussão e votação na especialidade
+SUBDIVISÃO III
+
+Discussão e votação na especialidade
 
 ###### Artigo 155.º — Regra geral
 
@@ -2476,7 +2514,7 @@ b) Que o Presidente da Assembleia Legislativa ou as comissões entendam que deve
 
 ###### Artigo 217.º — Comunicação ao autor ou aos autores da petição
 
-**O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adotadas.**
+O Presidente da Assembleia Legislativa comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adotadas.
 
 #### SECÇÃO VII — Inquéritos
 
@@ -2703,3 +2741,5 @@ O parecer depois de apresentado ao Presidente da Assembleia Legislativa, a fim d
 5 - As alterações do Regimento devem ser aprovadas por maioria absoluta dos deputados presentes.
 
 6 - O Regimento com as alterações escritas no lugar próprio será objeto de nova publicação.
+
+113214853

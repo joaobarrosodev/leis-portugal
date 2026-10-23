@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/02/03300/0126401269.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/2019/02/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2019-119622099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 352265c3b7b2d93723f13699fb010fcea187f7389184b4505c62b06ded4ea611
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b37286b9995b16e56158a7cf89950325b9fc3b34809b162263f0e3eb036724f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
+- Direção Regional de Planeamento Recursos e Infraestruturas
 - Gabinete Governamental
+- Gestão de Recursos Humanos
 - Integração de Trabalhadores
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Gabinete
-- Madeira.região Autónoma
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Direção Regional de Planeamento Recursos e Infraestruturas
+- Secretaria Regional dos Equipamentos e Infraestruturas
 - Secretário Regional
-- Gestão de Recursos Humanos
+- Secretário Regional dos Equipamentos e Infraestruturas
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência de Serviços
-- Secretário Regional dos Equipamentos e Infraestruturas
-- Secretaria Regional dos Equipamentos e Infraestruturas
 relationships:
 - type: amended_by
   target: pt:dre:128277509:por
@@ -127,16 +127,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: repealed_by
+  target: pt:dre:128277509:por
+  label: Revogado o DRR 2/2018/M de 24-jan, na redação do presente diploma, pelo(a) Decreto Regulamentar Regional n.º 9/2020/M
+    - Diário da República n.º 13/2020, Série I de 2020-01-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2020-128277509
+  date: '2020-01-20'
 article_structure:
-  article_count: 30
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:21Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +201,9 @@ j) ...
 
 5 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O Gabinete do Secretário Regional, abreviadamente designado por Gabinete, tem por missão coadjuvar o membro do Governo no exercício das suas funções, assegurando o planeamento e o apoio técnico, estratégico, jurídico, financeiro, administrativo e logístico, bem como no domínio da gestão dos recursos humanos, necessários ao exercício das suas competências.
 
@@ -221,15 +229,21 @@ g) ...
 
 5 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 A organização interna do Gabinete compreende unidades nucleares e flexíveis e obedece ao modelo de estrutura hierarquizada, a qual é aprovada nos termos do disposto no artigo 21.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/629387/details/normal?l=1), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os [24/2012/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/174815/details/normal?l=1), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/588851/details/normal?l=1), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/105657288/details/normal?l=1), de 30 de dezembro.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 A Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas tem por missão assegurar as funções de apoio técnico e logístico ao Gabinete do Secretário Regional e à Direção Regional do Equipamento Social e Conservação, nos domínios da contratação pública, da programação e planeamento estratégico e do controlo e gestão orçamental, bem como coordenar a utilização, gestão e manutenção dos equipamentos, viaturas e materiais ao serviço do Governo Regional.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A gestão de pessoal dos serviços da administração direta da SREI rege-se pelo sistema centralizado de gestão, estabelecido nos artigos 6.º a 9.º do [Decreto Legislativo Regional n.º 11/2018/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/115886134/details/normal?l=1), de 3 de agosto.
 
@@ -247,7 +261,9 @@ c) ...
 
 d) A lista nominativa referida no n.º 3 será atualizada de acordo com o disposto no artigo 9.º do [Decreto Legislativo Regional n.º 11/2018/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/115886134/details/normal?l=1), de 3 de agosto, bem como sempre que haja saída definitiva de trabalhadores abrangidos no regime centralizado da SREI, procedendo-se, neste caso, à sua eliminação da referida lista.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador e de chefe de departamento é o constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/428651/details/normal?l=1), de 26 de agosto, objeto da [Declaração de Retificação n.º 15-I/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/469818/details/normal?l=1), publicada no Diário da República n.º 299/99, Série I-A, 2.º Suplemento, de 30 de setembro, sendo-lhes aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/468663/details/normal?l=1), de 27 de fevereiro, alterada pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243747/details/normal?l=1), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/609990/details/normal?l=1), de 28 de abril, [34/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/344267/details/normal?l=1), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/344942/details/normal?l=1), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243769/details/normal?l=1), de 30 de dezembro, [66/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/189513/details/normal?l=1) e [66-B/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/632448/details/normal?l=1), ambas de 31 de dezembro, pelo [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/259966/details/normal?l=1), de 5 de abril, e pela [Lei n.º 80/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/108021175/details/normal?l=1), de 18 de agosto.
 
@@ -261,9 +277,11 @@ d) A lista nominativa referida no n.º 3 será atualizada de acordo com o dispos
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/03300/0126401269.pdf))](https://files.diariodarepublica.pt/1s/2019/02/03300/0126401269.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/03300/0126401269.pdf)
 
-###### Artigo 3.º — Transição e manutenção de serviços e de comissões de serviços
+Artigo 3.º
+
+Transição e manutenção de serviços e de comissões de serviços
 
 1 - As unidades orgânicas nucleares previstas nas alíneas b) e e) do artigo 2.º e nos artigos 4.º e 7.º da Portaria n.º 567/2016, de 15 de dezembro, publicada no JORAM, 1.ª série, n.º 220, Suplemento, de 15 de dezembro, transitam para o Gabinete do Secretário Regional dos Equipamentos e Infraestruturas.
 
@@ -271,11 +289,15 @@ d) A lista nominativa referida no n.º 3 será atualizada de acordo com o dispos
 
 3 - A transição de serviços a que se refere o n.º 1 é acompanhada pela correspondente transição do pessoal, para igual carreira e categoria, através de lista nominativa a aprovar por despacho do Secretário Regional dos Equipamentos e Infraestruturas.
 
-###### Artigo 4.º — Republicação
+Artigo 4.º
+
+Republicação
 
 É republicado, em anexo ao presente decreto regulamentar regional, do qual faz parte integrante, o [Decreto Regulamentar Regional n.º 2/2018/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/114561727/details/normal?l=1), de 24 de janeiro, com as alterações introduzidas pelo presente diploma.
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
@@ -283,23 +305,31 @@ Aprovado em Conselho do Governo Regional em 17 de janeiro de 2019.
 
 O Vice-Presidente do Governo Regional, no exercício da Presidência, Pedro Miguel Amaro de Bettencourt Calado.
 
-**Assinado em 1 de fevereiro de 2019.**
+Assinado em 1 de fevereiro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## ANEXO — (a que se refere o artigo 4.º)
+ANEXO
+
+(a que se refere o artigo 4.º)
 
 Republicação do [Decreto Regulamentar Regional n.º 2/2018/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/114561727/details/normal?l=1), de 24 de janeiro
 
-### CAPÍTULO I — Natureza, atribuições e competências
+CAPÍTULO I
 
-###### Artigo 1.º — Natureza e missão
+Natureza, atribuições e competências
+
+Artigo 1.º
+
+Natureza e missão
 
 A Secretaria Regional dos Equipamentos e Infraestruturas, designada abreviadamente por SREI, é o departamento do Governo Regional da Madeira a que se referem a alínea h) do artigo 1.º e o artigo 9.º do [Decreto Regulamentar Regional n.º 13/2017/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/114157368/details/normal?l=1), de 7 de novembro, que tem por missão definir, coordenar e executar a política regional nos setores dos edifícios e equipamentos públicos, estradas e obras públicas.
 
-###### Artigo 2.º — Atribuições
+Artigo 2.º
+
+Atribuições
 
 Na prossecução da sua missão, constituem atribuições da SREI:
 
@@ -313,7 +343,9 @@ d) Assegurar a observância das disposições reguladoras das tarefas que lhe s�
 
 e) Superintender e realizar a gestão dos meios humanos e materiais para a efetivação das atribuições enunciadas nas alíneas anteriores.
 
-###### Artigo 3.º — Competências
+Artigo 3.º
+
+Competências
 
 1 - A SREI é superiormente representada e dirigida pelo Secretário Regional dos Equipamentos e Infraestruturas, designado abreviadamente no presente diploma por Secretário Regional, ao qual são genericamente cometidas as seguintes competências:
 
@@ -345,13 +377,19 @@ j) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe se
 
 5 - O Secretário Regional poderá, igualmente, avocar as competências dos responsáveis pelos organismos e serviços da SREI.
 
-### CAPÍTULO II — Estrutura Orgânica
+CAPÍTULO II
 
-###### Artigo 4.º — Estrutura geral
+Estrutura Orgânica
+
+Artigo 4.º
+
+Estrutura geral
 
 A SREI prossegue as suas atribuições através de serviços integrados na administração direta e de entidades integradas no setor empresarial da Região Autónoma da Madeira.
 
-###### Artigo 5.º — Serviços da administração direta
+Artigo 5.º
+
+Serviços da administração direta
 
 1 - Integram a administração direta da Região Autónoma da Madeira, no âmbito da SREI, as seguintes estruturas ou serviços centrais:
 
@@ -371,7 +409,9 @@ e) Laboratório Regional de Engenharia Civil.
 
 4 - Mantêm-se as atribuições, a orgânica, o funcionamento e o pessoal de cada um dos órgãos e serviços executivos referidos no número anterior, constantes dos Decretos Regulamentares Regionais n.os [20/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/75195062/details/normal?l=1), de 25 de agosto, [4/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73318738/details/normal?l=1), de 28 de janeiro, [21/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/75437528/details/normal?l=1), de 30 de setembro, [17/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/74848669/details/normal?l=1), de 5 de julho, respetivamente, bem como os demais diplomas orgânicos dos mesmos decorrentes.
 
-###### Artigo 6.º — Setor empresarial da Região Autónoma da Madeira
+Artigo 6.º
+
+Setor empresarial da Região Autónoma da Madeira
 
 1 - A SREI exerce a tutela sobre as seguintes entidades:
 
@@ -387,11 +427,17 @@ e) Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da M
 
 2 - As competências e definição das orientações na Concessionária de Estradas - VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A., empresas participadas integradas no setor empresarial da Região Autónoma da Madeira, são cometidas à SREI.
 
-### CAPÍTULO III — Dos serviços da administração direta
+CAPÍTULO III
 
-#### SECÇÃO I — Missão, atribuições e organização do Gabinete do Secretário Regional
+Dos serviços da administração direta
 
-###### Artigo 7.º — Gabinete do Secretário Regional
+SECÇÃO I
+
+Missão, atribuições e organização do Gabinete do Secretário Regional
+
+Artigo 7.º
+
+Gabinete do Secretário Regional
 
 1 - O Gabinete do Secretário Regional, abreviadamente designado por Gabinete, tem por missão coadjuvar o membro do Governo no exercício das suas funções, assegurando o planeamento e o apoio técnico, estratégico, jurídico, financeiro, administrativo e logístico, bem como no domínio da gestão dos recursos humanos, necessários ao exercício das suas competências.
 
@@ -417,33 +463,49 @@ g) Exercer as demais funções que lhe sejam cometidas e ou delegadas pelo Secre
 
 5 - Nas suas ausências e impedimentos, o Chefe do Gabinete é substituído por um Adjunto ou por outro membro do Gabinete designado, para o efeito, pelo Secretário Regional.
 
-###### Artigo 8.º — Organização interna do Gabinete do Secretário Regional
+Artigo 8.º
+
+Organização interna do Gabinete do Secretário Regional
 
 A organização interna do Gabinete compreende unidades nucleares e flexíveis e obedece ao modelo de estrutura hierarquizada, a qual é aprovada nos termos do disposto no artigo 21.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/629387/details/normal?l=1), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os [24/2012/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/174815/details/normal?l=1), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/588851/details/normal?l=1), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/105657288/details/normal?l=1), de 30 de dezembro.
 
-#### SECÇÃO II — Missão dos serviços executivos
+SECÇÃO II
 
-###### Artigo 9.º — Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas
+Missão dos serviços executivos
+
+Artigo 9.º
+
+Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas
 
 A Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas tem por missão assegurar as funções de apoio técnico e logístico ao Gabinete do Secretário Regional e à Direção Regional do Equipamento Social e Conservação, nos domínios da contratação pública, da programação e planeamento estratégico e do controlo e gestão orçamental, bem como coordenar a utilização, gestão e manutenção dos equipamentos, viaturas e materiais ao serviço do Governo Regional.
 
-###### Artigo 10.º — Direção Regional do Equipamento Social e Conservação
+Artigo 10.º
+
+Direção Regional do Equipamento Social e Conservação
 
 1 - A Direção Regional do Equipamento Social e Conservação tem por missão assegurar a manutenção, a conservação e a reabilitação de edifícios, equipamentos e infraestruturas públicas, bem como a concretização de obras públicas, que lhe sejam cometidas, por forma a garantir a execução de políticas do Governo Regional para o setor.
 
 2 - No âmbito do setor das infraestruturas públicas, a Direção Regional do Equipamento Social e Conservação tem por missão especial promover as ações conducentes à concretização da estratégia definida no âmbito do domínio público hídrico fluvial da Região, a cargo do setor.
 
-###### Artigo 11.º — Direção Regional de Estradas
+Artigo 11.º
+
+Direção Regional de Estradas
 
 A Direção Regional de Estradas tem por missão assegurar a execução política do planeamento, da concretização e da gestão das infraestruturas rodoviárias da rede regional que não estejam afetas às concessões rodoviárias, bem como promover e assegurar o apoio técnico às competências previstas no n.º 3 do artigo 3.º e no n.º 2 do artigo 6.º do presente diploma.
 
-###### Artigo 12.º — Laboratório Regional de Engenharia Civil
+Artigo 12.º
+
+Laboratório Regional de Engenharia Civil
 
 O Laboratório Regional de Engenharia Civil tem por missão realizar, coordenar e promover a investigação científica e o desenvolvimento tecnológico, bem como outras atividades científicas e técnicas necessárias ao progresso e à boa prática da engenharia civil, exercendo a sua ação, fundamentalmente, nos domínios da construção e obras públicas, da habitação e urbanismo, do ambiente, da indústria dos materiais, componentes e outros produtos para a construção e em áreas afins, visando a sua atividade, no essencial, a qualidade e a segurança das obras, a proteção e a reabilitação do património natural e construído, bem como a modernização e inovação tecnológicas do setor da construção.
 
-### CAPÍTULO IV — Pessoal
+CAPÍTULO IV
 
-###### Artigo 13.º — Sistema de gestão de pessoal
+Pessoal
+
+Artigo 13.º
+
+Sistema de gestão de pessoal
 
 1 - A gestão de pessoal dos serviços da administração direta da SREI rege-se pelo sistema centralizado de gestão, estabelecido nos artigos 6.º a 9.º do [Decreto Legislativo Regional n.º 11/2018/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/115886134/details/normal?l=1), de 3 de agosto.
 
@@ -461,7 +523,9 @@ c) O recrutamento de trabalhadores para postos de trabalho que se encontrem abra
 
 d) A lista nominativa referida no n.º 3 será atualizada de acordo com o disposto no artigo 9.º do [Decreto Legislativo Regional n.º 11/2018/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/115886134/details/normal?l=1), de 3 de agosto, bem como sempre que haja saída definitiva de trabalhadores abrangidos no regime centralizado da SREI, procedendo-se, neste caso, à sua eliminação da referida lista.
 
-###### Artigo 14.º — Carreiras subsistentes
+Artigo 14.º
+
+Carreiras subsistentes
 
 1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador e de chefe de departamento é o constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/428651/details/normal?l=1), de 26 de agosto, objeto da [Declaração de Retificação n.º 15-I/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/469818/details/normal?l=1), publicada no Diário da República n.º 299/99, Série I-A, 2.º Suplemento, de 30 de setembro, sendo-lhes aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/468663/details/normal?l=1), de 27 de fevereiro, alterada pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243747/details/normal?l=1), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/609990/details/normal?l=1), de 28 de abril, [34/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/344267/details/normal?l=1), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/344942/details/normal?l=1), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243769/details/normal?l=1), de 30 de dezembro, [66/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/189513/details/normal?l=1) e [66-B/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/632448/details/normal?l=1), ambas de 31 de dezembro, pelo [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/259966/details/normal?l=1), de 5 de abril, e pela [Lei n.º 80/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/108021175/details/normal?l=1), de 18 de agosto.
 
@@ -469,15 +533,21 @@ d) A lista nominativa referida no n.º 3 será atualizada de acordo com o dispos
 
 3 - Os postos de trabalho relativos à carreira de chefe de departamento são extintos à medida que vagarem.
 
-### CAPÍTULO V — Disposições finais e transitórias
+CAPÍTULO V
 
-###### Artigo 15.º — Dotação de cargos de direção
+Disposições finais e transitórias
+
+Artigo 15.º
+
+Dotação de cargos de direção
 
 1 - A dotação de cargos de direção superior da administração direta da SREI consta do anexo i ao presente diploma, do qual faz parte integrante.
 
 2 - A dotação de lugares de direção intermédia de 1.º grau das unidades orgânicas que funcionam sob a direta dependência do Gabinete do Secretário Regional consta do anexo ii ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 16.º — Transição e manutenção de serviços e de comissões de serviços
+Artigo 16.º
+
+Transição e manutenção de serviços e de comissões de serviços
 
 1 - Em cumprimento com o disposto no n.º 3 do artigo 14.º do [Decreto Regulamentar Regional n.º 13/2017/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/114157368/details/normal?l=1), de 7 de novembro, a unidade orgânica nuclear prevista na alínea c) do artigo 2.º e no artigo 5.º da Portaria n.º 130/2015, de 31 de julho, publicada no JORAM, 1.ª série, n.º 133, de 31 de julho, transita para o Gabinete da Secretaria Regional dos Equipamentos e Infraestruturas.
 
@@ -485,28 +555,42 @@ d) A lista nominativa referida no n.º 3 será atualizada de acordo com o dispos
 
 3 - A transição de serviço a que se refere o n.º 1, é acompanhada pela correspondente transição do pessoal, nos termos do despacho conjunto a que se refere o n.º 3 do artigo 15.º do [Decreto Regulamentar Regional n.º 13/2017/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/114157368/details/normal?l=1), de 7 de novembro.
 
-###### Artigo 17.º — Lista nominativa e afetação de pessoal
+Artigo 17.º
+
+Lista nominativa e afetação de pessoal
 
 Nos termos do n.º 3 do artigo 13.º, a lista nominativa do pessoal abrangido pelo sistema centralizado de gestão da SREI é objeto de aprovação e publicitação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, sendo revista a afetação do pessoal abrangido pelo sistema centralizado de gestão aos serviços da administração direta.
 
-###### Artigo 18.º — Referências legais
+Artigo 18.º
+
+Referências legais
 
 Todas as referências legais ou regulamentares feitas à Secretaria Regional dos Assuntos Parlamentares e Europeus, no âmbito das atribuições referidas no artigo 2.º, devem considerar-se reportadas à Secretaria Regional dos Equipamentos e Infraestruturas.
 
-###### Artigo 19.º — Norma revogatória
+Artigo 19.º
+
+Norma revogatória
 
 É revogado o [Decreto Regulamentar Regional n.º 6/2015/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/69782196/details/normal?l=1), de 10 de julho, alterado pelo [Decreto Regulamentar Regional n.º 3/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73230228/details/normal?l=1), de 21 de janeiro, à exceção da parte referente aos diversos órgãos e serviços não regulamentados no presente diploma, cujas atribuições e competências transitaram para outros departamentos governamentais, que se mantém em vigor até à data da entrada em vigor dos diplomas que aprovarão as respetivas orgânicas.
 
-###### Artigo 20.º — Entrada em vigor e produção de efeitos
+Artigo 20.º
+
+Entrada em vigor e produção de efeitos
 
 1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte.
 
 2 - O artigo 13.º produz efeitos a partir da publicação da lista nominativa a que se refere o n.º 3 do mesmo normativo.
 
-## ANEXO I — Cargos de direção superior da administração direta
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/03300/0126401269.pdf))](https://files.diariodarepublica.pt/1s/2019/02/03300/0126401269.pdf)
+Cargos de direção superior da administração direta
 
-## ANEXO II — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/03300/0126401269.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/02/03300/0126401269.pdf))](https://files.diariodarepublica.pt/1s/2019/02/03300/0126401269.pdf)
+ANEXO II
+
+Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/02/03300/0126401269.pdf)
+
+112053937

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1985-326917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa34fe973ba50339d9cb66a8c34c586f5dcd13fa20a92eaf4471b2b830b88952
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27e899496a32918c22032339ac2e6e1a51a8f9b000a979709c5f36c298260a89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:549997:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682066:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:495139:por
+  label: Rectificado pela DECL.DD4917.24.05.1985.PCM, DR.IS [125]Supl de 31.05.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-495139
+  date: '1985-05-24'
+- type: repealed_by
+  target: pt:dre:547809:por
+  label: "Revogados os artigos 21.º a 40.º pelo DRR.19/89/M.20.09.1989.GR-RAM, DR.IS [217] de 20.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1989-547809
+  date: '1989-09-20'
+- type: repealed_by
+  target: pt:dre:550071:por
+  label: "Revogado pelo DRR.21/89/M.08.11.1989.GR-RAM, DR.IS [257] de 08.11.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-1989-550071
+  date: '1989-11-08'
+- type: repealed_by
+  target: pt:dre:549997:por
+  label: "Revoga o capítulo VI (Centro do Emigrante), pelo DRR.23/89/M.09.11.1989.GR-RAM, DR.IS [258] de 09.11.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-1989-549997
+  date: '1989-11-09'
 article_structure:
   article_count: 60
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:38Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +269,9 @@ a) A Repartição de Expediente, com as seguintes secções:
 
 b) O Jornal Oficial.
 
-##### DIVISÃO I — Secção de Expediente
+##### DIVISÃO I
+
+#### Secção de Expediente
 
 ###### Artigo 6.º — (Competência)
 
@@ -206,7 +291,9 @@ f) Estabelecer e assegurar os canais de entrada da correspondência, distribuiç
 
 g) Exercer algumas das competências anteriormente atribuídas à secretaria do ex-Governo Civil do extinto Distrito Autónomo do Funchal.
 
-##### DIVISÃO II — Secção de Documentação, Arquivo, Cadastro e Pessoal
+##### DIVISÃO II
+
+#### Secção de Documentação, Arquivo, Cadastro e Pessoal
 
 ###### Artigo 7.º — (Competência)
 
@@ -242,7 +329,9 @@ p) Propor a aplicação de métodos adequados à selecção do pessoal, visando 
 
 q) Tratar dos demais aspectos técnicos de gestão de pessoal da Secretaria-Geral que lhe forem confiados.
 
-##### DIVISÃO III — Secção de Contabilidade
+##### DIVISÃO III
+
+#### Secção de Contabilidade
 
 ###### Artigo 8.º — (Competência)
 
@@ -328,7 +417,7 @@ O tempo de serviço prestado na Secretaria-Geral, nos termos dos artigos 11.º, 
 
 ###### Artigo 17.º — (Aproveitamento subsidiário do pessoal)
 
-**O secretário-geral poderá determinar, quando os trabalhos o aconselhem ou o imponham, que o pessoal atribuído a cada serviço preste a qualquer dos outros a colaboração tida por conveniente.**
+O secretário-geral poderá determinar, quando os trabalhos o aconselhem ou o imponham, que o pessoal atribuído a cada serviço preste a qualquer dos outros a colaboração tida por conveniente.
 
 ###### Artigo 18.º — (Comissões de estudo. Prestações de serviços)
 
@@ -764,26 +853,26 @@ O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 12 de Dezembro de 1984.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 14 de Janeiro de 1985.**
+Assinado em 14 de Janeiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 1 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf))](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf)
 
 ## ANEXO II — Quadro de pessoal a que se refere o n.º 1 do artigo 25.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf))](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf)
 
 ## ANEXO III — Quadro de pessoal a que se refere o n.º 1 do artigo 47.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf))](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf)
 
 ## ANEXO IV — Quadro de pessoal a que se refere o n.º 1 do artigo 57.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf))](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/06200/06970708.pdf)

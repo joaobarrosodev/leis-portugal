@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1995/05/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1995-514202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c3124c9dc2abf5c5690b95d4a014fa24e7ea512c2568720de82ad6b906118e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2731bcf8bec7ed62c4251c2765177637c88f01af0f62582d8bb3b14ccab8b108
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Serviço Regional de Protecção Civil da Madeira
 relationships:
@@ -76,20 +76,41 @@ relationships:
   target: pt:dre:303612:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448289:por
+  label: "Alterada a redacção do art. 8º e o nº 2 do art. 35º do DRR 11/90/M, na redacção conferida pelo presente diploma,\
+    \ pelo DRR.11/98/M.1998.08.06.PG-RAM, DR.IS-B [198] de 28/Ago/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1998-448289
+  date: '1998-08-06'
+- type: amended_by
+  target: pt:dre:303612:por
+  label: "Alterados os arts. 6.º, 7.º, 8.º, 32.º, 33.º e 37.º e aditado o art. 8.º-A todos do DRR 11/90/M, de 24-Mai, DR.IS\
+    \ [132] na redacção do presente diploma e do 8/99/M, de 29-Jul, pelo DRR.34/2000/M.2000.05.29.PG-RAM DR.IS-B [141] DE\
+    \ 20/JUN/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/34-2000-303612
+  date: '2000-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/6-a/1993/03/25/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6-a/1993/03/25/m/dre
+- type: cites
+  target: pt:dre:571259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575140:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:50Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +127,7 @@ Considerando que esta circunstância impõe, do mesmo passo, a alteração do qu
 
 O Governo Regional da Madeira, ao abrigo do disposto no artigo 14.º do [Decreto Regulamentar Regional n.º 6-A/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-a-1993-571259), de 25 de Março, decreta o seguinte:
 
-###### Artigo 1.º O artigo 8.º do [Decreto Regulamentar Regional n.º 11/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1990-575140), de 12 de Junho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 8.º do [Decreto Regulamentar Regional n.º 11/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1990-575140), de 12 de Junho, passa a ter a seguinte redacção:
 
 ###### Artigo 8.º — Estrutura
 
@@ -122,9 +143,11 @@ d) Divisão de Análise de Riscos Tecnológicos;
 
 e) Repartição dos Serviços Administrativos.
 
-###### Art. 2.º É aditada ao diploma referido no artigo anterior uma secção V-A que integra o artigo 31.º-A, com a seguinte redacção:
+Art. 2.º É aditada ao diploma referido no artigo anterior uma secção V-A que integra o artigo 31.º-A, com a seguinte redacção:
 
-#### SECÇÃO V-A — Divisão de Análise de Riscos Tecnológicos
+#### SECÇÃO V-A
+
+##### Divisão de Análise de Riscos Tecnológicos
 
 ###### Artigo 31.º-A — Natureza
 
@@ -136,18 +159,18 @@ b) A execução de vistorias que, nos termos da lei, estejam cometidas ao SRPCM.
 
 2 - A DART é dirigida por um chefe de divisão.
 
-###### Art. 3.º O mapa anexo ao diploma legal referido no artigo 1.º e a que se refere o n.º 2 do artigo 35.º passa a ter a composição constante do mapa anexo ao presente diploma, nas partes respeitantes a pessoal dirigente, pessoal técnico superior, pessoal técnico profissional e pessoal administrativo, e que dele fazem parte integrante.
+Art. 3.º O mapa anexo ao diploma legal referido no artigo 1.º e a que se refere o n.º 2 do artigo 35.º passa a ter a composição constante do mapa anexo ao presente diploma, nas partes respeitantes a pessoal dirigente, pessoal técnico superior, pessoal técnico profissional e pessoal administrativo, e que dele fazem parte integrante.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 22 de Março de 1995.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 4 de Abril de 1995.**
+Assinado em 4 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/106b00/25912592.pdf))](https://files.diariodarepublica.pt/1s/1995/05/106b00/25912592.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/106b00/25912592.pdf)

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 108/2001, 1º Suplemento, Série I-B de 2001-05-10
   number: '108'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2794-(2) a 2794-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/108b01/00020012.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6-a/2001/05/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-a-2001-658035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c45a6c6aef9cc96875db32a551962bd19c7122d88f11887dc7cd4b720dd50172
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95d2066d309d6e40ec2dcd52f207f01779583a080054813e42d03c4066274405
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Instituto Regional de Emprego
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: cites
@@ -102,16 +102,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:50Z'
   warnings: []
   errors: []
 ---
@@ -140,11 +172,11 @@ Aprovado em Conselho do Governo Regional em 19 de Abril de 2001.
 
 O Vice-Presidente do Governo Regional, no exercício da Presidência, João Carlos Cunha e Silva.
 
-**Assinado em 9 de Maio de 2001.**
+Assinado em 9 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica do Instituto Regional de Emprego
 
@@ -214,7 +246,9 @@ o) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 4 - A DSE é dirigida por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Promoção de Emprego
+##### SUBSECÇÃO I
+
+##### Divisão de Promoção de Emprego
 
 ###### Artigo 3.º — Competências
 
@@ -236,7 +270,9 @@ g) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 2 - A chefia da DPE compete a um chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão de Programas de Emprego e Desenvolvimento Local
+##### SUBSECÇÃO II
+
+##### Divisão de Programas de Emprego e Desenvolvimento Local
 
 ###### Artigo 4.º — Competências
 
@@ -260,7 +296,9 @@ h) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 2 - A chefia da DPEDL compete a um chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão de Acompanhamento e Controle
+##### SUBSECÇÃO III
+
+##### Divisão de Acompanhamento e Controle
 
 ###### Artigo 5.º — Competências
 
@@ -320,7 +358,9 @@ o) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 4 - O CRE é dirigido por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Mercado de Emprego
+##### SUBSECÇÃO I
+
+##### Divisão de Mercado de Emprego
 
 ###### Artigo 7.º — Competências
 
@@ -348,7 +388,9 @@ j) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 2 - A chefia da DME compete a um chefe de divisão.
 
-##### SUBSECÇÃO II — Divisão de Prestações de Desemprego
+##### SUBSECÇÃO II
+
+##### Divisão de Prestações de Desemprego
 
 ###### Artigo 8.º — Competências
 
@@ -376,7 +418,9 @@ j) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 2 - A chefia da DPD compete a um chefe de divisão.
 
-##### SUBSECÇÃO III — Divisão de Informação e Orientação Profissional
+##### SUBSECÇÃO III
+
+##### Divisão de Informação e Orientação Profissional
 
 ###### Artigo 9.º — Competências
 
@@ -422,7 +466,9 @@ f) Exercer todas as demais competências que lhe sejam conferidas superiormente.
 
 4 - A DSAF é dirigida por um director de serviços.
 
-##### SUBSECÇÃO I — Divisão de Recursos Humanos e Expediente
+##### SUBSECÇÃO I
+
+##### Divisão de Recursos Humanos e Expediente
 
 ###### Artigo 11.º — Competências
 
@@ -472,7 +518,9 @@ b) Exercer todas as demais tarefas que lhe sejam cometidas superiormente.
 
 7 - O NESG é chefiado por um coordenador e integra as Secções de Expediente e de Arquivo.
 
-##### SUBSECÇÃO II — Divisão de Contabilidade e Património
+##### SUBSECÇÃO II
+
+##### Divisão de Contabilidade e Património
 
 ###### Artigo 12.º — Competências
 

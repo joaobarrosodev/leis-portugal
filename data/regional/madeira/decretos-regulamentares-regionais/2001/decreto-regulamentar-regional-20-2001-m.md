@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/201b00/55795583.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2001/08/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2001-631830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4c9663ff6754db72f6b9bf7435306bf109f1947eaff643dc687b304e7cc840f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 937f96bbbe80c9db366e96e89de0ca757d4fa8b3781271e6cbd4a781ad2c3939
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,27 @@ reuse:
 subjects:
 - Artesanato
 - Instituto do Bordado Tapeçaria e Artesanato da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:286081:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480297:por
+  label: "Alterados os arts 6º, 7º, 16º-A e 16º-B e substituído o quadro de pessoal, todos do DLR 14/91/M de 18-Jun, na redacção\
+    \ do presente diploma, pelo DLR.25/2004/M.27.07.2004.ALR-RAM, DR.IS-A [196] de 20.08.2004, republicado na íntegra\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-2004-480297
+  date: '2004-07-27'
+- type: amended_by
+  target: pt:dre:693196:por
+  label: "Mantido em vigor o diploma orgânico e o quadro de pessoal aprovados pelo DLR 14/91/M de 18-Jun, alterado pelo presente\
+    \ diploma, pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B [94] de 16.05.2005, até à entrada em vigor do novo diploma orgânico\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -116,16 +129,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659282:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286081:por
+  label: "Revogado pelo DLR.18/2006/M.15.05.2006.AL-RAM, DR.IS-A [103] de 29.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2006-286081
+  date: '2006-05-15'
 article_structure:
-  article_count: 14
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:44Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +226,9 @@ As epígrafes do capítulo III e do artigo 6.º são alteradas, sendo aditado o 
 
 Órgãos e serviços do IBTAM e suas competências
 
-###### Artigo 6.º — Órgãos e serviços
+Artigo 6.º
+
+Órgãos e serviços
 
 1 - São órgãos sociais do IBTAM:
 
@@ -198,11 +258,15 @@ Aos artigos 7.º, 23.º e 26.º são dadas as seguintes redacções:
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 As escalas salariais das categorias de auxiliar de artesanato e de auxiliar de limpeza são as previstas no mapa anexo ao presente diploma.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 O pessoal de informática é recrutado e provido nos termos do [Decreto-Lei n.º 97/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2001-345277), de 26 de Março.»
 
@@ -212,9 +276,11 @@ Ao capítulo III são aditadas as secções V e VI, que passam a inserir, em adi
 
 «SECÇÃO V
 
-##### Divisão Técnica e dos Recursos Culturais
+Divisão Técnica e dos Recursos Culturais
 
-###### Artigo 16.º-A — Competência
+Artigo 16.º-A
+
+Competência
 
 1 - À Divisão Técnica e dos Recursos Culturais compete, nomeadamente:
 
@@ -226,9 +292,13 @@ c) Exercer as demais competências que forem superiormente determinadas.
 
 2 - A Divisão Técnica e dos Recursos Culturais é chefiada por um chefe de divisão.
 
-#### SECÇÃO VI — Departamento de Pessoal e de Expediente
+SECÇÃO VI
 
-###### Artigo 16.º-B — Competência
+Departamento de Pessoal e de Expediente
+
+Artigo 16.º-B
+
+Competência
 
 1 - Compete ao Departamento de Pessoal e de Expediente:
 
@@ -280,13 +350,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 19 de Julho de 2001.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 9 de Agosto de 2001.**
+Assinado em 9 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.
 
 MAPA ANEXO
 

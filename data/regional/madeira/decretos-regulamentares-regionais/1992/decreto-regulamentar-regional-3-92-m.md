@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/041b00/09850986.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/1992/02/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1992-158576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73c0970e38b1417099721971edc7a75f8135d072386bb0978955bc102fe7649f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f75023e350bdb674cf4625cde6301c55f0091161f31931c574a4317a6b8b027
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Coordenador Regional
-- Pessoal Docente
+- Ensino Artístico
 - Madeira.região Autónoma
+- Pessoal Docente
 - Regime Jurídico
 relationships:
 - type: amended_by
@@ -80,16 +80,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176347:por
+  label: "Revogado pelo DLR.5/98/M.1998.04.02.ALR-RAM, DR-IS-B [97] de 27/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-1998-176347
+  date: '1998-04-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:32Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +117,7 @@ Revelando a importância e o sucesso que esta área vem tendo na Região Autóno
 
 O Governo Regional decreta, ao abrigo da alínea o) do artigo 30.º, conjugado com a alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, e nos termos do artigo 12.º do [Decreto-Lei n.º 364/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1979-370782), de 4 de Setembro, o seguinte:
 
-###### Artigo 1.º - 1 - Para um conjunto de 20 professores do 1.º ciclo do ensino básico existirá um professor-monitor. Estes professores-monitores terão a sua acção dinamizada e orientada por três coordenadores de zona e dois coordenadores regionais (um para a área de Expressão Musical e outro para a área de Expressão Dramática).
+Artigo 1.º - 1 - Para um conjunto de 20 professores do 1.º ciclo do ensino básico existirá um professor-monitor. Estes professores-monitores terão a sua acção dinamizada e orientada por três coordenadores de zona e dois coordenadores regionais (um para a área de Expressão Musical e outro para a área de Expressão Dramática).
 
 2 - A área de Expressão Musical e Dramática na educação pré-escolar é garantida através de oito animadores, orientados por um coordenador.
 
@@ -112,7 +125,7 @@ O Governo Regional decreta, ao abrigo da alínea o) do artigo 30.º, conjugado c
 
 O cargo de animador deverá ser desempenhado por educadores de infância ou professores devidamente habilitados.
 
-###### Art. 2.º Compete aos coordenadores regionais:
+Art. 2.º Compete aos coordenadores regionais:
 
 a) Planear toda a actividade curricular e extracurricular segundo os critérios programáticos superiormente definidos;
 
@@ -122,7 +135,7 @@ c) Propor o apetrechamento em material musical (instrumentos) das escolas, por f
 
 d) Coordenar e dinamizar todo o grupo de trabalho constituído pelos coordenadores de zona e professores-monitores.
 
-###### Art. 3.º Compete aos coordenadores de zona:
+Art. 3.º Compete aos coordenadores de zona:
 
 a) Programar e planificar a área de Expressão Musical e Dramática em articulação com o programa aprovado a nível nacional;
 
@@ -132,7 +145,7 @@ c) Reunir com os professores-monitores da sua zona, por forma a definir estraté
 
 d) Dar todo o apoio didáctico-pedagógico necessário ao bom funcionamento desta área.
 
-###### Art. 4.º Compete aos professores-monitores:
+Art. 4.º Compete aos professores-monitores:
 
 a) Orientar a aulas de Expressão Musical e Dramática em estreita colaboração com os docentes das respectivas classes;
 
@@ -150,7 +163,7 @@ g) Participar em todas as actividades planeadas pelo Gabinete de Apoio à Expres
 
 h) Planificar toda a sua actividade docente e técnico-pedagógica com base no horário de trabalho estabelecido no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, garantindo, paralelamente, o funcionamento das actividades extracurriculares.
 
-###### Art. 5.º Compete aos animadores da educação pré-escolar:
+Art. 5.º Compete aos animadores da educação pré-escolar:
 
 a) Implementar uma prática efectiva da área de Expressão Musical e Dramática na educação pré-escolar em toda a Região Autónoma da Madeira;
 
@@ -162,22 +175,22 @@ d) Confeccionar o material necessário ao trabalho que desenvolvem (diversos tip
 
 e) Colaborar com a Divisão de Infância nas suas organizações.
 
-###### Art. 6.º No exercício das suas funções, os animadores da educação pré-escolar e os professores-monitores do 1.º ciclo do ensino básico terão direito a uma gratificação mensal equivalente a 10% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, a abonar durante os 12 meses do ano.
+Art. 6.º No exercício das suas funções, os animadores da educação pré-escolar e os professores-monitores do 1.º ciclo do ensino básico terão direito a uma gratificação mensal equivalente a 10% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, a abonar durante os 12 meses do ano.
 
 Os coordenadores de zona e coordenadores regionais auferem no exercício das suas funções uma gratificação mensal correspondente a 20% do vencimento a que tiverem direito, a abonar durante os 12 meses do ano.
 
-###### Art. 7.º Os animadores da educação pré-escolar, os professores-monitores do 1.º ciclo do ensino básico e os coordenadores de zona e regionais serão nomeados pelo Secretário Regional da Educação, Juventude e Emprego.
+Art. 7.º Os animadores da educação pré-escolar, os professores-monitores do 1.º ciclo do ensino básico e os coordenadores de zona e regionais serão nomeados pelo Secretário Regional da Educação, Juventude e Emprego.
 
-###### Art. 8.º O exercício de funções dos animadores, professores-monitores, coordenadores de zona e coordenadores regionais será fixado por um prazo de dois anos, podendo ser sucessivamente prorrogado por idênticos períodos, cessando em qualquer momento por decisão superior ou a pedido do interessado no período compreendido entre 15 e 31 de Maio de cada ano.
+Art. 8.º O exercício de funções dos animadores, professores-monitores, coordenadores de zona e coordenadores regionais será fixado por um prazo de dois anos, podendo ser sucessivamente prorrogado por idênticos períodos, cessando em qualquer momento por decisão superior ou a pedido do interessado no período compreendido entre 15 e 31 de Maio de cada ano.
 
-###### Art. 9.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1992.
+Art. 9.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1992.
 
 Aprovado em Conselho do Governo Regional em 9 de Janeiro de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 29 de Janeiro de 1992.**
+Assinado em 29 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

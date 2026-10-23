@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/2/1994/04/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/2-1994-265147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f967fc8fbb0481e5ed6f378dcc36f5c77a4153735af7364f30c11aedc0f1054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 942d02782d1829cf0e203d17feff63ac3c4d6413c068af3bd1361e630a40a891
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
+- Carreira Profissional
 - Curso de Especialização
 - Educador de Infância
-- Carreira Profissional
-- Assembleia da República
-- Pessoal Docente
 - Ensino Básico
-- Madeira.região Autónoma
 - Equivalência de Diplomas
-relationships: []
+- Madeira.região Autónoma
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574132:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:40Z'
   warnings: []
   errors: []
 ---
@@ -105,12 +113,12 @@ Considerando que importa atribuir aos cursos na área da deficiência intelectua
 
 A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:
 
-###### Artigo único. Os docentes detentores dos cursos de especialização a que se refere o mapa anexo equiparam-se, para efeitos profissionais e de progressão na carreira, aos docentes diplomados de estudos superiores especializados.
+Artigo único. Os docentes detentores dos cursos de especialização a que se refere o mapa anexo equiparam-se, para efeitos profissionais e de progressão na carreira, aos docentes diplomados de estudos superiores especializados.
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 1 de Março de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
 Mapa anexo a que se refere o artigo único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/04/094b00/19651966.pdf))](https://files.diariodarepublica.pt/1s/1994/04/094b00/19651966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/094b00/19651966.pdf)

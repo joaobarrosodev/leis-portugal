@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 24/1997, 1º Suplemento, Série I-B de 1997-01-29
   number: '24'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 496-(2) a 496-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2-a/1997/01/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-a-1997-182203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de5a3be42a528706c08dca950ce0c084f30f236ed960417ba55db7d168e13fb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 039fee5fe9551973aa9044d3502c9c90755ecf034fe358bd7299cc6d9acb6972
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,6 +66,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Centro Internacional de Negócios da Madeira
 - Direcção Regional da Administração Pública e Local
 - Direcção Regional de Estatística
 - Direcção Regional de Finanças
@@ -75,19 +76,25 @@ subjects:
 - Direcção Regional do Planeamento
 - Gabinete do Secretário Regional do Plano e da Coordenação
 - Inspecção Regional de Finanças
-- Centro Internacional de Negócios da Madeira
-- Secretaria Regional do Plano e da Coordenação
-- Secretário Regional do Plano e da Coordenação
+- Madeira.região Autónoma
 - Núcleo Estratégico da Sociedade de Informação
 - Orgânica
-- Zona Tributária Privilegiada
-- Madeira.região Autónoma
 - Quadro de Pessoal
+- Secretaria Regional do Plano e da Coordenação
+- Secretário Regional do Plano e da Coordenação
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:612591:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692040:por
+  label: "Alterados os arts. 3º, 4º, 17º, 18º, 29º, 32º, 33º, os Cap. III e VI, o mapa I do anexo I, o mapa II do anexo II\
+    \ e revogado o art. 34º, republicado, na íntegra, com as alterações introduzidas, pelo DRR.14/99/M.1999.10.12.PG-RAM,\
+    \ DR.IS-B [254] de 30/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1999-692040
+  date: '1999-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/24-a/1996/12/04/m/dre
   label: null
@@ -108,16 +115,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:221730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301825:por
+  label: "Rectificado pela Decl-Rect 5-J/97.1997.02.28.PCM, DR.IS-B [50]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-j-1997-301825
+  date: '1997-02-28'
+- type: repealed_by
+  target: pt:dre:612591:por
+  label: "Revogado pelo DRR.1-A/2001/M.2001.03.12.PG-RAM DR.IS-B [61]Supl de 13/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-a-2001-612591
+  date: '2001-03-12'
 article_structure:
-  article_count: 37
+  article_count: 39
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:09Z'
   warnings: []
   errors: []
 ---
@@ -152,11 +197,11 @@ Aprovado em Conselho do Governo Regional em 20 de Janeiro de 1997.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
 
-**Assinado em 29 de Janeiro de de 1997.**
+Assinado em 29 de Janeiro de de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ORGÂNICA DA SECRETARIA REGIONAL DO PLANO E DA COORDENAÇÃO E DO GABINETE DO SECRETÁRIO REGIONAL DO PLANO E DA COORDENAÇÃO E SERVIÇOS DE APOIO.
 
@@ -360,7 +405,9 @@ d) Prestar apoio à comissão técnica do MAR, nos termos previstos no artigo 4.
 
 e) Executar tudo o mais que lhe for expressamente cometido ou decorra do normal desempenho das suas atribuições.
 
-##### SUBSECÇÃO I — Artigo 13.º
+##### SUBSECÇÃO I
+
+###### Artigo 13.º
 
 Gabinete Técnico
 
@@ -372,7 +419,9 @@ b) Prestar apoio técnico em matérias que exijam preparação específica;
 
 c) Elaborar estudos e pareceres no âmbito das atribuições do GZFM.
 
-##### SUBSECÇÃO II — Artigo 14.º
+##### SUBSECÇÃO II
+
+###### Artigo 14.º
 
 Repartição de Serviços Administrativos
 
@@ -548,16 +597,16 @@ b) Sem prejuízo das habilitações legais exigidas, para categoria que integre 
 
 ## ANEXO I — Mapa I - Serviços dependentes do Secretário Regional a que se referem o n.º 1 do artigo 4.º e o n.º 2 do artigo 28.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf)
 
 Gabinete de Estudos e Pareceres Jurídicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf)
 
 ## ANEXO II — Mapa II - Gabinete da Zona Franca da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf)
 
 ## ANEXO III — Mapa III - a que se refere o artigo 34.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf))](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/024b01/00020009.pdf)

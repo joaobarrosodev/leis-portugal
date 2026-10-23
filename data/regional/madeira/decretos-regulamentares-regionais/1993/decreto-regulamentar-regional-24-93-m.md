@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/08/188b00/42974321.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/1993/08/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1993-354342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ce7966961f835a925b0f96096de0d47293f128acf4440e8ac6a4e5bca4a0076
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e523072caabb7bc8a61296763a5cb94638c7f9ea191cc9fecee7fbd2cd02d585
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional do Turismo e Cultura
 - Centro de Estudos de História do Atlântico
-- Governo Regional
 - Conselho Regional do Turismo
-- Direcção Regional dos Assuntos Culturais
 - Direcção Regional de Turismo
+- Direcção Regional dos Assuntos Culturais
 - Escola de Hotelaria e Turismo
 - Formas de Provimento
 - Gabinete do Secretário Regional do Turismo e Cultura
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional do Turismo e Cultura
 relationships:
 - type: amended_by
   target: pt:dre:508584:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:436640:por
+  label: "Alterado o n.º 1 do artigo 67.º, as alíneas e) e f) do artigo 73.º, reestruturados e alterados os quadros de pessoal\
+    \ da DSA, da DRT e da DRAC, a que se referem, as alíneas c), d) e e) do n.º 2 do artigo 66.º DRR.7/96/M.12.06.1996.PG-RAM,\
+    \ DR.IS-B [135] de 12.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1996-436640
+  date: '1996-06-12'
+- type: amended_by
+  target: pt:dre:517575:por
+  label: "Alterado pelo DRR.7/97/M.1997.02.25.PG-RAM DR.IS-B [65] de 18/MAR/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1997-517575
+  date: '1997-02-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -111,16 +123,98 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:177433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:154620:por
+  label: "Revogadas as disposições referentes à EHTM constantes, pelo DLR.8/97/M.1997.06.20.ALR-RAM\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-1997-154620
+  date: '1997-06-20'
+- type: repealed_by
+  target: pt:dre:508584:por
+  label: "Revogado pelo DRR.24/2000/M.2000.02.10.PG-RAM DR.IS-B [72] DE 25/MAR/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2000-508584
+  date: '2000-02-10'
 article_structure:
   article_count: 76
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 37
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:39Z'
   warnings: []
   errors: []
 ---
@@ -383,7 +477,9 @@ a) Secção de Administração Geral e Arquivo (SAGA);
 
 b) Secção de Pessoal (SP).
 
-###### Artigo 12.º — Secção de Administração Geral e Arquivo
+###### Artigo 12.º
+
+#### Secção de Administração Geral e Arquivo
 
 À SAGA compete:
 
@@ -393,7 +489,9 @@ b) Assegurar o tratamento de assuntos e expediente de âmbito geral que não dig
 
 c) Assegurar o serviço de expediente e arquivo de toda a correspondência e demais documentação do GSR.
 
-###### Artigo 13.º — Secção de Pessoal
+###### Artigo 13.º
+
+#### Secção de Pessoal
 
 À SP compete:
 
@@ -411,7 +509,9 @@ a) Secção de Orçamento e Receitas (SOR);
 
 b) Secção de Contabilidade e Economato (SCE).
 
-###### Artigo 15.º — Secção de Orçamento e Receitas
+###### Artigo 15.º
+
+#### Secção de Orçamento e Receitas
 
 À SOR compete:
 
@@ -425,7 +525,9 @@ d) Controlar a emissão de quaisquer títulos de receitas, bem como a arrecadaç
 
 e) Arrecadar as receitas legais e assegurar a sua entrega regular no departamento competente.
 
-###### Artigo 16.º — Secção de Contabilidade e Economato
+###### Artigo 16.º
+
+#### Secção de Contabilidade e Economato
 
 À SCE compete:
 
@@ -509,7 +611,9 @@ b) Secção de Pessoal (SP);
 
 c) Secção de Contabilidade e Economato (SCE).
 
-###### Artigo 21.º — Secção de Administração Geral e Arquivo
+###### Artigo 21.º
+
+#### Secção de Administração Geral e Arquivo
 
 À SAGA compete:
 
@@ -519,7 +623,9 @@ b) Assegurar o tratamento dos assuntos e expediente de âmbito geral que não di
 
 c) Assegurar o serviço de expedição e arquivo de toda a correspondência e demais documentação.
 
-###### Artigo 22.º — Secção de Pessoal
+###### Artigo 22.º
+
+#### Secção de Pessoal
 
 À SP compete:
 
@@ -529,7 +635,9 @@ b) Organizar e manter actualizado o registo biográfico do pessoal;
 
 c) Assegurar os procedimentos administrativos respeitantes à efectividade, transição de escalão remuneratório e segurança e benefícios sociais do pessoal.
 
-###### Artigo 23.º — Secção de Contabilidade e Economato
+###### Artigo 23.º
+
+#### Secção de Contabilidade e Economato
 
 À SCE compete:
 
@@ -557,7 +665,9 @@ a) Divisão de Empreendimentos Turísticos (DET);
 
 b) Divisão de Actividades Turísticas (DAT).
 
-###### Artigo 25.º — Divisão de Empreendimentos Turísticos
+###### Artigo 25.º
+
+##### Divisão de Empreendimentos Turísticos
 
 À DET compete:
 
@@ -591,7 +701,9 @@ e) Organizar, analisar, informar e fiscalizar os processos de financiamento, dir
 
 f) Participar nas actividades das comissões de estudo e elaboração dos planos de obras das zonas de jogo e dar parecer sobre os mesmos planos.
 
-###### Artigo 26.º — Divisão de Actividades Turísticas
+###### Artigo 26.º
+
+##### Divisão de Actividades Turísticas
 
 À DAT compete:
 
@@ -659,7 +771,9 @@ b) Divisão de Promoção e Relações Públicas (DPRP).
 
 4 - O pessoal recepcionista em serviço nos postos de turismo usa, obrigatoriamente, trajo apropriado, sendo o modelo e respectivas normas de utilização fixados por portaria do Secretário Regional do Turismo e Cultura.
 
-###### Artigo 28.º — Divisão de Estudos, Planeamento e Informação Turísticos
+###### Artigo 28.º
+
+##### Divisão de Estudos, Planeamento e Informação Turísticos
 
 À DEPIT compete:
 
@@ -715,7 +829,9 @@ d) Promover a defesa do consumidor, através de divulgação de informações so
 
 e) Assegurar o controlo de todos os materiais promocionais, incluindo o seu armazenamento e distribuição.
 
-###### Artigo 29.º — Divisão de Promoção e Relações Públicas
+###### Artigo 29.º
+
+##### Divisão de Promoção e Relações Públicas
 
 À DPRP compete:
 
@@ -747,7 +863,9 @@ c) Prestar assistência à realização de congressos, convenções e outros eve
 
 2 - A DSAT é dirigida por um director de serviços e compreende a Divisão de Eventos e Material de Animação (DEMA), dirigida por um chefe de divisão.
 
-###### Artigo 31.º — Divisão de Eventos e Material de Animação
+###### Artigo 31.º
+
+##### Divisão de Eventos e Material de Animação
 
 À DEMA compete:
 
@@ -841,7 +959,9 @@ b) Secção de Pessoal (SP);
 
 c) Secção de Contabilidade e Economato (SCE).
 
-###### Artigo 37.º — Secção de Administração Geral e Arquivo
+###### Artigo 37.º
+
+#### Secção de Administração Geral e Arquivo
 
 À SAGA compete:
 
@@ -851,7 +971,9 @@ b) Assegurar o tratamento dos assuntos e expediente de âmbito geral que não di
 
 c) Assegurar o serviço de expedição e arquivo de toda a correspondência e demais documentação.
 
-###### Artigo 38.º — Secção de Pessoal
+###### Artigo 38.º
+
+#### Secção de Pessoal
 
 À SP compete:
 
@@ -861,7 +983,9 @@ b) Organizar e mantetualizado o registo biográfico do pessoal;
 
 c) Assegurar os procprocedimentos administrativos respeitantes à efectividade, transição de escalão remuneratório e segurança e benefícios sociais do pessoal.
 
-###### Artigo 39.º — Secção de Contabilidade e Economato
+###### Artigo 39.º
+
+#### Secção de Contabilidade e Economato
 
 À SCE compete:
 
@@ -887,7 +1011,9 @@ b) Divisão de Animação e Divulgação Culturais (DADC);
 
 c) Divisão de Publicações (DP).
 
-###### Artigo 41.º — Divisão de Protecção do Património Cultural
+###### Artigo 41.º
+
+##### Divisão de Protecção do Património Cultural
 
 À DPPC compete:
 
@@ -907,7 +1033,9 @@ g) Superintender tecnicamente em trabalhos de conservação ou restauro de peça
 
 h) Desenvolver acções de divulgação do património cultural da RAM.
 
-###### Artigo 42.º — Divisão de Animação e Divulgação Culturais
+###### Artigo 42.º
+
+##### Divisão de Animação e Divulgação Culturais
 
 À DADC compete:
 
@@ -921,7 +1049,9 @@ d) Apoiar a dinamização cultural dos museus pertencentes à DRAC, designadamen
 
 e) Assegurar a elaboração gráfica das edições e reedições de obras literárias e outras publicações, bem como o seu acompanhamento tipográfico.
 
-###### Artigo 43.º — Divisão de Publicações
+###### Artigo 43.º
+
+##### Divisão de Publicações
 
 À DP compete:
 
@@ -1213,7 +1343,9 @@ b) Secção de Contabilidade e Tesouraria (SCT);
 
 c) Secção de Economato (SE).
 
-###### Artigo 58.º — Secção de Administração Geral, Pessoal e Secretariado da Escola
+###### Artigo 58.º
+
+#### Secção de Administração Geral, Pessoal e Secretariado da Escola
 
 À SAGPSE compete:
 
@@ -1233,7 +1365,9 @@ g) Assegurar as tarefas de âmbito administrativo inerentes aos formadores e alu
 
 h) Assegurar o apoio indispensável ao funcionamento das aulas.
 
-###### Artigo 59.º — Secção de Contabilidade e Tesouraria
+###### Artigo 59.º
+
+#### Secção de Contabilidade e Tesouraria
 
 À SCT compete:
 
@@ -1247,7 +1381,9 @@ d) Arredacar receitas e efectuar pagamentos de despesas, nos termos regulamentar
 
 e) Elaborar a conta anual de gerência.
 
-###### Artigo 60.º — Secção de Economato
+###### Artigo 60.º
+
+#### Secção de Economato
 
 À SE compete:
 
@@ -1411,16 +1547,16 @@ Excepcionalmente e enquanto se mantiverem em funções, os actuais directores do
 
 Aprovado em Conselho do Governo Regional em 3 de Junho de 1993.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 5 de Julho de 1993.**
+Assinado em 5 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Quadros de pessoal a que se refere o n.º 2 do artigo 66.º do Decreto Regulamentar Regional n.º 24/93/M
 
 QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/08/188b00/42974321.pdf))](https://files.diariodarepublica.pt/1s/1993/08/188b00/42974321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/188b00/42974321.pdf)

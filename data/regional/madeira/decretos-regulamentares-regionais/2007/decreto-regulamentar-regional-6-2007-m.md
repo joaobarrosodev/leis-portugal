@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2007/08/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2007-640667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cf766154970dc8396b08f1334cf8cf0f31c15c9ed8eeb3950f2aad27b3f3654
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cf390f9204512146d041016695ae7c3dd077102855030ddc450a292da917e83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
+- Benefícios Fiscais
+- Direcção Regional dos Assuntos Fiscais
 - Empresa
-- Governo Regional
 - Estatuto dos Benefícios Fiscais
 - Fiscalização
-- Apoio ao Investimento
-- Projeto de Investimento
-- IRS
+- Governo Regional
 - Instituto de Desenvolvimento Empresarial
 - IRC
+- IRS
 - Jovem Empresário
 - Madeira.região Autónoma
 - Pequenas e Médias Empresas
+- Projeto de Investimento
 - Regime Fiscal
-- Benefícios Fiscais
-- Direcção Regional dos Assuntos Fiscais
 relationships:
 - type: cites
   target: celex:32006R1628
@@ -96,16 +96,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:29/2000/M
+  label: "Revoga o Decreto Regulamentar Regional n.º 29/2000/M, de 27 de Abril, DR.IS-B [98]\0\0"
+  source: null
+  date: '2000-04-27'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:24Z'
   warnings: []
   errors: []
 ---
@@ -414,10 +419,10 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado em plenário do Conselho do Governo em 9 de Agosto de 2007.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 14 de Agosto de 2007.**
+Assinado em 14 de Agosto de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

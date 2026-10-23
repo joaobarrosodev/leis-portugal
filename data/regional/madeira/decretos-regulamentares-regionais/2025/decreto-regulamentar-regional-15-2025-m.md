@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2025/10/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2025-937443531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b4f8394eed0e101f5b7ec42a4fa6802f1702e57729522503d4ea7fddf437d90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fae403585a20b3592d0f760b696044c3efee55b1164bcc8ff7f53f0a1ac859b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo Regional
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Secretaria Regional da Educação Ciência e Tecnologia
 - Secretaria Regional de Turismo Ambiente e Cultura
 relationships:
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:1078211088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:5/2025/M
+  label: Altera, a partir de 2 de outubro de 2025, com efeitos a 15 de setembro de 2025, os artigos 1.º, 3.º, 4.º e 12.º do
+    Decreto Regulamentar Regional n.º 5/2025/M, de 5 de maio, Diário da República n.º 85/2025, Série I
+  source: null
+  date: '2025-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/6/2024/07/29/m/dre
   label: null
@@ -96,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916745909:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:54Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +140,7 @@ validation:
 
 Primeira alteração ao [Decreto Regulamentar Regional n.º 5/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2025-916745909), de 5 de maio, que aprova a organização e funcionamento do XVI Governo Regional da Madeira
 
-Os artigos 56.º, n.º 3, e 69.º, alínea c), do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n. <sup>os</sup> [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, estabelecem a competência do Governo Regional para aprovar a sua organização e funcionamento.
+Os artigos 56.º, n.º 3, e 69.º, alínea c), do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n. os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, estabelecem a competência do Governo Regional para aprovar a sua organização e funcionamento.
 
 Assim, nos termos dos artigos 227.º, n.º 1, alínea d), e 231.º, n.º 6, da Constituição da República Portuguesa, e dos artigos 56.º, n.º 3, 69.º, alíneas c) e d), e 70.º, n.º 1, do Estatuto Político-Administrativo da Região Autónoma da Madeira, o Governo Regional da Madeira decreta o seguinte:
 
@@ -150,7 +176,9 @@ h) [...]
 
 i) [...]
 
-###### Artigo 3.º — Secretaria Regional de Turismo, Ambiente e Cultura
+Artigo 3.º
+
+Secretaria Regional de Turismo, Ambiente e Cultura
 
 1 - À Secretaria Regional de Turismo, Ambiente e Cultura são cometidas as atribuições referentes aos setores seguintes:
 
@@ -198,7 +226,9 @@ s) Áreas protegidas.
 
 4 - Na dependência da Secretaria Regional de Turismo, Ambiente e Cultura funciona ainda a estrutura de missão do Observatório do Transporte Aéreo da Região Autónoma da Madeira, OTA-RAM.
 
-###### Artigo 4.º — Secretaria Regional de Educação, Ciência e Tecnologia
+Artigo 4.º
+
+Secretaria Regional de Educação, Ciência e Tecnologia
 
 1 - À Secretaria Regional de Educação, Ciência e Tecnologia são cometidas as atribuições referentes aos setores seguintes:
 
@@ -232,7 +262,9 @@ c) Escola de Hotelaria e Turismo da Madeira (EHTM).
 
 5 - Compete ainda à Secretaria Regional de Educação, Ciência e Tecnologia suportar os encargos relativos às iniciativas das instituições de defesa e militares.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -256,10 +288,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 18 de setembro de 2025.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 29 de setembro de 2025.**
+Assinado em 29 de setembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+119590461

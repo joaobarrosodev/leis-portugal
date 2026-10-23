@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/262b00/71807193.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/30/2001/11/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-2001-608676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c3f60b987403052563567e055696e86d8907dd16215bb866d7c7d29ad353eff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 449e2ef2b33935a5b7501b9ae73f1265f0e9cdcd855ca344262feb1e59014be0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,55 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Concurso
-- Governo Regional
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Regional de Pecuária
 - Diretor Regional
-- Controlo Sanitário
 - Gabinete Jurídico
+- Governo Regional
 - Laboratório Regional de Veterinária
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pecuária
 - Quadro de Pessoal
 - Regime de Pessoal
-- Pecuária
 relationships:
 - type: amended_by
   target: pt:dre:584873:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693196:por
+  label: "Mantido em vigor o presente diploma orgânico e o quadro de pessoal pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B\
+    \ [94] de 16.05.2005, até à entrada em vigor do diploma orgânico da Direcção Regional de Veterinária, previsto no nº 2\
+    \ do art. 4º daquele diploma, para a qual transitam as competências, direitos e obrigações de que era titular a Direcção\
+    \ Geral de Pecuária\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
 - type: cites
   target: celex:31989L0397
   label: null
   source: http://data.europa.eu/eli/dir/1989/397/oj
+- type: corrected_by
+  target: pt:dre:319128:por
+  label: "Rectificado pela DECL-RECT.21-I/2001.2001.12.28.PCM, DR.IS-B [301]7ºSupl de 31/Dez/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-i-2001-319128
+  date: '2001-12-28'
+- type: repealed_by
+  target: pt:dre:584873:por
+  label: "Revogado pelo DRR.31/2005/M.26.09.2005.PG-RAM, DR.IS-B [211] de 03.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2005-584873
+  date: '2005-09-26'
 article_structure:
   article_count: 25
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:48Z'
   warnings: []
   errors: []
 ---
@@ -253,7 +271,9 @@ d) Centros de atendimento veterinário e pecuário.
 
 3 - Junto à DSPV funciona uma secção administrativa de apoio.
 
-##### SUBSECÇÃO I — Divisão de Saúde e Bem-Estar Animal (DSBA)
+##### SUBSECÇÃO I
+
+##### Divisão de Saúde e Bem-Estar Animal (DSBA)
 
 ###### Artigo 6.º — Estrutura e competências
 
@@ -279,7 +299,9 @@ i) Assegurar os cuidados médico-veterinários aos animais de criação, sempre 
 
 j) Manter actualizada a informação estatística e factual respeitante às áreas da sua competência.
 
-##### SUBSECÇÃO II — Divisão de Higiene Pública Veterinária (DHPV)
+##### SUBSECÇÃO II
+
+##### Divisão de Higiene Pública Veterinária (DHPV)
 
 ###### Artigo 7.º — Estrutura e competências
 
@@ -309,7 +331,9 @@ l) Colaborar com outras entidades nas acções conducentes à protecção do mei
 
 m) Manter actualizada a informação estatística e factual respeitante às áreas da sua competência.
 
-##### SUBSECÇÃO III — Divisão de Inspecção Veterinária (DIV)
+##### SUBSECÇÃO III
+
+##### Divisão de Inspecção Veterinária (DIV)
 
 ###### Artigo 8.º — Estrutura e competências
 
@@ -387,7 +411,9 @@ c) Centro de Ovinicultura da Madeira.
 
 3 - Junto à DSMA funciona uma secção administrativa de apoio.
 
-##### SUBSECÇÃO I — Divisão de Identificação Animal e Registo de Explorações (DIR)
+##### SUBSECÇÃO I
+
+##### Divisão de Identificação Animal e Registo de Explorações (DIR)
 
 ###### Artigo 11.º — Estrutura e competências
 
@@ -509,7 +535,9 @@ c) Divisão de Gestão e Qualidade.
 
 3 - Junto ao LRV funciona uma secção administrativa de apoio.
 
-##### SUBSECÇÃO I — Divisão de Patologia (DP)
+##### SUBSECÇÃO I
+
+##### Divisão de Patologia (DP)
 
 ###### Artigo 15.º — Estrutura e competências
 
@@ -539,7 +567,9 @@ f) Departamento de Serologia;
 
 g) Departamento de Virologia.
 
-##### SUBSECÇÃO II — Divisão de Bromatologia (DB)
+##### SUBSECÇÃO II
+
+##### Divisão de Bromatologia (DB)
 
 ###### Artigo 16.º — Estrutura e competências
 
@@ -561,7 +591,9 @@ b) Departamento de Química;
 
 c) Departamento de Lactologia.
 
-##### SUBSECÇÃO III — Divisão de Gestão e Qualidade (DGQ)
+##### SUBSECÇÃO III
+
+##### Divisão de Gestão e Qualidade (DGQ)
 
 ###### Artigo 17.º — Estrutura e competências
 
@@ -615,7 +647,9 @@ c) Gabinete Jurídico.
 
 3 - Junto à DSPG funciona uma secção administrativa de apoio.
 
-##### SUBSECÇÃO I — Divisão de Planeamento e Estatística (DPE)
+##### SUBSECÇÃO I
+
+##### Divisão de Planeamento e Estatística (DPE)
 
 ###### Artigo 19.º — Estrutura e competências
 
@@ -639,7 +673,9 @@ a) Departamento de Estudos e Projectos;
 
 b) Departamento de Informática.
 
-##### SUBSECÇÃO II — Divisão de Administração (DA)
+##### SUBSECÇÃO II
+
+##### Divisão de Administração (DA)
 
 ###### Artigo 20.º — Estrutura e competências
 
@@ -725,13 +761,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 27 de Setembro de 2001.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 18 de Outubro de 2001.**
+Assinado em 18 de Outubro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Quadro de pessoal da Direcção Regional de Pecuária
 

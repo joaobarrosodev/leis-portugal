@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/077b00/31283134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2005/04/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2005-547845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23d75bd62784013cec3cc2dc88fb37af9003d70d644be22cf2912b60427c6489
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4632b59f4f19053f7563589f79a463e93f51af27f8a6b00278d036a602a4cbfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
 subjects:
 - Definição de Competências
 - Direcção Regional do Património
-- Secretaria Regional do Plano e Finanças
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional do Plano e Finanças
 relationships:
 - type: amended_by
   target: pt:dre:449452:por
@@ -108,16 +108,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247978:por
+  label: "Revogados os quadros de pessoal anexos com a aprovação dos quadros de pessoal previstos nos nºs 1 a 3 do art. 26º\
+    \ da lei orgânica aprovada pelo DRR.2/2008/M.15.02.2008.PG-RAM, DR.IS [33] de 15.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2008-247978
+  date: '2008-02-15'
+- type: repealed_by
+  target: pt:dre:449452:por
+  label: "Revogado pelo DRR.11/2008/M.18.06.2008.PG-RAM, DR.IS [116] de 18.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2008-449452
+  date: '2008-06-18'
 article_structure:
   article_count: 27
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:13Z'
   warnings: []
   errors: []
 ---
@@ -148,13 +195,13 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 3 de Março de 2005.
 
-**O Presidente do Governo Regional, em exercício, Eduardo António Brazão de Castro.**
+O Presidente do Governo Regional, em exercício, Eduardo António Brazão de Castro.
 
-**Assinado em 21 de Março de 2005.**
+Assinado em 21 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Orgânica da Direcção Regional do Património
 
@@ -418,7 +465,9 @@ b) A Secção de Contratos.
 
 6 - À DOA cumpre assegurar a concretização das competências referidas nas alíneas c) e e) do artigo anterior.
 
-#### SECÇÃO VII — Divisão de Fiscalização do Património
+#### SECÇÃO VII
+
+##### Divisão de Fiscalização do Património
 
 ###### Artigo 15.º — Natureza e atribuições
 

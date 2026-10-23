@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decrepram/4-b/2025/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-representante-republica-para-regiao-autonoma-madeira/4-b-2025-935446402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ca1e6f281e83d4adc9a0387cba01bbdd5ba33d630a8d29986909bddb86435ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbd384f9edaa98ea80ecbc00d2be8096fbf82130f16515c8ed2efceace8742b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo Regional
-- Nomeação
 - Madeira.região Autónoma
+- Nomeação
 - Secretário Regional da Educação Ciência e Tecnologia
 relationships:
 - type: cites
@@ -83,26 +83,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:14Z'
   warnings: []
   errors: []
 ---
 
 # Decreto do Representante da República para a Região Autónoma da Madeira n.º 4-B/2025
 
-Nos termos do n.º 4 do artigo 231.º da Constituição da República e do n.º 2 do artigo 56.º e do n.º 2 do artigo 57.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, com as alterações introduzidas pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, nomeio Secretária Regional de Educação, Ciência e Tecnologia, sob proposta do Presidente do Governo Regional, a Doutora Elsa Maria dos Santos Fernandes.
+Nos termos do n.º 4 do artigo 231.º da Constituição da República e do n.º 2 do artigo 56.º e do n.º 2 do artigo 57.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, com as alterações introduzidas pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, nomeio Secretária Regional de Educação, Ciência e Tecnologia, sob proposta do Presidente do Governo Regional, a Doutora Elsa Maria dos Santos Fernandes.
 
-**Assinado em 15 de setembro de 2025.**
+Assinado em 15 de setembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+119533607

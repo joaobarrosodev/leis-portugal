@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/1992/03/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1992-175505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 293914320f779b3affb4c11eea7ffc7530ec3f50a7bea36a30c71931a9f6a45c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 615ee454dd353a68cdf4b87ff31026a382c7c12d5754eb25f868af19f3caf739
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:453231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:33Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +118,7 @@ O Governo Regional da Madeira decreta, nos termos da alínea d) do n.º 1 do art
 
 #### SECÇÃO I — Licenciamento das escolas de condução
 
-###### Artigo 1.º - 1 - A concessão de alvará para abertura e funcionamento de escolas de condução depende de apresentação de requerimento pelo interessado.
+Artigo 1.º - 1 - A concessão de alvará para abertura e funcionamento de escolas de condução depende de apresentação de requerimento pelo interessado.
 
 2 - O requerimento deve conter os seguintes elementos:
 
@@ -138,7 +150,7 @@ g) Número da carta de condução, da licença de instrutor e de director de que
 
 6 - Do indeferimento do requerimento inicial cabe recurso para o secretário regional da tutela, a interpor no prazo de 15 dias contados da data da notificação.
 
-###### Art. 2.º - 1 - Com o requerimento a que se refere o artigo anterior deve o interessado propor a designação para a escola de condução, a qual deverá ser sempre precedida das palavras «Escola de condução» ou «Escola de condução especial», conforme o caso.
+Art. 2.º - 1 - Com o requerimento a que se refere o artigo anterior deve o interessado propor a designação para a escola de condução, a qual deverá ser sempre precedida das palavras «Escola de condução» ou «Escola de condução especial», conforme o caso.
 
 2 - A designação proposta é recusada quando:
 
@@ -146,7 +158,7 @@ a) Existir outra escola de condução na Região com igual designação ou semel
 
 b) Contiver termos ou expressões que possam iludir a boa fé dos candidatos ou colidir com o interesse público prosseguido pela actividade.
 
-###### Art. 3.º - 1 - Notificado do deferimento do requerimento inicial, deve o interessado, no prazo de três meses contado daquela notificação, requerer a aprovação prévia das instalações da escola e do respectivo recinto de manobras, quando o pretenda instalar.
+Art. 3.º - 1 - Notificado do deferimento do requerimento inicial, deve o interessado, no prazo de três meses contado daquela notificação, requerer a aprovação prévia das instalações da escola e do respectivo recinto de manobras, quando o pretenda instalar.
 
 2 - O requerimento é instruído com:
 
@@ -168,7 +180,7 @@ d) Planta, em triplicado, na escala de 1:500, do recinto de manobras.
 
 7 - O requerimento a que se refere o número anterior é instruído com declaração do titular do alvará da escola a que o recinto pertence, permitindo a sua utilização e fazendo menção expressa das condições em que tal permissão é concebida.
 
-###### Art. 4.º - 1 - O requerente notificado da aprovação prévia das instalações propostas e do recinto de manobras, no caso em que tal tenha lugar, deve, no prazo de dois meses, equipar as instalações da escola com o material exigido, requerendo a respectiva vistoria.
+Art. 4.º - 1 - O requerente notificado da aprovação prévia das instalações propostas e do recinto de manobras, no caso em que tal tenha lugar, deve, no prazo de dois meses, equipar as instalações da escola com o material exigido, requerendo a respectiva vistoria.
 
 2 - Se do resultado da vistoria se concluir existirem deficiências no equipamento, será marcado prazo para se efectivarem as correspondentes correcções, devendo o interessado, até ao termo do referido prazo, requerer nova vistoria.
 
@@ -178,7 +190,7 @@ d) Planta, em triplicado, na escala de 1:500, do recinto de manobras.
 
 5 - No caso de utilização de recinto de manobras pertencente a escola de condução já existente, apenas há lugar a vistoria às instalações da escola.
 
-###### Art. 5.º - 1 - Concluída a aprovação das instalações e apetrechamento, fixadas as lotações das salas de aula e do respectivo contingente máximo, a Direcção Regional dos Transportes Terrestres disso notificará o requerente, devendo este apresentar, no prazo de um mês, todos os documentos necessários ao funcionamento da escola de condução, identificar o director, o director substituto e os instrutores e indicar os veículos a licenciar.
+Art. 5.º - 1 - Concluída a aprovação das instalações e apetrechamento, fixadas as lotações das salas de aula e do respectivo contingente máximo, a Direcção Regional dos Transportes Terrestres disso notificará o requerente, devendo este apresentar, no prazo de um mês, todos os documentos necessários ao funcionamento da escola de condução, identificar o director, o director substituto e os instrutores e indicar os veículos a licenciar.
 
 2 - A identificação a que se refere o número anterior deve ser feita nos termos fixados no n.º 3 do artigo 1.º do presente diploma.
 
@@ -200,11 +212,11 @@ e) Combustível.
 
 6 - Se não foram satisfeitas, no prazo de dois meses, as formalidades a cumprir após a emissão do alvará, este é anulado.
 
-###### Art. 6.º - 1 - Por despacho do director regional dos Transportes Terrestres, é fixado o modelo para o alvará da escola de condução.
+Art. 6.º - 1 - Por despacho do director regional dos Transportes Terrestres, é fixado o modelo para o alvará da escola de condução.
 
 2 - Sem prejuízo de procedimento criminal, são cancelados os alvarás concedidos com fundamento em falsas declarações ou utilização de documentos falsos.
 
-###### Art. 7.º - 1 - Quando o titular do alvará da escola de condução for uma pessoa colectiva, qualquer alteração ao seu pacto social deve ser comunicada à Direcção Regional dos Transportes Terrestres no prazo de um mês.
+Art. 7.º - 1 - Quando o titular do alvará da escola de condução for uma pessoa colectiva, qualquer alteração ao seu pacto social deve ser comunicada à Direcção Regional dos Transportes Terrestres no prazo de um mês.
 
 2 - A comunicação a que se refere o número anterior deve ser acompanhada de certidão da escritura pública que operou a alteração.
 
@@ -214,7 +226,7 @@ e) Combustível.
 
 #### SECÇÃO II — Transmissão de escolas de condução
 
-###### Art. 8.º - 1 - O titular do alvará de escola de condução que a pretenda transmitir deve solicitar autorização à Direcção Regional dos Transportes Terrestres, mediante requerimento, onde identifique o adquirente e, no caso de este ser uma pessoa colectiva, os seus gerentes ou administradores.
+Art. 8.º - 1 - O titular do alvará de escola de condução que a pretenda transmitir deve solicitar autorização à Direcção Regional dos Transportes Terrestres, mediante requerimento, onde identifique o adquirente e, no caso de este ser uma pessoa colectiva, os seus gerentes ou administradores.
 
 2 - A identificação dos indivíduos a que se refere o número anterior deve ser feita nos termos fixados no n.º 3 do artigo 1.º do presente diploma.
 
@@ -222,13 +234,13 @@ No caso de o adquirente ser uma pessoa colectiva, deve constar, além da identif
 
 3 - O requerimento para autorização da transmissão é instruído com certificado do registo criminal do adquirente e do respectivo registo de empresário em nome individual ou, no caso de pessoa colectiva, dos seus gerentes ou administradores, bem como certidão de escritura pública da constituição da sociedade, respectivo número de identificação de pessoa colectiva e certidão das escrituras de alteração que hajam ocorrido ao seu pacto social.
 
-###### Art. 9.º - 1 - Concedida a autorização a que se refere o n.º 1 do artigo anterior, deve o adquirente, no prazo de um mês contado da realização da escritura pública de transmissão, dela enviar certidão à Direcção Regional dos Transportes Terrestres, acompanhada do alvará da escola e requerimento para o respectivo averbamento.
+Art. 9.º - 1 - Concedida a autorização a que se refere o n.º 1 do artigo anterior, deve o adquirente, no prazo de um mês contado da realização da escritura pública de transmissão, dela enviar certidão à Direcção Regional dos Transportes Terrestres, acompanhada do alvará da escola e requerimento para o respectivo averbamento.
 
 2 - A Direcção Regional dos Transportes Terrestres pode exigir a junção de outros documentos considerados necessários.
 
 3 - A contravenção ao disposto no n.º 1 é punida com multa de 5000$00 a 20000$00.
 
-###### Art. 10.º - 1 - A morte do titular do alvará da escola de condução deve ser comunicada, no prazo de um mês, à Direcção Regional dos Transportes Terrestres pelo cabeça-de-casal.
+Art. 10.º - 1 - A morte do titular do alvará da escola de condução deve ser comunicada, no prazo de um mês, à Direcção Regional dos Transportes Terrestres pelo cabeça-de-casal.
 
 2 - No prazo de seis meses após a morte do titular do alvará, deve o cabeça-de-casal, caso não haja lugar a inventário obrigatório, remeter à Direcção Regional dos Transportes Terrestres certidão da escritura de habilitação de herdeiros, acompanhada do alvará da escola, bem como do certificado do registo criminal dos herdeiros.
 
@@ -238,7 +250,7 @@ No caso de o adquirente ser uma pessoa colectiva, deve constar, além da identif
 
 #### SECÇÃO III — Instalações e apetrechamento
 
-###### Art. 11.º - 1 - As instalações das escolas de condução normais e das especiais que não ministrem apenas o ensino de pesados de passageiros devem possuir, pelo menos, os seguintes compartimentos:
+Art. 11.º - 1 - As instalações das escolas de condução normais e das especiais que não ministrem apenas o ensino de pesados de passageiros devem possuir, pelo menos, os seguintes compartimentos:
 
 a) Secretaria;
 
@@ -254,7 +266,7 @@ e) Instalações sanitárias.
 
 3 - As salas de aula devem ter cadeiras com apoio ou mesas em número correspondente à respectiva lotação, acrescida de uma unidade, destinada ao instrutor, devendo todo o equipamento pedagógico estar em perfeitas condições de funcionamento.
 
-###### Art. 12.º - 1 - Para efeitos do disposto no n.º 3 do artigo 11.º e na alínea c) do n.º 2 do artigo 12.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, a instalação da escola de condução só pode ser autorizada desde que, cumulativamente, fique a, pelo menos, 500 m da escola de condução mais próxima e não faça baixar para menos de 25000 o número de habitantes por cada uma das escolas que fiquem a existir no concelho.
+Art. 12.º - 1 - Para efeitos do disposto no n.º 3 do artigo 11.º e na alínea c) do n.º 2 do artigo 12.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, a instalação da escola de condução só pode ser autorizada desde que, cumulativamente, fique a, pelo menos, 500 m da escola de condução mais próxima e não faça baixar para menos de 25000 o número de habitantes por cada uma das escolas que fiquem a existir no concelho.
 
 2 - Por despacho do Secretário Regional da Administração Pública, sob proposta do director regional dos Transportes Terrestres, poderão ser concedidos alvarás para os concelhos, independentemente do condicionalismo resultante da relação escola/população, previsto no número anterior, desde que tal se mostre ajustado à configuração apresentada pela procura previsível.
 
@@ -270,7 +282,7 @@ b) Fora das localidades, pela via normal mais curta, sejam estradas regionais ou
 
 6 - O número de habitantes a considerar para o efeito do presente artigo será o que constar do último censo, podendo o requerente actualizar esse número, instruindo a sua petição com certidão, passada por entidade competente, baseada no último recenseamento eleitoral.
 
-###### Art. 13.º - 1 - O titular do alvará que pretenda mudar ou alterar as instalações da escola de condução deve requerer autorização ao director regional dos Transportes Terrestres.
+Art. 13.º - 1 - O titular do alvará que pretenda mudar ou alterar as instalações da escola de condução deve requerer autorização ao director regional dos Transportes Terrestres.
 
 2 - O requerimento para mudança de instalações deve indicar a localização das futuras instalações e ser instruído com as plantas exigidas para a montagem da escola de condução, sem o que é indeferido.
 
@@ -288,11 +300,11 @@ Na vistoria é fixada a lotação das salas de aula e o contingente máximo de v
 
 8 - A contravenção ao disposto nos n.os 5 e 6 do presente artigo é punida com multa de 5000$00 a 20000$00.
 
-###### Art. 14.º - 1 - O requerimento para autorização o funcionamento temporário da escola de condução em instalações provisórias deve ser devidamente fundamentado, conter a indicação da localização das instalações e do período previsto para a ocupação e instruído com planta, em triplicado, na escala de 1:100, das referidas instalações.
+Art. 14.º - 1 - O requerimento para autorização o funcionamento temporário da escola de condução em instalações provisórias deve ser devidamente fundamentado, conter a indicação da localização das instalações e do período previsto para a ocupação e instruído com planta, em triplicado, na escala de 1:100, das referidas instalações.
 
 2 - Concedida a autorização a que se refere o número anterior, deve o titular do alvará requerer vistoria às instalações e respectivo apetrechamento.
 
-###### Art. 15.º - 1 - A sala de aula teórica deve estar equipada com, pelo menos, o seguinte material didáctico:
+Art. 15.º - 1 - A sala de aula teórica deve estar equipada com, pelo menos, o seguinte material didáctico:
 
 a) Colecção de diapositivos ou transparências contendo toda a sinalização do trânsito, bem como situações reais de colocação e utilização desses sinais e situações particularmente perigosas através de sequência de imagens;
 
@@ -356,11 +368,11 @@ p) Máquina de projectar diapositivos, retroprojector ou equipamento idêntico, 
 
 6 - Mediante autorização da Direcção Regional dos Transportes Terrestres, pode ser utilizado qualquer outro equipamento ou material em substituição ou complemento do constante nos números anteriores.
 
-###### Art. 16.º - 1 - A lotação de cada sala de aula é fixada pela Direcção Regional dos Transportes Terrestres, podendo, no máximo, ser a correspondente a um instruendo por metro quadrado de quatro quintos da área da respectiva sala.
+Art. 16.º - 1 - A lotação de cada sala de aula é fixada pela Direcção Regional dos Transportes Terrestres, podendo, no máximo, ser a correspondente a um instruendo por metro quadrado de quatro quintos da área da respectiva sala.
 
 2 - Quando da aplicação do disposto no número anterior não resultar um número inteiro, este é arredondado para o imediatamente superior.
 
-###### Art. 17.º - 1 - As escolas de condução agrupam-se em categorias, consoante o contingente máximo de veículos ligeiros que lhes seja fixado pela Direcção Regional dos Transportes Terrestres, nos seguintes termos:
+Art. 17.º - 1 - As escolas de condução agrupam-se em categorias, consoante o contingente máximo de veículos ligeiros que lhes seja fixado pela Direcção Regional dos Transportes Terrestres, nos seguintes termos:
 
 Categoria I - 5 veículos;
 
@@ -414,11 +426,11 @@ Categoria XI - duas salas cuja soma das lotações seja de 60 lugares.
 
 5 - A mudança para categoria superior, porém, só é possível mediante autorização da Direcção Regional dos Transportes Terrestres e desde que disponha de sala ou salas de ensino teórico que satisfaçam as lotações mínimas fixadas no presente artigo.
 
-###### Art. 18.º Os veículos de instrução adquiridos com redução de imposto sobre a venda de veículos só podem ser utilizados nas condições fixadas na lei que regula esta matéria.
+Art. 18.º Os veículos de instrução adquiridos com redução de imposto sobre a venda de veículos só podem ser utilizados nas condições fixadas na lei que regula esta matéria.
 
 Os restantes veículos de instrução podem, porém, ser utilizados em serviço particular do titular ou sócio da entidade titular da respectiva licença de condução ou por outra pessoa por aqueles devidamente autorizada.
 
-###### Art. 19.º - 1 - Só podem ser utilizados no ensino de condução os veículos automóveis que satisfaçam as condições constantes dos números seguintes.
+Art. 19.º - 1 - Só podem ser utilizados no ensino de condução os veículos automóveis que satisfaçam as condições constantes dos números seguintes.
 
 2 - Os automóveis ligeiros e pesados de mercadorias devem ter:
 
@@ -468,11 +480,11 @@ A contravenção ao disposto no n.º 12 é punida com multa de 1000$00 a 5000$00
 
 #### SECÇÃO IV — Disposições finais e transitórias
 
-###### Art. 20.º - 1 - Os titulares de alvará de escola de condução, gerentes ou administradores da entidade titular, bem como os directores e instrutores, devem remeter à Direcção Regional dos Transportes Terrestres, anualmente, durante o mês de Janeiro, o respectivo certificado do registo criminal.
+Art. 20.º - 1 - Os titulares de alvará de escola de condução, gerentes ou administradores da entidade titular, bem como os directores e instrutores, devem remeter à Direcção Regional dos Transportes Terrestres, anualmente, durante o mês de Janeiro, o respectivo certificado do registo criminal.
 
 2 - A contravenção ao disposto no número anterior é punida com multa de 2000$00 a 10000$00.
 
-###### Art. 21.º - 1 - As empresas concessionárias de transporte público que, nos termos do n.º 3 do artigo 58.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, pretendam ministrar cursos de formação de condutores de pesados de passageiros devem requerer ao director regional dos Transportes Terrestres a aprovação desses cursos.
+Art. 21.º - 1 - As empresas concessionárias de transporte público que, nos termos do n.º 3 do artigo 58.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, pretendam ministrar cursos de formação de condutores de pesados de passageiros devem requerer ao director regional dos Transportes Terrestres a aprovação desses cursos.
 
 2 - Do requerimento a que se refere o número anterior devem constar, pelo menos, os seguintes elementos:
 
@@ -490,26 +502,26 @@ e) Programa do curso.
 
 4 - Os candidatos que concluam com aproveitamento o curso de formação podem, mediante proposta da entidade que o tenha ministrado, requerer exame de condução para pesados de passageiros na Direcção Regional dos Transportes Terrestres.
 
-###### Art. 22.º O pagamento das multas, nos termos do disposto no artigo 41.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, deve ser efectuado através de guia, na tesouraria da Fazenda Pública, em conformidade com a regulamentação em vigor.
+Art. 22.º O pagamento das multas, nos termos do disposto no artigo 41.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, deve ser efectuado através de guia, na tesouraria da Fazenda Pública, em conformidade com a regulamentação em vigor.
 
-###### Art. 23.º - 1 - A Direcção Regional dos Transportes Terrestres pode, por uma ou mais vezes, e mediante requerimento fundamentado, a apresentar pelo interessado, 15 dias antes do seu termo, prorrogar os prazos a que se refere o presente diploma.
+Art. 23.º - 1 - A Direcção Regional dos Transportes Terrestres pode, por uma ou mais vezes, e mediante requerimento fundamentado, a apresentar pelo interessado, 15 dias antes do seu termo, prorrogar os prazos a que se refere o presente diploma.
 
 2 - Caduca o direito do requerente que não pratique os actos necessários dentro dos prazos fixados.
 
-###### Art. 24.º - 1 - Por despacho do director regional dos Transportes Terrestres, são definidas as características dos reboques a utilizar na ministração do ensino prático e automóveis pesados de mercadorias.
+Art. 24.º - 1 - Por despacho do director regional dos Transportes Terrestres, são definidas as características dos reboques a utilizar na ministração do ensino prático e automóveis pesados de mercadorias.
 
 2 - Fixadas as características a que alude o número anterior, o exame prático para instrutores de automóveis pesados de mercadorias é prestado em veículo de reboque.
 
-###### Art. 25.º As infracções ao disposto no presente diploma a que não corresponda pena especial são punidas com multa de 2000$00 a 10000$00.
+Art. 25.º As infracções ao disposto no presente diploma a que não corresponda pena especial são punidas com multa de 2000$00 a 10000$00.
 
-###### Art. 26.º O presente diploma entra em vigor na data da sua publicação.
+Art. 26.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 23 de Janeiro de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 18 de Fevereiro de 1992.**
+Assinado em 18 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

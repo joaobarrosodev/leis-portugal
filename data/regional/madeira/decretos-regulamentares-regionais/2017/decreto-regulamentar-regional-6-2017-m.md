@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06200/0163601638.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2017/03/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1648f391af5de035e1c0d1f5edf26b69d00895d7d9011938ff1a5ca232dd1a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 375230442a7aa75dc0dd158a4ea32cebc65c047dd2abc1231b42d011537ee090
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio Técnico
-- Financiamento
-- Definição de Competências
-- IPSS
 - Cuidados Médicos
-- Madeira.região Autónoma
+- Definição de Competências
+- Financiamento
 - Inspecção das Actividades em Saúde
+- Instituto de Administração da Saúde e Assuntos Sociais
+- IPSS
+- Madeira.região Autónoma
 - Serviço Regional de Saúde
 - Tutela
-- Instituto de Administração da Saúde e Assuntos Sociais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/2008/06/23/m/dre
@@ -97,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/199/2004/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/199/2004/03/02/p/dre
+- type: cites
+  target: pt:dre:157797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:16Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +151,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 6.º e 8.º do [Decreto Regulamentar Regional
 
 O presente diploma procede à regulamentação do regime de tutela e dos apoios técnicos e financeiros a atribuir às instituições particulares de solidariedade social no que respeita às suas atividades de saúde, adiante também designadas por instituições.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A tutela sobre as instituições e estabelecimentos que exerçam a sua atividade na Região Autónoma da Madeira é exercida pela Secretaria Regional responsável pela área da Saúde.
 
@@ -145,13 +167,17 @@ c) Acompanhamento, controlo e avaliação da execução dos acordos celebrados e
 
 d) Fiscalização da atividade das instituições e seus estabelecimentos através da realização de inquéritos, sindicâncias e inspeções.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Compete ao Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, promover, organizar e manter um registo das instituições particulares de solidariedade social.
 
 2 - O registo será criado e regulamentado por portaria do membro do governo regional responsável pela área da saúde.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Compete ao Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM:
 
@@ -159,15 +185,21 @@ a) [...]
 
 b) [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O apoio técnico e financeiro é concedido às instituições através de acordos de cooperação e regulamentado por portaria a aprovar pelo membro do governo regional responsável pela área da saúde.
 
 2 - Compete ao Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, acompanhar, controlar e avaliar a execução dos acordos celebrados, bem como proceder ao pagamento dos apoios neles previstos.
 
-###### Artigo 7.º — (Revogado.)
+Artigo 7.º
 
-###### Artigo 8.º — [...]
+(Revogado.)
+
+Artigo 8.º
+
+[...]
 
 Compete à Inspeção das Atividades em Saúde a realização de inquéritos, sindicâncias e inspeção às instituições e seus estabelecimentos.»
 
@@ -185,11 +217,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 2 de março de 2017.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 15 de março de 2017.**
+Assinado em 15 de março de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

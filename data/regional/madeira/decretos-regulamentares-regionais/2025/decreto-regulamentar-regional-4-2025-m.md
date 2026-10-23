@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00800/0022400226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2025/01/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2025-903114661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b37d2f7e19a4e4a9e7920939468822a747656939ceebb12799f4334c348130a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8048d08efe7735ca395f8e2609babaea9b895a2d0678545cd4cbc356a087a41f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:190814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:59Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +107,7 @@ Aprova o processo de alienação das ações detidas pela EEM - Empresa de Eletr
 
 A EEM - Empresa de Eletricidade da Madeira, S. A., empresa pública regional, é detentora de 100 % do capital social da EEM - Biotecnologia, S. A., de seis milhões de euros, correspondente a 1 200 000 ações, no valor de cinco euros cada.
 
-A EEM - Biotecnologia, S. A., é a empresa proprietária da Unidade de Produção de Biomassa do Porto Santo, onde é efetuada a captura e a fixação de CO<sub>2</sub> através do cultivo de microalgas, das quais é posteriormente produzida biomassa.
+A EEM - Biotecnologia, S. A., é a empresa proprietária da Unidade de Produção de Biomassa do Porto Santo, onde é efetuada a captura e a fixação de CO2 através do cultivo de microalgas, das quais é posteriormente produzida biomassa.
 
 Na sequência de um processo de reponderação da EEM - Empresa de Eletricidade da Madeira, S. A., e do seu acionista único, a Região Autónoma da Madeira, a respeito da necessidade de utilização do resultado do processo produtivo da EEM - Biotecnologia, S. A., na atividade que aquela empresa pública regional desempenha, concluiu-se que a mesma já não se afigura indispensável à prossecução de tal fim.
 
@@ -111,7 +119,7 @@ Pretende-se que a alienação aqui em causa se processe na modalidade de concurs
 
 Assim:
 
-Nos termos do disposto no n.º 1 do artigo 6.º, no artigo 7.º e no n.º 1 do artigo 9.º do [Decreto Legislativo Regional n.º 37/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2012-190814), de 12 de dezembro, na alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, na primeira parte da alínea d) do artigo 69.º e no n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.<sup>os</sup>130/99, de 21 de agosto, e 12/2000, de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
+Nos termos do disposto no n.º 1 do artigo 6.º, no artigo 7.º e no n.º 1 do artigo 9.º do [Decreto Legislativo Regional n.º 37/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2012-190814), de 12 de dezembro, na alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, na primeira parte da alínea d) do artigo 69.º e no n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os130/99, de 21 de agosto, e 12/2000, de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -175,10 +183,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 28 de novembro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 10 de janeiro de 2025.**
+Assinado em 10 de janeiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+118552316

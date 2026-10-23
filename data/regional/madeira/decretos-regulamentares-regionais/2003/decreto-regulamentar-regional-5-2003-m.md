@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/027b00/06710693.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2003/02/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2003-167376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: effce059a48888b48cdd9d272ecfd9f1669d3556bc0e8cd4af4af4cb16274c41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a696672adf3b28cd8decf34741fe2f77a44c91d041d6154ff00266e78208c7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,23 @@ subjects:
 - Direcção Regional de Agricultura
 - Instituto do Vinho da Madeira
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:236957:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693196:por
+  label: "Mantido em vigor o diploma orgânico e o quadro de pessoal aprovado pelo DRR 5/2002/M de 15-Fev, com a redacção e\
+    \ republicação do presente, pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B [94] de 16.05.2005, até à entrada em vigor do\
+    \ novo diploma orgânico da Direcção Regional de Agricultura e Desenvolvimento Rural, previsto no nº 2 do art. 4º do citado\
+    \ DRR 23/2005/M, para a qual transitam as competências, direitos e obrigações de que era titular a Direcção Regional de\
+    \ Agricultura\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
   label: null
@@ -117,16 +126,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:218475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655331:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:236957:por
+  label: "Revogado o DRR 5/2002/M de 15-Fev, na redacção do presente diploma, pelo DRR.27/2005/M.19.05.2005.PG-RAM, DR.IS-B\
+    \ [131] de 11.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2005-236957
+  date: '2005-05-19'
 article_structure:
-  article_count: 34
+  article_count: 35
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:03Z'
   warnings: []
   errors: []
 ---
@@ -163,17 +238,17 @@ Este diploma produz efeitos a partir de 1 de Janeiro de 2003.
 
 Aprovado em Conselho do Governo Regional em 20 de Dezembro de 2002.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 9 de Janeiro de 2003.**
+Assinado em 9 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — Quadro de pessoal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/027b00/06710693.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/027b00/06710693.pdf)](https://files.diariodarepublica.pt/1s/2003/02/027b00/06710693.pdf)
 
 ## ANEXO II — [Decreto Regulamentar Regional n.º 5/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2002-284679)
 
@@ -191,9 +266,7 @@ O Governo Regional da Madeira decreta, ao abrigo da alínea d) do n.º 1 do arti
 
 ### CAPÍTULO I — Natureza e atribuições
 
-Artigo l.º
-
-Natureza
+###### Artigo l.º — Natureza
 
 A Direcção Regional de Agricultura, neste diploma abreviadamente designada por DRA, é o serviço integrado na Secretaria Regional do Ambiente e dos Recursos Naturais a que se reporta a alínea b) do artigo 4.º do [Decreto Regulamentar Regional n.º 11/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2001-348315), de 6 de Julho, cujas atribuições, orgânica, funcionamento e pessoal constam do presente diploma.
 
@@ -833,4 +906,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO — Quadro de pessoal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/027b00/06710693.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/027b00/06710693.pdf)](https://files.diariodarepublica.pt/1s/2003/02/027b00/06710693.pdf)

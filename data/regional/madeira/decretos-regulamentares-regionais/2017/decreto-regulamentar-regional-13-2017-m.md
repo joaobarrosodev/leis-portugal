@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21400/0589405899.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2017/11/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2017-114157368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5595cfb66212d6e4dbd280ed90b2f002b2078825122b29887008449f3c574469
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27b51206c851d65348032cd7e840d4e87d36b67c9a3c0e1afd790c8f9838ffaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,66 +66,66 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração dos Portos da Região Autónoma da Madeira
+- Agência Regional de Energia e Ambiente
 - Agência Regional para o Desenvolvimento da Investigação Tecnologia e Inovação
-- Instituto da Segurança Social
-- ILHA de Porto Santo
-- Secretaria Regional do Turismo e Cultura
+- Arm-águas e Resíduos da Madeira
 - Caram
-- Governo Regional
+- Centro de Arbitragem de Conflitos de Consumo
 - Conselho Económico e Social Regional
 - Conservatório-escola Profissional das Artes da Madeira
 - Criação de Serviços
 - Definição de Competências
-- Presidência do Governo Regional
-- Secretaria Regional da Saúde
-- Vice-presidência do Governo Regional
+- Direção Regional Adjunta de Economia
+- Direção Regional Adjunta de Finanças
 - Empresa de Electricidade da Madeira
 - Escola Profissional de Hotelaria e Turismo da Madeira
 - Extinção de Serviços
+- Gabinete de Gestão da LOJA do Cidadão
 - Gabinete Governamental
-- Presidente do Governo Regional
+- Gesba-Empresa de Gestão do Sector da Banana
 - Gestão Orçamental
-- Instituto de Emprego da Madeira
+- Governo Regional
 - IHM
+- ILHA de Porto Santo
+- Instituto da Segurança Social
+- Instituto das Florestas e Conservação da Natureza
+- Instituto de Administração da Saúde e Assuntos Sociais
 - Instituto de Desenvolvimento Empresarial
 - Instituto de Desenvolvimento Regional
+- Instituto de Emprego da Madeira
 - Instituto do Vinho Bordado e do Artesanato da Madeira
+- Instituto para a Qualificação
 - Integração de Trabalhadores
 - Madeira Parques Empresariais
-- Agência Regional de Energia e Ambiente
-- Arm-águas e Resíduos da Madeira
-- Centro de Arbitragem de Conflitos de Consumo
-- Gabinete de Gestão da LOJA do Cidadão
-- Gesba-Empresa de Gestão do Sector da Banana
-- Patriram
-- Secretaria Regional da Educação
-- Sociedade de Desenvolvimento do Norte
-- Sociedade de Promoção e Desenvolvimento da ZONA Oeste Ponta do Oeste
-- Viaexpresso
+- Madeira.região Autónoma
 - Membros do Governo
 - Orgânica
+- Patriram
 - Pessoal de Gabinete
 - POLO Científico e Tecnológico
-- Madeira.região Autónoma
+- Presidência do Governo Regional
+- Presidente do Governo Regional
 - Secretaria Regional
 - Secretaria Regional da Agricultura e Pescas
+- SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
+- Secretaria Regional da Educação
+- SECRETARIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS
+- Secretaria Regional da Saúde
+- SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
 - Secretaria Regional do Ambiente e Recursos Naturais
+- Secretaria Regional do Turismo e Cultura
+- Secretaria Regional dos Assuntos Parlamentares e Europeus
+- Secretaria Regional dos Equipamentos e Infraestruturas
 - Serviço Regional de Protecção Civil da Madeira
+- Sociedade de Desenvolvimento do Norte
 - Sociedade de Desenvolvimento do Porto Santo
+- Sociedade de Promoção e Desenvolvimento da ZONA Oeste Ponta do Oeste
 - Substituição de Funções
 - Transferência de Competências
 - Tutela
+- Viaexpresso
 - Vialitoral
-- SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
-- SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
-- SECRETARIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS
-- Instituto de Administração da Saúde e Assuntos Sociais
-- Instituto para a Qualificação
-- Secretaria Regional dos Assuntos Parlamentares e Europeus
-- Instituto das Florestas e Conservação da Natureza
-- Secretaria Regional dos Equipamentos e Infraestruturas
-- Direção Regional Adjunta de Finanças
-- Direção Regional Adjunta de Economia
+- Vice-presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:126318034:por
@@ -159,16 +159,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108028574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:126318034:por
+  label: Revogado, com efeitos reportados a 15.10.2019, pelo(a) Decreto Regulamentar Regional n.º 8-A/2019/M - Diário da República
+    n.º 222/2019, 1º Suplemento, Série I de 2019-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-a-2019-126318034
+  date: '2019-11-19'
 article_structure:
   article_count: 20
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:15Z'
   warnings: []
   errors: []
 ---
@@ -573,8 +607,8 @@ Aprovado em Conselho do Governo Regional em 26 de outubro de 2017.
 
 O Vice-Presidente do Governo Regional, no exercício da Presidência, Pedro Miguel Amaro de Bettencourt Calado.
 
-**Assinado em 2 de novembro de 2017.**
+Assinado em 2 de novembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

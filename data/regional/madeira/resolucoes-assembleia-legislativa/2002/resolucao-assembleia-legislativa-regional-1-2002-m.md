@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/1/2002/02/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/1-2002-284677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baaf4975478fa89ee6ff97a9912ab630d7908d2e05798ba9e3e677f8a76c101d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bef6da7018a8456f60f77e41c0d16e6f654f316f82f48a1963a05612d8e2c144
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Legislativa Regional
-- Orçamento
 - Madeira.região Autónoma
+- Orçamento
 relationships:
 - type: amended_by
   target: pt:dre:414663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:414663:por
+  label: "Rectificada pela DECL-RECT.19-N/2002.2002.04.29.PCM DR.IS-B [100]2ºSUPL DE 30/ABR/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-n-2002-414663
+  date: '2002-04-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:29Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +104,16 @@ A Assembleia Legislativa Regional da Madeira, reunida em plenário em 24 de Jane
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 24 de Janeiro de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
 I
 
 Mapa de desenvolvimento das receitas para 2002
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12701273.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12701273.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12701273.pdf)
 
 II
 
 Mapa de desenvolvimento das despesas para 2002
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12701273.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12701273.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12701273.pdf)

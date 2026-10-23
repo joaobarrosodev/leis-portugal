@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/28/2013/12/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/28-2013-484076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 180480e0115d5dde1099a39ab70d595efe982d73513bc8cc92902e86b9603076
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 557e6c82c2f0954e7511206f2775bffcc4d1e0734aa2329bb74169c655cb0df6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assembleia Legislativa Regional
-- Saúde
-- Iniciativa Legislativa
-- Orçamento Geral do Estado
 - Assembleia da República
-- Doença Infecciosa
-- Madeira.região Autónoma
+- Assembleia Legislativa Regional
 - Diploma Legal
-- Ministério da Saúde
 - Doença
+- Doença Infecciosa
 - Governo
+- Iniciativa Legislativa
+- Madeira.região Autónoma
+- Ministério da Saúde
+- Orçamento Geral do Estado
+- Saúde
 relationships:
 - type: cites
   target: celex:31998D2119
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:55Z'
   warnings: []
   errors: []
 ---
@@ -182,4 +182,4 @@ A presente Lei entra em vigor com a publicação do Orçamento do Estado posteri
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de novembro de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.

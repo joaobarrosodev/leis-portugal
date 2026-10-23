@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/01200/0050300504.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/1/2015/01/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/1-2015-66248779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 177818a1a8be3086688d38ba9cdd9e1e73e793dac50f0971440a3a4bee985dcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0da936a18ee277ad003008630d23fcac82503a88773fc21294df24dc95e3cd4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assembleia Legislativa Regional
-- Regime Laboral
-- Direito do Trabalho
-- Código do Trabalho
-- Lei Geral do Trabalho em Funções Públicas
-- Assembleia Legislativa
 - Assembleia da República
-- Período Normal de Trabalho
-- Madeira.região Autónoma
+- Assembleia Legislativa
+- Assembleia Legislativa Regional
+- Código do Trabalho
 - Diploma Legal
-- Redução do Período Normal de Trabalho
+- Direito do Trabalho
 - Duração do Trabalho
 - Horário de Trabalho
+- Lei Geral do Trabalho em Funções Públicas
+- Madeira.região Autónoma
+- Período Normal de Trabalho
 - Processo Legislativo
+- Redução do Período Normal de Trabalho
+- Regime Laboral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/
@@ -125,16 +125,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:174796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668541:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:03Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +245,9 @@ Os artigos 203.º e 210.º do Código do Trabalho, aprovado pela [Lei n.º 7/200
 
 Limites da duração do trabalho
 
-###### Artigo 203.º — Limites máximos do período normal de trabalho
+Artigo 203.º
+
+Limites máximos do período normal de trabalho
 
 1 - O período normal de trabalho não pode exceder as 7 horas por dia e as 35 horas por semana.
 
@@ -213,7 +259,9 @@ Limites da duração do trabalho
 
 5 - [...].
 
-###### Artigo 210.º — Exceções aos limites máximos do período normal de trabalho
+Artigo 210.º
+
+Exceções aos limites máximos do período normal de trabalho
 
 1 - [...]:
 
@@ -245,4 +293,4 @@ Todas as alterações na organização do tempo de trabalho que visem dar cumpri
 
 Aprovada em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 12 de dezembro de 2014.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.

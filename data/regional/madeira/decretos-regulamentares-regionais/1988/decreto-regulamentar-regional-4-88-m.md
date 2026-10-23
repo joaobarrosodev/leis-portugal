@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1988-282774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93fcfc154aedc565b39b7fe9b155a4b065b4bfc0ad7064e575b23d08264a5605
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1ca2f613ab5001b04726e299f503247464559b828ed9f0f8a241dfbb8d17b9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Controlo de Qualidade
+- Indústria Alimentar
+- Madeira.região Autónoma
+- Produto Alimentar
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420013:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:59Z'
   warnings: []
   errors: []
 ---
@@ -92,24 +104,24 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º É aplicável à Região Autónoma da Madeira (RAM) o [Decreto-Lei n.º 271/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1987-420013), de 3 de Julho, com as alterações impostas pela especificidade regional e que constam dos artigos seguintes.
+Artigo 1.º É aplicável à Região Autónoma da Madeira (RAM) o [Decreto-Lei n.º 271/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1987-420013), de 3 de Julho, com as alterações impostas pela especificidade regional e que constam dos artigos seguintes.
 
-###### Art. 2.º As referências feitas, bem como as competências atribuídas por aquele diploma ao Instituto de Qualidade Alimentar, às direcções regionais de agricultura e à Direcção-Geral de Inspecção Económica consideram-se reportadas e serão exercidas, na RAM, pela Direcção Regional do Comércio e Indústria e pela Direcção dos Serviços de Fiscalização Económica.
+Art. 2.º As referências feitas, bem como as competências atribuídas por aquele diploma ao Instituto de Qualidade Alimentar, às direcções regionais de agricultura e à Direcção-Geral de Inspecção Económica consideram-se reportadas e serão exercidas, na RAM, pela Direcção Regional do Comércio e Indústria e pela Direcção dos Serviços de Fiscalização Económica.
 
-###### Art. 3.º O n.º 3 do artigo 2.º do [Decreto-Lei n.º 271/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1987-420013), de 3 de Julho, passa a ter a seguinte redacção:
+Art. 3.º O n.º 3 do artigo 2.º do [Decreto-Lei n.º 271/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1987-420013), de 3 de Julho, passa a ter a seguinte redacção:
 
 O pedido de inscrição será formulado em impresso próprio, aprovado por portaria do Secretário Regional da Economia, a fornecer em exclusivo pela Imprensa Regional da Madeira, E. P., e distribuído através da Direcção Regional do Comércio e Indústria, e deverá ser acompanhado de duplicado, que será devolvido ao requerente pela entidade que recebeu o pedido.
 
-###### Art. 4.º O pedido de inscrição no Registo Nacional dos Procedimentos de Controle de Qualidade dos Géneros Alimentícios Transformados, designado por REPAT, será feito, na Região Autónoma da Madeira, na Direcção Regional do Comércio e Indústria.
+Art. 4.º O pedido de inscrição no Registo Nacional dos Procedimentos de Controle de Qualidade dos Géneros Alimentícios Transformados, designado por REPAT, será feito, na Região Autónoma da Madeira, na Direcção Regional do Comércio e Indústria.
 
-###### Art. 5.º Na execução do presente diploma serão estabelecidas as necessárias articulações entre a Direcção Regional do Comércio e Indústria e o Instituto de Qualidade Alimentar.
+Art. 5.º Na execução do presente diploma serão estabelecidas as necessárias articulações entre a Direcção Regional do Comércio e Indústria e o Instituto de Qualidade Alimentar.
 
 Aprovado em Conselho do Governo Regional em 3 de Dezembro de 1987.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 22 de Dezembro de 1987.**
+Assinado em 22 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

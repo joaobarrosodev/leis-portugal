@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22200/0008600091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/33/2024/11/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2024-896791628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f05c066b02b5982bed5c36f24f81e0ad7b5d656cef0c91b3db96a199c4bcace0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfdb610839039122ccc01e99ee8bcf8ba4bb77289348a0ce152de8742a36c078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartório Notarial
-- Governo Regional
 - Conservatória do Registo Comercial
 - Direcção Regional da Administração da Justiça
 - Diretor Regional
 - Gabinete da ZONA Franca da Madeira
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Secretaria Regional da Educação Ciência e Tecnologia
 relationships:
 - type: cites
@@ -115,16 +115,106 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/2005/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/2005/08/12/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117471256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75020431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885361660:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:18/2016/M
+  label: Revoga, a partir de 16 de novembro de 2024, nos termos do artigo 20.º do presente diploma, o Decreto Regulamentar
+    Regional n.º 18/2016/M, de 22 de julho, Diário da República n.º 140/2016, Série I
+  source: null
+  date: '2016-07-22'
 article_structure:
   article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:48Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +225,7 @@ Aprova a orgânica da Direção Regional da Administração da Justiça
 
 O [Decreto Regulamentar Regional n.º 15/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2024-885361660), de 23 de agosto, que aprova a orgânica da Secretaria Regional de Educação, Ciência e Tecnologia, prevê, na alínea f) do n.º 1 do artigo 6.º, como um dos serviços centrais integrados na administração direta da Região Autónoma da Madeira, a Direção Regional da Administração da Justiça.
 
-Assim, nos termos do n.º 2 do artigo 6.º do [Decreto Regulamentar Regional 15/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2024-885361660), de 23 de agosto, da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, na sua última redação dada pela [Lei Constitucional n.º 1/2005](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-2005-243729), de 12 de agosto, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos do n.º 2 do artigo 6.º do [Decreto Regulamentar Regional 15/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2024-885361660), de 23 de agosto, da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, na sua última redação dada pela [Lei Constitucional n.º 1/2005](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-2005-243729), de 12 de agosto, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E ÓRGÃOS
 
@@ -317,7 +407,7 @@ O provimento dos lugares dos quadros dos serviços externos da DRAJ, bem como o 
 
 ###### Artigo 19.º — Norma transitória
 
-1 - Até à entrada em vigor dos diplomas que aprovam a organização interna referida no artigo 5.º, mantêm-se em vigor a Portaria n.º 180/2017, de 31 de maio, o Despacho n.º 282/2017, de 17 de julho, alterado pelos Despachos n.<sup>os</sup>444/2021, de 29 de outubro, e 164/2022, de 27 de abril, e o Despacho n.º 218/2019, de 6 de setembro, bem como as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas naqueles previstas.
+1 - Até à entrada em vigor dos diplomas que aprovam a organização interna referida no artigo 5.º, mantêm-se em vigor a Portaria n.º 180/2017, de 31 de maio, o Despacho n.º 282/2017, de 17 de julho, alterado pelos Despachos n.os444/2021, de 29 de outubro, e 164/2022, de 27 de abril, e o Despacho n.º 218/2019, de 6 de setembro, bem como as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas naqueles previstas.
 
 2 - Até à aprovação do diploma referido no n.º 3 do artigo 9.º, à organização dos serviços de registos e de notariado regionais aplica-se o regime vigente a nível nacional, incluindo a classificação das atuais conservatórias e cartórios notariais.
 
@@ -331,11 +421,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 31 de outubro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 11 de novembro de 2024.**
+Assinado em 11 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -345,3 +435,7 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 | --- | --- |
 | 1 - Cargos de direção superior de 1.º grau | 1 |
 | 2 - Cargos de direção intermédia de 1.º grau | 1 |
+
+118340055
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

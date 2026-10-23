@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/069b00/11481151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2000/03/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2000-515257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62bd2334eb24f2dcab07693285229247166d39ef2ae9222f88cca8b2d65ad4a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3175fd930da957fc6da96e39806ff5bedd9058784d7c63b65041e25cff927d86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Direcção Regional do Património
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 relationships:
@@ -96,16 +96,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:582230:por
+  label: "Revogado pelo DRR.1/2004/M.16.01.2004.PG-RAM, DR.IS-B [31] de 06.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2004-582230
+  date: '2004-01-16'
 article_structure:
-  article_count: 12
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:29Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +167,9 @@ a) ...
 
 b) Departamento Administrativo de Cadastro e Inventário.
 
-###### Artigo 17.º — Natureza e estrutura
+Artigo 17.º
+
+Natureza e estrutura
 
 1 - O Departamento Administrativo de Cadastro e Inventário é o órgão de apoio técnico administrativo e instrumental à DSGP.
 
@@ -152,7 +179,9 @@ a) Secção de Cadastro e Inventário de Bens Imóveis;
 
 b) Secção de Cadastro e Inventário de Bens Móveis.
 
-###### Artigo 18.º — Atribuições
+Artigo 18.º
+
+Atribuições
 
 São atribuições do Departamento Administrativo de Cadastro e Inventário, designadamente:
 
@@ -186,7 +215,9 @@ a) Ecónomo especialista e ecónomo principal, de entre, respectivamente, ecóno
 
 b) Ecónomos, de entre indivíduos habilitados com o 9.º ano de escolaridade.
 
-###### Artigo 36.º — Remuneração
+Artigo 36.º
+
+Remuneração
 
 O desenvolvimento indiciário das carreiras de regime específico da DRPA é o constante do mapa anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto.»
 
@@ -210,7 +241,9 @@ Regras de transição a chefe de departamento
 
 6 - O disposto no presente artigo não prejudica a faculdade do actual chefe de repartição optar pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
-###### Artigo 39.º — Concursos pendentes
+Artigo 39.º
+
+Concursos pendentes
 
 Os concursos pendentes à data da entrada em vigor do presente diploma mantêm a sua validade, sendo os lugares a prover os constantes dos mapas anexos ao presente diploma.»
 
@@ -230,11 +263,11 @@ Aprovado em Conselho do Governo Regional em 10 de Fevereiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 28 de Fevereiro de 2000.**
+Assinado em 28 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA I ANEXO
 

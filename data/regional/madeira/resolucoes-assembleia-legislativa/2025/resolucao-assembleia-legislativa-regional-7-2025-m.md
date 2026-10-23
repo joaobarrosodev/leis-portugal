@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/7/2025/07/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/7-2025-925058382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 386ffef6d349a56b59308908ee20f9e6daa8f3a37978c0ff744cd76539d38145
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05304b5b02d89ea1e6afef819a9f16e1854f36e6a67a005242f8e68ddedd3f70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência Nacional para a Qualificação e o Ensino Profissional
-- Região Autónoma
+- Assembleia Legislativa
 - Certificação Profissional
 - Iniciativa Legislativa
-- Sistema Nacional de Qualificações
-- Assembleia Legislativa
-- Qualificação Profissional
 - Madeira.região Autónoma
+- Qualificação Profissional
+- Região Autónoma
 - Representante Regional
+- Sistema Nacional de Qualificações
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/2017/01/26/p/dre
@@ -105,16 +105,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105808927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:54Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +157,7 @@ Cidadãos dotados com competências de autoaprendizagem e reaprendizagem ao long
 
 Importa, assim, que os instrumentos legais que regulam as qualificações e as certificações das entidades formadoras e das aprendizagens respondam a estes desafios, sem esquecer as especificidades próprias de cada região, de forma a agilizarem-se respostas mais eficazes e eficientes aos desafios que enfrentam.
 
-O [Decreto-Lei n.º 396/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017), de 31 de dezembro, alterado pelos Decretos-Leis n.<sup>os</sup>[14/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), de 26 de janeiro, e [84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, estabelece o regime jurídico do Sistema Nacional de Qualificações (SNQ) e define as estruturas que asseguram o seu funcionamento. Este diploma cria, ainda, o Quadro Nacional de Qualificações (QNQ), o Sistema Nacional de Créditos do Ensino e Formação Profissionais e o instrumento de orientação e registo individual de qualificações e competências.
+O [Decreto-Lei n.º 396/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017), de 31 de dezembro, alterado pelos Decretos-Leis n.os[14/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), de 26 de janeiro, e [84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, estabelece o regime jurídico do Sistema Nacional de Qualificações (SNQ) e define as estruturas que asseguram o seu funcionamento. Este diploma cria, ainda, o Quadro Nacional de Qualificações (QNQ), o Sistema Nacional de Créditos do Ensino e Formação Profissionais e o instrumento de orientação e registo individual de qualificações e competências.
 
 O regime jurídico do SNQ previsto naquele diploma consubstancia um importante instrumento legal que regulamenta a obtenção de qualificações, as modalidades de formação, o reconhecimento, validação e certificação de competências das entidades formadoras e as necessidades de formação.
 
@@ -153,11 +181,11 @@ A ANQEP, IP, é um organismo central de jurisdição sobre todo o território na
 
 O conselho geral é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação daquela Agência, sendo composto por representantes dos serviços públicos, dos parceiros sociais e entidades com responsabilidades e intervenção na educação e formação profissional de jovens e adultos, bem como de técnicos e especialistas independentes, nomeados por despacho conjunto dos membros do Governo que tutelam a ANQEP, IP, sob proposta do conselho diretivo. Contudo, as Regiões Autónomas também não se encontram representadas neste órgão.
 
-Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
+Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
 
 ###### Artigo 1.º — Objeto
 
-A presente proposta de lei procede à terceira alteração ao [Decreto-Lei n.º 396/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017), de 31 de dezembro, alterado pelos Decretos-Leis n.<sup>os</sup>[14/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), de 26 de janeiro, e [84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, e à primeira alteração ao [Decreto-Lei n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2012-543022), de 15 de fevereiro.
+A presente proposta de lei procede à terceira alteração ao [Decreto-Lei n.º 396/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017), de 31 de dezembro, alterado pelos Decretos-Leis n.os[14/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2017-105808927), de 26 de janeiro, e [84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, e à primeira alteração ao [Decreto-Lei n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2012-543022), de 15 de fevereiro.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 396/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017), de 31 de dezembro
 
@@ -203,4 +231,6 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 3 de julho de 2025.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119295168

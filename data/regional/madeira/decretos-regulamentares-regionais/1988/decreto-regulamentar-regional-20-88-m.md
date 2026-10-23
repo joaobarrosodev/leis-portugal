@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/26200/45494549.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1988-357531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56e7b937519a747c90d6f064085a6c513fb9abda1ad5e75e8d7948268b34c3a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ca7856e2428bf1ed24d5a886c1af34323d24a4c196b0db25b0d10aedeff67bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desporto
+- Fundo de Investimento para o Futebol Profissional
+- Futebol
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:657871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:657871:por
+  label: "Revogado pelo DLR.13/91/M.08.06.1991.ALR-RAM, DR.IS-A [131] de 08.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-1991-657871
+  date: '1991-06-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:58Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +106,13 @@ Nestes termos:
 
 Ao abrigo do disposto na alínea d) do artigo 229.º da Constituição, o Governo Regional decreta o seguinte:
 
-###### Artigo 1.º É criado o Fundo de Investimento para o Futebol Profissional, abreviadamente designado por FIFPROF, que funcionará sob a tutela da Secretaria Regional da Educação, se regerá pelo presente diploma e diz respeito às equipas madeirenses que disputam os Campeonatos Nacionais da I e II Divisões.
+Artigo 1.º É criado o Fundo de Investimento para o Futebol Profissional, abreviadamente designado por FIFPROF, que funcionará sob a tutela da Secretaria Regional da Educação, se regerá pelo presente diploma e diz respeito às equipas madeirenses que disputam os Campeonatos Nacionais da I e II Divisões.
 
-###### Art. 2.º - 1 - A sua composição será definida por despacho do Secretário Regional da Educação.
+Art. 2.º - 1 - A sua composição será definida por despacho do Secretário Regional da Educação.
 
 2 - O Fundo será composto por um mínimo de três elementos e um máximo de cinco, sendo um deles o tesoureiro e o outro o representante do Governo Regional, que presidirá.
 
-###### Art. 3.º Constituirão, entre outras, atribuições do FIFPROF:
+Art. 3.º Constituirão, entre outras, atribuições do FIFPROF:
 
 a) Assegurar a coordenação entre todos os sectores que intervêm directa ou indirectamente no processo do futebol profissional;
 
@@ -115,28 +124,28 @@ d) Propor ao Governo outras fontes de financiamento, oficiais ou particulares;
 
 e) Dar parecer em todos os assuntos que o Governo Regional entenda conveniente.
 
-###### Art. 4.º As receitas do Fundo serão constituídas pelos subsídios que lhe forem concedidos através de orçamentos ordinários e extraordinários do Governo Regional, por entidades públicas ou privadas e ainda por receitas próprias.
+Art. 4.º As receitas do Fundo serão constituídas pelos subsídios que lhe forem concedidos através de orçamentos ordinários e extraordinários do Governo Regional, por entidades públicas ou privadas e ainda por receitas próprias.
 
-###### Art. 5.º O FIFPROF deverá possuir a seguinte escrituração contabilística:
+Art. 5.º O FIFPROF deverá possuir a seguinte escrituração contabilística:
 
 a) Um registo de contas correntes por cada clube;
 
 b) Um diário de caixa relativo a toda a movimentação de fundos efectuados.
 
-###### Art. 6.º As receitas do Fundo serão depositadas em instituição bancária e movimentadas mediante cheque subscrito por tês elementos da comissão, sendo um deles obrigatoriamente o tesoureiro ou o presidente.
+Art. 6.º As receitas do Fundo serão depositadas em instituição bancária e movimentadas mediante cheque subscrito por tês elementos da comissão, sendo um deles obrigatoriamente o tesoureiro ou o presidente.
 
-###### Art. 7.º O FIFPROF apresentará anualmente até 31 de Julho o projecto do orçamento para a próxima época desportiva e até 1 de Setembro o mapa da gerência da época passada, acompanhado do extracto da respectiva conta.
+Art. 7.º O FIFPROF apresentará anualmente até 31 de Julho o projecto do orçamento para a próxima época desportiva e até 1 de Setembro o mapa da gerência da época passada, acompanhado do extracto da respectiva conta.
 
-###### Art. 8.º As contas de gerência serão instruídas com todos os documentos de receita e despesa, devidamente autenticados.
+Art. 8.º As contas de gerência serão instruídas com todos os documentos de receita e despesa, devidamente autenticados.
 
-###### Art. 9.º O regulamento do Fundo será aprovado por despacho do Secretário Regional da Educação.
+Art. 9.º O regulamento do Fundo será aprovado por despacho do Secretário Regional da Educação.
 
 Aprovado em Conselho do Governo Regional em 18 de Agosto de 1988.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 13 de Setembro de 1988.**
+Assinado em 13 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

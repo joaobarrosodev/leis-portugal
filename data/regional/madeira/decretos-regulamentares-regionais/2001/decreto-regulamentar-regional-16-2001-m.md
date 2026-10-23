@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/157b00/41254133.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2001/07/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2001-348526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d977f84f65032f4610a226d9d54a5f61cfffe3af64d90aada6164b9384123c5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de7e4b4fa43a9d5e15f5eb211cc28f0724d73b449540160d44335f290a8cc5f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gabinete do Secretário Regional dos Recursos Humanos
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Secretaria Regional dos Recursos Humanos
 relationships:
@@ -95,16 +95,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:684806:por
+  label: "Rectificado pela DECL-RECT.14-G/2001.2001.07.31.PCM, DR.IS-B [176]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-g-2001-684806
+  date: '2001-07-31'
+- type: repealed_by
+  target: pt:dre:396900:por
+  label: "Revogado pelo DRR.1/2009/M.08.01.2009.PG-RAM, DR.IS [5] de 08.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2009-396900
+  date: '2009-01-08'
 article_structure:
   article_count: 26
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:43Z'
   warnings: []
   errors: []
 ---
@@ -131,11 +161,11 @@ Aprovado em Conselho do Governo Regional em 31 de Maio de 2001.
 
 O Vice-Presidente do Governo Regional, em exercício da Presidência, João Carlos Cunha e Silva.
 
-**Assinado em 19 de Junho de 2001.**
+Assinado em 19 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica do Gabinete do Secretário Regional dos Recursos Humanos e serviços dependentes
 
@@ -309,7 +339,9 @@ a) Divisão Jurídica;
 
 b) Serviços Administrativos.
 
-##### SUBSECÇÃO I — Divisão Jurídica
+##### SUBSECÇÃO I
+
+##### Divisão Jurídica
 
 ###### Artigo 9.º — Competências
 

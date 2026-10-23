@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2024/01/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 311daca019a640e878c9226b16735d1c63b2c1b701dbbbad8058a5f8618c40df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66b8a50e4435c4551b3942086335b8d78f1b2d25655945a5d3e27d7526d3ef79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Instituto de Emprego da Madeira
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Instituto de Segurança Social da Madeira
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
 - Secretaria Regional de Inclusão e Juventude
 relationships:
 - type: amended_by
   target: pt:dre:891867288:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:15/2015/M
+  label: Extingue e reestrutura, a partir de 23 de janeiro de 2024 e nos termos do n.º 1 do artigo 22.º, a Direção Regional
+    do Trabalho e Ação Inspetiva criada pelo Decreto Regulamentar Regional n.º 15/2015/M - Diário da República n.º 161/2015,
+    Série I de 2015-08-19
+  source: null
+  date: '2015-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/decle
   label: null
@@ -116,16 +123,172 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128326624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129643759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185601685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213069636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224081980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70007184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74953322:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:891867288:por
+  label: Revogado, a partir de 22 de outubro de 2024, pelo(a) Decreto Regulamentar Regional n.º 26/2024/M - Diário da República
+    n.º 204/2024, Série I de 2024-10-21, nos termos do n.º 2 do artigo 25.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2024-891867288
+  date: '2024-10-21'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:10/2020/M
+  label: Revoga, a partir de 23 de janeiro de 2024, o Decreto Regulamentar Regional n.º 10/2020/M - Diário da República n.º
+    14/2020, Série I de 2020-01-21
+  source: null
+  date: '2020-01-21'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:11/2022/M
+  label: Revoga, a partir de 23 de janeiro de 2024, o Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º
+    127/2022, Série I de 2022-07-04
+  source: null
+  date: '2022-07-04'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:10/2023/M
+  label: Revoga, a partir de 23 de janeiro de 2024, o Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º
+    93/2023, Série I de 2023-05-15
+  source: null
+  date: '2023-05-15'
 article_structure:
   article_count: 29
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:50Z'
   warnings: []
   errors: []
 ---
@@ -424,32 +587,34 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em reunião do Conselho do Governo Regional em 4 de janeiro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 17 de janeiro de 2024.**
+Assinado em 17 de janeiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO I — Cargos de direção superior da administração direta
 
-|  |  |
+|  | Número<br>de lugares |
 | --- | --- |
-|  | Número de lugares |
+|  |  |
 | Cargos de direção superior de 1.º grau ... | 4 |
 
 ## ANEXO II — Dirigentes dos organismos da administração indireta
 
-|  |  |
+|  | Número<br>de lugares |
 | --- | --- |
-|  | Número de lugares |
+|  |  |
 | Cargos de direção superior de 1.º grau ... | 2 |
 | Cargos de direção superior de 2.º grau ... | 4 |
 
 ## ANEXO III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
 
-|  |  |
+|  | Número<br>de lugares |
 | --- | --- |
-|  | Número de lugares |
+|  |  |
 | Cargos de direção intermédio de 1.º grau ... | 4 |
+
+117261127

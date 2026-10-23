@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/28100/53395348.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1989-550589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b276422205667d221b4e5a7986fe6ad5b2c29b3c027992386a3550ba846ba12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0e2d08bef87e4d368073ee2a1a7ea13e2cd516982ce943b143d59340ce3fc55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Direcção Regional de Portos
+- Estatuto do Pessoal
+- Madeira.região Autónoma
+- Portos
 relationships:
 - type: amended_by
   target: pt:dre:350104:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:495327:por
+  label: "Alterados os arts. 8º, 77º e 80º, pelo DRR.1/91/M.1990.12.06.GR-RAM, DR.IS-B [14] de 17/Jan/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-1991-495327
+  date: '1990-12-06'
+- type: amended_by
+  target: pt:dre:616853:por
+  label: "Alterado o art. 77º, pelo DRR.7/91/M.1991.04.08.GR-RAM, DR.IS-B [103] de 06/Mai/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1991-616853
+  date: '1991-04-08'
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610762:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:150310:por
+  label: "Rectificado o segundo parágrafo do preâmbulo, as alíneas b) e e) do artigo 2.º, o n.º 1 do artigo 11.º, n.º 2 do\
+    \ artigo 20.º, alínea c) do artigo 26.º, alínea c) do n.º 1 do artigo 28.º, n.º 1 do artigo 41.º, artigo 45.º, n.º 1 do\
+    \ artigo 49.º, n.º 2 dos artigos 56.º e 57.º, artigo 60.º, alínea a) do artigo 65.º, n.º 1 do artigo 77.º e n.º 4 do artigo\
+    \ 78.º do Estatuto aprovado no presente diploma, pela DECL.DD3286.31.01.1990.PCM, DR.IS [26]2ºSupl de 31.01.1990\00"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-150310
+  date: '1990-01-16'
+- type: repealed_by
+  target: pt:dre:350104:por
+  label: "Revogado pelo DLR.18/2001/M.2001.06.15.ALR-RAM, DR.IS[149] de 29/Jun/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2001-350104
+  date: '2001-06-15'
 article_structure:
-  article_count: 81
+  article_count: 80
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:05Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +131,11 @@ Considerando oportuno e conveniente a consagração de idêntico regime à Direc
 
 Nestes termos, o Governo Regional da Madeira, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto do Pessoal da Direcção Regional de Portos, cujo texto se publica em anexo ao presente decreto regulamentar regional e que dele faz parte integrante.
+Artigo 1.º É aprovado o Estatuto do Pessoal da Direcção Regional de Portos, cujo texto se publica em anexo ao presente decreto regulamentar regional e que dele faz parte integrante.
 
-###### Art. 2.º São revogadas todas as disposições gerais, especiais ou excepcionais que disponham em contrário do presente diploma.
+Art. 2.º São revogadas todas as disposições gerais, especiais ou excepcionais que disponham em contrário do presente diploma.
 
-###### Art. 3.º - 1 - O presente decreto regulamentar regional entra em vigor 60 dias após a data da sua publicação, sem prejuízo do disposto nos números seguintes.
+Art. 3.º - 1 - O presente decreto regulamentar regional entra em vigor 60 dias após a data da sua publicação, sem prejuízo do disposto nos números seguintes.
 
 2 - As tabelas salariais aprovadas ao abrigo do Estatuto poderão, nos termos nelas estabelecidos, produzir efeitos retroactivos.
 
@@ -109,11 +145,11 @@ Aprovado em plenário do Governo Regional, em 9 de Novembro de 1989.
 
 Pelo Presidente do Governo Regional, Miguel José Luís de Sousa.
 
-**Assinado em 24 de Novembro de 1989.**
+Assinado em 24 de Novembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ESTATUTO DO PESSOAL DA DIRECÇÃO REGIONAL DE PORTOS
 

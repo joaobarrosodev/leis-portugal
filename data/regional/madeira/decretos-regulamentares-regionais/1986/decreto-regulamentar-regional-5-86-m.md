@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1986-196241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3680827578e604951a840a64996d6af5501b2b87626a1b025afdd6a44c996303
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b65c5fa24c989fbb4bc7bc389d4e8e730181100be44ba2c1372175348e17ec89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Trabalho
+- Contrato de Trabalho
+- Direito do Trabalho
+- Doença Profissional
+- Higiene do Trabalho
+- Madeira.região Autónoma
+- Medicina do Trabalho
+- Multa
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:549989:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:549989:por
+  label: Alterado o art. 2.º pelo(a) Decreto Regulamentar Regional n.º 22/89/M - Diário da República n.º 258/1989, Série I
+    de 1989-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-1989-549989
+  date: '1989-11-09'
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:44Z'
   warnings: []
   errors: []
 ---
@@ -97,30 +116,30 @@ Considerando que os motivos que levaram à publicação do referido diploma, em 
 
 O Governo da Região Autónoma da Madeira, ao abrigo do disposto na alínea b) do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º É aplicável na Região Autónoma da Madeira o [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, com as adaptações constantes dos artigos seguintes.
+Artigo 1.º É aplicável na Região Autónoma da Madeira o [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º - 1 - O produto das coimas aplicadas em matéria de higiene e segurança e medicina do trabalho e de protecção contra acidentes de trabalho e doenças profissionais reverterá para o Fundo de Garantia e Actualização de Pensões.
+Art. 2.º - 1 - O produto das coimas aplicadas em matéria de higiene e segurança e medicina do trabalho e de protecção contra acidentes de trabalho e doenças profissionais reverterá para o Fundo de Garantia e Actualização de Pensões.
 
 2 - O produto das demais coimas reverterá para o Fundo de Desemprego, que transferirá anualmente 30% da receita efectivamente arrecadada para o orçamento da Região.
 
 3 - A receita transferida nos termos do número anterior será destinada a custear, a título de compensação, as despesas de funcionamento e processuais a suportar pela Inspecção Regional do Trabalho.
 
-###### Art. 3.º As entidades sujeitas a fiscalização da Inspecção Regional do Trabalho deverão comunicar a este organismo, antes do início da actividade, a denominação social, ramos de actividade ou objecto social, endereço da sede e locais de trabalho, indicação do Diário da República ou Jornal Oficial da Região em que haja sido publicado o respectivo pacto social, estatuto ou acto constitutivo, identificação e domicílio dos respectivos gerentes, administradores, directores ou membros do órgão gestor e o número de trabalhadores ao serviço.
+Art. 3.º As entidades sujeitas a fiscalização da Inspecção Regional do Trabalho deverão comunicar a este organismo, antes do início da actividade, a denominação social, ramos de actividade ou objecto social, endereço da sede e locais de trabalho, indicação do Diário da República ou Jornal Oficial da Região em que haja sido publicado o respectivo pacto social, estatuto ou acto constitutivo, identificação e domicílio dos respectivos gerentes, administradores, directores ou membros do órgão gestor e o número de trabalhadores ao serviço.
 
-###### Art. 4.º - 1 - O processamento das contra-ordenações laborais previstas no [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, compete, na Região Autónoma da Madeira, à Inspecção Regional do Trabalho.
+Art. 4.º - 1 - O processamento das contra-ordenações laborais previstas no [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, compete, na Região Autónoma da Madeira, à Inspecção Regional do Trabalho.
 
 2 - A aplicação das coimas estabelecidas para as contra-ordenações referidas no número anterior compete ao inspector regional do Trabalho e, nas suas ausências ou impedimentos, a funcionário do quadro técnico superior para o efeito designado por despacho do Secretário Regional dos Assuntos Sociais.
 
-###### Art. 5.º A instrução dos processos contra-ordenacionais será confiada a funcionários devidamente habilitados para o efeito, os quais poderão ser coadjuvados por pessoal administrativo, a designar pelo inspector regional do Trabalho.
+Art. 5.º A instrução dos processos contra-ordenacionais será confiada a funcionários devidamente habilitados para o efeito, os quais poderão ser coadjuvados por pessoal administrativo, a designar pelo inspector regional do Trabalho.
 
-###### Art. 6.º O presente diploma entrará em vigor no dia 1 de Junho de 1986.
+Art. 6.º O presente diploma entrará em vigor no dia 1 de Junho de 1986.
 
 Aprovado em Conselho do Governo Regional em 30 de Janeiro de 1986.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 21 de Fevereiro de 1986.**
+Assinado em 21 de Fevereiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21300/0006100065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/27/2024/11/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2024-895287964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 505f9057ea7669c74a2615f9ea6a212373eb4b7a843069d30afa0529f25a97e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 907bdb6720ab0688d04ba7c0d68528019f18657cf7263d591bd61a941c68defa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Direcção Regional de Informática
 - Diretor Regional
 - Informática
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Secretaria Regional das Finanças
 relationships:
 - type: cites
@@ -113,16 +113,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147533140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74878702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:875716583:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:42/2020/M
+  label: Revoga, a partir de 5 de novembro de 2024, o anexo B do Decreto Regulamentar Regional n.º 42/2020/M, de 4 de novembro,
+    Diário da República n.º 215/2020, Série I
+  source: null
+  date: '2020-11-04'
 article_structure:
   article_count: 13
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:45Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +195,7 @@ Mais estabelece o n.º 2 do artigo 27.º do citado diploma orgânico que a estru
 
 Por conseguinte, através do presente diploma, é ajustada a estrutura organizativa da Direção Regional de Informática para melhor adequação aos objetivos pretendidos no que se refere ao seu desempenho interno, respeitando os princípios e normas a que deve obedecer a organização da administração direta da Região Autónoma da Madeira, vertidos no [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua atual redação.
 
-Assim, nos termos da alínea f) do n.º 1 do artigo 5.º e do n.º 2 do artigo 27.º do [Decreto Regulamentar Regional n.º 14/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2024-875716583), de 7 de agosto, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos da alínea f) do n.º 1 do artigo 5.º e do n.º 2 do artigo 27.º do [Decreto Regulamentar Regional n.º 14/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2024-875716583), de 7 de agosto, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E ÓRGÃOS
 
@@ -223,7 +281,7 @@ m) Executar tudo o mais que lhe for expressamente cometido por diploma legal ou 
 
 ###### Artigo 5.º — Organização interna
 
-A organização interna da DRI obedece ao modelo organizacional hierarquizado, compreendendo unidades orgânicas nucleares e flexíveis e secções ou áreas de coordenação administrativa, aprovadas nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
+A organização interna da DRI obedece ao modelo organizacional hierarquizado, compreendendo unidades orgânicas nucleares e flexíveis e secções ou áreas de coordenação administrativa, aprovadas nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
 
 ###### Artigo 6.º — Serviços partilhados
 
@@ -237,7 +295,7 @@ A dotação de cargos de direção superior e de direção intermédia de 1.º g
 
 ###### Artigo 8.º — Recrutamento de cargos de direção intermédia
 
-O recrutamento para os cargos de direção intermédia da DRI, de unidades orgânicas com atribuições exclusivas nas áreas de tecnologias de informação e comunicação, nos termos do disposto no n.º 3 do artigo 3.º-A do [Decreto Legislativo Regional n.º 5/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2004-223253), de 22 de abril, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[27/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), de 14 de julho, e [27/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), de 6 de julho, pode também ser feito de entre trabalhadores em funções públicas integrados na carreira especial de técnico de sistemas e tecnologias de informação não possuidores de curso superior.
+O recrutamento para os cargos de direção intermédia da DRI, de unidades orgânicas com atribuições exclusivas nas áreas de tecnologias de informação e comunicação, nos termos do disposto no n.º 3 do artigo 3.º-A do [Decreto Legislativo Regional n.º 5/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2004-223253), de 22 de abril, alterado pelos Decretos Legislativos Regionais n.os[27/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), de 14 de julho, e [27/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), de 6 de julho, pode também ser feito de entre trabalhadores em funções públicas integrados na carreira especial de técnico de sistemas e tecnologias de informação não possuidores de curso superior.
 
 ###### Artigo 9.º — Receitas
 
@@ -263,11 +321,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 17 de outubro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 29 de outubro de 2024.**
+Assinado em 29 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -279,3 +337,7 @@ Mapa de cargos dirigentes
 | --- | --- |
 | Cargos de direção superior de 1.º grau | 1 |
 | Cargos de direção intermédia de 1.º grau | 5 |
+
+118294972
+
+.Tbl1 { margin-top:6px; border-collapse:collapse; margin-bottom:0px; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; }

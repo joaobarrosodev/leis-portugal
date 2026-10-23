@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/153b00/46214626.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/29/2005/08/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2005-241776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cda51a73a67d980d2d200ae1c44f0546fa463aa4b346d3a95125924aa9a3547a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 122c3f586d8e44e40aa4f3f7a52aca372d7a5a02bb137fad62b03c4badd532fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,29 @@ reuse:
 subjects:
 - Arquivo
 - Conselho Regional de Segurança Social
-- Gabinete do Secretário Regional dos Assuntos Sociais
-- Serviço Regional de Protecção Civil e Bombeiros da Madeira
-- Secretaria Regional dos Assuntos Sociais
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Direcção Regional de Planeamento e Saúde Pública
+- Gabinete do Secretário Regional dos Assuntos Sociais
 - Inspecção Regional dos Assuntos Sociais
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional dos Assuntos Sociais
 - Secretário Regional
+- Serviço Regional de Protecção Civil e Bombeiros da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:629375:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:629375:por
+  label: "Extintos, sendo objecto de fusão na DRS, a Direcção Regional de Gestão e Desenvolvimento dos Recursos , a Direcção\
+    \ Regional de Planeamento e Saúde Pública, o Serviço Regional de Prevenção da Toxicodependência e alterada a denominação\
+    \ da Inspecção Regional dos Assuntos Sociais para Inspecção Regional da Saúde e Assuntos Sociais, criados pelo presente\
+    \ diploma revogado, a partir de 9 de Novembro de 2007, pelo DRR.7/2007/M.08.11.2007.PG-RAM, DR.IS [215] de 08.11.2007\0\
+    07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2007-629375
+  date: '2007-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/15/2004/07/14/m/dre
   label: null
@@ -118,16 +127,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:167377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:15Z'
   warnings: []
   errors: []
 ---
@@ -156,13 +205,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 16 de Junho de 2005.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 6 de Julho de 2005.**
+Assinado em 6 de Julho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO
 
@@ -314,7 +363,9 @@ a) Divisão de Coordenação Administrativa e Pessoal;
 
 b) Divisão de Orçamento e Contabilidade.
 
-###### Artigo 10.º — Divisão de Coordenação Administrativa e Pessoal
+###### Artigo 10.º
+
+##### Divisão de Coordenação Administrativa e Pessoal
 
 1 - A Divisão de Coordenação Administrativa e Pessoal, abreviadamente designada por DCAP, é o serviço da DSA ao qual compete dirigir e acompanhar as actividades relativas ao atendimento ao público, expediente e arquivos gerais, bem como promover e adoptar os procedimentos necessários a garantir a correcta gestão dos recursos humanos do Gabinete.
 
@@ -356,7 +407,9 @@ c) Superintender o pessoal auxiliar e coordenar o respectivo trabalho.
 
 3 - O DGP integra a Secção de Pessoal.
 
-###### Artigo 13.º — Divisão de Orçamento e Contabilidade
+###### Artigo 13.º
+
+##### Divisão de Orçamento e Contabilidade
 
 1 - A Divisão de Orçamento e Contabilidade, designada abreviadamente por DOC, é o serviço da DSA ao qual compete dirigir e controlar a execução do orçamento do Gabinete e garantir a correcta gestão dos recursos materiais a ele afectos.
 
@@ -404,7 +457,9 @@ b) Promoção e divulgação de legislação de interesse para os serviços.
 
 2 - O AI é dirigido por um chefe de divisão (cargo de direcção intermédia de 2.º grau).
 
-###### Artigo 17.º — Divisão de Informação e Relações Públicas
+###### Artigo 17.º
+
+##### Divisão de Informação e Relações Públicas
 
 1 - A Divisão de Informação e Relações Públicas, abreviadamente designada por DIRP, é um serviço de assessoria e apoio técnico ao qual compete proceder à recolha, compilação e divulgação de documentação e bibliografia de interesse e dinamizar as actividades de relações públicas da SRAS.
 

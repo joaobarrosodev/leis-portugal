@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2005/03/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2005-588834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2545bbc6e399eff8ec0f77e95d939b7fbc6277e1e6420efe244245cf347f19bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05b30fde4247c5d0b39527adab33e545100cd461a2c6c54872c74bf996101232
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,18 +75,18 @@ subjects:
 - Direcção Regional de Planeamento e Recursos Educativos
 - Escola Profissional de Hotelaria e Turismo da Madeira
 - Gabinete Governamental
+- Gestão de Recursos Humanos
 - Gestão Orçamental
 - Inspecção Regional de Educação
 - Instituto do Desporto da Região Autónoma da Madeira
-- Secretaria Regional da Educação
+- Madeira.região Autónoma
 - Núcleo Estratégico da Sociedade de Informação
 - Orgânica
 - Pessoal de Gabinete
 - POLO Científico e Tecnológico
-- Madeira.região Autónoma
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 - Secretário Regional
-- Gestão de Recursos Humanos
 - Transferência de Pessoal
 relationships:
 - type: amended_by
@@ -133,16 +133,111 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/107/2002/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/107/2002/02/04/p/dre
+- type: cites
+  target: pt:dre:167066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668484:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:248482:por
+  label: "Revogado pelo DRR.1/2008/M.17.01.2008.PG-RAM, DR.IS [12] de 17.01.2008, que manteve, contudo, em vigor até à publicação\
+    \ integral dos diplomas referidos nos nºs 2 do art. 5º e do art. 6º daquele diploma, o quadro de pessoal anexo ao presente.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2008-248482
+  date: '2008-01-17'
 article_structure:
   article_count: 50
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:18Z'
   warnings: []
   errors: []
 ---
@@ -173,11 +268,11 @@ Aprovado em Conselho do Governo Regional em 3 de Fevereiro de 2005.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 21 de Fevereiro de 2005.**
+Assinado em 21 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ### CAPÍTULO I — Princípios gerais
 
@@ -505,7 +600,9 @@ b) Divisão de Controlo do Orçamento dos Estabelecimentos de Ensino (DCOEE);
 
 c) Divisão de Investimentos e Análise de Custos da Educação (DIACE).
 
-###### Artigo 16.º — Divisão de Controlo do Orçamento dos Serviços
+###### Artigo 16.º
+
+##### Divisão de Controlo do Orçamento dos Serviços
 
 1 - São atribuições da DCOS, designadamente:
 
@@ -527,7 +624,9 @@ a) Secção de Verificação e Processamento da Despesa (SVPD);
 
 b) Secção de Controlo e Registo da Despesa (SCRD).
 
-###### Artigo 17.º — Divisão de Controlo do Orçamento dos Estabelecimentos de Ensino
+###### Artigo 17.º
+
+##### Divisão de Controlo do Orçamento dos Estabelecimentos de Ensino
 
 1 - São atribuições da DCOEE, designadamente:
 
@@ -553,7 +652,9 @@ a) Secção de Controlo de Fundos (SCF);
 
 b) Secção de Contabilidade dos Estabelecimentos de Ensino (SCEE).
 
-###### Artigo 18.º — Divisão de Investimentos e Análise de Custos da Educação
+###### Artigo 18.º
+
+##### Divisão de Investimentos e Análise de Custos da Educação
 
 São atribuições da DIACE, designadamente:
 
@@ -597,7 +698,9 @@ f) Propor superiormente as acções de formação que considere adequadas à mel
 
 5 - A DSAEP compreende a Secção de Apoio Administrativo (SAA).
 
-###### Artigo 20.º — Divisão de Acompanhamento dos Estabelecimentos Particulares
+###### Artigo 20.º
+
+##### Divisão de Acompanhamento dos Estabelecimentos Particulares
 
 São atribuições da DAEP, nomeadamente:
 
@@ -641,7 +744,9 @@ h) Analisar e propor para aprovação os apoios financeiros para o funcionamento
 
 i) Recolher e tratar a informação estatística relativa à actividade da DAIPSSEPP.
 
-##### SUBSECÇÃO III — Divisão de Apoio Técnico e Jurídico
+##### SUBSECÇÃO III
+
+##### Divisão de Apoio Técnico e Jurídico
 
 ###### Artigo 22.º — Atribuições da Divisão de Apoio Técnico e Jurídico
 
@@ -793,7 +898,9 @@ e) Acompanhar as experiências e os projectos de inovação pedagógica, sob det
 
 f) Elaborar estudos relativos à realização da educação e do ensino na RAM que possibilitem a introdução de melhorias no sistema educativo.
 
-##### SUBSECÇÃO II — Divisão de Apoio Jurídico e Técnico
+##### SUBSECÇÃO II
+
+##### Divisão de Apoio Jurídico e Técnico
 
 ###### Artigo 28.º — Atribuições da Divisão de Apoio Jurídico e Técnico
 
@@ -907,7 +1014,9 @@ b) Divisão de Estudos e Pareceres Jurídicos (DEPJ);
 
 c) Divisão Administrativa e de Recursos Humanos (DARH).
 
-##### SUBSECÇÃO I — Divisão de Programas e Projectos
+##### SUBSECÇÃO I
+
+##### Divisão de Programas e Projectos
 
 ###### Artigo 36.º — Atribuições da Divisão de Programas e Projectos
 
@@ -923,7 +1032,9 @@ d) Participar na elaboração do plano e orçamento e do relatório anual, em co
 
 e) Assegurar a gestão dos servidores web.
 
-##### SUBSECÇÃO II — Divisão de Estudos e Pareceres Jurídicos
+##### SUBSECÇÃO II
+
+##### Divisão de Estudos e Pareceres Jurídicos
 
 ###### Artigo 37.º — Atribuições da Divisão de Estudos e Pareceres Jurídicos
 
@@ -935,7 +1046,9 @@ b) Emitir pareceres sobre projectos e propostas de diplomas que lhe sejam submet
 
 c) Elaborar propostas de diplomas que se enquadrem na esfera de intervenção do NESI.
 
-##### SUBSECÇÃO III — Divisão Administrativa e de Recursos Humanos
+##### SUBSECÇÃO III
+
+##### Divisão Administrativa e de Recursos Humanos
 
 ###### Artigo 38.º — Atribuições e estrutura da Divisão Administrativa e de Recursos Humanos
 
@@ -967,7 +1080,9 @@ j) Assegurar a realização de tarefas de apoio aos restantes órgãos.
 
 4 - O DRH compreende a Secção de Pessoal (SP).
 
-#### SECÇÃO IV — Divisão de Apoio Técnico
+#### SECÇÃO IV
+
+##### Divisão de Apoio Técnico
 
 ###### Artigo 39.º — Atribuições e competências da Divisão de Apoio Técnico
 
@@ -1129,28 +1244,28 @@ Até à publicação integral dos diplomas a que se refere o n.º 4 do artigo 4.
 
 Gabinete do Secretário
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
 
 Gabinete de Gestão e Controlo Orçamental
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
 
 Inspecção Regional de Educação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
 
 Núcleo Estratégico da Sociedade de Informação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
 
-##### Divisão de Apoio Técnico
+Divisão de Apoio Técnico
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
 
 Gabinete de Estudos e Pareceres Jurídicos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
 
 Quadro dos supranumerários
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)](https://files.diariodarepublica.pt/1s/2005/03/047b00/20192036.pdf)

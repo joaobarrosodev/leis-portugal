@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/14/1994/09/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/14-1994-607119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a74e0052ed7a1fac3fd59c6d0307679ab996f1bc28189968ca8972b67b9b3482
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba2a1d4248e819e036e48c69bd8f4c1a85c44a49220a8641ce906de65099a47c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ subjects:
 - Madeira.região Autónoma
 relationships: []
 article_structure:
-  article_count: 23
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 20
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:39Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +145,7 @@ Princípios fundamentais
 
 2 - ...
 
-# PARTE I — Direitos e deveres fundamentais
+## PARTE I — Direitos e deveres fundamentais
 
 ## TÍTULO II — Direitos, liberdades e garantias
 
@@ -161,7 +161,7 @@ Princípios fundamentais
 
 4 - (Eliminar.)
 
-# PARTE III — Organização do poder político
+## PARTE III — Organização do poder político
 
 ## TÍTULO I — Princípios gerais
 
@@ -203,7 +203,7 @@ f) [...] Assembleias Legislativas Regionais [...];
 
 ###### Artigo 124.º — [...]
 
-**O Presidente da República é eleito por sufrágio universal, directo e secreto dos cidadãos portugueses eleitores.**
+O Presidente da República é eleito por sufrágio universal, directo e secreto dos cidadãos portugueses eleitores.
 
 ### CAPÍTULO II — Competência
 
@@ -347,7 +347,7 @@ x) [A alínea u) actual.]
 
 (Eliminar.)
 
-###### Artigo 231.º (passa a artigo 230.º)
+Artigo 231.º (passa a artigo 230.º)
 
 [...]
 
@@ -361,13 +361,13 @@ x) [A alínea u) actual.]
 
 5 - O dever de audição entende-se como formalidade essencial na formação do acto legislativo ou regulamentar.
 
-###### Artigo 232.º (passa a artigo 231.º)
+Artigo 232.º (passa a artigo 231.º)
 
 [...]
 
 Compete ao delegado do Governo da República a coordenação e superintendência das actividades dos serviços centrais do Estado no tocante aos interesses da Região, conforme a respectiva delegação de poderes, articulando-as com as exercidas pela própria Região.
 
-###### Artigo 233.º (passa a artigo 232.º)
+Artigo 233.º (passa a artigo 232.º)
 
 [...]
 
@@ -383,7 +383,7 @@ Compete ao delegado do Governo da República a coordenação e superintendência
 
 6 - É da exclusiva competência legislativa do Governo Regional a matéria respeitante à sua própria organização e funcionamento.
 
-###### Artigo 234.º (passa a artigo 233.º)
+Artigo 234.º (passa a artigo 233.º)
 
 [...]
 
@@ -393,7 +393,7 @@ Compete ao delegado do Governo da República a coordenação e superintendência
 
 3 - ...
 
-###### Artigo 235.º (passa a artigo 234.º)
+Artigo 235.º (passa a artigo 234.º)
 
 [...]
 
@@ -407,21 +407,21 @@ Compete ao delegado do Governo da República a coordenação e superintendência
 
 5 - O Presidente da República exerce ainda o direito de veto, nos termos dos artigos 278.º e 279.º
 
-###### Artigo 236.º (passa a artigo 235.º)
+Artigo 236.º (passa a artigo 235.º)
 
 [...]
 
 As Assembleias Legislativas Regionais podem ser dissolvidas pelo Presidente da República, por prática de actos graves contra a Constituição, ouvidos a Assembleia da República e o Conselho de Estado, sendo observado o disposto no artigo 175.º, com as devidas adaptações.
 
-Artigo novo (236.º)
+###### Artigo novo (236.º)
 
 Cada Região Autónoma constitui um círculo eleitoral próprio para o Parlamento Europeu, elegendo um deputado.
 
-Artigo novo (237.º)
+###### Artigo novo (237.º)
 
 Os cidadãos portugueses residentes no estrangeiro e naturais de cada uma das Regiões Autónomas, como tal oficializados junto do consulado português, constituem um círculo eleitoral para a respectiva Assembleia Legislativa Regional.
 
-Artigo novo (238.º)
+###### Artigo novo (238.º)
 
 1 - Em matéria de interesse específico regional os cidadãos eleitores nas Regiões Autónomas podem ser chamados a pronunciar-se, a título vinculativo, através de referendo, por decisão do Presidente da República, mediante proposta da Assembleia Legislativa Regional, nos casos previstos no Estatuto Político-Administrativo.
 
@@ -429,7 +429,7 @@ Artigo novo (238.º)
 
 ...
 
-# PARTE IV — Garantia e revisão da Constituição
+## PARTE IV — Garantia e revisão da Constituição
 
 ## TÍTULO I — Fiscalização da constitucionalidade
 
@@ -473,4 +473,4 @@ Nos termos dos números anteriores, a Assembleia Legislativa Regional da Madeira
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 29 de Julho de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.

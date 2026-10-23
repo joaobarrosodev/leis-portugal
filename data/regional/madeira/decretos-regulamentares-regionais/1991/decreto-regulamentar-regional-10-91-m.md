@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/116b00/27322743.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/1991/05/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1991-640086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5489b69e1376df0bd76c5499eecd14224ced3d171a19c83738c9977a90899fd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0b136f23503b16320eaa620e2623ffb1605abf7f287da080ec9267e25c29807
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional da Administração Pública
-- Direcção Regional de Portos
 - Administração de Portos
-- Orgânica
+- Direcção Regional de Portos
 - Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:667370:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157399:por
+  label: "Alterados os artigos 2.º, 3.º, 5.º, 7.º e 8.º e o anexo I, pelo DRR.2/92/M.13.02.1992.GR-RAM, DR.IS-B [37] de 13.02.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1992-157399
+  date: '1992-02-13'
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627247:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667370:por
+  label: "Revogado pelo DRR.23/97/M.09.10.1997.PG-RAM, DR.IS-B [234] de 09.10.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-1997-667370
+  date: '1997-09-19'
 article_structure:
-  article_count: 50
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 49
+  section_count: 35
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:18Z'
   warnings: []
   errors: []
 ---
@@ -103,19 +134,19 @@ Assim:
 
 O Governo Regional da Madeira (RAM) decreta, nos termos da alínea d) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º É aprovada a Lei Orgânica da Direcção Regional de Portos, da Secretaria Regional da Administração Pública, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a Lei Orgânica da Direcção Regional de Portos, da Secretaria Regional da Administração Pública, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Janeiro de 1991.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 27 de Fevereiro de 1991.**
+Assinado em 27 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 LEI ORGÂNICA DA DIRECÇÃO REGIONAL DE PORTOS
 
@@ -341,7 +372,9 @@ b) Sector Administrativo e de Processamentos.
 
 4 - O Sector Administrativo e de Processamentos será chefiado por uma chefia nível IV.
 
-##### SUBSECÇÃO I — Divisão de Exploração Terrestre
+##### SUBSECÇÃO I
+
+##### Divisão de Exploração Terrestre
 
 ###### Artigo 13.º — Atribuições
 
@@ -387,7 +420,9 @@ a) Guindastes, que será chefiado por uma chefia nível IV;
 
 b) Auto-gruas e empilhadores, que será chefiado por uma chefia nível IV.
 
-##### SUBSECÇÃO II — Divisão de Exploração Marítima
+##### SUBSECÇÃO II
+
+##### Divisão de Exploração Marítima
 
 ###### Artigo 15.º
 
@@ -451,7 +486,9 @@ d) Secção Técnica Administrativa.
 
 2 - A Secção Técnica Administrativa funciona na dependência directa do director de serviços e será chefiada por uma chefia nível V.
 
-##### SUBSECÇÃO I — Divisão de Manutenção
+##### SUBSECÇÃO I
+
+##### Divisão de Manutenção
 
 ###### Artigo 19.º — Atribuições
 
@@ -497,7 +534,9 @@ a) A Secção de Metalomecânica, que será chefiada por uma chefia nível V;
 
 b) A Secção de Máquinas-Ferramentas, que será chefiada por uma chefia nível V.
 
-##### SUBSECÇÃO II — Divisão de Construção
+##### SUBSECÇÃO II
+
+##### Divisão de Construção
 
 ###### Artigo 21.º — Atribuições
 
@@ -583,7 +622,9 @@ a) Divisão Financeira;
 
 b) Serviço Administrativo.
 
-##### SUBSECÇÃO I — Divisão Financeira
+##### SUBSECÇÃO I
+
+##### Divisão Financeira
 
 ###### Artigo 26.º — Atribuições
 
@@ -705,7 +746,9 @@ d) Secção Técnica Administrativa.
 
 2 - A Secção Técnica Administrativa funciona na dependência directa do director de serviços e será chefiada por uma chefia nível V.
 
-##### SUBSECÇÃO I — Divisão de Formação, Higiene e Segurança no Trabalho
+##### SUBSECÇÃO I
+
+##### Divisão de Formação, Higiene e Segurança no Trabalho
 
 ###### Artigo 32.º — Atribuições
 
@@ -795,7 +838,9 @@ c) Sector de Apoio Comercial e Administrativo.
 
 2 - O Sector de Apoio Comercial e Administrativo funciona na dependência directa do chefe do serviço e será chefiado por uma chefia nível IV.
 
-##### SUBSECÇÃO I — Divisão de Exploração
+##### SUBSECÇÃO I
+
+##### Divisão de Exploração
 
 ###### Artigo 37.º — Atribuições
 
@@ -811,7 +856,9 @@ d) Assegurar a boa gestão técnico-administrativa.
 
 2 - O chefe de divisão é substituído nas suas faltas e impedimentos pelo funcionário para o efeito designado.
 
-##### SUBSECÇÃO II — Divisão de Manutenção
+##### SUBSECÇÃO II
+
+##### Divisão de Manutenção
 
 ###### Artigo 38.º — Atribuições
 
@@ -955,4 +1002,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Do ANEXO I ao ANEXO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/116b00/27322743.pdf))](https://files.diariodarepublica.pt/1s/1991/05/116b00/27322743.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/116b00/27322743.pdf)

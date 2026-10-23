@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/02200/0001700019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2020/01/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2020-128726982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c534769a64a595af53b19de5476da350282fd66b11bf09755a96ebdf5596d8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4522d96c1a795f1376cb669903880530436215ba1c5c7b42880ce5ad532fe040
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Governo Regional
-- Cooperação
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- Diplomacia Económica
-- Diretor Regional
-- Migração
-- Orgânica
-- Emigração
-- Política Económica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Atendimento Público
-- Fórum Madeira Global
-- Conselho da Diáspora Madeirense
 - Casa da Madeira
 - Centro Local de Apoio à Integração de Migrantes
+- Conselho da Diáspora Madeirense
+- Cooperação
+- Definição de Competências
+- Diplomacia Económica
+- Diretor Regional
+- Emigração
+- Fórum Madeira Global
+- Governo Regional
+- Madeira.região Autónoma
+- Migração
+- Orgânica
+- Pessoal Dirigente
+- Política Económica
+- Quadro de Pessoal
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
@@ -120,16 +120,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126318034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126904849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:24Z'
   warnings: []
   errors: []
 ---
@@ -228,11 +264,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em reunião do Conselho do Governo Regional em 27 de dezembro de 2019.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 9 de janeiro de 2020.**
+Assinado em 9 de janeiro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -240,4 +276,6 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 Mapa de cargos dirigentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/02200/0001700019.pdf))](https://files.diariodarepublica.pt/1s/2020/01/02200/0001700019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/02200/0001700019.pdf)
+
+112942159

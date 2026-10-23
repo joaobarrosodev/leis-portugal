@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/21700/41944202.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1989-547809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45cb1ae2f87fdfe8f747e693a786b8e5fd6adfc2bb397e45316f80efb06e8710
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 617a3624f6651ed7cf9bd01754cfbeffb92d519c812efdd06c52b0a0e509a739
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional da Administração Pública e Local
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:689662:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332232:por
+  label: "Alterada a alínea n) do n.º 1 do artigo 10.º, aditadas as alíneas i) e j) ao n.º 1 do artigo 13.º e os artigos 13.º-A\
+    \ e 31.º-A, revogada a alínea d) do n.º 1 do artigo 10.º, suprimida a referência à alínea d) constante do n.º 3 do artigo\
+    \ 11.º e alterado o quadro de pessoal anexo ao presente diploma, pelo DRR.7/90/M.21.04.1990.GR-RAM, DR.IS [93] de 21.04.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1990-332232
+  date: '1990-04-21'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679426:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:689662:por
+  label: "Revogado pelo DRR.9/93/M.14.04.1993.GR-RAM, DR.IS-B [87] de 14.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1993-689662
+  date: '1993-04-14'
 article_structure:
-  article_count: 33
+  article_count: 32
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:04Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +160,19 @@ Considerando o disposto no n.º 3 do artigo 4.º do [Decreto Legislativo Regiona
 
 Nos termos da alínea b) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o Governo Regional da Madeira decreta o seguinte:
 
-###### Artigo 1.º É aprovada a orgânica da Direcção Regional da Administração Pública e Local, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a orgânica da Direcção Regional da Administração Pública e Local, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 20 de Julho de 1989.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 10 de Agosto de 1989.**
+Assinado em 10 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ORGÂNICA DA DIRECÇÃO REGIONAL DA ADMINISTRAÇÃO PÚBLICA E LOCAL
 
@@ -598,4 +662,4 @@ g) A [Portaria n.º 27/89](https://diariodarepublica.pt/dr/detalhe/portaria/27-1
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 26.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21700/41944202.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21700/41944202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21700/41944202.pdf)

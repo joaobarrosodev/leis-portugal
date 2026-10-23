@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/10600/0273302739.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/13/2017/06/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/13-2017-107114314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:52:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de9ff8f2950f1000cbe8ce190edf6d82751f8327102d2ceab15ef68a16720801
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3618a4ae277e02d2e6b73bc0e9c3389afd1c3d66705cac77a1cb21c835ef5855
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:52:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Titulo de Transporte
-- Transporte Marítimo
-- Transporte Aéreo
-- Operador de Transporte Aéreo
 - Assembleia da República
-- Madeira.região Autónoma
 - Diploma Legal
+- Madeira.região Autónoma
+- Operador de Transporte Aéreo
 - Subsídio Social de Mobilidade
+- Titulo de Transporte
+- Transporte Aéreo
+- Transporte Marítimo
 relationships:
 - type: cites
   target: celex:32014R0651
@@ -125,16 +125,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/260-c/2015/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/260-c/2015/08/24/p/dre
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70085573:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:52:28Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +227,9 @@ São alterados os artigos 1.º, 2.º, 4.º, 6.º, 7.º e 12.º do [Decreto-Lei n
 
 4 - Os n.os 2 e 3 aplicam-se apenas nos casos em que as ligações se efetuem num período máximo de 24 horas.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Para efeitos do presente decreto-lei, entende-se por:
 
@@ -223,7 +273,9 @@ iv) [...]
 
 h) [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A atribuição do subsídio social de mobilidade ao beneficiário implica a compra e a utilização efetiva do bilhete, e corresponde ao pagamento de um valor variável sem limite máximo.
 
@@ -235,7 +287,9 @@ h) [...].
 
 5 - Não é atribuído subsídio social de mobilidade, sempre que o custo elegível seja de montante igual ou inferior ao fixado no n.º 2.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Para efeitos de atribuição do subsídio social de mobilidade, a companhia aérea e seus agentes devem requerer, nos serviços competentes da entidade prestadora do serviço de pagamento, o respetivo pagamento.
 
@@ -251,7 +305,9 @@ h) [...].
 
 7 - [Revogado].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O beneficiário deve entregar à companhia área e seus agentes cópia dos seguintes documentos, exibindo o respetivo original:
 
@@ -281,7 +337,9 @@ i) [Revogada].
 
 5 - A apresentação dos documentos e comprovativos previstos nos números anteriores pode ser feita através da Internet, em termos a regulamentar por portaria conjunta dos membros do Governo responsáveis pela área das Finanças e dos Transportes.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -305,7 +363,7 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 4 de maio de 2017.
 
-**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

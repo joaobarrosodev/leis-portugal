@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/05500/0166801674.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2019/03/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2019-121260111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1814db75ae797211771c203a7bd5ab6a2ceb1a016310ab1af8ea6306c3fbc077
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94d1158db6a49f5b700573a40aaf398799d53f4b490dcf895695aa3b541a4fe3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Vice-presidência do Governo Regional
-- Diretor Regional
-- Orgânica
-- Madeira.região Autónoma
-- Vice-presidente do Governo Regional
 - Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
+- Definição de Competências
+- Diretor Regional
+- Madeira.região Autónoma
+- Orgânica
+- Vice-presidência do Governo Regional
+- Vice-presidente do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:896613431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168398505:por
+  label: Alterado o anexo i do DRR 14/2015/M de 19-ago, na versão alterada e republicada pelo presente diploma, pelo(a) Decreto
+    Regulamentar Regional n.º 7/2021/M - Diário da República n.º 144/2021, Série I de 2021-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2021-168398505
+  date: '2021-07-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
   label: null
@@ -118,16 +124,114 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106536879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106579666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115288238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70748594:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:896613431:por
+  label: Revogado, a partir de 15 de novembro de 2024, pelo(a) Decreto Regulamentar Regional n.º 31/2024/M - Diário da República
+    n.º 221/2024, Série I de 2024-11-14 nos termos da alínea c) do artigo 18.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2024-896613431
+  date: '2024-11-14'
 article_structure:
-  article_count: 35
+  article_count: 26
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:21Z'
   warnings: []
   errors: []
 ---
@@ -160,13 +264,17 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 7.º, 11.º, 14.º, 15.º, 17.º e 19.º do [
 
 A Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, abreviadamente designada por AT-RAM, é o serviço da administração direta da Região Autónoma da Madeira, integrado na Vice-Presidência do Governo, referida no presente diploma por VP, a que se refere a alínea d) do n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 7/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2018-115288238), de 14 de maio.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A AT-RAM é um serviço executivo da VP que tem por missão assegurar e administrar os impostos sobre o rendimento, sobre a despesa, sobre o consumo, sobre o património e de outros tributos legalmente previstos, bem como executar as políticas e as orientações fiscais definidas pelo Governo Regional da Madeira, em matéria tributária a exercer no âmbito da Região Autónoma da Madeira, de acordo com os artigos 140.º e 141.º da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 1 de agosto, nomeadamente a liquidação e a cobrança dos impostos que constituem receita da Região.
 
 2 - A AT-RAM dispõe, para além de uma unidade orgânica central, de unidades orgânicas desconcentradas de âmbito local, designadas por serviços de finanças.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -226,7 +334,9 @@ m) ...
 
 5 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -262,7 +372,9 @@ k) ...
 
 6 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Quando a natureza ou a especificidade das tarefas temporárias a desenvolver o aconselhem, podem ser constituídas equipas de projeto com caráter transitório por despacho do Vice-Presidente, que fixa os seus objetivos, composição e duração.
 
@@ -272,7 +384,9 @@ k) ...
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - É vedado aos trabalhadores da AT-RAM, bem como ao restante pessoal contratado, o exercício de quaisquer outras funções em matéria fiscal ou com estas relacionadas, excetuando as relativas à docência e formação, desde que devidamente autorizadas pelo Vice-Presidente.
 
@@ -280,7 +394,9 @@ k) ...
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As referências legais ao Ministro das Finanças, ao Diretor-Geral dos Impostos e ao Diretor-Geral da Autoridade Tributária e Aduaneira, feitas na legislação nacional em vigor, em matéria que se insira nas atribuições e competências fiscais da Região Autónoma da Madeira, entendem-se reportadas, respetivamente, ao Vice-Presidente e ao Diretor Regional.
 
@@ -288,7 +404,9 @@ k) ...
 
 3 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -300,11 +418,15 @@ k) ...
 
 5 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 A estrutura e a competência territorial dos serviços desconcentrados da AT-RAM são definidas por portaria do Vice-Presidente.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Até a entrada em vigor dos diplomas que, nos termos do artigo 21.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos [Decretos Legislativos Regionais n.os 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, e [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, que o republicou, e [Decreto Legislativo Regional n.º 42-A/2016M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, procederem à aprovação da estrutura nuclear e da estrutura flexível da AT-RAM mantém-se a atual estrutura constante respetivamente da [Portaria n.º 88/2017](https://diariodarepublica.pt/dr/detalhe/portaria/88-2017-106536879), de 27 de março, e do Despacho n.º 475/2015, de 15 de dezembro.
 
@@ -324,15 +446,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 21 de fevereiro de 2019.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 28 de fevereiro de 2019.**
+Assinado em 28 de fevereiro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## Anexo ao [Decreto Regulamentar Regional n.º 14/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2015-70055496), de 19 de agosto
+Anexo ao [Decreto Regulamentar Regional n.º 14/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2015-70055496), de 19 de agosto
 
 (a que se refere o artigo 4.º do diploma preambular)
 
@@ -566,4 +688,6 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — (a que se refere o artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/03/05500/0166801674.pdf))](https://files.diariodarepublica.pt/1s/2019/03/05500/0166801674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/03/05500/0166801674.pdf)
+
+112120956

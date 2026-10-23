@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/03/057b00/04630466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/1996/03/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1996-621277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59ab28c17d8f5a1110d71cbaa79b67671d15874baa4404a998c119d7e663d230
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26aad28ed1bb91a63ae9cb50c7bf2ff0d045bd270a10edbe6b109f8b69866538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Laboratório Regional de Engenharia Civil
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:222821:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:300822:por
+  label: "Alterado o quadro de pessoal e o art. 11º-A e aditado o art. 17º-A ao DRR 13/91/M de 02-Ago, com a redacção do presente\
+    \ diploma, pelo DRR.36/2000/M.2000.06.26.PG-RAM DR.IS-B [158] de 11/Jul/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-2000-300822
+  date: '2000-06-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/219/1992/10/15/p/dre
   label: null
@@ -99,16 +105,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/13/1991/08/02/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/13/1991/08/02/m/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687212:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621305:por
+  label: "Revogadas as normas respeitantes ao Departamento da Qualidade da Água do Laboratório Regional de Engenharia Civil\
+    \ constantes do DRR 13/91/M de 02-Ago, na redacção dada no presente diploma, pelo DLR.28-C/99/M.20.12.1999.ALR-RAM, DR.IS-A\
+    \ [297]2ºSupl de 23.12.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-b-1999-621305
+  date: '1999-12-20'
+- type: repealed_by
+  target: pt:dre:222821:por
+  label: "Revogado o DRR 13/91/M de 24-Mai, com a redacção do presente diploma, pelo DRR.12/2004/M.01.04.2004.PG-RAM, DR.IS-B\
+    \ [98] de 26.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2004-222821
+  date: '2004-04-01'
 article_structure:
-  article_count: 12
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:00Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +198,9 @@ b) De apoio:
 
 Direcção dos Serviços Administrativos.
 
-###### Artigo 6.º — Atribuições
+Artigo 6.º
+
+Atribuições
 
 1 - ...
 
@@ -173,7 +222,9 @@ g) Colaborar na protecção e beneficiação de costas;
 
 h) Prestar apoio geral para a regularização fluvial e torrencial.
 
-###### Artigo 7.º — Estrutura
+Artigo 7.º
+
+Estrutura
 
 1 - ...
 
@@ -181,23 +232,31 @@ h) Prestar apoio geral para a regularização fluvial e torrencial.
 
 3 - Ao Núcleo de Hidráulica cabe desenvolver as acções necessárias à prossecução das atribuições a que se reportam as alíneas f), g) e h) do n.º 2 do artigo anterior.
 
-###### Artigo 9.º — Direcção
+Artigo 9.º
+
+Direcção
 
 1 - Os departamentos e os centros são dirigidos, respectivamente, por chefes de departamento e chefes de centro, equiparados, para todos os efeitos legais, a directores de serviços.
 
 2 - ...
 
-###### Artigo 15.º — Pessoal dirigente
+Artigo 15.º
+
+Pessoal dirigente
 
 O pessoal dirigente é recrutado e provido nos termos do disposto no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, alterado pelos Decretos-Leis n.os [34/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1993-648134) e [239/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1994-604437), respectivamente de 13 de Fevereiro e de 22 de Setembro, com as adaptações constantes do [Decreto Legislativo Regional n.º 8/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1991-475950), de 18 de Março.
 
-###### Artigo 16.º — Pessoal investigador
+Artigo 16.º
+
+Pessoal investigador
 
 1 - ...
 
 2 - O regime da carreira de investigação científica é o definido no [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629), de 15 de Outubro.
 
-###### Artigo 17.º — Pessoal técnico-profissional
+Artigo 17.º
+
+Pessoal técnico-profissional
 
 1 - ...
 
@@ -205,7 +264,9 @@ O pessoal dirigente é recrutado e provido nos termos do disposto no [Decreto-Le
 
 3 - Os estagiários da carreira de técnico-adjunto experimentador são remunerados pelo índice 175 da escala salarial do regime geral.
 
-###### Artigo 18.º — Pessoal auxiliar
+Artigo 18.º
+
+Pessoal auxiliar
 
 O recrutamento para ingresso na carreira de servente faz-se mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória.»
 
@@ -231,7 +292,9 @@ c) Proceder à caracterização físico-química em conformidade com as técnica
 
 d) Proceder à caracterização biológica de acordo com as técnicas e métodos que integram os programas de controlo de qualidade da água.
 
-###### Artigo 7.º-B — Estrutura
+Artigo 7.º-B
+
+Estrutura
 
 1 - O Departamento de Qualidade da Água dispõe dos seguintes serviços:
 
@@ -305,16 +368,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 25 de Janeiro de 1996.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 13 de Fevereiro de 1996.**
+Assinado em 13 de Fevereiro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 3.º
+ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 3.º
 
 Quadro do pessoal do Laboratório Regional de Engenharia Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/057b00/04630466.pdf))](https://files.diariodarepublica.pt/1s/1996/03/057b00/04630466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/057b00/04630466.pdf)

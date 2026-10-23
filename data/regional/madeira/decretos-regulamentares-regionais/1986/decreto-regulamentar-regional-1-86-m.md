@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/02/02700/03100312.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1986-194664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e85be34d06a19d04666baa5fd5525116d9d0256d7da4c206225815c06f262b06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 926c30b4ee0c992e799bb10284b1f0b8dad7a194630c29c626f883b8842c378f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Formas de Provimento
+- Madeira.região Autónoma
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:374778:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:180191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476745:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374778:por
+  label: "Revogado pelo DLR.4/88/M.1988.05.18.ARM, DR. IS [115] de 18/Mai/1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-1988-374778
+  date: '1988-05-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:39Z'
   warnings: []
   errors: []
 ---
@@ -94,27 +135,27 @@ Considerando que importa garantir a uniformidade de critérios relativos ao prov
 
 Assim, nos termos da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o Governo Regional decreta o seguinte:
 
-###### Artigo 1.º O contrato constitui a única forma de provimento dos docentes não efectivos dos ensinos preparatório, secundário e médio.
+Artigo 1.º O contrato constitui a única forma de provimento dos docentes não efectivos dos ensinos preparatório, secundário e médio.
 
-###### Art. 2.º - 1 - Na assinatura do contrato, a Secretaria Regional de Educação será representada pelo director, pelo presidente do conselho directivo do respectivo estabelecimento de ensino ou por quem as suas vezes fizer.
+Art. 2.º - 1 - Na assinatura do contrato, a Secretaria Regional de Educação será representada pelo director, pelo presidente do conselho directivo do respectivo estabelecimento de ensino ou por quem as suas vezes fizer.
 
 2 - A assinatura do contrato corresponde, para todos os efeitos legais, à tomada de posse, dispensando-se as demais formalidades legais.
 
 3 - No acto da assinatura do contrato será inutilizada estampilha fiscal no valor correspondente ao imposto do selo devido pela posse.
 
-###### Art. 3.º - 1 - Os docentes que, tendo adquirido direito a colocação, não possam apresentar-se para assinar ou renovar, nos prazos legalmente estabelecidos, o correspondente contrato e consequente início de funções poderão, por motivo de doença devidamente comprovada, beneficiar do disposto no § único do artigo 4.º do [Decreto-Lei n.º 34945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34945-1945-467010), de 27 de Setembro de 1945.
+Art. 3.º - 1 - Os docentes que, tendo adquirido direito a colocação, não possam apresentar-se para assinar ou renovar, nos prazos legalmente estabelecidos, o correspondente contrato e consequente início de funções poderão, por motivo de doença devidamente comprovada, beneficiar do disposto no § único do artigo 4.º do [Decreto-Lei n.º 34945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34945-1945-467010), de 27 de Setembro de 1945.
 
 2 - Sem prejuízo do disposto no número anterior, considerar-se-ão como tendo entrado em exercício de funções no prazo estabelecido, para todos os efeitos legais, designadamente abono de vencimentos, os docentes que hajam celebrado ou renovado, no ano escolar imediatamente anterior, contrato até 30 de Setembro.
 
-###### Art. 4.º Para efeitos do disposto no artigo 2.º deste diploma, o candidato deverá apresentar-se no respectivo estabelecimento de ensino munido dos impressos de contrato, das estampilhas fiscais exigidas por lei, bem como da declaração de incompatibilidades e do bilhete de identidade, o qual será devolvido após a assinatura do contrato.
+Art. 4.º Para efeitos do disposto no artigo 2.º deste diploma, o candidato deverá apresentar-se no respectivo estabelecimento de ensino munido dos impressos de contrato, das estampilhas fiscais exigidas por lei, bem como da declaração de incompatibilidades e do bilhete de identidade, o qual será devolvido após a assinatura do contrato.
 
-###### Art. 5.º - 1 - O contrato será celebrado num original e 3 cópias, com excepção dos casos referidos no número seguinte.
+Art. 5.º - 1 - O contrato será celebrado num original e 3 cópias, com excepção dos casos referidos no número seguinte.
 
 2 - São automaticamente renovados os contratos dos docentes que tiverem concorrido na situação a que se refere o artigo 4.º do [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho.
 
 3 - A renovação dos contratos referidos no número anterior será feita em averbamento, por apostilha.
 
-###### Art. 6.º - 1 - No prazo de 30 dias, contados a partir da data da assinatura do contrato, os docentes têm de entregar nos respectivos estabelecimentos de ensino os seguintes documentos:
+Art. 6.º - 1 - No prazo de 30 dias, contados a partir da data da assinatura do contrato, os docentes têm de entregar nos respectivos estabelecimentos de ensino os seguintes documentos:
 
 a) Certidão de nascimento ou fotocópia autenticada do bilhete de identidade;
 
@@ -132,15 +173,15 @@ e) Documento comprovativo de ter dado cumprimento às leis do recrutamento milit
 
 4 - Completados os processos, os mesmos serão enviados à Direcção Regional de Finanças, Administração e Pessoal no prazo de 5 dias para efeitos de homologação.
 
-###### Art. 7.º Aos candidatos à 2.ª fase do concurso a que se refere a alínea c) do artigo 9.º do [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho, aplica-se o disposto nos artigos 4.º e 6.º deste diploma.
+Art. 7.º Aos candidatos à 2.ª fase do concurso a que se refere a alínea c) do artigo 9.º do [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho, aplica-se o disposto nos artigos 4.º e 6.º deste diploma.
 
-###### Art. 8.º - 1 - Para efeitos do disposto nos artigos anteriores, os processos individuais dos docentes que mudarem de escola devem ser transferidos, por solicitação do estabelecimento de ensino onde se encontram colocados, de modo que seja respeitado o prazo referido no n.º 1 do artigo 6.º deste diploma.
+Art. 8.º - 1 - Para efeitos do disposto nos artigos anteriores, os processos individuais dos docentes que mudarem de escola devem ser transferidos, por solicitação do estabelecimento de ensino onde se encontram colocados, de modo que seja respeitado o prazo referido no n.º 1 do artigo 6.º deste diploma.
 
 2 - Incorrem em ilícito disciplinar os funcionários que não derem cumprimento ao disposto no número anterior.
 
-###### Art. 9.º O director, o presidente do conselho directivo ou quem as suas vezes fizer é disciplinar e civilmente responsável, perante o Estado e os interessados, pelo não cumprimento do disposto no n.º 4 do artigo 6.º do presente diploma.
+Art. 9.º O director, o presidente do conselho directivo ou quem as suas vezes fizer é disciplinar e civilmente responsável, perante o Estado e os interessados, pelo não cumprimento do disposto no n.º 4 do artigo 6.º do presente diploma.
 
-###### Art. 10.º - 1 - O direito aos vencimentos adquire-se com a assinatura do contrato, salvo o disposto no n.º 2 do artigo 3.º deste diploma.
+Art. 10.º - 1 - O direito aos vencimentos adquire-se com a assinatura do contrato, salvo o disposto no n.º 2 do artigo 3.º deste diploma.
 
 2 - Cessam o exercício de funções e o direito aos respectivos vencimentos os docentes abrangidos por alguma das seguintes situações:
 
@@ -148,21 +189,21 @@ a) Se o docente não der cumprimento ao estabelecido no n.º 1 ou no n.º 2 do a
 
 b) Se o contrato não vier a ser homologado nos termos legalmente estabelecidos a partir da data em que a não homologação for comunicada ao interessado.
 
-###### Art. 11.º Consideram-se nulos e de nenhum efeito os contratos que não obedecerem ao estabelecido no presente diploma.
+Art. 11.º Consideram-se nulos e de nenhum efeito os contratos que não obedecerem ao estabelecido no presente diploma.
 
-###### Art. 12.º Homologado o contrato e depois de obtido o visto da comissão de contas, os respectivos exemplares terão o seguinte destino:
+Art. 12.º Homologado o contrato e depois de obtido o visto da comissão de contas, os respectivos exemplares terão o seguinte destino:
 
 a) O original será arquivado no processo individual do docente existente na Secretaria Regional de Educação;
 
 b) As cópias serão enviadas à escola, uma para o respectivo processo, outra para fazer parte da conta de gerência e a última para o interessado.
 
-###### Art. 13.º - 1 - O contrato expira no termo do prazo, se não for renovado nos termos do artigo 5.º deste diploma, sem prejuízo dos direitos que, para efeitos de colocação ou recondução no ano escolar imediatamente seguinte, por lei sejam ou venham a ser atribuídos aos docentes por ele abrangidos.
+Art. 13.º - 1 - O contrato expira no termo do prazo, se não for renovado nos termos do artigo 5.º deste diploma, sem prejuízo dos direitos que, para efeitos de colocação ou recondução no ano escolar imediatamente seguinte, por lei sejam ou venham a ser atribuídos aos docentes por ele abrangidos.
 
 2 - Sempre que, durante o prazo de vigência do contrato, houver alterações das condições nele previstas, deverão as mesmas ser anotadas no respectivo contrato.
 
 3 - As alterações que se verificarem depois da homologação do contrato serão enviadas à Direcção Regional de Finanças, Administração e Pessoal para conhecimento.
 
-###### Art. 14.º - 1 - O contrato previsto neste diploma pode ser denunciado por qualquer das partes, nas seguintes condições:
+Art. 14.º - 1 - O contrato previsto neste diploma pode ser denunciado por qualquer das partes, nas seguintes condições:
 
 a) Por parte do professor contratado, através de requerimento dirigido ao director regional de Finanças, Administração e Pessoal;
 
@@ -170,29 +211,29 @@ b) Por parte da Secretaria Regional de Educação, em consequência de processo 
 
 2 - O docente que denunciar o contrato nos termos da alínea a) do número anterior não poderá abandonar o serviço sem que a denúncia tenha sido objecto de despacho favorável do director regional de Finanças, Administração e Pessoal, excepto se, decorridos 30 dias após a entrada do requerimento nos serviços administrativos da escola onde se encontra colocado, não tiver obtido qualquer resposta, caso em que se considera o pedido deferido.
 
-###### Art. 15.º - 1 - O docente que tenha denunciado o contrato nos termos do artigo 14.º não poderá prestar serviço durante esse ano escolar em qualquer estabelecimento de ensino oficial.
+Art. 15.º - 1 - O docente que tenha denunciado o contrato nos termos do artigo 14.º não poderá prestar serviço durante esse ano escolar em qualquer estabelecimento de ensino oficial.
 
 2 - O disposto no número anterior poderá, por despacho do Secretário Regional de Educação, proferido caso a caso, ser excepcionado, desde que não haja outra forma de prover carências específicas de docente.
 
-###### Art. 16.º O contrato será firmado ou renovado, nos termos do artigo 5.º deste diploma, em modelos próprios, a aprovar por portaria do Secretário Regional de Educação, que constituem exclusivo da Divisão de Património do Governo Regional.
+Art. 16.º O contrato será firmado ou renovado, nos termos do artigo 5.º deste diploma, em modelos próprios, a aprovar por portaria do Secretário Regional de Educação, que constituem exclusivo da Divisão de Património do Governo Regional.
 
-###### Art. 17.º O presente diploma aplica-se aos docentes a que se refere a alínea a) do n.º 1 do artigo 213.º do Decreto-Lei n.º 37029, de 25 de Agosto de 1948.
+Art. 17.º O presente diploma aplica-se aos docentes a que se refere a alínea a) do n.º 1 do artigo 213.º do Decreto-Lei n.º 37029, de 25 de Agosto de 1948.
 
-###### Art. 18.º - 1 - Os contratos de substituição temporária previstos no artigo 30.º do [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho, são os que resultem de situação de doença ou acidente em serviço, licença de parto ou sem vencimento por período não superior a 90 dias, serviço militar obrigatório ou outro impedimento do respectivo titular cuja duração não seja previsível até ao final do ano lectivo.
+Art. 18.º - 1 - Os contratos de substituição temporária previstos no artigo 30.º do [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho, são os que resultem de situação de doença ou acidente em serviço, licença de parto ou sem vencimento por período não superior a 90 dias, serviço militar obrigatório ou outro impedimento do respectivo titular cuja duração não seja previsível até ao final do ano lectivo.
 
 2 - Não são considerados contratos de substituição os que digam respeito ao preenchimento de horários ainda sem titular nesse ano lectivo ou os resultantes de redução de serviço lectivo nos termos do [Decreto Regulamentar Regional n.º 14/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1985-180191), de 5 de Agosto, aposentação, exoneração, licença ilimitada, licença sem vencimento por 1 ano escolar, atribuição de bolsa de estudo, destacamento, requisição, comissão de serviço ou qualquer outro impedimento dos respectivos titulares cuja validade abranja todo o ano lectivo.
 
-###### Art. 19.º - 1 - Aos docentes que tenham celebrado contrato de substituição temporária e a quem venha a ser de novo atribuído serviço lectivo no decurso do mesmo ano escolar e no mesmo regime será o respectivo contrato renovado por simples averbamento, para novo ou novos períodos, com dispensa de outras formalidades.
+Art. 19.º - 1 - Aos docentes que tenham celebrado contrato de substituição temporária e a quem venha a ser de novo atribuído serviço lectivo no decurso do mesmo ano escolar e no mesmo regime será o respectivo contrato renovado por simples averbamento, para novo ou novos períodos, com dispensa de outras formalidades.
 
 2 - O estabelecido no número anterior não se aplica quando a nova situação implicar alteração de letra de vencimento.
 
-###### Art. 20.º - 1 - Os docentes não profissionalizados, contratados plurianualmente, que pretendam ser opositores à 1.ª fase do concurso regulado pelo [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho, serão para o efeito enquadrados no disposto na alínea d) do n.º 1 do artigo 3.º do mesmo diploma.
+Art. 20.º - 1 - Os docentes não profissionalizados, contratados plurianualmente, que pretendam ser opositores à 1.ª fase do concurso regulado pelo [Decreto Regulamentar Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-181451), de 17 de Junho, serão para o efeito enquadrados no disposto na alínea d) do n.º 1 do artigo 3.º do mesmo diploma.
 
-###### Art. 21.º Serão renovados automaticamente os contratos plurianuais dos docentes que não concorram ao concurso de professores efectivos previsto no [Decreto Regulamentar Regional n.º 18/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1985-181187), de 26 de Agosto, desde que tenham idade superior a 50 anos e, pelo menos, 10 anos de serviço reportado a 30 de Setembro do ano em que ocorrer o concurso.
+Art. 21.º Serão renovados automaticamente os contratos plurianuais dos docentes que não concorram ao concurso de professores efectivos previsto no [Decreto Regulamentar Regional n.º 18/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1985-181187), de 26 de Agosto, desde que tenham idade superior a 50 anos e, pelo menos, 10 anos de serviço reportado a 30 de Setembro do ano em que ocorrer o concurso.
 
-###### Art. 22.º Os docentes contratados plurianualmente a quem seja convertida a componente lectiva nos termos do [Decreto Regulamentar Regional n.º 14/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1985-180191), de 5 de Agosto, passam a regime de contratação anual, situando-se, para efeitos de concurso, na posição de colocados na 1.ª fase.
+Art. 22.º Os docentes contratados plurianualmente a quem seja convertida a componente lectiva nos termos do [Decreto Regulamentar Regional n.º 14/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1985-180191), de 5 de Agosto, passam a regime de contratação anual, situando-se, para efeitos de concurso, na posição de colocados na 1.ª fase.
 
-###### Art. 23.º Os contratos plurianuais caducam em qualquer das seguintes condições:
+Art. 23.º Os contratos plurianuais caducam em qualquer das seguintes condições:
 
 a) Automaticamente, no caso de o docente obter direito a provimento em lugar de professor efectivo;
 
@@ -202,22 +243,22 @@ c) Em 30 de Setembro de cada ano, desde que solicitado em requerimento ao direct
 
 d) Por denúncia, em qualquer altura do ano, nos termos do artigo 14.º do presente diploma, sendo aplicáveis as disposições do artigo 15.º deste decreto regulamentar regional.
 
-###### Art. 24.º - 1 - Os docentes que suspenderem a relação de trabalho, por denúncia, em qualquer altura do ano, no concurso respeitante ao ano escolar seguinte não poderão beneficiar da situação de colocados no concurso imediatamente anterior.
+Art. 24.º - 1 - Os docentes que suspenderem a relação de trabalho, por denúncia, em qualquer altura do ano, no concurso respeitante ao ano escolar seguinte não poderão beneficiar da situação de colocados no concurso imediatamente anterior.
 
 2 - Os docentes a que se refere o número anterior que denunciem o contrato após apresentação de candidatura para o ano escolar seguinte serão excluídos do respectivo concurso.
 
-###### Art. 25.º Os contratos dos docentes já celebrados para o ano escolar de 1985-1986 ao abrigo do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955), de 16 de Novembro, serão regularizados mediante um adicional donde conste que o regime de contrato passa a ser o estabelecido neste diploma.
+Art. 25.º Os contratos dos docentes já celebrados para o ano escolar de 1985-1986 ao abrigo do [Decreto-Lei n.º 342/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1978-325955), de 16 de Novembro, serão regularizados mediante um adicional donde conste que o regime de contrato passa a ser o estabelecido neste diploma.
 
-###### Art. 26.º É aplicado à Região o disposto nos artigos 26.º e 27.º do [Decreto-Lei n.º 381-C/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-c-1985-476745), de 28 de Setembro.
+Art. 26.º É aplicado à Região o disposto nos artigos 26.º e 27.º do [Decreto-Lei n.º 381-C/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-c-1985-476745), de 28 de Setembro.
 
-###### Art. 27.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 27.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional de 5 de Dezembro de 1985.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 23 de Dezembro de 1985.**
+Assinado em 23 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/2005/06/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2005-226664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d96546b5342042ee28bad31f2829a66e67ab4cc1068d47fb990c076561a6bd99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 327a7656e20c85f1d465722e5e84e7e3c00ab35b0883714831223e3f69f82461
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Definição de Competências
-- Vice-presidência do Governo Regional
 - Direcção Regional dos Assuntos Europeus e da Cooperação Externa
-- Gestão do Património
-- Integração de Trabalhadores
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Vice-presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:443934:por
@@ -120,16 +120,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443934:por
+  label: "Revogado pelo DRR.24/2008/M.22.12.2008.PG-RAM, DR.IS [246] de 22.12.2008, sem prejuízo do disposto no nº 2 do art.\
+    \ 2º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2008-443934
+  date: '2008-12-22'
 article_structure:
   article_count: 28
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:14Z'
   warnings: []
   errors: []
 ---
@@ -164,13 +218,15 @@ Aprovado em Conselho do Governo Regional em 28 de Abril de 2005.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 17 de Maio de 2005.**
+Assinado em 17 de Maio de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Natureza e atribuições
 
@@ -434,7 +490,9 @@ b) A Divisão da Agricultura e Pescas;
 
 c) A Divisão dos Assuntos da Concorrência e da Fiscalidade.
 
-###### Artigo 12.º — Divisão do Mercado Interno e Desenvolvimento Sustentável
+###### Artigo 12.º
+
+##### Divisão do Mercado Interno e Desenvolvimento Sustentável
 
 À Divisão do Mercado Interno e Desenvolvimento Sustentável (DMIDS) compete, genericamente, desenvolver e apoiar as actividades da área de competências da DSAE, nos termos referidos nas alíneas a) e b) do n.º 2 do artigo 11.º, competindo-lhe ainda especificamente:
 
@@ -444,7 +502,9 @@ b) Acompanhar e promover a análise das medidas da União Europeia relativas aos
 
 c) Acompanhar as medidas da União Europeia que visam o desenvolvimento das redes transeuropeias.
 
-###### Artigo 13.º — Divisão da Agricultura e Pescas
+###### Artigo 13.º
+
+##### Divisão da Agricultura e Pescas
 
 À Divisão da Agricultura e Pescas (DAP) compete, genericamente, desenvolver e apoiar as actividades da área de competências da DSAE, nos termos referidos na alínea c) do n.º 2 do artigo 11.º, competindo-lhe ainda especificamente:
 
@@ -452,7 +512,9 @@ a) Promover e coordenar, a nível regional, em estreita ligação com os departa
 
 b) Assegurar a articulação, a nível regional, das questões relativas às relações da União Europeia com as organizações internacionais e com países terceiros em matéria de política agrícola e de política das pescas.
 
-###### Artigo 14.º — Divisão dos Assuntos da Concorrência e da Fiscalidade
+###### Artigo 14.º
+
+##### Divisão dos Assuntos da Concorrência e da Fiscalidade
 
 À Divisão dos Assuntos da Concorrência e da Fiscalidade (DACF) compete, genericamente, desenvolver e apoiar as actividades da área de competências da DSAE, nos termos referidos nas alíneas d), e) e f) do n.º 2 do artigo 11.º, competindo-lhe ainda especificamente:
 
@@ -496,7 +558,9 @@ b) A Divisão da Investigação e dos Apoios Comunitários (DIAC);
 
 c) A Divisão dos Assuntos Financeiros e das Estatísticas (DAFE).
 
-###### Artigo 16.º — Divisão das Relações Externas e Investimento Estrangeiro
+###### Artigo 16.º
+
+##### Divisão das Relações Externas e Investimento Estrangeiro
 
 À DREIE compete, genericamente, desenvolver e apoiar as actividades da área de competências da DSAIDR, nos termos referidos nas alíneas a), b) e c) do n.º 2 do artigo 15.º, competindo-lhe ainda especificamente:
 
@@ -506,7 +570,9 @@ b) Assegurar a recolha, tratamento e difusão de elementos informativos actualiz
 
 c) Acompanhar os processos decorrentes de pedidos de adesão e do alargamento da União Europeia.
 
-###### Artigo 17.º — Divisão da Investigação e dos Apoios Comunitários
+###### Artigo 17.º
+
+##### Divisão da Investigação e dos Apoios Comunitários
 
 À DIAC compete, genericamente, desenvolver e apoiar as actividades da área de competências da DSAIDR, nos termos referidos nas alíneas d) e e) do n.º 2 do artigo 15.º, competindo-lhe ainda especificamente:
 
@@ -516,7 +582,9 @@ b) Acompanhar as negociações das questões associadas à aplicação dos fundo
 
 c) Promover e coordenar, em colaboração com os departamentos sectoriais competentes, o estudo e análise das questões ligadas à ciência, investigação, tecnologia e inovação no âmbito da União Europeia, em particular as referentes aos programas quadro de IDT.
 
-###### Artigo 18.º — Divisão dos Assuntos Financeiros e das Estatísticas
+###### Artigo 18.º
+
+##### Divisão dos Assuntos Financeiros e das Estatísticas
 
 À DAFE compete, genericamente, desenvolver e apoiar as actividades da área de competências da DSAIDR, nos termos referidos na alíneas f) e g) do n.º 2 do artigo 15.º, competindo-lhe ainda especificamente:
 

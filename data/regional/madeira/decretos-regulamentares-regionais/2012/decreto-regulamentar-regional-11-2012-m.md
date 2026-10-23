@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/12000/0314603149.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2012/06/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2012-178507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fc7aae2758037ab6821d9a55e486578855e26da2bca78736e31fa55098fdede
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01641501d50019049d22ff6b576c2e97c1e2d6d269763f064ed880a569b4ec3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Diretor Regional
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Direção Regional de Planeamento Recursos e Infraestruturas
+- Diretor Regional
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
 - Subdirector Regional
 relationships:
 - type: amended_by
@@ -105,16 +105,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:73677889:por
+  label: Revogado, a partir de 24.02.2016, pelo(a) Decreto Regulamentar Regional n.º 8/2016/M - Diário da República n.º 37/2016,
+    Série I de 2016-02-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2016-73677889
+  date: '2016-02-23'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:39Z'
   warnings: []
   errors: []
 ---
@@ -153,11 +187,11 @@ O presente decreto regulamentar regional entra em vigor no dia seguinte ao da su
 
 Aprovado em Conselho do Governo Regional em 17 de maio de 2012.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 17 de maio de 2012.**
+Assinado em 17 de maio de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -287,8 +321,8 @@ O património do Instituto do Desporto da Região Autónoma da Madeira, IP-RAM, 
 
 ## ANEXO II — Cargos de direção superior a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12000/0314603149.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12000/0314603149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12000/0314603149.pdf)
 
 ## ANEXO III — Cargos de direção intermédia a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/12000/0314603149.pdf))](https://files.diariodarepublica.pt/1s/2012/06/12000/0314603149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/12000/0314603149.pdf)

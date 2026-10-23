@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2025/10/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2025-939048262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a86187b4a5f86a5acc210d5391e6fbf235cb51039d38ee5bf252744deffd5b98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c265e399b3d7ea622de4d85ce0a168c3e3c4d68523bd264a96e349e353ad585
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Governo Regional
 - Lista Nominativa
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Recursos Humanos
+- Reestruturação de Serviços
 - Secretaria Regional
+- Secretaria Regional dos Equipamentos e Infraestruturas
 - Secretário Regional
 - Secretário Regional dos Equipamentos e Infraestruturas
-- Secretaria Regional dos Equipamentos e Infraestruturas
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:35/2020/M
+  label: Mantém em vigor, com as devidas adaptações, o Decreto Regulamentar Regional n.º 35/2020/M, de 22 de maio, Diário
+    da República n.º 100/2020, Série I, no que se refere às atribuições constantes das alíneas a) a c), g), i) a k), l) e
+    m) a o) do n.º 1 do artigo 3.º, que são prosseguidas pela Direção Regional de Energia até à entrada em vigor do respetivo
+    diploma orgânico
+  source: null
+  date: '2020-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegr
   label: null
@@ -117,16 +125,90 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134305983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898867724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899370950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:916745909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:927416002:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:39/2024/M
+  label: Revoga, a partir de 11 de outubro de 2025, o Decreto Regulamentar Regional n.º 39/2024/M, de 9 de dezembro, Diário
+    da República n.º 238/2024, Série I
+  source: null
+  date: '2024-12-09'
 article_structure:
   article_count: 27
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:55Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +225,7 @@ Para a prossecução das referidas atribuições, esta Secretaria Regional integ
 
 Neste enquadramento, dando cumprimento ao disposto no artigo 12.º do [Decreto Regulamentar Regional n.º 5/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2025-916745909), de 5 de maio, e tendo subjacente os princípios da eficiência e eficácia, corolários da boa Administração Pública, procede-se à aprovação da orgânica da SREI, que assume uma estrutura mais apta e consentânea com as exigências que se lhe colocam, contemplando a necessária reestruturação de serviços executivos, com o intuito de conferir a este departamento do Governo Regional os meios necessários à otimização, simplificação e racionalização imprescindíveis ao funcionamento e à concretização da sua missão, e a dar resposta aos desafios que a Região Autónoma da Madeira enfrenta nos mencionados setores.
 
-Assim, nos termos do disposto na alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, do n.º 3 do artigo 56.º, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, e do artigo 12.º do [Decreto Regulamentar Regional n.º 5/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2025-916745909), de 5 de maio, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos do disposto na alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, do n.º 3 do artigo 56.º, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, e do artigo 12.º do [Decreto Regulamentar Regional n.º 5/2025/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2025-916745909), de 5 de maio, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E COMPETÊNCIAS
 
@@ -459,9 +541,9 @@ c) A Direção Regional de Estradas, no âmbito da reorganização da sua estrut
 
 4 - A nomeação do titular do cargo de direção superior de 2.º grau da Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas, referido no n.º 2 do artigo 12.º e previsto no mapa constante do anexo i, tem lugar após a entrada em vigor do presente diploma.
 
-5 - A reestruturação da Direção Regional de Estradas, prevista na alínea c) do n.º 1, produz efeitos com a entrada em vigor do respetivo diploma orgânico, sem prejuízo do disposto nos n.<sup>os</sup>3 e 4 do artigo seguinte.
+5 - A reestruturação da Direção Regional de Estradas, prevista na alínea c) do n.º 1, produz efeitos com a entrada em vigor do respetivo diploma orgânico, sem prejuízo do disposto nos n.os3 e 4 do artigo seguinte.
 
-6 - Os diplomas legais que procedem à aprovação das orgânicas dos serviços referidos nas alíneas b) e c) do n.º 1 e nos n.<sup>os</sup>3 e 5 são aprovados no prazo de 60 dias a contar da data de entrada em vigor do presente diploma.
+6 - Os diplomas legais que procedem à aprovação das orgânicas dos serviços referidos nas alíneas b) e c) do n.º 1 e nos n.os3 e 5 são aprovados no prazo de 60 dias a contar da data de entrada em vigor do presente diploma.
 
 ###### Artigo 22.º — Transição e manutenção de serviços e de comissões de serviço
 
@@ -499,11 +581,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 25 de setembro de 2025.
 
-**O Secretário Regional de Turismo, Ambiente e Cultura, no exercício da Presidência, António Eduardo de Freitas Jesus.**
+O Secretário Regional de Turismo, Ambiente e Cultura, no exercício da Presidência, António Eduardo de Freitas Jesus.
 
-**Assinado em 8 de outubro de 2025.**
+Assinado em 8 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -532,3 +614,7 @@ Cargos de direção intermédia dos serviços dependentes do Gabinete do Secret�
 |  | Número de lugares |
 | --- | --- |
 | Cargos de direção intermédia de 1.º grau | 2 |
+
+119628775
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:15px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl10 { min-height:18px; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:26px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

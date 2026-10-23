@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/093b00/17881789.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/1997/04/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1997-469203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df9c4c99a477a6479f235d95c70fed20f6c960a5d2b06f2d83ee27e8d73b848a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61b5d9ae0368c57bdfd242838086c1b5b21ca5442e175bc94b3d6cddeec54512
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Definição de Competências
 - Gabinete do Secretário Regional de Agricultura Florestas e Pescas
-- Secretaria Regional da Agricultura Florestas e Pescas
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Agricultura Florestas e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:348315:por
@@ -92,16 +92,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:475950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:348315:por
+  label: "Revogado pelo DRR.11/2001/M.2001.06.15.SRARN-RAM, DR.IS-B [155] de 2001/JUL/06\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2001-348315
+  date: '2001-06-15'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:14Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +159,7 @@ Os artigos 9.º, 18.º e 19.º do [Decreto Regulamentar Regional n.º 3/97/M](ht
 
 3 - Sem prejuízo do disposto no n.º 4 do artigo 25.º, o recrutamento para o cargo de director dos Serviços Administrativos poderá fazer-se de entre chefes de repartição com pelo menos seis anos de serviço na categoria e que possuam a experiência e o perfil profissionais adequados à função.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - O GEP é o serviço de apoio ao Gabinete, no domínio do planeamento e da gestão de meios e recursos afectos à SRA, com as competências previstas no artigo 19.º
 
@@ -142,7 +167,7 @@ Os artigos 9.º, 18.º e 19.º do [Decreto Regulamentar Regional n.º 3/97/M](ht
 
 3 - Sem prejuízo do disposto no n.º 4 do artigo 25.º, o recrutamento para o cargo de chefe de divisão do GEP poderá fazer-se de entre chefes de repartição com pelo menos quatro anos de serviço na categoria e que possuam a experiência e o perfil profissionais adequados à função.
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - ...
 
@@ -168,8 +193,8 @@ Aprovado em Conselho do Governo Regional em 6 de Março de 1997.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 2 de Abril de 1997.**
+Assinado em 2 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

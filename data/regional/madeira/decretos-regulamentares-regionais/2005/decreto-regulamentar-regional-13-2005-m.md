@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/076b00/30603072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2005/04/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2005-548418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39c75d56803231f84232954cc3ae5e3aefe1855d015a44b4165ef90e307dcafa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1f9ef8c68c8eba40fb87747ac6808bf0322b4054b26245fa185586afde01556
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,30 @@ subjects:
 - Definição de Competências
 - Direcção Regional de Formação Profissional
 - Integração de Trabalhadores
-- Secretaria Regional da Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:249548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248482:por
+  label: "Mantido em vigor o presente diploma na parte referente às matérias que transitam para a Secretaria Regional de Educação\
+    \ e Cultura (SREC) pelo DRR.1/2008/M.17.01.2008.PG-RAM, DR.IS [12] de 17.01.2008, até à publicação integral dos diplomas\
+    \ referidos nos nºs 2 do art. 5º e do art. 6º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2008-248482
+  date: '2008-01-17'
+- type: amended_by
+  target: pt:dre:249548:por
+  label: "Determinada a transição de pessoal da DRFP para a DRQP, nos termos do n. 1 do art. 11º e revogado, sem prejuízo\
+    \ do disposto no n.º 2 do art. 10º, o presente diploma, mantido em vigor pelo DRR 1/2008/M, de 17-Jan, na parte referente\
+    \ às matérias que transitam para a SREC até à publicação integral dos diplomas a que se referem os n.os 2 do art. 5.º\
+    \ e do art. 6.º, pelo DRR.8/2008/M.23.04.2008.PG-RAM, DR.IS [80] de 23.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2008-249548
+  date: '2008-04-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/231/1992/10/21/p/dre
   label: null
@@ -118,16 +133,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 34
-  section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 35
+  section_count: 43
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:10Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +217,11 @@ Aprovado em Conselho do Governo Regional em 10 de Março de 2005.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 30 de Março de 2005.**
+Assinado em 30 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ### CAPÍTULO I — Natureza e atribuições
 
@@ -236,7 +295,9 @@ h) Horários de trabalho.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 3.º
+#### SECÇÃO I
+
+###### Artigo 3.º
 
 Estrutura
 
@@ -352,7 +413,9 @@ a) Secção de Processamento e Tesouraria (SPT);
 
 b) Secção de Controlo Orçamental (SCO).
 
-##### SUBSECÇÃO III — Divisão de Apoio Jurídico
+##### SUBSECÇÃO III
+
+##### Divisão de Apoio Jurídico
 
 ###### Artigo 8.º — Natureza e atribuições
 
@@ -372,7 +435,9 @@ e) Preparar, elaborar e executar processos de aquisição de serviços e de empr
 
 f) Elaborar e manter actualizado o arquivo de legislação, bem como providenciar no sentido da difusão de toda a legislação, de interesse para a DRFP.
 
-##### SUBSECÇÃO IV — Divisão de Relações Exteriores e Marketing
+##### SUBSECÇÃO IV
+
+##### Divisão de Relações Exteriores e Marketing
 
 ###### Artigo 9.º — Atribuições
 
@@ -390,7 +455,9 @@ e) Promover, implementar e apoiar a cooperação e os intercâmbios nacionais co
 
 f) Planear, promover, implementar e avaliar programas e iniciativas comunitárias no âmbito da formação profissional, em colaboração com a DSFP.
 
-##### SUBSECÇÃO V — Divisão da Qualidade
+##### SUBSECÇÃO V
+
+##### Divisão da Qualidade
 
 ###### Artigo 10.º — Atribuições
 
@@ -458,7 +525,9 @@ c) Divisão de Inserção na Vida Activa (DIVA);
 
 d) Divisão de Projectos Inovadores de Formação (DPIF).
 
-##### SUBSECÇÃO I — Divisão de Coordenação da Actividade Formativa
+##### SUBSECÇÃO I
+
+##### Divisão de Coordenação da Actividade Formativa
 
 ###### Artigo 12.º — Atribuições e estrutura
 
@@ -486,7 +555,9 @@ j) Assegurar, em articulação com a DOA, acções de acompanhamento vocacional.
 
 2 - Na dependência da DCAF funciona a Secção de Formadores (SF).
 
-##### SUBSECÇÃO II — Divisão de Orientação e Acompanhamento
+##### SUBSECÇÃO II
+
+##### Divisão de Orientação e Acompanhamento
 
 ###### Artigo 13.º — Atribuições
 
@@ -514,7 +585,9 @@ j) Operacionalizar mecanismos de justificação de faltas dos formandos;
 
 l) Organizar e acompanhar visitas de estudo à DRFP.
 
-##### SUBSECÇÃO III — Divisão de Inserção na Vida Activa
+##### SUBSECÇÃO III
+
+##### Divisão de Inserção na Vida Activa
 
 ###### Artigo 14.º — Atribuições e estrutura
 
@@ -540,7 +613,9 @@ i) Fornecer à DCFP os elementos necessários à elaboração e formalização d
 
 2 - Na dependência da DIVA funciona a Secção de Apoio aos Formandos (SAF).
 
-##### SUBSECÇÃO IV — Divisão de Projectos Inovadores de Formação
+##### SUBSECÇÃO IV
+
+##### Divisão de Projectos Inovadores de Formação
 
 ###### Artigo 15.º — Atribuições
 
@@ -594,7 +669,9 @@ b) Departamento para Pagamentos do Fundo Social Europeu (DPFSE);
 
 c) Departamento de Documentação do Fundo Social Europeu.
 
-##### SUBSECÇÃO I — Divisão de Análise Financeira
+##### SUBSECÇÃO I
+
+##### Divisão de Análise Financeira
 
 ###### Artigo 17.º — Atribuições
 
@@ -606,7 +683,9 @@ b) Articular com o GCPA no sentido de poder certificar técnica, pedagógica e c
 
 c) Propor a emissão das ordens de pagamento relativas às acções aprovadas no âmbito do Fundo Social Europeu.
 
-##### SUBSECÇÃO II — Divisão de Certificação Profissional
+##### SUBSECÇÃO II
+
+##### Divisão de Certificação Profissional
 
 ###### Artigo 18.º — Atribuições
 
@@ -682,7 +761,9 @@ d) Divisão de Informática e Comunicações (DIC).
 
 3 - Na dependência da DSAFP funcionam ainda o Gabinete de Coordenação Financeira e Património (GCFP) e o Departamento Administrativo (DA).
 
-##### SUBSECÇÃO I — Divisão de Gestão de Recursos Humanos
+##### SUBSECÇÃO I
+
+##### Divisão de Gestão de Recursos Humanos
 
 ###### Artigo 22.º — Atribuições e estrutura
 
@@ -712,7 +793,9 @@ l) Exercer as demais funções que lhe sejam cometidas no âmbito da gestão de 
 
 2 - Na dependência da DGRH funciona a Secção de Pessoal (SP).
 
-##### SUBSECÇÃO II — Divisão de Aprovisionamento e Gestão de Stocks
+##### SUBSECÇÃO II
+
+##### Divisão de Aprovisionamento e Gestão de Stocks
 
 ###### Artigo 23.º — Atribuições e estrutura
 
@@ -730,7 +813,9 @@ e) Executar todas as demais tarefas que decorram do normal desempenho das suas f
 
 2 - Na dependência da DAGS funciona a Secção de Armazém e Compras (SAC).
 
-##### SUBSECÇÃO III — Divisão de Coordenação Financeira de Projectos
+##### SUBSECÇÃO III
+
+##### Divisão de Coordenação Financeira de Projectos
 
 ###### Artigo 24.º — Atribuições e estrutura
 
@@ -748,7 +833,9 @@ e) Desempenhar outras funções de natureza financeira directamente relacionadas
 
 2 - Na dependência da DCFP funciona a Secção de Imputação e Classificação de Custos (SICC).
 
-##### SUBSECÇÃO IV — Divisão de Informática e Comunicações
+##### SUBSECÇÃO IV
+
+##### Divisão de Informática e Comunicações
 
 ###### Artigo 25.º — Atribuições
 
@@ -830,7 +917,9 @@ m) Elaborar os planos e relatórios de actividades da DRFP.
 
 2 - Na dependência da DSEEA funciona a Divisão de Estudos e Avaliação (DEA).
 
-##### SUBSECÇÃO I — Divisão de Estudos e Avaliação
+##### SUBSECÇÃO I
+
+##### Divisão de Estudos e Avaliação
 
 ###### Artigo 28.º — Atribuições e estrutura
 

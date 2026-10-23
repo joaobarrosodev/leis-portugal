@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/10300/0001800021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/17/2021/05/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/17-2021-164144647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab03f0b3f6d90262455439f911893c4d7a6d60d526fecd11ecf145e9b16b69ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e770e8e2387d30ab4a72e5c39efb34c57bc43724dba594b1bc18bf932ef796af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Desporto
-- Região Autónoma
 - Assembleia Legislativa Regional
+- Desporto
 - Desporto Escolar
+- Ensino Superior
 - Estatuto
 - Estudante
 - Madeira.região Autónoma
-- Ensino Superior
-- Desporto
+- Região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/55/2019/04/24/p/dre
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:122157759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:12Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +178,9 @@ b) Os alunos matriculados que são indicados pelas Associações e Federações 
 
 3 - Para efeitos dos artigos seguintes, consideram-se estudantes atletas das Regiões Autónomas todos os alunos inscritos em estabelecimentos de ensino superior situados nas Regiões Autónomas, bem como, todos aqueles que estejam inscritos em qualquer outro estabelecimento de ensino superior, desde que tenham utilizado o contingente especial de acesso das Regiões Autónomas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -174,7 +192,9 @@ a) Os Participantes em campeonatos nacionais que pressuponham, pelo menos, uma s
 
 b) Considera-se uma saída mensal de curta duração uma saída mensal não superior a 3 dias e uma saída esporádica de longa duração aquelas que sejam por período igual ou superior a 7 dias.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -186,7 +206,9 @@ b) Considera-se uma saída mensal de curta duração uma saída mensal não supe
 
 5 - No ano letivo em que requeiram a atribuição do estatuto, os estudantes referidos no n.º 2 do artigo 2.º devem ter participado, na qualidade de árbitro ou equiparado, em pelo menos 25 % dos jogos das competições nacionais da respetiva modalidade desportiva.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 [...]:
 
@@ -226,4 +248,6 @@ O presente diploma entra em vigor após a sua publicação.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de abril de 2021.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+114260206

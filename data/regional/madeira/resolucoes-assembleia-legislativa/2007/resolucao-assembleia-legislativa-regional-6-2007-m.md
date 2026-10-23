@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/6/2007/03/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/6-2007-519244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfbbe8312e9a83681c02356c8e0a6b9f4d1a737a77261dfc00bac9e7be1be526
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 282e0155f9c8248b753a41712124d5ab814f883739796ad593b03afefc0718c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Autarquia Local
 - Gestão Financeira
 - Gestão Orçamental
 - Inconstitucionalidade
 - Legalidade
 - Lei das Finanças Locais
-- Orçamento Geral do Estado
 - Madeira.região Autónoma
-- Autarquia Local
+- Orçamento Geral do Estado
+- Região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1998/02/24/p/dre
@@ -97,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:11Z'
   warnings: []
   errors: []
 ---
@@ -137,4 +157,4 @@ A Assembleia Legislativa da Madeira, nos termos dos artigos 239.º e 240.º, al�
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 8 de Fevereiro de 2007.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

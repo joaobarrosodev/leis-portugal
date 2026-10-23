@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05800/08810884.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1983-309959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67fccbbd88dcae1cb898492feff571fb52026da538402c43d5bb59c7864cd67b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9604ee712a6ae0e2770c7efd23fe2c8a0f5fafb3dc3861eb81f2bfde8d8d3732
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Ensino Primário
+- Madeira.região Autónoma
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:507834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:507834:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 5/88/M - Diário da República n.º 121/1988, 1º Suplemento, Série
+    I de 1988-05-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-1988-507834
+  date: '1988-05-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:23Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +135,11 @@ O Governo Regional decreta, nos termos do artigo 7.º do [Decreto-Lei n.º 364/7
 
 ### CAPÍTULO I — Do preenchimento de lugares vagos e disponíveis existentes no ensino primário
 
-###### Artigo 1.º O preenchimento de lugares vagos e disponíveis após a colocação dos titulares de lugares suspensos que não possa ter sido assegurado pelos professores efectivos do ensino primário será feito por professores profissionalizados não efectivos, desde que habilitados com o curso das escolas do magistério primário ou equivalente, diplomados com o curso especial a que se refere o [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643), de 7 de Fevereiro, e ainda por professores colocados ao abrigo da preferência conjugal.
+Artigo 1.º O preenchimento de lugares vagos e disponíveis após a colocação dos titulares de lugares suspensos que não possa ter sido assegurado pelos professores efectivos do ensino primário será feito por professores profissionalizados não efectivos, desde que habilitados com o curso das escolas do magistério primário ou equivalente, diplomados com o curso especial a que se refere o [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643), de 7 de Fevereiro, e ainda por professores colocados ao abrigo da preferência conjugal.
 
-###### Art. 2.º O preenchimento de lugares referido no artigo anterior far-se-á de acordo com as regras estabelecidas no presente diploma.
+Art. 2.º O preenchimento de lugares referido no artigo anterior far-se-á de acordo com as regras estabelecidas no presente diploma.
 
-###### Art. 3.º Para efeitos do mencionado no artigo 2.º, os candidatos serão ordenados de acordo com as seguintes prioridades:
+Art. 3.º Para efeitos do mencionado no artigo 2.º, os candidatos serão ordenados de acordo com as seguintes prioridades:
 
 a) Professores profissionalizados não efectivos que requeiram a sua recondução na escola onde se encontram colocados;
 
@@ -109,9 +147,9 @@ b) Professores efectivos casados com funcionários ou agentes do Estado e dos co
 
 c) Professores profissionalizados não efectivos que no ano escolar imediatamente anterior ao que o concurso respeita já se encontrassem em serviço oficial no âmbito do Ministério da Educação ou da Secretaria Regional da Educação da RAM ou da Secretaria Regional da Educação e Cultura da RAA e ainda por novo candidatos, desde que portadores das habilitações referidas no artigo 1.º deste diploma.
 
-###### Art. 4.º O preenchimento dos lugares vagos e disponíveis far-se-á por concurso anual, o qual será realizado numa fase única.
+Art. 4.º O preenchimento dos lugares vagos e disponíveis far-se-á por concurso anual, o qual será realizado numa fase única.
 
-###### Art. 5.º Compete à Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário, no que se refere ao concurso previsto no artigo anterior:
+Art. 5.º Compete à Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário, no que se refere ao concurso previsto no artigo anterior:
 
 a) Determinar os lugares considerados vagos e disponíveis para todo o ano escolar e fixá-los até 30 de Julho nos locais de estilo;
 
@@ -125,7 +163,7 @@ e) Proceder às reconduções e colocações relativas ao concurso de acordo com
 
 ### CAPÍTULO II — Das reconduções
 
-###### Art. 6.º - 1 - Para efeitos do disposto na alínea a) do artigo 3.º, entende-se por recondução a renovação da colocação do professor na escola onde exerce funções.
+Art. 6.º - 1 - Para efeitos do disposto na alínea a) do artigo 3.º, entende-se por recondução a renovação da colocação do professor na escola onde exerce funções.
 
 2 - Podem solicitar a recondução os professores que, cumulativamente, reúnam as seguintes condições:
 
@@ -139,17 +177,17 @@ a) Os colocados por concurso em lugares que entraram em funcionamento depois de 
 
 b) Os colocados depois de 1 de Outubro por erros imputáveis à Administração, reconhecidos, caso a caso, por despacho do Secretário Regional da Educação.
 
-###### Art. 7.º O provimento resultante das reconduções far-se-á independentemente de quaisquer formalidades legais, inclusive o visto da Comissão de Contas.
+Art. 7.º O provimento resultante das reconduções far-se-á independentemente de quaisquer formalidades legais, inclusive o visto da Comissão de Contas.
 
-###### Art. 8.º Os pedidos de recondução serão apresentados no prazo de 10 dias úteis contado a partir do dia seguinte ao da publicação no Jornal Oficial da Região da lista definitiva da colocação de professores efectivos do ensino primário, através do preenchimento do boletim de concurso referido no artigo 11.º deste diploma, o qual deverá ser acompanhado da respectiva ficha profissional.
+Art. 8.º Os pedidos de recondução serão apresentados no prazo de 10 dias úteis contado a partir do dia seguinte ao da publicação no Jornal Oficial da Região da lista definitiva da colocação de professores efectivos do ensino primário, através do preenchimento do boletim de concurso referido no artigo 11.º deste diploma, o qual deverá ser acompanhado da respectiva ficha profissional.
 
 ### CAPÍTULO III — Da preferência conjugal
 
-###### Art. 9.º - 1 - Os pedidos de colocação ao abrigo da alínea b) do artigo 3.º do presente diploma serão apresentados em requerimento, feito em papel selado, dirigido ao director Regional de Finanças, Administração e Pessoal, acompanhado de certidão do estado civil, prova da situação profissional do cônjuge e da respectiva ficha profissional e ainda de atestado de residência ou de documento comprovativo do local de trabalho do cônjuge, passado pelo competente serviço.
+Art. 9.º - 1 - Os pedidos de colocação ao abrigo da alínea b) do artigo 3.º do presente diploma serão apresentados em requerimento, feito em papel selado, dirigido ao director Regional de Finanças, Administração e Pessoal, acompanhado de certidão do estado civil, prova da situação profissional do cônjuge e da respectiva ficha profissional e ainda de atestado de residência ou de documento comprovativo do local de trabalho do cônjuge, passado pelo competente serviço.
 
 2 - O processo a que se refere o número anterior será apresentado no prazo de 10 dias úteis, contado a partir do dia seguinte ao da publicação no Jornal Oficial da lista definitiva de colocações de professores efectivos do ensino primário.
 
-###### Art. 10.º - 1 - A colocação ao abrigo da preferência conjugal obedecerá às seguintes condições:
+Art. 10.º - 1 - A colocação ao abrigo da preferência conjugal obedecerá às seguintes condições:
 
 a) Consideram-se funcionários ou agentes os indivíduos que se encontrem em lugares do quadro ou contratados além do quadro e ainda os eventuais em tempo completo há mais de 1 ano em serviços e organismos da Administração Central, Regional e Local, das Forças Armadas, da Administração Pública, mesmo na situação de aposentação, reforma ou reserva;
 
@@ -169,7 +207,7 @@ c) O candidato terá de optar pela localidade ou freguesia onde o cônjuge exer�
 
 ### CAPÍTULO IV — Da abertura do concurso
 
-###### Art. 11.º - 1 - Em cada ano escolar considera-se aberto, independentemente de quaisquer formalidades legais, o concurso referido no artigo 4.º do presente diploma a partir do dia seguinte ao da publicação no Jornal Oficial da Região da lista definitiva de colocações dos professores efectivos do ensino primário.
+Art. 11.º - 1 - Em cada ano escolar considera-se aberto, independentemente de quaisquer formalidades legais, o concurso referido no artigo 4.º do presente diploma a partir do dia seguinte ao da publicação no Jornal Oficial da Região da lista definitiva de colocações dos professores efectivos do ensino primário.
 
 2 - O concurso referido no número anterior estará aberto pelo prazo de 10 dias úteis, durante o qual os candidatos apresentarão, nesta Região Autónoma, e só nesta, os respectivos boletins de concurso e ficha profissional.
 
@@ -179,11 +217,11 @@ c) O candidato terá de optar pela localidade ou freguesia onde o cônjuge exer�
 
 5 - Relativamente a cada ano escolar, são excluídos do concurso os professores que se candidatem em mais do que uma região autónoma ou um distrito escolar.
 
-###### Art. 12.º Os candidatos que desejem ser colocados em região autónoma ou distrito escolar diferentes daquela ou daquele em que exercem funções apresentarão, além dos documentos referidos no artigo anterior, uma declaração devidamente autenticada com selo branco ou carimbo a óleo em uso nos respectivos serviços do tempo de serviço prestado até 31 de Maio anterior e do escalão de candidatura em que devem ser ordenados.
+Art. 12.º Os candidatos que desejem ser colocados em região autónoma ou distrito escolar diferentes daquela ou daquele em que exercem funções apresentarão, além dos documentos referidos no artigo anterior, uma declaração devidamente autenticada com selo branco ou carimbo a óleo em uso nos respectivos serviços do tempo de serviço prestado até 31 de Maio anterior e do escalão de candidatura em que devem ser ordenados.
 
 ### CAPÍTULO V — Da ordenação dos candidatos
 
-###### Art. 13.º - 1 - Os candidatos referidos nas alíneas a) e b) do artigo 3.º serão ordenados, dentro de cada uma delas, por ordem da sua graduação profissional, fixada nos termos dos artigos 10.º, 11.º e 12.º do [Decreto Regulamentar Regional n.º 14/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1982-394900), de 12 de Julho.
+Art. 13.º - 1 - Os candidatos referidos nas alíneas a) e b) do artigo 3.º serão ordenados, dentro de cada uma delas, por ordem da sua graduação profissional, fixada nos termos dos artigos 10.º, 11.º e 12.º do [Decreto Regulamentar Regional n.º 14/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1982-394900), de 12 de Julho.
 
 2 - Os restantes candidatos serão ordenados pelos escalões definidos nas alíneas seguintes e por ordem da sua graduação profissional fixada nos termos dos artigos 10.º, 11.º e 12.º do [Decreto Regulamentar Regional n.º 14/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1982-394900):
 
@@ -205,7 +243,7 @@ g) Candidatos não incluídos nas alíneas anteriores que façam prova de possui
 
 ### CAPÍTULO VI — Do mecanismo do concurso
 
-###### Art. 14.º No boletim de concurso os candidatos poderão indicar, por ordem de prioridades:
+Art. 14.º No boletim de concurso os candidatos poderão indicar, por ordem de prioridades:
 
 a) Um máximo de 40 escolas primárias situadas nesta Região Autónoma;
 
@@ -213,29 +251,29 @@ b) Um máximo de 5 concelhos desta Região Autónoma;
 
 c) Toda a Região Autónoma.
 
-###### Art. 15.º - 1 - Os candidatos ao concurso poderão apresentar na Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário reclamação à lista ordenada provisória referida na alínea c) do artigo 5.º nos 5 dias subsequentes à sua afixação.
+Art. 15.º - 1 - Os candidatos ao concurso poderão apresentar na Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário reclamação à lista ordenada provisória referida na alínea c) do artigo 5.º nos 5 dias subsequentes à sua afixação.
 
 2 - Da lista definitiva que vier a ser afixada nos termos da alínea d) do artigo 5.º caberá apenas recurso hierárquico, a interpor no prazo de 30 dias, contado a partir da afixação da respectiva lista.
 
-###### Art. 16.º Os professores que vierem a ser colocados ao abrigo do concurso referido no artigo 4.º do presente diploma que não aceitarem a colocação que lhes vier a ser atribuída de acordo com as preferência por eles manifestadas não poderão ser colocados no respectivo ano escolar e no seguinte em exercício de funções no ensino oficial.
+Art. 16.º Os professores que vierem a ser colocados ao abrigo do concurso referido no artigo 4.º do presente diploma que não aceitarem a colocação que lhes vier a ser atribuída de acordo com as preferência por eles manifestadas não poderão ser colocados no respectivo ano escolar e no seguinte em exercício de funções no ensino oficial.
 
 ### CAPÍTULO VII — Do exercício de funções e abonos aos professores não efectivos
 
-###### Art. 17.º - 1 - As nomeações dos professores não efectivos coincidem com a data a partir da qual os mesmos adquirem direito ao correspondente abono de vencimentos e são da competência do Secretário Regional da Educação, que a poderá delegar no director Regional de Finanças, Administração e Pessoal.
+Art. 17.º - 1 - As nomeações dos professores não efectivos coincidem com a data a partir da qual os mesmos adquirem direito ao correspondente abono de vencimentos e são da competência do Secretário Regional da Educação, que a poderá delegar no director Regional de Finanças, Administração e Pessoal.
 
 2 - As colocações decorrentes do concurso previsto neste diploma reportam-se sempre a 1 de Outubro do respectivo ano escolar, sendo devidos vencimentos aos respectivos professores ininterruptamente desde essa data até 30 de Setembro seguinte.
 
-###### Art. 18.º As nomeações dos professores profissionalizados não efectivos do ensino primário consideram-se sempre efectuadas por conveniência urgente de serviço público, aplicando-se-lhes o disposto no artigo 3.º o do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+Art. 18.º As nomeações dos professores profissionalizados não efectivos do ensino primário consideram-se sempre efectuadas por conveniência urgente de serviço público, aplicando-se-lhes o disposto no artigo 3.º o do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
 
-###### Art. 19.º Os vencimentos dos professores não efectivos são processados pelas respectivas delegações escolares.
+Art. 19.º Os vencimentos dos professores não efectivos são processados pelas respectivas delegações escolares.
 
-###### Art. 20.º A colocação dos professores efectivos ao abrigo da preferência conjugal far-se-á em regime de requisição prevista na alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, ou de legislação que lhe vier a ser subsequente.
+Art. 20.º A colocação dos professores efectivos ao abrigo da preferência conjugal far-se-á em regime de requisição prevista na alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, ou de legislação que lhe vier a ser subsequente.
 
-###### Art. 21.º - 1 - As nomeações dos professores não efectivos poderão ser renovadas por despacho do Secretário regional da Educação, com dispensa de todas as formalidades legais, incluindo o visto da Comissão de Contas, sempre que as mesmas tenham decorrido do concurso previsto neste diploma.
+Art. 21.º - 1 - As nomeações dos professores não efectivos poderão ser renovadas por despacho do Secretário regional da Educação, com dispensa de todas as formalidades legais, incluindo o visto da Comissão de Contas, sempre que as mesmas tenham decorrido do concurso previsto neste diploma.
 
 2 - O disposto no número anterior não se aplica às situações em que o nomeado não possua vínculo ao Ministério da Educação ou à Secretaria Regional da Educação da RAM.
 
-###### Art. 22.º - 1 - Consideram-se vinculados à Secretaria Regional da Educação até 30 de Setembro do ano escolar a que a colocação respeita:
+Art. 22.º - 1 - Consideram-se vinculados à Secretaria Regional da Educação até 30 de Setembro do ano escolar a que a colocação respeita:
 
 a) Os professores colocados ao abrigo do presente diploma;
 
@@ -245,7 +283,7 @@ b) Os professores já em exercício de funções docentes no ano lectivo anterio
 
 3 - Aos professores vinculados no n.º 1 são devidos vencimentos desde 1 de Outubro a 30 de Setembro seguinte.
 
-###### Art. 23.º - 1 - Os professores vinculados à Secretaria Regional da Educação, nos termos do n.º 1 do artigo anterior consideram-se, para todos os efeitos legais, em serviço desde 1 de Outubro do respectivo ano escolar.
+Art. 23.º - 1 - Os professores vinculados à Secretaria Regional da Educação, nos termos do n.º 1 do artigo anterior consideram-se, para todos os efeitos legais, em serviço desde 1 de Outubro do respectivo ano escolar.
 
 2 - Os vencimentos dos professores referidos no número anterior serão processados:
 
@@ -253,24 +291,24 @@ a) Pelas delegações escolares, no caso de a sua situação ser a prevista na a
 
 b) Pela Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário ou pelas delegações escolares, no caso de, sendo a sua situação a prevista na alínea b) do n.º 1 do artigo 22.º, lhes terem sido atribuídas funções nos termos do n.º 2 do mesmo artigo.
 
-###### Art. 24.º Aos professores não efectivos que não se integrem nas situações descritas no artigo 22.º do presente diploma é aplicável o estabelecido nos artigos 1.º, 3.º e 7.º do [Decreto-Lei n.º 354/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1974-475555), de 14 de Agosto.
+Art. 24.º Aos professores não efectivos que não se integrem nas situações descritas no artigo 22.º do presente diploma é aplicável o estabelecido nos artigos 1.º, 3.º e 7.º do [Decreto-Lei n.º 354/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1974-475555), de 14 de Agosto.
 
 ### CAPÍTULO VIII — Disposições finais e transitórias
 
-###### Art. 25.º A colocação dos professores do ensino primário ao abrigo do presente diploma prevalece sobre qualquer outra colocação resultante de os respectivos interessados terem sido opositores a outro concurso e em resultado do qual hajam obtido direito a outro tipo de colocação na qualidade de professor não efectivo, salvo se, aquando da candidatura, apresentarem declaração expressa de opção.
+Art. 25.º A colocação dos professores do ensino primário ao abrigo do presente diploma prevalece sobre qualquer outra colocação resultante de os respectivos interessados terem sido opositores a outro concurso e em resultado do qual hajam obtido direito a outro tipo de colocação na qualidade de professor não efectivo, salvo se, aquando da candidatura, apresentarem declaração expressa de opção.
 
-###### Art. 26.º A distribuição de todos os professores do ensino primário pelos edifícios da mesma escola será feita no âmbito do conselho escolar, constituindo sempre factor de preferência, na inexistência de acordo, a maior antiguidade do professor na respectiva escola.
+Art. 26.º A distribuição de todos os professores do ensino primário pelos edifícios da mesma escola será feita no âmbito do conselho escolar, constituindo sempre factor de preferência, na inexistência de acordo, a maior antiguidade do professor na respectiva escola.
 
-###### Art. 27.º O presente diploma poderá ser regulamentado nos termos legais.
+Art. 27.º O presente diploma poderá ser regulamentado nos termos legais.
 
-###### Art. 28.º Os encargos resultantes da aplicação do presente diploma continuam a ser suportados pelas verbas inscritas nas competentes rubricas orçamentais da Secretaria Regional da Educação a favor da Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário.
+Art. 28.º Os encargos resultantes da aplicação do presente diploma continuam a ser suportados pelas verbas inscritas nas competentes rubricas orçamentais da Secretaria Regional da Educação a favor da Divisão Administrativa e de Pessoal dos Ensinos Pré-Primário e Primário.
 
-###### Art. 29.º É revogada toda a legislação em contrário.
+Art. 29.º É revogada toda a legislação em contrário.
 
 Aprovado em Plenário do Governo aos 6 de Janeiro de 1983.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 1 de Fevereiro de 1983.**
+Assinado em 1 de Fevereiro de 1983.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

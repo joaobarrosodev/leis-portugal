@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/04/09800/10111019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1986-195193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3dbfbc218303b1c1489131ddcf42285014ba508e46e44b2abbd4302fcf3012f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b6d14167b6c22e78ceb4186f8377ebd541554514873626cca8281d96268d943
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional do Plano
 relationships:
 - type: amended_by
   target: pt:dre:612463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:665893:por
+  label: Alterado o presente diploma pelo(a) Decreto Regulamentar Regional n.º 7/87/M - Diário da República n.º 92/1987, Série
+    I de 1987-04-21, que procedeu à criação das Divisões do Controle Orçamental e das Finanças Locais, integradas na Direção
+    Regional de Finanças, assim como alterou o quadro de pessoal que lhe está anexo.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1987-665893
+  date: '1987-04-21'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615007:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612463:por
+  label: Revogado, a partir de 19.02.1989, pelo(a) Decreto Regulamentar Regional n.º 8/89/M - Diário da República n.º 41/1989,
+    Série I de 1989-02-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1989-612463
+  date: '1989-02-18'
 article_structure:
-  article_count: 28
+  article_count: 27
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:45Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +138,9 @@ Nestes termos:
 
 O Governo da Região Autónoma da Madeira decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada a Lei Orgânica da Secretaria Regional do Plano, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a Lei Orgânica da Secretaria Regional do Plano, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º - 1 - A orgânica e a estrutura da Direcção Regional de Portos, bem como o respectivo quadro de pessoal, são os constantes do Decreto Legislativo Regional n.º 20/81/M, de 2 de Outubro.
+Art. 2.º - 1 - A orgânica e a estrutura da Direcção Regional de Portos, bem como o respectivo quadro de pessoal, são os constantes do Decreto Legislativo Regional n.º 20/81/M, de 2 de Outubro.
 
 2 - As competências atribuídas à Direcção Regional de Transportes, no domínio dos transportes marítimos, pelo [Decreto Regulamentar Regional n.º 17/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1982-374624), de 31 de Agosto, passam a ser exercidas pela Direcção Regional de Portos.
 
@@ -110,27 +150,27 @@ Realizar os serviços de transporte marítimo de passageiros e mercadorias deter
 
 4 - É criado na Direcção Regional de Portos o Serviço do Porto do Porto Santo, cujo quadro de pessoal é publicado em anexo ao presente diploma (anexo III) e dele faz parte integrante.
 
-###### Art. 3.º - 1 - A orgânica e a estrutura da Direcção Regional de Aeroportos, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Legislativo Regional n.º 3/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1983-310399), de 16 de Março.
+Art. 3.º - 1 - A orgânica e a estrutura da Direcção Regional de Aeroportos, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Legislativo Regional n.º 3/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1983-310399), de 16 de Março.
 
 2 - As competências atribuídas à Direcção Regional de Transportes, no domínio dos transportes aéreos, pelo [Decreto Regulamentar Regional n.º 17/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1982-374624), de 31 de Agosto, passam a ser exercidas pela Direcção Regional de Aeroportos.
 
-###### Art. 4.º A orgânica e a estrutura do Serviço Regional de Estatística da Madeira, bem como o respectivo quadro de pessoal, são as constantes do Decreto Regulamentar Regional n.º 14/M/80, de 31 de Dezembro.
+Art. 4.º A orgânica e a estrutura do Serviço Regional de Estatística da Madeira, bem como o respectivo quadro de pessoal, são as constantes do Decreto Regulamentar Regional n.º 14/M/80, de 31 de Dezembro.
 
-###### Art. 5.º A orgânica e a estrutura dos Serviços de Informática, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Regulamentar Regional n.º 30/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1983-444422), de 23 de Dezembro.
+Art. 5.º A orgânica e a estrutura dos Serviços de Informática, bem como o respectivo quadro de pessoal, são os constantes do [Decreto Regulamentar Regional n.º 30/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1983-444422), de 23 de Dezembro.
 
-###### Art. 6.º Ficam revogados os Decretos Regulamentares Regionais n.os [17/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1982-374624), de 31 de Agosto, e [11/80/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1980-457425), de 10 de Novembro.
+Art. 6.º Ficam revogados os Decretos Regulamentares Regionais n.os [17/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1982-374624), de 31 de Agosto, e [11/80/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1980-457425), de 10 de Novembro.
 
-###### Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 27 de Fevereiro de 1986.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 19 de Março de 1986.**
+Assinado em 19 de Março de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 LEI ORGÂNICA DA SECRETARIA REGIONAL DO PLANO
 
@@ -536,8 +576,8 @@ As condições de ingresso, acesso e carreira profissional, provimento e suas fo
 
 ###### Artigo 27.º
 
-**O Secretário Regional do Plano poderá autorizar, quando tal se justifique, o recrutamento de pessoal além do quadro destinado a ocorrer a necessidades eventuais, transitórias ou extraordinárias da Secretaria Regional.**
+O Secretário Regional do Plano poderá autorizar, quando tal se justifique, o recrutamento de pessoal além do quadro destinado a ocorrer a necessidades eventuais, transitórias ou extraordinárias da Secretaria Regional.
 
 Do ANEXO I ao ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/04/09800/10111019.pdf))](https://files.diariodarepublica.pt/1s/1986/04/09800/10111019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/09800/10111019.pdf)

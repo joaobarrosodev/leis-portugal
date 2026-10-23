@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/21800/0011900128.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2023/11/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2023-224081980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7115a41e5eb973b21c485fa1987d78da2bea9a72668b745d6d6607af235d3578
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28ac38f871a45adaa472b85096c7b0cb8fc2ed4e6ff947ad8f2b9180368e9c6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional do Turismo e Cultura
-- Governo Regional
-- Presidência do Governo Regional
+- Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação
 - Gestão Orçamental
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
-- Secretaria Regional das Finanças
+- Observatório do Transporte Aéreo
+- Orgânica
+- Presidência do Governo Regional
 - Secretaria Regional da Agricultura e Ambiente
-- Secretaria Regional dos Equipamentos e Infraestruturas
 - Secretaria Regional da Educação Ciência e Tecnologia
 - Secretaria Regional da Saúde e Proteção Civil
-- Secretário Regional de Inclusão e Juventude
+- Secretaria Regional das Finanças
 - Secretaria Regional de Economia Mar e Pescas
-- Observatório do Transporte Aéreo
-- Agência Regional para o Desenvolvimento da Investigação
-- Tecnologia e Inovação
-- Unidade de Implementação da Estratégia Regional de Especialização Inteligente
+- Secretaria Regional do Turismo e Cultura
+- Secretaria Regional dos Equipamentos e Infraestruturas
+- Secretário Regional de Inclusão e Juventude
 - Transportes Integrados e Intermodais da Madeira
+- Unidade de Implementação da Estratégia Regional de Especialização Inteligente
 relationships:
 - type: amended_by
   target: pt:dre:871763927:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:26/2022/M
+  label: Determina que se mantenha, até à aprovação do Orçamento da Região Autónoma da Madeira para 2024, a expressão orçamental
+    da organização e funcionamento do Governo Regional, aprovada pelo Decreto Legislativo Regional n.º 26/2022/M, de 29 de
+    dezembro, Diário da República n.º 250/2022, Série I, bem como determina que até à constituição formal das novas unidades
+    de gestão, as atribuições constantes nos n.ºs 2, 3 e 5 do artigo 68.º daquele diploma, continuam a ser asseguradas pelas
+    unidades que, até à data, desempenham essas funções.
+  source: null
+  date: '2022-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2012/01/20/p/dre
   label: null
@@ -128,16 +136,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170322931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173732862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176147944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205450899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205822996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:871763927:por
+  label: Revogado, a partir de 13 de julho de 2024, com efeitos reportados a 6 de junho de 2024 , o presente diploma pelo(a)
+    Decreto Regulamentar Regional n.º 13/2024/M - Diário da República n.º 134/2024, Série I de 2024-07-12, nos termos dos
+    artigos 12.º e 19.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2024-871763927
+  date: '2024-07-12'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:9/2021/M
+  label: Revoga, a partir de 11 de novembro de 2023, nos termos do artigo 19.º do presente diploma, com efeitos reportados
+    a 17 de outubro de 2023, o Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, Diário da República n.º 167/2021,
+    Série I
+  source: null
+  date: '2021-08-27'
 article_structure:
   article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:38Z'
   warnings: []
   errors: []
 ---
@@ -618,10 +692,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 26 de outubro de 2023.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 7 de novembro de 2023.**
+Assinado em 7 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+117037057

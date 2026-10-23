@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/9/2005/08/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/9-2005-240611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:50:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ea0a2669410600e85fcdf6f1a541b6abe8b9e26c3d445e81e4be575b77f7d26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f497cd83e324c9d1e1a5bb12fa9307313bc1e3ce288f95508d9659d31c1b216
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Assembleia Legislativa Regional
+- Autarquia Local
+- Direito de Voto
+- Eleição Autárquica
 - Eleição Europeia
 - Eleição Legislativa
-- Eleição Autárquica
 - Eleição Presidencial
 - Eleição Regional
 - Estudante
-- Assembleia da República
-- Parlamento Europeu
 - Madeira.região Autónoma
+- Parlamento Europeu
 - Referendo
 - Regime Jurídico
-- Autarquia Local
 - VOTO Electrónico
-- Direito de Voto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/10/1995/04/07/p/dre
@@ -119,16 +119,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/2004/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/3/2004/07/22/p/dre
+- type: cites
+  target: pt:dre:186934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:50:55Z'
   warnings: []
   errors: []
 ---
@@ -221,7 +273,9 @@ Voto electrónico
 
 6 - O processo inerente ao exercício do direito de voto por meio electrónico está isento de custos.
 
-###### Artigo 11.º — Boletins de voto
+Artigo 11.º
+
+Boletins de voto
 
 1 - ...
 
@@ -239,7 +293,9 @@ Voto electrónico
 
 Voto electrónico
 
-###### Artigo 120.º — Voto electrónico
+Artigo 120.º
+
+Voto electrónico
 
 1 - O eleitor que, por motivos de estudo, formação, realização de estágios de âmbito curricular ou profissional, ou por motivos de saúde, ou participação em competições desportivas de carácter regular se encontre deslocado fora da sua área de recenseamento no dia do acto eleitoral deverá requerer até ao 20.º dia anterior ao da eleição ao presidente da câmara do município em que se encontra recenseado o exercício do direito de voto por meio do voto electrónico, conforme modelo em anexo (anexo I), juntando documento comprovativo do motivo que o coloca deslocado da sua área de recenseamento.
 
@@ -305,7 +361,9 @@ Voto electrónico
 
 Voto electrónico
 
-###### Artigo 130.º-A — Voto electrónico
+Artigo 130.º-A
+
+Voto electrónico
 
 1 - O eleitor que por motivos de estudo, formação, realização de estágios de âmbito curricular ou profissional, ou por motivos de saúde, ou participação em competições desportivas de carácter regular se encontre deslocado fora da sua área de recenseamento no dia do acto eleitoral deverá requerer até ao 20.º dia anterior ao da eleição ao presidente da câmara do município em que se encontra recenseado o exercício do direito de voto por meio do voto electrónico, conforme modelo em anexo (anexo I), juntando documento comprovativo do motivo que o coloca deslocado da sua área de recenseamento.
 
@@ -325,7 +383,7 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de Junho de 2005.
 
-**O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.**
+O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.
 
 ## ANEXO I
 
@@ -335,7 +393,7 @@ Assunto: exercício do direito de voto por meio electrónico.
 
 ... (nome do eleitor), residente habitualmente em ... (residência no município onde se encontra recenseado), portador do bilhete de identidade n.º ..., emitido em ... (data), por ... (local), recenseado nesse município, com o cartão de eleitor n.º ..., vem requerer a V. Ex.ª o exercício do direito de voto por meio electrónico na eleição para ... marcada para ... por se encontrar deslocado no município de ... por motivo de ... (estudo ou formação ou estágio de âmbito curricular ou estágio de âmbito profissional ou saúde e em tratamento em unidade de saúde ou acompanhamento de doente em tratamento ou participação numa competição desportiva de carácter regular).
 
-## Anexo: documento comprovativo.
+Anexo: documento comprovativo.
 
 Pede deferimento.
 

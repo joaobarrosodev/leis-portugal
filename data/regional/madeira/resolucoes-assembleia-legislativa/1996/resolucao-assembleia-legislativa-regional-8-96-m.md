@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/8/1996/03/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/8-1996-534260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69bc410996a49268a3c6db0f457040fc1c31aa81e372ba8ac3d5037c85cb98c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71927122fc69146d16e1c69dc708e56ea87ebe0d3de0caa34eab3aad4d67b00e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,51 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
-- Região Autónoma
+- Açores
 - Assembleia Legislativa Regional
+- Autarquia Local
 - Autonomia Regional
 - Competência Própria
-- Governo Regional
+- Constituição
 - Cooperação Financeira
 - Coordenador Regional
-- Educação
 - Definição de Competências
 - Delegado Regional
 - Descentralização
 - Desenvolvimento Regional
-- Presidência do Governo Regional
+- Diploma Legal
+- Direito de Voto
 - Direitos e Liberdades
+- Educação
 - Emigrante
 - Estatuto Político-Administrativo da Região Autónoma da Madeira
-- Presidente da República
-- Presidente do Governo Regional
+- Governo Regional
 - Instituto Público
-- Constituição
+- Madeira.região Autónoma
 - Ministro da República
+- Nacionalidade
 - Órgãos de Soberania
 - Parlamento Europeu
 - Partido Político
-- Madeira.região Autónoma
-- Diploma Legal
+- Presidência do Governo Regional
+- Presidente da República
+- Presidente do Governo Regional
 - Referendo
 - Região Administrativa
+- Região Autónoma
 - Regionalização
 - Serviço Regional
-- Açores
-- Autarquia Local
-- Direito de Voto
 relationships: []
 article_structure:
-  article_count: 31
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:52Z'
   warnings: []
   errors: []
 ---
@@ -196,9 +196,7 @@ Ao invés, os períodos caracterizados por maior centralismo estatal foram os pe
 
 Assim, a Assembleia Legislativa Regional da Madeira apresenta o seguinte projecto de revisão constitucional, sob a forma de resolução:
 
-Artigo I
-
-Disposições a aditar
+###### Artigo I — Disposições a aditar
 
 São aditados à Constituição da República Portuguesa os artigos 23.º-A, 26.º-A, 26.º-B, 26.º-C, 236.º-A, 236.º-B, 236.º-C e 290.º-A, com a seguinte redacção:
 
@@ -210,47 +208,57 @@ Recurso de amparo
 
 2 - Igual recurso cabe de idênticos actos de natureza processual praticados pelos tribunais, violadores de direitos, liberdades e garantias, esgotados que sejam os recursos ordinários.
 
-###### Artigo 26.º-A — Dignidade humana e ciência
+Artigo 26.º-A
+
+Dignidade humana e ciência
 
 As investigações e as experiências tecnológicas e científicas respeitarão sempre a dignidade da pessoa humana e o seu bem-estar.
 
-###### Artigo 26.º-B — Genética e Bioética
+Artigo 26.º-B
+
+Genética e Bioética
 
 A identidade genética individual só pode ser alterada com o consentimento do próprio e exclusivamente para fins terapêuticos.
 
-###### Artigo 26.º-C — Direito à diferença
+Artigo 26.º-C
+
+Direito à diferença
 
 O Estado respeita na sua organização a identidade regional e local, e promove a protecção das tradições culturais das diferentes regiões, mesmo que minoritárias, no respeito pelo direito à diferença reconhecido a todas as comunidades.
 
-###### Artigo 236.º-A — Círculo eleitoral para o Parlamento Europeu
+Artigo 236.º-A
+
+Círculo eleitoral para o Parlamento Europeu
 
 Cada Estado Regional constitui um círculo eleitoral próprio para o Parlamento Europeu, elegendo um deputado.
 
-###### Artigo 236.º-B — Círculo eleitoral da emigração
+Artigo 236.º-B
+
+Círculo eleitoral da emigração
 
 1 - Os cidadãos portugueses residentes no estrangeiro emigrados dos Estados Regionais, como tal inscritos no competente consulado de Portugal, constituem um círculo eleitoral para a respectiva Assembleia Legislativa Regional, elegendo o número de deputados a fixar por lei.
 
 2 - A lei determinará igualmente o modo de recenseamento e de exercício do direito de voto conferido pelo número anterior.
 
-###### Artigo 236.º-C — Referendo regional
+Artigo 236.º-C
+
+Referendo regional
 
 1 - Em matéria de interesse regional os cidadãos eleitores nos Estados Regionais podem ser chamados a pronunciar-se, a título vinculativo, através de referendo, por decisão do Presidente da República, mediante proposta da Assembleia Legislativa Regional, nos casos previstos na Constituição Regional e sobre disposições desta.
 
 2 - São aplicáveis aos referendos regionais as regras e os limites previstos para os referendos nacionais.
 
-###### Artigo 290.º-A — Norma transitória - Regionalização
+Artigo 290.º-A
+
+Norma transitória - Regionalização
 
 A concretização do processo de regionalização do continente deve estar concluída até final do ano de 1996 com a instituição em concreto de todas as Regiões Administrativas nos termos do artigo 256.º»
 
-Artigo II
-
-Disposições a eliminar
+###### Artigo II — Disposições a eliminar
 
 São eliminados os artigos 230.º e 297.º
 
-Artigo III
-
-Disposições a alterar
+###### Artigo III — Disposições a alterar
 
 Os artigos 6.º, 51.º, 115.º, 122.º, 124.º, 136.º, 137.º, 139.º, 148.º, 166.º, 167.º, 216.º, 227.º, 228.º, 229.º, 231.º, 232.º, 233.º, 234.º, 235.º, 236.º, 238.º, 278.º, 279.º, 280.º e 281.º da Constituição da República Portuguesa passam a ter a redacção seguinte:
 
@@ -262,7 +270,9 @@ Estado unitário e regional
 
 2 - O Estado respeita na sua organização os princípios da autonomia regional, da regionalização administrativa, da autonomia das autarquias locais, da subsidariedade e da descentralização democrática da Administração Pública.
 
-###### Artigo 51.º — Associação e partidos políticos
+Artigo 51.º
+
+Associação e partidos políticos
 
 1 - ...
 
@@ -272,7 +282,9 @@ Estado unitário e regional
 
 4 - (Eliminar.)
 
-###### Artigo 115.º — Actos normativos
+Artigo 115.º
+
+Actos normativos
 
 1 - ...
 
@@ -288,7 +300,9 @@ Estado unitário e regional
 
 7 - ...
 
-###### Artigo 122.º — Publicidade dos actos
+Artigo 122.º
+
+Publicidade dos actos
 
 1 - São publicados no jornal oficial, Diário da República:
 
@@ -314,13 +328,17 @@ i) ...
 
 3 - ...
 
-###### Artigo 124.º — Eleição
+Artigo 124.º
+
+Eleição
 
 1 - O Presidente da República é eleito por sufrágio universal, directo e secreto dos cidadãos portugueses eleitores.
 
 2 - A lei determinará o modo de recenseamento e de exercício do direito de voto dos portugueses residentes no estrangeiro.
 
-###### Artigo 136.º — Competência quanto a outros órgãos
+Artigo 136.º
+
+Competência quanto a outros órgãos
 
 Compete ao Presidente da República, relativamente a outros órgãos:
 
@@ -356,7 +374,9 @@ p) [Actual alínea o).]
 
 q) [Actual alínea m).]
 
-###### Artigo 137.º — Competência para a prática de actos próprios
+Artigo 137.º
+
+Competência para a prática de actos próprios
 
 Compete ao Presidente da República, na prática de actos próprios:
 
@@ -380,7 +400,9 @@ i) ...
 
 j) ...
 
-###### Artigo 139.º — Promulgação e veto
+Artigo 139.º
+
+Promulgação e veto
 
 1 - No prazo de 20 dias contados da recepção de qualquer decreto da Assembleia da República ou de decreto legislativo de Assembleia Legislativa Regional para ser promulgado, ou da publicação da decisão do Tribunal Constitucional que não se pronuncie pela inconstitucionalidade de norma dele constante, deve o Presidente da República promulgá-lo ou exercer o direito de veto, solicitando nova apreciação do diploma em mensagem fundamentada.
 
@@ -392,7 +414,9 @@ j) ...
 
 5 - ...
 
-###### Artigo 148.º — Competência
+Artigo 148.º
+
+Competência
 
 Compete ao Conselho de Estado:
 
@@ -408,7 +432,9 @@ e) ...
 
 f) ...
 
-###### Artigo 166.º — Competência quanto a outros órgãos
+Artigo 166.º
+
+Competência quanto a outros órgãos
 
 Compete à Assembleia da República, relativamente a outros órgãos:
 
@@ -430,7 +456,9 @@ h) ...
 
 i) ...
 
-###### Artigo 167.º — Reserva absoluta de competência legislativa
+Artigo 167.º
+
+Reserva absoluta de competência legislativa
 
 É da exclusiva competência da Assembleia da República legislar sobre as seguintes matérias:
 
@@ -464,7 +492,9 @@ o) ...
 
 p) ...
 
-###### Artigo 216.º — Tribunal de Contas
+Artigo 216.º
+
+Tribunal de Contas
 
 1 - ...
 
@@ -488,7 +518,9 @@ Regime político-administrativo dos Açores e da Madeira
 
 4 - Os Estados Regionais participam no desempenho das funções do Estado, nos termos da Constituição e da lei, e têm assento nos órgãos superiores da Administração Pública.
 
-###### Artigo 228.º — Constituição Regional
+Artigo 228.º
+
+Constituição Regional
 
 1 - Os projectos de Constituição dos Estados Regionais são elaborados pelas respectivas Assembleias Legislativas e enviados para discussão e aprovação à Assembleia da República.
 
@@ -500,7 +532,9 @@ Regime político-administrativo dos Açores e da Madeira
 
 5 - O regime previsto nos números anteriores á aplicável às alterações das Constituições Regionais.
 
-###### Artigo 229.º — Poderes dos Estados Regionais
+Artigo 229.º
+
+Poderes dos Estados Regionais
 
 1 - Os Estados Regionais são pessoas colectivas públicas de população e território e têm os seguintes poderes, a definir nas respectivas constituições:
 
@@ -554,7 +588,9 @@ x) [Actual alínea u).]
 
 4 - ...
 
-###### Artigo 231.º — Cooperação dos órgãos de soberania e dos órgãos regionais
+Artigo 231.º
+
+Cooperação dos órgãos de soberania e dos órgãos regionais
 
 1 - ...
 
@@ -564,13 +600,17 @@ x) [Actual alínea u).]
 
 4 - As relações financeiras entre o Estado e os Estados Regionais são obrigatoriamente reguladas pelas Constituições Regionais.
 
-###### Artigo 232.º — Delegado do Governo da República
+Artigo 232.º
+
+Delegado do Governo da República
 
 1 - Haverá em cada Estado Regional um delegado do Governo da República, a nomear pelo Primeiro-Ministro, ouvidos os Presidentes dos Governos Autónomos, cujo mandato finda com o do Governo que o nomear.
 
 2 - Compete ao delegado do Governo da República a coordenação e superintendência das actividades dos serviços centrais do Estado, no tocante aos interesses do Estado Regional, em conformidade com a delegação de poderes que lhe seja conferida e em articulação com as exercidas pelo próprio Estado Regional.
 
-###### Artigo 233.º — Órgãos de governo próprio dos Estados Regionais
+Artigo 233.º
+
+Órgãos de governo próprio dos Estados Regionais
 
 1 - ...
 
@@ -584,7 +624,9 @@ x) [Actual alínea u).]
 
 6 - É da exclusiva competência do Governo Autónomo legislar em matéria respeitante à sua própria organização e funcionamento.
 
-###### Artigo 234.º — Competência da Assembleia Legislativa Regional
+Artigo 234.º
+
+Competência da Assembleia Legislativa Regional
 
 1 - É da exclusiva competência da Assembleia Legislativa Regional o exercício das atribuições referidas nas alíneas a), b) e c), na segunda parte da alínea d), na alínea f), na primeira parte da alínea i) e nas alíneas j), m), p), s) e t) do n.º 1 do artigo 229.º, bem como a aprovação do orçamento regional, do plano económico e das contas da Região e ainda a adaptação do sistema fiscal nacional às especificidades do Estado Regional.
 
@@ -592,17 +634,23 @@ x) [Actual alínea u).]
 
 3 - ...
 
-###### Artigo 235.º — Assinatura e veto dos diplomas regionais
+Artigo 235.º
+
+Assinatura e veto dos diplomas regionais
 
 1 - Compete ao Presidente da República promulgar e mandar publicar os decretos legislativos regionais e os decretos regulamentares regionais.
 
 2 - No prazo de 20 dias contados da recepção de qualquer decreto do Governo Autónomo e que tenha sido enviado para promulgação, deve o Presidente da República promulgá-lo ou recusar a promulgação, comunicando por escrito o sentido dessa recusa ao Governo Autónomo, o qual poderá converter o decreto em proposta a apresentar à Assembleia Legislativa Regional.
 
-###### Artigo 236.º — Dissolução das Assembleias Legislativas Regionais
+Artigo 236.º
+
+Dissolução das Assembleias Legislativas Regionais
 
 As Assembleias Legislativas Regionais podem ser dissolvidas pelo Presidente da República, por prática de actos graves contra a Constituição, ouvidas a Assembleia da República e o Conselho de Estado, nos casos previstos na respectiva Constituição Regional, sendo observado, com as devidas adaptações, o disposto no artigo 175.º
 
-###### Artigo 238.º — Categorias de autarquias locais e divisão administrativa
+Artigo 238.º
+
+Categorias de autarquias locais e divisão administrativa
 
 1 - ...
 
@@ -610,7 +658,9 @@ As Assembleias Legislativas Regionais podem ser dissolvidas pelo Presidente da R
 
 3 - A divisão administrativa do território do continente será estabelecida por lei.
 
-###### Artigo 278.º — Fiscalização preventiva da constitucionalidade
+Artigo 278.º
+
+Fiscalização preventiva da constitucionalidade
 
 1 - O Presidente da República pode requerer ao Tribunal Constitucional a apreciação preventiva da constitucionalidade de qualquer norma constante de tratado internacional que lhe tenha sido submetido para ratificação, de decreto que lhe tenha sido enviado para promulgação como lei, decreto-lei, decreto legislativo regional ou de acordo internacional cujo decreto de aprovação lhe tenha sido remetido para assinatura.
 
@@ -628,7 +678,9 @@ As Assembleias Legislativas Regionais podem ser dissolvidas pelo Presidente da R
 
 8 - ...
 
-###### Artigo 279.º — Efeitos da decisão
+Artigo 279.º
+
+Efeitos da decisão
 
 1 - Se o Tribunal Constitucional se pronunciar pela inconstitucionalidade de norma constante de qualquer decreto ou acordo internacional, deverá o diploma ser vetado pelo Presidente da República e devolvido ao órgão que o tiver aprovado.
 
@@ -638,7 +690,9 @@ As Assembleias Legislativas Regionais podem ser dissolvidas pelo Presidente da R
 
 4 - ...
 
-###### Artigo 280.º — Fiscalização concreta da constitucionalidade e da legalidade
+Artigo 280.º
+
+Fiscalização concreta da constitucionalidade e da legalidade
 
 1 - Estabelece normas sobre revisão constitucional
 
@@ -660,7 +714,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 281.º — Fiscalização abstracta da constitucionalidade e da legalidade
+Artigo 281.º
+
+Fiscalização abstracta da constitucionalidade e da legalidade
 
 1 - O Tribunal Constitucional aprecia e declara, com força obrigatória geral:
 
@@ -692,4 +748,4 @@ g) As Assembleias Legislativas Regionais, os Presidentes das Assembleias Legisla
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 14 de Fevereiro de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival de Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival de Mendonça.

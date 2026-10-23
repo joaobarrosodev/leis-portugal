@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1987-498744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01f96da63a56485245741397f9fb1856a1b908c69fd9ffa999adc86eb45ab795
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dadff1e99e0600a2df03df9d3502ccceb6917d690638d7683d2202cfd881d18e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comércio a Retalho
+- Concorrência
+- Madeira.região Autónoma
+- Preço
+- Proteção do Consumidor
+- Saldos
+relationships:
+- type: cites
+  target: pt:dre:219123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:50Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +103,16 @@ Considerando a necessidade de adaptação, para efeitos da sua aplicação, do [
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º É aplicável à Região Autónoma da Madeira (RAM) o [Decreto-Lei n.º 253/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1986-219123), de 25 de Agosto, com as alterações impostas pela especificidade regional e que constam do artigo seguinte.
+Artigo 1.º É aplicável à Região Autónoma da Madeira (RAM) o [Decreto-Lei n.º 253/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1986-219123), de 25 de Agosto, com as alterações impostas pela especificidade regional e que constam do artigo seguinte.
 
-###### Art. 2.º - As referências feitas, bem como as competências atribuídas por aquele diploma, ao Secretário de Estado do Comércio Interno, à Direcção-Geral do Comércio Interno e à Direcção-Geral de Inspecção Económica consideram-se reportadas e serão exercidas, na RAM, pelo Secretário Regional da Economia, Direcção Regional do Comércio e Indústria e Direcção de Serviços de Fiscalização Económica.
+Art. 2.º - As referências feitas, bem como as competências atribuídas por aquele diploma, ao Secretário de Estado do Comércio Interno, à Direcção-Geral do Comércio Interno e à Direcção-Geral de Inspecção Económica consideram-se reportadas e serão exercidas, na RAM, pelo Secretário Regional da Economia, Direcção Regional do Comércio e Indústria e Direcção de Serviços de Fiscalização Económica.
 
 Aprovado em Conselho do Governo Regional em 7 de Outubro de 1987.
 
 Pelo Presidente do Governo Regional, em exercício, Manuel Jorge Bazinga Marques.
 
-**Assinado em 26 de Outubro de 1987.**
+Assinado em 26 de Outubro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

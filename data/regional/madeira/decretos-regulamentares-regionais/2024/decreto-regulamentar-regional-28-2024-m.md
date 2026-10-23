@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21800/0002100025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/28/2024/11/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2024-895990774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f60169a6c541ad240901caaa815584527450535ca49f7e97d967cda2bb2b43f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98055935aa4cb8593292eb5b1c605ef0b73411ea97fd7bf60b77d6b8b7188063
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Direcção Regional das Pescas
-- Secretaria Regional da Agricultura Pescas e Ambiente
 - Diretor Regional
-- Pesca
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pesca
+- Pessoal Dirigente
+- Secretaria Regional da Agricultura Pescas e Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:1014316397:por
@@ -117,16 +117,114 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107494013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130829773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130954978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175659840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885361661:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1014316397:por
+  label: Revogado, a partir de 20 de janeiro de 2026, pelo(a) Decreto Regulamentar Regional n.º 2/2026/M - Diário da República
+    n.º 12/2026, Série I de 2026-01-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2026-1014316397
+  date: '2026-01-19'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:25/2020/M
+  label: Revoga, a partir de 12 de novembro de 2024, nos termos do artigo 11.º, o Decreto Regulamentar Regional n.º 25/2020/M,
+    de 30 de março, Diário da República n.º 63/2020, Série I
+  source: null
+  date: '2020-03-30'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:26/2020/M
+  label: Revoga, a partir de 12 de novembro de 2024, nos termos do artigo 11.º, o Decreto Regulamentar Regional n.º 26/2020/M,
+    de 1 de abril, Diário da República n.º 65/2020, Série I
+  source: null
+  date: '2020-04-01'
 article_structure:
   article_count: 12
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:46Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +241,7 @@ O presente diploma reflete a orientação do Governo Regional de valorização d
 
 Desta forma, a estrutura da Direção Regional de Pescas além de respeitar os princípios e normas a que deve obedecer a organização da administração direta da Região Autónoma da Madeira, vertidos no [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua atual redação, adequa-se também à nova orgânica da Secretaria Regional de Agricultura, Pescas e Ambiente.
 
-Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, e dos artigos 12.º, 20.º e 25.º do [Decreto Regulamentar Regional n.º 16/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2024-885361661), de 23 de agosto, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, e dos artigos 12.º, 20.º e 25.º do [Decreto Regulamentar Regional n.º 16/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2024-885361661), de 23 de agosto, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E ÓRGÃOS
 
@@ -249,7 +347,7 @@ A dotação de cargos de direção superior e intermédia de 1.º grau consta do
 
 ###### Artigo 9.º — Carreira especial de inspeção de pescas
 
-O pessoal da carreira especial de inspeção de pescas está sujeito ao regime jurídico da atividade inspetiva contido no [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto, com as alterações introduzidas pelos Decretos Legislativos Regionais n.<sup>os</sup>[2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, [17/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2017-107494013), de 8 de junho, e [4/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2022-177634374), de 17 de janeiro, no [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, alterado pelo [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), de 13 de fevereiro, pela [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, e pelo [Decreto-Lei n.º 109-E/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-e-2021-175659840), de 9 de dezembro, bem como na demais legislação complementar ou subsequente.
+O pessoal da carreira especial de inspeção de pescas está sujeito ao regime jurídico da atividade inspetiva contido no [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto, com as alterações introduzidas pelos Decretos Legislativos Regionais n.os[2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, [17/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2017-107494013), de 8 de junho, e [4/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2022-177634374), de 17 de janeiro, no [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, alterado pelo [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), de 13 de fevereiro, pela [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, e pelo [Decreto-Lei n.º 109-E/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-e-2021-175659840), de 9 de dezembro, bem como na demais legislação complementar ou subsequente.
 
 ### CAPÍTULO III — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
@@ -281,11 +379,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 24 de outubro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 6 de novembro de 2024.**
+Assinado em 6 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -297,3 +395,7 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 | --- | --- |
 | Cargos de direção superior de 1.º grau | 1 |
 | Cargos de direção intermédia de 1.º grau | 4 |
+
+118323994
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:justify; text-align-last:center; } .Tbl6 { min-height:21px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl9 { min-height:18px; }

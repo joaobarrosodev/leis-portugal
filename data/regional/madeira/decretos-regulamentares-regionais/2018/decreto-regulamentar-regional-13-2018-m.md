@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/22000/0532005331.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2018/11/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68f9b1ae44e3a359a68ad1a9e3d58c0ca59257e7f2ca2d43392869752a0fbc6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e16dc3967e2f8329513cc064ef502790a0ac2cb5be0ca07d0bb03b1374594f17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto da Carreira Docente
-- Pessoal Docente
-- Madeira.região Autónoma
-- Progressão na Carreira
 - Avaliação do Pessoal
+- Estatuto da Carreira Docente
+- Madeira.região Autónoma
+- Pessoal Docente
+- Progressão na Carreira
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2010/08/18/m/dre
@@ -115,15 +115,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
 article_structure:
-  article_count: 49
+  article_count: 40
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:19Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +178,9 @@ c) Formação contínua e desenvolvimento profissional.
 
 2 - A avaliação dos docentes em regime de contrato a termo resolutivo tem em consideração as dimensões previstas no número anterior.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -198,7 +200,9 @@ c) Formação contínua e desenvolvimento profissional.
 
 9 - Os docentes em mobilidade parcial são avaliados pelo regime de avaliação previsto no presente diploma, na escola onde desempenham funções letivas.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - É designado avaliador interno, nos termos dos números seguintes, o docente que reúna preferencialmente os requisitos previstos no n.º 1 do artigo 13.º, salvo situações excecionais e devidamente fundamentadas, em que pode ser designado um docente que não detenha os requisitos previstos nas alíneas b) e ou c) do n.º 1 da referida norma.
 
@@ -238,7 +242,9 @@ a) [Anterior alínea a) do n.º 8.]
 
 b) [Anterior alínea b) do n.º 8.]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +256,9 @@ b) [Anterior alínea b) do n.º 8.]
 
 5 - A omissão na entrega do projeto docente, por motivos injustificados nos termos do Estatuto, implica a não contagem do tempo de serviço do ano escolar em causa para efeitos de progressão na carreira docente.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -278,7 +286,9 @@ d)...
 
 9 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -304,7 +314,9 @@ e)...
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -322,7 +334,9 @@ c) 20 % para a dimensão formação contínua e desenvolvimento profissional, se
 
 5 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Quando, para os efeitos previstos no artigo anterior, for necessário proceder ao desempate entre docentes com a mesma classificação final na avaliação do desempenho relevam, sucessivamente, os seguintes critérios:
 
@@ -338,11 +352,15 @@ e) O tempo de serviço em exercício de funções públicas.
 
 2 - Caso seja necessário proceder ao desempate de docentes com a mesma menção quantitativa, abrangidos por diferentes sistemas de classificação, são aplicáveis, sucessivamente, as alíneas d) e e) do número anterior.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Aos intervenientes no processo de avaliação é aplicável o disposto nos artigos 69.º a 76.º do Código do Procedimento Administrativo, relativos aos impedimentos, escusa e suspeição.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -396,11 +414,11 @@ O presente decreto regulamentar regional entra em vigor no dia seguinte ao da su
 
 Aprovado em Conselho do Governo Regional em 11 de outubro de 2018.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 26 de outubro de 2018.**
+Assinado em 26 de outubro de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -965,3 +983,5 @@ Os docentes da rede pública em regime de mobilidade nas escolas privadas são o
 ###### Artigo 35.º — Entrada em vigor
 
 O presente decreto regulamentar regional entra em vigor no dia seguinte ao da sua publicação.
+
+111807032

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2001/05/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3ee35d912bb5df4395f17c0d5e5a2647cc6ecd11005f4e080ebd7200c3e3abc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b5a957aa6ab67f7f8046dab53df15c30dcd81c7def7628b6afdd33f6b7ae82b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Auditoria Regional do Equipamento Social e Transportes
-- Pessoal Dirigente
-- Transporte Terrestre
 - Concurso
-- Governo Regional
 - Definição de Competências
 - Direcção Regional de Aeroportos
+- Direcção Regional de Estradas
 - Direcção Regional de Obras Públicas
 - Direcção Regional do Ordenamento do Território
 - Direcção Regional dos Transportes Terrestres
-- Direcção Regional de Estradas
 - Gabinete do Secretário Regional do Equipamento Social e Transportes
+- Gestão de Recursos Humanos
+- Governo Regional
 - Integração de Trabalhadores
 - Laboratório Regional de Engenharia Civil
-- Secretaria Regional do Equipamento Social e Transportes
-- Orgânica
-- Plano de Desenvolvimento Regional
-- Urbanismo
 - Madeira.região Autónoma
-- Quadro de Pessoal
-- Remuneração
-- Secretário Regional do Equipamento Social e Transportes
+- Orgânica
+- Pessoal Dirigente
+- Plano de Desenvolvimento Regional
 - Portos
-- Gestão de Recursos Humanos
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Remuneração
+- Secretaria Regional do Equipamento Social e Transportes
+- Secretário Regional do Equipamento Social e Transportes
+- Transporte Terrestre
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:249979:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684637:por
+  label: "Alterados os arts 1º, 4º, 5º, 7º, 37º, 42º, 64º, 66º, 67º, 70º, 86º, 97º, revogados os arts 72º e 73º, alterada\
+    \ a secção III da div. XII do cap. II, eliminada a secção IV, aditada a div. XIII-A e aditada nessa div. os arts. 85º-A,\
+    \ 85º-B, 85º-C, 85º-D, 85º-E, 85º-F, e 85º-G, aditado ao anexo I o mapa VI,pelo DRR.11-A/2003/M.2003.03.20.PG-RAM, DR.IS-B\
+    \ [76]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-a-2003-684637
+  date: '2003-03-20'
+- type: amended_by
+  target: pt:dre:249979:por
+  label: "Extinta, sendo objecto de fusão, a Direcção Regional de Ordenamento do Território, criada pelo DRR 7/2001/M de 11-Mai,\
+    \ DR.IS-B [109], sendo as suas competências integradas na DRIGOT, com excepção das suas atribuições no domínio da colaboração\
+    \ com as autarquias locais e demais entidades competentes, no âmbito das infra-estruturas e dos equipamentos que são integrados\
+    \ na DRIE, pelo DRR.7/2008/M.21.04.2008.PG-RAM, DR.IS [78] de 21.04.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2008-249979
+  date: '2008-04-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/218/1998/07/17/p/dre
   label: null
@@ -135,16 +151,115 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:320345:por
+  label: "Rectificado pela DECL-RECT.13-U/2001.2001.06.26.PCM, DR.IS-B[150]3ºSUPL de 30/Jun/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-u-2001-320345
+  date: '2001-06-26'
+- type: repealed_by
+  target: pt:dre:437620:por
+  label: "Revogados os arts. 90º e 91º, pelo DRR.18/2002/M.2002.11.11.PG-RAM, DR.IS-B [281] de 05/Dez/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2002-437620
+  date: '2002-11-11'
+- type: repealed_by
+  target: pt:dre:591740:por
+  label: "Revogado pelo DRR.6/2005/M.09.02.2005.PG-RAM, DR.IS-B [48] de 09.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2005-591740
+  date: '2005-02-09'
 article_structure:
   article_count: 101
-  section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:50Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +390,7 @@ Com carácter consultivo, funciona no âmbito da SRES o Conselho Regional do Equ
 
 ### CAPÍTULO III — Atribuições e estrutura dos órgãos e serviços
 
-##### DIVISÃO I
+DIVISÃO I
 
 Gabinete do Secretário Regional
 
@@ -321,7 +436,7 @@ a) Secção de Documentação;
 
 b) Secção de Apoio Administrativo.
 
-##### SUBDIVISÃO I
+SUBDIVISÃO I
 
 Núcleo de Expediente e Arquivo
 
@@ -347,7 +462,7 @@ a) Secção de Expediente;
 
 b) Secção de Arquivo.
 
-##### SUBDIVISÃO II
+SUBDIVISÃO II
 
 Núcleo de Informática
 
@@ -357,7 +472,7 @@ Núcleo de Informática
 
 2 - O NI é dirigido por um chefe de núcleo, equiparado, para todos os efeitos legais, a chefe de divisão.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Gabinete de Apoio Técnico
 
@@ -375,7 +490,7 @@ b) Emitir os pareceres superiormente solicitados;
 
 c) Exercer as demais funções que lhe sejam superiormente determinadas.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Gabinete de Estudos e Planeamento
 
@@ -433,7 +548,7 @@ g) Exercer as competências que lhe sejam superiormente delegadas ou subdelegada
 
 2 - Compete à Divisão de Planeamento recolher, preparar e coordenar os elementos necessários à elaboração, no âmbito das atribuições da SRES, do Plano de Desenvolvimento Regional e dos planos de investimentos anuais e sectoriais que o consubstanciam, acompanhar e avaliar a respectiva execução, coordenar as candidaturas de projectos de investimentos aos fundos estruturais comunitários e elaborar diagnósticos e cenários de indicadores económicos de conjuntura e de estrutura sectoriais.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Gabinete de Estudos e Pareceres Jurídicos
 
@@ -471,7 +586,7 @@ c) Exercer as competências que lhe sejam superiormente delegadas ou subdelegada
 
 2 - Compete à Divisão de Estudos Jurídico-Normativos emitir pareceres sobre propostas de diplomas de âmbito regional, colaborar na elaboração de pareceres necessários à pronúncia da Região nos termos constitucionais e estatutários, e tudo o mais que lhe vier a ser superiormente determinado.
 
-##### DIVISÃO V
+DIVISÃO V
 
 Direcção de Serviços de Concursos e Contratos
 
@@ -509,7 +624,7 @@ d) Exercer as competências que lhe sejam superiormente delegadas ou subdelegada
 
 A DSCC compreende a Secção de Concursos e Contratos.
 
-##### DIVISÃO VI
+DIVISÃO VI
 
 Gabinete de Aquisição de Imóveis
 
@@ -563,7 +678,7 @@ b) Secção de Aquisição de Imóveis por Expropriação;
 
 c) Secção de Arquivo.
 
-##### DIVISÃO VII
+DIVISÃO VII
 
 Direcção de Serviços de Pessoal e Administração
 
@@ -659,7 +774,7 @@ f) Gerir e providenciar pela boa conservação do património móvel não mecân
 
 g) Assegurar a gestão do economato.
 
-##### DIVISÃO VIII
+DIVISÃO VIII
 
 Direcção de Serviços de Orçamento e Contabilidade
 
@@ -719,7 +834,7 @@ b) Secção de Processamento;
 
 c) Secção de Apoio Administrativo.
 
-##### DIVISÃO IX
+DIVISÃO IX
 
 Auditoria Regional do Equipamento Social e Transportes
 
@@ -751,7 +866,7 @@ c) Propor superiormente a instauração de procedimentos sancionatórios em resu
 
 2 - O auditor é equiparado, para todos os efeitos legais, a director regional.
 
-##### DIVISÃO X
+DIVISÃO X
 
 Direcção Regional de Obras Públicas
 
@@ -1049,7 +1164,7 @@ d) Prestar apoio aos serviços da Direcção Regional, nas áreas de economato e
 
 4 - O NA compreende uma Secção de Apoio Administrativo.
 
-##### DIVISÃO XI
+DIVISÃO XI
 
 Direcção Regional de Estradas
 
@@ -1209,7 +1324,7 @@ b) Secção de Contra-Ordenações;
 
 c) Secção de Apoio Administrativo.
 
-##### DIVISÃO XII
+DIVISÃO XII
 
 Direcção Regional de Ordenamento do Território
 
@@ -1445,7 +1560,7 @@ b) Secção de Expediente Interno;
 
 c) Secção de Contra-Ordenações.
 
-##### DIVISÃO XIII
+DIVISÃO XIII
 
 Direcção Regional de Transportes Terrestres
 
@@ -1693,7 +1808,7 @@ b) Secção dos Transportes Terrestres de Mercadorias;
 
 c) Secção de Veículos.
 
-##### DIVISÃO XIV
+DIVISÃO XIV
 
 Órgãos consultivos
 
@@ -1839,11 +1954,11 @@ Aprovado em Conselho do Governo Regional em 5 de Abril de 2001.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 24 de Abril de 2001.**
+Assinado em 24 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 87.º)
 
@@ -1851,28 +1966,28 @@ MAPA I
 
 Serviços dependentes do Secretário Regional
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)
 
 MAPA II
 
 Direcção Regional de Obras Públicas
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)
 
 MAPA III
 
 Direcção Regional de Estradas
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)
 
 MAPA IV
 
 Direcção Regional de Ordenamento do Território
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)
 
 MAPA V
 
 Direcção Regional de Transportes Terrestres
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)](https://files.diariodarepublica.pt/1s/2001/05/109b00/28302861.pdf)

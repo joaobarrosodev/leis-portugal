@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/07/14200/0405504061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2011/07/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2011-669515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aabfe2226b8257e7695200421e88de79fbf94d747970525991ee9247fd4b5d04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 025f68610319623ec498d1cd63cd6875bf6de32316fc06152d76517a302a19dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Definição de Competências
 - Direcção Regional do Ambiente
-- Orgânica
+- Gestão de Recursos Humanos
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Secretaria Regional do Ambiente e dos Recursos Naturais
-- Gestão de Recursos Humanos
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:191519:por
@@ -119,16 +119,77 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670502:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191519:por
+  label: "Revogado pelo DRR.30/2012/M.05.11.2012.PG-RAM, DR.IS [213] de 05.11.2012, nos termos do nº 2 do art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-2012-191519
+  date: '2012-11-05'
 article_structure:
-  article_count: 40
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 35
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:38Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +220,9 @@ Natureza, tipologia e missão
 
 3 - A DRAmb obedece ao modelo de organização interna de estrutura hierarquizada.
 
-###### Artigo 2.º — Atribuições
+Artigo 2.º
+
+Atribuições
 
 No cumprimento da missão referida no n.º 2 do artigo anterior, são atribuições da DRAmb:
 
@@ -199,7 +262,9 @@ r) Criar um sistema de informação territorial que assegure a difusão e o aces
 
 s) Propor a elaboração de legislação sectorial que vise o desenvolvimento, sustentabilidade, coesão e qualificação territorial.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A DRAmb é dirigida pelo director regional do Ambiente, cargo de direcção superior do 1.º grau, adiante designado por director regional, ao qual compete, genericamente, dirigir a actuação dos respectivos órgãos e serviços, bem como exercer as competências que lhe estejam consignadas por lei ou que nele venham a ser delegadas.
 
@@ -207,7 +272,9 @@ s) Propor a elaboração de legislação sectorial que vise o desenvolvimento, s
 
 3 - A estrutura nuclear da DRAmb é a definida em diploma próprio, nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -243,7 +310,9 @@ o) Definir e propor para superior decisão tudo o que se torne necessário ao bo
 
 3 - O director regional é substituído, nas suas ausências e impedimentos, pelo director da IAOT.
 
-###### Artigo 5.º — Estrutura
+Artigo 5.º
+
+Estrutura
 
 1 - A IAOT é dirigida pelo director da Inspecção Ambiental e do Ordenamento do Território, ao qual incumbe assegurar a realização das respectivas competências e ainda exercer todas aquelas que lhe estejam consignadas por lei ou que lhe sejam delegadas ou subdelegadas.
 
@@ -251,7 +320,9 @@ o) Definir e propor para superior decisão tudo o que se torne necessário ao bo
 
 3 - A IAOT é dirigida por um licenciado equiparado, para todos os efeitos legais, a subdirector regional, cargo de direcção superior do 2.º grau.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Para além da competência genérica referida no n.º 2 do artigo 3.º, compete especificamente à IAOT:
 
@@ -281,11 +352,15 @@ A designação do capítulo i e as designações da secção iii e da secção v
 
 Natureza e atribuições
 
-### CAPÍTULO II — [...]
+CAPÍTULO II
 
-#### SECÇÃO III — Inspecção Ambiental e do Ordenamento do Território
+[...]
 
-#### SECÇÃO VII
+SECÇÃO III
+
+Inspecção Ambiental e do Ordenamento do Território
+
+SECÇÃO VII
 
 Direcção de Serviços do Ordenamento do Território»
 
@@ -341,15 +416,15 @@ Aprovado em Conselho do Governo Regional em 6 de Julho de 2011.
 
 O Vice-Presidente do Governo Regional, no exercício da Presidência, João Cunha e Silva.
 
-**Assinado em 18 de Julho de 2011.**
+Assinado em 18 de Julho de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO — (a que se refere o artigo 16.º-A da orgânica da Direcção Regional do Ambiente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/07/14200/0405504061.pdf))](https://files.diariodarepublica.pt/1s/2011/07/14200/0405504061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/07/14200/0405504061.pdf)
 
 ## ANEXO I — (a que se refere o artigo 11.º)
 
@@ -605,4 +680,4 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO — (a que se refere o artigo 16.º-A)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/07/14200/0405504061.pdf))](https://files.diariodarepublica.pt/1s/2011/07/14200/0405504061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/07/14200/0405504061.pdf)

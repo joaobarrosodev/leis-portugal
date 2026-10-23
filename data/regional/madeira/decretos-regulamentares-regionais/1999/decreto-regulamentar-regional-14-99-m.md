@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/1999/10/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1999-692040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 766b055bbf35a21efdc7cbd66067e83dbbc2084f5612c99d6d0256bd2163d5fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 545550a621926e3b09ba4a59a5adbe8e05d7b89c4ec3fe9fc990c4ebf9c1e928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gabinete do Secretário Regional do Plano e da Coordenação
-- Secretaria Regional do Plano e da Coordenação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional do Plano e da Coordenação
 relationships:
 - type: amended_by
   target: pt:dre:612591:por
@@ -116,16 +116,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:182203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:200463:por
+  label: "Rectificado pela DECL-RECT.19-Q/99.1999.11.25.PCM, DR, IS-B [279]3ºSupl de 30/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-q-1999-200463
+  date: '1999-11-25'
+- type: repealed_by
+  target: pt:dre:612591:por
+  label: "Revogado pelo DRR.1-A/2001/M.2001.03.12.PG-RAM DR.IS-B [61]Supl de 13/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-a-2001-612591
+  date: '2001-03-12'
 article_structure:
-  article_count: 61
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 51
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:19Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +244,9 @@ o) ...
 
 2 - ...
 
-###### Artigo 4.º — Estrutura geral
+Artigo 4.º
+
+Estrutura geral
 
 A SRP compreende os seguintes órgãos e serviços:
 
@@ -236,13 +296,19 @@ h) ...
 
 5) ...
 
-#### SECÇÃO VII — Departamento Administrativo
+SECÇÃO VII
 
-###### Artigo 17.º — Natureza e atribuições
+Departamento Administrativo
+
+Artigo 17.º
+
+Natureza e atribuições
 
 O Departamento Administrativo é o órgão de apoio e de execução técnico-administrativa ao Secretário Regional, Gabinete e serviços de apoio, que tem por atribuições assegurar o apoio administrativo nos actos de administração geral, de pessoal e de património.
 
-###### Artigo 18.º — Competências
+Artigo 18.º
+
+Competências
 
 Ao Departamento Administrativo compete, designadamente:
 
@@ -260,7 +326,9 @@ f) Passar certidões e declarações no âmbito das competências do Departament
 
 g) Assegurar, em geral, o normal funcionamento da SRP em tudo o que não seja da competência específica dos demais serviços.
 
-###### Artigo 29.º — Quadro
+Artigo 29.º
+
+Quadro
 
 1 - ...
 
@@ -278,7 +346,9 @@ f) Pessoal operário.
 
 2 - ...
 
-###### Artigo 32.º — Auxiliar de limpeza
+Artigo 32.º
+
+Auxiliar de limpeza
 
 1 - A categoria de auxiliar de limpeza integra o grupo de pessoal auxiliar.
 
@@ -286,7 +356,9 @@ f) Pessoal operário.
 
 3 - A categoria de auxiliar de limpeza é considerada horizontal, para efeitos de progressão.
 
-###### Artigo 33.º — Carreira de coordenador
+Artigo 33.º
+
+Carreira de coordenador
 
 1 - ...
 
@@ -300,11 +372,15 @@ Inseridas no capítulo III são aditadas as secções VIII, IX e X e os artigos 
 
 Departamento de Contabilidade
 
-###### Artigo 18.º-A — Natureza e atribuições
+Artigo 18.º-A
+
+Natureza e atribuições
 
 O Departamento de Contabilidade é o órgão de apoio e de execução técnico-administrativa ao Secretário Regional, Gabinete e serviços de apoio, que tem por atribuição assegurar o apoio administrativo e técnico nas áreas de orçamento e contabilidade.
 
-###### Artigo 18.º-B — Competências
+Artigo 18.º-B
+
+Competências
 
 Ao Departamento de Contabilidade compete, designadamente:
 
@@ -322,13 +398,19 @@ f) Prestar informações de cabimento orçamental;
 
 g) Assegurar em geral o normal funcionamento da SRP em tudo o que não seja competência específica dos demais serviços.
 
-#### SECÇÃO IX — Departamento de Vencimentos
+SECÇÃO IX
 
-###### Artigo 18.º-C — Natureza e atribuições
+Departamento de Vencimentos
+
+Artigo 18.º-C
+
+Natureza e atribuições
 
 O Departamento de Vencimentos é o órgão de apoio e de execução técnico-administrativa ao Secretário Regional, Gabinete e serviços de apoio, que tem por atribuições assegurar o apoio administrativo e técnico nas áreas de processamento dos vencimentos e abonos devidos ao pessoal.
 
-###### Artigo 18.º-D — Competências
+Artigo 18.º-D
+
+Competências
 
 Ao Departamento de Vencimentos compete, designadamente:
 
@@ -342,13 +424,19 @@ d) Passar certidões e declarações no âmbito das competências do Departament
 
 e) Assegurar em geral o normal funcionamento da SRP em tudo o que não seja de competência dos demais serviços.
 
-#### SECÇÃO X — Departamento de Documentação e Relações Públicas
+SECÇÃO X
 
-###### Artigo 18.º-E — Natureza e atribuições
+Departamento de Documentação e Relações Públicas
+
+Artigo 18.º-E
+
+Natureza e atribuições
 
 O Departamento de Documentação e Relações Públicas é o órgão de apoio e de execução técnico-administrativa ao Secretário Regional, Gabinete e serviços de apoio, que tem por atribuições assegurar o apoio administrativo nas áreas da gestão da documentação e de relações públicas.
 
-###### Artigo 18.º-F — Competências
+Artigo 18.º-F
+
+Competências
 
 Ao Departamento de Documentação e Relações Públicas compete, designadamente:
 
@@ -402,11 +490,11 @@ Aprovado em Conselho do Governo Regional em 23 de Setembro de 1999.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 12 de Outubro de 1999.**
+Assinado em 12 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — [Decreto Regulamentar Regional n.º 2-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-a-1997-182203), de 29 de Janeiro
 
@@ -620,7 +708,9 @@ d) Prestar apoio à comissão técnica do MAR, nos termos previstos no artigo 4.
 
 e) Executar tudo o mais que lhe for expressamente cometido ou decorra do normal desempenho das suas atribuições.
 
-##### SUBSECÇÃO I — Artigo 13.º
+##### SUBSECÇÃO I
+
+###### Artigo 13.º
 
 Gabinete Técnico
 
@@ -632,7 +722,9 @@ b) Prestar apoio técnico em matérias que exijam preparação específica;
 
 c) Elaborar estudos e pareceres no âmbito das atribuições do GZFM.
 
-##### SUBSECÇÃO II — Artigo 14.º
+##### SUBSECÇÃO II
+
+###### Artigo 14.º
 
 Repartição de Serviços Administrativos
 
@@ -884,16 +976,16 @@ b) Sem prejuízo das habilitações legais exigidas, para categoria que integre 
 
 I - Gabinete do Secretário
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)
 
 II - Gabinete e serviços de apoio do Secretário
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)
 
 III - Gabinete de Estudos e Pareceres Jurídicos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)
 
 ## ANEXO II — Mapa II - Gabinete da Zona Franca da Madeira, a que se refere o n.º 2 do artigo 6.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)](https://files.diariodarepublica.pt/1s/1999/10/254b00/74117423.pdf)

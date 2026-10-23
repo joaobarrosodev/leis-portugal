@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 99/1986, 1º Suplemento, Série I de 1986-04-30
   number: '99'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1024-(38) a 1024-(46)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/04/09901/00380046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1986-402923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a3df61a083d01039af2b65308813ab68ad78b1ca9f597433c089e341513b49e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11e55e5702bcd1a223073734bf9cb69790ffe9cb48f5d03518e9e8ce6c3cfcf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Inspecção Regional do Trabalho
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:649480:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 42 A 44, 47, 49, 51, 52, 55 E 56 DO ESTATUTO DA INSPECÇÃO REGIONAL DO TRABALHO PELO DRR DE 24/89/M
+    DR.IS [260].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-11-11'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621348:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADOS O NUM 3 DO ART 36 OS ART 37 E 53 O NUM 3 DO ART 54 E O NUM 2 DO ART 69 DO ESTATUTO DA INSPECÇÃO REGIONAL
+    DO TRABALHO PELO DRR 24/89/M DR.IS [260].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-11-11'
+- type: repealed_by
+  target: pt:dre:649480:por
+  label: "Revogado pelo DRR.19/97/M.1997.08.25.PG-RAM DR.IS-B [215] de 1997.09.17H\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1997-649480
+  date: '1997-08-25'
 article_structure:
-  article_count: 71
+  article_count: 70
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:45Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +160,19 @@ Nestes termos:
 
 O Governo Regional decreta, ao abrigo da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Inspecção Regional do Trabalho, anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovado o Estatuto da Inspecção Regional do Trabalho, anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 2.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 13 de Fevereiro de 1986.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 11 de Março de 1986.**
+Assinado em 11 de Março de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ESTATUTO DA INSPECÇÃO REGIONAL DO TRABALHO
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/2000/03/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2000-514664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4638564900982f30f5ada7dc9a40e259e9aa400cccad3a2df8f287d51d49d1e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cc81d2694e7edf541902fc8176d78ca21a018e62ff39da85ec19618efa6c191
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Direcção Regional de Administração e Pessoal
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 relationships:
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:40Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +149,7 @@ Os artigos 9.º, 10.º, 12.º e 13.º do [Decreto Regulamentar Regional n.º 13-
 
 «Artigo 9.º
 
-##### Divisão de Pessoal Docente
+Divisão de Pessoal Docente
 
 1 - ...
 
@@ -141,7 +161,9 @@ c) ...
 
 2 - Na dependência da Divisão de Pessoal Docente funciona o Departamento de Apoio Administrativo.
 
-###### Artigo 10.º — Departamento de Apoio Administrativo
+Artigo 10.º
+
+Departamento de Apoio Administrativo
 
 1 - O Departamento de Apoio Administrativo é o órgão de apoio administrativo e logístico da DSPD, com atribuições em matérias de expediente, registo, arquivo, pessoal e assuntos de natureza genérica.
 
@@ -155,7 +177,9 @@ c) ...
 
 d) ...
 
-###### Artigo 12.º — Divisão de Pessoal não Docente
+Artigo 12.º
+
+Divisão de Pessoal não Docente
 
 1 - ...
 
@@ -169,7 +193,9 @@ d) ...
 
 2 - Na dependência da Divisão de Pessoal não Docente funciona o Departamento de Apoio Administrativo.
 
-###### Artigo 13.º — Departamento de Apoio Administrativo
+Artigo 13.º
+
+Departamento de Apoio Administrativo
 
 1 - O Departamento de Apoio Administrativo é o órgão de apoio administrativo e logístico da DSPnD com atribuições em matéria de expediente, registo, arquivo, pessoal e assuntos de natureza genérica.
 
@@ -211,13 +237,13 @@ Aprovado em Conselho do Governo Regional em 17 de Janeiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 15 de Fevereiro de 2000.**
+Assinado em 15 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
-## ANEXO A QUE SE REFERE O ARTIGO 4.º DO PRESENTE DIPLOMA
+ANEXO A QUE SE REFERE O ARTIGO 4.º DO PRESENTE DIPLOMA
 
 Direcção Regional de Administração e Pessoal
 

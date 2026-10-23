@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/1993/07/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1993-390598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b67bb5b3e9629f84dccff1876de99efb60241dc119f6093d632611ffd8f1d3f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77a561bb80de69e98e81fc347844576ab92a1b3091eac7246d6b02aad7c525f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Definição de Competências
 - Direcção Regional de Administração e Pessoal
-- Secretaria Regional da Educação
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:517385:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:429023:por
+  label: "Alterado o artigo 11.º e aditado, o lugar mencionado no anexo I, ao quadro de pessoal constante do mapa anexo ao\
+    \ presente diploma, pelo DRR.9/96/M.28.06.1996.PG-RAM, DR.IS-B [148] de 28.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1996-429023
+  date: '1996-06-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 1997.03.17\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1997-02-27'
+- type: amended_by
+  target: pt:dre:517385:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 17/Mar/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1997-517385
+  date: '1997-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/2/1993/01/20/m/dre
   label: null
@@ -85,16 +103,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1991/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1991/07/04/p/dre
+- type: cites
+  target: pt:dre:444427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584979:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:451183:por
+  label: "Rectificado o quadro de pessoal aprovado no presente diploma, pela DECL-RECT.180/93.30.09.1993.PCM, DR.IS-B [230]3ºSupl\
+    \ de 30.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/180-1993-451183
+  date: '1993-09-30'
 article_structure:
-  article_count: 17
+  article_count: 22
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:38Z'
   warnings: []
   errors: []
 ---
@@ -169,19 +205,25 @@ c) Repartição Administrativa.
 
 2 - Os órgãos a que se refere o número anterior funcionam na directa dependência do director regional.
 
-##### SUBSECÇÃO I — Artigo 5.º
+##### SUBSECÇÃO I
+
+###### Artigo 5.º
 
 Secretariado
 
 O Secretariado é o órgão de apoio administrativo do director regional, competindo-lhe a organização e conservação do arquivo do seu Gabinete, bem como o registo e expediente da correspondência e documentação que lhe estão afectas.
 
-##### SUBSECÇÃO II — Artigo 6.º
+##### SUBSECÇÃO II
+
+###### Artigo 6.º
 
 Gabinete de Estudos e Pareceres Jurídicos
 
 O Gabinete de Estudos e Pareceres Jurídicos é um órgão com funções exclusivas de mera consulta jurídica, competindo-lhe, nomeadamente, emitir pareceres e elaborar estudos jurídicos.
 
-##### SUBSECÇÃO III — Artigo 7.º
+##### SUBSECÇÃO III
+
+###### Artigo 7.º
 
 Repartição Administrativa
 
@@ -217,9 +259,11 @@ f) Desenvolver as acções decorrentes do funcionamento dos estabelecimentos de 
 
 3 - Na dependência da DSPD funcionam a Divisão de Pessoal Docente e o Gabinete de Apoio ao Pessoal Docente nos estabelecimentos de ensino.
 
-##### SUBSECÇÃO I — Artigo 9.º
+##### SUBSECÇÃO I
 
-##### Divisão de Pessoal Docente
+###### Artigo 9.º
+
+Divisão de Pessoal Docente
 
 1 - À Divisão de Pessoal Docente compete, nomeadamente:
 
@@ -241,7 +285,9 @@ a) Secção de Pessoal Docente da Educação Pré-Escolar e do 1.º Ciclo do Ens
 
 b) Secção de Pessoal Docente do 2.º e 3.º Ciclos do Ensino Básico e Secundário.
 
-##### SUBSECÇÃO II — Artigo 11.º
+##### SUBSECÇÃO II
+
+###### Artigo 11.º
 
 Gabinete de Apoio ao Pessoal Docente
 
@@ -271,7 +317,9 @@ e) Proporcionar aos estabelecimentos de ensino particular e cooperativo e às in
 
 2 - Na dependência da Direcção de Serviços de Pessoal não Docente funciona a Divisão de Pessoal não Docente.
 
-###### Artigo 13.º — Divisão de Pessoal não Docente
+###### Artigo 13.º
+
+##### Divisão de Pessoal não Docente
 
 1 - À Divisão de Pessoal não Docente compete, nomeadamente:
 
@@ -381,14 +429,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Maio de 1993.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 11 de Junho de 1993.**
+Assinado em 11 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## Anexo I, a que se refere o n.º 2 do artigo 17.º do presente diploma
+Anexo I, a que se refere o n.º 2 do artigo 17.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/162b00/38153821.pdf))](https://files.diariodarepublica.pt/1s/1993/07/162b00/38153821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/162b00/38153821.pdf)

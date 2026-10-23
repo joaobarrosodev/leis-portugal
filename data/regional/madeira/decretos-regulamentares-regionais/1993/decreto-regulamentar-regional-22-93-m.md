@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/158b00/37683773.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/1993/07/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1993-375425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fbc5eb915adeb08e3661c7f0014e3df31d3dc8eb2f198ddc021998efdb591c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fc1e0bc505934940aba400de1f22ff1af8f5938dca9f25ee1f36ba1203684d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Definição de Competências
 - Gabinete do Secretário Regional de Agricultura Florestas e Pescas
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Secretário Regional da Agricultura Florestas e Pescas
 relationships:
@@ -76,6 +76,24 @@ relationships:
   target: pt:dre:692040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:655330:por
+  label: "Alterado o artigo 18.º, aditado o artigo 19.º-A e um lugar de director ao quadro de pessoal anexo ao presente diploma,\
+    \ pelo DRR.6/94/M.30.08.1994.GR-RAM, DR.IS-B [200] de 30.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1994-655330
+  date: '1994-08-30'
+- type: amended_by
+  target: pt:dre:226176:por
+  label: "Alterados os arts. 12.º e 18.º, e aditados dois lugares de chefe de repartição ao quadro de pessoal aprovado pelo\
+    \ presente diploma, na redacção que lhe foi conferida pelo DRR 6/94/M de 30-Ago. pelo pelo DRR.12/96/M.1996.09.27.GR-RAM,\
+    \ DR.IS-B [241] de 17.10.1996\0996\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1996-226176
+  date: '1996-09-27'
+- type: amended_by
+  target: pt:dre:571065:por
+  label: "Totalmente revogado pelo DRR.3/97/M.1997.01.09 PG-RAM, DR.IS-B [26] de 1997.01.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-1997-571065
+  date: '1997-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/1993/01/08/p/dre
   label: null
@@ -104,16 +122,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:38Z'
   warnings: []
   errors: []
 ---
@@ -396,14 +474,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 29 de Abril de 1993.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 20 de Maio de 1993.**
+Assinado em 20 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## Anexo a que se reporta o artigo 19.º do Decreto Regulamentar Regional n.º 22/93/M
+Anexo a que se reporta o artigo 19.º do Decreto Regulamentar Regional n.º 22/93/M
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/158b00/37683773.pdf))](https://files.diariodarepublica.pt/1s/1993/07/158b00/37683773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/158b00/37683773.pdf)

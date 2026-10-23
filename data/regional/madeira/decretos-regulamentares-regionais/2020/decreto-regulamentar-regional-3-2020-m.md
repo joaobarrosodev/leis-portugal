@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/00600/0002300049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2020/01/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2020-127899797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b7aa50d121130cd9c9a7636c03752219fb6acb28ea311b376673f036433d6a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 844cc71bb2bd837a297dd592247eb9544d81c41eb6e9d658dac2a062e3b25180
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Conservatório-escola Profissional das Artes da Madeira
 - Definição de Competências
 - Gestão Administrativa
-- Recrutamento de Pessoal
-- Orgânica
-- Madeira.região Autónoma
 - Gestão de Recursos Humanos
+- Madeira.região Autónoma
+- Orgânica
+- Recrutamento de Pessoal
 - Secretário Regional da Educação Ciência e Tecnologia
 relationships:
 - type: amended_by
@@ -119,16 +119,110 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:108063587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114627387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115124397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115692919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123770992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126318034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70980180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73443681:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:902264458:por
+  label: Revogado, a partir de 9 de Janeiro de 2025, o Decreto Regulamentar Regional n.º 5/2019/M, de 7 de agosto, na redação
+    do presente diploma pelo(a) Decreto Regulamentar Regional n.º 3/2025/M - Diário da República n.º 5/2025, Série I de 2025-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2025-902264458
+  date: '2025-01-08'
 article_structure:
-  article_count: 75
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 50
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:28Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +263,9 @@ c) [...]
 
 3 - No desempenho da sua atividade, o CEPAM está sujeito à tutela científica, pedagógica e funcional da Secretaria Regional de Educação, Ciência e Tecnologia (SRE).
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -191,7 +287,9 @@ a) [...]
 
 b) [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -245,7 +343,9 @@ w) Assegurar as relações com o Secretário Regional de Educação, Ciência e 
 
 3 - O presidente do CEPAM é substituído, nas suas ausências e impedimentos, pelo diretor pedagógico e, na ausência ou impedimento deste, pelo diretor de serviços mais antigo.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -275,7 +375,9 @@ c) [...]
 
 d) Serviço de Informática, cujas atribuições e tarefas constam de regulamento interno.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -301,7 +403,9 @@ i) [Revogada.]
 
 3 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -351,7 +455,9 @@ u) [Anterior alínea t).]
 
 3 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -371,7 +477,9 @@ g) [Revogada.]
 
 2 - O GIPE é coordenado por um licenciado, integrado na carreira técnica superior ou numa carreira especial, designado por despacho do Secretário Regional de Educação, Ciência e Tecnologia.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -439,7 +547,9 @@ f) [Anterior alínea d).]
 
 4 - [Revogado.]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -461,7 +571,9 @@ h) [...]
 
 2 - O GJ é coordenado por um licenciado, integrado na carreira técnica superior ou numa carreira especial, designado por despacho do Secretário Regional de Educação, Ciência e Tecnologia.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -477,7 +589,9 @@ e) [...]
 
 2 - O GSG é coordenado por um licenciado, integrado na carreira técnica superior ou numa carreira especial, designado por despacho do Secretário Regional de Educação, Ciência e Tecnologia.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -495,7 +609,9 @@ e) [...]
 
 3 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -511,7 +627,9 @@ e) [...]
 
 2 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -525,7 +643,9 @@ d) [...]
 
 2 - O GCLA é coordenado por um licenciado, integrado na carreira técnica superior ou numa carreira especial, designado por despacho do Secretário Regional de Educação, Ciência e Tecnologia.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -557,7 +677,9 @@ l) [...]
 
 3 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -577,7 +699,9 @@ f) [...]
 
 3 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -593,7 +717,9 @@ e) [...]
 
 2 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -617,7 +743,9 @@ i) [...]
 
 2 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -633,7 +761,9 @@ e) [Anterior alínea d).]
 
 2 - [...]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -655,7 +785,9 @@ g) [...]
 
 3 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -681,7 +813,9 @@ h) [...].
 
 4 - O presidente do CEPAM, o DGR, o diretor pedagógico e os diretores de serviço da DSEA e da DSICEF podem participar nas reuniões, sem direito a voto.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -697,7 +831,9 @@ d) [Anterior alínea c).]
 
 3 - [...]
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 São competências do CP, designadamente:
 
@@ -723,7 +859,9 @@ j) [...]
 
 k) [...]
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -755,19 +893,25 @@ i) [...]
 
 3 - [...]
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - O mapa de pessoal do CEPAM é aprovado por despacho do Secretário Regional de Educação, Ciência e Tecnologia.
 
 2 - [...]
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
 2 - O processo de recrutamento para os lugares de quadro e necessidades transitórias de pessoal docente é objeto de regulamentação aprovada por portaria do Secretário Regional de Educação, Ciência e Tecnologia.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]
 
@@ -795,11 +939,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho de Governo Regional em 12 de dezembro de 2019.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 30 de dezembro de 2019.**
+Assinado em 30 de dezembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -961,7 +1105,9 @@ c) Gabinete de Investimentos e Projetos Europeus (GIPE);
 
 d) Serviço de Informática, cujas atribuições e tarefas constam de regulamento interno.
 
-###### Artigo 8.º — Divisão de Recursos Humanos
+###### Artigo 8.º
+
+##### Divisão de Recursos Humanos
 
 1 - A DRH é uma unidade orgânica de apoio ao DGR à qual compete:
 
@@ -1003,7 +1149,9 @@ e) Exercer as demais funções de natureza administrativa que, dentro da sua ár
 
 2 - O NA é coordenado por um trabalhador a designar pelo presidente do CEPAM.
 
-###### Artigo 10.º — Divisão de Gestão Financeira e Patrimonial
+###### Artigo 10.º
+
+##### Divisão de Gestão Financeira e Patrimonial
 
 1 - A DGFP é uma unidade orgânica de apoio ao DGR à qual compete:
 
@@ -1658,3 +1806,5 @@ O património do CEPAM é constituído pela universalidade dos bens, direitos e 
 2 - O regulamento interno referido no número anterior enquadra ainda as crianças e jovens que frequentam cursos livres em artes.
 
 3 - O regulamento interno a que se refere o número anterior é aprovado pelo presidente do CEPAM.
+
+112897189

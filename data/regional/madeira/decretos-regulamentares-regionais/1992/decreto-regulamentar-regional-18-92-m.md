@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/1992/07/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1992-275446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 971143ad95e7c9d6dc196bfb97fb6fb390840010abfc36bb910ba0110bdf5409
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a43972f85f5043d8d61fda4f39ec2d782bb9ab9ab4866fff00a4b15efdbd2e41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carta de Caçador
 - CAÇA
+- Carta de Caçador
 - Contra-ordenação
 - Direcção Regional dos Serviços Florestais
 - Licença de Caça
 - Madeira.região Autónoma
 - ZONA de CAÇA
 relationships:
+- type: amended_by
+  target: pt:dre:197519:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, nas normas dos nºs 3, 4, 6 e 7 do art 56º pelo AC.866/96.1996.07.04.TCS,\
+    \ (Proc. nº 3/94) DR.IS-A [292] de 1996.12.18\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/866-1996-197519
+  date: '1996-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/75/1991/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/1991/02/14/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618524:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:28Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +142,7 @@ O Governo Regional decreta, ao abrigo do artigo 229.º, n.º 1, alínea d), da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - Constituem fauna cinegética ou caça as espécies animais que constam da lista anexa ao presente diploma e que dele faz parte integrante.
+Artigo 1.º - 1 - Constituem fauna cinegética ou caça as espécies animais que constam da lista anexa ao presente diploma e que dele faz parte integrante.
 
 2 - Para efeitos deste diploma, as espécies a que se refere o número anterior agrupam-se em:
 
@@ -126,7 +160,7 @@ c) Aves aquáticas.
 
 4 - Constituem ainda fauna cinegética todos os animais domésticos ou domesticados que perderam essa condição.
 
-###### Art. 2.º - 1 - É proibido caçar as espécies animais não pertencentes à fauna cinegética, sem prejuízo do disposto no n.º 3 do artigo 18.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, aplicado e adaptado à Região Autónoma da Madeira (RAM) pela [Lei n.º 28/89](https://diariodarepublica.pt/dr/detalhe/lei/28-1989-618524), de 22 de Agosto, e pelo [Decreto Legislativo Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-574315), de 27 de Agosto.
+Art. 2.º - 1 - É proibido caçar as espécies animais não pertencentes à fauna cinegética, sem prejuízo do disposto no n.º 3 do artigo 18.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, aplicado e adaptado à Região Autónoma da Madeira (RAM) pela [Lei n.º 28/89](https://diariodarepublica.pt/dr/detalhe/lei/28-1989-618524), de 22 de Agosto, e pelo [Decreto Legislativo Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-574315), de 27 de Agosto.
 
 2 - A Direcção dos Serviços Florestais, abreviadamente designada por DSF, poderá autorizar a captura de espécies cinegéticas, seus ovos ou crias para fins didácticos ou científicos, designadamente quando destinados a institutos de investigação científica e museus de história natural.
 
@@ -134,7 +168,7 @@ c) Aves aquáticas.
 
 4 - As autorizações referidas nos números anteriores serão concedidas mediante a emissão de documento do qual constarão as espécies e o número de exemplares cuja captura é autorizada, bem como os processos, os locais e os períodos em que pode ser efectuada.
 
-###### Art. 3.º - 1 - São propriedade do caçador as peças de caça por ele legalmente abatidas ou capturadas, excepto em zonas de regime cinegético especial em que o plano de exploração disponha em contrário.
+Art. 3.º - 1 - São propriedade do caçador as peças de caça por ele legalmente abatidas ou capturadas, excepto em zonas de regime cinegético especial em que o plano de exploração disponha em contrário.
 
 2 - O caçador da peça maior tem sempre direito ao respectivo troféu, podendo, todavia, ficar sujeito ao pagamento de uma contrapartida, em função da espécie abatida e do valor do troféu.
 
@@ -142,9 +176,9 @@ c) Aves aquáticas.
 
 #### SECÇÃO I — Requisitos para o exercício da caça
 
-###### Art. 4.º Só é permitido o exercício da caça aos indivíduos titulares da carta de caçador que estiverem munidos de licença e demais documentos legalmente exigidos, sem prejuízo do disposto no artigo 8.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, aplicada e adaptada à Região Autónoma da Madeira pela [Lei n.º 28/89](https://diariodarepublica.pt/dr/detalhe/lei/28-1989-618524), de 22 de Agosto, e pelo [Decreto Legislativo Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-574315), de 27 de Agosto.
+Art. 4.º Só é permitido o exercício da caça aos indivíduos titulares da carta de caçador que estiverem munidos de licença e demais documentos legalmente exigidos, sem prejuízo do disposto no artigo 8.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, aplicada e adaptada à Região Autónoma da Madeira pela [Lei n.º 28/89](https://diariodarepublica.pt/dr/detalhe/lei/28-1989-618524), de 22 de Agosto, e pelo [Decreto Legislativo Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-574315), de 27 de Agosto.
 
-###### Art. 5.º - 1 - São condições para obter a carta de caçador:
+Art. 5.º - 1 - São condições para obter a carta de caçador:
 
 a) Ser maior de 14 anos;
 
@@ -156,7 +190,7 @@ c) Não estar sujeito a proibição do exercício de actos venatórios por dispo
 
 3 - Aos portadores de anomalia psíquica ou de deficiência orgânica ou fisiológica poderá ser concedida carta de caçador, com a restrição de não poderem caçar com arma de fogo, arco ou besta.
 
-###### Art. 6.º - 1 - A carta de caçador destina-se a habilitar o seu titular para o exercício da caça e a registar o respectivo comportamento venatório e outros factos relevantes para efeitos das disposições legais sobre a caça.
+Art. 6.º - 1 - A carta de caçador destina-se a habilitar o seu titular para o exercício da caça e a registar o respectivo comportamento venatório e outros factos relevantes para efeitos das disposições legais sobre a caça.
 
 2 - Da carta de caçador deverão constar os seguintes elementos:
 
@@ -174,19 +208,19 @@ a) Proibição do uso de arma de fogo, arco ou besta;
 
 b) Notação da existência de condenação por crime ou contra-ordenação de caça que o titular tenha sofrido.
 
-###### Art. 7.º Cada indivíduo só pode ser titular de uma carta de caçador.
+Art. 7.º Cada indivíduo só pode ser titular de uma carta de caçador.
 
-###### Art. 8.º Na RAM a concessão, renovação e emissão de 2.as vias da carta de caçador são da competência da DSF e são requeridas na sede dos serviços florestais.
+Art. 8.º Na RAM a concessão, renovação e emissão de 2.as vias da carta de caçador são da competência da DSF e são requeridas na sede dos serviços florestais.
 
-###### Art. 9.º - 1 - A concessão da carta de caçador fica dependente da prévia aprovação em exame a realizar pelo candidato perante um júri composto por representantes da DSF e por representantes das associações de caçadores designados pelas próprias associações ou pelas respectivas federações, quando estas existam.
+Art. 9.º - 1 - A concessão da carta de caçador fica dependente da prévia aprovação em exame a realizar pelo candidato perante um júri composto por representantes da DSF e por representantes das associações de caçadores designados pelas próprias associações ou pelas respectivas federações, quando estas existam.
 
 2 - O exame tem por fim apurar se o interessado possui a aptidão e os conhecimentos necessários ao exercício da actividade venatória, designadamente sobre a fauna, o ordenamento cinegético, a legislação, os meios e processos de caça, os meios de segurança e, quando for caso disso, sobre o manejo de armas de fogo.
 
 3 - Da decisão do júri cabe recurso, com fundamento em ilegalidade, a interpor para o director dos Serviços Florestais, no prazo de 15 dias a contar da data de registo da comunicação, respeitada a dilação de três dias.
 
-###### Art. 10.º Obtida a aprovação no exame a que se refere o artigo anterior, competirá ao directo dos Serviços Florestais a concessão da carta de caçador, desde que se encontrem preenchidos os demais requisitos legais.
+Art. 10.º Obtida a aprovação no exame a que se refere o artigo anterior, competirá ao directo dos Serviços Florestais a concessão da carta de caçador, desde que se encontrem preenchidos os demais requisitos legais.
 
-###### Art. 11.º - 1 - A carta de caçador é válida em todo o território nacional durante 10 ou 5 anos, consoante tenha sido emitida ou renovada antes ou depois do final do ano em que o seu titular perfizer 50 anos.
+Art. 11.º - 1 - A carta de caçador é válida em todo o território nacional durante 10 ou 5 anos, consoante tenha sido emitida ou renovada antes ou depois do final do ano em que o seu titular perfizer 50 anos.
 
 2 - Por conveniência dos serviços, os prazos de validade referidos no número anterior podem ser prorrogados, no acto de emissão ou de renovação, pelo período máximo de um ano.
 
@@ -196,7 +230,7 @@ b) Notação da existência de condenação por crime ou contra-ordenação de c
 
 5 - Não sendo renovada nos prazos previstos nos números anteriores, ou quando o seu titular haja sido condenado por crime de caça, a carta de caçador caduca, devendo ser apreendida por qualquer autoridade ou agente de autoridade com poderes de polícia e fiscalização da caça.
 
-###### Art. 12.º - 1 - As cartas de caçador que se extraviem ou se deteriorem podem ser substituídas mediante requerimento do titular.
+Art. 12.º - 1 - As cartas de caçador que se extraviem ou se deteriorem podem ser substituídas mediante requerimento do titular.
 
 2 - A DSF emitirá uma 2.ª via, que implica a caducidade do documento anterior.
 
@@ -204,15 +238,15 @@ Art.º 13.º - 1 - Por portaria do Secretário Regional da Economia serão defin
 
 2 - Na mesma portaria serão fixadas as taxas devidas pela concessão, renovação e 2.as vias da carta de caçador, bem como pela realização do referido exame.
 
-###### Art. 14.º O Secretário Regional da Economia estabelecerá, mediante portaria, as datas e condições em que, na RAM, será concedida prioridade aos cidadãos nacionais residentes no estrangeiro na prestação de provas e demais tramitação a seguir para a concessão de carta de caçador.
+Art. 14.º O Secretário Regional da Economia estabelecerá, mediante portaria, as datas e condições em que, na RAM, será concedida prioridade aos cidadãos nacionais residentes no estrangeiro na prestação de provas e demais tramitação a seguir para a concessão de carta de caçador.
 
-###### Art. 15.º - 1 - Os titulares de carta de caçador, quando dela devam ser privados ou quando seja necessário proceder a algum averbamento, são obrigados a entregá-la às autoridades competentes, sempre que, para o efeito, sejam notificados.
+Art. 15.º - 1 - Os titulares de carta de caçador, quando dela devam ser privados ou quando seja necessário proceder a algum averbamento, são obrigados a entregá-la às autoridades competentes, sempre que, para o efeito, sejam notificados.
 
 2 - Quando a carta de caçador seja apreendida por virtude de prática de infracção, ou tenha sido entregue pelo titular nos termos do número anterior, será emitido recibo, de modelo aprovado pelo Secretário Regional da Economia, comprovativo da apreensão ou entrega, o qual substituirá a referida carta durante o tempo nele indicado para todos os efeitos legais exceptuados os que nele forem expressamente ressalvados.
 
 3 - A carta de caçador manter-se-á retida na DSF até que cessem os motivos que originaram a apreensão ou entrega.
 
-###### Art. 16.º - 1 - Só pode praticar o acto venatório quem for possuidor das licenças de caça exigíveis.
+Art. 16.º - 1 - Só pode praticar o acto venatório quem for possuidor das licenças de caça exigíveis.
 
 2 - As licenças de caça são gerais ou especiais.
 
@@ -234,11 +268,11 @@ c) A licença para caça às aves aquáticas;
 
 d) A licença de caça com arco ou com besta.
 
-###### Art. 17.º - 1 - A licença nacional de caça e a licença de caça para não residentes autorizam o acto venatório em todo o território nacional.
+Art. 17.º - 1 - A licença nacional de caça e a licença de caça para não residentes autorizam o acto venatório em todo o território nacional.
 
 2 - A licença regional de caça permite caçar na área da região cinegética a que respeita.
 
-###### Art. 18.º - 1 - O exercício da caça às espécies de caça maior ou aves aquáticas e a caça de batida às perdizes só são permitidas a quem, sendo titular de licença geral válida para a correspondente área, seja também titular da licença especial respectiva.
+Art. 18.º - 1 - O exercício da caça às espécies de caça maior ou aves aquáticas e a caça de batida às perdizes só são permitidas a quem, sendo titular de licença geral válida para a correspondente área, seja também titular da licença especial respectiva.
 
 2 - A licença especial de caça com arco ou com besta será concedida a quem, sendo titular de carta de caçador e de licença geral de caça, tenha obtido a qualificação de arqueiro-caçador através de provas prestadas para esse efeito perante júri nomeado pelo director dos Serviços Florestais, cuja constituição e normas de funcionamento serão definidas por portaria do Secretário Regional da Economia, que estabelecerá igualmente as taxas devidas, bem como os prazos de validade e modo de renovação da referida licença.
 
@@ -254,15 +288,15 @@ c) Com pontes de barbela ou com farpa.
 
 5 - No exercício venatório às espécies de caça maior com arco ou com besta é obrigatório que a ponta da flecha, ou do virotão, esteja munida de duas ou mais laminas, convenientemente afiadas, com uma largura mínima de corte de 25 mm.
 
-###### Art. 19.º As licenças gerais de caça e as licenças especiais para caça maior, para caça de batida às perdizes e para caça a aves aquáticas são válidas por uma, duas ou três épocas venatórias, conforme requerimento do interessado.
+Art. 19.º As licenças gerais de caça e as licenças especiais para caça maior, para caça de batida às perdizes e para caça a aves aquáticas são válidas por uma, duas ou três épocas venatórias, conforme requerimento do interessado.
 
-###### Art. 20.º - 1 - A licença de caça para não residentes no território nacional permite o exercício da caça àqueles que estão dispensados da carta de caçador.
+Art. 20.º - 1 - A licença de caça para não residentes no território nacional permite o exercício da caça àqueles que estão dispensados da carta de caçador.
 
 2 - A licença a que se refere o número anterior é válida por uma época venatória ou por um período de 10 dias, podendo ser requerida pelo interessado ou, em seu nome, pelas entidades gestoras das zonas de caça turística e agências de viagens.
 
-###### Art. 21.º As licenças gerais e especiais serão requeridas na sede da DSF, ficando sujeitas ao pagamento de taxas, cujos montantes serão definidos por portaria do Secretário Regional da Economia.
+Art. 21.º As licenças gerais e especiais serão requeridas na sede da DSF, ficando sujeitas ao pagamento de taxas, cujos montantes serão definidos por portaria do Secretário Regional da Economia.
 
-###### Art. 22.º - 1 - Só é permitido o exercício da caça aos indivíduos que tenham seguro de responsabilidade civil contra terceiros.
+Art. 22.º - 1 - Só é permitido o exercício da caça aos indivíduos que tenham seguro de responsabilidade civil contra terceiros.
 
 2 - O capital seguro não pode ser inferior a 5000000$00 no caso de exercício de caça com arma de fogo, arco ou besta e a 1000000$00 nos restantes casos.
 
@@ -272,17 +306,17 @@ c) Com pontes de barbela ou com farpa.
 
 5 - O lesado pode demandar directamente a entidade seguradora na acção de indemnização por danos causados no exercício da caça.
 
-###### Art. 23.º - Durante o exercício da caça, o caçador deve trazer consigo todos os documentos que lhe sejam exigíveis nos termos do disposto neste diploma e demais legislação sobre a caça.
+Art. 23.º - Durante o exercício da caça, o caçador deve trazer consigo todos os documentos que lhe sejam exigíveis nos termos do disposto neste diploma e demais legislação sobre a caça.
 
 #### SECÇÃO II — Condicionamentos gerais
 
-###### Art. 24.º - 1 - Os caçadores podem ser ajudados por auxiliares, designados «mochileiros», com a função de transportar equipamentos, mantimentos, munições ou caça abatida.
+Art. 24.º - 1 - Os caçadores podem ser ajudados por auxiliares, designados «mochileiros», com a função de transportar equipamentos, mantimentos, munições ou caça abatida.
 
 2 - Nos terrenos sujeitos ao regime cinegético geral, cada caçador só pode fazer-se acompanhar por um daqueles auxiliares.
 
 3 - Os auxiliares referidos nos números anteriores não podem fazer parte da linha da caçadores.
 
-###### Art. 25.º - 1 - Os caçadores podem ainda ser ajudados por auxiliares, designados «batedores» ou «negaceiros», com as funções de, respectivamente, procurar, chamar, levantar e perseguir a caça ou de utilizar negaças.
+Art. 25.º - 1 - Os caçadores podem ainda ser ajudados por auxiliares, designados «batedores» ou «negaceiros», com as funções de, respectivamente, procurar, chamar, levantar e perseguir a caça ou de utilizar negaças.
 
 2 - Nos terrenos sujeitos ao regime cinegético geral só podem ser utilizados batedores nos locais determinados por edital da DSF, com os limites e nos termos nele definidos.
 
@@ -290,7 +324,7 @@ c) Com pontes de barbela ou com farpa.
 
 4 - Exceptua-se do disposto no número anterior a realização de batidas devidamente autorizadas.
 
-###### Art. 26.º - 1 - No exercício da caça podem ser utilizados cães, negaças e aves de presa nas condições adiante referidas.
+Art. 26.º - 1 - No exercício da caça podem ser utilizados cães, negaças e aves de presa nas condições adiante referidas.
 
 2 - Na prática venatória as espécies de caça menor, com excepção do processo de caça de batida, cada caçador só pode utilizar, no máximo, dois cães, sem prejuízo do seguinte:
 
@@ -308,7 +342,7 @@ b) Na caça aos coelhos de batida, a DSF pode autorizar a utilização de cães 
 
 7 - Os proprietários dos cães são obrigados a ter consigo os títulos de registo, quer durante o seu transporte, quer aquando do exercício da caça.
 
-###### Art. 27.º - 1 - É proibida a detenção ou o transporte de furões e a sua utilização em actos venatórios.
+Art. 27.º - 1 - É proibida a detenção ou o transporte de furões e a sua utilização em actos venatórios.
 
 2 - Exceptuam-se do disposto no número anterior a detenção, o transporte e a utilização de furões em acções de ordenamento cinegético pelos serviços da DSF ou pelas entidades gestoras das zonas de regime cinegético especial dentro das áreas sujeitas a este regime.
 
@@ -318,7 +352,7 @@ b) Na caça aos coelhos de batida, a DSF pode autorizar a utilização de cães 
 
 5 - O registo está sujeito ao pagamento de taxa anual, cujo montante será fixado por portaria do Secretário Regional da Economia.
 
-###### Art. 28.º - 1 - A caça pode ser exercida em todos os terrenos, nas áreas de jurisdição marítima e nas águas interiores, observadas as condições e restrições convencionais e legais, nomeadamente as indicadas nos números seguintes.
+Art. 28.º - 1 - A caça pode ser exercida em todos os terrenos, nas áreas de jurisdição marítima e nas águas interiores, observadas as condições e restrições convencionais e legais, nomeadamente as indicadas nos números seguintes.
 
 2 - É proibido caçar nos povoados, nos terrenos adjacentes das escolas, das instalações militares, das estações radieléctricas, dos faróis, dos institutos científicos, dos hospitais e dos estabelecimentos de protecção à infância e à terceira idade, das instalações turísticas, dos parques de campismo e desportivos ou de outros estabelecimentos ou instalações similares e junto das instalações industriais ou de criação animal e, bem assim, em quaisquer terrenos que circundem os locais referidos numa faixa de 250 m.
 
@@ -330,7 +364,7 @@ b) Na caça aos coelhos de batida, a DSF pode autorizar a utilização de cães 
 
 6 - As portarias a que se referem os n.os 4 e 5 definirão, caso a caso, qual o regime a que, para efeitos de policiamento e fiscalização da caça, ficam sujeitas as respectivas áreas.
 
-###### Art. 29.º É proibido caçar, sem consentimento de quem de direito:
+Art. 29.º É proibido caçar, sem consentimento de quem de direito:
 
 a) Nos terrenos que se encontrem circundados em toda a sua extensão por muros ou paredes com altura mínima de 1,5 m, nos quintais, parques ou jardins anexos a casas de habitação e, bem assim, em quaiquer terrenos que cirdundem estas numa faixa de protecção de 250 m;
 
@@ -338,21 +372,21 @@ b) Nos terrenos com culturas arvenses, florícolas, frutículas ou hortícolas o
 
 c) Nos terrenos ocupados com qualquer sementeira ou plantação de espécies florestais, durante os primeiros três anos.
 
-###### Art. 30.º - 1 - Observado o disposto no n.º 2 do art. 15.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, podem ser criadas reservas de caça por portaria do Secretário Regional da Economia.
+Art. 30.º - 1 - Observado o disposto no n.º 2 do art. 15.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, podem ser criadas reservas de caça por portaria do Secretário Regional da Economia.
 
 2 - As reservas de caça podem ser temporárias ou por período indeterminado, integrais ou parciais, e a sua criação deverá ser precedida de acordo a celebrar com as entidades titulares ou gestoras dos terrenos abrangidos, se por estes não tiver sido requerida.
 
 3 - Nas reservas integrais é proibido o acto venatório a qualquer espécie cinegética e nas reservas parciais é proibido o exercício da caça a determinada ou determinadas espécies cinegéticas.
 
-###### Art. 31.º - 1 - As reservas de caça, os terrenos submetidos a regime cinegético especial e os campos de treino de caça serão delimitados por tabuletas e sinais de modelo a definir por portaria do Secretário Regional da Economia.
+Art. 31.º - 1 - As reservas de caça, os terrenos submetidos a regime cinegético especial e os campos de treino de caça serão delimitados por tabuletas e sinais de modelo a definir por portaria do Secretário Regional da Economia.
 
 2 - Podem ser igualmente delimitados, mediante tabuletas e sinais de modelo definido por portaria do Secretário Regional da Economia, os terrenos onde a caça seja proibida permanentemente ou onde esteja sujeita a consentimento de quem de direito.
 
 3 - As tabuletas ou sinais a que se referem os números anteriores devem ser colocados sobre postes, à altura mínima de 1,5 m, em lugares bem visíveis, em todos os locais de passagem e no perímetro do terreno, a distâncias iguais ou inferiores a 100 m, de forma que de cada um deles se possa avistar o imediato e o antecedente.
 
-###### Art. 32.º Para efeitos deste diploma, considera-se época venatória o período que decorre entre 1 de Junho de cada ano e 31 de Maio do ano seguinte.
+Art. 32.º Para efeitos deste diploma, considera-se época venatória o período que decorre entre 1 de Junho de cada ano e 31 de Maio do ano seguinte.
 
-###### Art. 33.º - 1 - O acto venatório só é permitido de dia, entendendo-se como tal o período que decorre entre o crepúsculo da manhã e o fim do crepúsculo da tarde.
+Art. 33.º - 1 - O acto venatório só é permitido de dia, entendendo-se como tal o período que decorre entre o crepúsculo da manhã e o fim do crepúsculo da tarde.
 
 2 - O exercício da caça nos terrenos de regime cinegético geral só é permitido às quintas-feiras, domingos e feriados nacionais obrigatórios, nos locais, períodos e pelos processos definidos neste diploma, com observância das demais condições legais e regulamentares, salvo o disposto no número seguinte.
 
@@ -362,7 +396,7 @@ c) Nos terrenos ocupados com qualquer sementeira ou plantação de espécies flo
 
 5 - É proibido caçar ou transportar armas de caça em todo o território da RAM nos dias em que se realizem eleições nacionais ou regionais e ainda quando se efectuem eleições locais na área da respectiva autarquia.
 
-###### Art. 34.º - 1 - A caça pode ser exercida pelos seguintes processos:
+Art. 34.º - 1 - A caça pode ser exercida pelos seguintes processos:
 
 a) «De salto», aquele em que um ou mais caçadores se deslocam para procurar, perseguir, apanhar ou matar a caça que eles próprios levantam, com ou sem ajuda de cães;
 
@@ -378,7 +412,7 @@ e) «Cetraria» ou «falcoaria», aquele em que os animais são capturados por q
 
 3 - Os grupos ou «linhas» só podem ser constituídos, no máximo, por cinco caçadores.
 
-###### Art. 35.º - 1 - No exercício da caça apenas podem ser utilizados os seguintes instrumentos e meios:
+Art. 35.º - 1 - No exercício da caça apenas podem ser utilizados os seguintes instrumentos e meios:
 
 a) Armas classificadas como de caça pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949;
 
@@ -408,15 +442,15 @@ f) Negaças, chamarizes e reclames.
 
 #### SECÇÃO III — Períodos venatórios. Condicionamentos específicos
 
-###### Art. 36.º - 1 - O Secretário Regional da Economia definirá anualmente, por portaria, o calendário venatório a vigorar na respectiva época, com enumeração das diferentes espécies cinegéticas cuja caça é permitida, bem como os respectivos condicionamentos e períodos venatórios.
+Art. 36.º - 1 - O Secretário Regional da Economia definirá anualmente, por portaria, o calendário venatório a vigorar na respectiva época, com enumeração das diferentes espécies cinegéticas cuja caça é permitida, bem como os respectivos condicionamentos e períodos venatórios.
 
 2 - Os períodos venatórios estabelecidos anualmente para cada uma das espécies cinegéticas serão fixados dentro dos limites temporais estabelecidos no presente diploma, podendo a todo o tempo ser interrompidos.
 
 3 - Os períodos venatórios e os condicionamentos podem referir-se a todo o território da RAM ou apenas a certas regiões ou locais.
 
-###### Art. 37.º A caça às espécies de caça maior, constantes da lista anexa, poderá ser autorizada durante todo o ano.
+Art. 37.º A caça às espécies de caça maior, constantes da lista anexa, poderá ser autorizada durante todo o ano.
 
-###### Art. 38.º - 1 - A caça às lebres pode ser autorizada nos meses de Outubro a Dezembro, inclusive, e cada caçador só pode capturar ou abater uma lebre por dia de caça.
+Art. 38.º - 1 - A caça às lebres pode ser autorizada nos meses de Outubro a Dezembro, inclusive, e cada caçador só pode capturar ou abater uma lebre por dia de caça.
 
 2 - A caça de batida às lebres só é permitida nos terrenos de regime cinegético especial.
 
@@ -424,13 +458,13 @@ f) Negaças, chamarizes e reclames.
 
 4 - Nos terrenos sujeitos a regime cinegético especial, a caça às lebres poderá ser permitida nos meses de Outubro a Fevereiro, inclusive.
 
-###### Art. 39.º - 1 - Nos terrenos de regime cinegético geral, a caça aos coelhos poderá ser autorizada nos meses de Outubro a Dezembro, inclusive, sendo a caça de batida aos coelhos autorizada apenas nos locais, dias e demais condições definidos em edital da DSF.
+Art. 39.º - 1 - Nos terrenos de regime cinegético geral, a caça aos coelhos poderá ser autorizada nos meses de Outubro a Dezembro, inclusive, sendo a caça de batida aos coelhos autorizada apenas nos locais, dias e demais condições definidos em edital da DSF.
 
 2 - Nos terrenos sujeitos a regime cinegético especial, a caça aos coelhos pode ser autorizada nos meses de Outubro a Fevereiro, inclusive, pelos processos e meios definidos no plano de exploração.
 
 3 - A solicitação dos interessados, poderá ser autorizada, por despacho do Secretário Regional da Economia, a caça aos coelhos nos meses de Junho e Julho, em terrenos submetidos a regime cinegético especial onde sejam previsíveis surtos epidémicos.
 
-###### Art. 40.º - 1 - Nos terrenos de regime cinegético geral, a caça de salto às perdizes pode ser permitida nos meses de Outubro a Dezembro, inclusive, e cada caçador não pode caçar mais de cinco perdizes em cada dia de caça.
+Art. 40.º - 1 - Nos terrenos de regime cinegético geral, a caça de salto às perdizes pode ser permitida nos meses de Outubro a Dezembro, inclusive, e cada caçador não pode caçar mais de cinco perdizes em cada dia de caça.
 
 2 - Nos terrenos sujeitos a regime cinegético especial, a caça às perdizes pode ser permitida nos meses de Outubro a Fevereiro, inclusive.
 
@@ -438,13 +472,13 @@ f) Negaças, chamarizes e reclames.
 
 4 - Poderá ser autorizada, por despacho do Secretário Regional da Economia, a caça às perdizes com chamariz ou negaça nos meses de Fevereiro a Abril, inclusive, em terrenos submetidos a regime cinegético especial.
 
-###### Art. 41.º - 1 - Nos terrenos de regime cinegético geral, a caça aos faisões pode ser permitida nos meses de Outubro a Dezembro, inclusive, nos locais, dias e demais condições previstos por edital da DSF.
+Art. 41.º - 1 - Nos terrenos de regime cinegético geral, a caça aos faisões pode ser permitida nos meses de Outubro a Dezembro, inclusive, nos locais, dias e demais condições previstos por edital da DSF.
 
 2 - Nos terrenos sujeitos a regime cinegético especial, a caça aos faisões pode ser permitida nos meses de Outubro a Fevereiro, inclusive.
 
 3 - A caça de batida aos faisões só é permitida nas zonas de regime cinegético especial.
 
-###### Art. 42.º - 1 - A caça às codornizes pode ser permitida nos meses de Setembro a Dezembro, inclusive, sem prejuízo do disposto no número seguinte.
+Art. 42.º - 1 - A caça às codornizes pode ser permitida nos meses de Setembro a Dezembro, inclusive, sem prejuízo do disposto no número seguinte.
 
 2 - Nos terrenos de regime cinegético geral:
 
@@ -452,7 +486,7 @@ a) No mês de Setembro, a caça às codornizes só é permitida de salto nos loc
 
 b) Cada caçador não pode caçar mais de 10 codornizes por dia de caça.
 
-###### Art. 43.º - 1 - A caça às galinholas e narcejas pode ser permitida nos meses de Outubro a Fevereiro, inclusive, sem prejuízo do disposto no número seguinte.
+Art. 43.º - 1 - A caça às galinholas e narcejas pode ser permitida nos meses de Outubro a Fevereiro, inclusive, sem prejuízo do disposto no número seguinte.
 
 2 - Nos terrenos de regime cinegético geral:
 
@@ -460,7 +494,7 @@ a) Nos meses de Janeiro e Fevereiro só podem ser caçadas pelos processos, nos 
 
 b) Cada caçador não pode caçar mais de três galinholas ou de três narcejas por dia de caça.
 
-###### Art. 44.º - 1 - A caça aos pombos pode ser permitida nos meses de Agosto a Fevereiro, inclusive, nos termos dos números seguintes.
+Art. 44.º - 1 - A caça aos pombos pode ser permitida nos meses de Agosto a Fevereiro, inclusive, nos termos dos números seguintes.
 
 2 - De Agosto a Dezembro os pombos podem ser caçados nos locais e demais condições estabelecidos para a caça de outras espécies autorizadas no mesmo período.
 
@@ -468,7 +502,7 @@ b) Cada caçador não pode caçar mais de três galinholas ou de três narcejas 
 
 4 - Na caça aos pombos é permitida a utilização de negaças.
 
-###### Art. 45.º - 1 - A caça às aves aquáticas só é permitida nos meses de Agosto a Fevereiro, inclusive, sem prejuízo do disposto nos números seguintes.
+Art. 45.º - 1 - A caça às aves aquáticas só é permitida nos meses de Agosto a Fevereiro, inclusive, sem prejuízo do disposto nos números seguintes.
 
 2 - Nos terrenos de regime cinegético geral:
 
@@ -480,21 +514,21 @@ b) Nos meses de Agosto, Setembro, Janeiro e Fevereiro a caça às aves aquática
 
 ### CAPÍTULO III — Regimes cinegéticos
 
-###### Art. 46.º - 1 - Para efeitos da organização da actividade venatória e do ordenamento do património cinegético regional, os terrenos de caça podem ser sujeitos a regime cinegético geral ou a regime cinegético especial.
+Art. 46.º - 1 - Para efeitos da organização da actividade venatória e do ordenamento do património cinegético regional, os terrenos de caça podem ser sujeitos a regime cinegético geral ou a regime cinegético especial.
 
 2 - Encontram-se sujeitos ao regime cinegético geral os terrenos onde seja permitido o exercício da caça e que não estejam integrados em zonas de regime especial.
 
-###### Art. 47.º - 1 - Salvo determinação em contrário, as águas e terrenos do domínio público fluvial e lacustre existentes no interior das zonas de regime cinegético especial consideram-se abrangidas pelo mesmo, independentemente de qualquer formalidade.
+Art. 47.º - 1 - Salvo determinação em contrário, as águas e terrenos do domínio público fluvial e lacustre existentes no interior das zonas de regime cinegético especial consideram-se abrangidas pelo mesmo, independentemente de qualquer formalidade.
 
 2 - O diploma que instituir uma zona de regime cinegético especial pode determinar que as águas e terrenos do domínio público fluvial e lacustre existentes no seu perímetro sejam abrangidos na totalidade ou em parte pela respectiva zona de caça.
 
-###### Art. 48.º - 1 - Nos terrenos de regime cinegético geral, o acto venatório é permitido nos termos da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, do presente diploma e demais disposições regulamentares.
+Art. 48.º - 1 - Nos terrenos de regime cinegético geral, o acto venatório é permitido nos termos da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, do presente diploma e demais disposições regulamentares.
 
 2 - Nos terrenos submetidos a regime cinegético especial, o acto venatório é permitido nos termos das disposições legais e regulamentares que lhe forem directamente aplicáveis e de acordo com os planos de ordenamento e exploração das respectivas zonas de caça devidamente aprovadas.
 
 #### SECÇÃO I — Regime cinegético especial. Disposições gerais
 
-###### Art. 49.º - 1 - Os terrenos de regime cinegético especial podem compreender as seguintes zonas de caça:
+Art. 49.º - 1 - Os terrenos de regime cinegético especial podem compreender as seguintes zonas de caça:
 
 a) Zonas de caça nacionais, abreviadamente designadas por ZCN;
 
@@ -512,23 +546,23 @@ d) Zonas de caça turísticas, abreviadamente designadas por ZCT.
 
 5 - São ZCT as que se constituam com vista ao aproveitamento turístico dos recursos cinegéticos, garantindo, para além da exploração da caça, a prestação de serviços turísticos adequados.
 
-###### Art. 50.º As zonas de caça de regime cinegético especial serão criadas por períodos mínimos de 6 ou 12 anos, conforme respeitem ou abranjam predominantemente a exploração de espécies de caça menor ou de caça maior, respectivamente.
+Art. 50.º As zonas de caça de regime cinegético especial serão criadas por períodos mínimos de 6 ou 12 anos, conforme respeitem ou abranjam predominantemente a exploração de espécies de caça menor ou de caça maior, respectivamente.
 
-###### Art. 51.º - 1 - Os terrenos que integram o sector público serão afectados prioritariamente a zonas de caça nacionais ou sociais.
+Art. 51.º - 1 - Os terrenos que integram o sector público serão afectados prioritariamente a zonas de caça nacionais ou sociais.
 
 2 - Quando a DSF considerar inadequada a constituição de zonas de caça nacionais ou sociais em terrenos de sector público, poderão estes terrenos, através de concurso público para concessão do direito de caça, ser submetidos ao regime especial das zonas de caça associativa ou turística, se confinarem com outros terrenos privados destinados a esse fim.
 
 3 - Se a área dos terrenos pertencentes ao sector público não exceder 300 ha, na constituição de zonas de caça associativa e turística é dispensado o concurso público previsto no número anterior.
 
-###### Art. 52.º As áreas definidas como reservas de caça, ao abrigo do n.º 2 do artigo 15.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, podem ser submetidas a regime cinegético especial, prioritariamente como zonas de caça nacionais ou sociais.
+Art. 52.º As áreas definidas como reservas de caça, ao abrigo do n.º 2 do artigo 15.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, podem ser submetidas a regime cinegético especial, prioritariamente como zonas de caça nacionais ou sociais.
 
-###### Art. 53.º A apreciação e decisão dos processos relativos à criação de zonas de regime cinegético especial em terrenos legalmente definidos como zonas agrícolas desfavorecidas deve preceder a dos processos relativos a outras áreas da RAM.
+Art. 53.º A apreciação e decisão dos processos relativos à criação de zonas de regime cinegético especial em terrenos legalmente definidos como zonas agrícolas desfavorecidas deve preceder a dos processos relativos a outras áreas da RAM.
 
-###### Art. 54.º As entidades gestoras de zonas de regime cinegético especial cujos planos de ordenamento e exploração contemplem medidas e acções de conservação de populações de espécies animais - cinegéticas ou não - endémicas, raras ou em perigo de extinção ou de conservação dos respectivos habitats ou ainda da promoção do aproveitamento sustentado de recursos endógenos, poderão beneficiar de redução de taxas até 50%, por despacho do Secretário Regional da Economia, precedendo proposta fundamentada da DSF para as espécies cinegéticas e parecer do PNM para as restantes espécies.
+Art. 54.º As entidades gestoras de zonas de regime cinegético especial cujos planos de ordenamento e exploração contemplem medidas e acções de conservação de populações de espécies animais - cinegéticas ou não - endémicas, raras ou em perigo de extinção ou de conservação dos respectivos habitats ou ainda da promoção do aproveitamento sustentado de recursos endógenos, poderão beneficiar de redução de taxas até 50%, por despacho do Secretário Regional da Economia, precedendo proposta fundamentada da DSF para as espécies cinegéticas e parecer do PNM para as restantes espécies.
 
-###### Art. 55.º O parecer do PNM a que se refere o número anterior deverá ser emitido no prazo de 30 dias a contar da data de recepção do pedido da DSF.
+Art. 55.º O parecer do PNM a que se refere o número anterior deverá ser emitido no prazo de 30 dias a contar da data de recepção do pedido da DSF.
 
-###### Art. 56.º - 1 - O acordo prévio a que se refere o artigo 21.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, será celebrado por período mínimo correspondente ao da validade da respectiva zona de regime cinegético especial.
+Art. 56.º - 1 - O acordo prévio a que se refere o artigo 21.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, será celebrado por período mínimo correspondente ao da validade da respectiva zona de regime cinegético especial.
 
 2 - O acordo referido no número anterior constará de documento escrito, devidamente assinado pelas partes intervenientes.
 
@@ -542,7 +576,7 @@ d) Zonas de caça turísticas, abreviadamente designadas por ZCT.
 
 7 - A DSF excluirá do pedido de concessão os terrenos cujos titulares ou gestores tenham apresentado reclamação nos termos do número anterior.
 
-###### Art. 57.º O plano de ordenamento e exploração cinegéticos definirá as medidas a adoptar e as acções a empreender que visem o fomento, a conservação e a exploração racional da caça com vista a alcançar e manter o melhor aproveitamento das potencialidades cinegéticas do terreno em questão, dele devendo constar, nomeadamente:
+Art. 57.º O plano de ordenamento e exploração cinegéticos definirá as medidas a adoptar e as acções a empreender que visem o fomento, a conservação e a exploração racional da caça com vista a alcançar e manter o melhor aproveitamento das potencialidades cinegéticas do terreno em questão, dele devendo constar, nomeadamente:
 
 a) Uma planta dos terrenos em tela ou noutro suporte transparente durável, na escala de 1:25000, referenciado à Carta Militar de Portugal, nesta escala, e três cópias desta planta;
 
@@ -562,15 +596,15 @@ g) Medidas a tomar no período inicial com vista ao repovoamento cinegético, a 
 
 2 - O plano de ordenamento e exploração deve prever que nos dois últimos anos do período de concessão de cada espécie cinegética não poderá ser abatido um número de indivíduos superior à média dos dois anos precedentes, salvo motivo devidamente justificado e mediante autorização da DSF.
 
-###### Art. 59.º - 1 - O processo administrativo tendente à constituição de zonas de caça de regime cinegético especial é fixado por portaria do Secretário Regional da Economia, da qual constarão, designadamente, os prazos de entrega dos pedidos de concessão, os requisitos a que o mesmo deve obedecer e os prazos de decisão.
+Art. 59.º - 1 - O processo administrativo tendente à constituição de zonas de caça de regime cinegético especial é fixado por portaria do Secretário Regional da Economia, da qual constarão, designadamente, os prazos de entrega dos pedidos de concessão, os requisitos a que o mesmo deve obedecer e os prazos de decisão.
 
 2 - A portaria referida no número anterior pode estabelecer a possibilidade de a DSF, a solicitação dos interessados na constituição de uma zona de caça do regime cinegético especial, determinar a proibição temporária do exercício da caça nos terrenos por esta abrangidos em momento anterior à sua efectiva constituição.
 
-###### Art. 60.º - 1 - O Secretário Regional da Economia, mediante informação fundamentada da DSF, pode determinar a intervenção desta na execução dos planos de ordenamento e exploração, suspendendo ou alterando algumas das suas disposições e a execução de acções previstas nesses planos, com o objectivo de salvaguardar as populações cinegéticas.
+Art. 60.º - 1 - O Secretário Regional da Economia, mediante informação fundamentada da DSF, pode determinar a intervenção desta na execução dos planos de ordenamento e exploração, suspendendo ou alterando algumas das suas disposições e a execução de acções previstas nesses planos, com o objectivo de salvaguardar as populações cinegéticas.
 
 2 - Nos termos do número anterior, à DSF compete alterar a lista das espécies cinegéticas e os contingentes que podem ser caçados, bem como os períodos, os dias e os meios de caça previstos.
 
-###### Art. 61.º - 1 - As entidades concessionárias ou que administram zonas de regime cinegético especial garantem nelas o cumprimento das disposições legais e regulamentares, bem como pelo das regras constantes dos respectivos planos de ordenamento e exploração e respondem pelo incumprimento dessas normas, sem prejuízo da responsabilidade pessoal dos infractores.
+Art. 61.º - 1 - As entidades concessionárias ou que administram zonas de regime cinegético especial garantem nelas o cumprimento das disposições legais e regulamentares, bem como pelo das regras constantes dos respectivos planos de ordenamento e exploração e respondem pelo incumprimento dessas normas, sem prejuízo da responsabilidade pessoal dos infractores.
 
 2 - Constituem ainda obrigações das entidades concessionárias ou administradoras de zonas de regime cinegético especial, nomeadamente:
 
@@ -580,7 +614,7 @@ b) A eficaz fiscalização e policiamento das áreas administradas;
 
 c) A conveniente e permanente delimitação e sinalização da zona, após afixação de editais.
 
-###### Art. 62.º Os concessionários das áreas de regime cinegético especial ficam obrigados a participar anualmente, até 30 de Abril, os resultados da execução do plano de ordenamento e exploração à DSF, nomeadamente no que se refere a:
+Art. 62.º Os concessionários das áreas de regime cinegético especial ficam obrigados a participar anualmente, até 30 de Abril, os resultados da execução do plano de ordenamento e exploração à DSF, nomeadamente no que se refere a:
 
 a) Número de caçadores admitidos;
 
@@ -594,7 +628,7 @@ e) As fotocópia das licenças de caça exigidas pelo artigo 70.º;
 
 f) Outros elementos que sejam, expressa e justificadamente, solicitados pela DSF.
 
-###### Art. 63.º - 1 - A renovação das concessões de zonas de caça associativas e turísticas deve ser requerida à DSF até 60 dias antes do termo do seu prazo de validade.
+Art. 63.º - 1 - A renovação das concessões de zonas de caça associativas e turísticas deve ser requerida à DSF até 60 dias antes do termo do seu prazo de validade.
 
 2 - Os requerimentos de renovação devem ser acompanhados de:
 
@@ -606,7 +640,7 @@ c) Outros elementos que sejam solicitados pela DSF;
 
 d) Quando não for cumprido o prazo referido no n.º 1 deste artigo, pode ainda ser requerida a renovação das concessões até 30 dias antes do termo deste prazo, com o pagamento de uma taxa do valor igual ao dobro da taxa anual respectiva.
 
-###### Art. 64.º - 1 - As concessões dos regimes cinegéticos especiais extinguem-se:
+Art. 64.º - 1 - As concessões dos regimes cinegéticos especiais extinguem-se:
 
 a) Por caducidade, se no fim do prazo de concessão esta não for renovada;
 
@@ -620,11 +654,11 @@ a) A concessão se torne inconveniente para o interesse público;
 
 b) Forem desrespeitadas, de forma grave ou continuada, as obrigações dos concessionários constantes da lei ou dos respectivos planos de ordenamento e de exploração.
 
-###### Art. 65.º - 1 - Extinta a concessão de regime cinegético especial, os que tinham a qualidade de concessionário deverão retirar as tabuletas e sinais de demarcação no prazo de 30 dias a contar da notificação que para esse fim seja feita pela DSF.
+Art. 65.º - 1 - Extinta a concessão de regime cinegético especial, os que tinham a qualidade de concessionário deverão retirar as tabuletas e sinais de demarcação no prazo de 30 dias a contar da notificação que para esse fim seja feita pela DSF.
 
 2 - Se as tabuletas e sinais não forem retirados dentro do prazo fixado, procederá a DSF ao seu arrancamento, sendo os obrigados responsáveis pelas despesas.
 
-###### Art. 66.º - 1 - Os terrenos submetidos a regime cinegético especial consideram-se submetidos ao regime florestal, para efeitos de policiamento e fiscalização da casa.
+Art. 66.º - 1 - Os terrenos submetidos a regime cinegético especial consideram-se submetidos ao regime florestal, para efeitos de policiamento e fiscalização da casa.
 
 2 - O concessionário de cada área de regime especial de caça é obrigado a assegurar a permanente fiscalização dos respectivos terrenos pelo número de guardas florestais auxiliares fixado no plano de ordenamento, que deve prever pelo menos um por cada 2000 ha ou fracção, ou um por cada 500 ha ou fracção, respectivamente, consoante disponha ou não de meio de transporte para a fiscalização.
 
@@ -636,7 +670,7 @@ b) Forem desrespeitadas, de forma grave ou continuada, as obrigações dos conce
 
 #### SECÇÃO II — Regime cinegético especial. Disposições especiais
 
-###### Art. 67.º - 1 - As ZCN localizadas na RAM são constituídas por decreto regulamentar regional, ouvido o Conselho Regional da Caça e da Conservação da Fauna, em terrenos públicos cujas características de natureza física ou biológica permitam a constituição de núcleos de potencialidades cinegéticas tais que justifiquem ser a RAM o único responsável pela sua administração.
+Art. 67.º - 1 - As ZCN localizadas na RAM são constituídas por decreto regulamentar regional, ouvido o Conselho Regional da Caça e da Conservação da Fauna, em terrenos públicos cujas características de natureza física ou biológica permitam a constituição de núcleos de potencialidades cinegéticas tais que justifiquem ser a RAM o único responsável pela sua administração.
 
 2 - As ZCN são constituídas por tempo indeterminado, em terrenos públicos ou privados, quando a RAM obtenha para tal a concordância das respectivas entidades titulares e gestoras.
 
@@ -652,7 +686,7 @@ b) Forem desrespeitadas, de forma grave ou continuada, as obrigações dos conce
 
 8 - Nas ZCN as taxas devidas pelos caçadores nacionais e pelos caçadores estrangeiros residentes em território nacional deverão ser inferiores às dos restantes caçadores, salvo reciprocidade de tratamento.
 
-###### Art. 68.º - 1 - As ZCS são constituídas por portaria do Secretário Regional da Economia, ouvido o Conselho Regional da Caça e da Conservação da Fauna, e visam proporcionar a todos os caçadores nacionais o exercício organizado da caça em condições especialmente acessíveis.
+Art. 68.º - 1 - As ZCS são constituídas por portaria do Secretário Regional da Economia, ouvido o Conselho Regional da Caça e da Conservação da Fauna, e visam proporcionar a todos os caçadores nacionais o exercício organizado da caça em condições especialmente acessíveis.
 
 2 - As ZCS são constituídas por tempo indeterminado, enquanto se verificarem condições para o seu bom funcionamento, de preferência em terrenos dos sectores público ou cooperativo, podendo também incluir terrenos do sector privado, com a concordância das entidades titulares e gestoras.
 
@@ -672,7 +706,7 @@ b) Forem desrespeitadas, de forma grave ou continuada, as obrigações dos conce
 
 10 - Nas situações previstas nos n.os 2 e 3 do artigo 51.º, as entidades que podem requerer a constituição da ZCS podem exercer direito de opção na concessão da exploração cinegética de terrenos do sector público.
 
-###### Art. 69.º - 1 - As ZCA são constituídas por portaria do Secretário Regional da Economia, ouvido o Conselho Regional da Caça e da Conservação da Fauna, e visam conceder a associações de caçadores legalmente constituídas e registadas nos termos deste diploma, que nelas se proponham custear e realizar acções de fomento e conservação da fauna cinegética e gerir este património de modo a proporcionar aos seus associados a prática da caça de forma regrada e racional, com observância das regras legais e das suas normas estatutárias e regulamentares.
+Art. 69.º - 1 - As ZCA são constituídas por portaria do Secretário Regional da Economia, ouvido o Conselho Regional da Caça e da Conservação da Fauna, e visam conceder a associações de caçadores legalmente constituídas e registadas nos termos deste diploma, que nelas se proponham custear e realizar acções de fomento e conservação da fauna cinegética e gerir este património de modo a proporcionar aos seus associados a prática da caça de forma regrada e racional, com observância das regras legais e das suas normas estatutárias e regulamentares.
 
 2 - As ZCA só podem ser concedidas a associações de caçadores que tenham um mínimo de 20 associados.
 
@@ -684,13 +718,13 @@ b) Forem desrespeitadas, de forma grave ou continuada, as obrigações dos conce
 
 6 - Quando a área cinegética do município já esteja abrangida em 50%, ou mais, por zonas de caça do regime cinegético especial, só se podem constituir mais ZCA desde que pelo menos metade dos membros das associações de caçadores requerentes seja natural ou residente na freguesia em causa, salvo quando, por razões atendíveis, tal não seja possível, caso em que a naturalidade e residência se reportará ao respectivo município.
 
-###### Art. 70.º Os membros das associações de caçadores que requererem a concessão de uma ZCA têm obrigatoriamente de, no momento da apresentação do respectivo pedido e durante o período da concessão, ser titulares de licença geral de caça e das licenças especiais relativas ao tipo de caça previsto no plano de exploração apresentado.
+Art. 70.º Os membros das associações de caçadores que requererem a concessão de uma ZCA têm obrigatoriamente de, no momento da apresentação do respectivo pedido e durante o período da concessão, ser titulares de licença geral de caça e das licenças especiais relativas ao tipo de caça previsto no plano de exploração apresentado.
 
-###### Art. 71.º - 1 - Os planos de ordenamento e exploração das ZCA serão apresentados pelas requerentes à DSF, que, no caso de aprovação, fiscalizará o seu cumprimento e proporá a sua alteração quando entender conveniente.
+Art. 71.º - 1 - Os planos de ordenamento e exploração das ZCA serão apresentados pelas requerentes à DSF, que, no caso de aprovação, fiscalizará o seu cumprimento e proporá a sua alteração quando entender conveniente.
 
 2 - A partir de 1995 ou do ano em que nelas se iniciar o exercício da caça, no caso de ser em data posterior, as concessões de ZCA ficam sujeitas ao pagamento de uma taxa anual, a fixar por portaria do Secretário Regional da Economia.
 
-###### Art. 72.º - 1 - As ZCT são constituídas por portaria do Secretário Regional da Economia, obtido parecer favorável do Secretário Regional do Turismo, Cultura e Emigração e ouvido o Conselho Regional da Caça e da Conservação da Fauna, e visam o aproveitamento turístico da exploração dos recursos cinegéticos.
+Art. 72.º - 1 - As ZCT são constituídas por portaria do Secretário Regional da Economia, obtido parecer favorável do Secretário Regional do Turismo, Cultura e Emigração e ouvido o Conselho Regional da Caça e da Conservação da Fauna, e visam o aproveitamento turístico da exploração dos recursos cinegéticos.
 
 2 - As ZCT são concedidas a requerimento de empresas turísticas, autarquias, sociedades de titulares ou gestores dos terrenos ou outras entidades de reconhecida capacidade para o efeito, por prazo certo e renovável, nos termos do presente diploma, enquanto se verificar o seu bom funcionamento e sejam atingidos os fins para que foram concedidas.
 
@@ -706,7 +740,7 @@ b) Forem desrespeitadas, de forma grave ou continuada, as obrigações dos conce
 
 8 - A concessão de ZCT está sujeita ao pagamento de taxas, a definir em portaria do Secretário Regional da Economia, que serão devidas a partir do ano em que se iniciar o exercício da caça.
 
-###### Art. 73.º No plano de aproveitamento turístico das ZCT deve constar, designadamente:
+Art. 73.º No plano de aproveitamento turístico das ZCT deve constar, designadamente:
 
 a) A forma como o aproveitamento cinegético se insere no âmbito dos projectos de desenvolvimento regional em curso e, em especial, no âmbito do plano regional de turismo respectivo, caso exista;
 
@@ -720,7 +754,7 @@ e) Os mercados prioritários para que o projecto se orienta e os programas de pr
 
 ### CAPÍTULO IV — Criação de espécies cinegéticas em cativeiro
 
-###### Art. 74.º - 1 - É permitida a criação de caça em cativeiro visando a reprodução de espécies cinegéticas destinadas a repovoamento, produção de peles, consumo alimentar ou utilização em campos de treino de caça, mediante autorização da DRA, sob parecer da DSF e ouvida a Direcção Regional da Pecuária, abreviadamente designada por DRP, sobre os aspectos sanitários.
+Art. 74.º - 1 - É permitida a criação de caça em cativeiro visando a reprodução de espécies cinegéticas destinadas a repovoamento, produção de peles, consumo alimentar ou utilização em campos de treino de caça, mediante autorização da DRA, sob parecer da DSF e ouvida a Direcção Regional da Pecuária, abreviadamente designada por DRP, sobre os aspectos sanitários.
 
 2 - É proibida a criação em cativeiro para efeitos cinegéticos, designadamente repovoamento ou largadas em campos de treino, de perdizes das espécies Alectoris graeca, A. chuckar, A. barbara ou seus híbridos ou destas com A. rufa.
 
@@ -728,13 +762,13 @@ e) Os mercados prioritários para que o projecto se orienta e os programas de pr
 
 ### CAPÍTULO V — Campos de treino de caça
 
-###### Art. 75.º - 1 - A DSF pode constituir ou autorizar a instalação de campos de treino, destinados à prática de actividades de carácter venatório durante todo o ano, nomeadamente o exercício de tiro com arma de fogo e o treino de cães de caça e para a realização de corridas de lebres.
+Art. 75.º - 1 - A DSF pode constituir ou autorizar a instalação de campos de treino, destinados à prática de actividades de carácter venatório durante todo o ano, nomeadamente o exercício de tiro com arma de fogo e o treino de cães de caça e para a realização de corridas de lebres.
 
 2 - A constituição e o funcionamento de campos de treino serão regulamentados por portaria do Secretário Regional da Economia.
 
 ### CAPÍTULO VI — Detenção, comércio, transporte e exposição de caça
 
-###### Art. 76.º - 1 - É proibida a detenção, o transporte, o comércio e a exposição de exemplares mortos de espécies cinegéticas não marcadas, excepto, se se tratar de exemplares mortos em actividades cinegéticas, durante os respectivos períodos de caça e nos cinco dias seguintes.
+Art. 76.º - 1 - É proibida a detenção, o transporte, o comércio e a exposição de exemplares mortos de espécies cinegéticas não marcadas, excepto, se se tratar de exemplares mortos em actividades cinegéticas, durante os respectivos períodos de caça e nos cinco dias seguintes.
 
 2 - É proibida a venda, o transporte para venda, a detenção para venda e ainda o acto de pôr à venda exemplares mortos de espécies cinegéticas, bem como de qualquer parte ou produto obtido a partir dos mesmos e como tal facilmente identificáveis, excepto:
 
@@ -742,17 +776,17 @@ a) Tratando-se de espécies cinegéticas constantes de portaria do Secretário R
 
 b) Tratando-se de exemplares criados em cativeiro nos termos definidos no presente diploma e sua regulamentação.
 
-###### Art. 77.º - 1 - A detenção e o comércio de exemplares naturalizados, peles, troféus ou partes identificadas de espécies cinegéticas são regulados por portaria do Secretário Regional da Economia.
+Art. 77.º - 1 - A detenção e o comércio de exemplares naturalizados, peles, troféus ou partes identificadas de espécies cinegéticas são regulados por portaria do Secretário Regional da Economia.
 
 2 - A DSF deve organizar e manter um cadastro regional de troféus de caça.
 
 3 - Para efeitos de classificação de troféus de caça maior o Secretário Regional da Economia nomeará uma comissão regional de homologação de troféus, presidida pela DSF.
 
-###### Art. 78.º - 1 - A detenção, comércio e transporte de exemplares vivos de espécies cinegéticas só são permitidos quando autorizados pela DSF.
+Art. 78.º - 1 - A detenção, comércio e transporte de exemplares vivos de espécies cinegéticas só são permitidos quando autorizados pela DSF.
 
 2 - É proibido a venda, o transporte para venda, a detenção para venda e ainda o acto de pôr à venda exemplares vivos de espécies cinegéticas que não constem da portaria referida no n.º 2 do artigo 76.º, excepto quando se trate de exemplares criados em cativeiro.
 
-###### Art. 79.º - 1 - Depende de autorização da DRA e da DRP, quanto aos aspectos hígio-sanitários, a importação e a exportação de exemplares vivos ou mortos de espécies cinegéticas, sem prejuízo do disposto nos números seguintes.
+Art. 79.º - 1 - Depende de autorização da DRA e da DRP, quanto aos aspectos hígio-sanitários, a importação e a exportação de exemplares vivos ou mortos de espécies cinegéticas, sem prejuízo do disposto nos números seguintes.
 
 2 - Não carece da autorização da DRA, prevista no número anterior:
 
@@ -762,13 +796,13 @@ b) A importação de exemplares mortos de espécies cinegéticas desde que trans
 
 3 - A importação de exemplares vivos de espécies cinegéticas não indígenas depende de autorização da DRA, ouvida a DSF, e sob parecer favorável do PNM.
 
-###### Art. 80.º - 1 - O sistemas de marcação a utilizar nos termos do artigo 76.º serão definidos por portaria do Secretário Regional da Economia.
+Art. 80.º - 1 - O sistemas de marcação a utilizar nos termos do artigo 76.º serão definidos por portaria do Secretário Regional da Economia.
 
 2 - A marcação de exemplares de espécies cinegéticas vivos, mortos ou naturalizados, dos seus troféus e peles é feita pela DSF ou pelas entidades por esta expressamente autorizadas.
 
 ### CAPÍTULO VII — Correcção da densidade dos animais prejudiciais à caça, pesca e agricultura
 
-###### Art. 81.º - 1 - As espécies cinegéticas podem ser objecto de acções de correcção quando tal seja necessário para prevenir ou minimizar a ocorrência de danos na fauna, na flora, na pesca, nas florestas, na agricultura e pecuária ou ainda para a protecção da saúde e segurança públicas.
+Art. 81.º - 1 - As espécies cinegéticas podem ser objecto de acções de correcção quando tal seja necessário para prevenir ou minimizar a ocorrência de danos na fauna, na flora, na pesca, nas florestas, na agricultura e pecuária ou ainda para a protecção da saúde e segurança públicas.
 
 2 - As acções de correcção são efectuadas pela DSF ou pelos interessados por ela devidamente licenciados.
 
@@ -786,7 +820,7 @@ Art.º 82.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 75/91](https:/
 
 4 - O disposto nos números anteriores não prejudica as competências próprias do PNM.
 
-###### Art. 83.º - 1 - As entidades a quem for concedida a exploração de zonas de regime cinegético especial, de instalações para a criação de caça em cativeiro ou de campos de treino de caça são obrigadas a indemnizar os danos que, por efeitos dessa concessão, forem causados nos terrenos vizinhos.
+Art. 83.º - 1 - As entidades a quem for concedida a exploração de zonas de regime cinegético especial, de instalações para a criação de caça em cativeiro ou de campos de treino de caça são obrigadas a indemnizar os danos que, por efeitos dessa concessão, forem causados nos terrenos vizinhos.
 
 2 - A obrigação de indemnização referida no número anterior não existe nas situações em que se comprove que os danos não se teriam verificado caso tivessem sido autorizadas pelas autoridades competentes as medidas correctivas regularmente requeridas pelas entidades em causa.
 
@@ -802,19 +836,19 @@ Art.º 82.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 75/91](https:/
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 84.º - 1 - Nos termos da Lei da Caça, constitui infracção de caça todo o facto punível que seja praticado com violação das normas legais e regulamentares em matéria de caça.
+Art. 84.º - 1 - Nos termos da Lei da Caça, constitui infracção de caça todo o facto punível que seja praticado com violação das normas legais e regulamentares em matéria de caça.
 
 2 - As infracções de caça são crimes e contra-ordenações.
 
-###### Art. 85.º São crimes de caça os factos como tal descritos e punidos nos termos dos artigos 31.º e 32.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, aplicada e adaptada à RAM pela [Lei n.º 28/89](https://diariodarepublica.pt/dr/detalhe/lei/28-1989-618524), de 22 de Agosto, e pelo [Decreto Legislativo Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-574315), de 27 de Agosto.
+Art. 85.º São crimes de caça os factos como tal descritos e punidos nos termos dos artigos 31.º e 32.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, aplicada e adaptada à RAM pela [Lei n.º 28/89](https://diariodarepublica.pt/dr/detalhe/lei/28-1989-618524), de 22 de Agosto, e pelo [Decreto Legislativo Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-574315), de 27 de Agosto.
 
-###### Art. 86.º Se o mesmo facto constituir simultaneamente crime e contra-ordenação, será o agente punido a título de crime, sem prejuízo das sanções acessórias previstas para a contra-ordenação.
+Art. 86.º Se o mesmo facto constituir simultaneamente crime e contra-ordenação, será o agente punido a título de crime, sem prejuízo das sanções acessórias previstas para a contra-ordenação.
 
-###### Art. 87.º - 1 - As secretarias judiciais devem enviar à DSF, no prazo de 10 dias a contar do respectivo trânsito em julgado, certidão ou fotocópia das decisões finais proferidas nos processos instaurados por infracção a disposições legais e regulamentares sobre a caça.
+Art. 87.º - 1 - As secretarias judiciais devem enviar à DSF, no prazo de 10 dias a contar do respectivo trânsito em julgado, certidão ou fotocópia das decisões finais proferidas nos processos instaurados por infracção a disposições legais e regulamentares sobre a caça.
 
 2 - A DSF pode solicitar informações às secretarias judiciais sobre o andamento dos processos relativos às infracções a que se refere o número anterior.
 
-###### Art. 88.º As associações de caçadores são responsáveis pelas contra-ordenações previstas no presente diploma, quando cometidas pelos seus órgãos no exercício das suas funções.
+Art. 88.º As associações de caçadores são responsáveis pelas contra-ordenações previstas no presente diploma, quando cometidas pelos seus órgãos no exercício das suas funções.
 
 Art.º 89.º - 1 - As autoridades e agentes de autoridade competentes para a polícia e fiscalização da caça deverão levantar autos de notícia por todas as infracções que presenciarem, bem como proceder à apreensão da carta de caçador do infractor e da licença de caça para não residentes, quando for caso disso, e ainda de todos os objectos que tiverem servido ou estivessem destinados à prática de uma infracção de caça, os que constituam seu produto e, bem assim, de todos os objectos que tiverem sido deixados pelo agente no local de infracção e de quaisquer outros susceptíveis de servir de prova.
 
@@ -840,13 +874,13 @@ f) Apreensões efectuadas pelo autuante.
 
 6 - Se as autoridades e agentes da autoridade competentes para a fiscalização da caça tiverem conhecimento da prática de qualquer infracção que não tenham presenciado, deverão fazer dela participação, a enviar às entidades competentes para o respectivo procedimento.
 
-###### Art. 90.º As autoridades e agentes de autoridade competente para a fiscalização da caça devem proceder à detenção dos infractores por crimes de caça puníveis com prisão quando em flagrante delito, nos termos do disposto no CPP.
+Art. 90.º As autoridades e agentes de autoridade competente para a fiscalização da caça devem proceder à detenção dos infractores por crimes de caça puníveis com prisão quando em flagrante delito, nos termos do disposto no CPP.
 
-###### Art. 91.º Em matéria relativa a contra-ordenações de caça que não se encontre regulada neste diploma é aplicável o regime geral de contra-ordenações.
+Art. 91.º Em matéria relativa a contra-ordenações de caça que não se encontre regulada neste diploma é aplicável o regime geral de contra-ordenações.
 
 #### SECÇÃO II — Das contra-ordenações
 
-###### Art. 92.º - 1 - Nos termos do disposto no artigo 31.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, constituem contra-ordenações de caça:
+Art. 92.º - 1 - Nos termos do disposto no artigo 31.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, constituem contra-ordenações de caça:
 
 a) O exercício da caça sem licença da caça para não residentes, quando exigível nos termos do artigo 8.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e do artigo 20.º do presente diploma;
 
@@ -910,27 +944,27 @@ Art.º 94.º - 1 - O processamento das contra-ordenações relativas à caça co
 
 Art.º 95.º Recebido o auto de notícia ou a participação referidos no artigo 89.º o arguido deve ser notificado para, no prazo de 15 dias, apresentar resposta escrita, podendo juntar os documentos probatórios de que disponha e arrolar testemunhas, até ao máximo de três por cada infracção, ou comparecer, para ser ouvido, em dia determinado.
 
-###### Art. 96.º - 1 - A instrução de processos de contra-ordenação não será atribuída ao autuante ou ao participante.
+Art. 96.º - 1 - A instrução de processos de contra-ordenação não será atribuída ao autuante ou ao participante.
 
 2 - O prazo para a instrução é de 60 dias.
 
 3 - Se, por fundadas razões, a entidade que dirigir a instrução não a puder completar no prazo indicado no número anterior, solicitará a sua prorrogação à entidade que ordenou a instrução pelo prazo indispensável à sua conclusão.
 
-###### Art. 97.º - 1 - As testemunhas indicadas no auto de notícia ou na participação serão convocadas pelas entidades às quais for confiada a instrução.
+Art. 97.º - 1 - As testemunhas indicadas no auto de notícia ou na participação serão convocadas pelas entidades às quais for confiada a instrução.
 
 2 - As testemunhas indicadas pelo infractor poderão ser substituídas até ao dia designado para a audição, devendo por ele ser apresentadas.
 
-###### Art. 98.º Na falta de comparência do arguido ou quando este não apresente resposta escrita, decidir-se-á com base nos elementos constantes do processo.
+Art. 98.º Na falta de comparência do arguido ou quando este não apresente resposta escrita, decidir-se-á com base nos elementos constantes do processo.
 
-###### Art. 99.º - 1 - Finda a instrução do processo, o instrutor elaborará, no prazo de 10 dias, uma proposta de decisão devidamente fundamentada, em relatório donde conste a existência material das infracções, a sua qualificação e gravidade, bem como o grau de culpa e situação económica do agente, e, ainda, a coima que considerar justa.
+Art. 99.º - 1 - Finda a instrução do processo, o instrutor elaborará, no prazo de 10 dias, uma proposta de decisão devidamente fundamentada, em relatório donde conste a existência material das infracções, a sua qualificação e gravidade, bem como o grau de culpa e situação económica do agente, e, ainda, a coima que considerar justa.
 
 2 - A entidade a quem incumba a decisão poderá, quando a complexidade do processo o exigir, prorrogar o prazo fixado no número anterior.
 
-###### Art. 100.º - 1 - As armas e meios de transporte, instrumentos e meios de caça restituem-se a quem pertencerem logo que transite em julgado o despacho de não pronúncia ou a decisão final absolutória ou logo que se verifique abstenção de acusar e ainda quando a entidade competente para a aplicação de coima decida arquivar o processo ou quando não sejam objecto de sanção acessória de apreensão.
+Art. 100.º - 1 - As armas e meios de transporte, instrumentos e meios de caça restituem-se a quem pertencerem logo que transite em julgado o despacho de não pronúncia ou a decisão final absolutória ou logo que se verifique abstenção de acusar e ainda quando a entidade competente para a aplicação de coima decida arquivar o processo ou quando não sejam objecto de sanção acessória de apreensão.
 
 2 - Consideram-se perdidos a favor da RAM os objectos, armas, meios e instrumentos pertencentes aos interessados no processo se estes os não reclamarem no prazo de dois meses a contar da notificação do despacho que ordenar a sua entrega.
 
-###### Art. 101.º - 1 - A caça morta que for apreendida será entregue, contra recibo, a instituições de solidariedade social da área do cometimento da infracção.
+Art. 101.º - 1 - A caça morta que for apreendida será entregue, contra recibo, a instituições de solidariedade social da área do cometimento da infracção.
 
 2 - Os exemplares vivos de espécies animais ilicitamente capturados em terrenos de regime cinegético especial serão entregues às autoridades que administrem essas zonas, salvo se lhes for imputável, total ou parcialmente, o cometimento da infracção.
 
@@ -942,13 +976,13 @@ Art.º 95.º Recebido o auto de notícia ou a participação referidos no artigo
 
 #### SECÇÃO I — Competências da Administração Pública
 
-###### Art. 102.º - 1 - Compete ao Secretário Regional da Economia, pela DSF, a prossecução das atribuições e o exercício das competências previstas no artigo 35.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
+Art. 102.º - 1 - Compete ao Secretário Regional da Economia, pela DSF, a prossecução das atribuições e o exercício das competências previstas no artigo 35.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
 
 2 - Compete ainda à DSF, no âmbito da conservação e gestão da fauna cinegética e do exercício da caça, participar nas actividades de organismos nacionais relativos àquelas matérias.
 
 #### SECÇÃO II — Conselho Regional da Caça e da Conservação de Fauna
 
-###### Art. 103.º - 1 - O Conselho Regional da Caça e da Conservação da Fauna, abreviadamente designado por Conselho Regional da Caça ou CRC, criado pelo [Decreto Legislativo Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-574315), de 27 de Agosto, é presidido pelo Secretário Regional da Economia e composto pelos seguintes vogais permanentes:
+Art. 103.º - 1 - O Conselho Regional da Caça e da Conservação da Fauna, abreviadamente designado por Conselho Regional da Caça ou CRC, criado pelo [Decreto Legislativo Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-574315), de 27 de Agosto, é presidido pelo Secretário Regional da Economia e composto pelos seguintes vogais permanentes:
 
 a) Director dos Serviços Florestais ou seu representante;
 
@@ -966,7 +1000,7 @@ e) Até dois representantes de entidades de reconhecida competência em matéria
 
 4 - Os membros do CRC que não sejam funcionários da administração regional ou local têm direito a senhas de presença, cujo valor será fixado por despacho conjunto dos Secretários Regionais da Economia e das Finanças.
 
-###### Art. 104.º O CRC tem funções consultivas junto do Governo Regional nomeadamente no que se refere a:
+Art. 104.º O CRC tem funções consultivas junto do Governo Regional nomeadamente no que se refere a:
 
 a) Política cinegética regional;
 
@@ -980,21 +1014,21 @@ e) Todos os assuntos de carácter cinegético sobre que o Governo Regional enten
 
 #### SECÇÃO III — Conselhos cinegéticos e de conservação da fauna
 
-###### Art. 105.º - 1 - Na RAM os conselhos cinegéticos e de conservação da fauna, adiante apenas designados por conselhos cinegéticos, serão constituídos a nível de ilha, um para a Madeira e outro para o Porto Santo, circunscrevendo-se o seu âmbito de actuação à ilha da Madeira ou à ilha do Porto Santo, respectivamente.
+Art. 105.º - 1 - Na RAM os conselhos cinegéticos e de conservação da fauna, adiante apenas designados por conselhos cinegéticos, serão constituídos a nível de ilha, um para a Madeira e outro para o Porto Santo, circunscrevendo-se o seu âmbito de actuação à ilha da Madeira ou à ilha do Porto Santo, respectivamente.
 
 2 - Para o desempenho das atribuições e o exercício das competências previstas no artigo 110.º, podem as associações de agricultores, de caçadores, os organismos de conservação da natureza e as autarquias locais, por iniciativa de qualquer delas, constituir os conselhos cinegéticos a que se refere o n.º 1.
 
-###### Art. 106.º - 1 - Os conselhos cinegéticos consideram-se constituídos a partir da data da reunião, convocada por qualquer das entidades referidas no n.º 2 do artigo 105.º, na qual serão verificados os poderes de representação de cada um dos seus membros e designado o respectivo presidente.
+Art. 106.º - 1 - Os conselhos cinegéticos consideram-se constituídos a partir da data da reunião, convocada por qualquer das entidades referidas no n.º 2 do artigo 105.º, na qual serão verificados os poderes de representação de cada um dos seus membros e designado o respectivo presidente.
 
 2 - Da reunião referida no número anterior será lavrada acta, da qual se extrairá cópia que, acompanhada de cópia dos pertinentes documentos, será remetida à DSF para efeitos de verificação da legalidade da sua constituição e registo.
 
 3 - A duração do mandato dos membros destes conselhos é de três anos, com início em 1 de Janeiro do respectivo ano.
 
-###### Art. 107.º - 1 - Os conselhos cinegéticos são constituídos, no máximo, por cinco membros, dos quais dois são representantes dos interesses dos agricultores e cada um dos restantes representa, respectivamente, os interesses das autarquias, das associações de caçadores e dos organismos de conservação da natureza.
+Art. 107.º - 1 - Os conselhos cinegéticos são constituídos, no máximo, por cinco membros, dos quais dois são representantes dos interesses dos agricultores e cada um dos restantes representa, respectivamente, os interesses das autarquias, das associações de caçadores e dos organismos de conservação da natureza.
 
 2 - Os membros dos conselhos cinegéticos são designados, respectivamente, pelas autarquias locais e pelas associações representativas dos interesses dos agricultores, dos caçadores e de conservação da natureza, legalmente existentes, que se integrem na respectiva área geográfica.
 
-###### Art. 108.º - 1 - Os conselhos cinegéticos reúnem ordinariamente uma vez por ano, no mês de Abril, e extraordinariamente quando convocados pelo respectivo presidente.
+Art. 108.º - 1 - Os conselhos cinegéticos reúnem ordinariamente uma vez por ano, no mês de Abril, e extraordinariamente quando convocados pelo respectivo presidente.
 
 2 - A DSF pode solicitar qualquer reunião quando entenda necessário ou conveniente ouvir os conselhos cinegéticos.
 
@@ -1006,7 +1040,7 @@ e) Todos os assuntos de carácter cinegético sobre que o Governo Regional enten
 
 6 - O valor das senhas de presença será fixado por despacho conjunto dos Secretários Regionais da Economia e das Finanças.
 
-###### Art. 109.º - 1 - É atribuição dos conselhos cinegéticos contribuir para a obtenção do melhor equilíbrio entre a cinegética e as actividades agrícolas, florestais, pecuárias e de conservação da natureza, de forma que a caça constitua um factor de apoio e valorização da agricultura e do desenvolvimento da economia regional.
+Art. 109.º - 1 - É atribuição dos conselhos cinegéticos contribuir para a obtenção do melhor equilíbrio entre a cinegética e as actividades agrícolas, florestais, pecuárias e de conservação da natureza, de forma que a caça constitua um factor de apoio e valorização da agricultura e do desenvolvimento da economia regional.
 
 2 - No desempenho das suas atribuições, aos conselhos cinegéticos compete, no que respeita à sua área geográfica, nomeadamente, o seguinte:
 
@@ -1022,11 +1056,11 @@ e) Facilitar e estimular a cooperação entre os organismos cujas acções inter
 
 f) Apoiar a Administração na fiscalização das normas legais sobre a caça.
 
-###### Art. 110.º Sempre que a lei estabeleça a participação de representantes dos caçadores e ou dos agricultores da RAM em organismos cinegéticos a nível nacional, aqueles serão eleitos por e de entre os membros dos conselhos cinegéticos da Madeira e do Porto Santo.
+Art. 110.º Sempre que a lei estabeleça a participação de representantes dos caçadores e ou dos agricultores da RAM em organismos cinegéticos a nível nacional, aqueles serão eleitos por e de entre os membros dos conselhos cinegéticos da Madeira e do Porto Santo.
 
 #### SECÇÃO IV — Polícia e fiscalização da caça
 
-###### Art. 111.º - 1 - A polícia e fiscalização da caça compete à Guarda Fiscal, à Polícia de Segurança Pública, à Polícia Marítima, aos guardas florestais e a outros funcionários e agentes do PNM e da DSF com funções de polícia florestal, e à Direcção de Serviços da Inspecção Económica.
+Art. 111.º - 1 - A polícia e fiscalização da caça compete à Guarda Fiscal, à Polícia de Segurança Pública, à Polícia Marítima, aos guardas florestais e a outros funcionários e agentes do PNM e da DSF com funções de polícia florestal, e à Direcção de Serviços da Inspecção Económica.
 
 2 - Os guardas florestais auxiliares contratados para a fiscalização de zonas de regime cinegético especial têm competência para a polícia e fiscalização nas áreas das respectivas zonas, devendo participar à DSF todas as infracções que tenham presenciado ou de que tenham conhecimento, ainda que cometidas fora dessas áreas.
 
@@ -1044,11 +1078,11 @@ e) Nas acções de fiscalização, ordenar aos caçadores que descarreguem as ar
 
 ### CAPÍTULO X — Organização venatória. Associações de caçadores
 
-###### Art. 112.º - 1 - As associações de caçadores, sociedades de caça ou clubes de caçadores, adiante designados por associações de caçadores, com a competência prevista na [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, aplicada à RAM pela [Lei n.º 28/89](https://diariodarepublica.pt/dr/detalhe/lei/28-1989-618524), de 22 de Agosto, e adaptada pelo [Decreto Legislativo Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-574315), de 27 de Agosto, podem federar-se e confederar-se a nível regional e nacional, respectivamente, nos termos da lei geral, sem prejuízo do disposto do número seguinte.
+Art. 112.º - 1 - As associações de caçadores, sociedades de caça ou clubes de caçadores, adiante designados por associações de caçadores, com a competência prevista na [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, aplicada à RAM pela [Lei n.º 28/89](https://diariodarepublica.pt/dr/detalhe/lei/28-1989-618524), de 22 de Agosto, e adaptada pelo [Decreto Legislativo Regional n.º 20/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-574315), de 27 de Agosto, podem federar-se e confederar-se a nível regional e nacional, respectivamente, nos termos da lei geral, sem prejuízo do disposto do número seguinte.
 
 2 - Às associações de caçadores, independentemente do seu âmbito geográfico, pode ser concedida a administração de ZCA e, bem assim, autorizada a instalação de campos de treino de caça.
 
-###### Art. 113.º - 1 - As associações de caçadores constituem-se nos termos da lei geral e funcionam segundo as regras definidas nos respectivos estatutos, regulamentos internos e normas subsidiárias, sem prejuízo do que a seguir se dispõe.
+Art. 113.º - 1 - As associações de caçadores constituem-se nos termos da lei geral e funcionam segundo as regras definidas nos respectivos estatutos, regulamentos internos e normas subsidiárias, sem prejuízo do que a seguir se dispõe.
 
 2 - Na RAM poderá ser criada uma federação regional das associações de caçadores existentes ou a constituir, a qual poderá inscrever-se na Confederação Nacional de Caçadores Portugueses, abreviadamente designada por CNCP.
 
@@ -1056,7 +1090,7 @@ e) Nas acções de fiscalização, ordenar aos caçadores que descarreguem as ar
 
 4 - Sem prejuízo do disposto no número anterior, as associações de caçadores e a federação regional devem ainda promover a sua inscrição na DSF.
 
-###### Art. 114.º Compete às associações de caçadores:
+Art. 114.º Compete às associações de caçadores:
 
 a) Representar na federação regional os interesses dos caçadores associados;
 
@@ -1080,7 +1114,7 @@ j) Dar à respectiva federação pareceres sobre épocas, locais e processos de 
 
 l) Colaborar com a DSF, nomeadamente no respeitante à execução dos planos de ordenamento e exploração das áreas que administrarem e, em especial, na prática correcta do exercício da caça e na atribuição dos ingressos, de forma a colocar todos os associados em igualdade de condições e oportunidades, e ainda dar pareceres sobre as matérias ou as informações que por aquele serviço lhes sejam solicitadas.
 
-###### Art. 115.º Compete à federação regional:
+Art. 115.º Compete à federação regional:
 
 a) Representar os interesses das associações da RAM na CNCP;
 
@@ -1096,25 +1130,25 @@ f) Colaborar com a DSF, nomeadamente no respeitante à execução dos planos de 
 
 ### CAPÍTULO XI — Áreas protegidas
 
-###### Art. 116.º Sem prejuízo do disposto no presente diploma, pode o Secretário Regional da Economia, por portaria, fixar um regime adequado às especificidades próprias das áreas que sejam ou venham a ser classificadas como áreas protegidas.
+Art. 116.º Sem prejuízo do disposto no presente diploma, pode o Secretário Regional da Economia, por portaria, fixar um regime adequado às especificidades próprias das áreas que sejam ou venham a ser classificadas como áreas protegidas.
 
 ### CAPÍTULO XII — Disposições finais e transitórias
 
-###### Art. 117.º No dia 1 de Junho de 1995, consideram-se integradas no regime geral da caça todas as zonas de ordenamento cinegético que até essa data não tenham sido integradas nos regimes cinegéticos especiais.
+Art. 117.º No dia 1 de Junho de 1995, consideram-se integradas no regime geral da caça todas as zonas de ordenamento cinegético que até essa data não tenham sido integradas nos regimes cinegéticos especiais.
 
-###### Art. 118.º - São revogadas todas as disposições legais que contrariem este diploma, designadamente o [Decreto Regulamentar Regional n.º 13/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1987-419201), de 9 de Junho.
+Art. 118.º - São revogadas todas as disposições legais que contrariem este diploma, designadamente o [Decreto Regulamentar Regional n.º 13/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1987-419201), de 9 de Junho.
 
-###### Art. 119.º O presente diploma entra em vigor 30 dias após a sua publicação.
+Art. 119.º O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em Conselho do Governo Regional em 12 de Março de 1992.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 6 de Julho de 1992.**
+Assinado em 6 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Lista a que se refere o artigo 1.º
 

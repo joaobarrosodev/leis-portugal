@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05400/0000300016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/2020/03/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2020-130277357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fce67bacb1c2b8e962ae7b65f21d939917b7b469a3292eda45da0d3a206a902d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0a6eb7e1573b682d25ad935b5f8d99727004a19bcb7baac45c04c54f74c22f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,49 +66,55 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono para Falhas
+- Administração Pública
+- Administração Regional
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
-- Inspeção Geral de Finanças
-- Gestão Financeira
-- Governo Regional
-- Sistema de Normalização Contabilística Público
+- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
+- Contabilidade Pública
 - Controlo Orçamental
 - Despesas Públicas
+- DIREÇÃO REGIONAL DA ADMINISTRAÇÃO PÚBLICA E DA MODERNIZAÇÃO ADMINISTRATIVA
+- DIREÇÃO REGIONAL DE ESTATÍSTICA DA MADEIRA
+- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
 - Direcção Regional de Informática
 - Dotação Orçamental
 - Duodécimo
-- Administração Pública
+- Entidade de Serviços Partilhados da Administração Pública
 - Execução do Orçamento
+- Finanças Regionais
 - Fundo de Maneio
 - Fundos Autónomos
+- Gestão Financeira
 - Gestão Orçamental
-- SIGO
+- Governo Regional
+- Inspeção Geral de Finanças
 - Instituto de Desenvolvimento Regional
 - Instituto Público
-- Finanças Regionais
 - Locação Financeira
-- Entidade de Serviços Partilhados da Administração Pública
-- Sistema de Normalização Contabilística
+- Madeira.região Autónoma
 - Orçamento Regional
-- Tesouraria
 - Política Orçamental
 - Prestação de Contas
-- Madeira.região Autónoma
 - Receita Pública
 - Receita Regional
 - Responsabilidade Financeira
-- Administração Regional
-- Contabilidade Pública
+- SIGO
+- Sistema de Normalização Contabilística
+- Sistema de Normalização Contabilística Público
+- Tesouraria
 - Unidade de Gestão
-- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
-- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
-- DIREÇÃO REGIONAL DA ADMINISTRAÇÃO PÚBLICA E DA MODERNIZAÇÃO ADMINISTRATIVA
-- DIREÇÃO REGIONAL DE ESTATÍSTICA DA MADEIRA
 relationships:
 - type: amended_by
   target: pt:dre:138963713:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138963713:por
+  label: Suspensa a aplicação do art. 20.º do presente diploma, pelo(a) Decreto Legislativo Regional n.º 9/2020/M - Diário
+    da República n.º 145/2020, Série I de 2020-07-28 nos termos do n.º 4 do art. 4.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2020-138963713
+  date: '2020-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
   label: null
@@ -149,16 +155,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:106522678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115924019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128771582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67522990:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:25Z'
   warnings: []
   errors: []
 ---
@@ -595,10 +649,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em Conselho do Governo Regional em 5 de março de 2020.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 11 de março de 2020.**
+Assinado em 11 de março de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+113121581

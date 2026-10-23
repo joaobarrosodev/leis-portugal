@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2000/03/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f2290156f0479382a797f1a2c3e0d18762104aae3f50882537c4c4efe1333f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 381eaa10481d2079d08cdb4db7566a0bc99b1461a7f7b4dea6b99bf9b88bac84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Criação de Lugares
 - Definição de Competências
 - Extinção de Lugares
 - Gabinete do Secretário Regional de Educação
-- Secretaria Regional da Educação
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Chefia
-- Madeira.região Autónoma
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Secretário Regional de Educação
+- Reestruturação de Serviços
+- Secretaria Regional da Educação
 - Secretário Regional da Educação
+- Secretário Regional de Educação
 relationships:
 - type: amended_by
   target: pt:dre:626384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584623:por
+  label: "Determinado de acordo com os nº 1 do art. 26º, do DRR 26/2001/M, a transição do pessoal da Divisão de Estudos e\
+    \ Planeamento do GEP, constante do anexo ao DRR 15-A/97/M de 30-Jul, na alteração do presente diploma, pelo DRR.26/2001/M.2001.09.20.PG-RAM,\
+    \ DR.IS-B [243] de 19/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2001-584623
+  date: '2001-09-20'
+- type: amended_by
+  target: pt:dre:626384:por
+  label: "Determinada, de acordo com o nº 1 do art. 39º, do DRR 24/2001/M, a transição do pessoal do NEST constante do anexo\
+    \ do DRR 1/98/M de 08-Jan, na alteração dada pelo presente diploma, pelo DRR.24/2001/M.2001.09.21.PG-RAM, DR.IS-B [242]\
+    \ de 18/Out/2001\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2001-626384
+  date: '2001-09-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -108,16 +122,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:28Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +182,9 @@ O artigo 11.º do [Decreto Regulamentar Regional n.º 6/97/M](https://diariodare
 
 «SUBSECÇÃO IV
 
-###### Artigo 11.º — Órgãos de apoio logístico
+Artigo 11.º
+
+Órgãos de apoio logístico
 
 Os órgãos de apoio logístico são os seguintes:
 
@@ -160,9 +200,13 @@ Os artigos 14.º, 17.º, 18.º, 19.º, 23.º, 26.º e 27.º do [Decreto Regulame
 
 Órgãos de concepção e de apoio
 
-#### SECÇÃO I — Gabinete de Gestão e Controlo Orçamental
+SECÇÃO I
 
-###### Artigo 14.º — Atribuições e competências
+Gabinete de Gestão e Controlo Orçamental
+
+Artigo 14.º
+
+Atribuições e competências
 
 Ao Gabinete de Gestão e Controlo Orçamental (GGCO), dirigido por um director de serviços, compete assegurar a coordenação financeira e a gestão orçamental da SRE.
 
@@ -192,9 +236,13 @@ h) ...
 
 4 - Na dependência do GGCO funcionam a Divisão de Gestão Orçamental (DGO), a Divisão de Acção Social Escolar (DASE), o Departamento Administrativo e de Processamento de Abonos (DAPA) e o Departamento de Contabilidade (DC).
 
-##### SUBSECÇÃO III — Departamento Administrativo e de Processamento de Abonos
+SUBSECÇÃO III
 
-###### Artigo 17.º — Estrutura e atribuições
+Departamento Administrativo e de Processamento de Abonos
+
+Artigo 17.º
+
+Estrutura e atribuições
 
 1 - Ao DAPA compete, nomeadamente:
 
@@ -212,9 +260,13 @@ a) ...
 
 b) ...
 
-##### SUBSECÇÃO IV — Departamento de Contabilidade
+SUBSECÇÃO IV
 
-###### Artigo 18.º — Estrutura e atribuições
+Departamento de Contabilidade
+
+Artigo 18.º
+
+Estrutura e atribuições
 
 1 - Ao DC compete, nomeadamente:
 
@@ -230,9 +282,13 @@ a) ...
 
 b) ...
 
-#### SECÇÃO II — Gabinete de Estudos e Planeamento
+SECÇÃO II
 
-###### Artigo 19.º — Atribuições e competências
+Gabinete de Estudos e Planeamento
+
+Artigo 19.º
+
+Atribuições e competências
 
 1 - ...
 
@@ -248,9 +304,13 @@ e) ...
 
 2 - Na dependência do GEP, funcionam a Divisão de Equipamento Educativo e Apoio Económico (DEEAE), a Divisão de Informação e Estatística da Educação (DIEE), a Divisão de Estudos e Planeamento (DEP) e o Departamento Administrativo de Apoio aos Estudos e Planeamento (DAAEP).
 
-##### SUBSECÇÃO V — Departamento Administrativo de Apoio aos Estudos e Planeamento
+SUBSECÇÃO V
 
-###### Artigo 23.º — Atribuições
+Departamento Administrativo de Apoio aos Estudos e Planeamento
+
+Artigo 23.º
+
+Atribuições
 
 1 - O DAAEP é um serviço de apoio administrativo e logístico do GEP com atribuições em matérias de expediente, registo, arquivo e assuntos de natureza genérica.
 
@@ -260,11 +320,17 @@ a) ...
 
 b) ...
 
-### CAPÍTULO IV — Órgãos de apoio logístico
+CAPÍTULO IV
 
-#### SECÇÃO I — Departamento dos Serviços Administrativos
+Órgãos de apoio logístico
 
-###### Artigo 26.º — Atribuições
+SECÇÃO I
+
+Departamento dos Serviços Administrativos
+
+Artigo 26.º
+
+Atribuições
 
 1 - O Departamento dos Serviços Administrativos (DSA) é um serviço de apoio ao Secretário Regional, competindo-lhe assegurar o apoio administrativo ao seu Gabinete e aos serviços dele dependentes que não possuam serviços administrativos próprios.
 
@@ -274,9 +340,13 @@ a) ...
 
 b) ...
 
-#### SECÇÃO II — Departamento de Aquisições e Manutenção
+SECÇÃO II
 
-###### Artigo 27.º — Atribuições
+Departamento de Aquisições e Manutenção
+
+Artigo 27.º
+
+Atribuições
 
 1 - O Departamento de Aquisições e Manutenção (DAM) é um serviço de apoio logístico do Gabinete do Secretário Regional, a quem compete, designadamente:
 
@@ -322,46 +392,46 @@ Aprovado em Conselho do Governo Regional em 17 de Janeiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 15 de Fevereiro de 2000.**
+Assinado em 15 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — (a que se refere o artigo 5.º do presente diploma)
 
 Gabinete do Secretário Regional
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
 
 Departamento de Tecnologias e Sistemas de Informação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
 
 Departamento de Inspecção Regional de Educação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
 
 Gabinete de Gestão e Controlo Orçamental
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
 
 Gabinete de Estudos e Planeamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
 
 Gabinete de Estudos e Pareceres Jurídicos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
 
 Gabinete de Assuntos Comunitários e Relações Internacionais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
 
 Quadro dos vinculados
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
 
 Quadro dos supranumerários
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)](https://files.diariodarepublica.pt/1s/2000/03/068b00/11111120.pdf)

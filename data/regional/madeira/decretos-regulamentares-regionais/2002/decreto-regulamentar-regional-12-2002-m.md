@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2002/07/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2002-197497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44768446a90bc0cb1275796cd2d5707a54eb658bb13f7dc455060964963f4954
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 618715d61da9655108378feb25c37ff6948337238859d3f2175b17de9cded65a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Instituto de Habitação da Região Autónoma da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: cites
@@ -100,16 +100,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:238872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 47
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 43
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:53Z'
   warnings: []
   errors: []
 ---
@@ -152,13 +184,17 @@ d) ...
 
 e) ...
 
-###### Artigo 7.º — Composição
+Artigo 7.º
+
+Composição
 
 1 - ...
 
 2 - O presidente e os vogais do IHM são respectivamente equiparados, para todos os efeitos legais, a director regional e a subdirectores regionais.
 
-###### Artigo 9.º — Competências do presidente
+Artigo 9.º
+
+Competências do presidente
 
 1 - ...
 
@@ -178,7 +214,9 @@ e) ...
 
 4 - O presidente do conselho directivo poderá delegar em qualquer funcionário do Instituto os poderes para participar ou apresentar queixa, perante as entidades judiciárias, de crimes contra o património do IHM.
 
-###### Artigo 12.º — Composição
+Artigo 12.º
+
+Composição
 
 1 - ...
 
@@ -198,9 +236,13 @@ g) ...
 
 2 - ...
 
-#### SECÇÃO II — Dos serviços centrais
+SECÇÃO II
 
-###### Artigo 15.º — Serviços centrais
+Dos serviços centrais
+
+Artigo 15.º
+
+Serviços centrais
 
 1 - Para a prossecução das suas atribuições, o IHM compreende os seguintes serviços:
 
@@ -222,7 +264,9 @@ g) Direcção de Serviços de Recursos Humanos (DSRH).
 
 3 - Na dependência do conselho directivo funciona, ainda, o Gabinete de Expediente e Relações Públicas (GERP), chefiado por um licenciado, equiparado, para todos os efeitos legais, a chefe de divisão.
 
-###### Artigo 16.º — Direcção de Serviços Patrimoniais
+Artigo 16.º
+
+Direcção de Serviços Patrimoniais
 
 1 - ...
 
@@ -256,7 +300,9 @@ a) ...
 
 b) ...
 
-###### Artigo 16.º-A — Direcção de Serviços Financeiros
+Artigo 16.º-A
+
+Direcção de Serviços Financeiros
 
 1 - ...
 
@@ -300,7 +346,9 @@ a) ...
 
 b) ...
 
-###### Artigo 16.º-B — Direcção de Serviços de Planeamento e Gestão Social
+Artigo 16.º-B
+
+Direcção de Serviços de Planeamento e Gestão Social
 
 1 - ...
 
@@ -340,7 +388,9 @@ c) Secção Administrativa do Planeamento e Gestão Social (SAPGS);
 
 d) Secção de Acompanhamento Técnico da Gestão Social (SATGS).
 
-###### Artigo 16.º-C — [...]
+Artigo 16.º-C
+
+[...]
 
 1 - ...
 
@@ -360,7 +410,9 @@ c) Divisão de Regeneração Urbana e Acompanhamento de Programas (DRUAP);
 
 d) Secção Administrativa dos Serviços Técnicos (SAST).
 
-###### Artigo 17.º — Direcção de Serviços de Estudos e Projectos
+Artigo 17.º
+
+Direcção de Serviços de Estudos e Projectos
 
 1 - ...
 
@@ -388,7 +440,9 @@ c) Divisão de Espaços Urbanos (DEU);
 
 d) Secção Administrativa de Estudos e Projectos (SAEP).
 
-###### Artigo 18.º — Gabinete de Gestão Operacional
+Artigo 18.º
+
+Gabinete de Gestão Operacional
 
 1 - Compete ao GGO:
 
@@ -408,7 +462,9 @@ d) Colaborar com a DSPGS na definição de métodos de inventariação, encaminh
 
 «SUBSECÇÃO I
 
-###### Artigo 15.º-A — Direcção de Serviços de Assessoria e Planeamento
+Artigo 15.º-A
+
+Direcção de Serviços de Assessoria e Planeamento
 
 1 - À DSAP compete:
 
@@ -434,13 +490,17 @@ c) Divisão de Desenvolvimento e Gestão de Sistemas de Informação (DDGSI);
 
 d) Secção de Assessoria e Planeamento (SAP).
 
-###### Artigo 17.º-A — Direcção de Serviços de Recursos Humanos
+Artigo 17.º-A
+
+Direcção de Serviços de Recursos Humanos
 
 1 - À DSRH compete assegurar os procedimentos relacionados com a gestão do pessoal ao serviço do IHM, nomeadamente o seu recrutamento, selecção, admissão, progressão, promoção, remuneração, classificação, formação e aposentação.
 
 2 - A DSRH compreende a Secção de Pessoal (SP) e a Secção de Vencimentos (SV).
 
-###### Artigo 19.º-A — Gabinete de Expediente e Relações Públicas
+Artigo 19.º-A
+
+Gabinete de Expediente e Relações Públicas
 
 1 - Ao GERP compete:
 
@@ -458,7 +518,9 @@ a) Secção de Expediente (SE);
 
 b) Secção de Atendimento Público (SAP).
 
-###### Artigo 24.º-A — Carreira de coordenador
+Artigo 24.º-A
+
+Carreira de coordenador
 
 1 - A carreira de coordenador, prevista no [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto, aplica-se ao pessoal do quadro do IHM.
 
@@ -484,13 +546,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em conselho do Governo Regional em 23 de Maio de 2002.
 
-**O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Junho de 2002.**
+Assinado em 20 de Junho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — [Decreto Regulamentar Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1992-238872)
 
@@ -724,7 +786,9 @@ g) Direcção de Serviços de Recursos Humanos (DSRH).
 
 3 - Na dependência do conselho directivo funciona, ainda, o Gabinete de Expediente e Relações Públicas (GERP), chefiado por um licenciado, equiparado, para todos os efeitos legais, a chefe de divisão.
 
-##### SUBSECÇÃO I — Artigo 15.º-A
+##### SUBSECÇÃO I
+
+###### Artigo 15.º-A
 
 Direcção de Serviços de Assessoria e Planeamento
 
@@ -752,7 +816,9 @@ c) Divisão de Desenvolvimento e Gestão de Sistemas de Informação (DDGSI);
 
 d) Secção de Assessoria e Planeamento (SAP).
 
-##### SUBSECÇÃO II — Artigo 16.º
+##### SUBSECÇÃO II
+
+###### Artigo 16.º
 
 Direcção de Serviços Patrimoniais
 
@@ -788,7 +854,9 @@ a) Secção de Aquisições (SA);
 
 b) Secção do Património (SP).
 
-##### SUBSECÇÃO III — Artigo 16.º-A
+##### SUBSECÇÃO III
+
+###### Artigo 16.º-A
 
 Direcção de Serviços Financeiros
 
@@ -834,7 +902,9 @@ a) Secção de Rendas (SR);
 
 b) Secção de Empréstimos (SE).
 
-##### SUBSECÇÃO IV — Artigo 16.º-B
+##### SUBSECÇÃO IV
+
+###### Artigo 16.º-B
 
 Direcção de Serviços de Planeamento e Gestão Social
 
@@ -876,7 +946,9 @@ c) Secção Administrativa do Planeamento e Gestão Social (SAPGS);
 
 d) Secção de Acompanhamento Técnico da Gestão Social (SATGS).
 
-##### SUBSECÇÃO V — Artigo 16.º-C
+##### SUBSECÇÃO V
+
+###### Artigo 16.º-C
 
 Direcção dos Serviços Técnicos
 
@@ -898,7 +970,9 @@ c) Divisão de Regeneração Urbana e Acompanhamento de Programas (DRUAP);
 
 d) Secção Administrativa dos Serviços Técnicos (SAST).
 
-##### SUBSECÇÃO VI — Artigo 17.º
+##### SUBSECÇÃO VI
+
+###### Artigo 17.º
 
 Direcção de Serviços de Estudos e Projectos
 
@@ -928,7 +1002,9 @@ c) Divisão de Espaços Urbanos (DEU);
 
 d) Secção Administrativa de Estudos e Projectos (SAEP).
 
-##### SUBSECÇÃO VII — Artigo 17.º-A
+##### SUBSECÇÃO VII
+
+###### Artigo 17.º-A
 
 Direcção de Serviços de Recursos Humanos
 
@@ -936,7 +1012,9 @@ Direcção de Serviços de Recursos Humanos
 
 2 - A DSRH compreende a Secção de Pessoal (SP) e a Secção de Vencimentos (SV).
 
-##### SUBSECÇÃO VIII — Artigo 18.º
+##### SUBSECÇÃO VIII
+
+###### Artigo 18.º
 
 Gabinete de Gestão Operacional
 
@@ -952,7 +1030,9 @@ d) Colaborar com a DSPGS na definição de métodos de inventariação, encaminh
 
 2 - Para o exercício das suas competências, o GGO dispõe da Secção Administrativa (SA).
 
-##### SUBSECÇÃO IX — Artigo 19.º
+##### SUBSECÇÃO IX
+
+###### Artigo 19.º
 
 Gabinete Jurídico
 
@@ -966,7 +1046,9 @@ c) Participar na elaboração de pareceres necessários à pronúncia da Região
 
 d) Promover de modo adequado a recolha, compilação, sistematização, tratamento e difusão de legislação e documentação técnico-jurídica de interesse para o IHM.
 
-##### SUBSECÇÃO X — Artigo 19.º-A
+##### SUBSECÇÃO X
+
+###### Artigo 19.º-A
 
 Gabinete de Expediente e Relações Públicas
 
@@ -1116,7 +1198,7 @@ As responsabilidades da extinta DRHUA que à data da publicação do presente di
 
 No âmbito das atribuições previstas na alínea f) do artigo 2.º deste diploma, o IHM poderá celebrar convénios de gestão com autarquias locais e outras instituições.
 
-## ANEXO A QUE SE REFERE O N.º 2 DO ARTIGO 23.º DO PRESENTE DIPLOMA
+ANEXO A QUE SE REFERE O N.º 2 DO ARTIGO 23.º DO PRESENTE DIPLOMA
 
 Quadro de pessoal do IHM
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/12/1996/05/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/12-1996-444772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83c1228992cfad510e8a2cc25883b25c48ebe3afd236c0980f1bba65eb74f885
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 268a50823944f5570a06e241acc0d2e3d635e907087cc9c747c099d45b899bce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Económico e Social
-- Nomeação
 - Madeira.região Autónoma
+- Nomeação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/108/1991/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/108/1991/08/17/p/dre
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:46Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +100,4 @@ Mais resolveu, tendo em atenção o disposto no n.º 5 do artigo 3.º da [Lei n.
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 7 de Maio de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.

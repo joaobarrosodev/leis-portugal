@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/20400/0576505771.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2017/10/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2017-114074573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4980c9fb33dbb08a05a294ca4ffbe79c79a229a2afa4d10104b6beea81c6b2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e156c161ceeef0343c369aacf618c8ed6c8d1c33527b6887a8d110f2341c501
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Conselho Regional de Saúde
 - Criação de Serviços
 - Definição de Competências
-- Secretaria Regional da Saúde
 - Direcção Regional da Saúde
 - Extinção de Serviços
-- Integração de Trabalhadores
-- Orgânica
-- Madeira.região Autónoma
-- Regime de Pessoal
 - Inspecção das Actividades em Saúde
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Reestruturação de Serviços
+- Regime de Pessoal
+- Secretaria Regional da Saúde
 - Secretário Regional da Saúde
 - Serviço Regional de Saúde
 relationships:
@@ -125,16 +125,133 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:108028574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055498:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:127657050:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 1/2020/M - Diário da República n.º 1/2020, Série I de 2020-01-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2020-127657050
+  date: '2020-01-02'
 article_structure:
-  article_count: 39
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:14Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +288,9 @@ O presente diploma procede à primeira alteração ao [Decreto Regulamentar Regi
 
 2 - A SRS tem por missão definir a política regional no setor da saúde e proteção civil e exercer as correspondentes funções normativas, promover a respetiva execução e avaliar os resultados.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Na prossecução da sua missão, são atribuições da SRS:
 
@@ -183,7 +302,9 @@ c) Exercer funções de regulamentação, inspeção e fiscalização relativame
 
 d) Promover e adotar as ações necessárias de proteção civil para a segurança das pessoas e bens, em articulação com as demais entidades com competência nesta matéria.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -211,7 +332,9 @@ j) ...
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A SRS compreende os seguintes serviços da administração direta:
 
@@ -225,11 +348,15 @@ b) (Revogada.)
 
 4 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Integram a administração indireta da Região Autónoma da Madeira, no âmbito da SRS, o Instituto de Administração da Saúde, IP-RAM, e o Serviço Regional de Proteção Civil, IP-RAM.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -255,7 +382,9 @@ g) ...
 
 5 - ...
 
-###### Artigo 12.º — Instituto de Administração da Saúde, IP-RAM
+Artigo 12.º
+
+Instituto de Administração da Saúde, IP-RAM
 
 1 - O Instituto de Administração da Saúde, IP-RAM, adiante designado abreviadamente por IASAÚDE, IP-RAM, tem por missão:
 
@@ -267,13 +396,17 @@ b) Assegurar a gestão dos recursos financeiros e humanos da Secretaria Regional
 
 3 - O IASAÚDE, IP-RAM, é dirigido por um Conselho Diretivo composto por um Presidente, um Vice-Presidente e um Vogal.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A dotação de lugares de cargos de direção superior da administração indireta da SRS consta do Anexo II ao presente diploma, do qual faz parte integrante.
 
 2 - ...
 
-###### Artigo 17.º — Criação e reestruturação de serviços
+Artigo 17.º
+
+Criação e reestruturação de serviços
 
 1 - ...
 
@@ -285,7 +418,9 @@ b) ...
 
 3 - As referências legais feitas ao Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, consideram-se feitas ao Instituto de Administração da Saúde, IP-RAM.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -297,9 +432,11 @@ b) ...
 
 Dirigentes dos organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/20400/0576505771.pdf))](https://files.diariodarepublica.pt/1s/2017/10/20400/0576505771.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/20400/0576505771.pdf)
 
-###### Artigo 3.º — Aditamento ao [Decreto Regulamentar Regional n.º 16/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70055498), de 19 de agosto
+Artigo 3.º
+
+Aditamento ao [Decreto Regulamentar Regional n.º 16/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70055498), de 19 de agosto
 
 É aditado o artigo 12.º-A ao [Decreto Regulamentar Regional n.º 16/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70055498), de 19 de agosto, com a seguinte redação:
 
@@ -313,45 +450,61 @@ Serviço Regional de Proteção Civil, IP-RAM
 
 3 - O SRPC, IP-RAM, é dirigido por um conselho diretivo, composto por um Presidente, coadjuvado por um Vogal, equiparados, para todos os efeitos legais, a diretor e subdiretor regionais, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau.»
 
-###### Artigo 4.º — Norma revogatória
+Artigo 4.º
+
+Norma revogatória
 
 São revogados a alínea b) do n.º 1 e o n.º 4 do artigo 5.º, o artigo 10.º, a alínea a) do n.º 1 do artigo 17.º, o n.º 1 do artigo 18.º, a subsecção II e o Anexo I do [Decreto Regulamentar Regional n.º 16/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70055498), de 19 de agosto.
 
-###### Artigo 5.º — Republicação
+Artigo 5.º
+
+Republicação
 
 É republicada em anexo ao presente diploma, do qual faz parte integrante, a Orgânica da Secretaria Regional da Saúde, aprovada pelo [Decreto Regulamentar Regional n.º 16/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70055498), de 19 de agosto, com as alterações introduzidas pelo presente diploma.
 
-###### Artigo 6.º — Produção de efeitos
+Artigo 6.º
+
+Produção de efeitos
 
 Os artigos 6.º e 12.º-A produzem efeitos a partir de 27 de julho de 2017.
 
-###### Artigo 7.º — Entrada em vigor
+Artigo 7.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, de 21 de setembro de 2017.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 3 outubro de 2017.**
+Assinado em 3 outubro de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## ANEXO — (a que se refere o artigo 5.º do diploma preambular)
+ANEXO
+
+(a que se refere o artigo 5.º do diploma preambular)
 
 Orgânica da Secretaria Regional da Saúde
 
-### CAPÍTULO I — Natureza, missão, atribuições e competências
+CAPÍTULO I
 
-###### Artigo 1.º — Natureza e missão
+Natureza, missão, atribuições e competências
+
+Artigo 1.º
+
+Natureza e missão
 
 1 - A Secretaria Regional da Saúde, abreviadamente designada por SRS, é o departamento do Governo Regional da Madeira a que se refere o artigo 9.º do [Decreto Regulamentar Regional n.º 2/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-67191204), de 12 de maio, alterado pelo [Decreto Regulamentar Regional n.º 9/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2017-108028574), de 21 de agosto, cuja missão, atribuições e organização interna constam dos artigos seguintes.
 
 2 - A SRS tem por missão definir a política regional no setor da saúde e proteção civil e exercer as correspondentes funções normativas, promover a respetiva execução e avaliar os resultados.
 
-###### Artigo 2.º — Atribuições
+Artigo 2.º
+
+Atribuições
 
 Na prossecução da sua missão, são atribuições da SRS:
 
@@ -363,7 +516,9 @@ c) Exercer funções de regulamentação, inspeção e fiscalização relativame
 
 d) Promover e adotar as ações necessárias de proteção civil para a segurança das pessoas e bens, em articulação com as demais entidades com competência nesta matéria.
 
-###### Artigo 3.º — Competências
+Artigo 3.º
+
+Competências
 
 1 - A SRS é representada e dirigida superiormente pelo Secretário Regional da Saúde, ao qual são genericamente atribuídas as competências para a realização das atribuições referidas no artigo anterior.
 
@@ -391,13 +546,19 @@ j) Exercer as competências que lhe sejam conferidas por lei.
 
 3 - O Secretário Regional pode delegar as suas competências no Chefe do Gabinete ou nos responsáveis pelos serviços da administração direta e indireta, no domínio da SRS.
 
-### CAPÍTULO II — Estrutura orgânica
+CAPÍTULO II
 
-###### Artigo 4.º — Estrutura geral
+Estrutura orgânica
+
+Artigo 4.º
+
+Estrutura geral
 
 A SRS prossegue as suas atribuições através de serviços integrados na administração direta, de organismos integrados na administração indireta e de entidades no setor empresarial da Região Autónoma da Madeira.
 
-###### Artigo 5.º — Serviços da administração direta
+Artigo 5.º
+
+Serviços da administração direta
 
 1 - A SRS compreende os seguintes serviços da administração direta:
 
@@ -411,21 +572,33 @@ b) (Revogada.)
 
 4 - (Revogado.)
 
-###### Artigo 6.º — Serviços da administração indireta
+Artigo 6.º
+
+Serviços da administração indireta
 
 Integram a administração indireta da Região Autónoma da Madeira, no âmbito da SRS, o Instituto de Administração da Saúde, IP-RAM, e o Serviço Regional de Proteção Civil, IP-RAM.
 
-###### Artigo 7.º — Setor empresarial da Região Autónoma da Madeira
+Artigo 7.º
 
-**O Secretário Regional da Saúde exerce tutela e superintendência sobre o Serviço de Saúde da Região Autónoma da Madeira, E. P. E.**
+Setor empresarial da Região Autónoma da Madeira
 
-### CAPÍTULO III — Dos serviços
+O Secretário Regional da Saúde exerce tutela e superintendência sobre o Serviço de Saúde da Região Autónoma da Madeira, E. P. E.
 
-#### SECÇÃO I — Serviços da administração direta
+CAPÍTULO III
 
-##### SUBSECÇÃO I — Missão, atribuições e organização do Gabinete do Secretário Regional e serviços dependentes
+Dos serviços
 
-###### Artigo 8.º — Gabinete do Secretário Regional
+SECÇÃO I
+
+Serviços da administração direta
+
+SUBSECÇÃO I
+
+Missão, atribuições e organização do Gabinete do Secretário Regional e serviços dependentes
+
+Artigo 8.º
+
+Gabinete do Secretário Regional
 
 1 - O Gabinete do Secretário Regional, adiante designado abreviadamente por Gabinete, tem por missão coadjuvá-lo no exercício das suas funções, assegurando a planeamento e os apoios técnico, estratégico, jurídico, financeiro e administrativo necessários ao exercício das suas competências.
 
@@ -451,7 +624,9 @@ g) Exercer as demais funções que lhe forem cometidas e ou delegadas pelo Secre
 
 5 - Nas suas ausências e impedimentos, o Chefe do Gabinete é substituído pelo Adjunto ou membro do Gabinete para o efeito designado pelo Secretário Regional.
 
-###### Artigo 9.º — Organização interna do Gabinete do Secretário Regional da Saúde
+Artigo 9.º
+
+Organização interna do Gabinete do Secretário Regional da Saúde
 
 1 - A organização interna do Gabinete adota o modelo de estrutura hierarquizada e compreende as unidades orgânicas nucleares e flexíveis que funcionam sob a direta dependência do Secretário Regional, com exceção da Unidade de Gestão, que funciona na direta dependência do Chefe do Gabinete.
 
@@ -459,21 +634,33 @@ g) Exercer as demais funções que lhe forem cometidas e ou delegadas pelo Secre
 
 3 - Até a entrada em vigor dos diplomas que aprovam a organização interna dos serviços do Gabinete do Secretário Regional da Saúde, mantém-se em vigor a Portaria Conjunta n.º 110/2012, de 14 de agosto, e o Despacho n.º 9/2012, de 22 de agosto.
 
-##### SUBSECÇÃO II — (Revogada.)
+SUBSECÇÃO II
 
-###### Artigo 10.º — (Revogado.)
+(Revogada.)
 
-##### SUBSECÇÃO III — Missão do órgão consultivo
+Artigo 10.º
 
-###### Artigo 11.º — Conselho Regional da Saúde
+(Revogado.)
+
+SUBSECÇÃO III
+
+Missão do órgão consultivo
+
+Artigo 11.º
+
+Conselho Regional da Saúde
 
 1 - O Conselho Regional da Saúde, abreviadamente designado por CRS, é um órgão de consulta da SRS, que tem por missão emitir pareceres no âmbito da definição, implementação e acompanhamento das políticas de saúde, por solicitação do Secretário Regional da Saúde, órgão que será presidido pelo Secretário Regional da Saúde.
 
 2 - A composição, a forma de designação dos membros e o regime de funcionamento do CRS constarão de decreto regulamentar regional, nos termos da lei.
 
-#### SECÇÃO II — Missão dos serviços da administração indireta
+SECÇÃO II
 
-###### Artigo 12.º — Instituto de Administração da Saúde, IP-RAM
+Missão dos serviços da administração indireta
+
+Artigo 12.º
+
+Instituto de Administração da Saúde, IP-RAM
 
 1 - O Instituto de Administração da Saúde, IP-RAM, adiante designada abreviadamente por IASAÚDE, IP-RAM, enquanto Instituto Público, tem por missão:
 
@@ -485,7 +672,9 @@ b) Assegurar a gestão dos recursos financeiros e humanos da Secretaria Regional
 
 3 - O IASAÚDE, IP-RAM, é dirigido por um Conselho Diretivo composto por um Presidente, um Vice-Presidente e um Vogal.
 
-###### Artigo 12.º-A — Serviço Regional de Proteção Civil, IP-RAM
+Artigo 12.º-A
+
+Serviço Regional de Proteção Civil, IP-RAM
 
 1 - O Serviço Regional de Proteção Civil, IP-RAM, adiante abreviadamente designado por SRPC, IP-RAM, criado pelo [Decreto Legislativo Regional n.º 17/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491927), de 30 de junho, alterado pelos [Decretos Legislativos Regionais n.os 8/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2010-332706), de 26 de maio, e [12/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), de 25 de março, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão prevenir os riscos inerentes a situações de acidente grave ou catástrofe, bem como resolver os efeitos decorrentes de tais situações, socorrendo pessoas e protegendo bens.
 
@@ -493,9 +682,13 @@ b) Assegurar a gestão dos recursos financeiros e humanos da Secretaria Regional
 
 3 - O SRPC, IP-RAM, é dirigido por um conselho diretivo, composto por um Presidente, coadjuvado por um Vogal, equiparados, para todos os efeitos legais, a diretor e subdiretor regionais, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau.
 
-### CAPÍTULO IV — Pessoal
+CAPÍTULO IV
 
-###### Artigo 13.º — Sistema de gestão de pessoal
+Pessoal
+
+Artigo 13.º
+
+Sistema de gestão de pessoal
 
 1 - A gestão de pessoal dos serviços da administração direta da SRS rege-se pelo sistema centralizado de gestão, estabelecido no artigo 5.º-A do [Decreto Legislativo Regional n.º 1/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2009-397327), de 12 de janeiro, introduzido pelo [Decreto Legislativo Regional n.º 9/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2010-332756), de 4 de junho, e alterado pelo [Decreto Legislativo Regional n.º 26/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2012-174831), de 3 de setembro.
 
@@ -511,25 +704,35 @@ b) Por despacho do Secretário Regional, e sem prejuízo dos direitos e garantia
 
 c) O recrutamento de trabalhadores para postos de trabalho que se encontrem abrangidos pelo sistema centralizado de gestão é feito para a SRS, sem prejuízo de ser determinado, no aviso de abertura do procedimento concursal ou no pedido de utilização de reservas de recrutamento, o órgão ou serviço ao qual o trabalhador ficará afeto, através de referência ao respetivo mapa de pessoal onde o posto de trabalho se encontra previsto.
 
-###### Artigo 14.º — Regime de pessoal
+Artigo 14.º
+
+Regime de pessoal
 
 O regime aplicável ao pessoal da SRS é o genericamente estabelecido para os trabalhadores que exercem funções públicas.
 
-###### Artigo 15.º — Carreiras subsistentes
+Artigo 15.º
+
+Carreiras subsistentes
 
 1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador da SRS e de chefe de departamento é o constante do anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de agosto, objeto da [Declaração de Retificação n.º 15-I/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), publicada no Diário da República, 1.ª série-A, n.º 299, 2.º suplemento, de 30 de setembro de 1999, sendo-lhes aplicável o disposto no artigo 106.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, alterada pelas [Leis n.os 64 -A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, e [66/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513) e [66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), ambas de 31 de dezembro.
 
 2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da [Lei n.º 75/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-2014-56747377), de 12 de setembro.
 
-### CAPÍTULO V — Disposições finais e transitórias
+CAPÍTULO V
 
-###### Artigo 16.º — Dotação de cargos de direção
+Disposições finais e transitórias
+
+Artigo 16.º
+
+Dotação de cargos de direção
 
 1 - A dotação de lugares de cargos de direção superior da administração indireta da SRS consta do Anexo II ao presente diploma, do qual faz parte integrante.
 
 2 - A dotação de lugares de cargos de direção intermédia de 1.º grau das unidades orgânicas nucleares que funcionam sob a direta dependência do Gabinete consta do Anexo III ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 17.º — Criação e reestruturação de serviços
+Artigo 17.º
+
+Criação e reestruturação de serviços
 
 1 - São criados:
 
@@ -541,13 +744,17 @@ b) Conselho Regional da Saúde.
 
 3 - As referências legais feitas ao Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, consideram-se feitas ao Instituto de Administração da Saúde, IP-RAM.
 
-###### Artigo 18.º — Produção de efeitos
+Artigo 18.º
+
+Produção de efeitos
 
 1 - (Revogado.)
 
 2 - A criação prevista na alínea b) do n.º 1 do artigo anterior produz efeitos com a entrada em vigor do decreto regulamentar regional a que se refere o n.º 2 do artigo 11.º
 
-###### Artigo 19.º — Transição e manutenção de serviço e de comissão de serviço
+Artigo 19.º
+
+Transição e manutenção de serviço e de comissão de serviço
 
 1 - Em cumprimento com o disposto no artigo 14.º do [Decreto Regulamentar Regional n.º 2/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-67191204), de 12 de maio, a unidade orgânica nuclear denominada Inspeção das Atividades em Saúde transita para a Secretaria Regional da Saúde.
 
@@ -555,28 +762,40 @@ b) Conselho Regional da Saúde.
 
 3 - A transição do serviço a que se refere o n.º 1 será acompanhada pela correspondente transição do pessoal afeta ao mesmo, a aprovar por lista nominativa mediante despacho conjunto dos Secretários Regionais da Saúde e da Inclusão e Assuntos Sociais, e será publicada na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.
 
-###### Artigo 20.º — Referências
+Artigo 20.º
+
+Referências
 
 Todas as referências legais ou regulamentares feitas à Secretaria Regional dos Assuntos Sociais em matéria de saúde entendem-se feitas à SRS.
 
-###### Artigo 21.º — Revogação
+Artigo 21.º
+
+Revogação
 
 1 - É revogado o [Decreto Regulamentar Regional n.º 7/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2012-177804), de 1 de junho, alterado pelo [Decreto Regulamentar Regional n.º 15/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2013-503846), de 25 de novembro, sem prejuízo do disposto no número seguinte.
 
 2 - A revogação do [Decreto Regulamentar Regional n.º 7/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2012-177804), de 1 de junho, alterado pelo [Decreto Regulamentar Regional n.º 15/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2013-503846), de 25 de novembro, no respeitante às normas de qualquer natureza que se prendam com as atribuições nos setores da segurança social, emprego, proteção civil, habitação, defesa do consumidor, depende da entrada em vigor do diploma que contenha a orgânica do departamento governamental responsável pelos referidos setores.
 
-###### Artigo 22.º — Entrada em vigor
+Artigo 22.º
+
+Entrada em vigor
 
 1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no artigo 18.º e no número seguinte.
 
 2 - O artigo 13.º produz efeitos a partir da publicação da lista nominativa a que se refere o n.º 3 do mesmo normativo.
 
-## ANEXO I — (Revogado.)
+ANEXO I
 
-## ANEXO II — Dirigentes dos organismos da administração indireta
+(Revogado.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/20400/0576505771.pdf))](https://files.diariodarepublica.pt/1s/2017/10/20400/0576505771.pdf)
+ANEXO II
 
-## ANEXO III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
+Dirigentes dos organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/10/20400/0576505771.pdf))](https://files.diariodarepublica.pt/1s/2017/10/20400/0576505771.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/20400/0576505771.pdf)
+
+ANEXO III
+
+Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/10/20400/0576505771.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/2/1991/08/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/2-1991-682250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb4552d62cbba109f3eab9436ad5bce996bacae75a34fae0849908c5b7b60937
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab21d8ac3678b833bca5c2e2eb03abd6bd8cf801b243d8f7cb137c9006e29204
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:29Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +96,6 @@ A Assembleia Legislativa Regional da Madeira, reunida em plenário em 18 de Junh
 
 Conta da Região Autónoma da Madeira - 1987-1988
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/181b00/39933995.pdf))](https://files.diariodarepublica.pt/1s/1991/08/181b00/39933995.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/181b00/39933995.pdf)
 
 Assembleia Legislativa Regional da Madeira, 18 de Junho de 1991. - O Presidente da Assembleia Legislativa, Jorge Nélio Praxedes Ferraz Mendonça.

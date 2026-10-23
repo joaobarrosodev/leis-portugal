@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 174/1997, 1º Suplemento, Série I-B de 1997-07-30
   number: '174'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3958-(2) a 3958-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/174b01/00020017.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15-a/1997/07/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-a-1997-664081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47509fc9b050b9752796bcebae83dfcbb2f6fa739675806b1cd08603cf227a5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ab3208eefa10bf89a4ee2d699441ed36fbbbce028dffde9493b9003659a2a75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Gabinete do Secretário Regional de Educação
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
-- Secretário Regional de Educação
 - Secretário Regional da Educação
+- Secretário Regional de Educação
 relationships:
 - type: amended_by
   target: pt:dre:449931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515272:por
+  label: "Aditado o art. 29º-A, alterados os arts. 14º, 17º, 18º, 19º, 23º, 26º, e 27º, bem como os quadros de pessoal constantes\
+    \ do anexo, pelo DRR.12/2000/M.2000.02.15.PG-RAM DR.IS-B [68] de 21/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2000-515272
+  date: '2000-02-15'
+- type: amended_by
+  target: pt:dre:584623:por
+  label: "Determinado, de cordo com os nº 1do art. 26º, do DRR 26/2001/M, a transição do pessoal, da Divisão de Estudos e\
+    \ Planeamento do GEP, constante do anexo, na alteração do DRR 12/2000/M de 15-Fev , pelo DRR.26/2001/M.2001.09.20.PG-RAM,\
+    \ DR.IS-B [243] de 19/Out/2001\001\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2001-584623
+  date: '2001-09-20'
+- type: amended_by
+  target: pt:dre:626384:por
+  label: "Determinado, de cordo com os nºs 2, 3 e 4 do art. 39º, do DRR 24/2001/M, a transição do pessoal, de diversos organismos,\
+    \ constantes dos anexos ao presente diploma, na alteração do DRR 12/2000/M de 15-Fev , pelo DRR.24/2001/M.2001.09.21.PG-RAM,\
+    \ DR.IS-B [242] de 18/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2001-626384
+  date: '2001-09-21'
+- type: amended_by
+  target: pt:dre:548420:por
+  label: "Extinta a Divisão de Infra-estruturas Tecnológicas, o Gabinete Coordenador dos Núcleos de informação e os Núcleos\
+    \ de arquitectura da informação, todos na dependência do Departamento de tecnologias e sistemas de informação previstos\
+    \ no presente diploma, pelo DRR.14/2005/M.30.03.2005.PG-RAM, DR.IS-B [76] de 19.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2005-548420
+  date: '2005-03-30'
+- type: amended_by
+  target: pt:dre:449931:por
+  label: "Alterada a designação da Divisão de Informação e Estatística da Educação (DIEE), prevista no presente diploma, que\
+    \ passa a designar-se, Divisão de Informação Educativa, e transferida da dependência da Direcção de Serviços de Informação\
+    \ e Apoio a Rede Escolar, extinta no DRR 14/2005/M de 30-Mar, para a dependência do director regional de Planeamento e\
+    \ Recursos Educativos, pelo DRR.12/2008/M.23.06.2008.PG-RAM, DR.IS [119] de 23.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2008-449931
+  date: '2008-06-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/271/1995/10/23/p/dre
   label: null
@@ -101,16 +136,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/263/1997/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/263/1997/04/17/p/dre
+- type: cites
+  target: pt:dre:431038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668484:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:08Z'
   warnings: []
   errors: []
 ---
@@ -139,13 +206,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
 
-**O Presidente do Governo Regional, em exercício, José Paulo Baptista Fontes.**
+O Presidente do Governo Regional, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 30 de Julho de 1997.**
+Assinado em 30 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ORGÂNICA DOS ÓRGÃOS E SERVIÇOS DEPENDENTES DO GABINETE DO SECRETÁRIO REGIONAL DE EDUCAÇÃO
 
@@ -265,7 +332,9 @@ d) Planificar e organizar as equipas de trabalho por áreas de intervenção em 
 
 e) Colaborar em cada um dos organismos da sua área de intervenção em conjunto com a Direcção Regional de Administração e Pessoal no levantamento e definição das necessidades de recursos humanos do grupo de pessoal de informática.
 
-##### SUBSECÇÃO II — Divisão de Desenvolvimento
+##### SUBSECÇÃO II
+
+##### Divisão de Desenvolvimento
 
 ###### Artigo 6.º — Estrutura e atribuições
 
@@ -297,7 +366,9 @@ g) Gerir os projectos informáticos durante o seu ciclo de desenvolvimento inter
 
 h) Promover a formação dos recursos afectos e a introdução de ferramentas e metodologias de desenvolvimento adequadas.
 
-##### SUBSECÇÃO III — Divisão de Infra-Estruturas Tecnológicas e Serviços
+##### SUBSECÇÃO III
+
+##### Divisão de Infra-Estruturas Tecnológicas e Serviços
 
 ###### Artigo 7.º — Atribuições
 
@@ -433,7 +504,9 @@ h) Promover e realizar acções de formação na área da sua competência a tod
 
 4 - Na dependência do GGCO funcionam a Divisão de Gestão Orçamental (DGO), a Divisão de Acção Social Escolar (DASE), a Repartição Administrativa e de Processamento de Abonos (RAPA) e a Repartição de Contabilidade (RC).
 
-##### SUBSECÇÃO I — Divisão de Gestão Orçamental
+##### SUBSECÇÃO I
+
+##### Divisão de Gestão Orçamental
 
 ###### Artigo 15.º — Atribuições
 
@@ -451,7 +524,9 @@ e) Proceder à análise e interpretação de dados tendo em vista quer a compree
 
 f) Promover a formação do pessoal afecto às áreas da sua competência.
 
-##### SUBSECÇÃO II — Divisão de Acção Social Escolar
+##### SUBSECÇÃO II
+
+##### Divisão de Acção Social Escolar
 
 ###### Artigo 16.º — Atribuições
 
@@ -521,7 +596,9 @@ e) Planear e acompanhar a execução dos investimentos do Plano no que se refere
 
 2 - Na dependência do GEP funcionam a Divisão de Equipamento Educativo e Apoio Económico (DEEAE), a Divisão de Informação e Estatística da Educação (DIEE), a Divisão de Estudos e Planeamento (DEP) e a Repartição Administrativa de Apoio aos Estudos e Planeamento (RAAEP).
 
-##### SUBSECÇÃO I — Divisão de Equipamento Educativo e Apoio Económico
+##### SUBSECÇÃO I
+
+##### Divisão de Equipamento Educativo e Apoio Económico
 
 ###### Artigo 20.º — Atribuições
 
@@ -535,7 +612,9 @@ c) Proceder ao levantamento das necessidades regionais em mobiliário e material
 
 d) Promover a definição, actualização e distribuição de normas e tipologias das instalações escolares e equipamento educativo, tendo em conta as exigências pedagógicas e a sua evolução.
 
-##### SUBSECÇÃO II — Divisão de Informação e Estatística da Educação
+##### SUBSECÇÃO II
+
+##### Divisão de Informação e Estatística da Educação
 
 ###### Artigo 21.º — Atribuições
 
@@ -551,7 +630,9 @@ d) Acompanhar todos os estudos que decorrem a nível nacional, fornecendo inform
 
 e) Elaborar estudos periódicos orientados para o diagnóstico fundamentado da situação educativa regional com elaboração de indicadores estatísticos necessários à macroorientação dos órgãos de decisão da SRE.
 
-##### SUBSECÇÃO III — Divisão de Estudos e Planeamento
+##### SUBSECÇÃO III
+
+##### Divisão de Estudos e Planeamento
 
 ###### Artigo 22.º — Atribuições
 
@@ -731,6 +812,6 @@ b) Os docentes referidos no número anterior que requererem a integração na ca
 
 3 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos e se neles obtiverem aproveitamento, para as categorias objecto de concursos e constantes do mapa anexo ao presente diploma.
 
-## ANEXO A QUE SE REFERE O N.º 2 DO ARTIGO 28.º DO PRESENTE DIPLOMA
+ANEXO A QUE SE REFERE O N.º 2 DO ARTIGO 28.º DO PRESENTE DIPLOMA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/174b01/00020017.pdf))](https://files.diariodarepublica.pt/1s/1997/07/174b01/00020017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/174b01/00020017.pdf)

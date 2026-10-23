@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/1996/02/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1996-626204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9f522c74fdbf524231e3144c9208fbabaea9143986038a6af211e2d67885e47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 028f09f3cd69e59d788c6f54cc3a47baa348309ee3d8db51ce1591e6c7da44c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,78 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Carreira Profissional
 - Criação de Lugares
 - Direcção Regional do Comércio e Indústria
-- Carreira Profissional
 - Extinção de Lugares
 - Inspecção Regional das Actividades Económicas
 - Integração de Trabalhadores
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Inspecção
-- Madeira.região Autónoma
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:257858:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654160:por
+  label: "Alterados os arts 1º, 2º, 6º, 8º a 11º, 15º, 17º, 20º e 26º a 30º, pelo DRR.20/97/M.1997.08.25.PG-RAM DR.IS-B [219]\
+    \ de 1997.09.22\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1997-654160
+  date: '1997-08-25'
+- type: amended_by
+  target: pt:dre:515254:por
+  label: "Alterados os arts. 6º e 10º e aditado o art. 31º-A ao cap. V pelo DRR.19/2000/M.2000.02.29.PG-RAM,DR.IS-B [69] de\
+    \ 22/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2000-515254
+  date: '2000-02-29'
+- type: amended_by
+  target: pt:dre:348479:por
+  label: "Alterados os arts. 1º(na redacção do DRR 20/97/M de 22-Set), 6º (na redacção dos DRR. 20/97/M, de 22-Set e 19/2000/M,\
+    \ de 22-Mar), 7º, 8º (na redacção do DRR. 20/97/M, de 22-Set), 10º (na redacção dos DRR. 20/97/M, de 22-Set e 19/2000/M,\
+    \ de 22-Mar), 11º e 30º (os dois últimos na redacção do DRR.20/97/M, de 22-Set) e aditados os arts. 22º-A, 25º-A, 26º-A\
+    \ e 26º-B ao presente diploma pelo DRR.12/2001/M.2001.06.19.PG-RAM, DR.IS-B[156] de 2001/JUL/07\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2001-348479
+  date: '2001-06-19'
+- type: amended_by
+  target: pt:dre:616242:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral da norma constante do nº 2 do art. 28º, na versão\
+    \ originária pelo AC.310/2001.2001.07.03.TCS, DR.IS-A [229] de 02/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/310-2001-616242
+  date: '2001-07-03'
+- type: amended_by
+  target: pt:dre:635211:por
+  label: "Alterados os arts. 6º, 9º, 13º a 21º, 24º e 26º, assim como são alterados e substituídos os quadros de pessoal,\
+    \ revogados os arts. 26º-A, 27º, 28º, 29º, 30º, 31º, e 32º, alterada a designação dos arts. 26º-B e 30º (que passam a\
+    \ constituir os arts. 26º-A e 27º) com a redacção conferida pelos DRR 20/97/M de 22-Set, DRR 19/2000/M de 23-Mar e DRR\
+    \ 12/2001/M de 07-Jul, pelo DRR.15/2002/M.2002.08.23.PG-RAM DR.IS-B [216], que aditou um art. 28º ao presente diploma\
+    \ e o republicou\0ou\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2002-635211
+  date: '2002-08-23'
+- type: amended_by
+  target: pt:dre:517846:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, dos arts. 1º e 2.º do DRR 15/2002/M, de 18-Set,\
+    \ enquanto alteram os arts. 11º, 13º a 21º, 24º e 26º da orgânica da Inspecção Regional das Actividades Económicas, aprovada\
+    \ pelo presente decreto, bem como é declarada a inconstitucionalidade com força obrigatória geral do nº 1 do art. 3º,\
+    \ pelo AC.18/2007.16.01.2007.TCS, DR.IS [36] de 20.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/18-2007-517846
+  date: '2007-01-16'
+- type: amended_by
+  target: pt:dre:248005:por
+  label: "Alterados os arts. 11º, 13º a 21º, 24, 26º, 26º-A e 27º da orgânica da Inspecção Regional das Actividades Económicas\
+    \ aprovada pelo presente diploma, com as alterações posteriormente introduzidas pelos DRR 20/97/M de 22-Set, 12/2001/M\
+    \ de 07-Jul e 15/2002/M de 18-Set, pelo DLR.5/2008/M.19.02.2008.AL-RAM, DR.IS [35] de 19.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2008-248005
+  date: '2008-02-19'
+- type: amended_by
+  target: pt:dre:257858:por
+  label: "Mantido em vigor, até 31.12.2012, o art. 24º (alterado pelos DRR 15/2002/M de 18-set e 5/2008/M de 19-fev) do presente\
+    \ diploma (já revogado e mantido transitoriamente em vigor pelo DRR 19/2012/M de 22-mar) pelo DLR.6/2013/M.05.02.2013.AL-RAM,\
+    \ DR.IS [25] de 05.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2013-257858
+  date: '2013-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/1993/01/18/p/dre
   label: null
@@ -93,16 +150,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:389387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645716:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175343:por
+  label: "Revogado, sem prejuízo do nº2 do art. 2º, o presente diploma, na redação dos DRR 20/97/M, de 22-set, 19/2000/M,\
+    \ de 22-mar, 12/2001/M, de 07-jul, 15/2002/M, de 18-set e do DLR 5/2008, de 19-fev , pelo DRR.19/2012/M.22.08.2012.PG-RAM,\
+    \ DR.IS [162] de 22.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2012-175343
+  date: '2012-08-22'
 article_structure:
   article_count: 32
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:00Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +295,9 @@ e) Assegurar a administração e a gestão dos recursos humanos e materiais que 
 
 2 - O inspector regional será substituído nas suas faltas e impedimentos por um chefe de divisão ou por um técnico superior designado para o efeito.
 
-###### Artigo 8.º — Divisão de Inspecção
+###### Artigo 8.º
+
+##### Divisão de Inspecção
 
 À Divisão de Inspecção compete:
 
@@ -221,7 +315,9 @@ f) Efectuar estudos sobre matérias de competência da IRAE e propor a realizaç
 
 g) Realizar quaisquer outras acções que lhe sejam superiormente determinadas.
 
-###### Artigo 9.º — Divisão Jurídica
+###### Artigo 9.º
+
+##### Divisão Jurídica
 
 A Divisão Jurídica é um orgão de apoio técnico-jurídico, à qual compete:
 
@@ -235,7 +331,9 @@ d) Exercer quaisquer outras funções de natureza jurídica que lhe forem superi
 
 e) Seleccionar, recolher e difundir a legislação e demais documentação recebida, procedendo ao seu controlo, análise e indexação.
 
-###### Artigo 10.º — Divisão Técnica
+###### Artigo 10.º
+
+##### Divisão Técnica
 
 A Divisão Técnica é um órgão de apoio técnico à acção inspectiva e às diferentes áreas de intervenção da IRAE, à qual compete:
 
@@ -477,12 +575,12 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Aprovado em Conselho do Governo Regional em 11 de Janeiro de 1996.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 30 de Janeiro de 1996.**
+Assinado em 30 de Janeiro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/047b00/03660372.pdf))](https://files.diariodarepublica.pt/1s/1996/02/047b00/03660372.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/047b00/03660372.pdf)

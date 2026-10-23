@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/191b00/52635272.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2003/08/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2003-654701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5334e45470be2a0cac6ca83985c47269043a40d280084c0bd8c663a03d05342f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 936706546bb53ee91fb076e7618291c2aea60932f73019b0781885c2bb00893e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Farmácia
-- Pessoal Dirigente
-- Medicina Privada
-- Governo Regional
-- Saúde
 - Definição de Competências
-- Saúde Pública
+- Direcção Regional de Planeamento e Saúde Pública
+- Farmácia
 - Fiscalização
+- Funchal
+- Governo Regional
 - Integração de Trabalhadores
 - Licenciamento
-- Secretaria Regional dos Assuntos Sociais
-- Orgânica
-- Funchal
 - Madeira.região Autónoma
+- Medicina Privada
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Direcção Regional de Planeamento e Saúde Pública
+- Saúde
+- Saúde Pública
+- Secretaria Regional dos Assuntos Sociais
 - Serviço Regional de Saúde
 - Unidade de Saúde Pública
 relationships:
@@ -88,6 +88,14 @@ relationships:
   target: pt:dre:449948:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449948:por
+  label: "Extinto, a partir de 30.06.2008, a Direcção Regional de Planeamento e Saúde Pública, cuja orgânica foi aprovada\
+    \ pelo presente diploma, revogado naquela data, nos termos do art. 5º, sucedendo àquela Direcção Regional em todos os\
+    \ seus direitos e obrigações, o Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, pelo DLR.22/2008/M.23.06.2008.AL-RAM,\
+    \ DR.IS [119] de 23.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-2008-449948
+  date: '2008-06-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/286/1999/07/27/p/dre
   label: null
@@ -112,16 +120,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:167377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 31
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:01Z'
   warnings: []
   errors: []
 ---
@@ -302,7 +334,9 @@ e) Promover e coordenar as actividades de recolha, tratamento, análise e divulg
 
 f) Colaborar com os restantes serviços da Secretaria Regional dos Assuntos Sociais na definição das necessidades em matéria de informação e na selecção, padronização, recolha, registo, tratamento, interpretação e divulgação de dados.
 
-###### Artigo 6.º — Divisão de Estatística
+###### Artigo 6.º
+
+##### Divisão de Estatística
 
 A Divisão de Estatística, abreviadamente designada por DE, é o serviço da DSP ao qual compete:
 
@@ -344,7 +378,9 @@ l) Propor orientações técnicas e de intervenção dos serviços em relação 
 
 m) Analisar as causas e extensão das doenças transmissíveis e o seu impacte na saúde pública, identificando as medidas a adoptar.
 
-###### Artigo 8.º — Divisão de Epidemiologia
+###### Artigo 8.º
+
+##### Divisão de Epidemiologia
 
 1 - A Divisão de Epidemiologia, abreviadamente designada por DE, é o serviço da DSPS ao qual compete, ao nível da Região, a monitorização da saúde da população e a análise dos fenómenos da saúde e da doença, por forma a proporcionar aos serviços a informação necessária à intervenção baseada em provas científicas.
 
@@ -362,7 +398,9 @@ e) Monitorização da saúde da população dos respectivos factores de risco e 
 
 f) Apoiar tecnicamente as autoridades de saúde no exercício das suas competências, nomeadamente na elaboração dos respectivos relatórios anuais sobre o estado sanitário.
 
-###### Artigo 9.º — Divisão de Engenharia Sanitária
+###### Artigo 9.º
+
+##### Divisão de Engenharia Sanitária
 
 A Divisão de Engenharia Sanitária, abreviadamente designada por DES, é o serviço da DSPS ao qual compete:
 
@@ -394,7 +432,9 @@ d) Coordenar as actividades de licenciamento dos agentes que na Região intervê
 
 e) Coordenar a realização de vistorias técnicas, no âmbito do exercício das profissões de saúde, em regime liberal.
 
-###### Artigo 11.º — Divisão de Assuntos Farmacêuticos
+###### Artigo 11.º
+
+##### Divisão de Assuntos Farmacêuticos
 
 A Divisão de Assuntos Farmacêuticos, abreviadamente designada por DAF, é o serviço da DSAP ao qual compete:
 
@@ -576,11 +616,15 @@ c) Dar parecer sobre os processos de licenciamento das unidades privadas de saú
 
 3 - O GJ é dirigido por um chefe de divisão.
 
-###### Artigo 25.º — Divisão de Informação e Documentação
+###### Artigo 25.º
+
+##### Divisão de Informação e Documentação
 
 A Divisão de Informação e Documentação, abreviadamente designada por DID, é o serviço da DRSP ao qual compete proceder à recolha, selecção e compilação de documentação e bibliografia com interesse para as respectivas atribuições e recolher, seleccionar, compilar e divulgar diplomas legais e regulamentares.
 
-###### Artigo 26.º — Divisão de Serviços Administrativos
+###### Artigo 26.º
+
+##### Divisão de Serviços Administrativos
 
 1 - A Divisão de Serviços Administrativos, abreviadamente designada por DSA, é o serviço da DRSP ao qual compete proceder à execução das actividades relativas à gestão do expediente e correspondência gerais, bem como à gestão dos recursos materiais, financeiros, de pessoal e informáticos que lhe estão afectos.
 
@@ -604,7 +648,9 @@ a) A Secção de Assuntos Gerais e Pessoal;
 
 b) A Secção de Contabilidade e Aprovisionamento.
 
-###### Artigo 27.º — Secção de Assuntos Gerais e Pessoal
+###### Artigo 27.º
+
+#### Secção de Assuntos Gerais e Pessoal
 
 1 - A Secção de Assuntos Gerais e Pessoal, abreviadamente designada por SAP, é o serviço de execução administrativa da DSA para as áreas de expediente, arquivo geral e de pessoal.
 
@@ -618,7 +664,9 @@ c) Coordenar a actividade do pessoal auxiliar;
 
 d) Organizar e executar os procedimentos de gestão de pessoal, designadamente relativos ao recrutamento, promoção, mobilidade e aposentação, mantendo o registo biográfico dos funcionários.
 
-###### Artigo 28.º — Secção de Contabilidade e Aprovisionamento
+###### Artigo 28.º
+
+#### Secção de Contabilidade e Aprovisionamento
 
 1 - A Secção de Contabilidade e Aprovisionamento, abreviadamente designada por SCA, é o serviço de execução administrativa da DSA para as áreas de orçamento, contabilidade e aprovisionamento.
 
@@ -676,11 +724,11 @@ Aprovado em Conselho do Governo Regional de 3 de Julho de 2003.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 24 de Julho de 2003.**
+Assinado em 24 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — Quadro de pessoal da Direcção Regional de Planeamento e Saúde Pública
 

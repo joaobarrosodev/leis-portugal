@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2006/06/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de82a7832150bf5b9efa92b0e6700570288757414e33aa9d2cb0e4c54fc21a36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3451d7b9b34c1ba39b4660885f0a682dcbf00c899d8281eb2ad798ce1a5c9304
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cartão de Identificação
-- Política de Saúde
 - Base de Dados
-- Segurança da Informação
-- Madeira.região Autónoma
-- Serviço Regional de Saúde
+- Cartão de Identificação
 - Dados Pessoais
+- Madeira.região Autónoma
+- Política de Saúde
+- Segurança da Informação
+- Serviço Regional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/198/1995/07/29/p/dre
@@ -114,16 +114,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/19
   label: null
   source: http://data.dre.pt/eli/lei/67/19
+- type: cites
+  target: pt:dre:224002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668079:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:20Z'
   warnings: []
   errors: []
 ---
@@ -160,13 +200,17 @@ Os artigos 2.º, 4.º, 5.º, 6.º, 12.º, 13.º, 15.º, 16.º e 18.º do [Decret
 
 4 - Aos utentes não é cobrada, com excepção das taxas moderadoras, quando devidas, qualquer importância relativa às prestações de saúde quando devidamente identificados nos termos deste diploma ou desde que façam prova, nos 10 dias seguintes à interpelação para pagamento dos encargos com os cuidados de saúde prestados, de que são titulares ou requereram a emissão do cartão de identificação de utente do Serviço Regional de Saúde, E. P. E.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O cartão de identificação do utente é emitido pelo Serviço Regional de Saúde, E. P. E.
 
 2 - As dimensões e o modelo do cartão de identificação do utente são fixados por despacho do Secretário Regional dos Assuntos Sociais, observados os requisitos em vigor a nível nacional.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -176,7 +220,9 @@ Os artigos 2.º, 4.º, 5.º, 6.º, 12.º, 13.º, 15.º, 16.º e 18.º do [Decret
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -184,19 +230,25 @@ Os artigos 2.º, 4.º, 5.º, 6.º, 12.º, 13.º, 15.º, 16.º e 18.º do [Decret
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
 2 - Os dados constantes das bases de dados são recolhidos pelos serviços competentes do Serviço Regional de Saúde, E. P. E., que processam informaticamente todos os movimentos a partir do formulário de identificação referido no artigo 5.º, devidamente preenchido, por forma a manter actualizada a base de dados e a permitir a emissão dos cartões de identificação do utente.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - É autorizada a comunicação dos dados referidos no n.º 1 do artigo anterior às instituições e serviços prestadores de saúde integrados no Serviço Regional de Saúde, E. P. E., nos termos do Estatuto do Sistema Regional de Saúde, aprovado pelo [Decreto Legislativo Regional n.º 4/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2003-224002), de 7 de Abril.
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -204,11 +256,15 @@ Os artigos 2.º, 4.º, 5.º, 6.º, 12.º, 13.º, 15.º, 16.º e 18.º do [Decret
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Qualquer pessoa tem o direito de exigir a correcção de inexactidões e o complemento das total ou parcialmente registadas, nos termos das alíneas d) e e) do artigo 11.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro, mediante requerimento apresentado ao Serviço Regional de Saúde, E. P. E.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O Serviço Regional de Saúde, E. P. E., é, nos termos e para os efeitos do disposto na alínea d) do artigo 3.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro, responsável pela base de dados existente na Região Autónoma da Madeira, nomeadamente pelo seu processamento, gestão e segurança.
 
@@ -220,10 +276,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 20 de Abril de 2006.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 11 de Maio de 2006.**
+Assinado em 11 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

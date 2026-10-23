@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/169b00/54565465.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2002/07/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2002-188489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0082f938b8c11f059e113a151fee0925c94e7b3a17dbaf630eb993d7b70b354e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 075d5da86039b90c0ca8cb516a11db4d059525556a4234cb295b0be10a55484c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional das Florestas
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Secretaria Regional do Ambiente e dos Recursos Naturais
 relationships:
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:233520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693196:por
+  label: "Mantido em vigor o presente diploma orgânico e o quadro de pessoal pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B\
+    \ [94] de 16.05.2005, até à entrada em vigor do novo diploma orgânico previsto no nº 2 do art. 4º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -115,16 +121,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:197368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677438:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:233520:por
+  label: "Revogado pelo DRR.26/2005/M.19.05.2005.PG-RAM, DR.IS-B [129] de 07.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2005-233520
+  date: '2005-05-19'
 article_structure:
   article_count: 28
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:52Z'
   warnings: []
   errors: []
 ---
@@ -441,7 +496,9 @@ l) Criar e assegurar a manutenção e o funcionamento de uma adequada base de da
 
 m) Promover actividades didácticas, culturais e lúdicas no Jardim Botânico.
 
-#### SECÇÃO VI — Divisão de Serviços Administrativos
+#### SECÇÃO VI
+
+##### Divisão de Serviços Administrativos
 
 ###### Artigo 17.º — Natureza
 
@@ -579,11 +636,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 23 de Maio de 2002.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 19 de Junho de 2002.**
+Assinado em 19 de Junho de 2002.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — (a que se refere o artigo 24.º)
 

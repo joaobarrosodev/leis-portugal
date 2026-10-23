@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/01/026b00/05370541.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/1997/01/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1997-571065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3e790425e9af99ce220bb100e7c4ad76f4ee5657b574c32077fbd54369d3459
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc84abbbff57b69a874adf7f45c29c362e1fe9363dbc3028b57e2ddb773d4a36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Regional das Pescas
 - Definição de Competências
 - Direcção Regional das Florestas
+- Direcção Regional das Pescas
 - Direcção Regional de Agricultura
 - Direcção Regional de Pecuária
 - Fundo Especial para a Extinção da Colónia
@@ -76,16 +76,27 @@ subjects:
 - Fundo Regional de Intervenção e Garantia Agrícola
 - Gabinete do Secretário Regional de Agricultura Florestas e Pescas
 - Instituto do Vinho da Madeira
-- Secretaria Regional da Agricultura Florestas e Pescas
+- Madeira.região Autónoma
 - Orgânica
 - Parque Natural da Madeira
-- Madeira.região Autónoma
+- Secretaria Regional da Agricultura Florestas e Pescas
 - Secretário Regional da Agricultura Florestas e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:348315:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469203:por
+  label: "Alterados os art 9º, 18º e 19º pelo DRR.8/97/M.1997.04.02.PG-RAM DR.IS-B [93] de 21/Abr/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1997-469203
+  date: '1997-04-02'
+- type: amended_by
+  target: pt:dre:639915:por
+  label: "Alterado o quadro de pessoal e os arts. 9º, 11º, 14º, 18º, 20º e aditados os arts. 25º-A e 32º-A, pelo DRR.17/99/M.1999.11.04.PG-RAM,\
+    \ DR.IS-B [279] de 30/Nov/1999, na redacção dada pelo DRR 8/97/M de 21-Abr\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1999-639915
+  date: '1999-11-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/24-a/1996/12/04/m/dre
   label: null
@@ -98,16 +109,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:375425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:348315:por
+  label: "Revogado pelo DRR.11/2001/M.2001.06.15.SRARN-RAM, DR.IS-B [155] de 2001/JUL/06.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2001-348315
+  date: '2001-06-15'
 article_structure:
   article_count: 34
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:10Z'
   warnings: []
   errors: []
 ---
@@ -532,10 +560,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 19 de Dezembro de 1996.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 9 de Janeiro de 1997.**
+Assinado em 9 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

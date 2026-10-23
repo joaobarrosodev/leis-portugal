@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/27/2001/10/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2001-584412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 892024af7d7880df28224d19a865bd8b26dd699743609cc4ed3d963fc1c86465
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e9ccf1584a5c06ffe5f85d0d4518ac82c32979500598b5476fd7a3682866b36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Recrutamento de Pessoal
-- Integração de Trabalhadores
 - Direcção Regional de Educação
-- Orgânica
+- Integração de Trabalhadores
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:549037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588834:por
+  label: "Determinada a manutenção em vigor do presente diploma, pelo DRR.5/2005/M.21.02.2005.PG-RAM, DR.IS-B [47] de 08.03.2005,\
+    \ até à publicação integral dos diplomas a que se refere o n.º 4 do seu art. 4.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2005-588834
+  date: '2005-02-21'
+- type: amended_by
+  target: pt:dre:549037:por
+  label: "Extintas a Direcção de Serviços de Gestão Educativa, a Direcção de Serviços de Tecnologias de Informação e Comunicação\
+    \ e a Divisão de Ensino Básico, constantes, respectivamente, das als. c) e d) do n.º 2 do art. 4.º e da al. b) do n.º\
+    \ 2 do art. 11.º da orgânica aprovada pelo presente diploma, pelo DRR.22/2005/M.30.03.2005.PG-RAM, DR.IS-B [79] de 22.04.2005,\
+    \ que mantém em vigor este diploma para o funcionamento do Gabinete Coordenador do Desporto Escolar (GCDE) e do Gabinete\
+    \ Coordenador de Educação Artística (GCEA) - conjugado respectivamente com os DLR 7/98/M, de 24-Mai e 5/98/M, de 27-Abr\
+    \ - até à aprovação dos diplomas previstos no n.º 5 do art. 17.º e no n.º 4 do art. 19.º do referido DRR 22/2005/M, de\
+    \ 22-Abr\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2005-549037
+  date: '2005-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
   label: null
@@ -111,16 +128,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 37
+  section_count: 40
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:46Z'
   warnings: []
   errors: []
 ---
@@ -149,19 +198,21 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Agosto de 2001.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 20 de Setembro de 2001.**
+Assinado em 20 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica da Direcção Regional de Educação
 
 ### CAPÍTULO I — Natureza e atribuições
 
-#### SECÇÃO I — Artigo 1.º
+#### SECÇÃO I
+
+###### Artigo 1.º
 
 Natureza
 
@@ -241,7 +292,9 @@ c) Exercer as competências que lhe sejam delegadas ou subdelegadas.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 4.º
+#### SECÇÃO I
+
+###### Artigo 4.º
 
 Estrutura
 
@@ -337,7 +390,9 @@ g) Coordenar as acções relativas ao desenvolvimento da reorganização e revis
 
 2 - Na dependência da DSFIP funciona a Divisão de Formação Contínua (DFC).
 
-##### SUBSECÇÃO I — Divisão de Formação Contínua
+##### SUBSECÇÃO I
+
+##### Divisão de Formação Contínua
 
 ###### Artigo 10.º — Atribuições
 
@@ -379,7 +434,9 @@ c) Divisão de Ensino Secundário (DES);
 
 d) Gabinete de Apoio Psicológico e de Orientação Escolar e Profissional (GAPOEP).
 
-##### SUBSECÇÃO I — Divisão de Educação Pré-Escolar
+##### SUBSECÇÃO I
+
+##### Divisão de Educação Pré-Escolar
 
 ###### Artigo 12.º — Atribuições
 
@@ -391,7 +448,9 @@ b) Coordenar o desenvolvimento das actividades, dos métodos e técnicas apropri
 
 c) Proporcionar aos estabelecimentos de educação com valência infância, incluindo as instituições de solidariedade social, o apoio técnico e pedagógico, com vista à garantia da qualidade da acção educativa desse nível de educação.
 
-##### SUBSECÇÃO II — Divisão de Ensino Básico
+##### SUBSECÇÃO II
+
+##### Divisão de Ensino Básico
 
 ###### Artigo 13.º — Atribuições
 
@@ -403,7 +462,9 @@ b) Definir as orientações em matéria de apoio educativo, visando a igualdade 
 
 c) Desenvolver as acções decorrentes do funcionamento dos estabelecimentos de ensino particular e cooperativo no que se refere a matrículas, transferências e equivalências.
 
-##### SUBSECÇÃO III — Divisão de Ensino Secundário
+##### SUBSECÇÃO III
+
+##### Divisão de Ensino Secundário
 
 ###### Artigo 14.º — Atribuições
 
@@ -495,7 +556,9 @@ d) Executar trabalho de gravação e reprodução vídeo e áudio, assim como a 
 
 e) Disponibilizar, sempre que solicitado, os meios humanos e técnicos necessários à concretização de projectos da responsabilidade dos estabelecimentos de ensino, bem como de outras instituições públicas ou privadas.
 
-##### SUBSECÇÃO III — Secção Administrativa
+##### SUBSECÇÃO III
+
+#### Secção Administrativa
 
 ###### Artigo 19.º — Atribuições
 
@@ -535,7 +598,9 @@ e) Colaborar e dar parecer sobre projectos de convénios e protocolos entre a Se
 
 2 - Na dependência do GES funciona a Secção Administrativa do Gabinete do Ensino Superior (SAGES).
 
-##### SUBSECÇÃO I — Secção Administrativa
+##### SUBSECÇÃO I
+
+#### Secção Administrativa
 
 ###### Artigo 22.º — Atribuições
 
@@ -561,7 +626,9 @@ e) Assegurar a organização de competições e outras actividades desportivas e
 
 3 - Na dependência do GCDE funciona a Secção de Apoio Administrativo (SAA).
 
-##### SUBSECÇÃO IX — Secção de Apoio Administrativo
+##### SUBSECÇÃO IX
+
+#### Secção de Apoio Administrativo
 
 ###### Artigo 24.º — Atribuições
 
@@ -629,7 +696,9 @@ e) Participar, sempre que solicitado, em concertos, espectáculos e outros event
 
 f) Promover o intercâmbio a nível regional, nacional e internacional, em colaboração com entidades oficiais e particulares, numa perspectiva de promoção dos valores educativos, culturais e tradicionais da Madeira.
 
-##### SUBSECÇÃO III — Secção Administrativa
+##### SUBSECÇÃO III
+
+#### Secção Administrativa
 
 ###### Artigo 28.º — Atribuições
 

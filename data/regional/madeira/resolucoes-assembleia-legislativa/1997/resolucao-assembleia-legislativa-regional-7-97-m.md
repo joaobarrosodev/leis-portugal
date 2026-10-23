@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/7/1997/04/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/7-1997-469012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 641e26655ac3a05a688252b782efec925e1eb64e7a5eb672f092aeae68143b54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ce025963a7dabf60c2f9d318a30329bf3b896c6af64c4104e113b1db0c08e93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Parlamentar
 - Assembleia Legislativa Regional
 - Grupo Parlamentar
 - Madeira.região Autónoma
-- Regimento
+- Parlamentar
 - Processo Legislativo
+- Regimento
 relationships: []
 article_structure:
   article_count: 234
   section_count: 61
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:59Z'
   warnings: []
   errors: []
 ---
@@ -442,7 +442,7 @@ Ao deputado que seja único representante de um partido ou aos deputados eleitos
 
 ###### Artigo 25.º — Substituição
 
-**O Presidente da Assembleia será substituído nas suas faltas ou impedimentos por um dos Vice-Presidentes. Nas faltas ou impedimentos destes, por um deputado a indicar pelo partido de representação maioritária na Assembleia.**
+O Presidente da Assembleia será substituído nas suas faltas ou impedimentos por um dos Vice-Presidentes. Nas faltas ou impedimentos destes, por um deputado a indicar pelo partido de representação maioritária na Assembleia.
 
 ##### DIVISÃO II — Competência
 
@@ -956,7 +956,7 @@ Nos casos do artigo 235.º da Constituição, o Presidente da Assembleia poderá
 
 ###### Artigo 75.º — Apreciação de outras matérias
 
-**O Presidente da Assembleia incluirá na primeira parte da ordem do dia prevista no n.º 2 do artigo 89.º a apreciação das seguintes matérias:**
+O Presidente da Assembleia incluirá na primeira parte da ordem do dia prevista no n.º 2 do artigo 89.º a apreciação das seguintes matérias:
 
 a) Deliberações sobre o mandato de deputado;
 
@@ -1098,7 +1098,7 @@ g) À comunicação de qualquer decisão do Presidente da Assembleia ou delibera
 
 ###### Artigo 90.º — Convite a individualidades estranhas à Assembleia
 
-**O Presidente da Assembleia poderá, a título excepcional, ouvida a conferência dos presidentes dos grupos parlamentares e os deputados únicos representantes de partido, convidar individualidades estranhas à Assembleia a tomar lugar na sala e a usar da palavra.**
+O Presidente da Assembleia poderá, a título excepcional, ouvida a conferência dos presidentes dos grupos parlamentares e os deputados únicos representantes de partido, convidar individualidades estranhas à Assembleia a tomar lugar na sala e a usar da palavra.
 
 #### SECÇÃO II — Uso da palavra
 
@@ -1588,7 +1588,7 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 ###### Artigo 145.º — Envio de propostas de alteração
 
-**O Presidente da Assembleia poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.**
+O Presidente da Assembleia poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto legislativo regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 146.º — Apreciação de projectos ou de propostas sobre legislação do trabalho
 
@@ -1620,7 +1620,9 @@ Se a comissão se considerar incompetente para a apreciação do texto, deverá 
 
 ##### DIVISÃO IV — Discussão e votação
 
-##### SUBDIVISÃO I — Disposições gerais
+SUBDIVISÃO I
+
+Disposições gerais
 
 ###### Artigo 150.º — Conhecimento prévio dos projectos e propostas
 
@@ -1638,7 +1640,9 @@ Não será admitido o requerimento previsto no artigo anterior enquanto não tiv
 
 Até ao anúncio da votação podem quatro deputados, pelo menos, requerer a baixa do texto a qualquer comissão, para o efeito de nova apreciação no prazo que foi designado, não se aplicando neste caso o disposto no artigo 150.º, salvo o que respeita à obrigatoriedade da distribuição em folhas avulsas.
 
-##### SUBDIVISÃO II — Discussão e votação na generalidade
+SUBDIVISÃO II
+
+Discussão e votação na generalidade
 
 ###### Artigo 154.º — Objecto
 
@@ -1648,7 +1652,9 @@ Até ao anúncio da votação podem quatro deputados, pelo menos, requerer a bai
 
 3 - A Assembleia pode deliberar que a discussão e a votação incidam sobre parte do projecto ou proposta de decreto legislativo regional cuja autonomia o justifique.
 
-##### SUBDIVISÃO III — Discussão e votação na especialidade
+SUBDIVISÃO III
+
+Discussão e votação na especialidade
 
 ###### Artigo 155.º — Regra geral
 
@@ -2102,7 +2108,7 @@ b) Que o Presidente da Assembleia ou as comissões entendam que devem ser public
 
 ###### Artigo 212.º — Comunicação ao autor ou aos autores da petição
 
-**O Presidente da Assembleia comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.**
+O Presidente da Assembleia comunicará ao autor ou ao primeiro dos autores da petição o relatório da comissão e as diligências subsequentes que tenham sido adoptadas.
 
 #### SECÇÃO VII — Inquéritos
 
@@ -2278,4 +2284,4 @@ f) O prazo para redacção final será de dois dias.
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 4 de Março de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olivial Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olivial Mendonça.

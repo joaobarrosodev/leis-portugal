@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/07/12800/0394703951.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2011/07/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2011-670502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 428cf931a0d2d02c7de99879db8809dd82d158378e20ed22f909ad40be670f00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7ac34fdf5a2726ac955991143fd9cb2c66b0dfaaf4e3c0ee9f5181e189f426f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
+- Arm-águas e Resíduos da Madeira
 - Caram
 - Definição de Competências
 - Direcção Regional do Ambiente
 - Empresa Pública Regional
-- Setor Empresarial do Estado
-- Integração de Trabalhadores
-- Arm-águas e Resíduos da Madeira
 - Gesba-Empresa de Gestão do Sector da Banana
-- IGSERV-Investimentos Gestão e Serviços
-- Valor Ambiente
-- Orgânica
-- Madeira.região Autónoma
-- Secretaria Regional do Ambiente e Recursos Naturais
 - Iga-investimentos e Gestão da ÁGUA
 - Igh-investimentos e Gestão Hidroagrícola
+- IGSERV-Investimentos Gestão e Serviços
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional do Ambiente e Recursos Naturais
+- Setor Empresarial do Estado
+- Sociedade Anónima
 - Tutela
+- Valor Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:553440:por
@@ -120,16 +120,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/2007/07/23/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/2007/07/23/m/dre
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693196:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553440:por
+  label: "Revogado, a partir de 14.03.2012, o DRR 17/2008/M de 06-jul, alterado pelo presente diploma, pelo DRR.2/2012/M.13.03.2012.PG-RAM,\
+    \ DR.IS [52] de 13.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2012-553440
+  date: '2012-03-13'
 article_structure:
-  article_count: 25
+  article_count: 24
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:36Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +194,9 @@ Os artigos 1.º e 2.º do [Decreto Regulamentar Regional n.º 17/2008/M](https:/
 
 A Secretaria Regional do Ambiente e dos Recursos Naturais, adiante abreviadamente designada por SRA, é o departamento governamental que tem por missão definir as políticas agrícola, de desenvolvimento rural, agro-pecuária, ambiental, do urbanismo, litoral e ordenamento do território, das áreas protegidas, florestal, piscatória, de resíduos, vitivinícola e artesanato numa perspectiva de desenvolvimento sustentável, da protecção do cidadão, da qualidade, bem como assegurar o planeamento e a coordenação da aplicação dos fundos nacionais e comunitários aos mesmos.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Na prossecução da sua missão, são atribuições da SRA:
 
@@ -192,7 +232,7 @@ Ao [Decreto Regulamentar Regional n.º 17/2008/M](https://diariodarepublica.pt/d
 
 Sector empresarial
 
-**O Secretário Regional do Ambiente e dos Recursos Naturais exerce a tutela e as competências no âmbito da função accionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:**
+O Secretário Regional do Ambiente e dos Recursos Naturais exerce a tutela e as competências no âmbito da função accionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:
 
 a) CARAM, Centro de Abate da Região Autónoma da Madeira, E. P. E.;
 
@@ -230,11 +270,11 @@ O [Decreto Regulamentar Regional n.º 17/2008/M](https://diariodarepublica.pt/dr
 
 Aprovado em Conselho do Governo Regional em 2 de Junho de 2011.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Junho de 2011.**
+Assinado em 20 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -298,11 +338,11 @@ e) A Direcção Regional de Pescas.
 
 ###### Artigo 5.º — Superintendência e tutela
 
-**O Secretário Regional tem a tutela e superintendência do Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P., Parque Natural da Madeira e Fundo Madeirense do Seguro de Colheitas.**
+O Secretário Regional tem a tutela e superintendência do Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P., Parque Natural da Madeira e Fundo Madeirense do Seguro de Colheitas.
 
 ###### Artigo 5.º-A — Sector empresarial
 
-**O Secretário Regional do Ambiente e dos Recursos Naturais exerce a tutela e as competências no âmbito da função accionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:**
+O Secretário Regional do Ambiente e dos Recursos Naturais exerce a tutela e as competências no âmbito da função accionista da Região Autónoma da Madeira e as decorrentes da participação desta relativamente às empresas seguintes:
 
 a) CARAM, Centro de Abate da Região Autónoma da Madeira, E. P. E.;
 
@@ -486,4 +526,4 @@ Até à entrada em vigor dos novos diplomas que reestruturam o sector das águas
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2011/07/12800/0394703951.pdf))](https://files.diariodarepublica.pt/1s/2011/07/12800/0394703951.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/07/12800/0394703951.pdf)

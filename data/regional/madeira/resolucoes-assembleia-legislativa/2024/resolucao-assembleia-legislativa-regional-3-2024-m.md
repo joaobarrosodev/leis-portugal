@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01200/0005400058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/3/2024/01/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/3-2024-837022983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 472c589ad712d2797a3816404da707296083fbb21e5ea87924af603950123c17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 362685c41e5ff704a192f10295d7a95f065571194b0d614ab6bf1f98906ce602
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assembleia Legislativa Regional
 - Assembleia Legislativa
-- Orçamento
+- Assembleia Legislativa Regional
 - Madeira.região Autónoma
+- Orçamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/2017/05/23/m/dre
@@ -78,16 +78,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/35/2023/08/02/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/35/2023/08/02/m/dre
+- type: cites
+  target: pt:dre:107061814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216598403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:42Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +112,7 @@ A Assembleia Legislativa da Região Autónoma da Madeira, nos termos do disposto
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 11 de janeiro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
 
 ## ANEXO — Mapas orçamentais
 
@@ -108,9 +120,9 @@ Mapas da receita
 
 Orçamento ALRAM - 2024 - Receita
 
-| Rubrica | Rubrica | Rubrica | Alínea | Subalínea | Fonte de financiamento | Designação | Valores | % |
+| (Valores em euros) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) |
+| Rubrica | Alínea | Subalínea | Fonte de financiamento | Designação | Valores | % |  |  |
 |  |  |  |  |  |  |  |  |  |
 | 04 | 02 | 01 | 01 | 78 | 513 | Juros de mora... | 1 000,00 | 0,0 % |
 | 06 | 04 | 02 | 11 | 00 | 311 | Funcionamento normal - pessoal... | 10 155 000,00 | 66,4 % |
@@ -124,10 +136,10 @@ Orçamento ALRAM - 2024 - Receita
 
 Orçamento ALRAM - 2024 - Receita
 
-|  |  |  |  |
+| (Valores em euros) |  |  |  |
 | --- | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) |
 | Designação |  | Valores | % |
+|  |  |  |  |
 | Receitas correntes... |  | 15 108 000,00 | 98,8 % |
 | Fonte financiamento... | 311 | 15 053 000,00 | 98,4 % |
 | Fonte financiamento... | 513 | 55 000,00 | 0,4 % |
@@ -138,10 +150,10 @@ Orçamento ALRAM - 2024 - Receita
 
 Orçamento ALRAM - 2024 - Receita
 
-|  |  |  |
+| (Valores em euros) |  |  |
 | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) |
 | Fontes de financiamento | Valores | % |
+|  |  |  |
 | Transferências do orçamento da RAM... | 15 200 000,00 | 99,4 % |
 | Receitas próprias... | 90 000,00 | 0,6 % |
 | Total Geral... | 15 290 000,00 | 100,0 % |
@@ -150,10 +162,10 @@ Mapas da despesa
 
 Orçamento ALRAM - 2024 - Despesa
 
-|  |  |  |  |  |  |  |  |  |
+| (Valores em euros) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) | (Valores em euros) |
-| Rubrica | Rubrica | Rubrica | Alínea | Subalínea | Fonte de financiamento | Designação | Valores | % |
+| Rubrica | Alínea | Subalínea | Fonte de financiamento | Designação | Valores | % |  |  |
+|  |  |  |  |  |  |  |  |  |
 | 01 | 01 | 01 | A0 | 00 | 311 | Vencimentos - Presidente... | 71 000,00 | 0,5 % |
 | 01 | 01 | 01 | B0 | 00 | 311 | Vencimentos - Vice-Presidentes... | 160 000,00 | 1,0 % |
 | 01 | 01 | 01 | C0 | 00 | 311 | Vencimentos - Deputados... | 2 300 000,00 | 15,0 % |
@@ -270,10 +282,10 @@ Orçamento ALRAM - 2024 - Despesa
 
 Orçamento ALRAM - 2024 - Despesa
 
-|  |  |  |
+| (Valores em euros) |  |  |
 | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) |
 | Designação | Valores | % |
+|  |  |  |
 | 01 - Despesas c/ o pessoal... | 10 155 000,00 | 66,4 % |
 | 01.01 - Remunerações certas e permanentes... | 5 796 000,00 | 37,9 % |
 | 01.02 - Abonos variáveis ou eventuais... | 984 000,00 | 6,4 % |
@@ -293,13 +305,15 @@ Orçamento ALRAM - 2024 - Despesa
 
 Orçamento ALRAM - 2024 - Despesa
 
-|  |  |  |
+| (Valores em euros) |  |  |
 | --- | --- | --- |
-| (Valores em euros) | (Valores em euros) | (Valores em euros) |
 | Descrição | Valores | % |
+|  |  |  |
 | Despesas com pessoal... | 10 155 000,00 | 66,4 % |
 | Aquisição de bens e serviços... | 1 505 000,00 | 9,8 % |
 | Transferências correntes... | 3 442 000,00 | 22,5 % |
 | Outras despesas correntes... | 6 000,00 | 0,0 % |
 | Aquisição de bens de capital... | 182 000,00 | 1,2 % |
 | Total Geral... | 15 290 000,00 | 100 % |
+
+117244717

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/39/2000/07/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-2000-311588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d293e951a302ebaf847c8f175826cf015ec95658628ba79f477acb4cf94484b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d55df4f89eb46b3bb7689928042def5d71c027f2eb754014a8264043fae78a03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Instituto de Habitação da Região Autónoma da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -91,16 +91,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:238872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197497:por
+  label: "Revogados os arts. 11º-A, 11º-B, 11º-C e 11º-D, alterados os arts. 4º, 7º, 9º, 12º, 15º, 16º, 16º-A, 16º-B, 16º-C,\
+    \ 17º, e 18º, e aditados os arts. 15º-A, 17º-A, 19º-A e 24º-A ao DRR 26/92/M de 27-Ago, com a redacção do presente diploma,\
+    \ pelo DRR.12/2002/M.2002.06.20.PG-RAM DR.IS-B [171] de 26/Jul/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2002-197497
+  date: '2002-06-20'
 article_structure:
-  article_count: 45
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 42
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:37Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +170,9 @@ g) Um representante das indústrias de construção civil.
 
 2 - Os membros do conselho consultivo referidos nas alíneas e), f) e g) serão designados pelos organismos ou sectores de que façam parte e nomeados por despacho da tutela.
 
-###### Artigo 15.º — Serviços centrais
+Artigo 15.º
+
+Serviços centrais
 
 Para a prossecução das suas atribuições, o IHM compreende os seguintes serviços, equiparados para todos os efeitos legais a direcções de serviços:
 
@@ -161,7 +190,9 @@ f) Gabinete de Estudos e Projectos (GEP);
 
 g) Gabinete Jurídico (GJ).
 
-###### Artigo 16.º — Gabinete de Gestão Estratégica
+Artigo 16.º
+
+Gabinete de Gestão Estratégica
 
 1 - Compete ao GGE:
 
@@ -191,7 +222,9 @@ c) Divisão de Promoção/Documentação (DPD);
 
 d) Secção Administrativa (SA).
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -211,7 +244,9 @@ c) Divisão de Espaços Urbanos (DEU);
 
 d) Secção Administrativa dos Serviços Técnicos (SAST).
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -247,17 +282,23 @@ Serviços dependentes do conselho directivo
 
 Na dependência do conselho directivo funcionam a Divisão de Recursos Humanos (DRH), o Gabinete de Assessoria Geral (GAG) e o Gabinete de Expediente e de Relações Públicas (GERP), estes equiparados a divisões.
 
-###### Artigo 11.º-B — Divisão de Recursos Humanos
+Artigo 11.º-B
+
+Divisão de Recursos Humanos
 
 1 - À DRH compete assegurar os procedimentos relacionados com a gestão do pessoal ao serviço do IHM, nomeadamente a sua selecção, admissão, progressão, promoção, remuneração, classificação, formação e aposentação.
 
 2 - A DRH compreende a Secção de Pessoal (SP) e a Secção de Vencimentos (SV).
 
-###### Artigo 11.º-C — Gabinete de Assessoria Geral
+Artigo 11.º-C
+
+Gabinete de Assessoria Geral
 
 Ao GAG compete assessorar o conselho directivo em matérias não compreendidas nas atribuições ou competências de outros serviços do IHM.
 
-###### Artigo 11.º-D — Gabinete de Expediente e Relações Públicas
+Artigo 11.º-D
+
+Gabinete de Expediente e Relações Públicas
 
 1 - Ao GERP compete:
 
@@ -277,7 +318,9 @@ a) Secção de Expediente (SE);
 
 b) Secção de Atendimento Público (SAP).
 
-###### Artigo 16.º-A — Direcção de Serviços Patrimoniais
+Artigo 16.º-A
+
+Direcção de Serviços Patrimoniais
 
 1 - São atribuições da DSP:
 
@@ -311,7 +354,9 @@ a) Secção de Aquisições (SA);
 
 b) Secção do Património (SP).
 
-###### Artigo 16.º-B — Direcção dos Serviços Financeiros
+Artigo 16.º-B
+
+Direcção dos Serviços Financeiros
 
 1 - São atribuições da DSF:
 
@@ -357,7 +402,9 @@ a) Secção de Rendas (SR);
 
 b) Secção de Empréstimos (SE).
 
-###### Artigo 16.º-C — Direcção de Serviços de Planeamento e Gestão Social
+Artigo 16.º-C
+
+Direcção de Serviços de Planeamento e Gestão Social
 
 1 - São atribuições da DSPGS:
 
@@ -411,11 +458,11 @@ Aprovado em Conselho do Governo Regional em 1 de Junho de 2000.
 
 Pelo Presidente do Governo Regional da Madeira, José Paulo Baptista Fontes.
 
-**Assinado em 30 de Junho de 2000.**
+Assinado em 30 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — [Decreto Regulamentar Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1992-238872), de 18 de Setembro (Lei Orgânica do Instituto de Habitação da Região Autónoma da Madeira)
 
@@ -587,7 +634,9 @@ e) Promover a publicação das normas e regulamentos internos.
 
 Na dependência do conselho directivo funcionam a Divisão de Recursos Humanos (DRH), o Gabinete de Assessoria Geral (GAG) e o Gabinete de Expediente e de Relações Públicas (GERP), estes equiparados a divisões.
 
-###### Artigo 11.º-B — Divisão de Recursos Humanos
+###### Artigo 11.º-B
+
+##### Divisão de Recursos Humanos
 
 1 - À DRH compete assegurar os procedimentos relacionados com a gestão do pessoal ao serviço do IHM, nomeadamente a sua selecção, admissão, progressão, promoção, remuneração, classificação, formação e aposentação.
 
@@ -675,7 +724,9 @@ f) Gabinete de Estudos e Projectos (GEP);
 
 g) Gabinete Jurídico (GJ).
 
-##### SUBSECÇÃO I — Artigo 16.º
+##### SUBSECÇÃO I
+
+###### Artigo 16.º
 
 Gabinete de Gestão Estratégica
 
@@ -707,7 +758,9 @@ c) Divisão de Promoção/Documentação (DPD);
 
 d) Secção Administrativa (SA).
 
-##### SUBSECÇÃO II — Artigo l6.º-A
+##### SUBSECÇÃO II
+
+###### Artigo l6.º-A
 
 Direcção de Serviços Patrimoniais
 
@@ -743,7 +796,9 @@ a) Secção de Aquisições (SA);
 
 b) Secção do Património (SP).
 
-##### SUBSECÇÃO III — Artigo 16.º-B
+##### SUBSECÇÃO III
+
+###### Artigo 16.º-B
 
 Direcção de Serviços Financeiros
 
@@ -791,7 +846,9 @@ a) Secção de Rendas (SR);
 
 b) Secção de Empréstimos (SE).
 
-##### SUBSECÇÃO IV — Artigo 16.º-C
+##### SUBSECÇÃO IV
+
+###### Artigo 16.º-C
 
 Direcção de Serviços de Planeamento e Gestão Social
 
@@ -831,7 +888,9 @@ b) Divisão de Integração Social (DIS);
 
 c) Secção Administrativa do Planeamento e Gestão Social (SAPGS).
 
-##### SUBSECÇÃO V — Artigo 17.º
+##### SUBSECÇÃO V
+
+###### Artigo 17.º
 
 Direcção dos Serviços Técnicos
 
@@ -853,7 +912,9 @@ c) Divisão de Espaços Urbanos (DEU);
 
 d) Secção Administrativa dos Serviços Técnicos (SAST).
 
-##### SUBSECÇÃO VI — Artigo 18.º
+##### SUBSECÇÃO VI
+
+###### Artigo 18.º
 
 Gabinete de Estudos e Planeamento
 
@@ -881,7 +942,9 @@ b) Divisão de Planeamento (DP);
 
 c) Secção Administrativa de Estudos e Planeamento (SAEP).
 
-##### SUBSECÇÃO VII — Artigo 19.º
+##### SUBSECÇÃO VII
+
+###### Artigo 19.º
 
 Gabinete Jurídico
 

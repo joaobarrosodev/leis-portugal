@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/080b00/19451946.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/1995/04/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1995-231487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dd3515b0b34c3006cf2a0e39d2b39e61ea3853f5ee55f3d663c97324c7d1711
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e37d126b791f7c8d6b7d6c63a8a99a2dc5e731678a4390bffe25b61807ed4744
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Autoridade Sanitária
 - Centro Regional de Saúde
 - Definição de Competências
-- Saúde Pública
-- Política de Saúde
-- Nomeação
-- Secretaria Regional dos Assuntos Sociais
 - Madeira.região Autónoma
+- Nomeação
+- Política de Saúde
+- Saúde Pública
+- Secretaria Regional dos Assuntos Sociais
 - Serviço Regional de Saúde
 relationships:
 - type: amended_by
@@ -92,16 +92,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/27/1992/09/24/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/27/1992/09/24/m/dre
+- type: cites
+  target: pt:dre:232343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681580:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406306:por
+  label: "Revogado pelo DRR.25/97/M.1997.11.12.PG-RAM, DR.IS-B [279] de 03/Dez/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-1997-406306
+  date: '1997-11-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:57Z'
   warnings: []
   errors: []
 ---
@@ -114,9 +131,9 @@ Torna-se agora pertinente clarificar, sistematizar e unificar as regras de nomea
 
 Nestes termos, o Governo Regional da Madeira, nos termos do artigo 21.º do [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto, decreta o seguinte:
 
-###### Artigo 1.º O [Decreto-Lei n.º 336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro, é aplicável na Região Autónoma da Madeira, com as especialidades constantes dos artigos seguintes.
+Artigo 1.º O [Decreto-Lei n.º 336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro, é aplicável na Região Autónoma da Madeira, com as especialidades constantes dos artigos seguintes.
 
-###### Art. 2.º - 1 - As autoridades de saúde na Região situam-se a nível regional, sub-regional e concelhio.
+Art. 2.º - 1 - As autoridades de saúde na Região situam-se a nível regional, sub-regional e concelhio.
 
 2 - As autoridades de saúde dependem hierarquicamente do Secretário Regional dos Assuntos Sociais.
 
@@ -126,24 +143,24 @@ Nestes termos, o Governo Regional da Madeira, nos termos do artigo 21.º do [Dec
 
 5 - As autoridades de saúde de âmbito concelhio são os delegados concelhios de saúde.
 
-###### Art. 3.º A autoridade de saúde de âmbito sub-regional e os delegados de saúde concelhios são nomeados por despacho do Secretário Regional dos Assuntos Sociais, sob proposta do conselho de administração do centro regional de saúde e parecer do director regional de Saúde.
+Art. 3.º A autoridade de saúde de âmbito sub-regional e os delegados de saúde concelhios são nomeados por despacho do Secretário Regional dos Assuntos Sociais, sob proposta do conselho de administração do centro regional de saúde e parecer do director regional de Saúde.
 
-###### Art. 4.º A autoridade de saúde de âmbito sub-regional é coadjuvada por adjuntos em número não superior a dois de entre os coordenadores sub-regionais.
+Art. 4.º A autoridade de saúde de âmbito sub-regional é coadjuvada por adjuntos em número não superior a dois de entre os coordenadores sub-regionais.
 
-###### Art. 5.º As referências e competências estabelecidas no [Decreto-Lei n.º 336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro, ao Ministro da Saúde, director-geral da Saúde, delegados regionais de saúde e delegados concelhios de saúde entendem-se reportadas, na Região, respectivamente ao Secretário Regional dos Assuntos Sociais, ao director regional de Saúde, ao coordenador sub-regional e aos delegados concelhios de saúde.
+Art. 5.º As referências e competências estabelecidas no [Decreto-Lei n.º 336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro, ao Ministro da Saúde, director-geral da Saúde, delegados regionais de saúde e delegados concelhios de saúde entendem-se reportadas, na Região, respectivamente ao Secretário Regional dos Assuntos Sociais, ao director regional de Saúde, ao coordenador sub-regional e aos delegados concelhios de saúde.
 
-###### Art. 6.º O presente diploma revoga o capítulo IV do [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro.
+Art. 6.º O presente diploma revoga o capítulo IV do [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro.
 
-###### Art. 7.º As referências às administrações regionais de saúde constantes do [Decreto-Lei n.º 336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro, consideram-se feitas ao centro regional de saúde.
+Art. 7.º As referências às administrações regionais de saúde constantes do [Decreto-Lei n.º 336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro, consideram-se feitas ao centro regional de saúde.
 
-###### Art. 8.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 15 de Fevereiro de 1995.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 7 de Março de 1995.**
+Assinado em 7 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

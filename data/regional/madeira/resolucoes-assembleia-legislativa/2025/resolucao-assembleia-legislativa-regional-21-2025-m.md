@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/11/21800/0001400016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/21/2025/11/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/21-2025-945460822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 396a6a62391ec6f51ddc6a504ac73175d9a5e55065ead523be49c30b2a483246
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70fea47027eb1efaa291ce17b0d039998ee706ec2dc15546da40a7e5e3a558c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contribuições da Segurança Social
-- Serviço Nacional de Saúde
-- Oncologia
 - Doença
 - Incapacidade Temporária
+- Oncologia
+- Serviço Nacional de Saúde
 - Subsídio de Doença
 - Tuberculose
 relationships:
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:52Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +137,7 @@ Esta opção reconhece a necessidade de medidas específicas para proteger quem 
 
 Para além do mais, configura um sinal claro de humanidade e de justiça social, bem como uma evolução do sistema de proteção social, nomeadamente, através do reconhecimento da necessidade de implementação de políticas justas, equitativas e sensíveis à situação concreta do cidadão doente.
 
-Assim, nos termos e ao abrigo da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, conjugada com a alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
+Assim, nos termos e ao abrigo da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, conjugada com a alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
 
 ###### Artigo 1.º — Objeto
 
@@ -141,7 +157,9 @@ Os artigos 16.º, 21.º e 23.º do [Decreto-Lei n.º 28/2004](https://diariodare
 
 3 - O montante diário do subsídio de doença nas situações de incapacidade para o trabalho decorrente de tuberculose ou de doença oncológica é calculado pela aplicação das percentagens de 80 % ou 100 %, consoante o agregado familiar do beneficiário integre até dois ou mais familiares a seu cargo.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -163,7 +181,9 @@ c) [...]
 
 7 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -179,4 +199,6 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e aplic
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de outubro de 2025.
 
-**A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.**
+A Presidente da Assembleia Legislativa, Rubina Maria Branco Leal Vargas.
+
+119745641

@@ -4,8 +4,8 @@ id: pt:dre:2635853:por
 title: Declaração de Rectificação n.º 231/2009
 short_title: null
 summary: Decisão de encerramento do processo n.º 587/08.0TBSJM, em que é insolvente J. M. B. - Imp. Exp. Art. em Couro, Lda.
-jurisdiction: regional
-territory: madeira
+jurisdiction: portugal
+territory: null
 document_type: declaracao-retificacao
 document_type_label: Declaração de Retificação
 issuing_authority:
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/018000000/0403904039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/231-2009-2635853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0235a1e10bef69fb43554d00cb22782ea5e06e225ff0fbd4cc845d8fd68fba20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e143626733df6e9ce28b635e2af665d17fc27be62b25e312946531ea1760f9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:56Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +91,5 @@ Por não ter sido mencionado o número do processo e o nome do insolvente no anu
 Insolvente: J. M. B. - Imp. Exportação artigo em Couro, Lda., NIF 506782492, domicílio: Rua Mestre de Avis S/N, 3701-914 São João da Madeira.»
 
 16 de Janeiro de 2009. - O Juiz de Direito, Jorge Manuel da Silva Rosas de Castro. - O Oficial de Justiça, Zulmira Rosa Aguiar.
+
+301271808

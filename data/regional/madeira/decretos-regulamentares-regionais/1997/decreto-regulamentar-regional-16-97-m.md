@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/1997/08/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1997-204205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b40f05c5ad0051740d9f76a3e298706f391a629757b0c29932752c49156969f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ee86774e19a28988bf4fc405e653c6fe937d43011580da55a6bf354a34804ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional do Trabalho
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Secretaria Regional dos Recursos Humanos
 relationships:
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:515256:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515256:por
+  label: "Alterado o art. 3º, aditados a secção VII e o art. 16º-A ao cap. II e os arts. 19º-A e 19º-B ao cap. III pelo DRR.21/2000/M.2000.02.29.PG-RAM,DR.IS-B\
+    \ [69] de 22/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2000-515256
+  date: '2000-02-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/16/1993/09/13/m/dre
   label: null
@@ -87,16 +93,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:295144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661569:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:08Z'
   warnings: []
   errors: []
 ---
@@ -137,11 +171,11 @@ Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 15 de Julho de 1997.**
+Assinado em 15 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ORGÂNICA DA DIRECÇÃO REGIONAL DO TRABALHO
 
@@ -347,7 +381,9 @@ c) O Gabinete Técnico-Jurídico/Serviço Informativo Laboral.
 
 3 - A DSL é dirigida por um director de serviços, que, nas suas ausências e impedimentos, é substituído por um chefe de divisão.
 
-###### Artigo 11.º — Divisão de Regulamentação e Relações de Trabalho
+###### Artigo 11.º
+
+##### Divisão de Regulamentação e Relações de Trabalho
 
 1 - Compete à DRRT:
 
@@ -379,7 +415,9 @@ b) Secção de Publicações
 
 5 - A DRRT é dirigida por um chefe de divisão.
 
-###### Artigo 12.º — Divisão de Recursos e Apreciação das Condições de Trabalho
+###### Artigo 12.º
+
+##### Divisão de Recursos e Apreciação das Condições de Trabalho
 
 1 - Compete à DRACT:
 
@@ -429,7 +467,9 @@ b) Emitir pareceres e elaborar estudos jurídicos sobre projectos de diplomas qu
 
 c) Elaborar propostas e projectos de diplomas regionais referentes a matérias da competência da DIRTRA.
 
-#### SECÇÃO IV — Divisão de Higiene e Segurança no Trabalho
+#### SECÇÃO IV
+
+##### Divisão de Higiene e Segurança no Trabalho
 
 ###### Artigo 14.º — Atribuições
 
@@ -491,7 +531,9 @@ c) Secção de Apoio Administrativo.
 
 6 - O CMT é coordenado por um médico do trabalho.
 
-#### SECÇÃO VI — Divisão de Estatísticas do Trabalho
+#### SECÇÃO VI
+
+##### Divisão de Estatísticas do Trabalho
 
 ###### Artigo 16.º — Atribuições
 
@@ -549,4 +591,4 @@ Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-s
 
 ## ANEXO — Quadro de pessoal a que se refere o n.º 2 do artigo 17.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/182b00/41384145.pdf))](https://files.diariodarepublica.pt/1s/1997/08/182b00/41384145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/182b00/41384145.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/7/2011/02/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/7-2011-279824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8300b52dac3d92e1ed1acada5088e8fc64185c733038da1b1cd305e8019faad4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52e1801cf45d381d71156c1e755371089f24a3a16f919aaa899cc033d186b09d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pobreza
-- Terceira Idade
-- Insuficiência Económica
-- Pensão de Velhice
-- Proteção na Velhice
-- Madeira.região Autónoma
-- Proteção Social
 - Complemento Solidário para Idosos
+- Insuficiência Económica
+- Madeira.região Autónoma
+- Pensão de Velhice
+- Pobreza
+- Proteção na Velhice
+- Proteção Social
+- Terceira Idade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/2009/06/30/p/dre
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:35Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +198,9 @@ Condições de atribuição
 
 4 - O reconhecimento do direito ao complemento solidário para idosos depende ainda de o requerente declarar a disponibilidade para exercer o direito a outras prestações de segurança social a que tenha ou venha a ter direito.
 
-###### Artigo 6.º — Determinação dos recursos do requerente
+Artigo 6.º
+
+Determinação dos recursos do requerente
 
 1 - ...
 
@@ -184,13 +210,17 @@ b) (Eliminada.)
 
 2 - ...
 
-###### Artigo 7.º — Rendimentos a considerar
+Artigo 7.º
+
+Rendimentos a considerar
 
 1 - Para efeitos de determinação dos recursos do requerente é considerada a totalidade dos rendimentos dos membros do agregado familiar, quaisquer que sejam a origem ou natureza dos mesmos, no mês anterior à data de apresentação do requerimento de atribuição, ou, sempre que os rendimentos sejam variáveis, a média dos rendimentos auferidos nos três meses imediatamente anteriores ao do requerimento.
 
 2 - Em caso de dúvida sobre os rendimentos efectivamente auferidos pelo requerente ou pelos elementos do seu agregado familiar, pode o organismo da segurança social competente solicitar ao requerente e a todos os elementos do seu agregado familiar que facultem os extractos de todas as suas contas bancárias nos últimos três meses, bem como autorização de acesso à informação fiscal relevante para a atribuição do complemento.
 
-###### Artigo 11.º — Suspensão e retoma do direito
+Artigo 11.º
+
+Suspensão e retoma do direito
 
 1 - ...
 
@@ -204,7 +234,9 @@ b) (Eliminada.)
 
 6 - ...
 
-###### Artigo 13.º — Deveres do beneficiário
+Artigo 13.º
+
+Deveres do beneficiário
 
 1 - ...
 
@@ -218,7 +250,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 20.º — Renovação da prova de rendimentos
+Artigo 20.º
+
+Renovação da prova de rendimentos
 
 1 - O complemento solidário para idosos, uma vez conferido, é automaticamente renovado, mediante prova de vida anual.
 
@@ -238,7 +272,9 @@ Impenhorabilidade da prestação
 
 A prestação inerente ao complemento solidário para idosos não é susceptível de penhora.
 
-###### Artigo 20.º-A — Averiguação oficiosa dos rendimentos
+Artigo 20.º-A
+
+Averiguação oficiosa dos rendimentos
 
 1 - Os rendimentos declarados devem ser verificados no processo de atribuição da prestação, bem como durante o respectivo período de atribuição.
 
@@ -246,7 +282,9 @@ A prestação inerente ao complemento solidário para idosos não é susceptíve
 
 3 - As entidades que disponham de informações relevantes para a atribuição e cálculo da prestação, nomeadamente os serviços da administração fiscal, devem fornecer as informações que forem solicitadas pela entidade gestora no exercício da autorização concedida pelos beneficiários, nos termos do n.º 2 do artigo 7.º do presente diploma.
 
-###### Artigo 20.º-B — Fiscalização aleatória
+Artigo 20.º-B
+
+Fiscalização aleatória
 
 1 - No âmbito das funções inspectivas dos regimes de segurança social, compete à entidade gestora proceder à fiscalização da aplicação do complemento solidário para idosos.
 
@@ -258,4 +296,4 @@ A presente lei entra em vigor, nos termos gerais, cinco dias após a sua publica
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 2 de Fevereiro de 2011.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

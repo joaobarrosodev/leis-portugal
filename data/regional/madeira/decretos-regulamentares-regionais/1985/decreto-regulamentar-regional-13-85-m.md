@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1985-182636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 192b24b561a6b8e09bf43b0f170612d3c78623c4979fe670938403df0b83f594
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70537ad01b752f90df8cf5b59c2b4f40e7c2d45ae63c4d59ebad2c22ccff2925
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fundo Madeirense do Seguro de Colheitas
+- Madeira.região Autónoma
+- Orgânica
+- Seguro
+- Seguro Agrícola
+relationships:
+- type: cites
+  target: pt:dre:309886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661951:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:32Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +107,20 @@ Assim:
 
 O Governo Regional, ao abrigo das alíneas b) e d) do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º É alterado o artigo 28.º do [Decreto Regulamentar Regional n.º 2/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1984-661951), de 17 de Março, que passa a ter a seguinte redacção:
+Artigo 1.º É alterado o artigo 28.º do [Decreto Regulamentar Regional n.º 2/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1984-661951), de 17 de Março, que passa a ter a seguinte redacção:
 
-###### Art. 28.º Aos associados das cooperativas agrícolas e de outras associações de lavoura, legalmente reconhecidas, individual ou colectivamente, é concedida, nos termos do n.º 1 do artigo 6.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, a faculdade de celebrarem contratos de seguro de colheitas através da cooperativa ou associação respectiva, nos moldes e condições a estabelecer pelo Instituto de Seguros de Portugal.
+Art. 28.º Aos associados das cooperativas agrícolas e de outras associações de lavoura, legalmente reconhecidas, individual ou colectivamente, é concedida, nos termos do n.º 1 do artigo 6.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março, a faculdade de celebrarem contratos de seguro de colheitas através da cooperativa ou associação respectiva, nos moldes e condições a estabelecer pelo Instituto de Seguros de Portugal.
 
-###### Art. 2.º São revogados os artigos 34.º e 35.º do [Decreto Regulamentar Regional n.º 2/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1984-661951), de 17 de Março.
+Art. 2.º São revogados os artigos 34.º e 35.º do [Decreto Regulamentar Regional n.º 2/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1984-661951), de 17 de Março.
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 31 de Maio de 1985.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 21 de Junho de 1985.**
+Assinado em 21 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

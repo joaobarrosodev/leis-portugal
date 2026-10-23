@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/04300/0000800012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2020/03/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2020-129679430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24279ecc2670a4aefa50e1b903508970927210c9caaace74bc5fb29c33b7ed42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9a85ea0a9b1815916a98d97c5467fa43d10c8bc486701d4e148115d5bd9249b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Direcção Regional da Juventude
 - Diretor Regional
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Regulamentação de Atos Legislativos
+- Secretaria Regional da Educação Ciência e Tecnologia
 - Transferência de Competências
 - Transferência de Pessoal
-- Secretaria Regional da Educação Ciência e Tecnologia
 relationships:
 - type: amended_by
   target: pt:dre:900164439:por
@@ -105,16 +105,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:126318034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126904849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127899796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:900164439:por
+  label: Revogado, a partir de 17 de dezembro de 2024, pelo(a) Decreto Regulamentar Regional n.º 42/2024/M - Diário da República
+    n.º 243/2024, Série I de 2024-12-16, nos termos do artigo 9.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/42-2024-900164439
+  date: '2024-12-16'
 article_structure:
   article_count: 10
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:24Z'
   warnings: []
   errors: []
 ---
@@ -267,14 +297,16 @@ O presente diploma entra em vigor no 5.º dia útil após a sua publicação.
 
 Aprovado em Conselho do Governo Regional em 13 de fevereiro de 2020.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 20 de fevereiro de 2020.**
+Assinado em 20 de fevereiro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO I — Mapa de cargos dirigentes a que se refere o artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/04300/0000800012.pdf))](https://files.diariodarepublica.pt/1s/2020/03/04300/0000800012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/04300/0000800012.pdf)
+
+113060086

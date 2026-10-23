@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/06900/09540964.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1984-662077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92736bd6975f0f5a86053b4ddba58327fa0911dc8e4968892b01b13002623c89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfaecf6252d4e3770bc4c53a430e86f1afca832af7b67e25e7348295267035e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- IPSS
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:107114312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PRORROGADO O PRAZO ATE 30 DE JUNHO DE 1985 O PRAZO FIXADO NO NUMERO 2 DO ARTIGO 94 PELO DECRETO REGULAMENTAR REGIONAL
+    1/85/M, DE 9 DE JANEIRO, PUBLICADO NO DR.IS, 7.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-01-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO O PRAZO ATE 31 DE DEZEMBRO DE 1985 O PRAZO FIXADO NO NUMERO 2 DO ARTIGO 94 PELO DECRETO REGULAMENTAR\
+    \ REGIONAL 17/85/M, DE 12 DE AGOSTO, PUBLICADO NO DR.IS, 184.\0E AGOSTO, PUBLICADO NO DR.IS, 184."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-08-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O NUMERO 2 DO ARTIGO 7 E O ARTIGO 11 PELO DECRETO REGULAMENTAR REGIONAL 4/86/M, DE 29 DE MARCO, PUBLICADO
+    NO DR.IS, 73.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-03-29'
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567059:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O ARTIGO 32 PELO DECRETO REGULAMENTAR 10/87/M, DE 28 DE ABRIL, PUBLICADO NO DR.IS, 97.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-04-28'
+- type: repealed_by
+  target: pt:dre:72791379:por
+  label: Revogado (a partir de 03.12.2015) pelo(a) Decreto Legislativo Regional n.º 9/2015/M - Diário da República n.º 236/2015,
+    Série I de 2015-12-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2015-72791379
+  date: '2015-12-02'
 article_structure:
-  article_count: 99
+  article_count: 98
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:29Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +150,19 @@ Considerando que o disposto no artigo 3.º do [Decreto-Lei n.º 119/83](https://
 
 Nestes termos, ao abrigo da alínea b) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o Governo da Região Autónoma da Madeira decreta o seguinte:
 
-###### Artigo 1.º É aplicado à Região Autónoma da Madeira, com as necessárias adaptações, o Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, que vai anexo ao presente diploma.
+Artigo 1.º É aplicado à Região Autónoma da Madeira, com as necessárias adaptações, o Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, que vai anexo ao presente diploma.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em plenário do Conselho do Governo Regional em 12 de Janeiro de 1984.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 2 de Fevereiro de 1984.**
+Assinado em 2 de Fevereiro de 1984.
 
-**Publique-se:**
+Publique-se:
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ESTATUTO DAS INSTITUIÇÕES PARTICULARES DE SOLIDARIEDADE SOCIAL
 

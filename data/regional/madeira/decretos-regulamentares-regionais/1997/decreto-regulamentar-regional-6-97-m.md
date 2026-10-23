@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/1997/03/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1997-517385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 462a5a1278dfa82c0dd2a16d68f0a44658f718ecfbf1d05eeb3d7443f5fba0a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 929b5087ef51a2b0d35e0738fa136bf401f48a8ba32b84ed1a436c5e0d7ae537
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Direcção Regional de Administração e Pessoal
 - Direcção Regional de Educação Especial e Reabilitação
 - Direcção Regional de Formação Profissional
 - Direcção Regional de Inovação e Gestão Educativa
+- Governo Regional
 - Instituto do Desporto da Região Autónoma da Madeira
-- Secretaria Regional da Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:515272:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515272:por
+  label: "Alterado o art. 11º pelo DRR.12/2000/M.2000.02.15.PG-RAM DR.IS-B [68] de 21/Mar/2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2000-515272
+  date: '2000-02-15'
 - type: cites
   target: eli:http://data.dre.p
   label: null
@@ -119,16 +124,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/95/1996/04/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/95/1996/04/01/p/dre
+- type: cites
+  target: pt:dre:268778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660476:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:602493:por
+  label: "Rectificado pela DECL-RECT.6-O/97.1997.03.31.PCM DR.IS-B [75]2ºSupl de 23/Abr/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-o-1997-602493
+  date: '1997-03-31'
 article_structure:
-  article_count: 10
+  article_count: 16
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:13Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +229,9 @@ b) Definir a política educativa, promovendo a sua execução, designadamente no
 
 ### CAPÍTULO II — Estrutura da Secretaria Regional de Educação
 
-#### SECÇÃO I — Artigo 4.º
+#### SECÇÃO I
+
+###### Artigo 4.º
 
 Estrutura
 
@@ -199,7 +251,9 @@ f) Instituto do Desporto da Região Autónoma da Madeira.
 
 2 - A natureza, atribuições, orgânica, funcionamento e pessoal de cada um dos organismos e serviços referidos nas alíneas a), b), c), d), e) e f) do n.º 1 constarão de decreto regulamentar regional.
 
-#### SECÇÃO II — Artigo 5.º
+#### SECÇÃO II
+
+###### Artigo 5.º
 
 Estrutura e atribuições do Gabinete do Secretário Regional
 
@@ -233,7 +287,9 @@ b) Substituir o chefe de gabinete nas suas ausências e impedimentos.
 
 Mediante proposta do Secretário Regional de Educação, podem ser nomeados e exonerados livremente conselheiros técnicos, por resolução do Conselho do Governo Regional, que farão parte integrante do Gabinete do Secretário Regional, os quais serão, para todos os efeitos, equiparados a adjuntos.
 
-##### SUBSECÇÃO I — Artigo 8.º
+##### SUBSECÇÃO I
+
+###### Artigo 8.º
 
 Estrutura
 
@@ -245,7 +301,9 @@ b) Órgãos de concepção e de apoio;
 
 c) Órgãos de apoio logístico.
 
-##### SUBSECÇÃO II — Artigo 9.º
+##### SUBSECÇÃO II
+
+###### Artigo 9.º
 
 Departamentos de natureza técnica e técnico-pedagógica
 
@@ -259,7 +317,9 @@ b) Departamento da Inspecção Regional de Educação.
 
 3 - O Departamento da Inspecção Regional de Educação é dirigido por um coordenador, equiparado, para todos os efeitos legais, a director de serviços.
 
-##### SUBSECÇÃO III — Artigo 10.º
+##### SUBSECÇÃO III
+
+###### Artigo 10.º
 
 Órgãos de concepção e de apoio
 
@@ -277,7 +337,9 @@ d) Gabinete de Assuntos Comunitários e Relações Internacionais.
 
 3 - Os órgãos referidos nas alíneas c) e d) são dirigidos por coordenadores, equiparados, para todos os efeitos legais, a chefes de divisão.
 
-##### SUBSECÇÃO IV — Artigo 11.º
+##### SUBSECÇÃO IV
+
+###### Artigo 11.º
 
 Órgãos de apoio logístico
 
@@ -337,8 +399,8 @@ Aprovado em Conselho do Governo Regional em 13 de Fevereiro de 1997.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
 
-**Assinado em 28 de Fevereiro de 1997.**
+Assinado em 28 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

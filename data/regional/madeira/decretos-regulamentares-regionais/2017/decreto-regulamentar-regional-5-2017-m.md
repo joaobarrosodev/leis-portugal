@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/05600/0146701470.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2017/03/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2017-106630891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edf5ac447cc7886a62ed9df5190fb2d0535dc0f0fe0d85c0afea25c58808cd63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b98278caa3eb24342157455467aff84c6caf5938dd0198fb74dbc39b2a5927a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Diretor Regional
-- Recrutamento de Pessoal
-- Orgânica
-- Madeira.região Autónoma
-- Subdirector Regional
-- SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
 - DIREÇÃO REGIONAL DO PATRIMÓNIO E DE GESTÃO DOS SERVIÇOS PARTILHADOS
+- Diretor Regional
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Recrutamento de Pessoal
+- SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
+- Subdirector Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/27/2006/07/14/m/dre
@@ -116,16 +116,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/87/2016/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/87/2016/04/14/p/dre
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67332420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72821660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74145470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74306011:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 18
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:16Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +228,9 @@ São alterados os artigos 1.º e 3.º do [Decreto Regulamentar Regional n.º 10/
 
 A Direção Regional do Património e de Gestão dos Serviços Partilhados, abreviadamente designada por DRPaGeSP ou PaGeSP, é o serviço da administração direta da Região Autónoma da Madeira, integrado na Secretaria Regional das Finanças e da Administração Pública (SRF), a que se refere a alínea e) do n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 3/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2015-67332420), de 28 de maio.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -226,7 +296,9 @@ b) Assegurar a gestão de recursos humanos da DRPaGeSP;
 
 c) Executar tudo o mais que decorra do normal desempenho das suas funções, ou lhe for superiormente determinado e colaborar na execução das atribuições e competências da DRPaGeSP.
 
-###### Artigo 6.º-A — Recrutamento de cargos de direção intermédia
+Artigo 6.º-A
+
+Recrutamento de cargos de direção intermédia
 
 O recrutamento para os cargos de direção intermédia da DRPaGeSP, de unidades orgânicas com atribuições exclusivas nas áreas de tecnologias de informação e comunicação, nos termos do disposto no n.º 3 do artigo 3.º-A do [Decreto Legislativo Regional n.º 27/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), de 14 de julho, que altera o [Decreto Legislativo Regional n.º 5/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2004-223253), de 22 de abril, que adapta à administração regional autónoma da Madeira a [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, pode também ser feito de entre trabalhadores em funções públicas integrados na carreira especial de informática, ainda que não possuidores de curso superior.»
 
@@ -240,11 +312,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 16 de fevereiro de 2017.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 27 de fevereiro de 2017.**
+Assinado em 27 de fevereiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -410,4 +482,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — Mapa de cargos dirigentes a que se refere o artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/05600/0146701470.pdf))](https://files.diariodarepublica.pt/1s/2017/03/05600/0146701470.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/05600/0146701470.pdf)

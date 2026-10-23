@@ -4,8 +4,8 @@ id: pt:dre:206847196:por
 title: Declaração de Retificação n.º 93/2023
 short_title: null
 summary: Retifica o Aviso n.º 1700/2023, publicado no Diário da República, 2.ª série, n.º 18, de 25 de janeiro de 2023
-jurisdiction: regional
-territory: madeira
+jurisdiction: portugal
+territory: null
 document_type: declaracao-retificacao
 document_type_label: Declaração de Retificação
 issuing_authority:
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/024000000/0011800118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/93-2023-206847196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:54:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f0065c2c6d575fbca68e87a536541f9e9b7c2e6e947f9db6e8f8ff546a879c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39fc1b0fc7f7db8ad157b3507cf86234b73a98f9f513cca087a43d5696b2305e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:54:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:54:02Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Por ter sido publicado com inexatidão o Aviso n.º 1700/2023, publicado no Diário da República, 2.ª serie, n.º 18, de 25 de janeiro de 2023, a p. 281, retifica-se que onde se lê «da Doutora Carla Aparecida Ragonezi Gomes Lopes, com efeitos a 2 de janeiro de 2022» deve ler-se «da Doutora Carla Aparecida Ragonezi Gomes Lopes, com efeitos a 2 de janeiro de 2023».
 
 25 de janeiro de 2023. - O Reitor, Prof. Doutor José Sílvio Moreira Fernandes.
+
+316102179

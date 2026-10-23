@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14600/0003100032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/34/2020/07/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/34-2020-139052182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6382d1b4223a3352d7819e1334fd1aa251d95e0ea0dc575eb52dd83ee7f6f65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecb57bb152dcd165a3d416863591ff5b05c6f6030974a323e749ff4e98659257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Leite
-- Fruto
-- Estabelecimento de Ensino
 - Alimentação
-- Ensino Básico
-- Madeira.região Autónoma
 - Educação Pré-escolar
+- Ensino Básico
+- Estabelecimento de Ensino
+- Fruto
+- Leite
+- Madeira.região Autónoma
 relationships:
 - type: cites
   target: celex:32013R1308
@@ -102,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/94/2019/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/94/2019/03/28/p/dre
+- type: cites
+  target: pt:dre:115200303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121665683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:05Z'
   warnings: []
   errors: []
 ---
@@ -144,4 +164,6 @@ Pelo exposto, a Assembleia Legislativa da Região Autónoma da Madeira resolve, 
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 8 de julho de 2020.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+113425478

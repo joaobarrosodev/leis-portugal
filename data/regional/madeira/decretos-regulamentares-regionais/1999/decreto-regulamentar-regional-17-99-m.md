@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/279b00/84728474.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/1999/11/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1999-639915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa1a6752af0626d5ee2c658379f8e97f9be846fbfc01a26bbb8ef7b1bf136a09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26b2241c06d0160b864b9511b9d584410b8e8e0280fa31b4708b2e2bd6765c47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Definição de Competências
 - Gabinete do Secretário Regional de Agricultura Florestas e Pescas
-- Secretaria Regional da Agricultura Florestas e Pescas
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Agricultura Florestas e Pescas
 - Secretário Regional da Agricultura Florestas e Pescas
 relationships:
 - type: amended_by
@@ -102,16 +102,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571065:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:348315:por
+  label: "Revogado pelo DRR.11/2001/M.2001.06.15.SRARN-RAM, DR.IS-B [155] de 2001/JUL/06\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2001-348315
+  date: '2001-06-15'
 article_structure:
-  article_count: 10
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:20Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +169,9 @@ Natureza
 
 3 - Sem prejuízo do disposto no n.º 4 do artigo 25.º, o recrutamento para o cargo de director de serviços administrativos poderá fazer-se de entre chefes de departamento com pelo menos seis anos de serviço na categoria, contando para o efeito o serviço prestado na categoria de chefe de repartição, e que possuam a experiência e o perfil profissionais adequados à função.
 
-###### Artigo 11.º — Estrutura
+Artigo 11.º
+
+Estrutura
 
 1 - A DSA compreende:
 
@@ -160,7 +191,9 @@ a) ...
 
 b) ...
 
-###### Artigo 14.º — Estrutura
+Artigo 14.º
+
+Estrutura
 
 1 - A DSF compreende:
 
@@ -180,7 +213,9 @@ a) ...
 
 b) ...
 
-###### Artigo 17.º — Estrutura e competências
+Artigo 17.º
+
+Estrutura e competências
 
 1 - ...
 
@@ -190,7 +225,9 @@ b) ...
 
 4 - O SAJ compreende um serviço de apoio administrativo, chefiado por um chefe de departamento, e integra uma secção administrativa.
 
-###### Artigo 18.º — Natureza e estrutura
+Artigo 18.º
+
+Natureza e estrutura
 
 1 - ...
 
@@ -198,7 +235,9 @@ b) ...
 
 3 - Sem prejuízo do disposto no n.º 4 do artigo 25.º, o recrutamento para o cargo de chefe de divisão do GEP poderá fazer-se de entre chefes de departamento com, pelo menos, quatro anos de serviço na categoria, contando para o efeito o serviço prestado na categoria de chefe de repartição, e que possuam a experiência e o perfil profissionais adequados à função.
 
-###### Artigo 20.º — Natureza
+Artigo 20.º
+
+Natureza
 
 O CID é o serviço de apoio ao Gabinete, chefiado por um chefe de departamento, com atribuições no âmbito da recolha e tratamento de documentação relativa às actividades desenvolvidas pela SRA.»
 
@@ -222,7 +261,9 @@ Chefes de departamento
 
 6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
-###### Artigo 32.º-A — Chefes de repartição
+Artigo 32.º-A
+
+Chefes de repartição
 
 Com a entrada em vigor do presente diploma são extintos os lugares de chefe de repartição.»
 
@@ -238,11 +279,11 @@ Aprovado em Conselho do Governo Regional em 14 de Outubro de 1999.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 4 de Novembro de 1999.**
+Assinado em 4 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Quadro de pessoal do Gabinete do Secretário Regional
 

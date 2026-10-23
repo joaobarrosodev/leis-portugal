@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1994/10/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1994-624617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e6d1d38f9ff56d784cdcd39214568e70c1708defac00a33290d2841644c0495
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fd51853f65fceda61bda3f816d22d46c3ab3f76fd8a19649765eeece338bb7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Empresa
-- Desenvolvimento Industrial
-- Política Industrial
 - Apoio ao Investimento
+- Desenvolvimento Industrial
+- Empresa
 - Indústria
-- QCA
-- Modernização Industrial
-- Prisma
 - Madeira.região Autónoma
-- Regime de Apoio
+- Modernização Industrial
 - Pedip II
+- Política Industrial
+- Prisma
+- QCA
+- Regime de Apoio
 - Sistema de Incentivos de BASE Regional
 - Sistema de Incentivos Pedip
 relationships:
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:48Z'
   warnings: []
   errors: []
 ---
@@ -115,18 +123,18 @@ Nestes termos:
 
 O Governo Regional da Madeira decreta, ao abrigo da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
 
-###### Artigo 1.º A execução do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, nos termos do respectivo artigo 23.º, compete, na Região Autónoma da Madeira, aos diversos órgãos e serviços do Governo Regional, de acordo com o estabelecido no artigo seguinte deste diploma.
+Artigo 1.º A execução do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, nos termos do respectivo artigo 23.º, compete, na Região Autónoma da Madeira, aos diversos órgãos e serviços do Governo Regional, de acordo com o estabelecido no artigo seguinte deste diploma.
 
-###### Art. 2.º Na Região Autónoma da Madeira compete ao Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento (SAPMEI) a recepção e instrução das candidaturas, bem como o desempenho das correspondentes acções de controlo, fiscalização, acompanhamento e respectivo pagamento, nos termos do protocolo a celebrar entre o SAPMEI e o gestor do PEDIP e homologado pelas entidades competentes dos Governos Central e Regional.
+Art. 2.º Na Região Autónoma da Madeira compete ao Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento (SAPMEI) a recepção e instrução das candidaturas, bem como o desempenho das correspondentes acções de controlo, fiscalização, acompanhamento e respectivo pagamento, nos termos do protocolo a celebrar entre o SAPMEI e o gestor do PEDIP e homologado pelas entidades competentes dos Governos Central e Regional.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional a 22 de Setembro de 1994.
 
-**O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional da Madeira, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 30 de Setembro de 1994.**
+Assinado em 30 de Setembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

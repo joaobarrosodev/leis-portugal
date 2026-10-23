@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19100/0003500035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/16/2024/10/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/16-2024-889634031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9b656cdd21da0458397d66df25d955078a202cacf4fce147742afa3ac1e4d6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f6892650f5eda1406d2b36c764faa7e6359de38521a5cfdbe9541d0c72018e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Económico e Social
-- Nomeação
 - Madeira.região Autónoma
+- Nomeação
 - Representante Regional
 relationships:
 - type: cites
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/81/2017/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/81/2017/08/18/p/dre
+- type: cites
+  target: pt:dre:108021176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:37Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +128,10 @@ validation:
 
 Designa os representantes da Região Autónoma da Madeira no Conselho Económico e Social
 
-A Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos da alínea n) do n.º 1 do artigo 36.º do Estatuto Político-Administrativo da Região, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, com as alterações introduzidas pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e em conformidade com o disposto na alínea j) do n.º 1 e no n.º 5, ambos do artigo 3.º da [Lei n.º 108/91](https://diariodarepublica.pt/dr/detalhe/lei/108-1991-674430), de 17 de agosto, com a última alteração introduzida pela [Lei n.º 81/2017](https://diariodarepublica.pt/dr/detalhe/lei/81-2017-108021176), de 18 de agosto, designar Carlos Alberto Rodrigues e Maria Elisa Rosa de Albergaria Seixas como representantes da Região Autónoma da Madeira no Conselho Económico e Social e como suplentes daqueles representantes neste Conselho Rubina Maria Branco Leal Vargas e Maria Patrícia Gonçalves Agrela.
+A Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos da alínea n) do n.º 1 do artigo 36.º do Estatuto Político-Administrativo da Região, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, com as alterações introduzidas pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e em conformidade com o disposto na alínea j) do n.º 1 e no n.º 5, ambos do artigo 3.º da [Lei n.º 108/91](https://diariodarepublica.pt/dr/detalhe/lei/108-1991-674430), de 17 de agosto, com a última alteração introduzida pela [Lei n.º 81/2017](https://diariodarepublica.pt/dr/detalhe/lei/81-2017-108021176), de 18 de agosto, designar Carlos Alberto Rodrigues e Maria Elisa Rosa de Albergaria Seixas como representantes da Região Autónoma da Madeira no Conselho Económico e Social e como suplentes daqueles representantes neste Conselho Rubina Maria Branco Leal Vargas e Maria Patrícia Gonçalves Agrela.
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 26 de setembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+118175189

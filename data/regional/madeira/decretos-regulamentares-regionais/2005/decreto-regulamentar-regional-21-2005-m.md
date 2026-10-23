@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/2005/04/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2005-549468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ce8e0a9ffe4b5c297c0c20b8591331554aeef9c3d56a4559c6c8a4f630674e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd08f848a3a2a8902eb476bc8c4764db968942d12cf7f4ec4b82fa2fe8b1e91e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Planeamento e Finanças
-- Secretaria Regional do Plano e Finanças
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Remuneração
+- Secretaria Regional do Plano e Finanças
 relationships:
 - type: amended_by
   target: pt:dre:246494:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247978:por
+  label: "Determinada a reestruturação da Direcção Regional de Planeamento e Finanças (DRPF), passando designar-se por Direcção\
+    \ Regional de Finanças, pelo DRR.2/2008/M.15.02.2008.PG-RAM, DR.IS [33] de 15.02.2008, que transfere as atribuições na\
+    \ área de planeamento para o Instituto do Desenvolvimento Regional (IDR), cuja orgânica consta do DLR 18/2007/M de 12-Nov\
+    \ ; e, revogados, com a aprovação dos quadros de pessoal previstos nos nºs 1 a 3 do art. 26º da lei orgânica aprovada\
+    \ no DRR2/2008/M, os quadros de pessoal anexos ao presente diploma\0ma\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2008-247978
+  date: '2008-02-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
   label: null
@@ -108,16 +117,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:210023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:246494:por
+  label: "Revogado, com excepção do mapa anexo, pelo DRR.5/2008/M.26.03.2008.PG-RAM, DR.IS [60] de 26.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2008-246494
+  date: '2008-03-26'
 article_structure:
-  article_count: 23
-  section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 31
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:13Z'
   warnings: []
   errors: []
 ---
@@ -152,13 +198,13 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 3 de Março de 2005.
 
-**O Presidente do Governo Regional, em exercício, Eduardo António Brazão de Castro.**
+O Presidente do Governo Regional, em exercício, Eduardo António Brazão de Castro.
 
-**Assinado em 21 de Março de 2005.**
+Assinado em 21 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Orgânica da Direcção Regional de Planeamento e Finanças
 
@@ -394,7 +440,9 @@ a) A Divisão de Planeamento;
 
 b) O Centro de Informação e Documentação.
 
-##### SUBSECÇÃO I — Artigo 9.º
+##### SUBSECÇÃO I
+
+###### Artigo 9.º
 
 ##### Divisão de Planeamento
 
@@ -408,7 +456,9 @@ c) Analisar o impacte da política de investimento, a nível global, sectorial e
 
 d) Manter actualizada uma base de dados sócio-económicos que permita a caracterização da realidade regional.
 
-##### SUBSECÇÃO II — Artigo 10.º
+##### SUBSECÇÃO II
+
+###### Artigo 10.º
 
 Centro de Informação e Documentação
 
@@ -450,9 +500,11 @@ g) Coordenar a elaboração dos relatórios de execução do PIDDAR.
 
 4 - A DSISPA compreende a Divisão de Elaboração, Acompanhamento e Controlo de Execução do PIDDAR.
 
-##### SUBSECÇÃO I — Artigo 12.º
+##### SUBSECÇÃO I
 
-##### Divisão de Elaboração, Acompanhamento e Controlo da Execução do PIDDAR
+###### Artigo 12.º
+
+Divisão de Elaboração, Acompanhamento e Controlo da Execução do PIDDAR
 
 À Divisão de Elaboração, Acompanhamento e Controlo da Execução do PIDDAR (DEACEP) compete:
 
@@ -496,7 +548,9 @@ j) Executar tudo o mais que lhe for cometido ou que decorra do normal desempenho
 
 4 - A DSFAC compreende a Divisão de Finanças.
 
-##### SUBSECÇÃO I — Artigo 14.º
+##### SUBSECÇÃO I
+
+###### Artigo 14.º
 
 ##### Divisão de Finanças
 
@@ -538,7 +592,9 @@ a) A Divisão de Garantias;
 
 b) A Divisão de Apoios e Património Financeiro.
 
-##### SUBSECÇÃO I — Artigo 16.º
+##### SUBSECÇÃO I
+
+###### Artigo 16.º
 
 ##### Divisão de Garantias
 
@@ -552,9 +608,11 @@ c) Administrar os processos de regularização e de recuperação de créditos d
 
 d) Fiscalizar a actividade das entidades beneficiárias do aval da Região.
 
-##### SUBSECÇÃO II — Artigo 17.º
+##### SUBSECÇÃO II
 
-##### Divisão de Apoios e Património Financeiro
+###### Artigo 17.º
+
+Divisão de Apoios e Património Financeiro
 
 À Divisão de Apoios e Património Financeiro (DAPF) compete:
 
@@ -606,9 +664,11 @@ a) A Divisão de Estudos e Análise Financeira Autárquica;
 
 b) A Divisão de Cooperação Técnica e Financeira.
 
-##### SUBSECÇÃO I — Artigo 19.º
+##### SUBSECÇÃO I
 
-##### Divisão de Estudos e Análise Financeira Autárquica
+###### Artigo 19.º
+
+Divisão de Estudos e Análise Financeira Autárquica
 
 À Divisão de Estudos e Análise Financeira Autárquica (DEAFA) compete:
 
@@ -620,9 +680,11 @@ c) Elaborar e recolher estudos e pareceres necessários à correcta aplicação 
 
 d) Participar na elaboração e adaptação de medidas legislativas relativas às especificidades próprias das autarquias locais da Região e acompanhar e apreciar os efeitos da respectiva aplicação.
 
-##### SUBSECÇÃO II — Artigo 20.º
+##### SUBSECÇÃO II
 
-##### Divisão de Cooperação Técnica e Financeira
+###### Artigo 20.º
+
+Divisão de Cooperação Técnica e Financeira
 
 À Divisão de Cooperação Técnica e Financeira (DCTF) compete:
 

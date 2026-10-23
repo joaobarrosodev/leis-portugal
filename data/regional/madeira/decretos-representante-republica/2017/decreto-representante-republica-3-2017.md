@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/20300/0574905749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decrepram/3/2017/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-representante-republica-para-regiao-autonoma-madeira/3-2017-108355492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 085bf5e40ba3cdfc8a03dde51582b77d770f749340f893fb98f7914282fe0148
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4d7a042c5f49828bd7946c9ca60f840ce90c12193f9058f998d728694136700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
 subjects:
 - Exoneração
 - Governo Regional
-- Membros do Governo
 - Madeira.região Autónoma
+- Membros do Governo
 - Secretário Regional
-- Secretário Regional dos Assuntos Parlamentares e Europeus
-- Secretário Regional das Finanças e da Administração Pública
 - Secretário Regional da Economia Turismo e Cultura
+- Secretário Regional das Finanças e da Administração Pública
+- Secretário Regional dos Assuntos Parlamentares e Europeus
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
@@ -91,13 +91,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:06Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +108,8 @@ de 20 de outubro
 
 Nos termos do n.º 4 do artigo 231.º da Constituição da República e do n.º 2 do artigo 57.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/web/guest/pesquisa/-/search/629666/details/normal?l=1), de 5 de junho, com as alterações introduzidas pelas [Leis n.os 130/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/434224/details/normal?l=1), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/303585/details/normal?l=1), de 21 de junho, exonero, sob proposta do Presidente do Governo Regional, o Secretário Regional dos Assuntos Parlamentares e Europeus, Dr. Mário Sérgio Quaresma Marques, o Secretário Regional das Finanças e da Administração Pública, Dr. Rui Manuel Teixeira Gonçalves e o Secretário Regional da Economia, Turismo e Cultura, Dr. António Eduardo de Freitas Jesus.
 
-**Assinado em 12 de outubro de 2017.**
+Assinado em 12 de outubro de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

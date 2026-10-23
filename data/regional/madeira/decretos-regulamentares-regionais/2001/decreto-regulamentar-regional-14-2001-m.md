@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2001/07/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2001-348527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abce5c81364191a152c8a971d84d2b59bd04444c962b5b4bf34db07d78266cd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05a14fb55ccff5ff8d3b3602a8e674e5a271a189497f91ac7befee85cc246b94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional da Administração Pública e Local
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -103,16 +103,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:450619:por
+  label: "Revogados os arts. 36º e 37º do DRR 25/99/M de 23-Dez, na redacção do presente diploma, pelo DRR.17/2002/M.2002.10.29.PG-RAM,DR.IS-B\
+    \ [269] de 21/Nov/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2002-450619
+  date: '2002-10-29'
+- type: repealed_by
+  target: pt:dre:309036:por
+  label: "Revogado, a partir de 11.11.2010, o DRR 25/99/M de 23-Dez, alterado pelo presente diploma, pelo DRR.3/2010/M.10.11.2010.PG-RAM,\
+    \ DR.IS [218] de 10.11.2010, que manteve, contudo, em vigor a estrutura orgânica interna da DRAPL e o mapa de pessoal\
+    \ dele constantes, respectivamente, até ao início de vigência dos diplomas que aprovem a nova estrutura interna e até\
+    \ à publicação do novo mapa de pessoal.DRR.3/2010/M.10.11.2010.PG-RAM, DR.IS [218] de 10.11.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2010-309036
+  date: '2010-11-10'
 article_structure:
-  article_count: 61
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 51
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:43Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +199,9 @@ Natureza
 
 A Direcção Regional da Administração Pública e Local, designada no presente diploma, abreviadamente, por DRAPL, é o departamento que prossegue as atribuições relativas ao sector da Administração Pública, a que se refere a alínea b) do n.º 1 do artigo 2.º do [Decreto Regulamentar Regional n.º 43/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-2000-582847), de 12 de Dezembro.
 
-###### Artigo 3.º — Estrutura
+Artigo 3.º
+
+Estrutura
 
 1 - ...
 
@@ -171,7 +227,9 @@ i) [Redacção da anterior alínea h).]
 
 j) [Redacção da anterior alínea i).]
 
-###### Artigo 4.º — Competências
+Artigo 4.º
+
+Competências
 
 1 - No desempenho das suas funções, compete, designadamente, ao director regional:
 
@@ -217,7 +275,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 20.º — Atribuições
+Artigo 20.º
+
+Atribuições
 
 No desempenho das suas funções, incumbe à Inspecção contribuir para o prestígio, dignidade, autonomia e aperfeiçoamento dos serviços da administração local, designadamente:
 
@@ -235,7 +295,9 @@ f) ...
 
 g) ...
 
-###### Artigo 23.º — Funcionamento do serviço
+Artigo 23.º
+
+Funcionamento do serviço
 
 1 - ...
 
@@ -259,7 +321,9 @@ g) ...
 
 11 - ...
 
-###### Artigo 31.º — Atribuições
+Artigo 31.º
+
+Atribuições
 
 São atribuições do DA:
 
@@ -275,7 +339,9 @@ e) ...
 
 f) ...
 
-###### Artigo 39.º — Concursos e estágios pendentes
+Artigo 39.º
+
+Concursos e estágios pendentes
 
 Os concursos e estágios pendentes à data da entrada em vigor do presente diploma mantêm-se válidos, sendo os lugares a prover os correspondentes no mapa anexo à orgânica da DRAPL.»
 
@@ -287,11 +353,15 @@ São aditados à orgânica da Direcção Regional da Administração Pública e 
 
 Gabinete de Inovação Tecnológica na Administração Pública
 
-###### Artigo 18.º-A — Natureza
+Artigo 18.º-A
+
+Natureza
 
 O GITAP é um órgão técnico que tem por objectivo a dinamização e acompanhamento de medidas de modernização de carácter tecnológico na Administração Pública da Região, coordenado por um técnico superior equiparado, para todos os efeitos legais, a director de serviços e designado por director.
 
-###### Artigo 18.º-B — Atribuições
+Artigo 18.º-B
+
+Atribuições
 
 São atribuições do GITAP, designadamente:
 
@@ -303,9 +373,13 @@ c) Dinamizar e acompanhar as medidas de difusão da sociedade de informação na
 
 d) Propor ao director regional a contratação de pessoal ou a aquisição de bens ou serviços que se mostrem necessários para a realização de projectos determinados, no âmbito das suas competências.
 
-#### SECÇÃO VII — Equipas de projecto
+SECÇÃO VII
 
-###### Artigo 18.º-C — Constituição de equipas de projecto
+Equipas de projecto
+
+Artigo 18.º-C
+
+Constituição de equipas de projecto
 
 1 - Sempre que esteja em causa a prossecução de objectivos que pressuponham, temporariamente, o exercício de competências de natureza multidisciplinar, poderá ser proposta pelo director regional, ao membro do Governo Regional com tutela sobre a área da Administração Pública, a constituição de equipas de projecto.
 
@@ -313,7 +387,9 @@ d) Propor ao director regional a contratação de pessoal ou a aquisição de be
 
 3 - Das equipas de projecto poderão fazer parte indivíduos não vinculados à função pública com fundamento na específica aptidão dos mesmos para a prossecução dos objectivos a atingir.
 
-###### Artigo 35.º-A — Carreira de coordenador
+Artigo 35.º-A
+
+Carreira de coordenador
 
 1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.
 
@@ -343,17 +419,17 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 24 de Maio de 2001.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 15 de Junho de 2001.**
+Assinado em 15 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — (a que se refere o artigo 5.º do presente diploma)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41014113.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41014113.pdf)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41014113.pdf)
 
 ## ANEXO II — (a que se refere o artigo 7.º do presente diploma)
 
@@ -959,4 +1035,4 @@ Os concursos e estágios pendentes à data da entrada em vigor do presente diplo
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 34.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41014113.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41014113.pdf)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41014113.pdf)

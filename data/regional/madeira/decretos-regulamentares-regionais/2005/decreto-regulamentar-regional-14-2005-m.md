@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/076b00/30723082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2005/04/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2005-548420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9faf82475b9912246b4771e3084707ddeab32fa3d9134ff0add06f08fcd6dd69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90e2228ff189072b16eeb2500380cbd7b497dd6d96e2d39fb2bcb3d4e09d995d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Definição de Competências
+- Desporto
+- Direcção Regional de Planeamento e Recursos Educativos
+- Diretor Regional
+- Educação
 - Educação Especial
 - Formação Profissional
 - Governo Regional
-- Educação
-- Definição de Competências
-- Direcção Regional de Planeamento e Recursos Educativos
-- Diretor Regional
-- Secretaria Regional da Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Desporto
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:449931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248482:por
+  label: "Mantido em vigor o presente diploma na parte referente às matérias que transitam para a Secretaria Regional de Educação\
+    \ e Cultura (SREC) pelo DRR.1/2008/M.17.01.2008.PG-RAM, DR.IS [12] de 17.01.2008, até à publicação integral dos diplomas\
+    \ referidos nos nºs 2 do art. 5º e do art. 6º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2008-248482
+  date: '2008-01-17'
+- type: amended_by
+  target: pt:dre:449931:por
+  label: "Alterada a designação da Divisão de Informação e Estatística da Educação (DIEE), prevista no DRR 15-A/97/M de 30-Jul,\
+    \ que passa a designar-se, Divisão de Informação Educativa e transfere-se da dependência da Direcção de Serviços de Informação\
+    \ e Apoio a Rede Escolar, extinta pelo presente diploma, para a dependência do director regional de Planeamento e Recursos\
+    \ Educativos, pelo DRR.12/2008/M.23.06.2008.PG-RAM, DR.IS [119] de 23.06.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2008-449931
+  date: '2008-06-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/97/2001/03/26/p/dre
   label: null
@@ -119,16 +134,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:449931:por
+  label: "Revogado, a partir de 28.06.2008, pelo DRR.12/2008/M.23.06.2008.PG-RAM, DR.IS [119] de 23.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2008-449931
+  date: '2008-06-23'
 article_structure:
   article_count: 29
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 34
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:10Z'
   warnings: []
   errors: []
 ---
@@ -159,11 +215,11 @@ Aprovado em Conselho do Governo Regional em 10 de Março de 2005.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 30 de Março de 2005.**
+Assinado em 30 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ### CAPÍTULO I — Natureza e atribuições
 
@@ -309,7 +365,9 @@ e) Divisão de Sistemas (DS);
 
 f) Divisão de Redes e Comunicações (DRC).
 
-##### SUBSECÇÃO I — Divisão de Consultoria e Projectos
+##### SUBSECÇÃO I
+
+##### Divisão de Consultoria e Projectos
 
 ###### Artigo 5.º — Atribuições
 
@@ -329,7 +387,9 @@ f) Gestão dos processos de contratação de sistemas e tecnologias de informaç
 
 g) Emitir recomendações e pareceres nos processos de aquisição de equipamento de tecnologias de informação e comunicação.
 
-##### SUBSECÇÃO II — Divisão de Núcleos e Serviços Electrónicos
+##### SUBSECÇÃO II
+
+##### Divisão de Núcleos e Serviços Electrónicos
 
 ###### Artigo 6.º — Atribuições
 
@@ -347,7 +407,9 @@ e) Planear e controlar as acções de divulgação dos serviços electrónicos d
 
 f) Coordenar projectos que incluam aplicações e programas informáticos adquiridos ao exterior, assegurando a sua integração nos sistemas de informação existentes e compatibilidade com as plataformas tecnológicas utilizadas.
 
-##### SUBSECÇÃO III — Divisão de Desenvolvimento
+##### SUBSECÇÃO III
+
+##### Divisão de Desenvolvimento
 
 ###### Artigo 7.º — Atribuições
 
@@ -363,7 +425,9 @@ d) Promover a formação dos recursos afectos e a introdução de ferramentas e 
 
 e) Colaborar na definição das políticas, no desenvolvimento e na contratação dos sistemas e tecnologias de informação, na modelação de testes e na avaliação de protótipos.
 
-##### SUBSECÇÃO IV — Divisão de Suporte Técnico
+##### SUBSECÇÃO IV
+
+##### Divisão de Suporte Técnico
 
 ###### Artigo 8.º — Atribuições
 
@@ -383,7 +447,9 @@ f) Coordenar a exploração dos sistemas, das redes, das aplicações e dos prog
 
 g) Gerir o parque informático e o economato da DSTSI.
 
-##### SUBSECÇÃO V — Divisão de Sistemas
+##### SUBSECÇÃO V
+
+##### Divisão de Sistemas
 
 ###### Artigo 9.º — Atribuições
 
@@ -403,7 +469,9 @@ f) Assegurar a manutenção e operação das instalações especiais, designadam
 
 g) Definir regras e modelos de utilização dos sistemas e redes nos serviços, núcleos e estabelecimentos tutelados pela SRE.
 
-##### SUBSECÇÃO VI — Divisão de Redes e Comunicações
+##### SUBSECÇÃO VI
+
+##### Divisão de Redes e Comunicações
 
 ###### Artigo 10.º — Atribuições
 
@@ -465,7 +533,9 @@ g) Elaborar estudos e emitir pareceres em matéria de natureza jurídica.
 
 5 - Na dependência da DSAJF funcionam a Divisão de Apoio Jurídico (DAJ) e a Divisão de Apoio Financeiro (DAF).
 
-##### SUBSECÇÃO I — Divisão de Apoio Jurídico
+##### SUBSECÇÃO I
+
+##### Divisão de Apoio Jurídico
 
 ###### Artigo 12.º — Atribuições
 
@@ -481,7 +551,9 @@ d) Elaborar propostas de diplomas que se enquadrem na sua esfera de intervençã
 
 e) Prestar apoio jurídico nos procedimentos de aquisição de equipamentos e outros materiais.
 
-##### SUBSECÇÃO II — Divisão de apoio financeiro
+##### SUBSECÇÃO II
+
+##### Divisão de apoio financeiro
 
 ###### Artigo 13.º — Atribuições
 
@@ -531,7 +603,9 @@ b) A Divisão de Investimentos e de Reordenamento da Rede Escolar (DIRRE);
 
 c) A Divisão de Equipamentos Escolares (DEE).
 
-##### SUBSECÇÃO I — Divisão de Informação e Estatística da Educação
+##### SUBSECÇÃO I
+
+##### Divisão de Informação e Estatística da Educação
 
 ###### Artigo 15.º — Atribuições
 
@@ -551,7 +625,9 @@ f) Elaborar estudos periódicos para o diagnóstico fundamentado da situação e
 
 g) Participar na elaboração, dinamização e reformulação do Plano de Reordenamento da Rede Regional Escolar.
 
-##### SUBSECÇÃO II — Divisão de Investimentos e Reordenamento da Rede Escolar
+##### SUBSECÇÃO II
+
+##### Divisão de Investimentos e Reordenamento da Rede Escolar
 
 ###### Artigo 16.º — Atribuições
 
@@ -579,7 +655,9 @@ j) Completar o dossier de suporte à decisão de autorização de funcionamento,
 
 2 - As acções previstas nas alíneas e) e f) constarão de protocolo a celebrar com os restantes departamentos da SRE com responsabilidade na área do ensino particular e cooperativo, IPSS e escolas profissionais privadas numa lógica de matricialidade.
 
-##### SUBSECÇÃO III — Divisão de Equipamentos Escolares
+##### SUBSECÇÃO III
+
+##### Divisão de Equipamentos Escolares
 
 ###### Artigo 17.º — Atribuições
 
@@ -633,7 +711,9 @@ b) Secção de Manutenção (SM);
 
 c) Secção de Contabilidade (SC).
 
-#### SECÇÃO V — Divisão da Acção Social Escolar (DASE)
+#### SECÇÃO V
+
+##### Divisão da Acção Social Escolar (DASE)
 
 ###### Artigo 20.º — Atribuições
 

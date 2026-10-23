@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2012/04/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2012-552531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 886f9fd63feea8eb4296d00157b938f70d43d3d9b60b6de9540071e039f88a93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4439125828f1c347123214b8e1433ca8c7254b871f306b5eec3d7393c9ce1ab1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
+- Centro Internacional de Negócios da Madeira
 - Criação de Serviços
 - Definição de Competências
 - Direcção Regional de Estatística
@@ -75,34 +74,35 @@ subjects:
 - Direcção Regional de Orçamento e Contabilidade
 - Direcção Regional do Património
 - Direcção Regional do Tesouro
-- Secretaria Regional do Plano e Finanças
+- Direcção Regional dos Assuntos Fiscais
 - Diretor Regional
 - Extinção de Serviços
 - Gabinete da ZONA Franca da Madeira
+- Gabinete de Recursos Humanos
 - Gabinete do Secretário Regional das Finanças
 - Gabinete Jurídico e da ZONA Franca
-- Recrutamento de Pessoal
+- Gestão de Recursos Humanos
 - Inspecção Regional de Finanças
 - Inspector Regional
 - Instituto de Desenvolvimento Regional
 - Lista Nominativa
-- Centro Internacional de Negócios da Madeira
-- Gabinete de Recursos Humanos
-- Patriram
-- Sociedade de Desenvolvimento do Norte
-- Sociedade de Promoção e Desenvolvimento da ZONA Oeste Ponta do Oeste
-- Viaexpresso
-- Orgânica
-- Presidente
 - Madeira.região Autónoma
+- Orgânica
+- Patriram
+- Pessoal Dirigente
+- Presidente
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
 - Regime de Pessoal
 - Registo Internacional de Navios da Madeira
-- Direcção Regional dos Assuntos Fiscais
+- Secretaria Regional do Plano e Finanças
 - Secretário Regional do Plano e Finanças
 - Serviço de Apoio Funcional ao Registo Internacional de Navios da Madeira
-- Gestão de Recursos Humanos
+- Sociedade de Desenvolvimento do Norte
 - Sociedade de Desenvolvimento do Porto Santo
+- Sociedade de Promoção e Desenvolvimento da ZONA Oeste Ponta do Oeste
 - Sociedade Metropolitana de Desenvolvimento
+- Viaexpresso
 - Vialitoral
 - Vice-presidente
 - Zona Franca
@@ -111,6 +111,13 @@ relationships:
   target: pt:dre:67332420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571916:por
+  label: "Alterados os arts. 5.º, 15.º e 24.º, os anexos I e III, bem como a epígrafe do cap. III, eliminadas as secções I\
+    \ e II do mesmo cap. III e revogados o n.º 3 do art. 5.º, os arts 8.º, 9.º, 10.º e 11.º, e os n.os 3 e 4 do art. 24.º\
+    \ do presente diploma, republicado pelo DRR.4/2014/M.14.03.2014.PG-RAM, DR.IS-A [52] de 14.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2014-571916
+  date: '2014-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2009/01/12/m/dre
   label: null
@@ -151,16 +158,115 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/200
   label: null
   source: http://data.dre.pt/eli/lei/64-a/200
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67332420:por
+  label: Revogado o presente diploma, determinada a extinção, sendo objeto de fusão, da Direção Regional do Tesouro, integrada
+    na Direção Regional do Orçamento e Tesouro, da Direção Regional de Orçamento e Contabilidade, integrada na Direção Regional
+    do Orçamento e Tesouro, da Direção Regional de Informática, integrada na Direção Regional do Património e de Gestão dos
+    Serviços Partilhados e da Direção Regional do Património, integrada na Direção Regional do Património e de Gestão dos
+    Serviços Partilhados e determinada a reestruturação da Direção Regional dos Assuntos Fiscais, da Direção Regional da Administração
+    Pública e Local e da Direção Regional de Estatística pelo(a) Decreto Regulamentar Regional n.º 3/2015/M - Diário da República
+    n.º 103/2015, Série I de 2015-05-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2015-67332420
+  date: '2015-05-28'
 article_structure:
   article_count: 30
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:48Z'
   warnings: []
   errors: []
 ---
@@ -589,26 +695,26 @@ Aprovado em Conselho do Governo Regional em 21 de março de 2012.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva, Vice-Presidente do Governo Regional, no exercício da presidência.
 
-**Assinado em 2 de abril de 2012.**
+Assinado em 2 de abril de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO I — Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf)
 
 ## ANEXO II — Dirigentes de organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf)
 
 ## ANEXO III — Dotação de lugares dos dirigentes dos Serviços de Apoio e Coordenação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf)
 
 ## ANEXO IV — Lista nominativa
 
 (a que se refere o n.º 4 do artigo 26.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07000/0176501773.pdf)

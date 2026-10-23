@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/7-1989-550447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cda1f428b67494d46dab92729871e03ee51f4aaf4f820cf49104e95d883c1612
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be5c0383769a88ea92223e5f9f6b6a61b272b67946eb97a17fc0878a45870d07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia Legislativa Regional
+- Madeira.região Autónoma
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:25Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +99,10 @@ I
 
 Mapa de receitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/28300/53785380.pdf))](https://files.diariodarepublica.pt/1s/1989/12/28300/53785380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/28300/53785380.pdf)
 
 II
 
 Mapa de despesas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/28300/53785380.pdf))](https://files.diariodarepublica.pt/1s/1989/12/28300/53785380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/28300/53785380.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/076b00/30503059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2005/04/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2005-548421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee640db22758f6f24609dce04bfca3ea429eb3edde26f4609916b6cf894a9477
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44032d5c3580d0f5c9c807f37fa612474f18810ac9dbd5b21466e22425ecba1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,30 @@ subjects:
 - Definição de Competências
 - Direcção Regional de Administração Educativa
 - Extinção de Serviços
-- Secretaria Regional da Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:249536:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248482:por
+  label: "Mantido em vigor o presente diploma na parte referente às matérias que transitam para a Secretaria Regional de Educação\
+    \ e Cultura (SREC) pelo DRR.1/2008/M.17.01.2008.PG-RAM, DR.IS [12] de 17.01.2008, até à publicação integral dos diplomas\
+    \ referidos nos nºs 2 do art. 5º e do art. 6º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2008-248482
+  date: '2008-01-17'
+- type: amended_by
+  target: pt:dre:249536:por
+  label: "Determinada a transição de pessoal, nos termos do n.º 1 do art. 8º e revogado, sem prejuízo do disposto no n.º 2\
+    \ do art. 7º, o presente diploma, mantido em vigor pelo DRR 1/2008/M, de 17-Jan, na parte referente às matérias que transitam\
+    \ para a SREC até à publicação integral dos diplomas a que se referem os nºs 2 do art. 5º e art. 6º, pelo DRR.10/2008/M.06.05.2008.PG-RAM,\
+    \ DR.IS [87] de 06.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2008-249536
+  date: '2008-05-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
   label: null
@@ -109,16 +124,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 27
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:10Z'
   warnings: []
   errors: []
 ---
@@ -151,11 +198,11 @@ Aprovado em Conselho do Governo Regional em 10 de Março de 2005.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 30 de Março de 2005.**
+Assinado em 30 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica da Direcção Regional de Administração Educativa
 
@@ -255,7 +302,9 @@ t) Homologar as actas de reposicionamento e bonificação da carreira de pessoal
 
 ### CAPÍTULO II — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 4.º
+#### SECÇÃO I
+
+###### Artigo 4.º
 
 Estrutura
 
@@ -293,7 +342,9 @@ c) Divisão de Apoio Técnico (DAT).
 
 O Secretariado é o órgão de apoio administrativo do director regional, competindo-lhe a organização e conservação do arquivo do seu gabinete, bem como o registo e expediente da correspondência e da documentação que lhe está afecta.
 
-##### SUBSECÇÃO II — Divisão de Estudos e Pareceres Jurídicos
+##### SUBSECÇÃO II
+
+##### Divisão de Estudos e Pareceres Jurídicos
 
 ###### Artigo 7.º — Natureza e atribuições
 
@@ -305,7 +356,9 @@ b) Emitir pareceres sobre projectos e propostas de diplomas que lhe sejam submet
 
 c) Participar na elaboração de pareceres necessários à pronúncia da Região nos termos constitucionais.
 
-##### SUBSECÇÃO III — Divisão de Apoio Técnico
+##### SUBSECÇÃO III
+
+##### Divisão de Apoio Técnico
 
 ###### Artigo 8.º — Natureza e atribuições
 
@@ -365,7 +418,9 @@ p) Promover protocolos de colaboração com outros serviços e organismos region
 
 3 - Na dependência da DSGD funciona a Divisão de Gestão Docente (DGD).
 
-##### SUBSECÇÃO I — Divisão de Gestão Docente
+##### SUBSECÇÃO I
+
+##### Divisão de Gestão Docente
 
 ###### Artigo 10.º — Natureza e atribuições
 
@@ -379,7 +434,9 @@ c) Elaborar o cadastro das escolas no que respeita ao número de lugares criados
 
 2 - Na dependência da DGD funciona um Departamento de Apoio à Gestão Docente (DAGD).
 
-##### SUBSECÇÃO II — Artigo 11.º
+##### SUBSECÇÃO II
+
+###### Artigo 11.º
 
 Departamento de Apoio à Gestão Docente
 
@@ -443,7 +500,9 @@ b) A Divisão de Gestão não Docente (DGND);
 
 c) A Divisão de Recrutamento de Pessoal não Docente (DRPND).
 
-##### SUBSECÇÃO I — Divisão de Organização e Documentação Administrativa
+##### SUBSECÇÃO I
+
+##### Divisão de Organização e Documentação Administrativa
 
 ###### Artigo 13.º — Natureza e atribuições
 
@@ -479,7 +538,9 @@ e) Acompanhar a situação dos documentos e disponibilizar informação sobre os
 
 3 - Na dependência da DODA funciona o Departamento de Apoio Administrativo (DAA).
 
-##### SUBSECÇÃO II — Artigo 14.º
+##### SUBSECÇÃO II
+
+###### Artigo 14.º
 
 Departamento de Apoio Administrativo
 
@@ -491,7 +552,9 @@ b) Secção de Expediente e Arquivo;
 
 c) Secção Administrativa.
 
-##### SUBSECÇÃO III — Divisão de Gestão não Docente
+##### SUBSECÇÃO III
+
+##### Divisão de Gestão não Docente
 
 ###### Artigo 15.º — Natureza e atribuições
 
@@ -519,7 +582,9 @@ j) Elaborar o balanço social da DRAE e dos departamentos de que é responsável
 
 2 - Na dependência da DGND funciona a Secção de Gestão não Docente.
 
-##### SUBSECÇÃO IV — Divisão de Recrutamento de Pessoal não Docente
+##### SUBSECÇÃO IV
+
+##### Divisão de Recrutamento de Pessoal não Docente
 
 ###### Artigo 16.º — Natureza e atribuições
 
@@ -571,7 +636,9 @@ h) Elaborar o plano e o relatório de actividades anuais em colaboração com as
 
 4 - Na dependência da DSFGR funciona a Secção Administrativa e a Secção de Apoio à Formação.
 
-#### SECÇÃO VI — Divisão de Processamento de Abonos
+#### SECÇÃO VI
+
+##### Divisão de Processamento de Abonos
 
 ###### Artigo 18.º — Atribuições
 

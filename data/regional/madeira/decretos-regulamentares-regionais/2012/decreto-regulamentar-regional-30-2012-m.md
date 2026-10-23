@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/21300/0635706361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/30/2012/11/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-2012-191519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d138f124a3496abd15fe8e3486e974724a15f2f446ddc9c1513255bf9f5c49db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dcb376a5a23cccc19b03ddc52ac351f4aed03d3528a9a34c22b28c0035a5fc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Regional do Ordenamento do Território e Ambiente
-- Orgânica
+- Gestão de Recursos Humanos
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Secretaria Regional do Ambiente e dos Recursos Naturais
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:74240288:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:69951100:por
+  label: Determinada, nos termos dos arts 14.º e 15.º do DRR 8/2015/M de 05-ago, a reestruturação da Direção Regional do Ordenamento
+    do Território e Ambiente, pelo(a) Decreto Regulamentar Regional n.º 8/2015/M - Diário da República n.º 151/2015, Série
+    I de 2015-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2015-69951100
+  date: '2015-08-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/de
   label: null
@@ -118,16 +125,93 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74240288:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 13/2016/M - Diário da República n.º 79/2016, Série I de 2016-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2016-74240288
+  date: '2016-04-22'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:44Z'
   warnings: []
   errors: []
 ---
@@ -162,11 +246,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 27 de setembro de 2012.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 22 de outubro de 2012.**
+Assinado em 22 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -376,4 +460,4 @@ O diretor regional do Ambiente e o diretor da Inspeção Ambiental e do Ordename
 
 ## ANEXO — (a que se refere o artigo 7.º da orgânica da Direção Regional do Ordenamento do Território e Ambiente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21300/0635706361.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21300/0635706361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21300/0635706361.pdf)

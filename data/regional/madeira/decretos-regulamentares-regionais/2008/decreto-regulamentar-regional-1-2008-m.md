@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/01200/0056700574.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/2008/01/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2008-248482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a61ce54a683900375f59a31c03e888fee266b5e6545198dc7a93fcd7fb20a26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1026a2133794d6b2bb9f0b821b5b1a99e57c0e937c429474ff2711fd4510ff1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Centro de Estudos de História do Atlântico
-- Pessoal Dirigente
 - Comissão de Serviço
+- Conselho Desportivo da Região Autónoma da Madeira
 - Conselho Regional de Educação e Formação Profissional
 - Conservatório-escola Profissional das Artes da Madeira
 - Definição de Competências
-- Direcção Regional dos Assuntos Culturais
 - Direcção Regional de Administração Educativa
+- Direcção Regional de Educação
 - Direcção Regional de Educação Especial e Reabilitação
 - Direcção Regional de Planeamento e Recursos Educativos
+- Direcção Regional de Qualificação Profissional
+- Direcção Regional dos Assuntos Culturais
 - Escola Profissional de Hotelaria e Turismo da Madeira
 - Gabinete Governamental
-- Secretaria Regional da Educação e Cultura
 - Inspecção Regional de Educação
 - Instituto do Desporto da Região Autónoma da Madeira
 - Integração de Serviços
 - Integração de Trabalhadores
-- Conselho Desportivo da Região Autónoma da Madeira
-- Direcção Regional de Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Reestruturação de Serviços
 - Regime de Pessoal
-- Direcção Regional de Qualificação Profissional
+- Secretaria Regional da Educação e Cultura
 - Secretário Regional da Educação e Cultura
 - Transferência de Competências
 relationships:
@@ -96,6 +96,30 @@ relationships:
   target: pt:dre:552039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249548:por
+  label: "Determinada a transição de pessoal da DRFP para a DRQP, nos termos do n. 1 do art. 11º e revogado o DRR 13/2005/M,\
+    \ de 19-Abr, sem prejuízo do disposto no n.º 2 do art. 10º, mantido em vigor pelo presente diploma na parte referente\
+    \ às matérias que transitam para a SREC até à publicação integral dos diplomas a que se referem os n.os 2 do art. 5.º\
+    \ e do art. 6.º, pelo DRR.8/2008/M.23.04.2008.PG-RAM, DR.IS [80] de 23.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2008-249548
+  date: '2008-04-23'
+- type: amended_by
+  target: pt:dre:249520:por
+  label: "Determinada a transição de pessoal, nos termos do n.º1 do art. 8º e revogado, sem prejuízo do disposto no n.º 8\
+    \ do art. 7º, o DRR 22/2005/M, de 22-Abr, mantido em vigor pelo presente diploma, na parte referente às matérias que transitam\
+    \ para a SREC até à publicação integral dos diplomas referidos nos nºs 2 do art. 5º e do art. 6º, pelo DRR.9/2008/M.30.04.2008.PG-RAM,\
+    \ DR.IS [84] de 30.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2008-249520
+  date: '2008-04-30'
+- type: amended_by
+  target: pt:dre:249536:por
+  label: "Determinada a transição de pessoal, nos termos do n.º 1 do art. 8º e revogado, sem prejuízo do disposto no n.º 2\
+    \ do art. 7º, o DRR 12/2005/M, de 19-Abr, mantido em vigor, pelo presente diploma, na parte referente às matérias que\
+    \ transitam para a SREC até à publicação integral dos diplomas a que se referem os nºs 2 do art. 5º e art. 6º, pelo DRR.10/2008/M.06.05.2008.PG-RAM,\
+    \ DR.IS [87] de 06.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2008-249536
+  date: '2008-05-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
   label: null
@@ -136,16 +160,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:542274:por
+  label: "Revogado o presente diploma, bem como os diplomas que o regulamentam, na parte relativa à Direção Regional dos Assuntos\
+    \ Culturais, ao Gabinete para os Assuntos Parlamentares e ao Centro das Comunidades, pelo DRR.1/2012/M.08.03.2012.PG-RAM,\
+    \ DR.IS [49] de 08.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2012-542274
+  date: '2012-03-08'
+- type: repealed_by
+  target: pt:dre:552039:por
+  label: "Revogado pelo DRR.5/2012/M.16.05.2012.PG-RAM, DR.IS [95] de 16.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2012-552039
+  date: '2012-05-16'
 article_structure:
-  article_count: 30
+  article_count: 31
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:24Z'
   warnings: []
   errors: []
 ---
@@ -174,11 +286,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 6 de Dezembro de 2007.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 31 de Dezembro de 2007.**
+Assinado em 31 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -536,7 +648,9 @@ c) Ser proprietário ou exercer qualquer actividade, quer docente quer não doce
 
 3 - Na decisão dos pedidos de acumulação de funções de inspecção com qualquer função, remunerada ou não, os dirigentes da IRE devem ponderar os riscos para a imparcialidade do pessoal técnico superior de inspecção decorrentes do exercício de funções em entidades integradas no âmbito de intervenção da IRE.
 
-### CAPÍTULO IV — Artigo 21.º
+### CAPÍTULO IV
+
+###### Artigo 21.º
 
 Regime
 
@@ -616,4 +730,4 @@ Até à publicação integral dos diplomas a que se referem os n.os 2 do artigo 
 
 ## ANEXO II — (mapa a que se refere o n.º 4 do artigo 13.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/01200/0056700574.pdf))](https://files.diariodarepublica.pt/1s/2008/01/01200/0056700574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/01200/0056700574.pdf)

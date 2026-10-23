@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24800/0006300064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/34/2024/12/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/34-2024-901014296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a53443fff58ccbfe1764bf33bbcb3d3e345f1cac234829c359ff0339478da564
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44fbfee71067bbf8c975c62b45c8ee5caec702b863dde4ca77cd8378c1090710
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Ensino Particular
-- Pessoal Docente
 - Madeira.região Autónoma
+- Pessoal Docente
 - Recomendação
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/2023/06/26/a/dre
@@ -95,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:214781730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890674843:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:43Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +149,7 @@ A igualdade, no seu sentido mais lato, envolve a obrigação de «tratar igualme
 
 A presente resolução visa corrigir esta injustiça, assegurando que todos os docentes na RAM, independentemente de onde adquiriram a sua experiência, sejam corretamente posicionados nos escalões correspondentes ao seu tempo de serviço efetivo, proporcionando um tratamento igual ao que é igual.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup> [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomenda ao Governo Regional da Madeira o seguinte:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomenda ao Governo Regional da Madeira o seguinte:
 
 1 - Que, à semelhança do que já acontece na Região Autónoma dos Açores, seja implementado um regime que permita a recuperação integral do tempo de serviço dos docentes que exerceram funções no ensino privado e que agora se encontram no ensino público, devendo esse tempo de serviço ser contabilizado para efeitos de progressão na carreira, colocando os docentes no escalão correspondente ao seu tempo total de lecionação, mediante a alteração do [Decreto Legislativo Regional n.º 6/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2008-247713), de 25 de fevereiro, que aprova o Estatuto da Carreira Docente da Região Autónoma da Madeira;
 
@@ -135,4 +159,6 @@ Assim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 12 de dezembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+118493884

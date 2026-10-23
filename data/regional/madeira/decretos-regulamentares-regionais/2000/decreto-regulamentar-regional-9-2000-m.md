@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2000/03/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12bf6174d2446cef3a3784fb0c50f03bb908797cd884e8339c4b64a5a978e7d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08173888697baafd5c5ba0a4faf1b87c6327d7f11d486724e83af6fdc2377ae8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Criação de Lugares
 - Definição de Competências
 - Direcção Regional de Formação Profissional
 - Extinção de Lugares
 - Integração de Trabalhadores
-- Secretaria Regional da Educação
-- Secretaria Regional do Plano e da Coordenação
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Chefia
-- Madeira.região Autónoma
 - Quadro de Pessoal
 - Reestruturação de Carreiras
+- Secretaria Regional da Educação
+- Secretaria Regional do Plano e da Coordenação
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:522256:por
@@ -108,16 +108,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/168/1999/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/168/1999/03/12/p/dre
+- type: cites
+  target: pt:dre:145243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:522256:por
+  label: "Rectificado pela DECL-RECT.6-I/2000.31.05.2000.PCM, DR.IS-B [126]3ºSupl de 31.05.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-i-2000-522256
+  date: '2000-05-31'
 article_structure:
-  article_count: 12
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:40Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +173,9 @@ Os artigos 7.º, 10.º, 11.º, 14.º, 15.º, 17.º, 18.º e 20.º do [Decreto Re
 
 «SUBSECÇÃO I
 
-##### Divisão de Formação — Artigo 7.º
+Divisão de Formação
+
+Artigo 7.º
 
 Atribuições
 
@@ -176,9 +207,13 @@ m) ...
 
 2 - Na dependência da DF funciona a Secção de Apoio Logístico (SAL).
 
-#### SECÇÃO IV — Direcção de Serviços do Fundo Social Europeu
+SECÇÃO IV
 
-###### Artigo 10.º — Atribuições
+Direcção de Serviços do Fundo Social Europeu
+
+Artigo 10.º
+
+Atribuições
 
 1 - ...
 
@@ -200,9 +235,13 @@ g) ...
 
 3 - Na directa dependência do director de serviços do Fundo Social Europeu funciona ainda o Departamento para Pagamentos do Fundo Social Europeu (DPFSE).
 
-##### SUBSECÇÃO I — Divisão de Análise Técnica e Pedagógica
+SUBSECÇÃO I
 
-###### Artigo 11.º — Atribuições
+Divisão de Análise Técnica e Pedagógica
+
+Artigo 11.º
+
+Atribuições
 
 1 - ...
 
@@ -216,9 +255,13 @@ d) ...
 
 2 - Na dependência da DATP funciona a Secção de Candidaturas (SC).
 
-##### SUBSECÇÃO IV — Departamento para Pagamentos do Fundo Social Europeu
+SUBSECÇÃO IV
 
-###### Artigo 14.º — Atribuições
+Departamento para Pagamentos do Fundo Social Europeu
+
+Artigo 14.º
+
+Atribuições
 
 1 - Ao DPFSE compete, designadamente:
 
@@ -228,9 +271,13 @@ b) ...
 
 2 - Na dependência do DPFSE funciona a Secção de Processamento e Tesouraria (SPT).
 
-#### SECÇÃO V — Direcção de Serviços Administrativos, Financeiros e Património
+SECÇÃO V
 
-###### Artigo 15.º — Atribuições
+Direcção de Serviços Administrativos, Financeiros e Património
+
+Artigo 15.º
+
+Atribuições
 
 1 - ...
 
@@ -246,9 +293,13 @@ e) ...
 
 2 - Na dependência da DSAFP funcionam a Divisão de Gestão de Recursos Humanos (DGRH), a Divisão de Gestão Financeira (DGF), a Divisão de Aprovisionamento e Património (DAP) e o Departamento de Serviços Administrativos (DSA).
 
-##### SUBSECÇÃO II — Divisão de Gestão Financeira
+SUBSECÇÃO II
 
-###### Artigo 17.º — Atribuições
+Divisão de Gestão Financeira
+
+Artigo 17.º
+
+Atribuições
 
 1 - ...
 
@@ -266,7 +317,9 @@ f) ...
 
 2 - Na dependência da DGF funciona o Departamento de Controlo Orçamental e Financeiro (DCOF).
 
-###### Artigo 18.º — Departamento de Controlo Orçamental e Financeiro
+Artigo 18.º
+
+Departamento de Controlo Orçamental e Financeiro
 
 1 - Ao DCOF compete, designadamente:
 
@@ -290,9 +343,13 @@ a) Secção de Processamento e Tesouraria (SPT);
 
 b) Secção de Controlo Orçamental (SCO).
 
-##### SUBSECÇÃO IV — Departamento de Serviços Administrativos
+SUBSECÇÃO IV
 
-###### Artigo 20.º — Atribuições
+Departamento de Serviços Administrativos
+
+Artigo 20.º
+
+Atribuições
 
 1 - Ao DSA compete, nomeadamente:
 
@@ -356,11 +413,11 @@ Aprovado em Conselho do Governo Regional em 17 de Janeiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 15 de Fevereiro de 2000.**
+Assinado em 15 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — (a que se refere o artigo 4.º do presente diploma)
 

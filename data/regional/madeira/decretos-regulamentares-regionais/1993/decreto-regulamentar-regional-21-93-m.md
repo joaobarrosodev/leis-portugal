@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/157b00/37543757.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/1993/07/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1993-375871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7011ae44ce07b68d3f3b2915f50652c405a63c1abc0dd5b47d1717546b60d29c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a738f153f9977025a19cde6436fd92d625ff99b16e940c01baee8350ee587954
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Definição de Competências
 - Direcção Regional de Orçamento e Contabilidade
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Secretaria Regional das Finanças
 relationships:
@@ -77,6 +77,19 @@ relationships:
   target: pt:dre:661695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:450377:por
+  label: "Alterados os artigos 5.º, 6.º, 7.º, 16.º, aditado o artigo 7.º-A e o mapa II anexo, a que se refere o n.º 2 do artigo\
+    \ 16.º, pelo DRR.24/95/M.30.12.1995.GR-RAM, DR.IS-B [300] de 30.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-1995-450377
+  date: '1995-12-30'
+- type: amended_by
+  target: pt:dre:506053:por
+  label: "Alterados os arts. 1º, 5º, 8º, 9º e 19º e a subsecção II do cap. II, aditadas a subsecção I e o art. 11º-A na secção\
+    \ III do cap. II, as subsecções I, II, III e IV e os arts. 13º-A, 13º-B, 13º-C e 13º-D na secção IV do cap. II e o art.\
+    \ 18º-A no cap. IV pelo DRR.25/2000/M.2000.02.17.SRPC-RAM,DR.IS-B [77] de 31/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2000-506053
+  date: '2000-02-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
@@ -93,16 +106,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:661695:por
+  label: "Revogado pelo DRR.19/2003/M.2003.07.23.PG-RAM DR.IS-B [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2003-661695
+  date: '2003-07-23'
 article_structure:
-  article_count: 20
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 19
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:38Z'
   warnings: []
   errors: []
 ---
@@ -119,21 +161,21 @@ Face à complexidade atingida por esta Direcção Regional, tanto ao nível das 
 
 Assim, nos termos do n.º 2 do artigo 4.º do [Decreto Regulamentar Regional n.º 3/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1993-585230), de 21 de Janeiro, da alínea d) do n.º 1 do artigo 229.º da Constituição da República Portuguesa e da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, conjugado com o artigo 13.º do [Decreto Legislativo Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-668491), de 11 de Novembro, o Governo Regional da Madeira decreta o seguinte:
 
-###### Artigo 1.º É aprovada a orgânica da Direcção Regional de Orçamento e Contabilidade, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a orgânica da Direcção Regional de Orçamento e Contabilidade, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
 Art 2.º São revogados os artigos 25.º a 33.º da Lei Orgânica da Secretaria Regional das Finanças, publicada em anexo ao [Decreto Regulamentar Regional n.º 12/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1990-575480), de 28 de Junho.
 
-###### Art. 3.º O presente diploma entra imediatamente em vigor.
+Art. 3.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 6 de Maio de 1993.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 30 de Maio de 1993.**
+Assinado em 30 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Orgânica da Direcção Regional de Orçamento e Contabilidade
 
@@ -333,7 +375,9 @@ i) Executar tudo o mais que decorra do normal desempenho das suas funções, ou 
 
 2 - O director de serviços de Contabilidade é substituído, nas suas ausências e impedimentos, por um técnico superior para o efeito nomeado.
 
-#### SECÇÃO V — Divisão dos Orçamentos Privativos
+#### SECÇÃO V
+
+##### Divisão dos Orçamentos Privativos
 
 ###### Artigo 14.º — Natureza
 
@@ -397,4 +441,4 @@ Mapa I anexo a que se refere o n.º 2 do artigo 16.º do Decreto Regulamentar Re
 
 Direcção Regional de Orçamento e Contabilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/157b00/37543757.pdf))](https://files.diariodarepublica.pt/1s/1993/07/157b00/37543757.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/157b00/37543757.pdf)

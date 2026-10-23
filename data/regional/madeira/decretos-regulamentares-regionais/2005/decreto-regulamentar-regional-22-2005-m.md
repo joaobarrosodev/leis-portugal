@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/079b00/31793190.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/2005/04/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2005-549037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f64ebef344ee6da94696d22ad610d82a8e92fb6246984c5154c6ea7e04ea55c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a96a2c10867affd12e2a2e9c95a22d9bdc6ed0c99bb76e89ba686592cac0dc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Extinção de Serviços
-- Secretaria Regional da Educação
 - Direcção Regional de Educação
-- Orgânica
+- Extinção de Serviços
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:249520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248482:por
+  label: "Mantido em vigor o presente diploma na parte referente às matérias que transitam para a Secretaria Regional de Educação\
+    \ e Cultura (SREC) pelo DRR.1/2008/M.17.01.2008.PG-RAM, DR.IS [12] de 17.01.2008, até à publicação integral dos diplomas\
+    \ referidos nos nºs 2 do art. 5º e do art. 6º daquele diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2008-248482
+  date: '2008-01-17'
+- type: amended_by
+  target: pt:dre:249520:por
+  label: "Determinada a transição de pessoal, nos termos do n.º 1 do art. 8º e revogado, sem prejuízo do disposto no n.º 8\
+    \ do art. 7º, o presente diploma, mantido em vigor pelo DRR 1/2008/M, de 17-Jan, na parte referente às matérias que transitam\
+    \ para a SREC até à publicação integral dos diplomas referidos nos nºs 2 do art. 5º e do art. 6º, pelo DRR.9/2008/M.30.04.2008.PG-RAM,\
+    \ DR.IS [84] de 30.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2008-249520
+  date: '2008-04-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
   label: null
@@ -117,16 +132,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2
   label: null
   source: http://data.dre.pt/eli/lei/2
+- type: cites
+  target: pt:dre:176345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
-  section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 38
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:13Z'
   warnings: []
   errors: []
 ---
@@ -157,11 +212,11 @@ Aprovado em Conselho do Governo Regional em 10 de Março de 2005.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 30 de Março de 2005.**
+Assinado em 30 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ### CAPÍTULO I — Natureza e atribuições
 
@@ -333,7 +388,9 @@ j) Coordenar a actividade da animação pedagógica do 1.º ciclo do ensino bás
 
 2 - Na dependência da DSFIP funciona a Divisão de Formação Contínua (DFC).
 
-##### SUBSECÇÃO I — Divisão de Formação Contínua
+##### SUBSECÇÃO I
+
+##### Divisão de Formação Contínua
 
 ###### Artigo 5.º — Atribuições
 
@@ -393,7 +450,9 @@ b) Divisão do 1.º Ciclo do Ensino Básico (D1CEB);
 
 c) Divisão dos 2.º e 3.º Ciclos do Ensino Básico (D23CEB).
 
-##### SUBSECÇÃO I — Divisão de Educação Pré-Escolar
+##### SUBSECÇÃO I
+
+##### Divisão de Educação Pré-Escolar
 
 ###### Artigo 7.º — Atribuições
 
@@ -411,7 +470,9 @@ e) Organizar os processos relativos à autorização de funcionamento de creches
 
 f) Acompanhar os processos relativos à inscrição e selecção das crianças nas creches e estabelecimentos de educação pré-escolar.
 
-##### SUBSECÇÃO II — Divisão do 1.º Ciclo do Ensino Básico
+##### SUBSECÇÃO II
+
+##### Divisão do 1.º Ciclo do Ensino Básico
 
 ###### Artigo 8.º — Atribuições
 
@@ -429,7 +490,9 @@ e) Colaborar com o GGCO nos processos relativos à autorização de funcionament
 
 f) Emitir parecer sobre processos relativos à avaliação das aprendizagens, certificação de habilitações, equivalências de estudos e aplicação de medidas disciplinares a alunos do 1.º ciclo do ensino básico.
 
-##### SUBSECÇÃO III — Divisão dos 2.º e 3.º Ciclos do Ensino Básico
+##### SUBSECÇÃO III
+
+##### Divisão dos 2.º e 3.º Ciclos do Ensino Básico
 
 ###### Artigo 9.º — Atribuições
 
@@ -475,7 +538,9 @@ i) Colaborar com a DRPRE no processo de matrícula, renovação de matrícula e 
 
 2 - Na dependência da DSES funciona a Divisão do Ensino Secundário (DES).
 
-##### SUBSECÇÃO I — Divisão do Ensino Secundário
+##### SUBSECÇÃO I
+
+##### Divisão do Ensino Secundário
 
 ###### Artigo 11.º — Atribuições
 
@@ -593,7 +658,9 @@ a) Divisão de Acesso e Apoio ao Ensino Superior (DAAES);
 
 b) Secção Administrativa do Gabinete do Ensino Superior (SAGES).
 
-##### SUBSECÇÃO I — Divisão de Acesso e Apoio ao Ensino Superior
+##### SUBSECÇÃO I
+
+##### Divisão de Acesso e Apoio ao Ensino Superior
 
 ###### Artigo 16.º — Atribuições
 
@@ -739,7 +806,9 @@ f) Promover o intercâmbio a nível regional, nacional e internacional, em colab
 
 2 - O CEA é dirigido por um director-adjunto.
 
-#### SECÇÃO VIII — Divisão de Apoio Psicológico e de Orientação Escolar e Profissional
+#### SECÇÃO VIII
+
+##### Divisão de Apoio Psicológico e de Orientação Escolar e Profissional
 
 ###### Artigo 22.º — Atribuições
 
@@ -753,7 +822,9 @@ c) Colaborar no processo de selecção e acompanhamento dos alunos dos currícul
 
 d) Garantir a produção e a difusão de informação sobre as oportunidades educacionais e profissionais, nomeadamente através de acções de orientação escolar e profissional.
 
-#### SECÇÃO IX — Divisão de Projectos Extracurriculares
+#### SECÇÃO IX
+
+##### Divisão de Projectos Extracurriculares
 
 ###### Artigo 23.º — Atribuições
 
@@ -773,7 +844,9 @@ f) Divulgar e promover eventos relacionados com a educação extracurricular;
 
 g) Acompanhar a actividade dos animadores sócio-culturais das bibliotecas escolares.
 
-#### SECÇÃO X — Divisão de Assuntos Europeus
+#### SECÇÃO X
+
+##### Divisão de Assuntos Europeus
 
 ###### Artigo 24.º — Atribuições
 
@@ -787,7 +860,9 @@ c) Dinamizar e apoiar acções que possibilitem aos estabelecimentos de ensino o
 
 d) Divulgar projectos e programas comunitários nas áreas de competência da SRE.
 
-#### SECÇÃO XI — Divisão de Apoio Jurídico
+#### SECÇÃO XI
+
+##### Divisão de Apoio Jurídico
 
 ###### Artigo 25.º — Atribuições
 

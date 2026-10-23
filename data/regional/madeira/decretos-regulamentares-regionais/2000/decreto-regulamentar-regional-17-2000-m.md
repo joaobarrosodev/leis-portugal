@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/069b00/11421148.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2000/03/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2000-515252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c29715a1897960cb41e31a17507efd80bb44f1bf42e0bbc9f8ba3e63bb3530e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc796c342fc765faabc1bca6ccca1c0e109a3d5cc1f1af95fc9cd18d7705f158
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Administrativo
+- Conselho Consultivo
 - Conselho Pedagógico
 - Conservatório-escola Profissional das Artes da Madeira
 - Definição de Competências
-- Conselho Consultivo
-- Integração de Trabalhadores
-- Orgânica
-- Pessoal não Docente
 - Estabelecimento de Ensino
-- Pessoal Docente
-- Presidente
+- Integração de Trabalhadores
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Docente
+- Pessoal não Docente
+- Presidente
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 - Regulamento
@@ -85,6 +85,15 @@ relationships:
   target: pt:dre:548428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667559:por
+  label: "Alterados os arts. 1.º, 3.º, 7.º, 22.º, determinado que o art. 15.º passe a 20.º, que o art. 16.º passe a 15.º,\
+    \ decomposto e alterado em quatro arts. o art. 17.º, determinado que o art. 18.º passe a 21.º, eliminados os arts. 19.º,\
+    \ 20.º e 21.º e renumeradas e alteradas as denominações dos Cap III e IV, aditadas as Secções I e II ao Cap III e substituido\
+    \ o quadro de pessoal a que se refere o Anexo I, todos da Orgânica aprovada pelo presente diploma, pelo DRR.15/2003/M.2003.06.12.PG-RAM\
+    \ DR.IS-B [158] DE 11/Jul/2003 e republicada pelo mesmo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2003-667559
+  date: '2003-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -101,16 +110,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:522265:por
+  label: "Rectificado o mapa I pela DECL-RECT.6-S/2000.2000.05.31.PCM, DR.IS-B [126]3ºSupl de 31/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-s-2000-522265
+  date: '2000-05-31'
+- type: repealed_by
+  target: pt:dre:548428:por
+  label: "Revogado o presente diploma com as alterações introduzidas pelo DRR 15/2003/M de 11-Jul, pelo DRR.11/2005/M.30.03.2005.PG-RAM,\
+    \ DR.IS-B [76] de 19.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2005-548428
+  date: '2005-03-30'
 article_structure:
   article_count: 24
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:29Z'
   warnings: []
   errors: []
 ---
@@ -141,11 +177,11 @@ Aprovado em Conselho do Governo Regional em 3 de Fevereiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 24 de Fevereiro de 2000.**
+Assinado em 24 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica do Conservatório - Escola Profissional das Artes da Madeira
 
@@ -379,7 +415,9 @@ b) Promover, de modo adequado, à recolha, compilação, sistematização, trata
 
 2 - O DAGPS é dirigido por um chefe de departamento, contratado por livre escolha do Secretário Regional de Educação, em regime de comissão de serviço, por três anos, renovável por iguais períodos, de acordo com a lei geral do trabalho, e na sua dependência funciona a Secção de Administração Geral, Pessoal e Secretariado (SAGPSE).
 
-###### Artigo 12.º — Secção de Administração Geral, Pessoal e Secretariado
+###### Artigo 12.º
+
+#### Secção de Administração Geral, Pessoal e Secretariado
 
 À SAGPSE compete:
 
@@ -401,7 +439,9 @@ f) Assegurar o apoio adequado ao funcionamento das aulas.
 
 2 - O DCTPE é dirigido por um chefe de departamento, contratado por livre escolha do Secretário Regional de Educação, em regime de comissão de serviço, por três anos, renovável por iguais períodos, de acordo com a lei geral do trabalho, e na sua dependência funciona a Secção de Contabilidade, Tesouraria, Património e Economato (SCTPE).
 
-###### Artigo 14.º — Secção de Contabilidade, Tesouraria, Património e Economato
+###### Artigo 14.º
+
+#### Secção de Contabilidade, Tesouraria, Património e Economato
 
 À SCTPE compete:
 
@@ -517,8 +557,8 @@ c) O regime disciplinar dos alunos.
 
 Conservatório de Música - Escola Profissional das Artes da Madeira
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/069b00/11421148.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/069b00/11421148.pdf)](https://files.diariodarepublica.pt/1s/2000/03/069b00/11421148.pdf)
 
 ## ANEXO II — (a que faz referência o n.º 2 do artigo 19.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/069b00/11421148.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/069b00/11421148.pdf)](https://files.diariodarepublica.pt/1s/2000/03/069b00/11421148.pdf)

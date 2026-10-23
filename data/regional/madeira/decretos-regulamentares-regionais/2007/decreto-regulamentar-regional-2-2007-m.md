@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2007/01/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2007-522810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4128fa8f6fa8e0e45fe2eb8e2667c3cfeed854fcdabd4b69dd1ffc99ba942107
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 514e0ec9bc14ca87502097dfc19148a0decb521d64a18981cd5d0ee705d616ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Vice-presidência do Governo Regional
-- Representação Permanente da RAM
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Representação Permanente da RAM
+- Vice-presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:456493:por
@@ -101,16 +101,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618114:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:246851:por
+  label: "Revogadas as normas constantes do DRR 2/2005/M, de 10-Fev, com a alteração introduzida pelo presente diploma, mantendo-se\
+    \ estas transitoriamente em vigor, nos termos do nº 2 do art. 2º, pelo DRR.4/2008/M.25.03.2008.PG-RAM, DR.IS [59] de 25.03.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2008-246851
+  date: '2008-03-25'
+- type: repealed_by
+  target: pt:dre:456493:por
+  label: "Revogado, com excepção dos mapas anexos que se manterão em vigor nos termos do art. 2.º, o DRR 7/2005/M, de 10-Mar,\
+    \ alterado e republicado pelo presente diploma, pelo DRR.16/2008/M.04.07.2008.PG-RAM, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2008-456493
+  date: '2008-07-04'
 article_structure:
   article_count: 29
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:23Z'
   warnings: []
   errors: []
 ---
@@ -191,9 +232,9 @@ Aprovado em Conselho do Governo Regional em 7 de Dezembro de 2006.
 
 O Vice-Presidente do Governo Regional, no exercício da Presidência, João Carlos Cunha e Silva.
 
-**Assinado em 21 de Dezembro de 2006.**
+Assinado em 21 de Dezembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -613,4 +654,4 @@ O regime retributivo aplicável ao pessoal da Vice-Presidência do Governo é o 
 
 Mapas anexos a que se refere o n.º 1 do artigo 19.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04330443.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04330443.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04330443.pdf)

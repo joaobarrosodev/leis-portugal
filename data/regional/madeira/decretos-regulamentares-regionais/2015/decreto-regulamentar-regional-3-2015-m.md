@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10300/0318603192.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2015/05/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2015-67332420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dee9fd23f19eb96d4fbf79aa2ef0e54c85016a6f14920e7c388e3351f837f148
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4537560a7f5c7554742dbf174860162e2f96bd5097b7c5667dca974ad0ef327c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
+- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
 - Criação de Serviços
 - Definição de Competências
+- DIREÇÃO REGIONAL DA ADMINISTRAÇÃO PÚBLICA E DA MODERNIZAÇÃO ADMINISTRATIVA
+- DIREÇÃO REGIONAL DE ESTATÍSTICA DA MADEIRA
+- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
+- DIREÇÃO REGIONAL DO PATRIMÓNIO E DE GESTÃO DOS SERVIÇOS PARTILHADOS
 - Direcção Regional da Administração Pública e Local
 - Direcção Regional de Estatística
 - Direcção Regional de Informática
 - Direcção Regional de Orçamento e Contabilidade
 - Direcção Regional do Património
 - Direcção Regional do Tesouro
-- Extinção de Serviços
-- Orgânica
-- Madeira.região Autónoma
 - Direcção Regional dos Assuntos Fiscais
+- Extinção de Serviços
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Reestruturação de Serviços
+- SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
 - Secretário Regional
 - Zona Franca
-- SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
-- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
-- DIREÇÃO REGIONAL DO PATRIMÓNIO E DE GESTÃO DOS SERVIÇOS PARTILHADOS
-- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
-- DIREÇÃO REGIONAL DA ADMINISTRAÇÃO PÚBLICA E DA MODERNIZAÇÃO ADMINISTRATIVA
-- DIREÇÃO REGIONAL DE ESTATÍSTICA DA MADEIRA
 relationships:
 - type: amended_by
   target: pt:dre:115288238:por
@@ -132,16 +132,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:174814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115288238:por
+  label: Revogado o presente diploma e e determinada a extinção da Unidade Técnica de Acompanhamento e Monitorização de Parcerias
+    Público-Privadas e do Setor Público Empresarial, sendo as respetivas atribuições na área do setor empresarial integradas
+    numa unidade orgânica que funciona na direta dependência da Direção Regional Adjunta de Finanças pelo(a) Decreto Regulamentar
+    Regional n.º 7/2018/M - Diário da República n.º 92/2018, Série I de 2018-05-14, nos termos do art. 29.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2018-115288238
+  date: '2018-05-14'
 article_structure:
   article_count: 29
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:06Z'
   warnings: []
   errors: []
 ---
@@ -530,22 +650,22 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 14 de maio de 2015.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 19 de maio de 2015.**
+Assinado em 19 de maio de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO I — Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10300/0318603192.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10300/0318603192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10300/0318603192.pdf)
 
 ## ANEXO II — Dirigentes dos organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10300/0318603192.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10300/0318603192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10300/0318603192.pdf)
 
 ## ANEXO III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10300/0318603192.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10300/0318603192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10300/0318603192.pdf)

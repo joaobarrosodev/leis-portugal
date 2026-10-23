@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16300/0000300016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2024/08/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2024-885361660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41c60f86e30e65541857517b99665e20968e45a77c896c8784441399226e2f2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8d369ff1ab16f0bbd7b58fbe02b4b1f0203d55b94faa5c4255f6373ee967004
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional
 - Agência Regional para o Desenvolvimento da Investigação Tecnologia e Inovação
+- Conselho Desportivo da Região Autónoma da Madeira
 - Conselho Regional de Educação e Formação Profissional
 - Conservatório-escola Profissional das Artes da Madeira
+- Direção Regional de Desporto
+- Direção Regional de Planeamento Recursos e Infraestruturas
 - Direcção Regional da Administração da Justiça
 - Direcção Regional da Administração Escolar
+- Direcção Regional de Educação
 - Escola de Hotelaria e Turismo
 - Inspecção Regional de Educação
-- Conselho Desportivo da Região Autónoma da Madeira
-- Direcção Regional de Educação
-- Orgânica
-- Madeira.região Autónoma
-- Regime de Pessoal
-- Direção Regional de Planeamento Recursos e Infraestruturas
-- Administração Regional
 - Instituto para a Qualificação
-- Secretário Regional da Educação Ciência e Tecnologia
+- Madeira.região Autónoma
+- Orgânica
+- Regime de Pessoal
 - Secretaria Regional da Educação Ciência e Tecnologia
-- Direção Regional de Desporto
+- Secretário Regional da Educação Ciência e Tecnologia
 - Unidade de Implementação da Estratégia Regional de Especialização Inteligente
 relationships:
 - type: amended_by
@@ -129,16 +129,118 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107494013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108079190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119386283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123725414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163442509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164798789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216674065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:838326050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763927:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:5/2024/M
+  label: Revoga, a partir de 24 de agosto de 2024, nos termos do artigo 2.º, o Decreto Regulamentar Regional n.º 5/2024/M,
+    de 22 de janeiro, Diário da República n.º 15/2024, Série I
+  source: null
+  date: '2024-01-22'
 article_structure:
   article_count: 33
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:41Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +255,7 @@ Na Secretaria Regional de Educação, Ciência e Tecnologia ficam englobados os 
 
 Urge assim, e de imediato, criar a orgânica com a sua nova estrutura, bem como estabelecer a orgânica do Gabinete do Secretário Regional.
 
-Assim, nos termos do n.º 1 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa e das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos do n.º 1 do artigo 11.º do [Decreto Regulamentar Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2024-871763927), de 12 de julho, da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa e das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -169,11 +271,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 8 de agosto de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 20 de agosto de 2024.**
+Assinado em 20 de agosto de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -359,7 +461,7 @@ m) Assegurar o normal funcionamento da SRE nas áreas que não sejam da competê
 
 1 - A organização interna do GS, que compreende as unidades orgânicas nucleares e flexíveis que funcionam sob a sua direta dependência, obedece ao modelo de estrutura hierarquizada.
 
-2 - A organização interna a que se refere o número anterior é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro.
+2 - A organização interna a que se refere o número anterior é aprovada nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro.
 
 3 - A organização interna do GS compreende o Gabinete de Projetos e Comunicação (GPC), o Gabinete da Unidade de Gestão e Planeamento da SRE (GUG) e o Gabinete do Ensino Superior (GES).
 
@@ -575,9 +677,9 @@ h) Exercer as demais competências que lhe forem atribuídas por lei ou determin
 
 ###### Artigo 25.º — Carreiras e categorias
 
-1 - O pessoal das carreiras especiais compreende a carreira de inspeção constante do [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup> [2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, [17/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2017-107494013), de 8 de junho, e [4/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2022-177634374), de 17 de janeiro.
+1 - O pessoal das carreiras especiais compreende a carreira de inspeção constante do [Decreto Legislativo Regional n.º 19/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619), de 19 de agosto, alterado pelos Decretos Legislativos Regionais n.os [2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, [17/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2017-107494013), de 8 de junho, e [4/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2022-177634374), de 17 de janeiro.
 
-2 - O pessoal que integra os corpos especiais da saúde compreende a carreira de técnico superior de diagnóstico e terapêutica constante do [Decreto-Lei n.º 111/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2017-108079190), de 31 de agosto, alterado pelo [Decreto-Lei n.º 25/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2019-119386283), de 11 de fevereiro, e pela [Lei n.º 34/2021](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), de 8 de junho, e do [Decreto Legislativo Regional n.º 8/2019/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-123725414), de 6 de agosto, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[10/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-163442509), de 17 de maio, e [40/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2023-216674065), de 3 de agosto.
+2 - O pessoal que integra os corpos especiais da saúde compreende a carreira de técnico superior de diagnóstico e terapêutica constante do [Decreto-Lei n.º 111/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2017-108079190), de 31 de agosto, alterado pelo [Decreto-Lei n.º 25/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2019-119386283), de 11 de fevereiro, e pela [Lei n.º 34/2021](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), de 8 de junho, e do [Decreto Legislativo Regional n.º 8/2019/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-123725414), de 6 de agosto, alterado pelos Decretos Legislativos Regionais n.os[10/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-163442509), de 17 de maio, e [40/2023/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2023-216674065), de 3 de agosto.
 
 ###### Artigo 26.º — Sistema centralizado de gestão
 
@@ -652,3 +754,5 @@ Até à entrada em vigor dos diplomas que aprovam a organização interna dos se
 |  | Dotação de lugares |
 | --- | --- |
 | Cargos de direção intermédia de 1.º grau | 5 |
+
+118039376

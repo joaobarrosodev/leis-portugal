@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2013/02/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2013-258512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a63bf1e1146bc922054c75f8f88e3d1900e8513e981e7f6f3bbe6780a3f12785
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b78192a07c308e8fc9dc4b5bc9dc5a2ae8f1e4682f2d76ac5af012ee4d4333b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Centro de Estudos de História do Atlântico
-- Pessoal Dirigente
 - Definição de Competências
 - Escola Profissional de Hotelaria e Turismo da Madeira
-- Secretaria Regional da Cultura Turismo e Transportes
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Reestruturação de Serviços
+- Secretaria Regional da Cultura Turismo e Transportes
 relationships:
 - type: amended_by
   target: pt:dre:67522990:por
@@ -119,16 +119,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67522990:por
+  label: Revogado, a partir de 19.06.2015, o DRR 1/2012/M de 08-mar, na redação e republicação do presente diploma, pelo(a)
+    Decreto Regulamentar Regional n.º 4/2015/M - Diário da República n.º 117/2015, Série I de 2015-06-18, tendo a revogação
+    os efeitos previstos nos n.ºs 2 a 5 do art. 26.º deste, que determina, nos termos dos seus arts. 22.º a 25.º, a extinção,
+    sendo objeto de fusão, da Direção Regional de Transportes Terrestres (sendo as suas atribuições integradas na Direção
+    Regional da Economia e Transportes), do Gabinete de Planeamento Estratégico para os Transportes (sendo as suas atribuições
+    integradas na Direção Regional da Economia e Transportes) e do Centro de Estudos de História do Atlântico (sendo as suas
+    atribuições integradas na Direção Regional da Cultura), bem como a reestruturação da Direção Regional dos Assuntos Culturais
+    (que passa a designar-se Direção Regional da Cultura, compreendendo todas as anteriores atribuições)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2015-67522990
+  date: '2015-06-18'
 article_structure:
-  article_count: 50
+  article_count: 47
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:53Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +271,9 @@ k) ...
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +295,9 @@ g) (Anterior alínea f) )
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A SRT exerce a tutela sobre a Escola Profissional de Hotelaria e Turismo da Madeira (EPHTM).
 
@@ -249,7 +333,9 @@ g) Criar e orientar cursos especializados de aperfeiçoamento e complemento curr
 
 h) Assegurar a recolha, a conservação e a divulgação de manuscritos, livros raros e outras fontes históricas relacionadas com as suas atribuições.
 
-###### Artigo 26.º-B — Competências
+Artigo 26.º-B
+
+Competências
 
 Compete ao Centro de Estudos de História do Atlântico executar projetos de investigação científica nos termos do artigo anterior.»
 
@@ -269,7 +355,7 @@ O Anexo IV do [Decreto Regulamentar Regional n.º 1/2012/M](https://diariodarepu
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf)
 
 ###### Artigo 6.º — Republicação
 
@@ -281,11 +367,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado em Conselho do Governo Regional em 24 de janeiro de 2013.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 7 de fevereiro de 2013.**
+Assinado em 7 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -909,12 +995,12 @@ Os procedimentos concursais pendentes à data da entrada em vigor deste decreto 
 
 ## ANEXO II — Cargos de direção superior a que se refere o n.º 1 do artigo 35.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf)
 
 ## ANEXO III — Cargos de direção intermédia de 1.º grau dos Serviços de Coordenação e Gestão a que se refere o n.º 2 do artigo 35.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf)
 
 ## ANEXO IV — Cargos de direção intermédia de 1.º grau dos Serviços Executivos a que se refere o n.º 3 do artigo 35.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03600/0108301092.pdf)

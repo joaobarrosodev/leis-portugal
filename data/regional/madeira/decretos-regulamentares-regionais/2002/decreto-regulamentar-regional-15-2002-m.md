@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2002/09/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2002-635211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37c99f514d4a3fa65ced1957d658acf0e0bbf745188fb43274831c5f962f5d27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a88826370cd345975e3f1c22bcbaa74babfad57fcb3f01c5a413a728cd467ef3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Regional do Comércio e Indústria
 - Carreira Profissional
+- Direcção Regional do Comércio e Indústria
 - Inspecção Regional das Actividades Económicas
 - Integração de Trabalhadores
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Inspecção
-- Madeira.região Autónoma
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:257858:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517846:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, dos arts. 1º e 2.º do presente decreto, enquanto\
+    \ alteram os arts. 11º, 13º a 21º, 24º e 26º da orgânica da Inspecção Regional das Actividades Económicas, aprovada pelo\
+    \ DRR 2/96/M de 22-Set, com as alterações introduzidas pelos DRR 20/97/M de 22-Set e DRR 12/2001/M de 07-Jul, bem como\
+    \ é declarada a inconstitucionalidade com força obrigatória geral do nº 1 do art. 3º, pelo AC.18/2007.16.01.2007.TCS,\
+    \ DR.IS [36] de 20.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/18-2007-517846
+  date: '2007-01-16'
+- type: amended_by
+  target: pt:dre:248005:por
+  label: "Alterados os arts. 11º, 13º a 21º, 24º, 26º, 26º-A e 27º da orgânica da IRAE aprovada pelo DRR 2/96/M de 24-Fev,\
+    \ com a redacção e republicação constante do presente diploma, pelo DLR.5/2008/M.19.02.2008.AL-RAM, DR.IS [35] de 19.02.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2008-248005
+  date: '2008-02-19'
+- type: amended_by
+  target: pt:dre:257858:por
+  label: "Mantido em vigor, até 31.12.2012, o art. 24º do DRR 2/96/M de 24-fev (já revogado e mantido transitoriamente em\
+    \ vigor pelo DRR 19/2012/M de 22-mar) pelo DLR.6/2013/M.05.02.2013.AL-RAM, DR.IS [25] de 05.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2013-257858
+  date: '2013-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
   label: null
@@ -118,16 +140,79 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175343:por
+  label: "Revogado, sem prejuízo do nº2 do art. 2º, o DRR 2/96/M, de 24-Fev, na redação do presente diploma, do DRR 20/97/M,\
+    \ de 22-set, 19/2000/M, de 22-mar, 12/2001/M, de 07-jul, e do DLR 5/2008, de 19-fev, pelo DRR.19/2012/M.22.08.2012.PG-RAM,\
+    \ DR.IS [162] de 22.08.2012\0012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2012-175343
+  date: '2012-08-22'
 article_structure:
-  article_count: 50
+  article_count: 35
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:53Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +261,9 @@ a) Apoiar e coadjuvar o inspector regional no exercício das suas funções;
 
 b) Assegurar o indispensável relacionamento funcional entre o inspector regional e os restantes serviços da IRAE.
 
-###### Artigo 9.º — Direcção de Serviços Técnicos
+Artigo 9.º
+
+Direcção de Serviços Técnicos
 
 1 - A Direcção de Serviços Técnicos é o órgão de apoio técnico à actividade da IRAE, incluindo a acção inspectiva, ao qual compete:
 
@@ -196,11 +283,15 @@ g) Coordenar o sistema informático da IRAE, assegurando o seu normal funcioname
 
 2 - A Direcção de Serviços Técnicos é dirigida por um director de serviços, a nomear nos termos da legislação vigente.
 
-###### Artigo 11.º — Quadro de pessoal
+Artigo 11.º
+
+Quadro de pessoal
 
 O quadro do pessoal dirigente, técnico superior, de informática, administrativo e auxiliar, bem como o do pessoal das carreiras de inspecção da IRAE, é o que consta, respectivamente, dos mapas I e II anexos ao presente diploma, do qual fazem parte integrante.
 
-###### Artigo 13.º — Carreiras de inspecção
+Artigo 13.º
+
+Carreiras de inspecção
 
 As carreiras de inspecção da IRAE são as seguintes:
 
@@ -210,29 +301,39 @@ b) Inspector técnico;
 
 c) Inspector-adjunto.
 
-###### Artigo 14.º — Carreiras de regime especial
+Artigo 14.º
+
+Carreiras de regime especial
 
 As carreiras de inspecção da IRAE são, para todos os efeitos legais, reconhecidas como carreiras de regime especial.
 
-###### Artigo 15.º — Carreira de inspector superior
+Artigo 15.º
+
+Carreira de inspector superior
 
 1 - Integram a carreira de inspector superior as categorias de inspector superior principal, inspector superior, inspector principal e inspector.
 
 2 - O ingresso na carreira de inspector superior faz-se, em regra, para a categoria de inspector de entre indivíduos habilitados com licenciatura adequada, com carta de condução de veículos ligeiros e aprovados em estágio, com classificação não inferior a Bom (14 valores), que integra um curso de formação específica.
 
-###### Artigo 16.º — Carreira de inspector técnico
+Artigo 16.º
+
+Carreira de inspector técnico
 
 1 - Integram a carreira de inspector técnico as categorias de inspector técnico especialista principal, inspector técnico especialista, inspector técnico principal e inspector técnico.
 
 2 - O ingresso na carreira de inspector técnico faz-se, em regra, para a categoria de inspector técnico de entre indivíduos habilitados com curso superior adequado que não confira o grau de licenciatura, com carta de condução de veículos ligeiros e aprovados em estágio, com classificação não inferior a Bom (14 valores), que integra um curso de formação específica.
 
-###### Artigo 17.º — Carreira de inspector-adjunto
+Artigo 17.º
+
+Carreira de inspector-adjunto
 
 1 - Integram a carreira de inspector-adjunto as categorias de inspector-adjunto especialista principal, inspector-adjunto especialista, inspector-adjunto principal e inspector-adjunto.
 
 2 - O ingresso na carreira de inspector-adjunto faz-se para a categoria de inspector-adjunto de entre indivíduos habilitados com 12.º ano de escolaridade ou equivalente, com carta de condução de veículos ligeiros e aprovados em estágio, com classificação não inferior a Bom (14 valores), que integra o curso de formação elementar.
 
-###### Artigo 18.º — Estágios
+Artigo 18.º
+
+Estágios
 
 1 - A frequência dos estágios é feita em regime de contrato administrativo de provimento no caso de indivíduos não vinculados à função pública e em regime de comissão de serviço extraordinária se o estagiário já estiver nomeado definitivamente noutra carreira.
 
@@ -248,13 +349,17 @@ As carreiras de inspecção da IRAE são, para todos os efeitos legais, reconhec
 
 7 - Os regulamentos dos estágios são aprovados por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional dos Recursos Humanos.
 
-###### Artigo 19.º — Formação
+Artigo 19.º
+
+Formação
 
 1 - Os cursos que integram os estágios das carreiras de inspector superior, inspector técnico e inspector-adjunto, bem como os que integram a formação prevista na alínea b) do n.º 1 e na alínea b) do n.º 3 do artigo 9.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, são objecto de regulamento a aprovar por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional dos Recursos Humanos.
 
 2 - Para os efeitos constantes da alínea b) do n.º 3 do artigo 9.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, considera-se válida e suficiente a formação adquirida nos cursos de formação e de aperfeiçoamento das carreiras de inspecção.
 
-###### Artigo 20.º — Conteúdo funcional
+Artigo 20.º
+
+Conteúdo funcional
 
 1 - Compete ao pessoal das carreiras de inspector superior, inspector técnico e inspector-adjunto:
 
@@ -322,11 +427,15 @@ f) Praticar actos processuais em inquéritos e em processos de contra-ordenaçã
 
 g) Utilizar os meios técnicos e os instrumentos necessários postos à sua disposição para a execução das tarefas e zelar pela respectiva segurança e conservação.
 
-###### Artigo 21.º — Remunerações
+Artigo 21.º
+
+Remunerações
 
 As estruturas indiciárias das carreiras do pessoal da IRAE constam dos mapas a que se refere o artigo 11.º
 
-###### Artigo 24.º — Suplemento de função inspectiva
+Artigo 24.º
+
+Suplemento de função inspectiva
 
 1 - O pessoal dirigente, o pessoal das carreiras de inspecção e o pessoal técnico superior que exerce funções de apoio à acção inspectiva ou de investigação da IRAE têm direito ao suplemento de função inspectiva estabelecido no artigo 12.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, no montante de 22,5% da respectiva remuneração de base.
 
@@ -334,7 +443,9 @@ As estruturas indiciárias das carreiras do pessoal da IRAE constam dos mapas a 
 
 3 - O suplemento de função inspectiva é abonado em 12 mensalidades e releva para os efeitos de aposentação, sendo considerado no cálculo da pensão pela forma prevista na alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação.
 
-###### Artigo 26.º — Regra geral de transição
+Artigo 26.º
+
+Regra geral de transição
 
 1 - Os funcionários providos nas actuais carreiras de inspecção superior e de inspecção transitam para as novas carreiras previstas nos mapas III e IV, anexos a este diploma, para escalão a que corresponda índice igual àquele que o funcionário detém na categoria de origem ou índice superior aproximado se não houver coincidência.
 
@@ -368,13 +479,17 @@ Concurso e estágios pendentes
 
 2 - Os actuais estagiários prosseguem os respectivos estágios, ingressando, findos os mesmos e se neles ficarem aprovados, na categoria para que foi aberto o concurso.
 
-###### Artigo 27.º — Aposentação
+Artigo 27.º
+
+Aposentação
 
 1 - Ao pessoal das carreiras de inspecção superior e de inspecção, bem como ao pessoal dirigente, é aplicável o disposto no artigo 38.º do [Decreto-Lei n.º 269-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-a-1995-473971), de 19 de Outubro, quanto ao regime de aposentação nele previsto.
 
 2 - O pessoal que à data da entrada em vigor do presente diploma se encontre provido em lugares da carreira de inspecção pode, todavia, continuar em serviço após os 60 anos, até atingir o limite de idade nos termos da lei geral e pelo período de tempo necessário à percepção da pensão de aposentação completa, determinada em função do acréscimo previsto no n.º 2 do artigo referido no número anterior.
 
-###### Artigo 28.º — Quadros
+Artigo 28.º
+
+Quadros
 
 Os quadros de pessoal (mapas I e II) do [Decreto Regulamentar Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2001-348479), de 7 de Julho, são alterados e substituídos pelos mapas I e II anexos ao presente diploma.»
 
@@ -392,11 +507,11 @@ Aprovado em Conselho do Governo Regional em 1 de Agosto de 2002.
 
 O Vice-Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 23 de Agosto de 2002.**
+Assinado em 23 de Agosto de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Orgânica da Inspecção Regional das Actividades Económicas
 
@@ -760,11 +875,11 @@ Os quadros de pessoal (mapas I e II) do [Decreto Regulamentar Regional n.º 12/2
 
 MAPA I
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)
 
 MAPA II
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)
 
 MAPA III
 
@@ -774,7 +889,7 @@ Transição de carreiras
 
 Carreira de inspecção superior - Carreira de inspector superior
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)
 
 MAPA IV
 
@@ -784,4 +899,4 @@ Transição de carreiras
 
 Carreira de inspecção - Carreira de inspector técnico
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)](https://files.diariodarepublica.pt/1s/2002/09/216b00/64746486.pdf)

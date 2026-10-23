@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2005/04/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2005-548429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee9da38ed3319043e828690576f4fb4cb4503bee4d0a15eb6ef3847a66a894a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72c0ac2690600bafe937817a05cf60b6f8abad81ee5b1455618fea1a0fdfb6c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,22 @@ subjects:
 - Extinção de Serviços
 - Instituto do Desporto da Região Autónoma da Madeira
 - Integração de Trabalhadores
-- Secretaria Regional da Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:482639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248482:por
+  label: "Mantido em vigor o presente diploma na parte referente às matérias que transitam para a Secretaria Regional de Educação\
+    \ e Cultura (SREC) pelo DRR.1/2008/M.17.01.2008.PG-RAM, DR.IS [12] de 17.01.2008, até à publicação integral dos diplomas\
+    \ referidos nos nºs 2 do art. 5º e do art. 6º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2008-248482
+  date: '2008-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -118,16 +125,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/137/1999/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/137/1999/02/26/p/dre
+- type: cites
+  target: pt:dre:165250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:482639:por
+  label: "Revogado, a partir de 05.12.2009, o presente diploma, com excepção dos arts. 7.º a 24.º e 28.º, e do mapa de pessoal\
+    \ constantes da estrutura orgânica do IDRAM anexo, que se mantêm em vigor até à publicação dos diplomas que aprovam, criam\
+    \ e alteram as unidades orgânicas e o mapa de pessoal, pelo DLR.30/2009/M.04.12.2009.AL-RAM, DR.IS [235] de 04.12.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-2009-482639
+  date: '2009-12-04'
 article_structure:
   article_count: 34
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:10Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +217,11 @@ Aprovado em Conselho do Governo Regional em 10 de Março de 2005.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva.
 
-**Assinado em 30 de Março de 2005.**
+Assinado em 30 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ### CAPÍTULO I — Natureza, missão e atribuições
 
@@ -310,7 +369,9 @@ c) Divisão de Projectos de Arquitectura Desportiva, adiante designada por DPAD;
 
 d) Divisão de Fiscalização, adiante designada por DF.
 
-###### Artigo 9.º — Divisão Coordenadora dos Equipamentos Desportivos
+###### Artigo 9.º
+
+##### Divisão Coordenadora dos Equipamentos Desportivos
 
 Compete à DCED, designadamente:
 
@@ -324,7 +385,9 @@ d) Propor a formação específica e organizar a reciclagem técnico-profissiona
 
 e) Propor os materiais e equipamentos próprios, a afectar nas instalações desportivas, necessários às reparações e manutenções a efectuar.
 
-###### Artigo 10.º — Divisão de Gestão de Projectos
+###### Artigo 10.º
+
+##### Divisão de Gestão de Projectos
 
 Compete à DGP, designadamente:
 
@@ -340,7 +403,9 @@ e) Apoiar a elaboração dos processos de concursos de empreitadas de obras púb
 
 f) Apresentar anualmente o plano e orçamento parcelares da Divisão necessários ao cumprimento das tarefas, prioridades e estratégias definidas.
 
-###### Artigo 11.º — Divisão de Projectos de Arquitectura Desportiva
+###### Artigo 11.º
+
+##### Divisão de Projectos de Arquitectura Desportiva
 
 Compete à DPAD, designadamente:
 
@@ -354,7 +419,9 @@ d) Apresentar propostas de orientação de instalações desportivas, tendo em c
 
 e) Apoiar a elaboração dos processos de concursos de empreitadas de obras públicas.
 
-###### Artigo 12.º — Divisão de Fiscalização
+###### Artigo 12.º
+
+##### Divisão de Fiscalização
 
 Compete à DF, designadamente:
 
@@ -406,7 +473,9 @@ a) Divisão de Apoio às Actividades Desportivas, adiante designada por DAAD;
 
 b) Divisão de Apoio ao Desporto para Todos, adiante designada por DADpT.
 
-###### Artigo 14.º — Divisão de Apoio às Actividades Desportivas
+###### Artigo 14.º
+
+##### Divisão de Apoio às Actividades Desportivas
 
 1 - Compete à DAAD, designadamente:
 
@@ -430,7 +499,9 @@ i) Organizar e manter actualizado um registo de pessoas colectivas com atribuiç
 
 j) Manter actualizadas as cartas desportivas regionais, nomeadamente a demografia federada, como ainda o registo dos clubes, associações e demais pessoas colectivas de natureza desportiva.
 
-###### Artigo 15.º — Divisão de Apoio ao Desporto para Todos
+###### Artigo 15.º
+
+##### Divisão de Apoio ao Desporto para Todos
 
 Compete à DADpT, designadamente:
 
@@ -486,7 +557,9 @@ p) Dirigir as publicações do IDRAM.
 
 2 - Na dependência da DSEFAC funciona a Divisão de Formação e Alta Competição, adiante designada por DFAC.
 
-###### Artigo 17.º — Divisão de Formação e Alta Competição
+###### Artigo 17.º
+
+##### Divisão de Formação e Alta Competição
 
 Compete à DFAC, designadamente:
 
@@ -540,7 +613,9 @@ d) Divisão de Arte e Design, adiante designada por DAD;
 
 e) Divisão de Informática, adiante designada por DI.
 
-###### Artigo 19.º — Divisão de Estudos e Pareceres Jurídicos
+###### Artigo 19.º
+
+##### Divisão de Estudos e Pareceres Jurídicos
 
 Compete à DEPJ, designadamente:
 
@@ -554,7 +629,9 @@ d) Promover de modo adequado a recolha, compilação, sistematização, tratamen
 
 e) Organizar e manter organizada uma base de dados de legislação desportiva.
 
-###### Artigo 20.º — Divisão de Gestão Financeira
+###### Artigo 20.º
+
+##### Divisão de Gestão Financeira
 
 Compete à DGF, designadamente:
 
@@ -572,7 +649,9 @@ f) Elaborar contas e relatórios financeiros;
 
 g) Elaborar e acompanhar a execução dos contratos-programa de desenvolvimento desportivo que titulem a execução de apoios financeiros, humanos ou materiais.
 
-###### Artigo 21.º — Divisão de Marketing
+###### Artigo 21.º
+
+##### Divisão de Marketing
 
 Compete à DM, designadamente:
 
@@ -600,7 +679,9 @@ l) Coordenar e acompanhar a realização de exposições, conferências, congres
 
 m) Proceder à recolha, análise e tratamento dos dados desportivos, que permitam a manutenção de um sistema de informação de marketing adequado.
 
-###### Artigo 22.º — Divisão de Arte e Design
+###### Artigo 22.º
+
+##### Divisão de Arte e Design
 
 Compete à DAD, designadamente:
 
@@ -620,7 +701,9 @@ g) Criar, coordenar e assegurar a manutenção da sinalética de recintos despor
 
 h) Organizar e coordenar exposições de promoção desportiva.
 
-###### Artigo 23.º — Divisão de Informática
+###### Artigo 23.º
+
+##### Divisão de Informática
 
 Compete à DI, designadamente:
 

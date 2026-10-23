@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2011/06/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2011-673472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c5e700a6a62d1a54f72a6aea8241d73bfc6d9a8e4d90d0a2f56f7f73417f59a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81ce558701084bfe4ffb9c3734704fbcd9354cb04350af3437fbc47d5564c6e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Definição de Competências
-- Presidência do Governo Regional
-- Secretaria Regional do Turismo e Transportes
-- Vice-presidência do Governo Regional
-- Secretaria Regional do Plano e Finanças
-- Secretaria Regional do Equipamento Social
 - Extinção de Serviços
 - Gestão Orçamental
+- Governo Regional
 - Integração de Serviços
 - Integração de Trabalhadores
-- Secretaria Regional dos Assuntos Sociais
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Presidência do Governo Regional
 - Secretaria Regional do Ambiente e dos Recursos Naturais
+- Secretaria Regional do Equipamento Social
+- Secretaria Regional do Plano e Finanças
+- Secretaria Regional do Turismo e Transportes
+- Secretaria Regional dos Assuntos Sociais
 - Secretaria Regional dos Recursos Humanos
 - Tutela
+- Vice-presidência do Governo Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/3/2007/01/09/m/dre
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/2007/07/23/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/2007/07/23/m/dre
+- type: cites
+  target: pt:dre:262120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636765:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:36Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +166,9 @@ d) ...
 
 e) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -206,11 +220,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 de Maio de 2011.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 20 de Maio de 2011.**
+Assinado em 20 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05800/0000600009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/2020/03/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2020-130473147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41de3619b81016df84bb36c3546910b3a0c1b4610e3b3e1c30053133acd0fe7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eb9426269b20b3d84120a05d9cb62c836b1aa6a789eb38e59d2d0cc0bbefb4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Orgânica
+- Direção Regional Adjunta de Economia
+- Direção Regional Adjunta dos Assuntos Parlamentare Relações Externas e da Coordenação
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Pessoal
-- Direção Regional Adjunta de Economia
 - Vice-Presidência do Governo Regional e dos Assuntos Parlamentares
-- Direção Regional Adjunta dos Assuntos Parlamentare Relações Externas e da Coordenação
 relationships:
 - type: amended_by
   target: pt:dre:174357145:por
@@ -119,16 +119,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121854641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126318034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126904849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128114253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:170322931:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 9/2021/M - Diário da República n.º 167/2021, Série I de 2021-08-27,
+    nos termos dos arts. 22.º e 23.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2021-170322931
+  date: '2021-08-27'
+- type: repealed_by
+  target: pt:dre:174357145:por
+  label: Revogado, a partir de 17.11.2021, nos termos do disposto no n.º 2 do art. 21.º do DRR 9/2021/M de 27-ago, pelo(a)
+    Decreto Regulamentar Regional n.º 13/2021/M - Diário da República n.º 222/2021, Série I de 2021-11-16, nos termos do n.º
+    2 do seu art. 31.º; extinta com efeitos a 17.11.2021, nos termos do disposto no n.º 1 do art. 25.º daquele diploma, sendo
+    objeto de fusão a Direção Regional Adjunta dos Assuntos Parlamentares, Relações Externas e da Coordenação, cuja orgânica
+    e competências constam do presente diploma, sendo as respetivas atribuições nas áreas do Programa Estudante InsuLar e
+    do subsídio social de mobilidade do transporte marítimo e aéreo com o Porto Santo integradas na Direção Regional da Administração
+    Pública e da Modernização Administrativa; e determinado, nos termos do n.º 3 do art. 29.º do mesmo diploma, que todas
+    as referências, legais ou regulamentares, feitas à ora extinta Direção Regional Adjunta dos Assuntos Parlamentares, Relações
+    Externas e da Coordenação, nas áreas mencionadas na al. b) do n.º 1 do art. 25.º, se considerem feitas à Direção Regional
+    da Administração Pública e da Modernização Administrativa.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2021-174357145
+  date: '2021-11-16'
 article_structure:
   article_count: 8
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:26Z'
   warnings: []
   errors: []
 ---
@@ -221,11 +285,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 20 de fevereiro de 2020.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 3 de março de 2020.**
+Assinado em 3 de março de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -233,4 +297,6 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 Mapa de cargos dirigentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05800/0000600009.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05800/0000600009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05800/0000600009.pdf)
+
+113096756

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2024/09/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2024-887428378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d369fee72733617e0c0fa179df429147b55d54075cb10a074e9b3c9e9ebdb08b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c3cb2dab3db212e5c4b8ad31aa8a7159563a9850b84a66ebc20a0570e559186
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional
 - Alteração Orçamental
-- Governo Regional
-- Sistema de Normalização Contabilística Público
+- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
+- Contabilidade Pública
+- Contribuições e Impostos
+- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
 - Execução do Orçamento
 - Gestão Orçamental
-- Contribuições e Impostos
-- Sistema de Informação
+- Governo Regional
 - Madeira.região Autónoma
-- Administração Regional
-- Contabilidade Pública
 - SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
-- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
-- Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira
+- Sistema de Informação
+- Sistema de Normalização Contabilística Público
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21
@@ -119,16 +119,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:106522678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115924019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:43Z'
   warnings: []
   errors: []
 ---
@@ -217,7 +269,7 @@ Os serviços e organismos da administração pública regional devem registar e 
 
 4 - Para efeitos da aplicação do presente artigo entende-se por "gestão flexível" as alterações orçamentais entre serviços simples, serviços integrados ou entre serviços e fundos autónomos ou entre aqueles subsetores, no âmbito do artigo 26.º do [Decreto Legislativo Regional n.º 6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
 
-5 - As alterações orçamentais previstas nos n.<sup>os</sup> 2 a 4 do artigo 26.º do [Decreto Legislativo Regional n.º 6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, dependem de despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças e pela tutela do setor.
+5 - As alterações orçamentais previstas nos n.os 2 a 4 do artigo 26.º do [Decreto Legislativo Regional n.º 6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, dependem de despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças e pela tutela do setor.
 
 ###### Artigo 8.º — Regime aplicável às entidades públicas incluídas no universo das administrações públicas em contas nacionais
 
@@ -253,7 +305,7 @@ b) Aos prazos para autorização de pagamentos.
 
 4 - A liquidação e autorização de pagamento de despesas com transferências para os serviços com autonomia administrativa e com autonomia administrativa e financeira, cujas requisições estejam em conformidade com os números anteriores do presente artigo, são efetuadas com dispensa de quaisquer outras formalidades.
 
-5 - O pagamento das requisições de fundos pode não ser integralmente autorizado, no caso de não terem sido cumpridas as formalidades previstas nos n.<sup>os</sup> 1 a 3 do presente artigo.
+5 - O pagamento das requisições de fundos pode não ser integralmente autorizado, no caso de não terem sido cumpridas as formalidades previstas nos n.os 1 a 3 do presente artigo.
 
 ###### Artigo 11.º — Informação a prestar pelos serviços e entidades incluídas no universo das administrações públicas em contas nacionais
 
@@ -367,7 +419,7 @@ d) Outros fundos.
 
 ###### Artigo 18.º — Abono para falhas
 
-1 - Nos termos dos n.<sup>os</sup>1 e 2 do artigo 2.º do [Decreto Regulamentar Regional n.º 20/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1989-550046), de 3 de novembro, com a alteração constante do [Decreto Legislativo Regional n.º 12/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), de 6 de agosto, a atribuição de abono para falhas apenas pode ser concedida a trabalhadores que manuseiem ou tenham à sua guarda, nas áreas de tesouraria ou cobrança, valores, numerário, títulos ou documentos, sendo por eles responsáveis ou corresponsáveis, de valor anual estimado não inferior a 50 000 euros.
+1 - Nos termos dos n.os1 e 2 do artigo 2.º do [Decreto Regulamentar Regional n.º 20/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1989-550046), de 3 de novembro, com a alteração constante do [Decreto Legislativo Regional n.º 12/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), de 6 de agosto, a atribuição de abono para falhas apenas pode ser concedida a trabalhadores que manuseiem ou tenham à sua guarda, nas áreas de tesouraria ou cobrança, valores, numerário, títulos ou documentos, sendo por eles responsáveis ou corresponsáveis, de valor anual estimado não inferior a 50 000 euros.
 
 2 - São nulos os atos administrativos celebrados sem observância do disposto no número anterior.
 
@@ -425,7 +477,7 @@ e) Que fazem parte dos equipamentos de diagnóstico de veículos, tal como as re
 
 3 - A celebração ou renovação de contratos de assistência técnica de equipamentos de impressão por serviços da administração direta do Governo Regional depende de parecer prévio favorável do organismo que detém atribuições na área do Património.
 
-4 - Ficam dispensados das autorizações e pareceres prévios indicados nos n.<sup>os</sup> 2 e 3, a aquisição e o aluguer de todo o tipo de equipamento de impressão, nomeadamente copiadora e multifuncional efetuadas pela Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, desde que o mesmo se integre no âmbito das especificidades técnicas exigidas na área tributária, e integrada na rede informática nacional, gerida pela Autoridade Tributária e Aduaneira, denominada de REDE RITTA.
+4 - Ficam dispensados das autorizações e pareceres prévios indicados nos n.os 2 e 3, a aquisição e o aluguer de todo o tipo de equipamento de impressão, nomeadamente copiadora e multifuncional efetuadas pela Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, desde que o mesmo se integre no âmbito das especificidades técnicas exigidas na área tributária, e integrada na rede informática nacional, gerida pela Autoridade Tributária e Aduaneira, denominada de REDE RITTA.
 
 5 - Ficam também dispensados das autorizações e pareceres prévios indicados nos números anteriores a aquisição, o aluguer e contratos de assistência técnica efetuadas pela ARDITI - Agência Regional para o Desenvolvimento da Investigação Tecnologia e Inovação, desde que cumpridos, de forma cumulativa, os seguintes requisitos:
 
@@ -489,7 +541,7 @@ b) Exigir, se for o caso, a apresentação de certidão comprovativa da situaç�
 
 ###### Artigo 26.º — Transferências e apoios para entidades de direito privado
 
-1 - Sem prejuízo do disposto nos n.<sup>os</sup> 1 e 2 do artigo 38.º do [Decreto Legislativo Regional n.º 6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, os montantes das transferências e apoios para entidades de direito privado no decurso do ano de 2024 não podem ultrapassar os valores anteriormente concedidos para a mesma finalidade.
+1 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 38.º do [Decreto Legislativo Regional n.º 6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, os montantes das transferências e apoios para entidades de direito privado no decurso do ano de 2024 não podem ultrapassar os valores anteriormente concedidos para a mesma finalidade.
 
 2 - Para a execução do disposto no artigo 38.º do [Decreto Legislativo Regional n.º 6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, aplicam-se as seguintes regras:
 
@@ -615,10 +667,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em Conselho do Governo Regional em 14 de agosto de 2024.
 
-**O Secretário Regional de Educação, Ciência e Tecnologia, no exercício da Presidência, Jorge Maria Abreu de Carvalho.**
+O Secretário Regional de Educação, Ciência e Tecnologia, no exercício da Presidência, Jorge Maria Abreu de Carvalho.
 
-**Assinado em 6 de setembro de 2024.**
+Assinado em 6 de setembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+118095322

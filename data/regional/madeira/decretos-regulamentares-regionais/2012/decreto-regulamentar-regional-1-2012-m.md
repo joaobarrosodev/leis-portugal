@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/04900/0104701056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/2012/03/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2012-542274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80336863f649d28a6bef7fbda36042c56a8f18bf50019466b1b46195fc0e6362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a201da1caf71ca9cc35bc0bdf82342cb88bbfeebecf4760f62100d5db20f957
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ANAM
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Definição de Competências
-- Direcção Regional dos Assuntos Culturais
 - Direcção Regional de Turismo
+- Direcção Regional dos Assuntos Culturais
 - Direcção Regional dos Transportes Terrestres
 - Diretor Regional
 - Inspecção Regional de Espectáculos
 - Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Reestruturação de Serviços
 - Secretaria Regional da Cultura Turismo e Transportes
 - Secretário Regional da Cultura Turismo e Transportes
-- Orgânica
-- Madeira.região Autónoma
 - Subdirector Regional
 relationships:
 - type: amended_by
   target: pt:dre:67522990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:258512:por
+  label: "Alterados os arts. 4º, 7º e 8º, bem como alteradas as epígrafes das secções do capítulo IV que passam a ser as seguintes\
+    \ [Secção V - \"Centro de Estudos de História do Atlântico\", que compreende os arts. 26-A.º e 26º-B e Secção VI - \"\
+    Gabinete de Planeamento Estratégico para os Transportes\", que compreende os arts. 27º e 28º] e o Anexo IV e aditados\
+    \ os arts. 26º-A e 26º-B, bem como aditada ao ao capítulo IV, a secção VII com a designação de \"Gabinete para os Assuntos\
+    \ Parlamentares\", que compreende os arts. 29º e 30º ao presente diploma, pelo DRR.6/2013/M.20.02.2013.PG-RAM, DR.IS [36]\
+    \ de 20.02.2013, que procede à sua republicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2013-258512
+  date: '2013-02-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/de
   label: null
@@ -125,16 +135,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67522990:por
+  label: Revogado, a partir de 19.06.2015, o presente diploma, na redação e republicação do DRR 6/2013/M de 20-fev, pelo(a)
+    Decreto Regulamentar Regional n.º 4/2015/M - Diário da República n.º 117/2015, Série I de 2015-06-18, tendo a revogação
+    os efeitos previstos nos n.ºs 2 a 5 do art. 26.º deste, que determina, nos termos dos seus arts. 22.º a 25.º, a extinção,
+    sendo objeto de fusão, da Direção Regional de Transportes Terrestres (sendo as suas atribuições integradas na Direção
+    Regional da Economia e Transportes), do Gabinete de Planeamento Estratégico para os Transportes (sendo as suas atribuições
+    integradas na Direção Regional da Economia e Transportes) e do Centro de Estudos de História do Atlântico (sendo as suas
+    atribuições integradas na Direção Regional da Cultura), bem como a reestruturação da Direção Regional dos Assuntos Culturais
+    (que passa a designar-se Direção Regional da Cultura, compreendendo todas as anteriores atribuições)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2015-67522990
+  date: '2015-06-18'
 article_structure:
   article_count: 41
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:38Z'
   warnings: []
   errors: []
 ---
@@ -183,9 +277,9 @@ Aprovado em Conselho do Governo Regional em 8 de fevereiro de 2012.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva, Vice-Presidente do Governo Regional, no exercício da presidência.
 
-**Assinado em 20 de fevereiro de 2012.**
+Assinado em 20 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -781,12 +875,12 @@ Os procedimentos concursais pendentes à data da entrada em vigor deste decreto 
 
 ## ANEXO II — Cargos de direção superior a que se refere o n.º 1 do artigo 35.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/04900/0104701056.pdf))](https://files.diariodarepublica.pt/1s/2012/03/04900/0104701056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/04900/0104701056.pdf)
 
 ## ANEXO III — Cargos de direção intermédia de 1.º grau dos Serviços de Coordenação e Gestão a que se refere o n.º 2 do artigo 35.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/04900/0104701056.pdf))](https://files.diariodarepublica.pt/1s/2012/03/04900/0104701056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/04900/0104701056.pdf)
 
 ## ANEXO IV — Cargos de direção intermédia de 1.º grau dos Serviços Executivos a que se refere o n.º 3 do artigo 35.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/04900/0104701056.pdf))](https://files.diariodarepublica.pt/1s/2012/03/04900/0104701056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/04900/0104701056.pdf)

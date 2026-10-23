@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/25/2008/11/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/25-2008-440550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b52caaea3da943be5c846626e0de295f84072f19e63eba191935f9e4dc36a81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad5fc4eeb89035b14d43254f81c4345dca29e228bb1b56f5d6843bb943699b92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,13 +73,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:17Z'
   warnings: []
   errors: []
 ---
@@ -444,7 +444,7 @@ Em relação ao artigo 233.º:
 
 Competirá ao Presidente da Região Autónoma assinar e mandar publicar os decretos legislativos regionais e os decretos regulamentares regionais, a par do envio obrigatório de sua cópia ao Presidente da República, a fim de propiciar eventual requerer da sua declaração de inconstitucionalidade ao Tribunal Constitucional, nos termos do artigo 134.º, alínea h);
 
-**O Presidente da Região Autónoma pode exercer direito de veto sobre diploma que a Assembleia Legislativa lhe haja enviado para assinatura, ou da publicação da decisão do Tribunal Constitucional que não se pronuncie por qualquer inconstitucionalidade, mas é obrigado a assinar, no prazo de oito dias, se a Assembleia Legislativa confirmar o voto por maioria absoluta de Deputados em efectividade de funções;**
+O Presidente da Região Autónoma pode exercer direito de veto sobre diploma que a Assembleia Legislativa lhe haja enviado para assinatura, ou da publicação da decisão do Tribunal Constitucional que não se pronuncie por qualquer inconstitucionalidade, mas é obrigado a assinar, no prazo de oito dias, se a Assembleia Legislativa confirmar o voto por maioria absoluta de Deputados em efectividade de funções;
 
 As novas normas constitucionais devem ser redigidas em termos de, através de cumprimento de prazos, ser impedido o «veto de bolso» pelo Presidente da Região Autónoma;
 
@@ -468,4 +468,4 @@ Dado que os candidatos à Assembleia da República tomarão as suas posições, 
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Outubro de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

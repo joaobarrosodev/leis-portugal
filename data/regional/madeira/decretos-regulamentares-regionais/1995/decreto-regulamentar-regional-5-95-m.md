@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/080b00/19451945.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/1995/04/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1995-231488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 765431e714160c07acd3d8a3dcd75ea155dfea058b3129454652ad50fbce8be8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31640fe44491138568a08734b9d3e966e6dcdf22ad4cea0c37c6fc1f8554424e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Formas de Provimento
 - Inspecção Regional de Finanças
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:481500:por
@@ -87,16 +87,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:475950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:481500:por
+  label: "Revogado pelo DLR.18/2005/M.07.11.2005.AL-RAM, DR.IS-A [226] de 24.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2005-481500
+  date: '2005-11-07'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:57Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +126,7 @@ Considerando que neste momento não é possível prover os lugares de inspector 
 
 Assim, o Governo Regional da Madeira decreta, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição da República Portuguesa e da alínea c) do artigo 49.º e do n.º 1 do artigo 50.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
 
-###### Artigo 1.º O artigo 15.º da orgânica da Inspecção Regional de Finanças, publicada em anexo ao [Decreto Regulamentar Regional n.º 15/94/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1994-547023), de 26 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 15.º da orgânica da Inspecção Regional de Finanças, publicada em anexo ao [Decreto Regulamentar Regional n.º 15/94/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1994-547023), de 26 de Novembro, passa a ter a seguinte redacção:
 
 ###### Artigo 15.º — [...]
 
@@ -123,14 +140,14 @@ b) ...
 
 3 - Enquanto não houver pessoal no quadro da Inspecção Regional de Finanças nas condições definidas na alínea b) do n.º 1, o provimento do cargo de inspector de finanças director poderá fazer-se nos termos previstos no [Decreto Legislativo Regional n.º 8/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1991-475950), de 18 de Março, para o exercício do cargo de director de serviços.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 15 de Fevereiro de 1995.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 7 de Março de 1995.**
+Assinado em 7 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

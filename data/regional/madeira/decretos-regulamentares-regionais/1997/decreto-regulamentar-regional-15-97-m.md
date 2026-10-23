@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/174b00/39543957.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/1997/07/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1997-144784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c6549c492cbc8c86700f08e503d2f6f134d8f92d5496a6dc889271faa3495d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11933876112921703a2fc1c69b721a0ba5292a1f66f6c2d4e8de5751318b5a24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Definição de Competências
 - Direcção Regional da Juventude
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Secretaria Regional dos Recursos Humanos
 relationships:
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:658036:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515261:por
+  label: "Alterado o art. 12º e o mapa I e aditado o art. 12º-A pelo DRR.20/2000/M.2000.02.29.PG-RAM,DR.IS-B [69] de 22/Mar/2000\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2000-515261
+  date: '2000-02-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/24-a/1996/12/04/m/dre
   label: null
@@ -88,16 +94,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:559028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:658036:por
+  label: "Revogado pelo DRR.6-B/2001/M.2001.04.19.PG-RAM DR.IS-B [108]Supl de 10/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-b-2001-658036
+  date: '2001-05-09'
 article_structure:
   article_count: 15
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:07Z'
   warnings: []
   errors: []
 ---
@@ -124,11 +147,11 @@ Aprovado em Conselho do Governo Regional em 19 de Junho de 1997.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 9 de Julho de 1997.**
+Assinado em 9 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ORGÂNICA DA DIRECÇÃO REGIONAL DA JUVENTUDE
 
@@ -360,4 +383,4 @@ MAPA ANEXO
 
 Direcção Regional da Juventude
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/174b00/39543957.pdf))](https://files.diariodarepublica.pt/1s/1997/07/174b00/39543957.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/174b00/39543957.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2016/04/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2016-74240288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dce26c6b644855f60f6288505746cf448b48ef26eb90ec7a8849941a6202bdb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d580d106c1ef73c8d4c6e7d25a98de82e501835334413fc480730bd579995dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Regional do Ordenamento do Território e Ambiente
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Secretaria Regional do Ambiente e dos Recursos Naturais
 relationships:
@@ -117,16 +117,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/137-a/2012/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/137-a/2012/05/11/p/dre
+- type: repealed_by
+  target: pt:dre:133509561:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 32/2020/M - Diário da República n.º 93/2020, Série I de 2020-05-13,
+    nos termos do art. 10.º, exceto no respeitante às normas que se prendam com as atribuições nas áreas do ordenamento do
+    território, da informação geográfica, cartográfica e cadastral, do urbanismo e da paisagem, dependente da entrada em vigor
+    do diploma que contenha a orgânica da Direção Regional do Ordenamento do Território
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-2020-133509561
+  date: '2020-05-13'
 article_structure:
   article_count: 14
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:08Z'
   warnings: []
   errors: []
 ---
@@ -343,11 +351,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 31 de março de 2016.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 12 de abril de 2016.**
+Assinado em 12 de abril de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -355,4 +363,4 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 (a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/04/07900/0138601390.pdf))](https://files.diariodarepublica.pt/1s/2016/04/07900/0138601390.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/04/07900/0138601390.pdf)

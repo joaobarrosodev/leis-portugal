@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/03100/0009100093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2023/02/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2023-207332030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b3ec9dcd36fe4a3f0d63886bb55429a2dc509e207729613249c81df437c607d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02373eb1d8b30893785203d480c02148c9ad8e15782547ead392b710b627969a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Definição de Competências
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Secretaria Regional da Saúde e Proteção Civil
 relationships:
 - type: cites
@@ -113,16 +113,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127657050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133054720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134505605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170322931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173732862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176147944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186869052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205822996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:39Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +239,9 @@ e) [...]
 
 f) Assegurar as ações necessárias à conceção, promoção e avaliação das políticas públicas para a longevidade, bem como a implementação de medidas integradas destinadas a garantir a proteção na fragilidade relacionada com o envelhecimento.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -197,7 +259,9 @@ c) Direção Regional para as Políticas Públicas Integradas e Longevidade.
 
 5 - O serviço referido na alínea c) do n.º 1 é um serviço executivo, que garante a prossecução das políticas referidas na alínea f) do n.º 2 do artigo 2.º do presente diploma.
 
-###### Artigo 10.º — Direção Regional da Saúde
+Artigo 10.º
+
+Direção Regional da Saúde
 
 1 - [...]
 
@@ -205,13 +269,17 @@ c) Direção Regional para as Políticas Públicas Integradas e Longevidade.
 
 3 - [...]
 
-## ANEXO I — (a que se refere o n.º 1 do artigo 16.º)
+ANEXO I
+
+(a que se refere o n.º 1 do artigo 16.º)
 
 Dotação de lugares dos dirigentes superiores dos organismos da administração direta e indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/03100/0009100093.pdf))](https://files.diariodarepublica.pt/1s/2023/02/03100/0009100093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/03100/0009100093.pdf)
 
-###### Artigo 3.º — Aditamento ao [Decreto Regulamentar Regional n.º 1/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2020-127657050), de 2 de janeiro
+Artigo 3.º
+
+Aditamento ao [Decreto Regulamentar Regional n.º 1/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2020-127657050), de 2 de janeiro
 
 É aditado ao [Decreto Regulamentar Regional n.º 1/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2020-127657050), de 2 de janeiro, alterado pelo [Decreto Regulamentar Regional n.º 29/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2020-133054720), de 5 de maio, este último retificado pela [Declaração de Retificação n.º 21/2020](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/21-2020-134505605), de 26 de maio, o artigo 10.º-A, com a seguinte redação:
 
@@ -223,16 +291,20 @@ Direção Regional para as Políticas Públicas Integradas e Longevidade
 
 2 - A DRPPIL é dirigida por um diretor regional, cargo de direção superior de 1.º grau.»
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 2 de fevereiro de 2023.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 8 de fevereiro de 2023.**
+Assinado em 8 de fevereiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+116156036

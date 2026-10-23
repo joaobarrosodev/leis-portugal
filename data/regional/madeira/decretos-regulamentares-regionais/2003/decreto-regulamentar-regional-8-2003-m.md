@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/2003/03/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2003-214959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b4a4daa038e43b553fecdf010015733917613c7d2cefae6a0ecbb0f8f9e3364
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 631266cf0c1eb5f59fc304dfd2d2b32e3ccd99e274deef452c3e5930ac5248bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ZONA de Defesa e Controlo Urbano
 - Alienação de Solos
-- Ordenamento do Território
-- Secretaria Regional do Equipamento Social e Transportes
-- Medidas Preventivas
-- Plano de Urbanização
 - Funchal
 - Madeira.região Autónoma
+- Medidas Preventivas
+- Ordenamento do Território
+- Plano de Urbanização
+- Secretaria Regional do Equipamento Social e Transportes
+- ZONA de Defesa e Controlo Urbano
 relationships:
 - type: amended_by
   target: pt:dre:548417:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:548417:por
+  label: "Prorrogada por um ano a vigência das medidas preventivas estabelecidas no nº 1 do art. 1.º do presente diploma,\
+    \ pelo DRR.18/2005/M.30.03.2005.PG-RAM, DR.IS-B [76] de 19.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2005-548417
+  date: '2005-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
   label: null
@@ -91,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:04Z'
   warnings: []
   errors: []
 ---
@@ -169,10 +195,10 @@ Aprovado em reunião do Conselho do Governo Regional em 6 de Fevereiro de 2003.
 
 Pelo Presidente do Governo Regional, João Carlos Cunha e Silva, Vice-Presidente.
 
-**Assinado em 19 de Fevereiro de 2003.**
+Assinado em 19 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/03/061b00/17941795.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/7/1993/07/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/7-1993-390665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f85e82bd9c0b6214391a3f3792b6107a2353438df22da38fcd0ac8057236335
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dba5427e7801b15475e89d9bc2b5bb477a14a9582ff917560a4422f15e0861e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Encargo do Estado
+- Financiamento
+- Madeira.região Autónoma
 - Manual Escolar
 - Preço
 - Preço de Venda
-- Madeira.região Autónoma
 - Publicação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:36Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +106,7 @@ Esses benefícios, no entanto, não contemplam o pagamento de portes aéreos e f
 
 Importa, por isso, corrigir esta desigualdade, pelo que, nos termos da alínea f) do n.º 1 do artigo 229.º da Constituição da República, a Assembleia Legislativa Regional aprova, para servir de proposta de lei à Assembleia da República, o seguinte:
 
-###### Artigo 1.º O Estado suportará os encargos totais correspondentes à expedição, por via aérea e marítima, dos livros, revistas e jornais de natureza pedagógica, técnica, científica, literária e recreativa:
+Artigo 1.º O Estado suportará os encargos totais correspondentes à expedição, por via aérea e marítima, dos livros, revistas e jornais de natureza pedagógica, técnica, científica, literária e recreativa:
 
 a) Entre o continente português e a Região Autónoma da Madeira;
 
@@ -114,10 +114,10 @@ b) Entre a Região Autónoma da Madeira e o continente português;
 
 c) Entre as Regiões Autónomas.
 
-###### Art. 2.º O disposto no artigo anterior será regulamentado pelo Governo da República.
+Art. 2.º O disposto no artigo anterior será regulamentado pelo Governo da República.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da publicação da respectiva regulamentação, sem prejuízo do disposto no n.º 2 do artigo 170.º da Constituição.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da publicação da respectiva regulamentação, sem prejuízo do disposto no n.º 2 do artigo 170.º da Constituição.
 
 Aprovada em sessão plenária da Assembleia Legislativa Regional da Madeira em 9 de Junho de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19800/0011900125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/2024/10/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-890674844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea50dffee45147e2436902389da162a322faf5a0290d3b22c6a49fe75f65ca8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c6b8789a7cc79fa816f3583c42922f0d4a15fdd4b9f805e741afb3beca1d401
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Definição de Competências
+- Direção Regional do Ambiente e Mar
+- Diretor Regional
+- Madeira.região Autónoma
+- Orgânica
 - Pessoal Dirigente
 - Secretaria Regional da Agricultura Pescas e Ambiente
-- Definição de Competências
-- Diretor Regional
-- Orgânica
-- Madeira.região Autónoma
-- Direção Regional do Ambiente e Mar
 relationships:
 - type: amended_by
   target: pt:dre:1149265701:por
@@ -117,16 +117,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130829773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133509561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:871763927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885361661:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1149265701:por
+  label: Revogado, a partir de 21 de julho de 2026, o presente diploma, pelo(a) Decreto Regulamentar Regional n.º 14/2026/M
+    - Diário da República n.º 138/2026, Série I de 2026-07-20, nos termos do seu artigo 11.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2026-1149265701
+  date: '2026-07-19'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:25/2020/M
+  label: Revoga, a partir de 12 de outubro de 2024, nos termos do artigo 10.º do presente diploma, o Decreto Regulamentar
+    Regional n.º 25/2020/M, de 30 de março, Diário da República n.º 63/2020, Série I
+  source: null
+  date: '2020-03-30'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:32/2020/M
+  label: Revoga, a partir de 12 de outubro de 2024, nos termos da alínea b) do n.º 1 do artigo 10.º do presente diploma, o
+    Decreto Regulamentar Regional n.º 32/2020/M, de 13 de maio, Diário da República n.º 93/2020, Série I
+  source: null
+  date: '2020-05-13'
 article_structure:
   article_count: 11
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:45Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +209,7 @@ O presente diploma reflete a nova orientação do Governo Regional de manter uni
 
 Assim, a estrutura da Direção Regional do Ambiente e Mar, além de respeitar os princípios e normas a que deve obedecer a organização da administração direta da Região Autónoma da Madeira, vertidos no [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, na sua atual redação, adequa-se também à nova orgânica da Secretaria Regional de Agricultura, Pescas e Ambiente.
 
-Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, e dos artigos 13.º, 20.º e 25.º do [Decreto Regulamentar Regional n.º 16/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2024-885361661), de 23 de agosto, o Governo Regional da Madeira decreta o seguinte:
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, e dos artigos 13.º, 20.º e 25.º do [Decreto Regulamentar Regional n.º 16/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2024-885361661), de 23 de agosto, o Governo Regional da Madeira decreta o seguinte:
 
 ### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E ÓRGÃOS
 
@@ -305,7 +371,7 @@ c) O Despacho n.º 264/2022, de 8 de julho, publicado no Jornal Oficial da Regi�
 
 d) O Despacho n.º 402/2020, de 19 de outubro, publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 195, de 19 de outubro de 2020.
 
-2 - Até à entrada em vigor dos diplomas que aprovam a organização interna referida no artigo 6.º, mantêm-se em vigor as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas previstas nas portarias e despachos indicados no número anterior a que se referem os n.<sup>os</sup>4 e 6 do artigo 20.º do [Decreto Regulamentar Regional n.º 16/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2024-885361661), de 23 de agosto.
+2 - Até à entrada em vigor dos diplomas que aprovam a organização interna referida no artigo 6.º, mantêm-se em vigor as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas previstas nas portarias e despachos indicados no número anterior a que se referem os n.os4 e 6 do artigo 20.º do [Decreto Regulamentar Regional n.º 16/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2024-885361661), de 23 de agosto.
 
 3 - Nos termos do artigo 23.º do [Decreto Regulamentar Regional n.º 16/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2024-885361661), de 23 de agosto, mantêm-se os procedimentos de recrutamento de pessoal em curso à data da entrada em vigor do presente diploma, os quais se reportam aos serviços a que respeitam os postos de trabalho correspondentes.
 
@@ -325,11 +391,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 26 de setembro de 2024.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 9 de outubro de 2024.**
+Assinado em 9 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -341,3 +407,7 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 | --- | --- |
 | Cargos de direção superior de 1.º grau | 1 |
 | Cargos de direção intermédia de 1.º grau | 5 |
+
+118212278
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl5 { text-align:center; } .Tbl6 { min-height:18px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

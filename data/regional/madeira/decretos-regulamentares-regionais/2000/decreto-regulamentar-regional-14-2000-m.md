@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2000/03/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 427856a7b695a8881c6976ab3a1497fbc367ffb6744baff4bc91d418f3b5fa75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 982bae5f10980d1025ede5f2d12055610c8d2500111a9af12d72aaed6d6b2838
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Criação de Lugares
 - Definição de Competências
 - Direcção Regional das Comunidades Europeias e da Cooperação Externa
 - Extinção de Lugares
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Chefia
-- Madeira.região Autónoma
 - Quadro de Pessoal
 - Reestruturação de Carreiras
+- Reestruturação de Serviços
 - Secretaria Regional da Economia e Cooperação Externa
 relationships:
 - type: cites
@@ -106,16 +106,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/181/1999/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/181/1999/03/19/p/dre
+- type: cites
+  target: pt:dre:145647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:28Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +170,9 @@ Os artigos 3.º, 10.º e 11.º do [Decreto Regulamentar Regional n.º 10/97/M](h
 
 Órgãos e serviços
 
-#### SECÇÃO I — Artigo 3.º
+SECÇÃO I
+
+Artigo 3.º
 
 Estrutura
 
@@ -162,9 +192,13 @@ f) ...
 
 g) Departamento dos Serviços Administrativos e de Arquivo.
 
-#### SECÇÃO VIII — Departamento dos Serviços Administrativos e de Arquivo
+SECÇÃO VIII
 
-###### Artigo 10.º — Natureza e estrutura
+Departamento dos Serviços Administrativos e de Arquivo
+
+Artigo 10.º
+
+Natureza e estrutura
 
 1 - O Departamento dos Serviços Administrativos e de Arquivo, abreviadamente designado por DSAA, é o serviço de apoio administrativo e logístico da DRCE e funciona na directa dependência do director regional.
 
@@ -180,7 +214,9 @@ d) Secção de Arquivo;
 
 e) Secção de Contabilidade e Património.
 
-###### Artigo 11.º — Competências
+Artigo 11.º
+
+Competências
 
 Ao DSAA compete:
 
@@ -234,11 +270,11 @@ Aprovado em Conselho do Governo Regional em 10 de Fevereiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 29 de Fevereiro de 2000.**
+Assinado em 29 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA ANEXO A QUE SE REFERE O ARTIGO 5.º
 

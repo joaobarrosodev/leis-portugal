@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/09500/0257102578.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2012/05/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2012-552039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e4f021428c362ce6b42cb504fb776d981ea3f5b197cac38490938c1c6517072
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b77f590faa1705947d6f9ad49b900e1204c49238a9b5d94a855044ef65fed53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Conselho Regional de Educação e Formação Profissional
-- Definição de Competências
-- Direcção Regional da Juventude
-- Direcção Regional do Trabalho
-- Direção Regional dos Recursos Humanos e da Administração Educativa
-- Gabinete Governamental
-- Secretaria Regional da Educação e Recursos Humanos
-- Secretário Regional da Educação e Recursos Humanos
-- Integração de Serviços
-- Integração de Trabalhadores
-- Conselho Desportivo da Região Autónoma da Madeira
-- Direcção Regional de Educação
-- Orgânica
-- Madeira.região Autónoma
-- Regime de Pessoal
-- Direcção Regional de Qualificação Profissional
 - Conselho da Juventude
 - Conselho da Secretaria Regional da Educação e Recursos Humanos
+- Conselho Desportivo da Região Autónoma da Madeira
+- Conselho Regional de Educação e Formação Profissional
+- Definição de Competências
 - Direção Regional da Juventude e Desporto
 - Direção Regional de Planeamento Recursos e Infraestruturas
+- Direção Regional dos Recursos Humanos e da Administração Educativa
+- Direcção Regional da Juventude
+- Direcção Regional de Educação
+- Direcção Regional de Qualificação Profissional
+- Direcção Regional do Trabalho
+- Gabinete Governamental
 - Inspecção Regional do Trabalho
+- Integração de Serviços
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Reestruturação de Serviços
+- Regime de Pessoal
+- Secretaria Regional da Educação e Recursos Humanos
 - Secretário Regional
+- Secretário Regional da Educação e Recursos Humanos
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:70980180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178846:por
+  label: "Determinado que o pessoal da DRQP constante da Port 157/2008, de 12-set, integra o sistema centralizado de gestão\
+    \ previsto no presente diploma, pelo DRR.9/2012/M.21.06.2012.PG-RAM, DR.IS [119] de 21.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2012-178846
+  date: '2012-06-21'
+- type: amended_by
+  target: pt:dre:503841:por
+  label: "Dada nova redação aos arts. 3.º, 13.º e 14.º da orgânica da Secretaria Regional da Educação e Recursos Humanos,\
+    \ constante do Anexo I e ao Anexo III (mapa de pessoal dirigente) pelo DRR.14/2013/M.22.11.2013.PG-RAM, DR.IS [227] de\
+    \ 22.11.2013, que procedeu à republicação dos anexos I, II e III deste diploma, na redação atual\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2013-503841
+  date: '2013-11-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/276/2007/07/31/p/dre
   label: null
@@ -135,16 +148,139 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661768:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:179558:por
+  label: "Retificado o art. 29º, pela DECL-RECT.34/2012.10.07.2012.PCM, DR.IS [132] de 10.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/34-2012-179558
+  date: '2012-07-10'
+- type: repealed_by
+  target: pt:dre:70980180:por
+  label: Revogado (a partir de 12.11.2015) o presente decreto regulamentar regional (na redação do DRR 14/2013/M de 22-nov),
+    pelo(a) Decreto Regulamentar Regional n.º 20/2015/M - Diário da República n.º 221/2015, Série I de 2015-11-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2015-70980180
+  date: '2015-11-11'
 article_structure:
-  article_count: 32
+  article_count: 33
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:48Z'
   warnings: []
   errors: []
 ---
@@ -177,11 +313,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 13 de abril de 2012.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 7 de maio de 2012.**
+Assinado em 7 de maio de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -663,7 +799,9 @@ i) Coordenar a organização de sessões, conferências, exposições, congresso
 
 4 - Os atuais trabalhadores que se encontrem a cumprir período experimental ingressam, findos os mesmos e se nele ficarem aprovados, nas categorias e nos mapas em vigor à data da ocupação do lugar.
 
-### CAPÍTULO VI — Artigo 29.º
+### CAPÍTULO VI
+
+###### Artigo 29.º
 
 Referências Legais
 
@@ -677,10 +815,10 @@ Até à publicação integral dos diplomas a que se refere o n.º 2 do artigo 5.
 
 (a que se refere o n.º 1 do artigo 27.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/09500/0257102578.pdf))](https://files.diariodarepublica.pt/1s/2012/05/09500/0257102578.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/09500/0257102578.pdf)
 
 ## ANEXO III — Cargos de direção intermédia
 
 (a que se refere o n.º 2 do artigo 27.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/09500/0257102578.pdf))](https://files.diariodarepublica.pt/1s/2012/05/09500/0257102578.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/09500/0257102578.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resol/4/2002/12/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-2002-405906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:49:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3b1491cdf22a3597d85bcbe943f74320514fdbc01fcb7e513724913c686c5f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2e066ba0f966470cfb9042532fc28ef60e6ed8d795ebedea9d9a7f118f75352
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:49:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Câmara de Lobos
-- Ordenamento do Território
-- Plano Director Municipal
-- Património Cultural
-- Política de Solos
 - Madeira.região Autónoma
+- Ordenamento do Território
+- Património Cultural
+- Plano Director Municipal
+- Política de Solos
 - Regulamento
 relationships:
 - type: cites
@@ -105,16 +105,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/43/2000/12/12/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/43/2000/12/12/m/dre
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692199:por
+  label: null
+  source: null
 article_structure:
   article_count: 70
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:49:25Z'
   warnings: []
   errors: []
 ---
@@ -1267,8 +1319,8 @@ O presente Regulamento entra em vigor no dia imediato ao da sua publicação.
 
 Planta de ordenamento
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/12/291b00/78827893.pdf)
+[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/12/291b00/78827893.pdf)](https://files.diariodarepublica.pt/1s/2002/12/291b00/78827893.pdf)
 
 Planta de condicionantes
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/12/291b00/78827893.pdf)
+[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/12/291b00/78827893.pdf)](https://files.diariodarepublica.pt/1s/2002/12/291b00/78827893.pdf)

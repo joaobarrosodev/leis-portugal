@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/1997/09/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1997-654160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f5e6ad90c7ddb5fe2983607ab30cedb72a5158536bae348bd2f91fabb739e91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81f94497d7e9dff24285f453694c96b0727d49ca5c9f07bbfa444f54fee652b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Criação de Lugares
 - Carreira Profissional
+- Criação de Lugares
 - Inspecção Regional das Actividades Económicas
 - Integração de Trabalhadores
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Inspecção
-- Madeira.região Autónoma
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:175343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515254:por
+  label: "Alterados os arts. 6º e 10º e aditado o art. 31º-A ao cap. V do DRR 2/96/M de 24-Fev, na redacção dada pelo presente\
+    \ diploma, pelo DRR.19/2000/M.2000.02.29.PG-RAM,DR.IS-B [69] de 24/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2000-515254
+  date: '2000-02-29'
+- type: amended_by
+  target: pt:dre:348479:por
+  label: "Alterados os arts 1º. 6º (na redacção também do DRR 19/2000/M, de 22-Mar), 8º, 10º (este último também na redacção\
+    \ do DRR 2/96/M, de 30-Jan, na redacção do presente diploma, pelo DRR 12/2001/M, de 19-Jun, DR.IS-B[156] de 7-Jul pelo\
+    \ DRR.12/2001/M.2001.06.19.PG-RAM, DR.IS-B [156] de 07/Jul/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2001-348479
+  date: '2001-06-19'
+- type: amended_by
+  target: pt:dre:635211:por
+  label: "Alterados os arts. 6º, 9º, 13º a 21º, 24º e 26º, alterada a designação dos arts. 26º-B e 30º, aditado um artº 28º,\
+    \ revogado os arts. 26º-A, 27º, 28º, 29º, 30º, 31º, e 32º , alterados e substituidos os quadros de pessoal e republicado\
+    \ em anexo o DRR 2/96/M de 24-Fev, alterado pelo presente diploma, pelo DRR.15/2002/M.2002.08.23.PG-RAM, DR.IS-B[216]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2002-635211
+  date: '2002-08-23'
+- type: amended_by
+  target: pt:dre:517846:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, dos arts. 1º e 2.º do DRR 15/2002/M, de 18-Set,\
+    \ enquanto alteram os arts. 11º, 13º a 21º, 24º e 26º da orgânica da Inspecção Regional das Actividades Económicas, aprovada\
+    \ pelo DRR 2/96/M de 22-Set, com as alterações introduzidas pelo presente decreto, bem como é declarada a inconstitucionalidade\
+    \ com força obrigatória geral do nº 1 do art. 3º, pelo AC.18/2007.16.01.2007.TCS, DR.IS [36] de 20.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/18-2007-517846
+  date: '2007-01-16'
+- type: amended_by
+  target: pt:dre:248005:por
+  label: "Alterados os arts. 11º, 15º, 17º, 20º e 26º da orgânica da Inspecção Regional das Actividades Económicas aprovada\
+    \ pelo DRR 2/96/M de 24-Fev , na redacção do presente diploma, pelo DLR.5/2008/M.19.02.2008.AL-RAM, DR.IS [35] de 19.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2008-248005
+  date: '2008-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/269-a/1995/10/19/p/dre
   label: null
@@ -94,16 +130,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:325117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175343:por
+  label: "Revogado, sem prejuízo do nº2 do art. 2º, o DRR 2/96/M, de 24-Fev , na redação do presente diploma, dos DRR 19/2000/M,\
+    \ de 22-mar, 12/2001/M, de 07-jul, 15/2002/M, de 18-set e do DLR 5/2008, de 19-fev, pelo DRR.19/2012/M.22.08.2012.PG-RAM,\
+    \ DR.IS [162] de 22.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2012-175343
+  date: '2012-08-22'
 article_structure:
-  article_count: 16
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:09Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +201,9 @@ Os artigos 1.º, 2.º, 6.º, 8.º a 11.º, 15.º, 17.º, 20.º e 26.º a 30.º d
 
 4 - (O n.º 3.)
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 São atribuições da IRAE:
 
@@ -160,7 +225,9 @@ h) ...
 
 i) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A IRAE compreende os seguintes órgãos e serviços:
 
@@ -172,7 +239,9 @@ c) Divisão Técnica;
 
 d) Serviços Administrativos.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - À Divisão de Inspecção compete:
 
@@ -192,7 +261,9 @@ g) ...
 
 2 - A Divisão de Inspecção é dirigida por um chefe de divisão, nomeado pelo secretário regional da tutela, sob proposta do inspector regional.
 
-###### Artigo 9.º — Divisão técnica
+Artigo 9.º
+
+Divisão técnica
 
 1 - A Divisão Técnica é um órgão de apoio técnico aos serviços da IRAE, à qual compete:
 
@@ -214,7 +285,9 @@ h) Organizar e difundir a legislação, bem como toda a documentação técnica 
 
 2 - A Divisão Técnica é dirigida por um chefe de divisão, nomeado pelo secretário regional da tutela, sob proposta do inspector regional.
 
-###### Artigo 10.º — Serviços Administrativos
+Artigo 10.º
+
+Serviços Administrativos
 
 1 - Aos Serviços Administrativos compete promover os procedimentos relacionados com o expediente geral e arquivo, bem como os relativos aos processos instaurados pela IRAE no âmbito das suas competências inspectivas, para além de outras acções de carácter administrativo indispensáveis ao normal funcionamento dos Serviços.
 
@@ -224,17 +297,23 @@ a) Secção de Expediente Geral;
 
 b) Secção de Processos.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O quadro do pessoal dirigente, técnico superior, de inspecção superior, de inspecção, administrativo e auxiliar da IRAE é o que consta dos mapas do anexo I ao presente diploma, que deste faz parte integrante.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
 2 - A carreira de inspecção desenvolve-se pelas categorias de inspector técnico especialista, inspector técnico principal, inspector técnico de 1.ª classe, subinspector-chefe, subinspector e agente.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +329,9 @@ d) Subinspector-chefe, mediante concurso com prova de conhecimentos e avaliaçã
 
 e) Subinspector, mediante concurso com prova de conhecimentos e avaliação curricular, de entre agentes com pelo menos três anos de serviço na respectiva categoria classificados de Muito bom ou cinco anos classificados, no mínimo, de Bom.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -280,27 +361,37 @@ f) Utilizar e zelar pela segurança e conservação dos meios técnicos e instru
 
 g) Conduzir, se necessário, viaturas no desempenho das suas funções.
 
-###### Artigo 26.º — Transição do pessoal de inspecção
+Artigo 26.º
+
+Transição do pessoal de inspecção
 
 1 - O pessoal de inspecção actualmente provido na categoria de agente principal transita para a categoria de subinspector, sendo a sua integração feita em escalão correspondente ao da categoria anterior, considerando a escala indiciária definida no mapa II do anexo I ao presente diploma ou, caso não se verifique correspondência de índice, em escalão a que corresponda o índice superior mais aproximado na estrutura da categoria para que se processa a transição.
 
 2 - Ao pessoal transitado nos termos do número anterior é contado, para todos os efeitos legais, incluindo a progressão e a promoção na carreira respectiva, o tempo de serviço prestado na categoria de que transitam.
 
-###### Artigo 27.º — Transição de pessoal técnico superior
+Artigo 27.º
+
+Transição de pessoal técnico superior
 
 1 - O pessoal técnico superior que se encontre a exercer funções dirigentes com competência inspectiva na IRAE pode transitar para a carreira de inspecção superior, desde que o requeira no prazo de 90 dias a contar da data de entrada em vigor do presente diploma.
 
 2 - A transição faz-se para categoria equivalente e no mesmo escalão, contando-se para todos os efeitos o tempo de serviço prestado na categoria de que transitam.
 
-###### Artigo 28.º — Mapa de equivalências
+Artigo 28.º
+
+Mapa de equivalências
 
 A transição de pessoal ao abrigo do disposto nos artigos anteriores opera-se de acordo com o mapa I do anexo II ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 29.º — Equiparação
+Artigo 29.º
+
+Equiparação
 
 A categoria de subinspector-chefe a que se refere o n.º 2 do artigo 15.º é, para todos os efeitos, designadamente do [Decreto-Lei n.º 85/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1985-325117), de 1 de Abril, equiparada a inspector-técnico de 2.ª classe.
 
-###### Artigo 30.º — Aposentação
+Artigo 30.º
+
+Aposentação
 
 Ao pessoal das carreiras de inspecção superior e de inspecção, bem como ao pessoal dirigente, é aplicável o disposto no artigo 38.º do [Decreto-Lei n.º 269-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-a-1995-473971), de 19 de Outubro, quanto ao regime de aposentação nele previsto.»
 
@@ -312,24 +403,24 @@ Aprovado em Conselho do Governo Regional em 31 de Julho de 1997.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
 
-**Assinado em 25 de Agosto de 1997.**
+Assinado em 25 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ## ANEXO I — (a que se refere o artigo 11.º)
 
 Mapa I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/219b00/52155219.pdf))](https://files.diariodarepublica.pt/1s/1997/09/219b00/52155219.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/219b00/52155219.pdf)
 
 Mapa II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/219b00/52155219.pdf))](https://files.diariodarepublica.pt/1s/1997/09/219b00/52155219.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/219b00/52155219.pdf)
 
 ## ANEXO II — (a que se refere ao artigo 28.º)
 
 Mapa I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/219b00/52155219.pdf))](https://files.diariodarepublica.pt/1s/1997/09/219b00/52155219.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/219b00/52155219.pdf)

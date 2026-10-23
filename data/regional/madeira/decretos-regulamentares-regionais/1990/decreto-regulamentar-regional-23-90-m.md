@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1990-563589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50e597ed3b82dc1268b9b281c5e78a623e13326ce36a64a2c8a45d37067cada9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6758f0d96483dce32cab92fb89c5faf9524d82e1193ef039de871145e53c6f38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração de Portos
+- Direcção Regional de Portos
+- Madeira.região Autónoma
+- Operador Portuário
+- Regime Jurídico
+- Trabalho Portuário
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571408:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:14Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +146,9 @@ Nos portos da Região Autónoma da Madeira, a admissão de trabalhadores portuá
 
 3 - Será considerada nula e de nenhum efeito qualquer inscrição de trabalhador portuário admitido com violação das condições fixadas no artigo anterior, bem como a que não conste do RORTPI.
 
-###### Artigo 7.º — Título de qualificação profissional
+###### Artigo 7.º
+
+## Título de qualificação profissional
 
 O título de qualificação profissional dos trabalhadores portuários dos portos da Região Autónoma será visado pelo OGMOP em termos a definir por portaria do Secretário Regional da Administração Pública.
 
@@ -234,7 +250,9 @@ a) Fiscalizar a sua actuação, nos termos do artigo 36.º do [Decreto-Lei n.º 
 
 b) Emitir parecer sobre o projecto de estatutos.
 
-###### Artigo 18.º — Secção especializada
+###### Artigo 18.º
+
+#### Secção especializada
 
 1 - Junto da Direcção Regional de Portos, no âmbito da autoridade portuária, funcionará uma secção especializada, constituída por um representante da autoridade portuária, que presidirá, um representante dos operadores e um representante dos sindicatos.
 
@@ -282,10 +300,10 @@ O presente diploma produz efeitos 30 dias após a sua publicação.
 
 Aprovado em Conselho do Governo Regional em 15 de Novembro de 1990.
 
-**O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.**
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
 
-**Assinado em 10 de Dezembro de 1990.**
+Assinado em 10 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2000/03/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06d6a971868d534aad9725589b7f1c7e71ddb3708bdbdda2933e94ce8a2788e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e65affedc1789b898bbb26261ec8fa1f28b1bfa46a31f59beb7c866185ca6cd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Criação de Lugares
 - Definição de Competências
 - Extinção de Lugares
-- Secretaria Regional dos Assuntos Sociais e Parlamentares
+- Madeira.região Autónoma
 - Orgânica
 - Pessoal de Chefia
-- Madeira.região Autónoma
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Reestruturação de Carreiras
+- Reestruturação de Serviços
+- Secretaria Regional dos Assuntos Sociais e Parlamentares
 relationships:
 - type: amended_by
   target: pt:dre:167377:por
@@ -109,16 +109,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/324/1994/05/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/324/1994/05/27/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509787:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:184046:por
+  label: "Rectificado pela DECL-RECT.5-L/2000.2000.03.28.PCM, DR.IS-B [77]3ºSUPL de 31/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-l-2000-184046
+  date: '2000-03-28'
+- type: repealed_by
+  target: pt:dre:167377:por
+  label: "Revogado pelo DRR.4/2003/M.2003.01.06.PG-RAM DR.IS-B [27] DE 01/FEV/2003, mantendo transitoriamente em vigor as\
+    \ disposições relativas ás direcções regionais centros regionais, Gabinete para a Qualidade e Investigação e Serviço Regional\
+    \ de Saúde\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2003-167377
+  date: '2003-01-06'
 article_structure:
-  article_count: 14
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:28Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +201,9 @@ f) Gabinete de Avaliação e Desenvolvimento de Recursos.
 
 1.2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A Direcção de Serviços Técnicos e de Administração, adiante abreviadamente designada por DSTA, é um órgão com funções de coordenação, estudo e apoio técnico nas áreas de administração e assuntos jurídicos, ao qual compete:
 
@@ -189,7 +231,9 @@ b) Divisão de Coordenação Administrativa.
 
 6 - A Divisão de Coordenação Administrativa será dirigida por um chefe de divisão, cuja nomeação poderá fazer-se, mediante concurso, de entre chefes de departamento, conforme as regras estabelecidas no artigo 18.º, n.º 3, do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.
 
-###### Artigo 15.º — Gabinete de Documentação, Estudos e Planeamento
+Artigo 15.º
+
+Gabinete de Documentação, Estudos e Planeamento
 
 1 - O Gabinete de Documentação, Estudos e Planeamento é o órgão de apoio técnico ao Secretário Regional para as seguintes áreas:
 
@@ -209,7 +253,9 @@ b) O Departamento de Apoio Administrativo e Documentação, ao qual compete asse
 
 4 - O Departamento de Apoio Administrativo e Documentação integra a Secção de Informação e Documentação, à qual compete a execução da recolha, selecção, compilação e divulgação de textos legislativos e regulamentares e publicações normativas e bibliográficas.
 
-###### Artigo 16.º — Gabinete para a Qualidade e Investigação
+Artigo 16.º
+
+Gabinete para a Qualidade e Investigação
 
 1 - O Gabinete para a Qualidade e Investigação é o órgão de apoio técnico ao Secretário Regional para as seguintes áreas:
 
@@ -237,7 +283,9 @@ c) Dar apoio no âmbito das convenções com prestadores privados de saúde.
 
 3 - O Departamento de Apoio Técnico-Administrativo integra a Secção de Expediente, à qual compete a execução de registos informáticos dos programas de saúde, expediente e arquivo internos do Gabinete.
 
-###### Artigo 17.º — Gabinete de Avaliação e Desenvolvimento de Recursos
+Artigo 17.º
+
+Gabinete de Avaliação e Desenvolvimento de Recursos
 
 1 - O Gabinete de Avaliação e Desenvolvimento de Recursos é o órgão de apoio técnico ao Secretário Regional para as seguintes áreas:
 
@@ -257,7 +305,9 @@ a) Departamento de Coordenação Orçamental, ao qual compete a coordenação do
 
 b) Secção de Cursos de Formação, à qual compete proceder à execução administrativa das acções de formação da SRAS e assegurar o expediente e arquivo internos do Gabinete.
 
-###### Artigo 18.º — Directores dos gabinetes
+Artigo 18.º
+
+Directores dos gabinetes
 
 1 - Os gabinetes a que se referem os artigos anteriores serão dirigidos por um director, a nomear, em comissão de serviço, por três anos, por despacho do Secretário Regional dos Assuntos Sociais e Parlamentares, de entre licenciados com formação adequada.
 
@@ -265,7 +315,9 @@ b) Secção de Cursos de Formação, à qual compete proceder à execução admi
 
 3 - ...
 
-###### Artigo 19.º — Gestão dos programas de saúde
+Artigo 19.º
+
+Gestão dos programas de saúde
 
 Os responsáveis pelos programas de saúde coordenados no âmbito do Gabinete para a Qualidade e Investigação e respectivos projectos auferirão um suplemento no valor de 20% ou 30% sobre o vencimento base da categoria de assistente da carreira médica hospitalar, escalão 1, em regime de tempo completo, com dedicação exclusiva, durante o respectivo período de execução, a definir por despacho do Secretário Regional, de acordo com a importância, dimensão, duração e características do programa ou projecto.»
 
@@ -295,7 +347,9 @@ e) Coordenar todo o processo de gestão de pessoal.
 
 4 - O Serviço de Gestão de Pessoal será dirigido por um funcionário da carreira de coordenador.
 
-###### Artigo 14.º-B — Departamento de Assuntos Gerais e Coordenação
+Artigo 14.º-B
+
+Departamento de Assuntos Gerais e Coordenação
 
 1 - O Departamento de Assuntos Gerais e Coordenação é o órgão de apoio e execução administrativa da DSTA para as áreas de registo, arquivo geral e expediente e para a área da coordenação da DSTA com o Gabinete e demais serviços na dependência do Secretário Regional.
 
@@ -329,7 +383,9 @@ e) Pessoal auxiliar.
 
 4 - O recrutamento para as categorias de coordenador especialista e de coordenador far-se-á, respectivamente, de entre coordenadores com três anos na respectiva categoria e de entre chefes de secção com comprovada experiência na área administrativa.
 
-###### Artigo 25.º-B — Transição dos chefes de repartição
+Artigo 25.º-B
+
+Transição dos chefes de repartição
 
 1 - São criados no quadro de pessoal da Secretaria Regional dos Assuntos Sociais e Parlamentares cinco lugares de chefe de departamento, a extinguir quando vagarem.
 
@@ -347,7 +403,9 @@ e) Pessoal auxiliar.
 
 8 - O disposto no presente artigo não prejudica a faculdade de os chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
-###### Artigo 25.º-C — Transição para a carreira de coordenador
+Artigo 25.º-C
+
+Transição para a carreira de coordenador
 
 1 - Os chefes de secção actualmente afectos à DSTA nas áreas de pessoal e expediente e arquivo transitam, independentemente de quaisquer formalidades, para a carreira de coordenador.
 
@@ -365,8 +423,8 @@ Aprovado em Conselho do Governo Regional em 27 de Janeiro de 2000.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
 
-**Assinado em 17 de Fevereiro de 2000.**
+Assinado em 17 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

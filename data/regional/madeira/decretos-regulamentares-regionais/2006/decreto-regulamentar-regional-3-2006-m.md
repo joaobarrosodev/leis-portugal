@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2006/05/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2006-660321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95023f6c0482b7b653f1c2e0451a0c979d15f081c8ea2497f1aca244c4ce9afd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c127879b95ed015b6c8d7296885b13ef66ebf83b8e01768a9b4ee9f78c58880
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Regional da Administração Pública
+- Madeira.região Autónoma
 - Orgânica
+- Pessoal Dirigente
 - Porto Santo
 - Posto de Atendimento
-- Madeira.região Autónoma
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:444198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262079:por
+  label: "Alterado o art. 4º da orgânica aprovada pelo DRR 8/2004/M de 05-Abr, com a redacção conferida no presente diploma,\
+    \ pelo DRR.1/2007/M.13.12.2006.PG-RAM, DR.IS [5] de 08.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2007-262079
+  date: '2006-12-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/8/2004/04/05/m/dre
   label: null
@@ -95,16 +101,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:218312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:444198:por
+  label: "Revogado pelo DRR.23/2008/M.15.12.2008.PG-RAM, DR.IS [241] de 15.12.2008, que o manteve, contudo, transitoriamente\
+    \ em vigor, nos termos do nº 2 do art. 2º daquele diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2008-444198
+  date: '2008-12-15'
 article_structure:
-  article_count: 23
+  article_count: 18
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:20Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +163,9 @@ O [Decreto Regulamentar Regional n.º 8/2004/M](https://diariodarepublica.pt/dr/
 
 A Direcção Regional para a Administração Pública de Porto Santo, doravante designada abreviadamente por DRAPS, é o órgão do Governo Regional, dependente da Vice-Presidência, dotado de autonomia administrativa, ao qual cabe a superintendência e coordenação de todos os serviços do Governo Regional na ilha de Porto Santo, assim como a articulação entre estes serviços e os demais serviços do executivo regional.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -159,7 +189,9 @@ i) ...
 
 j) Promover as acções necessárias relativas ao aproveitamento, desenvolvimento e gestão dos recursos patrimoniais e financeiros e dos equipamentos afectos à DRAPS.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A DRAPS é dirigida pelo director regional para a Administração Pública de Porto Santo, adiante designado abreviadamente por director regional, cargo de direcção superior de 1.º grau, e compreende os seguintes serviços:
 
@@ -171,7 +203,9 @@ c) [Anterior alínea b)];
 
 d) A Direcção de Serviços de Gestão de Recursos e Manutenção (DSGRM).
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -207,7 +241,9 @@ o) [Anterior alínea n)].
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 A transição do pessoal para o novo quadro agora aprovado faz-se para a mesma carreira e categoria, com a entrada em vigor do presente diploma, independentemente de quaisquer formalidades.»
 
@@ -231,7 +267,9 @@ Posto de Atendimento ao Cidadão
 
 O Posto de Atendimento ao Cidadão (PAC) é um órgão dependente directamente do director regional que agrega um conjunto de serviços de atendimento da Administração Pública aos cidadãos.
 
-###### Artigo 6.º-A — Natureza, atribuições e competências
+Artigo 6.º-A
+
+Natureza, atribuições e competências
 
 1 - A DSGRM tem por missão assegurar a gestão dos equipamentos, instalações e pessoal necessário à gestão de recursos naturais afectos à DRAPS, nomeadamente ambientais, florestais, veterinários, agrícolas, pecuária e pesca, bem como a gestão dos recursos necessários à manutenção do património, equipamentos e infra-estruturas de domínio público.
 
@@ -265,9 +303,9 @@ Aprovado em Conselho do Governo Regional em 23 de Março de 2006.
 
 Pelo Presidente do Governo Regional, o Vice-Presidente, João Carlos Cunha e Silva.
 
-**Assinado em 11 de Abril de 2006.**
+Assinado em 11 de Abril de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -275,7 +313,7 @@ O Representante da República para a Região Autónoma da Madeira, Antero Alves 
 
 (a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/085b00/32233229.pdf))](https://files.diariodarepublica.pt/1s/2006/05/085b00/32233229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/085b00/32233229.pdf)
 
 ## ANEXO II — Orgânica da Direcção Regional para a Administração Pública de Porto Santo
 
@@ -501,4 +539,4 @@ Os encargos resultantes da aplicação do presente diploma são suportados por d
 
 (a que se refere o n.º 2 do artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/05/085b00/32233229.pdf))](https://files.diariodarepublica.pt/1s/2006/05/085b00/32233229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/085b00/32233229.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/2014/01/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2014-570715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:47:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1175d4b6bfd7b9ff36bd2502436d0253a59ac8481d880a33331ec4896b11739
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 611b331c500bcf60ad054ab4dbdc00a8141e2427315ab472f519164c7de31e27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects:
 - Aeroporto
 - ANAM
+- Aviação Civil
 - Definição de Competências
 - Espaço Aéreo
 - Licenciamento
-- Zona de Proteção
-- Regulamento Geral sobre o Ruido
 - Madeira.região Autónoma
-- Aviação Civil
+- Regulamento Geral sobre o Ruido
 - Servidão Aeronáutica
 - Servidão Legal
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2004/01/09/p/dre
@@ -97,16 +97,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:217922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:47:57Z'
   warnings: []
   errors: []
 ---
@@ -143,15 +183,15 @@ A área sujeita a servidão compreende as seguintes zonas:
 
 Zona 1 (ocupação) - compreende toda a área de terreno ou de água ocupada pelas infraestruturas que atualmente integram o aeroporto, bem como a área necessária ao respetivo desenvolvimento projetado, em conformidade com o disposto no Plano Diretor de Desenvolvimento, cujos limites são dados pela linha poligonal com vértice nos pontos com as coordenadas abaixo indicadas e toda a orla marítima compreendida entre os pontos 101 e 174.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Zona 2 (proteção da área de maior risco estatístico de acidente) - compreende toda a área de terreno ou de água que é, estatisticamente, de maior risco de acidente, cujos limites são dados pela linha poligonal com vértice nos pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Zona 3 (proteção de instrumentos radioelétricos de bordo) - compreende toda a área de terreno ou de água cujos limites são dados pela linha poligonal com vértice nos pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Zona 4 (proteção de aves) - compreende a área de terreno ou de água constituída por três sectores cujos limites são:
 
@@ -159,61 +199,61 @@ Zona 4 (proteção de aves) - compreende a área de terreno ou de água constitu
 
 - Sector B: envolvendo o sector A e limitado exteriormente em planta por dois arcos de circunferência de 2000 m de raio e respetivos segmentos tangentes. Os centros dos arcos de circunferência situam-se na intersecção do eixo da pista com o lado interior de cada um dos canais de aproximação e têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 - Sector C: envolvendo o sector B e limitado exteriormente em planta por dois arcos de circunferência de 4000 m de raio e respetivos segmentos tangentes. Os centros dos arcos de circunferência situam-se na intersecção do eixo da pista com o lado interior de cada um dos canais de aproximação e têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Zona 5 (proteção do ruído) - compreende a área de terreno ou de água necessária para proteção, cujos limites são dados pela linha poligonal com vértice nos pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Zona 6 (proteção de sistemas de telecomunicações, radioelétricos e radioajudas) - sem prejuízo das servidões específicas estabelecidas para as infraestruturas de apoio à navegação aérea, compreende a área de terreno ou de água necessária à segurança de voo e à segurança e operacionalidade aeroportuária destinada à adequada proteção de sistemas de vigilância, de telecomunicações, radioelétricos e de radioajudas, limitada em planta por dois arcos de circunferência de 2000 m de raio e respetivos segmentos tangentes. Os centros dos arcos de circunferência situam-se na intersecção do eixo da pista com o lado interior de cada um dos canais de aproximação e têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Zona 7 (canais operacionais) - compreende a área de terreno ou de água com diversos sectores delimitados por linhas poligonais com vértices nos pontos com as seguintes coordenadas:
 
 - Sector 7-A - Canal de Aproximação (Pista 05/ Primeira secção - inclinação 2 %)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 - Sector 7-B - Canal de Aproximação (Pista 05/ Segunda secção - inclinação 2,5 %)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 - Sector 7-C - Canal de Aproximação (Pista 05/ Secção horizontal)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 - Sector 7-D - Canal de Aproximação (Pista 23/ Primeira secção - inclinação 2 %)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 - Sector 7-E - Canal de Aproximação (Pista 23/ Secção horizontal)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 - Sector 7-F - Canal de Descolagem (Pista 05/ - inclinação 2 %)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 - Sector 7-G - Canal de Descolagem - (Pista 05 - inclinação 2 %)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 - Sector 7-H - Canal de Descolagem - (Pista 05 - inclinação 2 %)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 - Sector 7-I - Canal de Descolagem - (Pista 23 - inclinação 2 %)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 - Sector 7-J - Canal de Descolagem - (Pista 23 - inclinação 2 %)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Os limites laterais dos sectores correspondentes ao Canal de Descolagem da pista 23 são simétricos em relação à sua linha central que se desenvolve em arco com um raio de 9 246,799 metros, com centro no ponto de coordenadas:
 
@@ -223,35 +263,35 @@ Zona 8 (superfície de transição) - compreende a superfície de terreno ou de 
 
 - Sector 8-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 - Sector 8-B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Zona 9 (superfície horizontal interior) - compreende a superfície de terreno ou de água, situada à cota de 89,67 metros referidos ao Marégrafo do Porto do Funchal, e limitada externamente em planta por dois arcos de circunferência de 4000 m de raio, ligados pelo segmento tangente do lado nascente e no lado poente pelos segmentos que unem os pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Os centros dos arcos de circunferência situam-se na intersecção do eixo da pista com o lado interior de cada um dos canais de aproximação e têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Zona 10 (superfície cónica) - compreende a superfície de terreno ou de água confinante com as zonas 7 (sectores B, G e J), 8, 9 e 11, com uma inclinação de 5 %, delimitados exteriormente em planta por dois arcos de circunferência de 6000 m de raio, ligados pelo segmento tangente do lado nascente e, no lado poente, pelos segmentos que unem os pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Os centros dos arcos de circunferência situam-se na intersecção do eixo da pista com o lado interior de cada um dos canais de aproximação e têm as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Zona 11 (superfície horizontal exterior) - compreende a superfície de terreno ou de água, situada à cota de 189,67 metros referidos ao Marégrafo do Porto do Funchal, confinante com as zonas 7 (sectores B, C, E, G e J) e 10 e delimitada exteriormente em planta por um arco de circunferência de 15 000 m de raio, com centro no ponto de coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 O limite do lado poente é definido pelos segmentos que unem os pontos com as seguintes coordenadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 ###### Artigo 3.º
 
@@ -307,11 +347,11 @@ Sem prejuízo do disposto no artigo 3.º deste diploma, na Zona 7 ficam sujeitas
 
 Canal de aproximação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 Canal de descolagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
 
 ###### Artigo 11.º
 
@@ -431,12 +471,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo em 9 de janeiro de 2014.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 16 de janeiro de 2014.**
+Assinado em 16 de janeiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf))](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/02100/0074800755.pdf)

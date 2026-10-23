@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2001/10/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2001-621528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f780e7263f25e66b690d70a48b7663f3b7c8889543d52c27d397a18a203b43b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a22c07bc7751c54b1b60b476488d082beb92f21580e01b0226d7e6c2fb1f078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Direcção Regional de Planeamento e Recursos Educativos
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:449931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:548420:por
+  label: "Extinta a Divisão de Planeamento da rede escolar prevista no presente diploma, pelo DRR.14/2005/M.30.03.2005.PG-RAM,\
+    \ DR.IS-B [76] de 19.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2005-548420
+  date: '2005-03-30'
+- type: amended_by
+  target: pt:dre:449931:por
+  label: "Alterada a designação da Divisão Investimentos e Reordenamento da Rede Escolar (DIRRE), prevista no presente diploma,\
+    \ que passa a designar-se, Divisão de Planeamento e Apoio a Rede Escolar e transferida da dependência da Direcção de Serviços\
+    \ de Informação e Planeamento a Rede Escolar, extinta pelo DRR 14/2005/M de 30-Mar, para a dependência do director regional\
+    \ de Planeamento e Recursos Educativos, pelo DRR.12/2008/M.23.06.2008.PG-RAM, DR.IS [119] de 23.06.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2008-449931
+  date: '2008-06-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
   label: null
@@ -108,16 +122,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 27
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:45Z'
   warnings: []
   errors: []
 ---
@@ -146,13 +192,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 30 de Agosto de 2001.
 
-**O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.**
+O Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.
 
-**Assinado em 20 de Setembro de 2001.**
+Assinado em 20 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ORGÂNICA DA DIRECÇÃO REGIONAL DE PLANEAMENTO E RECURSOS EDUCATIVOS
 
@@ -214,7 +260,9 @@ j) Autorizar a colocação de trabalhadores ao abrigo dos programas ocupacionais
 
 ### CAPÍTULO II — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 3.º
+#### SECÇÃO I
+
+###### Artigo 3.º
 
 Estrutura
 
@@ -284,7 +332,9 @@ g) Elaborar estudos e emitir pareceres em matéria de natureza jurídica.
 
 6 - Na dependência do GAJF funcionam a Divisão de Apoio Jurídico (DAJ) e a Divisão de Apoio Financeiro (DAF).
 
-##### SUBSECÇÃO I — Divisão de Apoio Jurídico
+##### SUBSECÇÃO I
+
+##### Divisão de Apoio Jurídico
 
 ###### Artigo 6.º — Atribuições
 
@@ -300,7 +350,9 @@ d) Elaborar propostas de diplomas que se enquadrem na sua esfera de intervençã
 
 e) Prestar apoio jurídico nos procedimentos de aquisição de equipamentos e outros materiais.
 
-##### SUBSECÇÃO II — Divisão de Apoio Financeiro
+##### SUBSECÇÃO II
+
+##### Divisão de Apoio Financeiro
 
 ###### Artigo 7.º — Atribuições
 
@@ -342,7 +394,9 @@ g) Actualizar e garantir a execução do Plano de Reordenamento da Rede Regional
 
 2 - Na dependência do DSIPRE funcionam a Divisão de Informação e Estatística da Educação (DIEE), a Divisão de Planeamento da Rede Escolar (DPRE), a Divisão de Apoio a Estabelecimentos Locais e Particulares (DAELP) e a Divisão de Equipamento Escolar (DEE).
 
-##### SUBSECÇÃO I — Divisão de Informação e Estatística da Educação
+##### SUBSECÇÃO I
+
+##### Divisão de Informação e Estatística da Educação
 
 ###### Artigo 9.º — Atribuições
 
@@ -360,7 +414,9 @@ e) Elaborar estudos periódicos para o diagnóstico fundamentado da situação e
 
 f) Participar na elaboração do Plano de Reordenamento da Rede Regional Escolar.
 
-##### SUBSECÇÃO II — Divisão de Planeamento da Rede Escolar
+##### SUBSECÇÃO II
+
+##### Divisão de Planeamento da Rede Escolar
 
 ###### Artigo 10.º — Atribuições
 
@@ -376,7 +432,9 @@ d) Colaborar com os municípios e a SREST na execução dos planos de intervenç
 
 e) Colaborar com os municípios e a SREST na execução dos planos de intervenção e manutenção a efectuar nos equipamentos da sua responsabilidade.
 
-##### SUBSECÇÃO III — Divisão de Apoio a Estabelecimentos Locais e Particulares
+##### SUBSECÇÃO III
+
+##### Divisão de Apoio a Estabelecimentos Locais e Particulares
 
 ###### Artigo 11.º — Atribuições
 
@@ -388,7 +446,9 @@ b) Propor a atribuição de subsídios para apoio de iniciativas locais e partic
 
 c) Manter estreita ligação com os diversos departamentos e serviços da SRE, a fim de assegurar o funcionamento correcto dos estabelecimentos de iniciativa local e particulares nas áreas respectivas.
 
-##### SUBSECÇÃO IV — Divisão de Equipamentos Escolares
+##### SUBSECÇÃO IV
+
+##### Divisão de Equipamentos Escolares
 
 ###### Artigo 12.º — Atribuições
 
@@ -454,7 +514,9 @@ p) Elaborar e submeter à aprovação superior planos anuais e plurianuais de re
 
 6 - Na dependência da DSTSI funcionam a Divisão de Desenvolvimento (DD), a Divisão de Infra-Estruturas Tecnológicas (DIT), o Gabinete Coordenador dos Núcleos de Informação da SRE (GCNI), o Núcleo de Arquitectura de Informação (NAI) e o Núcleo Coordenador do Projecto da Rede Integrada (NCPRI).
 
-##### SUBSECÇÃO I — Divisão de Desenvolvimento
+##### SUBSECÇÃO I
+
+##### Divisão de Desenvolvimento
 
 ###### Artigo 14.º — Atribuições
 
@@ -484,7 +546,9 @@ g) Gerir os projectos informáticos durante o seu ciclo de desenvolvimento inter
 
 h) Promover a formação dos recursos afectos e a introdução de ferramentas e metodologias de desenvolvimento adequadas.
 
-##### SUBSECÇÃO II — Divisão de Infra-Estruturas Tecnológicas
+##### SUBSECÇÃO II
+
+##### Divisão de Infra-Estruturas Tecnológicas
 
 ###### Artigo 15.º — Atribuições
 

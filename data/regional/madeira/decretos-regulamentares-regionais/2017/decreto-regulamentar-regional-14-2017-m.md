@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/23800/0659306593.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2017/12/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2017-114344783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b834c82f29fc5f1bb6c19018a4213b1cc81b78be31ff007fd701c6d676420c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76e8e3d1613caa3c1f997123284bcc7d96d461d37d6b2e6bd48e6dfd41d08929
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Conselho Diretivo
 - Agência Regional de Energia e Ambiente
-- Orgânica
-- Madeira.região Autónoma
-- Secretaria Regional do Ambiente e dos Recursos Naturais
-- Tutela
-- Sector Empresarial Regional
+- Conselho Diretivo
+- Definição de Competências
 - Instituto das Florestas e Conservação da Natureza
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional do Ambiente e dos Recursos Naturais
+- Sector Empresarial Regional
+- Tutela
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/21/2016/05/13/m/dre
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105643550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74443081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:15Z'
   warnings: []
   errors: []
 ---
@@ -138,13 +162,17 @@ O presente decreto regulamentar procede à primeira alteração ao [Decreto Regu
 
 A SRA prossegue as suas atribuições através de serviços integrados na administração direta e indireta da Região Autónoma da Madeira, bem como de uma entidade integrada no setor empresarial público da mesma e define a orientação da participação pública da Região Autónoma da Madeira em Agências Regionais que atuem nos domínios sob a sua tutela.
 
-###### Artigo 7.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas
+Artigo 7.º
+
+Setor empresarial da Região Autónoma da Madeira e entidades tuteladas
 
 1 - (Anterior corpo do artigo.)
 
 2 - Compete à SRA definir a orientação da participação pública da Região Autónoma da Madeira na AREAM - Agência Regional da Energia e Ambiente da Região Autónoma da Madeira.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -158,22 +186,28 @@ A SRA prossegue as suas atribuições através de serviços integrados na admini
 
 Cargos de direção superior da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/23800/0659306593.pdf))](https://files.diariodarepublica.pt/1s/2017/12/23800/0659306593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/23800/0659306593.pdf)
 
-###### Artigo 3.º — Produção de efeitos
+Artigo 3.º
+
+Produção de efeitos
 
 As alterações efetuadas ao artigo 11.º e ao anexo II do [Decreto Regulamentar Regional n.º 8/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2015-69951100), de 5 de agosto, apenas produzem efeitos com a entrada em vigor do diploma que proceder à correspondente alteração do [Decreto Legislativo Regional n.º 21/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2016-74443081), de 13 de maio, alterado pelo [Decreto Legislativo Regional n.º 42/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2016-105643550), de 29 de dezembro.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 Sem prejuízo do disposto no artigo anterior, o presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 9 de novembro de 2017.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 21 de novembro de 2017.**
+Assinado em 21 de novembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+110976321

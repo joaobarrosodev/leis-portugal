@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/1993/06/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:45:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 164399ed461ce885b29f8086a94c1ea6be7f73931d5961a94ba77d5f71222fb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2d553695197722c89e1cd0caac82e5960a927a3ee830dcb2e0b9c9a15582e43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
 - Direcção Regional do Emprego e Formação Profissional
-- Secretaria Regional da Educação
-- Orgânica
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:517385:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, Dr.IS-B\
+    \ [64] de 1997.03.17\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1997-02-27'
+- type: amended_by
+  target: pt:dre:517385:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 17/Mar/19973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1997-517385
+  date: '1997-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/26/1992/11/11/m/dre
   label: null
@@ -92,16 +104,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:262123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 34
+  section_count: 50
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:45:35Z'
   warnings: []
   errors: []
 ---
@@ -122,19 +178,19 @@ Nestes termos:
 
 O Governo Regional da Região Autónoma da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, conjugados com a alínea d) do artigo 9.º do [Decreto Legislativo Regional n.º 26/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-668491), de 11 de Novembro, e do n.º 3 do artigo 4.º do [Decreto Regulamentar Regional n.º 2/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1993-584979), de 20 de Janeiro, o seguinte:
 
-###### Artigo 1.º É aprovada a Lei Orgânica da Direcção Regional de Emprego e Formação Profissional, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a Lei Orgânica da Direcção Regional de Emprego e Formação Profissional, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 29 de Abril de 1993.
 
 Pelo Presidente do Governo Regional, Manuel Jorge Bazenga Marques.
 
-**Assinado em 20 de Maio de 1993.**
+Assinado em 20 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Orgânica da Direcção Regional de Emprego e Formação Profissional
 
@@ -346,9 +402,13 @@ h) Elaborar o plano anual de formação em função das necessidades do mercado.
 
 2 - O CFPM é dirigido por um coordenador, equiparado, apenas para efeitos de vencimento, a director de serviços.
 
-##### SUBSECÇÃO II — Divisão de Aprendizagem
+##### SUBSECÇÃO II
 
-###### Artigo 11.º — Divisão de Aprendizagem
+##### Divisão de Aprendizagem
+
+###### Artigo 11.º
+
+##### Divisão de Aprendizagem
 
 À DA compete, designadamente:
 
@@ -366,9 +426,13 @@ f) Facultar à CRA a informação e o apoio técnico-administrativo e financeiro
 
 g) Assegurar, em articulação com o GIOP, acções de aconselhamento vocacional.
 
-##### SUBSECÇÃO III — Divisão de Análise Curricular
+##### SUBSECÇÃO III
 
-###### Artigo 12.º — Divisão de Análise Curricular
+##### Divisão de Análise Curricular
+
+###### Artigo 12.º
+
+##### Divisão de Análise Curricular
 
 À DAC compete, nomeadamente:
 
@@ -404,9 +468,13 @@ g) Coordenar todas as informações referentes a formação profissional na Regi
 
 2 - Na dependência da DSFSE funcionam a Divisão de Candidaturas (DC), a Divisão de Pedido de Pagamento de Saldo (DPS) e a Divisão de Acompanhamento, Controlo e Avaliação (DACA).
 
-##### SUBSECÇÃO I — Divisão de Candidaturas
+##### SUBSECÇÃO I
 
-###### Artigo 14.º — Divisão de Candidaturas
+##### Divisão de Candidaturas
+
+###### Artigo 14.º
+
+##### Divisão de Candidaturas
 
 À DC compete, designadamente:
 
@@ -420,9 +488,13 @@ d) Participar superiormente as irregularidades ou deficiências detectadas em se
 
 e) Prestar todos os esclarecimentos que no âmbito das respectivas competências venham a ser superiormente solicitados.
 
-##### SUBSECÇÃO II — Divisão de Pedido de Pagamento de Saldo
+##### SUBSECÇÃO II
 
-###### Artigo 15.º — Divisão de Pedido de Pagamento de Saldo
+##### Divisão de Pedido de Pagamento de Saldo
+
+###### Artigo 15.º
+
+##### Divisão de Pedido de Pagamento de Saldo
 
 À DPPS compete, nomeadamente:
 
@@ -434,9 +506,13 @@ c) Articular-se, com a DACA, no sentido de poder certificar contabilisticamente 
 
 d) Propor a emissão das ordens de processamento de saldo.
 
-##### SUBSECÇÃO III — Divisão de Acompanhamento, Controlo e Avaliação
+##### SUBSECÇÃO III
 
-###### Artigo 16.º — Divisão de Acompanhamento, Controlo e Avaliação
+##### Divisão de Acompanhamento, Controlo e Avaliação
+
+###### Artigo 16.º
+
+##### Divisão de Acompanhamento, Controlo e Avaliação
 
 À DACA compete, nomeadamente:
 
@@ -468,9 +544,13 @@ e) Coordenar e orientar, em colaboração com a DSFP, as acções necessárias �
 
 2 - Na dependência da DSAFP funcionam a Divisão de Recursos Humanos (DRH), a Divisão de Gestão Financeira (DGF), a Divisão de Aprovisionamento e Património (DAP) e a Divisão de Gestão Administrativa (DGA).
 
-##### SUBSECÇÃO I — Divisão de Recursos Humanos
+##### SUBSECÇÃO I
 
-###### Artigo 18.º — Divisão de Recursos Humanos
+##### Divisão de Recursos Humanos
+
+###### Artigo 18.º
+
+##### Divisão de Recursos Humanos
 
 À DRH compete, nomeadamente:
 
@@ -494,9 +574,13 @@ i) Instruir, de acordo com orientações superiores e em articulação com os co
 
 j) Executar todas as demais tarefas que decorram do normal desempenho das suas funções.
 
-##### SUBSECÇÃO II — Divisão de Gestão Financeira
+##### SUBSECÇÃO II
 
-###### Artigo 19.º — Divisão de Gestão Financeira
+##### Divisão de Gestão Financeira
+
+###### Artigo 19.º
+
+##### Divisão de Gestão Financeira
 
 1 - À DGF compete, designadamente:
 
@@ -538,9 +622,13 @@ a) Secção de Contabilidade e Controlo Orçamental;
 
 b) Secção de Processamento e Controlo Financeiro.
 
-##### SUBSECÇÃO III — Divisão de Aprovisionamento e Património
+##### SUBSECÇÃO III
 
-###### Artigo 21.º — Divisão de Aprovisionamento e Património
+##### Divisão de Aprovisionamento e Património
+
+###### Artigo 21.º
+
+##### Divisão de Aprovisionamento e Património
 
 1 - À DAP compete, nomeadamente:
 
@@ -560,9 +648,13 @@ g) Executar todas as demais tarefas que decorram do normal desempenho das suas f
 
 2 - Na dependência da DAP funcionam as secções de compras e de armazém.
 
-##### SUBSECÇÃO IV — Divisão de Gestão Administrativa
+##### SUBSECÇÃO IV
 
-###### Artigo 22.º — Divisão de Gestão Administrativa
+##### Divisão de Gestão Administrativa
+
+###### Artigo 22.º
+
+##### Divisão de Gestão Administrativa
 
 1 - À DGA compete, nomeadamente:
 
@@ -662,9 +754,13 @@ i) Elaborar informações e proceder ao tratamento estatístico do movimento dos
 
 2 - O CEF é dirigido por um coordenador, equiparado, apenas para efeitos de vencimento, a director de serviços.
 
-##### SUBSECÇÃO II — Divisão de Promoção do Emprego
+##### SUBSECÇÃO II
 
-###### Artigo 26.º — Divisão de Promoção do Emprego
+##### Divisão de Promoção do Emprego
+
+###### Artigo 26.º
+
+##### Divisão de Promoção do Emprego
 
 À DPE compete, nomeadamente:
 
@@ -682,9 +778,13 @@ f) Elaborar estudos de avaliação e impacte dos programas de emprego e propor e
 
 g) Propor e executar planos de apuramento estatístico adequados às actividades desenvolvidas na área dos programas de emprego.
 
-##### SUBSECÇÃO III — Divisão de Programas de Emprego
+##### SUBSECÇÃO III
 
-###### Artigo 27.º — Divisão de Programas de Emprego
+##### Divisão de Programas de Emprego
+
+###### Artigo 27.º
+
+##### Divisão de Programas de Emprego
 
 À DPEmp compete, nomeadamente:
 
@@ -702,9 +802,13 @@ f) Analisar os pedidos de apoio técnico e ou financeiro que sejam formulados na
 
 g) Acompanhar as entidades apoiadas, providenciando pela correcta aplicação dos apoios concedidos.
 
-##### SUBSECÇÃO IV — Divisão de Análise de Projectos e Sector Cooperativo
+##### SUBSECÇÃO IV
 
-###### Artigo 28.º — Divisão de Análise de Projectos e Sector Cooperativo
+##### Divisão de Análise de Projectos e Sector Cooperativo
+
+###### Artigo 28.º
+
+##### Divisão de Análise de Projectos e Sector Cooperativo
 
 À DAPSC compete, designadamente:
 
@@ -810,8 +914,8 @@ As condições de ingresso, acesso e carreira profissional, provimento e suas fo
 
 São revogadas as disposições dos artigos 71.º a 84.º e 97.º a 102.º do [Decreto Regulamentar Regional n.º 26/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1989-262123), de 30 de Dezembro, com as alterações introduzidas pelo [Decreto Regulamentar Regional n.º 6/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1991-596886), de 30 de Abril.
 
-## Anexo a que se refere o n.º 2 do artigo 29.º do Decreto Regulamentar Regional n.º 17/93/M
+Anexo a que se refere o n.º 2 do artigo 29.º do Decreto Regulamentar Regional n.º 17/93/M
 
 Quadro de pessoal da Direcção Regional de Emprego e Formação Profissional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/140b00/32563266.pdf))](https://files.diariodarepublica.pt/1s/1993/06/140b00/32563266.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/140b00/32563266.pdf)

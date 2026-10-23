@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00700/0001500018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2023/01/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2023-205928639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7aea610e5958e5e79214568a35578a2a28e88b7fcebaa541d71f31a75983ad27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 084585156c9e9625f082addc584350a20d834e95753ed35b6aa4e081dc2974ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência de Inovação e Modernização da Região Autónoma da Madeira
+- Banco Português de Fomento
 - Definição de Competências
 - Direcção Regional da Administração Pública
 - Diretor Regional
-- Patriram
-- Orgânica
-- Presidente
 - Madeira.região Autónoma
+- Orgânica
+- Patriram
+- Presidente
+- SDM-Sociedade de Desenvolvimento da Madeira
 - Secretário Regional das Finanças
 - Vogal
-- SDM-Sociedade de Desenvolvimento da Madeira
-- Banco Português de Fomento
-- Agência de Inovação e Modernização da Região Autónoma da Madeira
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
@@ -119,16 +119,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128114253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147533140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170322931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174357145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186771210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:38Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +237,9 @@ i) ...
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -199,7 +249,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O Secretário Regional das Finanças exerce a tutela sobre a SDM - Sociedade de Desenvolvimento da Madeira, S. A., e sobre a PATRIRAM - Titularidade e Gestão do Património Público Regional, S. A.
 
@@ -207,19 +259,25 @@ b) ...
 
 3 - ...
 
-###### Artigo 15.º — Direção Regional da Administração Pública
+Artigo 15.º
+
+Direção Regional da Administração Pública
 
 1 - A Direção Regional da Administração Pública, adiante designada DRAP, tem por missão apoiar a definição de políticas para a Administração Pública regional nos domínios da organização de serviços e da gestão, dos regimes de emprego e da gestão dos recursos humanos, promover a harmonização jurídica naquelas áreas, assegurar a informação e dinamização das medidas adotadas e contribuir para a avaliação da sua execução, bem como assegurar a qualificação dos recursos humanos e a coordenação do departamento do Jornal Oficial da Região Autónoma da Madeira.
 
 2 - A DRAP é dirigida por um diretor regional, cargo de direção superior de 1.º grau.
 
-###### Artigo 18.º — Agência de Inovação e Modernização da Região Autónoma da Madeira, IP-RAM
+Artigo 18.º
+
+Agência de Inovação e Modernização da Região Autónoma da Madeira, IP-RAM
 
 1 - A Agência de Inovação e Modernização da Região Autónoma da Madeira, IP-RAM, adiante abreviadamente designada por AIM, IP-RAM, criada pelo [Decreto Legislativo Regional n.º 15/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-186771210), de 28 de julho, é um instituto público dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio, que tem por missão promover e assegurar a inovação e modernização do setor público, desenvolvendo e avaliando projetos e ações de simplificação e modernização administrativa, dinamizar as medidas de apoio à transição digital dos serviços públicos e empresas e novas fórmulas de prestação de serviços públicos e atendimento aos cidadãos e empresas.
 
 2 - A AIM, IP-RAM, é dirigida por um conselho diretivo, constituído por um presidente e por dois vogais, equiparados, respetivamente, a cargos de direção superior de 1.º grau e de 2.º grau.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - É revogado o [Decreto Regulamentar Regional n.º 6/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2020-128114253), de 17 de janeiro, alterado pelo [Decreto Regulamentar Regional n.º 42/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-2020-147533140), de 4 de novembro.
 
@@ -249,11 +307,11 @@ São repristinados o n.º 2 do artigo 1.º do [Decreto Regulamentar Regional n.�
 
 Aprovado em reunião do Conselho do Governo Regional em 21 de dezembro de 2022.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 4 de janeiro de 2023.**
+Assinado em 4 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -263,10 +321,12 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00700/0001500018.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00700/0001500018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00700/0001500018.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 24.º)
 
 Cargos de direção superior da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00700/0001500018.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00700/0001500018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00700/0001500018.pdf)
+
+116038238

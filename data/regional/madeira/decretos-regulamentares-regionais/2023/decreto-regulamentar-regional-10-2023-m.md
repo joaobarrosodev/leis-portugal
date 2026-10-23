@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2023/05/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e470fcc24dea7a4b91a5ed5612cb0c5f5039a9944d6523b8d9fb2163a0c45ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f78c64d29ce59cfe44854ea26a39cba3a291a7d71b4fc78aaef8a8c2ee214492
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
 - Comissão Nacional de Protecção das Crianças e Jovens em Risco
+- Conselho Regional da Inclusão e Assuntos Sociais
+- Conselho Regional de Inclusão Social e Cidadania
+- Direção Regional dos Assuntos Sociais
+- Família
 - Governo Regional
 - Igualdade de Oportunidades
-- Política Social
-- Madeira.região Autónoma
-- Conselho Regional da Inclusão e Assuntos Sociais
 - Instituto de Segurança Social da Madeira
+- Madeira.região Autónoma
+- Política Social
 - Secretaria Regional da Inclusão Social e Cidadania
-- Direção Regional dos Assuntos Sociais
-- Conselho Regional de Inclusão Social e Cidadania
 relationships:
 - type: amended_by
   target: pt:dre:838326049:por
@@ -122,16 +122,166 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107791621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126318034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128326624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170322931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173732862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176147944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185601685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205822996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70007184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74843481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74953322:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:838326049:por
+  label: Revogado, a partir de 23 de janeiro de 2024, pelo(a) Decreto Regulamentar Regional n.º 4/2024/M - Diário da República
+    n.º 15/2024, Série I de 2024-01-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2024-838326049
+  date: '2024-01-22'
 article_structure:
-  article_count: 34
+  article_count: 33
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:36Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +310,9 @@ Os artigos 2.º e 6.º do [Decreto Regulamentar Regional n.º 10/2020/M](https:/
 
 A SRIC tem por missão definir, coordenar, executar e avaliar a política regional nos setores da cidadania e responsabilidade social, solidariedade e segurança social, emprego, trabalho, inspeção do trabalho, concertação social, relações com as instituições da Economia Social, promoção e proteção social da família, crianças e jovens em risco, pessoas com deficiência e idosos, políticas de inclusão social, igualdade de género, igualdade perante o trabalho, combate às discriminações, defesa do consumidor, natalidade, voluntariado e desenvolvimento local.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -196,11 +348,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em reunião do Conselho do Governo Regional em 27 de abril de 2023.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 10 de maio de 2023.**
+Assinado em 10 de maio de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -208,7 +360,7 @@ O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral
 
 ## ANEXO I — Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -474,12 +626,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem pr
 
 ## ANEXO I — Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf)
 
 ## ANEXO II — Dirigentes dos organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf)
 
 ## ANEXO III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf))](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/05/09300/0002400034.pdf)
+
+116456336

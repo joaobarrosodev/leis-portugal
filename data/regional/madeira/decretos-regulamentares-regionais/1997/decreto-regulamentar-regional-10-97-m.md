@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/1997/05/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1997-385260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:46:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d4965c706b0f2922551cd9c8a2b4c5e677206d875f5a70531ce4d6fba5a58f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f64d744936d2d7e14306f4398e021e5396da60c8c321b883a795502466e6743
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:46:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional das Comunidades Europeias e da Cooperação Externa
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Secretaria Regional da Economia e Cooperação Externa
 relationships:
 - type: amended_by
   target: pt:dre:515269:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515269:por
+  label: "Aditado o art. 19º-A, alterados os arts. 3º, 10º e 11º, bem como o quadro de pessoal referido no art. 13º, na redacção\
+    \ dada pelas Port 163/98 de 23-Out e 181/99 de 25-Out (legislação publicada no Jornal Oficial da RAM) pelo DRR.14/2000/M.2000.02.29.PG-RAM\
+    \ DR.IS-B [68] de 21/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2000-515269
+  date: '2000-02-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/24-a/1996/12/04/m/dre
   label: null
@@ -86,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:230948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658442:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 20
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:46:03Z'
   warnings: []
   errors: []
 ---
@@ -124,11 +147,11 @@ Aprovado em Conselho do Governo Regional em 20 de Março de 1997.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
 
-**Assinado em 10 de Abril de 1997.**
+Assinado em 10 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ORGÂNICA DA DIRECÇÃO REGIONAL DAS COMUNIDADES EUROPEIAS E DA COOPERAÇÃO EXTERNA
 
@@ -170,7 +193,9 @@ l) Propor todas as acções de promoção, estímulo e captação de investiment
 
 ### CAPÍTULO II — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 3.º
+#### SECÇÃO I
+
+###### Artigo 3.º
 
 Estrutura
 
@@ -416,4 +441,4 @@ MAPA ANEXO A QUE SE REFERE O ARTIGO 13.º
 
 Direcção Regional das Comunidades Europeias e da Cooperação Externa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/109b00/22942300.pdf))](https://files.diariodarepublica.pt/1s/1997/05/109b00/22942300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/109b00/22942300.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2017/06/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2017-107522253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15a452f5a285da218e04d89fcb7f74c014f9bf62444095c75330bdfae54248b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 330e07e455890586f42d81268064db0d068d427e89832919af1d4a87016d1d91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
+- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
 - Direcção Regional de Finanças
 - Direcção Regional de Orçamento e Contabilidade
 - Diretor Regional
-- Orgânica
 - Madeira.região Autónoma
-- Subdirector Regional
+- Orgânica
 - SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
-- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
+- Subdirector Regional
 relationships:
 - type: amended_by
   target: pt:dre:140087211:por
@@ -100,16 +100,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70025059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73083504:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:140087211:por
+  label: Revogado, pelo(a) Decreto Regulamentar Regional n.º 40/2020/M - Diário da República n.º 156/2020, Série I de 2020-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/40-2020-140087211
+  date: '2020-08-12'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:18Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +157,7 @@ O presente diploma altera o [Decreto Regulamentar Regional n.º 12/2015/M](https
 
 ## ANEXO I — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/06/11500/0305103051.pdf))](https://files.diariodarepublica.pt/1s/2017/06/11500/0305103051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/06/11500/0305103051.pdf)
 
 ###### Artigo 3.º — Entrada em vigor
 
@@ -140,10 +165,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 18 de maio de 2017.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 24 de maio de 2017.**
+Assinado em 24 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

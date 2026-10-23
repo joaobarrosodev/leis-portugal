@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25200/0028600287.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/40/2024/12/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/40-2024-901536100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:53:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad8663a919e261476804d328bdedc10877aff74e6d45e638d95a8b122ffbba7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93572f527f904737f75716c93b678b2b394d9b5851e66313808503ad6693c93b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:53:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assembleia Legislativa Regional
-- Incêndio
-- Prevenção de Incêndios
-- Governo Regional
-- Catástrofe
 - Assembleia Legislativa
-- Primeiros Socorros
+- Assembleia Legislativa Regional
+- Catástrofe
+- Governo Regional
+- Grupos de ação local
+- Incêndio
 - Madeira.região Autónoma
+- Prevenção de Incêndios
+- Primeiros Socorros
 - Recomendação
 - Sistema Regional de Proteção Civil
-- Grupos de ação local
 relationships:
 - type: cites
   target: celex:32013R1303
@@ -93,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:53:46Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +149,7 @@ Esta resolução visa, então, a criação de grupos de ação local, em número
 
 Os GAL seriam, assim, um complemento à proteção civil, na prevenção, resposta e mitigação de desastres naturais e outros eventos que possam afetar as comunidades locais.
 
-Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.<sup>os</sup>[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomendar ao Governo Regional a criação de grupos de ação local na Região Autónoma da Madeira (GALRAM), com os seguintes objetivos e funções:
+Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os[130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, recomendar ao Governo Regional a criação de grupos de ação local na Região Autónoma da Madeira (GALRAM), com os seguintes objetivos e funções:
 
 1 - Dinamizar programas de capacitação e formação destinados às comunidades locais para aumentar a consciencialização sobre riscos ambientais, medidas preventivas e meios de atuação para lidar com situações de emergência;
 
@@ -155,4 +167,6 @@ Assim, a Assembleia Legislativa da Região Autónoma da Madeira resolve, nos ter
 
 Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 12 de dezembro de 2024.
 
-**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+118500857

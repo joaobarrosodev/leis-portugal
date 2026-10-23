@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalram/2/2010/04/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/2-2010-612246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:51:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dba3f3b8e6db081f9435682c2e25203070ad72c189e50b0ce6fc02f73848bb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48d59d6b7c71e7886b59e989b189237292ce95d070ad7c88e68c99baf1b8543a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,13 +74,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:51:30Z'
   warnings: []
   errors: []
 ---
@@ -103,4 +103,4 @@ Interpretando esta necessidade da comunidade não ouvinte desta Região Autónom
 
 Aprovada em sessão plenária da Assembleia Legislativa da Madeira em 9 de Março de 2010.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d' Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d' Olival Mendonça.

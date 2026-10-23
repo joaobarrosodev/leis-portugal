@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17900/0006200064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2019/09/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2019-124793108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b210b7b47e2f9a540bf4199ddfee5c323b5f6790316c1ecd355f54a417a8035
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8775820af77bdef6549433c385f3b51e89dd7a50267dd2340b7c9d58b91f7f2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Regional de Estradas
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Secretaria Regional dos Assuntos Parlamentares e Europeus
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:21/2016/M
+  label: Altera, a partir de 19 de setembro de 2019, os artigos 2.º, 3.º e 4.º do Decreto Regulamentar Regional n.º 21/2016/M,
+    de 30 de setembro, Diário da República n.º 189/2016, Série I
+  source: null
+  date: '2016-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/decl
   label: null
@@ -114,16 +120,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:105657288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114157368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114561727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75437528:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:23Z'
   warnings: []
   errors: []
 ---
@@ -160,11 +206,15 @@ São alterados os artigos 2.º, 3.º e 4.º do [Decreto Regulamentar Regional n.
 
 A DRE é um serviço executivo central, integrado na estrutura da Secretaria Regional dos Equipamentos e Infraestruturas, conforme decorre da alínea b) do n.º 1 do artigo 9.º do [Decreto Regulamentar Regional n.º 13/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2017-114157368), de 7 de novembro, sob a administração direta da Região Autónoma da Madeira, que prossegue as atribuições relativas ao setor das estradas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A Direção Regional de Estradas tem por missão assegurar a execução política do planeamento, da concretização e da gestão das infraestruturas rodoviárias da rede regional que não estejam afetas às concessões rodoviárias, bem como promover e assegurar o apoio técnico às competências previstas no n.º 3 do artigo 3.º e no n.º 2 do artigo 6.º do [Decreto Regulamentar Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2018-114561727), de 24 de janeiro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Na prossecução da sua missão, são atribuições da DRE:
 
@@ -204,8 +254,10 @@ Aprovado em Conselho do Governo Regional de 14 de agosto de 2019.
 
 O Vice-Presidente do Governo Regional, no exercício da Presidência, Pedro Miguel Amaro de Bettencourt Calado.
 
-**Assinado em 23 de agosto de 2019.**
+Assinado em 23 de agosto de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+112558802

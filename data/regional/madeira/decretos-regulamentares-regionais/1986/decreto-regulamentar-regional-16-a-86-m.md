@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 251/1986, 1º Suplemento, Série I de 1986-10-30
   number: '251'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3266-(1) a 3266-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/10/25101/00010003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-a-1986-229680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:44:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc310ae98137e5d4761b4f26017e64dc8d0e3c9373b2d82696bed314fb6ae2c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76f4ac0433d3e8017722b12f5013a0b8e38df6781b6552e8d154560e1f9f4c88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:44:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Apoio ao Investimento
+- CEE
+- Direcção Regional de Agricultura
+- Direcção Regional de Pecuária
+- Exploração Agrícola
+- Exploração Florestal
+- Financiamento
+- Ifadap
+- Jovem Agricultor
+- Madeira.região Autónoma
+- Política Agrícola
+- Política Agrícola Comum
+- Regulamento CE
+- Secretário Regional da Economia
+- Secretário Regional de Economia
 relationships:
 - type: amended_by
   target: pt:dre:631217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:417658:por
+  label: "Alterados os artigos 2.º e 4.º pelo DRR.20/87/M.11.08.1987.GR-RAM, DR.IS [183] de 11.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1987-417658
+  date: '1987-08-11'
+- type: repealed_by
+  target: pt:dre:631217:por
+  label: "Revogado, na redacção do Decreto Regulamentar Regional n.º 20/87/M, de 11 de Agosto, pelo DRR.11/91/M.28.05.1991.GR-RAM,\
+    \ DR.IS-B [122] de 28.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1991-631217
+  date: '1991-05-28'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:44:42Z'
   warnings: []
   errors: []
 ---
@@ -210,10 +237,10 @@ O presente decreto regulamentar regional entra em vigor em 30 de Outubro do corr
 
 Aprovado em Conselho do Governo Regional em 2 de Outubro de 1986.
 
-**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
 
-**Assinado em 24 de Outubro de 1986.**
+Assinado em 24 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

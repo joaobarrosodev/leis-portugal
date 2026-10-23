@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16100/0615406160.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2015/08/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2015-70055497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:48:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dea5596be0b5154e47086a6b1cfca503def4e7a5a373fd83636c326a553001fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5651f65e3d70db900496aa7917fe586e908e393c2f5993ec3239a121cf975ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Conselho Económico e Social Regional
+- Conselho Regional dos Assuntos Sociais
 - Criação de Serviços
 - Definição de Competências
 - Direcção Regional do Trabalho
 - Empresa Pública Regional
 - Extinção de Serviços
+- Inspecção Regional do Trabalho
+- Instituto da Segurança Social
 - Instituto de Emprego da Madeira
 - Integração de Trabalhadores
-- Conselho Regional dos Assuntos Sociais
-- Secretaria Regional dos Assuntos Sociais
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Reestruturação de Serviços
 - Regime de Pessoal
-- Inspecção Regional do Trabalho
 - SECRETARIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS
+- Secretaria Regional dos Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:838326049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74953322:por
+  label: Determinada a transição das atribuições nas áreas da reabilitação psicossocial e terapêutica e inclusão de pessoas
+    com deficiência do Gabinete do Secretário Regional da Inclusão e Assuntos Sociais, cuja orgânica e atribuições constam
+    do presente diploma, para o ISSM, IP-RAM, bem como dos serviços previstos no n.º 2 do art. 9.º da Port 79/2016 de 26-fev,
+    pelo(a) Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15, a partir
+    da sua entrada em vigor (16.07.2016), nos termos do disposto no seu art. 5.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2016-74953322
+  date: '2016-07-15'
+- type: amended_by
+  target: pt:dre:838326049:por
+  label: Extinta e reestruturada, a partir de 23 de janeiro de 2024 a Direção Regional do Trabalho e Ação Inspetiva criada
+    pelo presente diploma pelo(a) Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de
+    2024-01-22, nos termos do n.º 1 do artigo 22.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2024-838326049
+  date: '2024-01-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegre
   label: null
@@ -128,16 +144,156 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67191204:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:128326624:por
+  label: Revogado o presente diploma e determinada a reestruturação da Direção Regional Adjunta, da Inclusão e do Desenvolvimento
+    Local, passando a designar-se Direção Regional dos Assuntos Sociais, e do Conselho Regional da Inclusão e Assuntos Sociais,
+    passando a designar-se Conselho Regional de Inclusão Social e Cidadania, pelo(a) Decreto Regulamentar Regional n.º 10/2020/M
+    - Diário da República n.º 14/2020, Série I de 2020-01-21 nos termos do seu art. 22.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2020-128326624
+  date: '2020-01-21'
 article_structure:
   article_count: 29
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:48:00Z'
   warnings: []
   errors: []
 ---
@@ -274,7 +430,7 @@ c) Serviço Regional de Proteção Civil da Madeira, IP-RAM.
 
 ###### Artigo 8.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas
 
-**O Secretário Regional exerce a tutela na empresa IHM - Investimentos Habitacionais da Madeira, EPERAM, pertencente ao setor empresarial da Região Autónoma da Madeira.**
+O Secretário Regional exerce a tutela na empresa IHM - Investimentos Habitacionais da Madeira, EPERAM, pertencente ao setor empresarial da Região Autónoma da Madeira.
 
 ### CAPÍTULO III — Dos Serviços
 
@@ -482,22 +638,22 @@ Após a conclusão dos processos de fusão referidos no artigo 23.º, as listas 
 
 Aprovado em Conselho do Governo Regional em 16 de julho de 2015.
 
-**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
 
-**Assinado em 27 de julho de 2015.**
+Assinado em 27 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO I — Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16100/0615406160.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16100/0615406160.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16100/0615406160.pdf)
 
 ## ANEXO II — Dirigentes dos organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16100/0615406160.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16100/0615406160.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16100/0615406160.pdf)
 
 ## ANEXO III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16100/0615406160.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16100/0615406160.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16100/0615406160.pdf)
