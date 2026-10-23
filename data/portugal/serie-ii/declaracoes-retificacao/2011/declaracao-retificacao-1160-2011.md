@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/139000000/3038230383.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1160-2011-3220575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fead4cc2c3de043cff5b655bfa4fa0b1dbadb9016966ce250e7ea69f0e88258b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa59a89a5b4bd399a4b713fa696f716d63230f046610381504838619b88cc045
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689576:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:20Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1160/2011
+# Declaração de rectificação n.º 1160/2011
 
 Rectifica e republica o aviso n.º 13846/2011, relativo a procedimento concursal comum para preenchimento de um posto de trabalho na categoria de especialista de informática do grau 1, nível 2, da carreira não revista de especialista de informática, do mapa de pessoal da Universidade de Coimbra (UC).
 
@@ -118,15 +158,15 @@ Rectifica e republica o aviso n.º 13846/2011, relativo a procedimento concursal
 
 8.2 - Forma: as candidaturas deverão ser formalizadas mediante o preenchimento obrigatório do requerimento modelo tipo, disponível na página electrónica da administração da UC (http://www.uc.pt/drh/rm/pconcursais/pessoal_naodocente/forms) e no Centro de Atendimento dos RH da UC (rh.ajuda@drh.uc.pt), acompanhado, sob pena de exclusão, dos seguintes anexos expressamente identificados no requerimento:
 
-## Anexo 1 - fotocópia do bilhete de identidade ou cartão de cidadão;
+Anexo 1 - fotocópia do bilhete de identidade ou cartão de cidadão;
 
-## Anexo 2 - fotocópia de documento comprovativo das habilitações literárias;
+Anexo 2 - fotocópia de documento comprovativo das habilitações literárias;
 
-## Anexo 3 - declaração emitida pelo organismo ou serviço onde o candidato exerce funções, devidamente actualizada, da qual conste a modalidade da relação jurídica de emprego público, a categoria e a posição remuneratória detida, no caso dos candidatos que detêm relação jurídica de emprego público;
+Anexo 3 - declaração emitida pelo organismo ou serviço onde o candidato exerce funções, devidamente actualizada, da qual conste a modalidade da relação jurídica de emprego público, a categoria e a posição remuneratória detida, no caso dos candidatos que detêm relação jurídica de emprego público;
 
-## Anexo 4 - curriculum vitae actualizado, devidamente datado e assinado pelo requerente, mencionando a experiência profissional anterior relevante para o exercício das funções do lugar a concurso, e acções de formação e aperfeiçoamento profissional com alusão à sua duração;
+Anexo 4 - curriculum vitae actualizado, devidamente datado e assinado pelo requerente, mencionando a experiência profissional anterior relevante para o exercício das funções do lugar a concurso, e acções de formação e aperfeiçoamento profissional com alusão à sua duração;
 
-## Anexo 5 - fotocópia de outros documentos comprovativos dos factos referidos no curriculum vitae, designadamente dos certificados das acções de formação.
+Anexo 5 - fotocópia de outros documentos comprovativos dos factos referidos no curriculum vitae, designadamente dos certificados das acções de formação.
 
 8.3 - Não são aceites candidaturas entregues por via electrónica. Devem ser entregues pessoalmente no Centro de Atendimento da Administração da UC, situado no Pólo I da UC, Rua Larga, Edifício da Faculdade de Medicina, 1.º andar, ou remetidas pelo correio, registado com aviso de recepção, para Administração da Universidade de Coimbra, Rua da Ilha, 3004-531 Coimbra, identificando no sobrescrito, de forma visível, a referência ao processo de selecção (DRH-04-10-818).
 
@@ -168,7 +208,7 @@ Licenciado Jorge Filipe Batista China.
 
 Licenciado João Maria Montesuma Carvalho de Sá Marta.
 
-**O presidente do júri será substituído nas suas faltas ou impedimentos pelo vogal efectivo indicado em 1.º lugar.**
+O presidente do júri será substituído nas suas faltas ou impedimentos pelo vogal efectivo indicado em 1.º lugar.
 
 ## ANEXO — Programa de provas de conhecimento - Especialista de informática, área de engenharia de software
 
@@ -205,3 +245,5 @@ Javascript - The Definitive Guide, David Flanagan, ed. O'Reilly, 2011.
 Ajax - The Definitive Guide, Anthony T. Holdener III, ed. O'Reilly, 2008.
 
 30 de Junho de 2011. - O Vice-Reitor, Henrique dos Santos Carmo Madeira.
+
+204924382

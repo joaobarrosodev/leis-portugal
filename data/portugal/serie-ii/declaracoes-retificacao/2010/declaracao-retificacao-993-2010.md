@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/098000000/2786427865.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/993-2010-2058266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecd0ee174b044483baa3fa211ac0cfbdcf68148793fe23d74de583eb77a8f52f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d6dd455c27b88a48f597f53b9558bb1dd51289cadaf593f7212caf600abc52b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:14Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +94,7 @@ Especialização em Clima Energia e Qualidade do Ambiente
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786427865.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786427865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786427865.pdf)
 
 deve ler-se:
 
@@ -104,6 +104,8 @@ Especialização em Clima Energia e Qualidade do Ambiente
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786427865.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786427865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786427865.pdf)
 
 7 de Maio de 2010. - A Directora, Margarida Cabral.
+
+203257248

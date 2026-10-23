@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/207000000/4264742647.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1611-2011-796156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44884aa3ac98fb9892ad441642f9bf9f1b2f3e45577c325df9e16cc4d6da1fa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49a0a9d5865ae4a52271938ed8b42f2ebabc3f62105dba1c2b93c7d352660be1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:57Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1611/2011
 Por ter sido publicada com inexactidão no Diário da República, 2.ª série, n.º 154, de 11 de Agosto de 2011, a deliberação (extracto) n.º 1496/2011, rectifica-se que onde se lê «foi ao Dr. João Patrício de Sousa e Alvim Bismarck do Agro, Assistente Graduado de Pediatria do mapa de pessoal deste Hospital, autorizada a acumulação de funções privadas, em consultório privado.» deve ler-se «foi ao Dr. João Patrício de Sousa e Alvim Bismark do Agro, assistente graduado de pediatria do mapa de pessoal deste Hospital, autorizada a acumulação de funções privadas, em consultório privado.».
 
 21 de Outubro de 2011. - O Administrador, Licínio Oliveira de Carvalho.
+
+205267214

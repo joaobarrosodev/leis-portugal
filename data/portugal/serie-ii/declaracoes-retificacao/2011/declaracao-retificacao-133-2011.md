@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/012000000/0371403714.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/133-2011-1271901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eaa1ca52444dcd85a50e5a8fb960d516a9f7dfac4554470b6a8e6efcd84ff5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c67c4cc860ac0a5532e1d3faa9c5517e6eb090117f56889a648780bebd4ad7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:20Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 133/2011
+# Declaração de rectificação n.º 133/2011
 
 Procedimento concursal para constituição de relação jurídica de emprego público em contrato de trabalho em funções públicas por tempo indeterminado para o preenchimento de um posto de trabalho na carreira e categoria de técnico superior (área de actividade do Departamento de Obras, Urbanismo e Defesa do Meio Ambiente), do mapa de pessoal da Câmara Municipal das Caldas da Rainha.
 
@@ -90,3 +94,5 @@ Para os devidos efeitos, faz-se pública a rectificação a seguir indicada, ref
 «Não existe no município das Caldas da Rainha reserva de recrutamento constituída, pelo que, nos termos do disposto no n.º 1 dos artigos 4.º e 54.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, e uma vez que ainda não foi publicitado qualquer procedimento concursal para a referida reserva, e até à sua publicitação, conforme orientações da DGAEP, fica temporariamente dispensada a obrigatoriedade da referida consulta.»
 
 4 de Janeiro de 2011. - O Presidente da Câmara, Fernando José da Costa.
+
+304197707

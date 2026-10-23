@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/231000000/5812558125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2444-2010-2404776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bf51474cc7d1349245374f5f91b2eadfdf31e3d092b6e8c48e425a37cdaf8e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4b7d053328e7513256341a4354ad0c2634463d439a69ed964f34c9c1eb1cfb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:36Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2444/2010
+# Declaração de rectificação n.º 2444/2010
 
 Por ter saído com inexactidão o n.º 15.3 do edital n.º 1060/2010, publicado no Diário da República, 2.ª série, n.º 209, de 27 de Outubro de 2010, rectifica-se que onde se lê:
 
@@ -91,3 +95,5 @@ deve ler-se:
 «15.3 - A ponderação para a valoração final da avaliação curricular é de 70 % e para a entrevista profissional de selecção é de 30 %, de acordo com os n.os 2 e 4 do artigo 6.º e do n.º 2 do artigo 7.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro. A classificação final resultará da seguinte fórmula: CF = 0,70 (AC) + 0,30 (EPS).»
 
 27 de Outubro de 2010. - O Vice-Presidente, João Benjamim Rodrigues Pereira.
+
+203970007

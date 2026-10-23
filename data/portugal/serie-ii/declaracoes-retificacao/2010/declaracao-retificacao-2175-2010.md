@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/209000000/5352453524.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2175-2010-2748353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e300c69796ee3790ae8c9b3c5e99eb1400b861e85bab2e19b9e5b5779e8c43a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f8d4de0420689727eb3a1816df6e4cfbc9cc2f55ec461c451fc9c5557a57239
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:00Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2175/2010
+# Declaração de rectificação n.º 2175/2010
 
 Inquérito público do projecto de Regulamento de Utilização do Cineteatro São Pedro
 
@@ -90,3 +98,5 @@ Maria do Céu Albuquerque, presidente da Câmara Municipal de Abrantes, torna p�
 Nos termos do n.º 2 do citado artigo 118.º, poderão os interessados consultar o mencionado projecto de Regulamento na Divisão de Cultura, Museus e Património da Câmara Municipal ou na página da internet (www.cm-abrantes.pt), e sobre ele formular, por escrito, observações ou sugestões, que deverão ser dirigidas à Presidente da Câmara Municipal de Abrantes, através dos meios disponíveis: correio (Praça Raimundo Soares, 2300-366 Abrantes), correio electrónico (presidencia@cm-abrantes.pt), ou outro, pelo período de 30 dias, contados da data de publicação do presente aviso no Diário da República.
 
 20 de Outubro de 2010. - A Presidente da Câmara Municipal, Maria do Céu Albuquerque.
+
+203837824

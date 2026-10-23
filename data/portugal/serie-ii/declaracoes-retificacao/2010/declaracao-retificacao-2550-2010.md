@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/237000000/5970359703.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2550-2010-1890858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8061307bf995aa51823d12aa111af9c44b144a5c018ad8fca40c4446895b0044
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee9a80b320802301e2788b842253c832ad7bab3142d69c3970b7571fe58ee8be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:12Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +86,8 @@ Declaração de rectificação n.º 2550/2010
 
 Por ter sido publicado com inexactidão o despacho n.º 17115/2010 no Diário da República, 2.ª série, n.º 220, de 12 de Novembro, procede-se à rectificação do mesmo, republicando o nome dos trabalhadores aos quais foi alterada a posição remuneratória, com efeitos a 1 de Janeiro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/237000000/5970359703.pdf))](https://files.diariodarepublica.pt/2s/2010/12/237000000/5970359703.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/237000000/5970359703.pdf)
 
 13 de Novembro de 2010. - O Director Regional de Cultura do Centro, António Pedro Couto da Rocha Pita.
+
+204024366

@@ -47,42 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2278-2010-3399217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ef299087b9073cf9a262def1ba3edcc70ce16ea0cd43aafd9873a211413658a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9394236559b10a946b32ff97da431c5a0cb2697dac57337ceded9a46ba62836
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Regional de Saúde do Norte
+- Aquisição de Bens e Serviços
+- Centro Hospitalar do Nordeste
+- Contrato Programa
+- Financiamento
+- Serviço Nacional de Saúde
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:36Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2278/2010
+# Declaração de rectificação n.º 2278/2010
 
 Por ter sido publicado com inexactidão o contrato (extracto) n.º 587/2010 no Diário da República, 2.ª série, n.º 185, de 22 de Setembro de 2010, a seguir se rectifica que onde se lê «Secretário de Estado Adjunto e da Saúde» deve ler-se «Secretário de Estado da Saúde».
 
 30 de Setembro de 2010. - O Presidente do Conselho Directivo, Manuel Teixeira.
+
+203898129

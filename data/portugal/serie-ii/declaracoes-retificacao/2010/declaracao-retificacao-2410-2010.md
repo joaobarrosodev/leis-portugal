@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/228000000/5752057531.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2410-2010-1511695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a33d8afb51ec0e6813fbb5885150a8299db98dabe583955f5e211cb38bd59bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1e4a184355771d7df022ed58c8d9ba303058dbad5e86604714346dded726b86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,86 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632177:por
+  label: null
+  source: null
 article_structure:
-  article_count: 53
+  article_count: 38
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:26Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2410/2010
+# Declaração de rectificação n.º 2410/2010
 
 Aníbal Manuel Guerreiro Cordeiro, vice-presidente da Câmara Municipal de Grândola, torna público que a alteração aos n.os 2 e 4 do artigo 18.º e ao n.º 1 do artigo 37.º do Regulamento do Plano Director Municipal de Grândola foi publicada pela deliberação n.º 1969/2010, Diário da República, 2.ª série, n.º 211, de 29 de Outubro de 2010, sem o regulamento.
 
@@ -123,7 +187,9 @@ d) ...
 
 e) A exploração de massas minerais, fica confinada às 'áreas com potencial para a actividade extractiva'.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - A prospecção e pesquisa de massas minerais ficam sujeitas ao regime jurídico de revelação e aproveitamento de bens naturais existentes na crosta terrestre de acordo com a legislação em vigor.
 
@@ -1357,51 +1423,51 @@ Nacional do canal sul ou da área compreendida entre o canal e a linha da costa,
 
 Regulamento:
 
-###### Artigo 11.º, n.º 5. - Solicita-se que o índice máximo de construção bruto seja rectificado para 0,002 e o coeficiente máximo de impermeabilização seja ajustado em conformidade.
+Artigo 11.º, n.º 5. - Solicita-se que o índice máximo de construção bruto seja rectificado para 0,002 e o coeficiente máximo de impermeabilização seja ajustado em conformidade.
 
-###### Artigo 12.º - A comissão técnica solicita que seja introduzido um ponto com a seguinte redacção:
+Artigo 12.º - A comissão técnica solicita que seja introduzido um ponto com a seguinte redacção:
 
 'Para os estabelecimentos industriais existentes fora dos espaços industriais da classe C cuja alteração implique mudança para a classe B e devidamente autorizados antes da entrada em vigor deste PDM, poderá ser autorizada a ampliação e ser passada a respectiva certidão de localização, após análise caso a caso e parecer favorável da Câmara Municipal, da entidade que tutela o estabelecimento industrial e da entidade do Ministério do Ambiente que intervêm no licenciamento.'
 
 Solicita-se ainda que sejam consideradas as pedreiras indicadas no n.º 2 do parecer da Direcção Regional da Industria e Energia do Alentejo.
 
-###### Artigo 13.º, n.º 4. - A comissão técnica considera que já estão contempladas, nomeadamente nos n.os 2 e 4 do mesmo artigo, as observações indicadas no parecer do Instituto Florestal.
+Artigo 13.º, n.º 4. - A comissão técnica considera que já estão contempladas, nomeadamente nos n.os 2 e 4 do mesmo artigo, as observações indicadas no parecer do Instituto Florestal.
 
-###### Artigo 14.º, n.º 1. - Deverá ser incluída uma alínea permitindo a construção dentro do terreno do Estabelecimento Prisional de Pinheiro da Cruz, de forma a assegurar a expansão das referidas instalações prisionais.
+Artigo 14.º, n.º 1. - Deverá ser incluída uma alínea permitindo a construção dentro do terreno do Estabelecimento Prisional de Pinheiro da Cruz, de forma a assegurar a expansão das referidas instalações prisionais.
 
 Quanto à proposta apresentada pelo referido Estabelecimento Prisional relativamente à possibilidade de ser 'salvaguardada a antiga aspiração de construção de um campo de férias para funcionários do Ministério da Justiça nos terrenos do Estabelecimento Prisional de Pinheiro da Cruz', integrando as construções já existentes na área de desenvolvimento turístico de Fontainhas, a ser implementada através de plano de pormenor - PP9, a comissão técnica considera inviável face aos condicionamentos estabelecidos para a ocupação da faixa litoral no PROTALI.
 
-###### Artigo 16.º - Incluir uma alínea d) com a seguinte redacção:
+Artigo 16.º - Incluir uma alínea d) com a seguinte redacção:
 
 'd) As infra-estruturas com carácter precário e exclusivamente destinadas aos estabelecimentos de aquicultura, em áreas propícias ao seu desenvolvimento.'
 
-###### Artigo 18.º, n.º 2, alínea a). - Recomenda-se a seguinte redacção:
+Artigo 18.º, n.º 2, alínea a). - Recomenda-se a seguinte redacção:
 
 'a) A plantação de eucaliptos e outras espécies exóticas do pinheiro, desde que a acção [...]'
 
-###### Artigo 28.º - O artigo deverá ser revisto com base no parecer do Instituto da Água.
+Artigo 28.º - O artigo deverá ser revisto com base no parecer do Instituto da Água.
 
 A comissão técnica solicita que sejam integradas neste artigo as observações indicadas no parecer da Administração dos Portos de Setúbal e Sesimbra.
 
-###### Artigo 29.º - Solicita-se que neste artigo sejam introduzidas as recomendações do n.º 3, alínea b), do parecer do Instituto Português do Património Arquitectónico e Arqueológico, relativamente à salvaguarda do património arqueológico.
+Artigo 29.º - Solicita-se que neste artigo sejam introduzidas as recomendações do n.º 3, alínea b), do parecer do Instituto Português do Património Arquitectónico e Arqueológico, relativamente à salvaguarda do património arqueológico.
 
-###### Artigo 30.º, n.º 2, alínea g). - Rectificar e acrescentar: '[...] projectos aprovados ou autorizados pelo Instituto Florestal, à excepção dos projectos abrangidos pelo disposto no [Decreto-Lei n.º 31/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1994-522859), de 5 de Fevereiro, e no [Decreto-Lei n.º 150/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1994-269400), de 25 de Maio'.
+Artigo 30.º, n.º 2, alínea g). - Rectificar e acrescentar: '[...] projectos aprovados ou autorizados pelo Instituto Florestal, à excepção dos projectos abrangidos pelo disposto no [Decreto-Lei n.º 31/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1994-522859), de 5 de Fevereiro, e no [Decreto-Lei n.º 150/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1994-269400), de 25 de Maio'.
 
-###### Artigo 31.º, alínea c). - Incluir a referência às explorações piscícolas devidamente licenciadas na caldeira de Tróia.
+Artigo 31.º, alínea c). - Incluir a referência às explorações piscícolas devidamente licenciadas na caldeira de Tróia.
 
 Quanto à cartografia dos estabelecimentos de aquicultura, a comissão técnica considera que não é matéria fundamental para estar incluída na planta de ordenamento ou de condicionantes.
 
 Ainda sobre a alínea c), relativamente à proibição da florestação e reflorestação com espécies de rápido crescimento em áreas submetidas ao regime da Reserva Ecológica Nacional, a comissão técnica, de acordo com a prática que tem sido seguida, considera de manter a redacção.
 
-###### Artigo 32.º, n.º 2. - Fazer referência às atribuições e competências em matéria de jurisdição das áreas exteriores de influência da RNES por parte da Administração dos Portos de Setúbal e Sesimbra.
+Artigo 32.º, n.º 2. - Fazer referência às atribuições e competências em matéria de jurisdição das áreas exteriores de influência da RNES por parte da Administração dos Portos de Setúbal e Sesimbra.
 
-###### Artigo 33.º, n.os 1 e 3. - Onde se lê 'planta de condicionantes' deve ler-se 'planta de ordenamento'.
+Artigo 33.º, n.os 1 e 3. - Onde se lê 'planta de condicionantes' deve ler-se 'planta de ordenamento'.
 
 A comissão técnica considera que deve ser mantida a redacção proposta para o n.º 3 deste artigo.
 
-###### Artigo 35.º, alínea c). - Onde se lê 'do Instituto das Florestas' deve ler-se 'do Instituto Florestal'.
+Artigo 35.º, alínea c). - Onde se lê 'do Instituto das Florestas' deve ler-se 'do Instituto Florestal'.
 
-###### Artigo 36.º, alíneas g) e i). - Solicita-se que as alíneas g) e i) sejam rectificadas de acordo com a legislação referida no parecer do Instituto Florestal.
+Artigo 36.º, alíneas g) e i). - Solicita-se que as alíneas g) e i) sejam rectificadas de acordo com a legislação referida no parecer do Instituto Florestal.
 
 Relatório-síntese:
 
@@ -1444,3 +1510,5 @@ Antes de serem submetidos à aprovação da Assembleia Municipal, os elementos f
 Pelo acompanhamento efectuado e ajustamentos realizados ao longo do processo, a comissão técnica considera que o PDM de Grândola poderá ser ratificado na totalidade.
 
 Évora, 3 de Agosto de 1995. - A Comissão Técnica: Marco Aurélio de Carvalho Andrade (CCRA/DROT) - Margarida Cancela d'Abreu (CCRA/DROT) - Hipólito Bettencourt (DGOTDU) - António da Cunha Lucas (JAE/DEDS) - José Corrêa Guedes (DGT) - Ana Cristina Martins (DRARNA).
+
+203954601

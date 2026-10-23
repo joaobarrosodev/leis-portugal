@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/043000000/0936309363.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/412-2010-2046078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 232fbb012a349b561b2309c8c3638de1bcba20a7b97eac4738e46451bda98206
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f99c3d97b73d6550d661be07ba38b948dd9c57d0b63d073a38806d660f70ac8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:47Z'
   warnings: []
   errors: []
 ---
@@ -115,3 +115,5 @@ O presente procedimento concursal comum encontra-se aberto pelo período de 10 d
 Mantêm-se válidas as candidaturas entregues no âmbito do aviso n.º 1083/2010, publicado no Diário da República, 2.ª série, n.º 11, de 18 de Janeiro de 2010, e da declaração de rectificação n.º 302/2010, publicada no Diário da República, 2.ª série, n.º 31, de 15 de Fevereiro de 2010.
 
 25 de Fevereiro de 2010. - A Presidente do Conselho Directivo, Ana Paulino.
+
+202960278

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/055000000/1359113591.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/552-2010-2298910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6b361ed72d71f2e852983a6b10510ccbf26a6d6a995a37eae04be7563833ebd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caf32e0de46a6f2a12794bb4cf0b5e15c8383295bd7c4ce9694903b9ed5be116
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:38Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n
 Assim, onde se lê «Inovation» deve ler-se «Innovation», onde se lê «ISSO 9001:2008» e «ISSO 9001:2005» deve ler-se «ISO 9001:2008» e «ISO 9001:2005», respectivamente. Onde se lê «CF = (70 %PC) + (30 % EPS)/2» deve ler-se «CF = (70 % PC) + (30 % EPS) e onde se lê «O Vice-Reitor, António Gomes Martins» deve ler-se «O Reitor, Fernando Seabra Santos».
 
 12 de Março de 2010. - O Reitor, Fernando Seabra Santos.
+
+203025911

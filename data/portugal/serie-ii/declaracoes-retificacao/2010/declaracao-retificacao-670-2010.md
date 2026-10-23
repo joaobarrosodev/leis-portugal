@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/067000000/1771717717.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/670-2010-966277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7229cce4a263e48aaa28311c1c1688d6ca34134d028ceb6419095a422024f69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf732857d3f6fccdab3fb22f18c7743a44d832814bd34ecf6a1fd433ccff2ef8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:23Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n
 «José Carlos Martins Lopes, presidente do conselho geral da Escola Profissional de Fermil, Celorico de Basto, torna público que, em reunião realizada no dia 20 de Maio de 2009, o conselho geral deliberou, por maioria, atribuir um voto de louvor ao Engenheiro Manuel Fernando Carvalho Magalhães, pelo trabalho desenvolvido ao longo de cerca de 18 anos em prol da defesa da Escola Profissional de Fermil.»
 
 19 de Fevereiro de 2010. - O Presidente do Conselho Geral, José Carlos Martins Lopes.
+
+203099711

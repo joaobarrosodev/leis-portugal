@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/836/2001/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/836-2001-371838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3733c28662f102a118ed255100b6f0e2a95083ebc12518ebb5dce488fe644dde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9a309ca884b3b3e7e5a640fd6b9a9c001d9af3d26534676739e2a2744043a94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:637392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:437644:por
+  label: "Substituida a planta anexa ao presente diploma , pela PORT.1321/2003.28.11.2003.MADRP, DR.IS-B [276] de 28.11.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1321-2003-437644
+  date: '2003-11-28'
+- type: amended_by
+  target: pt:dre:518597:por
+  label: "Excluídos vários prédios rústicos da zona de caça municipal de Nossa Senhora de Machede, concessionada pelo presente\
+    \ diploma, alterado pela Port 1321/2003 de 28-Nov, pela PORT.313/2007.21.03.2007.MADRP, DR.IS [57] de 21.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-2007-518597
+  date: '2007-03-21'
+- type: amended_by
+  target: pt:dre:637392:por
+  label: "Renovada por um período de 6 anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela Portaria\
+    \ 1321/2003, de 28 de Novembro e pela Portaria 313/2007, de 21 de Março, pela PORT.846/2007.07.08.2007.MADRP, DR.IS [151]\
+    \ de 07.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/846-2007-637392
+  date: '2007-08-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -90,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/467/2001/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/467/2001/05/08/p/dre
+- type: cites
+  target: pt:dre:316162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:48Z'
   warnings: []
   errors: []
 ---

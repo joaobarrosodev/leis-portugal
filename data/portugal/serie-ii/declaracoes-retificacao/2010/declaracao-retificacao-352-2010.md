@@ -47,41 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/352-2010-3165825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49449a9a69eb9e11d8fd177e257e56dbdb7193ba89d6b1e6744980f7f880ecde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c72dea1c613bcffdee5d7e558ba3b063277d1534dc5ebe93c06df904fe0e16f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gabinete Governamental
+- Governo Xviii
+- Nomeação
+- Pessoal de Gabinete
+- Secretário de Estado Adjunto da Indústria e do Desenvolvimento
+relationships:
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:27Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 352/2010
+# Declaração de rectificação n.º 352/2010
 
 Ao abrigo da alínea h) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 162/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2007-521257), de 3 de Maio, declara-se que o despacho n.º 2607/2010, de 9 de Fevereiro, publicado no Diário da República, 2.ª série, n.º 27, de 9 de Fevereiro de 2010, saiu com a seguinte inexactidão, que, mediante declaração da entidade emitente, assim se rectifica:
 
@@ -94,3 +111,5 @@ deve ler -se:
 «2 - Para efeitos remuneratórios, o nomeado é equiparado a adjunto, com direito a subsídio de almoço, férias e de Natal e ainda ao abono de despesas de representação previsto no n.º 1 do artigo 9.º do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho.»
 
 15 de Fevereiro de 2010. - O Secretário-Geral, A. Mira dos Santos.
+
+202922734

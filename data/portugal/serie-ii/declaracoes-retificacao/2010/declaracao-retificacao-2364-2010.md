@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/224000000/5691256912.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2364-2010-1953335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0793e6f56aa59bed5db9ba8d5708214e1afa21d3d52ab9a5df94405b8a03b596
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3258e5173e1f50f5b58727320619e8745ec86a2f66fd75de6da6c341edafc7b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:06Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Por ter saído com inexactidão a publicação inserta no Diário da República,
 No n.º 12, l. 6, onde se lê «Na prova de conhecimentos e» e, no mesmo número, l. 13, alínea a), «a) Prova de conhecimentos» deve ler-se, no n.º 12, l. 6, «Na avaliação curricular é» e, ainda, no mesmo número, l. 13, alínea a), «a) Avaliação curricular».
 
 12 de Novembro de 2010. - O Reitor, João António de Sampaio Rodrigues Queiroz.
+
+203935761

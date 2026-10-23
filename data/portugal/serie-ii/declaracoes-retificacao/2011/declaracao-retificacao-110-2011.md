@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/010000000/0316603166.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/110-2011-2149069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d4b7f05729fad284d65e8adbe563ff893b9a39f2784b2e07e1e7c8e412e3edf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d304b1698b2e196f5ed350d3fa52dccb5fe643898130b533ee3e95358877c6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:483152:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:50Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 110/2011
+# Declaração de rectificação n.º 110/2011
 
 Para os devidos efeitos, torna-se público que o despacho n.º 661/2011, de 23 de Dezembro de 2010, publicado no Diário da República, 2.ª série, n.º 6, de 10 de Janeiro de 2011, saiu com inexactidão.
 
@@ -96,3 +100,5 @@ deve ler-se:
 Atendendo a que o teor do despacho n.º 856/2011, publicado no Diário da República, 2.ª série, n.º 7, de 11 de Janeiro de 2011, é igual ao do despacho que ora se rectifica, deve o despacho n.º 856/2011 ser considerado sem efeito.
 
 11 de Janeiro de 2011. - O Presidente da Câmara, Luís Manuel Barbosa Marques Leal.
+
+204207426

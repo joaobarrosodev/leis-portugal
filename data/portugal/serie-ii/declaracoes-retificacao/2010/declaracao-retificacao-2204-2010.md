@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2204-2010-3283546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe5f9a19f4eb0b827eb868d7c2657e7759f619154dcef41096da91dd2a27cab8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b3eaf317c3255adc14276bf3e300041b0e0a7f93eb7c4cb80f8dac020eafacb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:11Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +109,7 @@ Por se ter detectado inexactidões na publicação dos anexos i e ii do despacho
 
 9 - Áreas científicas e créditos que devem ser reunidos para a obtenção do grau ou diploma:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf))](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
 
 10 - Observações:
 
@@ -127,16 +127,18 @@ QUADRO N.º 1
 
 1.º ano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf))](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
 
 QUADRO N.º 2
 
 2.º ano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf))](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
 
 QUADRO N.º 3
 
 3.º ano curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf))](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/211000000/5415254153.pdf)
+
+203856235

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/182000000/4754447544.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1918-2010-2530681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53b3646d42acdbdf33407e5ef80e0776d89e28d67f8da3803d9e80e138b6c026
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3134bd11cc5ce5ccc822e34c0a0c7dc3cbf84d62f7deef63e942e06b74289bfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:25Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,7 @@ Alínea b) - PV = stp(índice i) x (somatório) { (t(índice i) - 0,05)) x CIOP 
 
 Alínea b) - PV = stp(índice i) x (somatório) { (t(índice i -) 0,05)) x CIOP x CIEV}
 
-###### Artigo 23.º
+Artigo 23.º
 
 Quando aplicado a construção não precedida de loteamento que não constituam situação de impacto relevante e no loteamento de iniciativa municipal, o valor para as infra-estruturas locais já existentes, contíguas ao prédio de utilização directa deste o valor de (V) será reduzido em:
 
@@ -114,7 +114,7 @@ Alínea b) - PV = stp(índice i) x (somatório) { (t(índice i) - 0,05)) x CIOP 
 
 Alínea c) - PV = stp(índice i) x (somatório) { (t(índice i -) 0,05)) x CIOP x CIEV}
 
-###### Artigo 23.º
+Artigo 23.º
 
 Quando aplicado a construção não precedida de loteamento que não constitua situação de impacto relevante e no loteamento de iniciativa municipal, o valor para as infra-estruturas locais já existentes, contíguas ao prédio de utilização directa deste o valor de (V) será reduzido em:
 
@@ -123,3 +123,5 @@ a) 95 % Se ocorrer em qualquer das localidades fora da vila do Redondo;
 b) 85 % Se ocorrer na vila do Redondo.»
 
 13 de Setembro de 2010. - O Presidente, Alfredo Falamino Barroso.
+
+203686792

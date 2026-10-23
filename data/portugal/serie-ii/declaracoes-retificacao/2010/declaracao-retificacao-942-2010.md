@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/942-2010-1295255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a916ead0d66be40d9d10007561901723e8499deef04c725d51d561a7de08ec15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6061eb0f207754491d43593ed6b558de9cd03eb3029a474c7687e83998389ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1412846:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:55Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 942/2010
+# Declaração de rectificação n.º 942/2010
 
 O [Despacho n.º 6665/2010](https://diariodarepublica.pt/dr/detalhe/despacho/6665-2010-1412846), publicado no Diário da República, 2.ª série, n.º 72, de 14 de Abril de 2010, saiu com as seguintes inexactidões, que assim se rectificam:
 
@@ -116,7 +120,7 @@ No quadro n.º 6, do anexo ii, falta a unidade curricular «Gestão e Organizaç
 
 6 - Áreas científicas e créditos que devem ser reunidos para a obtenção do grau:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf))](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
 
 ## ANEXO II — Instituto Politécnico de Castelo Branco
 
@@ -130,34 +134,36 @@ QUADRO N.º 1
 
 1.º ano/1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf))](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
 
 QUADRO N.º 2
 
 1.º ano/2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf))](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
 
 QUADRO N.º 3
 
 2.º ano/3.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf))](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
 
 QUADRO N.º 4
 
 2.º ano/4.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf))](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
 
 QUADRO N.º 5
 
 3.º ano/5.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf))](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
 
 QUADRO N.º 6
 
 3.º ano/6.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf))](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/091000000/2550625508.pdf)
+
+203223202

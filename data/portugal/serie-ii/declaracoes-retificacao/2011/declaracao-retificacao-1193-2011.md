@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/144000000/3132931330.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1193-2011-919364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9a013dc979a8415b1d1bc9f365d17528c9cf17b0f51dd540344e07d84be3987
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfa0b64f183f16c2960115fa76e020d9c98cf7b5f38206ce81e5abaffeee98a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,21 +73,109 @@ relationships:
   target: celex:32004R0852
   label: null
   source: null
+- type: cites
+  target: pt:dre:2208581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3109299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3350515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:30Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1193/2011
+# Declaração de rectificação n.º 1193/2011
 
 Tendo sido constatado que a bibliografia e legislação específica e geral publicadas no aviso de abertura do procedimento concursal publicado no Diário da República, 2.ª série, n.º 87, de 5 de Maio de 2011, com o aviso n.º 10279/2011, de 20 de Abril, bem como na Bolsa de Emprego Público, com o código de oferta n.º OE201105/0155, no jornal Diário de Notícias, do dia 7 de Maio de 2011, bem como no site oficial deste Instituto, não correspondiam ao referido procedimento, procede-se à rectificação da mesma, publicando-se uma nova lista de bibliografia e legislação geral e específica.
 
@@ -156,3 +244,5 @@ Instalação, modificação, exploração e funcionamento de estabelecimento de 
 Alerta-se para o conteúdo da alínea 19 do predito aviso, no qual se refere que não é permitida a consulta de bibliografia ou legislação anotada, nem a utilização de telemóveis, computadores portáteis ou qualquer outro aparelho electrónico/computorizado durante a realização da prova.
 
 22 de Julho de 2011. - O Presidente, Nuno André Oliveira Mangas Pereira.
+
+204951906

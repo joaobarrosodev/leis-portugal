@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/09/185000000/3842238424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1446-2011-1876006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f26ac30a2a70692b69c63c4b6a9edc59f53bea75fe4f797a7f69207556bc02b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5395160f7ed9043f975059e434aca654a6402f20ef5d60e6a9ab92fbcd7e98a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:01Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1446/2011
+# Declaração de rectificação n.º 1446/2011
 
 Por terem saído com inexactidão os n.os 6, 14, 16 e 17 do edital n.º 875/2011, publicado no Diário da República, 2.ª série, n.º 179, de 16 de Setembro de 2011, rectificam-se os referidos números, republicando-se o edital:
 
@@ -141,15 +177,15 @@ c) Licenciatura em Gestão e Administração Pública e mestrado em Auditoria Em
 
 12 - A apresentação de candidatura deverá ser acompanhada, sob pena de exclusão, dos seguintes documentos:
 
-## Anexo n.º 1 - curriculum vitae, devidamente datado e assinado;
+Anexo n.º 1 - curriculum vitae, devidamente datado e assinado;
 
-## Anexo n.º 2 - fotocópia de documento comprovativo das habilitações literárias;
+Anexo n.º 2 - fotocópia de documento comprovativo das habilitações literárias;
 
-## Anexo n.º 3 - fotocópia dos certificados das acções de formação frequentadas relacionadas com a área funcional do lugar a que se candidata;
+Anexo n.º 3 - fotocópia dos certificados das acções de formação frequentadas relacionadas com a área funcional do lugar a que se candidata;
 
-## Anexo n.º 4 - declaração emitida e autenticada pelo serviço de origem que comprove a categoria que detém, a carreia em que se encontra integrado, a posição remuneratória, a natureza da relação jurídica de emprego público de que é titular, a respectiva antiguidade, bem como as menções qualitativas e quantitativas obtidas nas avaliações de desempenho dos últimos três anos;
+Anexo n.º 4 - declaração emitida e autenticada pelo serviço de origem que comprove a categoria que detém, a carreia em que se encontra integrado, a posição remuneratória, a natureza da relação jurídica de emprego público de que é titular, a respectiva antiguidade, bem como as menções qualitativas e quantitativas obtidas nas avaliações de desempenho dos últimos três anos;
 
-## Anexo n.º 5 - declaração emitida e autenticada pelo serviço de origem contendo a caracterização do conteúdo funcional correspondente ao posto de trabalho que o candidato ocupa ou, sendo trabalhador em mobilidade especial, o que por último ocupou.
+Anexo n.º 5 - declaração emitida e autenticada pelo serviço de origem contendo a caracterização do conteúdo funcional correspondente ao posto de trabalho que o candidato ocupa ou, sendo trabalhador em mobilidade especial, o que por último ocupou.
 
 13 - Os candidatos são dispensados da apresentação dos documentos comprovativos dos requisitos a que se referem as alíneas a), b), c), d) e e) do n.º 7 do presente aviso desde que declarem, sob compromisso de honra, no próprio requerimento e em alíneas separadas, a situação precisa em que se encontram relativamente a cada um deles.
 
@@ -224,3 +260,5 @@ Presidente - Graciano do Nascimento Nobre Paulo, vice-presidente da ESTeSC.
 31 - Publicitação do aviso - nos termos do disposto no n.º 1 do artigo 19.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, alterada e republicada pela [Portaria n.º 145-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/145-a-2011-515400), de 6 de Abril, o presente aviso será publicitado na bolsa de emprego público no sítio www.bep.gov.pt no 1.º dia útil seguinte à publicação no Diário da República, por extracto na página electrónica da Escola Superior de Tecnologia da Saúde de Coimbra e, no prazo máximo de três dias úteis contados da data da publicação no Diário da República, num jornal de expansão nacional.»
 
 16 de Setembro de 2011. - O Presidente, Rui Jorge da Silva Antunes.
+
+205134885

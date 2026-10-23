@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/233000000/5844658446.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2490-2010-1132592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b299a8b844c4b8eaae81d4d229b257b6df9784645e4c3100254b4fc5d7162cc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8ead1a987cee2b7d71f6706389c3075a2d70f444106be5f87821becb4f0fcd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:51Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2490/2010
 Por ter sido publicado no Diário da República, 2.ª série, n.º 215, de 5 de Novembro de 2010, com uma inexactidão, o despacho n.º 16 781/2010, de 15 de Outubro, rectifica-se que onde se lê «Marinha» e «Gabinete do Chefe do Estado-Maior da Armada» deve ler-se respectivamente «Estado-Maior-General das Forças Armadas» e «Gabinete do Chefe do Estado-Maior-General das Forças Armadas».
 
 5 de Novembro de 2010. - O Chefe do Gabinete, Manuel Mateus Costa da Silva Couto, major-general.
+
+203984783

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/247000000/6223862239.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2628-2010-1279380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cb6da368ecb5aebe865990981f35d1a70147c65954b3f937b4319aadcfa3524
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1b91ce52d6dd6538383bfc506b0c0f895dab10e411cd5f26e238eb50ea38b01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:42Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2628/2010
 Nos termos e para os efeitos do n.º 3 do artigo 9.º do Regulamento de Publicação da Actos no Diário da República, aprovado pelo despacho normativo n.º 35-A/2008, de 28 de Julho, publicado no Diário da República, 2.ª série, n.º 145, de 29 de Julho de 2008, alterado pelo despacho normativo n.º 13/2009, do Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, publicado no Diário da República, 2.ª série, n.º 64, de 1 de Abril de 2009, torna-se público que, por lapso, o contrato (extracto) n.º 770/2010, publicado no Diário da República, 2.ª série, n.º 238, de 10 de Dezembro de 2010, referente ao procedimento concursal comum para constituição de relação jurídica de emprego público por tempo indeterminado, tendo em vista o preenchimento de um posto de trabalho da carreira/categoria de técnico superior, saiu com incorrecções, que assim se rectificam. Onde se lê «Pedro Manuel Henriques Nunes Mendes» deve ler-se «Pedro Henrique Manuel Nunes Mendes».
 
 15 de Dezembro de 2010. - A Directora do Departamento de Serviços Gerais, Maria Teresa Guerreiro Núncio.
+
+204073899

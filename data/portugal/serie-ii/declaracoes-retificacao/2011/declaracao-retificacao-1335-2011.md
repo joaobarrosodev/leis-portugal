@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1335-2011-3122376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 846b683824f865f1f025e1282b0d7911bf100078d2c7099a7ff0dfa67e75db84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83c3e44af956b5287295255746fe7b0f5043fe12ed9596536526a690d1b039dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:20Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +94,7 @@ Ramo: Estado, Política e Relações Internacionais
 
 Áreas científicas e créditos, obrigatórios e optativos, que devem ser reunidos para a obtenção do grau.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf))](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
 
 deve ler-se:
 
@@ -104,7 +104,7 @@ Ramo: Estado, Política e Relações Internacionais
 
 Áreas científicas e créditos, obrigatórios e optativos, que devem ser reunidos para a obtenção do grau:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf))](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
 
 Onde se lê:
 
@@ -114,7 +114,7 @@ Ramo: Gestão do Desenvolvimento e Cooperação
 
 Áreas científicas e créditos, obrigatórios e optativos, que devem ser reunidos para a obtenção do grau.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf))](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
 
 deve ler-se:
 
@@ -124,7 +124,7 @@ Ramo: Gestão do Desenvolvimento Social e Económico
 
 Áreas científicas e créditos, obrigatórios e optativos, que devem ser reunidos para a obtenção do grau:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf))](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
 
 Onde se lê:
 
@@ -200,7 +200,7 @@ Número de créditos necessário à obtenção do grau - 120 créditos.
 
 Áreas científicas e créditos, obrigatórios e optativos, que devem ser reunidos para a obtenção do grau:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf))](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
 
 Ramo: Gestão do Desenvolvimento Social e Económico
 
@@ -212,7 +212,7 @@ Número de créditos necessário à obtenção do grau - 120 créditos.
 
 Áreas científicas e créditos, obrigatórios e optativos, que devem ser reunidos para a obtenção do grau:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf))](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
 
 Observações:
 
@@ -232,12 +232,14 @@ Ramo: Estado, Política e Relações Internacionais
 
 State, Politics, and International Relations Track
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf))](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
 
 Ramo: Gestão do Desenvolvimento Social e Económico
 
 Management of Socio-Economic Development Track
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf))](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/163000000/3501735019.pdf)
 
 26 de Julho de 2011. - O Reitor, Luís Antero Reto.
+
+205042066

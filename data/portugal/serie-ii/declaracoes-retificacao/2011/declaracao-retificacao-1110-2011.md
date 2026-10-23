@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/132000000/2914329143.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1110-2011-2507517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d1a46bfe2e060f60477493785346d9a9d3984891c846f5e92d8ba5e7082f177
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b2b694ef594cfd233b97d599930a2cd7d5e948ed5eab7c81d2c53bec21ae626
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:55Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Por ter saído com inexactidão o despacho n.º 21 133/2009, publicado no Diári
 No anexo, no quadro n.º 4, referente ao 1.º ano - 1.º semestre, da área de especialização em Ultrassonografia Cardiovascular, onde se lê «Fisioterapia Cardiovascular» deve ler-se «Fisiopatologia Cardiovascular».
 
 4 de Julho de 2011. - O Presidente, Luís Manuel Vicente Ferreira.
+
+204883891

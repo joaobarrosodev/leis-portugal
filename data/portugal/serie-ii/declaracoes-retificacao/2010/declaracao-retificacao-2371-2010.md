@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/224000000/5699656997.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2371-2010-1953942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dc8e5c7dd593d49073628daa51622f24e9b8906c412f5ed1ebf41b0ff158c70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11a67d2247312ecb5d0775f60dd85b69ec71ab25e7a804a746bec6e43fc4dd45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:11Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2371/2010
 No Diário da República, 2.ª série, n.º 212, de 2 de Novembro de 2010, o aviso n.º 22190/2010, do Município de Vale de Cambra, foi publicado com algumas inexactidões, pelo que se rectifica que onde se lê «Projecto de Regulamento Municipal de Urbanização e Edificação» deve ler-se «Regulamento Municipal de Urbanização e Edificação», no artigo 103.º, na fórmula «C = 0.1VxBXIV» deve ler-se «C = 0.1V x B» e onde se lê «V = A x Pur» deve ler-se «V = A x P».
 
 10 de Novembro de 2010. - O Presidente da Câmara, José António Bastos da Silva.
+
+203935615

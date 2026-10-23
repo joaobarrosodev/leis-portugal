@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/005000000/0097100971.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/40-2010-1797413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21d50aab55336567e56f0cb8ea6e04806aa6ef6eb00739ea16f1f9ff66e81d14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73e1a704fbfe7b3790dca1d99978c1df534a2bd5a11d3a893a9c4d878a93767a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:42Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Por deliberação do conselho administrativo da Faculdade de Ciências e Tecnolo
 Assim, onde se lê «consideram -se ratificados os actos que, no âmbito das matérias atrás referidas, hajam sido praticados entre 9 de Março de 2006 e a data da presente Deliberação» deve ler-se «consideram-se ratificados os actos que, no âmbito das matérias atrás referidas, hajam sido praticados entre 9 de Março de 2006 e a data da publicação da presente Deliberação».
 
 14 de Dezembro de 2009. - O Conselho Administrativo: João Gabriel Monteiro Carvalho e Silva - presidente, Luís José Proença Figueiredo Neves - vogal, Sérgio Paulo da Conceição Vicente - vogal, Maria da Conceição Pereira Girão - vogal.
+
+202748122

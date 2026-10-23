@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/211000000/4356643570.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1655-2011-3281423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5997b22f75c1450fa8d99dfc3e0fbaf7f6f9968cdc8a78324dd3b53520734b56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a661f8be4791d594f982b68896da3311f19c3892b1f918cc8324d779ff8f9947
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:12Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1655/2011
+# Declaração de rectificação n.º 1655/2011
 
 Por ter saído com inexactidão o aviso n.º 13560/2011, respeitante ao procedimento concursal comum para o preenchimento de 209 postos de trabalho na carreira e categoria de assistente técnico do mapa de pessoal da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., publicado no Diário da República, 2.ª série, n.º 125, de 1 de Julho de 2011, republica-se a lista de candidatos admitidos e excluídos para efeitos de audiência dos interessados:
 
@@ -1544,3 +1556,5 @@ Catarina Maria Mesquita Pedro Conceição.
 Consideram-se assim notificados todos os candidatos, de que dispõem de 10 dias úteis para audiência dos interessados, nos termos do Código do Procedimento Administrativo, conforme dispõem o n.º 1 e a alínea d) do n.º 3 do artigo 30.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, alterada pela [Portaria n.º 145-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/145-a-2011-515400), de 6 de Abril.
 
 21 de Outubro de 2011. - O Presidente do Conselho Directivo, Rui Gentil de Portugal e Vasconcelos Fernandes.
+
+205290542

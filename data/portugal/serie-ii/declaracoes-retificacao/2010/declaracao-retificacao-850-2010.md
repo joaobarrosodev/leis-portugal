@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/084000000/2271522716.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/850-2010-3546902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef86c70a04ff568c3a53991e426252f0b70abe3dde532e44a61187d3ee1aece0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cc0ef72b1f16126831ae126cee443567de62a852e270f6d2bb7655c47b3061d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2168587:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:24Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 850/2010
+# Declaração de rectificação n.º 850/2010
 
 Por não ter sido publicada a Nota Curricular no [Despacho n.º 6930/2010](https://diariodarepublica.pt/dr/detalhe/despacho/6930-2010-2168587), Diário da República 2.ª série, n.º 76 de 20 Abril, agora se publica a mesma.
 
@@ -117,3 +121,5 @@ Formação Complementar:
 Curso de "Construção de páginas Web" organizado pela Faculdade de Ciências da Universidade de Lisboa, em 2001. Curso de PL/SQL na ORACLE, entre dias 14 a 17 de Outubro de 2005. Curso de JAVA na ORACLE, entre dias 21 a 24 de Outubro de 2005. Curso de JAVA/J2EE na ORACLE, entre dias 9 a 12 de Outubro de 2005. MiniCurso Introdução Estatística Bayesiana via WinBUGS na Faculdade de Ciências da Universidade de Lisboa, entre os dias 17 e 18 de Dezembro de 2009. Curso Workshop Introdução a SharePoint Server 2007 na Rumos, entre os dias 27, 28, 29 de Janeiro e 03, 04 de Fevereiro de 2010. Curso Implementing and Maintaning Microsoft SQL Server 2005 Reporting Services na Rumos, entre 24 e 26 de Março de 2010.
 
 Data: 2010/04/20. - Nelza Vargas Florêncio, cargo: Secretária-Geral do MAI.
+
+203179512

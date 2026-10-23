@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/224000000/4617646176.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1780-2011-1957595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41efa40ef46ada1e65ec69aec43ebe579930ddd6253b89c9ee58ddb3acd441f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22cdc83b3f6e484cd53da55bc28f81683c4d5d621ded47f575620bbe681ee13b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,78 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:57Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1780/2011
+# Declaração de rectificação n.º 1780/2011
 
 Por ter saído com inexactidão o aviso n.º 22111/2011, publicado no Diário da República, 2.ª série, n.º 215, de 9 de Novembro de 2011, rectifica-se que onde se lê:
 
@@ -95,3 +151,5 @@ deve ler-se:
 Referências A, B, C, D, E, F, G e H - legislação genérica: quadro de competências e regime jurídico de funcionamento dos órgãos dos município e das freguesias - [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, alterada e republicada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro; Código do Procedimento Administrativo - [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado e republicado pela [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro; Regime do Contrato de Trabalho em Funções Públicas - [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro; Estatuto Disciplinar dos Trabalhadores que Exercem Funções Públicas - [Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro; regime de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas - [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, adaptada à administração autárquica pelo [Decreto-Lei n.º 209/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2009-489486), de 3 de Setembro; SIADAP - Sistema Integrado de Gestão e Avaliação do Desempenho na Administração Pública - [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro, adaptada à administração local pelo [Decreto Regulamentar n.º 18/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-2009-489503), de 4 de Setembro.»
 
 11 de Novembro de 2011. - O Presidente da Câmara, José Joaquim Gameiro de Sousa Gomes.
+
+305355164

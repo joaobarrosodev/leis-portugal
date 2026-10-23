@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/115000000/2563425636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1007-2011-1245031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd31c3934a64f04548d75601383ccd84c4c75a887aae8ec1101a3f7c0fbcb702
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0618d725b08870329a39f272c47bece9c66f6e7057ae18ae5585ec2fddd6443e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667773:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:19Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1007/2011
+# Declaração de rectificação n.º 1007/2011
 
 Para os devidos efeitos se declara que o regulamento n.º 238/2011, publicado no Diário da República, 2.ª série, n.º 71, de 11 de Abril de 2011, pp. 16808 a 16810, saiu com inexactidões no anexo, que correspondem a erros materiais, que se rectificam através da republicação integral do referido regulamento.
 
@@ -293,10 +301,12 @@ Calendário de realização das provas de exame para maiores de 23 anos 2011-201
 
 2 - Para o ano lectivo de 2011-2012, realizam-se duas épocas de candidatura, de acordo com o seguinte calendário:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/06/115000000/2563425636.pdf))](https://files.diariodarepublica.pt/2s/2011/06/115000000/2563425636.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/06/115000000/2563425636.pdf)
 
 3 - As provas realizam-se às 15 horas.
 
 4 - Em cada época poder-se-ão realizar mais chamadas de acordo com número de candidatos.
 
 16 de Março de 2001. - A Directora, Adelina Mota Cruz. - O Administrador, Manuel de Almeida Damásio.
+
+204772912

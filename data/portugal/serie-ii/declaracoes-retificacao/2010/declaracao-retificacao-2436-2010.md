@@ -47,44 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2436-2010-2403941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9c2b74d87725b0897e683a67e26690db08234780fcd24552c417f452af64a35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b1caa06dd1c88d77d32a040f9efc61ad81b914a41982d734c167da5e5958036
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gabinete Governamental
+- Governo Xviii
+- Nomeação
+- Secretário de Estado da Educação
+relationships:
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:31Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2436/2010
+# Declaração de rectificação n.º 2436/2010
 
 Nos termos do n.º 2 do artigo 9.º do Regulamento da Publicação de Actos no Diário da República, aprovado pelo despacho normativo n.º 35-A/2008, de 29 de Julho, alterado pelo despacho normativo n.º 13/2009, de 1 de Abril, declara-se que o despacho n.º 406/2010, de 23 de Dezembro, publicado no Diário da República, 2.ª série, n.º 4, de 7 de Janeiro de 2010, saiu com a seguinte inexactidão que, mediante declaração da entidade emitente, assim se rectifica:
 
 No n.º 1, onde se lê «Ao abrigo do disposto no artigo 11.º do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho, nomeio Natacha Sofia Fonseca Rodrigues para prestar funções de apoio técnico-administrativo» deve ler-se «Ao abrigo do disposto nos n.os 3 e 4 do artigo 2.º do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho, nomeio Natacha Sofia Fonseca Rodrigues para prestar funções de assessoria ao meu Gabinete».
 
 17 de Novembro de 2010. - A Chefe do Gabinete, Filipa Henriques de Jesus.
+
+203969499

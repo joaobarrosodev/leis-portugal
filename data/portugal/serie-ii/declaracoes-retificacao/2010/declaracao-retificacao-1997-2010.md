@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/189000000/4861848618.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1997-2010-1813255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a78f78761f0beb5014f71afa5b124078ba80b2ced2265d8f0372a5c5cbde628a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9a69b90d6f01c56ef29196b17b139df55cb745cf01ef4eaa4cfe561b3a96c52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1892300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:55Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1997/2010
+# Declaração de rectificação n.º 1997/2010
 
 Procedimento concursal comum de recrutamento através de contrato de trabalho em funções públicas por tempo determinado para 10 postos de trabalho, de acordo com o mapa de pessoal, publicado no Diário da República, 2.ª série, n.º 183, de 20 de Setembro de 2010 - [Aviso n.º 18555/2010](https://diariodarepublica.pt/dr/detalhe/aviso/18555-2010-1892300).
 
@@ -117,3 +129,5 @@ EPS = entrevista profissional de selecção.
 Mais se torna público que os n.os 13 e 14 devem ser considerados nulos e sem efeito.
 
 20 de Setembro de 2010. - O Presidente da Câmara, Dinis Manuel Silva Costa.
+
+303719604

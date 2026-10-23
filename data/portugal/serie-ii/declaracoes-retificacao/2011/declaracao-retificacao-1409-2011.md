@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/09/180000000/3757437574.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1409-2011-1342329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fe53ba47b63d518ba8edca5982cca09870161134244a856e31c9083f9d7ba32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d18618132a70275a9861c6e4dbdc7bcf8e3da7c31ab842535fa7250614201d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:488485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:46Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1409/2011
+# Declaração de rectificação n.º 1409/2011
 
 Para os devidos efeitos se rectifica a composição do júri do concurso documental para professor associado da área disciplinar de Engenharia Química da Faculdade de Engenharia da Universidade do Porto, aberto pelo edital n.º 101/2011, publicado no Diário da República, 2.ª série, n.º 19, de 27 de Janeiro de 2011, na sequência do óbito do Prof. Doutor Fernando Manuel Ramôa Cardoso Ribeiro, que foi professor catedrático do Instituto Superior Técnico da Universidade Técnica de Lisboa e vogal do júri do referido concurso, tendo em vista o cumprimento do princípio da externalidade na composição dos júris dos concursos, preceituado no artigo 46.º, n.º 1, alínea d), do Estatuto da Carreira Docente Universitária (na redacção que lhe foi dado pelo [Decreto-Lei n.º 205/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2009-488485), de 31 de Agosto, alterado pela [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), de 13 de Maio), nos seguintes termos:
 
@@ -129,3 +137,5 @@ Prof. Doutor José Luís Cabral da Conceição Figueiredo, professor catedrátic
 Prof. Doutor Luís Manuel Ferreira de Melo, professor catedrático da Faculdade de Engenharia da Universidade do Porto.»
 
 8 de Setembro de 2011. - O Reitor, José C. D. Marques dos Santos.
+
+205108868

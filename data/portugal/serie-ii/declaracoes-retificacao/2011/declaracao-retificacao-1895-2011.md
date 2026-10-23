@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/235000000/4809348093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1895-2011-2984478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fbae1c8d7c45d98153ef2a5e610237f0cc74ed8e9e5095ced3c45e302481f7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 849686c49ba0e44d275084d209540bfdee093af1e46ade970dbd249766d667e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:43Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ No Diário da República, 2.ª série, n.º 224, de 22 de Novembro de 2011, a p.
 Onde se lê «CTTI celebrado em 05-07-2010, conforme publicado no DR n.º 203 de 19-10-2010.» deve ler-se «CTTI celebrado em 15 de Dezembro de 2010, conforme publicado no Diário da República, 2.ª série, n.º 27, de 8 de Fevereiro de 2011.».
 
 25 de Novembro de 2011. - O Vereador dos Serviços Municipais de Recursos Humanos e Saúde Ocupacional, José Manuel Raposo Gonçalves.
+
+305417453

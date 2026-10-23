@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/057000000/1472814729.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/568-2010-3153599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c50702d085a3733ed4dddb4e3a28756620dfeb2d5c70fc2c3c6aed9cf42a21ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33f10d02fb12702b45ce2727ef7bf5af92df755c8b63abed9487eb5424de5885
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:144635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668164:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:44Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 568/2010
+# Declaração de rectificação n.º 568/2010
 
 Para os devidos se torna público que se procede à rectificação do aviso n.º 5381/2010, publicado no Diário da República, 2.ª série, n.º 51, de 15 de Março de 2010, referente à alteração do Plano Director Municipal por adaptação ao Plano Regional de Ordenamento do Território do Oeste e Vale do Tejo - PROT-OVT.
 
@@ -90,9 +98,13 @@ Assim, rectifica-se que onde se lê:
 
 «A Alteração do Plano Director Municipal de Santarém, por Adaptação ao PROT-OVT, ratificar as alterações ao n.º 2 e n.º 3 do artigo 66.º e à alinea d) n.º 2 do artigo 84.º do Regulamento do Plano Director Municipal de Santarém, ratificado pela [Resolução do Conselho de Ministros n.º 111/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-1995-668164), publicada no Diário da República, 1.ª série-B, N.º 246, de 24 de Outubro de 1995, que passam a ter a seguinte redacção:
 
-#### SECÇÃO VII — Espaços agro-florestais
+SECÇÃO VII
 
-###### Artigo 66.º — Edificação
+Espaços agro-florestais
+
+Artigo 66.º
+
+Edificação
 
 2 - ...
 
@@ -102,9 +114,13 @@ deve ler-se:
 
 «A alteração do Plano Director Municipal de Santarém, por adaptação ao PROT-OVT, ratificar as alterações ao n.º 1 e n.º 2 do artigo 66.º e à alinea d) n.º 2 do artigo 84.º do Regulamento do Plano Director Municipal de Santarém, ratificado pela [Resolução do Conselho de Ministros n.º 111/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-1995-668164), publicada no Diário da República, 1.ª série-B, n.º 246, de 24 de Outubro de 1995, e alterado pela [Resolução do Conselho de Ministros n.º 123/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/123-1997-144635), publicada no Diário da República, 1.ª série-B, n.º 171, de 26 de Julho de 1997, que passam a ter a seguinte redacção:
 
-#### SECÇÃO VII — Espaços agro-florestais
+SECÇÃO VII
 
-###### Artigo 66.º — Edificação
+Espaços agro-florestais
+
+Artigo 66.º
+
+Edificação
 
 2 - ...
 
@@ -178,4 +194,6 @@ Altura máxima das construções: sete vírgula cinco metros»
 
 Hugo Costa, Director do Departamento de Administração e Finanças.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/057000000/1472814729.pdf))](https://files.diariodarepublica.pt/2s/2010/03/057000000/1472814729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/057000000/1472814729.pdf)
+
+203033825

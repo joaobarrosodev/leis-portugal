@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/09/172000000/3633736337.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1375-2011-1320602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d64a7993798482b18e1b183eb4a4a16e6ec397e638d46f9365b9fcf498fc6c91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cce816f111bfe4714df362c22e3015cda73412e7c12a1d43e840c080eda4a369
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:36Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Rectificação do procedimento concursal comum para assistente operacional abert
 O Agrupamento Vertical de Escolas de Vila Pouca de Aguiar torna público que, em virtude de ter saído com inexactidão o aviso supra-identificado, rectifica-se que onde se lê «6 contratos de assistentes operacionais com 2 horas/diárias e 20 horas semanais» deve ler-se «2 horas/diárias e 10 horas semanais».
 
 30 de Agosto de 2011. - O Director, Manuel Jacinto Teixeira Pinto.
+
+205071615

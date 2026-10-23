@@ -47,42 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2347-2010-3157541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2355c4ffb34f505f59933328aca77c4378389b81e002bc4edeb36ed404c21a9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34c73cc50c0175086efc3beb6f7178c91ec49413c5d5a886a59e3b1eebaca8e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de GADO
+- Direção Geral de Veterinária
+- Gado Caprino
+- Gado Ovino
+- Pecuária
+- Registo de Animais
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:01Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2347/2010
+# Declaração de rectificação n.º 2347/2010
 
 Por ter sido publicado com inexactidão, o despacho n.º 16 666/2010, publicado no Diário da República, 2.ª série, n.º 213, de 3 de Novembro de 2010, rectifica-se que, no n.º 10, onde se lê «Pela venda dos 'kits electrónicos' e das marcas auriculares oficiais, a que se referem os n.os 4, 6 e 9 do presente despacho, serão cobrados aos detentores dos animais, os seguintes montantes:» deve ler -se «Pela venda dos 'kits electrónicos' e das marcas auriculares oficiais, a que se referem os n.os 4 e 6 do presente despacho, serão cobrados aos detentores dos animais, os seguintes montantes:».
 
 5 de Novembro de 2010 - A Directora-Geral, Susana Guedes Pombo.
+
+203923343

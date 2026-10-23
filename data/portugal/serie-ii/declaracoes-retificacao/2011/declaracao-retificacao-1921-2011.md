@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/240000000/4902549025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1921-2011-2977098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69025aa3d9618085c8adfd91a26b9b6071a985ebc4d128cd13e96d6478e92c73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8b105cf892dcdc2a90b418b30e34d6c1a5dbafb25b1d2d7740d8310a216ec71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1269915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3132156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3132157:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:52Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1921/2011
+# Declaração de rectificação n.º 1921/2011
 
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 226, de 24 de Novembro 2011, [Despacho n.º 16028/2011](https://diariodarepublica.pt/dr/detalhe/despacho/16028-2011-1269915), página 46447 rectifica-se que, onde se lê:
 
@@ -92,3 +104,5 @@ deve ler-se:
 "[Edital n.º 564/2011](https://diariodarepublica.pt/dr/detalhe/edital/564-2011-3132157)"
 
 12 de Dezembro de 2011. - O Vice-Reitor, Henrique Santos do Carmo Madeira.
+
+205449376

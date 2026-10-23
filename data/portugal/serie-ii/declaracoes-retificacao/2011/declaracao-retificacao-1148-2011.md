@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/137000000/3013130131.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1148-2011-3513758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13a36340cf245e34d2f84c2dee11985c06af4fdca95b82f059b16561ca8b3039
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 914d6778829b34d3f53b19b5f7320e734b847bd00b6e85ab271313ec1a35fbf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:13Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n
 Onde se lê «Mais se torna público que, na reunião da Câmara Municipal realizada no dia 17 de Novembro de 2010, foi aprovada sob proposta do Sr. Presidente da Câmara, data de 29 de Novembro de 2010, a criação dos gabinetes e das unidades orgânicas flexíveis» deve ler-se «Mais se torna público que, na reunião da Câmara Municipal realizada no dia 17 de Novembro de 2010, foi aprovada sob proposta do presidente da Câmara, data de 29 de Outubro de 2010, a criação dos gabinetes e das unidades orgânicas flexíveis».
 
 5 de Julho de 2011. - O Director do Departamento Administrativo e Financeiro, Rafael Rodrigues.
+
+304887017

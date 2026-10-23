@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/239000000/4887448874.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1915-2011-1027345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45929133a178f10d47b2c202194434f90500cb3f8982edd792ec418b63996e26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bed46cddd08c85899f3ddab8f01bbc033f28d7d2270f1333bf122626138554a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:49Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ Para os devidos efeitos se declara que o aviso n.º 23458/2011, publicado no Di�
 Assim, onde se lê «Manuel Filipe dos Santos Passos, carreira geral de assistente técnico, posição remuneratória entre a 4.ª e 5.ª, nível remuneratório entre 9 e 10 - desligado do serviço em 02 de Novembro de 2011» deve ler-se «Manuel Filipe dos Santos Passos, carreira geral de assistente técnico, posição remuneratória entre a 4.ª e 5.ª, nível remuneratório entre 9 e 10 - desligado do serviço em 30 de Novembro de 2011».
 
 2 de Dezembro de 2011. - A Presidente, Celestina Maria Agostinho de Brito Neves.
+
+305438498

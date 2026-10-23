@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/141000000/3076230763.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1175-2011-2433117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2002802c5113ba4c4206d2f4304089f81e23c418ac06012edadbd28144f43d04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b23841fc94828ffac4038945b086e9afed4c02dd87e2c27ca1c72dc44512a5a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,166 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:219144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667973:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:25Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1175/2011
+# Declaração de rectificação n.º 1175/2011
 
 Por ter saído com incorrecções o n.º 12.1.1 do aviso n.º 14453/2011, publicado no Diário da República, 2.ª série, n.º 137, de 19 de Julho de 2011, assim se rectifica com a publicação integral do respectivo número:
 
@@ -99,3 +243,5 @@ Referência n.º 03/11 - Bases da Política de Ordenamento e Gestão do Territó
 Referência n.º 04/11 - ACTA. 'Fichas de inimigos de culturas' n.º 82 (1986), 95 (1986), 178 (1985) e 209 (1988); Agrios, George N. (1997). 'Plant Pathology'; Academic Press; Barbieri, P.; Zanelli, T.; Galli, E.; Zanelli, G. (1986). 'Wheat inoculation with Azospirillum brasilense Sp6 and some mutants altered in nitrogen fixation and indole-3-acetic acid production'; FEMS Microbiology Letters; Barbosa, P. et al, (2011). 'Especial podas'. CRISOPA. Jornal de Informação Técnica - AVAPI (PT). série ii; Bashan, Y.; Holguin, G. (1997). 'Azospirillum-plant relationships: Environmental and physiological advances (1990-1996)'; Canadian Journal of Microbiology; Bohn, H. L., McNeal, B. L., e O'Connor, G. A. (1985). 'Soil Chemestry'; 2nd edition. John Wiley & Sons. New York; Borrego, J. V. M. (1990). 'Elementos de Horticultura General - Especialmente aplicada al cultivo de plantas de consistência herbácea'; Ediciones Mundi-Prensa. Madrid: Bovey, R. (1977). 'La defense des plantes cultivées'; Ed. Omega (versão espanhola); Blazich, F. A. (1988). 'Mineral nutricion and adventitious rooting, in Adventitious Formation in Cuttings'; Advances in Plant Sciences Series, vol. 2, Dioscorides Press, Portland, Oregon; Carvalho, J. P. (1986). 'Introdução à Entomologia Agrícola'; Ed. Fundação Calouste Gulbenkian. Lisboa; Chaves, J. A. S. (1988). 'Inimigos das culturas'; Ministério da Agricultura, Pescas e Alimentação; Costa, J. Botelho da (1973), 'Caracterização e Constituição do Solo'; Fundação Calouste Gulbenkian. Lisboa.; Favre, J. (1980). 'Rhizogenése et bouturage, in La Multiplication Vegetative Des Plantes Supérieurs'; Gauthier-Villars, Paris; Grey-Wilson, Christopher. 'Anuais e Bienais - Manuais práticos de jardinagem'; Civilização Editora; Gulia, S. K. et al, (2009). 'Daylily: botany, propagation, breeding'; Horticultural Reviews (US); Hackett, W. P. (1988). 'Donor Plant Maturation and Adventitious Root Formation - in Adventitious Formation in Cuttings'; Advances in Plant Sciences Series, vol. 2, Dioscorides Press, Portland, Oregon; Hartmann, H.; Kester, D. (1983). 'Plant Propagation, Principles and Practices'; 4th Ed., Prentice-Hall, Inc., Englewood cliffs, New Jersey; Hill, D. (1985). 'Agricultural insects of temperate regions and their control'; Ed. Cambridge Univ. Press; Leeds, Rod (2001). 'BOLBOS'; Civilização Editora; Margara, J. (1982). 'BASES de la Multiplication Vegetative'; Les Méristèmes et l'Organogenèse, Institut National de la Recherche Agronomique, Paris; Miller, R. W.; Donahue, R. L. (1990). 'Soils. An Introdution to Soils and Plant Growth'; 5th edition, Prentice-Hall Internacional Inc. Englewood Cliffs. New Jersey; Quintela, A. C. (1981). 'Hidráulica'; Fundação Calouste Gulbenkian. Lisboa; Richards, O. W. & Davies R. G. IMM's 'General Textbook of Entomology. Science paperbacks'; Ed. Chapman & Hall; Ripado, M. F. B. (1991). 'Calendário Rural'; Editora Litexa; Shigo, Alex L. (1991). 'Arboricultura Moderna'; Sociedade Portuguesa de Arboricultura; Soares, Celestino (2010). 'Estratégia de luta recomendada para o combate ao Rhynchophorus ferrugineus em Phoenix canariensis (palmeira das Canárias)'; Folheto de combate ao Rhynchophorus ferrugineus. Direcção Regional de Agricultura e Pescas do Algarve; Sousa, R. M. (2009). 'Poda. O equilíbrio vegetação-frutificação em pomoideas' (macieira e pereira) (parte 1); CRISOPA. Jornal de Informação Técnica - AVAPI (PT). série ii; Souza, J. S. Inglez de (2005). 'A Poda das Plantas Frutíferas - Nova edição revista e analizada'; Ed. Nobel. São Paulo; Stonehouse, Bernard (1983). 'A vida das plantas'; Verbo. Lisboa; TAPIA, G., e tal, (2010). 'Evaluacion en campo del efecto del color de la trampa para las capturas masivas del picudo rojo de la palmera, Rhynchophorus ferrugineus'; (Oliver, 1790) (Coleoptera: Dryophthoridae). Boletin de Sanidad Vegetal Plagas (ES); Vivancos, A. D. (1983). 'Tratado de Fertilizatión. Ed. Mundi-Prensa'; Madrid; Brízida, Ana Patrícia Oliveira (2010), 'Elaboração de um Protótipo de caderno de Encargos de Manutenção de Espaços Verdes'; Instituto superior de Agronomia, Universidade Técnica de Lisboa; Costa, Margarida (2010). 'Espaços Verdes e Jardins Sustentáveis'; Direcção-Geral de Agricultura e Pescas do Algarve.»
 
 19 de Julho de 2011. - O Vereador do Pelouro da DJRHT, Paulo Alves Machado.
+
+304937504

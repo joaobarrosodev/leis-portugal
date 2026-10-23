@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/222000000/4571645719.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1754-2011-2794333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 794233c4316ae2336abbaa3c6c44169bb742840895274aae7572113e08a785ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: beede9cb16444ff1021377070fe93ce7503b78018c1536376503e52c52f5c8cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,330 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:144217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:359361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693248:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:48Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1754/2011
+# Declaração de rectificação n.º 1754/2011
 
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 187, de 28 de Setembro de 2011, de p. 38618 a p. 38621, o aviso n.º 19193/2011, procede-se às seguintes rectificações:
 
@@ -370,3 +678,5 @@ deve ler-se:
 Da presente declaração de rectificação é contado novo prazo de 10 dias úteis, mantendo-se as candidaturas entregues no prazo inicial.
 
 11 de Novembro de 2011. - O Director-Geral, Agostinho Ramos da Silva, vice-almirante.
+
+205351479

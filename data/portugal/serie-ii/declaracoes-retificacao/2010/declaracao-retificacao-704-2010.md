@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/069000000/1853718538.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/704-2010-1225142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea47e257440058a5eda32f3188744a635dc78db425fbd49720120b5fbfb85949
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0423196bf55096bda168c1367482f2b8bd7a49410925b52b20690baae81ad895
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1675227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:33Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 704/2010
+# Declaração de rectificação n.º 704/2010
 
 Ao abrigo do disposto no n.º 1 do artigo 148.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, na redacção introduzida pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro, declara-se que o Regulamento Municipal de Feiras e Mercados do Concelho, publicado como [Regulamento n.º 110/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/110-2010-1675227), no Diário da República, 2.ª série, n.º 36, de 22 de Fevereiro de 2010, saiu com as seguintes incorrecções, que, mediante declaração da entidade emitente, assim se rectificam:
 
@@ -179,3 +203,5 @@ No artigo 46.º, onde se lê «l) Tratar de forma educada e respeitosa aqueles c
 No artigo 48.º, onde se lê «A todo o tempo poderão ser aprovadas pelo Presidente da Câmara ou Vereador com competência delegada, outras regras de funcionamento interno, que se traduzam em deveres e que sejam necessárias à gestão do respectivo mercado/feira, que serão afixadas nos respectivos locais.» deve ler-se «A todo o tempo poderão ser aprovadas pelo presidente da Câmara ou vereador com competência delegada outras regras de funcionamento interno, que se traduzam em deveres e que sejam necessárias à gestão do respectivo mercado/feira, que serão divulgados através da afixação de editais nos lugares de estilo e ainda na página da Câmara da Internet, www.cm-maia.pt.».
 
 31 de Março de 2010. - O Presidente da Câmara, António Gonçalves Bragança Fernandes.
+
+203105689

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/091000000/2550125501.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/939-2010-1295243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7d240fc97e9470a2bf364b69f901e53ccd7b73aa8eb4755e2b824f3cbee9175
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43c0c38de928445130a47a0a9c64ac7b48b1aca223eb2f3b20a9de6e0402bfc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:54Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ O despacho n.º 6329/2010, publicado no Diário da República, 2.ª série, n.º
 2 - No fim do despacho, na nota (3), onde se lê «(3) unidades curriculares optativas nas áreas científicas indicadas no Quadro 1A, a escolher entre as unidades curriculares de 2.º ciclo oferecidas pela Universidade de Évora ou do Quadro de Optativas A2 para o caso das unidades curriculares da Área Científica de Artes e Técnicas da Paisagem.» deve ler-se «(3) Unidades curriculares optativas nas áreas científicas indicadas no quadro n.º 1A, a escolher entre as unidades curriculares de 2.º ciclo oferecidas pela Universidade de Évora ou do quadro de optativas n.º 2A para o caso das unidades curriculares da área científica de Artes e Técnicas da Paisagem.».
 
 4 de Maio de 2010. - A Directora dos Serviços Académicos, Margarida Cabral.
+
+203226443

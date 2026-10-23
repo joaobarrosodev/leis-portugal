@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/09/182000000/3788837888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1422-2011-2531007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 869c701b380d782544a46e4c538baf4b98fbec977e9e3cd1cdfad9f6bf4dc1d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95447e64324c803adfaf5de52b14128e6ba8e724d50e8a8006bfa9e65d83f715
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:51Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1422/2011
 Por ter saído com inexactidão o aviso n.º 16 479/2011, no Diário da República, 2.ª série, n.º 162, de 24 de Agosto de 2011, rectifica-se que, no título, onde se lê «procedimento concursal comum de recrutamento para ocupação de 2 (dois) postos de trabalho em regime de contrato em funções publicas a termo resolutivo certo parcial» deve ler-se «procedimento concursal comum de recrutamento para ocupação de três postos de trabalho em regime de contrato em funções publicas a termo resolutivo certo parcial» e no 1.º paragrafo onde se lê «se encontra aberto procedimento concursal comum para ocupação de 2 (dois) postos de trabalho» deve ler-se «procedimento concursal comum de recrutamento para ocupação de três postos de trabalho».
 
 9 de Setembro de 2011. - A Directora, Ana Rita Ferreira Alves Fernandes.
+
+205111531

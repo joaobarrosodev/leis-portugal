@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/208000000/4280842808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1616-2011-3295079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4f519d065aaaf42ec730f89e73516481eb749cf7ad060a6c88fce78bf39dc0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2af3c59816e73970caa9fcbacc89e5e893b742597237a8ac9e5635eb8072f185
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:58Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +91,5 @@ Rectifica-se o anúncio n.º 14670/2011, publicado no Diário da República, 2.�
 Assim, onde se lê «foi designado o dia 29-09-2011, pelas 14:00 horas, para a realização da reunião de assembleia de credores» deve ler-se «foi designado o dia 30 de Novembro de 2011, pelas 14 horas, para a realização da reunião de assembleia de credores».
 
 3 de Outubro de 2011. - A Juíza de Direito, Maria Margarida Neves. - O Oficial de Justiça, Sérgio Santos.
+
+305264728

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/194000000/4953649536.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2041-2010-2567695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03020f17d96da6adf0cd4539ddc1ce6d64813a32658f0304256dc4ce323a3871
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd49b779df5d8102d47d78fab8e3cd1cd5090ea6039b9096afd5d0224357607f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:10Z'
   warnings: []
   errors: []
 ---
@@ -89,4 +89,6 @@ Considerando que houve um lapso na publicação da planta de implantação do Pl
 
 24 de Setembro de 2010. - O Presidente da Câmara, Alfredo José Monteiro da Costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/194000000/4953649536.pdf))](https://files.diariodarepublica.pt/2s/2010/10/194000000/4953649536.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/194000000/4953649536.pdf)
+
+203747388

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/240000000/6035660356.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2578-2010-2975888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d2453973dca0ad2bd2a3eb482826d14c9895f6c767e88b49ff765d986f05f38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f73eb158978c5cc113f763d5d466b3ebe22662198e7da73afbafda7ffd4f441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:21Z'
   warnings: []
   errors: []
 ---
@@ -90,6 +90,8 @@ Por ter saído com inexactidão o anexo ao aviso n.º 18024/2010, publicado no D
 
 Deverá ser ainda considerada, para os mesmos efeitos, a existência da seguinte vaga:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/240000000/6035660356.pdf))](https://files.diariodarepublica.pt/2s/2010/12/240000000/6035660356.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/240000000/6035660356.pdf)
 
 26 de Novembro de 2010. - O Director Regional de Educação, José Joaquim Leitão.
+
+204039343

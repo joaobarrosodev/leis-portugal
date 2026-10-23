@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/084000000/2273822738.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/862-2010-3547218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82177883786206c94827cc60521c19cfe4fc5b74ed809013652c85887c2617e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 529b571f8f4ac9287f86cf9f8399d5d1ba98e49eda20e8fbd62bb5fe321e7096
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:29Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 862/2010
 Considera-se sem efeito a publicação do despacho n.º 6235/2010, de 30 de Março, no Diário da República, 2.ª série, n.º 68, de 8 de Abril de 2010, que procedeu à repetição da publicação da classificação profissional da docente Catarina Sottomayor Vieira Gonzaga Ribeiro Vaz de Carvalho. Para efeitos de homologação da classificação profissional da docente, ao abrigo do despacho n.º 7718/2007 (2.ª série), de 15 de Março, publicado no Diário da República, 2.ª série, n.º 81, de 21 de Abril de 2007, deverá ser considerado o despacho n.º 6229/2010, de 30 de Março, publicado no Diário da República, 2.ª série, n.º 68, de 8 de Abril de 2010.
 
 16 de Abril de 2010. - O Director-Geral, Mário Agostinho Alves Pereira.
+
+203185855

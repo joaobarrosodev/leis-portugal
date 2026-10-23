@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/195000000/4973449734.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2055-2010-1532734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e4f21baf99cb9ec947640a04ca9ee0e394ff0db780a1e9546e546ce5bc88670
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5362b0433f62ff1c5f7f4740bc3e42ece95010f8520cc755eafafe7a9f5b7f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:15Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2055/2010
 Por ter sido publicado com inexactidão o despacho (extracto) n.º 14 908/2010, inserido no Diário da República, 2.ª série, n.º 189, de 28 de Setembro de 2010, a p. 48 544, rectifica-se que onde se lê «Por despacho de 17 de Setembro de 2010, do Presidente do Instituto Politécnico de Santarém, foi autorizada a mobilidade interna intercarreiras da Coordenadora Técnica, da Escola Superior Agrária, deste Instituto, Maria da Conceição Silva Neto» deve ler-se «Por despacho de 17 de Setembro de 2010, do presidente do Instituto Politécnico de Santarém, foi autorizada a mobilidade interna intercarreiras da coordenadora técnica, da Escola Superior Agrária, deste Instituto, Maria da Conceição Silva Neto Azevedo».
 
 30 de Setembro de 2010. - O Administrador, Pedro Maria Nogueira Carvalho.
+
+203752174

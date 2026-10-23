@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/215000000/5493854939.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2245-2010-3312231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a76705379af94392a83d0dca3adca2f5d20c2f595e0eae10126e031c6686ce4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26c8299f03d313c23d61650091408ab66f236ab495ff68536c66203cee92c107
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:26Z'
   warnings: []
   errors: []
 ---
@@ -106,3 +106,5 @@ Face ao que antecede, é dado um novo prazo de candidatura de 10 dias úteis con
 São consideradas as candidaturas que foram entregues tempestivamente por força do aviso de abertura que ora se rectifica, podendo os candidatos, se assim o entenderem, entregar documentação complementar que eventualmente actualize ou acrescente elementos de informação considerados relevantes para a apreciação das suas candidaturas.
 
 28 de Outubro de 2010. - A Directora, Maria Judite de Castro Oliveira.
+
+203883516

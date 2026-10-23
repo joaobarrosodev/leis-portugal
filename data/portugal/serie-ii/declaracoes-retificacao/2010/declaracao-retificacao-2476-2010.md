@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/232000000/5828258282.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2476-2010-1575019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 455145a7b0daa7e6e6fc6c7161c1d94095ae2af7946cd8811f54773bd8f70370
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd49efe17c7ce814fd125dfb7a97b2b6ebbb0123b0083e36369c152f9b5ceaf7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:46Z'
   warnings: []
   errors: []
 ---
@@ -86,10 +86,12 @@ Declaração de rectificação n.º 2476/2010
 
 Por ter saído com inexactidão o aviso n.º 23671/2010, publicado no Diário da República, 2.ª série, n.º 215, de 22 de Novembro de 2010, rectifica-se que onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/232000000/5828258282.pdf))](https://files.diariodarepublica.pt/2s/2010/11/232000000/5828258282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/232000000/5828258282.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/232000000/5828258282.pdf))](https://files.diariodarepublica.pt/2s/2010/11/232000000/5828258282.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/232000000/5828258282.pdf)
 
 22 de Novembro de 2010. - O Director, José Joaquim Gomes Faria.
+
+203977922

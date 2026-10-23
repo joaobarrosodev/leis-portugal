@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/243000000/6119361197.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2604-2010-3645847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d4c2df12fab0ab842639cc7c3edc836b2751608e8eef364b733dfc0b74852bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81dfb463ac2686e1bb7048f390abfbcae23b57bcada264b238b49af732c7c7f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:32Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2604/2010
+# Declaração de rectificação n.º 2604/2010
 
 Para os devidos efeitos se declara que o aviso n.º 17181/2010, de 24 de Agosto, publicado no Diário da República, 2.ª série, n.º 169, de 31 de Agosto de 2010, através do seu n.º 3, tornou pública a lista de candidatos admitidos ao concurso externo de ingresso para constituição de relação jurídica de emprego público por tempo indeterminado com vista ao preenchimento de 30 postos de trabalho na categoria de técnico profissional de reinserção social de 2.ª classe, tendo procedido, igualmente, à convocação dos candidatos admitidos para a prova de conhecimentos.
 
@@ -1199,3 +1203,5 @@ Prova de conhecimentos a realizar no dia 7 de Setembro de 2010, às 9 horas loca
 Rita de Sousa Valério.
 
 24 de Agosto de 2010. - O Presidente do Júri, Luís Vaz do Couto.
+
+204057958

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1070-2011-1612557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cc4f9a2055bc0b788ddd0ecab5228b3d321fcfa9238bd7c724b89823f3c8aa9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c86c41cf8401e3b235bf8a3869051aed00e3b499ade0ca814abad594f2778501
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:40Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1070/2011
+# Declaração de rectificação n.º 1070/2011
 
 Engenheiro Vítor Manuel Martins Frutuoso, presidente da Câmara Municipal de Marvão, torna público que o edital n.º 223/2010, publicado no Diário da República, 2.ª série, n.º 53 de 17 de Março de 2010, referente ao regulamento e tabela de taxas municipais, contém inexactidões, pelo que se publica em anexo a parte que não foi publicada.
 
@@ -142,25 +154,25 @@ QUADRO I
 
 Zonamento por áreas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf))](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf)
 
 QUADRO II
 
 Zonamento por freguesias
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf))](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf)
 
 QUADRO III
 
 Tipologia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf))](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf)
 
 QUADRO IV
 
 Ocupação da via pública
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf))](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/125000000/2775227753.pdf)
 
 A taxa para a ocupação da via pública corresponde à contrapartida pela utilização de um bem do domínio público, e é fixada em função do montante previsto no programa plurianual de investimentos municipais, tendo ainda em conta sua localização em áreas geográficas diferenciadas, em função da área ocupada, de acordo com a fórmula seguinte:
 
@@ -183,3 +195,5 @@ b3) (beta)3 - corresponde a seguinte ponderação:
 PPI/(PPI + IMI + IMT)
 
 c) K5 - coeficiente correspondente às áreas geográficas distintas do município e ao período correspondente de ocupação da via pública, assumindo os valores constantes no quadro iv do mapa vii do estudo.
+
+204827871

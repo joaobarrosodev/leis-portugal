@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1097-2011-879899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2829d7c54e891a5e55edac7540be77155fb67811eb324dec7a796beee072547e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f79c69511e72e457d87343300d56d38e93e2877c6ee78b756d32970bec233734
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:50Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +95,13 @@ QUADRO 1.1a
 
 Plano a aplicar aos alunos com 1.ª matrícula em 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO 1.1b
 
 Plano a aplicar aos alunos com 1.ª matrícula anterior a 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B1. Licenciatura em Geologia com Minor em Agronomia
 
@@ -109,13 +109,13 @@ QUADRO 1.2 (B1a)
 
 Plano a aplicar aos alunos com 1.ª matrícula em 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO 1.2 (B1b)
 
 Plano a aplicar aos alunos com 1.ª matrícula anterior a 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B2. Licenciatura em Geologia com Minor em Astronomia
 
@@ -123,13 +123,13 @@ QUADRO 1.2 (B2a)
 
 Plano a aplicar aos alunos com 1.ª matrícula em 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO 1.2 (B2b)
 
 Plano a aplicar aos alunos com 1.ª matrícula anterior a 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B3. Licenciatura em Geologia com Minor em Biologia
 
@@ -137,19 +137,19 @@ QUADRO 1.2 (B3a)
 
 Plano a aplicar aos alunos com 1.ª matrícula em 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO 1.2 (B3b)
 
 Plano a aplicar aos alunos com 1.ª matrícula anterior a 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B4. Licenciatura em Geologia com Minor em Estatística e Modelos
 
 QUADRO 1.2 (B4)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B5. Licenciatura em Geologia com Minor em Física
 
@@ -157,13 +157,13 @@ QUADRO 1.2 (B5a)
 
 Plano a aplicar aos alunos com 1.ª matrícula em 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO 1.2 (B5b)
 
 Plano a aplicar aos alunos com 1.ª matrícula anterior a 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B6. Licenciatura em Geologia com Minor em Informação Geográfica
 
@@ -171,13 +171,13 @@ QUADRO 1.2 (B6a)
 
 Plano a aplicar aos alunos com 1.ª matrícula em 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO 1.2 (B6b)
 
 Plano a aplicar aos estudantes com 1.ª matrícula anterior a 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B7. Licenciatura em Geologia com Minor em Informática
 
@@ -185,25 +185,25 @@ QUADRO 1.2 (B7a)
 
 Plano a aplicar aos alunos com 1.ª matrícula em 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO 1.2 (B7b)
 
 Plano a aplicar aos alunos com 1.ª matrícula anterior a 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B8. Licenciatura em Geologia com Minor em Matemática
 
 QUADRO 1.2 (B8)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B9. Licenciatura em Geologia com Minor em Matemática Aplicada
 
 QUADRO 1.2 (B9)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B10. Licenciatura em Geologia com Minor em Química
 
@@ -211,7 +211,7 @@ QUADRO 1.2 (B10a)
 
 Plano a aplicar aos alunos com 1.ª matrícula em 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO 1.2 (B10b)
 
@@ -219,7 +219,7 @@ Plano a aplicar aos alunos com 1.ª matrícula
 
 anterior a 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 deve ler-se:
 
@@ -229,13 +229,13 @@ QUADRO N.º 1.1a
 
 Plano a aplicar aos estudantes com 1.ª matrícula em 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO N.º 1.1b
 
 Plano a aplicar aos estudantes com 1.ª matrícula anterior a 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B1 - Licenciatura em Geologia com minor em Agronomia
 
@@ -243,13 +243,13 @@ QUADRO N.º 1.2 (B1a)
 
 Plano a aplicar aos estudantes com 1.ª matrícula em 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO N.º 1.2 (B1b)
 
 Plano a aplicar aos estudantes com 1.ª matrícula anterior a 2009/2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B2 - Licenciatura em Geologia com minor em Astronomia
 
@@ -257,13 +257,13 @@ QUADRO N.º 1.2 (B2a)
 
 Plano a aplicar aos estudantes com 1.ª matrícula em 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO N.º 1.2 (B2b)
 
 Plano a aplicar aos estudantes com 1.ª matrícula anterior a 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B3 - Licenciatura em Geologia com minor em Biologia
 
@@ -271,19 +271,19 @@ QUADRO N.º 1.2 (B3a)
 
 Plano a aplicar aos estudantes com 1.ª matrícula em 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO N.º 1.2 (B3b)
 
 Plano a aplicar aos estudantes com 1.ª matrícula anterior a 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B4 - Licenciatura em Geologia com minor em Estatística e Modelos
 
 QUADRO N.º 1.2 (B4)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B5 - Licenciatura em Geologia com minor em Física
 
@@ -291,13 +291,13 @@ QUADRO N.º 1.2 (B5a)
 
 Plano a aplicar aos estudantes com 1.ª matrícula em 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO N.º 1.2 (B5b)
 
 Plano a aplicar aos estudantes com 1.ª matrícula anterior a 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B6 - Licenciatura em Geologia com minor em Informação Geográfica
 
@@ -305,13 +305,13 @@ QUADRO N.º 1.2 (B6a)
 
 Plano a aplicar aos estudantes com 1.ª matrícula em 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO N.º 1.2 (B6b)
 
 Plano a aplicar aos estudantes com 1.ª matrícula anterior a 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B7 - Licenciatura em Geologia com minor em Informática
 
@@ -319,25 +319,25 @@ QUADRO N.º 1.2 (B7a)
 
 Plano a aplicar aos estudantes com 1.ª matrícula em 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO N.º 1.2 (B7b)
 
 Plano a aplicar aos estudantes com 1.ª matrícula anterior a 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B8 - Licenciatura em Geologia com minor em Matemática
 
 QUADRO N.º 1.2 (B8)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B9 - Licenciatura em Geologia com minor em Matemática Aplicada
 
 QUADRO N.º 1.2 (B9)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 B10 - Licenciatura em Geologia com minor em Química
 
@@ -345,12 +345,14 @@ QUADRO N.º 1.2 (B10a)
 
 Plano a aplicar aos estudantes com 1.ª matrícula em 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 QUADRO N.º 1.2 (B10b)
 
 Plano a aplicar aos estudantes com 1.ª matrícula anterior a 2009-2010
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf))](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/129000000/2869028696.pdf)
 
 30 de Junho de 2011. - O Reitor, José Carlos Diogo Marques dos Santos.
+
+204859794

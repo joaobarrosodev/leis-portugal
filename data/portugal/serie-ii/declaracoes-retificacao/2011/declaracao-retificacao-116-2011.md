@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/011000000/0333803338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/116-2011-1388522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e6afa966136baaf4b526b50ae1c9b41be622e43452875d659dca265df7f23e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0108add4b0dbfd11034f653febf69fe00d1f9aefa6152df9ac9d0c39a7bfcb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:20Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 116/2011
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 4, de 6 de Janeiro de 2011, o aviso n.º 484/2011, a p. 652, rectifica-se que onde se lê «e por despacho do Subdirector do Instituto de Gestão do Património Arqueológico e Arquitectónico (IGESPAR, I. P.), por delegação, de 14.10.2010.» deve ler-se «e por despacho do subdirector do Instituto de Gestão do Património Arquitectónico e Arqueológico (IGESPAR, I. P.), por delegação, de 14 de Dezembro de 2010.».
 
 6 de Janeiro de 2011. - A Directora do Departamento de Gestão, em substituição, Fernanda Garção.
+
+204188935

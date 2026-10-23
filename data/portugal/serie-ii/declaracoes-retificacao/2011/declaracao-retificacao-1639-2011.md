@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,41 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1639-2011-2247569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 519b9eebf7bd8ee4adb758962c08b6a3687edb04b9b5f051395dbe93c378af2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b86daa1d475fe25c1f72596dffa999590d2305a848cdeeb800d1ed9c1e2198a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ação Social Escolar
+- Ajuda Alimentar
+- Ensino
+- Estudante
+- Financiamento
+- Governo XIX
+- Ministério da Educação e Ciência
+relationships:
+- type: cites
+  target: pt:dre:1342002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69927755:por
+  label: Revogada pelo(a) Despacho n.º 8452-A/2015 - Diário da República n.º 148/2015, 2º Suplemento, Série II de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/8452-a-2015-69927755
+  date: '2015-07-31'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:07Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1639/2011
+# Declaração de rectificação n.º 1639/2011
 
 Por ter sido publicado com diversas inexactidões o despacho n.º 12284/2011 no Diário da República, 2.ª série, n.º 180, de 19 de Setembro de 2011, seguidamente se republica o mesmo em anexo:
 
@@ -120,7 +176,9 @@ Normas para atribuição dos auxílios económicos
 
 7 - ...
 
-###### Artigo 9.º — Situações excepcionais
+Artigo 9.º
+
+Situações excepcionais
 
 1 - ...
 
@@ -138,7 +196,9 @@ Normas para atribuição dos auxílios económicos
 
 8 - As alterações previstas nos n.os 4 do artigo 8.º e 5 do presente artigo que ocorram ao longo do ano lectivo de 2011-2012 dão direito a todas as medidas de acção social escolar, com excepção da comparticipação nos encargos com a aquisição de manuais escolares.
 
-###### Artigo 11.º — Bolsas de mérito
+Artigo 11.º
+
+Bolsas de mérito
 
 1 - Os alunos matriculados nas ofertas de ensino de nível secundário para jovens em estabelecimentos públicos ou em estabelecimentos particulares ou cooperativos em regime de contrato de associação podem candidatar-se à atribuição de bolsas de mérito nos termos do regulamento publicado no anexo vi do presente despacho, do qual faz parte integrante.
 
@@ -164,34 +224,40 @@ Preço das refeições
 
 (n.os 2 do artigo 3.º e 4 do artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf))](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
 
-## ANEXO II — Alojamento
+ANEXO II
+
+Alojamento
 
 (a que se refere o n.º 3 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf))](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
 
-## ANEXO III — Auxílios económicos
+ANEXO III
+
+Auxílios económicos
 
 (a que se referem os n.os 2 do artigo 8.º e 1 do artigo 9.º)
 
 1.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf))](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
 
 2.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf))](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
 
 3.º ciclo do ensino básico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf))](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
 
 Ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf))](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/11/210000000/4333443336.pdf)
 
 1 de Setembro de 2011. - O Secretário de Estado do Ensino e da Administração Escolar, João Casanova de Almeida.»
 
 25 de Outubro de 2011. - O Chefe de Gabinete, Eduardo Costa Fernandes.
+
+205293815

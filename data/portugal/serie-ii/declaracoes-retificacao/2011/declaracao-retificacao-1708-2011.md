@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/216000000/4470544705.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1708-2011-1475443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 427c911f137adfeaaef554f61d02ec98b721016d7a9f889ef8f259e91a70f091
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9d4a4929f0aa90c0c792e02ad48e86b308554c15d70c573c6cdeb0cdc4e5975
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:32Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1708/2011
 Por ter sido publicado com inexactidão o despacho n.º 14446/2011, publicado no Diário da República, 2.ª série, n.º 204, de 24 de Outubro de 2011, referente ao plano de estudos conducente ao grau de mestre em Informática na Saúde (Pós-Laboral) da Escola Superior de Tecnologia de Abrantes do Instituto Politécnico de Tomar, rectifica-se que onde se lê «Escola Superior de Gestão de Tomar» ou «Escola Superior de Tecnologia de Tomar» deve ler-se «Escola Superior de Tecnologia de Abrantes».
 
 2 de Novembro de 2011. - O Presidente, Eugénio Manuel Carvalho Pina de Almeida.
+
+205317678

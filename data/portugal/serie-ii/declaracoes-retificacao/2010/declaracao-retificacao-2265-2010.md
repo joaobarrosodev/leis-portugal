@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/216000000/5519155191.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2265-2010-1475104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cdfe9ac8d050d552158d963cf05c948efc099c4dda9542fe7002bd91b93d75a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0baceb1c9134825d09cdab435e37e5013727605e7accc66325233039ca232c6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:31Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ deve ler-se:
 «Candidatos excluídos: Alexandra Filomena Reis Rocha e Isabel Maria Barreira Freitas, por terem desistido na prova de conhecimentos específicos; Adelaide Maria Moura Lopes, Adriano Miguel Ribeiro Maia, Alexandra Marisa Pereira Meireles, Ana Filipa Ribeiro Silva Machado, Ana Paula Cruz Lourenço, Ana Paula Henrique Leite Monteiro, Anabela Ferreira Crespo, Andreia Isilda Cruz Silva, Andreia Lisete Miranda Silva Leal, Ângela Maria Moreira Leal Alves, António Filipe Teixeira Tavares, Bebiano Gomes, Célia Conceição Oliveira da Costa, Cláudia Alexandra Silva Moreira, Diana Carmo Alves Soares, Emanuel Augusto Peixoto Fernandes, Fernando Manuel Leite Cunha Pinto, Francisco José Vale Teixeira Ancêde Fonseca, Gabriel Carlos Silva Pinto Sobral Dias, Hélder José Costa Claro, Ilídio José Ribeiro Santos, Joana Gabriela Moura Ferreira, Libânia Patrícia Lima Pereira, Liliana Raquel Lima Freitas, Luís Miguel Fernandes Osório, Maria Assunção Santos Carvalho, Maria Fátima Silva Mendes Campos, Maria Inês Carvalho Araújo Couto Jorge, Mariana Couto Castro Moreira Neves, Natália Silva Gaspar, Patrícia Susana Sousa Teixeira, Paula Alexandra Magalhães Moura, Rogério Daniel Rocha Magalhães, Sandra Maria Ribeiro Andrade, Sara Andreia Aguiar Gonçalves Silva, Sara Vieira Amaral, Sofia Manuela Pereira Moura Dias Martins, Sónia Lucília Moreira Cunha, Sónia Marisa Machado Prata, Sónia Patrícia Teixeira Vilela Silva, Tatiana Natacha Moreira Pontes, Teresa Paula Couto Rodrigues Nunes, Vera Lia Baptista Silva Leal, Vítor Daniel Galhardo Santos, Vítor José Neves Couto e Viviana Maria Barrocas Barros, por terem faltado à prova de conhecimentos específicos; Cátia Isabel Azevedo Ferreira, Guilhermina Alexandra Vieira Libório Aguiar Pinto, Maria Conceição Moreira Pinto e Sérgio Duarte Costa Florindo, por terem obtido nota inferior a 9,50 valores na prova de conhecimentos específicos; Liliana Maria Barbosa França, Maria Conceição Santos Oliveira e Maria Lídia Medeiros Pimenta Silva Neves, por terem obtido nota inferior a 9,50 valores na prova de avaliação psicológica.»
 
 22 de Outubro de 2010. - A Vereadora, com competências delegadas, Susana Paula Barbosa Oliveira.
+
+303876745

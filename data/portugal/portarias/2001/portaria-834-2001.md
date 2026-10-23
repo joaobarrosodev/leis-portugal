@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/834/2001/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/834-2001-371814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfa20d4d00d3364f8600867afbf10835c99f5351cae96e11af7f53c2ec6b9c07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 879592877ee2ff72ce6c2a62f75680dfd28064fbbc94f0e5a15b2b3ac96cc832
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,40 @@ relationships:
   target: pt:dre:335183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603943:por
+  label: "Anexados vários prédios rústicos á zona de caça municipal criada pelo presente diploma, pela PORT.63/2004.16.01.2004.MADRP,\
+    \ DR.IS-B [13] de 16.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/63-2004-603943
+  date: '2004-01-16'
+- type: amended_by
+  target: pt:dre:640336:por
+  label: "Renovada por um período de 6 anos, a concessão da zona de caça criada pelo presente diploma, alterada pela Portaria\
+    \ n.º 63/2004, de 16 de Janeiro, pela PORT.1135/2007.10.09.2007.MADRP, DR.IS [174] de 10.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1135-2007-640336
+  date: '2007-09-10'
+- type: amended_by
+  target: pt:dre:438402:por
+  label: "Excluídos vários prédios rústicos da zona de caça municipal criada pelo presente diploma, alterada pela Port 63/2004,\
+    \ de 16-Jan e pela Port 1135/2007, de 10-Set, pela PORT.1191/2008.16.10.2008.MADRP, DR.IS [201] de 16.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1191-2008-438402
+  date: '2008-10-16'
+- type: amended_by
+  target: pt:dre:482855:por
+  label: "Excluídos vários terrenos cinegéticos da zona de caça criada pelo presente diploma, alterada pela Port 63/2004,\
+    \ de 16-Jan, renovada pela Port 1135/2007, de 10-Set, e alterada pela Port 1191/2008, de 16-Out, pela PORT.1300/2009.19.10.2009.MADRP,\
+    \ DR.IS [202] de 19.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1300-2009-482855
+  date: '2009-10-19'
+- type: amended_by
+  target: pt:dre:335183:por
+  label: "Excluídos terrenos cinegéticos da zona de caça municipal de Cabeça de Carneiro criada pelo presente diploma, alterada\
+    \ pela Port 63/2004, de 16-Jan, renovada pela Port 1135/2007, de 10-Set e alterada pela Port 1191/2008, de 16-Out e pela\
+    \ Port 1300/2009, de 19-Out e concessionada, pelo período de seis anos, à Associação de Caçadores e Pescadores de Cabeça\
+    \ de Carneiro, a zona de caça associativa da Cabeça de Carneiro, pela PORT.463/2010.02.07.2010.MADRP, DR.IS [127] de 02.07.2010\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/463-2010-335183
+  date: '2010-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -90,16 +124,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/467/2001/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/467/2001/05/08/p/dre
+- type: cites
+  target: pt:dre:316162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:48Z'
   warnings: []
   errors: []
 ---

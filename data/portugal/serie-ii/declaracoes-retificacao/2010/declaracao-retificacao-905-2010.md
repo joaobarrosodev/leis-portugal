@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/087000000/2420324203.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/905-2010-2119662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15d0b3b9ccd84cbafabcc842c7fc0f277a09376a24eb3a0ca57e0ccadfb7dd7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7a93dc953203f54c97c167e77c2d72715b7e1c2e45bcd9ffb98ff1e1821fa81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:44Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Procedimento concursal para o preenchimento de três postos de trabalho da carre
 Por o procedimento concursal aberto através do aviso n.º 8216/2010, no Diário da República, 2.ª série, n.º 79, de 23 de Abril de 2010, ter sido publicado com inexactidão, rectifica-se que, no n.º 7, onde se lê, «proceder-se-á ao recrutamento de trabalhadores com relação jurídica de emprego público por tempo determinado ou sem relação jurídica de emprego público previamente estabelecida, conforme despacho» deve ler-se «proceder-se-á ao recrutamento de trabalhadores com relação jurídica de emprego público por tempo determinado ou determinável, conforme despacho», no n.º 8.4, onde se lê «nos termos do ponto 11 do presente aviso» deve ler-se «nos termos do n.º 12 do presente aviso» e no n.º 19.1, onde se lê «em que o número de lugares a preencher seja de um ou dois, o candidato com deficiência tem preferência em igualdade de classificação, a qual prevalece sobre qualquer outra preferência legal» deve ler-se «em que o número de lugares a preencher é inferior a 10 e igual ou superior a três, é garantida a reserva de um lugar para candidatos com deficiência».
 
 27 de Abril de 2010. - O Presidente da Câmara, José Maria Ministro dos Santos.
+
+303193411

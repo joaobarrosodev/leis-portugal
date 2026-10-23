@@ -46,41 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1067-2011-1611625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2f534651eefdbc5434ed66712571d94db017f0f308dfac2860a571e1d055715
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8efa0feb01456f7b7108df262459fea24461f9bc7e9ccbdef25293cb3f8d65bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Dívida Pública
+- Emissão de Títulos
+- Instituto de Gestão da Tesouraria e do Crédito Público
+- Obrigações do Tesouro
+relationships:
+- type: cites
+  target: pt:dre:209621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693818:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:aviso:10074/2011
+  label: "Rectifica o aviso n.º 10074/2011, DR.IIS [86] de 4 de Maio de 2011.\0\0"
+  source: null
+  date: '2011-05-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:39Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1067/2011
+# Declaração de rectificação n.º 1067/2011
 
 Tendo-se verificado que o aviso n.º 10074/2011, publicado no Diário da República, 2.ª série, n.º 86, de 4 de Maio de 2011, se encontra com incorrecções, é feita a rectificação através da sua republicação:
 
@@ -125,3 +186,5 @@ Esta informação reflecte o regime de tributação vigente à data do presente 
 14 de Fevereiro de 2011. - O Presidente do Conselho Directivo, Alberto Soares.»
 
 21 de Junho de 2011. - O Presidente do Conselho Directivo, Alberto Soares.
+
+204826737

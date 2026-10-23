@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/236000000/4830148301.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1900-2011-1017247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f621b0dbb67c8f184d41636f5842b951050d2f74bacec4ca5a9d14c6ede6093
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9780d7b826023b398e288918e60dbb04f448b9c8c7be258fbb7333c1f060e3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:44Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1900/2011
 Por ter saído com inexactidão o despacho n.º 15884/2011, publicado no Diário da República, 2.ª série, n.º 224, de 22 de Novembro de 2011, rectifica-se que onde se lê «com Flávio Correia, como Assistente Operacional, na sequência de procedimento concursal» deve ler-se «com Flávio Corrêa, como assistente operacional, do mapa de pessoal dos Serviços de Acção Social, na sequência de procedimento concursal» e onde se lê «O Administrador, José Manuel Gomes» deve ler-se «O Administrador dos SAS, Antero de Figueiredo Marques Teixeira».
 
 29 de Novembro de 2011. - O Administrador dos SAS, Antero de Figueiredo Marques Teixeira.
+
+205424192

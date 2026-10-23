@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/237000000/4844148441.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1906-2011-1889850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d169c4978468f7388fdacdb8fce9ff442df9c63eea3ba2c25d8766b536c388f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a60897db49e2d97415533ba6bc2d3639401bf365ae7768fcd389885416081cd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:47Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1906/2011
 Tendo sido publicado com inexactidão o despacho de conversão automática do exercício de funções a título transitório em exercício de funções por tempo indeterminado em lugar vago do mapa de pessoal da Autoridade Florestal Nacional do trabalhador Mário Lopes do Cabo, no Diário da República, 2.ª série, n.º 121, de 25 de Junho de 2010, sob o despacho n.º 10601/2010, rectifica-se que onde se lê «e do trabalhador Mário Lopes do Cabo com a categoria de assistente operacional da carreira de assistente operacional» deve ler-se «e do trabalhador Mário Lopes do Cabo com a categoria de encarregado operacional da carreira de assistente operacional».
 
 31 de Outubro de 2011. - O Vice-Presidente, Manuel Gabriel.
+
+205430397

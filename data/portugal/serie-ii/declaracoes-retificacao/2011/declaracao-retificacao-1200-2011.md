@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/146000000/3168431685.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1200-2011-762421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4463724ca0da9e52de53707126413fb3fd3b89c00ab0529458a77a76109f9742
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abd31b3abfa43dcb59302b6d1b1d79f8df388193ddf80f6fdb59238d6635404d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,142 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
 relationships:
+- type: cites
+  target: pt:dre:197493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0250
   label: null
@@ -82,18 +218,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:35Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1200/2011
+# Declaração de rectificação n.º 1200/2011
 
 Por ter saído com incorrecção a legislação das Referências A) e B) constantes do ponto 16.1) do aviso n.º 14653/2011, publicado no Diário da República, 2.ª série, n.º 139, de 21 de Julho de 2011, procede-se à rectificação do mesmo.
 
@@ -114,3 +250,5 @@ deve ler-se:
 «Legislação Específica: Directiva INSPIRE 2007/2/CE, do Parlamento Europeu e do Conselho, de 14 de Março de 2007, em vigor desde 15 de Maio, estabelece a criação da Infra-Estrutura Europeia de Informação Geográfica. Disponível no sítio http://snig.igeo.pt/Inspire/; [Lei n.º 56/2007](https://diariodarepublica.pt/dr/detalhe/lei/56-2007-641151), de 31 de Agosto, Diário da República, 1.ª série, n.º 168; [Decreto-Lei n.º 180/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2009-494010), de 7 de Agosto, Diário da República, 1.ª série, n.º 152;[Decreto-Lei n.º 193/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1995-484653), de 28 de Julho, Diário da República, 1.ª série-A, n.º 173; [Decreto-Lei n.º 59/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2002-264572), de 15 de Março, Diário da República, 1.ª série-A, n.º 63; [Decreto-Lei n.º 202/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2007-638574), de 25 de Maio, Diário da República, 1.ª série-A, n.º 101; despacho n.º 7186/2003, 2.ª série, Ministério das Cidades, Ordenamento do Território e Ambiente; despacho n.º 10 783/2003, 2.ª série, Ministério das Cidades, Ordenamento do Território e Ambiente; despacho n.º 4289/2004, 2.ª série, Ministério das Cidades, Ordenamento do Território e Ambiente; [Decreto Regulamentar n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-2009-494186), de 29 de Maio, Diário da República, 1.ª série-A, n.º 104; [Decreto-Lei n.º 172/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1995-462035), de 18 de Julho, Diário da República, 1.ª série-A, n.º 164; [Portaria n.º 1192/95](https://diariodarepublica.pt/dr/detalhe/portaria/1192-1995-574877), de 30 de Novembro, Diário da República, 1.ª série-B, n.º 228; [Decreto-Lei n.º 224/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2007-638772), 31 de Maio, Diário da República, 1.ª série-A, n.º 105; Portaria n.º 936/2009, de 20 de Agosto, Diário da República, 1.ª série, n.º 161; Portaria n.º 976/2009, de 1 de Setembro, Diário da República, 1.ª série, n.º 169;[Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), 4 de Julho, Diário da República, 1.ª série, n.º 128, com as alterações decorrentes do [Decreto-Lei n.º 185/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2009-493506), de 12 de Agosto, Diário da República, 1.ª série, n.º 155 - Código do Registo Predial (http://www.irn.mj.pt/IRN/sections/irn/legislacao/docs-legislacao/codigo-do-re gisto-predial/); [Portaria n.º 1535/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1535-2008-444230), de 30 de Dezembro, Diário da República, 1.ª série, n.º 251;Urbanismo - Planeamento e Licenciamento Urbano: [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro, Diário da República, 1.ª série, n.º 170; Regime Jurídico de Urbanização e Edificação: [Portaria n.º 216-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/216-a-2008-243886), de 3 de Março, Diário da República, 1.ª série, n.º 44; Portaria n.º 232/2008, de 11 de Março, Diário da República, 1.ª série, n.º 50; Portaria n.º 348/2008, de 5 de Maio, Diário da República, 1.ª série, n.º 86; Aviso n.º 7791/10, de 19 de Abril, Diário da República, 1.ª série, n.º 75; Código Regulamentar do Município do Porto: [Lei n.º 31/2009](https://diariodarepublica.pt/dr/detalhe/lei/31-2009-491903), de 3 de Julho, Diário da República, 1.ª série, n.º 127 - Regime jurídico de qualificação profissional de técnicos responsáveis pela elaboração e subscrição projectos; [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, Diário da República, 1.ª série-A, n.º 222, com as alterações decorrentes do [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de Fevereiro, Diário da República, 1.ª série, n.º 36 - Regime Jurídico dos Instrumentos de Gestão Territorial: [Decreto Regulamentar n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2009-494182), de 29 de Maio, Diário da República, 1.ª série, n.º 104; [Decreto Regulamentar n.º 11/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2009-494181), de 29 de Maio, Diário da República, 1.ª série, n.º 104; [Portaria n.º 137/2005](https://diariodarepublica.pt/dr/detalhe/portaria/137-2005-619758), de 2 de Fevereiro, Diário da República, 1.ª série-B, n.º 23. Bibliografia: Topografia: Topografia Geral, Autores: João Casaca, João Matos e Miguel Baio, Edição: Lidel, Ano: Fevereiro de 2000; Desenho Técnico Moderno, Autores: Arlindo Silva, João Dias e Luís Sousa, Edição: Lidel, Ano: Novembro de 2002; Topografia - Conceitos e Aplicações, Autores: José Alberto Gonçalves, Sérgio Madeira e J. João Sousa, Edição: Lidel, Ano: 2008; Sistema de Informação Geográfica: Fundamentos de Informação Geográfica, Autor: João Luís de Matos, Edição: Lidel, Ano Março de 2000; A Emergência dos Sistemas de Informação Geográfica na Análise e Organização do Espaço, Autor: João de Azevedo Reis Machado, edição Fundação Calouste Gulbenkian, Ano: Maio de 2000; Cartografia/Geodesia: Cartas e Projecções Cartográficas, Autor: Joaquim Alves Gaspar, Edição: Lidel, Ano: Outubro de 2000; Manual de Leituras de Cartas, Edição: Instituto Geográfico do Exército, Ano: Agosto de 2002; Cartografia e Geodesia - Actas da III Conferência Nacional de Cartografia e Geodesia, Autores: Luísa Bastos e João Matos, Edição: Lidel, Ano: Março de 2004; Cartografia e Geodesia 2005 - Actas da IV Conferência Nacional de Cartografia e Geodesia, Autores: João Casaca e João Matos, Edição: Lidel, Ano: Março de 2005; Cartografia e Geodesia 2007 - Actas da V Conferência Nacional de Cartografia e Geodesia, Autores: João Casaca e João Matos, Edição: Lidel, Ano: Março de 2007; Cadastro Predial e Sistema Nacional de Exploração e Gestão de Informação Cadastral (SINERGIC): Especificações Técnicas para a Informatização do Cadastro Geométrico da Propriedade Rústica (Versão 3.0), disponível no sítio http://www.igeo.pt/servicos/Inf_cadastral.htm. PDF acedido em Abril 2011; Catálogo de Objectos para a Informatização do Cadastro Geométrico da Propriedade Rústica (Versão 1.0), Disponível no sítio http://www.igeo.pt/servicos/Inf_cadastral.htm. PDF acedido Abril 2011; Convenções gráficas das secções cadastrais, Disponível no sítio http://www.igeo.pt/servicos/Inf_cadastral.htm PDF acedido Abril 2011; Especificações Técnicas da Execução de Cadastro Predial, (Versão 2.2) Disponível no sítio http://www.igeo.pt/sinergic/portugues/downloads.html. PDF acedido Abril 2011; O Sistema de Referência Terrestre Europeu 1989 - ERTS 89/PT - TM06 e as metodologias de conversão de coordenadas cartográficas e geográficas. Disponível no sítio http://www.fc.up.pt/pessoas/jagoncal/coordenadas.»
 
 22 de Julho de 2011. - Em Substituição da Directora de Departamento Municipal de Gestão de Recursos Humanos (despacho n.º I/112664/11/CMP, de 15 de Julho), Liliana Cardoso.
+
+304952108

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/221000000/4563245632.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1750-2011-3064333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db4bab43adb7c39f7a8e7e475cacb5282e95d88ffbaa34c8071953b7e9f7607b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfb76024231f9289dc32a369818be6934855b79ae63299d71fc5fbd65cf81e52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:47Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1750/2011
+# Declaração de rectificação n.º 1750/2011
 
 Por ter sido publicado com inexactidão o despacho reitoral R-35-2011 (1.1), de 17 de Agosto, no Diário da República, 2.ª série, n.º 213, de 7 de Novembro de 2011, com o n.º 15 029/2011, referente à alteração do curso pós-graduado de especialização em Direcção de Escolas, rectifica-se que:
 
@@ -104,3 +116,5 @@ deve ler-se:
 «2 - [...] nos termos do artigo 77.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março, alterado pelos Decretos-Lei n.os [107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), de 25 de Junho, e [230/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2009-489773), de 14 de Setembro, rectificado pela Declaração de Rectificação n.º 81/2009, de 27 de Outubro.»
 
 8 de Novembro de 2011. - O Vice-Reitor, António Vasconcelos Tavares.
+
+205344642

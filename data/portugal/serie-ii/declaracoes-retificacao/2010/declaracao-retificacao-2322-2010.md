@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/220000000/5599455994.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2322-2010-1666465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aa8f12de84f4e79d62910c4f9f185f306ee7c0f027756e4cd479d1250758abf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a320e40947739fe25de0c9677612178de020d302fe5e07947c4997765c75aeae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:51Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Declaração de rectificação n.º 2322/2010
 Por ter saído com inexactidão no Diário da República, 2.ª série, n.º 190, de 29 de Setembro de 2010, a p. 48716, o despacho n.º 14957/2010, referente à mestre Aleida Lopes Vaz de Carvalho, rectifica-se que onde se lê «Universidade do Minho, Escola de Economia e Gestão, 1 de Setembro de 2010» deve ler-se «Universidade do Minho, Escola de Economia e Gestão, 9 de Agosto de 2010».
 
 5 de Novembro de 2010. - O Presidente, José António Oliveira Rocha.
+
+203908797

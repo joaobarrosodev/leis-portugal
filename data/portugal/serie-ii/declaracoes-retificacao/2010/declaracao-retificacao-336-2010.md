@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/035000000/0755307553.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/336-2010-3473720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e721e547819b8223b535e28dfc25a3c6116ade131f27543b56fe37f17c14fc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c56a60859b2a6c3e7a97328cb46ebd92849db8bc24135fffdcaba2a2912ee89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:22Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 336/2010
 Por ter sido redigido com inexactidão o aviso n.º 2112/2010, publicado no Diário da República, 2.ª série, n.º 20, de 29 de Janeiro de 2010, rectifica-se que onde se lê «secretária do vereador Sónia Manuela Martins de Sá, com efeitos a partir do dia 12 de Novembro de 2009» deve ler-se «a Dr.ª Sónia Manuela Martins de Sá, como secretária do vereador Dr. José Carlos Brito, com efeitos a partir do dia 12 de Novembro de 2009».
 
 5 de Fevereiro de 2010. - O Vereador, com competência delegada, Domingos Ribeiro Pereira.
+
+302898095

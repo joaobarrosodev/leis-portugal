@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/238000000/5994059940.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2556-2010-851628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2837adbc8e1122e39980172bf6187aa616f9e6714543b7a88ad2c9e1e3b9217
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8045ce8a727387d01848b343b9cb7df39277599ead047de58cd5daa1840c977
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:16Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2556/2010
 Para os devidos efeitos se torna público que no aviso (extracto) n.º 24653/2010, da publicação e homologação da lista unitária de ordenação final, publicado no Diário da República, 2.ª série, n.º 231, de 29 de Novembro de 2010, onde se lê «nos termos do ponto 17.3 do aviso n.º 18604/2010 publicado na 2.ª série do Diário da República, n.º 184 de 21/9/2010» deve ler-se «nos termos do n.º 17.3 do aviso n.º 18025/2010, publicado no Diário da República, 2.ª série, n.º 178, de 13 de Setembro de 2010».
 
 2 de Dezembro de 2010. - O Director, Jorge Gabriel Moniz Lemos.
+
+204020064

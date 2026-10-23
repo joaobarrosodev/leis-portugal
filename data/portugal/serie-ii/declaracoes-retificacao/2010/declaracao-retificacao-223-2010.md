@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/025000000/0563305633.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/223-2010-918012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32562a587fd9c2d54401f05c3d8bba48e7a630131d5dde1ba1444a3a10b97f77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 930f15bcb53496369000bc8bce0b88f4e87a2e2e9fdeb03dda6d73e0c9914030
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:21Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 223/2010
 Após publicação com inexactidão no Diário da República, 2.ª série, n.º 3, de 6 de Janeiro de 2010, de p. 334 a p. 335, do aviso n.º 186/2010, rectifica-se que onde se lê «2.º vogal: António Manuel Costa Maurício - enfermeiro especialista em saúde infantil e pediátrica da Maternidade Alfredo da Costa» deve ler-se «2.º vogal: José Henrique Lima dos Santos - enfermeiro especialista do Centro Hospitalar Psiquiátrico de Lisboa» e onde se lê «1.º vogal: José Henrique Lima dos Santos - enfermeiro especialista do Centro Hospitalar Psiquiátrico de Lisboa» deve ler-se «1.º vogal: António Manuel Costa Maurício - enfermeiro especialista em Saúde Infantil e Pediátrica da Maternidade Alfredo da Costa».
 
 1 de Fevereiro de 2010. - O Chefe da Divisão de Recursos Humanos, Fernando Manuel Caetano da Silva.
+
+202861522

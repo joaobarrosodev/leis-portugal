@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/201000000/5101051010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2096-2010-2771235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b7d2d7c8ee510b8d2d971e913add539551ef92c5d45cf5b57a00c7369ed95d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 871caf9b3d526c57e8824c9fb99c820a4a7969d360f52da8ebdfd9fb9e8cb37f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:30Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2096/2010
 Por ter saído com inexactidão o aviso n.º 16545/2010, respeitante ao procedimento concursal comum para recrutamento de trabalhador com vista à constituição de relação jurídica de emprego público por tempo indeterminado para o preenchimento de quatro postos de trabalho de técnico superior no âmbito regional do mapa de pessoal da ARS Lisboa e Vale do Tejo, I. P., publicado no Diário da República, 2.ª série, n.º 161, de 19 de Agosto de 2010, rectifica-se que onde se lê «Avenida António Augusto Aguiar, n.º 19 - 2.º andar, 1050-012 Lisboa» deve ler-se «Largo do Dr. Dário Gandra Nunes, 1, 2704-511 Amadora».
 
 20 de Agosto de 2010. - O Presidente do Conselho Directivo, Rui Gentil de Portugal e Vasconcelos Fernandes.
+
+203781845

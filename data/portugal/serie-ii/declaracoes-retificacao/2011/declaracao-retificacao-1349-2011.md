@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1349-2011-1499048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84521df7bf335bce753a2bc001079422959ce010c09e53a00a6f5cb2f6b6bd66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cafc09ddbe314d1f4f54ba35d00b077c739544b5963d73387e6bead30d40745c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:25Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +106,7 @@ Por ter saído com inexactidão a publicação do anexo do despacho n.º 2724/20
 
 6 - Áreas científicas e créditos que devem ser reunidos para a obtenção do grau:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf))](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf)
 
 7 - Plano de estudos:
 
@@ -122,16 +122,18 @@ Enfermagem de Saúde Mental e Psiquiatria
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf))](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf)
 
 2.º semestre
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf))](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf)
 
 3.º semestre
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf))](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/164000000/3517135172.pdf)
+
+205045614

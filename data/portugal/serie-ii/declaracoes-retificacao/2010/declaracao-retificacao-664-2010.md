@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/664-2010-2232984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5597a9574679498f7c14bc2908db424ac20579fffac913954fda909b368e5422
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47637403b46294a46d8a427060be0fbdf13fff5bc8db6431ccc9e233e4fdaab7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:19Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 664/2010
+# Declaração de rectificação n.º 664/2010
 
 Alberto Fernando da Silva Santos, presidente da Câmara Municipal de Penafiel, torna público que o regulamento n.º 490/2009, publicado no Diário da República, 2.ª série, n.º 239, de 11 de Dezembro de 2009, (Regulamento de Liquidação e Cobrança de Taxas e Outras Receitas Municipais e respectiva Tabela), saiu publicado com uma inexactidão (não foi publicada a respectiva fundamentação económico-financeira do valor das taxas municipais do Município de Penafiel), que assim se rectifica.
 
@@ -143,7 +167,7 @@ QUADRO 2.1
 
 Principais tipologias de taxas municipais de secretaria e seus referenciais de base
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Existe um primeiro grupo de taxas que se centram em procedimentos administrativos e que, frequentemente, se designam por taxas de secretaria. Todas as taxas deste tipo costumam ter como referencial o custo. Algumas delas são sujeitas a factores de incentivo e desincentivo. O critério de incidência é geralmente o custo da contrapartida (Quadro 2.1).
 
@@ -151,7 +175,7 @@ QUADRO 2.2
 
 Principais tipologias de taxas municipais de urbanização e edificação e seus referenciais de base
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Depois, existe um segundo grupo de taxas que incidem sobre operações urbanísticas e que, frequentemente, se designam por taxas de urbanização e edificação. Do ponto de vista da receita, esta é a tipologia de taxas mais importante para os municípios. A componente fixa associada a este tipo de taxas (apreciação) tem como referencial o custo. A parte variável tem frequentemente como referencial o benefício, sendo depois complementada por factores de desincentivo frequentemente associados ao tempo (Quadro 2.1).
 
@@ -159,7 +183,7 @@ QUADRO 2.3
 
 Principais tipologias de taxas municipais de ocupação do domínio público e seus referenciais de base
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Existe, também, um terceiro grupo de taxas incidentes sobre a ocupação do espaço público. Nesta tipologia encontramos essencialmente taxas por ocupações por mobiliário urbano, por equipamentos de concessionárias públicas, por instalações abastecedoras de carburantes líquidos, ar e água e por motivos de obras. Em regra, estas taxas têm como referencial o benefício, embora existam casos onde o referencial seja as externalidades negativas ou o custo de oportunidade (Quadro 2.3).
 
@@ -167,7 +191,7 @@ QUADRO 2.4
 
 Principais tipologias de taxas municipais de publicidade e seus referenciais de base
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Depois, temos um quarto grupo de taxas incidentes sobre a publicidade. Nesta tipologia encontramos as taxas por publicidade sonora, por publicidade na via pública, por exposição no exterior de estabelecimentos e por afixação de cartazes, placards e similares. Estas taxas seguem sempre um de dois referenciais: as externalidades negativas ou o benefício (Quadro 2.4).
 
@@ -175,7 +199,7 @@ QUADRO 2.5
 
 Principais tipologias de taxas municipais de tráfego e aparcamento e seus referenciais de base
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Num quinto grupo aparecem as taxas incidentes sobre tráfego e aparcamento. Nesta tipologia encontramos essencialmente as taxas associadas a parcómetros e a parques de estacionamento. Estas taxas, por regra, têm como referencial o mercado, podendo depois ser corrigidas por factores de incentivo ou de desincentivo (Quadro 2.5).
 
@@ -183,7 +207,7 @@ QUADRO 2.6
 
 Principais tipologias de taxas municipais de ambiente e higiene pública e seus referenciais de base
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Depois, num sexto grupo aparecem as taxas associadas a ambiente e higiene pública. Nesta tipologia encontramos as taxas ligadas a cemitérios e a ambiente e higiene pública em sentido mais lato. Estas taxas seguem com frequência como referencial o custo, embora a ocupação de jazigos e ossários e a concessão de terrenos para sepulturas perpétuas e jazigos sigam o referencial da capacidade de pagamento (Quadro 2.6).
 
@@ -191,7 +215,7 @@ QUADRO 2.7
 
 Principais tipologias de taxas municipais de cultura e desporto e seus referenciais de base
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Num sétimo grupo aparecem as taxas associadas à cultura e desporto. Nesta tipologia encontramos as taxas ligadas a bibliotecas, museus, espaços culturais, piscinas, pavilhões desportivos, etc. Por regra, estas taxas seguem como referencial o custo. A correcção por factores de incentivo está sempre presente nestas taxas (Quadro 2.7).
 
@@ -199,7 +223,7 @@ QUADRO 2.8
 
 Principais tipologias de taxas municipais ligadas a actividades económicas e seus referenciais de base
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Por último, num oitavo grupo, aparecem as taxas associadas às actividades económicas. Nesta tipologia encontramos taxas muito diversas, umas incidentes sobre o licenciamento de estabelecimentos e actividades, outras sobre inspecção e fiscalização sanitária, outras ainda sobre exercício de actividade, ocupação de espaço, utilização de equipamentos, rendimentos da propriedade, licenciamento de eventos, emissão de horários de funcionamento e controlo metrológico. O referencial deste tipo de taxas divide-se entre o custo e o benefício, sendo depois frequente a sua correcção por factores de incentivo ou desincentivo (Quadro 2.8).
 
@@ -217,7 +241,7 @@ QUADRO 2.9
 
 Coeficientes de benefício segundo situações-tipo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Por sua vez, o incentivo ou desincentivo deverá resultar das opções de política municipal para cada área em concreto de aplicação de taxas. Assim, em situações onde se pretende introduzir um factor de desincentivo, deverá ter-se ID (maior que) 1. Em situações onde se pretende introduzir um factor de incentivo, deverá ter-se ID (menor que) 1. Naturalmente que, em situações de neutralidade, deverá ter-se ID = 1.
 
@@ -263,7 +287,7 @@ Este expediente permite, posteriormente, avançar para uma segunda fase cujo alc
 
 Figura 3.1 - Sinopse da metodologia de fundamentação económico-financeira das taxas municipais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A terceira componente envolve juízos de natureza eminentemente política, embora justificáveis do ponto de vista económico. Prende-se com a análise da razoabilidade de desvios existentes e visa dar cumprimento ao disposto no n.º 2 do artigo 4.º do RGTAL, que admite que as taxas (respeitando a necessária proporcionalidade) podem ser fixadas com base em critérios de benefício e ou de desincentivo à prática de certos actos ou operações. Nesta componente, desenvolve-se um exercício de aproximação dos coeficientes de benefício para cada item bem como dos coeficientes de incentivo/desincentivo. A fixação dos coeficientes de benefício é feita seguindo o mais possível os valores de referência encontrados na literatura da especialidade. A fixação dos coeficientes de incentivo/desincentivo é efectuada tendo em conta os objectivos essenciais do município em matéria económica, social e ambiental, sendo portanto natural que distintos municípios adoptem diferentes abordagens face a esta problemática, prevejam distintas magnitudes de actuação e adoptem posicionamentos discrepantes espelhando «idiossincrasias» muito próprias.
 
@@ -303,7 +327,7 @@ QUADRO 4.1
 
 Coeficientes de localização para efeitos de TMU
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Relativamente ao coeficiente de tipologia W, verifica-se que este determina uma diferenciação entre as edificações destinadas a habitação unifamiliar e as destinadas a habitação multifamiliar, comércio, serviços, indústria e armazéns, aspecto que se justifica pela diferença em termos do benefício que é retirado das diferentes tipologias e, simultaneamente, pelo diferente nível de infra-estruturação que lhes está normalmente subjacente e consequente acréscimo de investimento municipal necessário a essa infra-estruturação.
 
@@ -311,7 +335,7 @@ QUADRO 4.2
 
 Coeficientes de tipologia para efeitos de TMU
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Adicionalmente, o coeficiente W considera também o tipo de operação urbanística que lhe está subjacente, ao ser introduzida uma diferenciação deste parâmetro quando se trate de operações de loteamento. Analisando a forma como esta diferenciação está definida, verifica-se que o município atribui coeficientes mais baixos para este tipo de operação urbanística. Trata-se de uma opção perfeitamente consistente, dado que a sobrecarga sobre as infra-estruturas existentes e os encargos futuros em termos de manutenção e conservação dessas infra-estruturas apenas se fazem sentir com significado depois destes serem urbanizados. Para além disso, verifica-se que as operações de loteamento destinadas a indústria e ou armazéns têm associado um parâmetro inferior ao atribuído a operações relacionadas com comércio e ou serviços, o que não acontece quando se trata de outro tipo de operações urbanísticas. Esta opção sinaliza o interesse do município em promover a implantação destas actividades através da criação de loteamentos para esse fim.
 
@@ -321,7 +345,7 @@ QUADRO 4.3
 
 Análise económico-financeira da TMU em amostra de processos seleccionada
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A mostra recolhida não é muito rica, dado o baixo número de loteamentos efectuados no município em anos recentes. Acresce que, dados os objectivos da análise, apenas se seleccionaram loteamentos com obras de urbanização. De qualquer forma, os processos que constituem a amostra permitem concluir que o valor da TRMU fica sempre aquém do valor das infra-estruturas que lhe estão subjacentes e raramente ultrapassa os 10 % deste valor. Tendo em conta esta realidade, pode-se concluir que os valores cobrados pela TMU respeitam tendencialmente o princípio da proporcionalidade.
 
@@ -345,7 +369,7 @@ QUADRO 4.4
 
 Coeficiente de localização para efeitos do cálculo da compensação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 No que respeita à influência da localização e respectiva capacidade de construção (parâmetro K1), verifica-se que é efectuada uma diferenciação que favorece as zonas menos urbanizadas e, consequentemente, com maior capacidade de construção, seguindo a mesma lógica utilizada na definição do coeficiente de localização utilizado no cálculo da TMU. Assim sendo, o valor da compensação a pagar nas zonas do tipo C1, C2 e E1, que correspondem às zonas mais urbanizadas, será o mais elevado; por sua vez, o valor a pagar nas zonas do tipo C4, E3 e restantes, que correspondem às zonas menos urbanizadas, será o mais baixo. Esta discriminação é perfeitamente justificável, pretendendo-se com isto induzir um crescimento mais equilibrado do município, promovendo a dinamização das zonas menos urbanizadas e evitando um maior congestionamento das zonas já muito urbanizadas. Para além das zonas já referidas são ainda diferenciadas as zona industriais e ou de armazenagem.
 
@@ -355,7 +379,7 @@ QUADRO 4.5
 
 Coeficiente que depende da centralidade e acessibilidade do terreno em que se insere a operação (K2), para efeitos do cálculo da compensação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 No fundo, ambos os parâmetros captam a influência da localização, embora sob perspectivas diferentes. O parâmetro K1 capta a capacidade construtiva das diferentes zonas enquanto que o parâmetro K2 capta a maior ou menor acessibilidade de um determinado local, dentro de uma zona, discriminando positivamente as zonas que estão menos congestionadas, mais periféricas e cuja acessibilidade é mais difícil.
 
@@ -375,7 +399,7 @@ QUADRO 4.6
 
 Análise económico-financeira das Compensações em amostra de processos seleccionada
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Com o objectivo de complementar a fundamentação acabada de efectuar à fórmula das Compensações adoptada no município de Penafiel, procedeu-se à análise de uma amostra de processos recentes de operações urbanísticas neste concelho onde se apresenta as compensações cobradas. Pretende-se, com tal exercício, testar se estas respeitam o princípio da proporcionalidade. Este exercício encontra-se sistematizado no quadro supra e permite concluir que, de facto, o valor das compensações cobradas pelo município cumpre globalmente este princípio, nunca ultrapassando o limite dos 25 % do custo de construção fixado por lei.
 
@@ -389,7 +413,7 @@ QUADRO 4.7
 
 Elementos de suporte à fundamentação das taxas devidas por Serviços Administrativos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 O segundo caso respeita aos despejos sumários executados ao abrigo do Regime Geral das Edificações Urbanas ou de outras disposições legais aplicáveis, onde o custo da contrapartida foi sujeito a uma correcção pela aplicação de um coeficiente de desincentivo de 2, situação justificável pelas características próprias deste tipo de operações.
 
@@ -405,7 +429,7 @@ QUADRO 4.8
 
 Elementos de suporte à fundamentação das taxas devidas pela apreciação de processos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 O valor das taxas definido para os vários items que compõem esta categoria de taxas reflecte o custo da contrapartida da prestação de serviços que lhes está subjacente. Deste modo, está assegurado o respeito pelo princípio da proporcionalidade.
 
@@ -417,7 +441,7 @@ QUADRO 4.9
 
 Elementos de suporte à fundamentação das taxas devidas pela apresentação de elementos ao processo em apreciação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 O valor das taxas, em ambos os casos, atende ao custo da contrapartida, fixando-se em 19,26 (euro), dando-se assim cumprimento ao princípio da proporcionalidade.
 
@@ -429,7 +453,7 @@ QUADRO 4.10
 
 Elementos de suporte à fundamentação das taxas devidas pela emissão de alvará de licença ou comunicação prévia de operação de loteamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A taxa pela emissão de alvará de licença ou admissão de comunicação prévia atende ao custo de contrapartida, fixando-se em 19,26 (euro). Já a taxa especial por lote, por fogo ou por metro quadrado para outras utilizações, reflecte a participação do município no benefício do promotor, correspondendo a uma parcela muito reduzida do mesmo. Com efeito, considerando-se a situação-tipo, no município de Penafiel, de 6 lotes com 750 metros quadrados cada, de 6 fogos com 200 metros quadrados cada e de 500 metros quadrados por edificação para outras utilizações e considerando-se como proxy do benefício o valor médio fixado pelas Finanças para efeitos de valorização do solo (tendo-se utilizado o valor estipulado para 2008), constata-se que os valores cobrados correspondem a 0,01 % daquele valor de referência, no caso da taxa especial por lote, a 0,04 % no caso da taxa especial por fogo e 0,49 % para outras utilizações, concluindo-se que se tratam de montantes claramente reduzidos face ao beneficio potencial do promotor da operação.
 
@@ -445,7 +469,7 @@ QUADRO 4.11
 
 Elementos de suporte à fundamentação das taxas devidas pela emissão de alvará de licença ou comunicação prévia de obras de urbanização
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A taxa por emissão do alvará ou admissão de comunicação prévia atende ao custo da contrapartida e estabelece-se em 19,26 (euro). De igual modo, a taxa especial por tipo de infra-estruturas reflecte a totalidade do custo da contrapartida, fixando-se em 16,05 (euro). Já a taxa fixada por cada período de 30 dias ou fracção, que acresce às anteriores, visa desencorajar o prolongamento das obras por prazos muito alargados, por as mesmas causarem incómodo às populações, motivo que justifica a aplicação desta taxa, cuja razoabilidade não nos parece de questionar.
 
@@ -461,7 +485,7 @@ QUADRO 4.12
 
 Elementos de suporte à fundamentação das taxas devidas pela emissão de alvará ou admissão de comunicação prévia para realização de trabalhos de remodelação de terrenos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A taxa devida pela emissão do alvará ou admissão de comunicação prévia atende ao custo da contrapartida, fixando-se em 12,84 (euro). Já a taxa especial por área de intervenção atende ao benefício do promotor, reflectindo a participação do município nesse benefício. Assim, considerando-se as situações-tipo, em termos da dimensão da operação, para cada um dos intervalos considerados (500, 4000 e 15.000 metros quadrados) e o valor médio de valorização do solo por metro quadrado fixado pelas Finanças para o município de Penafiel, como proxy do benefício, conclui-se que os montantes a cobrar representam cerca de 0,16 % daquele montante no primeiro caso, 0,05 % no segundo caso e 0,03 % no terceiro caso, constituindo montantes claramente reduzidos face ao benefício potencial do promotor da operação. Relativamente à taxa por cada período de 30 dias ou fracção, à semelhança do que sucede noutras tipologias de taxas, a sua aplicação visa desencorajar o prolongamento excessivo das intervenções.
 
@@ -477,7 +501,7 @@ QUADRO 4.13
 
 Elementos de suporte à fundamentação das taxas devidas pela emissão de alvará ou admissão de comunicação prévia para obras de edificação
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A componente fixa, correspondente à taxa por emissão do alvará ou admissão de comunicação prévia, atende ao custo da contrapartida, fixando-se em 19,26 (euro). A componente variável, acresce à taxa por emissão do alvará ou admissão de comunicação prévia, e comporta duas componentes: a taxa especial desagregada por fim a que se destina a operação e a taxa por cada período de 30 dias.
 
@@ -487,7 +511,7 @@ QUADRO 4.14
 
 Taxas devidas pela emissão de alvará ou admissão de comunicação prévia para obras de edificação «versus» benefício
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A taxa por cada período adicional de 30 dias, conforme já foi referido para outras situações, tem por objectivo penalizar o alargamento excessivo da duração da operação, estabelecendo-se em 10 (euro) por cada 30 dias.
 
@@ -503,7 +527,7 @@ QUADRO 4.15
 
 Elementos de suporte à fundamentação das taxas devidas pela emissão de alvará de licença ou por comunicações prévias para outras operações urbanísticas e para demolições
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Para além da emissão propriamente dita, estão previstas taxas a pagar pelo aditamento ao alvará por alteração da licença ou por comunicação prévia.
 
@@ -515,7 +539,7 @@ QUADRO 4.16
 
 Taxas pela emissão de alvará de licença ou por comunicações prévias para outras operações urbanísticas e para demolições «versus» benefício
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Pelas razões apontadas, conclui-se que as taxas fundamentadas cumprem o princípio da proporcionalidade.
 
@@ -529,7 +553,7 @@ QUADRO 4.17
 
 Elementos de suporte à fundamentação das taxas devidas pelo alvará de autorização de utilização e de alteração de uso
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 O valor das taxas variáveis representa a participação da Câmara Municipal no benefício do particular. Considerando-se que a proxy desse benefício é o valor médio de construção por metro quadrado fixado pelas Finanças em 2008 (492 (euro)), conclui-se que essa participação representa uma parcela muito reduzida do mesmo. Com efeito, a taxa especial para habitação corresponde a 0,03 % do valor de referência, para comércio e serviços a 0,08 %, para indústria e para outros fins corresponde a 0,06 %. Como se pode constatar, essa parcela relativa à indústria é inferior à do comércio e serviços, quando a indústria é potencialmente geradora de benefícios superiores, o que se explica porque o valor definido tem implícito um incentivo que a câmara pretende dar à implantação de indústrias, justificação que nos parece aceitável dado que a indústria revela efeitos multiplicadores superiores ao do comércio e serviços, pelo que será de a atrair para o concelho.
 
@@ -543,7 +567,7 @@ QUADRO 4.18
 
 Elementos de suporte à fundamentação das taxas devidas pelo alvará de autorização de utilização previstas em legislação específica
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 O valor a pagar pela componente fixa, nas várias situações, correspondente à taxa por emissão do alvará e suas alterações, atende ao custo da contrapartida corrigido por um coeficiente de benefício, fixando-se em 48,14 (euro) (=32,09 (euro) x 1,5 x 1), no caso de estabelecimentos de restauração e ou bebidas, de estabelecimentos comerciais e de empreendimentos turísticos excepto parques de campismo e caravanismo. A aplicação destes coeficientes prende-se com o facto de estarmos perante actividades que tendem a proporcionar aos seus promotores elevados benefícios económicos, sendo o ganho potencial retirado da operação em análise bastante superior ao seu custo. No caso das casas de jogos electrónicos e ou bilhares e das áreas de serviço na rede viária municipal é considerado um coeficiente de benefício de 3, fixando-se o valor a pagar em 96,28 (euro). Esta diferenciação parece razoável, atendendo à natureza das actividades em causa.
 
@@ -553,7 +577,7 @@ QUADRO 4.19
 
 Taxas pela emissão de alvará de autorização de utilização previstas em legislação específica
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Constata-se que a participação do município no benefício do promotor é superior relativamente às casas de jogos e às áreas de serviço na rede viária, o que está em linha com o exposto relativamente à componente fixa destas taxas, à qual é atribuído um coeficiente de benefício de 3.
 
@@ -567,7 +591,7 @@ QUADRO 4.20
 
 Elementos de suporte à fundamentação das taxas devidas pelas prorrogações de alvarás de licenças ou de admissão de comunicação prévia
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A componente fixa das taxas, em ambas as situações, reflecte o custo da contrapartida corrigido por coeficientes de desincentivo. A aplicação destes coeficientes faz todo o sentido porque a execução das obras gera incómodo para as populações, pelo que se pretende desincentivar o prolongamento dos seus prazos de execução. Como se pode verificar, os coeficientes de desincentivo considerados são mais elevados nas prorrogações para obras de urbanização do que nas prorrogações para obras de edificação, resultando em taxas mais elevadas, que se justifica pelo facto de se considerar que habitualmente as obras de urbanização causam maior transtorno pelo que as suas prorrogações devem ser mais penalizadas. Para além disso, verifica-se ainda, que os coeficientes considerados para prorrogações para fase de acabamentos são mais baixos do que os considerados para as prorrogações para execução de obras, por se entender que a incomodidade potencialmente gerada pelas obras em fase de acabamento é inferior à da simples continuação das obras para além do tempo inicialmente definido, devendo por isso ser menos penalizada.
 
@@ -583,7 +607,7 @@ QUADRO 4.21
 
 Elementos de suporte à fundamentação das taxas devidas pelo alvará de licença parcial e obras inacabadas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 No primeiro caso, a componente fixa, correspondente à taxa de apreciação, ascende a 32,09 (euro) e atende ao custo da contrapartida. A taxa especial, que acresce à taxa de apreciação, corresponde a 30 % do valor da taxa devida pela emissão do alvará para a operação urbanística em apreciação, cujos valores são os constantes do quadro 6, montante que corresponde ao peso médio da componente estrutura (fundações, contenções e super-estrutura) no total dos custos subjacentes à emissão do alvará de licença.
 
@@ -599,7 +623,7 @@ QUADRO 4.22
 
 Elementos de suporte à fundamentação das taxas devidas pela ocupação da via pública por motivo de obras
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Em relação à ocupação delimitada por resguardos, está prevista uma taxa pela ocupação delimitada com tapumes ou outros resguardos e uma pela ocupação com andaimes na parte não defendida pelo tapume. Como foi já referido, em ambos os casos, o valor a pagar depende da dimensão e da duração da ocupação. Assim, os valores fixados para as taxas referidas atendem globalmente ao custo da contrapartida para a situação-tipo, que é corrigido por um coeficiente de desincentivo, perfeitamente justificado atendendo a que este tipo de ocupações constitui um incómodo para as populações. Dessa forma, o valor da taxa a pagar pela ocupação delimitada com tapumes ou outros resguardos fixa-se em 0,21 (euro)/m2, atendendo a que a situação tipo tem 40 metros quadrados e uma duração de 6 meses, e que o custo apurado corrigido por um coeficiente de desincentivo de 2 se situa em 51,34 (euro), valor que corresponde ao montante que o promotor pagará para a referida situação tipo (0,21 (euro) x x 40 x 6). O valor a pagar pela ocupação com andaimes na parte não defendida pelo tapume, fixa-se em 0,13 (euro) (=(25,67 (euro) x 1 x 2,5)/40/3/4).
 
@@ -615,7 +639,7 @@ QUADRO 4.23
 
 Elementos de suporte à fundamentação das taxas devidas por vistorias
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 As taxas devidas pela realização das referidas vistorias atendem ao custo da contrapartida, eventualmente corrigido por coeficientes de benefício e de incentivo. Assim, no primeiro item, correspondente às vistorias para emissão de autorização de utilização, verifica-se que a habitação apresenta uma situação neutral e por isso o valor a cobrar reflecte na íntegra o custo apurado, enquanto que no caso do comércio, serviços ou profissões liberais é atribuído um coeficiente de benefício de 2,5 e no caso da indústria e armazenagem um coeficiente de benefício de 3. A atribuição destes coeficientes significa que se está perante operações que favorecem bastante mais o seu promotor, por se tratarem de actividades económicas cujo benefício potencial é bastante superior ao da habitação, assumindo-se também que o benefício da actividade industrial é superior ao das restantes actividades. Para além disso, no caso da indústria ou armazenagem é atribuído um coeficiente de incentivo de 0,75, que se justifica pela vontade política em promover a implantação deste tipo de actividade no concelho. Assim, o valor a cobrar reflecte não só o custo da contrapartida, mas também o acréscimo de benefício obtido pelo particular e, no caso da indústria ou armazenagem, o incentivo dado à implantação de actividades desta natureza.
 
@@ -633,7 +657,7 @@ QUADRO 4.24
 
 Elementos de suporte à fundamentação das taxas devidas pela recepção de obras de urbanização
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A componente fixa reflecte na totalidade o custo da contrapartida, fixando-se em 49,74 (euro). A componente variável fixa-se em 10,00 (euro) por lote e reflecte a participação do município no benefício potencial do promotor. Assim, considerando-se como proxy do benefício o valor médio de construção por metro quadrado definido pelas Finanças para o ano de 2008 (492,00 (euro)) e uma situação-tipo de 6 lotes (correspondentes a 4500 m2) conclui-se que, para essa dimensão, o valor a cobrar representa 0,002 % desse valor, constituindo uma parcela claramente reduzida do benefício que o promotor obtém com a operação. Desta forma, conclui-se que as taxas em apreço respeitam o princípio da proporcionalidade.
 
@@ -645,7 +669,7 @@ QUADRO 4.25
 
 Elementos de suporte à fundamentação das taxas devidas pela inscrição de técnicos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Em ambos os casos, o valor da taxa a cobrar reflecte o custo da contrapartida corrigido por um coeficiente de benefício de 2 e por um coeficiente de desincentivo de 3, fixando-se em 57,77 (euro) (=9,63 (euro) x 2 x x 3), caso se trate de uma 1.ª inscrição, e em 28,88 (euro) (=4,81 (euro) x 2 x 3) relativamente à sua renovação anual. A consideração do coeficiente de benefício prende-se com o facto de o benefício potencial que o particular retirará desta inscrição ser muito superior ao seu custo. Já o coeficiente de desincentivo que é considerado, traduz a vontade política de desencorajar a inscrição desmedida de técnicos, muitas vezes introduzindo factores de concorrência desleal, mesmo entre técnicos de concelhos limítrofes.
 
@@ -659,7 +683,7 @@ QUADRO 4.26
 
 Elementos de suporte à fundamentação das taxas devidas pela prestação de serviços diversos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A fixação das taxas pela prestação de serviços atende, na maioria dos casos, exclusivamente ao custo da contrapartida, cumprindo assim o princípio da proporcionalidade. Existe, no entanto, uma excepção, no caso da taxa devida pela marcação ou verificação de alinhamentos e nivelamento em terrenos confinantes com a via pública, cujo custo apurado é ainda corrigido por um coeficiente de desincentivo de 2, aplicado com o propósito de desencorajar a solicitação deste serviço, que deverá ser executado preferencialmente pelo particular, concluindo-se que também neste caso, o valor a praticar respeita o princípio da proporcionalidade.
 
@@ -671,7 +695,7 @@ QUADRO 4.27
 
 Elementos de suporte à fundamentação das taxas devidas pelo licenciamento e fiscalização de instalações de armazenagem e de instalações de abastecimento de combustíveis líquidos e gasosos derivados do petróleo (postos de abastecimento de combustíveis)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 As taxas subjacentes a estes serviços reflectem o custo da contrapartida, corrigido por um coeficiente de benefício e um de desincentivo. A consideração de um coeficiente de benefício reflecte a participação do município no benefício auferido pelo particular, perfeitamente justificado porque estamos perante um tipo actividade que tende a proporcionar ao seu promotor um elevado benefício económico. Assim, o valor a pagar não só reflecte o custo apurado pelo serviço prestado, mas também a participação do Município no benefício potencial do promotor. Para além deste coeficiente, é ainda tido em conta um coeficiente de desincentivo que o município pretende atribuir à implantação desta actividade.
 
@@ -687,7 +711,7 @@ Elementos de suporte à fundamentação das taxas devidas pelo licenciamento de 
 
 (taxas relativas à instalação, alteração e exploração dos estabelecimentos industriais tipo 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Também neste caso, à semelhança dos postos de abastecimento, as taxas previstas destinam-se a actividades que proporcionam elevados benefícios económicos aos seus promotores, pelo que se justifica a consideração de um coeficiente de benefício a agravar o custo apurado pela prestação do serviço subjacente a cada uma das taxas. Assim, o valor a pagar reflecte não só o custo da contrapartida, mas também a participação do município nesse benefício potencial do promotor, respeitando o princípio da proporcionalidade. Para além do coeficiente de benefício é ainda considerado um coeficiente de incentivo de 0,5, que reflecte o objectivo do executivo municipal em promover a implantação deste tipo de actividade no concelho. Considera-se, assim, estar assegurado o princípio da proporcionalidade.
 
@@ -699,7 +723,7 @@ QUADRO 4.29
 
 Elementos de suporte à fundamentação das taxas devidas por estruturas de suporte de antenas de telecomunicações
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Considerou-se como proxy desse benefício, valores médios de mercado relativos ao arrendamento de áreas destinadas a este fim, que se situam aproximadamente entre os 300 (euro) e os 450 (euro) mensais, assumindo-se adicionalmente uma vida útil de 10 anos para o equipamento, concluindo-se que o valor a cobrar representa uma parte muito reduzida desse benefício. Com efeito, atendendo ao referencial apresentado, o benefício potencial do particular situa-se aproximadamente entre 36.000 (euro) (=300 (euro) x 12 x 10) e 54.000 (euro) (=450 (euro) x 12 x 10), pelo que o valor a pagar corresponderá a uma percentagem desse benefício que poderá oscilar entre 1,43 % e 0,95 %, consoante o valor do arrendamento, percentagem que representa uma parte muito reduzida desse benefício. Conclui-se, então, que está assegurado o cumprimento do princípio da proporcionalidade.
 
@@ -711,7 +735,7 @@ QUADRO 4.30
 
 Elementos de suporte à fundamentação das taxas devidas por ocupações do domínio público
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A taxa de apreciação reflecte na totalidade o custo da contrapartida, referente à apreciação inicial dos processos, fixando-se em 18,73 (euro). Como foi já referenciado, esta taxa precede a emissão da licença propriamente dita, cuja taxa é fixada de acordo com o tipo de ocupação pretendida.
 
@@ -733,7 +757,7 @@ QUADRO 4.31
 
 Elementos de suporte à fundamentação das taxas devidas pela utilização de zonas de estacionamento de duração limitada e parques de estacionamento
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 No entanto, podemos referir, que os valores apresentados se encontram dentro dos referenciais de mercado, pelo que estará assegurado o princípio da proporcionalidade. Para além disso, verifica-se que os valores cobrados pelo estacionamento de duração limitada em parques de estacionamento são superiores ao valor apresentado para o estacionamento em zonas de estacionamento de duração limitada (parquímetros), o que é perfeitamente justificável.
 
@@ -747,7 +771,7 @@ QUADRO 4.32
 
 Elementos de suporte à fundamentação das taxas devidas por ocupações do domínio público por instalações abastecedoras de carb. líquidos, ar e água
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 As taxas devidas por este tipo de ocupação atendem ao custo da contrapartida, corrigido por um coeficiente de benefício de 3 e um coeficiente de desincentivo de 2, fixando-se em 81,81 (euro). A consideração de um coeficiente de benefício de 3, prende-se com o tipo de actividades que está subjacente a esta categoria de taxas, que tende a proporcionar elevados benefícios económicos ao seu promotor. O coeficiente de desincentivo é justificado atendendo ao facto de este tipo de actividade apresentar um nível elevado de perigosidade, devendo por isso ser penalizada.
 
@@ -761,7 +785,7 @@ QUADRO 4.33
 
 Elementos de suporte à fundamentação das taxas devidas por actividades de espectáculos e divertimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A emissão de licença, nos dois casos referidos, comporta uma componente fixa, correspondente à taxa pela emissão de licença, à qual acresce uma componente variável, função da sua duração. A taxa devida pela emissão da licença atende ao custo da contrapartida, corrigido por um coeficiente de benefício de 2, fixando-se em 41,63 (euro). A consideração deste coeficiente reflecte a participação do município no benefício potencial auferido pelo promotor.
 
@@ -799,7 +823,7 @@ QUADRO 4.34
 
 Custo Geral de Ocupação por m2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 De notar ainda que foi necessário efectuar uma repartição destes valores, atendendo à utilização dos espaços pela Feira Anual de S. Martinho e outras, bem assim como, ponderar cada uma destas cifras pela frequência de utilização dos espaços no conjunto do ano.
 
@@ -809,7 +833,7 @@ QUADRO 4.35
 
 Elementos de suporte à fundamentação de taxas devidas pela ocupação e utilização de equipamentos em mercado municipal e Feiras
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Os valores a cobrar reflectem o custo da contrapartida, corrigido pelos coeficientes de benefício e de incentivo. A consideração do coeficiente de benefício, pretende acomodar a participação do município no benefício potencial da actividade em causa. Pelas razões expostas, o valor das taxas integrantes da tipologia supracitada e abaixo apresentadas no Quadro 4.35, cumprem o princípio da proporcionalidade.
 
@@ -829,7 +853,7 @@ QUADRO 4.36
 
 Custo de referência/hora dos pavilhões municipais (sem considerar custos de utilização)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Os dados apurados com base nestes pressupostos e nos cálculos que lhes estão subjacentes, que serviram como referência para a cedência de instalações ou para a determinação do «custo teórico anual de funcionamento do equipamento» são os que constam do Quadro 4.36.
 
@@ -841,7 +865,7 @@ QUADRO 4.37
 
 Custo de referência/hora dos funcionários dos pavilhões municipais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 De igual forma, cumpre ressalvar que os pavilhões se encontram subdivididos em dois espaços que funcionam autonomamente e que são, por essa via, passíveis de ocupação independente, como a tabela acaba por ilustrar, mediante a distinção entre a Nave Principal e a Nave Anexa.
 
@@ -851,7 +875,7 @@ QUADRO 4.38
 
 Custo Global/hora dos sub-espaços dos Pavilhões Municipais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A utilização dos Pavilhões Municipais pode ser feita mediante a cedência a clubes, associações e outras entidades de natureza semelhante, através da realização de eventos e outro tipo de manifestações desportivas (com ou sem entradas pagas), ou a título individual pelos cidadãos.
 
@@ -861,7 +885,7 @@ QUADRO 4.39
 
 Elementos de suporte à fundamentação das taxas pela utilização dos Pavilhões Desportivos Municipais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 De notar que, em relação à generalidade das taxas desta categoria foi aplicado um coeficiente de incentivo para as cedências a clubes, associações e outras entidades de natureza semelhante como forma de promoção da utilização das infra-estruturas desportivas por este tipo de entidades. Relativamente às cedências para eventos e outros tipos de manifestações desportivas, foi aplicado um desincentivo com o objectivo de assegurar que as infra-estruturas não sejam demasiadamente usadas para este tipo de actividades, ficando disponíveis sobretudo para utilização individual ou por clubes, associações e outras entidades de natureza semelhante. Às cedências para eventos e outros tipos de manifestações desportivas com entradas pagas foi ainda introduzido um coeficiente de benefício que reflecte o desejo de participação do município no benefício auferido pelos promotores dos eventos.
 
@@ -887,7 +911,7 @@ QUADRO 4.40
 
 Elementos de suporte à fundamentação das taxas da Biblioteca
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 4.30.2 - Museu Municipal
 
@@ -897,7 +921,7 @@ QUADRO 4.41
 
 Elementos de suporte à fundamentação das taxas do Museu Municipal
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Se, neste último caso, há uma clara indexação com a necessidade de afectação de recursos humanos da Autarquia (tanto mais, quanto maior for a dimensão do grupo da visita), que assim assume o grosso dos custos de contrapartida, a taxa de ingresso visa ressarcir o Município pelo volume de investimento realizado no edificado, no espólio e na gestão corrente deste equipamento.
 
@@ -913,7 +937,7 @@ QUADRO 4.42
 
 Elementos de suporte à fundamentação das taxas do Arquivo Municipal
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Tal deve-se ao princípio de que a sua sucessiva utilização no quadro da obtenção de fotocópias ou da sua digitalização pode contribuir para a degradação do seu estado e por em risco a sua preservação futura, devendo pois ser desincentivada. No mais, cumpre-se, também aqui, o princípio da proporcionalidade das taxas aplicadas.
 
@@ -933,7 +957,7 @@ QUADRO 4.43
 
 Elementos de suporte à fundamentação das taxas devidas pela cedência de palcos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A taxa devida pela cedência de palcos, sem incluir o prazo de cedência, atende assim exclusivamente ao custo da contrapartida. A taxa por prazo de cedência corresponde a uma parcela reduzida (10 %) do custo apurado para as taxas que a antecedem e pretende desencorajar a cedência por prazos longos, acomodando o custo de oportunidade que daí decorre para o município. Conclui-se, assim, estar garantido o respeito pelo princípio da proporcionalidade.
 
@@ -949,7 +973,7 @@ QUADRO 4.44
 
 Elementos de suporte à fundamentação da taxa devida pelo processamento administrativo do pedido de requisição de autocarro
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Relativamente à componente operacional, o custo da cedência do autocarro pode repartir-se nas seguintes componentes: Custo de Mão-de-Obra (Motorista), Custo de Combustível, Custo de Manutenção e Limpeza, Amortização do Equipamento.
 
@@ -963,7 +987,7 @@ QUADRO 4.45
 
 Elementos de suporte à fundamentação das taxas ao quilómetro pela utilização dos autocarros
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 O valor das amortizações foi calculado com base nos preços de mercados para autocarros novos com as características dos actuais autocarros da CM de Penafiel, assumindo-se uma depreciação num máximo de 1 milhão de Km. Chegou-se, assim, a um valor de 0,10 (euro) por Km para autocarros com 27 ou mais lugares e a um valor de 0,07 (euro) para autocarros com menos de 27 lugares.
 
@@ -971,7 +995,7 @@ QUADRO 4.46
 
 Elementos de suporte à fundamentação de taxas devidas pela utilização de autocarros
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Considerando todos estes pressupostos, entendeu-se aplicar um coeficiente de incentivo de 50 % no custo por quilómetro para a cedência dos autocarros, suportando o Município de Penafiel o custo social associado a este encargo.
 
@@ -1007,7 +1031,7 @@ QUADRO 4.47
 
 Elementos de suporte à fundamentação de taxas devidas pela inumação em covas e sepulturas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Relativamente aos três primeiros items são aplicados coeficientes de incentivo sobre o valor do custo da contrapartida, apenas menos favorável para as sepulturas perpétuas com cobertura, uma vez que a autarquia considera que este é um serviço essencial, ao qual todos os Munícipes devem ter acesso, em condições económicas favoráveis, razão pela qual a Câmara suporta o custo social implícito. Por sua vez, face às condicionantes de espaço existentes nos Cemitérios, é desincentivado o recurso a jazigos particulares, factor que os cidadãos devem também ponderar aquando da concessão de tais espaços.
 
@@ -1021,7 +1045,7 @@ QUADRO 4.48
 
 Elementos de suporte à fundamentação de taxas devidas à verificação e efectiva exumação de ossadas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Neste caso, é aplicado um coeficiente de incentivo sobre o valor do custo da contrapartida para a hipótese de exumação das ossadas por força dos benefícios que tal representa para a gestão deste espaço. Nestes termos, está assegurado o respeito pelo princípio da proporcionalidade.
 
@@ -1033,7 +1057,7 @@ QUADRO 4.49
 
 Elementos de suporte à fundamentação de taxas devidas pela utilização de serviços em Cemitério Municipal
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Com excepção da última vertente (transladação de ossadas e cinzas), sobre a qual é aplicado um coeficiente de desincentivo, todos os outros serviços são taxados pelo respectivo custo de contrapartida. Está, assim, assegurado o respeito pelo princípio da proporcionalidade.
 
@@ -1045,7 +1069,7 @@ QUADRO 4.50
 
 Elementos de suporte à fundamentação de taxas devidas pela concessão de terrenos e averbamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 No caso das taxas de natureza administrativa, foram calculados os custos directos e indirectos que a Autarquia tem que suportar com a prestação de tal serviço.
 
@@ -1063,7 +1087,7 @@ QUADRO 4.51
 
 Elementos de suporte à fundamentação de taxas devidas pela remoção de caixões, ossadas e cinzas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A taxa devida por ambos os items corresponde, na íntegra, ao custo da contrapartida. Deste modo, está assegurado o respeito pelo princípio da proporcionalidade.
 
@@ -1075,7 +1099,7 @@ QUADRO 4.52
 
 Elementos de suporte à fundamentação de taxas devidas por obras em jazigos e sepulturas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 4.33 - Taxas devidas por publicidade em bens ou espaços afectos ao domínio público ou destes visíveis ou perceptíveis
 
@@ -1087,7 +1111,7 @@ QUADRO 4.53
 
 Elementos de suporte à fundamentação das taxas devidas por publicidade em bens ou espaços afectos ao domínio público
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Verifica-se idêntica situação relativamente à publicidade em painéis, cartazes, mupis e semelhantes, e relativamente à publicidade em toldos, vitrinas, exposição de objectos ou outros artigos comerciais, mas nestes casos, o valor do custo apurado é referente a um processo típico com 4 m2 e 2 m2 respectivamente, pelo que o valor a pagar por um licenciamento anual é ajustado de forma a reflectir uma taxa a cobrar por metro quadrado, fixando-se em 14,42 (euro) [=(15,39 (euro) x 2,5 x 1,5)/4] e 11,54 (euro) [=(15,39 (euro) x 1,5 x 1)/2]. A taxa devida pela publicidade em reclamos luminosos, iluminados, electrónicos e similares, é também apurada de acordo com o raciocínio apresentado, adaptado à situação-tipo específica de cada uma das situações. Conclui-se, então, que este conjunto de taxas cumpre o princípio da proporcionalidade.
 
@@ -1121,7 +1145,7 @@ QUADRO 4.54
 
 Elementos de suporte à fundamentação de taxas devidas pela emissão de licenças especiais de ruído
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Em todas estas circunstâncias, é necessário proceder a ensaios e medições acústicas que abrangem a avaliação do grau de incomodidade, a avaliação dos valores limite de exposição, a avaliação do índice de isolamento sonoro, e a avaliação do nível sonoro contínuo equivalente, entre outros aspectos que sustentam a possibilidade de emissão de licença.
 
@@ -1135,7 +1159,7 @@ QUADRO 4.55
 
 Elementos de suporte à fundamentação de taxas devidas pela remoção e recolha de veículos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Por sua vez, a vertente de recolha incorpora quer um custo fixo - a taxa de reboque -, quer uma componente variável - que é função da distância percorrida.
 
@@ -1149,7 +1173,7 @@ QUADRO 4.56
 
 Elementos de suporte à fundamentação de taxas relativas ao Canil Municipal
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Em todos os casos, o valor a cobrar reflecte o custo da contrapartida mas é desonerado pela aplicação de coeficientes de incentivo em torno de 0,5 (0,3 para o abate). Mais do que o conceito estrito do incentivo ao recurso aos serviços do Canil pelos proprietários dos animais, entende-se que se o valor destas taxas for muito elevado, haverá tendência para o abandono dos animais na via pública, com os custos sociais associados, por parte daqueles que gostariam ou se vêm forçados a recorrer a tais serviços num determinado momento.
 
@@ -1169,7 +1193,7 @@ QUADRO 4.57
 
 Elementos de suporte à fundamentação de taxas devidas pela actividade de transportes de aluguer em veículos ligeiros de passageiros
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A atribuição do coeficiente de benefício justifica-se pelo facto de em causa estar uma actividade que, do ponto de vista do benefício potencial, se encontra em linha com a média da generalidade das actividades económicas. Pelas razões expostas, conclui-se que os tens em apreço dão cumprimento ao princípio da proporcionalidade.
 
@@ -1181,7 +1205,7 @@ QUADRO 4.58
 
 Elementos de suporte à fundamentação de taxas devidas pela emissão de licença de condução e trânsito
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 4.35.3 - Taxas devidas pelo emprego de substâncias explosivas e utilização de fogo de artifício e outros artefactos
 
@@ -1191,7 +1215,7 @@ QUADRO 4.59
 
 Elementos de suporte à fundamentação de taxas pelo emprego de substâncias explosivas e utilização de fogo de artifício e outros artefactos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 Em todos os casos, o valor a cobrar atende ao custo da contrapartida, corrigido por um coeficiente de desincentivo de 2,5 que reflecte a participação do município no benefício potencial do particular.
 
@@ -1215,7 +1239,7 @@ QUADRO 4.60
 
 Elementos de suporte à fundamentação de taxas devidas por vendedores ambulantes
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 4.35.6 - Taxas devidas pelo licenciamento da exploração de máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão
 
@@ -1225,7 +1249,7 @@ QUADRO 4.61
 
 Elementos de suporte à fundamentação de taxas devidas pelo licenciamento da exploração de máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 4.35.7 - Taxas devidas por outros licenciamentos
 
@@ -1241,7 +1265,7 @@ QUADRO 4.62
 
 Elementos de suporte à fundamentação de taxas devidas por outros licenciamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 4.35.8 - Taxas devidas pela emissão de documento e cartão de residência
 
@@ -1251,7 +1275,7 @@ QUADRO 4.63
 
 Elementos de suporte à fundamentação de taxas devidas pela emissão de documento e cartão de residência
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 4.36 - Comissão Arbitral Municipal
 
@@ -1277,7 +1301,7 @@ QUADRO 4.64
 
 Elementos de suporte à fundamentação de taxas relativas à Comissão Arbitral Municipal
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf))](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/066000000/1744317485.pdf)
 
 A taxa devida pelos três items corresponde assim, na íntegra, ao custo da contrapartida. Deste modo, está assegurado o respeito pelo princípio da proporcionalidade.
 
@@ -1294,3 +1318,5 @@ O contexto do seu desenvolvimento correspondeu, em larga medida, a um exercício
 Costa, José S., Mário R. Silva, Joaquim S. Carvalho e Armando D. Gomes (1998), Taxas e Tarifas Municipais, ISFEP (Estudo elaborado para a Comissão de Coordenação da Região Norte).
 
 1 de Março de 2010. - O Presidente da Câmara, Alberto Santos.
+
+203057875

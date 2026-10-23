@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/051000000/1208312083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/508-2010-988353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72364b308ed96e7558a7d23aa06bc93b81e60a369ef6abc619e9ec4c9c506341
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5da2c0e2dd0e1788d19080dd15de7fadac6cacdbd9c972547af60498bea538b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:23Z'
   warnings: []
   errors: []
 ---
@@ -86,10 +86,12 @@ Declaração de rectificação n.º 508/2010
 
 Por ter sido publicado com inexactidão dados relativos à dispensa da profissionalização em serviço do docente Afonso Henrique Veríssimo Murraças, nos termos do despacho n.º 18040/2008, de 24 de Junho, no aviso n.º 3107/2010, de 9 de Fevereiro, publicada no Diário da República, 2.ª série, n.º 34, de 18 de Fevereiro de 2010, rectifica-se que onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/051000000/1208312083.pdf))](https://files.diariodarepublica.pt/2s/2010/03/051000000/1208312083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/051000000/1208312083.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/03/051000000/1208312083.pdf))](https://files.diariodarepublica.pt/2s/2010/03/051000000/1208312083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/03/051000000/1208312083.pdf)
 
 27 de Fevereiro de 2010. - O Director-Geral, Mário Agostinho Alves Pereira.
+
+203007087

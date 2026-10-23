@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/195000000/4023840240.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1522-2011-1531645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52cd5128d1f8f440f71c7d243d69ff5fe56377483685404497fcad080e7c794f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed289289d12786701c8771c1158b208041c90acb45d5374a381da65d12ca1510
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:26Z'
   warnings: []
   errors: []
 ---
@@ -180,11 +180,11 @@ No artigo 20.º, «Grau e diploma», no n.º 2, onde se lê «Pela frequência c
 
 No anexo, «Estrutura curricular do doutoramento em Ciências e Tecnologias da Informação», onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/10/195000000/4023840240.pdf))](https://files.diariodarepublica.pt/2s/2011/10/195000000/4023840240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/10/195000000/4023840240.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/10/195000000/4023840240.pdf))](https://files.diariodarepublica.pt/2s/2011/10/195000000/4023840240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/10/195000000/4023840240.pdf)
 
 e onde se lê,
 
@@ -211,3 +211,5 @@ Aos alunos que completem 46 ECTS, nas seguintes unidades curriculares: Métodos 
 Este terceiro ciclo não tem uma organização por semestres nem por anos. O curso inicia-se no início do semestre em que o aluno se inscreve, de acordo com os períodos de inscrição estipulados pela coordenação do doutoramento.»
 
 26 de Julho de 2011. - O Reitor, Luís Antero Reto.
+
+205196389

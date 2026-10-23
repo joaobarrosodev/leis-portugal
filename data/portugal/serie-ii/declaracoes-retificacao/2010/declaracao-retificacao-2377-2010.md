@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/225000000/5706357063.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2377-2010-2845531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2993b6c4be1db3d16f8036465c6f41ca82aaf8bca2f8183041afb4e1ef348626
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64957b2b8c98e5ef36288d4fd090d112e2cb325f45e781c3828952c5759ce051
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:11Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2377/2010
 Para os devidos efeitos, se rectifica que no despacho (extracto) n.º 17 129/2010, publicado no Diário da República, 2.ª série, n.º 220, de 12 de Novembro de 2010, a p. 55 994, e relativo ao Regulamento de Contratação do Pessoal Docente Especialmente Contratado da Universidade do Porto, onde se lê «Por despacho de 29 de Julho de 2010, do Conselho de Gestão da Universidade do Porto, foi aprovado o Regulamento de Avaliação de Desempenho dos Docentes da Universidade do Porto» deve ler-se «Por despacho de 21 de Outubro de 2010, do Conselho de Gestão da Universidade do Porto, foi aprovado o Regulamento do Regulamento de Contratação do Pessoal Docente Especialmente Contratado da Universidade do Porto».
 
 12 de Novembro de 2010. - O Reitor, José Carlos Diogo Marques dos Santos.
+
+203939585

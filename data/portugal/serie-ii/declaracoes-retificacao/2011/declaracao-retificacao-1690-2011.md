@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/213000000/4420844208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1690-2011-2770074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2a987a7ae882c4b2a0f40f47bdf9f8f5d1b356534107f76457eed253573b0c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 716c8466992fdc5b3e43cf12a467ac848cd40e5875b8a0468734d62dbf8d257f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:27Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Rectificação do aviso n.º 20296/2011, publicado no Diário da República, 2.�
 Assim, onde se lê «foi celebrado contrato de trabalho em funções públicas por tempo indeterminado, com início de funções a 03 outubro de 2011, com Tânia Filipa Dias Vieira, para a carreira/categoria de Assistente Operacional/Auxiliar de Serviços Gerais, com remuneração pela 1.ª posição remuneratória/nível remuneratório 2.º, correspondente a 487,46 (euro) (quatrocentos e oitenta e sete euros e quarenta e seis cêntimos. (Isento de visto prévio)» deve ler-se «foi celebrado contrato de trabalho em funções públicas por tempo indeterminado, com início de funções a 3 de Outubro de 2011, com Tânia Filipa Dias Vieira, para a carreira/categoria de assistente operacional/auxiliar de serviços gerais, com remuneração pela 1.ª posição remuneratória/nível remuneratório 1, correspondente a (euro) 485 (quatrocentos e oitenta e cinco euros). (Isento de visto prévio.)»
 
 28 de Outubro de 2011. - O Presidente, António F. da Fonseca Pereira.
+
+305302035

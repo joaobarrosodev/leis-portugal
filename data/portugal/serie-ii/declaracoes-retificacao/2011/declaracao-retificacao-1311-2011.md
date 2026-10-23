@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/162000000/3488934889.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1311-2011-1727996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d622444a8b4ddf6126f8cbbe3f41e005b8a093e98b15dfdd065eb945b7b8995
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ddc80e5e4342c42f03c1e3eb165ae98ffecf80e0fbfff5ff1f045313148e9d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:11Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ deve ler-se:
 «Nota. - Os créditos opcionais em Sociologia são obtidos escolhendo uma unidade curricular de cada um dos dois grupos de sociologias especializadas. Grupo B: Sociologia do Ambiente, Sociologia da Cidade e do Território, Sociologia do Consumo e dos Estilos de Vida; Sociologia das Migrações Internacionais, Sociologia da População, Sociologia Rural; Grupo C: Sociologia da Empresa, Sociologia das Organizações, Sociologia das Profissões, Sociologia da Saúde, Sociologia do Trabalho.»
 
 26 de Julho de 2011. - O Reitor, Luís Antero Reto.
+
+205038462

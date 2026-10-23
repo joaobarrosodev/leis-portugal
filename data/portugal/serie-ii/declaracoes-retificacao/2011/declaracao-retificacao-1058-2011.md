@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/122000000/2718327183.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1058-2011-3394278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00153af21cb635b3b048c5411576ba0faec5a5033bd51d237b60ca67b6e56008
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a52e64099f0ad225390a79476e3ecd4146c76de6f09ca8cdeae55a2cdb7300f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:35Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1058/2011
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 86, de 4 de Maio de 2011, a deliberação (extracto) n.º 1108/2011, rectifica-se que onde se lê «foi a Susana Margarida Alves Feliciano, Técnica de 1.ª classe de Ortóptica da Carreira de Técnico de Diagnóstico e Terapêutica do mapa de pessoal deste Hospital, autorizada a prática do regime de trabalho a tempo parcial,[...]com efeitos a 21 de Março de 2011.» deve ler-se «foi a Susana Margarida Alves Feliciano, técnica de 1.ª classe de ortóptica da carreira de técnico de diagnóstico e terapêutica do mapa de pessoal deste Hospital, autorizada a prática do regime de trabalho a tempo parcial,[...]no período de 21 de Março a 1 de Junho de 2011.».
 
 17 de Junho de 2011. - O Administrador, Licínio Oliveira de Carvalho.
+
+204808925

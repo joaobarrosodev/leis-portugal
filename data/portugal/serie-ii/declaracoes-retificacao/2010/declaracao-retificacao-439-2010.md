@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/044000000/0979909799.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/439-2010-2443319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5673d4e4459e28c0986b23ec0ded7df2181242f55da0b8b4a07ba7e884c30c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80afe4840299467a1c7799bdb1e723c74d818bb1d1b1a0c4f689cba9283f8d7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:02Z'
   warnings: []
   errors: []
 ---
@@ -104,3 +104,5 @@ deve ler-se:
 «18.6 - Na falta de apresentação dos documentos comprovativos dos requisitos referidos nas alíneas a), b), c), d) e e) do n.º 8.1 do presente aviso, devem os candidatos declarar no requerimento, sob compromisso de honra e em alíneas separadas, a situação precisa em que se encontram, relativamente a cada um dos requisitos, bem como aos demais factos constantes na candidatura.»
 
 22 de Fevereiro de 2010. - O Presidente da Câmara, Carlos Beato.
+
+302948428

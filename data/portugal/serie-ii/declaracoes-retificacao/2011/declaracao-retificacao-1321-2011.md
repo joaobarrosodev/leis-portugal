@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/162000000/3489934900.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1321-2011-1728006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24361d2c28e6b4beaa280baedaba2556f4f0bcaafc4b47908f32d029dedc1681
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc3d4a2ff8551639a0db5f30c2c39ce7a0533cec0b411d00f1f065d746665944
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:15Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +88,11 @@ Por ter sido publicado com incorrecções o despacho n.º 18736/2009 no Diário 
 
 No anexo i, no plano de estudos, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/162000000/3489934900.pdf))](https://files.diariodarepublica.pt/2s/2011/08/162000000/3489934900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/162000000/3489934900.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/162000000/3489934900.pdf))](https://files.diariodarepublica.pt/2s/2011/08/162000000/3489934900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/162000000/3489934900.pdf)
 
 ## ANEXO I — (republicação)
 
@@ -100,7 +100,7 @@ Plano de estudos do mestrado em Informática e Gestão
 
 Master in Computer Science and Business Management
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/162000000/3489934900.pdf))](https://files.diariodarepublica.pt/2s/2011/08/162000000/3489934900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/162000000/3489934900.pdf)
 
 As UC Optativa A1 e Optativa A2 poderão ser Engenharia de Software I (CTP) e Sistemas de Informação Financeira (Cont), respectivamente.
 
@@ -119,3 +119,5 @@ As UC Optativa F1 e Optativa F2 serão neste caso Sistemas de Controlo de Gestã
 Podem escolher-se os seguintes grupos de UC optativas: (Optativas D1 e E1) ou (Optativas D2 e E2).
 
 26 de Julho de 2011. - O Reitor, Luís Antero Reto.
+
+205038543

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/225000000/4630646306.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1783-2011-2844468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad36a3985ec74d8fe7f1626c35e59b485767eda02ffff1131dc210b8b4567e7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7119adeaae6fbf1ae6f2835aaf9947df53480f015ee0d8b8dd1ec41c33b9a18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:58Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ No 4.º Juízo Cível do Tribunal de Comarca de Santa Maria da Feira, no dia 3 d
 Na sentença proferida no dia 24 de Outubro de 2011 e publicitada através do anúncio n.º 16338/2011, no Diário da República, 2.ª série, n.º 214, de 8 de Novembro de 2011, embora se tenha fixado a residência do seu administrador Valdemar Lopes Patrício, não se fez constar a administração da massa insolvente nos termos e para os efeitos do disposto no artigo 224.º do CIRE, pelo que se determina que a administração da massa insolvente seja assegurada pela devedora.
 
 8 de Novembro de 2011. - A Juíza de Direito, Isabel Pinto Monteiro. - A Escrivã-Adjunta, Fernanda Maria Pereira.
+
+305333804

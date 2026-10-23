@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/154000000/3322933230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1245-2011-3199276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d5592216cb5673251c5486e14d794df13e84cb8517b210d17948f60e1c517c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff39af081e9baf3f036852c3147e49fe2f669b476dea94278a527a5506c8b6ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,166 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:144994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2373184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3129086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3583579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640354:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:50Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1245/2011
+# Declaração de rectificação n.º 1245/2011
 
 Para efeitos de rectificação do aviso, publicado no Diário da República, 2.ª série, n.º 114, de 15 de Junho de 2011, torna-se pública a alteração efectuada ao referido aviso, que passa a ter a seguinte redacção:
 
@@ -249,3 +393,5 @@ Alteração ao Regulamento Geral FEDER e Fundo de Coesão - Deliberação aprova
 Alteração aos Regulamentos Específicos relativos às tipologias de investimento susceptíveis de financiamento pelos programas operacionais regionais do continente - Deliberação da CMC aprovada por consulta escrita em 20 de Abril de 2010.»
 
 28 de Julho de 2011. - O Presidente da Câmara, Francisco José Caldeira Duarte.
+
+304984225

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/096000000/2701927019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/973-2010-2400072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4373bccf4dc30e3bd11590c82713067e2559f44e9d28286f5ccc808bdd3d7d14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 638ff37872ef6235a280a63d33af9d440df279a7e430a48b0d329ec967b04a2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:05Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 973/2010
 Para os devidos efeitos se rectifica que no despacho (extracto) n.º 8135/2010, publicado no Diário da República, 2.ª série, n.º 90, de 10 de Maio de 2010, a p. 25 187, onde se lê «autorizada a celebração de contrato de trabalho em funções públicas, por tempo indeterminado, como Professor Auxiliar, com efeitos a partir de 6.5.2010» deve ler-se «autorizada a celebração de contrato de trabalho em funções públicas, por tempo indeterminado, como professor auxiliar, com efeitos a partir de 9 de Fevereiro de 2010».
 
 10 de Maio de 2010. - O Reitor, José Carlos Diogo Marques dos Santos.
+
+203244206

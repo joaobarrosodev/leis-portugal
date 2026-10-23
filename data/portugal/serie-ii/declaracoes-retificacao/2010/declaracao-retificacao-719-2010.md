@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/071000000/1890718908.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/719-2010-1091723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adf0e725c2828b60e1a9e3e6d8ccf9a8a858193ed10e8aaf6bb12961e2fe609b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2eb3d33d7d30b0a49a6da2a656beab4fe93300ece82737bb11cb6f47cdf6411
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:520445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:38Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 719/2010
+# Declaração de rectificação n.º 719/2010
 
 Por ter sido publicado com inexactidões o despacho n.º 25546/2009, de 10 de Novembro, no Diário da República, 2.ª série, n.º 226, de 20 de Novembro de 2009, referente à reafectação de pessoal à Direcção Regional de Cultura do Alentejo determino a sua republicação, nos seguintes termos:
 
@@ -112,4 +128,6 @@ c) Este despacho produz efeitos a 20 de Novembro de 2009.
 
 Lista de pessoal da ex-DGEMN, ex-IPPAR e ex-Delegação Regional de Cultura do Alentejo a reafectar à DRCALEN, do Ministério da Cultura (ao abrigo do n.º 7 do artigo 13.º, conjugado com o artigo14.º, da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/071000000/1890718908.pdf))](https://files.diariodarepublica.pt/2s/2010/04/071000000/1890718908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/071000000/1890718908.pdf)
+
+203122196

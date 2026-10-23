@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/133000000/2940729407.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1124-2011-3251251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 825ec0702f7f38e6d9c398abd4f2f46e09ce658d93fe0b950139f29abbf3fd5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fbf77658709fa2db2ff39c2a1be5b9c9c1e25dbcccab6daa725fd661d50fbcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:00Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +91,5 @@ Nomeação de pessoal dirigente - Procedimento concursal para provimento do carg
 No aviso n.º 13591/2011, publicado no Diário da República, 2.ª série, n.º 125, de 1 de Julho de 2011, referente ao procedimento concursal para provimento do cargo de direcção intermédia de 6.º grau - Sector de Apoio Logístico, rectifica-se a parte final do 5.º parágrafo, pelo que, onde se lê «Face ao exposto [...] A presente nomeação produz efeitos à data do despacho de nomeação.» deve ler-se «Face ao exposto [...] A presente nomeação produz efeitos a partir do dia 1 de Julho de 2011.».
 
 1 de Julho de 2011. - O Vereador do Pelouro dos Recursos Humanos, com competência delegada, Aníbal Cordeiro.
+
+304869132

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/09/189000000/3912939129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1479-2011-1814156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c48e34b5cfe9f0ab924ab5aa95b544a4149c26887bb6fd6ee4b77652ea6b43ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b97eed035953ca30c967139cb5349540e66445ea48118cc0a0aab0442e3d7ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:11Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1479/2011
 Por ter sido publicado com inexactidão, no Diário da República, 2.ª série, n.º 176, de 13 de Setembro de 2011, a p. 36 922, o aviso n.º 18 014/2011, referente ao procedimento concursal comum para a carreira e categoria de técnico superior do mapa de pessoal dos Serviços Centrais - Instituto da Segurança Social, I. P., rectifica-se que, no n.º 13.6, onde se lê «declaração referida na alínea c) do n.º 12.4» deve ler-se «declaração referida na alínea c) do n.º 13.4».
 
 16 de Setembro de 2011. - OVogal do Conselho Directivo, António Nogueira de Lemos.
+
+205156277

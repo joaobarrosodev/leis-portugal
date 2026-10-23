@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/011000000/0235702358.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/86-2010-1396972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba27e5a05b6c949f40d81699065518097af3e48e6104e047df5eb647358765c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 264f88ac037c6fb0bf54e1c7eff3b2aaebeee0f00361a27f52248cace1b0497f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:29Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 86/2010
+# Declaração de rectificação n.º 86/2010
 
 Em conformidade com as orientações que recaíram sobre o procedimento concursal, sobre o qual versa a presente rectificação, verificando-se a inexactidão dos termos que constam do aviso (extracto) n.º 22 982/2009, publicado no Diário da República, 2.ª série, n.º 246, de 22 de Dezembro de 2009, a pp. 51 645 e 51 646, rectifica-se que, no n.º 2, onde se lê:
 
@@ -137,3 +141,5 @@ l) Experiencia em HTML e Java Script.»
 Face ao que antecede, o prazo de abertura do procedimento concursal a que respeita a presente declaração rectificativa começa a contar no dia seguinte à sua publicação.
 
 30 de Dezembro de 2009. - O Presidente do Conselho Directivo, Rui Gentil de Portugal e Vasconcelos Fernandes.
+
+202782531

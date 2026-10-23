@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/206000000/5227452274.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2137-2010-3235677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7faa77f6e5a558683197e73764e8b6375156f1aaee163a14d85852f8c2277abc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c282bbf91fa4720efc1d66a02472c386ae704c0d75f257f6cc7e558b0f96b25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:50Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Declaração de rectificação n.º 2137/2010
 Tendo sido detectadas incorrecções no aviso n.º 20450/2010, publicado no Diário da República, 2.ª série, n.º 201, de 15 de Outubro de 2010, rectifica-se que onde se lê «procedimento concursal comum para o preenchimento de um posto de trabalho na carreira/categoria de assistente técnico, do Mapa de Pessoal da Direcção-Geral de Agricultura e Desenvolvimento Rural, previsto e não ocupado, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado» deve ler-se «procedimento concursal comum para o preenchimento de um posto de trabalho na carreira/categoria de assistente operacional, do mapa de pessoal da Direcção-Geral de Agricultura e Desenvolvimento Rural, previsto e não ocupado, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado» e onde se lê «Engª Maria Manuela Araújo de Matos, Chefe de Engenharia Agro-Rural» dever ler-se «Engenheira Maria Manuela Araújo de Matos, chefe da Divisão de Engenharia Agro-Rural».
 
 15 de Outubro de 2010. - O Director-Geral, José R. Estêvão.
+
+203821801

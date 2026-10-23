@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/121000000/2688526885.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1047-2011-3453104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2fd6c89c7a4587dfa519f2b0dceb7cf12d0d96dffece1824004ad9dd0c0a516
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4217bddc6a21b31c10c2453cb8ce7c651d05321481aec3eb4251964235441d37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:34Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Construção da Escola, EBI/JI Estádio do Mar, Cruz de Pau
 Aos 27 de Dezembro de 2010 foi publicada no Diário da República, 2.ª série, n.º 249, a declaração n.º 2645/2010, referente a declaração de utilidade pública, com carácter urgente, de uma parcela de terreno destinada à construção da nova escola da Cruz de Pau (processo n.º 07/08/SJ), relativa à declaração n.º 189/2010, publicada no Diário da República, 2.ª série, de 23 Setembro de 2010, dela constando por lapso o artigo da CRP n.º 02247/151297, actualmente excluído, serve o presente para rectificar o lapso acima referenciado.
 
 15 de Junho de 2011. - O Presidente da Câmara, Guilherme Manuel Lopes Pinto.
+
+204799205

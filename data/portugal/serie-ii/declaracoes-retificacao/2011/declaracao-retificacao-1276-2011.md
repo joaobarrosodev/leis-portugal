@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/159000000/3400734007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1276-2011-2625680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 482658eb253f8877671ac06e3b84e880d0779ec38568e37165e9dabeb3d98da3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 506ce3351e99c40b0aa14982bb7661fa0734dccdb55439376563cfbd97ad7a4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:00Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1276/2011
 Por ter saído com inexactidão a publicação inserta no Diário da República, 2.ª série, n.º 145, de 29 de Julho de 2011, aviso n.º 15057/2011, a p. 31421, rectifica-se que onde se lê «7 - Métodos de selecção: Considerando a necessidade de repor a capacidade de resposta da Direcção-Geral do Consumidor, no que respeita às competências da Direcção de Serviços de Comunicação ao Consumidor, designadamente na prestação de informação e assistência aos consumidores através da realização de acções diversas e na assessoria relativa a assuntos de defesa do consumidor seja a nível nacional seja a nível europeu, o presente procedimento tem natureza urgente.» deve ler-se «7 - Métodos de selecção: Considerando a necessidade de repor a capacidade de resposta da Direcção-Geral do Consumidor, no que respeita às competências da Divisão de Publicidade da Direcção de Serviços de Direito do Consumo, designadamente na fiscalização e instrução de processos em matéria de publicidade, o presente procedimento tem natureza urgente.».
 
 9 de Agosto de 2011. - A Directora-Geral, Teresa Moreira.
+
+205024205

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/063000000/1676416765.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/639-2010-3464848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8b47291a34172d628fba95e80f025ac3a04045e3c476485222fde80e1972569
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5511659ba889eaa49fe6c74a1c3c7a2d5ea474310b28a285e68452bf582cb6c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:09Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 639/2010
+# Declaração de rectificação n.º 639/2010
 
 1 - Por ter sido publicitada com inexactidão a lista de candidatos excluídos ao procedimento concursal comum para o recrutamento de 20 postos de trabalho na carreira de assistente técnico, do mapa de pessoal da Autoridade para as Condições de Trabalho, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, aberto pelo despacho n.º 20 731/2009, de 8 de Setembro, publicado no Diário da República, 2.ª série, n.º 179, de 15 de Setembro de 2009, foi a mesma rectificada, pelo que nessa conformidade se procede à publicação do aviso rectificativo, como se segue.
 
@@ -98,3 +102,5 @@ validation:
 7 - Mais se informa que as alegações remetidas pelos candidatos na sequência da lista de excluídos, afixada e publicitada na sequência do aviso n.º 3827/2010, publicado no Diário da República, 2.ª série, n.º 37, de 23 de Fevereiro de 2010, consideram-se válidas.
 
 24 de Março de 2010. - A Subinspectora-Geral, Isabel Maria Canha Delgado Figueiredo.
+
+203088939

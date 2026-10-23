@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/231000000/4739947399.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1872-2011-2402773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: decb6a14dbe19fe34f695998c54873e23bd173fc57b299a6effabe795c338649
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f615cfb72d98e561e24638b40b71df2ca46c96e4c12d0fc2fd22b2183664703d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:488490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615030:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:32Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1872/2011
+# Declaração de rectificação n.º 1872/2011
 
 Para os devidos efeitos se declara que o edital n.º 1148/2011, publicado no Diário da República, 2.ª série, n.º 222, de 18 de Novembro de 2011, a pp. 45794 a 45798, saiu com inexactidão que se rectifica. Assim, onde se lê «4 - São requisitos especiais de admissão os definidos nos termos do artigo 19.º do ECPDESP, a saber: ao presente concurso poderão candidatar-se os titulares do grau de doutor/a ou do título de especialista, obtido há mais de cinco anos, na área ou área afim daquela para que é aberto o presente concurso. A lista de unidades curriculares incluídas na Área Disciplinar de Ambiente e Recursos Naturais pode ser consultada em http://esa.ipb.pt/areas_disciplinares.php. Podem ainda apresentar -se ao concurso os candidatos que preencham os requisitos constantes do artigo 8.º, do Decreto -Lei n.º 207/2009, de 31/08, na redacção dada pelo artigo 3.º, da [Lei n.º 7/2010](https://diariodarepublica.pt/dr/detalhe/lei/7-2010-615030), de 13/5.» deve ler-se «4 - São requisitos especiais de admissão os definidos nos termos do artigo 19.º do ECPDESP, a saber: ao presente concurso poderão candidatar-se os titulares do grau de doutor ou do título de especialista, obtido há mais de cinco anos, na área ou área afim daquela para que é aberto o presente concurso. A lista de unidades curriculares incluídas na área disciplinar de Produção e Tecnologia Vegetal pode ser consultada em http://esa.ipb.pt/areas_disciplinares.php. Podem ainda apresentar-se ao concurso os candidatos que preencham os requisitos constantes do artigo 8.º, do [Decreto-Lei n.º 207/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2009-488490), de 31 de Agosto, na redacção dada pelo artigo 3.º da [Lei n.º 7/2010](https://diariodarepublica.pt/dr/detalhe/lei/7-2010-615030), de 13 de Maio.».
 
 24 de Novembro de 2011. - O Presidente, João Alberto Sobrinho Teixeira.
+
+205397285

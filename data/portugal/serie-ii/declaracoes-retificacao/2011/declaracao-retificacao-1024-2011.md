@@ -46,42 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1024-2011-1736546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 727e90d7dca7c11ea32d06cb053be0edddfbff9e7a2bffb4fd164c9e2ea64838
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bd4b970222d3b7d742836111632173e8d632f2b995bdb90f81a35b35729684c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Expropriação
+- Rede Nacional de Transporte de Energia Elétrica
+- Santa Maria da Feira
+- Utilidade Pública
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:25Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1024/2011
+# Declaração de rectificação n.º 1024/2011
 
 Por ter saído com inexactidão o despacho n.º 7205/2011, publicado no Diário da República, 2.ª série, n.º 92, de 12 de Maio de 2011, rectifica-se que onde se lê «expropriação das parcelas necessárias à execução da obra de construção da subestação da Bidiosa, identificadas no mapa e nas plantas anexos» deve ler-se «expropriação das parcelas necessárias à execução da obra de construção da subestação da Feira, identificadas no mapa e nas plantas anexos».
 
 8 de Junho de 2011. - O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho.
+
+204784885

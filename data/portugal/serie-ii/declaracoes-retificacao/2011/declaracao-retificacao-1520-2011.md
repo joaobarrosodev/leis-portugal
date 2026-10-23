@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/195000000/4019540195.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1520-2011-1531326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd162c44708f48655c3f58600f1d621f7730d2d3d7b887761ee77ecf55294dde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72f86f94b1ef459c86106a850191ca9d258043a610b497301426ac8ffb4cf947
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:26Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1520/2011
 Por ter saído com inexactidão o aviso n.º 19259/2011, no Diário da República, 2.ª série, n.º 187, de 28 de Setembro de 2011, relativo ao procedimento concursal comum para preenchimento de 3 postos de trabalho da carreira e categoria de assistente operacional deste Agrupamento de Escolas, até 31 de Dezembro de 2011, na modalidade de contrato de trabalho em funções públicas a termo resolutivo certo, a tempo parcial, com a duração de três horas por dia, rectifica-se que onde se lê «até 31 de Dezembro de 2011» deve ler-se «até 16 de Dezembro de 2011».
 
 3 de Outubro de 2011. - A Directora, Maria Adelaide Pereira Rosa.
+
+205191236

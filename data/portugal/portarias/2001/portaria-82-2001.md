@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/033b00/06850688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/82/2001/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/82-2001-319909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78ba0a93b0345272e1140638a60dde83d3d586085359ee253df8e0877400affe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c23bc86427c9a6d1dae1424ff0643dc1f0c37299723c6652ce008b122cb16868
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Direcção Geral de Energia
 - Direcção Regional da Energia
 - Estatuto
-- Instalação de GÁS
 - Fiscalização
+- Instalação de GÁS
 - Licenciamento
 - Responsabilidade Civil
 relationships:
@@ -83,16 +83,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/125/1997/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/125/1997/05/23/p/dre
+- type: cites
+  target: pt:dre:400399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619284:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66528824:por
+  label: Revogada a partir de 2015-03-18 pelo(a) Lei n.º 15/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2015-66528824
+  date: '2015-02-16'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:43Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +120,7 @@ Assim, ao abrigo do n.º 1 do artigo 17.º do [Decreto-Lei n.º 125/97](https://
 
 Manda o Governo, pelo Ministro da Economia, que seja aprovado o Estatuto das Entidades Exploradoras das Armazenagens e das Redes e Ramais de Distribuição de Gás, que constitui o anexo da presente portaria e dela fica a fazer parte integrante.
 
-**O Ministro da Economia, Mário Cristina de Sousa, em 17 de Janeiro de 2001.**
+O Ministro da Economia, Mário Cristina de Sousa, em 17 de Janeiro de 2001.
 
 ## ANEXO — Estatuto das Entidades Exploradoras das Armazenagens e das Redes e Ramais de Distribuição de Gás
 

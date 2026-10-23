@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/088000000/2465324653.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/920-2010-3326161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc1ff2c3666d7a01a00765573e3ba7506e7733c723a6daf2d29ae3044c1fceae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2819291222525b9a37b4edf2771e299c533741bf29bd21211afd79b0ae18d6fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:49Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 920/2010
+# Declaração de rectificação n.º 920/2010
 
 No aviso desta Câmara Municipal n.º 7705/2010, publicado no Diário da República, 2.ª série, n.º 74, de 16 de Abril de 2010, rectifica-se que onde se lê «Métodos de Selecção, Critérios Gerais e Ponderações: Avaliação curricular, Provas de conhecimentos específicos que terá uma duração máxima de 60 minutos e entrevista profissional de selecção que terá uma duração máxima de 30 minutos» deve ler-se «Avaliação curricular e entrevista de avaliação de competências e prova de conhecimentos específicos, valorados nos termos do artigo 18.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro. A prova de conhecimentos específicos que ter uma duração máxima de sessenta minutos» onde se lê «Entrevista profissional de selecção (EPS), destinada a avaliar, numa relação interpessoal e de forma objectiva e sistemática, as aptidões profissionais e pessoais dos candidatos para o exercício da função, de acordo com os seguintes parâmetros de avaliação:
 
@@ -136,3 +140,5 @@ EAC - entrevista avaliação de competências;
 PCE - Prova de Conhecimentos Específicos».
 
 26 de Abril de 2010. - O Presidente da Câmara Municipal, José António Bastos da Silva.
+
+303196085

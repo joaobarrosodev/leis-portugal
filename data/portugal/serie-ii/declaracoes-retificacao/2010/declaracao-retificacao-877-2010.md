@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/085000000/2300523006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/877-2010-3552673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f78bcd05319ad6b065a2abf7c4f6863eb9cfd09653da6fa9d6945360167eca83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4b3d2c0616007da95086bfddb30df3cf08c06d332a4e4ae5db2794e735dc6b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:34Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 877/2010
+# Declaração de rectificação n.º 877/2010
 
 Por ter sido publicado com inexactidão o despacho (extracto) n.º 19 367/2009 - relativo à concessão de licença sem vencimento ao Doutor Tito Horácio Fernandes, professor catedrático da Faculdade de Medicina Veterinária -, inserto no Diário da República, 2.ª série, n.º 162, de 21 de Agosto de 2009, a p. 34 266, no que se refere ao regime legal aplicável, promove-se a sua rectificação, pelo que onde se lê:
 
@@ -93,3 +97,5 @@ deve ler-se:
 Tito Horácio Fernandes, professor catedrático da Faculdade de Medicina Veterinária - autorizada a licença sem vencimento de 1 de Setembro de 2009 até 31 de Julho de 2010, ao abrigo das disposições conjugadas dos n.os 1 e 5 do artigo 234.º e do n.º 3 do artigo 235.º, do capítulo v, subsecção iii, 'Licenças', do Regime do Contrato de Trabalho em Funções Públicas, aprovado pela [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro. (Não carece de visto do Tribunal de Contas.)»
 
 20 de Abril de 2010. - O Presidente, Luís Manuel Morgado Tavares.
+
+203184242

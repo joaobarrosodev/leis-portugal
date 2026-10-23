@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/074000000/1967419675.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/746-2010-2221822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d35739528826412b8fc6d2d156c1ae5516f208ae80eedd6fe5a5204d945b38f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d825b18cf06d8463c2818633eed927f48f5220cc31223506dd5864f7a6ea3df6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:48Z'
   warnings: []
   errors: []
 ---
@@ -86,10 +86,12 @@ Declaração de rectificação n.º 746/2010
 
 Por ter saído com inexactidão o despacho n.º 6151/2010, inserto no Diário da República, 2.ª série, n.º 67, de 7 de Abril de 2010, referente a lista de nomeação de pessoal docente do ano escolar de 2009-2010, rectifica-se que onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/074000000/1967419675.pdf))](https://files.diariodarepublica.pt/2s/2010/04/074000000/1967419675.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/074000000/1967419675.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/074000000/1967419675.pdf))](https://files.diariodarepublica.pt/2s/2010/04/074000000/1967419675.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/074000000/1967419675.pdf)
 
 7 de Abril de 2010. - A Directora, Isabel Maria Silvestre Pires Gomes.
+
+203131843

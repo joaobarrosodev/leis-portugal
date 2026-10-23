@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/092000000/2563625636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/946-2010-3494174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e6e6320103fa098220d3c379138105128dd61acd653e7958634c69df0b64d0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1edbf65eb7851a27da96096b4850b5180c4faea5b21e6d08762703fd28e4604a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:59Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +95,5 @@ Nos quadros n.os 5 e 9 do anexo ii, na unidade curricular «Projecto de Interven
 No quadros n.os 6 e 10 do anexo ii, na unidade curricular «Projecto de Intervenção Prática II», no tempo de trabalho (horas), total e contacto onde se lê «400 - S:15; E:325; OT: 60» deve ler-se «405 - S:15; E:330; OT: 60».
 
 5 de Maio de 2010. - O Presidente, Carlos Manuel Leitão Maia.
+
+203229262

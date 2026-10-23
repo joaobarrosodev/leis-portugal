@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/096000000/2720627206.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/978-2010-2400323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b097c7544a8d6d7a1e7b723440316ca4e9e8504fa9d063faf8ba386121e26861
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02db73c5a7fb23e7a9d48b6ff67015a67250d8457afeb83fc369ce66198bdea2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:489486:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:09Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 978/2010
+# Declaração de rectificação n.º 978/2010
 
 Nos termos do disposto no artigo 9.º do [Decreto-Lei n.º 209/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2009-489486), de 3 de Setembro, torna-se público que, pelo aviso n.º 8224/2010, publicado no Diário da República, 2.ª série, n.º 79, de 23 de Abril de 2010, foram publicitados os procedimentos concursais comuns para preenchimento de diversos postos de trabalho, na modalidade de contrato de trabalho por tempo indeterminado, tendo o mesmo saído com as seguinte incorrecções e ou omissões:
 
@@ -118,3 +122,5 @@ Presidente do júri - João Paulo Passinhas Batista, técnico superior (gestão 
 Mais se informa que é concedido novo prazo de 10 dias úteis para apresentação de candidaturas, contados da data da publicação do presente aviso no Diário da República. As candidaturas apresentadas dentro do prazo previsto no aviso n.º 8224/2010, publicado no Diário da República, 2.ª série, n.º 79, de 23 de Abril de 2010, consideram-se válidas para efeitos do procedimento.
 
 29 de Abril de 2010. - O Presidente da Câmara, José Gabriel Paixão Calixto.
+
+303220198

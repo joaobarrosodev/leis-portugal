@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/067000000/1779417796.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/673-2010-966576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e670f557bd20dd7ac9ff57b31eec532d7a4e39367a1187fd467e7eb41c9c436
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95f8c781ad95c5f501f39ad9ac6d32544966a5395d03011005eaf6d3c1799e1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,90 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2658980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3355304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:23Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 673/2010
+# Declaração de rectificação n.º 673/2010
 
 Rectificação e republicação do aviso n.º 6227/2010, inserto no Diário da República, 2.ª série, n.º 59, de 25 de Março de 2010
 
@@ -237,7 +305,7 @@ Presidente - Maria Manuela Gaspar, investigadora auxiliar da Faculdade de Farmá
 
 2.º vogal suplente - Manuela Colla Carvalheiro, assistente de investigação da Faculdade de Farmácia da Universidade de Lisboa.
 
-**O presidente do júri será substituído nas suas faltas ou impedimentos pelo vogal que lhe suceder na ordem supra referida.**
+O presidente do júri será substituído nas suas faltas ou impedimentos pelo vogal que lhe suceder na ordem supra referida.
 
 19 - Legislação aplicável à prova de conhecimentos:
 
@@ -258,3 +326,5 @@ Sistema integrado de gestão e avaliação do desempenho na Administração Púb
 Tabela remuneratória única dos trabalhadores que exercem funções públicas - [Portaria n.º 1553-C/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1553-c-2008-243732), de 31 de Dezembro.
 
 19 de Março de 2010. - O Director, José A. Guimarães Morais.
+
+203095329

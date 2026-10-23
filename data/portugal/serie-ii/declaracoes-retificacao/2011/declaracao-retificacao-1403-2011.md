@@ -46,44 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1403-2011-1341751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3b33c0cb5b3d4dc5b42f95aa7c514764d594c0a7e392ed993f1a1b57e37d036
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f4e41729b4d7a087a8f3b9e43aa0da1f224ec35ffd97443b89a33af7998b9be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direção Geral do Tesouro e Finanças
+- Diretor Geral
+- Governo XIX
+- Ministério das Finanças
+- Nomeação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:45Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1403/2011
+# Declaração de rectificação n.º 1403/2011
 
 Ao abrigo do disposto no artigo 9.º do Regulamento de Publicação de Actos no Diário da República, aprovado pelo despacho normativo n.º 35-A/2008, de 28 de Julho, publicado no Diário da República, 2.ª série, n.º 145, de 29 de Julho de 2008, alterado e republicado pelo despacho normativo n.º 13/2009, de 19 de Março, publicado no Diário da República, 2.ª série, n.º 64, de 1 de Abril de 2009, declara-se que, por conter uma inexactidão, rectifica-se o n.º 3 do despacho n.º 10591/2011, de 11 de Agosto, publicado no Diário da República, 2.ª série, n.º 162, de 24 de Agosto de 2011, a p. 34816.
 
 Assim, onde se lê «A nomeada opta pela remuneração do lugar de origem no quadro da Rede Ferroviária Nacional - REFER, EPE.» deve ler-se «A nomeada não opta pela remuneração do lugar de origem no quadro da CP - Comboios de Portugal, E. P. E.».
 
 8 de Agosto de 2011. - A Secretária-Geral, Teresa Maria Caldeira Temudo Nunes.
+
+205108884

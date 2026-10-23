@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/160000000/3458634586.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1290-2011-830171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad33c78557c3f3a96c49e48707e2bb41ea4fe642d76f6f9146c85827cd5fd056
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3206f95dc779a3d33ba543ecb02ac998b5034b7a047ce127ca30e6d340076044
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:05Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1290/2011
 Por ter saído com inexactidão o aviso n.º 15 906/2011, publicado no Diário da República, 2.ª série, n.º 155, de 12 de Agosto de 2011, a p. 33 421, onde se lê «António Joaquim Martins Rosa - 13,33 valores» deve ler-se «Horácio José da Conceição Fezes - 13,33 valores» e onde se lê «Horácio José da Conceição Fezes - (a)» deve ler-se «António Joaquim Martins Rosa - (a)».
 
 12 de Agosto de 2011. - O Vice-Presidente, Nuno Filipe Paiva Bidarra de Carvalho Pancada.
+
+305028134

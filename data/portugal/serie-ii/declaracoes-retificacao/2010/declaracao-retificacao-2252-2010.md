@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/215000000/5495054950.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2252-2010-3312488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8ed1e91f6ca6f38be368d8b1667785c63188bc19e3002d1872fa0d645f08a28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 432d321c6549987138ce52b4fa2d229ca04fd58123c8d93225e63a3b42bcb55c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2013964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2405471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:31Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2252/2010
+# Declaração de rectificação n.º 2252/2010
 
 Rectifica o despacho (extracto) n.º 16289/2010, de 12 de Outubro, da directora regional de Cultura de Évora, publicado no Diário da República, 2.ª série, n.º 209, de 27 de Outubro de 2010
 
@@ -98,3 +110,5 @@ deve ler-se:
 «Considerando que o despacho n.º 26077/2009, de 13 de Novembro, publicado no Diário da República, 2.ª série, n.º 231, de 27 de Novembro de 2009, que autorizou a colocação em situação de mobilidade especial, por opção voluntária, a assistente operacional Celestina Maria Estevens Colaço Faria, com fundamento nas disposições conjugadas do n.º 5 do artigo 11.º da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro, com a alínea a) do n.º 1 do despacho n.º 6303-B/2009, de 23 de Fevereiro, enferma de vício de violação de lei, que gera invalidade, na modalidade de anulabilidade, determino a sua revogação, nos termos do artigo 141.º do Código do Procedimento Administrativo, conjugado com o artigo 58.º do Código de Processo dos Tribunais Administrativos.»
 
 28 de Outubro de 2010. - A Directora Regional, Aurora da Conceição Parreira Carapinha.
+
+203876891

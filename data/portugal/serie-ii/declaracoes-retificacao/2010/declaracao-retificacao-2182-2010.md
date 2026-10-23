@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/210000000/5381253812.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2182-2010-2246344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1cb863b22f2c31c003ed2ac4dbf81b8f34b46470a2fd0cac84b515b765bc0d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0d94c3a49e7f974b555eaa3dea160ba2de3d5765cf1e717fdbfa2aad952cd53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:05Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2182/2010
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 198, de 12 de Outubro de 2010, o contrato n.º 656/2010, respeitante à Adenda ao Contrato-Programa do Cadaval, rectifica-se que onde se lê «O Primeiro Outorgante, Fabíola de Oliveira Figueiredo Pinheiro. - O Segundo Outorgante, Aristides Lourenço Sécio de Abreu Afonso» deve ler-se «O Primeiro Outorgante, Fabíola de Oliveira Figueiredo Pinheiro de Abreu Afonso. - O Segundo Outorgante, Aristides Lourenço Sécio».
 
 DGLB, 22 de Outubro de 2010. - A Directora-Geral, Fabíola de Abreu Afonso.
+
+203855774

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/119000000/2649126492.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1026-2011-1737149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2deb404cfeb2793627f6482ef090506c76aa8c71c35eb63def79c448af8e04c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dde7f377446c036b21fe9267850e414cfe6c3ad16c772e5905eaab2d090bb31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,214 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:150946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694051:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:25Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1026/2011
+# Declaração de rectificação n.º 1026/2011
 
 Por ter saído com inexactidão o aviso n.º 12 309/2011, publicado no Diário da República, 2.ª série, n.º 110, de 7 de Junho de 2011, a p. 24 509, de abertura de procedimento concursal comum relativo à carreira/categoria ref. B, é rectificado do seguinte modo, pelo que onde se lê:
 
@@ -193,3 +385,5 @@ Portaria n.º 299/2007, de 16 de Julho (modelo de ficha de aptidão);
 [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397), de 25 de Fevereiro (relativo às prescrições mínimas de segurança e de saúde para a utilização pelos trabalhadores de equipamentos de trabalho).»
 
 8 de Junho de 2011. - O Presidente do Júri, Norberto Augusto Rodrigues de Castro.
+
+304780486

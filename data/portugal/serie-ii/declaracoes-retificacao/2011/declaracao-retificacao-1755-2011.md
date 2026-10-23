@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/222000000/4572045720.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1755-2011-2794339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7d4a41efd210a0113b8d7a8135d5fd23562d3d0065b83471f3e619cf1d1fa81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1244359c353718c81b5efc309d822499db1312f925172d12c028c5b70fd95379
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:48Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1755/2011
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 212, de 4 de Novembro de 2011, o despacho (extracto) n.º 14955/2011, a p. 43823, rectifica-se que onde se lê «para o exercício de funções de assistente técnica no Tribunal do Trabalho de Penafiel, à Assistente Operacional Maria Luísa Cunha Moreira, na situação de mobilidade interna a exercer funções naquele Tribunal» deve ler-se «para o exercício de funções de assistente técnica, actividade de arquivo até 31 de Dezembro de 2011, no Tribunal da Comarca de Penafiel, à assistente operacional Maria Luísa Cunha Moreira, na situação de mobilidade interna a exercer funções no Tribunal do Trabalho de Penafiel».
 
 9 de Novembro de 2011. - A Directora de Serviços, Helena Almeida.
+
+205348093

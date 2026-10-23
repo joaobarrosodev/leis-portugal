@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/049000000/1115511155.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/484-2010-2541263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb3db111c1dba37e23c25967780786210148f272473d7394678eab8387df4632
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0ad70e97a84a520a69c90f6b803ef25cee4d504606300594227006a881fa0f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:18Z'
   warnings: []
   errors: []
 ---
@@ -120,3 +120,5 @@ De 1 de Março de 2003 a 30 de Junho de 2008 - exerceu funções como técnica s
 Coordenou o Núcleo de Gestão Organizacional, Inovação Administrativa e Qualidade e exerceu funções de gestora operacional da qualidade, coordenando a implementação do Sistema de Gestão da Qualidade da Secretaria-Geral no âmbito da Certificação em Qualidade segundo a Norma ISO 9001:2000, sendo, também, auditora interna da Qualidade;
 
 De 4 de Maio, de 1995 a 28 de Fevereiro de 2003 - exerceu funções como técnica superior de 1.ª classe e técnica superior de 2.ª classe na Universidade Aberta, no Centro de Estudos de Ensino a Distância, na Vice-Reitoria e no Gabinete de Planeamento e de Gestão de Assessoria a Reitoria.
+
+202992338

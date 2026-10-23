@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1172-2011-2433097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98d22e5d202ce21fc01bed5833af144f5319ca8f2a06be324ea1ff7f3de7f3a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e88fbaa4bc05e4d4498214ca84cf2310cb76470e9846377cbd7b38a20face1f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:25Z'
   warnings: []
   errors: []
 ---
@@ -86,18 +86,20 @@ Declaração de rectificação n.º 1172/2011
 
 Por ter saído com inexactidão o despacho n.º 6791/2010, publicado no Diário da República, 2.ª série, n.º 74, de 16 de Abril de 2010, referente ao 1.º ciclo de estudos conducente ao grau de licenciado em Artes Visuais, rectifica-se que, no quadro n.º 2 do 2.º ano/1.º semestre do plano de estudos, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf))](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf))](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf)
 
 E, no quadro n.º 2 do 2.º ano/2.º semestre do plano de estudos, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf))](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf))](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/07/141000000/3074430744.pdf)
 
 18 de Julho de 2011. - A Directora, Maria Carlos Ferreira.
+
+204930149

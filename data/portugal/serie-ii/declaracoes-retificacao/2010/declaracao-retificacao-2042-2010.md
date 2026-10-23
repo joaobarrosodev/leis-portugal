@@ -49,41 +49,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2042-2010-1532231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3033019db8f96980b8c7146730d182ff366513743103262254a2ff4b553185ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a89ac3cbc7ac517f24d6c28f6c66ad6e6542fc165aa1731cf6823ff526f34cbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adjunto de Gabinete
+- Exoneração
+- Gabinete Governamental
+- Governo Xviii
+- Ministro para os Assuntos Parlamentares
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:1116545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1142925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:despacho:25317/2009
+  label: "Rectifica o sumário e o nº3 [na parte em que se refere à cessação dos efeitos do despacho n.º 25317/2009, de 9 de\
+    \ Novembro] do desp 14975/2010, de 30-Set DR. IIS [191]\0\0"
+  source: null
+  date: '2010-09-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:10Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2042/2010
+# Declaração de rectificação n.º 2042/2010
 
 Ao abrigo da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do [Decreto-Lei n.º 162/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2007-521257), de 3 de Maio, conjugados com o disposto no n.º 2 do artigo 9.º do Regulamento de Publicação de Actos no Diário da República, aprovado pelo [Despacho Normativo n.º 35-A/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-a-2008-1116545), de 29 de Julho, e alterado pelo [Despacho Normativo n.º 13/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2009-1142925), de 1 de Abril, declara-se que o despacho n.º 14 975/2010, de 30 de Setembro, publicado no Diário da República, n.º 191, 2.ª série, de 30 de Setembro de 2010, saiu com as seguintes inexactidões, que, mediante declaração da entidade emitente, assim se rectificam:
 
@@ -92,3 +116,5 @@ Ao abrigo da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do [Decreto-Lei n.�
 2 - No n.º 3 do diploma, onde se lê «despacho n.º 25 317/2009, de 9 de Novembro, publicado no Diário da República, 2.ª série, n.º 225, de 19 de Novembro de 2009.» deve ler-se «despacho n.º 25 238/2009, de 9 de Novembro, publicado no Diário da República, 2.ª série, n.º 224, de 18 de Novembro de 2009.».
 
 1 de Outubro de 2010. - A Directora-Adjunta, Alexandra Leitão.
+
+24952010

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/181000000/4742847428.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1907-2010-1314980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a23cc86b145beea7a9529bd275d98a3c47c45ae8120ca010cac04cc61e72b6b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e23d8e845e6962ff6f123fd30cd642e56fd8d14f9d046786ceeb214c2deb15a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:25Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1907/2010
 Para os devidos efeitos se torna público que o aviso n.º 16675/2010, publicado na 2.ª série do Diário da República, n.º 162, de 20 de Agosto de 2010, saiu com inexactidão, assim, rectifica-se que onde se lê «António Rafael Silva - [...] 29 de Junho de 2010» deve ler-se «António Rafael Silva - [...] 30 de Junho de 2010», onde se lê «Fernando Francisco Batista Viana - [...] - 29 de Junho de 2010» deve ler-se «Fernando Francisco Batista Viana - [...] - 21 de Julho de 2010», onde se lê «Jorge Alexandre Alves Pacheco - [...] - 29 de Junho de 2010» deve ler-se «Jorge Alexandre Alves Pacheco - [...] - 30 de Junho de 2010», onde se lê «José Manuel Fernandes - [...] - 29 de Junho de 2010» deve ler-se «José Manuel Fernandes - [...] - 5 de Julho de 2010», onde se lê «Manuel Diogo Candeias - [...] - 29 de Junho de 2010» deve ler-se «Manuel Diogo Candeias - [...] - 30 de Junho de 2010» e onde se lê «Paulo Alexandre Marques Ventura - [...] - 29 de Junho de 2010» deve ler-se «Paulo Alexandre Marques Ventura - [...] - 5 de Julho de 2010».
 
 1 de Setembro de 2010. - O Presidente da Câmara, José Manuel Velhinho Amarelinho.
+
+303650268

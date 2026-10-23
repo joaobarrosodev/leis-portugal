@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/210000000/5380253802.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2181-2010-2246302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a72035e29bc5447a48cc40f778c0e3dcf0b7a5dda0509cc5e67b0336467762b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed4c813ea86b2beb85d081e5cac1981d9a5d1824e8152e5b7927ce9a7595ab8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:05Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +98,5 @@ Presidente - Enf. Maria Perpétua Santos Picanço, Enfermeira Supervisora, do Ag
 2.º Vogal suplente - Enf. Maria de Fátima Gil Garrido Lopes Rodrigues Quintela dos Reis, Enfermeira Graduada, do Agrupamento de Centros de Saúde do Alentejo Central II.
 
 15 de Outubro de 2010. - A Vogal do Conselho Directivo, Maria da Conceição Lopes Batista Margalha.
+
+203846361

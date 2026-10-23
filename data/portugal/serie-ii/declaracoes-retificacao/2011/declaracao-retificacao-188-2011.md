@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/018000000/0525905259.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/188-2011-2629777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 142ade53270c1b6ca91977f5b4eeb02b7a17f78caf3acd6f36c4dde4648e2402
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e36d1989b3aedfd69075c8bb570a1e04e88cce172c17ea03f9459c44b38985c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ subjects: []
 relationships: []
 article_structure:
   article_count: 0
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:37Z'
   warnings: []
   errors: []
 ---
@@ -94,61 +94,61 @@ Onde se lê:
 
 «1 - Que o Município passará a ter as seguintes subunidades orgânicas, integradas nas respectivas unidades orgânicas:
 
-##### Divisão Administrativa e de Recursos Humanos;
+Divisão Administrativa e de Recursos Humanos;
 
 Gabinete Jurídico;
 
-#### Secção de Expediente Geral e Arquivo;
+Secção de Expediente Geral e Arquivo;
 
-#### Secção de Recursos Humanos;
+Secção de Recursos Humanos;
 
-##### Divisão Financeira e do Património;
+Divisão Financeira e do Património;
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Taxas e Licenças;
+Secção de Taxas e Licenças;
 
-#### Secção de Património e Armazém;
+Secção de Património e Armazém;
 
-#### Secção de Tesouraria;
+Secção de Tesouraria;
 
-##### Divisão de Equipamentos e Vias Municipais;
+Divisão de Equipamentos e Vias Municipais;
 
-#### Secção de Equipamentos e Vias Municipais;
+Secção de Equipamentos e Vias Municipais;
 
-##### Divisão de Obras Particulares;
+Divisão de Obras Particulares;
 
-#### Secção de Obras Particulares.»
+Secção de Obras Particulares.»
 
 deve ler-se:
 
 «1 - Que o município passará a ter as seguintes subunidades orgânicas, integradas nas respectivas unidades orgânicas:
 
-##### Divisão Administrativa e de Recursos Humanos:
+Divisão Administrativa e de Recursos Humanos:
 
 Gabinete Jurídico;
 
-#### Secção de Expediente Geral e Arquivo;
+Secção de Expediente Geral e Arquivo;
 
-#### Secção de Recursos Humanos.
+Secção de Recursos Humanos.
 
-##### Divisão Financeira e do Património:
+Divisão Financeira e do Património:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Taxas e Licenças;
+Secção de Taxas e Licenças;
 
-#### Secção de Património e Armazém;
+Secção de Património e Armazém;
 
-#### Secção de Tesouraria.
+Secção de Tesouraria.
 
-##### Divisão de Equipamentos e Vias Municipais:
+Divisão de Equipamentos e Vias Municipais:
 
-#### Secção de Equipamentos e Vias Municipais.
+Secção de Equipamentos e Vias Municipais.
 
-##### Divisão de Obras Particulares:
+Divisão de Obras Particulares:
 
-#### Secção de Obras Particulares.»
+Secção de Obras Particulares.»
 
 e onde se lê:
 
@@ -163,3 +163,5 @@ deve ler-se:
 Assegurar o apoio administrativo necessário ao bom funcionamento dos serviços da Divisão de Obras Particulares;»
 
 13 de Janeiro de 2011. - O Presidente da Câmara, Joaquim Morão.
+
+204237486

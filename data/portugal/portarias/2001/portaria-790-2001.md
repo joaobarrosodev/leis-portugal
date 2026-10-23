@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/169b00/45174517.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/790/2001/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/790-2001-391792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afdb6d4946d007905c0318bd0a25f8f16e543ca916a65ea7e225a19287e40e0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36ad40e0a99766756e53c1588bb78cd3433f5ba62821f860b89f225b49425d77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,29 @@ relationships:
   target: pt:dre:670522:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:162406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557440:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:670522:por
+  label: "Revogada, a partir de 06.07.2011, pela PORT.255/2011.01.07.2011.MS, DR.IS [125] de 01.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/255-2011-670522
+  date: '2011-07-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:32Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +123,6 @@ Manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:
 
 3.º Esta portaria entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
-**O Secretário de Estado da Saúde, José Miguel Marques Boquinhas, em 27 de Junho de 2001.**
+O Secretário de Estado da Saúde, José Miguel Marques Boquinhas, em 27 de Junho de 2001.
 
 [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/07/169b00/45174517.pdf)

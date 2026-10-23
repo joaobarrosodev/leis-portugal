@@ -48,41 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/618-2010-2621870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 364fc5e8fe52c8846d486df9fa043b68345519a3b1c8b9568bb9883fcd37c3a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeb864a76b6d60f625bff6f3dfd1b634a4d38281aba6ff657ebd1dba383e2c9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agrupamento de Centros de Saúde de entre Douro e Vouga II - Aveiro Norte
+- Agrupamento de Centros de Saúde do Grande Porto III - Valongo
+- Conselho Clínico
+- Nomeação
+- Presidente
+relationships:
+- type: cites
+  target: pt:dre:247675:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:03Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 618/2010
+# Declaração de rectificação n.º 618/2010
 
 Por ter saído com inexactidão no Diário da República, 2.ª série, n.º 121 de 25 de Junho de 2009, a p. 24 846, a deliberação n.º 1790/2009, rectifica-se que:
 
@@ -99,3 +108,5 @@ ACES de Entre Douro e Vouga II - Aveiro Norte - Dr.ª Ondina Emília Santos Pere
 ACES do Grande Porto III - Valongo - Dr. José João Caldeira, assistente graduado de clínica geral.»
 
 23 de Março de 2010. - A Directora, Maria Judite de Castro Oliveira.
+
+203074439

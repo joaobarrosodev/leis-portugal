@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/211000000/4355143551.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1652-2011-3281169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afafe458c60a63ef06e7b635992d9b50daec31f92abc62b4f7db6448d02b5863
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb8318227f51cb29900bfa98cfb5090650770886b77cb8491a6e6a08c21fb621
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:12Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1652/2011
+# Declaração de rectificação n.º 1652/2011
 
 Por ter saído com inexactidão o despacho n.º 12385/2011 no Diário da República, 2.ª série, n.º 181, de 20 de Setembro de 2011, procede-se à sua rectificação. Onde se lê «Nomeio, nos termos do n.º 1 do artigo 20.º e do n.º 1 do artigo 27.º, ambos da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, com as alterações introduzidas pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro e pela [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de Abril, em regime de substituição, para o exercício de cargo de direcção intermédia de 2.º grau (chefe de divisão) da Divisão de Regimes Laborais e Mobilidade, a técnica superior do mapa de pessoal desta Direcção-Geral, licenciada Ana Sofia Falcão Correia Galinho.» deve ler-se «Nomeio, no uso de competência delegada pelo despacho n.º 26474/2009, publicado no Diário da República, 2.ª série, n.º 236, de 7 de Dezembro de 2009, e nos termos do n.º 1 do artigo 20.º e do n.º 1 do artigo 27.º, ambos da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, com as alterações introduzidas pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro, e pela [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de Abril, em regime de substituição, para o exercício de cargo de direcção intermédia de 2.º grau (chefe de divisão) da Divisão de Regimes Laborais e Mobilidade, a técnica superior do mapa de pessoal desta direcção-geral, licenciada Ana Sofia Falcão Correia Galinho.»
 
 25 de Outubro de 2011. - Pela Directora-Geral, a Subdirectora-Geral, Maria do Rosário Gomes da Silva Branco Raposo.
+
+205287173

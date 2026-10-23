@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/146000000/3168531685.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1202-2011-762424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1ccc89f3da64473e9376de95fb05264760626c121cd2e17382f790a82663733
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a9c34126f1376df2898389e9990c42eff9c0523980a88af62ffe93086845b45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:35Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Para os devidos efeitos torna-se público que o aviso n.º 14418/2011, publicado
 Assim, onde se lê «Sílvia José Rosa Ribeiro, técnica superior (Engenharia Florestal), com remuneração correspondente à 2.ª posição remuneratória da categoria de Técnico Superior que corresponde ao nível 15 da tabela remuneratória única, sendo o valor da remuneração mensal de (euro) 1201,48 com efeitos a partir de 07 de Julho de 2011» deve ler-se «Sílvia José Rosa Ribeiro, técnica superior (Engenharia Florestal), com remuneração correspondente à 2.ª posição remuneratória da categoria de técnico superior que corresponde ao nível 15 da tabela remuneratória única, sendo o valor da remuneração mensal de (euro) 1201,48, com efeitos a partir de 1 de Julho de 2011.»
 
 18 de Julho de 2011. - O Presidente da Câmara Municipal, António Paulo Jacinto Eusébio.
+
+304931607

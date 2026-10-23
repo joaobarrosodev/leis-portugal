@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/010000000/0219302193.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2010-2150211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91c152f867d397260b5d05f137768e7209889a4ef3c8d8f9b35fa6f2e2ec6fa5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d046c4e704e46a0ed3ecd728eb23a2ba058bfe216c0c651c64c79770deef29c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638534:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:33Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 70/2010
+# Declaração de rectificação n.º 70/2010
 
 Por ter sido saído com inexactidão o aviso n.º 20653/2009, publicado no Diário da República, 2.ª série, n.º 222, de 16 de Novembro 2009, rectifica-se que onde se lê:
 
@@ -155,3 +195,5 @@ o) Código do Procedimento Administrativo;
 p) Código dos Contratos Públicos - [Decreto-Lei n.º 18/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2009-603187), de 29 de Janeiro.»
 
 11 de Janeiro de 2010. - A Directora, Sara Maria Murta Ribeiro.
+
+202777567

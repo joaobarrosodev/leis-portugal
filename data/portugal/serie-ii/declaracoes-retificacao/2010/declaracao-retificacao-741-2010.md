@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/074000000/1964119642.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/741-2010-2221663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b4b3fea282be22fb603387efe418e6fa03153280f9e4ff2a9a19f5e0fe98ed3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e50a9b16252a7ac22be286a4885b1883cc0c188788c1667637bd26fc2361c93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:44Z'
   warnings: []
   errors: []
 ---
@@ -87,10 +87,12 @@ Declaração de rectificação n.º 741/2010
 
 Por ter sido publicado com inexactidão o despacho n.º 30405/2008 no Diário da República, 2.ª série, n.º 229, de 25 de Novembro de 2008, a p. 47895, rectifica-se que onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/074000000/1964119642.pdf))](https://files.diariodarepublica.pt/2s/2010/04/074000000/1964119642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/074000000/1964119642.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/074000000/1964119642.pdf))](https://files.diariodarepublica.pt/2s/2010/04/074000000/1964119642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/074000000/1964119642.pdf)
 
 23 de Março de 2010. - O Director, Francisco Guerra Tavares.
+
+203133585

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1892-2010-1317190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af63e296f1883000bb9f560f7b168491d6a9c6e4bea2afa427afcc7432f494fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 286f4af980c03e066b8d94d84d8c591a9646c3921d9c1623252d46f6bf940733
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:20Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +92,19 @@ Por ter saído com inexactidão o despacho do plano de estudos conducente ao gra
 
 1.º Semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf))](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
 
 QUADRO N.º 2
 
 2.º Semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf))](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
 
 QUADRO N.º 3
 
 3.º e 4.º Semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf))](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
 
 De entre as horas referidas na alínea anterior, o número de horas de contacto (totais) distribuídas segundo o tipo de metodologia adoptada para a unidade curricular: [Ensino Teórico (T); Ensino Teórico-prático (TP); Ensino prático e laboratorial (PL); Trabalho de Campo (TC); Seminário (S); Estágio (E); Orientação Tutorial (OT); Outra (O).].»
 
@@ -114,20 +114,22 @@ QUADRO N.º 1
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf))](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
 
 QUADRO N.º 2
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf))](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
 
 QUADRO N.º 3
 
 3.º e 4.º semestres
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf))](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/09/179000000/4707347074.pdf)
 
 O número de horas de contacto (totais) são distribuídas segundo o tipo de metodologia adoptada para a unidade curricular: [Ensino Teórico (T); Ensino Teórico-prático (TP); Ensino prático e laboratorial (PL); Trabalho de Campo (TC); Seminário (S); Estágio (E); Orientação Tutorial (OT); Outra (O).].»
 
 6 de Setembro de 2010. - O Vice-Presidente, substituto legal do Presidente, João Benjamim Rodrigues Pereira.
+
+203668956

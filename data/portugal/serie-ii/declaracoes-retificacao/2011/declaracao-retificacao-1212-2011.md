@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/148000000/3201732017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1212-2011-2654869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac0fbe9797924380278bb786fffb2863f4b0e67e248a211aed276dab2ed0664b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca1fd6d32367a04ba2b5d371280d3470dc3b7387bd536db48a19f45e80c5bddf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:35Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Rectificação do edital n.º 590/2011, inserto no Diário da República, 2.ª s
 Por ter saído com inexactidão o n.º 3 do edital n.º 590/2011, publicado no Diário da República, 2.ª série, n.º 116, de 17 de Junho de 2011, e referente a um concurso documental para recrutamento de um professor auxiliar do Departamento de Engenharia Electrotécnica e de Computadores para a área disciplinar de Computadores, rectifica-se que onde se lê «artigo 41» deve ler-se «artigo 41.º-A».
 
 28 de Julho de 2011. - O Presidente, António Cruz Serra.
+
+204970625

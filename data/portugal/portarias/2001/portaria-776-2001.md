@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/776/2001/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/776-2001-391788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe77b3ff91d066f54e3bac394d5abac5547edfd5fd9f567d31f274f46678a80d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74b9c994821967210cd187660d5d807c2b22cac0fd3f940c5bc757b53e6bb9d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Alfândega
 - Câmara dos Despachantes Oficiais
-- Formação Profissional
+- Carreira Profissional
 - Curso de Formação
 - Definição de Competências
 - Despachante Oficial
-- Carreira Profissional
+- Formação Profissional
 - Regulamento
 relationships:
 - type: cites
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694175:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:27Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +142,7 @@ Assim:
 
 Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto do n.º 1 do artigo 2.º do [Decreto-Lei n.º 445/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1999-694175), de 3 de Novembro, e do artigo 5.º do Estatuto dos Despachantes Oficiais, publicado em anexo ao mesmo diploma, com as redacções introduzidas pelo [Decreto-Lei n.º 73/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026), de 26 de Fevereiro, que seja aprovado o Regulamento do Curso de Formação e de Acesso a Despachante Oficial, anexo à presente portaria e que dela faz parte integrante.
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 2 de Julho de 2001.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 2 de Julho de 2001.
 
 REGULAMENTO DO CURSO DE FORMAÇÃO E DE ACESSO A DESPACHANTE OFICIAL
 
@@ -282,7 +302,9 @@ São aprovados na prova de avaliação os candidatos que obtiverem classificaç�
 
 2 - A deliberação do júri sobre a avaliação dos candidatos constitui acto definitivo e executório.
 
-###### Artigo 18.º — Título comprovativo
+###### Artigo 18.º
+
+## Título comprovativo
 
 A CDO emitirá título comprovativo da aprovação na avaliação final do curso de acesso a despachante oficial.
 
@@ -324,7 +346,9 @@ A aptidão profissional dos candidatos ao curso referido neste capítulo é feit
 
 Os candidatos aprovados na prova de avaliação, desde que o requeiram, são inscritos como despachantes oficiais na CDO.
 
-## ANEXO I — PARTE I
+## ANEXO I
+
+## PARTE I
 
 Generalidades
 
@@ -350,7 +374,7 @@ Generalidades
 
 11 - Verificação das mercadorias.
 
-# PARTE II — Os destinos aduaneiros
+## PARTE II — Os destinos aduaneiros
 
 1 - Introdução em livre prática: disposições gerais e admissão de determinadas mercadorias ao benefício de um tratamento pautal favorável em função do seu destino especial.
 
@@ -366,19 +390,19 @@ Generalidades
 
 7 - A dívida aduaneira: garantias, constituição da dívida, registo de liquidação e cobrança a posteriori, reembolso ou dispensa do pagamento de direitos de importação ou de exportação.
 
-# PARTE III — Imposto sobre o valor acrescentado
+## PARTE III — Imposto sobre o valor acrescentado
 
 1 - Noção geral do funcionamento do imposto.
 
 2 - A sua repercussão nas transacções internacionais e intracomunitárias de mercadorias.
 
-# PARTE IV — Impostos especiais de consumo
+## PARTE IV — Impostos especiais de consumo
 
 1 - Legislação nacional e comunitária aplicáveis.
 
 2 - Procedimentos relativos à introdução no consumo.
 
-# PARTE V — Outros temas
+## PARTE V — Outros temas
 
 1 - Caução global para desalfandegamento.
 
@@ -402,7 +426,7 @@ Generalidades
 
 11 - Letras e cheques.
 
-# PARTE VI — Regulamentação profissional
+## PARTE VI — Regulamentação profissional
 
 1 - Estatutos da CDO.
 

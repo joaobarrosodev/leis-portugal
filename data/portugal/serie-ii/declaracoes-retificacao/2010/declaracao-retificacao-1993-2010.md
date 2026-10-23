@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/189000000/4857448574.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1993-2010-1813226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 075c8035bdcd0acc912c6ab668947291a13c9a8a0b15f2d2b32de9d616e3251d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4139d00537ad1a112c644539f39461b9bda835bc4486519599f8294ee74e83c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:55Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Para os devidos efeitos, torna-se público que se procede à rectificação do a
 Assim, no n.º 22, composição dos júris, procedimento C, rectifica-se que onde se lê «Vogais efectivos: Dr. Manuel Fernando Ribeiro Valente Bernardo, Técnico Superior, que substituirá o presidente do júri nas suas faltas e impedimentos, e Dr. João Filipe Resende Silva, Técnico Superior» deve ler-se «Vogais efectivos: Dr. Manuel Fernando Ribeiro Valente Bernardo, técnico superior, que substituirá o presidente do júri nas suas faltas e impedimentos, e Dr.ª Maria Isabel Moura Ferreira, técnica superior.».
 
 15 de Setembro de 2010. - O Vice-Presidente da Câmara, Vítor Manuel Gouveia Ferreira.
+
+303696496

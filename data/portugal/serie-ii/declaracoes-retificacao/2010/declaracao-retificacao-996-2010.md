@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/996-2010-2058269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2a1c044fc31c823ec8a4ec8cc72614e39400c9e72f95b20100278d201b9ffb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c86cbe9c31e6ec7ac45aeb259414d3db2f4cd789bb08f479ad3fd2df8d9f8419
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:14Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +92,7 @@ Especialização em Psicologia do Trabalho e das Organizações
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
 
 deve ler-se:
 
@@ -100,7 +100,7 @@ Especialização em Psicologia do Trabalho e das Organizações
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
 
 2 - No quadro n.º 7, onde se lê:
 
@@ -108,7 +108,7 @@ Optativas da Área de Especialização em Psicologia clínica e da Saúde
 
 QUADRO N.º 7
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
 
 deve ler-se:
 
@@ -116,7 +116,7 @@ Optativas da Área de Especialização em Psicologia clínica e da Saúde
 
 QUADRO N.º 7
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
 
 3 - No quadro n.º 11, onde se lê:
 
@@ -124,7 +124,7 @@ Optativas da Área de Especialização em Psicologia da Educação
 
 QUADRO N.º 11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
 
 deve ler-se:
 
@@ -132,7 +132,7 @@ Optativas da Área de Especialização em Psicologia da Educação
 
 QUADRO N.º 11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
 
 4 - No quadro n.º 13, onde se lê:
 
@@ -140,7 +140,7 @@ QUADRO N.º 11
 
 QUADRO N.º 13
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
 
 deve ler-se:
 
@@ -148,6 +148,8 @@ deve ler-se:
 
 QUADRO N.º 13
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786827871.pdf)
 
 11 de Maio de 2010. - A Directora, Margarida Cabral.
+
+203257304

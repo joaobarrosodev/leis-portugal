@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/060000000/1594815948.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/601-2010-2671003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5ac4361052ba6e8cbe4264d2b9f1de4c91341f505eb3b96cb4db262373e26c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d62d5657a32251eaa37d93f59490005c6c8934fc4021cee8fb571b222e9db278
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:58Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 601/2010
 Por ter saído saído com inexactidão o aviso n.º 5597/2010, no Diário da República, 2.ª série, n.º 53, de 17 de Março de 2010, rectifica-se que onde se lê «Rui Carlos da Rocha Álvares Quintela, para exercer em comissão de serviço, o cargo de Chefe de Divisão Municipal de Compras», deve ler-se «Rui Carlos da Rocha Álvares Quintela, para exercer em comissão de serviço o cargo de chefe de divisão Municipal de Trânsito».
 
 17 de Março de 2010. - A Directora de Departamento Municipal de Gestão de Recursos Humanos, Cristina Douteiro.
+
+303043748

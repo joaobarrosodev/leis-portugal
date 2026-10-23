@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/098000000/2781027810.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/991-2010-2058808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f916cb47d5077569ecc31cda9e2062a9ac40bb578a81700b389713930446945
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f064175ffd8d5740eacd092776a61710b35010b61363ac05664edd7704f4ffb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:14Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 991/2010
 Por ter saído com inexactidão o anúncio publicado no Diário da República, 2.ª série, n.º 83, de 29 de Abril de 2010, referente ao procedimento concursal comum com vista ao preenchimento de um posto de trabalho da categoria de assistente, ramo de farmácia, da carreira de pessoal técnico superior de saúde, rectifica-se que, na alínea a) do n.º 9.3, onde se lê «Estar habilitado com a licenciatura em Farmácia» deve ler-se «Estar habilitado com a licenciatura em Ciências Farmacêuticas».
 
 7 de Maio de 2010. - Pelo Conselho de Administração, o Vogal Executivo, Lourenço Braga.
+
+203263241

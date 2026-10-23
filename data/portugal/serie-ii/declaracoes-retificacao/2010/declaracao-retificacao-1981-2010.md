@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/189000000/4849648496.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1981-2010-1812645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad03706c6db57b12ececfe1c477cd17fb8bf185a977f94c5d19b117d07266864
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6442528327b27858d6c943fe267036a0179816a52b9b96083d937d0bda4ed699
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:50Z'
   warnings: []
   errors: []
 ---
@@ -90,6 +90,8 @@ Considerando que o referido aviso foi publicado sem referir a data a que o contr
 
 Determino o aditamento, ao meu aviso n.º 18549/2009, da data do contrato de trabalho em funções públicas que produz efeito a partir de um de Setembro de 2009, data em que o trabalhador inicia a actividade, durando por tempo indeterminado.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/09/189000000/4849648496.pdf))](https://files.diariodarepublica.pt/2s/2010/09/189000000/4849648496.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/09/189000000/4849648496.pdf)
 
 22 de Setembro de 2010. - O Director, Manuel Carneiro Ferreira.
+
+203723395

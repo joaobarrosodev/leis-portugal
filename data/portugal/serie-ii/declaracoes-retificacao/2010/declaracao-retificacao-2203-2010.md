@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/211000000/5413654137.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2203-2010-3283527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e77dd224c5aad8cf42b898012ef77b5c1af9ef3d793fe3a0f8a9359fc8f980ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5ac3ac66d6232cadb81ab468c882e6c3004d773b020a385efcb2d494c1cb15d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:11Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2203/2010
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 197, de 11 de Outubro de 2010, a p. 50243, o edital n.º 972/2010, rectifica-se que onde se lê «[c]ertificados ou cópia dos documentos comprovativos do preenchimento dos requisitos de admissão fixados no capítulo iii, designadamente a certidão de doutoramento e a certidão de agregação, excepto para os casos correspondentes à obtenção de doutor ou do título de agregado na Faculdade de Motricidade Humana» deve ler-se «[c]ertificados ou cópia dos documentos comprovativos do preenchimento dos requisitos de admissão fixados no capítulo iii, designadamente a certidão de doutoramento, excepto para o caso correspondente à obtenção de doutor na Faculdade de Motricidade Humana».
 
 15 de Outubro de 2010. - O Secretário da Faculdade, João Mendes Jacinto.
+
+203855093

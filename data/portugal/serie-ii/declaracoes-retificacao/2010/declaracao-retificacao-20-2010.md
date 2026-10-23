@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/003000000/0049300494.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2010-1997462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb5153e3a62f1ac5c64ba179dcc5c9d457bb4ecbe7ea2ca24bfcf57569a70855
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4caafde7b6dd582ffbd5f30a861057ba57af152c4e7baa55b6ec896dd554b06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:55Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +103,7 @@ Por deliberação do conselho científico da Escola Superior de Saúde, do Insti
 
 6 - Áreas científicas e créditos que devem ser reunidos para a obtenção do grau:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/01/003000000/0049300494.pdf))](https://files.diariodarepublica.pt/2s/2010/01/003000000/0049300494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/01/003000000/0049300494.pdf)
 
 Plano de estudos
 
@@ -117,10 +117,12 @@ Curso de mestrado em Enfermagem de Reabilitação
 
 1.º ano - Semestres 1 e 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/01/003000000/0049300494.pdf))](https://files.diariodarepublica.pt/2s/2010/01/003000000/0049300494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/01/003000000/0049300494.pdf)
 
 2.º ano - Semestre 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/01/003000000/0049300494.pdf))](https://files.diariodarepublica.pt/2s/2010/01/003000000/0049300494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/01/003000000/0049300494.pdf)
 
 Instituto Politécnico de Viseu, 23 de Dezembro de 2009. - O Presidente do Instituto Politécnico de Viseu, Eng. Fernando Lopes Rodrigues Sebastião.
+
+202728456

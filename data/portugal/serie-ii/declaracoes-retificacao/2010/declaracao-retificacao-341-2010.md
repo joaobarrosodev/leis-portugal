@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/036000000/0771107711.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/341-2010-1674651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfdd53ac6586e0579661284986122010bdf117d1d5b894a81d56e504038431d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01b177f084b20f265fe99416056ede89985ed6709a1be22d1db553a7a47ad2f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:22Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 341/2010
 Por ter saído com inexactidão no Diário da República, 2.ª série, n.º 29, de 11 de Fevereiro de 2010, o aviso n.º 3038/2010, para publicação da lista unitária de ordenação final do procedimento concursal comum para quatro postos de trabalho de técnico superior do Centro de Histocompatibilidade do Sul, rectifica-se que onde se lê «Ref. A3 - Olga Isabel Abade Nunes» deve ler-se «Olga Isabel Nunes Abade» e onde se lê « Ref. A3 - Ricardo José Ribeiro Escada» deve ler-se «Ref. A3 - Ricardo Jorge Ribeiro Escada».
 
 12 de Fevereiro de 2010. - O Director, Hélder Trindade.
+
+202913751

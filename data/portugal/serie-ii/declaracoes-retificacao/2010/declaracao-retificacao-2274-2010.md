@@ -47,44 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2274-2010-3399180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 947bf1859ec6883e1f40e90a59712b0e1c09c0afca09c4586381f0282c3cb5f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58070811fa5048f6faeb17ad02961f61c84f817a6fb0de0326244bbe3ced3cfe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso Público
+- Delegação de Competências
+- Direção Geral de Energia e Geologia
+- Diretor Geral
+- Energia Elétrica
+- Energia Solar
+- Governo Xviii
+- Secretário de Estado da Energia e da Inovação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:36Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2274/2010
+# Declaração de rectificação n.º 2274/2010
 
 Rectifico o despacho n.º 16268/2010, de 21 de Outubro, publicado no Diário da República, 2.ª série, n.º 209, de 27 de Outubro de 2010.
 
 Assim, na alínea c) do n.º 4, relativamente à designação dos membros do júri do concurso, onde se lê «Dra. Rita Góis de Carvalho» deve ler-se Dr.ª Maria Fernanda Pitta Dias».
 
 2 de Novembro de 2010. - O Secretário de Estado da Energia e da Inovação, José Carlos das Dores Zorrinho.
+
+203896647

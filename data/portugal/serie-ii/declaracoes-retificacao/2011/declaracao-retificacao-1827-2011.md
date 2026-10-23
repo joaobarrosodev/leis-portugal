@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/230000000/4703647036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1827-2011-2006266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2faebe231b604f182e7196050851fe86ed58ca515f82a65e70635f18f7d21657
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f041c77a69b5c40292e14fb0d1630529c70472e3e0a2b56b4c763cf6956e2f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:13Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1827/2011
+# Declaração de rectificação n.º 1827/2011
 
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 215, de 9 de Novembro de 2011, a pp. 44501 a 44502, o aviso n.º 22098/2011, rectifica-se que onde se lê:
 
@@ -95,3 +95,5 @@ deve ler-se:
 1 - [...] procedimento concursal comum de ingresso para o preenchimento de dois postos de trabalho, previstos e não ocupados»
 
 18 de Novembro de 2011. - A Directora de Gestão de Recursos Humanos, Paula Caires da Luz.
+
+205391566

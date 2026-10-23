@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2470-2010-1574996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd461e7d240fc0c2fe06f92fd9981b865aa6bb1aafc5b8c4b87a62fb7b6215da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e5e57ef7f49432e5c61909e9956b991b28d3b06c6526e9737b875316e39efeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Regional de Saúde do Centro
+- Contrato Programa
+- Estabelecimento Hospitalar
+- Gestão Hospitalar
+- Serviço Nacional de Saúde
+- Unidade Local de Saúde de Castelo Branco
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:46Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +94,5 @@ Declaração de rectificação n.º 2470/2010
 Por ter sido publicado com inexactidão o contrato (extracto) n.º 537/2010 no Diário da República, 2.ª série, n.º 170, de 1 de Setembro de 2010, a seguir se rectifica que onde se lê «Secretário de Estado Adjunto e da Saúde» deve ler-se «Secretário de Estado da Saúde».
 
 30 de Setembro de 2010. - O Presidente do Conselho Directivo, Manuel Teixeira.
+
+203975702

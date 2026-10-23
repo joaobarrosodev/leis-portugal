@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/185000000/4801148011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1939-2010-1876602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37e039ae9dbdccf8ad684bbcec948085bb934716248929f28cc861b031a1ae95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c73bab68d6c1b8cd54a53f7661ec2cfc8da75f92d3a0b4454543bcf7391a887f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:35Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Para os devidos efeitos, rectifica-se o aviso n.º 16 210/2010, publicado no Di�
 Assim, onde se lê «[...] Procedimento concursal comum para o preenchimento de 3 postos de trabalho de coordenador técnico da carreira geral de assistente técnico, 6 postos de trabalho na categoria de assistente técnico da carreira geral de assistente técnico, 6 postos de trabalho de encarregado operacional da carreira geral de assistente operacional e 23 postos de trabalho de trabalho de assistente operacional da carreira geral de assistente operacional do mapa de pessoal [...]» deve ler-se «[...] Procedimento concursal comum para o preenchimento de 3 postos de trabalho de coordenador técnico da carreira geral de assistente técnico, 6 postos de trabalho na categoria de assistente técnico da carreira geral de assistente técnico, 6 postos de trabalho de encarregado operacional da carreira geral de assistente operacional e 49 postos de trabalho de assistente operacional da carreira geral de assistente operacional do mapa de pessoal [...]» e onde se lê «[...] Paços do Município de Gondomar, 30 de Julho de 2010. - Por Delegação do Presidente da Câmara, o Vice-Presidente, José Luís da Silva Oliveira. [...]» deve ler-se «[...] Paços do Município de Gondomar, 29 de Julho de 2010. - Por delegação do Presidente da Câmara, a Directora de Departamento, Dr.ª Maria Germana de Sousa Rocha.»
 
 30 de Agosto de 2010. - Por delegação do Presidente da Câmara, a Directora de Departamento da D. R. H., Maria Germana Sousa Rocha.
+
+303652803

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/215000000/5491154911.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2241-2010-3311945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26c7e59726fee0ff19811211bbdb8711a513fef17cf45315415378536281ba7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf3536cb6d60142d60aae9c6a38c6ad96f14fc607041a7f78fbb76203cd0b62b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1116545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1142925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:26Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2241/2010
+# Declaração de rectificação n.º 2241/2010
 
 Ao abrigo da alínea h) do n.º 1 e do n.º 2 do artigo 4.º do [Decreto-Lei n.º 162/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2007-521257), de 3 de Maio, conjugados com o disposto no n.º 2 do artigo 9.º do Regulamento de Publicação de Actos no Diário da República, aprovado pelo [Despacho Normativo n.º 35-A/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-a-2008-1116545), de 29 de Julho, e alterado pelo [Despacho Normativo n.º 13/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2009-1142925), de 1 de Abril, declara-se que o despacho (extracto) n.º 15699/2010, de 19 de Outubro, publicado no Diário da República, 2.ª série, n.º 203, de 19 de Outubro de 2010, saiu com a seguinte inexactidão que, mediante declaração da entidade emitente, assim se rectifica que onde se lê «[...] nomeio como Técnica de Apoio, posicionada no escalão 475, Maria Helena Cardoso Policarpo, em comissão de serviço pelo período de 2 anos, sendo-lhe atribuído» deve ler-se «[...] nomeio como técnica de apoio, posicionada no escalão 475, Maria Helena Cardoso Policarpo, em comissão de serviço pelo período de dois anos, sendo-lhe atribuído um subsídio de disponibilidade permanente no montante de 30 % da renumeração base ilíquida mensal.
 
 A presente nomeação produz efeitos a 1 de Outubro de 2010.».
 
 28 de Outubro de 2010. - A Directora-Adjunta, Alexandra Leitão.
+
+26602010

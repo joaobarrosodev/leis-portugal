@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1371-2011-3214811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80dc83e09c5becde715b32c70b0bfb0ce66932c74dd3ede7b55b24eccc2fa4cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b4406c110ea4b394d030093d3c03575b967f966829ac3be7162a9436b2aa60c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:31Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1371/2011
+# Declaração de rectificação n.º 1371/2011
 
 Por ter sido publicado com inexactidão o despacho n.º 10206/2011, publicado no Diário da República, 2.ª série, n.º 155, de 12 de Agosto de 2011, relativo à criação do curso de pós-graduação em Necessidades Especiais Domínio Cognitivo-Motor, a ministrar pela Escola Superior de Educação de Santarém, deste Instituto, republica-se, devidamente rectificado, o despacho e o plano de estudos do referido curso.
 
@@ -113,7 +133,7 @@ O plano de estudos é o que consta em anexo ao presente despacho e dele fazendo 
 
 6 - Áreas científicas e créditos que devem ser reunidos para a obtenção do grau:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf))](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf)
 
 7 - Plano de estudos:
 
@@ -123,12 +143,14 @@ Ciências da Educação
 
 1.º ano/1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf))](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf)
 
 1.º ano/2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf))](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf)
 
 1.º ano/2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf))](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/09/170000000/3607836079.pdf)
+
+205069867

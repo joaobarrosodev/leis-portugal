@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/014000000/0415704157.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/147-2011-2448237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fb8a8b187e925ccdff2a8e149988b706b4fbcf8092d192c7bbaa2e993f97133
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cdf0bc93ca06d156931cbd773bf86d0bcc0cb2ee7eee97feccf39f6b2af56fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:06Z'
   warnings: []
   errors: []
 ---
@@ -87,10 +87,12 @@ Declaração de rectificação n.º 147/2011
 
 Para os devidos efeitos se declara que o aviso n.º 26722/2010, publicado no Diário da República, 2.ª série, n.º 245, de 21 de Dezembro de 2010, saiu com inexactidão na posição remuneratória actual e no nível remuneratório actual das seguintes assistentes operacionais, pelo que onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/014000000/0415704157.pdf))](https://files.diariodarepublica.pt/2s/2011/01/014000000/0415704157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/014000000/0415704157.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/014000000/0415704157.pdf))](https://files.diariodarepublica.pt/2s/2011/01/014000000/0415704157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/014000000/0415704157.pdf)
 
 22 de Dezembro de 2010. - O Director, António Jorge Macedo Pimentel.
+
+204216522

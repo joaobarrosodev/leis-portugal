@@ -3,7 +3,9 @@ schema_version: '1.0'
 id: pt:dre:1511687:por
 title: Declaração de Rectificação n.º 2405/2010
 short_title: null
-summary: Rectifica o aviso n.º 23 262/2010, inserto no Diário da República, 2.ª série, n.º 220, de 12 de Novembro de 2010
+summary: 'Rectifica o aviso n.º 23 262/2010, inserto no Diário da República, 2.ª série, n.º 220,
+
+  de 12 de Novembro de 2010'
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -24,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/228000000/5751257512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2405-2010-1511687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa8f88d0f321478b6994c5af550094a6f363860581427fa111d2b99f284f0dec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a190347444e1695aa231ba1c44564792e1a52d000fd2e2ae973551a6810d1d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:21Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +91,5 @@ Rectificação do aviso n.º 23 262/2010, inserto no Diário da República, 2.ª
 Por ter sido publicado com inexactidão o aviso n.º 23 262/2010, publicado no Diário da República, 2.ª série, n.º 220, de 12 de Novembro de 2010, rectifica-se que, no n.º 10.5, onde se lê «O requerimento modelo devidamente preenchido, confirmado e assinado, bem como os documentos referidos no n.º 9.2, deverão, até ao termo do prazo fixado, ser remetidos directamente pelos interessados por correio registado com aviso de recepção para Instituto Politécnico de Tomar, Estrada da Serra - Quinta do Contador, 2300-313 Tomar» deve ler-se «O requerimento modelo devidamente preenchido, confirmado e assinado, bem como os documentos referidos no n.º 10.2, deverão, até ao termo do prazo fixado, ser remetidos directamente pelos interessados por correio registado com aviso de recepção para Instituto Politécnico de Tomar, Estrada da Serra - Quinta do Contador, 2300-313 Tomar».
 
 16 de Novembro de 2010. - O Presidente, Eugénio Manuel Carvalho Pina de Almeida.
+
+203954342

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/003000000/0051800518.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-2011-1996857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a6788f3db82df3d78fa58e4a2baac5f479588ecd219dfa9fa87765532c66d3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9089189f29c41751f2dea22bb557b845f89ef2bbafff8111ee1700d510f7add8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:43Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 19/2011
+# Declaração de rectificação n.º 19/2011
 
 Para os devidos efeitos se rectifica o aviso n.º 26285/2010, relativo ao procedimento concursal comum para contratação de quatro técnicos superiores, um assistente técnico e nove assistentes operacionais no regime de contrato de trabalho em funções públicas, publicado no Diário da República, 2.ª série, n.º 241, de 15 de Dezembro de 2010. Assim, no n.º 18 do aviso, onde se lê:
 
@@ -106,3 +134,5 @@ Programa da prova: [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei
 Mais se torna público que, face à rectificação efectuada, é prorrogado por 10 dias o prazo inicialmente fixado para apresentação de candidaturas nas referências objecto de rectificação.
 
 28 de Dezembro de 2010. - O Presidente da Câmara, José Carlos Alexandrino Mendes.
+
+304131731

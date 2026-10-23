@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/218000000/4505145051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1716-2011-3400316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7a0bfed017354b0e5f9b3887d46dd16b029677ae41311cd60efa461a5f406fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 134899e2c3b5a67d1715a03182515a31eca891d66a712aa22dcce33c90b87f40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,70 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1075858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1075869:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:33Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1716/2011
+# Declaração de rectificação n.º 1716/2011
 
 Por não corresponderem aos despachos originais que foram remetidos à Imprensa Nacional-Casa da Moeda para publicação, determino a rectificação dos avisos abaixo discriminados, publicados no Diário da República, 2.ª série, n.º 167, de 31 de Agosto de 2011:
 
@@ -111,3 +159,5 @@ Por não corresponderem aos despachos originais que foram remetidos à Imprensa 
 Assim, onde se lê «O Secretário-Geral do Extinto Ministério da Ciência, Tecnologia e Ensino Superior, António Raul Capaz Coelho» deve ler-se «O Secretário-Geral do Ministério da Ciência, Tecnologia e Ensino Superior, António Raul Capaz Coelho».
 
 9 de Setembro de 2011. - O Secretário-Geral do Extinto Ministério da Ciência, Tecnologia e Ensino Superior, António Raul Capaz Coelho.
+
+205151538

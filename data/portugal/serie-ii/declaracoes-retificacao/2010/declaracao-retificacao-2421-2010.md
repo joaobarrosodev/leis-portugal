@@ -48,36 +48,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2421-2010-2007169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 709c96537678b796712971f40fbfb69e077d7f00834fae78b6f097f62e525365
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea5d72ac955c66a9be73ff71e38c6d6f5d1404b9cbe0902a2c4761e543fe2688
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auto-estrada
+- Expropriação
+- Rede de Estradas
+- Utilidade Pública
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:27Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Tendo sido publicadas indevidamente as plantas parcelares e os mapas de áreas c
 
 17 de Novembro de 2010. - O Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, Paulo Jorge Oliveira Ribeiro de Campos.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf))](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
 
 Mapa de áreas
 
@@ -100,7 +104,7 @@ Desenho n.º LP-E-202-13-01a
 
 Trecho 2 - Lazarim/Palhais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf))](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
 
 Mapa de áreas
 
@@ -108,7 +112,7 @@ Desenho n.º LP-E-202-13-01a
 
 Trecho 2 - Lazarim/Palhais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf))](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
 
 Mapa de áreas
 
@@ -116,7 +120,7 @@ Desenho n.º LP-E-202-13-01a
 
 Trecho 2 - Lazarim/Palhais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf))](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
 
 Mapa de áreas
 
@@ -124,7 +128,7 @@ Desenho n.º LP-E-202-13-01a
 
 Trecho 2 - Lazarim/Palhais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf))](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
 
 Mapa de áreas
 
@@ -132,4 +136,6 @@ Desenho n.º LP-E-202-13-02a
 
 Trecho 2 - Lazarim/Palhais
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf))](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/11/230000000/5779857809.pdf)
+
+203961187

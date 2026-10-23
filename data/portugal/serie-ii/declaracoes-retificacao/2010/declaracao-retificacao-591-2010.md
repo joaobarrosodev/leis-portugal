@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/060000000/1555415554.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/591-2010-2670412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee8d48e3bc713e49341185b27ee8399b1b9590b7abd1318a00d70bbf371fd321
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b5109e4da19e3e26022171eb1a08551a015113e42245867aa65a13d3218578e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:53Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 591/2010
 Por não ter sido incluído o nome da candidata Paula Cristina Fernandes Batista na lista de candidatos admitidos e excluídos do procedimento concursal comum para preenchimento de 58 postos de trabalho na carreira de enfermagem, categoria de enfermeiro de nível 1, do mapa de pessoal da Maternidade do Dr. Alfredo da Costa, aberto pelo aviso n.º 23474-E/2009, publicado em suplemento ao Diário da República, 2.ª série, n.º 252, de 31 de Dezembro de 2009, e rectificado no Diário da República, 2.ª série, n.º 26, de 8 de Fevereiro de 2010 - declaração de rectificação n.º 239/2010, publicitada pelo aviso n.º 4052/2010, publicado no Diário da República, 2.ª série, n.º 39, de 25 de Fevereiro de 2010, deverá a candidata referida ser considerada como «admitida».
 
 19 de Março de 2010. - A Vogal Executiva do Conselho de Administração, Margarida Moura Theias.
+
+203059162

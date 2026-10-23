@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/199000000/5060050601.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2081-2010-3037808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f91a4412f535308b0aca2cc5136374fc8e25b17b9a3593af007a39ffc2e847b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75ccc21a0914426f64e69c7d039b937ca88b5fe278e7da5cfb06b5754c76b6c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:490413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661768:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:25Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2081/2010
+# Declaração de rectificação n.º 2081/2010
 
 Por ter saído com inexactidão o aviso n.º 16651/2010, respeitante ao procedimento concursal comum para recrutamento de trabalhadores com vista à constituição de relação jurídica de emprego público por tempo indeterminado para o preenchimento de quatro postos de trabalho destinados a enfermeiros no âmbito regional do mapa de pessoal da ARS Lisboa e Vale do Tejo, I. P., publicado no Diário da República, 2.ª série, n.º 162, de 20 de Agosto de 2010, rectifica-se que onde se lê:
 
@@ -124,8 +132,10 @@ e onde se lê, na grelha de avaliação curricular, no n.º 6, «Apresentação 
 
 No n.º 6 da grelha de avaliação, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/199000000/5060050601.pdf))](https://files.diariodarepublica.pt/2s/2010/10/199000000/5060050601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/199000000/5060050601.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/199000000/5060050601.pdf))](https://files.diariodarepublica.pt/2s/2010/10/199000000/5060050601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/199000000/5060050601.pdf)
+
+203773891

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/237000000/4850448504.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1909-2011-1890399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 818abc2163bd46a6936e19dba217d12a7a2e31e4b7026c7960fc10cb5953b49a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9403ca96d46ec8e345408e7fdc8ea09f77ac1fe2c0f613a485050a15676539fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:48Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Nomeação de pessoal dirigente - procedimento concursal para provimento do carg
 No aviso n.º 22863/2011, publicado no Diário da República, 2.ª série, n.º 223, de 21 de Novembro de 2011, referente à nomeação de pessoal dirigente, no âmbito do procedimento concursal acima indicado, rectifica-se o n.º 2 da nota relativa ao currículo académico e profissional, pelo que, onde se lê «2 - Habilitações Académicas - Licenciatura Política Social, pelo Instituto Superior de Ciências Sociais e Políticas, em 18/12/1996;» deve ler-se «2 - Habilitações académicas - licenciatura em Política Social, pelo Instituto Superior de Ciências Sociais e Políticas, em 18 de Dezembro de 1986;».
 
 23 de Novembro de 2011. - O Vereador do Pelouro de Administração e Gestão de Recursos Humanos, com competência delegada, Aníbal Cordeiro.
+
+305410616

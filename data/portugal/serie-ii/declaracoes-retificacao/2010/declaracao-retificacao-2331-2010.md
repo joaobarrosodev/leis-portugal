@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/221000000/5624856248.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2331-2010-3063370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 783e09b57684f9120aa65c7cbe2722c6d7331e92ba28553a00407724f7b55248
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05abb80aac757fbab5e7803d167fd8b112b8cf4916f3ecd681efb917fb7c9590
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:56Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2331/2010
+# Declaração de rectificação n.º 2331/2010
 
 Rectificação do aviso n.º 22574/2010, publicado no Diário da República, 2.ª série, n.º 215, de 5 de Novembro de 2010, referente ao procedimento concursal comum para constituição de relação jurídica de emprego público, por tempo indeterminado, para contratação de três assistentes operacionais - Referência C.
 
 Para efeitos do artigo 32.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401) de 22 de Janeiro, notificam-se todos os candidatos ao procedimento concursal para constituição de relação jurídica de emprego público, por tempo indeterminado, para contratação de três assistentes operacionais para vigilantes de transportes colectivos de crianças - referência C, publicitado no Diário da República, 2.ª série, n.º 179, de 14 de Setembro de 2010, que a prova de conhecimentos realiza-se no Agrupamento de Escolas Dr. Alberto Iria, Rotunda do Estabelecimento Prisional, em Olhão, no dia 20 de Novembro de 2010, às 14 horas e 30 minutos, conforme as listagens afixadas na sede do Município (Largo de Sebastião Martins Mestre, 8700-349 Olhão) e publicadas na página electrónica do Município.
 
 5 de Novembro de 2010. - O Presidente da Câmara, Francisco José Fernandes Leal.
+
+303903977

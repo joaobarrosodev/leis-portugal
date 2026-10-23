@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/248000000/6236962369.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2638-2010-1198253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afade9eba0355c7733e90e1cca4f365c2f37f8df1374969a77cdb574ba0f3e9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c13cabc58530f12ad17d8cd0c6ddd931fc3689ba4501d4cd21b14f0532bd6ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:42Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 2638/2010
 Por ter saído com inexactidão o aviso (extracto) n.º 25739/2010, publicado no Diário da República, 2.ª série, n.º 238, de 10 de Dezembro de 2010, a p. 59928, referente à celebração de contrato por tempo indeterminado para o exercício de funções públicas com Cecília Maria Santos Cavaleiro, para ocupação de um posto de trabalho na categoria e carreira de técnico superior, posição remuneratória 7, no mapa de pessoal deste Instituto - Centro Distrital de Setúbal, rectifica-se que, onde se lê «Cecília Maria Santos Cavaleiro» deve ler-se «Cecília Maria Santos Cavalheiro».
 
 10 de Dezembro de 2010. - A Directora de Unidade de Gestão Administrativa de Recursos Humanos do Departamento de Recursos Humanos, Lurdes Lourenço.
+
+204083067

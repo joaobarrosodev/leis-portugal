@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/030000000/0679606796.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/294-2010-1333096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8faf9dde25dc1622f70b5db9a273b166d98ef87bbffea2fc90a472570e2510ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8acaf6981e9f4ad8fdfd9dff1963e7a77f2c305f0801c223d152a0a6d510d460
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:07Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 294/2010
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 5, de 8 de Janeiro de 2010, a p. 928, o aviso n.º 551/2010, referente ao procedimento concursal comum com vista ao preenchimento de 14 postos de trabalho na carreira e categoria de assistente técnico do mapa de pessoal do Instituto da Segurança Social, I. P., rectifica -se que onde se lê «Nos termos do disposto [...] notificam-se os candidatos excluídos acima identificados [...], sobre a intenção de exclusão.» deve ler -se «Nos termos do disposto [...] notificam-se os candidatos acima identificados [...], sobre a classificação final expressa no presente aviso.».
 
 21 de Janeiro de 2010. - O Vogal do Conselho Directivo, António Nogueira de Lemos.
+
+202889614

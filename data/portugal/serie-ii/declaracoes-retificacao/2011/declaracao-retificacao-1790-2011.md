@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/11/225000000/4636646366.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1790-2011-2845211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bafc53853761dff3db76c6f9adaa9d55f3cece1c7cc584ae709344ae7871fe2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a3a8cb6525cdb7b1af5ee6a8f61c58eaaf3c60a99eab8177f8906243bcb1ea6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:01Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Abertura de concurso externo de ingresso para provimento de um lugar de fiscal m
 Tendo-se verificado que na declaração de rectificação n.º 1451/2011, publicada no Diário da República, 2.ª série, n.º 186, de 27 de Setembro de 2011, não foi mencionada a prorrogação do prazo da apresentação de candidaturas, vem-se pelo presente conceder o prazo de 10 dias úteis a contar da data da presente publicação para todos os interessados poderem concorrer ou, todos os que já o tenham feito, vir entregar novos elementos considerados oportunos.
 
 11 de Novembro de 2011. - Por subdelegação de competências da Vereadora dos Recursos Humanos, a Directora do Departamento de Administração Geral, Maria Paula Cordeiro Ascensão.
+
+305348506

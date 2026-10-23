@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/013000000/0405304053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/144-2011-1907380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db9cfd29b739a92f6184cc48fbefd45d466a32c757018873e0cafdc28211bdf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6d221a4762890cec253e588b7e7fbda147a28e854eb9fdeb385ddd9cd1f77e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:56Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 144/2011
 Para os devidos efeitos se torna público que, por ter sido publicado com inexactidão o despacho n.º 19401/2010, inserto no Diário da República, 2.ª série, n.º 253, de 31 de Dezembro de 2010, se procede à seguinte rectificação. Assim, onde se lê «i) Dependentes dos órgãos municipais: Gabinete de Apoio Pessoal ao Presidente da Câmara Municipal (GAP), Serviços Municipais de Protecção Civil (SMPC), Gabinete de Desenvolvimento Económico e Social (GDES), Gabinete de Comunicação e Imagem (GCI), Gabinete de Atendimento ao Munícipe (GAM), Serviços de Administração Geral (SAG), Secção Administrativa (AG/GFP) (SAAGGFP) e Serviços de Gestão Financeira e Patrimonial (SGFP);» deve ler-se «i) Dependentes dos órgãos municipais: Gabinete de Apoio Pessoal ao Presidente da Câmara Municipal (GAP), Serviços Municipais de Protecção Civil (SMPC), Gabinete de Desenvolvimento Económico e Social (GDES), Gabinete de Comunicação e Imagem (GCI), Gabinete de Atendimento ao Munícipe (GAM), Serviços de Administração Geral (SAG), Secção Administrativa (AG/GFP) (SAAGGFP), Serviços de Gestão Financeira e Patrimonial (SGFP), Núcleo de Informática e Modernização Administrativa (NIMA) e Tesouraria;».
 
 11 de Janeiro de 2011. - O Presidente da Câmara, Humberto Oliveira.
+
+204204104

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/164000000/3523835239.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1350-2011-1499288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a10ec2131de0c07f16ecbda954c0a4bdb5a6a09863f051ccf56055f042ad371
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7699af3ee730678217f9270717697a4fa17f6c7ed52a6fa33882a9a894a6feb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:25Z'
   warnings: []
   errors: []
 ---
@@ -92,4 +92,6 @@ Torna-se público que, por meu despacho de 12 de Agosto de 2011, com o n.º 54/P
 
 Tarifário para 2011 (a vigorar a partir de 1 de Julho de 2011)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/08/164000000/3523835239.pdf))](https://files.diariodarepublica.pt/2s/2011/08/164000000/3523835239.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/08/164000000/3523835239.pdf)
+
+205048669

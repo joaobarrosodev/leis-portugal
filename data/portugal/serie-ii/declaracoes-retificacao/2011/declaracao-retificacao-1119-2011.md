@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/133000000/2924329243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1119-2011-3250647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f68f987be030bdf58da24b3180d731b1036485c1a1c52f43f394731f50c20aa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d0e4de570e596e0a41bafa0fb2dc6f1646cd6ce477f6ef713e1a8a2aec3e60e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:00Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Tendo verificado haver uma incorrecção no despacho (extracto) n.º 19328/2010,
 Onde se lê «As competências conferidas pelo presente despacho e referidas nos n.os 1.2 e 1.3 podem ser subdelegadas no director do Núcleo de Apoio Técnico da Delegação Regional de Lisboa, com excepção das alíneas a) e c) do n.º 1.2.» deve ler-se «As competências conferidas pelo presente despacho e referidas no n.os 1.2 e 1.3 podem ser subdelegadas no director do Núcleo de Apoio Técnico da Delegação Regional de Lisboa, com excepção da alínea b) do n.º 1.2».
 
 6 de Julho de 2011. - O Director-Geral, Rui Sá Gomes.
+
+204885779

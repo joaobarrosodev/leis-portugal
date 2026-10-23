@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 171/2001, 1º Suplemento, Série I-B de 2001-07-25
   number: '171'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4564-(2) a 4564-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/171b01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/849-a/2001/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/849-a-2001-328815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b30893bd8698f41d52f2e4c43619c31e42400359f56eff08a6b5636386eb36b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac5437f61bbc4164a446eaf1c88684f969ebb0dd63a68e10071762de4e041ae6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,18 @@ relationships:
   target: pt:dre:333475:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628549:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pela Port 910/99, de 14-Out, alterada pelo presente diploma,\
+    \ pela PORT.1534/2007.05.12.2007.MADRP, DR.IS [234] de 05.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1534-2007-628549
+  date: '2007-12-05'
+- type: amended_by
+  target: pt:dre:333475:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pela Port 910/99, de 14-Out, alterada pelo presente\
+    \ diploma, pela PORT.652/2010.09.08.2010.MADRP, DR.IS [153] de 09.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/652-2010-333475
+  date: '2010-08-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -101,16 +113,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/910/1999/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/910/1999/10/14/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666883:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:53Z'
   warnings: []
   errors: []
 ---

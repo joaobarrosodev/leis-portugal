@@ -46,44 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/319-2010-2142528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e28b76e5c75a91833087074889fbc44f05b51f860c05642f9d7c49b25de3ccf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61fc684f959654f1c22add09cc2852188a33055a1d0b74c2c48fdbd4126c2f30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agricultor
+- Agricultura
+- Exploração Agrícola
+- Exploração Florestal
+- Financiamento
+- Proteção do Ambiente
+- Recursos Hídricos
+- Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:620106:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:despacho-normativo:7/2005
+  label: "Rectifica o art. 2.º [deve passar a ler-se «São aditadas as alíneas aa), bb) e cc) do artigo 2.º, o n.º 1.1.6 do\
+    \ anexo i a que se refere a alínea a) do artigo 2.º e os n.os 30, 31, 32 e 33 do anexo ii a que se refere o artigo 3.º\
+    \ do despacho normativo n.º 7/2005, com a seguinte redacção:»] do DN 3/2010, de 01-Fev, DR.IIS [21], que alterou o DN\
+    \ 7/2005 de 01-Fev, nas redacções dos DN 33/2005 de 28-Jun, 24/2008 de 23-Abr, 14/2009 de 02-Abr\0\0"
+  source: null
+  date: '2010-02-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:12Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 319/2010
+# Declaração de rectificação n.º 319/2010
 
 O despacho normativo n.º 3/2010, de 22 de Janeiro, publicado na 2.ª série do Diário da República, n.º 21, de 1 de Fevereiro de 2010, foi publicado com inexactidão, que importa corrigir, pelo que determino a sua rectificação nos seguintes termos:
 
 No artigo 2.º do despacho normativo n.º 3/2010, de 22 de Janeiro, publicado na 2.ª série do Diário da República, n.º 21, de 1 de Fevereiro de 2010, onde se lê «São aditadas as alíneas aa), bb) e cc) do artigo 2.º, o n.º 1.1.6 do anexo I a que se refere a alínea a) do artigo 2.º e os n.os 30, 31 e 32 do anexo II a que se refere o artigo 3.º do [Despacho Normativo n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2005-620106), com a seguinte redacção:» deve ler-se «São aditadas as alíneas aa), bb) e cc) do artigo 2.º, o n.º 1.1.6 do anexo i a que se refere a alínea a) do artigo 2.º e os n.os 30, 31, 32 e 33 do anexo ii a que se refere o artigo 3.º do despacho normativo n.º 7/2005, com a seguinte redacção:».
 
 10 de Fevereiro de 2010. - A Secretária-Geral-Adjunta, Maria Isabel Salgado.
+
+202904606

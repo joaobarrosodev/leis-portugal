@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/122000000/2722027220.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1059-2011-3394337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adf89a8e876b8b8c721b87629478c982346307f7fe5ed976d0a88fd09791620e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e1fb439f0ca9eb60bf243e67eb6c78e48d0f6da1f66ccc7d4d07cd3195ac467
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:35Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Para os devidos efeitos rectifica-se o aviso n.º 12263/2011, publicado no Diár
 Onde se lê «Um lugar para a carreira e categoria de Técnico Superior - Educação Social: 1.º Raquel Carla Aires Alves - 16,14 valores; 2.º Susana Cristina Fernandes de Sá - 15,28 valores» e «Um lugar para a carreira e categoria de Técnico Superior - Economia: 1.º João Victor Gomes Teixeira - 15,85 valores» deve ler-se «Um lugar para a carreira e categoria de técnico superior - educação social: 1.º Raquel Carla Aires Alves - 16,73 valores; 2.º Susana Cristina Fernandes de Sá - 14,13 valores» e «Um lugar para a carreira e categoria de técnico superior - economia: 1.º João Victor Gomes Teixeira - 17,53 valores».
 
 20 de Junho de 2011. - O Presidente da Câmara, João Luís Teixeira Fernandes.
+
+304815786

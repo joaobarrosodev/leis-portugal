@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/876-2010-3552658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb0e6c47f453f04931c75d46fc1b6ab84e0dc560ef143f34efa75f84699c1182
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d66b644096e69c3d05309eac82c46a98a551dbad8de528584b3ebcc50a9deed6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:34Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +121,7 @@ Engenharia Hidráulica e dos Recursos Hídricos.
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf))](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf)
 
 10 - Observações:
 
@@ -147,24 +147,26 @@ QUADRO N.º 2
 
 1.º ano/1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf))](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf)
 
 QUADRO N.º 3
 
 1.º ano/2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf))](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf)
 
 QUADRO N.º 4
 
 2.º e 3.º anos/3.º, 4.º, 5.º e 6.º semestres
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf))](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf)
 
 QUADRO N.º 5
 
 Disciplinas optativas de áreas científicas de especialidades de Engenharia do Território e Ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf))](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/085000000/2299622999.pdf)
 
 21 de Abril de 2010. - A Directora, Margarida Cabral.
+
+203183887

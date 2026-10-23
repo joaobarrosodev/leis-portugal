@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/064000000/1709217096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/654-2010-1113861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42a19939389b9eef33ff789c62ed556f002c2d39975ec77ce00b7b158b679a7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c92febaa7221a0a068c922d8201184c43021abbcec633bec25bb1b75f9e8e6d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2622723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483152:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:18Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 654/2010
+# Declaração de rectificação n.º 654/2010
 
 O aviso n.º 6595/2010 foi erroneamente publicado por não conter o respectivo anexo com as unidades orgânicas flexíveis. Por via disso publica-se, de novo, o respectivo aviso devidamente rectificado.
 
@@ -91,13 +99,15 @@ Nos termos e para os efeitos previstos no n.º 6 do artigo 10.º e no artigo 19.
 
 23 de Março de 2010. - O Director Municipal dos Serviços da Presidência, Manuel de Novaes Cabral.
 
+203069069
+
 Organização dos Serviços do Município do Porto
 
 Unidades orgânicas flexíveis
 
 1 - Direcção Municipal da Presidência
 
-##### Divisão Municipal de Atendimento
+Divisão Municipal de Atendimento
 
 a) Garantir os diversos atendimentos presenciais no Gabinete do Munícipe;
 
@@ -105,7 +115,7 @@ b) Assegurar os serviços de recepção, registo e expedição de correspondênc
 
 c) Proceder ao registo de entrada dos requerimentos e sua remessa aos serviços respectivos.
 
-##### Divisão Municipal de Gestão da Qualidade
+Divisão Municipal de Gestão da Qualidade
 
 a) Desenvolver em estrita articulação com os diferentes serviços um painel de indicadores de suporte à decisão, avaliação da performance e de avaliação do grau de satisfação das partes interessadas;
 
@@ -117,7 +127,7 @@ d) Atender as reclamações dos munícipes;
 
 e) Coordenar o Sistema de Qualidade do Município.
 
-##### Divisão Municipal de Relações Internacionais e de Protocolo
+Divisão Municipal de Relações Internacionais e de Protocolo
 
 a) Reforçar a dimensão internacional do Município e da Cidade, assegurando a articulação e a aglutinação de interesses dos diferentes serviços e dos agentes locais no que respeita às iniciativas internacionais e sua projecção;
 
@@ -129,7 +139,7 @@ d) Assegurar o apoio municipal a exposições, certames e outras organizações 
 
 e) Coordenar e assegurar o protocolo internamente.
 
-##### Divisão Municipal de Apoio aos Órgãos Autárquicos
+Divisão Municipal de Apoio aos Órgãos Autárquicos
 
 a) Secretariar as reuniões da câmara municipal e dos conselhos municipais, bem como assegurar toda a tramitação administrativa inerente ao processo conducente à tomada de deliberação destes órgãos e da assembleia municipal;
 
@@ -145,7 +155,7 @@ f) Garantir o serviço de atendimento telefónico.
 
 2 - Direcção Municipal de Finanças e Património
 
-##### Divisão Municipal de Contabilidade e Controlo Orçamental
+Divisão Municipal de Contabilidade e Controlo Orçamental
 
 a) Assegurar a regularidade financeira na realização da despesa e supervisionar o cumprimento das normas de contabilidade e finanças locais;
 
@@ -177,7 +187,7 @@ n) Identificar as interdependências e mecanismos de articulação entre as dive
 
 o) Elaborar estudos, pareceres e informações sobre matérias relacionadas com a execução orçamental, bem como sobre se as demonstrações financeiras se apresentam de forma apropriada em todos os aspectos materialmente relevantes.
 
-##### Divisão Municipal de Receita
+Divisão Municipal de Receita
 
 a) Assegurar a liquidação e controlo da cobrança das taxas e outras receitas municipais, nos termos das normas legais e regulamentares em vigor;
 
@@ -201,7 +211,7 @@ j) Assegurar a gestão e actualização dos licenciamentos anuais relativos a pu
 
 k) Assegurar a emissão de licenças que resultem de disposições legais ou regulamentares.
 
-##### Divisão Municipal de Tesouraria
+Divisão Municipal de Tesouraria
 
 a) Assegurar a gestão de tesouraria e a segurança dos valores à sua guarda;
 
@@ -225,7 +235,7 @@ j) Elaborar o Resumo Diário de Tesouraria;
 
 k) Elaborar e acompanhar o orçamento de tesouraria.
 
-##### Divisão Municipal de Cadastro e Inventário
+Divisão Municipal de Cadastro e Inventário
 
 a) Criar e manter actualizado o inventário do património municipal relativamente aos bens móveis;
 
@@ -251,7 +261,7 @@ k) Participar à matriz predial as parcelas municipais;
 
 l) Proceder à actualização anual do cadastro e inventário, incluindo as amortizações e reavaliações permitidas por lei.
 
-##### Divisão Municipal de Gestão e Avaliação do Património
+Divisão Municipal de Gestão e Avaliação do Património
 
 a) Organizar e intervir nos processos de aquisição, permuta e alienação de Imóveis, assegurando o cumprimento das leis e regulamentos respectivos e a melhor rentabilização, atendendo ao enquadramento estratégico do Executivo e as condições do mercado imobiliário;
 
@@ -277,7 +287,7 @@ k) Acompanhar os processos de expropriação litigiosa em matéria de irregulari
 
 l) Acompanhar as operações de transformação fundiária decorrentes dos instrumentos de execução dos planos previstos
 
-##### Divisão Municipal de Compras
+Divisão Municipal de Compras
 
 a) Elaborar o plano anual de aquisições e promover a sua aprovação e execução;
 
@@ -303,7 +313,7 @@ k) Fornecer os elementos necessários à elaboração do orçamento anual.
 
 3 - Direcção Municipal de Urbanismo
 
-##### Divisão Municipal de Projectos e Planeamento Urbanístico
+Divisão Municipal de Projectos e Planeamento Urbanístico
 
 a) Elaborar, coordenar ou colaborar na avaliação, alteração e revisão dos instrumentos de gestão territorial, estudos e projectos;
 
@@ -317,7 +327,7 @@ e) Garantir o cumprimento da legislação e normativos e promover acções de di
 
 f) Identificar e corrigir procedimentos bloqueadores, propondo as necessárias acções de melhoria, nomeadamente no âmbito do SGQ.
 
-##### Divisão Municipal de Cartografia e Cadastro
+Divisão Municipal de Cartografia e Cadastro
 
 a) Garantir a actualização da cartografia e cadastro municipais;
 
@@ -333,7 +343,7 @@ f) Garantir o cumprimento da legislação e normativos e promover acções de di
 
 g) Identificar e corrigir procedimentos bloqueadores propondo as necessárias acções de melhoria, nomeadamente no âmbito do SGQ.
 
-##### Divisão Municipal de Gestão de Procedimentos Urbanísticos
+Divisão Municipal de Gestão de Procedimentos Urbanísticos
 
 a) Garantir a gestão célere e rigorosa de todos os procedimentos relativos a operações urbanísticas, assente na sua optimização e desmaterialização;
 
@@ -361,7 +371,7 @@ l) Remeter à Administração Central todas as informações legalmente exigíve
 
 m) Identificar e corrigir procedimentos bloqueadores propondo as necessárias acções de melhoria, nomeadamente no âmbito do SGQ.
 
-##### Divisão Municipal de Apreciação Arquitectónica e Urbanística
+Divisão Municipal de Apreciação Arquitectónica e Urbanística
 
 a) Analisar projectos de concepção arquitectónica relativos ao controle prévio municipal das operações urbanísticas, verificando a sua conformidade com as normas legais e regulamentares aplicáveis e com o modelo de desenvolvimento urbanístico definido para o Município;
 
@@ -385,7 +395,7 @@ j) Identificar e corrigir procedimentos bloqueadores, propondo as necessárias a
 
 4 - Direcção Municipal de Ambiente e Serviços Urbanos
 
-##### Divisão Municipal de Gestão Ambiental
+Divisão Municipal de Gestão Ambiental
 
 a) Acompanhar a elaboração de estudos com incidência ou impacte ambientais nas suas diferentes vertentes: ruído, qualidade do ar, biodiversidade, recursos hídricos e resíduos;
 
@@ -393,7 +403,7 @@ b) Assegurar a aplicação do regime legal sobre a poluição sonora, nomeadamen
 
 c) Desenvolver e executar programas de informação e sensibilização ambiental dirigidos à comunidade escolar e população em geral, com vista a promover o aumento da consciência ambiental colectiva.
 
-##### Divisão Municipal de Jardins
+Divisão Municipal de Jardins
 
 a) Assegurar a gestão e conservação do arvoredo e espaços verdes municipais;
 
@@ -405,7 +415,7 @@ d) Assegurar a administração do viveiro e estufas municipais;
 
 e) Garantir a ornamentação em iniciativas municipais.
 
-##### Divisão Municipal de Parques Urbanos
+Divisão Municipal de Parques Urbanos
 
 a) Conceber e executar projectos relativos a novos espaços verdes;
 
@@ -413,7 +423,7 @@ b) Assegurar a gestão dos parques urbanos;
 
 c) Administrar os cemitérios municipais.
 
-##### Divisão Municipal de Limpeza Urbana e Transportes
+Divisão Municipal de Limpeza Urbana e Transportes
 
 a) Garantir a recolha de resíduos sólidos urbanos, nas fracções selectiva e indiferenciada;
 
@@ -435,7 +445,7 @@ i) Emitir pareceres técnicos sobre sistemas de deposição de resíduos sólido
 
 j) Assegurar a gestão e manutenção da frota municipal e equipamentos associados.
 
-##### Divisão Municipal de Mercados, Feiras e Inspecção Sanitária
+Divisão Municipal de Mercados, Feiras e Inspecção Sanitária
 
 a) Administrar os mercados municipais e feiras, promovendo a adequação permanente da rede de mercados;
 
@@ -455,7 +465,7 @@ h) Desenvolver e executar programas de promoção do bem-estar animal e o contro
 
 5 - Direcção Municipal da Via Pública
 
-##### Divisão Municipal de Trânsito
+Divisão Municipal de Trânsito
 
 a) Assegurar a instalação e manutenção da sinalização e equipamentos de trânsito;
 
@@ -479,7 +489,7 @@ j) Garantir as intervenções no âmbito do contrato de concessão à EDP;
 
 k) Assegurar a instalação e manutenção de equipamentos electromecânicos.
 
-##### Divisão Municipal de Mobilidade e Ordenamento de Trânsito
+Divisão Municipal de Mobilidade e Ordenamento de Trânsito
 
 a) Elaborar, coordenar e analisar estudos do âmbito da mobilidade;
 
@@ -497,7 +507,7 @@ g) Apreciar processos de percursos e paragens de transportes colectivos de passa
 
 h) Gerir o sistema centralizado de controlo de tráfego.
 
-##### Divisão Municipal de Projectos de Infra-estruturas Viárias
+Divisão Municipal de Projectos de Infra-estruturas Viárias
 
 a) Apreciar projectos de infra-estruturas viárias e de sinalização no âmbito do licenciamento de operações urbanísticas, bem como verificar a conformidade da execução das obras respectivas;
 
@@ -507,7 +517,7 @@ c) Acompanhar a execução e verificar a conformidade das obras adjudicadas;
 
 d) Apreciar processos de obras na via pública e assegurar a verificação da sua conformidade.
 
-##### Divisão Municipal de Manutenção de Infra-estruturas Viárias
+Divisão Municipal de Manutenção de Infra-estruturas Viárias
 
 a) Executar por administração directa obras de manutenção na via pública;
 
@@ -517,7 +527,7 @@ c) Promover a monitorização da estabilidade de túneis e viadutos.
 
 6 - Direcção Municipal de Cultura
 
-##### Divisão Municipal de Colecções e Desenvolvimento
+Divisão Municipal de Colecções e Desenvolvimento
 
 a) Assegurar o serviço de leitura na BPMP;
 
@@ -527,7 +537,7 @@ c) Promover a recolha, o tratamento, a difusão e o acesso à Informação;
 
 d) Organizar e coordenar realizações de extensão cultural
 
-##### Divisão Municipal da Rede de Leitura
+Divisão Municipal da Rede de Leitura
 
 a) Assegurar o serviço de leitura na biblioteca Almeida Garrett;
 
@@ -541,7 +551,7 @@ e) Desenvolver a Rede Municipal de Leitura;
 
 f) Assegurar a articulação com a rede de bibliotecas escolares.
 
-##### Divisão Municipal de Arquivo Histórico
+Divisão Municipal de Arquivo Histórico
 
 a) Gerir o arquivo histórico (arquivista, investigação, documentação e informação);
 
@@ -549,7 +559,7 @@ b) Promover acções de extensão cultural;
 
 c) Organizar e conservar o arquivo histórico.
 
-##### Divisão Municipal de Arquivo Geral
+Divisão Municipal de Arquivo Geral
 
 a) Administrar o arquivo geral;
 
@@ -559,7 +569,7 @@ c) Assegurar os serviços de documentação e informação administrativa.
 
 7 - Direcção Municipal de Recursos Humanos
 
-##### Divisão Municipal de Selecção, Mobilidade e Gestão de Carreiras
+Divisão Municipal de Selecção, Mobilidade e Gestão de Carreiras
 
 a) Garantir a execução e manutenção do Mapa de Pessoal da autarquia;
 
@@ -579,7 +589,7 @@ h) Assegurar a gestão de carreiras;
 
 i) Controlar os diferentes tipos de estágios na Autarquia.
 
-##### Divisão Municipal de Remunerações e Gestão de Processos
+Divisão Municipal de Remunerações e Gestão de Processos
 
 a) Organizar os processos dos Recursos Humanos;
 
@@ -595,7 +605,7 @@ f) Garantir a actualização e manutenção do sistema integrado de Recursos Hum
 
 g) Elaborar os indicadores de gestão e preparar o Balanço Social.
 
-##### Divisão Municipal de Formação
+Divisão Municipal de Formação
 
 a) Diagnosticar as necessidades de formação e de desenvolvimento de Recursos Humanos;
 
@@ -609,7 +619,7 @@ e) Assegurar a interligação com as ORT's;
 
 f) Organizar e controlar os processos de mobilidade internacional de recursos humanos.
 
-##### Divisão Municipal de Segurança e Saúde no Trabalho
+Divisão Municipal de Segurança e Saúde no Trabalho
 
 a) Garantir os serviços de segurança, higiene e saúde no trabalho;
 
@@ -627,7 +637,7 @@ g) Administrar o jardim-de-infância e ATL da autarquia.
 
 8 - Departamento Municipal Jurídico e de Contencioso
 
-##### Divisão Municipal de Estudos e Assessoria Jurídica
+Divisão Municipal de Estudos e Assessoria Jurídica
 
 a) Assegurar a consultadoria jurídica aos diversos serviços do município;
 
@@ -651,7 +661,7 @@ j) Assegurar a instrução dos processos extra judiciais de responsabilidade civ
 
 k) Assegurar a instrução dos processos disciplinares de inquérito e ou averiguações aos serviços e funcionários do município.
 
-##### Divisão Municipal de Contencioso e Apoio à Contratação
+Divisão Municipal de Contencioso e Apoio à Contratação
 
 a) Assegurar centralmente o relacionamento e colaboração, nomeadamente com a Procuradoria-Geral da República, Ministério Público/ Departamento de Investigação e Acção Penal, Inspecção-Geral da Administração do Território e Provedoria de Justiça;
 
@@ -665,7 +675,7 @@ e) Assegurar a representação forense do município, dos seus órgãos e titula
 
 f) Assegurar as participações crime pela prática de actos que indiciam prática de actos tipificados do crime contra o município;
 
-##### Divisão Municipal de Execuções Fiscais e Contra-Ordenações
+Divisão Municipal de Execuções Fiscais e Contra-Ordenações
 
 a) Assegurar o cumprimento das atribuições municipais no âmbito do processo de execução fiscal, desenvolvendo as acções necessárias a instauração, com base nas respectivas certidões de dívida e toda a tramitação até à extinção, dos processos de cobrança coerciva por dívidas de carácter fiscal ao município, ou que sigam esta forma de processo na sua cobrança;
 
@@ -681,7 +691,7 @@ f) Acompanhar os processos de impugnação de contra ordenação.
 
 9 - Departamento Municipal de Educação
 
-##### Divisão Municipal de Educação
+Divisão Municipal de Educação
 
 a) Administrar os edifícios, equipamentos e materiais escolares sob responsabilidade municipal;
 
@@ -703,7 +713,7 @@ i) Assegurar o sistema de informação e gestão escolar;
 
 j) Garantir a representação do Município nos conselhos gerais dos agrupamentos verticais de escolas.
 
-##### Divisão Municipal de Apoio à Infância e Juventude
+Divisão Municipal de Apoio à Infância e Juventude
 
 a) Executar a política municipal de apoio à juventude;
 
@@ -729,7 +739,7 @@ k) Coordenar a participação do Município em programas e iniciativas para a ed
 
 10 - Departamento Municipal de Fiscalização
 
-##### Divisão Municipal de Fiscalização de Obras Particulares
+Divisão Municipal de Fiscalização de Obras Particulares
 
 a) Realizar as acções de fiscalização e tomar as medidas de coacção previstas na lei, com vista a garantir o cumprimento dos projectos, das disposições legais e regulamentares;
 
@@ -737,7 +747,7 @@ b) Promover o atendimento e prestação de esclarecimentos aos interessados no �
 
 c) Promover acções de sensibilização e de esclarecimento preventivas no âmbito da aplicação das normas urbanísticas.
 
-##### Divisão Municipal de Fiscalização Geral
+Divisão Municipal de Fiscalização Geral
 
 a) Fiscalizar a aplicação de todos os regulamentos municipais, excepto os de natureza rodoviária;
 
@@ -760,3 +770,5 @@ i) Realizar acções de fiscalização, por amostragem, à execução de obras d
 j) Fiscalizar o cumprimento das recomendações decorrentes das acções referidas no item anterior e das solicitadas pelo Gabinete de Auditoria Interna na sequência dos seus relatórios.
 
 30 de Março de 2010. - O Director Municipal da Presidência, Manuel de Novaes Cabral.
+
+203097557

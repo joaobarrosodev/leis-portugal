@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/995-2010-2058268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d31fa1d164d8abef984190f1481e8400e86499e57f261e69c2581022636ee5d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d15610580da8f9a44ad8c32e822d83679496bce54b109d89cdc22c713dd7598
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:14Z'
   warnings: []
   errors: []
 ---
@@ -94,25 +94,25 @@ Especialização em Estudos de Mudança e Variação do Português
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 Especialização em Língua e Comunicação
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 Especialização em Linguística Portuguesa Aplicada
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 Especialização em Linguística Inglesa Aplicada
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 deve ler-se:
 
@@ -120,25 +120,25 @@ Especialização em Estudos de Mudança e Variação no Português
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 Especialização em Língua e Comunicação
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 Especialização em Linguística Portuguesa Aplicada
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 Especialização em Linguística Inglesa Aplicada
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 3 - Nos quadros n.os 7, 9, 11 e 13, onde se lê:
 
@@ -146,25 +146,25 @@ QUADRO N.º 4
 
 QUADRO N.º 7
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 2.º ano
 
 QUADRO N.º 9
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 2.º Ano
 
 QUADRO N.º 11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 2.º ano
 
 QUADRO N.º 13
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 deve ler-se:
 
@@ -172,24 +172,26 @@ deve ler-se:
 
 QUADRO N.º 7
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 2.º ano
 
 QUADRO N.º 9
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 2.º ano
 
 QUADRO N.º 11
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 2.º ano
 
 QUADRO N.º 13
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf))](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/05/098000000/2786527867.pdf)
 
 11 de Maio de 2010. - A Directora, Margarida Cabral.
+
+203257183

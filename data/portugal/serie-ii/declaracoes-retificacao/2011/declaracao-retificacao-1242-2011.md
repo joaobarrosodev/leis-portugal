@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/153000000/3302533025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1242-2011-1078041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db797b7767f00ac78a6eacac079afc166f5aff20695284f5f88742098daa2a7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76fd185abd3b395b650f2055eee6ab5584e7ca8ca005fd4cc573787c590c7810
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:46Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1242/2011
+# Declaração de rectificação n.º 1242/2011
 
 Pedro Miguel Pereira Simões Coelho, director do Instituto Superior de Estatística e Gestão de Informação da Universidade Nova de Lisboa, torna público que o regulamento n.º 191/2011, publicado no Diário da República, 2.ª série, n.º 52, de 15 de Março de 2011, que determinou as alterações ao plano curricular do 1.º ciclo de estudos conducente ao grau de licenciado em Gestão de Informação, comunicadas à Direcção-Geral do Ensino Superior em 7 de Março de 2011, em conformidade com o disposto no [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), de 25 de Junho, não estabelece um plano de transição entre o anterior plano de estudos (pós-Bolonha), registado na Direcção-Geral do Ensino Superior com o número R/B-AD 31/2006, conforme o despacho n.º 11670/2006, publicado no Diário da República, 2.ª série, n.º 104, de 30 de Maio de 2006, e o actual plano curricular. Acresce que neste regulamento foi publicada com inexactidão a designação duma unidade curricular.
 
@@ -93,3 +97,5 @@ Por este motivo, rectifica-se que:
 3 - A rectificação e o plano de transição a que se reporta a presente declaração de rectificação foram comunicados à Direcção-Geral do Ensino Superior em 29 de Julho de 2011, em conformidade com o disposto no [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), de 25 de Junho.
 
 1 de Agosto de 2011. - O Director, Pedro Simões Coelho.
+
+204994829

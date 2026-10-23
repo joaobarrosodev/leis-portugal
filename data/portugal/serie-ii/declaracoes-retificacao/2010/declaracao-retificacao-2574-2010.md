@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/239000000/6030160301.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2574-2010-1029834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeb736d0fdbf6fa555c610bcaf7645dd3a8c651892abb25a91ae8a794daf4473
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bce76238bce0ba9055b3961db0da35e08581cdd648caffaf2ab9982ad4f0070
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:22Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2574/2010
 Por ter saído com inexactidão a publicação do aviso n.º 25 083/2010, referente ao procedimento concursal para o cargo de direcção intermédia de 1.º grau - director de serviços de Informática dos SASUC, constante no Diário da República, 2.ª série, n.º 233 de 2 de Dezembro de 2010, a p. 58 643, rectifica-se que, no n.º 4, onde se lê «a) Licenciatura em Engenharia Electrotécnica (opção de Correntes Fracas)» deve ler-se «a) Licenciatura em Engenharia Electrotécnica ou Informática».
 
 3 de Dezembro de 2010. - O Administrador, Jorge Gouveia Monteiro.
+
+204029259

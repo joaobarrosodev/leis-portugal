@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/189000000/4854248542.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1988-2010-1812961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61f4190b6e62cb70c0340e53bd002a4396675cb85f1a9f97e14a4320650e3af1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 645e5f3d0ec6a35f70fe695acdaecdcf047b9ff22049e819b3a1322e3633f71e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:50Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 1988/2010
 Para os devidos efeitos se rectifica que, no edital n.º 887/2010, publicado no Diário da República, 2.ª série, n.º 170, de 1 de Setembro de 2010, relativo à abertura de concurso de professor catedrático da área disciplinar de Zoologia e Antropologia da Faculdade de Ciências da Universidade do Porto, na p. 45745, no que diz respeito à constituição do júri, onde se lê «Professor Doutor António Fernando Sousa da Silva, Professor Catedrático da Faculdade de Ciências da Universidade do Porto» deve ler-se «Professor Doutor Aires Manuel Pereira de Oliveira Teles, professor catedrático da Faculdade de Ciências da Universidade do Porto».
 
 Reitoria da Universidade do Porto, 22 de Setembro de 2010. - O Reitor, (José C. D. Marques dos Santos).
+
+203723232

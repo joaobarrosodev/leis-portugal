@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/087000000/2389123891.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/902-2010-2119586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ea27989023a69f129476fc8c21c35960798dceaeb8cf7d35615da08b6e924c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54d5230db9a443f089579da5d045feb027b7e4fa095f4d19d5f63e4861b410d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:44Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 902/2010
 Por ter saído com inexactidão o despacho (extracto) n.º 6802/2010, publicado no Diário da República, 2.ª série, n.º 74, de 16 de Abril de 2010, a p. 19 746, rectifica-se que onde se lê «Doutora Ana Maria Gomes de Almeida, contratada em Regime de Contrato de Trabalho em Funções Públicas por Tempo Indeterminado da Faculdade de Medicina da Universidade de Lisboa» deve ler-se «Doutora Ana Maria Gomes de Almeida, contratada em Regime de Contrato de Trabalho em Funções Públicas por Tempo Indeterminado como Professora Associada da Faculdade de Medicina da Universidade de Lisboa».
 
 28 de Abril de 2010. - O Secretário, Luís Pereira.
+
+203199917

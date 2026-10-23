@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/240000000/4907049070.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1923-2011-2977161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f469fa309b8c5194bc24049207c784d8ef7a24a5d08590bb4dc659c47089f30c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1f924cf15fcfbc2e39fde02b8adbef317023a38d35c17346293ac8655d0d425
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:53Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Para os devidos efeitos, proceda-se à rectificação do aviso n.º 23330/2011, 
 Assim, onde se lê «1 - Técnico superior na área de gestão de espaços verdes para a SOFJARD (Sónia Maria Caeiro dos Prazeres) com a remuneração de 1.2081,48 (euro), correspondente à 2.ª posição remuneratória e ao nível remuneratório 15.º da tabela remuneratória única» deve ler-se «1 - Técnico superior na área de gestão de espaços verdes para a SOFJARD (Sónia Maria Caeiro dos Prazeres) com a remuneração de 1.201,48 (euro), correspondente à 2.ª posição remuneratória e ao nível remuneratório 15.º da tabela remuneratória única» e onde se lê «1 - Técnico superior - direito para DJN (Cláudia Sofia Gamelas Ferreira) com a remuneração de 1.2081,48 (euro), correspondente à 2.ª posição remuneratória e ao nível remuneratório 15.º da tabela remuneratória única» deve ler -se «1 - Técnico superior - direito para DJN (Cláudia Sofia Gamelas Ferreira) com a remuneração de 1.201,48 (euro), correspondente à 2.ª posição remuneratória e ao nível remuneratório 15.º da tabela remuneratória única».
 
 30 de Novembro de 2011. - O Vice-Presidente da Câmara Municípal de Elvas, Dr. Nuno Miguel Fernandes Mocinha.
+
+305429709

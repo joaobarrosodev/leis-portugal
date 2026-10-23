@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1040-2011-3452548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c384915c6b3d8f23f1bdf0183a0a54e6a4bc954eea1286f97bc8b3b872f3d07b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6624daa63ecf41705233f7d55e2bb3ef10dc40bce7227a21430698b97400ac17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Cultura
+- TAXA de Prestação de Serviços
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:30Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +90,5 @@ Declaração de rectificação n.º 1040/2011
 Por ter sido publicada com inexactidão rectifico a tabela do anexo ii do meu despacho de 3 de Junho de 2011, publicado no Diário da República, 2.ª série, n.º 113, de 14 de Junho de 2011, sob o n.º 8232/2011, que procedeu à revisão das taxas a praticar pelas direcções regionais de cultura pela prestação de serviços e cedência de espaços em imóveis afectos, nos seguintes termos, assim, onde se lê «Grupos de serviços: Emissão de certidões e certificação de documentos; Subgrupos e formatos: Certidões; Unidades e subunidades: Por cada certidão até 10 páginas; Valor (euros): 50» deve ler-se «Grupos de serviços: Emissão de certidões e certificação de documentos; Subgrupos e formatos: Certidões; Unidades e subunidades: Por cada certidão até 10 páginas; Valor (euros): 20».
 
 15 de Junho de 2011. - O Secretário de Estado da Cultura, Elísio Costa Santos Summavielle.
+
+204797934

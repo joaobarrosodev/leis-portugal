@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/077000000/2072420724.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/777-2010-3032716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a474062febac1c66b453a2082a47f4725e647027f6f8446eea9a6791963d855
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a113c63b49d8cb5d771d8be7b3d7a95b8cebdd440de20b62fda94838dbe9ea30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:59Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 777/2010
+# Declaração de rectificação n.º 777/2010
 
 1 - Para os devidos efeitos se declara que o aviso n.º 7149/2010, de 29 de Março, publicado no Diário da República, 2.ª série, n.º 69, de 9 de Abril de 2010, relativo à abertura de procedimento concursal interno para o preenchimento de dois postos de trabalho da carreira geral de técnico superior do mapa de pessoal do Gabinete de Planeamento Estratégico e Relações Internacionais do Ministério das Obras Públicas, Transportes e Comunicações, saiu com a seguinte inexactidão, que a seguir se rectifica:
 
@@ -94,3 +98,5 @@ validation:
 3 - Serão consideradas, para efeitos do presente procedimento, as candidaturas já recebidas.
 
 14 de Abril de 2010. - O Director, José Pinheiro Henriques.
+
+203151534

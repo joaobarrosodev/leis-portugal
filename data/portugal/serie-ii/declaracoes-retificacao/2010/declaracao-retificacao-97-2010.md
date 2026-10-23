@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-2010-1270682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e3606111b54a1cd8f61f47a145bd91b3897f0a20935c507eeda29e461e91b72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdba343ba510166c5c7e3050ab73ed55d74b7c6537f83827b6e1ee6637bb62dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:05Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +90,11 @@ Categoria de Assistente Técnico
 
 Candidatos aprovados:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf))](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf)
 
 Candidata excluída:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf))](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf)
 
 deve ler-se:
 
@@ -102,16 +102,18 @@ Categoria de assistente técnico
 
 Candidatos aprovados:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf))](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf)
 
 Candidata excluída:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf))](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf)
 
 Categoria de assistente operacional
 
 Candidata aprovada:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf))](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/01/012000000/0254702547.pdf)
 
 13 de Janeiro de 2010. - O Director, Mário João Martins Silva Ferreira.
+
+202789036

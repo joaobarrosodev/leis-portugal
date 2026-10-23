@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/211000000/5413654136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2199-2010-3283523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27c9e091857f78f203e35aeb11a36df6ac752c8c86be4faa0ac6c58a1e0a6b8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7ddefa292b3b0e70daa6ead8466c702cd0367fc104f3faf5631a68a497b49a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:10Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +98,5 @@ deve ler-se:
 «Por despacho de 29 de Setembro de 2010 do reitor da Universidade Técnica de Lisboa, faz-se saber que, perante esta Faculdade, pelo prazo de 30 dias úteis, a contar do dia imediato ao da publicação do presente edital no Diário da República, está aberto concurso documental internacional para recrutamento na modalidade de contrato de trabalho em funções públicas, de duas vagas de professor associado, na área disciplinar de Arquitectura, da Faculdade de Arquitectura da Universidade Técnica de Lisboa».
 
 22 de Outubro de 2010. - O Presidente, em substituição, Manuel Jorge Couceiro da Costa.
+
+203852233

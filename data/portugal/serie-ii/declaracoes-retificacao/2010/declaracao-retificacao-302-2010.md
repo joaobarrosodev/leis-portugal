@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/031000000/0696806970.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/302-2010-1401484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a2471c4f8e1261ce346d6636731d081ea97551d8b5fbc0c33d9becb1d2147ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2afd9d59c4759fee531602d7cbaff363ff9b91ee3abdaed738b5ed334c72aafa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:07Z'
   warnings: []
   errors: []
 ---
@@ -214,7 +214,7 @@ Presidente: Rui Paulo Viana da Silva Neves - Técnico Superior
 
 2.º Vogal Suplente: Manuel António Borralho Augusto - Técnico Superior
 
-**O presidente do júri será substituído nas suas faltas ou impedimentos pelo primeiro vogal efectivo.» deve ler-se «26 - O júri é constituído pelos seguintes elementos:**
+O presidente do júri será substituído nas suas faltas ou impedimentos pelo primeiro vogal efectivo.» deve ler-se «26 - O júri é constituído pelos seguintes elementos:
 
 Referência 1/ADR e 2/ADR:
 
@@ -336,8 +336,10 @@ Presidente - Maria de Fátima Lisboa Leitão, chefe de unidade.
 
 2.º vogal suplente - Manuel António Borralho Augusto, técnico superior.
 
-**O presidente do júri será substituído nas suas faltas ou impedimentos pelo 1.º vogal efectivo.».**
+O presidente do júri será substituído nas suas faltas ou impedimentos pelo 1.º vogal efectivo.».
 
 Rectifica-se ainda a numeração, assim, onde se lê «26» deve ler-se «27», onde se lê «27» deve ler-se «28», onde se lê «28» deve ler-se «29», onde se lê «29» deve ler-se «30», onde se lê «30» deve ler-se «31», onde se lê «31» deve ler-se «32» e onde se lê «32» deve ler-se «33».
 
 8 de Fevereiro de 2010. - Os Vogais do Conselho Directivo: José Egídio Barbeito - Francisco Brito Onofre.
+
+202895438

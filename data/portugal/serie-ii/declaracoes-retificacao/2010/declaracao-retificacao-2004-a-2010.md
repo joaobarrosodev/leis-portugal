@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 190/2010, 1º Suplemento, Série II de 2010-09-29
   number: '190'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 48760-(2) a 48760-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/190000001/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2004-a-2010-1672836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b402f6eab5277cc220fdb8aa11ad19964feecde3c95cfe8abc8028b3531f52a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddb58f3226751433b97ccfa5e74f09938cbbc0e12b0cb0b26cf55d660eb27ffd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:56Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 2004-A/2010
 Por ter saído com inexactidão o anexo ao aviso n.º 18 390/2010, publicado no Diário da República, 2.ª série, n.º 182, de 17 de Setembro de 2010, referente a procedimento concursal comum de recrutamento para ocupação de postos de trabalho em regime de contrato de trabalho em funções públicas por tempo indeterminado para a carreira e categoria de assistente operacional, rectifica-se que onde se lê «Anexo - Código 400830 - Escola Secundária de Amato Lusitano - Avenida Pedro Álvares Cabral, 6000-085 Castelo Branco - Carreira e Categoria de Assistente Operacional - Funções inerentes à antiga Categoria de Auxiliares de Acção Educativa - 2» deve ler-se «Anexo - Código 400830 - Escola Secundária de Amato Lusitano - Avenida de Pedro Álvares Cabral, 6000-085 Castelo Branco - Carreira e categoria de assistente operacional - Funções inerentes à antiga categoria de auxiliares de acção educativa - 3».
 
 28 de Setembro de 2010. - A Directora Regional, Helena Libório.
+
+203744893

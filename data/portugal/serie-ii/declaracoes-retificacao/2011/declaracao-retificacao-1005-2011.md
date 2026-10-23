@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/115000000/2560225602.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1005-2011-1244749
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70529b90f4cb0aa029afa4247f9936f0ea54a68cde05eed27c0440edf7ddb51f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b71901de6de15d860fe86fd711c7d0fef84088ad56fd14394a35043c0121eeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:19Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +87,8 @@ Declaração de rectificação n.º 1005/2011
 
 Por ter saído com inexactidão o despacho (extracto) n.º 6395/2011, no Diário da República, 2.ª série, n.º 74, de 14 de Abril de 2011, publica-se novamente a lista dos contratos administrativos de serviço docente de 2010-2011, desta Escola Secundária:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/06/115000000/2560225602.pdf))](https://files.diariodarepublica.pt/2s/2011/06/115000000/2560225602.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/06/115000000/2560225602.pdf)
 
 30 de Maio de 2011. - O Director, Jorge Manuel Jesus Ventura.
+
+204740033

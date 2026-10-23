@@ -47,41 +47,511 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1902-2011-1017489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6da9a466300b810462318b5807cbb086696f7a40cc15448677c08b265885ecad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b875f6a127ad3306332f4fc91da85043715c0dd7ecf45e44f9e5affe50696199
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Loures
+- Odivelas
+- Ordenamento do Território
+- Plano Director Municipal
+- Política de Solos
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:141784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678600:por
+  label: null
+  source: null
 article_structure:
   article_count: 87
   section_count: 63
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:45Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1902/2011
+# Declaração de rectificação n.º 1902/2011
 
 Para os devidos efeitos, torna-se público que o aviso n.º 18730/2011, publicado no Diário da República, 2.ª série, n.º 182, de 21 de Setembro de 2011, por lapso, não publicou as alterações ao Regulamento do Plano Director Municipal de Loures aí referidas, pelo que se republica o mesmo aviso, agora com as respectivas alterações e deliberações municipais em anexo, republicando-se ainda, na íntegra, com as alterações referidas já introduzidas, o texto do Regulamento do Plano Director Municipal de Loures, na versão aplicável ao município de Odivelas, ou seja, ratificado pela [Resolução do Conselho de Ministros n.º 54/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-1994-298575), de 14 de Julho, e objecto de quatro alterações: a primeira, publicada no Diário da República, 2.ª série, n.º 96, de 24 de Abril de 1999; a segunda, ratificada pela [Resolução do Conselho de Ministros n.º 43-A/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/43-a-1999-391866), publicada no Diário da República, 1.ª série-B, n.º 120, de 24 de Maio de 1999; a terceira, publicada no Diário da República, 2.ª série, n.º 87, de 12 de Abril de 2000, e a quarta, publicada no Diário da República, 2.ª série, n.º 34, de 9 de Fevereiro de 2001.
 
@@ -93,7 +563,7 @@ Alteração por adaptação aos artigos 3.º, 8.º, 45.º, 47.º e 54.º do Regu
 
 Em obediência ao estipulado na alínea d) do n.º 4 do artigo 148.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, por força do n.º 1 do artigo 96.º, com a redacção dada pelo [Decreto-Lei n.º 46/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2009-602059), de 20 de Fevereiro, junta-se para publicação as deliberações municipais supra-referidas que aprovaram as alterações em questão e o regulamento com as alterações realizadas.
 
-**Publique-se ainda no Boletim Municipal, em dois jornais diários, dois semanários de expansão nacional e local e na página da Internet da Câmara Municipal de Odivelas.**
+Publique-se ainda no Boletim Municipal, em dois jornais diários, dois semanários de expansão nacional e local e na página da Internet da Câmara Municipal de Odivelas.
 
 5 de Agosto de 2011. - A Presidente da Câmara, Susana de Carvalho Amador.
 
@@ -1369,7 +1839,7 @@ As ilegalidades resultantes de violação do PDM estão sujeitas às disposiçõ
 
 ## ANEXO N.º 1 — Classes de espaços - Usos dominantes
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf))](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
 
 ## ANEXO N.º 2 — Património cultural construído no concelho de Loures (e de Odivelas)
 
@@ -1381,7 +1851,7 @@ Nível 2 - aglomerados onde já não existe um núcleo antigo, mas apresentam va
 
 Nível 3 - aglomerados em avançado estado de descaracterização, que deverão ser objecto de intervenção no âmbito da defesa da paisagem em que se inserem.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf))](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
 
 Aglomerados de nível 1
 
@@ -1503,13 +1973,13 @@ Regulamento
 
 3.1 - As coberturas deverão ter tantas águas quantas as fachadas do edifício:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf))](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
 
 Em terrenos de elevada inclinação, a solução adequada para a cobertura poderá exigir menor número de águas;
 
 3.2 - A linha de cumeeira deverá ser comum às diferentes águas;
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf))](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
 
 3.3 - As coberturas deverão preferencialmente ser feitas em telha cerâmica em cor natural e do tipo lusa e mourisca/canudo;
 
@@ -1521,7 +1991,7 @@ Em terrenos de elevada inclinação, a solução adequada para a cobertura poder
 
 3.7 - Os remates da cobertura sobre as fachadas poderão realizar-se recorrendo à execução de:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf))](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
 
 Remate com telha mourisca (sobre empena).
 
@@ -1533,7 +2003,7 @@ Remate com telha mourisca (sobre empena).
 
 4.2 - Os socos e cunhais deverão ser executados em argamassa saliente à superfície da fachada ou em cantaria bujardada:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf))](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
 
 4.3 - O acabamento da superfície de fachada deverá ser liso, do tipo chamado «roscone fino» ou «areado fino». Interdita-se a realização de acabamentos rugosos do tipo «tirolez»;
 
@@ -1557,7 +2027,7 @@ Remate com telha mourisca (sobre empena).
 
 5.1 - A maior dimensão dos vãos deve ser disposta verticalmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf))](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
 
 5.2 - Os vãos deverão ter emolduramentos, os quais poderão realizar-se em massa saliente à superfície da fachada ou em pedra bujardada.
 
@@ -1583,4 +2053,6 @@ A vista exterior terá como largura mínima 16 cm:
 
 Quadro síntese de cores
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf))](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/236000000/4837348389.pdf)
+
+605425026

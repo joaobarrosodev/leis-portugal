@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/152000000/3292532926.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1241-2011-1482657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b510d500d4891f461cced226b395bbce325cf3b6fa04be30a2081aaa1586ced9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a059d110e87abfc9d6e7baa8573041b4a3b2633ded2b3a21afa8e77c930bdf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:46Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +113,9 @@ As presenças ao acto de votação devem ser anotadas nas folhas de remuneraçã
 
 B - Comissão de Trabalhadores
 
-###### Artigo 58.º — Eleição
+Artigo 58.º
+
+Eleição
 
 1 - A Comissão de Trabalhadores e as subcomissões são eleitas de entre as listas apresentadas pelos trabalhadores, segundo o princípio da representação proporcional.
 
@@ -141,7 +143,9 @@ Propostas para alterações
 
 Podem propor alterações aos Estatutos as entidades com competência para convocar a assembleia geral, nos termos do n.º 1 do artigo 13.º destes Estatutos.
 
-###### Artigo 87.º — Votações
+Artigo 87.º
+
+Votações
 
 As votações para a aprovação dos Estatutos são por voto secreto e directo.»
 
@@ -162,3 +166,5 @@ deve ler-se:
 César Chaves Mendes Vilaça»
 
 1 de Agosto de 2011. - Pela Directora-Geral da Administração e do Emprego Público, a Subdirectora-Geral, Maria do Rosário Raposo.
+
+204989231

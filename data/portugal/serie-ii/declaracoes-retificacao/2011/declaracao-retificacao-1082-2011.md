@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/07/128000000/2834628346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1082-2011-1831962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0614bf0b71898606be22a74b7705bdfd35bb823a91284d6fd5c740e5285a7890
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 873a032db20c310993b322689e742a6735ebafc0486c842ab8744168800d59a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:45Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Para os devidos efeitos se declara que o aviso n.º 11940/2011, publicado no Di�
 Em 10, a), (2), (b) onde se lê «Até à data de início das provas psicotécnicas - os documentos referidos no n.º 9, alínea b), pontos (1), (3) e (4).» deve ler-se «Até à data de início das provas psicotécnicas - os documentos referidos no n.º 9, alínea a), ponto (4) e os documentos referidos no n.º 9), alínea b), pontos (1), (2) e (4).»
 
 28 de Junho de 2011. - O Presidente da Comissão de Admissão, José Manuel Pinheiro Serôdio Fernandes, MGEN/PILAV.
+
+204852365

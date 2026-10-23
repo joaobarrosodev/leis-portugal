@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/081000000/2225522255.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/834-2010-3675433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7cb853765f39fbbeed0683717d4c9b5bc1ddf9057f1e8a15b439e6888c415db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c533101b5fa2f637d044fe6e83fcf74fcf7eb67ca857863e09fff4a70bb6c12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:19Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 834/2010
 No aviso desta Câmara Municipal n.º 7705/2010, publicado no Diário da República, 2.ª série, n.º 74, de 16 de Abril de 2010, onde se lê «Ref. A - 1 Técnico Superior (Arquitecto) (M/F), para prestar funções na Divisão Obras Municipais e Manutenção» deve ler-se «Ref. A - 1 Técnico Superior (Arquitecto) (M/F), para prestar funções na Divisão de Planeamento», onde se lê «Ref. B - 1 Técnico Superior (Engenheiro Electrotécnico) (M/F), para prestar funções na Divisão de Planeamento» deve ler-se «Ref. B - 1 Técnico Superior (Engenheiro Electrotécnico) (M/F), para prestar funções na Divisão de Obras Municipais e Manutenção», onde se lê «Ref. F - 1 Assistentes Técnicos (M/F) para prestar funções na Divisão de Recursos Humanos» deve ler-se «Ref. F - 1 Assistente Técnico (M/F) para prestar funções na Divisão de Recursos Humanos», onde se lê «Ref. G - 1 Assistentes Técnicos (M/F) para prestar funções na Divisão de Recursos Humanos» deve ler-se «Ref. G - 1 Assistente Técnico (M/F) para prestar funções na Divisão de Recursos Humanos», onde se lê «Habilitações Literárias: Ref. A - Licenciatura em Engenharia Electrotécnica ou similar. Ref. B - Licenciatura em Arquitectura» deve ler-se «Ref. A - Licenciatura em Arquitectura. Ref. B - Licenciatura em Engenharia Electrotécnica ou similar», onde se lê «Ref. E - Vogais efectivos: Sérgio Miguel Almeida Soares» deve ler-se «Ref. E - Vogais efectivos: Sérgio Miguel Santos Soares».
 
 16 de Abril de 2010. - O Presidente da Câmara, José António Bastos da Silva.
+
+303162404

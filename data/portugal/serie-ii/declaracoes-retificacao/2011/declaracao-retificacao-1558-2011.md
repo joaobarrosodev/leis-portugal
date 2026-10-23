@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/200000000/4124741247.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1558-2011-1458897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eaa4dcafe2302c1e0a9ffb10b94e653616095bebff65f6dab1711aa184bd0ab1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca7a4a5fe28ba8346a8261ef4d94b9fc47a723f1dfbbf48f3299942789884977
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:218365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569887:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:38Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1558/2011
+# Declaração de rectificação n.º 1558/2011
 
 Por ter saído com inexactidão no Diário da República, 2.ª série, n.º 184, de 23 de Setembro de 2011, a p. 38200, o aviso (extracto) n.º 18927/2011, rectifica-se que onde se lê:
 
 Por despacho de 29 de Agosto de 2011 do Subdirector-Geral, Dr. João Durão, na qualidade de substituto legal do Director-Geral dos Impostos, proferido nos termos do artigo 23.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887) de 18 de Setembro, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365) de 18 de Dezembro, foi autorizada a renovação/alteração das equipas de trabalho da Inspecção e Justiça Tributária da Direcção de Finanças do Porto, a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/10/200000000/4124741247.pdf))](https://files.diariodarepublica.pt/2s/2011/10/200000000/4124741247.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/10/200000000/4124741247.pdf)
 
 deve ler-se:
 
 Por despacho de 29 de Agosto de 2011 do subdirector-geral, Dr. João Durão, na qualidade de substituto legal do director-geral dos Impostos, proferido nos termos do artigo 23.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), de 18 de Dezembro, foi autorizada a renovação/alteração das equipas de trabalho da Inspecção e Justiça Tributária da Direcção de Finanças do Porto, a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/10/200000000/4124741247.pdf))](https://files.diariodarepublica.pt/2s/2011/10/200000000/4124741247.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/10/200000000/4124741247.pdf)
 
 4 de Outubro de 2011. - A Directora de Serviços, em substituição, Ângela Santos.
+
+205220939

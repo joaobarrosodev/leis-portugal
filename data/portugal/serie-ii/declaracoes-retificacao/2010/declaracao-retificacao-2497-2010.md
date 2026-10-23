@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/233000000/5860758607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2497-2010-1133532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:23:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69c7028bf7c20caeb48cc1e82dd971b37b0afa5280800010dd241f5336db6c17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1ee41323e0b13e9e2228d7a733b74606a6ea57fdedd75fe5955fb4950623f7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:23:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:23:52Z'
   warnings: []
   errors: []
 ---
@@ -86,12 +86,14 @@ Declaração de rectificação n.º 2497/2010
 
 Engenheiro Luís Simão Duarte de Matos, presidente da Câmara Municipal de Mora, tendo em conta que, devido a lapso dos nossos serviços, no aviso n.º 9885/2010, publicado no Diário da República, 2.ª série, n.º 97, de 19 de Maio de 2010, consta, no capítulo ii, n.º 2.1.2:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5860758607.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5860758607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5860758607.pdf)
 
 quando deveria constar:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/233000000/5860758607.pdf))](https://files.diariodarepublica.pt/2s/2010/12/233000000/5860758607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/233000000/5860758607.pdf)
 
 pelo que consideramos, através deste aviso, rectificado o anteriormente referido.
 
 17 de Novembro de 2010. - O Presidente da Câmara, Luís Simão Duarte de Matos.
+
+203983981

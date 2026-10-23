@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2066-2010-2484948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0f28aa97d372aa7676ed5b631a8c11ea97ef0d28c61026a112a09e3f763ecf3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 229a4c71b60350b75a999ba848ad21282c12d94ce2535e215da63a1038c018c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:20Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +108,7 @@ Duração normal do curso: 3-4 anos lectivos, 6-8 semestres.
 
 Áreas científicas e créditos que devem ser reunidos para a obtenção do grau ou diploma:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf))](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
 
 Plano de estudos
 
@@ -116,30 +116,32 @@ Programa Doutoral em Nanociências e Nanotecnologia
 
 1.º ano/1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf))](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
 
 1.º ano/2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf))](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf))](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf))](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
 
 4.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf))](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
 
 Opções D.1 a D.4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf))](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
 
 Opções M.1 a M.3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf))](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/197000000/5022450226.pdf)
 
 28 de Setembro de 2010. - A Administradora, Maria de Fátima Duarte.
+
+203762194

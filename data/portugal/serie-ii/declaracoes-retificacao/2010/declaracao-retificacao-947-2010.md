@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/092000000/2563625636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/947-2010-3494275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a83b1a513c6fba4e03a91824ff6d80d5512e4df0f796a05fcc9d1fb33a316c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49cb765761a530724f5567ef1e8284380919491ce5862bbe78d6074a59454a59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1975937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3416071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:59Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 947/2010
+# Declaração de rectificação n.º 947/2010
 
 Atento o aprovado na reunião do conselho de gestão de 20 de Abril de 2010, pela presente determino a rectificação à tabela de emolumentos do IPP, publicada no Diário da República através do anexo ao despacho n.º 7214/2009, de 3 de Março, e rectificada pela declaração n.º 632/2010, de 22 de Março, nos termos a seguir discriminados:
 
@@ -96,7 +108,9 @@ Atento o aprovado na reunião do conselho de gestão de 20 de Abril de 2010, pel
 
 5 de Maio de 2010. - O Presidente, Joaquim António Belchior Mourato.
 
-## ANEXO — Tabela de emolumentos
+ANEXO
+
+Tabela de emolumentos
 
 1 - Certidões:
 
@@ -211,3 +225,5 @@ c) Averbamentos - (euro) 2,50.
 10.4 - Nos casos omissos ou considerados excepcionais, pode o presidente do Instituto Politécnico de Portalegre autorizar situações de excepção ao presente despacho;
 
 10.5 - A presente tabela entrou em vigor a partir de 1 de Janeiro de 2007, as alterações referidas pelos despachos n.os [1474/2008](https://diariodarepublica.pt/dr/detalhe/despacho/1474-2008-3416071), 13 404/2008, [7214/2009](https://diariodarepublica.pt/dr/detalhe/despacho/7214-2009-1975937) e rectificada pela declaração n.º 632/2010 entraram em vigor a partir de 11 de Janeiro de 2008, 13 de Maio de 2008, 3 de Março de 2009 e 22 de Março de 2010, respectivamente.
+
+203228963

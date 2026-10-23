@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/209000000/4295442954.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1619-2011-2747089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:33:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4065f4d6287fc4f3b6c8fcf19b9e12f81981b9010f1635698ab2678406067d50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b931bc3d05482566ba010efab5538da0c3bb3c3f235ec71df23843538d51b8bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:33:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:33:01Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1619/2011
 Por ter saído com inexactidão no Diário da República, 2.ª série, n.º 194, de 10 de Outubro de 2011, o contrato (extracto) n.º 964/2011, rectifica-se que onde se lê «Ficando este trabalhador integrado na carreira e categoria de enfermeiro [...] Inês Filipa Cardoso Nerra» deve ler-se «Ficando este trabalhador integrado na categoria de técnico de 2.ª classe, da carreira de técnico de diagnóstico e terapêutica, na área de anatomia patológica, citológica e tanatológica [...] Inês Filipa Cardoso Nerra».
 
 11 de Outubro de 2011. - O Presidente do Conselho Directivo, Rui Portugal.
+
+205280952

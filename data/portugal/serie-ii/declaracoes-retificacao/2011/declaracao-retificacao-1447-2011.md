@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/09/185000000/3842738427.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1447-2011-1876011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2808125631ec850007c3dff8bcb3de7421cead0f7ee04a7107c9ba8d76f1a1a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 204ab5da5d4f521ffe553f31eab9a687f69afa2ee453bb0092ec93dec892e062
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:01Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1447/2011
 Para os devidos efeitos, torna-se público que o aviso n.º 17915/2011, publicado no Diário da República, 2.ª série, n.º 175, de 12 de Setembro de 2011, a p. 36799, saiu com inexactidão. Assim, onde se lê «se encontra aberto procedimento concursal comum visando a ocupação de 3 (três) postos de trabalho na carreira e categoria de assistente operacional - área de cantoneiro de limpeza, no Departamento Operativo» deve ler-se «se encontra aberto procedimento concursal comum visando a ocupação de três postos de trabalho na carreira e categoria de assistente operacional no Departamento Operativo».
 
 14 de Setembro de 2011. - O Presidente da Câmara, Jorge Manuel da Cunha Mendes Riso.
+
+305132535

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/183000000/4772047720.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1927-2010-1892310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23c305593958d35dddaeeaf6e9c3d41dfa79829fc530fcf9b85391b67f3c5a80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb100283cbf5523fd84795c1d6bed2c89d70e0d5d44303eb862f5903677ee6fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:30Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +94,7 @@ Constatando-se que o mapa correspondente ao 3.º ano do ciclo de estudos, que fi
 
 9 de Setembro de 2010. - O Reitor, Diamantino Freitas Gomes Durão.
 
-## ANEXO AO DESPACHO N.º 6249/2007
+ANEXO AO DESPACHO N.º 6249/2007
 
 (republicação)
 
@@ -104,4 +104,6 @@ Constatando-se que o mapa correspondente ao 3.º ano do ciclo de estudos, que fi
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/09/183000000/4772047720.pdf))](https://files.diariodarepublica.pt/2s/2010/09/183000000/4772047720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/09/183000000/4772047720.pdf)
+
+203686995

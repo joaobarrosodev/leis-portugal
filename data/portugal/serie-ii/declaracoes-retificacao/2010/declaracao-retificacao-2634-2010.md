@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/247000000/6230662307.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2634-2010-1279106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51e6a6d66fb6a397f143deaf2fad75810e20ad0fb8f7e68a232caac713abde4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b58ffd68ac48d47d326c0af5825a9d694604f081c43e84ed12224070b1fa57a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:42Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,9 @@ Onde se lê:
 
 Proposta de redacção final
 
-###### Artigo 3.º — Áreas urbanas
+Artigo 3.º
+
+Áreas urbanas
 
 3.1 - Disposições gerais.
 
@@ -151,7 +153,9 @@ deve ler-se:
 
 Redacção final
 
-###### Artigo 3.º — Áreas urbanas
+Artigo 3.º
+
+Áreas urbanas
 
 3.1 - ...
 
@@ -322,3 +326,5 @@ g) ...
 h) ...»
 
 15 de Dezembro de 2010. - O Presidente, José Joaquim Gameiro de Sousa Gomes.
+
+204072253

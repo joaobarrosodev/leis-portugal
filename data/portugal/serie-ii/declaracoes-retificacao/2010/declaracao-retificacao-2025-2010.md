@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/193000000/4932849329.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2025-2010-1093168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2fc9fb63920781dae611f356be5614334cd49f0967d4ef760ecf894cb9bb894
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa6518e9c0cb4d897fc243dcbc6938015f73c61030adefd69ec2a4d535db163c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:05Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Nos termos do n.º 2 do artigo 9.º do Regulamento de Publicações de Actos no 
 Onde se lê «Encarregado operacional» deve ler-se «Assistente operacional», onde se lê «posição remuneratória 9.ª e nível remuneratório 9» deve ler-se «3.ª e 3» e onde se lê «posição remuneratória 2.ª e nível remuneratório 2» deve ler-se «entre a 2.ª e 3.ª e entre 2 e 3».
 
 24 de Setembro de 2010. - O Director, Carlos Alberto Borges de Oliveira.
+
+203744382

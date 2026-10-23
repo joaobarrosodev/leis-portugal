@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 171/2001, 1º Suplemento, Série I-B de 2001-07-25
   number: '171'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4564-(2) a 4564-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/171b01/00020003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/849-b/2001/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/849-b-2001-328816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 350368ca42c2e41e64b5d3a9e27ae3baa3245bd33948b1c617b9c86eef77bad2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c67c963d8f656b7b5af174e1b6b7754afafc14e09c640c2cac6a93ed08ad672
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,18 @@ relationships:
   target: pt:dre:628480:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636074:por
+  label: "Renovada, por um período de 6 anos, e anexados vários prédios rústicos à zona de caça, pela PORT.780/2007.12.07.2007.MADRP,\
+    \ DR.IS [133] de 12.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/780-2007-636074
+  date: '2007-07-12'
+- type: amended_by
+  target: pt:dre:628480:por
+  label: "Alterado o nº 3 da Portaria n.º 780/2007, de 12 de Julho, que renovou a zona de caça concessionada pelo presente\
+    \ diploma, pela PORT.1507/2007.26.11.2007.MADRP, DR.IS [227] de 26.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1507-2007-628480
+  date: '2007-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -89,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/467/2001/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/467/2001/05/08/p/dre
+- type: cites
+  target: pt:dre:316162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:54Z'
   warnings: []
   errors: []
 ---

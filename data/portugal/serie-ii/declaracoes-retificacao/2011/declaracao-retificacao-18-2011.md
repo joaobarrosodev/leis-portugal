@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/003000000/0047100471.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-2011-1996574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42d369c683ebf27a3905657daf99c8e1920d1cc572115b4eced87c8d6e33befe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67cc01e7908acd79a342e60f52b615d05a35c53cab2b25c78369492d2ef06298
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:03Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Procedimento concursal comum para constituição de relação jurídica de empre
 Em virtude de o aviso n.º 27426/2010, publicado no Diário da República, n.º 250, de 28 de Dezembro de 2010, referente ao procedimento concursal mencionado em epígrafe, sair com uma incorrecção no nome do candidato classificado em 1.º lugar, rectifica-se que onde se lê «1 - Tiago Gil Ventura da Silva - 13,075 valores» deve ler-se «1 - Tiago Gil Ventura da Veiga - 13,075 valores».
 
 28 de Dezembro de 2010. - O Presidente da Câmara, Augusto Fernando Andrade.
+
+304132541

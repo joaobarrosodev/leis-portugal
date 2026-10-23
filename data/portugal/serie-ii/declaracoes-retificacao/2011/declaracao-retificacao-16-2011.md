@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/003000000/0037800378.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-2011-1995968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3abb53be48754a05bf0f4ef1996affa4ebfdbc9189547d61b060b8dc659a83af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11c63116ffa5ccc4461e0996986fc8a25a171b1cd0ccc2ff8027c469e7cd3e31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:52Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 16/2011
 Por ter sido publicado com inexactidão o aviso n.º 14502/2010 no Diário da República, 2.ª série, n.º 141, de 22 de Julho de 2010, rectifica-se que onde se lê «A presente lista unitária de ordenação final foi homologada por despacho, de 28/06/2010 da Senhora Presidente deste Instituto e encontra-se afixada nas nossas instalações e publicada na página electrónica deste Serviço, notificada aos candidatos, nos termos da alínea d) do n.º 3 do artigo 30.º da Portaria n.º 83-A/2010.» deve ler-se «A presente lista unitária de ordenação final foi homologada por despacho de 6 de Julho de 2010 do vogal do conselho directivo deste Instituto e encontra-se afixada nas nossas instalações e publicada na página electrónica deste Serviço, notificada aos candidatos, nos termos da alínea d) do n.º 3 do artigo 30.º da Portaria n.º 83-A/2010.»
 
 23 de Dezembro de 2010. - A Presidente do Conselho Directivo, Ana Paulino.
+
+204120253

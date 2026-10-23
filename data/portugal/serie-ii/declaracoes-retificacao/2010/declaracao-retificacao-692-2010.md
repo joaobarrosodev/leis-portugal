@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/068000000/1824118243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/692-2010-1825867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b2c6bbc84660443021b79c84accea2e31a28bd7eee17b38306cc688c019f3b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 175afbd105fdf9e7d9617a2742adc60d82df19560850783342e62cf53d738dcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,6 +68,62 @@ subjects: []
 relationships:
 - type: cites
   target: celex:32006R0561
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2964255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650958:por
   label: null
   source: null
 - type: transposes
@@ -81,18 +137,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:29Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 692/2010
+# Declaração de rectificação n.º 692/2010
 
 Rectificação e republicação do aviso n.º 5945/2010 relativo a procedimento concursal comum para contratação em regime de contrato de trabalho em funções públicas por tempo indeterminado.
 
@@ -243,3 +299,5 @@ Dr. Alberto Manuel Oliveira Laranjeira, Técnico Superior;
 17 - Nos termos do disposto no n.º 1 do artigo 19.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, o presente aviso será publicado na Bolsa de Emprego Público (www.bep.gov.pt), no 1.º dia útil seguinte à presente publicação no Diário da República, na página electrónica do Município e por extracto no prazo máximo de 3 dias úteis contados da mesma data, num jornal de expansão nacional.
 
 16 de Março de 2010. - O Presidente da Câmara, Mário de Almeida, Eng.º
+
+303100455

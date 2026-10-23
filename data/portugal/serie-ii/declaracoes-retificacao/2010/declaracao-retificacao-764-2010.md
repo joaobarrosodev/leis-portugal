@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/076000000/2051220512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/764-2010-2168652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6042064e343c074355a886894e1c8237bcfbabfb6b20da454ec015407c61e580
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 639348ac4c94b21208f2da16255ea990a02dcedefdb5a170c67a52fe7283a3e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:493983:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:54Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 764/2010
+# Declaração de rectificação n.º 764/2010
 
 No aviso n.º 7174/2010, do Agrupamento de Escolas de Campo de Besteiros, publicado do Diário da República, 2.ª série, n.º 69, de 9 de Abril de 2010, relativo à homologação dos destacamentos por ausência da componente lectiva (DACL) para este Agrupamento de Escolas, nos termos do Decreto -[Lei n.º 51/2009](https://diariodarepublica.pt/dr/detalhe/lei/51-2009-493983), de 27 de Fevereiro, e da alínea a) do n.º 1 do artigo 64.º e do artigo 65.º do ECD, aprovado pelo Decreto -Lei n.º 139-A/90, rectifica-se que onde se lê «Maria Edite Silva do Carmo» deve ler-se «Edite Maria Silva do Carmo», onde se lê «Margarida Sofia Rodrigues» deve ler-se «Margarida Sofia Rodrigues Campos Morais» e onde se lê «Pedro Luís da Silva Peralta» deve ler-se «Pedro Luís da Silva Pereira».
 
 14 de Abril de 2010. - O Director, Dinis Augusto Saraiva.
+
+203145443

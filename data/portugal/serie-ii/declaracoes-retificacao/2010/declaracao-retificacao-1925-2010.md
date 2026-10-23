@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/183000000/4767447684.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1925-2010-1892048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:20:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f5c6ab392cc0507999da477cbf6e9d6d6cbeebeab93311cfb73f3159928fe17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7db1f9aeb78516ae8957fbb26d0e2a49a6d7472e2c4faf66addcab423973b9e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:20:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1727384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 79
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:20:30Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1925/2010
+# Declaração de rectificação n.º 1925/2010
 
 Por ter sido publicado com inexactidão, no Diário da República, 2.ª série, n.º 162, de 20 de Agosto de 2010, a p. 44 679, o despacho n.º 13 499/2010, procede-se à sua rectificação nos termos seguintes:
 
@@ -389,11 +409,11 @@ O expediente das unidades de investigação e desenvolvimento correrá pela Divi
 
 ###### Artigo 15.º — Do Instituto de Relações Internacionais
 
-**O presidente do ISCSP, ouvidos o conselho científico e o Instituto de Relações Internacionais (IRI), decidirá sobre a reorganização e funcionamento do IRI, atendendo às necessidades e interesses presentes do ISCSP.**
+O presidente do ISCSP, ouvidos o conselho científico e o Instituto de Relações Internacionais (IRI), decidirá sobre a reorganização e funcionamento do IRI, atendendo às necessidades e interesses presentes do ISCSP.
 
 ###### Artigo 16.º — Do Instituto do Oriente
 
-**O presidente do ISCSP, ouvidos o conselho científico e o Instituto do Oriente (IO), decidirá sobre a eventual reorganização desse instituto, atendendo às necessidades e interesses presentes do ISCSP.**
+O presidente do ISCSP, ouvidos o conselho científico e o Instituto do Oriente (IO), decidirá sobre a eventual reorganização desse instituto, atendendo às necessidades e interesses presentes do ISCSP.
 
 #### SECÇÃO IV — Dos serviços técnicos e administrativos
 
@@ -763,7 +783,7 @@ t) Exercer as demais funções previstas na lei ou nos Estatutos do ISCSP.
 
 ###### Artigo 36.º — Relatórios e planos
 
-**O presidente do ISCSP elaborará obrigatoriamente os documentos, planos e relatórios previstos no artigo 35.º e, designadamente, um relatório anual circunstanciado das respectivas actividades.**
+O presidente do ISCSP elaborará obrigatoriamente os documentos, planos e relatórios previstos no artigo 35.º e, designadamente, um relatório anual circunstanciado das respectivas actividades.
 
 ###### Artigo 37.º — Reuniões do conselho consultivo
 
@@ -1031,7 +1051,7 @@ b) A mesa de cada assembleia de voto elaborará actas distintas para cada uma da
 
 ###### Artigo 52.º — Data da eleição
 
-**O presidente do ISCSP fixará a data da realização das eleições para os conselhos de escola, científico e pedagógico, as quais deverão ter lugar, pelo menos, cinco dias úteis antes do fim do mandato do conselho de escola cessante e não poderá ser anunciada sem um mínimo de 20 dias de antecedência, nem recair num sábado, domingo ou feriado. A data das eleições será fixada pelo presidente do ISCSP na 1.ª quinzena do ano civil em que se realizarem.**
+O presidente do ISCSP fixará a data da realização das eleições para os conselhos de escola, científico e pedagógico, as quais deverão ter lugar, pelo menos, cinco dias úteis antes do fim do mandato do conselho de escola cessante e não poderá ser anunciada sem um mínimo de 20 dias de antecedência, nem recair num sábado, domingo ou feriado. A data das eleições será fixada pelo presidente do ISCSP na 1.ª quinzena do ano civil em que se realizarem.
 
 ###### Artigo 53.º — Listas
 
@@ -1059,7 +1079,7 @@ b) A mesa de cada assembleia de voto elaborará actas distintas para cada uma da
 
 ###### Artigo 55.º — Verificação das listas
 
-**O presidente do ISCSP verificará, no próprio dia da apresentação das listas, a regularidade formal das mesmas, diligenciando de imediato junto dos mandatários pertencentes à comissão eleitoral, como representantes das respectivas listas, a correcção das irregularidades detectadas, até à data limite de abertura da campanha eleitoral, devendo rejeitar as listas quando as irregularidades não sejam sanadas dentro do prazo.**
+O presidente do ISCSP verificará, no próprio dia da apresentação das listas, a regularidade formal das mesmas, diligenciando de imediato junto dos mandatários pertencentes à comissão eleitoral, como representantes das respectivas listas, a correcção das irregularidades detectadas, até à data limite de abertura da campanha eleitoral, devendo rejeitar as listas quando as irregularidades não sejam sanadas dentro do prazo.
 
 ###### Artigo 56.º — Campanha eleitoral
 
@@ -1194,3 +1214,5 @@ Tudo o que nos presentes Estatutos se refere ao Instituto Superior de Ciências 
 ###### Artigo 79.º — Entrada em vigor
 
 Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+203690525

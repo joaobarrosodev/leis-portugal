@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/085000000/2301323013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/879-2010-3552905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4cf0edfae5fbeae3ae5f4bb9e1a3519ca93cf1f4f0884ff547cf7d8f0e2746d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8c9abc4c85fd689252416d231dcac1bb44c7400b3fc5fcc1b5ec5f82e990dfe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:28:34Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 879/2010
 Para os devidos efeitos se torna público que o aviso, deste município, n.º 7754/2010, publicado no Diário da República, 2.ª série, n.º 75, de 19 de Abril de 2010, saiu com inexactidão. Assim, no n.º 1, ref. 1, onde se lê «Um posto de trabalho para a carreira e categoria de Técnico Superior, na área de Desporto, para a Divisão de Cultura, Desporto e Turismo» deve ler-se «dois postos de trabalho para a carreira e categoria de técnico superior, na área de desporto, para a Divisão de Cultura, Desporto e Turismo».
 
 21 de Abril de 2010. - O Presidente da Câmara, Pedro Manuel Igreja da Cunha Paredes.
+
+303173786

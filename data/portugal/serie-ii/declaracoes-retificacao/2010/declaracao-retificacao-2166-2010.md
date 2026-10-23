@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/209000000/5342153421.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2166-2010-2747768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:22:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 732b85e1f747734b78808a8c724ec207d73236e461ee3af2857ea16caa1c5223
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7d599c5f4257e3ae465945d6f67d76ee5544afa4e70e994c10414e655f7e07b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:22:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:22:00Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Por conter incorrecções o aviso n.º 20935/2010, publicado no Diário da Repú
 Onde se lê «[p]osto de trabalho previsto na Divisão de Formação de Pessoal (DFP)» deve ler-se «[p]osto de trabalho previsto na Divisão de Estudos, Planeamento e Formação de Recursos Humanos (DPF)» e onde se lê «apoio aos serviços e organismos do MEI» deve ler-se «apoio aos serviços e organismos do MEID».
 
 20 de Outubro de 2010. - O Secretário-Geral, A. Mira dos Santos.
+
+203840318

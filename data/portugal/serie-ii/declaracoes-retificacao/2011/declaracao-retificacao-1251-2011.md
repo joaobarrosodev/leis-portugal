@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/08/155000000/3341933419.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1251-2011-1238481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:30:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4733676b246d5a506225193cc1977394e280775694a3ae1c2ae7e4cd3d1190bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1b99f9aebf134b96cb74c5fbea1fd95b4d99df2617f531b4a02c2df688db11b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:30:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:30:50Z'
   warnings: []
   errors: []
 ---
@@ -103,3 +103,5 @@ Entrada em vigor e norma revogatória
 O presente regulamento entra em vigor a partir da data da sua publicação no Diário da República, ficando automaticamente revogada a estrutura flexível e organização dos serviços e quadro de pessoal publicados no Diário da República, 2.ª série, n.º 38, de 14 de Fevereiro de 1995, e sua alteração publicada no Diário da República, 2.ª série, n.º 212, de 8 de Setembro de 2004, e estando entretanto já revogada a estrutura nuclear ou departamental antiga com a publicação no Diário da República, 2.ª série, n.º 12, de 19 de Janeiro de 2010, da nova estrutura.»
 
 4 de Agosto de 2011. - O Vice-Presidente da Câmara, João António da Silva Hermínio.
+
+205003729

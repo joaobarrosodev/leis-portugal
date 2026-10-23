@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/09/177000000/3706637066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1384-2011-978760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:31:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6bc5b2134748797ed4e30c7f41e51dd6df503874b80a2266619c089dc6cb150
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4babdc78c56d37db99049515d0e47cb25cc313baf6bb8c4a1c21c04f49f264e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:31:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:31:36Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Rectifica o aviso n.º 17092/2011, publicado no Diário da República, 2.ª sér
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 169, de 2 de Setembro de 2011, o aviso n.º 17092/2011, rectifica-se que onde se lê «Vera Cristina Dias Marques celebrou contrato de trabalho em funções públicas por tempo indeterminado com a ARH do Alentejo, I. P., com inicio a 16 de Abril de 2011» deve ler-se «Vera Cristina Dias Marques celebrou contrato de trabalho em funções públicas por tempo indeterminado com a ARH do Alentejo, I. P., com início em 16 de Março de 2011» e onde se lê «[o] contrato está sujeito a período experimental de 180 dias, com início a 16/04/2011» deve ler-se «[o] contrato está sujeito a período experimental de 180 dias, com início em 16 de Março de 2011».
 
 2 de Setembro de 2011. - A Vice-Presidente, Rosa Gouveia Catita.
+
+205086463

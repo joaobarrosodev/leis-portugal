@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/192000000/3968339683.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1497-2011-1519944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:32:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 123027914fdfa02cbd4d0aa7dac5f94009763ab9b8acb8b95538c41daccd88c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63f9800234305ca2d40735f3eec2acd8ed5679afad8b35cf1f7ddc680589b8c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:32:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:32:16Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 1497/2011
 Em virtude de ter sido publicado com inexactidão, no Diário da República, 2.ª série, n.º 178, de 15 de Setembro de 2011, o aviso n.º 18 222/2011, referente à constituição do júri da área profissional de pedopsiquiatria no âmbito do concurso de habilitação ao grau de consultor da carreira médica hospitalar aberto pelo aviso n.º 848/2005, inserto no Diário da República, 2.ª série, n.º 21, de 30 de Janeiro de 2005, rectifica-se que onde se lê «Faz-se público que por deliberação do Conselho Directivo da Administração Central do Sistema de Saúde, I. P. [...] foi nomeado o júri a seguir indicado da área profissional de Cirurgia Pedopsiquiatria» deve ler-se «Faz-se público que por deliberação do conselho directivo da Administração Central do Sistema de Saúde, I. P. [...] foi nomeado o júri a seguir indicado da área profissional de pedopsiquiatria».
 
 26 de Setembro de 2011. - O Coordenador da Unidade Funcional da Secretaria do Conselho, Jorge Gonçalves.
+
+205179508

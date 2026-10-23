@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/243000000/6122461224.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2606-2010-3645852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2812f4ed4319bedaf95e7447eab863598bf279a11a4643c4c99fb1a2da82c635
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 105252520060c3560742ed300154c5d71613434a696d452f006cfb864aad824e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1245589:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:32Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2606/2010
+# Declaração de rectificação n.º 2606/2010
 
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 222, de 16 de Novembro de 2010, a p. 56332, o aviso n.º 223489/2010, rectifica-se que onde se lê «ocupação de um posto de trabalho, na categoria/carreira de técnico superior, no Departamento de Saúde Ambiental, publicado pelo [Aviso n.º 11971/2010](https://diariodarepublica.pt/dr/detalhe/aviso/11971-2010-1245589), de 16 de Junho» deve ler-se «ocupação de um posto de trabalho na categoria/carreira de técnico superior no Departamento de Alimentação e Nutrição, publicado pelo aviso n.º 11971/2010, de 16 de Junho».
 
 9 de Dezembro de 2010. - A Vogal do Conselho Directivo, Filomena Parra da Silva.
+
+204059164

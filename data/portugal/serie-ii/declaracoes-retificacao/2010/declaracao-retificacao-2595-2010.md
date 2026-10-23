@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/241000000/6087560880.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2595-2010-900643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:24:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 891078a85f7b3f4991f1561eb24604a5d97e29a2ad8ef8616436235b8393657a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2021b30a62fcb9d1d3a3db299629adceab9cabdf3f1fcc4db6e2a2408f010ae2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:24:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:24:27Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2595/2010
+# Declaração de rectificação n.º 2595/2010
 
 Fernando José Gomes Rodrigues, presidente da Câmara Municipal de Montalegre, ao abrigo da sua competência constante da alínea v) do n.º 1 do artigo 68.º, e para efeitos do estatuído no n.º 1 do artigo 91.º da [Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, com as alterações introduzidas pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro, e nos termos dos n.os 6 e 7 do [Decreto-Lei n.º 305/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-2009-483152), de 23 de Outubro, procede à rectificação da publicação do regulamento da organização dos serviços municipais, em virtude de a publicação daquele no Diário da República, 2.ª série, n.º 227, de 23 de Novembro de 2010, conter lapsos quanto à numeração dos seus artigos, motivo pelo qual se republica, na íntegra, o referido documento.
 
@@ -348,10 +364,12 @@ O organograma anexo ao presente regulamento tem carácter meramente ilustrativo 
 
 O presente regulamento bem como organigrama anexo entram em vigor no 1.º dia útil seguinte à sua publicação, ficando automaticamente revogada a estrutura e organização dos serviços municipais publicados no Diário da República, 2.ª série, n.º 130, de 6 de Junho de 2002, aviso n.º 5054/2002 (2.ª série),
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/241000000/6087560880.pdf))](https://files.diariodarepublica.pt/2s/2010/12/241000000/6087560880.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/241000000/6087560880.pdf)
 
 Organigrama
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/12/241000000/6087560880.pdf))](https://files.diariodarepublica.pt/2s/2010/12/241000000/6087560880.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/12/241000000/6087560880.pdf)
 
 6 de Dezembro de 2010. - O Presidente da Câmara, Fernando José Gomes Rodrigues.
+
+204044543

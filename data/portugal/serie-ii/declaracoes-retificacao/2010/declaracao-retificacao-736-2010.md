@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/736-2010-1692916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:27:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce23fc1d992610675225922d1ef4450bfb22a80a5b5915f161456472cb95bcec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1230c167affb7d47cd5c774602e63908357e0d58113497d9eded01bf056ff2fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:27:44Z'
   warnings: []
   errors: []
 ---
@@ -101,34 +101,36 @@ Grau: Licenciatura
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
 
 2.º semestre
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
 
 3.º semestre
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
 
 4.º semestre
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
 
 5.º semestre
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
 
 6.º semestre
 
 QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+
+203129154

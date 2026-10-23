@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/055000000/1355613556.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/550-2010-2298613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:26:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd2e19502f5c50c6464d6e4a41cc5ede16e650e5f0f1677b54deb751a0f4fe8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53dff498ddbf1e0ae3875b891fb7890e1a5387ecadc0598e2ac669d8700e2974
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:26:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:26:38Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 550/2010
 Por despacho da directora do Agrupamento de Escolas Gomes Teixeira, no uso de competências delegadas pelo despacho n.º 10 969/2008, de 15 de Abril, rectifica-se que do aviso n.º 20 207/2008, publicado no Diário da República, n.º 136, de 16 de Julho de 2008, onde foram publicados os nomes dos docentes de nomeação definitiva para a categoria de professor titular, deve ser eliminado o nome da docente Maria João Alves Beça Oliveira e Silva do Departamento de Expressões, que por lapso constou indevidamente da lista.
 
 12 de Março de 2010. - A Directora, Maria Manuela Rocha Pinto.
+
+203027304

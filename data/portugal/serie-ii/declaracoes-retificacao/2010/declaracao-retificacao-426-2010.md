@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/043000000/0957209572.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/426-2010-2046681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:25:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fddc9361b6f25fb916dd89cd233ea5f7379066937fcfc9c36804a9773f257ac8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cd6f73f74df845a436e2ccdd982a5ff66b930a26f332a3986d2a1cd527d09b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:25:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:25:55Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +95,5 @@ No artigo 3.º, «Condições de acesso», no n.º 1, onde se lê «os requisito
 No artigo 4.º, «Das classes», no n.º 3, onde se lê «Será atribuída automaticamente a Classe A a todos os candidatos ao Cartão VRSA Social que reúnam os requisitos previstos no artigo 10.º» deve ler-se «Será atribuída automaticamente a Classe A a todos os candidatos ao Cartão VRSA Social que reúnam os requisitos previstos no artigo 11.º».
 
 No artigo 7.º, «Situações de excepção», no n.º 1, onde se lê «Poderão ser consideradas situações de excepção todas aquelas que reunindo os requisitos definidos no artigo 10.º» deve ler-se «Poderão ser consideradas situações de excepção todas aquelas que, reunindo os requisitos definidos no artigo 11.º,».
+
+202958545

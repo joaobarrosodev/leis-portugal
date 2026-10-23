@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1032-2011-3452521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:29:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4907853588cab35cef3c5a043593e72daa447e17d0ac4593c21d345064f92ebe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 180bc0792c0630f7296b3d35e315af8f62e38057bf7ffe2ee50275c375576c11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:29:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Nomeação
+- Presidência da República
+- Serviço de Apoio Médico
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:29:29Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +90,5 @@ Declaração de rectificação n.º 1032/2011
 Por ter saído com inexactidão o despacho n.º 6281/2011, publicado no Diário da República, 2.ª série, n.º 72, de 12 de Abril de 2011, rectifica-se que onde se lê «a licenciada Albina da Purificação,» deve ler-se «Albina da Purificação Correia de Carvalho,».
 
 7 de Junho de 2011. - A Secretária-Geral-Adjunta, Maria Helena Afonso.
+
+204798258

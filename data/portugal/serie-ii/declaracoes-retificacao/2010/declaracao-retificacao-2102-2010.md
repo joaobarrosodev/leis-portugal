@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2102-2010-2771810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:21:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0761d2af919ea04a8f8a745dbdd2a761d9a27665d19de4ff8aac3cae925c9bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3715a007a501e3bd8189dd8b279654e8e85b2e742ade481473091c45d2ca7e1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:21:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:21:30Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +114,7 @@ C (igual ou menor que) 7,50 m
 
 3,00 (igual ou menor que) L (igual ou menor que) 5,50 m
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf))](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
 
 Tipo II - Alpendre (construção aberta)
 
@@ -124,7 +124,7 @@ C (igual ou menor que) 7,50 m
 
 3,00 (igual ou menor que) L (igual ou menor que) 5,50 m
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf))](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
 
 Tipo III - Arrumo com alpendre (construção mista)
 
@@ -138,7 +138,7 @@ C (igual ou menor que) 7,50 m
 
 C2 (igual ou maior que) 1,50 m
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf))](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
 
 Tipo III-B
 
@@ -150,7 +150,7 @@ C (igual ou menor que) 7,50 m
 
 L2 (igual ou maior que) 1,50 m
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf))](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
 
 Tipo III-C
 
@@ -160,7 +160,7 @@ L1 (igual ou maior que) 1,50 m
 
 C2(igual ou maior que) 1,50 m
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf))](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
 
 Tipo III-D
 
@@ -174,6 +174,8 @@ C1 (igual ou maior que) 1,50 m
 
 L2 (igual ou maior que) 1,50 m
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf))](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/201000000/5110551106.pdf)
 
 Em que C é o comprimento e L a largura do polígono de implantação da construção.
+
+203778387
