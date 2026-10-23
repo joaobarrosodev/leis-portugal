@@ -6,6 +6,8 @@ contornada); qualquer outra exceção é um erro de programação.
 
 from __future__ import annotations
 
+from typing import Any
+
 
 class LeisPortugalError(RuntimeError):
     """Erro base do projeto."""
@@ -28,9 +30,11 @@ class NoSourceText(MetadataError):
 
     Não é um erro de acesso: voltar a tentar não muda nada até a fonte publicar o texto."""
 
-    def __init__(self, message: str, *, record_id: str | None = None) -> None:
+    def __init__(self, message: str, *, record_id: str | None = None, document: Any = None) -> None:
         super().__init__(message)
         self.record_id = record_id
+        # O registo só com os metadados (`SourceDocument`), quando a fonte os tem.
+        self.document = document
 
 
 class SkipDocument(SourceError):

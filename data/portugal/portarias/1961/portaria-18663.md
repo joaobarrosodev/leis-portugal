@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18663-1961-173143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 635b8862780e8d4e80b08d1b6fb41323a3a18adc4f035ce951a3eb5de3f6c1f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c23bd6187e2ad7cc3879a85a4e17d21a08dfa9f8aef77591e46c3935eb7b230
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:47Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +93,13 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos para instalação de serviços» ... 80000$00
+Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos para instalação de serviços» ... 80000$00
 
 tomando como contrapartida a seguinte disponibilidade existente na mesma tabela de despesa:
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 10.º, n.º 5) «Encargos administrativos - Vencimentos, alimentação e fardamento de praças incorporadas nas unidades disciplinares» ... 80000$00
+Artigo 10.º, n.º 5) «Encargos administrativos - Vencimentos, alimentação e fardamento de praças incorporadas nas unidades disciplinares» ... 80000$00
 
 Presidência do Conselho, 14 de Agosto de 1961. - O Ministro da Defesa Nacional, António de Oliveira Salazar.
 

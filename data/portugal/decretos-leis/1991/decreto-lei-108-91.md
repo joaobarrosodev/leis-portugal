@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/062a00/13371338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/1991/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1991-475536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19f6053ec18fcea30a8435f68ac2297de7dd4b3d05418b4743b7f4d7a9e78e14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 615ef9a49878d09d5d98d39e709f881f312a57fca357cb390bf4971cb47b3562
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Leite
 - Instituto Nacional de Intervenção e Garantia Agrícola
+- Leite
 - Organização Comum do Mercado do Leite e Produtos Lacteos
 - Produção Leiteira
 - Quota de Produção
@@ -95,16 +95,21 @@ relationships:
   target: celex:31990R3642
   label: null
   source: http://data.europa.eu/eli/reg/1990/3642/oj
+- type: repealed_by
+  target: pt:dre:275870:por
+  label: "Revogado pelo DEC LEI.80/2000.2000.05.09.MADRP, DR.IS-A [107]7\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2000-275870
+  date: '2000-05-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:21Z'
   warnings: []
   errors: []
 ---
@@ -129,13 +134,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A distribuição pelas regiões da quantidade global garantida para entrega aos compradores e da quantidade para venda directa ao consumo, da produção leiteira anual, fixadas para Portugal pelos regulamentos comunitários no âmbito do sistema de quotas leiteiras, bem como as normas relativas à sua gestão, são fixadas por portaria do Ministro da Agricultura, Pescas e Alimentação.
+Artigo 1.º - 1 - A distribuição pelas regiões da quantidade global garantida para entrega aos compradores e da quantidade para venda directa ao consumo, da produção leiteira anual, fixadas para Portugal pelos regulamentos comunitários no âmbito do sistema de quotas leiteiras, bem como as normas relativas à sua gestão, são fixadas por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
 2 - A quantidade não distribuída da quantidade global garantida constituirá a reserva nacional inicial, cuja gestão será regulamentada por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
 3 - Nas Regiões Autónomas dos Açores e da Madeira, a regulamentação prevista nos números anteriores será estabelecida pelos respectivos órgãos de governo próprio.
 
-###### Art. 2.º Para efeitos do presente diploma e respectivas normas regulamentares entende-se por:
+Art. 2.º Para efeitos do presente diploma e respectivas normas regulamentares entende-se por:
 
 a) Regiões - o território do continente, a Região Autónoma dos Açores e a Região Autónoma da Madeira;
 
@@ -159,19 +164,19 @@ j) Entrega - toda a entrega de leite e produtos lácteos a um comprador, quer o 
 
 l) Venda directa - venda ao consumidor de leite ou de produtos lácteos, convertidos em equivalente em leite, sem intermediação de uma empresa de tratamento ou de transformação do leite.
 
-###### Art. 3.º - 1 - Sem prejuízo do disposto no número seguinte, a transmissão de uma exploração, a qualquer título, total ou parcial, efectuada nos termos da lei geral, implica a transferência para o novo titular da quantidade de referência correspondente à superfície objecto de transmissão.
+Art. 3.º - 1 - Sem prejuízo do disposto no número seguinte, a transmissão de uma exploração, a qualquer título, total ou parcial, efectuada nos termos da lei geral, implica a transferência para o novo titular da quantidade de referência correspondente à superfície objecto de transmissão.
 
 2 - No caso de a exploração ser objecto, no todo ou em parte, de expropriação por utilidade pública ou de denúncia de contrato de arrendamento rural nos termos do artigo 20.º do Decreto-Lei n.º 385/88, de 25 de Outubro, a quantidade de referência respectiva manter-se-á na titularidade do produtor, desde que satisfeitos os demais preceitos legais e regulamentares, podendo reverter, em caso contrário, para a reserva nacional.
 
 3 - Sempre que um produtor cesse definitivamente a actividade e a respectiva quantidade de referência não se transfira nos termos estabelecidos pelo presente diploma e legislação complementar, a mesma reverte para a reserva nacional.
 
-###### Art. 4.º - 1 - Quando, no início de uma campanha leiteira, o produtor não consiga garantir a total utilização da sua quantidade de referência, pode ceder ao comprador, a título oneroso e durante a campanha respectiva, a parte que preveja não utilizar.
+Art. 4.º - 1 - Quando, no início de uma campanha leiteira, o produtor não consiga garantir a total utilização da sua quantidade de referência, pode ceder ao comprador, a título oneroso e durante a campanha respectiva, a parte que preveja não utilizar.
 
 2 - O comprador pode proceder, no fim de cada campanha leiteira, à redistribuição das quantidades de referência não utilizadas em benefício dos produtores que excederam a sua quantidade individual.
 
-###### Art. 5.º É instituída uma imposição suplementar sobre as quantidades de leite ou produtos lácteos que excedam as quantidades de referência dos compradores e dos produtores que vendam directamente ao consumo.
+Art. 5.º É instituída uma imposição suplementar sobre as quantidades de leite ou produtos lácteos que excedam as quantidades de referência dos compradores e dos produtores que vendam directamente ao consumo.
 
-###### Art. 6.º - 1 - Por portaria do Ministro da Agricultura, Pescas e Alimentação serão fixadas:
+Art. 6.º - 1 - Por portaria do Ministro da Agricultura, Pescas e Alimentação serão fixadas:
 
 a) As normas e critérios que disciplinarão a redistribuição das quantidades de referência e a cedência temporária referidas no artigo 4.º, bem como os preços máximos a praticar nessas operações;
 
@@ -179,18 +184,18 @@ b) As normas regulamentares relativas à imposição suplementar referida no art
 
 2 - Nas Regiões Autónomas dos Açores e da Madeira, a regulamentação prevista no número anterior será estabelecida pelos respectivos órgãos de governo próprio.
 
-###### Art. 7.º A entidade competente para garantir a execução do disposto no presente diploma e respectivas normas regulamentares é o INGA, sem prejuízo das competências fixadas por lei à DGMAIAA.
+Art. 7.º A entidade competente para garantir a execução do disposto no presente diploma e respectivas normas regulamentares é o INGA, sem prejuízo das competências fixadas por lei à DGMAIAA.
 
-###### Art. 8.º O presente diploma entra em vigor em 1 de Abril de 1991.
+Art. 8.º O presente diploma entra em vigor em 1 de Abril de 1991.
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís António Damásio Capoulas - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 4 de Março de 1991.**
+Promulgado em 4 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Março de 1991.**
+Referendado em 6 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

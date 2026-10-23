@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18975-1962-520199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 220aeb1b67f9539736f30b53834ff44277026f28f2bdbbe4dee3417b3ab21a06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27ec5291c02d2580a364f4c8bad56ed88c0e205130dcb9390a38b6931b57afc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:28Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +93,11 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 100000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 100000$00
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 6) «Material de consumo corrente - Combustíveis e lubrificantes» ... 47500$00
+Artigo 6.º, n.º 6) «Material de consumo corrente - Combustíveis e lubrificantes» ... 47500$00
 
 ... 147500$00
 
@@ -101,27 +105,27 @@ tomando como contrapartida as seguintes disponibilidades da mesma tabela de desp
 
 Despesas com o pessoal:
 
-###### Artigo 2.º, n.º 2) «Remunerações acidentais - Gratificações de isolamento» ... 80000$00
+Artigo 2.º, n.º 2) «Remunerações acidentais - Gratificações de isolamento» ... 80000$00
 
-###### Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Ajudas de custo fora da província» ... 20000$00
+Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Ajudas de custo fora da província» ... 20000$00
 
-###### Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 20000$00
+Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 20000$00
 
-###### Artigo 3.º, n.º 6), alínea a) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na província» ... 5000$00
+Artigo 3.º, n.º 6), alínea a) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na província» ... 5000$00
 
-###### Artigo 3.º, n.º 6), alínea b) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na metrópole» ... 5000$00
+Artigo 3.º, n.º 6), alínea b) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na metrópole» ... 5000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 2), alínea g) «Aquisições de utilização permanente - Móveis - Extintores e outros artigos para serviço de incêndios» ... 4500$00
+Artigo 4.º, n.º 2), alínea g) «Aquisições de utilização permanente - Móveis - Extintores e outros artigos para serviço de incêndios» ... 4500$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 10.º, n.º 3) «Encargos administrativos - Despesas gerais com recrutamento» ... 5000$00
+Artigo 10.º, n.º 3) «Encargos administrativos - Despesas gerais com recrutamento» ... 5000$00
 
-###### Artigo 10.º, n.º 7), alínea a) «Encargos administrativos - Publicidade e propaganda - Publicação de éditos e de anúncios» ... 5000$00
+Artigo 10.º, n.º 7), alínea a) «Encargos administrativos - Publicidade e propaganda - Publicação de éditos e de anúncios» ... 5000$00
 
-###### Artigo 10.º, n.º 9), alínea a) «Encargos administrativos - Subsídios para funerais - A pagar na província» ... 3000$00
+Artigo 10.º, n.º 9), alínea a) «Encargos administrativos - Subsídios para funerais - A pagar na província» ... 3000$00
 
 ... 147500$00
 

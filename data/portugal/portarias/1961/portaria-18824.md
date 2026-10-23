@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18824-1961-185350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85ae84c1de513081c07571e2919f23a3230c8430ff0afbbc13053aa263823436
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3045c3a91fde41969fd20a46d6d43bcadabc1c81c598ef46761a0d7d63f1f1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apostas Mútuas Desportivas
+- Lisboa
+- Regulamento
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:579299:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:375799:por
+  label: "Extinta a delegação criada pelo artigo 10.º do regulamento e revogado o artigo 14.º do mesmo, pela PORT.23122.30.12.1967.MSA,\
+    \ DG.IS [302] de 30.12.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23122-1967-375799
+  date: '1967-12-30'
+- type: amended_by
+  target: pt:dre:407888:por
+  label: Suspensas as disposições do presente diploma, sobre a respectiva comissão executiva pelo(a) Portaria n.º 737/76 -
+    Diário da República n.º 289/1976, Série I de 1976-12-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/737-1976-407888
+  date: '1976-12-13'
+- type: amended_by
+  target: pt:dre:407549:por
+  label: Alterado o n.º 18.º do art. 11.º pelo(a) Portaria n.º 756/76 - Diário da República n.º 296/1976, Série I de 1976-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/756-1976-407549
+  date: '1976-12-21'
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:579299:por
+  label: "Revogado o n.º 4 do artigo 3.º, artigo 6.º e os artigos 10.º a 13.º pela PORT.495/81.17.06.1981.MAS, DR.IS [137]\
+    \ de 17.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/495-1981-579299
+  date: '1981-06-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:13Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +127,7 @@ I
 
 Dos órgãos de administração
 
-###### Artigo 1.º São órgãos da administração das apostas mútuas desportivas:
+Artigo 1.º São órgãos da administração das apostas mútuas desportivas:
 
 1.º A Mesa da Santa Casa da Misericórdia de Lisboa, com a constituição que lhe foi dada pelo artigo 16.º do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961.
 
@@ -108,7 +139,7 @@ Dos órgãos de administração
 
 5.º O chefe do Departamento de Apostas Mútuas Desportivas, que terá a categoria de chefe de repartição.
 
-###### Art. 2.º Compete à mesa:
+Art. 2.º Compete à mesa:
 
 1.º Definir a orientação geral da administração das apostas mútuas desportivas.
 
@@ -140,7 +171,7 @@ Dos órgãos de administração
 
 15.º Delegar na comissão executiva a competência que julgar conveniente.
 
-###### Art. 3.º Compete à comissão executiva, além dos poderes que lhe forem conferidos, nos termos do n.º 15.º do artigo anterior:
+Art. 3.º Compete à comissão executiva, além dos poderes que lhe forem conferidos, nos termos do n.º 15.º do artigo anterior:
 
 1.º Inteirar-se dos actos de administração praticados pelo provedor, pelos adjuntos e pelo chefe do departamento e das despesas por eles autorizadas, assim como conhecer de todas as matérias que possam interessar às apostas mútuas desportivas e sobre elas deliberar ou propor superiormente o que julgar conveniente.
 
@@ -162,7 +193,7 @@ Dos órgãos de administração
 
 10.º Fixar a remuneração, por hora ou por tarefa, dos contadores e dos escrutinadores das matrizes das apostas.
 
-###### Art. 4.º Compete ao provedor:
+Art. 4.º Compete ao provedor:
 
 1.º Convocar as reuniões da mesa e da comissão executiva.
 
@@ -190,9 +221,9 @@ Dos órgãos de administração
 
 § único. O provedor pode praticar quaisquer actos da competência da mesa ou da comissão executiva sempre que o exijam circunstâncias excepcionais e não seja possível reuni-las extraordinàriamente, ficando, porém, os actos praticados sujeitos a subsequente ratificação daqueles órgãos.
 
-###### Art. 5.º Compete aos adjuntos coadjuvar o provedor e exercer a competência que este delegar neles.
+Art. 5.º Compete aos adjuntos coadjuvar o provedor e exercer a competência que este delegar neles.
 
-###### Art. 6.º Compete ao chefe da repartição:
+Art. 6.º Compete ao chefe da repartição:
 
 1.º Dirigir e coordenar todos os serviços.
 
@@ -204,9 +235,9 @@ Dos órgãos de administração
 
 5.º Presidir ao júri do escrutínio.
 
-###### Art. 7.º A mesa e a comissão executiva terão reuniões ordinárias todos os trimestres e todas as semanas, respectivamente, e extraordinárias sempre que o provedor entenda conveniente ou a maioria dos vogais lho requeira.
+Art. 7.º A mesa e a comissão executiva terão reuniões ordinárias todos os trimestres e todas as semanas, respectivamente, e extraordinárias sempre que o provedor entenda conveniente ou a maioria dos vogais lho requeira.
 
-###### Art. 8.º Nas reuniões ordinárias da mesa e na primeira reunião de cada mês da comissão executiva serão obrigatòriamente apresentados os seguintes elementos informativos:
+Art. 8.º Nas reuniões ordinárias da mesa e na primeira reunião de cada mês da comissão executiva serão obrigatòriamente apresentados os seguintes elementos informativos:
 
 1.º Posição das disponibilidades financeiras no dia anterior ao da reunião.
 
@@ -232,13 +263,13 @@ g) Número de reclamações, discriminando as que tiverem provimento;
 
 h) Número de contadores e de escrutinadores.
 
-###### Art. 9.º Os membros dos órgãos de administração serão remunerados pela forma constante da tabela anexa à presente portaria.
+Art. 9.º Os membros dos órgãos de administração serão remunerados pela forma constante da tabela anexa à presente portaria.
 
 II
 
 Dos serviços
 
-###### Art. 10.º Os serviços do Departamento das Apostas Mútuas Desportivas constituem uma repartição e compreendem as Secções de Expediente e Contabilidade (1.ª Secção), de Agências e Centrais de Recepção (2.ª Secção), de Contagem, Conferência e Escrutínio de Bilhetes (3.ª Secção) e a delegação do Porto.
+Art. 10.º Os serviços do Departamento das Apostas Mútuas Desportivas constituem uma repartição e compreendem as Secções de Expediente e Contabilidade (1.ª Secção), de Agências e Centrais de Recepção (2.ª Secção), de Contagem, Conferência e Escrutínio de Bilhetes (3.ª Secção) e a delegação do Porto.
 
 Art 11.º Compete à 1.ª Secção:
 
@@ -278,7 +309,7 @@ Art 11.º Compete à 1.ª Secção:
 
 18.º Enviar à contabilidade central da Santa Casa da Misericórdia a documentação para o processamento e efectivação das receitas e despesas e demais elementos necessários para a elaboração da conta de gerência a submeter ao Tribunal de Contas.
 
-###### Art. 12.º Compete à 2.ª secção:
+Art. 12.º Compete à 2.ª secção:
 
 1.º Promover a admissão, instrução e inspecção dos agentes.
 
@@ -296,7 +327,7 @@ Art 11.º Compete à 1.ª Secção:
 
 8.º Todos os demais actos e operações necessárias à exploração.
 
-###### Art. 13.º Compete à 3.ª secção:
+Art. 13.º Compete à 3.ª secção:
 
 1.º Preparar os concursos, coordenando-os com os calendários das competições oficiais nacionais ou estrangeiras.
 
@@ -310,7 +341,7 @@ Art 11.º Compete à 1.ª Secção:
 
 6.º Determinar a remuneração dos contadores e dos escrutinadores, consoante a duração e a quantidade do trabalho realizado.
 
-###### Art. 14.º Compete à delegação do Porto assegurar a representação no Norte do Departamento das Apostas Mútuas Desportivas, especialmente no que respeita às relações com os agentes.
+Art. 14.º Compete à delegação do Porto assegurar a representação no Norte do Departamento das Apostas Mútuas Desportivas, especialmente no que respeita às relações com os agentes.
 
 § único. A delegação funcionará em instalações cedidas pela Santa Casa da Misericórdia do Porto, cabendo à mesa fixar as compensações devidas a esta instituição e pessoal que preste serviços ao Departamento das Apostas Mútuas Desportivas.
 
@@ -318,7 +349,7 @@ III
 
 Dos júris
 
-###### Art. 15.º Compete ao júri do escrutínio:
+Art. 15.º Compete ao júri do escrutínio:
 
 1.º Superintender, durante o dia e a noite anteriores à realização das competições incluídas nos concursos, na recepção das matrizes das apostas, contagem, conferência e microfilmagem das mesmas, assim como fiscalizar estas operações.
 
@@ -344,27 +375,27 @@ d) Apostas rectificadas;
 
 e) Apostas premiadas por classes de prémios.
 
-###### Art. 16.º Compete ao júri de reclamações julgar as reclamações, nos termos da lei, lavrando acórdão fundamentado em relação a cada um.
+Art. 16.º Compete ao júri de reclamações julgar as reclamações, nos termos da lei, lavrando acórdão fundamentado em relação a cada um.
 
-###### Art. 17.º Os membros dos júris serão remunerados de harmonia com a tabela anexa à presente portaria.
+Art. 17.º Os membros dos júris serão remunerados de harmonia com a tabela anexa à presente portaria.
 
 IV
 
 Do pessoal
 
-###### Art. 18.º Até à remodelação dos quadros do pessoal da Santa Casa da Misericórdia de Lisboa, o pessoal do Departamento de Apostas Mútuas Desportivas será admitido de harmonia com o quadro anexo ao presente diploma.
+Art. 18.º Até à remodelação dos quadros do pessoal da Santa Casa da Misericórdia de Lisboa, o pessoal do Departamento de Apostas Mútuas Desportivas será admitido de harmonia com o quadro anexo ao presente diploma.
 
-###### Art. 19.º As remunerações de pessoal do Departamento das Apostas Mútuas Desportivas constituirão encargo da respectiva exploração.
+Art. 19.º As remunerações de pessoal do Departamento das Apostas Mútuas Desportivas constituirão encargo da respectiva exploração.
 
-###### Art. 20.º Para atender a necessidades extraordinárias do serviço, e mediante proposta fundamentada da comissão executiva, poderá o Ministro da Saúde e Assistência autorizar a prestação de trabalhos fora das horas normais de expediente, com a remuneração que estiver fixada nos termos legais.
+Art. 20.º Para atender a necessidades extraordinárias do serviço, e mediante proposta fundamentada da comissão executiva, poderá o Ministro da Saúde e Assistência autorizar a prestação de trabalhos fora das horas normais de expediente, com a remuneração que estiver fixada nos termos legais.
 
 V
 
 Disposições diversas
 
-###### Art. 21.º Para a exploração das apostas mútuas desportivas serão utilizados todos os bens e serviços dos demais departamentos da Santa Casa da Misericórdia, designadamente os da lotaria, da contabilidade, da secretaria, da tesouraria, dos serviços de abastecimentos e do património.
+Art. 21.º Para a exploração das apostas mútuas desportivas serão utilizados todos os bens e serviços dos demais departamentos da Santa Casa da Misericórdia, designadamente os da lotaria, da contabilidade, da secretaria, da tesouraria, dos serviços de abastecimentos e do património.
 
-###### Art. 22.º As compensações devidas pela exploração das apostas mútuas desportivas e pela utilização de bens e serviços, de harmonia com o artigo anterior, a inscrever na receita do orçamento geral da Santa Casa da Misericórdia ou do orçamento privativo da lotaria, consoante os casos, regular-se-ão pelas seguintes normas:
+Art. 22.º As compensações devidas pela exploração das apostas mútuas desportivas e pela utilização de bens e serviços, de harmonia com o artigo anterior, a inscrever na receita do orçamento geral da Santa Casa da Misericórdia ou do orçamento privativo da lotaria, consoante os casos, regular-se-ão pelas seguintes normas:
 
 a) Pela prestação de serviços de carácter industrial, designadamente da tipografia, transportes e obras, será pago o seu custo real;
 
@@ -386,11 +417,11 @@ i) Por outros encargos, tais como telefones, energia eléctrica e aquecimento se
 
 § único. As percentagens previstas nas alíneas d), e), f), g) e h) poderão ser revistas pela mesa no final de cada exercício, mas as alterações ficam sujeitas a despacho ministerial.
 
-###### Art. 23.º Os vogais da mesa da lotaria nacional e os dois membros da comissão executiva criada nos termos do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, têm direito, respectivamente, a senhas de presença e a gratificação de montante previsto na tabela anexa a esta portaria, e o secretário da mesa da comissão executiva da lotaria e vogal da mesa para a administração das apostas mútuas terá direito a gratificação de 2500$00.
+Art. 23.º Os vogais da mesa da lotaria nacional e os dois membros da comissão executiva criada nos termos do [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, têm direito, respectivamente, a senhas de presença e a gratificação de montante previsto na tabela anexa a esta portaria, e o secretário da mesa da comissão executiva da lotaria e vogal da mesa para a administração das apostas mútuas terá direito a gratificação de 2500$00.
 
-###### Art. 24.º As gratificações e senhas de presença são inacumuláveis entre si e em relação aos membros que, porventura, possam fazer parte de órgãos da lotaria e das apostas mútuas desportivas.
+Art. 24.º As gratificações e senhas de presença são inacumuláveis entre si e em relação aos membros que, porventura, possam fazer parte de órgãos da lotaria e das apostas mútuas desportivas.
 
-###### Art. 25.º As remunerações previstas na tabela contar-se-ão a partir do mês de Setembro último, inclusive.
+Art. 25.º As remunerações previstas na tabela contar-se-ão a partir do mês de Setembro último, inclusive.
 
 Ministério da Saúde e Assistência, 21 de Novembro de 1961. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -400,7 +431,7 @@ Tabela de remunerações dos órgãos de administração e júris do Departament
 
 (Artigos 9.º e 17.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/27000/14411444.pdf))](https://files.diariodarepublica.pt/1s/1961/11/27000/14411444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/27000/14411444.pdf)
 
 II
 
@@ -408,6 +439,6 @@ Quadro provisório do pessoal do Departamento de Apostas Mútuas Desportivas da 
 
 (Artigo 18.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/27000/14411444.pdf))](https://files.diariodarepublica.pt/1s/1961/11/27000/14411444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/27000/14411444.pdf)
 
 Ministério da Saúde e Assistência, 21 de Novembro de 1961. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.

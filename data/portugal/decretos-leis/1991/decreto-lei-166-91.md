@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/106a00/24862492.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/166/1991/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1991-609645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 182773d7040b8fc6d2538744bc903f9938dbb45e06e188fa07fbfb745d3e72cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfef7cb0b07eb24bcf3f8c68eac76435ad61fa31760ea938401913827380bf26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão da Condição Feminina
-- Orgânica
 - Comissão para a Igualdade e para os Direitos das Mulheres
+- Orgânica
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
 relationships:
@@ -75,16 +75,98 @@ relationships:
   target: pt:dre:521260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Alterado o presente diploma, relativamente à tutela da Comissão para a Igualdade e para os Direitos das Mulheres,
+    pelo(a) Decreto-Lei n.º 451/91 - Diário da República n.º 279/1991, 1º Suplemento, Série I-A de 1991-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 99/93 DE 28-JAN DR.IS-B [23] NA PARTE QUE SE REFERE AS CARREIRAS ESPECIFICAS
+    DAS AREAS FUNCIONAIS DE BIBLIOTECA, DOCUMENTACAO E ARQUIVO E CARREIRA TECNICAU
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-01-28'
+- type: amended_by
+  target: pt:dre:455465:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros da Comissão para a Igualdade e para os Direitos\
+    \ das Mulheres, pelo DEC LEI.296-A/95.1995.11.17.PCM, DR.IS-A [266]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:600366:por
+  label: "ALTERADO O QUADRO DE PESSOAL DA COMISSAO PARA A IGUALDADE E PARA OS DIREITOS DAS MULHERES, PELA PORT 1451/95 DE\
+    \ 06-DEZ DR.IS-B [281] \0-B [281]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-1993-600366
+  date: '1995-12-06'
+- type: amended_by
+  target: pt:dre:219554:por
+  label: "Colocada na dependência do Alto-Comissário para as Questões da Promoção da Igualdade e da Família a Comissão para\
+    \ a Igualdade e para os Direitos das Mulheres, pelo DEC LEI.3-B/96.1996.01.26.PCM, DR.IS-A [22]Supl\0pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-b-1996-219554
+  date: '1996-01-26'
+- type: amended_by
+  target: pt:dre:1985497:por
+  label: "Alterado o quadro de pessoal, pelo AV.9436/99(2ªSÉRIE).1999.05.18.ACQPIF-PCM DR.IIS [124] DE 28/MAI/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/9436-1999-1985497
+  date: '1999-05-18'
+- type: amended_by
+  target: pt:dre:2330148:por
+  label: "Alterado o quadro de pessoal, pela PORT.619/2002(2ªSÉRIE).2002.03.28.PCM, DR.IIS [86] de 12/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/619-2002-2330148
+  date: '2002-03-28'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Extinta, sendo objecto de fusão, - a Comissão criada no presente diploma, e integradas as suas atribuições na Comissão\
+    \ para a Cidadania e a Igualdade de Género, pelo DEC LEI.202/2006.27.10.2006.PCM, DR.IS [208] de 27.10.2006, nos termos\
+    \ dos seus artigos 32.º e 33.º, onde são, igualmente integradas as atribuições da Estrutura de Missão contra a Violência\
+    \ Doméstica \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:176571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564178:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521260:por
+  label: "Revogado pelo DEC LEI.164/2007.03.05.2007.PCM, DR.IS [85] de 03.05.2007, a partir de 01.06.2007, e determinado que\
+    \ a CiG suceda nas atribuições da Comissão para a Igualdade e para os Direitos das Mulheres (que se extingue).\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-2007-521260
+  date: '2007-05-03'
 article_structure:
   article_count: 26
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:47Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +301,9 @@ d) Pronunciar-se sobre prioridades de acção relativamente às actividades prog
 
 5 - Poderão tomar parte nas reuniões do Conselho Consultivo ou das secções, sem direito a voto, a convite do presidente, individualidades de reconhecida competência relativamente às questões da mulher e da igualdade.
 
-###### Artigo 10.º — Secção Interministerial
+###### Artigo 10.º
+
+#### Secção Interministerial
 
 1 - A Secção Interministerial do Conselho Consultivo é integrada por representantes de departamentos governamentais das áreas da Administração Pública consideradas de interesse para os objectivos da Comissão, nomeadamente pela incidência que as respectivas políticas possam ter sobre o estatuto e situação das mulheres e sobre a promoção da igualdade.
 
@@ -241,7 +325,9 @@ c) Pronunciar-se sobre o programa anual de actividades da Comissão bem como sob
 
 d) Acompanhar e avaliar a execução das medidas de política relativas à igualdade que decorrem de compromissos assumidos internacionalmente, designadamente pela integração na Comunidade Europeia.
 
-###### Artigo 12.º — Secção de Organizações não Governamentais
+###### Artigo 12.º
+
+#### Secção de Organizações não Governamentais
 
 1 - A Secção de Organizações não Governamentais do Conselho Consultivo é constituída por representantes de organizações representativas de mulheres cujos objectivos se coadunem com os da Comissão, designadamente as que tenham implantação em várias zonas do País e ainda por organizações cujo campo de actuação ou programas visem a melhoria das condições de vida e do estatuto das mulheres ou a promoção da igualdade.
 
@@ -291,7 +377,9 @@ a) Secção Administrativa e de Contabilidade;
 
 b) Secção de Documentação e Artes Gráficas.
 
-###### Artigo 16.º — Divisão de Estudos e Formação
+###### Artigo 16.º
+
+##### Divisão de Estudos e Formação
 
 À Divisão de Estudos e Formação compete:
 
@@ -303,7 +391,9 @@ c) Desenvolver junto dos organismos competentes acções tendentes à obtenção
 
 d) Organizar acções de formação - seminários, colóquios, cursos ou outras - que contribuam para a formação de correntes de opinião e para a mudança social e cultural que a construção da igualdade implica.
 
-###### Artigo 17.º — Divisão de Documentação, Informação e Publicações
+###### Artigo 17.º
+
+##### Divisão de Documentação, Informação e Publicações
 
 À Divisão de Documentação, Informação e Publicações compete:
 
@@ -321,7 +411,9 @@ f) Assegurar a articulação da Comissão com os meios de comunicação social, 
 
 g) Coordenar a execução e difusão de publicações.
 
-###### Artigo 18.º — Divisão de Assuntos Jurídicos
+###### Artigo 18.º
+
+##### Divisão de Assuntos Jurídicos
 
 À Divisão de Assuntos Jurídicos compete:
 
@@ -351,7 +443,7 @@ A Comissão dispõe do pessoal constante do quadro anexo ao presente diploma, qu
 
 ###### Artigo 21.º — Nomeação do presidente
 
-**O presidente da Comissão é nomeado pelo Primeiro-Ministro de entre individualidades de reconhecida competência nos assuntos do âmbito da Comissão e é equiparado para todos os efeitos legais a director-geral.**
+O presidente da Comissão é nomeado pelo Primeiro-Ministro de entre individualidades de reconhecida competência nos assuntos do âmbito da Comissão e é equiparado para todos os efeitos legais a director-geral.
 
 ###### Artigo 22.º — Nomeação do vice-presidente
 
@@ -379,26 +471,26 @@ Ficam revogados o [Decreto-Lei n.º 485/77](https://diariodarepublica.pt/dr/deta
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1991. - Aníbal António Cavaco Silva - Manuel Joaquim Dias Loureiro - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 18 de Abril de 1991.**
+Promulgado em 18 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Abril de 1991.**
+Referendado em 19 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro de pessoal da Comissão para a Igualdade e para os Direitos das Mulheres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/106a00/24862492.pdf))](https://files.diariodarepublica.pt/1s/1991/05/106a00/24862492.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/106a00/24862492.pdf)
 
 Quadro actual e quadro proposto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/106a00/24862492.pdf))](https://files.diariodarepublica.pt/1s/1991/05/106a00/24862492.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/106a00/24862492.pdf)
 
 Mapa dos encargos financeiros (considerando o vencimento para 14 meses com 5 diuturnidades) (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/106a00/24862492.pdf))](https://files.diariodarepublica.pt/1s/1991/05/106a00/24862492.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/106a00/24862492.pdf)
 
 (nota a) Vencimentos de acordo com o NSR.

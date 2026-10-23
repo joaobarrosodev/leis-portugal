@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/187a00/41444145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/295/1991/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1991-674048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4f3f5fca58d37b4ce702cc85c87e6a17409d0b1866e8cc7a31e6b88b749a123
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9476902ce3204ca693c15d491ddeb9897c1c09968134ddbd95f84cc067ac05f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Companhia de Seguros
 - Documentação
 - Microfilmagem
-- Companhia de Seguros
 relationships:
 - type: amended_by
   target: pt:dre:197758:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197758:por
+  label: "Revogado pelo DEC LEI.221/96.1996.11.23.MF DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-1996-197758
+  date: '1996-11-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:37Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +121,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As companhias de seguros e resseguros estabelecidas em Portugal ficam autorizadas a proceder, em colaboração com o Instituto Português de Arquivos, à microfilmagem de todos os documentos que, nos termos da lei, acordo, tratado ou convenção e segundo os prazos fixados, devam manter-se em arquivo.
+Artigo 1.º - 1 - As companhias de seguros e resseguros estabelecidas em Portugal ficam autorizadas a proceder, em colaboração com o Instituto Português de Arquivos, à microfilmagem de todos os documentos que, nos termos da lei, acordo, tratado ou convenção e segundo os prazos fixados, devam manter-se em arquivo.
 
 2 - O microfilme de documentos não contemplados no número anterior deve manter-se em arquivo pelo prazo que vier a ser estabelecido internamente por cada uma das empresas, sem prejuízo do disposto na lei.
 
@@ -118,24 +131,24 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Fica também autorizada a microfilmagem directamente a partir de suporte magnético e informação produzida através do tratamento automático de dados.
 
-###### Art. 2.º Não poderão ser inutilizados os documentos cuja conservação se imponha pelo seu interesse histórico, cultural ou outros motivos atendíveis, devendo os mesmos ser transferidos para arquivos próprios e adequados.
+Art. 2.º Não poderão ser inutilizados os documentos cuja conservação se imponha pelo seu interesse histórico, cultural ou outros motivos atendíveis, devendo os mesmos ser transferidos para arquivos próprios e adequados.
 
-###### Art. 3.º - 1 - As operações de microfilmagem deverão ser executadas com o maior rigor técnico a fim de garantirem a fiel reprodução dos documentos sobre que recaiam.
+Art. 3.º - 1 - As operações de microfilmagem deverão ser executadas com o maior rigor técnico a fim de garantirem a fiel reprodução dos documentos sobre que recaiam.
 
 2 - As microfilmagens ficarão guardadas em ficheiros próprios, que deverão satisfazer as condições exigíveis de conservação e segurança.
 
-###### Art. 4.º Será responsável pela regularidade das operações de microfilmagem o dirigente do serviço ou o responsável pelo sector onde funcionar o respectivo centro.
+Art. 4.º Será responsável pela regularidade das operações de microfilmagem o dirigente do serviço ou o responsável pelo sector onde funcionar o respectivo centro.
 
-###### Art. 5.º As fotocópias obtidas a partir de microfilme têm a força probatória dos originais, desde que as respectivas ampliações sejam autenticadas através da assinatura do responsável pelo serviço ou do seu substituto e da aposição do selo branco da empresa.
+Art. 5.º As fotocópias obtidas a partir de microfilme têm a força probatória dos originais, desde que as respectivas ampliações sejam autenticadas através da assinatura do responsável pelo serviço ou do seu substituto e da aposição do selo branco da empresa.
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 26 de Julho de 1991.**
+Promulgado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1991.**
+Referendado em 29 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

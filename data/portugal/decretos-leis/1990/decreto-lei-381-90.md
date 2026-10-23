@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28300/50225023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1990-565378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b66a8968e4b99d9a4b30b6c85e354e570340701625e57645da92206a50dd4aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e42b42ca8d3cbd7af8feb6c85c402fda0b7da06e1c8a91c9f79ba6e5ab94f2d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AÇO
+- Direitos de Importação
+- Importação
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590341:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:11Z'
   warnings: []
   errors: []
 ---
@@ -97,22 +115,22 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do artigo 34.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A taxa da Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 444/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1989-590341), de 29 de Dezembro, é alterada nos termos do mapa anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º A taxa da Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 444/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1989-590341), de 29 de Dezembro, é alterada nos termos do mapa anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º A alteração relativa aos separadores por flotação, mencionada no artigo anterior, produz efeitos desde 2 de Julho de 1990.
+Art. 2.º A alteração relativa aos separadores por flotação, mencionada no artigo anterior, produz efeitos desde 2 de Julho de 1990.
 
 Visto e aprovado em Conselho de Ministros de 25 de Outubro de 1990. - Aníbal António Cavaco Silva - José Manuel Alves Elias da Costa - Luís Fernando Mira Amaral.
 
-**Promulgado em 26 de Novembro de 1990.**
+Promulgado em 26 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Novembro de 1990.**
+Referendado em 28 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28300/50225023.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28300/50225023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28300/50225023.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18731-1961-180592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc76b2b0acce4e5c2648eec525670f646f1f36233f36f6cc486dc181a03487fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac5179f45df688056ee8ea595afab43c8cf4a04402027773cfbed444198adcf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:17Z'
   warnings: []
   errors: []
 ---
@@ -89,17 +93,17 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 250000$00
+Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 250000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 3), alínea a) «Aquisições de utilização permanente - Material de defesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 600000$00
+Artigo 4.º, n.º 3), alínea a) «Aquisições de utilização permanente - Material de defesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 600000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Despesas gerais de desinfecção e profilaxia» ... 50000$00
+Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Despesas gerais de desinfecção e profilaxia» ... 50000$00
 
-###### Artigo 10.º, n.º 1), alínea b) «Encargos administrativos - Preparação militar de pessoal a incorporar na província - Curso de sargentos milicianos do ultramar» ... 100000$00
+Artigo 10.º, n.º 1), alínea b) «Encargos administrativos - Preparação militar de pessoal a incorporar na província - Curso de sargentos milicianos do ultramar» ... 100000$00
 
 ... 1000000$00
 
@@ -107,15 +111,15 @@ tomando como contrapartida as seguintes disponibilidades na mesma tabela de desp
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 250000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 250000$00
 
-###### Artigo 2.º, n.º 2) «Remunerações acidentais - Gratificações de isolamento» ... 600000$00
+Artigo 2.º, n.º 2) «Remunerações acidentais - Gratificações de isolamento» ... 600000$00
 
-###### Artigo 2.º, n.º 3) «Remunerações acidentais - Complemento de vencimento» ... 50000$00
+Artigo 2.º, n.º 3) «Remunerações acidentais - Complemento de vencimento» ... 50000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 10.º, n.º 1), alínea c) «Encargos administrativos - Preparação militar do pessoal a incorporar na província - Escola de cabos do ultramar» ... 100000$00
+Artigo 10.º, n.º 1), alínea c) «Encargos administrativos - Preparação militar do pessoal a incorporar na província - Escola de cabos do ultramar» ... 100000$00
 
 ... 1000000$00
 

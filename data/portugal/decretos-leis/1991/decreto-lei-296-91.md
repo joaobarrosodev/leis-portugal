@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/187a00/41454146.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe225970fa166206c98fed5af783e81fdf30b9823a83367ab55d865886b71da4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f609e36d92eae6f09318bc365269e5e439d1dee9382d65cad55bcfccb4ee131
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,49 @@ relationships:
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a Carreira Geral de Técnico Superior, nos termos do art. 2º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571267:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:42Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +138,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente decreto-lei aplica-se a todos os serviços da administração central, local e regional, bem como aos institutos públicos que revistam a natureza de serviços personalizados ou fundos públicos.
+Artigo 1.º O presente decreto-lei aplica-se a todos os serviços da administração central, local e regional, bem como aos institutos públicos que revistam a natureza de serviços personalizados ou fundos públicos.
 
-###### Art. 2.º É criada a carreira de técnico superior de serviço social, integrada no grupo das carreiras do pessoal técnico superior de regime geral.
+Art. 2.º É criada a carreira de técnico superior de serviço social, integrada no grupo das carreiras do pessoal técnico superior de regime geral.
 
-###### Art. 3.º - 1 - Os técnicos de serviço social portadores de diploma ou certificado reconhecido nos termos das Portarias n.os [370/90](https://diariodarepublica.pt/dr/detalhe/portaria/370-1990-571267) e [1144/90](https://diariodarepublica.pt/dr/detalhe/portaria/1144-1990-564625), respectivamente de 12 de Maio e de 20 de Novembro, transitam, independentemente do seu posicionamento resultante do descongelamento de escalões previsto nas alíneas a) e b) do n.º 2 do artigo 38.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, para a carreira de técnico superior de serviço social referida no artigo anterior, de acordo com as seguintes regras:
+Art. 3.º - 1 - Os técnicos de serviço social portadores de diploma ou certificado reconhecido nos termos das Portarias n.os [370/90](https://diariodarepublica.pt/dr/detalhe/portaria/370-1990-571267) e [1144/90](https://diariodarepublica.pt/dr/detalhe/portaria/1144-1990-564625), respectivamente de 12 de Maio e de 20 de Novembro, transitam, independentemente do seu posicionamento resultante do descongelamento de escalões previsto nas alíneas a) e b) do n.º 2 do artigo 38.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, para a carreira de técnico superior de serviço social referida no artigo anterior, de acordo com as seguintes regras:
 
 a) Os técnicos especialistas principais, técnicos especialistas e técnicos principais são integrados, respectivamente, nos escalões 6, 4 e 1 da categoria de técnico superior principal;
 
@@ -147,7 +180,7 @@ a) Nas correspondentes categorias da carreira técnica, no caso previsto no n.º
 
 b) Na categoria de referência da carreira técnica de serviço social e, bem assim, o prestado na carreira técnica superior, no caso previsto no n.º 3 deste artigo.
 
-###### Art. 4.º - 1 - Para execução do presente diploma, os serviços e organismos referidos no artigo 1.º deverão alterar os seus quadros de pessoal no prazo de 90 dias a contar da data da entrada em vigor deste decreto-lei.
+Art. 4.º - 1 - Para execução do presente diploma, os serviços e organismos referidos no artigo 1.º deverão alterar os seus quadros de pessoal no prazo de 90 dias a contar da data da entrada em vigor deste decreto-lei.
 
 2 - A alteração referida no número anterior obedece às seguintes regras:
 
@@ -157,18 +190,18 @@ b) A carreira criada nos termos do presente diploma deverá comportar todas as c
 
 c) A aplicação do disposto nas alíneas anteriores não poderá originar aumento global do número de lugares, devendo as dotações relativas às categorias de assessor e de assessor principal ser compensadas com a extinção de outros tantos lugares vagos na carreira de técnico superior de serviço social ou, na inexistência de vagas em número suficiente para o efeito, mediante a extinção gradual do número de lugares necessário para promover aquela compensação.
 
-###### Art. 5.º - 1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação, produzindo efeitos, no que respeita ao sistema de transição previsto no artigo 3.º, a partir da mesma data.
+Art. 5.º - 1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação, produzindo efeitos, no que respeita ao sistema de transição previsto no artigo 3.º, a partir da mesma data.
 
 2 - O processamento de vencimentos nos termos do número anterior está, todavia, dependente da prévia alteração dos quadros de pessoal, de harmonia com o regime consignado no artigo 4.º
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 26 de Julho de 1991.**
+Promulgado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1991.**
+Referendado em 29 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

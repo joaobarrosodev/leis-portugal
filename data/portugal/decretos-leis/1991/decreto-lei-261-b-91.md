@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 169/1991, 1º Suplemento, Série I-A de 1991-07-25
   number: '169'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3716-(7) a 3716-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/169a01/00070011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/261-b/1991/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-b-1991-416074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cde4629fcff40aa9686c7b3b135a9cdd3e2e0916ac310a19c7eccd427af2ea2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 262a097435e4ff585c0677d3668ec01a846da1e44c1707b0019590a1fa2c5096
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
 - Contra-ordenação
 - Contrato de Concessão
-- Petróleo
+- Garantia
 - Licenciamento
+- Petróleo
 - Prospecção de Petróleo
 - Regime Jurídico
 relationships:
@@ -77,16 +77,33 @@ relationships:
   target: pt:dre:265543:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:218547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571214:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:265543:por
+  label: "Revogado pelo DEC LEI.109/94.1994.04.26.MIE, DR.IS-A [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1994-265543
+  date: '1994-04-26'
 article_structure:
   article_count: 8
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:57Z'
   warnings: []
   errors: []
 ---
@@ -197,15 +214,15 @@ l) De 500000$00 a 2500000$00, a inobservância do disposto no artigo 94.º
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral.
 
-**Promulgado em 19 de Junho de 1991.**
+Promulgado em 19 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1991.**
+Referendado em 22 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Bases a que devem obedecer os contratos de concessão de direitos exclusivos de desenvolvimento e exploração de petróleo (anexas ao Decreto-Lei n.º 261-B/91, de 25 de Julho).
 
@@ -213,7 +230,9 @@ Bases a que devem obedecer os contratos de concessão de direitos exclusivos de 
 
 #### SECÇÃO I — Objecto, natureza, partes contratantes e definições
 
-###### Base I — Objecto
+Base I
+
+Objecto
 
 1 - A concessão tem por objecto o desenvolvimento e a exploração de um campo ou campos de petróleo em área demarcada definitivamente.
 
@@ -221,17 +240,23 @@ Bases a que devem obedecer os contratos de concessão de direitos exclusivos de 
 
 3 - A exploração compreende o direito de produzir ou extrair o petróleo, de acordo com o plano de exploração, o programa de produção e respectivo projecto, previamente aprovados pelo GPEP.
 
-###### Base II — Partes contratantes
+Base II
+
+Partes contratantes
 
 Do contrato de concessão deverão constar, devidamente identificadas, as partes contratantes e seus representantes, nos termos legais e estatutários.
 
-###### Base III — Definições
+Base III
+
+Definições
 
 As definições de natureza técnica a inserir no contrato de concessão devem traduzir o entendimento das partes contratantes, quanto ao significado de termos e expressões, necessário à sua compreensão.
 
 #### SECÇÃO II — Área e prazo
 
-###### Base IV — Área de concessão
+Base IV
+
+Área de concessão
 
 1 - A área de concessão, identificada por número, denominação e expressa em quilómetros quadrados, será constituída por blocos e quartos de blocos atingidos pela demarcação definitiva do campo de petróleo.
 
@@ -239,7 +264,9 @@ As definições de natureza técnica a inserir no contrato de concessão devem t
 
 3 - Os elementos previstos no número anterior fazem parte integrante do contrato de concessão.
 
-###### Base V — Prazo do contrato
+Base V
+
+Prazo do contrato
 
 O contrato de concessão durará pelo período de 25 anos, com início na data da sua assinatura, prorrogável nos termos do artigo 38.º do [Decreto-Lei n.º 141/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214), de 2 de Maio.
 
@@ -247,81 +274,119 @@ O contrato de concessão durará pelo período de 25 anos, com início na data d
 
 #### SECÇÃO I — Direitos do concessionário
 
-###### Base VI — Exclusividade
+Base VI
+
+Exclusividade
 
 O Estado atribui ao concessionário direitos exclusivos de desenvolvimento e exploração de petróleo na área da concessão, identificada na base V, nos termos do [Decreto-Lei n.º 214/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1986-218547), de 2 de Agosto, e do [Decreto-Lei n.º 141/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214).
 
-###### Base VII — Confidencialidade
+Base VII
+
+Confidencialidade
 
 O Estado assegura ao concessionário a confidencialidade em relação à informação que lhe for prestada pelo concessionário durante o período de validade do contrato.
 
-###### Base VIII — Prorrogações
+Base VIII
+
+Prorrogações
 
 O Estado assegura, ainda, ao concessionário as prorrogações do contrato a que se refere o artigo 38.º do [Decreto-Lei n.º 141/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214), com respeito das demais cláusulas contratuais.
 
-###### Base IX — Utilização do domínio público
+Base IX
+
+Utilização do domínio público
 
 O Estado garante ao concessionário o direito à utilização do domínio público para efeitos de implantação das infra-estruturas da concessão, com respeito da legislação aplicável.
 
-###### Base X — Servidão e expropriação
+Base X
+
+Servidão e expropriação
 
 O Estado assegura ao concessionário a constituição de servidão administrativa ou a expropriação de terrenos, nos termos previstos nos artigos 85.º e 86.º do [Decreto-Lei n.º 141/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214).
 
 #### SECÇÃO II — Obrigações do concessionário
 
-###### Base XI — Obrigações gerais
+Base XI
+
+Obrigações gerais
 
 O concessionário fica sujeito, para além do mencionado nas presentes bases, às obrigações previstas na lei, regulamentos, instruções técnicas emanadas do GPEP e no contrato de concessão.
 
-###### Base XII — Plano e projectos de desenvolvimento
+Base XII
+
+Plano e projectos de desenvolvimento
 
 O concessionário deverá apresentar o plano de trabalhos e os projectos relativos ao desenvolvimento do campo ou campos de petróleo e, uma vez aprovados estes pelo GPEP, executá-los ou fazê-los executar com regularidade e continuidade, de acordo com a boa técnica e prática da indústria petrolífera.
 
-###### Base XIII — Plano e projectos de exploração
+Base XIII
+
+Plano e projectos de exploração
 
 O concessionário deverá também apresentar o plano e os projectos respeitantes à exploração de cada campo de petróleo e, uma vez aprovados pelo GPEP, executá-los ou fazê-los executar, de acordo com a boa técnica e prática da indústria petrolífera.
 
-###### Base XIV — Conservação e utilização do gás associado
+Base XIV
+
+Conservação e utilização do gás associado
 
 O concessionário promoverá a conservação ou a utilização racional do gás associado, podendo, em última instância, queimá-lo na tocha, obtida a anuência do GPEP.
 
-###### Base XV — Medição e registos
+Base XV
+
+Medição e registos
 
 O concessionário deverá medir todo o petróleo extraído e recuperado, mantendo, ainda, no território nacional o registo actualizado de todas as operações técnicas efectuadas ao abrigo do contrato.
 
-###### Base XVI — Contratos e subcontratos
+Base XVI
+
+Contratos e subcontratos
 
 Deverá o concessionário dar conhecimento ao GPEP dos elementos de todos os contratos e subcontratos que vierem a ser celebrados com terceiros, no âmbito da concessão.
 
-###### Base XVII — Confidencialidade
+Base XVII
+
+Confidencialidade
 
 O concessionário deverá manter estrita confidencialidade em relação a todos os elementos de informação técnica e económica recolhidos no domínio do contrato.
 
-###### Base XVIII — Controlo societário
+Base XVIII
+
+Controlo societário
 
 Deverá o concessionário comunicar ao GPEP, em prazo não superior a 60 dias, a alteração do controlo societário que porventura venha a ocorrer no concessionário.
 
-###### Base XIX — Contabilidade organizada
+Base XIX
+
+Contabilidade organizada
 
 O concessionário manterá a sua contabilidade devidamente organizada, de modo a permitir aos organismos e serviços competentes da Administração a sua verificação.
 
-###### Base XX — Relatórios e contas anuais
+Base XX
+
+Relatórios e contas anuais
 
 Deverá o concessionário remeter ao GPEP os relatórios e contas anuais de cada exercício, devidamente auditadas, até ao dia 30 de Abril do ano seguinte a que respeitam.
 
-###### Base XXI — Informação
+Base XXI
+
+Informação
 
 O concessionário deverá remeter ao GPEP, nos termos previstos nos regulamentos e instruções técnicas, a informação respeitante à produção de petróleo e seu destino bem como todos os relatórios e elementos de informação recolhidos no decurso do desenvolvimento e exploração.
 
-###### Base XXII — Renda de superfície
+Base XXII
+
+Renda de superfície
 
 O concessionário está sujeito ao pagamento anual da renda de superfície nos termos do despacho conjunto dos Ministros das Finanças e da Indústria e Energia previsto no n.º 2 do artigo 74.º do [Decreto-Lei n.º 141/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214).
 
-###### Base XXIII — Outros encargos
+Base XXIII
+
+Outros encargos
 
 O concessionário pagará ao GPEP, de acordo com o previsto no n.º 2 do artigo 78.º do [Decreto-Lei n.º 141/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214), uma percentagem da soma dos valores da facturação e dos consumos próprios do concessionário, referentes ao ano anterior.
 
-###### Base XXIV — Prémio de descoberta
+Base XXIV
+
+Prémio de descoberta
 
 O concessionário pagará como prémio de descoberta um montante a fixar pelo GPEP nos termos previstos no artigo 82.º do [Decreto-Lei n.º 141/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214).
 
@@ -329,7 +394,9 @@ O concessionário pagará como prémio de descoberta um montante a fixar pelo GP
 
 #### SECÇÃO I — Determinação do preço de petróleo
 
-###### Base XXV — Preço
+Base XXV
+
+Preço
 
 Nas situações previstas no artigo 59.º do Decreto-lei n.º 141/90, a compensação devida pelo Estado ou pelo refinador nacional terá em conta sucessivamente os seguintes elementos para a determinação do preço do petróleo:
 
@@ -349,7 +416,9 @@ g) Eventuais acordos a estabelecer entre o Estado ou refinador nacional e o conc
 
 #### SECÇÃO II — Valor das cauções
 
-###### Base XXVI — Cauções
+Base XXVI
+
+Cauções
 
 1 - O valor da caução a que se refere a alínea a) do n.º 1 do artigo 44.º do [Decreto-Lei n.º 141/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214) depende das condições económicas da exploração e varia entre 10000000$00 e 100000000$00 nos termos a fixar no contrato.
 
@@ -359,44 +428,62 @@ g) Eventuais acordos a estabelecer entre o Estado ou refinador nacional e o conc
 
 ### CAPÍTULO IV — Transporte e armazenagem de petróleo
 
-###### Base XXVII — Oleodutos e gasodutos
+Base XXVII
+
+Oleodutos e gasodutos
 
 A implantação e o funcionamento dos oleodutos, gasodutos e instalações de armazenagem do concessionário dependem da aprovação dos respectivos projectos pela Direcção-Geral de Energia ou delegação do Ministério da Indústria e Energia, nos termos da lei aplicável.
 
-###### Base XXVIII — Petróleo de outro concessionário
+Base XXVIII
+
+Petróleo de outro concessionário
 
 Os oleodutos ou gasodutos que constituem a rede principal de transporte do concessionário podem, na medida da sua capacidade disponível, ser utilizados por outros concessionários, mediante o pagamento de um preço a acordar entre os interessados.
 
 ### CAPÍTULO V — Reversão
 
-###### Base XXIX — Reversão dos trabalhos
+Base XXIX
+
+Reversão dos trabalhos
 
 Os trabalhos realizados revertem para o Estado sem direito a qualquer indemnização a partir da sua integral execução ou da extinção do contrato de concessão.
 
-###### Base XXX — Reversão de instrumentos instalações e equipamentos
+Base XXX
+
+Reversão de instrumentos instalações e equipamentos
 
 Os instrumentos instalações e equipamentos a que se refere o n.º 2 do artigo 88.º do [Decreto-Lei n.º 141/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214) revertem para o Estado, sem direito a qualquer indemnização, a partir da extinção do contrato de concessão, desde que o campo de petróleo esteja ainda em condições de produzir ou desde que seja possível a sua utilização.
 
 ### CAPÍTULO VI — Fiscalização e contencioso
 
-###### Base XXXI — Acompanhamento e fiscalização
+Base XXXI
+
+Acompanhamento e fiscalização
 
 Sem prejuízo das funções cometidas às demais entidades ou serviços da Administração em matéria da sua competência, incumbe ao GPED o acompanhamento e fiscalização da actividade do concessionário, assegurando este, para o efeito, os necessários meios logísticos.
 
-###### Base XXXII — Arbitragem
+Base XXXII
+
+Arbitragem
 
 Nos litígios derivados do contrato de concessão poderá o Estado celebrar convenções de arbitragem.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Base XXXIII — Rescisão
+Base XXXIII
+
+Rescisão
 
 A decisão do Estado quanto à extinção do contrato de concessão pela forma prevista no artigo 70.º do [Decreto-Lei n.º 141/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214) não dá lugar ao pagamento de qualquer indemnização, podendo verificar-se a execução da caução prestada para garantia do cumprimento das obrigações anteriormente assumidas e não cumpridas pelo concessionário.
 
-###### Base XXXIV — Força maior
+Base XXXIV
+
+Força maior
 
 Para além do disposto no artigo 90.º do [Decreto-Lei n.º 141/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214), constituem ainda casos de força maior os eventos imprevisíveis e alheios à vontade ou controlo do concessionário ou do Estado, que impossibilitem, parcial ou totalmente, temporária ou definitivamente, o cumprimento das obrigações assumidas.
 
-###### Base XXXV — Língua do contrato
+Base XXXV
+
+Língua do contrato
 
 O contrato e todos os documentos que dele façam parte integrante serão redigidos em língua portuguesa, única versão que faz fé e que é atendível para todos os efeitos legais e contratuais.

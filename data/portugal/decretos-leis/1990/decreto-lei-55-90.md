@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1990-334647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9be9bf7b898e4e5997b6b7f645501b6bf0e0f742c8c1ce4e909f6974007358cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4da1ef27c2ccd0e923a5178666bb099d955a3bacd2b0acb30d557c9500af4d47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Reestruturação do Instituto Regulador e Orientador dos Mercados Agrícolas
+- Iroma
+- Ministério da Agricultura Pescas e Alimentação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:297227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297227:por
+  label: "Designada como Comissão Liquidatária a Comissão de Reestruturação prevista no presente diploma, pelo DEC LEI.197/94.1994.07.21.MA,\
+    \ DR.IS-A [167]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-1994-297227
+  date: '1994-07-21'
+- type: cites
+  target: pt:dre:599522:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:16Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +111,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criada, no âmbito do Ministério da Agricultura, Pescas e Alimentação, a Comissão de Reestruturação do Instituto Regulador e Orientador dos Mercados Agrícolas, para, após análise da situação das estruturas sob gestão do IROMA, propor ao ministro da tutela, em prazo a fixar por despacho deste, soluções para a sua rentabilização e para a sua adequação às realidades do mercado e à política agrícola e alimentar do Governo e da Comunidade Económica Europeia.
+Artigo 1.º É criada, no âmbito do Ministério da Agricultura, Pescas e Alimentação, a Comissão de Reestruturação do Instituto Regulador e Orientador dos Mercados Agrícolas, para, após análise da situação das estruturas sob gestão do IROMA, propor ao ministro da tutela, em prazo a fixar por despacho deste, soluções para a sua rentabilização e para a sua adequação às realidades do mercado e à política agrícola e alimentar do Governo e da Comunidade Económica Europeia.
 
-###### Art. 2.º - 1 - A Comissão de Reestruturação é constituída por um presidente e três vogais, considerando-se validamente constituída desde que esteja nomeada a maioria dos seus membros.
+Art. 2.º - 1 - A Comissão de Reestruturação é constituída por um presidente e três vogais, considerando-se validamente constituída desde que esteja nomeada a maioria dos seus membros.
 
 2 - O presidente é nomeado por despacho conjunto do Primeiro-Ministro e do ministro da tutela.
 
@@ -109,7 +123,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - O exercício de funções na Comissão de Reestruturação não confere aos seus titulares a qualidade de funcionários ou agentes da Administração Pública.
 
-###### Art. 3.º - 1 - A Comissão de Reestruturação assegurará a gestão do IROMA enquanto se mantiver em funções, competindo-lhe, para tanto:
+Art. 3.º - 1 - A Comissão de Reestruturação assegurará a gestão do IROMA enquanto se mantiver em funções, competindo-lhe, para tanto:
 
 a) Submeter à aprovação do Governo os planos de actividades, o projecto de orçamento, o relatório e a conta de gerência do IROMA;
 
@@ -155,19 +169,19 @@ b) Pela assinatura de um membro da Comissão que para tanto tenha recebido, em a
 
 9 - Os actos de mero expediente de que não resultem obrigações para o IROMA podem ser assinados por qualquer membro da Comissão ou pelos funcionários a quem tal poder tenha sido conferido.
 
-###### Art. 4.º Enquanto se mantiver em funções a Comissão de Reestruturação do IROMA, fica suspensa a vigência das normas constantes dos artigos 4.º, alínea a), 5.º e 6.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro.
+Art. 4.º Enquanto se mantiver em funções a Comissão de Reestruturação do IROMA, fica suspensa a vigência das normas constantes dos artigos 4.º, alínea a), 5.º e 6.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro.
 
-###### Art. 5.º Os artigos 3.º, 4.º, 9.º e 10.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro, passam a ter a seguinte redacção:
+Art. 5.º Os artigos 3.º, 4.º, 9.º e 10.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 3.º O IROMA tem como atribuições a gestão das actividades desenvolvidas nos equipamentos e infra-estruturas englobados nas áreas de actuação dos organismos referidos no artigo 12.º, designadamente as que se referem à gestão dos matadouros pertencentes à ex-Junta Nacional dos Produtos Pecuários (JNPP).
+Art. 3.º O IROMA tem como atribuições a gestão das actividades desenvolvidas nos equipamentos e infra-estruturas englobados nas áreas de actuação dos organismos referidos no artigo 12.º, designadamente as que se referem à gestão dos matadouros pertencentes à ex-Junta Nacional dos Produtos Pecuários (JNPP).
 
-###### Art. 4.º São órgãos do IROMA:
+Art. 4.º São órgãos do IROMA:
 
 a) O presidente;
 
 b) A Comissão de Fiscalização.
 
-###### Art. 9.º - 1 - A Comissão de Fiscalização do IROMA é composta por três membros nomeados pelo Ministro das Finanças, um dos quais será obrigatoriamente revisor oficial de contas.
+Art. 9.º - 1 - A Comissão de Fiscalização do IROMA é composta por três membros nomeados pelo Ministro das Finanças, um dos quais será obrigatoriamente revisor oficial de contas.
 
 2 - Os membros da Comissão de Fiscalização têm direito a remuneração idêntica à estabelecida para as comissões de fiscalização das empresas públicas.
 
@@ -179,7 +193,7 @@ a) Exercer uma fiscalização conscienciosa e imparcial;
 
 b) Guardar sigilo dos factos de que tiverem conhecimento no exercício das suas funções ou por causa delas.
 
-###### Art. 10.º Compete à Comissão de Fiscalização:
+Art. 10.º Compete à Comissão de Fiscalização:
 
 a) Acompanhar o funcionamento do IROMA e o cumprimento das leis e regulamentos que lhe são aplicáveis;
 
@@ -191,18 +205,18 @@ d) Emitir parecer sobre qualquer outro assunto que lhe seja submetido pelo presi
 
 e) Participar às entidades competentes as irregularidades que detectar.
 
-###### Art. 6.º As competências do Conselho Administrativo que, pelo presente diploma, não são transferidas para a Comissão de Fiscalização consideram-se atribuídas ao presidente do IROMA.
+Art. 6.º As competências do Conselho Administrativo que, pelo presente diploma, não são transferidas para a Comissão de Fiscalização consideram-se atribuídas ao presidente do IROMA.
 
-###### Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 1 de Fevereiro de 1990.**
+Promulgado em 1 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Fevereiro de 1990.**
+Referendado em 5 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

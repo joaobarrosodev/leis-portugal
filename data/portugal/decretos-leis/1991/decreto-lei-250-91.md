@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/161a00/36193625.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/250/1991/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1991-663908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a2fdb4a4ce512bf9da2833c9e3f0a5ccdc6b94769d2e6a455ce67daf138bee3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb1c590ffb8033cb324c8ddbe60f3947f35ee74e71b373006f85df4ac3076ea2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,86 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Secretaria Geral
 - Ministério da Justiça
 - Orgânica
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:401290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198546:por
+  label: "Transferidas algumas competências, pelo DEC LEI.48/92.1992.04.07.PCM, DR.IS-A [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1992-198546
+  date: '1992-04-07'
+- type: cites
+  target: pt:dre:283362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:485069:por
+  label: "Rectificado pela DECL-RECT.190/91.1991.08.29.SG-PCM, DR.IS-A [200]Supl de 31/Ago/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/190-1991-485069
+  date: '1991-08-29'
+- type: repealed_by
+  target: pt:dre:401290:por
+  label: "Revogado pelo DEC LEI.83/2001.2001.03.09.MJ DR.IS-A [58], mantendo contudo em vigor o quadro de pessoal até à entrada\
+    \ em vigor da portaria prevista no art. 19º daquele diploma, sem prejuízo do disposto no nº 2 do art. 36º do Dec Lei 146/2000\
+    \ de 18-Jul\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2001-401290
+  date: '2001-03-09'
 article_structure:
   article_count: 35
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:37Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +256,9 @@ b) A Repartição de Pessoal e Expediente (RPE);
 
 c) A Repartição Financeira e de Aprovisionamento (RFA).
 
-###### Artigo 7.º — Divisão de Organização e Recursos Humanos
+###### Artigo 7.º
+
+##### Divisão de Organização e Recursos Humanos
 
 Compete à DORH:
 
@@ -221,11 +284,15 @@ a) Secção de Pessoal;
 
 b) Secção de Expediente e Arquivo.
 
-###### Artigo 9.º — Secção de Pessoal
+###### Artigo 9.º
+
+#### Secção de Pessoal
 
 Compete à Secção de Pessoal assegurar a execução de todos os procedimentos administrativos relacionados com o pessoal dos gabinetes dos membros do Governo, da Secretaria-Geral e da Auditoria Jurídica e, bem assim, dos serviços não dotados de estrutura administrativa própria.
 
-###### Artigo 10.º — Secção de Expediente e Arquivo
+###### Artigo 10.º
+
+#### Secção de Expediente e Arquivo
 
 Compete à Secção de Expediente e Arquivo assegurar a recepção, classificação, registo, distribuição e arquivo da documentação referente à Secretaria-Geral, proceder à difusão pelos organismos e serviços do Ministério de normas e instruções genéricas e promover os registos e averbamentos das associações ou institutos religiosos não católicos.
 
@@ -241,7 +308,9 @@ b) Secção de Aprovisionamento e Assuntos Gerais;
 
 c) Secção Financeira de Obras e Aquisições de Imóveis.
 
-###### Artigo 12.º — Secção de Orçamento e Contabilidade
+###### Artigo 12.º
+
+#### Secção de Orçamento e Contabilidade
 
 Compete à Secção de Orçamento e Contabilidade:
 
@@ -251,11 +320,15 @@ b) Apoiar os restantes serviços do Ministério nas mesmas operações, tendo em
 
 c) Promover a elaboração do projecto de orçamento cambial do Ministério e acompanhar a respectiva execução.
 
-###### Artigo 13.º — Secção de Aprovisionamento e Assuntos Gerais
+###### Artigo 13.º
+
+#### Secção de Aprovisionamento e Assuntos Gerais
 
 Compete à Secção de Aprovisionamento e Assuntos Gerais promover, com observância das disposições legais aplicáveis, as medidas relativas às aquisições necessárias ao normal funcionamento dos serviços e administrar os bens de consumo afectos ao funcionamento dos gabinetes dos membros do Governo, da Auditoria Jurídica, da Secretaria-Geral e dos serviços não dotados de estrutura administrativa própria, bem como organizar e manter actualizado o inventário dos bens móveis destinados ao mesmo fim, dispondo sobre a sua afectação e zelando pela sua conservação.
 
-###### Artigo 14.º — Secção Financeira de Obras e Aquisições de Imóveis
+###### Artigo 14.º
+
+#### Secção Financeira de Obras e Aquisições de Imóveis
 
 Compete à Secção Financeira de Obras e Aquisições de Imóveis realizar, relativamente à parte do orçamento destinada às actividades descritas no n.º 1 do artigo 15.º, todas as operações necessárias a uma boa execução orçamental dos respectivos programas e projectos.
 
@@ -285,7 +358,9 @@ f) A Divisão de Projectos (DP).
 
 3 - A DSI presta ainda o apoio técnico que lhe seja solicitado por outros serviços do Ministério.
 
-###### Artigo 16.º — Divisão de Planeamento, Programação e Acompanhamento
+###### Artigo 16.º
+
+##### Divisão de Planeamento, Programação e Acompanhamento
 
 Compete à DPPA:
 
@@ -293,7 +368,9 @@ a) Coordenar a recolha de toda a informação sobre cadastro de instalações de
 
 b) Promover, em articulação com a DSGA, o controlo orçamental dos programas e projectos e respectiva avaliação de execução.
 
-###### Artigo 17.º — Divisão de Estudos
+###### Artigo 17.º
+
+##### Divisão de Estudos
 
 Compete à DE:
 
@@ -303,7 +380,9 @@ b) Elaborar estudos e projectos destinados a aquisição ou arrendamento de inst
 
 c) Manter actualizada a base de dados sobre custos de construção civil.
 
-###### Artigo 18.º — Divisão de Obras
+###### Artigo 18.º
+
+##### Divisão de Obras
 
 Compete à DO:
 
@@ -313,7 +392,9 @@ b) Promover os processos de concurso, proceder à análise das propostas e organ
 
 c) Fiscalizar o desenvolvimento dos trabalhos e elaborar as contas das empreitadas.
 
-###### Artigo 19.º — Divisão de Gestão e Conservação
+###### Artigo 19.º
+
+##### Divisão de Gestão e Conservação
 
 1 - A DGC é um serviço da DSI que assegura, numa base de âmbito regional, e no domínio das obras de conservação e manutenção do património, o exercício das competências a seguir discriminadas:
 
@@ -337,7 +418,9 @@ e) Núcleo de Gestão e Conservação de Construções e Equipamentos das Regiõ
 
 3 - As áreas geográficas de actuação dos Núcleos de Gestão e Conservação serão definidas por despacho do Ministro da Justiça.
 
-###### Artigo 20.º — Divisão de Construção de Empreitadas e Aquisições
+###### Artigo 20.º
+
+##### Divisão de Construção de Empreitadas e Aquisições
 
 1 - Compete à DCEA prestar o apoio técnico nos domínios administrativo, económico e financeiro às restantes divisões da DSI, nomeadamente:
 
@@ -347,7 +430,9 @@ b) Assegurar a prática de todos os actos e formalismos inerentes à celebraçã
 
 2 - O chefe da DCEA serve de oficial público nos contratos a celebrar pela Secretaria-Geral no âmbito da competência da DSI.
 
-###### Artigo 21.º — Divisão de Projectos
+###### Artigo 21.º
+
+##### Divisão de Projectos
 
 Compete à DP:
 
@@ -515,20 +600,20 @@ b) A [Portaria n.º 316/87](https://diariodarepublica.pt/dr/detalhe/portaria/316
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 7 de Junho de 1991.**
+Promulgado em 7 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1991.**
+Referendado em 12 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/161a00/36193625.pdf))](https://files.diariodarepublica.pt/1s/1991/07/161a00/36193625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/161a00/36193625.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/161a00/36193625.pdf))](https://files.diariodarepublica.pt/1s/1991/07/161a00/36193625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/161a00/36193625.pdf)

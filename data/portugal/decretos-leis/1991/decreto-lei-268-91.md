@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/179a00/38783884.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/268/1991/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1991-687812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 208be32b25d01c2aff56d25a94bd4d943809e68f9bbce48dc6c7954efb172938
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aba802f2e040a928ebce532794adf37082f55963f594329d1386a59fbf2751a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carta de Condução
-- Exame de Condução
 - Código da Estrada
+- Exame de Condução
 - Veículo
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:596890:por
+  label: "Alterados os arts. 47.º, 48.º e 53.º do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954, na redacção\
+    \ do presente diploma, pelo DEC LEI.270/92.30.11.1992.MAI, DR.IS-A [277] de 30.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1992-596890
+  date: '1992-11-30'
 - type: cites
   target: celex:31980L1263
   label: null
   source: http://data.europa.eu/eli/dir/1980/1263/oj
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:02Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +120,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 46.º a 49.º, 51.º a 53.º, 55.º e 61.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39672, de 20 de Maio de 1954, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 46.º a 49.º, 51.º a 53.º, 55.º e 61.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39672, de 20 de Maio de 1954, passam a ter a seguinte redacção:
 
 ###### Artigo 46.º — Habilitação legal para conduzir
 
@@ -377,7 +388,7 @@ c) ...
 
 5 - (Anterior n.º 6.)
 
-###### Art. 2.º - 1 - Os titulares dos boletins a que se referem o artigo 16.º do Decreto-Lei n.º 22804, de 6 de Julho de 1933, o artigo 3.º do Decreto-Lei n.º 44882, de 14 de Fevereiro de 1963, o artigo 4.º do Decreto-Lei n.º 44949, de 30 de Março de 1963, e o artigo 3.º do Decreto-Lei n.º 46203, de 26 de Fevereiro de 1965, ainda que tenham deixado a efectividade do serviço, podem, no período de um ano a seguir à entrada em vigor do presente diploma, requerer, na direcção de serviços ou divisão de viação da área da sua residência, a emissão da carta de condução a que se refere o n.º 1 do artigo 47.º, a qual será gratuita.
+Art. 2.º - 1 - Os titulares dos boletins a que se referem o artigo 16.º do Decreto-Lei n.º 22804, de 6 de Julho de 1933, o artigo 3.º do Decreto-Lei n.º 44882, de 14 de Fevereiro de 1963, o artigo 4.º do Decreto-Lei n.º 44949, de 30 de Março de 1963, e o artigo 3.º do Decreto-Lei n.º 46203, de 26 de Fevereiro de 1965, ainda que tenham deixado a efectividade do serviço, podem, no período de um ano a seguir à entrada em vigor do presente diploma, requerer, na direcção de serviços ou divisão de viação da área da sua residência, a emissão da carta de condução a que se refere o n.º 1 do artigo 47.º, a qual será gratuita.
 
 2 - Os titulares dos boletins referidos no número anterior que à data da entrada em vigor do presente diploma se encontrem no cumprimento de missões militares no estrangeiro podem requerer a emissão da carta de condução no período de um ano, contado da data do seu regresso a Portugal.
 
@@ -387,22 +398,22 @@ c) ...
 
 5 - A infracção ao disposto no número anterior é punida com multa de 25000$00 a 125000$00.
 
-###### Art. 3.º Enquanto não existirem as subcategorias a que se refere o n.º 3 do artigo 47.º do Código da Estrada, é de 18 anos a idade mínima para habilitação à condução de veículos da categoria A.
+Art. 3.º Enquanto não existirem as subcategorias a que se refere o n.º 3 do artigo 47.º do Código da Estrada, é de 18 anos a idade mínima para habilitação à condução de veículos da categoria A.
 
-###### Art. 4.º São revogadas as alíneas g) e h) do primeiro parágrafo e os segundo, terceiro e quinto parágrafos do n.º 1 do artigo 46.º do Código da Estrada.
+Art. 4.º São revogadas as alíneas g) e h) do primeiro parágrafo e os segundo, terceiro e quinto parágrafos do n.º 1 do artigo 46.º do Código da Estrada.
 
-###### Art. 5.º Os exames de condução referidos nos artigos 51.º e 52.º do Código da Estrada poderão também ser efectuados nos centros de instrução e exame das Forças Armadas e de segurança.
+Art. 5.º Os exames de condução referidos nos artigos 51.º e 52.º do Código da Estrada poderão também ser efectuados nos centros de instrução e exame das Forças Armadas e de segurança.
 
-###### Art. 6.º O presente diploma entra em vigor 60 dias após a sua publicação.
+Art. 6.º O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho.
 
-**Promulgado em 19 de Junho de 1991.**
+Promulgado em 19 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1991.**
+Referendado em 22 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

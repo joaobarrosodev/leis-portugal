@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/270/1991/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1991-681579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f507e3d7f3563d7b8e469f15e40b19d19ba9a1b391330a7ba2824ac78995da0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d8f0768645b5af6df78f1531a9a86fd155b523f8e2e118d45e068d1e3ef939e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Médico
 - Carreira Médica
 - GNR
+- Médico
+- PSP
 - Remuneração
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:07Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +112,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 4.º e 5.º do [Decreto-Lei n.º 313/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1987-418190), de 20 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 4.º e 5.º do [Decreto-Lei n.º 313/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1987-418190), de 20 de Agosto, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - As remunerações dos médicos com os graus de generalista e consultor contratados pela Guarda Nacional Republicana (GNR) e pela Polícia de Segurança Pública (PSP), quando em regime de tempo completo, correspondem a 0,66 dos valores fixados para as correspondentes categorias, respectivamente, dos quadros I e II anexos ao presente diploma, do qual fazem parte integrante, com arredondamento para a centena de escudos imediatamente superior.
+Artigo 1.º - 1 - As remunerações dos médicos com os graus de generalista e consultor contratados pela Guarda Nacional Republicana (GNR) e pela Polícia de Segurança Pública (PSP), quando em regime de tempo completo, correspondem a 0,66 dos valores fixados para as correspondentes categorias, respectivamente, dos quadros I e II anexos ao presente diploma, do qual fazem parte integrante, com arredondamento para a centena de escudos imediatamente superior.
 
 2 - O valor do índice 100 das tabelas constantes dos mapas I e II a que se refere o número anterior é igual ao valor do índice 100 que se encontrar estabelecido para as carreiras médicas, nos termos do n.º 1 do artigo 11.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, sendo a respectiva actualização automática.
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - Ao regime de tempo completo correspondem, por semana, trinta e cinco horas de trabalho.
 
@@ -110,35 +126,35 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - ...
 
-###### Art. 4.º - 1 - Os médicos a que se refere o presente diploma são contratados com observância do disposto na legislação aplicável às carreiras médicas.
+Art. 4.º - 1 - Os médicos a que se refere o presente diploma são contratados com observância do disposto na legislação aplicável às carreiras médicas.
 
 2 - Os médicos-chefes da PSP são contratados de entre médicos com o grau de consultor ou de entre assistentes com pelo menos cinco anos de antiguidade na categoria.
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - O provimento dos médicos pode ser efectuado por contrato administrativo de provimento, com observância do disposto na lei geral.
 
 3 - ...
 
-###### Art. 2.º Aos médicos providos nos lugares criados pelo [Decreto-Lei n.º 396/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1989-550008), de 10 de Novembro, é aplicável o regime constante do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, e legislação complementar.
+Art. 2.º Aos médicos providos nos lugares criados pelo [Decreto-Lei n.º 396/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1989-550008), de 10 de Novembro, é aplicável o regime constante do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, e legislação complementar.
 
-###### Art. 3.º À integração nos novos escalões de remuneração é aplicável, com as necessárias adaptações, o disposto nos artigos 51.º e 58.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, e legislação complementar.
+Art. 3.º À integração nos novos escalões de remuneração é aplicável, com as necessárias adaptações, o disposto nos artigos 51.º e 58.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, e legislação complementar.
 
-###### Art. 4.º - 1 - O presente diploma produz efeitos nos termos do estatuído no artigo 63.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março.
+Art. 4.º - 1 - O presente diploma produz efeitos nos termos do estatuído no artigo 63.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março.
 
 2 - Os novos horários de trabalho produzem efeitos a partir da data de entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Arlindo Gomes de Carvalho.
 
-**Promulgado em 4 de Julho de 1991.**
+Promulgado em 4 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Julho de 1991.**
+Referendado em 8 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Anexos a que se refere o n.º 1 do artigo 1.º do [Decreto-Lei n.º 313/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1987-418190), de 20 de Agosto, com a redacção dada pelo Decreto-Lei n.º 270/91, de 7 de Agosto.
 
@@ -146,10 +162,10 @@ QUADRO I
 
 GNR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/180a00/39083909.pdf))](https://files.diariodarepublica.pt/1s/1991/08/180a00/39083909.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/180a00/39083909.pdf)
 
 QUADRO II
 
 PSP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/180a00/39083909.pdf))](https://files.diariodarepublica.pt/1s/1991/08/180a00/39083909.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/180a00/39083909.pdf)

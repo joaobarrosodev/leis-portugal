@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/011a00/02090209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/1991/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1991-496280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce192d45d52b6698b74c33b6900952d1296aeb5d1f26ada3551813f5ec49ac4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8588692dc11248e88a27b9a1cb7614611620f7fd7f533014ed3fd5acf3640f25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,24 +70,38 @@ subjects:
 - Adjudicação de Obras Públicas
 - Ajuste Direto
 - Algarve
+- Ministro das Obras Públicas Transportes e Comunicações
 - Obras Públicas
 - Portos
-- Ministro das Obras Públicas Transportes e Comunicações
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:218893:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:242045:por
+  label: "Rectificado o artigo 3.º pela DECL-RECT.3/91.31.01.1991.PCM, DR.IS-A [26]Supl de 31.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/3-1991-242045
+  date: '1991-01-31'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:47Z'
   warnings: []
   errors: []
 ---
@@ -104,20 +118,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Fica o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, autorizado, a título excepcional, a adjudicar todas as obras necessárias à reparação do molhe de abrigo da Baleeira, bem como as de defesa de emergência na ilha de Faro e na Praia da Vagueira (Vagos), por ajuste directo, com dispensa de concurso, e até ao limite máximo de 350000 contos.
+Artigo 1.º Fica o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, autorizado, a título excepcional, a adjudicar todas as obras necessárias à reparação do molhe de abrigo da Baleeira, bem como as de defesa de emergência na ilha de Faro e na Praia da Vagueira (Vagos), por ajuste directo, com dispensa de concurso, e até ao limite máximo de 350000 contos.
 
-###### Art. 2.º A execução dos trabalhos fica sujeita ao disposto no [Decreto-Lei n.º 235/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1986-218893), de 18 de Agosto.
+Art. 2.º A execução dos trabalhos fica sujeita ao disposto no [Decreto-Lei n.º 235/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1986-218893), de 18 de Agosto.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 31 de Dezembro de 1990.**
+Promulgado em 31 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Janeiro de 1991.**
+Referendado em 7 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

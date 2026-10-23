@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/085a00/20062007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/1991/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1991-615858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74134e31337cd28faec24eda8f4ca761180b2c29092c56f99d9c17f5799774dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6d02c2c6af1ac29f514b1e619f6486ed1668408870d3e07ca23f25be3e77418
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa de Navegação
-- Associação dos Agentes de Navegação
-- Sociedade Comercial
 - Agente de Navegação
+- Associação dos Agentes de Navegação
+- Empresa de Navegação
 - Licenciamento
 - Regime Jurídico
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:190190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:612839:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:190190:por
+  label: "Revogado a partir de 19.01.2013 o Dec Lei 76/89, de 03-Mar, na redação do presente diploma, pelo DEC LEI.264/2012.20.12.2012.MEE,\
+    \ DR.IS [246] de 20.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-2012-190190
+  date: '2012-12-20'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:21Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +116,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 4.º, 8.º, 10.º, 14.º e 15.º do [Decreto-Lei n.º 76/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1989-612839), de 3 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 4.º, 8.º, 10.º, 14.º e 15.º do [Decreto-Lei n.º 76/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1989-612839), de 3 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -114,7 +124,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - As actividades referidas no n.º 1 podem ser exercidas directamente pelos armadores inscritos na Direcção-Geral da Navegação e dos Transportes marítimos no porto onde está instalada a sua sede social e em relação aos navios por si explorados.
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 a) ...
 
@@ -128,7 +138,7 @@ c) ...
 
 4 - ...
 
-###### Art. 8.º - 1 - A licença para o exercício da actividade num determinado porto é cancelada:
+Art. 8.º - 1 - A licença para o exercício da actividade num determinado porto é cancelada:
 
 a) Quando o titular deixe de reunir os requisitos que determinam o licenciamento ou não cumpra o disposto nos n.os 2 e 3 do artigo 16.º;
 
@@ -140,30 +150,30 @@ c) Quando o titular não cumprir os deveres estabelecidos nas alíneas h) a j) d
 
 3 - O cancelamento da inscrição na Direcção-Geral da Navegação e dos Transportes Marítimos determina automaticamente a caducidade de todas as licenças para o exercício da actividade.
 
-###### Art. 10.º - 1 - O agente de navegação responde, perante a autoridade portuária, por tarifas e demais encargos relativamente a serviços prestados ao navio.
+Art. 10.º - 1 - O agente de navegação responde, perante a autoridade portuária, por tarifas e demais encargos relativamente a serviços prestados ao navio.
 
 2 - Aos danos produzidos pelo navio em infra-estruturas e equipamentos é aplicável a legislação nacional, designadamente a que introduz em direito interno a legislação internacional sobre a matéria.
 
-###### Art. 14.º - 1 - ...
+Art. 14.º - 1 - ...
 
 2 - A concessão das licenças previstas no artigo 6.º, bem como o cancelamento das mesmas, devem ser comunicadas à Direcção-Geral da Navegação e dos Transportes Marítimos pelas autoridades portuárias.
 
-###### Art. 15.º - 1 - O Ministro responsável pelo sector portuário poderá fixar tabelas de tarifas máximas a aplicar pelos agentes de navegação, tendo em conta a proposta apresentada pela associação respectiva e o parecer que sobre a mesma for emitido pela autoridade portuária.
+Art. 15.º - 1 - O Ministro responsável pelo sector portuário poderá fixar tabelas de tarifas máximas a aplicar pelos agentes de navegação, tendo em conta a proposta apresentada pela associação respectiva e o parecer que sobre a mesma for emitido pela autoridade portuária.
 
 2 - Compete à autoridade portuária desencadear o processo de fixação de tarifas máximas referido no número anterior, devendo para o efeito solicitar à Associação dos Agentes de Navegação a apresentação de uma proposta.
 
 3 - No caso de a Associação dos Agentes de Navegação não apresentar proposta nos termos do número anterior, o membro do Governo referido no n.º 1 poderá fixar a referida tabela mediante proposta elaborada pela autoridade portuária.
 
-###### Art. 2.º Todas as referências feitas pelo [Decreto-Lei n.º 76/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1989-612839), de 3 de Março, à Direcção-Geral da Marinha de Comércio consideram-se feitas à Direcção-Geral da Navegação e dos Transportes Marítimos.
+Art. 2.º Todas as referências feitas pelo [Decreto-Lei n.º 76/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1989-612839), de 3 de Março, à Direcção-Geral da Marinha de Comércio consideram-se feitas à Direcção-Geral da Navegação e dos Transportes Marítimos.
 
 Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - José Manuel Cardoso Borges Soeiro - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 1 de Abril de 1991.**
+Promulgado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Abril de 1991.**
+Referendado em 2 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

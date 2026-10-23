@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/180a00/39253926.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/275/1991/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1991-681595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bad3558955780ac623fef745491014556e41e5c2b87448489774deff24982241
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73556391245081ebef426af8f8ca5c44743511cb5c2610a081d598fe4298087f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Delegação Regional
 - Direcção Geral de Higiene e Segurança do Trabalho
 - Direcção Geral dos Cuidados de Saúde Primários
-- Segurança no Trabalho
 - Fiscalização
-- Ministério da Indústria e Energia
 - Inspecção Geral do Trabalho
+- Ministério da Indústria e Energia
+- Produto Químico
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:543690:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345124:por
+  label: "Alterado o art. 7.º pela LEI.113/99.1999.08.03.AR DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/113-1999-345124
+  date: '1999-08-03'
 - type: cites
   target: celex:31988L0364
   label: null
   source: http://data.europa.eu/eli/dir/1988/364/oj
+- type: repealed_by
+  target: pt:dre:543690:por
+  label: "Revogado a partir de 01.03.2012, na redação da Lei 113/99, de 03-ago, pelo DEC LEI.24/2012.06.02.2012.MEE, DR.IS\
+    \ [26] de 06.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2012-543690
+  date: '2012-02-06'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:12Z'
   warnings: []
   errors: []
 ---
@@ -227,12 +238,12 @@ O presente diploma aplica-se nas Regiões Autónomas com as adaptações decorre
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 5 de Julho de 1991.**
+Promulgado em 5 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Julho de 1991.**
+Referendado em 10 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

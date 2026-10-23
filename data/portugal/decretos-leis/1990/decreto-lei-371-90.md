@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1990-564811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b201a18ac4256d89c2c77376ea57d43cadc7ecbc7f899230ec5aa5fa4c1672ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7f6c1e115a2543d7f5fa431b73b11bd7c1c5e6c1e54834d9b50e4604eb333e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desporto
+- Espetáculos e Divertimentos Públicos
+- Fundo de Fomento do Desporto
+- Preço
+- Segurança Pública
+- TAXA Adicional
+- Totobola
+- Totoloto
 relationships:
 - type: amended_by
   target: pt:dre:170794638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:220896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619283:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:217703:por
+  label: "Revogados os artigos 1.º, 2.º e 6.º pelo DEC LEI.238/92.29.10.1992.MAI, DR.IS-A [250] de 29.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-1992-217703
+  date: '1992-10-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:00Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +137,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Com a finalidade de custear as despesas com a segurança nos espectáculos desportivos, cabe às federações estabelecer um adicional sobre o preço dos bilhetes de ingresso, cujo produto final deve corresponder à aplicação de uma taxa de 7% sobre o total de bilhetes vendidos em cada época.
+Artigo 1.º - 1 - Com a finalidade de custear as despesas com a segurança nos espectáculos desportivos, cabe às federações estabelecer um adicional sobre o preço dos bilhetes de ingresso, cujo produto final deve corresponder à aplicação de uma taxa de 7% sobre o total de bilhetes vendidos em cada época.
 
 2 - O produto do adicional acresce às receitas de exploração do totoloto previstas na alínea j) do n.º 4 do artigo 16.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, na redacção que lhe foi dada pelo [Decreto-Lei n.º 387/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896), de 17 de Novembro.
 
-###### Art. 2.º As receitas referidas no artigo anterior, bem como as previstas no [Decreto-Lei n.º 270/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1989-619283), de 18 de Agosto, ficam afectas à comparticipação nas despesas de policiamento dos espectáculos desportivos, de acordo com o critério a estabelecer pelo conselho técnico previsto na [Portaria n.º 855/87](https://diariodarepublica.pt/dr/detalhe/portaria/855-1987-497578), de 5 de Novembro, nos termos de portaria a aprovar pelos Ministros da Educação e da Administração Interna.
+Art. 2.º As receitas referidas no artigo anterior, bem como as previstas no [Decreto-Lei n.º 270/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1989-619283), de 18 de Agosto, ficam afectas à comparticipação nas despesas de policiamento dos espectáculos desportivos, de acordo com o critério a estabelecer pelo conselho técnico previsto na [Portaria n.º 855/87](https://diariodarepublica.pt/dr/detalhe/portaria/855-1987-497578), de 5 de Novembro, nos termos de portaria a aprovar pelos Ministros da Educação e da Administração Interna.
 
-###### Art. 3.º O artigo 16.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, com a forma que lhe foi dada pelo artigo 3.º do [Decreto-Lei n.º 387/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896), de 17 de Novembro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 16.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, com a forma que lhe foi dada pelo artigo 3.º do [Decreto-Lei n.º 387/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896), de 17 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 2 - ...
 
@@ -130,9 +167,9 @@ g) ...
 
 4 - ...
 
-###### Art. 4.º O artigo 17.º-A do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, com a forma que lhe foi dada pelo artigo 3.º do [Decreto-Lei n.º 285/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1988-376843), de 12 de Agosto, passa a ter a seguinte redacção:
+Art. 4.º O artigo 17.º-A do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, com a forma que lhe foi dada pelo artigo 3.º do [Decreto-Lei n.º 285/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1988-376843), de 12 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 17.º-A - 1 - O montante previsto na alínea a) do n.º 3 do artigo 16.º será entregue ao Fundo de Fomento do Desporto, que o transferirá para a federação desportiva de futebol que for titular do estatuto de utilidade pública desportiva ou, enquanto este não estiver regulamentado, do estatuto de mera utilidade pública.
+Art. 17.º-A - 1 - O montante previsto na alínea a) do n.º 3 do artigo 16.º será entregue ao Fundo de Fomento do Desporto, que o transferirá para a federação desportiva de futebol que for titular do estatuto de utilidade pública desportiva ou, enquanto este não estiver regulamentado, do estatuto de mera utilidade pública.
 
 2 - As verbas referidas no número anterior serão repartidas da seguinte forma:
 
@@ -154,22 +191,22 @@ e) 20% para a federação de futebol referida no número anterior.
 
 6 - ...
 
-###### Art. 5.º As referências feitas no artigo 17.º-B do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, com a redacção que lhe foi dada pelo artigo 5.º do [Decreto-Lei n.º 387/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896), de 17 de Novembro, às três divisões nacionais entender-se-ão feitas às quatro divisões nacionais.
+Art. 5.º As referências feitas no artigo 17.º-B do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, com a redacção que lhe foi dada pelo artigo 5.º do [Decreto-Lei n.º 387/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896), de 17 de Novembro, às três divisões nacionais entender-se-ão feitas às quatro divisões nacionais.
 
-###### Art. 6.º O artigo 17.º-C do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, com a forma que lhe foi dada pelo artigo 5.º do [Decreto-Lei n.º 387/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896), de 17 de Novembro, passa a ter a seguinte redacção:
+Art. 6.º O artigo 17.º-C do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, com a forma que lhe foi dada pelo artigo 5.º do [Decreto-Lei n.º 387/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896), de 17 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 17.º-C - 1 - ...
+Art. 17.º-C - 1 - ...
 
 2 - O montante referido no número anterior é atribuído ao Fundo de Fomento do Desporto, que procederá à sua gestão e repartição pelas federações de acordo com o critério a definir pelo conselho técnico previsto na [Portaria n.º 855/87](https://diariodarepublica.pt/dr/detalhe/portaria/855-1987-497578), de 5 de Novembro, dentro dos limites da verba disponível, nos termos de portaria a aprovar pelos Ministros da Educação e da Administração Interna.
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 1990. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 12 de Outubro de 1990.**
+Promulgado em 12 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Novembro de 1990.**
+Referendado em 14 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

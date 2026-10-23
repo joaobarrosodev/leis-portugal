@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/113/1991/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1991-476154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eac2c7359c15e438a651ba4e3c898e0884767c0d5db2917a4b83681a9765fa8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13a4ae157100f9eb0865bf2768b42140ba12c2677690c6c1fbef4270174efd3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Privatização
 - Siderurgia Nacional
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:228623:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228623:por
+  label: "Dissolvida a SIDERURGIA NACIONAL, SGPS, S.A., com efeitos reportados a 30.11.1996, pelo Dec Lei.232-A/96.1996.12.06.MF,\
+    \ DR.IS-A [282]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-a-1996-228623
+  date: '1996-12-06'
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497869:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:31Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +121,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A empresa pública Siderurgia Nacional, E. P., criada pelo [Decreto-Lei n.º 853/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/853-1976-407726), de 18 de Dezembro, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se Siderurgia Nacional, S. A.
+Artigo 1.º - 1 - A empresa pública Siderurgia Nacional, E. P., criada pelo [Decreto-Lei n.º 853/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/853-1976-407726), de 18 de Dezembro, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se Siderurgia Nacional, S. A.
 
 2 - A Siderurgia Nacional, S. A., rege-se pelo presente diploma, pelos seus estatutos e pelas normas de direito privado aplicáveis às sociedades anónimas.
 
-###### Art. 2.º - 1 - A Siderurgia Nacional, S. A., sucede automática e globalmente à Siderurgia Nacional, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+Art. 2.º - 1 - A Siderurgia Nacional, S. A., sucede automática e globalmente à Siderurgia Nacional, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação do disposto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Siderurgia Nacional, S. A.
 
-###### Art. 3.º - 1 - A Siderurgia Nacional, S. A., tem inicialmente um capital social de 23750000000$00, que se encontra integralmente realizado pelo Estado à data de entrada em vigor do presente diploma.
+Art. 3.º - 1 - A Siderurgia Nacional, S. A., tem inicialmente um capital social de 23750000000$00, que se encontra integralmente realizado pelo Estado à data de entrada em vigor do presente diploma.
 
 2 - Após a cisão prevista no artigo 9.º, o capital social da Siderurgia Nacional, S. A., será reduzido para 23500000000$00.
 
@@ -119,9 +137,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os direitos do Estado, como accionista da sociedade, são exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e da Indústria e Energia, salvo quando a gestão das acções tenha sido cometida a outra entidade, nos termos do número anterior.
 
-###### Art. 4.º A Siderurgia Nacional, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 4.º A Siderurgia Nacional, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -129,7 +147,7 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente aos Ministros das Finanças e da Indústria e Energia um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 6.º - 1 - Os trabalhadores e pensionistas da Siderurgia Nacional, E. P., mantêm perante a Siderurgia Nacional, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
+Art. 6.º - 1 - Os trabalhadores e pensionistas da Siderurgia Nacional, E. P., mantêm perante a Siderurgia Nacional, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
 
 2 - Os trabalhadores da Siderurgia Nacional, S. A., que forem transferidos para a nova sociedade resultante da cisão referida no artigo 9.º manterão perante esta os direitos e obrigações de que eram titulares face à Siderurgia Nacional, S. A.
 
@@ -137,61 +155,61 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 4 - A situação dos trabalhadores da Siderurgia Nacional, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou o tempo da requisição.
 
-###### Art. 7.º - 1 - Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a Siderurgia Nacional, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
+Art. 7.º - 1 - Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a Siderurgia Nacional, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
 
 2 - A sociedade resultante da cisão responde pelas dívidas da Siderurgia Nacional, S. A., proporcionalmente à percentagem de capital destacado para a sua constituição.
 
-###### Art. 8.º - 1 - São aprovados os estatutos da Siderurgia Nacional, S. A., que constituem o anexo I a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
+Art. 8.º - 1 - São aprovados os estatutos da Siderurgia Nacional, S. A., que constituem o anexo I a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
 2 - As futuras alterações aos estatutos far-se-ão nos termos da lei comercial.
 
-###### Art. 9.º - 1 - A Siderurgia Nacional, S. A., procederá, por meio de cisão simples, à formação de uma nova sociedade anónima, denominada URBINDÚSTRIA - Empresa de Urbanização e Infraestruturação de Imóveis, S. A., abreviadamente designada por URBINDÚSTRIA, S. A., com os estatutos constantes do anexo II ao presente diploma e com o capital social de 250000000$00.
+Art. 9.º - 1 - A Siderurgia Nacional, S. A., procederá, por meio de cisão simples, à formação de uma nova sociedade anónima, denominada URBINDÚSTRIA - Empresa de Urbanização e Infraestruturação de Imóveis, S. A., abreviadamente designada por URBINDÚSTRIA, S. A., com os estatutos constantes do anexo II ao presente diploma e com o capital social de 250000000$00.
 
 2 - Para efeitos do disposto no número anterior, o património a destacar é o que consta do anexo III ao presente diploma.
 
-###### Art. 10.º Não é aplicável ao Estado, relativamente à Siderurgia Nacional, S. A., nem a esta, relativamente à sociedade resultante da cisão, o disposto nos artigos 83.º, 84.º e 501.º a 504.º do Código das Sociedades Comerciais.
+Art. 10.º Não é aplicável ao Estado, relativamente à Siderurgia Nacional, S. A., nem a esta, relativamente à sociedade resultante da cisão, o disposto nos artigos 83.º, 84.º e 501.º a 504.º do Código das Sociedades Comerciais.
 
-###### Art. 11.º - 1 - A cisão e a constituição da nova sociedade serão documentadas apenas pela acta da respectiva deliberação, a qual constitui título suficiente para os necessários registos.
+Art. 11.º - 1 - A cisão e a constituição da nova sociedade serão documentadas apenas pela acta da respectiva deliberação, a qual constitui título suficiente para os necessários registos.
 
 2 - São isentos de taxas e emolumentos devidos ao Registo Nacional de Pessoas Colectivas e às conservatórias do registo predial ou comercial todos os actos a praticar em execução do disposto no presente diploma, incluindo registo das nomeações dos primeiros membros designados para os órãos de administração e de fiscalização da Siderurgia Nacional, S. A., bem como da sociedade resultante da cisão.
 
-###### Art. 12.º - 1 - É por esta forma convocada a assembleia geral da Siderurgia Nacional, S. A., a qual deve reunir na sede da sociedade até ao 30.º dia posterior à data da entrada em vigor do presente diploma, com o objectivo de eleger os titulares dos órgãos sociais e de proceder à cisão determinada pelo artigo 9.º
+Art. 12.º - 1 - É por esta forma convocada a assembleia geral da Siderurgia Nacional, S. A., a qual deve reunir na sede da sociedade até ao 30.º dia posterior à data da entrada em vigor do presente diploma, com o objectivo de eleger os titulares dos órgãos sociais e de proceder à cisão determinada pelo artigo 9.º
 
 2 - Os membros em exercício do conselho de gerência e da comissão de fiscalização da Siderurgia Nacional, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da Siderurgia Nacional, S. A., com as competências fixadas nos estatutos para os conselhos de administração e fiscal, respectivamente.
 
-###### Art. 13.º A alienação das acções da Siderurgia Nacional, S. A., bem como da sociedade resultante da cisão referida no artigo 9.º, quando o Estado entenda conveniente e oportuno, será regulada nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei específico.
+Art. 13.º A alienação das acções da Siderurgia Nacional, S. A., bem como da sociedade resultante da cisão referida no artigo 9.º, quando o Estado entenda conveniente e oportuno, será regulada nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei específico.
 
 Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral.
 
-**Promulgado em 4 de Março de 1991.**
+Promulgado em 4 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Março de 1991.**
+Referendado em 6 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Estatutos da Siderurgia Nacional, S. A.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação social de Siderurgia Nacional, S. A.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação social de Siderurgia Nacional, S. A.
 
-###### Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Rua de Braamcamp, 7.
+Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Rua de Braamcamp, 7.
 
 2 - Por deliberação do conselho de administração a sociedade pode criar e extinguir sucursais, agências, delegações ou outras formas de representação, no território nacional ou no estrangeiro.
 
 3 - A mudança de sede, dentro do Município de Lisboa ou para municípios limítrofes, pode ser feita por simples deliberação do conselho de administração.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto a exploração da indústria siderúrgica, bem como o exercício de todas as actividades comerciais e industriais com ela conexas.
+Art. 3.º - 1 - A sociedade tem por objecto a exploração da indústria siderúrgica, bem como o exercício de todas as actividades comerciais e industriais com ela conexas.
 
 2 - A sociedade pode participar em sociedades de qualquer natureza e objectivo, associações, agrupamentos complementares de empresas ou agrupamentos europeus de interesse económico.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 23750000000$00 e encontra-se integralmente realizado.
+Art. 4.º - 1 - O capital social é de 23750000000$00 e encontra-se integralmente realizado.
 
 2 - O capital social é representado por 23750000 acções, do valor nominal de 1000$00 cada uma, inicialmente nominativas, mas passíveis de conversão em acções ao portador, registadas ou não.
 
@@ -201,13 +219,13 @@ Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 1991. - Aníbal Ant
 
 5 - O custo das operações de registo das transmissões, desdobramentos, conversões ou outras relativas aos títulos representativos das acções é suportado pelos interessados, segundo critérios a fixar pela assembleia geral.
 
-###### Art. 5.º - 1 - A sociedade pode emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
+Art. 5.º - 1 - A sociedade pode emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
 
 2 - A sociedade pode emitir acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 6.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 6.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O presidente do conselho de administração é designado pela assembleia geral que eleger o mesmo conselho.
 
@@ -217,7 +235,7 @@ Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 1991. - Aníbal Ant
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 7.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
+Art. 7.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
 
 2 - A cada 100 acções corresponde 1 voto.
 
@@ -237,7 +255,7 @@ Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 1991. - Aníbal Ant
 
 10 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e podem participar nos seus trabalhos, não tendo, nessa qualidade, direito a voto.
 
-###### Art. 8.º - 1 - Compete à assembleia geral:
+Art. 8.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -257,19 +275,19 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 3 - As votações podem ser efectuadas nominalmente ou por sinais convencionais, conforme seja decidido pelo presidente.
 
-###### Art. 9.º A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída ainda por um vice-presidente e um secretário, eleitos pela assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
+Art. 9.º A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída ainda por um vice-presidente e um secretário, eleitos pela assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
 
-###### Art. 10.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
+Art. 10.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
 
 2 - Para efeitos das alíneas b) e c) do n.º 1 do artigo 8.º, a assembleia geral só pode reunir, em primeira convocatória, encontrando-se presentes ou representados accionistas que representem, pelo menos, 51% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 11.º - 1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais.
+Art. 11.º - 1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais.
 
 2 - As vagas ou impedimentos que ocorram no conselho de administração são preenchidos por nomeação do próprio conselho, nos termos da alínea b) do n.º 1 do artigo 393.º do Código das Sociedades Comerciais.
 
-###### Art. 12.º - 1 - Ao conselho de administração compete:
+Art. 12.º - 1 - Ao conselho de administração compete:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -285,7 +303,7 @@ f) Exercer as demais competências que lhe sejam atribuídas por lei ou pela ass
 
 2 - O conselho de administração, quando composto por cinco membros, pode delegar numa comissão executiva, constituída por três administradores, incluindo o presidente, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -299,7 +317,7 @@ e) Presidir à comissão executiva, quando criada, nos termos do n.º 2 do artig
 
 2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 14.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reúne-se extraordinariamente sempre que seja convocado pelo respectivo presidente, por sua iniciativa ou de dois administradores.
+Art. 14.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reúne-se extraordinariamente sempre que seja convocado pelo respectivo presidente, por sua iniciativa ou de dois administradores.
 
 2 - O conselho de administração só pode funcionar estando presente ou representada a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos votos expressos.
 
@@ -309,7 +327,7 @@ e) Presidir à comissão executiva, quando criada, nos termos do n.º 2 do artig
 
 5 - As deliberações do conselho de administração constarão sempre de acta, que consignará os votos de vencido.
 
-###### Art. 15.º - 1 - A sociedade obriga-se:
+Art. 15.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração que devem integrar a comissão executiva, quando exista;
 
@@ -323,13 +341,13 @@ c) Pela assinatura de mandatário constituído, no âmbito dos poderes que lhe f
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 16.º - 1 - A fiscalização da sociedade compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente.
+Art. 16.º - 1 - A fiscalização da sociedade compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente.
 
 2 - Um dos vogais efectivos e o suplente são revisores oficiais de contas ou sociedade de revisores de contas.
 
 3 - O conselho fiscal pode ser coadjuvado por técnicos especialmente contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 17.º Ao conselho fiscal compete, em especial:
+Art. 17.º Ao conselho fiscal compete, em especial:
 
 a) Examinar, sempre que julgue conveniente e pelo menos uma vez por mês, a escrituração da sociedade;
 
@@ -343,11 +361,11 @@ e) Emitir parecer sobre o orçamento, o balanço, o inventário e as contas anua
 
 f) Chamar a atenção do conselho de administração para qualquer assunto que deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão.
 
-###### Art. 18.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, tendo o presidente voto de qualidade.
+Art. 18.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, tendo o presidente voto de qualidade.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 19.º Os resultados positivos do exercício, devidamente aprovados, têm a seguinte aplicação:
+Art. 19.º Os resultados positivos do exercício, devidamente aprovados, têm a seguinte aplicação:
 
 a) 5%, pelo menos, para a reserva legal, até atingir o montante legal exigível;
 
@@ -359,52 +377,52 @@ d) O restante conforme for deliberado pela assembleia geral.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 20.º Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 20.º Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
 
-###### Art. 21.º - 1 - Para as situações não reguladas nestes estatutos, devem ser observadas as disposições gerais de direito aplicáveis a sociedades anónimas e as especiais que vigorarem para as sociedades cujo capital público e sua alienação estejam sujeitas a regras imperativas.
+Art. 21.º - 1 - Para as situações não reguladas nestes estatutos, devem ser observadas as disposições gerais de direito aplicáveis a sociedades anónimas e as especiais que vigorarem para as sociedades cujo capital público e sua alienação estejam sujeitas a regras imperativas.
 
 2 - As eventuais alterações aos estatutos produzirão todos os seus efeitos desde que deliberadas segundo o seu regime e com observância das disposições aplicáveis da lei comercial e do diploma que aprova estes estatutos, sendo bastante a sua redução a escritura pública e subsequente registo.
 
-###### Art. 22.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
+Art. 22.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO II — Estatutos da URBINDÚSTRIA - Sociedade de Urbanização e Infraestruturação de Imóveis, S. A.
 
-###### Artigo 1.º Por cisão da Siderurgia Nacional, S. A., determinada pelo artigo 9.º do Decreto-Lei n.º 113/91, de 20 de Março, e deliberada no dia ..., conforme consta da respectiva acta, é constituída a sociedade anónima URBINDÚSTRIA, S. A., que se rege pelos presentes estatutos e pela legislação geral ou especial que lhe seja aplicável.
+Artigo 1.º Por cisão da Siderurgia Nacional, S. A., determinada pelo artigo 9.º do Decreto-Lei n.º 113/91, de 20 de Março, e deliberada no dia ..., conforme consta da respectiva acta, é constituída a sociedade anónima URBINDÚSTRIA, S. A., que se rege pelos presentes estatutos e pela legislação geral ou especial que lhe seja aplicável.
 
-###### Art. 2.º A sociedade tem a sede social em Lisboa, na Rua de Braamcamp, 7.
+Art. 2.º A sociedade tem a sede social em Lisboa, na Rua de Braamcamp, 7.
 
-###### Art. 3.º A sociedade tem por objecto o loteamento, a urbanização, a infra-estruturação, a venda, a administração e operações similares ou complementares dos imóveis, rústicos ou urbanos, destacados da Siderurgia Nacional, S. A., por efeitos da cisão referida no artigo 1.º
+Art. 3.º A sociedade tem por objecto o loteamento, a urbanização, a infra-estruturação, a venda, a administração e operações similares ou complementares dos imóveis, rústicos ou urbanos, destacados da Siderurgia Nacional, S. A., por efeitos da cisão referida no artigo 1.º
 
-###### Art. 4.º - 1 - O capital social é de 250000000$00 e encontra-se integralmente realizado.
+Art. 4.º - 1 - O capital social é de 250000000$00 e encontra-se integralmente realizado.
 
 2 - O capital social é representado por 250000 acções nominativas, de valor nominal de 1000$00 cada uma.
 
 3 - Haverá títulos de 1, 5, 10, 50 e 100 acções.
 
-###### Art. 5.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 5.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos, renováveis.
 
 3 - Os titulares dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e estão dispensados de prestar caução pelo exercício das suas funções.
 
-###### Art. 6.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
+Art. 6.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
 
 2 - A cada 100 acções corresponde 1 voto.
 
 3 - O Estado é representado na assembleia geral pelo representante que for designado por despacho conjunto dos Ministros das Finanças e da Indústria e Energia.
 
-###### Art. 7.º O conselho de administração é composto por um presidente e dois ou quatro vogais.
+Art. 7.º O conselho de administração é composto por um presidente e dois ou quatro vogais.
 
-###### Art. 8.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente e dois vogais efectivos e um suplente.
+Art. 8.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente e dois vogais efectivos e um suplente.
 
 2 - Um dos vogais efectivos e o suplente são revisores oficiais de contas.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO III — Listagem dos imóveis a desanexar da Siderurgia Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/066a00/14611465.pdf))](https://files.diariodarepublica.pt/1s/1991/03/066a00/14611465.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/066a00/14611465.pdf)

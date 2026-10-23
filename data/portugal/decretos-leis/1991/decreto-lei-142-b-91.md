@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 83/1991, 1º Suplemento, Série I-A de 1991-04-10
   number: '83'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1918-(118) a 1918-(120)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/083a01/01180120.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142-b/1991/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-b-1991-322324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bd8d05ca53736a0a3a729711cbe1e9cabe0de25fb3c47cb96501f5667b8efea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18edb6695ffed04ee7064281e5474ae2f8b0af8070d37ad00183d1af05cfcab9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,98 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Código da SISA e do Imposto sobre Sucessões e Doações
 - Código do IRC
 - Código do IRS
 - Código do Mercado de Valores Mobiliários
 - Estatuto dos Benefícios Fiscais
 - Imposto do SELO
-- Sisa
-- IRS
 - Imposto sobre Sucessões e Doações
 - IRC
-- Benefícios Fiscais
+- IRS
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298873:por
+  label: "Alterado o art. 50º do Estatuto dos Benefícios Físcais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pela LEI.24/94.18.07.1994.AR, DR.IS-A [164] de 18.07.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-1994-298873
+  date: '1994-07-18'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Alterado o art. 50º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do presente\
+    \ diploma, pela LEI.127-B/97.20.12.1997.AR, DR.IS-A [293-2ºSupl] de 20.12.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterado o art. 50º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do presente\
+    \ diploma, pela LEI.3-B/2000.04.04.2000.AR, DR.IS-A [80-2ºSupl] de 04.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterado o art. 50º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do presente\
+    \ diploma, pela LEI.30-C/2000.29.12.2000.AR, DR.IS-A [299-2ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:456221:por
+  label: Alterado o art. 50º do Dec Lei 215/89, de 01-Jul, na redacção do presente diploma, pelo DEC LEI.108/2008.26.06.2008.MFAP,
+    DR.IS [122] de 26.06.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2008-456221
+  date: '2008-06-26'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, e nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142-a/1991/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/142-a/1991/04/10/p/dre
+- type: cites
+  target: pt:dre:322323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:300067:por
+  label: "Rectificado pela DECL-RECT.139/91.1991.06.28.SG-PCM,DR.IS-A [147]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/139-1991-300067
+  date: '1991-06-28'
+- type: corrected_by
+  target: pt:dre:306181:por
+  label: "Rectificado pela DECL-RECT.165/91.1991.07.31.SG-PCM,DR.IS-A [174]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/165-1991-306181
+  date: '1991-07-31'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:11Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +197,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 44/90](https://diariodarepublica.pt/dr/detalhe/lei/44-1990-573530), de 11 de Agosto, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aditados ao Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, os artigos 30.º-A, 30.º-B e 34.º-A, com a seguinte redacção:
+Artigo 1.º São aditados ao Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, os artigos 30.º-A, 30.º-B e 34.º-A, com a seguinte redacção:
 
 ###### Artigo 30.º-A — Associações de bolsa, associações prestadoras de serviços especializados e associação nacional dos intermediários financeiros do mercado de balcão
 
@@ -151,7 +213,7 @@ Ficam isentos de IRC os rendimentos dos fundos de garantia das associações de 
 
 Ficam isentas de IRC ou IRS as mais-valias que eventualmente resultem de operações de contrapartida, efectuadas nos termos da legislação reguladora do mercado de valores mobiliários, desde que as respectivas posições sejam encerradas no prazo máximo que, para o efeito, se encontre estabelecido em conformidade com essa legislação.
 
-###### Art. 2.º O artigo 50.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-lei n.º 215/89, de 1 de Julho, passa a ter a seguinte redacção:
+Art. 2.º O artigo 50.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-lei n.º 215/89, de 1 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 50.º — [...]
 
@@ -193,7 +255,7 @@ b) No caso previsto na alínea l), no ano, inclusive, em que se verificar a ced�
 
 6 - Os benefícios constantes das alíneas b) a l) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários ou usufrutuários dar cumprimento ao disposto no n.º 1 do artigo 14.º do Código da Contribuição Autárquica.
 
-###### Art. 3.º O artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, passa a ter a seguinte redacção:
+Art. 3.º O artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, passa a ter a seguinte redacção:
 
 ###### Artigo 11.º — [...]
 
@@ -201,7 +263,7 @@ b) No caso previsto na alínea l), no ano, inclusive, em que se verificar a ced�
 
 31.º As aquisições de imóveis realizadas pelas associações de bolsa, pelas associações prestadoras de serviços especializados ou pela associação nacional dos intermediários financeiros do mercado de balcão que vierem a constituir-se como associações de direito privado sem fins lucrativos, nos termos da legislação reguladora do mercado de valores mobiliários, quando destinados à instalação das bolsas e centros de transacção de valores e demais serviços dessas associações.
 
-###### Art. 4.º Ficam isentas do imposto do selo:
+Art. 4.º Ficam isentas do imposto do selo:
 
 a) As escrituras de constituição e alteração dos estatutos das associações de bolsa, das associações prestadoras de serviços especializados e da associação nacional dos intermediários financeiros do mercado de balcão que vierem a constituir-se como associações de direito privado sem fins lucrativos, nos termos da legislação reguladora do mercado de valores mobiliários;
 
@@ -209,12 +271,12 @@ b) As escrituras a que alude o artigo 20.º do [Decreto-Lei n.º 142-A/91](https
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 4 de Abril de 1991.**
+Promulgado em 4 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Abril de 1991.**
+Referendado em 10 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

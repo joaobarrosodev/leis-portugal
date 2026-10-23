@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/169a00/37103710.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/260/1991/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1991-667886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5228b72923929d95d0552b620a38d437cad751a023cb36fd17ca813ba2744602
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a474bdfecfba912c830be0616e64dedbbfdd2f2964de3275986b93b32c356af5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,36 @@ relationships:
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:335394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453783:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:267033:por
+  label: "Revogada a orgânica, aprovada no Decreto-Lei n.º 333/83, de 14 de Julho, com as alterações previstas no presente\
+    \ diploma, pelo DEC LEI.231/93.26.06.1993.MAI, DR.IS-A [148] de 26.06.1993, sem prejuízo do disposto no artigo 99.º da\
+    \ orgânica anexa ao referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1993-267033
+  date: '1993-06-26'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:52Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +117,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 59.º, 62.º e 86.º do [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho, alterado pelo artigo 1.º do [Decreto-Lei n.º 39/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1990-335394), de 3 de Fevereiro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 59.º, 62.º e 86.º do [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho, alterado pelo artigo 1.º do [Decreto-Lei n.º 39/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1990-335394), de 3 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 59.º — Armas, serviços e quadros
 
@@ -199,12 +219,12 @@ Por portaria conjunta dos Ministros da Defesa Nacional e da Administração Inte
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Luís Madureira - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 15 de Julho de 1991.**
+Promulgado em 15 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Julho de 1991.**
+Referendado em 16 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18749-1961-179844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e467a700218bff3cb72506ac005e770fe4646194426605393962ad15e90655f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e177ca17ac5f22917ec3a06b658f18fd67e637153bcd97dcb5738ec45668a4d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:172681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566238:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:38Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +180,7 @@ g) Tratando-se de menores não emancipados, autorização do pai ou tutor com as
 
 18.º O Secretário de Estado da Aeronáutica, ouvidos os comandantes das regiões ou zonas aéreas e nos termos da segunda parte e do § único do artigo 23.º da [Lei n.º 2056](https://diariodarepublica.pt/dr/detalhe/lei/2056-1952-566238), de 2 de Junho de 1952, pode opor-se ao treino de todos os pilotos que não possuam em alto grau o sentimento de devoção à Pátria, não dêem garantia de cooperar na realização dos fins superiores do Estado e não defendam os princípios fundamentais da ordem política e social estabelecidos na Constituição.
 
-**O Secretário de Estado da Aeronáutica, ouvidos os comandantes das regiões ou zonas aéreas e nos termos da terceira parte e do § único do artigo 23.º da mesma lei, pode também mandar encerrar todos os aeroclubes, escolas e secções aeronáuticas ou paraeronáuticas que não dêem as garantias anteriormente referidas.**
+O Secretário de Estado da Aeronáutica, ouvidos os comandantes das regiões ou zonas aéreas e nos termos da terceira parte e do § único do artigo 23.º da mesma lei, pode também mandar encerrar todos os aeroclubes, escolas e secções aeronáuticas ou paraeronáuticas que não dêem as garantias anteriormente referidas.
 
 19.º As autorizações referidas no artigo 21.º do [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681) serão concedidas pelos comandos das regiões ou zonas aéreas.
 

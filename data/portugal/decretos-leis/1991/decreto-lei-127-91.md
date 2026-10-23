@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/1991/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1991-471961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 908713d7302c8f28970ec37a43be535c2b90d93ba270e481856af260373c9758
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f9876488d10176cdb2a1e22c4a89c48ec1fbf12320913018c0baa5239ceed3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho de Garantias Financeiras
 - Cosec
+- Exportação
 - Importação
 - Indemnização
-- Conselho de Garantias Financeiras
-- Exportação
 - Seguro de Créditos
 relationships:
 - type: amended_by
   target: pt:dre:517996:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517996:por
+  label: "Alterados os arts. 15º, 16º, 17º e 18º do Dec Lei 183/88 de 24-Mai, na redacção do presente diploma, pelo DEC LEI.31/2007.14.02.2007.MFAP,\
+    \ DR.IS [32] de 14.02.2007\0007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2007-517996
+  date: '2007-02-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126/1991/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/126/1991/03/22/p/dre
+- type: cites
+  target: pt:dre:374430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471963:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667484:por
+  label: "Revogados os nºs 3, 4 e 5 do art. 15º e o art. 18º do Dec Lei 183/88 de 24-Mai, com a redacção do presente diploma,\
+    \ pelo DEC LEI.51/2006.14.03.2006.MFAP, DR.IS-A [52] de 14.03.2006 e nos termos do disposto no art. 10º deste último diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2006-667484
+  date: '2006-03-14'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:46Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +127,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 15.º, 16.º, 17.º e 18.º do [Decreto-Lei n.º 183/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1988-374430), de 24 de Maio, passam a ter a seguinte redacção:
+Artigo único. Os artigos 15.º, 16.º, 17.º e 18.º do [Decreto-Lei n.º 183/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1988-374430), de 24 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 15.º
 
@@ -152,12 +173,12 @@ O Conselho de Garantias Financeiras, que funciona junto do conselho de administr
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 8 de Março de 1991.**
+Promulgado em 8 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Março de 1991.**
+Referendado em 12 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

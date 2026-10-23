@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/085a00/20052006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/147/1991/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1991-615857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ac8330296a7f493511b873c093689d967c172c0af331f41241bdffea8bfd877
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0054fad2a720489345f9ecf18d650d0a8df6667618eaaf9bc5948d0e3a8aa831
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço de Telecomunicações Móveis
+- Comunicações
 - CTT
 - Instituto das Comunicações de Portugal
 - Prestação de Serviços
-- Comunicações
+- Serviço de Telecomunicações Móveis
 - Telecomunicações Complementares
 - TLP
 relationships:
@@ -78,16 +78,29 @@ relationships:
   target: pt:dre:581376:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:547200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:581376:por
+  label: "Revogado pelo DEC LEI.381-A/97.1997.12.30.MEPAT DR.IS-A [300]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-a-1997-581376
+  date: '1997-12-30'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:21Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +123,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 88/89](https://diariodarepublica.pt/dr/detalhe/lei/88-1989-547200), de 11 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 19.º do [Decreto-Lei n.º 346/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1990-566193), de 3 de Novembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 19.º do [Decreto-Lei n.º 346/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1990-566193), de 3 de Novembro, passa a ter a seguinte redacção:
 
 ###### Artigo 19.º — Norma excepcional
 
@@ -124,12 +137,12 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 88/89](https:
 
 Visto e aprovado em Conselho de Ministros de 14 de Março de 1991. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 1 de Abril de 1991.**
+Promulgado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Abril de 1991.**
+Referendado em 2 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

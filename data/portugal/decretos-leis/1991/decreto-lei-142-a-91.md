@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 83/1991, 1º Suplemento, Série I-A de 1991-04-10
   number: '83'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1918-(2) a 1918-(118)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/083a01/00020118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142-a/1991/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-a-1991-322323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f2af54a8d6b277d59014bdbd2dac166d9c661ae407e07ebca82cd7b67228e0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75a425a920d91fe99a38c2888af96cafa2ee7f7d2c5fd467d3a1aabcb67fc640
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,88 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
 - Bolsa de Valores
+- CMVM
 - Código do Mercado de Valores Mobiliários
 - Conselho Nacional do Mercado de Valores Mobiliários
 - Mercado de Capitais
 - Mercado de Valores
-- CMVM
 - Sociedade Corretora
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:291600:por
+  label: "19910731 - RECTIFICADO PELA DECL-RECT 166/91 DE 31-JUL DR.IS-A [174]2SUPL \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1994-291600
+- type: amended_by
+  target: pt:dre:258158:por
+  label: "Alterado o art. 435º pelo DEC LEI.89/94.1994.04.02.MF, DR.IS-A [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1994-258158
+  date: '1994-04-02'
+- type: amended_by
+  target: pt:dre:232077:por
+  label: "Alterados os art. 111º, 112º e 113º do Código do Mercado de Valores Mobiliários pelo DEC LEI.204/94.1994.08.02.MF,\
+    \ DR.IS-A [177]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-1994-232077
+  date: '1994-08-02'
+- type: amended_by
+  target: pt:dre:484474:por
+  label: "Alterados os arts. 3.º, 174.º, 187.º, 188.º, 189.º, 206.º, 218.º, 266.º, 291.º, 402.º, 403.º, 404.º, 409.º, 411.º,\
+    \ 412.º, 414.º, 418.º a 424.º, 607.º e 636.º do Código do Mercado de Valores Mobiliários, pelo DEC LEI.196/95.1995.07.29.MF\
+    \ DR.IS-A [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-1995-484474
+  date: '1995-07-29'
+- type: amended_by
+  target: pt:dre:575133:por
+  label: "Alterados os arts. 3º, 14º, 16º, 17º, 40º, 43º, 44º, 46º, 59º, 71º, 94º, 100º, 116º, 125º, 130º, 133º a 135º, 146º,\
+    \ 157º, 177º, 209º, 250º, 267º, 296º a 299º, 304º, 305º, 310º, 312º, 313º, 315º, 316º, 318º a 325º, 330º, 334º, 341º,\
+    \ 342º, 345º a 347º, 352º, 354º, 356º, 360º, 363º, 364º, 366º, 369º, 379º, 384º a 387º, 390º, 425º, 426º, 443º, 447º,\
+    \ 458º, 523º, 525º, 527º a 532º, 534º, 540º, 542º, 546º, 550º, 553º, 558º, 561º, 564º, 567º, 568º, 575º, 581º, 595º, 597º,\
+    \ 598º e 608º, aditados os arts. 528º-A, 531º-A e 595º-A e revogada a al. d) do nº 4 do art. 116º, as als. a), i) e n)\
+    \ do nº 1 do art. 134º, o nº 3 do art. 148º, o art. 311º, a al. a) do nº 1 do art. 313º, o nº 3 do art. 315º, a al. c)\
+    \ do nº 1 do art. 316º, a al. c) do nº 1 do art. 321º, o nº 6 do art. 342º, os nºs 5, 6 e 7 do art. 354º, o art. 383º,\
+    \ a al. c) do nº 1 do art. 386º, o nº 6 do art. 396º, o nº 4 do art. 525º e o nº 2 do art. 598º, pelo DEC LEI.261/95.1995.10.03.MF,\
+    \ DR.IS-A [229]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-1995-575133
+  date: '1995-10-03'
+- type: amended_by
+  target: pt:dre:186546:por
+  label: "Alterada a redacção dos arts. 11.º, 13.º, 16.º, 18.º, 23.º, 39.º, 40.º, 41.º, 45.º, 67.º, 92.º, 180.º, 208.º, 233.º,\
+    \ 408.º, 411.º, 499.º, 500.º, 502.º, 505.º, 613.º, 629.º, 630.º, 631.º, 632.º, 635.º, 642.º, 648.º, 649.º, 658.º, 662.º\
+    \ e 683.º, aditado o art. 180.º-A e revogada a al. c) do art. 402.º e os arts. 403.º, 501.º e 615.º a 628.º todos do Código\
+    \ do Mercado de Valores Mobiliários, sendo que a nova redacção da al. h) do n.º 2 do art. 629.º do Código entrará em vigor\
+    \ na data fixada no Regulamento a que se refere o n.º 5 do mesmo preceito, pelo DEC LEI.232/96.1996.12.05.MF DR.IS-A [281]\0\
+    81]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1996-186546
+  date: '1996-12-05'
+- type: amended_by
+  target: pt:dre:149010:por
+  label: "Alterados os art 97º, 100º (na redacção do Dec Lei 261/95, de 03-Out), 339º, 341º e 342º (os dois últimos na redacção\
+    \ do Dec Lei 261/95, de 03-Out), 343º, 408º, 429º, 528º-A e 531º-A (os dois últimos aditados pelo Dec Lei 261/95, de 03-Out),\
+    \ 670º, 671º e 672º e aditados os art 671º-A e 687º pelo DEC LEI.178/97.1997.07.24.MF, DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1997-149010
+  date: '1997-07-24'
+- type: amended_by
+  target: pt:dre:223195:por
+  label: "Alterado o art. 406º do Código do Mercado de Valores Mobiliários, pelo DEC LEI.343/98.1998.11.06.MF, DR.IS-A [257]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1998-223195
+  date: '1998-11-06'
+- type: amended_by
+  target: pt:dre:323701:por
+  label: "Aditado o art. 157º-A ao Código aprovado pelo presente diploma, pelo DEC LEI.172/99.1999.05.20.MF, DR.IS-A [117]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1999-323701
+  date: '1999-05-20'
+- type: amended_by
+  target: pt:dre:391581:por
+  label: "Alterado o art. 40º pelo DEC LEI.222/99.1999.06.22.MF,DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1999-391581
+  date: '1999-06-22'
 - type: cites
   target: celex:31979L0279
   label: null
@@ -102,16 +171,35 @@ relationships:
   target: celex:31989L0592
   label: null
   source: http://data.europa.eu/eli/dir/1989/592/oj
+- type: repealed_by
+  target: pt:dre:662126:por
+  label: "Revogados, sem prejuízo do art. 45º e nos termos do art. 37º do presente diploma, os arts. 190º, 192º, 194º a 263º\
+    \ e 481º a 498º e mantidos em vigor nos termos do art. 37º, os nºs 3 e 4 do art. 194º e os arts. 250º, 494º e 495º do\
+    \ CMVM, pelo DEC LEI.394/99.1999.10.13.MF, DR.IS-A [239]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/394-1999-662126
+  date: '1999-10-13'
+- type: repealed_by
+  target: pt:dre:682983:por
+  label: "Revogado, com a entrada em vigor do Código do Mercado dos Valores Mobiliários (aprovado pelo Dec Lei 486/99, de\
+    \ 13-Nov), com excepção dos arts. 190.º, 192.º, 194.º a 263.º e 481.º a 498.º pelo DEC LEI.486/99.1999.11.13.MF DR.IS-A\
+    \ [265].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1999-682983
+  date: '1999-11-13'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
   article_count: 710
-  section_count: 110
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 106
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:12Z'
   warnings: []
   errors: []
 ---
@@ -650,15 +738,15 @@ Decreto-Lei n.º 208/89, de 29 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 4 de Abril de 1991.**
+Promulgado em 4 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Abril de 1991.**
+Referendado em 9 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CÓDIGO DO MERCADO DE VALORES MOBILIÁRIOS
 
@@ -2774,7 +2862,7 @@ e) Em geral, não se conformar o prospecto, quanto à sua estruturação, conte�
 
 ###### Artigo 155.º — Prospecto aprovado por autoridade de outro Estado membro da CEE
 
-**O Ministro das Finanças estabelecerá, mediante portaria, sob proposta da CMVM ou com audiência prévia dela, e de acordo com as normas aplicáveis de direito comunitário, em que casos, em que termos e dentro de que limites um prospecto aprovado pelas autoridades competentes de outros Estados membros da Comunidade Económica Europeia, relativo a uma emissão oferecida à subscrição pública, simultaneamente ou em datas próximas, em Portugal e em outro ou outros desses Estados, deve ser reconhecido e aceite em Portugal, independentemente de nova apreciação, para efeitos de oferta pública, de subscrição a realizar no País ou de admissão dos valores mobiliários a que respeite à cotação em bolsa de valores nacional.**
+O Ministro das Finanças estabelecerá, mediante portaria, sob proposta da CMVM ou com audiência prévia dela, e de acordo com as normas aplicáveis de direito comunitário, em que casos, em que termos e dentro de que limites um prospecto aprovado pelas autoridades competentes de outros Estados membros da Comunidade Económica Europeia, relativo a uma emissão oferecida à subscrição pública, simultaneamente ou em datas próximas, em Portugal e em outro ou outros desses Estados, deve ser reconhecido e aceite em Portugal, independentemente de nova apreciação, para efeitos de oferta pública, de subscrição a realizar no País ou de admissão dos valores mobiliários a que respeite à cotação em bolsa de valores nacional.
 
 ##### SUBSECÇÃO IV — Da publicação do prospecto
 
@@ -3728,7 +3816,7 @@ b) Ou, tratando-se de acto tácito, do décimo dia posterior à data em que term
 
 ###### Artigo 222.º — Representação geral da associação
 
-**O presidente do conselho de administração assegurará a representação geral da associação de bolsa, coadjuvado pelo vice-presidente e pelo administrador-delegado, em todas as matérias que não sejam da competência privativa deste último.**
+O presidente do conselho de administração assegurará a representação geral da associação de bolsa, coadjuvado pelo vice-presidente e pelo administrador-delegado, em todas as matérias que não sejam da competência privativa deste último.
 
 ###### Artigo 223.º — Reuniões do conselho de administração
 
@@ -4616,7 +4704,7 @@ Compete à CMVM emitir as normas regulamentares necessárias à execução das d
 
 ##### SUBSECÇÃO II — Do mercado de cotações oficiais
 
-##### DIVISÃO I
+DIVISÃO I
 
 Das condições e processo de admissão à cotação
 
@@ -4884,7 +4972,7 @@ f) Não reunir o prospecto da admissão as condições necessárias para a sua a
 
 2 - O estabelecido no número precedente deverá constar do prospecto de admissão, quando este for exigível, em termos que a CMVM regulamentarmente fixará.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Do prospecto e publicidade da admissão
 
@@ -5028,7 +5116,7 @@ d) Se o prospecto já tiver sido publicado, providenciar, com a maior diligênci
 
 ###### Artigo 331.º — Prospecto aprovado por autoridade de outros Estados da CEE
 
-**O Ministro das Finanças poderá, mediante portaria, e sob proposta da CMVM ou com a audiência prévia dela, estabelecer, de acordo com as normas aplicáveis de Direito Comunitário, em que casos, em que termos e dentro de que limites um prospecto aprovado pelas autoridades competentes de outros Estados membros da Comunidade Económica Europeia, relativo à admissão à cotação ou a uma oferta pública de subscrição ou de venda de quaisquer valores mobiliários deve ser reconhecido e aceite em Portugal, sem necessidade de nova apreciação, para efeitos de admissão desses valores à cotação em bolsa nacional.**
+O Ministro das Finanças poderá, mediante portaria, e sob proposta da CMVM ou com a audiência prévia dela, estabelecer, de acordo com as normas aplicáveis de Direito Comunitário, em que casos, em que termos e dentro de que limites um prospecto aprovado pelas autoridades competentes de outros Estados membros da Comunidade Económica Europeia, relativo à admissão à cotação ou a uma oferta pública de subscrição ou de venda de quaisquer valores mobiliários deve ser reconhecido e aceite em Portugal, sem necessidade de nova apreciação, para efeitos de admissão desses valores à cotação em bolsa nacional.
 
 ###### Artigo 332.º — Publicação do prospecto
 
@@ -5062,7 +5150,7 @@ d) Se o prospecto já tiver sido publicado, providenciar, com a maior diligênci
 
 4 - A publicidade realizada sem a observância do estatuído nos números precedentes, para além das sanções contra-ordenacionais ou penais em que faça incorrer as pessoas e entidades que a tenham promovido, torna-as responsáveis pelos prejuízos que daí resultem para os investidores, aplicando-se ao apuramento dessas responsabilidades, com as devidas adaptações, o regime estabelecido no artigo 333.º para a responsabilidade pelo conteúdo do prospecto.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Das obrigações das entidades com valores cotados
 
@@ -5316,7 +5404,7 @@ c) No prazo que se torne necessário para garantir a utilidade da publicação, 
 
 Em caso de incumprimento pelas entidades emitentes de quaisquer obrigações de informação decorrentes da admissão à cotação, a CMVM pode tornar público, pela forma que entender conveniente, e a expensas dessas entidades, o facto de as mesmas não haverem respeitado tais obrigações.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Da suspensão, exclusão e readmissão à cotação
 
@@ -8582,7 +8670,7 @@ b) A constituição de intermediários financeiros de qualquer categoria que nã
 
 ###### Artigo 616.º — Delegação de competência
 
-**O Ministro das Finanças poderá, relativamente a qualquer tipo de actividade de intermediação em valores mobiliários ou categoria de intermediários financeiros, delegar, mediante portaria, no Banco de Portugal ou, se o entender conveniente e a natureza específica da actividade ou a categoria de intermediário em causa o justificar, na CMVM a competência para a concessão das autorizações a que se refere o artigo anterior, fixando, quando o julgue conveniente, quaisquer critérios ou procedimentos especiais a observar por essas entidades na apreciação e decisão dos correspondentes pedidos.**
+O Ministro das Finanças poderá, relativamente a qualquer tipo de actividade de intermediação em valores mobiliários ou categoria de intermediários financeiros, delegar, mediante portaria, no Banco de Portugal ou, se o entender conveniente e a natureza específica da actividade ou a categoria de intermediário em causa o justificar, na CMVM a competência para a concessão das autorizações a que se refere o artigo anterior, fixando, quando o julgue conveniente, quaisquer critérios ou procedimentos especiais a observar por essas entidades na apreciação e decisão dos correspondentes pedidos.
 
 ###### Artigo 617.º — Regime geral das autorizações
 

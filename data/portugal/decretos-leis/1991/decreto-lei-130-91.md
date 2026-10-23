@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/076a00/16351635.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/1991/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1991-621951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e663d48dc43226244b73662f420f940062ed337d234bc0865345c242cb2ff86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e326d6bf2e6f165d4a05acec7629844b6647b296d93ee8ea3262855b37ff74c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,39 @@ relationships:
   target: pt:dre:197529:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584254:por
+  label: "Alterado o art. 4.º do Dec Lei 293/86, de 12-Set, na redacção do presente diploma, pelo DEC LEI.256/92.20.11.1992.MF,\
+    \ DR.IS-A [269] de 20.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-1992-584254
+  date: '1992-11-20'
+- type: cites
+  target: pt:dre:355117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587615:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197529:por
+  label: "Revogado pelo DEC LEI.60/98.1998.03.17.MF, DR.IS-A [64]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1998-197529
+  date: '1998-03-17'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:51Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +122,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro, alterado pelo artigo único do [Decreto-Lei n.º 362/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1988-355117), de 14 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro, alterado pelo artigo único do [Decreto-Lei n.º 362/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1988-355117), de 14 de Outubro, passa a ter a seguinte redacção:
 
 ###### Artigo 4.º — [...]
 
@@ -119,16 +142,16 @@ e) 8500000 contos para a moeda de 50$00.
 
 3 - ...
 
-###### Art. 2.º É revogado o [Decreto-Lei n.º 362/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1988-355117), de 14 de Outubro.
+Art. 2.º É revogado o [Decreto-Lei n.º 362/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1988-355117), de 14 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 20 de Março de 1991.**
+Promulgado em 20 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Março de 1991.**
+Referendado em 22 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

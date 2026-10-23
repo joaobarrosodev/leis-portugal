@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28300/50245025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1990-565375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dd7e2362ad234a4a1482188a07b66282643b271d1f149bf95463a1a8db20228
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6164899dd16faa42a8a8d961f224bf266eb59b3ba491fb0e70d3cd2297f58501
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Identificação Civil e Criminal
+- Criação de Lugares
+- Definição de Competências
+- Ministério da Justiça
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:495098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506821:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:15Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +123,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 3.º, 4.º e 7.º do [Decreto-Lei n.º 63/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1976-506821), de 24 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 3.º, 4.º e 7.º do [Decreto-Lei n.º 63/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1976-506821), de 24 de Janeiro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - O Centro de Identificação Civil e Criminal (CICC) é o serviço do Ministério da Justiça ao qual incumbe proceder à identificação civil e criminal dos cidadãos e a outros registos que lhe sejam cometidos por lei.
+Artigo 1.º - 1 - O Centro de Identificação Civil e Criminal (CICC) é o serviço do Ministério da Justiça ao qual incumbe proceder à identificação civil e criminal dos cidadãos e a outros registos que lhe sejam cometidos por lei.
 
 2 - Para a prossecução dos seus objectivos, o CICC organiza e mantém os ficheiros centrais da identificação civil e criminal, tendo em vista garantir os princípios de autenticidade, segurança, veracidade e univocidade.
 
 3 - Ao CICC compete, ainda, assegurar, nos termos da lei, a identificação dos objectores de consciência e a emissão dos documentos que lhe forem solicitados pelas entidades competentes.
 
-###### Art. 3.º São serviços centrais:
+Art. 3.º São serviços centrais:
 
 a) A Divisão de Identificação Civil;
 
@@ -122,7 +141,7 @@ c) A Divisão de Contumazes e Objectores de Consciência;
 
 d) A Repartição Administrativa.
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - ...
 
@@ -130,24 +149,24 @@ d) A Repartição Administrativa.
 
 4 - A Repartição Administrativa tem por finalidade prestar apoio às divisões, no que respeita à gestão de pessoal, dos equipamentos e dos recursos orçamentais e em outras matérias que constituam simples meio de permitir o exercício de atribuições específicas.
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - A distribuição do pessoal pelos diversos serviços e delegações é feita por despacho do director.
 
-###### Art. 2.º Ao quadro de pessoal do anexo à [Portaria n.º 774/87](https://diariodarepublica.pt/dr/detalhe/portaria/774-1987-495098), de 7 de Setembro, são aditados os lugares constantes do quadro anexo ao presente diploma.
+Art. 2.º Ao quadro de pessoal do anexo à [Portaria n.º 774/87](https://diariodarepublica.pt/dr/detalhe/portaria/774-1987-495098), de 7 de Setembro, são aditados os lugares constantes do quadro anexo ao presente diploma.
 
-###### Art. 3.º Os encargos decorrentes da aplicação do presente diploma são suportados pelo Gabinete de Gestão Financeira do Ministério da Justiça enquanto as dotações orçamentais do CICC não forem reforçadas.
+Art. 3.º Os encargos decorrentes da aplicação do presente diploma são suportados pelo Gabinete de Gestão Financeira do Ministério da Justiça enquanto as dotações orçamentais do CICC não forem reforçadas.
 
 Visto e aprovado em Conselho de Ministros de 25 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 26 de Novembro de 1990.**
+Promulgado em 26 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Novembro de 1990.**
+Referendado em 28 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28300/50245025.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28300/50245025.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28300/50245025.pdf)

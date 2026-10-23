@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/138a00/31783181.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/227/1991/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1991-659545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60bc4a3e0413f351ff82922628e15134c88f40844ea2eca29690f252c9e6aac0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bec460260df5b44433feee36bc6ec7d6d550f43c152c74af2e7325f0bfaed39a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
 - CEE
-- Saúde Pública
-- Etiquetagem
 - Comércio
+- Etiquetagem
+- Produto Alimentar
+- Saúde Pública
 relationships:
+- type: amended_by
+  target: pt:dre:221352:por
+  label: "19921021 - ALTERADOS OS ARTIGOS 3, 10 E 11 PELO DECRETO LEI 230/92, DE 21 DE OUTUBRO, PUBLICADO NO DR.IS-A, 243.\0\
+    , 243."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1992-221352
 - type: amended_by
   target: pt:dre:391577:por
   label: Última alteração registada na importação inicial
@@ -85,16 +90,21 @@ relationships:
   target: celex:31989L0398
   label: null
   source: http://data.europa.eu/eli/dir/1989/398/oj
+- type: repealed_by
+  target: pt:dre:391577:por
+  label: "Revogado pelo DEC LEI.227/99.1999.06.22.MS,DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1999-391577
+  date: '1999-06-22'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:07Z'
   warnings: []
   errors: []
 ---
@@ -311,12 +321,12 @@ O presente diploma entra imediatamente em vigor, sem prejuízo da possibilidade 
 
 Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Arlindo Marques da Cunha - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Fernando Nunes Ferreira Real.
 
-**Promulgado em 27 de Maio de 1991.**
+Promulgado em 27 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Maio de 1991.**
+Referendado em 31 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

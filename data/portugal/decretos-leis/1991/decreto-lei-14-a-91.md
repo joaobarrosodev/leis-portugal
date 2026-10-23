@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 7/1991, 1º Suplemento, Série I-A de 1991-01-09
   number: '7'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 110-(2) a 110-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/007a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14-a/1991/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-a-1991-402704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed8213b6784d09f685e637b408c29095274d9d858dc4d40b9a1cc6a46d73595f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfab64c7f832548b7f93db30c574b6401794eac6802d4315d6c30975452b44ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Instaladora
+- Conselho Consultivo
 - Definição de Competências
 - Gabinete da Travessia do TEJO em Lisboa
 - Ministério das Obras Públicas Transportes e Comunicações
-- Conselho Consultivo
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:275470:por
+  label: "Alterados os art.s 2º a 5º, 7º, 8º, 9º e aditados os art.s 10º, 11º e 12º, pelo DEC LEI.76/94.1994.03.07.MOPTC,\
+    \ DR.IS-A [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-1994-275470
+  date: '1994-03-07'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Equipamento Social, o Gabinete da Travessia do Tejo em Lisboa, criado pelo presente diploma,\
+    \ pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: cites
+  target: pt:dre:418191:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:07Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +132,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criado o Gabinete da Travessia do Tejo em Lisboa, adiante designado por GATTEL, dotado de autonomia administrativa e de personalidade jurídica dependente do Ministro das Obras Públicas, Transportes e Comunicações.
+Artigo 1.º É criado o Gabinete da Travessia do Tejo em Lisboa, adiante designado por GATTEL, dotado de autonomia administrativa e de personalidade jurídica dependente do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 2.º - 1 - O GATTEL tem como atribuição principal a realização, coordenação e controlo das actividades necessárias à promoção da construção e exploração da segunda travessia rodoviária do Tejo na Região de Lisboa.
+Art. 2.º - 1 - O GATTEL tem como atribuição principal a realização, coordenação e controlo das actividades necessárias à promoção da construção e exploração da segunda travessia rodoviária do Tejo na Região de Lisboa.
 
 2 - Para a prossecução das suas atribuições compete ao GATTEL:
 
@@ -135,7 +156,7 @@ h) Assegurar a cooperação dos serviços e entidades que intervenham nos estudo
 
 i) Representar o Governo em todos os actos relacionados com os estudos e a realização do empreendimento.
 
-###### Art. 3.º - 1 - São órgãos do GATTEL a comissão instaladora e o conselho consultivo.
+Art. 3.º - 1 - São órgãos do GATTEL a comissão instaladora e o conselho consultivo.
 
 2 - A comissão instaladora é constituída por um presidente e quatro vogais, representando:
 
@@ -179,7 +200,7 @@ o) Um representante da Direcção-Geral de Transportes Terrestres.
 
 4 - Poderão ser integrados no conselho consultivo representantes de outras câmaras municipais quando o desenvolvimento dos estudos a tal aconselhar.
 
-###### Art. 4.º - 1 - O presidente da comissão instaladora é nomeado por resolução do Conselho de Ministros.
+Art. 4.º - 1 - O presidente da comissão instaladora é nomeado por resolução do Conselho de Ministros.
 
 2 - A nomeação dos quatro vogais será feita por despacho conjunto do Ministro das Obras Públicas, Transportes e Comunicações e dos ministros responsáveis pelas áreas respectivas em cada caso.
 
@@ -191,7 +212,7 @@ o) Um representante da Direcção-Geral de Transportes Terrestres.
 
 6 - Aos membros do conselho é atribuída uma senha de presença, no valor de 5000$00, por cada reunião a que assistam.
 
-###### Art. 5.º - 1 - Ao presidente da comissão instaladora cabe representar o GATTEL perante quaisquer entidades públicas ou privadas, convocar e dirigir as reuniões da comissão instaladora e assegurar a execução das suas deliberações.
+Art. 5.º - 1 - Ao presidente da comissão instaladora cabe representar o GATTEL perante quaisquer entidades públicas ou privadas, convocar e dirigir as reuniões da comissão instaladora e assegurar a execução das suas deliberações.
 
 2 - O presidente é substituído, nas suas faltas e impedimentos, pelo vogal indicado pela comissão.
 
@@ -199,13 +220,13 @@ o) Um representante da Direcção-Geral de Transportes Terrestres.
 
 4 - A comissão delibera por maioria dos seus membros em exercício de funções, cabendo ao presidente voto de qualidade.
 
-###### Art. 6.º - 1 - Compete ao conselho consultivo pronunciar-se sobre todos os assuntos que lhe sejam submetidos pela comissão instaladora.
+Art. 6.º - 1 - Compete ao conselho consultivo pronunciar-se sobre todos os assuntos que lhe sejam submetidos pela comissão instaladora.
 
 2 - O conselho reúne em sessões plenárias por determinação do Ministro das Obras Públicas, Transportes e Comunicações ou a solicitação da comissão instaladora.
 
 3 - Os membros do conselho prestarão, individualmente, a assistência técnica que lhes for solicitada pelo presidente da comissão instaladora, dentro das respectivas especialidades.
 
-###### Art. 7.º - 1 - O GATTEL vincula-se juridicamente pela assinatura de dois membros da comissão instaladora, sendo um deles obrigatoriamente o presidente, ou por mandatários constituídos por deliberação da comissão.
+Art. 7.º - 1 - O GATTEL vincula-se juridicamente pela assinatura de dois membros da comissão instaladora, sendo um deles obrigatoriamente o presidente, ou por mandatários constituídos por deliberação da comissão.
 
 2 - As despesas decorrentes das suas atribuições e funcionamento serão suportadas por transferências de verbas do orçamento privativo da Junta Autónoma de Estradas.
 
@@ -213,20 +234,20 @@ o) Um representante da Direcção-Geral de Transportes Terrestres.
 
 4 - As transferências de verbas referidas no n.º 2 são depositadas à ordem do GATTEL na Caixa Geral de Depósitos, devendo a respectiva conta ser movimentada por meio de cheque, que terá obrigatoriamente as assinaturas do presidente, ou, no caso de impedimento, do seu substituto, e de um vogal.
 
-###### Art. 8.º - 1 - O apoio técnico e administrativo ao GATTEL será prestado por um núcleo de apoio técnico e por um secretariado permanente.
+Art. 8.º - 1 - O apoio técnico e administrativo ao GATTEL será prestado por um núcleo de apoio técnico e por um secretariado permanente.
 
 2 - Para efeitos do número anterior o GATTEL poderá admitir pessoal em regime de destacamento, requisição ou comissão de serviço e recorrer, ainda, a contratação de pessoal nos termos da lei geral.
 
-###### Art. 9.º As instalações necessárias ao funcionamento do GATTEL serão asseguradas pelo Ministério das Obras Públicas, Transportes e Comunicações.
+Art. 9.º As instalações necessárias ao funcionamento do GATTEL serão asseguradas pelo Ministério das Obras Públicas, Transportes e Comunicações.
 
 Visto e aprovado em Conselho de Ministros de 11 de Outubro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral - Fernando Nunes Ferreira Real.
 
-**Promulgado em 21 de Dezembro de 1990.**
+Promulgado em 21 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1990.**
+Referendado em 28 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

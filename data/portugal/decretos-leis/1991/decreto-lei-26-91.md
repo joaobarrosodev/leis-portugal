@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/1991/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1991-693841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dccc0f03efc079272540198762715491e1bbd47a4354326364dabf8a958a4c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dac9f313d427c417abd709111a879bfde570d1cd7f1bbbe80193240d6cad8bb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - EPAC
 - Estatuto
 - Privatização
-relationships: []
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:429776:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:52Z'
   warnings: []
   errors: []
 ---
@@ -98,21 +102,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A Empresa Pública de Abastecimento de Cereais (EPAC), criada pelo [Decreto-Lei n.º 663/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1976-429776), de 4 de Agosto, é transformada em sociedade anónima de capitais exclusivamente públicos, passando a denominar-se EPAC - Empresa para Agroalimentação e Cereais, S. A.
+Artigo 1.º - 1 - A Empresa Pública de Abastecimento de Cereais (EPAC), criada pelo [Decreto-Lei n.º 663/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1976-429776), de 4 de Agosto, é transformada em sociedade anónima de capitais exclusivamente públicos, passando a denominar-se EPAC - Empresa para Agroalimentação e Cereais, S. A.
 
 2 - A EPAC - Empresa para Agroalimentação e Cereais, S. A., rege-se pelo presente diploma, pelos seus estatutos, pela legislação geral aplicável às sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da sociedade.
 
-###### Art. 2.º - 1 - A EPAC - Empresa para Agroalimentação e Cereais, S. A., sucede automática e globalmente à Empresa Pública de Abastecimento de Cereais (EPAC), e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem a sua esfera jurídica no momento da transformação.
+Art. 2.º - 1 - A EPAC - Empresa para Agroalimentação e Cereais, S. A., sucede automática e globalmente à Empresa Pública de Abastecimento de Cereais (EPAC), e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem a sua esfera jurídica no momento da transformação.
 
 2 - O presente diploma é título bastante para a comprovação do previsto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da EPAC - Empresa para Agroalimentação e Cereais, S. A.
 
-###### Art. 3.º - 1 - A EPAC - Empresa para Agroalimentação e Cereais, S. A., tem um capital social de 5000000000$00, integralmente subscrito e realizado pelo Estado.
+Art. 3.º - 1 - A EPAC - Empresa para Agroalimentação e Cereais, S. A., tem um capital social de 5000000000$00, integralmente subscrito e realizado pelo Estado.
 
 2 - As acções de que o Estado seja titular serão detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.
 
 3 - Os direitos do Estado como accionista da sociedade são exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, salvo quando a gestão das acções tenha sido confiada a outra entidade, nos termos do número anterior.
 
-###### Art. 4.º - 1 - São aprovados os estatutos da EPAC - Empresa para Agroalimentação e Cereais, S. A., anexos a este diploma.
+Art. 4.º - 1 - São aprovados os estatutos da EPAC - Empresa para Agroalimentação e Cereais, S. A., anexos a este diploma.
 
 2 - Os estatutos referidos no número anterior não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
@@ -120,9 +124,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A alteração da natureza jurídica efectuada pelo artigo 1.º, bem como os estatutos da EPAC - Empresa para Agroalimentação e Cereais, S. A., agora aprovados, produzem efeito relativamente a terceiros independentemente do registo, o qual, no entanto, deve ser requerido nos 90 dias seguintes à entrada em vigor do presente diploma.
 
-###### Art. 5.º A EPAC - Empresa para Agroalimentação e Cereais, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 5.º A EPAC - Empresa para Agroalimentação e Cereais, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 6.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração da EPAC - Empresa para Agroalimentação e Cereais, S. A., enviará aos Ministérios das Finanças e da Agricultura, Pescas e Alimentação, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 6.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração da EPAC - Empresa para Agroalimentação e Cereais, S. A., enviará aos Ministérios das Finanças e da Agricultura, Pescas e Alimentação, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -130,13 +134,13 @@ b) Quaisquer elementos adequados para a compreensão integral da situação econ
 
 2 - O conselho fiscal enviará trimestralmente aos Ministérios das Finanças e da Agricultura, Pescas e Alimentação um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 7.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a Empresa Pública de Abastecimento de Cereais (EPAC), as mesmas relações de suporte que mantinha relativamente àquela Empresa Pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
+Art. 7.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a Empresa Pública de Abastecimento de Cereais (EPAC), as mesmas relações de suporte que mantinha relativamente àquela Empresa Pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
 
-###### Art. 8.º - 1 - As certidões passadas pela EPAC - Empresa para Agroalimentação e Cereais, S. A., de que constem importâncias em dívida provenientes de quaisquer actos ou contratos em que a Empresa Pública de Abastecimento de Cereais (EPAC) tenha sido parte, bem como os respectivos juros e encargos, servem de título executivo e a cobrança coerciva segue a forma de processo de execução fiscal.
+Art. 8.º - 1 - As certidões passadas pela EPAC - Empresa para Agroalimentação e Cereais, S. A., de que constem importâncias em dívida provenientes de quaisquer actos ou contratos em que a Empresa Pública de Abastecimento de Cereais (EPAC) tenha sido parte, bem como os respectivos juros e encargos, servem de título executivo e a cobrança coerciva segue a forma de processo de execução fiscal.
 
 2 - As certidões a que se refere o número anterior servirão igualmente para a EPAC - Empresa para Agroalimentação e Cereais, S. A., deduzir os direitos da Empresa Pública de Abastecimento de Cereais (EPAC) em quaisquer processos em que seja reclamante ou interessada.
 
-###### Art. 9.º - 1 - Os trabalhadores e os pensionistas da Empresa Pública de Abastecimento de Cereais (EPAC), mantêm perante a EPAC - Empresa para Agroalimentação e Cereais, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
+Art. 9.º - 1 - Os trabalhadores e os pensionistas da Empresa Pública de Abastecimento de Cereais (EPAC), mantêm perante a EPAC - Empresa para Agroalimentação e Cereais, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
 
 2 - Os trabalhadores da EPAC, S. A., que forem transferidos para as novas sociedades a criar manterão perante estas os direitos, obrigações e regalias de que eram titulares face à EPAC, S. A.
 
@@ -146,7 +150,7 @@ b) Quaisquer elementos adequados para a compreensão integral da situação econ
 
 5 - A situação dos trabalhadores da EPAC Empresa para Agroalimentação e Cereais, S. A., que sejam chamados a ocupar cargos nos órgãos da empresa, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou o tempo de requisição.
 
-###### Art. 10.º - 1 - A EPAC - Empresa para Agroalimentação e Cereais, S. A., procederá, por meio de cisões simples, à formação de novas sociedades anónimas, sendo o capital social destas exclusivamente por si subscrito e realizado.
+Art. 10.º - 1 - A EPAC - Empresa para Agroalimentação e Cereais, S. A., procederá, por meio de cisões simples, à formação de novas sociedades anónimas, sendo o capital social destas exclusivamente por si subscrito e realizado.
 
 2 - Ao abrigo do número anterior serão criadas sociedades anónimas com os seguintes objectos:
 
@@ -156,7 +160,7 @@ b) Produção, preparação e comercialização de sementes nos mercados naciona
 
 c) Comércio, nos mercados nacional e internacional, de cereais e outros produtos agrícolas, bem como dos seus derivados, e ainda de outros produtos relacionados com o sector agrícola e agro-alimentar.
 
-###### Art. 11.º - 1 - Para efeitos do disposto no artigo anterior, o conselho de administração da EPAC - Empresa para Agroalimentação e Cereais, S. A., submeterá, no prazo máximo de 120 dias, ao Ministro da Agricultura, Pescas e Alimentação o projecto das cisões a efectuar, com menção e justificação dos seguintes pontos para cada uma das sociedades:
+Art. 11.º - 1 - Para efeitos do disposto no artigo anterior, o conselho de administração da EPAC - Empresa para Agroalimentação e Cereais, S. A., submeterá, no prazo máximo de 120 dias, ao Ministro da Agricultura, Pescas e Alimentação o projecto das cisões a efectuar, com menção e justificação dos seguintes pontos para cada uma das sociedades:
 
 a) Definição da sua actividade;
 
@@ -172,31 +176,31 @@ e) Contratos de trabalho a transmitir.
 
 3 - As sociedades resultantes das cisões não respondem por dívidas da EPAC - Empresa para Agroalimentação e Cereais, S. A., para além daquelas que no acto da cisão lhes sejam atribuídas.
 
-###### Art. 12.º - 1 - Cada uma das sociedades resultantes da cisão terá o capital correspondente ao valor do activo, líquido do passivo, que para ela é destacado do património da EPAC, S. A.
+Art. 12.º - 1 - Cada uma das sociedades resultantes da cisão terá o capital correspondente ao valor do activo, líquido do passivo, que para ela é destacado do património da EPAC, S. A.
 
 2 - A cobertura do capital das novas sociedades pela parte do património destacado será certificada por uma sociedade de revisores oficiais de contas.
 
-###### Art. 13.º Não é aplicável ao Estado, relativamente à EPAC, S. A., nem a esta, relativamente às sociedades resultantes das cisões, o disposto nos artigos 83.º, 84.º e 501.º a 504.º do Código das Sociedades Comerciais.
+Art. 13.º Não é aplicável ao Estado, relativamente à EPAC, S. A., nem a esta, relativamente às sociedades resultantes das cisões, o disposto nos artigos 83.º, 84.º e 501.º a 504.º do Código das Sociedades Comerciais.
 
-###### Art. 14.º - 1 - As cisões e a constituição das novas sociedades, bem como as consequentes alterações ao estatuto da EPAC, S. A., determinadas pelo artigo 10.º, serão documentadas apenas pelas actas das respectivas deliberações, as quais constituem título suficiente para os necessários registos.
+Art. 14.º - 1 - As cisões e a constituição das novas sociedades, bem como as consequentes alterações ao estatuto da EPAC, S. A., determinadas pelo artigo 10.º, serão documentadas apenas pelas actas das respectivas deliberações, as quais constituem título suficiente para os necessários registos.
 
 2 - São isentos de taxas e emolumentos devidos ao Registo Nacional de Pessoas Colectivas e às conservatórias do registo predial ou comercial e automóvel todos os actos a praticar em execução do disposto no presente diploma, incluindo registo das nomeações dos primeiros membros designados para os órgãos de administração e de fiscalização da EPAC, S. A., bem como de cada uma das sociedades resultantes das cisões.
 
-###### Art. 15.º - 1 - Fica desde já convocada a assembleia geral da EPAC - Empresa para Agroalimentação e Cereais, S. A., a qual reunirá às 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma, ou do primeiro dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 15.º - 1 - Fica desde já convocada a assembleia geral da EPAC - Empresa para Agroalimentação e Cereais, S. A., a qual reunirá às 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma, ou do primeiro dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os membros em exercício do conselho de gestão e da comissão de fiscalizaão da EPAC, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da EPAC, S. A., com as competências fixadas no presente diploma e nos estatutos, para o conselho de administração e o conselho fiscal, respectivamente.
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 11 de Dezembro de 1990.**
+Promulgado em 11 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1990.**
+Referendado em 18 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — (a que se refere n.º 1 do artigo 4.º do Decreto-Lei n.º 26/91, de 11 de Janeiro)
 
@@ -204,13 +208,13 @@ ESTATUTOS DA EPAC - EMPRESA PARA AGROALIMENTAÇÃO E CEREAIS, S. A.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de EPAC - Empresa para Agroalimentação e Cereais, S. A.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de EPAC - Empresa para Agroalimentação e Cereais, S. A.
 
-###### Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sede social é em Lisboa, na Avenida do Almirante Gago Coutinho, 26.
+Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sede social é em Lisboa, na Avenida do Almirante Gago Coutinho, 26.
 
 2 - Por deliberação do conselho de administração a sociedade poderá mudar a sua sede e criar e manter em qualquer ponto do território nacional, ou fora dele, agências, sucursais, delegações ou qualquer outra forma de representação.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto:
+Art. 3.º - 1 - A sociedade tem por objecto:
 
 a) O comércio, nos mercados nacional e internacional, de cereais e outros produtos agrícolas, bem como dos seus derivados, e ainda de factores de produção para a agricultura, a pecuária e a indústria agro-alimentar, a produção, preparação e comercialização de sementes nacionais ou importadas, a prestação de serviços de recepção, armazenagem, conservação e expedição de cereais e outros produtos agrícolas e seus derivados a entidades públicas e privadas;
 
@@ -234,9 +238,9 @@ e) Promover a criação, reorganização, reconversão, agrupamento, fusão e ci
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º O capital social é de 5000000000$00.
+Art. 4.º O capital social é de 5000000000$00.
 
-###### Art. 5.º - 1 - O capital social é representado por 5 milhões de acções de 1000$00 cada uma.
+Art. 5.º - 1 - O capital social é representado por 5 milhões de acções de 1000$00 cada uma.
 
 2 - Haverá títulos de 1, 5, 10, 100, 1000 e 10000, acções, podendo o conselho de administração emitir certificados, provisórios ou definitivos, representativos daquele número de acções.
 
@@ -244,17 +248,17 @@ e) Promover a criação, reorganização, reconversão, agrupamento, fusão e ci
 
 4 - O custo das operações de registo das transmissões, o desdobramento, conversão ou outras relativas aos títulos referidos no número anterior será suportado pelos interessados, segundo critério a fixar pela assembleia geral.
 
-###### Art. 6.º - 1 - A sociedade pode emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
+Art. 6.º - 1 - A sociedade pode emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
 
 2 - Pode haver acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 7.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 7.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
+Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
 
 2 - A cada 100 acções corresponde 1 voto na assembleia geral.
 
@@ -268,7 +272,7 @@ e) Promover a criação, reorganização, reconversão, agrupamento, fusão e ci
 
 7 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-###### Art. 9.º - 1 - Compete à assembleia geral:
+Art. 9.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -288,7 +292,7 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 3 - As votações poderão ser efectuadas nominalmente ou por sinais convencionais, conforme for decidido pelo presidente.
 
-###### Art. 10.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
+Art. 10.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com uma antecedência mínima de 30 dias, com a indicação expressa dos assuntos a tratar.
 
@@ -298,13 +302,13 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 5 - O mandato dos membros da mesa da assembleia geral é renovável, mantendo-se estes em efectividade de funções até à posse dos membros que os venham substituir.
 
-###### Art. 11.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação ao presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social e que requeiram em carta, com assinatura reconhecida pelo notário ou autenticada por instituição de crédito, em que se indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
+Art. 11.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação ao presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social e que requeiram em carta, com assinatura reconhecida pelo notário ou autenticada por instituição de crédito, em que se indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
 
 2 - Para efeitos de eleição de titulares dos órgãos sociais, ou de deliberação sobre alterações dos estatutos e aumentos de capital, a assembleia geral só pode reunir encontrando-se presentes accionistas que representem, pelo menos, 51% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 12.º - 1 - O conselho de administração é composto por um presidente e dois ou quatro vogais.
+Art. 12.º - 1 - O conselho de administração é composto por um presidente e dois ou quatro vogais.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável, mantendo-se estes em efectividade de funções até à posse dos membros que os venham substituir.
 
@@ -312,7 +316,7 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 4 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos por nomeação do próprio conselho até que em assembleia geral se proceda à competente eleição.
 
-###### Art. 13.º - 1 - Ao conselho de administração compete:
+Art. 13.º - 1 - Ao conselho de administração compete:
 
 a) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -328,7 +332,7 @@ f) Exercer as demais competências que lhe sejam atribuídas pela lei ou pela as
 
 2 - O conselho de administração poderá delegar numa comissão executiva constituída por três administradores algum ou alguns poderes que lhe são conferidos pelo número anterior, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 14.º - 1 - Compete, especialmente, ao presidente do conselho de administração:
+Art. 14.º - 1 - Compete, especialmente, ao presidente do conselho de administração:
 
 a) Representar o conselho de administração em juízo ou fora dele;
 
@@ -340,7 +344,7 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 15.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões e reunirá extraordinariamente sempre que convocado pelo respectivo presidente, o qual poderá proceder a tal convocação por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
+Art. 15.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões e reunirá extraordinariamente sempre que convocado pelo respectivo presidente, o qual poderá proceder a tal convocação por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração só poderá funcionar estando presente ou representada a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos votos expressos.
 
@@ -350,7 +354,7 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 5 - As deliberações do conselho de administração constarão sempre de acta, que consignará os votos de vencido.
 
-###### Art. 16.º - 1 - A sociedade obriga-se:
+Art. 16.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois administradores, que deverão integrar a comissão executiva, quando esta existir;
 
@@ -366,13 +370,13 @@ c) Pela assinatura dos mandatários constituídos no âmbito do correspondente m
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 17.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente, dos vogais efectivos e um suplente, todos eleitos em assembleia geral por três anos, sendo reelegíveis uma ou mais vezes, mantendo-se em efectividade de funções até à posse dos membros que os venham substituir.
+Art. 17.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente, dos vogais efectivos e um suplente, todos eleitos em assembleia geral por três anos, sendo reelegíveis uma ou mais vezes, mantendo-se em efectividade de funções até à posse dos membros que os venham substituir.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
 3 - O presidente do conselho fiscal será designado pela assembleia geral que proceder à eleição do mesmo conselho.
 
-###### Art. 18.º - 1 - Além das atribuições constantes da lei geral, compete, especialmente, ao conselho fiscal:
+Art. 18.º - 1 - Além das atribuições constantes da lei geral, compete, especialmente, ao conselho fiscal:
 
 a) Assistir às reuniões do conselho de administração, sempre que entenda conveniente;
 
@@ -382,11 +386,11 @@ c) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 19.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, e o presidente tem voto de qualidade.
+Art. 19.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, e o presidente tem voto de qualidade.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 20.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
+Art. 20.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
 
 1) Um mínimo de 10% para constituição de reserva legal até atingir o montante exigível;
 
@@ -398,13 +402,13 @@ c) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 21.º O conselho de administração fica autorizado a aumentar o capital social fixado no artigo 4.º dos presentes estatutos, por uma ou mais vezes, até ao montante de 10000000000$00.
+Art. 21.º O conselho de administração fica autorizado a aumentar o capital social fixado no artigo 4.º dos presentes estatutos, por uma ou mais vezes, até ao montante de 10000000000$00.
 
-###### Art. 22.º - 1 - A sociedade dissolve-se nos casos e termos legais.
+Art. 22.º - 1 - A sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 11.º do Decreto-Lei n.º 26/91, de 11 de Janeiro)
 
@@ -412,21 +416,21 @@ PROJECTO DE ESTATUTOS DAS SOCIEDADES ANÓNIMAS A CRIAR POR CISÃO DA EPAC, S. A.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Art. 1.º Por cisão da EPAC, S. A., determinada pelo artigo 10.º do Decreto-Lei n.º 26/91, e deliberada no dia ..., conforme consta da respectiva acta, é constituída uma sociedade anónima que adopta a firma de ... e se rege pelos presentes estatutos e pela legislação geral ou especial que lhe for aplicável.
+Art. 1.º Por cisão da EPAC, S. A., determinada pelo artigo 10.º do Decreto-Lei n.º 26/91, e deliberada no dia ..., conforme consta da respectiva acta, é constituída uma sociedade anónima que adopta a firma de ... e se rege pelos presentes estatutos e pela legislação geral ou especial que lhe for aplicável.
 
-###### Art. 2.º - 1 - A duração da sociedae é por tempo indeterminado e a sede social é em ...
+Art. 2.º - 1 - A duração da sociedae é por tempo indeterminado e a sede social é em ...
 
 2 - Por deliberação do conselho de administração a sociedade poderá mudar a sua sede e criar e manter em qualquer ponto do território nacional, ou fora dele, agências, sucursais, delegações ou qualquer outra forma de representação.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto principal ...
+Art. 3.º - 1 - A sociedade tem por objecto principal ...
 
 2 - A sociedade pode prosseguir quaisquer outras actividades complementares ou subsidiárias que se relacionem com a prossecução do seu fim principal, bem como adquirir participações em sociedades com objecto diferente do seu, em sociedades reguladas por leis especiais, em agrupamentos complementares de empresas e agrupamentos europeus de interesse económico.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º O capital social é de ..., foi totalmente subscrito pela ... e encontra-se integralmente realizado mediante transferência dos bens destacados do património da EPAC - Empresa para Agroalimentação e Cereias, S. A.
+Art. 4.º O capital social é de ..., foi totalmente subscrito pela ... e encontra-se integralmente realizado mediante transferência dos bens destacados do património da EPAC - Empresa para Agroalimentação e Cereias, S. A.
 
-###### Art. 5.º - 1 - O capital social é representado por ... acções ...
+Art. 5.º - 1 - O capital social é representado por ... acções ...
 
 2 - Haverá títulos de 1, 5, 10, 100, 1000 e 10000 acções, podendo o conselho de administração emitir certificados, provisórios ou definitivos, representativos daquele número de acções.
 
@@ -436,17 +440,17 @@ PROJECTO DE ESTATUTOS DAS SOCIEDADES ANÓNIMAS A CRIAR POR CISÃO DA EPAC, S. A.
 
 5 - O custo das operações de registo das transmissões, o desdobramento, conversão ou outras relativas aos títulos referidos no número anterior será suportado pelos interessados, segundo critério a fixar pela assembleia geral.
 
-###### Art. 6.º - 1 - A sociedade pode emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
+Art. 6.º - 1 - A sociedade pode emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
 
 2 - Pode haver acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 7.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 7.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
+Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
 
 2 - A cada 100 acções corresponde 1 voto na assembleia geral.
 
@@ -458,7 +462,7 @@ PROJECTO DE ESTATUTOS DAS SOCIEDADES ANÓNIMAS A CRIAR POR CISÃO DA EPAC, S. A.
 
 6 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-###### Art. 9.º - 1 - Compete à assembleia geral:
+Art. 9.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -478,7 +482,7 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 3 - As votações poderão ser efectuadas nominalmente ou por sinais convencionais, conforme for decidido pelo presidente.
 
-###### Art. 10.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
+Art. 10.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com uma antecedência mínima de 30 dias, com a indicação expressa dos assuntos a tratar.
 
@@ -486,13 +490,13 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 5 - O mandato dos membros da mesa da assembleia geral é renovável, mantendo-se estes em efectividade de funções até à posse dos membros que os venham substituir.
 
-###### Art. 11.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação ao presidente pelos conselhos de administração ou fiscal ou por accionistas que representem pelo menos 5% do capital social e que o requeiram em carta, com assinatura reconhecida pelo notário ou autenticada por instituição de crédito, em que indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
+Art. 11.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação ao presidente pelos conselhos de administração ou fiscal ou por accionistas que representem pelo menos 5% do capital social e que o requeiram em carta, com assinatura reconhecida pelo notário ou autenticada por instituição de crédito, em que indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
 
 2 - Para efeitos de eleição de titulares dos órgãos sociais, ou deliberação sobre alterações dos estatutos e aumentos de capital, a assembleia geral só pode reunir encontrando-se presentes accionistas que representem, pelo menos, 51% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 12.º - 1 - O conselho de administração é composto por um presidente e dois vogais.
+Art. 12.º - 1 - O conselho de administração é composto por um presidente e dois vogais.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável, mantendo-se estes em efectividade de funções até à posse dos membros que os venham substituir.
 
@@ -500,7 +504,7 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 4 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidas por nomeação do próprio conselho até que em assembleia geral se proceda à competente eleição.
 
-###### Art. 13.º - 1 - Ao conselho de administração compete:
+Art. 13.º - 1 - Ao conselho de administração compete:
 
 a) Gerir os negócios sociais e praticar todos os actos relativos ao objectivo social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -516,7 +520,7 @@ f) Exercer as demais competências que lhe sejam atribuídas pela lei ou pela as
 
 2 - O conselho de administração poderá delegar a gestão corrente da sociedade num ou mais administradores, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 14.º - 1 - Compete, especialmente, ao presidente do conselho de administração:
+Art. 14.º - 1 - Compete, especialmente, ao presidente do conselho de administração:
 
 a) Representar o conselho de administração em juízo ou fora dele;
 
@@ -528,7 +532,7 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 15.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que convocado pelo respectivo presidente, o qual poderá proceder a tal convocação por sua iniciativa, ou a requerimento de dois administradores ou do conselho fiscal.
+Art. 15.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que convocado pelo respectivo presidente, o qual poderá proceder a tal convocação por sua iniciativa, ou a requerimento de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração só poderá funcionar estando presente ou representada a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos votos expressos.
 
@@ -538,7 +542,7 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 5 - As deliberações do conselho de administração constarão sempre de acta, que consignará os votos de vencido.
 
-###### Art. 16.º - 1 - A sociedade obriga-se:
+Art. 16.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois administradores, que deverão integrar a comissão executiva, quando esta existir;
 
@@ -554,13 +558,13 @@ c) Pela assinatura dos mandatários constituídos no âmbito do correspondente m
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 17.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral por três anos, sendo reelegíveis uma ou mais vezes, mantendo-se em efectividade de funções até à posse dos membros que os venham substituir.
+Art. 17.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral por três anos, sendo reelegíveis uma ou mais vezes, mantendo-se em efectividade de funções até à posse dos membros que os venham substituir.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
 3 - O presidente do conselho fiscal será designado pela assembleia geral que proceder à eleição do mesmo conselho.
 
-###### Art. 18.º - 1 - Além das atribuições constantes da lei geral, compete, especialmente, ao conselho fiscal:
+Art. 18.º - 1 - Além das atribuições constantes da lei geral, compete, especialmente, ao conselho fiscal:
 
 a) Assistir às reuniões do conselho de administração, sempre que entenda conveniente;
 
@@ -570,11 +574,11 @@ c) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 19.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, e o presidente tem voto de qualidade.
+Art. 19.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, e o presidente tem voto de qualidade.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 20.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
+Art. 20.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
 
 1) Um mínimo de 10% para constituição de reserva legal até atingir o montante exigível;
 
@@ -586,6 +590,6 @@ c) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 ### CAPÍTULO V — Disposição final e transitória
 
-###### Art. 21.º O conselho de administração fica autorizado a aumentar o capital social fixado no artigo 4.º dos presentes estatutos, por uma ou mais vezes, até ao montante de ...
+Art. 21.º O conselho de administração fica autorizado a aumentar o capital social fixado no artigo 4.º dos presentes estatutos, por uma ou mais vezes, até ao montante de ...
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.

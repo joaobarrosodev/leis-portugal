@@ -46,40 +46,148 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1990-334627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d9fc683d878b36e9f5d31c65748455dea20dd2859dfbb2fea980af73e7d31bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2b9d0f780e49850d6e07297fa27150d848e4efcc00504150d48473e94b8d137
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Registo Predial
+- Registo Predial
 relationships:
 - type: amended_by
   target: pt:dre:499550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o artigo 40.º do Código do Registo Predial (aprovado pelo Decreto-Lei 224/84, de 06 de Julho), pelo Decreto-Lei\
+    \ 80/92, de 07 de Maio, DR.IS-A [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-05-07'
+- type: amended_by
+  target: pt:dre:500048:por
+  label: "Alterado o art. 40.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.80/92.07.05.1992.MJ, DR.IS-A [105] de 07.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-1992-500048
+  date: '1992-05-07'
+- type: amended_by
+  target: pt:dre:648374:por
+  label: "Alterado o art. 72.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.30/93.12.02.1993.MJ, DR.IS-A [36] de 12.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1993-648374
+  date: '1993-02-12'
+- type: amended_by
+  target: pt:dre:389636:por
+  label: "Alterado o art. 65º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 0-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.255/93.15.07.1993.MJ, DR.IS-A [164] de 15.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/255-1993-389636
+  date: '1993-07-15'
+- type: amended_by
+  target: pt:dre:657045:por
+  label: "Alterados os art.s 40º, 44º e 114º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção\
+    \ do presente diploma, pelo DEC LEI.227/94.08.09.1994.MJ, DR.IS-A [208] de 08.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1994-657045
+  date: '1994-09-08'
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantido em vigor o n.º 2 do art 148º do Código do Registo Predial, aprovado pelo Dec-Lei 224/84, de 06-Jun, na redacção\
+    \ do art 1º do presente diploma, pelo DEC LEI.224-A/96.26.11.1996.MJ, DR.IS-A [274-2ºSupl] de 26.11.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: amended_by
+  target: pt:dre:508858:por
+  label: "Alterado o art. 147º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo presente diploma, pelo DEC LEI.375-A/99.20.09.1999.MJ, DR.IS-A [220-Supl] de 20.09.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-a-1999-508858
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:632723:por
+  label: "Alterados os art.s 9.º, 28.º, 30.º, 32.º, 44.º, 47.º, 65.º, 72.º, 83.º, 110.º, 141.º, 142.º, 143.º, 144.º, 145.º,\
+    \ 148.º, 149.º e 151.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.533/99.1999.12.11.MJ DR.IS-A [287]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1999-632723
+  date: '1999-12-11'
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Alterados os arts. 116º e 129.º do Código de Registo Predial aprovado pelo Dec Lei 224/84 de 06-Jun, alterados pelo\
+    \ presente diploma, pelo DEC LEI.273/2001.2001.10.13.MJ, DR.IS-A [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
+- type: amended_by
+  target: pt:dre:499204:por
+  label: "Alterado o art. 56º do Código do Registo Predial aprovado pelo Dec Lei 224/84 de 06-Jul, com a redacção constante\
+    \ do presente diploma, pelo DEC LEI.263-A/2007.23.07.2007.MJ, DR.IS [140-Supl] de 23.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-a-2007-499204
+  date: '2007-07-23'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 9º, 28º, 33º, 34º, 35º, 38º, 44º, 47º, 56º, 59º, 66º, 72º, 82º, 83º, 87º, 90º, 110º, 111º, 113º,\
+    \ 129º, 140º, 141º, 142º, 144º, 145º, 146º, 147º, 148º, 149º, 151º e revogados os art.s 30º e 32º, nº 3 do art. 33º, nº\
+    \ 3º do art. 38º, art. 40º, al.s d), e) ,e f) do nº 1 do art. 44º, art. 65º, al. a) do nº 1 do art. 66º, al. e) do nº\
+    \ 1 do art. 82º, art. 114º, nºs 4 e 5 do art. 129º, nº 2 do art. 141º, nºs 3, 4 e 5 do art. 142º, art. 143º, nº 2 do art\
+    \ 147º e art 152º do Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente diploma,\
+    \ pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:608757:por
+  label: "Alterado o art. 56º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.122/2009.21.05.2009.MJ, DR.IS [98] de 21.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2009-608757
+  date: '2009-05-21'
+- type: amended_by
+  target: pt:dre:493506:por
+  label: "Alterados os art.s 47º e 59º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06 -Jul, na redacção\
+    \ do presente diploma, pelo DEC LEI.185/2009.12.08.2009.MFAP, DR.IS [155] de 12.08.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2009-493506
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:176071:por
+  label: "Altera o art. 110º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-jul, na redação do presente\
+    \ diploma, pelo DEC LEI.209/2012.19.09.2012.MJ, DR.IS [182] de 19.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:499550:por
+  label: "Alterados os arts. 44º, 66º, 140º, 141º, 145º, 147º, 148º, 149º e 151º do Código do Registo Predial aprovado pelo\
+    \ Dec Lei 224/84, de 06-jul, na redação do presente diploma, pelo DEC LEI.125/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2013-499550
+  date: '2013-08-30'
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:575543:por
+  label: Rectificados a al. b) do art. 3º, o nº 2 do art. 30º, a al. a) do art. 35º e o nº 1 do art. 90º pela DECL.DD3408.1990.03.31.PCM
+    DR.IS [76]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-575543
+  date: '1990-03-16'
 article_structure:
-  article_count: 40
+  article_count: 39
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:21Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +216,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, 28.º, 30.º, 32.º, 33.º, 34.º, 35.º, 38.º, 40.º, 44.º, 47.º, 56.º, 57.º, 59.º, 65.º, 66.º, 72.º, 82.º, 83.º, 87.º, 90.º, 110.º, 111.º, 113.º, 114.º, 116.º, 129.º, 140.º, 141.º, 142.º, 143.º, 144.º, 145.º, 146.º, 147.º, 148.º, 149.º, 151.º e 152.º do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, 28.º, 30.º, 32.º, 33.º, 34.º, 35.º, 38.º, 40.º, 44.º, 47.º, 56.º, 57.º, 59.º, 65.º, 66.º, 72.º, 82.º, 83.º, 87.º, 90.º, 110.º, 111.º, 113.º, 114.º, 116.º, 129.º, 140.º, 141.º, 142.º, 143.º, 144.º, 145.º, 146.º, 147.º, 148.º, 149.º, 151.º e 152.º do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 9.º — [...]
 
@@ -504,7 +612,7 @@ f) As descrições dos prédios de cada proprietário submetidos a emparcelament
 
 3 - Salvo disposição em contrário, todos os livros, fichas, verbetes ou impressos previstos neste Código e exclusivamente destinados ao serviço do registo não carecem de selo.
 
-###### Art. 2.º - 1 - O sistema de fichas previsto no Código do Registo Predial aplica-se integralmente aos registos a lavrar por inscrição, mantendo-se a sequência numérica das descrições por cada freguesia, de acordo com as disposições legais aplicáveis.
+Art. 2.º - 1 - O sistema de fichas previsto no Código do Registo Predial aplica-se integralmente aos registos a lavrar por inscrição, mantendo-se a sequência numérica das descrições por cada freguesia, de acordo com as disposições legais aplicáveis.
 
 2 - Para os actos de registo a efectuar por averbamento que respeitem a descrições anteriores podem ser transitoriamente utilizados os livros B, C, F e G, escriturados nos mesmos termos que as fichas, com as adaptações necessárias; o mesmo regime pode ser autorizado por despacho do director-geral dos Registos e do Notariado para os outros actos, sempre que tal se justifique.
 
@@ -512,22 +620,22 @@ f) As descrições dos prédios de cada proprietário submetidos a emparcelament
 
 4 - A cada descrição extractada é atribuído o número de ordem que lhe vier a caber dentro de cada freguesia, anotando-se na ficha o número e as folhas que tinha no livro e neste a referência à ficha.
 
-###### Art. 3.º O cancelamento de inscrição relativa a crédito que tenha sido sujeito a manifesto fiscal pode ser feito com base em certidão comprovativa de qualquer dos seguintes factos:
+Art. 3.º O cancelamento de inscrição relativa a crédito que tenha sido sujeito a manifesto fiscal pode ser feito com base em certidão comprovativa de qualquer dos seguintes factos:
 
 a) Ter sido cancelado o manifesto há mais de 10 anos;
 
 b) Não constar o crédito dos livros para lançamento do imposto sobre a aplicação de capitais referente aos últimos cinco anos no caso de um manifesto dever ter sido feito há mais de 10 anos.
 
-###### Art. 4.º O presente diploma entra em vigor no primeiro dia do terceiro mês seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no primeiro dia do terceiro mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
 
-**Promulgado em 31 de Janeiro de 1990.**
+Promulgado em 31 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Fevereiro de 1990.**
+Referendado em 2 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

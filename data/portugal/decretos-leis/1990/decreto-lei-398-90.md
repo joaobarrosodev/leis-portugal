@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28400/50515051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1990-565269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c2ccf5a5576e7fb8acfbaf32768e76b897b3aa24ce2c90e096a2a056097d6aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 880ed555f6f1de9fde89c0f20a8f08aedb2cf9e490e5692b104d3cb2f40bfede
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acumulação de Pensões
+- Cálculo de Pensões
+- Pensão de Sobrevivência
+- Regime Contributivo da Segurança Social
+- Regime Jurídico
+- Segurança Social
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:283477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324937:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:31Z'
   warnings: []
   errors: []
 ---
@@ -101,18 +121,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É revogado o artigo 64.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), de 28 de Março, com a redacção dada pelo artigo 4.º do [Decreto-Lei n.º 13/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1988-283477), de 15 de Janeiro.
+Artigo 1.º É revogado o artigo 64.º do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), de 28 de Março, com a redacção dada pelo artigo 4.º do [Decreto-Lei n.º 13/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1988-283477), de 15 de Janeiro.
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Setembro de 1990 e é aplicável às pensões em curso nessa data.
+Art. 2.º O presente diploma produz efeitos desde 1 de Setembro de 1990 e é aplicável às pensões em curso nessa data.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1990. - Aníbal António Cavaco Silva - José Oliveira Costa - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Novembro de 1990.**
+Promulgado em 26 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Novembro de 1990.**
+Referendado em 28 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

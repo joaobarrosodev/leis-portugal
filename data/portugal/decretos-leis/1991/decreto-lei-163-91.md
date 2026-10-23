@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/163/1991/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1991-616632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1e5138838367fb8bb10d4a1f27fe6829a9bd6397eaa5449c710ff48bc41bd3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08c40e80eb87b34c0ca9a1d6f27f7d2fd584e0295be6ad6a56934f534d652841
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,21 @@ subjects:
 - Energia Elétrica
 - Preço
 - Preço Convencional
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:448682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:46Z'
   warnings: []
   errors: []
 ---
@@ -100,20 +104,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 18-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-a-1989-448682), de 12 de Janeiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 18-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-a-1989-448682), de 12 de Janeiro, passa a ter a seguinte redacção:
 
-###### Art. 6.º É estabelecido um regime transitório até 31 de Dezembro de 1993 para adaptação progressiva ao novo sistema tarifário, para as empresas actualmente com contratos com cláusulas de flexibilidade e interruptibilidade, a regulamentar em convenção específica.
+Art. 6.º É estabelecido um regime transitório até 31 de Dezembro de 1993 para adaptação progressiva ao novo sistema tarifário, para as empresas actualmente com contratos com cláusulas de flexibilidade e interruptibilidade, a regulamentar em convenção específica.
 
-###### Art. 2.º Este diploma produz efeitos desde 1 de Janeiro de 1991.
+Art. 2.º Este diploma produz efeitos desde 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 4 de Abril de 1991. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - António Neto da Silva.
 
-**Promulgado em 19 de Abril de 1991.**
+Promulgado em 19 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Abril de 1991.**
+Referendado em 22 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

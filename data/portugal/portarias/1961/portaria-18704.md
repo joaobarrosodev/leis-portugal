@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18704-1961-173951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48af8450cdfacafa0b283878b75d1f4273756bc8ba6b78b08aaa9684bf3f0bc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1365f51bdc2afb405b0f3177be5130d2f9555c25919efd3db898b880b96f85d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:38Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +85,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, fixar para as lanchas de fiscalização das classes Antares e Bellatrix e para as lanchas de desembarque da classe LD1 as seguintes lotações normais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/08/19900/10791079.pdf))](https://files.diariodarepublica.pt/1s/1961/08/19900/10791079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/08/19900/10791079.pdf)
 
 Notas
 

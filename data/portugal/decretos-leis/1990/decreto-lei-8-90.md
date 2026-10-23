@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/00300/00230024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1990-313857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 364b7098b20086e80f9bb47625486ab69c23438bd46ed064c5ae55851b17998b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9016e232bd2aaf82db0cca354e5588836be607fdeab70693b6c63d1d4c30efa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Detergente
+- Embalagem
+- Etiquetagem
+- Poluição
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:518863:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:518863:por
+  label: "Revogado pelo DEC LEI.49/2007.28.02.2007.MEI, DR.IS [42] de 28.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2007-518863
+  date: '2007-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:46Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +110,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Entende-se por detergente, para os efeitos do presente diploma, todo o produto cuja composição compreenda como componentes essenciais produtos tensoactivos e como componentes complementares produtos adjuvantes, intensificadores, cargas, aditivos e outros componentes acessórios.
+Artigo 1.º Entende-se por detergente, para os efeitos do presente diploma, todo o produto cuja composição compreenda como componentes essenciais produtos tensoactivos e como componentes complementares produtos adjuvantes, intensificadores, cargas, aditivos e outros componentes acessórios.
 
-###### Art. 2.º É proibido produzir, vender e utilizar detergentes que contenham produtos tensoactivos aniónicos, catiónicos, não iónicos ou anfólitos cuja biodegradabilidade média seja inferior a 90%.
+Art. 2.º É proibido produzir, vender e utilizar detergentes que contenham produtos tensoactivos aniónicos, catiónicos, não iónicos ou anfólitos cuja biodegradabilidade média seja inferior a 90%.
 
-###### Art. 3.º A verificação do limite de biodegradabilidade fixado no artigo anterior será realizada mediante ensaios em laboratórios de qualificação reconhecida, nos termos legais, segundo a metodologia de execução a aprovar por portaria do Ministro da Indústria e Energia, que fixará ainda as tolerâncias apropriadas.
+Art. 3.º A verificação do limite de biodegradabilidade fixado no artigo anterior será realizada mediante ensaios em laboratórios de qualificação reconhecida, nos termos legais, segundo a metodologia de execução a aprovar por portaria do Ministro da Indústria e Energia, que fixará ainda as tolerâncias apropriadas.
 
-###### Art. 4.º - 1 - As embalagens em que os detergentes são apresentados ao consumidor devem indicar, em língua portuguesa e de forma legível, visível e indelével:
+Art. 4.º - 1 - As embalagens em que os detergentes são apresentados ao consumidor devem indicar, em língua portuguesa e de forma legível, visível e indelével:
 
 a) A denominação do produto;
 
@@ -113,7 +124,7 @@ b) O nome ou firma e o endereço, ou a marca do responsável pela comercializaç
 
 2 - As indicações referidas no número anterior devem figurar nos documentos que acompanham os detergentes transportados a granel.
 
-###### Art. 5.º - 1 - A fiscalização do cumprimento do disposto no presente diploma incumbe às delegações regionais do Ministério da Indústria e Energia, sem prejuízo das competências atribuídas por lei a outras entidades.
+Art. 5.º - 1 - A fiscalização do cumprimento do disposto no presente diploma incumbe às delegações regionais do Ministério da Indústria e Energia, sem prejuízo das competências atribuídas por lei a outras entidades.
 
 2 - Das infracções verificadas será levantado auto de notícia, nos termos do artigo 243.º do Código de Processo Penal.
 
@@ -121,7 +132,7 @@ b) O nome ou firma e o endereço, ou a marca do responsável pela comercializaç
 
 4 - As entidades fiscalizadoras podem colher amostras e exigir dos agentes económicos referidos no n.º 1 as informações e demais apoio imprescindíveis ao exercício das suas funções e solicitar das entidades policiais todo o auxílio de que necessitem para o mesmo efeito.
 
-###### Art. 6.º - 1 - A inobservância do disposto no artigo 2.º constitui contra-ordenação punível com coima, cujo montante mínimo será de 5000$00 e cujo montante máximo será de 200000$00 quando se trate de pessoas singulares e de 3000000$00 quando se trate de pessoas colectivas.
+Art. 6.º - 1 - A inobservância do disposto no artigo 2.º constitui contra-ordenação punível com coima, cujo montante mínimo será de 5000$00 e cujo montante máximo será de 200000$00 quando se trate de pessoas singulares e de 3000000$00 quando se trate de pessoas colectivas.
 
 2 - As coimas previstas no número anterior são aplicadas pelos directores das delegações regionais do Ministério da Indústria e Energia, sendo a respectiva receita distribuída da seguinte forma:
 
@@ -139,20 +150,20 @@ d) 15% para a Direcção-Geral da Indústria.
 
 5 - Em tudo o que em matéria de contra-ordenações não estiver previsto no presente diploma aplicar-se-á o disposto no regime geral do ilícito de mera ordenação social.
 
-###### Art. 7.º - 1 - As atribuições e competências conferidas às delegações regionais do Ministério da Indústria e Energia e aos seus directores serão exercidas nas regiões autónomas pelos respectivos serviços e entidades correspondentes.
+Art. 7.º - 1 - As atribuições e competências conferidas às delegações regionais do Ministério da Indústria e Energia e aos seus directores serão exercidas nas regiões autónomas pelos respectivos serviços e entidades correspondentes.
 
 2 - Constituem receita das regiões autónomas as coimas nelas aplicadas ao abrigo do presente diploma.
 
-###### Art. 8.º O presente diploma entra em vigor no dia 1 de Janeiro de 1990.
+Art. 8.º O presente diploma entra em vigor no dia 1 de Janeiro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 18 de Outubro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 14 de Dezembro de 1989.**
+Promulgado em 14 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1989.**
+Referendado em 18 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

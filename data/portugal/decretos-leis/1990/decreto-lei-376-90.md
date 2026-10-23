@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1990-564874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5729a10b4a1f2fdd75971828e14547e536e5ae14c2eae771fa4e45ef03f0b09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a97575e9c6a4bb645bb86127db96831b2e08a501115cac1935040ba2dd000e98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Nacional de Urânio
+- Empresa Pública
+- Estatuto
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Privatização
+- Sociedade Anónima
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:693588:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693588:por
+  label: Alterado o art. 11.º pelo DEC LEI.468/99.1999.11.06.MECO,DR.IS-A [259]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/468-1999-693588
+  date: '1999-11-06'
+- type: cites
+  target: pt:dre:141025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:247196:por
+  label: Rectificados o n.º 2 do art. 2.º, o art. 8.º e o n.º 1 do art. 9.º do diploma preambular, assim como o n.º 1 do art.
+    17.º dos Estatutos anexos pela DECL.1990.12.27.PCM, DR.IS [300]5ºSupl de 31.12.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-247196
+  date: '1990-12-27'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:05Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +148,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A ENU - Empresa Nacional de Urânio, E. P., criada pelo [Decreto n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto/66-1977-251656), de 6 de Maio, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se ENU - Empresa Nacional de Urânio, S. A.
+Artigo 1.º - 1 - A ENU - Empresa Nacional de Urânio, E. P., criada pelo [Decreto n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto/66-1977-251656), de 6 de Maio, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se ENU - Empresa Nacional de Urânio, S. A.
 
 2 - A ENU - Empresa Nacional de Urânio, S. A., rege-se pelo presente diploma, pelos seus estatutos e pelas normas de direito privado aplicáveis às sociedades anónimas.
 
-###### Art. 2.º - 1 - A ENU - Empresa Nacional de Urânio, S. A., sucede automática e globalmente à ENU - Empresa Nacional de Urânio, E. P., continuando a personalidade jurídica desta e conservando a universalidade dos direitos e obrigações que integram a sua esfera jurídica no momento da transformação.
+Art. 2.º - 1 - A ENU - Empresa Nacional de Urânio, S. A., sucede automática e globalmente à ENU - Empresa Nacional de Urânio, E. P., continuando a personalidade jurídica desta e conservando a universalidade dos direitos e obrigações que integram a sua esfera jurídica no momento da transformação.
 
 2 - O presente diploma é título bastante para a comprovação do disposto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicado, subscrito por dois membros do conselho de administração da ENU - Empresa Nacional de Urânio, S. A.
 
-###### Art. 3.º - 1 - A ENU - Empresa Nacional de Urânio, S. A., tem um capital social de 1000 milhões de escudos, integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
+Art. 3.º - 1 - A ENU - Empresa Nacional de Urânio, S. A., tem um capital social de 1000 milhões de escudos, integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
 
 2 - As acções representativas do capital subscrito pelo Estado serão mantidas na titularidade da Direcção-Geral do Tesouro, podendo, no entanto, a sua gestão ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por disposição legal, pertença ao sector público.
 
@@ -121,7 +166,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Os direitos do Estado como accionista da sociedade são exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e da Indústria e Energia, salvo quando a gestão das acções tenha sido cometida a outra entidade, nos termos do n.º 2 do presente artigo.
 
-###### Art. 4.º - 1 - São aprovados os estatutos da ENU - Empresa Nacional de Urânio, S. A., anexos a este diploma.
+Art. 4.º - 1 - São aprovados os estatutos da ENU - Empresa Nacional de Urânio, S. A., anexos a este diploma.
 
 2 - Os estatutos referidos no número anterior não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
@@ -129,9 +174,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A alteração da natureza jurídica efectuada pelo artigo 1.º, bem como os estatutos da ENU - Empresa Nacional de Urânio, S. A., agora aprovados, produzem efeito relativamente a terceiros independentemente do registo, o qual, no entanto, deve ser requerido nos 90 dias seguintes à entrada em vigor do presente diploma.
 
-###### Art. 5.º A ENU - Empresa Nacional de Urânio, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 5.º A ENU - Empresa Nacional de Urânio, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 6.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração da ENU - Empresa Nacional de Urânio, S. A., enviará aos Ministérios das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 6.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração da ENU - Empresa Nacional de Urânio, S. A., enviará aos Ministérios das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -139,7 +184,7 @@ b) Quaisquer elementos adequados para a compreensão integral da situação econ
 
 2 - O conselho fiscal enviará trimestralmente aos Ministérios das Finanças e da Indústria e Energia um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 7.º - 1 - Os trabalhadores e pensionistas da ENU - Empresa Nacional de Urânio, E. P., mantêm perante a ENU - Empresa Nacional de Urânio, S. A., todos os direitos, obrigações e regalias que detiverem à data da entrada em vigor deste diploma.
+Art. 7.º - 1 - Os trabalhadores e pensionistas da ENU - Empresa Nacional de Urânio, E. P., mantêm perante a ENU - Empresa Nacional de Urânio, S. A., todos os direitos, obrigações e regalias que detiverem à data da entrada em vigor deste diploma.
 
 2 - Os trabalhadores da ENU - Empresa Nacional de Urânio, E. P., que se encontravam inscritos na Caixa Geral de Aposentações e beneficiavam do sistema de protecção própria dos trabalhadores da função pública podem transitar para o sistema de segurança social, sendo-lhes aplicável o regime da pensão unificada, prevista no [Decreto-Lei n.º 143/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1988-285308), de 22 de Abril, sem quebra de direitos.
 
@@ -147,15 +192,15 @@ b) Quaisquer elementos adequados para a compreensão integral da situação econ
 
 4 - Os trabalhadores da ENU - Empresa Nacional de Urânio, S. A., que sejam chamados a ocupar cargos nos órgãos da empresa em nada serão prejudicados por esse facto, regressando aos seus lugares logo que terminem o seu mandato.
 
-###### Art. 8.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiros que celebraram contratos com a ENU - Empresa Nacional de Urânio, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração das circunstâncias para efeitos dos referidos contratos.
+Art. 8.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiros que celebraram contratos com a ENU - Empresa Nacional de Urânio, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração das circunstâncias para efeitos dos referidos contratos.
 
-###### Art. 9.º - 1 - É, por este forma, convocada a assembleia geral da ENU - Empresa Nacional de Urânio, S. A., a qual deve reunir na sede da sociedade pelas 17 horas do 30.º dia posterior à data de entrada em vigor do presnete diploma ou do 1.º dia útil subsequente, com o objectivo de eleger os titulares dos órgãos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 9.º - 1 - É, por este forma, convocada a assembleia geral da ENU - Empresa Nacional de Urânio, S. A., a qual deve reunir na sede da sociedade pelas 17 horas do 30.º dia posterior à data de entrada em vigor do presnete diploma ou do 1.º dia útil subsequente, com o objectivo de eleger os titulares dos órgãos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os actuais membros do conselho de gerência e da comissão de fiscalização da ENU - Empresa Nacional de Urânio, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da ENU - Empresa Nacional de Urânio, S. A., com as competências fixadas nos estatutos para o conselho de administração e o conselho fiscal, respectivamente.
 
-###### Art. 10.º Atenta a natureza específica da sua actividade, a ENU - Empresa Nacional de Urânio, S. A., gozará, sempre que tal se mostre indispensável à prossecução dos seus fins, dos direitos atribuídos por disposições legais e regulamentares à ENU - Empresa Nacional de Urânio, E. P., para efeitos de expropriação por utilidade pública urgente e de protecção das suas instalações.
+Art. 10.º Atenta a natureza específica da sua actividade, a ENU - Empresa Nacional de Urânio, S. A., gozará, sempre que tal se mostre indispensável à prossecução dos seus fins, dos direitos atribuídos por disposições legais e regulamentares à ENU - Empresa Nacional de Urânio, E. P., para efeitos de expropriação por utilidade pública urgente e de protecção das suas instalações.
 
-###### Art. 11.º - 1 - À ENU - Empresa Nacional de Urânio, S. A., continuará a assistir o regime de exclusivo no exercício das actividades de exploração de jazigos de urânio e de estabelecimento e exploração de instalações de recuperação e tratamento de minerais de urânio, com ressalva dos direitos adquiridos, a favor de terceiros, à data da entrada em vigor do [Decreto n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto/66-1977-251656), de 6 de Maio, que aprovou o estatuto da ENU - Empresa Nacional de Urânio, E. P.
+Art. 11.º - 1 - À ENU - Empresa Nacional de Urânio, S. A., continuará a assistir o regime de exclusivo no exercício das actividades de exploração de jazigos de urânio e de estabelecimento e exploração de instalações de recuperação e tratamento de minerais de urânio, com ressalva dos direitos adquiridos, a favor de terceiros, à data da entrada em vigor do [Decreto n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto/66-1977-251656), de 6 de Maio, que aprovou o estatuto da ENU - Empresa Nacional de Urânio, E. P.
 
 2 - Os bens do domínio público mineiro que se encontrem afectos ao exercício das actividades que constituíam o objecto estatutário da ENU - Empresa Nacional de Urânio, E. P., e os que venham a estar afectos à ENU - Empresa Nacional de Urânio, S. A., são por esta administrados, nos termos previstos no artigo 15.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
 
@@ -163,27 +208,27 @@ b) Quaisquer elementos adequados para a compreensão integral da situação econ
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral.
 
-**Promulgado em 10 de Novembro de 1990.**
+Promulgado em 10 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Novembro de 1990.**
+Referendado em 16 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos da ENU - Empresa Nacional de Urânio, S. A.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de ENU - Empresa Nacional de Urânio, S. A.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de ENU - Empresa Nacional de Urânio, S. A.
 
-###### Art. 2.º - 1 - A sociedade durará por tempo indeterminado e tem a sua sede na Urgeiriça, no concelho de Nelas.
+Art. 2.º - 1 - A sociedade durará por tempo indeterminado e tem a sua sede na Urgeiriça, no concelho de Nelas.
 
 2 - Por deliberação do conselho de administração pode a sociedade mudar a sua sede, ainda que para município diferente, desde que limítrofe, e criar ou extinguir em qualquer ponto do território nacional ou no estrangeiro sucursais, agências, delegações ou qualquer outra forma de representação.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto o exercício das actividades de prospecção, indústria, comércio e serviços relacionados com o abastecimento de urânio e outras substâncias minerais nucleares, o aproveitamento de outros recursos naturais e energéticos, bem como actividades com aquelas conexas ou delas derivadas.
+Art. 3.º - 1 - A sociedade tem por objecto o exercício das actividades de prospecção, indústria, comércio e serviços relacionados com o abastecimento de urânio e outras substâncias minerais nucleares, o aproveitamento de outros recursos naturais e energéticos, bem como actividades com aquelas conexas ou delas derivadas.
 
 2 - Excluem-se do âmbito do número anterior as actividades relativas a recursos minerais de sulfuretos complexos, cupríferos, carvão, volfrâmio e ferro.
 
@@ -191,7 +236,7 @@ Estatutos da ENU - Empresa Nacional de Urânio, S. A.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 1000 milhões de escudos, encontrando-se integralmente subscrito e realizado pelo Estado, e divide-se em 1000000 de acções com o valor nominal de 1000$00 cada uma.
+Art. 4.º - 1 - O capital social é de 1000 milhões de escudos, encontrando-se integralmente subscrito e realizado pelo Estado, e divide-se em 1000000 de acções com o valor nominal de 1000$00 cada uma.
 
 2 - Haverá títulos de 1, 5, 50, 100, 1000, 5000 e 10000 acções.
 
@@ -201,17 +246,17 @@ Estatutos da ENU - Empresa Nacional de Urânio, S. A.
 
 5 - Poderá haver acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 50% do capital social.
 
-###### Art. 5.º O conselho de administração fica autorizado, desde já, a aumentar o capital social, por uma ou mais vezes, até ao montante de 3000 milhões de escudos, com prévio parecer favorável do conselho fiscal.
+Art. 5.º O conselho de administração fica autorizado, desde já, a aumentar o capital social, por uma ou mais vezes, até ao montante de 3000 milhões de escudos, com prévio parecer favorável do conselho fiscal.
 
-###### Art. 6.º Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções, na proporção das que possuírem, salvo deliberação de limitação ou supressão da assembleia geral, tomada nos termos da lei comercial.
+Art. 6.º Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções, na proporção das que possuírem, salvo deliberação de limitação ou supressão da assembleia geral, tomada nos termos da lei comercial.
 
-###### Art. 7.º A sociedade poderá, por deliberação da assembleia geral ou do conselho de administração, emitir e converter obrigações de qualquer dos tipos e modalidades admitidos, nos termos e até aos limites legais, e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
+Art. 7.º A sociedade poderá, por deliberação da assembleia geral ou do conselho de administração, emitir e converter obrigações de qualquer dos tipos e modalidades admitidos, nos termos e até aos limites legais, e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
 
 ### CAPÍTULO III — Órgãos sociais
 
 #### SECÇÃO I — Disposição geral
 
-###### Art. 8.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 8.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O mandato dos titulares dos órgãos sociais tem a duração de três anos, sendo permitida a sua reeleição por uma ou mais vezes.
 
@@ -223,7 +268,7 @@ Estatutos da ENU - Empresa Nacional de Urânio, S. A.
 
 #### SECÇÃO II — Assembleia geral
 
-###### Art. 9.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
+Art. 9.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
 
 2 - A cada 100 acções corresponde um voto.
 
@@ -235,7 +280,7 @@ Estatutos da ENU - Empresa Nacional de Urânio, S. A.
 
 6 - Os restantes accionistas que sejam pessoas colectivas deverão indicar, por carta dirigida ao presidente da mesa, até ao penúltimo dia útil anterior à reunião, quem os representará na assembleia geral.
 
-###### Art. 10.º - 1 - Compete à assembleia geral, sem prejuízo das demais formas legais de deliberação dos sócios:
+Art. 10.º - 1 - Compete à assembleia geral, sem prejuízo das demais formas legais de deliberação dos sócios:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço, as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -249,7 +294,7 @@ e) Tratar de qualquer outro assunto para que tenha sido convocada, dentro das at
 
 2 - As deliberações serão tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número.
 
-###### Art. 11.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída ainda por um vice-presidente e um secretário, eleitos pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
+Art. 11.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída ainda por um vice-presidente e um secretário, eleitos pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com a antecedência mínima de 30 dias, com indicação expressa dos assuntos a tratar.
 
@@ -257,11 +302,11 @@ e) Tratar de qualquer outro assunto para que tenha sido convocada, dentro das at
 
 4 - Para efeitos do número anterior, as acções deverão manter-se registadas em nome dos accionistas ou depositadas, pelo menos, até ao encerramento da reunião da assembleia geral.
 
-###### Art. 12.º A assembleia geral reunirá ordinariamente, pelo menos, uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário e o solicitem ao presidente da mesa, ou quando a reunião seja requerida por accionistas que representem, pelo menos, 10% do capital.
+Art. 12.º A assembleia geral reunirá ordinariamente, pelo menos, uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário e o solicitem ao presidente da mesa, ou quando a reunião seja requerida por accionistas que representem, pelo menos, 10% do capital.
 
 #### SECÇÃO III — Conselho de administração
 
-###### Art. 13.º - 1 - O conselho de administração é composto por um presidente e por um número par de vogais, no máximo de seis, dos quais um máximo de quatro poderão ser eleitos sem funções executivas.
+Art. 13.º - 1 - O conselho de administração é composto por um presidente e por um número par de vogais, no máximo de seis, dos quais um máximo de quatro poderão ser eleitos sem funções executivas.
 
 2 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos por cooptação pelo próprio conselho de administração até que a primeira assembleia geral posterior sobre eles proveja definitivamente.
 
@@ -271,7 +316,7 @@ e) Tratar de qualquer outro assunto para que tenha sido convocada, dentro das at
 
 5 - Os administradores têm direito a um regime de reforma e complementos de pensões de reforma, a cargo da sociedade, nos termos que constarem de regulamento aprovado pela assembleia geral.
 
-###### Art. 14.º - 1 - Ao conselho de administração compete, além das demais atribuições que por lei lhe são conferidas:
+Art. 14.º - 1 - Ao conselho de administração compete, além das demais atribuições que por lei lhe são conferidas:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -287,7 +332,7 @@ f) Constituir mandatários com os poderes que julgue convenientes, incluindo os 
 
 2 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, compostas por alguns dos seus membros com funções executivas, algum ou alguns dos poderes que lhe são conferidos pelo número anterior, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 15.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 15.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar a sociedade em juízo ou fora dele;
 
@@ -299,7 +344,7 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vice-presidente designado pelo conselho, ou, se não o houver, pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 16.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que seja convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
+Art. 16.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que seja convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros em exercício, salvo por motivo de urgência, como tal expressamente reconhecido pelo presidente, caso em que os votos podem ser expressos por carta dirigida ao presidente.
 
@@ -307,13 +352,13 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 4 - Os administradores podem fazer-se representar nas reuniões do conselho por outro administrador designado por simples carta dirigida ao presidente.
 
-###### Art. 17.º - 1 - Nas actas do conselho de administração e da comissão executiva mencionar-se-ão, sumariamente mas com clareza, os assuntos tratados nas respectivas reuniões.
+Art. 17.º - 1 - Nas actas do conselho de administração e da comissão executiva mencionar-se-ão, sumariamente mas com clareza, os assuntos tratados nas respectivas reuniões.
 
 2 - As actas são assinadas por todos os membros do conselho de administração que participarem na reunião.
 
 3 - Os participantes na reunião podem ditar para a acta a súmula das suas intervenções, sendo-lhes ainda facultado votar vencido quanto às decisões de que discordem.
 
-###### Art. 18.º - 1 - A sociedade obriga-se:
+Art. 18.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -331,19 +376,19 @@ d) Pela assinatura de mandatários constituídos, nos termos dos correspondentes
 
 #### SECÇÃO IV — Conselho fiscal
 
-###### Art. 19.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
+Art. 19.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
-###### Art. 20.º - 1 - Ao conselho fiscal competem as funções e poderes estabelecidos na lei.
+Art. 20.º - 1 - Ao conselho fiscal competem as funções e poderes estabelecidos na lei.
 
 2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito ou por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 21.º As deliberações do conselho fiscal serão tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, tendo o presidente voto de qualidade.
+Art. 21.º As deliberações do conselho fiscal serão tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, tendo o presidente voto de qualidade.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 22.º - 1 - Os resultados positivos do exercício, devidamente aprovados, devem ser aplicados prioritariamente na constituição da reserva legal e na cobertura de prejuízos de anos anteriores, devendo o remanescente ser aplicado, conforme deliberação da assembleia geral, com observância dos seguintes princípios:
+Art. 22.º - 1 - Os resultados positivos do exercício, devidamente aprovados, devem ser aplicados prioritariamente na constituição da reserva legal e na cobertura de prejuízos de anos anteriores, devendo o remanescente ser aplicado, conforme deliberação da assembleia geral, com observância dos seguintes princípios:
 
 a) Pelo menos 20% serão aplicados na distribuição de dividendos aos accionistas;
 
@@ -353,8 +398,8 @@ b) Até 20% serão atribuídos como participação nos lucros aos trabalhadores 
 
 ### CAPÍTULO V — Disposição final
 
-###### Art. 23.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
+Art. 23.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberação da assembleia geral.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

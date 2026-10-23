@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27400/48504851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1990-564808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbf5bdb4feca14665f941a11920b22bc2084cf62fb2136e8ac080e620da304aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cfa925b545dd5f2fd60f389d76b43f0a50b1bb875b7538869043ee2a57d3166
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aluguer
+- Veículo
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:115552673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603214:por
+  label: "Alterado o art. 27º do Dec Lei 354/86, de 23-Out, na redacção do presente diploma, pelo DEC LEI.77/2009.01.04.2009.MEI,\
+    \ DR.IS [64] de 01.04.2009, que o republica \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2009-603214
+  date: '2009-04-01'
+- type: cites
+  target: pt:dre:222264:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178993:por
+  label: Revogado a partir de 02.02.2013 pelo DEC LEI.181/2012.06.08.2012.MEE, DR.IS [151] de 06.08.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2012-178993
+  date: '2012-08-06'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:00Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +119,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, 11.º, 12.º, 21.º, 27.º e 30.º do [Decreto-Lei n.º 354/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1986-222264), de 23 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, 11.º, 12.º, 21.º, 27.º e 30.º do [Decreto-Lei n.º 354/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1986-222264), de 23 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 9.º — Número de veículos
 
@@ -195,18 +213,18 @@ a) ...
 
 b) A infracção prevista na alínea n) do n.º 1 do artigo 27.º, quando o estacionamento tenha sido efectuado pelo locatário do veículo.
 
-###### Art. 2.º São revogados o n.º 4 do artigo 3.º e os artigos 8.º, 10.º, 14.º, 15.º, 26.º, 28.º e 29.º do [Decreto-Lei n.º 354/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1986-222264), de 23 de Outubro.
+Art. 2.º São revogados o n.º 4 do artigo 3.º e os artigos 8.º, 10.º, 14.º, 15.º, 26.º, 28.º e 29.º do [Decreto-Lei n.º 354/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1986-222264), de 23 de Outubro.
 
-###### Art. 3.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+Art. 3.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Joaquim Martins Ferreira do Amaral - Alfredo César Torres.
 
-**Promulgado em 10 de Novembro de 1990.**
+Promulgado em 10 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Novembro de 1990.**
+Referendado em 16 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

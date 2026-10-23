@@ -442,6 +442,8 @@ leis-portugal collect dre --missing --workers 6
 
 A verificação conta, para cada tipo do vocabulário (`config/document_types.yml`), quantos documentos o DRE lista, quantos estão no acervo e quantos faltam, e grava as contagens em `reports/dre_sitemap_coverage.json` (resumidas em `COBERTURA.md`). Com `--dry-run` só conta. Os tipos sobretudo da 2.ª Série (despachos, avisos, editais, deliberações…, listados em `sitemap_optional`) são contados mas só recolhidos com `--all` ou quando indicados em `--types` (p. ex. `--types lei,decreto-lei`). Os documentos que não foi possível recolher ficam em `reports/dre_missing_failures.jsonl`. Se a recolha for interrompida, basta correr o mesmo comando: só recolhe o que continua em falta.
 
+Os sitemaps incluem o catálogo do Jornal Oficial dos Açores que o DRE guarda (resoluções, portarias, despachos normativos… do Governo Regional). Estas entradas ficam em `data/regional/acores/`, com a publicação no Jornal Oficial dos Açores (série, número e páginas), a entidade emitente, o resumo e a vigência. Quando o DRE não tem o texto nem o PDF de um diploma, o registo é gravado só com os metadados e a nota "Fonte sem texto"; um registo que já tenha texto nunca é substituído por um sem texto.
+
 Recolher atos da União Europeia (EUR-Lex/CELLAR), com a mesma informação que os diplomas portugueses (texto do JO ou consolidado, EuroVoc, autores, publicação no JO, vigência e relações nos dois sentidos):
 
 ```bash

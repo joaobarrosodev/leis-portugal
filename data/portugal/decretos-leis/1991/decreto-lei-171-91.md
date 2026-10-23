@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/107a00/25202520.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/171/1991/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1991-612220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 087cb839b5c7aa317adde61d7f124c86c7080e07e0c59456ddfd1eb35bde1804
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 871ae1ca2194a398e70971a83c6472886639a016400b0c1b4c04597c3bc4243c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Comercial
-- Serviços de Registo e Notariado
 - Direcção Geral dos Registos e do Notariado
 - Registo Comercial
+- Serviços de Registo e Notariado
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:655966:por
@@ -78,16 +78,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72-a/1991/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72-a/1991/02/08/p/dre
+- type: cites
+  target: pt:dre:272009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417220:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:330632:por
+  label: "Revogado, a partir de 01.01.2002, pelo DEC LEI.322-A/2001.2001.12.14.MJ, DR.IS-A[288]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-a-2001-330632
+  date: '2001-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:52Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +125,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os registos de constituição de sociedades e de outras entidades sujeitas a registo comercial, bem como os de início de actividade dos comerciantes individuais, são lavrados com precedência em relação a todos os actos de registo anotados, incluindo os de constituição ou de início de actividade, apresentados anteriormente à data da entrada em vigor deste diploma.
+Artigo 1.º - 1 - Os registos de constituição de sociedades e de outras entidades sujeitas a registo comercial, bem como os de início de actividade dos comerciantes individuais, são lavrados com precedência em relação a todos os actos de registo anotados, incluindo os de constituição ou de início de actividade, apresentados anteriormente à data da entrada em vigor deste diploma.
 
 2 - O regime estabelecido no número anterior é aplicável aos registos de designação dos órgãos sociais.
 
@@ -120,16 +133,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - É sempre deferido o pedido de urgência invocada para os registos a que se referem os n.os 1 e 2 quando anotados antes da entrada em vigor do presente diploma, com isenção, nesses casos, do emolumento da urgência, bem como para o registo de actos subsequentes requeridos com o pedido de registo inicial.
 
-###### Art. 2.º Os encargos com os contratos a celebrar pela Direcção-Geral dos Registos e do Notariado ao abrigo do disposto no [Decreto-Lei n.º 72-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-1991-272009), de 8 de Fevereiro, de acordo com os pressupostos estabelecidos no artigo 5.º do [Decreto-Lei n.º 297/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1987-417220), de 31 de Julho, podem ser suportados pelas receitas das conservatórias em que o serviço dos contratados seja efectivamente prestado.
+Art. 2.º Os encargos com os contratos a celebrar pela Direcção-Geral dos Registos e do Notariado ao abrigo do disposto no [Decreto-Lei n.º 72-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-1991-272009), de 8 de Fevereiro, de acordo com os pressupostos estabelecidos no artigo 5.º do [Decreto-Lei n.º 297/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1987-417220), de 31 de Julho, podem ser suportados pelas receitas das conservatórias em que o serviço dos contratados seja efectivamente prestado.
 
 Visto e aprovado em Conselho de Ministros de 14 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 19 de Abril de 1991.**
+Promulgado em 19 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Abril de 1991.**
+Referendado em 24 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

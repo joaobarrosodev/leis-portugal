@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18918-1961-184549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a42a420225ebe83fd4b4e9725942582a200a5531614f402dadbac5ece64b892
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb4debe8cc5efb53a25766cf7d41f80cfd36ef13d46686e629b766c3be90dc8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:11Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +101,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 239.º «Deslocações de pessoal»:
+Artigo 239.º «Deslocações de pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 20000$00
 
@@ -109,7 +121,7 @@ c) Reforçar com as quantias que se indicam as seguintes verbas da tabela de des
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1442.º «Deslocações do pessoal»:
+Artigo 1442.º «Deslocações do pessoal»:
 
 N.º 4), alínea a) «Passagens de ou para o exterior por motivo de licença graciosa - A pagar na metrópole» ... 700000$00
 
@@ -121,7 +133,7 @@ tomando como contrapartida as seguintes disponibilidades da mesma tabela de desp
 
 ### CAPÍTULO 4.º — Serviços de saúde e higiene
 
-###### Artigo 438.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
+Artigo 438.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei» ... 120000$00
 
@@ -129,19 +141,19 @@ N.º 3) «Pessoal destacado de outros serviços do Estado» ... 62000$00
 
 ### CAPÍTULO 5.º — Serviços das alfândegas
 
-###### Artigo 802.º, n.º 1) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 143000$00
+Artigo 802.º, n.º 1) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 143000$00
 
 ### CAPÍTULO 7.º — Serviços de agricultura e florestas
 
-###### Artigo 1123.º, n.º 1) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal do quadros aprovados por lei» ... 300000$00
+Artigo 1123.º, n.º 1) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal do quadros aprovados por lei» ... 300000$00
 
 Serviços de geologia e minas
 
-###### Artigo 1208.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 108000$00
+Artigo 1208.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 108000$00
 
 Serviços geográficos e cadastrais
 
-###### Artigo 1294.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício:
+Artigo 1294.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício:
 
 N.º 1) «Pessoal dos quadros aprovados por lei» ... 226000$00
 

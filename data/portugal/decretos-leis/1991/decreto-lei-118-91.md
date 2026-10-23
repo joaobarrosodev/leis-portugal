@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/067a00/14801480.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/1991/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1991-471168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25de4ca070edfb1e1bc3247945a31b985295a889f5fb660ec7f6fdc345d6dc4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5afa1aee897b7ab0ab7051528f37be9958b15725d6bfcb5185a1bbbe6fbd1dda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Recrutamento de Pessoal
-- Quadro de Pessoal
 - Ministério dos Negócios Estrangeiros
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:284734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628063:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515471:por
+  label: "Revogadas as alterações introduzidas ao Dec Lei 529/85 de 31-Dez, pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:36Z'
   warnings: []
   errors: []
 ---
@@ -102,24 +141,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os directores de serviços do Ministério dos Negócios Estrangeiros são escolhidos de entre funcionários do quadro de pessoal diplomático com a categoria de conselheiro ou primeiro-secretário de embaixada, sem prejuízo do recurso ao recrutamento nos termos da lei geral.
+Artigo 1.º - 1 - Os directores de serviços do Ministério dos Negócios Estrangeiros são escolhidos de entre funcionários do quadro de pessoal diplomático com a categoria de conselheiro ou primeiro-secretário de embaixada, sem prejuízo do recurso ao recrutamento nos termos da lei geral.
 
 2 - Os chefes de divisão do Ministério dos Negócios Estrangeiros são escolhidos de entre funcionários do quadro do pessoal diplomático com a categoria de primeiro-secretário ou segundo-secretário de embaixada, sem prejuízo do recurso ao recrutamento nos termos da lei geral.
 
 3 - As nomeações para os cargos referidos nos números anteriores serão feitas por despacho do Ministro dos Negócios Estrangeiros sob proposta do respectivo director-geral.
 
-###### Art. 2.º O disposto nos n.os 1 e 2 do artigo 1.º do presente diploma e nos n.os 1 e 3 do artigo 11.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, com a redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º 116/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1988-284734), de 11 de Abril, aplica-se, com as necessárias adaptações, aos cargos que, nos termos de diplomas orgânicas próprios dos serviços do Ministério dos Negócios Estrangeiros, sejam considerados equiparados aos referidos nos preceitos mencionados.
+Art. 2.º O disposto nos n.os 1 e 2 do artigo 1.º do presente diploma e nos n.os 1 e 3 do artigo 11.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, com a redacção que lhe foi dada pelo artigo único do [Decreto-Lei n.º 116/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1988-284734), de 11 de Abril, aplica-se, com as necessárias adaptações, aos cargos que, nos termos de diplomas orgânicas próprios dos serviços do Ministério dos Negócios Estrangeiros, sejam considerados equiparados aos referidos nos preceitos mencionados.
 
-###### Art. 3.º São revogados os artigos 20.º e 21.º do [Decreto-Lei n.º 526/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1985-546605), de 31 de Dezembro, 10.º e 11.º do [Decreto-Lei n.º 528/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1985-546607), de 31 de Dezembro, 18.º e 19.º do [Decreto-Lei n.º 44-E/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-e-1986-628062), de 7 de Março, 11.º do [Decreto-Lei n.º 44-F/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-f-1986-628063), de 7 de Março, e 8.º, n.os 5 e 6, 11.º, n.os 7 e 8, 13.º, n.º 1, 14.º, n.º 2, 16.º, n.º 3, primeira parte, e 17.º, n.º 2, todos do [Decreto-Lei n.º 44-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-c-1986-628060), de 7 de Março.
+Art. 3.º São revogados os artigos 20.º e 21.º do [Decreto-Lei n.º 526/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1985-546605), de 31 de Dezembro, 10.º e 11.º do [Decreto-Lei n.º 528/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1985-546607), de 31 de Dezembro, 18.º e 19.º do [Decreto-Lei n.º 44-E/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-e-1986-628062), de 7 de Março, 11.º do [Decreto-Lei n.º 44-F/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-f-1986-628063), de 7 de Março, e 8.º, n.os 5 e 6, 11.º, n.os 7 e 8, 13.º, n.º 1, 14.º, n.º 2, 16.º, n.º 3, primeira parte, e 17.º, n.º 2, todos do [Decreto-Lei n.º 44-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-c-1986-628060), de 7 de Março.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 8 de Março de 1991.**
+Promulgado em 8 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Março de 1991.**
+Referendado em 12 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

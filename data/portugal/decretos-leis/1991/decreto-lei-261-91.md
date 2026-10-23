@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/261/1991/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1991-667887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf16184c6db40c1c7f09643d1f93e56d33390fc4cd4c334c4a58c5eaab9eb7c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63e2023797e8b2869e54e85045ca98a82e238c57b3cae5f566be95751179b0a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,99 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Contribuições da Segurança Social
 - Entidade Patronal
-- Reforma Antecipada
+- Madeira.região Autónoma
 - Prestação de Pré-reforma
 - Prestações da Segurança Social
-- Madeira.região Autónoma
 - Reforma
+- Reforma Antecipada
 - Regime Geral da Segurança Social
 - Regime Jurídico
 - Sanção
 - Segurança Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:158316443:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311258:por
+  label: "Mantidas em vigor as taxas contributivas fixadas no art. 9º pelo DEC LEI.199/99.1999.06.08.MTS, DR.IS-A [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-1999-311258
+  date: '1999-06-08'
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Alterada a redacção dos arts. 4.º e 14.º, pela LEI.118/99.1999.08.11.AR DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: amended_by
+  target: pt:dre:223590:por
+  label: "Repristinados os artigos 8.º, 9.º, 12.º e 15.º, pelo DEC LEI.87/2004.17.04.2004.MSST, DR.IS-A [91] de 17.04.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2004-223590
+  date: '2004-04-17'
+- type: amended_by
+  target: pt:dre:520669:por
+  label: "Alterado o art. 12º, repristinado pelo Dec Lei 87/2004 de 17-Abr, pelo DEC LEI.187/2007.10.05.2007.MTSSO, DR.IS\
+    \ [90] de 10.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-2007-520669
+  date: '2007-05-10'
+- type: amended_by
+  target: pt:dre:164427:por
+  label: "Repristinado, com efeitos a 01.01.2011, o art. 12º (alterado pelo Dec Lei 187/2007 de 10-mai e revogado pela Lei\
+    \ 110/2009 de 16-set) pelo DEC LEI.167-E/2013.31.12.2013.MSESS, DR.IS [253-3ºSupl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-e-2013-164427
+  date: '2013-12-31'
+- type: cites
+  target: pt:dre:219119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogado com a entrada em vigor do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o presente diploma, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º\
+    \ 119/2009, de 30 de Dezembro), na redacção da Lei 118/99, de 11-Ago, da Lei 99/2003, de 27-Ago, do Dec Lei 87/2004, de\
+    \ 17-Abr e do Dec Lei 187/2007, de 10- Maio, pela LEI.110/2009.16.09.2009.AR, DR.IS [180] de 16.09.2009, sem prejuízo\
+    \ de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente em vigor as disposições\
+    \ procedimentais do presente diploma que não contrariem o disposto no Código aprovado pela citada Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:52Z'
   warnings: []
   errors: []
 ---
@@ -258,12 +324,12 @@ O presente diploma entra em vigor em todo o território nacional no dia 1 do mê
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 15 de Julho de 1991.**
+Promulgado em 15 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Julho de 1991.**
+Referendado em 15 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

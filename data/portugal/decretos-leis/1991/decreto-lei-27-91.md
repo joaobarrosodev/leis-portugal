@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/009a00/01810181.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/1991/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1991-693838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9319c25a163ff85aec4635b45270aec546b9067bb7d090fb9f0cfc145871613
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f6fa2fce5e8a2cd3f03c311eba4ac38c14eab9a205c0c3a2425d87c43704203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,36 @@ reuse:
 subjects:
 - Autonomia Universitária
 - Contrato de Trabalho a Prazo
-- Universidade
 - Gestão de Recursos Humanos
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:659503:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:659503:por
+  label: "Revogado pelo Dec Lei.252/97.1997.09.26.MF, DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-1997-659503
+  date: '1997-09-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:02Z'
   warnings: []
   errors: []
 ---
@@ -104,16 +117,16 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), de 24 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. As instituições universitárias podem, por conta das suas receitas próprias, celebrar contratos de trabalho a termo certo, nos termos previstos no [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, sem observância dos condicionalismos estabelecidos no artigo 21.º do mesmo diploma.
+Artigo único. As instituições universitárias podem, por conta das suas receitas próprias, celebrar contratos de trabalho a termo certo, nos termos previstos no [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, sem observância dos condicionalismos estabelecidos no artigo 21.º do mesmo diploma.
 
 Visto e aprovado em Conselho de Ministros de 22 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 14 de Dezembro de 1990.**
+Promulgado em 14 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Dezembro de 1990.**
+Referendado em 20 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

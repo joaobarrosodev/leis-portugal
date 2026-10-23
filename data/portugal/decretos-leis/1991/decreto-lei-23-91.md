@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/009a00/01520160.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8794a4c6300fab80add12a25880c55d06bf375980e7b7cea620fb826d4477b3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0317e024cbf4f8e49f54367fd0ba2e8290cfbd8fac2e17a36c8d0e174b0af17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carreira de Informática
-- Formação Profissional
-- Estatuto
 - Administração Pública
-- Recrutamento de Pessoal
+- Carreira de Informática
 - Descrição de Funções
+- Estatuto
+- Formação Profissional
 - Pessoal de Informática
-- Qualificação Profissional
 - Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 - Remuneração
 relationships:
@@ -81,16 +81,73 @@ relationships:
   target: pt:dre:345277:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484987:por
+  label: "Alterados os arts. 3º, 4º, 6º, 7º, 9º e 13º e prevista a caducidade no prazo de um ano, o disposto no art. 21º,\
+    \ pelo DEC LEI.177/95.1995.07.26.MF, DR.IS-A [171], contado a partir da data da entrada em vigor do referido diploma,\
+    \ devendo a sua aplicação às situações pendentes estar concluída naquele prazo \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-1995-484987
+  date: '1995-07-26'
+- type: cites
+  target: pt:dre:180411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:185153:por
+  label: "Rectificado pela DECL-RECT.66/91.1991.04.03.SG-PCM, DR.IS-A [99] de 30/Abr/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/66-1991-185153
+  date: '1991-04-03'
+- type: repealed_by
+  target: pt:dre:345277:por
+  label: "Revogado pelo DEC LEI.97/2001.2001.03.26.MREAP,DR.IS-A [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2001-345277
+  date: '2001-03-26'
 article_structure:
   article_count: 29
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:12Z'
   warnings: []
   errors: []
 ---
@@ -431,16 +488,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Visto e aprovado em Conselho de Ministros de 8 de Novembro de 1990. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota.
 
-**Promulgado em 21 de Dezembro de 1990.**
+Promulgado em 21 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República MÁRIO SOARES.**
+O Presidente da República MÁRIO SOARES.
 
-**Referendado em 26 de Dezembro de 1990.**
+Referendado em 26 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Do MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/009a00/01520160.pdf))](https://files.diariodarepublica.pt/1s/1991/01/009a00/01520160.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/009a00/01520160.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/056a00/11981200.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/1991/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1991-459436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9967a6f4fe22b27711cd8be0a0b5d514f532509ec57e91f3a142793f0e75bfbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12cb25618f0262f8b53aeeddde2d30b100580995c4bf34854b3b0efc779f7f30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,33 @@ relationships:
   target: pt:dre:345151:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:345151:por
+  label: "Revogado pelo DEC LEI.103/2001.2001.03.29.MJ DR.IS [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2001-345151
+  date: '2001-03-29'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:16Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +124,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 8.º, 14.º, 21.º e 54.º do [Decreto-Lei n.º 111/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1983-311444), de 21 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 8.º, 14.º, 21.º e 54.º do [Decreto-Lei n.º 111/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1983-311444), de 21 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Natureza e fins
 
@@ -181,7 +198,7 @@ c) Manter escriturados os livros da tesouraria.
 
 3 - As verbas inscritas nos termos do número anterior podem satisfazer encargos dos utilizadores sempre que tais encargos se situem no âmbito das despesas de informatização.
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 111/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1983-311444), de 21 de Fevereiro, os artigos 4.º-A, 4.º-B, 12.º-A, 12.º-B e 52.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 111/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1983-311444), de 21 de Fevereiro, os artigos 4.º-A, 4.º-B, 12.º-A, 12.º-B e 52.º-A, com a seguinte redacção:
 
 ###### Artigo 4.º-A — Conselho administrativo
 
@@ -249,20 +266,20 @@ b) Orçamentos privativos anuais e suas actualizações.
 
 4 - As quantias previstas na alínea c) do n.º 1 do presente artigo serão fixadas mediante protocolos a estabelecer com os organismos utilizadores, que terão em conta os encargos directos e indirectos de funcionamento.
 
-###### Art. 3.º Nos projectos a desenvolver no âmbito de informatização do sistema judiciário, a designação dos intervenientes oriundos dos serviços utilizadores e do respectivo coordenador e a definição do seu estatuto serão objecto de despacho do Ministro da Justiça.
+Art. 3.º Nos projectos a desenvolver no âmbito de informatização do sistema judiciário, a designação dos intervenientes oriundos dos serviços utilizadores e do respectivo coordenador e a definição do seu estatuto serão objecto de despacho do Ministro da Justiça.
 
-###### Art. 4.º - 1 - Para fins de administração autónoma, a DGSI fica sujeita ao regime estabelecido no [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
+Art. 4.º - 1 - Para fins de administração autónoma, a DGSI fica sujeita ao regime estabelecido no [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
 
 2 - São aditados ao quadro de pessoal da DGSI, constante do anexo XI à [Portaria n.º 316/87](https://diariodarepublica.pt/dr/detalhe/portaria/316-1987-666119), de 16 de Abril, dois lugares de director de serviços.
 
 Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 25 de Fevereiro de 1991.**
+Promulgado em 25 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1991.**
+Referendado em 26 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

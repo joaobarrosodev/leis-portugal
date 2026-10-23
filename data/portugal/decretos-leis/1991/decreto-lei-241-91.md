@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/241/1991/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1991-667902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93f1ff609632154bd3840c461533b298f05f935f45378dfd3a28e52d2d2d532c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e43645bc8fc177b63e9ad2ec8d7bd5f4567ad5d71090b47324ae5d2b53b0d4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,25 @@ subjects:
 - Instituto Português de Conservas e Pescado
 - Orgânica
 - Produtos de Pesca
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:220103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573317:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:27Z'
   warnings: []
   errors: []
 ---
@@ -99,20 +107,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constitução, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 66.º e 67.º do Estatuto do Instituto Português de Conservas e Pescado, aprovado pelo [Decreto-Lei n.º 266/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1986-220103), de 3 de Setembro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 250/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1990-573317), de 2 de Agosto, passam a ter a seguinte redacção:
+Artigo único. Os artigos 66.º e 67.º do Estatuto do Instituto Português de Conservas e Pescado, aprovado pelo [Decreto-Lei n.º 266/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1986-220103), de 3 de Setembro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 250/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1990-573317), de 2 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 66.º A Direcção-Geral das Alfândegas assegura que os produtos das indústrias transformadoras da pesca destinados à exportação se fazem acompanhar do boletim de verificação estatístico F, em modelo a aprovar por portaria conjunta dos Ministros das Finanças, do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação e da Indústria e Energia.
+Art. 66.º A Direcção-Geral das Alfândegas assegura que os produtos das indústrias transformadoras da pesca destinados à exportação se fazem acompanhar do boletim de verificação estatístico F, em modelo a aprovar por portaria conjunta dos Ministros das Finanças, do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação e da Indústria e Energia.
 
-###### Art. 67.º Sempre que para os produtos da indústria transformadora da pesca os industriais ou exportadores pretendam obter a certificação das respectivas origem, salubridade e qualidade, devem solicitá-la ao IPCP, que a emitirá, com base nas normas e determinações por ele fixadas, nos termos do artigo 65.º, através de modelos de certificados a aprovar por portaria conjunta dos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Energia.
+Art. 67.º Sempre que para os produtos da indústria transformadora da pesca os industriais ou exportadores pretendam obter a certificação das respectivas origem, salubridade e qualidade, devem solicitá-la ao IPCP, que a emitirá, com base nas normas e determinações por ele fixadas, nos termos do artigo 65.º, através de modelos de certificados a aprovar por portaria conjunta dos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Energia.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral.
 
-**Promulgado em 19 de Junho de 1991.**
+Promulgado em 19 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1991.**
+Referendado em 22 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

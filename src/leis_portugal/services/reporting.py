@@ -200,15 +200,14 @@ def _coverage_markdown(coverage: dict[str, Any], source_status: dict[str, Any], 
             "## Cobertura face aos sitemaps do DRE",
             "",
             f"Verificado em {sitemap['checked']} com `leis-portugal collect dre --missing`: documentos que o DRE lista"
-            f" nos sitemaps públicos ({sitemap['listed']}), dos quais {sitemap['present']} estão no acervo,"
-            f" {sitemap.get('out_of_scope', 0)} estão fora do Diário da República (p. ex. catálogo do Jornal Oficial"
-            f" dos Açores) e {sitemap['missing']} faltam. Tipos marcados com * são sobretudo da 2.ª Série.",
+            f" nos sitemaps públicos ({sitemap['listed']}), dos quais {sitemap['present']} estão no acervo"
+            f" e {sitemap['missing']} faltam. Os sitemaps incluem o catálogo do Jornal Oficial dos Açores que o DRE guarda."
+            " Tipos marcados com * são sobretudo da 2.ª Série.",
             "",
-            "| Tipo | No DRE | No acervo | Fora do DR | Em falta |",
-            "|---|---:|---:|---:|---:|",
+            "| Tipo | No DRE | No acervo | Em falta |",
+            "|---|---:|---:|---:|",
             *(
-                f"| {entry['label']}{' *' if entry['optional'] else ''} | {entry['listed']} | {entry['present']}"
-                f" | {entry.get('out_of_scope', 0)} | {entry['missing']} |"
+                f"| {entry['label']}{' *' if entry['optional'] else ''} | {entry['listed']} | {entry['present']} | {entry['missing']} |"
                 for entry in sitemap["types"]
             ),
         ])
@@ -235,7 +234,8 @@ def _coverage_markdown(coverage: dict[str, Any], source_status: dict[str, Any], 
         "",
         "- Parte dos diplomas ainda tem o texto da importação inicial (convertido a partir do DRE); a recolha direta substitui-o diploma a diploma.",
         "- O conector DRE usa endpoints internos da aplicação web (sem API pública documentada) e pode falhar após um deploy do DRE.",
-        "- Diplomas anteriores a 1960 existem no DRE apenas como digitalização; o Jornal Oficial dos Açores está fora do âmbito.",
+        "- Diplomas anteriores a 1960 existem no DRE apenas como digitalização.",
+        "- O Jornal Oficial dos Açores entra pelo catálogo que o DRE guarda; muitas entradas têm só os metadados (sem texto nem PDF).",
         "- Atos da UE: recolhidos os referidos pela legislação portuguesa e os publicados no JO nos intervalos executados; não é o acervo completo do EUR-Lex.",
         "- As transposições de diretivas são detetadas no texto português (\"transpõe…\") e podem ter falsos negativos.",
         "- A jurisprudência, materiais parlamentares e orientações de reguladores estão fora da coleção até serem integrados como categorias próprias.",

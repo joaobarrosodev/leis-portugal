@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/279/1991/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1991-679831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7c4877c9c3195ecd08bbde7e08b2d60b98fdac27cdbfd63953edbc7f9ad23d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fd48009ac62ff76daeff7d2f543a818b7a55feb15f024330090e0300b840470
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,27 @@ relationships:
   target: pt:dre:2254440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2254440:por
+  label: Ratificado o protocolo celebrado em 21.11.1991 entre a Biblioteca Nacional e o Arquivo Nacional da Torre do Tombo
+    para a transferência dos Arquivo Salazar e Arquivo Marcello Caetano, determinada pelo presente diploma pelo(a) Portaria
+    n.º 15/92 (2.ª Série) - Diário da República n.º 8/1992, Série II de 1992-01-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-1992-2254440
+  date: '1992-01-10'
+- type: cites
+  target: pt:dre:394493:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:17Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +114,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os chamados «Arquivo Salazar» e «Arquivo Marcello Caetano», depositados nas instalações da Biblioteca Nacional ao abrigo do disposto no [Decreto-Lei n.º 77/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1981-394493), de 18 de Abril, são transferidos para as instalações do Arquivo Nacional da Torre do Tombo.
+Artigo 1.º - 1 - Os chamados «Arquivo Salazar» e «Arquivo Marcello Caetano», depositados nas instalações da Biblioteca Nacional ao abrigo do disposto no [Decreto-Lei n.º 77/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1981-394493), de 18 de Abril, são transferidos para as instalações do Arquivo Nacional da Torre do Tombo.
 
 2 - As condições necessárias para a efectivação da transferência referida no número anterior constam de protocolo a celebrar entre a Biblioteca Nacional e o Arquivo Nacional da Torre do Tombo, o qual será ratificado por portaria do Ministro das Finanças e do membro do Governo responsável pela área da cultura.
 
-###### Art. 2.º Ao Arquivo Nacional da Torre do Tombo compete a execução das medidas necessárias à conservação, ordenação, inventariação e descrição dos arquivos referidos no artigo anterior, de forma a garantir a sua preservação integral.
+Art. 2.º Ao Arquivo Nacional da Torre do Tombo compete a execução das medidas necessárias à conservação, ordenação, inventariação e descrição dos arquivos referidos no artigo anterior, de forma a garantir a sua preservação integral.
 
-###### Art. 3.º - 1 - Os chamados «Arquivo Salazar» e «Arquivo Marcello Caetano» só estão abertos à consulta pública depois de concluídas as acções previstas no artigo anterior, e nunca antes de decorrido um prazo de 25 anos sobre a morte dos seus titulares.
+Art. 3.º - 1 - Os chamados «Arquivo Salazar» e «Arquivo Marcello Caetano» só estão abertos à consulta pública depois de concluídas as acções previstas no artigo anterior, e nunca antes de decorrido um prazo de 25 anos sobre a morte dos seus titulares.
 
 2 - Antes de decorrido o prazo referido no número anterior poderá verificar-se o acesso, a título excepcional, ao «Arquivo Salazar» e ao «Arquivo Marcello Caetano», mediante requerimento do interessado, em que demonstre interesse relevante na consulta, devendo o mesmo ser autorizado pelo membro do Governo responsável pela área da cultura, após parecer do director do Arquivo Nacional da Torre do Tombo.
 
@@ -117,12 +128,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1991. - Aníbal António Cavaco Silva.
 
-**Promulgado em 15 de Julho de 1991.**
+Promulgado em 15 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Julho de 1991.**
+Referendado em 16 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

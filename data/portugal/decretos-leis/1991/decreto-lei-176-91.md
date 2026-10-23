@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/110a00/25642568.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/176/1991/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1991-640952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ea3502df771551c825271f5a2b6d25654fbbd78592c664893155198591e0f6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b125edc69fd86a8283bc8260aa65b4d4310c8e2d08d5f4192bb9f9eaa057fb37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Valores Mobiliários
 - CEE
-- Mercado Cambial
+- Circulação de Mercadorias
 - Exportação de Capitais
 - Importação de Capitais
 - Livre Circulação de Capitais
 - Livre Circulação de Mercadorias
+- Mercado Cambial
 - Mercado de Capitais
 - Operação Cambial
-- Circulação de Mercadorias
 - Política Económica
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:438040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:275048:por
+  label: "Alterados os art.s 9º e 16º, aditado um art. 14º-A e revogados os art.s 5º, 6º, 7º, 8º, 10º, 11º e 12º, pelo DEC\
+    \ LEI.170/93.11.05.1993.MF, DR.IS-A [109] de 11.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-1993-275048
+  date: '1993-05-11'
 - type: cites
   target: celex:31985L0611
   label: null
@@ -91,16 +97,26 @@ relationships:
   target: celex:31988L0361
   label: null
   source: http://data.europa.eu/eli/dir/1988/361/oj
+- type: corrected_by
+  target: pt:dre:300068:por
+  label: "Rectificado pela DECL-RECT.132/91.29.06.1991.PCM, DR.IS-A [147-Supl] de 29.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/132-1991-300068
+  date: '1991-06-29'
+- type: repealed_by
+  target: pt:dre:438040:por
+  label: "Revogado, a partir de 20.01.2004, pelo DEC LEI.295/2003.21.11.2003.MF, DR.IS-A [270] de 21.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-2003-438040
+  date: '2003-11-21'
 article_structure:
   article_count: 20
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:57Z'
   warnings: []
   errors: []
 ---
@@ -305,15 +321,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 19 de Abril de 1991.**
+Promulgado em 19 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Abril de 1991.**
+Referendado em 24 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Operações de invisíveis correntes
 

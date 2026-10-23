@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1990-565273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60c7347de8d9deab3b4d66a11ca2fa0ff62aec9081300e46be293df3404a328d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af98ab0ca8ec1700103ce2fbdfb6293b9b343aa217c34bae828758483002401c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alteração Orçamental
+- Despesas Públicas
+- Duodécimo
+- Execução do Orçamento
+- Financiamento da Segurança Social
+- Fundo de Estabilização Financeira da Segurança Social
+- Instituto de Gestão Financeira da Segurança Social
+- Orçamento da Segurança Social
+- Piddac
+- Receita Pública
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:31Z'
   warnings: []
   errors: []
 ---
@@ -158,15 +177,15 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - José Albino da Silva Peneda.
 
-**Promulgado em 26 de Novembro de 1990.**
+Promulgado em 26 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Novembro de 1990.**
+Referendado em 28 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 SECRETARIA DE ESTADO DA SEGURANÇA SOCIAL
 
@@ -174,4 +193,4 @@ Orçamento da Segurança Social - 1990
 
 Receitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28400/50485051.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28400/50485051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28400/50485051.pdf)

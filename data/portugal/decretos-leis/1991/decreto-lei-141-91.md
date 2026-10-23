@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/141/1991/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8945b3f9cb9b57b64a2d8b99cc8204b307a9adc8c3289768a85fae6d26ab47b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d73cf5262b1e1622b65b1144023cf5a0dd19b3790a91c7b11471be772bc362c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Pensões
-- Função Pública
 - Advogado
-- Empregado Bancário
-- Funcionário Ultramarino
 - Caixa de Previdência
+- Empregado Bancário
+- Função Pública
+- Funcionário Ultramarino
 - Pensão Unificada
 - Pensões
 - Regime Contributivo da Segurança Social
@@ -83,16 +83,67 @@ relationships:
   target: pt:dre:158316443:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632426:por
+  label: "Atualizada a parcela contributiva a que se refere a al. d) do art. 2º, pela PORT.432-A/2012.31.12.2012.MF, DR.IS\
+    \ [252-2ºSupl] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/432-a-2012-632426
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164419:por
+  label: "Atualizada a parcela contributiva a que se refere a al. d) do art. 2º do presente diploma, pela PORT.378-B/2013.31.12.2013.MF,\
+    \ DR.IS [253-3ºSupl] de 31.12.2013, nos termos da tabela de coeficientes que consta do seu anexo II \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-b-2013-164419
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66022086:por
+  label: Atualizada a parcela contributiva a que se refere a al. d) do art. 2.º do presente diploma pelo(a) Portaria n.º 286-A/2014
+    - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31, nos termos da tabela de coeficientes que consta
+    do anexo II desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-a-2014-66022086
+  date: '2014-12-31'
+- type: cites
+  target: pt:dre:324937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:11Z'
   warnings: []
   errors: []
 ---
@@ -233,12 +284,12 @@ O presente diploma entra em vigor no dia 1 de Julho de 1991.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1991. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.
 
-**Promulgado em 1 de Abril de 1991.**
+Promulgado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Abril de 1991.**
+Referendado em 2 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

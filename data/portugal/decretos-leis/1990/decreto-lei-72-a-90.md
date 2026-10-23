@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 52/1990, 1º Suplemento, Série I de 1990-03-03
   number: '52'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 916-(4) a 916-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/05201/00040005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-1990-482162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1e077a553e9b5236faec1e7a15257a7c63ee99118aba13575ecb75e34072c61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 212a47277f12839df91aa1f8cd314394f2d5a7cca1f593a7ff36e1fb94ad0572
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviços de Apoio ao Tribunal Constitucional
+- Tribunal Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:633292:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:374243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664729:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:235931:por
+  label: "Revogados os arts. 17.º e 18.º do Dec Lei 149-A/83, de 05-Abr, na redacção do presente diploma, pelo DEC LEI.303/98.1998.10.07.MJ\
+    \ DR.IS-A [231]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1998-235931
+  date: '1998-10-07'
+- type: repealed_by
+  target: pt:dre:633292:por
+  label: "Revogadas as disposições ainda em vigor pelo DEC LEI.545/99.1999.12.14.PCM, DR.IS-A [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/545-1999-633292
+  date: '1999-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:41Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +143,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 9.º, 10.º, 11.º, 15.º, 17.º e 18.º do [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 9.º, 10.º, 11.º, 15.º, 17.º e 18.º do [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril, passam a ter a seguinte redacção:
 
-###### Art. 6.º - 1 ...
+Art. 6.º - 1 ...
 
 2 ...
 
@@ -119,7 +165,7 @@ e) Proceder ao trabalho de dactilografia que lhes for distribuído;
 
 f) Executar os demais serviços ou tarefas que lhes forem distribuídos.
 
-###### Art. 9.º - 1 - No provimento dos lugares do quadro da secretaria do Tribunal Constitucional e de oficial porteiro, nas matérias relativas ao estatuto dos respectivos funcionários e em tudo o que, sobre estes últimos ou a secretaria, não estiver especialmente regulado na Lei n.º 28/82, de 15 de Novembro, e neste diploma, aplicam-se, com as necessárias adaptações, as regras do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, com as alterações subsequentes.
+Art. 9.º - 1 - No provimento dos lugares do quadro da secretaria do Tribunal Constitucional e de oficial porteiro, nas matérias relativas ao estatuto dos respectivos funcionários e em tudo o que, sobre estes últimos ou a secretaria, não estiver especialmente regulado na Lei n.º 28/82, de 15 de Novembro, e neste diploma, aplicam-se, com as necessárias adaptações, as regras do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, com as alterações subsequentes.
 
 2 - ...
 
@@ -127,7 +173,7 @@ f) Executar os demais serviços ou tarefas que lhes forem distribuídos.
 
 4 - O provimento dos funcionários de justiça é sempre feito em comissão de serviço, com a duração de três anos, que se considera automaticamente renovada se, até 30 dias antes do seu termo, o Presidente do Tribunal Constitucional ou o interessado não tiverem manifestado expressamente a intenção de a fazer cessar.
 
-###### Art. 10.º Os serviços de apoio compreendem:
+Art. 10.º Os serviços de apoio compreendem:
 
 a) ...
 
@@ -137,7 +183,7 @@ c) O gabinete do Ministério Público;
 
 d) O núcleo de apoio documental e informação jurídica.
 
-###### Art. 11.º - 1 - Compete aos gabinetes do Presidente, dos juízes e do Ministério Público coadjuvar, no exercício das funções, respectivamente, o Presidente, os juízes e os representantes do Ministério Público no Tribunal Constitucional, desempenhando as tarefas que lhes sejam determinadas.
+Art. 11.º - 1 - Compete aos gabinetes do Presidente, dos juízes e do Ministério Público coadjuvar, no exercício das funções, respectivamente, o Presidente, os juízes e os representantes do Ministério Público no Tribunal Constitucional, desempenhando as tarefas que lhes sejam determinadas.
 
 2 - O Presidente pode designar um dos seus assessores para coordenar o serviço do seu gabinete e, bem assim, delegar nele funções de superintendência relativamente aos serviços de secretaria do Tribunal.
 
@@ -159,32 +205,32 @@ d) O núcleo de apoio documental e informação jurídica.
 
 11 - (Actual n.º 9.)
 
-###### Art. 15.º A composição da secretaria, dos serviços de apoio e do quadro de pessoal operário e auxiliar consta de portaria conjunta do Primeiro-Ministro e dos Ministros das Finanças e da Justiça, sob proposta do Presidente do Tribunal Constitucional.
+Art. 15.º A composição da secretaria, dos serviços de apoio e do quadro de pessoal operário e auxiliar consta de portaria conjunta do Primeiro-Ministro e dos Ministros das Finanças e da Justiça, sob proposta do Presidente do Tribunal Constitucional.
 
-###### Art. 17.º - 1 - O regime das custas devidas nos recursos e reclamações para o Tribunal Constitucional é o fixado na parte cível do Código das Custas Judiciais e respectiva legislação complementar, ressalvadas as disposições deste diploma.
+Art. 17.º - 1 - O regime das custas devidas nos recursos e reclamações para o Tribunal Constitucional é o fixado na parte cível do Código das Custas Judiciais e respectiva legislação complementar, ressalvadas as disposições deste diploma.
 
 2 - Nos recursos e reclamações para o Tribunal Constitucional não há lugar a preparos.
 
-###### Art. 18.º A taxa de justiça será fixada entre o mínimo de 1 e o máximo de 80 unidades de conta processuais (UCs), tendo em atenção a natureza e a complexidade do processo, a actividade contumaz do vencido e o volume dos interesses em disputa.
+Art. 18.º A taxa de justiça será fixada entre o mínimo de 1 e o máximo de 80 unidades de conta processuais (UCs), tendo em atenção a natureza e a complexidade do processo, a actividade contumaz do vencido e o volume dos interesses em disputa.
 
-###### Art. 2.º O artigo 8.º do [Decreto-Lei n.º 172/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1984-384422), de 24 de Maio, passa a ter a seguinte redacção:
+Art. 2.º O artigo 8.º do [Decreto-Lei n.º 172/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1984-384422), de 24 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 8.º Os funcionários de justiça dos quadros a que se reporta o [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, alterado pelo [Decreto-Lei n.º 167/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1989-610900), de 23 de Maio, podem ser requisitados para prestar serviço no Tribunal Constitucional, nos termos previstos naquele diploma.
+Art. 8.º Os funcionários de justiça dos quadros a que se reporta o [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, alterado pelo [Decreto-Lei n.º 167/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1989-610900), de 23 de Maio, podem ser requisitados para prestar serviço no Tribunal Constitucional, nos termos previstos naquele diploma.
 
-###### Art. 3.º São revogados o n.º 5 do artigo 6.º e os artigos 16.º e 19.º do [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril, bem como os n.os 2 a 4 do artigo 14.º do mesmo diploma, na redacção do [Decreto-Lei n.º 172/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1984-384422), de 24 de Maio.
+Art. 3.º São revogados o n.º 5 do artigo 6.º e os artigos 16.º e 19.º do [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril, bem como os n.os 2 a 4 do artigo 14.º do mesmo diploma, na redacção do [Decreto-Lei n.º 172/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1984-384422), de 24 de Maio.
 
-###### Art. 4.º É aplicável aos oficiais porteiros do Tribunal Constitucional o disposto na alínea c) do n.º 3 do artigo 22.º e no n.º 2 do artigo 25.º do [Decreto-Lei n.º 187/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1988-374243), de 27 de Maio.
+Art. 4.º É aplicável aos oficiais porteiros do Tribunal Constitucional o disposto na alínea c) do n.º 3 do artigo 22.º e no n.º 2 do artigo 25.º do [Decreto-Lei n.º 187/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1988-374243), de 27 de Maio.
 
-###### Art. 5.º É aplicável aos motoristas do Tribunal Constitucional o disposto no [Decreto-Lei n.º 381/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1989-549430), de 28 de Outubro, bem como na alínea c) do n.º 3 do artigo 22.º do [Decreto-Lei n.º 187/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1988-374243), de 27 de Maio.
+Art. 5.º É aplicável aos motoristas do Tribunal Constitucional o disposto no [Decreto-Lei n.º 381/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1989-549430), de 28 de Outubro, bem como na alínea c) do n.º 3 do artigo 22.º do [Decreto-Lei n.º 187/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1988-374243), de 27 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Fernando Nogueira.
 
-**Promulgado em 3 de Março de 1990.**
+Promulgado em 3 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Março de 1990.**
+Referendado em 3 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

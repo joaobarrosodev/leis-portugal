@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1990-565386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a37e78321a4119b509519a5a9f978f988ac6be177278a61e697d015ed0470c69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a46be2be3278a6652ef60d742f68ad8bb8baa052d43540c55d119c408feb6e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Comissão para a Transferência do Património e Documentação de Organismos do Ex-ministério do Ultramar
+- Extinção de Serviços
+- Instituto para a Cooperação Económica
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:365927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464045:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:15Z'
   warnings: []
   errors: []
 ---
@@ -90,24 +103,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É extinta a Comissão para a Transferência do Património e Documentação de Organismos do ex-Ministério do Ultramar.
+Artigo 1.º É extinta a Comissão para a Transferência do Património e Documentação de Organismos do ex-Ministério do Ultramar.
 
-###### Art. 2.º Todos os arquivos da Comissão e o demais património por esta utilizado transitam para o Instituto para a Cooperação Económica, o qual, em colaboração com a Direcção-Geral de Cooperação, coordenará as acções inerentes à identificação, tratamento e indicação daqueles.
+Art. 2.º Todos os arquivos da Comissão e o demais património por esta utilizado transitam para o Instituto para a Cooperação Económica, o qual, em colaboração com a Direcção-Geral de Cooperação, coordenará as acções inerentes à identificação, tratamento e indicação daqueles.
 
-###### Art. 3.º Mantêm-se em vigor os despachos conjuntos dos Ministros das Finanças e dos Negócios Estrangeiros A-31/88-XI, de 8 de Fevereiro de 1988, e A-288/88-XI, de 11 de Janeiro de 1989, relativos à documentação e ao património, excluindo as funções que eram atribuídas à Comissão pelo n.º 4 deste último despacho.
+Art. 3.º Mantêm-se em vigor os despachos conjuntos dos Ministros das Finanças e dos Negócios Estrangeiros A-31/88-XI, de 8 de Fevereiro de 1988, e A-288/88-XI, de 11 de Janeiro de 1989, relativos à documentação e ao património, excluindo as funções que eram atribuídas à Comissão pelo n.º 4 deste último despacho.
 
-###### Art. 4.º São revogados o artigo 28.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, o artigo 7.º do [Decreto-Lei n.º 367/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1980-464045), de 10 de Setembro, e o Despacho A-164/86-X, de 16 de Julho de 1986, dos Ministros das Finanças e dos Negócios Estrangeiros.
+Art. 4.º São revogados o artigo 28.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, o artigo 7.º do [Decreto-Lei n.º 367/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1980-464045), de 10 de Setembro, e o Despacho A-164/86-X, de 16 de Julho de 1986, dos Ministros das Finanças e dos Negócios Estrangeiros.
 
-###### Art. 5.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+Art. 5.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 26 de Novembro de 1990.**
+Promulgado em 26 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Novembro de 1990.**
+Referendado em 28 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

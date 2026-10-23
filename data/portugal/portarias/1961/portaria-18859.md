@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/12/28200/15451546.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18859-1961-184962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3818b20fbdef367a3747b2ffef73dd105237dbfc41311634c7071e348b0b71e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c66f0c3f845304b78445c7b1fba5d8c1591c5cafebed37fdf5b61a270103c1d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,29 @@ relationships:
   target: pt:dre:295976:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:387624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658908:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:295976:por
+  label: Revogada, a partir de 13.05.1978, pelo(a) Portaria n.º 268/78 - Diário da República n.º 109/1978, Série I de 1978-05-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-1978-295976
+  date: '1978-05-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:58Z'
   warnings: []
   errors: []
 ---

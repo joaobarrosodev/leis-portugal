@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18864-1961-184969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c89a25c2752071d9f17c559ff408b81b8872f577c39e1c8c4de3bbe175212da1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8cc867e8ecb53e28032a39d3f1502ec5064271d62663aaa0bf987946fc17bb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637472:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:03Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +123,7 @@ b) Um de 136000$00 para reforçar a verba do capítulo 7.º, artigo 1220.º, n.�
 
 ### CAPÍTULO 4.º — Serviços de instrução
 
-###### Artigo 120.º, n.º 2 «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado»:
+Artigo 120.º, n.º 2 «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado»:
 
 Alínea b) «Para o serviço eventual - Pessoal além dos quadros - Nos termos do artigo 87.º do [Decreto n.º 36508](https://diariodarepublica.pt/dr/detalhe/decreto/36508-1947-637472), de 17 de Setembro de 1947, com a redacção constante da [Portaria n.º 12238](https://diariodarepublica.pt/dr/detalhe/portaria/12238-1948-241975), de 9 de Janeiro de 1948» ... 400000$00
 
@@ -103,25 +131,25 @@ Alínea c) «Para o serviço eventual - Pessoal além dos quadros - Nos termos d
 
 Serviços de saúde e higiene
 
-###### Artigo 441.º, n.º 1) «Despesas com o material - Aquisições de utilização permanente - Móveis» ... 1263703$40
+Artigo 441.º, n.º 1) «Despesas com o material - Aquisições de utilização permanente - Móveis» ... 1263703$40
 
 ### CAPÍTULO 9.º — Serviços de marinha
 
-###### Artigo 1382.º, n.º 2) «Despesas com o material - Aquisições de utilização permanente - Móveis» ... 50000$00
+Artigo 1382.º, n.º 2) «Despesas com o material - Aquisições de utilização permanente - Móveis» ... 50000$00
 
-###### Artigo 1383.º «Despesas de conservação e aproveitamento»:
+Artigo 1383.º «Despesas de conservação e aproveitamento»:
 
 N.º 1) «Semoventes» ... 20000$00
 
 N.º 2) «Móveis» ... 25000$00
 
-###### Artigo 1384.º «Material de consumo corrente» ... 100000$00
+Artigo 1384.º «Material de consumo corrente» ... 100000$00
 
-###### Artigo 1385.º, n.º 2) «Pagamento de serviços - Despesas de higiene, saúde e conforto - Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos e utensílios de farmácia» ... 6000$00
+Artigo 1385.º, n.º 2) «Pagamento de serviços - Despesas de higiene, saúde e conforto - Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos e utensílios de farmácia» ... 6000$00
 
-###### Artigo 1392.º, n.º 1) «Capitania dos Portos - Despesas com o material - Despesas de conservação e aproveitamento - Semoventes» ... 15000$00
+Artigo 1392.º, n.º 1) «Capitania dos Portos - Despesas com o material - Despesas de conservação e aproveitamento - Semoventes» ... 15000$00
 
-###### Artigo 1406.º «Pagamento de serviços - Despesas de comunicações dentro da província» ... 5200$00
+Artigo 1406.º «Pagamento de serviços - Despesas de comunicações dentro da província» ... 5200$00
 
 ... 2384903$40
 
@@ -133,7 +161,7 @@ a) Nos termos do artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.
 
 b) Nos termos dos artigos 11.º, alínea g), e 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, um de 86763$10, a inscrever em adicional à tabela de despesa ordinária do referido orçamento, destinado ao pagamento de percentagens ao pessoal dos serviços de saúde e higiene, nos termos da [Portaria n.º 2098](https://diariodarepublica.pt/dr/detalhe/portaria/2098-1919-350966), de 8 de Janeiro de 1955, e respeitante ao mesmo ano, tomando como contrapartida disponibilidades existentes nas seguintes verbas da mencionada tabela de despesa:
 
-### Capítulo 4.º, artigo 103.º «Serviços de saúde e higiene - Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
+Capítulo 4.º, artigo 103.º «Serviços de saúde e higiene - Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 49250$00
 

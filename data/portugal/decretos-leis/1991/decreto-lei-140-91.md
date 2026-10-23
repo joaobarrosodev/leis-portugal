@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/140/1991/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1991-616266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bad9f6a05f25539aed6a293a4c143b2d929ad58a0f72d02aa72906850817cef4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4219ab0d7ce6b31342f15cd9f106f79779e2eb240ab7d958e9bdba8b4d0f73a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,29 @@ subjects:
 - Capital Social
 - Companhia de Seguros Bonança
 - Privatização
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615227:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:07Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +110,11 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O capital da Companhia de Seguros Bonança, S. A., é de 6000000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
+Artigo 1.º - 1 - O capital da Companhia de Seguros Bonança, S. A., é de 6000000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
 
 2 - As acções representativas do capital da sociedade poderão ser escriturais e, enquanto se mantiver a limitação instituída pelos artigos 6.º e 8.º, n.º 1, serão obrigatoriamente nominativas ou ao portador registadas.
 
-###### Art. 2.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, do presente diploma e da resolução do Conselho de Ministros a que se refere o artigo 11.º, é aprovada a alienação de 60% das acções representativas do capital social da Companhia de Seguros Bonança, S. A., e da percentagem do capital social da União de Bancos Portugueses, S. A., correspondente à participação que aquela detiver nesta sociedade.
+Art. 2.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, do presente diploma e da resolução do Conselho de Ministros a que se refere o artigo 11.º, é aprovada a alienação de 60% das acções representativas do capital social da Companhia de Seguros Bonança, S. A., e da percentagem do capital social da União de Bancos Portugueses, S. A., correspondente à participação que aquela detiver nesta sociedade.
 
 2 - Será reservado para aquisição por trabalhadores da Companhia de Seguros Bonança, S. A., e da sua participada União de Bancos Portugueses, S. A., nos termos do artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, os últimos na proporção da participação da primeira na segunda, aos pequenos subscritores e emigrantes um montante de acções até 20% do capital social.
 
@@ -110,7 +122,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - Será ainda efectuada a alienação em bloco de um montante de acções igual a 25% do capital social, mediante oferta pública de venda a pessoas singulares ou colectivas nacionais.
 
-###### Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas individuais a fixar na resolução do Conselho de Ministros a que se refere o artigo 11.º
+Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas individuais a fixar na resolução do Conselho de Ministros a que se refere o artigo 11.º
 
 2 - As propostas de aquisição de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar na resolução do Conselho de Ministros, procedendo-se a rateio, em função do número de subscritores, se disso for caso.
 
@@ -122,7 +134,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - Nos 15 dias seguintes ao termo do processo de reprivatização previsto no presente diploma, a sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas, com indicação da quantidade de acções de que cada um é titular.
 
-###### Art. 4.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
+Art. 4.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
 
 2 - Exceptuadas as transmissões entre os accionistas que compõem o bloco, as acções adquiridas nos termos do n.º 4 do artigo 2.º são indisponíveis durante cinco anos.
 
@@ -132,7 +144,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - São nulos os acordos pelos quais os titulares das acções a que se refere o n.º 2 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias da sociedade realizadas durante o período de indisponibilidade a que as primeiras estão sujeitas.
 
-###### Art. 5.º - 1 - A resolução do Conselho de Ministros fixará preços especiais para as aquisições de acções por trabalhadores, pequenos subscritores e emigrantes.
+Art. 5.º - 1 - A resolução do Conselho de Ministros fixará preços especiais para as aquisições de acções por trabalhadores, pequenos subscritores e emigrantes.
 
 2 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções previsto no n.º 3, em condições a fixar na resolução do Conselho de Ministros.
 
@@ -146,7 +158,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 7 - As acções adquiridas por pequenos subscritores e emigrantes não conferem direito de voto durante o período de indisponibilidade.
 
-###### Art. 6.º - 1 - Nas operações de reprivatização referidas nos n.os 2 e 3 do artigo 2.º não podem ser adquiridas por entidades estrangeiras acções que excedam 5% do capital da sociedade.
+Art. 6.º - 1 - Nas operações de reprivatização referidas nos n.os 2 e 3 do artigo 2.º não podem ser adquiridas por entidades estrangeiras acções que excedam 5% do capital da sociedade.
 
 2 - Quando celebrados antes da aquisição no processo de reprivatização, são nulos:
 
@@ -156,7 +168,7 @@ b) Os acordos pelos quais entidades portuguesas e estrangeiras se obriguem a ent
 
 c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a uma entidade estrangeira, interveniente ou não no processo de reprivatização, seja atribuído o direito de adquirir acções que, por aquele processo, pertençam a entidades portuguesas.
 
-###### Art. 7.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio mas por conta de entidades estrangeiras e, bem assim, são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
+Art. 7.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio mas por conta de entidades estrangeiras e, bem assim, são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
 
 2 - São nulos os acordos pelos quais, durante o período de indisponibilidade referido no n.º 2 do artigo 4.º, entidades portuguesas adquiram acções da sociedade reprivatizada em nome próprio mas por conta de entidades estrangeiras.
 
@@ -164,7 +176,7 @@ c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a
 
 4 - No caso do n.º 1 deste artigo, as acções adquiridas reputam-se para todos os efeitos pertencentes à entidade portuguesa, devendo esta restituir à entidade estrangeira os fundos que dela tenha recebido para o efeito.
 
-###### Art. 8.º - 1 - Enquanto for limitada, por força de disposição legal, a aquisição e a posse, por entidades estrangeiras, de acções da sociedade reprivatizada, observar-se-á o seguinte:
+Art. 8.º - 1 - Enquanto for limitada, por força de disposição legal, a aquisição e a posse, por entidades estrangeiras, de acções da sociedade reprivatizada, observar-se-á o seguinte:
 
 a) Não podem ser inscritas ou averbadas a entidades estrangeiras acções com direito a voto representativas de mais de 5% do capital social após a conclusão da presente reprivatização do capital da Companhia de Seguros Bonança, S. A., nem de mais de 20% após a alienação das acções ainda detidas pela Direcção-Geral do Tesouro;
 
@@ -174,7 +186,7 @@ c) Nas sociedades, ordinárias ou gestoras de participações sociais, titulares
 
 2 - Para os efeitos do número anterior, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento as informações e provas que considerar necessárias.
 
-###### Art. 9.º - 1 - Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
+Art. 9.º - 1 - Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
 
 a) As sociedades ou entidades equiparáveis constituídas ao abrigo de lei estrangeira;
 
@@ -184,34 +196,34 @@ b) As sociedades com sede em Portugal que, nos termos do artigo 486.º do Códig
 
 3 - Cada entidade colectiva concorrente declarará, por escrito, se se encontra ou não em relação prevista no número anterior com outra entidade também concorrente.
 
-###### Art. 10.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher entre as que foram pré-qualificadas por despacho do mesmo Ministro das Finanças.
+Art. 10.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher entre as que foram pré-qualificadas por despacho do mesmo Ministro das Finanças.
 
-###### Art. 11.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
+Art. 11.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
 
-###### Art. 12.º Para efeitos da primeira assembleia geral de accionistas, não serão consideradas as transmissões de acções até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
+Art. 12.º Para efeitos da primeira assembleia geral de accionistas, não serão consideradas as transmissões de acções até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
 
-###### Art. 13.º Nos 30 dias seguintes à alienação das acções, o conselho de administração convocará a assembleia geral de accionistas, para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+Art. 13.º Nos 30 dias seguintes à alienação das acções, o conselho de administração convocará a assembleia geral de accionistas, para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
-###### Art. 14.º A partir do termo da reprivatização de 60% do capital social da Companhia de Seguros Bonança, S. A., as acções da União de Bancos Portugueses, S. A., de que a primeira é titular passam a considerar-se, para todos os efeitos, como acções do tipo B, referido na alínea b) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 126/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1989-615227), de 15 de Abril.
+Art. 14.º A partir do termo da reprivatização de 60% do capital social da Companhia de Seguros Bonança, S. A., as acções da União de Bancos Portugueses, S. A., de que a primeira é titular passam a considerar-se, para todos os efeitos, como acções do tipo B, referido na alínea b) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 126/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1989-615227), de 15 de Abril.
 
-###### Art. 15.º - 1 - Enquanto não for alienado totalmente o capital social remanescente, e independentemente do número de acções de que o Estado seja titular, o seu representante na assembleia geral poderá designar um dos membros do conselho de administração.
+Art. 15.º - 1 - Enquanto não for alienado totalmente o capital social remanescente, e independentemente do número de acções de que o Estado seja titular, o seu representante na assembleia geral poderá designar um dos membros do conselho de administração.
 
 2 - As deliberações da assembleia geral que tenham por objecto a fusão, a cisão, a transformação, a dissolução, a alteração do contrato, incluindo o aumento e a diminuição do capital, bem como a venda de participação noutras sociedades representativas de mais de 10% do capital social destas, só se considerarão tomadas se não forem votadas desfavoravelmente pelo representante do Estado.
 
 3 - O administrador nomeado nos termos do n.º 1 tem a competência, direito e deveres definidos na lei para os administradores por parte do Estado.
 
-###### Art. 16.º Para a realização das operações de alienação são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado das Finanças, poderes para contratar, por ajuste directo, entre as empresas pré-qualificadas a que se refere o artigo 5.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, a tomada firme, a montagem e a colocação das acções e, bem assim, determinar as demais condições que se afigurem convenientes.
+Art. 16.º Para a realização das operações de alienação são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado das Finanças, poderes para contratar, por ajuste directo, entre as empresas pré-qualificadas a que se refere o artigo 5.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, a tomada firme, a montagem e a colocação das acções e, bem assim, determinar as demais condições que se afigurem convenientes.
 
-###### Art. 17.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 17.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 1 de Abril de 1991.**
+Promulgado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Abril de 1991.**
+Referendado em 2 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

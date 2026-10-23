@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/067a00/14761477.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/1991/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1991-471159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cf4ddfe6a72a6023c21f3697411116285a353630f5895f6eca7c45a95869039
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3b83455f4cce5f6e1ccbdba3bce7e100c8f486f3e17343fd15497e9ca72dd80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,30 @@ relationships:
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARACAO-RECTIFICACA NUMERO 72/91, DE 15 DE ABRIL, PUBLICADA NO DR.IS-A, 99, DE 19910430.\010430."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-04-30'
 - type: cites
   target: celex:31987L0344
   label: null
   source: http://data.europa.eu/eli/dir/1987/344/oj
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:31Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +118,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 3.º do Decreto-Lei n.º 85/86, de 7 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 3.º do Decreto-Lei n.º 85/86, de 7 de Maio, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Os seguros «Não vida» incluem os seguintes ramos:
+Artigo 1.º Os seguros «Não vida» incluem os seguintes ramos:
 
 1) ...
 
@@ -150,7 +160,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 19) ...
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - ...
 
@@ -162,18 +172,18 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 6 - A restrição prevista no número anterior relativamente ao ramo 17) não se aplica quando o risco compreendido neste ramo seja acessório do ramo 6), em relação a litígios ou riscos resultantes da utilização de embarcações marítimas ou relacionadas com essa utilização, ou do ramo 18), quando se relacione com a assistência prestada a pessoas em dificuldades durante deslocações ou ausência do seu domicílio ou local de residência permanente.
 
-###### Art. 2.º - 1 - O presente diploma entra em vigor no 1.º dia do 2.º mês seguinte ao da data da sua publicação, aplicando-se a todos os pedidos que, nessa data, aguardem aprovação do Instituto de Seguros de Portugal.
+Art. 2.º - 1 - O presente diploma entra em vigor no 1.º dia do 2.º mês seguinte ao da data da sua publicação, aplicando-se a todos os pedidos que, nessa data, aguardem aprovação do Instituto de Seguros de Portugal.
 
 2 - As apólices de seguro existentes à data da entrada em vigor deste diploma cujas condições gerais ou especiais não estejam de acordo com o nele disposto ou com as normas regulamentares de exploração do ramo «Protecção jurídica» apenas têm validade, relativamente a cada contrato, até ao próximo vencimento, salvo se forem devidamente adaptadas ao novo regime e a sua aprovação solicitada ao Instituto de Seguros de Portugal no prazo de 60 dias após a entrada em vigor deste diploma, devendo, em qualquer dos casos, o tomador de seguro ser avisado nos termos contratuais.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 8 de Março de 1991.**
+Promulgado em 8 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Março de 1991.**
+Referendado em 12 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

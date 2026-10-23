@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18765-1961-183593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e750b4349e0706172e7ed3e6def9a9c85ae781119610fd292d2c15b6aee87865
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d83c1243aaf94ac7846e4e720c3dbe62a6941091a8b3b4b375684c5a39001c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:58Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +93,13 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 2), alínea f) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 100000$00
+Artigo 4.º, n.º 2), alínea f) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 100000$00
 
 tomando como contrapartida a seguinte disponibilidade na mesma tabela de despesa:
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 2, alínea a) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 100000$00
+Artigo 3.º, n.º 2, alínea a) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 100000$00
 
 Presidência do Conselho, 9 de Outubro de 1961. - O Ministro da Defesa Nacional, António de Oliveira Salazar.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18936-1962-642565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48d5ec1c3eab86fa9b1aa87603331db97a5866891e8202cd7ec58c046ead2f5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f71d0d6f856329d7a8b422968c9f87be67fc06fd95442fac5603c8eb58dd257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:173157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594715:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:39Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +124,9 @@ Regulamento do Serviço de Prevenção e Repressão das Infracções Fiscais e d
 
 ### CAPÍTULO I — Da organização
 
-###### Artigo 1.º O Serviço de prevenção e repressão das infracções fiscais e da fiscalização tributária constitui um serviço privativo da Direcção-Geral das Contribuições e Impostos, exercendo a sua acção em todo o território nacional do continente e ilhas adjacentes, tendo como objectivo a prevenção e repressão das infracções fiscais, a fiscalização em geral de todas as contribuições e impostos, taxas e licenças a cargo da mesma Direcção-Geral e a observação e verificação de todas as situações de facto susceptíveis ou decorrentes da tributação e do cumprimento de obrigações fiscais de qualquer natureza.
+Artigo 1.º O Serviço de prevenção e repressão das infracções fiscais e da fiscalização tributária constitui um serviço privativo da Direcção-Geral das Contribuições e Impostos, exercendo a sua acção em todo o território nacional do continente e ilhas adjacentes, tendo como objectivo a prevenção e repressão das infracções fiscais, a fiscalização em geral de todas as contribuições e impostos, taxas e licenças a cargo da mesma Direcção-Geral e a observação e verificação de todas as situações de facto susceptíveis ou decorrentes da tributação e do cumprimento de obrigações fiscais de qualquer natureza.
 
-###### Art. 2.º Até à reforma geral dos serviços de administração fiscal e do contencioso das contribuições e impostos, este serviço adopta a denominação de Serviço de prevenção e repressão e constitui, fundamentalmente, um órgão de vigilância, promoção e efectivação da justiça fiscal, tendo por função:
+Art. 2.º Até à reforma geral dos serviços de administração fiscal e do contencioso das contribuições e impostos, este serviço adopta a denominação de Serviço de prevenção e repressão e constitui, fundamentalmente, um órgão de vigilância, promoção e efectivação da justiça fiscal, tendo por função:
 
 a) Observar as realidades ou elementos relativos à incidência das leis fiscais e cooperar com os serviços de liquidação e cobrança para o perfeito conhecimento, por estes, da exactidão dos factos tributários;
 
@@ -124,7 +140,7 @@ e) Exercer, por todos os meios legítimos, uma acção permanente de defesa dos 
 
 ### CAPÍTULO II — Dos serviços
 
-###### Art. 3.º A acção do Serviço de prevenção e repressão é exercida:
+Art. 3.º A acção do Serviço de prevenção e repressão é exercida:
 
 a) Por um serviço central, com competência generalizada a todo o território do continente e ilhas adjacentes;
 
@@ -134,7 +150,7 @@ c) Por serviços concelhios, de competência restrita à área dos concelhos.
 
 § único. Os serviços a que se refere o corpo deste artigo terão a composição que lhes for fixada por despacho ministerial, nos termos do artigo 3.º do [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157), de 16 de Agosto de 1961.
 
-###### Art. 4.º O serviço central, enquanto não for integrado numa das repartições, funciona junto do gabinete do director-geral, sendo fundamentalmente um serviço de direcção, consulta e administração, tendo especialmente a seu cargo:
+Art. 4.º O serviço central, enquanto não for integrado numa das repartições, funciona junto do gabinete do director-geral, sendo fundamentalmente um serviço de direcção, consulta e administração, tendo especialmente a seu cargo:
 
 1.º A coordenação e direcção geral de todo o serviço e o estabelecimento de uniformidade de acção preventivo-repressiva e da fiscalização em todo o território do continente e ilhas adjacentes;
 
@@ -160,13 +176,13 @@ c) Por serviços concelhios, de competência restrita à área dos concelhos.
 
 12.º A organização e manutenção do inventário e arquivo geral.
 
-###### Art. 5.º Os serviços distritais agrupam-se em duas zonas, com sede, respectivamente, no Porto e em Lisboa.
+Art. 5.º Os serviços distritais agrupam-se em duas zonas, com sede, respectivamente, no Porto e em Lisboa.
 
 À 1.ª zona pertencem os serviços distritais situados a norte dos distritos de Coimbra e Castelo Branco.
 
 À 2.ª zona todos os outros, incluindo os dos arquipélagos da Madeira e Açores.
 
-###### Art. 6.º Cada uma das zonas será chefiada por um director de finanças e servida por uma secretaria, que terá especialmente a seu cargo:
+Art. 6.º Cada uma das zonas será chefiada por um director de finanças e servida por uma secretaria, que terá especialmente a seu cargo:
 
 1.º Todo o expediente em geral respeitante à sua área, e designadamente a expedição de instruções e ordens de serviço integradas na orientação geral e na preocupação de uma perfeita uniformidade de acção;
 
@@ -190,11 +206,11 @@ c) Por serviços concelhios, de competência restrita à área dos concelhos.
 
 11.º Arquivo regional e inventário.
 
-###### Art. 7.º Os serviços de cada um dos distritos são chefiados por um chefe distrital e compõem-se de um corpo de brigadas de acção externa e uma secretaria.
+Art. 7.º Os serviços de cada um dos distritos são chefiados por um chefe distrital e compõem-se de um corpo de brigadas de acção externa e uma secretaria.
 
-###### Art. 8.º A secretaria distrital terá a seu cargo, e em relação à área da sua competência, as mesmas funções que o artigo 6.º estabelece para a secretaria da zona regional, com a adaptação necessária à efectividade da acção das brigadas e seu expediente.
+Art. 8.º A secretaria distrital terá a seu cargo, e em relação à área da sua competência, as mesmas funções que o artigo 6.º estabelece para a secretaria da zona regional, com a adaptação necessária à efectividade da acção das brigadas e seu expediente.
 
-###### Art. 9.º Compete ao funcionário encarregado da chefia do serviço central:
+Art. 9.º Compete ao funcionário encarregado da chefia do serviço central:
 
 1.º Dirigir o expediente, examinar, fiscalizar e promover os trabalhos a cargo deste serviço;
 
@@ -216,7 +232,7 @@ c) Por serviços concelhios, de competência restrita à área dos concelhos.
 
 10.º Elaborar trimestralmente, em anexo ao relatório anual, informações confidenciais, segundo o modelo anexo, acerca do serviço prestado por todos os funcionários da sua dependência, atribuindo-lhes as classificações correspondentes.
 
-###### Art. 10.º Compete especialmente aos directores dos serviços regionais:
+Art. 10.º Compete especialmente aos directores dos serviços regionais:
 
 1.º Dirigir e fiscalizar toda a acção dos funcionários da sua área, de harmonia com os preceitos regulamentares e instruções superiores, promovendo todas as diligências necessárias à manutenção da eficiência dos serviços em nível elevado, actuando directa e pessoalmente, deslocando-se para o efeito sempre que o julgue necessário;
 
@@ -244,7 +260,7 @@ c) Por serviços concelhios, de competência restrita à área dos concelhos.
 
 13.º Tomar conhecimento da correspondência entrada e distribuí-la pelos respectivos serviços.
 
-###### Art. 11.º Aos chefes distritais competem, na respectiva área, as funções indicadas no artigo anterior e, designadamente:
+Art. 11.º Aos chefes distritais competem, na respectiva área, as funções indicadas no artigo anterior e, designadamente:
 
 1.º Prestar ao director de zona todas as informações e fornecer os elementos necessários ao exercício, por este, das funções que respeitam ao respectivo distrito;
 
@@ -278,7 +294,7 @@ c) Por serviços concelhios, de competência restrita à área dos concelhos.
 
 16.º Remeter os autos ao juízo respectivo quando as multas não forem pagas voluntàriamente no prazo de 30 dias.
 
-###### Art. 12.º Compete especialmente aos chefes de brigada:
+Art. 12.º Compete especialmente aos chefes de brigada:
 
 1.º Observar e verificar os factos tributários e investigar sobre a existência de matéria colectável susceptível de imposto ou da sujeição ao cumprimento de obrigações fiscais;
 
@@ -314,7 +330,7 @@ c) Por serviços concelhios, de competência restrita à área dos concelhos.
 
 17.º Manter em bom estado de conservação e funcionamento o armamento, munições e projécteis que lhe tenham sido distribuídos.
 
-###### Art. 13.º Compete especialmente ao auxiliar de brigada:
+Art. 13.º Compete especialmente ao auxiliar de brigada:
 
 1.º Colaborar com o respectivo chefe, a quem fica directa e imediatamente subordinado, cumprindo pronta, inteiramente e sem quaisquer reparos as ordens e instruções que por este lhe forem dadas, ficando, porém, ressalvado o direito de respeitosa representação, nos termos dos artigos 9.º e 10.º e seus parágrafos do Estatuto Disciplinar dos Funcionários Civis do Estado, aprovado pelo [Decreto-Lei n.º 32659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32659-1943-594715), de 9 de Fevereiro de 1943;
 
@@ -342,15 +358,15 @@ c) Por serviços concelhios, de competência restrita à área dos concelhos.
 
 ### CAPÍTULO III — Dos funcionários e do exercício das funções
 
-###### Art. 14.º O recrutamento do pessoal privativo dos quadros do serviço preventivo-repressivo e da fiscalização tributária é feito por livre nomeação do Ministro das Finanças, mediante proposta do director-geral, e recairá em funcionários seleccionados entre as classes correspondentes do quadro da Direcção-Geral das Contribuições e Impostos com reconhecidas qualidades para o exercício do cargo e entre outros indivíduos do sexo masculino, de idade não inferior a 25 anos nem superior a 35, com habilitações de licenciatura em Ciências Económicas e Financeiras ou o mínimo do curso de contabilidade das escolas de ensino técnico e profissional, em qualquer dos casos sob proposta do director-geral.
+Art. 14.º O recrutamento do pessoal privativo dos quadros do serviço preventivo-repressivo e da fiscalização tributária é feito por livre nomeação do Ministro das Finanças, mediante proposta do director-geral, e recairá em funcionários seleccionados entre as classes correspondentes do quadro da Direcção-Geral das Contribuições e Impostos com reconhecidas qualidades para o exercício do cargo e entre outros indivíduos do sexo masculino, de idade não inferior a 25 anos nem superior a 35, com habilitações de licenciatura em Ciências Económicas e Financeiras ou o mínimo do curso de contabilidade das escolas de ensino técnico e profissional, em qualquer dos casos sob proposta do director-geral.
 
-###### Art. 15.º Os funcionários dos quadros gerais destacados para o serviço a que se refere o presente diploma ficam obrigados a especializarem-se em contabilidade comercial e a sujeitarem-se a um exame, desempenhando o cargo em comissão, por tempo indeterminado, abrindo vaga no quadro de origem, que, assim, se considerará automàticamente aumentado ou diminuído à medida que forem ordenadas as comissões de serviço ou a sua cessação.
+Art. 15.º Os funcionários dos quadros gerais destacados para o serviço a que se refere o presente diploma ficam obrigados a especializarem-se em contabilidade comercial e a sujeitarem-se a um exame, desempenhando o cargo em comissão, por tempo indeterminado, abrindo vaga no quadro de origem, que, assim, se considerará automàticamente aumentado ou diminuído à medida que forem ordenadas as comissões de serviço ou a sua cessação.
 
 § único. Os funcionários a quem for dada por finda a comissão de serviço, por não obterem aprovação no exame a que se refere o corpo deste artigo ou por qualquer outro motivo, só poderão regressar ao quadro de origem quando houver vaga na sua categoria.
 
 Entretanto manter-se-ão em serviço na Direcção-Geral, com o vencimento correspondente à categoria que lhes couber, no desempenho das funções e no lugar que lhes seja determinado pelo Ministro das Finanças.
 
-###### Art. 16.º Os funcionários a que se refere o artigo anterior são sujeitos a classificação de serviço revista trimestralmente, mediante informações dos respectivos superiores hierárquicos sobre as qualidades compreendidas nos quadros seguintes e em harmonia com o questionário anexo ao presente regulamento:
+Art. 16.º Os funcionários a que se refere o artigo anterior são sujeitos a classificação de serviço revista trimestralmente, mediante informações dos respectivos superiores hierárquicos sobre as qualidades compreendidas nos quadros seguintes e em harmonia com o questionário anexo ao presente regulamento:
 
 I - Apresentação.
 
@@ -370,7 +386,7 @@ VI - Qualidades morais.
 
 § 3.º Da média das classificações atribuídas à matéria dos vários quadros resultará a classificação geral do funcionário, atribuindo-se aos quadros I e II o valor 1, aos quadros III, IV e V o valor 2 e ao quadro VI o valor 3. Se, porém, a classificação de qualquer dos quadros V e VI ou de dois dos restantes for de demérito, ela determinará sempre a classificação geral do funcionário.
 
-###### Art. 17.º Aos funcionários a que se refere o artigo 15.º será dada por finda a comissão que exercerem se a seu respeito se verificar uma das seguintes circunstâncias:
+Art. 17.º Aos funcionários a que se refere o artigo 15.º será dada por finda a comissão que exercerem se a seu respeito se verificar uma das seguintes circunstâncias:
 
 a) Ser-lhes atribuída classificação inferior à de Bom em dois boletins trimestrais, seguida ou interpoladamente, ou em um só se o for em resultado da resposta ao quadro VI do artigo 16.º;
 
@@ -386,7 +402,7 @@ f) Descurarem os deveres de observar o modo como actuam os funcionários sob a s
 
 g) Serem responsabilizados por conivência, falta de acção ou participação conveniente por qualquer infracção ou conduta de outro funcionário de que resulta para este o afastamento do serviço.
 
-###### Art. 18.º Os funcionários pertencentes a este serviço exercem funções em qualquer lugar do País que lhes seja designado, podendo ser livremente destacados ou deslocados por simples despacho ministerial.
+Art. 18.º Os funcionários pertencentes a este serviço exercem funções em qualquer lugar do País que lhes seja designado, podendo ser livremente destacados ou deslocados por simples despacho ministerial.
 
 Quando, porém, tiverem de se deslocar fora do concelho onde se localize a sede do serviço em que se encontrem destacados, têm direito a transporte e a ajudas de custo.
 
@@ -394,22 +410,22 @@ Quando, porém, tiverem de se deslocar fora do concelho onde se localize a sede 
 
 § 2.º A apreciação das circunstâncias a que se refere o parágrafo anterior deverá, sempre que possível, constar de cada uma das ordens de serviço em que se estabeleça a distribuição de brigadas.
 
-###### Art. 19.º O horário do serviço externo será estabelecido, para cada local, por forma a corresponder, com a possível exactidão, aos períodos de funcionamento ou exercício das actividades sujeitas a obrigações tributárias, devendo os serviços nocturnos ou a prestar em dias feriados, domingos ou nos sábados à tarde ser desempenhados em regime de turnos, consoante as necessidades e por um critério de equitativa distribuição.
+Art. 19.º O horário do serviço externo será estabelecido, para cada local, por forma a corresponder, com a possível exactidão, aos períodos de funcionamento ou exercício das actividades sujeitas a obrigações tributárias, devendo os serviços nocturnos ou a prestar em dias feriados, domingos ou nos sábados à tarde ser desempenhados em regime de turnos, consoante as necessidades e por um critério de equitativa distribuição.
 
-###### Art. 20.º Se em resultado de concursos os funcionários destacados para este serviço forem promovidos, poderão nele continuar com a categoria e as regalias e vencimentos que lhes corresponderem, competindo ao director-geral decidir sobre as funções a exercer a partir de então, sob proposta do director de zona regional.
+Art. 20.º Se em resultado de concursos os funcionários destacados para este serviço forem promovidos, poderão nele continuar com a categoria e as regalias e vencimentos que lhes corresponderem, competindo ao director-geral decidir sobre as funções a exercer a partir de então, sob proposta do director de zona regional.
 
-###### Art. 21.º Os funcionários deste serviço serão substituídos nos seus impedimentos pelo funcionário imediatamente inferior em categoria ou por aquele que for designado pelo director-geral, sob proposta do director da respectiva zona.
+Art. 21.º Os funcionários deste serviço serão substituídos nos seus impedimentos pelo funcionário imediatamente inferior em categoria ou por aquele que for designado pelo director-geral, sob proposta do director da respectiva zona.
 
-###### Art. 22.º As brigadas de serviço externo serão constituídas em cada zona distrital por proposta do chefe distrital ao director regional, que aprovará ou alterará a sua constituição e determinará a sua movimentação pelas rotas estabelecidas para a respectiva área, decidindo sobre o alternamento periódico dos seus membros, por forma que todas as actividades e locais afectos ao imposto sejam visitados e observados com regularidade e frequência.
+Art. 22.º As brigadas de serviço externo serão constituídas em cada zona distrital por proposta do chefe distrital ao director regional, que aprovará ou alterará a sua constituição e determinará a sua movimentação pelas rotas estabelecidas para a respectiva área, decidindo sobre o alternamento periódico dos seus membros, por forma que todas as actividades e locais afectos ao imposto sejam visitados e observados com regularidade e frequência.
 
-###### Art. 23.º Os funcionários do Serviço de prevenção e repressão, qualquer que seja a sua situação, são responsáveis disciplinarmente pelas infracções que cometam, nos termos do Estatuto Disciplinar dos Funcionários Civis do Estado.
+Art. 23.º Os funcionários do Serviço de prevenção e repressão, qualquer que seja a sua situação, são responsáveis disciplinarmente pelas infracções que cometam, nos termos do Estatuto Disciplinar dos Funcionários Civis do Estado.
 
-###### Art. 24.º Além das prerrogativas especialmente previstas neste regulamento, terão direito às enumeradas no artigo 40.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 18 de Abril de 1930, com as alterações posteriores que não tenham sido restringidas ou eliminadas por este diploma e às referidas no artigo 9.º do [Decreto-Lei n.º 42637](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42637-1959-440104), de 7 de Novembro de 1959.
+Art. 24.º Além das prerrogativas especialmente previstas neste regulamento, terão direito às enumeradas no artigo 40.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 18 de Abril de 1930, com as alterações posteriores que não tenham sido restringidas ou eliminadas por este diploma e às referidas no artigo 9.º do [Decreto-Lei n.º 42637](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42637-1959-440104), de 7 de Novembro de 1959.
 
 Ministério das Finanças, 3 de Janeiro de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 
 Serviço de prevenção e repressão das infracções fiscais e da fiscalização tributária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/01/00200/00030008.pdf))](https://files.diariodarepublica.pt/1s/1962/01/00200/00030008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/01/00200/00030008.pdf)
 
 Ministério das Finanças, 3 de Janeiro de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.

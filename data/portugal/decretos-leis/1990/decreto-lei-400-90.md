@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28900/51205121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1990-563233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ef4be1b85212717d35240348ea30c6c78724ef488ca0414ffe6ec09420793b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fda30262ae0639be6a35e0f829887e53a13c71ce6981dc969689c976b7274600
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Promoção Turística
+- Orgânica
+- Pessoal Dirigente
+- Presidência do Conselho de Ministros
+- Promoção Turística
+- Recrutamento de Pessoal
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:684396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684396:por
+  label: Extinto o Instituto de Promoção Turística (IPT), criado pelo Dec Lei 402/86, de 3-dez, alterado pelo presente diploma,
+    que são revogados pelo(a) Decreto-Lei n.º 179/92 - Diário da República n.º 188/1992, 1º Suplemento, Série I-A de 1992-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1992-684396
+  date: '1992-08-17'
+- type: cites
+  target: pt:dre:221515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:247177:por
+  label: Rectificado pela DECL.DD3057.1990.12.20.PCM, DR.IS [300]5ºSupl de 31/Dez/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-247177
+  date: '1990-12-20'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 179/92 DE 17-AGO DR.IS-A [188]SUPL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-08-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:36Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +130,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 7.º, 8.º, 9.º, 12.º e 16.º do [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 7.º, 8.º, 9.º, 12.º e 16.º do [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - O presidente será coadjuvado por dois vice-presidentes.
 
@@ -109,21 +140,21 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - O presidente e os vice-presidentes do IPT serão equiparados, respectivamente, a director-geral e a subdirector-geral, para todos os efeitos legais, sendo a sua nomeação feita nos termos da lei geral.
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - O presidente pode delegar, com as restrições previstas no n.º 2 do artigo 13.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, o exercício de qualquer das suas competências num dos vice-presidentes ou em qualquer funcionário do pessoal dirigente ou superior do IPT, especificando os poderes e as matérias abrangidas na delegação.
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 2 - O presidente será substituído nas suas faltas e impedimentos pelo vice-presidente designado para o efeito.
 
 3 - ...
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - O presidente poderá delegar a presidência do conselho num dos vice-presidentes.
 
-###### Art. 12.º O conselho de coordenação promocional é constituído por:
+Art. 12.º O conselho de coordenação promocional é constituído por:
 
 a) ...
 
@@ -147,20 +178,20 @@ j) ...
 
 l) ...
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 2 - O presidente será substituído nas suas faltas ou impedimentos por um dos vice-presidentes designado para o efeito.
 
 3 - O presidente poderá delegar num dos vice-presidentes, designado nos termos do número anterior, a competência a que se refere a alínea a) do n.º 1 e, no que respeita às reuniões restritas do conselho, as competências a que se referem as alíneas a) e b) do mesmo número.
 
-###### Art. 2.º - É aditado ao [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, a seguir ao artigo 53.º, o artigo 53.º-A, com a seguinte redacção:
+Art. 2.º - É aditado ao [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, a seguir ao artigo 53.º, o artigo 53.º-A, com a seguinte redacção:
 
-###### Art. 53.º-A - 1 - O provimento do lugar de chefe de divisão do Departamento de Promoção poderá ser feito de entre os indivíduos integrados na carreira técnica superior de turismo deste Instituto e que possuam experiência profissional comprovada no exercício de funções que constituem a actividade da respectiva divisão.
+Art. 53.º-A - 1 - O provimento do lugar de chefe de divisão do Departamento de Promoção poderá ser feito de entre os indivíduos integrados na carreira técnica superior de turismo deste Instituto e que possuam experiência profissional comprovada no exercício de funções que constituem a actividade da respectiva divisão.
 
 2 - Para o efeito do disposto no número anterior não é condição necessária para o provimento no cargo de chefe de divisão a posse, por parte de indivíduos a nomear, de licenciatura.
 
-###### Art. 3.º O mapa anexo ao [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, é substituído pelo mapa anexo ao presente diploma, que dele faz parte integrante.
+Art. 3.º O mapa anexo ao [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, é substituído pelo mapa anexo ao presente diploma, que dele faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 8 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Fernando Manuel Barbosa Faria de Oliveira.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28900/51205121.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28900/51205121.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28900/51205121.pdf)

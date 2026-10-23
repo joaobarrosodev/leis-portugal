@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/187a00/41554156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/303/1991/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1991-674180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a46918f178521a698b053ad264504db21cdaa8d17989113bf0f682003afea7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0be7c761264592b018c86def85280c0d587827fc02aea67d51f8cebfa0d3ec5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Controlo de Qualidade
-- Saúde Pública
-- Etiquetagem
-- Embalagem
-- Pesticida
 - Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Pesticida
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:379923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555000:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:350901:por
+  label: "Revogado o art 1.º pelo DEC LEI.131/97.1997.05.30.MADRP DR.IS-A [124]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-1997-350901
+  date: '1997-05-30'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:52Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +121,7 @@ Considerando, ainda, a necessária uniformização de rótulos a nível comunit�
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 7.º e 8.º do [Decreto-Lei n.º 294/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1988-379923), de 24 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 7.º e 8.º do [Decreto-Lei n.º 294/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1988-379923), de 24 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 5.º — [...]
 
@@ -169,7 +187,7 @@ a) ...
 
 b) No caso em que a embalagem de comercialização seja simultaneamente de transporte, desde que o rótulo esteja de acordo com o presente diploma, podendo o símbolo referido na alínea h) do n.º 2 do artigo 7.º ser substituído pelo símbolo indicado nos regulamentos de transporte de substâncias perigosas, sempre que a classificação para efeitos de transporte seja equivalente ou mais rigorosa que a classificação para efeitos de comercialização.
 
-###### Art. 2.º O artigo 1.º do [Decreto-Lei n.º 306/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1990-555000), de 27 de Setembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 1.º do [Decreto-Lei n.º 306/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1990-555000), de 27 de Setembro, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -181,12 +199,12 @@ c) ...
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1991. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 26 de Julho de 1991.**
+Promulgado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1991.**
+Referendado em 30 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

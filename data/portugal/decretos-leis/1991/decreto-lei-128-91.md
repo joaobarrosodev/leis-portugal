@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/1991/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1991-471957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4fca9c78667ca16b2ef02beb0b64091fe2730dc910f30f5d0fb31d94016892b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cc2a1bf4cf883ecc18ca60baabaa251bf9d814cbb605762d4d8e5485eb4edb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Participação Social
-- Sociedade Anónima
 - Quimigal
+- Sociedade Anónima
 - Venda Directa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:46Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +108,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A QUIMIGAL - Química de Portugal, S. A., fica desde já autorizada a proceder à venda directa, total ou parcial, das participações sociais que detém nas seguintes sociedades, atendendo à estratégia definida para o sector e à realidade dos mercados nacional e internacional:
+Artigo 1.º A QUIMIGAL - Química de Portugal, S. A., fica desde já autorizada a proceder à venda directa, total ou parcial, das participações sociais que detém nas seguintes sociedades, atendendo à estratégia definida para o sector e à realidade dos mercados nacional e internacional:
 
 a) AGROQUISA - Agroquímicos, S. A.;
 
@@ -110,16 +122,16 @@ e) QUIMITÉCNICA - Serviços, Comércio e Indústria de Produtos Químicos, S. A
 
 f) LUSOL - Companhia Lusitânia de Óleos, S. A.
 
-###### Art. 2.º O Conselho de Ministros aprovará, mediante resolução, nos termos e para os efeitos dos artigos 8.º e 14.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, todo o processo das operações previstas no número anterior.
+Art. 2.º O Conselho de Ministros aprovará, mediante resolução, nos termos e para os efeitos dos artigos 8.º e 14.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, todo o processo das operações previstas no número anterior.
 
 Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral.
 
-**Promulgado em 12 de Março de 1991.**
+Promulgado em 12 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Março de 1991.**
+Referendado em 13 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

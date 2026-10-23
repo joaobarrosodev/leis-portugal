@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/12/28600/15931596.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18874-1961-184900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 277721db5083ebf73fb5dde25951cef8b57f11e550ef39f44b0aa9b74907a4ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd610e3a76e6667a85569527189cda2f7c42debc46213728769ae21ff5d4b69e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Mergulhador
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:367241:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:591160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:367241:por
+  label: "Revogada pela Port.635/79.03.12.1979.CR, DR.IS [278] de 03.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/635-1979-367241
+  date: '1979-12-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:13Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +107,7 @@ Regulamento do Serviço de Mergulhadores da Armada
 
 ### CAPÍTULO I — Classificação e funções
 
-###### Artigo 1.º Os mergulhadores da Armada compreendem:
+Artigo 1.º Os mergulhadores da Armada compreendem:
 
 a) Mergulhadores-sapadores;
 
@@ -103,13 +115,13 @@ b) Mergulhadores normais;
 
 c) Mergulhadores-vigias.
 
-###### Art. 2.º Aos mergulhadores-sapadores competem as funções militares, com carácter defensivo e ofensivo, próprias da guerra de minas e da sabotagem submarina.
+Art. 2.º Aos mergulhadores-sapadores competem as funções militares, com carácter defensivo e ofensivo, próprias da guerra de minas e da sabotagem submarina.
 
-###### Art. 3.º Aos mergulhadores normais compete prestar assistência aos navios da Armada, em todas as reparações e inspecções de querena, veios e hélices, bem como em todo o serviço que diga respeito à salvação marítima, o qual inclui: a recuperação de naufragados, a remoção de obstruções em locais de passagem de navegação, a assistência aos submersíveis, a reflutuação de navios e trabalhos portuários.
+Art. 3.º Aos mergulhadores normais compete prestar assistência aos navios da Armada, em todas as reparações e inspecções de querena, veios e hélices, bem como em todo o serviço que diga respeito à salvação marítima, o qual inclui: a recuperação de naufragados, a remoção de obstruções em locais de passagem de navegação, a assistência aos submersíveis, a reflutuação de navios e trabalhos portuários.
 
-###### Art. 4.º Aos mergulhadores-vigias compete a inspecção e rocega das obras vivas de navios e as reparações no âmbito do serviço de limitação de avarias.
+Art. 4.º Aos mergulhadores-vigias compete a inspecção e rocega das obras vivas de navios e as reparações no âmbito do serviço de limitação de avarias.
 
-###### Art. 5.º Podem prestar serviço de mergulhadores-sapadores:
+Art. 5.º Podem prestar serviço de mergulhadores-sapadores:
 
 a) Os oficiais da classe de marinha especializados em mergulhadores-sapadores;
 
@@ -117,19 +129,19 @@ b) Os oficiais do serviço geral provenientes da classe de mergulhadores (ramo U
 
 c) Os sargentos e as praças da classe de mergulhadores (ramo US).
 
-###### Art. 6.º Podem prestar serviço de mergulhadores normais:
+Art. 6.º Podem prestar serviço de mergulhadores normais:
 
 a) Os oficiais do serviço geral provenientes da classe de mergulhadores (ramo UN);
 
 b) Os sargentos e praças da classe de mergulhadores (ramo UN).
 
-###### Art. 7.º Prestam serviço de mergulhadores-vigias os oficiais, sargentos e praças da Armada habilitados com o curso de mergulhadores-vigias.
+Art. 7.º Prestam serviço de mergulhadores-vigias os oficiais, sargentos e praças da Armada habilitados com o curso de mergulhadores-vigias.
 
-###### Art. 8.º Os sargentos e praças da classe de mergulhadores classificam-se em três categorias, de acordo com a sua preparação profissional.
+Art. 8.º Os sargentos e praças da classe de mergulhadores classificam-se em três categorias, de acordo com a sua preparação profissional.
 
 ### CAPÍTULO II — Admissão e preparação
 
-###### Art. 9.º As condições a que devem satisfazer os oficiais destinados à especialização em mergulhadores-sapadores são as seguintes:
+Art. 9.º As condições a que devem satisfazer os oficiais destinados à especialização em mergulhadores-sapadores são as seguintes:
 
 a) Ser oficial da classe de marinha, de preferência especializado em navegação submarina ou aperfeiçoado em armas submarinas, e qualificado como mergulhador-vigia;
 
@@ -137,7 +149,7 @@ b) Possuir as necessárias condições físicas, de harmonia com o preceituado n
 
 c) Ter menos de 26 anos de idade.
 
-###### Art. 10.º As condições a que devem satisfazer os oficiais, sargentos e praças que vão frequentar o curso de mergulhadores-vigias são as seguintes:
+Art. 10.º As condições a que devem satisfazer os oficiais, sargentos e praças que vão frequentar o curso de mergulhadores-vigias são as seguintes:
 
 a) Ter menos de 35 anos de idade;
 
@@ -151,9 +163,9 @@ b) Melhores informações;
 
 c) Ser da classe dos torpedeiros-detectores ou da dos artífices condutores de máquinas.
 
-###### Art. 11.º A admissão à classe de mergulhadores é feita por meio de um curso de conversão, dividido em dois ramos: o de mergulhadores-sapadores (ramo US) e o de mergulhadores normais (ramo UN).
+Art. 11.º A admissão à classe de mergulhadores é feita por meio de um curso de conversão, dividido em dois ramos: o de mergulhadores-sapadores (ramo US) e o de mergulhadores normais (ramo UN).
 
-###### Art. 12.º As condições de admissão ao curso referido no artigo anterior são as seguintes:
+Art. 12.º As condições de admissão ao curso referido no artigo anterior são as seguintes:
 
 a) Ser praça da Armada, com a graduação de marinheiro;
 
@@ -177,13 +189,13 @@ a) Melhores provas psicotécnicas;
 
 b) Melhores informações.
 
-###### Art. 13.º As praças que concluam com aproveitamento o curso referido no artigo 11.º ingressam na classe de mergulhadores, como marinheiros mergulhadores de 3.ª categoria, do ramo US ou do ramo UN. As praças que ficarem reprovadas no mesmo curso permanecem nas classes de origem.
+Art. 13.º As praças que concluam com aproveitamento o curso referido no artigo 11.º ingressam na classe de mergulhadores, como marinheiros mergulhadores de 3.ª categoria, do ramo US ou do ramo UN. As praças que ficarem reprovadas no mesmo curso permanecem nas classes de origem.
 
-###### Art. 14.º Dois anos após a conversão em marinheiros mergulhadores estes podem ascender a mergulhadores de 2.ª categoria, desde que possuam boas informações.
+Art. 14.º Dois anos após a conversão em marinheiros mergulhadores estes podem ascender a mergulhadores de 2.ª categoria, desde que possuam boas informações.
 
-###### Art. 15.º Os mergulhadores-sapadores e normais de 2.ª categoria ascendem à 1.ª categoria quando satisfaçam às condições de promoção a segundo-sargento mergulhador.
+Art. 15.º Os mergulhadores-sapadores e normais de 2.ª categoria ascendem à 1.ª categoria quando satisfaçam às condições de promoção a segundo-sargento mergulhador.
 
-###### Art. 16.º A classificação em categorias a que se referem os artigos 8.º, 13.º, 14.º e 15.º limita, no ramo UN da classe de mergulhadores, a profundidade a que os mergulhadores podem descer, como seguidamente se indica:
+Art. 16.º A classificação em categorias a que se referem os artigos 8.º, 13.º, 14.º e 15.º limita, no ramo UN da classe de mergulhadores, a profundidade a que os mergulhadores podem descer, como seguidamente se indica:
 
 a) 1.ª categoria: até 60 m;
 
@@ -191,19 +203,19 @@ b) 2.ª categoria: até 40 m;
 
 c) 3.ª categoria: até 20 m.
 
-###### Art. 17.º Os diferentes cursos e provas de mergulhadores previstos para o pessoal da Armada são realizados no Centro de Instrução de Navegação Submarina, que, para o efeito, utiliza o pessoal, o material e as infra-estruturas do serviço de mergulhadores e de salvação, da Direcção do Serviço de Submersíveis, e cujas actividades são regidas pelo respectivo regulamento interno, aprovado por despacho do Ministro da Marinha.
+Art. 17.º Os diferentes cursos e provas de mergulhadores previstos para o pessoal da Armada são realizados no Centro de Instrução de Navegação Submarina, que, para o efeito, utiliza o pessoal, o material e as infra-estruturas do serviço de mergulhadores e de salvação, da Direcção do Serviço de Submersíveis, e cujas actividades são regidas pelo respectivo regulamento interno, aprovado por despacho do Ministro da Marinha.
 
-###### Art. 18.º No serviço de mergulhadores e de salvação prestará serviço um oficial médico, ao qual compete, especialmente, a inspecção dos candidatos a mergulhadores, o preenchimento das respectivas fichas de observação e a inspecção periódica, nos termos do presente regulamento, do pessoal do serviço de mergulhadores e de salvação e dos alunos que frequentem os cursos de mergulhadores.
+Art. 18.º No serviço de mergulhadores e de salvação prestará serviço um oficial médico, ao qual compete, especialmente, a inspecção dos candidatos a mergulhadores, o preenchimento das respectivas fichas de observação e a inspecção periódica, nos termos do presente regulamento, do pessoal do serviço de mergulhadores e de salvação e dos alunos que frequentem os cursos de mergulhadores.
 
 § único. Ao oficial médico a que se refere o corpo deste artigo compete igualmente instruir os mergulhadores na parte que respeita aos seus conhecimentos profissionais e assistir a todas as instruções em que a sua presença seja julgada necessária, devendo ser inspeccionado quanto à sua aptidão para suportar compressões, com o objectivo de poder prestar os seus serviços em câmaras de pressão em caso de acidente.
 
 ### CAPÍTULO III — Inspecções médicas
 
-###### Art. 19.º Os candidatos a qualquer curso de mergulhador são sujeitos, primeiramente, a inspecção médica no serviço de mergulhadores e de salvação e, depois, aos exames das especialidades requeridas, incluindo provas psicotécnicas. Terminadas estas inspecções, deverão os candidatos ser presentes à Junta de Saúde Naval, acompanhados das respectivas fichas de observação, para julgamento da sua aptidão física, de harmonia com a legislação aplicável.
+Art. 19.º Os candidatos a qualquer curso de mergulhador são sujeitos, primeiramente, a inspecção médica no serviço de mergulhadores e de salvação e, depois, aos exames das especialidades requeridas, incluindo provas psicotécnicas. Terminadas estas inspecções, deverão os candidatos ser presentes à Junta de Saúde Naval, acompanhados das respectivas fichas de observação, para julgamento da sua aptidão física, de harmonia com a legislação aplicável.
 
-###### Art. 20.º Os mergulhadores deverão ser sujeitos a uma inspecção médica anual, para se verificar se continuam a satisfazer às condições de aptidão física exigidas pela legislação aplicável.
+Art. 20.º Os mergulhadores deverão ser sujeitos a uma inspecção médica anual, para se verificar se continuam a satisfazer às condições de aptidão física exigidas pela legislação aplicável.
 
-###### Art. 21.º Além da inspecção a que se refere o artigo anterior, os mergulhadores deverão sujeitar-se a exames médicos periódicos, com intervalo de tempo não superior a três meses.
+Art. 21.º Além da inspecção a que se refere o artigo anterior, os mergulhadores deverão sujeitar-se a exames médicos periódicos, com intervalo de tempo não superior a três meses.
 
 § 1.º De uma maneira geral, e como guia, o médico tomará em consideração as seguintes situações:
 
@@ -225,13 +237,13 @@ Como este pessoal só mergulha ocasionalmente, os exames médicos terão lugar q
 
 ### CAPÍTULO IV — Registos
 
-###### Art. 22.º Para maior facilidade de fiscalização das suas actividades e a fim de servir como certificado da sua qualificação ou especialização, os mergulhadores terão sempre em seu poder um registo, denominado «Registo do mergulhador», no qual serão registadas as imersões, os resultados das inspecções e exames médicos a que são obrigados por este diploma, bem como quaisquer outras observações relativas ao desempenho do serviço de mergulhador.
+Art. 22.º Para maior facilidade de fiscalização das suas actividades e a fim de servir como certificado da sua qualificação ou especialização, os mergulhadores terão sempre em seu poder um registo, denominado «Registo do mergulhador», no qual serão registadas as imersões, os resultados das inspecções e exames médicos a que são obrigados por este diploma, bem como quaisquer outras observações relativas ao desempenho do serviço de mergulhador.
 
-###### Art. 23.º As imersões e os treinos em câmaras de pressão devem ser registados, pari passu, num registo designado por «Diário de imersões», pelo qual se avaliará de como foram realizadas as imersões e trabalhos, bem como das descompressões e procedimentos de segurança.
+Art. 23.º As imersões e os treinos em câmaras de pressão devem ser registados, pari passu, num registo designado por «Diário de imersões», pelo qual se avaliará de como foram realizadas as imersões e trabalhos, bem como das descompressões e procedimentos de segurança.
 
 ### CAPÍTULO V — Treinos
 
-###### Art. 24.º Todos os mergulhadores devem ser submetidos a treinos, com a maior continuidade possível.
+Art. 24.º Todos os mergulhadores devem ser submetidos a treinos, com a maior continuidade possível.
 
 Estabelecem-se como guia os tempos mínimos de exercícios periódicos a que devem ser submetidos os mergulhadores e que são os seguintes:
 
@@ -243,35 +255,35 @@ b) Os mergulhadores-vigias devem realizar um treino por mês, sem duração dete
 
 c) Os treinos na câmara de pressão não devem ser contados nestes tempos mínimos.
 
-###### Art. 25.º Os oficiais, sargentos e praças que tenham deixado de mergulhar por um período superior a três meses não devem imergir a mais de 20 m, até que voltem a adquirir a conveniente aptidão para imergir a maiores profundidades.
+Art. 25.º Os oficiais, sargentos e praças que tenham deixado de mergulhar por um período superior a três meses não devem imergir a mais de 20 m, até que voltem a adquirir a conveniente aptidão para imergir a maiores profundidades.
 
-###### Art. 26.º Não deverão efectuar-se imersões a profundidades superiores a 40 m quando não exista uma câmara de pressão.
+Art. 26.º Não deverão efectuar-se imersões a profundidades superiores a 40 m quando não exista uma câmara de pressão.
 
 ### CAPÍTULO VI — Responsabilidades
 
-###### Art. 27.º Com excepção do serviço de mergulhadores e de salvação, onde os exercícios de mergulhadores fazem parte da rotina do serviço, nas outras unidades os respectivos comandos devem manter-se ao corrente das actividades dos mergulhadores, a fim de tomarem as precauções aconselhadas em tais casos.
+Art. 27.º Com excepção do serviço de mergulhadores e de salvação, onde os exercícios de mergulhadores fazem parte da rotina do serviço, nas outras unidades os respectivos comandos devem manter-se ao corrente das actividades dos mergulhadores, a fim de tomarem as precauções aconselhadas em tais casos.
 
-###### Art. 28.º Só podem ser responsáveis, perante os comandos das unidades a que pertençam, pelo serviço de mergulhadores-sapadores e de mergulhadores normais, os oficiais especializados em mergulhadores-sapadores e os oficiais do serviço geral provenientes da classe de mergulhadores.
+Art. 28.º Só podem ser responsáveis, perante os comandos das unidades a que pertençam, pelo serviço de mergulhadores-sapadores e de mergulhadores normais, os oficiais especializados em mergulhadores-sapadores e os oficiais do serviço geral provenientes da classe de mergulhadores.
 
-###### Art. 29.º As imersões a mais de 40 m de profundidade só podem ser executadas sob a direcção de um oficial especializado em mergulhador-sapador ou de um oficial do serviço geral proveniente da classe de mergulhadores; as imersões a menos de 40 m de profundidade devem ser realizadas sob a direcção de um oficial habilitado com um dos cursos de mergulhador ou, na sua falta, sob a direcção de sargentos ou de cabos mergulhadores, sapadores ou normais.
+Art. 29.º As imersões a mais de 40 m de profundidade só podem ser executadas sob a direcção de um oficial especializado em mergulhador-sapador ou de um oficial do serviço geral proveniente da classe de mergulhadores; as imersões a menos de 40 m de profundidade devem ser realizadas sob a direcção de um oficial habilitado com um dos cursos de mergulhador ou, na sua falta, sob a direcção de sargentos ou de cabos mergulhadores, sapadores ou normais.
 
 § único. O termo «imersão» empregado neste artigo tem o significado geral de «sujeito a pressão».
 
-###### Art. 30.º Os exercícios de natação livre realizados por mergulhadores-sapadores deverão ser, normalmente, dirigidos por oficiais especializados em mergulhadores-sapadores, que em casos especiais poderão delegar essa direcção num sargento mergulhador-sapador.
+Art. 30.º Os exercícios de natação livre realizados por mergulhadores-sapadores deverão ser, normalmente, dirigidos por oficiais especializados em mergulhadores-sapadores, que em casos especiais poderão delegar essa direcção num sargento mergulhador-sapador.
 
 ### CAPÍTULO VII — Guias
 
-###### Art. 31.º Todos os mergulhadores terão como guias outros mergulhadores, qualificados em qualquer das categorias previstas por este diploma.
+Art. 31.º Todos os mergulhadores terão como guias outros mergulhadores, qualificados em qualquer das categorias previstas por este diploma.
 
 § único. Quando os mergulhadores-vigias desempenharem funções de guias de mergulhadores normais, o oficial encarregado do serviço de mergulhadores deverá assegurar-se de que aqueles estão inteirados sobre os procedimentos a seguir para este caso especial.
 
-###### Art. 32.º Normalmente é designado um guia para cada mergulhador.
+Art. 32.º Normalmente é designado um guia para cada mergulhador.
 
 § 1.º Quando os mergulhadores-sapadores estiverem mergulhando com flutuadores ou nadando livremente, será designado um guia por cada grupo de quatro sapadores.
 
 § 2.º Nas condições a que se refere o parágrafo anterior, os mergulhadores de reserva não devem ser incluídos no pessoal que serve de guias ou no pessoal que opera na água.
 
-###### Art. 33.º Nas operações com mergulhadores, adiante especificadas, devem existir sempre mergulhadores de reserva na situação de prontos:
+Art. 33.º Nas operações com mergulhadores, adiante especificadas, devem existir sempre mergulhadores de reserva na situação de prontos:
 
 a) Em exercícios de mergulhadores-sapadores;
 
@@ -293,25 +305,25 @@ c) Outros equipamentos autónomos: mergulhador totalmente equipado, de viseira a
 
 ### CAPÍTULO VIII — Obrigações e direitos
 
-###### Art. 34.º Os mergulhadores da Armada ficam obrigados ao desempenho dos serviços da sua especialidade, quando isso lhes seja determinado.
+Art. 34.º Os mergulhadores da Armada ficam obrigados ao desempenho dos serviços da sua especialidade, quando isso lhes seja determinado.
 
 § único. Os mergulhadores não poderão ser obrigados a mergulhar desde que não se realizem as condições necessárias de responsabilidade, médicas e materiais, estabelecidas por este diploma e pelas instruções regulamentares.
 
-###### Art. 35.º O mergulhador e o guia receberão a gratificação que a tabela de gratificações lhes atribuir quando mergulhem ou quando forem sujeitos a pressões na câmara de pressão.
+Art. 35.º O mergulhador e o guia receberão a gratificação que a tabela de gratificações lhes atribuir quando mergulhem ou quando forem sujeitos a pressões na câmara de pressão.
 
 ### CAPÍTULO IX — Disposições diversas
 
-###### Art. 36.º O serviço de mergulhadores e de salvação deverá fiscalizar o estado de preparação do pessoal mergulhador da Armada, exigindo, se assim o entender necessário, que os mergulhadores provem, pràticamente, pelo menos uma vez por ano, que estão aptos para a execução dos trabalhos normais da sua especialidade.
+Art. 36.º O serviço de mergulhadores e de salvação deverá fiscalizar o estado de preparação do pessoal mergulhador da Armada, exigindo, se assim o entender necessário, que os mergulhadores provem, pràticamente, pelo menos uma vez por ano, que estão aptos para a execução dos trabalhos normais da sua especialidade.
 
-###### Art. 37.º Ao serviço de mergulhadores e de salvação compete a inspecção periódica de todo o material de mergulhadores existente nas unidades e serviços da Armada.
+Art. 37.º Ao serviço de mergulhadores e de salvação compete a inspecção periódica de todo o material de mergulhadores existente nas unidades e serviços da Armada.
 
-###### Art. 38.º As entidades do Estado ou particulares que desejem aperfeiçoar a preparação dos seus mergulhadores poderão solicitar na Superintendência dos Serviços da Armada a admissão destes a cursos a ministrar no serviço de mergulhadores e de salvação.
+Art. 38.º As entidades do Estado ou particulares que desejem aperfeiçoar a preparação dos seus mergulhadores poderão solicitar na Superintendência dos Serviços da Armada a admissão destes a cursos a ministrar no serviço de mergulhadores e de salvação.
 
 § 1.º Os gastos materiais ocasionados pela instrução dos mergulhadores civis serão pagos ao Ministério da Marinha pelas entidades que requererem a admissão, segundo informação do citado serviço.
 
 § 2.º Antes de frequentar os referidos cursos, o pessoal civil será sujeito às provas de admissão que forem regulamentadas.
 
-###### Art. 39.º As entidades do Estado ou particulares que necessitem de utilizar mergulhadores da Armada poderão, mediante autorização do Ministério da Marinha e segundo informação dos órgãos competentes, solicitar os seus serviços, sem prejuízo dos da Armada. Os mergulhadores serão remunerados pelas referidas entidades, em condições a fixar.
+Art. 39.º As entidades do Estado ou particulares que necessitem de utilizar mergulhadores da Armada poderão, mediante autorização do Ministério da Marinha e segundo informação dos órgãos competentes, solicitar os seus serviços, sem prejuízo dos da Armada. Os mergulhadores serão remunerados pelas referidas entidades, em condições a fixar.
 
 § 1.º Na metrópole, compete ao serviço de mergulhadores e de salvação indicar o mergulhador ou mergulhadores para os serviços solicitados; nas províncias ultramarinas esta competência é dos respectivos comandos navais ou comandos de defesa marítima.
 
@@ -319,8 +331,8 @@ c) Outros equipamentos autónomos: mergulhador totalmente equipado, de viseira a
 
 § 3.º Os mergulhadores de que trata o § 1.º continuam, no entanto, debaixo da responsabilidade das autoridades a que estão subordinados e de acordo com o estabelecido neste regulamento.
 
-###### Art. 40.º Dentro do prazo de um ano deverá a Direcção do Serviço de Submersíveis propor à Superintendência dos Serviços da Armada as alterações que julgue necessário introduzir no presente regulamento.
+Art. 40.º Dentro do prazo de um ano deverá a Direcção do Serviço de Submersíveis propor à Superintendência dos Serviços da Armada as alterações que julgue necessário introduzir no presente regulamento.
 
-###### Art. 41.º Fica revogada a legislação em contrário, designadamente a [Portaria n.º 17045](https://diariodarepublica.pt/dr/detalhe/portaria/17045-1959-591160), de 21 de Fevereiro de 1959.
+Art. 41.º Fica revogada a legislação em contrário, designadamente a [Portaria n.º 17045](https://diariodarepublica.pt/dr/detalhe/portaria/17045-1959-591160), de 21 de Fevereiro de 1959.
 
 Ministério da Marinha, 12 de Dezembro de 1961. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

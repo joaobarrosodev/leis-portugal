@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 277/1990, 1º Suplemento, Série I de 1990-11-30
   number: '277'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4948-(2) a 4948-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27701/00020004.pdf
 entry_into_force_dates: []
@@ -46,40 +46,179 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1990-689382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9277fe73f665d8d980b584d66699a61d0745e699fd45a5e751db6a14e17d4d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf3c70d88891f68c161baa3eb9d412d19504f906f808e5d79048a40d71d025b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Código do IRC
+- Código do IRS
+- Contribuição Autárquica
+- Contribuições e Impostos
+- Imposto do SELO
+- Imposto sobre Sucessões e Doações
+- IRC
+- IRS
+- Isenção Fiscal
+- Orgânica
+- Sisa
+- Sociedade de Gestão e Investimento Imobiliário
+- Sociedade de Investimento
+- Tabela Geral do Imposto do SELO
 relationships:
 - type: amended_by
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522614:por
+  label: "Alterado o art. 45º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.251-A/91.16.07.1991.MF, DR.IS-A [161]Supl de 16.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-1991-522614
+  date: '1991-07-16'
+- type: amended_by
+  target: pt:dre:292879:por
+  label: "Alterado o art. 43º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.360/91.28.09.1991.MF, DR.IS-A [224] de 28.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/360-1991-292879
+  date: '1991-09-28'
+- type: amended_by
+  target: pt:dre:291848:por
+  label: "Alterado o art. 45º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.123/92.02.07.1992.MF, DR.IS-A [150] de 02.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-1992-291848
+  date: '1992-07-02'
+- type: amended_by
+  target: pt:dre:283563:por
+  label: "Alterado o art. 43º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.6/93.09.01.1993.MF, DR.IS-A [7] de 09.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1993-283563
+  date: '1993-01-09'
+- type: amended_by
+  target: pt:dre:301798:por
+  label: "Alterado o art. 45º do Código do IRC, aprovado pelo Dec-Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.3/97.08.01.1997.MF, DR.IS-A [6] de 08.01.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1997-301798
+  date: '1997-01-08'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterado o art. 42º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:521272:por
+  label: "Alterado o art. 43º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.221/2001.07.08.2001.MF, DR.IS-A [182] de 07.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2001-521272
+  date: '2001-08-07'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterados os art.s 45º e 46º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o art. 45º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:492429:por
+  label: "Alterados, a partir de 18.07.2009, os arts. 43.º e 45.º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov,\
+    \ na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.159/2009.13.07.2009.MFAP,\
+    \ DR.IS [133] de 13.07.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2009-492429
+  date: '2009-07-13'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 115.º, do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 45º ( renumerado ) do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo\
+    \ Dec Lei 442-B/88, de 30-Nov, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, e republicado pelo Dec Lei 159/2009,\
+    \ de 13-Jul, pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 115º do Código do IRS, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS\
+    \ [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterado, a partir de 01.01.2013, o art. 115º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação\
+    \ do presente diploma, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS [164] de 24.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:498764:por
+  label: "Alterado o art. 115.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação do presente diploma,\
+    \ pela LEI.51/2013.24.07.2013.AR, DR.IS [141] de 24.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2013-498764
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação ao art. 43.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente
+    diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: cites
+  target: pt:dre:183251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556592:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:05Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +251,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/lei/57-1990-556592), de 6 de Setembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 115.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 115.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, passa a ter a seguinte redacção:
 
 ###### Artigo 115.º — Empresas de seguros
 
@@ -124,7 +263,7 @@ b) A identificação fiscal da entidade que constituiu o seguro e da entidade qu
 
 c) O montante total dos prémios pagos durante a vigência da respectiva apólice.
 
-###### Art. 2.º O artigo 18.º do [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, que aprovou o Código do Imposto sobre o Rendimento das Pessoas Colectivas, passa a ter a seguinte redacção:
+Art. 2.º O artigo 18.º do [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, que aprovou o Código do Imposto sobre o Rendimento das Pessoas Colectivas, passa a ter a seguinte redacção:
 
 ###### Artigo 18.º — Tributação de rendimentos agrícolas
 
@@ -136,7 +275,7 @@ c) O montante total dos prémios pagos durante a vigência da respectiva apólic
 
 4 - O disposto no n.º 1 é aplicável aos rendimentos dos sujeitos passivos que, obedecendo às condições nele previstas, iniciem a actividade já na vigência do Código do IRC.
 
-###### Art. 3.º Os artigos 43.º e 45.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 43.º e 45.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 43.º — Correcção monetária das mais-valias e das menos-valias
 
@@ -152,19 +291,19 @@ c) O montante total dos prémios pagos durante a vigência da respectiva apólic
 
 3 - ...
 
-###### Art. 4.º Ficam isentos de todos os impostos, taxas e emolumentos os actos derivados da liquidação de sociedades efectuada nos termos do artigo 18.º da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro.
+Art. 4.º Ficam isentos de todos os impostos, taxas e emolumentos os actos derivados da liquidação de sociedades efectuada nos termos do artigo 18.º da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro.
 
-###### Art. 5.º O artigo 4 da Tabela Geral do Imposto do Selo passa a ter a seguinte redacção:
+Art. 5.º O artigo 4 da Tabela Geral do Imposto do Selo passa a ter a seguinte redacção:
 
-###### Art. 4 ...
+Art. 4 ...
 
 § 1.º Ficam isentos de imposto do selo os seguros-caução, as comissões incidentes sobre garantias bancárias e as fianças constituídas para garantir direitos aduaneiros e outras imposições relativamente a mercadorias importadas sob os regimes aduaneiros suspensivos.
 
 § 2.º Ficam excluídos da tributação as declarações, documentos e demais formalidades aduaneiras necessários nas trocas comerciais com os Estados membros da Comunidade Económica Europeia, a que se referem as verbas VI, X, XII, XIII, XVI, XVII, XXIII e XLII.
 
-###### Art. 6.º Os artigos 15.º e 182.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
+Art. 6.º Os artigos 15.º e 182.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 1.º ...
 
@@ -180,7 +319,7 @@ c) O montante total dos prémios pagos durante a vigência da respectiva apólic
 
 § 2.º ...
 
-###### Art. 182.º ...
+Art. 182.º ...
 
 a) ...
 
@@ -192,24 +331,24 @@ c) ...
 
 § 2.º O imposto pela transmissão de títulos que não tenham direito a rendimentos e das acções referidas no parágrafo anterior será liquidado e pago nos termos gerais.
 
-###### Art. 7.º É aditado ao artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações o n.º 31.º, com a seguinte redacção:
+Art. 7.º É aditado ao artigo 11.º do Código da Sisa e do Imposto sobre as Sucessões e Doações o n.º 31.º, com a seguinte redacção:
 
 31.º As transmissões realizadas entre sociedades autorizadas a ser tributadas pelo lucro consolidado, desde que as mesmas se operem durante os exercícios em que vigorar a autorização para a tributação segundo aquele regime.
 
-###### Art. 8.º É prorrogado até 31 de Dezembro de 1990 o prazo previsto no n.º 1 do artigo 15.º do [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho.
+Art. 8.º É prorrogado até 31 de Dezembro de 1990 o prazo previsto no n.º 1 do artigo 15.º do [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho.
 
-###### Art. 9.º - 1 - Ficam isentos de contribuição autárquica os prédios ou parte de prédios urbanos das sociedades de gestão e investimento imobiliário (SGII) constituídas nos termos do artigo 15.º do [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho, por períodos determinados, em conformidade com o disposto no mesmo normativo.
+Art. 9.º - 1 - Ficam isentos de contribuição autárquica os prédios ou parte de prédios urbanos das sociedades de gestão e investimento imobiliário (SGII) constituídas nos termos do artigo 15.º do [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho, por períodos determinados, em conformidade com o disposto no mesmo normativo.
 
 2 - A isenção a que se refere o número anterior será reconhecida oficiosamente sempre que se verifique a inscrição dos prédios na respectiva matriz em nome das SGII.
 
 Visto e aprovado em Conselho de Ministros de 11 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 26 de Novembro de 1990.**
+Promulgado em 26 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Novembro de 1990.**
+Referendado em 27 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

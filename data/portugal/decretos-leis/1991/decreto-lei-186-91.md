@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/113a00/26302631.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/186/1991/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1991-639491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6a7ea48c549a1ca159a050318e8432bc0aa5bbe0735eba042ff5c8c3872ed5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e446b8eed682706e5281c3bf1613a70ff6e61dcf39f8ced9ef77a72929949c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,46 @@ reuse:
 subjects:
 - Banco Comercial
 - Banco de Investimento
-- Instituição de Crédito
-- Controlo Bancário
 - Banco de Portugal
+- Controlo Bancário
+- Instituição de Crédito
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:448953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548228:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448953:por
+  label: "Revogado pelo DEC LEI.298/92.31.12.1992.MF, DR.IS-A [301]6ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1992-448953
+  date: '1992-12-31'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:11Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +126,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Para efeitos do presente diploma são considerados:
+Artigo 1.º Para efeitos do presente diploma são considerados:
 
 a) Participação - a detenção de uma fracção do capital social de qualquer sociedade;
 
@@ -115,7 +136,7 @@ c) Empresas não financeiras - todas as empresas não sujeitas à supervisão do
 
 d) Fundos próprios - os elementos definidos pelo Banco de Portugal, ao abrigo do artigo 2.º do [Decreto-Lei n.º 318/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228), de 23 de Setembro.
 
-###### Art. 2.º - 1 - Só mediante autorização do Ministro das Finanças, precedida de parecer favorável do Banco de Portugal, as instituições de crédito podem:
+Art. 2.º - 1 - Só mediante autorização do Ministro das Finanças, precedida de parecer favorável do Banco de Portugal, as instituições de crédito podem:
 
 a) Ultrapassar o limite de 15% dos seus fundos próprios nas aplicações em valores representativos dos fundos próprios de qualquer outra empresa;
 
@@ -123,25 +144,25 @@ b) Deter em empresas não financeiras participações que, directa ou indirectam
 
 2 - A autorização prevista na alínea b) do número anterior não prejudica o disposto na alínea a) do mesmo número e tem de ser fundamentada em razões de interesse geral subjacente à participação, em função da actividade ou da situação da participada.
 
-###### Art. 3.º O montante total das participações qualificadas em empresas não financeiras detidas por uma instituição de crédito não pode ultrapassar 60% dos seus fundos próprios.
+Art. 3.º O montante total das participações qualificadas em empresas não financeiras detidas por uma instituição de crédito não pode ultrapassar 60% dos seus fundos próprios.
 
-###### Art. 4.º Salvo autorização expressa do Banco de Portugal, as instituições de crédito não podem adquirir imóveis que não sejam indispensáveis à sua instalação e funcionamento, excepto em reembolso de crédito próprio.
+Art. 4.º Salvo autorização expressa do Banco de Portugal, as instituições de crédito não podem adquirir imóveis que não sejam indispensáveis à sua instalação e funcionamento, excepto em reembolso de crédito próprio.
 
-###### Art. 5.º - 1 - O valor líquido do activo imobilizado de uma instituição de crédito não pode ultrapassar o montante dos respectivos fundos próprios.
+Art. 5.º - 1 - O valor líquido do activo imobilizado de uma instituição de crédito não pode ultrapassar o montante dos respectivos fundos próprios.
 
 2 - O montante total dos valores representativos dos fundos próprios de quaisquer empresas detidos por uma instituição de crédito e não abrangidos pelo número anterior não pode ultrapassar 40% dos fundos próprios da instituição que os detiver.
 
 3 - Para cumprimento do disposto no n.º 1 não são considerados os imóveis recebidos pela instituição em reembolso de crédito próprio e que não estejam afectos à sua actividade, nem os elementos que, por força das normas aplicáveis, são deduzidas para efeitos do cálculo dos fundos próprios das instituições de crédito.
 
-###### Art. 6.º As instituições de crédito devem proceder à amortização das suas instalações e respectivo equipamento na proporção do seu desgaste e às despesas de instalação, de trespasse e outras de natureza similar até ao final do terceiro exercício posterior ao da sua realização.
+Art. 6.º As instituições de crédito devem proceder à amortização das suas instalações e respectivo equipamento na proporção do seu desgaste e às despesas de instalação, de trespasse e outras de natureza similar até ao final do terceiro exercício posterior ao da sua realização.
 
-###### Art. 7.º - 1 - Nos casos em que a ultrapassagem dos limites previstos neste diploma resulte da aquisição de imóveis que não estejam afectos à sua actividade ou de outros valores, em reembolso de crédito próprio, as situações de incumprimento devem ser regularizadas no prazo de dois anos a contar da data da sua verificação.
+Art. 7.º - 1 - Nos casos em que a ultrapassagem dos limites previstos neste diploma resulte da aquisição de imóveis que não estejam afectos à sua actividade ou de outros valores, em reembolso de crédito próprio, as situações de incumprimento devem ser regularizadas no prazo de dois anos a contar da data da sua verificação.
 
 2 - As situações de desconformidade com o disposto no presente diploma, verificadas à data da sua entrada em vigor, devem ser regularizadas no prazo de dois anos a contar dessa data.
 
-###### Art. 8.º O artigo 1.º do [Decreto-Lei n.º 318/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228), de 23 de Setembro, passa a ter a seguinte redacção:
+Art. 8.º O artigo 1.º do [Decreto-Lei n.º 318/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228), de 23 de Setembro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º Compete ao Banco de Portugal, relativamente a todas as instituições sujeitas à sua supervisão, definir a relação e os limites prudenciais seguintes:
+Artigo 1.º Compete ao Banco de Portugal, relativamente a todas as instituições sujeitas à sua supervisão, definir a relação e os limites prudenciais seguintes:
 
 a) ...
 
@@ -155,7 +176,7 @@ e) Limites mínimos para as provisões destinadas à cobertura de riscos de cré
 
 f) Relação entre os fundos próprios e o total do activo e das contas extrapatrimoniais, ponderados ou não por coeficientes de risco.
 
-###### Art. 9.º São revogados:
+Art. 9.º São revogados:
 
 a) O artigo 38.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957;
 
@@ -165,16 +186,16 @@ c) O artigo 2.º do [Decreto-Lei n.º 204/76](https://diariodarepublica.pt/dr/de
 
 d) Os n.os 1, 3 e 4 do n.º 2.º e os n.os 4.º e 5.º do aviso n.º 6/86, de 2 de Maio.
 
-###### Art. 10.º O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+Art. 10.º O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 24 de Abril de 1991.**
+Promulgado em 24 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Abril de 1991.**
+Referendado em 29 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

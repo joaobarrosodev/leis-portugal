@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/067a00/14841486.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/1991/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1991-471162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 958bc79512f66a7988e30b1cb1336560ab551426f25d70c98f0a0f151502383f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd194e076f99ccc41533ce315c39a5f47f2cb851cc699471c67eebcbddcf02d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,59 @@ relationships:
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:347166:por
+  label: "Alterado, de acordo com o disposto na al. a) do n.º 1 e no n.º 2 do art. 29.º do Dec Lei 404-A/98, de 18-Dez, o\
+    \ quadro de pessoal técnico superior de inspecção da Inspecção-Geral das Obras Públicas, Transportes e Comunicações do\
+    \ presente diploma, pelo DR.13/2001.2001.06.30.MES DR.IS-B [150] (Art 3.º)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/13-2001-347166
+  date: '2001-06-30'
+- type: amended_by
+  target: pt:dre:589697:por
+  label: "Atribuída nova denominação à Inspecção-Geral de Obras Públicas, Transportes e Comunicações, cuja criação e orgânica\
+    \ constam do Dec Lei 409/87, de 31-Dez, posteriormente alterado no presente diploma, passando a designar-se Inspecção-Geral\
+    \ das Obras Públicas, pelo DEC LEI.58/2005.04.03.2005.MOPTC, DR.IS-A [45] de 04.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2005-589697
+  date: '2005-03-04'
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612422:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:41Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +146,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 10.º, 12.º, 14.º, 16.º, 17.º, 19.º e 20.º do [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), de 31 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 10.º, 12.º, 14.º, 16.º, 17.º, 19.º e 20.º do [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), de 31 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 10.º — Regras de provimento
 
@@ -179,7 +222,7 @@ b) Intervir em processos de inspecção, inquérito, sindicância ou processos d
 
 3 - Os funcionários da Inspecção-Geral devem desempenhar com o maior escrúpulo, correcção e diligência os serviços de que estiverem incumbidos.
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), de 31 de Dezembro, os artigos 12.º-A, 16.º-A, 18.º-A, 19.º-A, 20.º-A, 22.º-A e 22.º-B, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), de 31 de Dezembro, os artigos 12.º-A, 16.º-A, 18.º-A, 19.º-A, 20.º-A, 22.º-A e 22.º-B, com a seguinte redacção:
 
 ###### Artigo 12.º-A — Classificação anual de serviço
 
@@ -223,22 +266,22 @@ O inspector-geral, o subinspector-geral, os inspectores e os técnicos superiore
 
 A Inspecção-Geral controlará a execução pelas entidades ou serviços competentes das medidas preconizadas nos seus relatórios, processos ou outros documentos para correcção ou reparação das irregularidades, deficiências ou outras anomalias detectadas.
 
-###### Art. 3.º O quadro de pessoal a que se refere o artigo 9.º do [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), de 31 de Dezembro, e o artigo 1.º do [Decreto-Lei n.º 60/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1989-612422), de 23 de Fevereiro, é substituído pelo quadro anexo ao presente diploma, que dele faz parte integrante.
+Art. 3.º O quadro de pessoal a que se refere o artigo 9.º do [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), de 31 de Dezembro, e o artigo 1.º do [Decreto-Lei n.º 60/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1989-612422), de 23 de Fevereiro, é substituído pelo quadro anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 12 de Março de 1991.**
+Promulgado em 12 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Março de 1991.**
+Referendado em 13 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro a que se refere o artigo 9.º do [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), com a alteração introduzida pelo artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/067a00/14841486.pdf))](https://files.diariodarepublica.pt/1s/1991/03/067a00/14841486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/067a00/14841486.pdf)

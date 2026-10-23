@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/199/1991/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1991-630781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5544b6095e66bddb6c0e15e256bb234d7adb145154e08d0f31e3d33fe33d9ec6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60fd08920f3636c7a2750cc7245669b89bc5bbead0387b90879ab98be2c12cc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,38 @@ relationships:
   target: pt:dre:197687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197687:por
+  label: "Alterados os arts. 8º, 10º, 11º e 15º do Dec Lei 199/88 de 31-Mai, na redacção constante dopresente diploma, pelo\
+    \ DEC LEI.38/95.1995.02.14.MA, DR.IS-A [38]\08]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1995-197687
+  date: '1995-02-14'
+- type: cites
+  target: pt:dre:179847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476676:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:27Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +125,9 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 8.º, 10.º e 11.º do [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 8.º, 10.º e 11.º do [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 2.º Serão objecto imediato de indemnização definitiva, calculada nos termos deste diploma:
+Art. 2.º Serão objecto imediato de indemnização definitiva, calculada nos termos deste diploma:
 
 a) Os prédios rústicos objecto de expropriação ou nacionalização ao abrigo da legislação sobre reforma agrária, neles se compreendendo todo o capital fundiário constituído, por terra e plantações, melhoramentos fundiários e obras e construções;
 
@@ -113,7 +135,7 @@ b) O capital de exploração existente no prédio rústico expropriado ou nacion
 
 c) Os prédios urbanos expropriados ou nacionalizados ao abrigo da legislação sobre reforma agrária.
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 2 - Podem requerer a determinação da indemnização definitiva os titulares de bens ou direitos nacionalizados ou expropriados ao abrigo da legislação sobre reforma agrária ou os seus herdeiros ou legatários que declarem não ser titulares ao abrigo da legislação em vigor de direito à atribuição de reservas, ainda por exercer total ou parcialmente, devendo os respectivos pedidos dar entrada no Ministério da Agricultura, Pescas e Alimentação, no prazo de 90 dias a partir da publicação deste diploma, ou até 30 dias após a entrega da reserva ou publicação da portaria de reversão, caso estes actos ocorram em momento posterior.
 
@@ -129,7 +151,7 @@ c) Os prédios urbanos expropriados ou nacionalizados ao abrigo da legislação 
 
 8 - ...
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 a) ...
 
@@ -145,7 +167,7 @@ c) Os rendimentos líquidos médios e os valores fundiários a definir em portar
 
 3 - O valor das construções e edificações existentes à data da ocupação, nacionalização ou expropriação será determinado, independentemente do que contar na matriz ou no cadastro, com base no seu valor intrínseco, correspondente a uma percentagem do custo estimado da construção das mesmas, no ano em que ocorreu a ocupação, nacionalização ou expropriação, a qual reflectirá o número de anos da construção e o seu estado de conservação de acordo com as percentagens a fixar em portaria conjunta dos Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 11.º - 1 - ...
+Art. 11.º - 1 - ...
 
 2 - ...
 
@@ -159,18 +181,18 @@ c) Os rendimentos líquidos médios e os valores fundiários a definir em portar
 
 7 - A indemnização por frutos pendentes à data da expropriação ou nacionalização será calculada com base nos respectivos valores à data em que os mesmos foram ou seriam comercializados, e a correspondente a produtos armazenados não devolvidos com base no valor corrente à data do pagamento da indemnização.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, o seguinte artigo:
+Art. 2.º É aditado ao [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, o seguinte artigo:
 
-###### Art. 15.º Aos prédios ocupados, objecto de medidas de reforma agrária, aplicam-se, com as necessárias adaptações, as disposições do presente diploma.
+Art. 15.º Aos prédios ocupados, objecto de medidas de reforma agrária, aplicam-se, com as necessárias adaptações, as disposições do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
 
-**Promulgado em 4 de Maio de 1991.**
+Promulgado em 4 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1991.**
+Referendado em 10 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

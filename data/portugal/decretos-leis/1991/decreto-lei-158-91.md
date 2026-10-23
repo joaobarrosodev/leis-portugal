@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/158/1991/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1991-598767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77b39e454c0f0f96c4f027ffd90ef95b609c392b63cb4305b50f06b8c31a704f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd9d3bc8af12efa9dd053ac1432d307ea4444597a2f19a3770c4fe9ad717692c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Licença de Uso Privativo
+- Exploração Agrícola
 - Exploração de Prédios Expropriados
 - Expropriação
+- Licença de Uso Privativo
 - Nacionalização
-- Exploração Agrícola
-- Prédio Rústico
 - Política Agrícola
+- Prédio Rústico
 - Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:319733:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546975:por
+  label: "Mantido em vigor pela LEI.86/95.1995.09.01.AR, DR.IS-A [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/86-1995-546975
+  date: '1995-09-01'
+- type: amended_by
+  target: pt:dre:144991:por
+  label: "Alterado o art. 11º pelo DEC LEI.79/99.1999.03.16.MADRP, DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1999-144991
+  date: '1999-03-16'
+- type: amended_by
+  target: pt:dre:309370:por
+  label: "Alterado o art. 6º pelo DEC LEI.212/99.1999.06.14.MADRP,DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1999-309370
+  date: '1999-06-14'
+- type: amended_by
+  target: pt:dre:319733:por
+  label: "Alterado o art. 11º pelo DEC LEI.60/2001.2001.02.19.MADRP DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2001-319733
+  date: '2001-02-19'
+- type: cites
+  target: pt:dre:294675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612436:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:36Z'
   warnings: []
   errors: []
 ---
@@ -368,16 +408,16 @@ As rendas ou prestações devidas pelos beneficiários da entrega de terras para
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - António Fernando Couto dos Santos.
 
-**Promulgado em 9 de Abril de 1991.**
+Promulgado em 9 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Abril de 1991.**
+Referendado em 12 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Tabela anexa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/096a00/23492354.pdf))](https://files.diariodarepublica.pt/1s/1991/04/096a00/23492354.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/096a00/23492354.pdf)

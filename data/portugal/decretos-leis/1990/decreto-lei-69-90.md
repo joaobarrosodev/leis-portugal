@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/05100/08800887.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,117 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6755ada4c5ab167146017ddc9ddc5b87c9a48bdd364afb229e575f01661dc9db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 511935a2482b1e0dbf0da4222460c982368ef38c23422815deac04ccc43827d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Administração Local
+- Ordenamento do Território
+- Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:1511695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228186:por
+  label: "Alterados os artigos 3.º, 5.º, 6.º, 9.º, 10.º, 13.º, 18.º, 20.º, 21.º, 26.º e 28.º, pelo DEC LEI.211/92.08.10.1992.MPLAT,\
+    \ DR.IS-A [232] de 08.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1992-228186
+  date: '1992-10-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUSPENSAS AS DISPOSIÇÕES DOS NUM 3 E 5 DO ART 3 NO QUE RESPEITA AOS PLANOS DIRECTORES MUNICIPAIS, ENQUANTO VIGORAREM\
+    \ AS DISPOSIÇÕES CONSTANTES DOS ART 1 A 5 DO DEC LEI 281/93 DE 17-AGO DR.IS-A [192] (ESTAS DISPOSIÇÕES VIGORAM ATE 31\
+    \ DE DEZEMBRO DE 1993) \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-17'
+- type: amended_by
+  target: pt:dre:164053:por
+  label: "Alterados os arts. 3.º, 6.º, 10.º, 12.º, 13.º, 16.º, 17.º, 19.º, 20.º, 26.º e 30.º pelo DEC LEI.155/97.1997.06.24.MEPAT\
+    \ DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1997-164053
+  date: '1997-06-24'
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:182465:por
+  label: Rectificado [no referente ao art. 6º e ao art. 24º] pela DECL.DD3364.1990.04.30.PCM DR.IS [99]2º Supl de 30.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-182465
+  date: '1990-04-30'
+- type: repealed_by
+  target: pt:dre:475371:por
+  label: "Revogado o n.º 2 do artigo 2.º pelo DEC LEI.151/95.24.06.1995.MPLAT, DR.IS-A [144] de 24.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1995-475371
+  date: '1995-06-24'
+- type: repealed_by
+  target: pt:dre:559019:por
+  label: "Revogado pelo DEC LEI.380/99.1999.09.22.MEPAT, DR.IS-A [222]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/380-1999-559019
+  date: '1999-09-22'
 article_structure:
   article_count: 34
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:36Z'
   warnings: []
   errors: []
 ---
@@ -536,12 +613,12 @@ São revogados o [Decreto-Lei n.º 560/71](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 13 de Fevereiro de 1990.**
+Promulgado em 13 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Fevereiro de 1990.**
+Referendado em 14 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

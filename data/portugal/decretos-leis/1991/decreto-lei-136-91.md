@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/078a00/17221723.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/1991/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1991-622126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e3ed8c89b704a14b619757c3703ae2502a36b32050d2bd1c7fe435f5bd40402
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27240892b9e3659b12a5851890240e365f31e4aeb93095c4fe127c8510d43456
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estrada
 - Algarve
-- Junta Autónoma das Estradas
 - ÁREA NON Aedificandi
+- Estrada
+- Junta Autónoma das Estradas
 relationships:
 - type: amended_by
   target: pt:dre:509198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308276:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:509198:por
+  label: "Revogado pelo DEC LEI.13/94.1994.01.15.MOPTC, DR.IS-A [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-1994-509198
+  date: '1994-01-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:01Z'
   warnings: []
   errors: []
 ---
@@ -104,26 +121,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - No lanço do IP1 compreendido entre a ponte do Guadiana e o nó da Guia, para qualquer tipo de construção, é fixada uma zona non aedificandi de 150 m a partir do eixo e de 500 m a partir do centro de cada nó de ligação.
+Artigo 1.º - 1 - No lanço do IP1 compreendido entre a ponte do Guadiana e o nó da Guia, para qualquer tipo de construção, é fixada uma zona non aedificandi de 150 m a partir do eixo e de 500 m a partir do centro de cada nó de ligação.
 
 2 - Nas estradas de acesso aos nós de ligação, para além dos 500 m a que se refere o número anterior, é fixada uma zona non aedificandi de 50 m a partir do eixo.
 
-###### Art. 2.º No lanço do IP1 e novos acessos aos nós a que se refere o artigo anterior a zona de protecção à estrada é fixada em 200 m a partir do eixo da plataforma e em 550 m a partir do centro de cada nó de ligação, sendo dentro destes limites que a Junta Autónoma de Estradas (JAE), ouvida a Comissão de Coordenação da Região do Algarve, exercerá a sua jurisdição para efeitos do parecer a que se refere o n.º 4 do artigo 12.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril.
+Art. 2.º No lanço do IP1 e novos acessos aos nós a que se refere o artigo anterior a zona de protecção à estrada é fixada em 200 m a partir do eixo da plataforma e em 550 m a partir do centro de cada nó de ligação, sendo dentro destes limites que a Junta Autónoma de Estradas (JAE), ouvida a Comissão de Coordenação da Região do Algarve, exercerá a sua jurisdição para efeitos do parecer a que se refere o n.º 4 do artigo 12.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril.
 
-###### Art. 3.º - 1 - A afixação ou inscrição de mensagens publicitárias, com ou sem carácter comercial, só poderão ser autorizadas fora da zona non aedificandi a que se refere o artigo 1.º
+Art. 3.º - 1 - A afixação ou inscrição de mensagens publicitárias, com ou sem carácter comercial, só poderão ser autorizadas fora da zona non aedificandi a que se refere o artigo 1.º
 
 2 - A JAE exercerá a sua jurisdição na área contida dentro dos limites referidos no artigo 2.º, ouvida a Comissão de Coordenação da Região do Algarve.
 
-###### Art. 4.º A JAE pode usar do direito de embargo relativamente a obras ou afixação e inscrição de publicidade efectuadas com violação do disposto no presente diploma, considerando-se nulos e de nenhum efeito os licenciamentos, autorizados por quaisquer entidades, nessas condições.
+Art. 4.º A JAE pode usar do direito de embargo relativamente a obras ou afixação e inscrição de publicidade efectuadas com violação do disposto no presente diploma, considerando-se nulos e de nenhum efeito os licenciamentos, autorizados por quaisquer entidades, nessas condições.
 
 Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral - Fernando Nunes Ferreira Real.
 
-**Promulgado em 20 de Março de 1991.**
+Promulgado em 20 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Março de 1991.**
+Referendado em 22 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

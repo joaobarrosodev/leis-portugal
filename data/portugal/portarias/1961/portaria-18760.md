@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18760-1961-183240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b41e94136826a4400e2e2845f006cf88d4745e399ba604eacb9b06919ec483c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65dd168e4b7cca7b82e3850f966844d8427311c289c8df4da841f3f3f682dcaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:237785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669142:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:53Z'
   warnings: []
   errors: []
 ---
@@ -260,7 +272,7 @@ N.º 28. Os multiplicadores devem proceder à preparação dos terrenos e aduba�
 
 N.º 29. As searas inspeccionadas serão classificadas de acordo com a seguinte pontuação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/10/23000/12601264.pdf))](https://files.diariodarepublica.pt/1s/1961/10/23000/12601264.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/10/23000/12601264.pdf)
 
 a) Para as restantes características indicadas nas alíneas 1), 3) e 4) do n.º 24 a pontuação máxima será de 2 pontos, atribuindo-se a pontuação 0 às searas, não satisfazendo aos requisitos nelas enunciados;
 
@@ -294,11 +306,11 @@ N.º 40. A análise das sementes para apreciação dos lotes e sua classificaç�
 
 Ensaio preliminar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/10/23000/12601264.pdf))](https://files.diariodarepublica.pt/1s/1961/10/23000/12601264.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/10/23000/12601264.pdf)
 
 Ensaio definitivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/10/23000/12601264.pdf))](https://files.diariodarepublica.pt/1s/1961/10/23000/12601264.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/10/23000/12601264.pdf)
 
 N.º 41. Os valores das tabelas indicadas no número anterior, exceptuando os mencionados nas notas (b), poderão ser alterados por despacho do director-geral dos Serviços Agrícolas, sob proposta da Estação de Ensaio de Sementes e consultada a Estação de Melhoramento de Plantas.
 

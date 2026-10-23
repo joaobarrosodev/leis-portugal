@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06600/13781382.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1990-333291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7850a7773aa7ef9a73e195031f088a2de521a281ea0bc099b4ba444ba97c1d49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51a18fe337eafc551a8faf7ee830ffbe62c495c024911ea026de7672c5a0f03e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Carne
+- Controlo Sanitário
+- Produto Alimentar
+- Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:566590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:566590:por
+  label: "Revogado, a partir de 15.11.1990, pelo DEC LEI.354/90.10.11.1990.MAPA, DR.IS [260] de 10.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/354-1990-566590
+  date: '1990-11-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:06Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +107,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece as disposições de ordem hígio-sanitária aplicáveis aos produtos à base de carne quando destinados às trocas intracomunitárias.
+Artigo 1.º O presente diploma estabelece as disposições de ordem hígio-sanitária aplicáveis aos produtos à base de carne quando destinados às trocas intracomunitárias.
 
-###### Art. 2.º Compete à Direcção-Geral da Pecuária o controlo técnico em matéria de higiene e defesa animal, de harmonia com as disposições constantes deste diploma.
+Art. 2.º Compete à Direcção-Geral da Pecuária o controlo técnico em matéria de higiene e defesa animal, de harmonia com as disposições constantes deste diploma.
 
-###### Art. 3.º No âmbito do presente diploma, entende-se por:
+Art. 3.º No âmbito do presente diploma, entende-se por:
 
 a) Produtos à base de carne: os produtos que foram elaborados a partir de ou com carne que sofreu um tratamento tal que a superfície de corte permita verificar o desaparecimento das características da carne fresca, não sendo consideradas as carnes que só foram sujeitas a tratamento pelo frio;
 
@@ -139,7 +149,7 @@ n) Recipiente hermeticamente fechado: recipiente destinado a proteger o conteúd
 
 o) Autoridade sanitária central competente: a Direcção-Geral da Pecuária.
 
-###### Art. 4.º Não são abrangidos pelo presente diploma:
+Art. 4.º Não são abrangidos pelo presente diploma:
 
 a) Os extractos, caldos e molhos de carne, bem como produtos semelhantes, que não incluam pedaços de carnes;
 
@@ -151,7 +161,7 @@ d) Os estômagos, bexigas e buchos limpos e branqueados, salgados ou secos;
 
 e) As carnes que apenas tenham sido submetidas a um tratamento pelo frio.
 
-###### Art. 5.º O presente diploma não é aplicável aos produtos à base de carne:
+Art. 5.º O presente diploma não é aplicável aos produtos à base de carne:
 
 a) Contidos nas bagagens pessoais dos passageiros, desde que não sejam posteriormente utilizados para fins comerciais;
 
@@ -159,7 +169,7 @@ b) Que sejam objecto de pequenos envios a particulares e não tenham carácter c
 
 c) Que se destinem ao abastecimento do pessoal e dos passageiros a bordo de meios de transporte comerciais entre os Estados membros.
 
-###### Art. 6.º - 1 - Só é permitida a expedição para outro Estado membro de produtos à base de carne ou de preparado de carne que preencham as seguintes condições:
+Art. 6.º - 1 - Só é permitida a expedição para outro Estado membro de produtos à base de carne ou de preparado de carne que preencham as seguintes condições:
 
 a) Terem sido preparados num estabelecimento aprovado e inspeccionado nos termos do artigo 10.º;
 
@@ -193,23 +203,23 @@ j) Serem armazenados e transportados para o país de destino em condições sani
 
 3 - Os produtos à base de carne não podem ter sido submetidos a radiações ionizantes, a menos que tal se justifique por razões de ordem médica, caso em que a menção desta operação deve figurar claramente no produto e no certificado de salubridade.
 
-###### Art. 7.º Nos produtos à base de carne que não possam ser conservados à temperatura ambiente, para efeitos de controlo, deve constar, de forma visível e legível, na embalagem do produto a temperatura a que o produto é transportado e armazenado, bem como a data limite de consumo.
+Art. 7.º Nos produtos à base de carne que não possam ser conservados à temperatura ambiente, para efeitos de controlo, deve constar, de forma visível e legível, na embalagem do produto a temperatura a que o produto é transportado e armazenado, bem como a data limite de consumo.
 
-###### Art. 8.º O disposto no artigo 6.º não se aplica aos produtos à base de carne destinados a utilização diferente da alimentação humana.
+Art. 8.º O disposto no artigo 6.º não se aplica aos produtos à base de carne destinados a utilização diferente da alimentação humana.
 
-###### Art. 9.º O comércio intracomunitário de pratos cozinhados será regulado por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
+Art. 9.º O comércio intracomunitário de pratos cozinhados será regulado por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-###### Art. 10.º - 1 - Os estabelecimentos que reúnam as condições previstas no presente diploma integrarão lista que será comunicada a outros Estados membros e à Comissão.
+Art. 10.º - 1 - Os estabelecimentos que reúnam as condições previstas no presente diploma integrarão lista que será comunicada a outros Estados membros e à Comissão.
 
 2 - É retirado da lista referida no número anterior o estabelecimento que deixar de reunir as condições constantes do presente diploma, sendo disso imediatamente informados os Estados membros e a Comissão.
 
 3 - A inspecção e o controlo dos estabelecimentos constantes da lista referida no n.º 1 são efectuados sob responsabilidade da autoridade veterinária competente, que, para o efeito, tem livre acesso a todas as partes do estabelecimento.
 
-###### Art. 11.º O disposto na legislação aplicável às trocas intracomunitárias de carnes frescas de animais domésticos das espécies bovina, ovina e caprina e dos solípedes domésticos é aplicável, com as necessárias adaptações, aos estabelecimentos previstos no artigo anterior.
+Art. 11.º O disposto na legislação aplicável às trocas intracomunitárias de carnes frescas de animais domésticos das espécies bovina, ovina e caprina e dos solípedes domésticos é aplicável, com as necessárias adaptações, aos estabelecimentos previstos no artigo anterior.
 
-###### Art. 12.º Os produtos à base de carne são submetidos a um controlo a efectuar nos estabelecimentos previstos no artigo 10.º, sob controlo periódico do serviço oficial, a fim de garantir que esses produtos satisfazem as exigências do presente diploma.
+Art. 12.º Os produtos à base de carne são submetidos a um controlo a efectuar nos estabelecimentos previstos no artigo 10.º, sob controlo periódico do serviço oficial, a fim de garantir que esses produtos satisfazem as exigências do presente diploma.
 
-###### Art. 13.º - 1 - Os produtos à base de carne que não respeitem a respectiva definição estabelecida no artigo 3.º não podem ser marcados com a marca de salubridade.
+Art. 13.º - 1 - Os produtos à base de carne que não respeitem a respectiva definição estabelecida no artigo 3.º não podem ser marcados com a marca de salubridade.
 
 2 - É proibida a circulação no território nacional de produtos à base de carne, quando originários de outro Estado membro, se não se verificarem as disposições previstas no artigo 6.º
 
@@ -217,7 +227,7 @@ j) Serem armazenados e transportados para o país de destino em condições sani
 
 4 - Se a reexpedição não for possível, a autoridade sanitária central competente pode determinar a destruição do lote, a expensas do expedidor, do destinatário ou do seu mandatário, sem indemnização do Estado.
 
-###### Art. 14.º Sem prejuízo dos artigos 10.º e 11.º:
+Art. 14.º Sem prejuízo dos artigos 10.º e 11.º:
 
 a) As remessas de produtos à base de carne, com exclusão dos produtos referidos na alínea i) do n.º 2 do artigo 6.º, provenientes dos restantes Estados membros podem ser sujeitas a controlo, com vista a verificar-se do acompanhamento do certificado de inspecção sanitária em termos a regulamentar;
 
@@ -229,21 +239,21 @@ d) As decisões tomadas no âmbito dos números anteriores são comunicadas ao e
 
 e) Quando as decisões referidas nas alíneas anteriores forem baseadas na constatação de uma doença contagiosa, de uma alteração perigosa para a saúde humana ou de uma falta grave às disposições do presente diploma, são comunicadas, sem demora e com indicação dos motivos, à autoridade sanitária central competente do país expedidor e à Comissão.
 
-###### Art. 15.º - 1 - Se durante um controlo efectuado nos termos da alínea b) do artigo anterior se verificar que os produtos à base de carne não preenchem as condições do presente diploma, a autoridade competente pode conceder ao expedidor, ao destinatário ou ao seu mandatário a opção entre a devolução do lote ou a sua utilização para fins diferentes, se as condições de salubridade o permitirem, ou, em caso contrário, a sua destruição.
+Art. 15.º - 1 - Se durante um controlo efectuado nos termos da alínea b) do artigo anterior se verificar que os produtos à base de carne não preenchem as condições do presente diploma, a autoridade competente pode conceder ao expedidor, ao destinatário ou ao seu mandatário a opção entre a devolução do lote ou a sua utilização para fins diferentes, se as condições de salubridade o permitirem, ou, em caso contrário, a sua destruição.
 
 2 - As decisões tomadas pela autoridade sanitária central devem ser comunicadas ao expedidor ou ao seu mandatário devidamente fundamentadas.
 
 3 - Quando as decisões previstas no número anterior se basearem na constatação de uma doença contagiosa ou infecciosa ou uma alteração perigosa para a saúde humana, aquelas decisões serão imediatamente comunicadas à autoridade sanitária central competente do Estado membro expedidor e à Comissão.
 
-###### Art. 16.º - 1 - É concedido ao expedidor dos produtos à base de carne proibidos de circular nos termos do artigo 13.º o direito de obter um parecer de um perito nos termos legais em vigor, que determinará se estão ou não preenchidas as condições do artigo 14.º, antes que as autoridades sanitárias competentes tomem outras medidas, tais como a destruição dos produtos à base de carne.
+Art. 16.º - 1 - É concedido ao expedidor dos produtos à base de carne proibidos de circular nos termos do artigo 13.º o direito de obter um parecer de um perito nos termos legais em vigor, que determinará se estão ou não preenchidas as condições do artigo 14.º, antes que as autoridades sanitárias competentes tomem outras medidas, tais como a destruição dos produtos à base de carne.
 
 2 - O parecer referido no número anterior será tomado em conta pela autoridade competente do destino das mercadorias.
 
 3 - O perito referido no n.º 1 deve ter nacionalidade diferente da dos países em litígio e constar da lista de peritos elaborada pela Comissão.
 
-###### Art. 17.º Até ao início da aplicação das disposições legais específicas relativas à importação de produtos à base de carne procedentes de países terceiros aplica-se a lei vigente, que não deve ser mais favorável que as que regem o comércio intracomunitário.
+Art. 17.º Até ao início da aplicação das disposições legais específicas relativas à importação de produtos à base de carne procedentes de países terceiros aplica-se a lei vigente, que não deve ser mais favorável que as que regem o comércio intracomunitário.
 
-###### Art. 18.º Em caso de perigo de propagação de doença dos animais por introdução no território nacional de produtos à base de carne provenientes de outro Estado membro, podem ser tomadas as seguintes medidas:
+Art. 18.º Em caso de perigo de propagação de doença dos animais por introdução no território nacional de produtos à base de carne provenientes de outro Estado membro, podem ser tomadas as seguintes medidas:
 
 a) No caso de aparecimento de febre aftosa (tipo clássico), peste suína clássica, doença vesiculosa do porco e paralisia infecciosa dos suínos noutro Estado membro:
 
@@ -253,24 +263,24 @@ ii) Proibir ou restringir temporariamente produtos à base de carne de animais s
 
 b) Portugal comunicará aos outros Estados membros e à Comissão o aparecimento no seu território de uma das doenças referidas no número anterior, as medidas de luta tomadas em relação a essa doença, bem como o seu desaparecimento.
 
-###### Art. 19.º Se se verificar a situação prevista no artigo anterior e se for necessária a aplicação das medidas aí previstas, é aplicável o disposto na legislação vigente relativa às questões de polícia sanitária em matéria de trocas comerciais intracomunitárias de produtos à base de carne.
+Art. 19.º Se se verificar a situação prevista no artigo anterior e se for necessária a aplicação das medidas aí previstas, é aplicável o disposto na legislação vigente relativa às questões de polícia sanitária em matéria de trocas comerciais intracomunitárias de produtos à base de carne.
 
-###### Art. 20.º - 1 - É proibida a expedição de produtos preparados a partir de carne de suíno para outros Estados membros sempre que se tenha constatado peste suína africana há menos de 12 meses.
+Art. 20.º - 1 - É proibida a expedição de produtos preparados a partir de carne de suíno para outros Estados membros sempre que se tenha constatado peste suína africana há menos de 12 meses.
 
 2 - Poderá ser decidido que tal proibição só se aplique a parte do território nacional.
 
-###### Art. 21.º Até à entrada em vigor das disposições que fixem as exigências para as importações de carnes frescas de aves provenientes de países terceiros vigoram as disposições legislativas nacionais na matéria que se refere aos produtos à base de carne preparados, no todo ou em parte, com ou a partir de carnes frescas de aves, que não deverão ser mais favoráveis que as do presente diploma.
+Art. 21.º Até à entrada em vigor das disposições que fixem as exigências para as importações de carnes frescas de aves provenientes de países terceiros vigoram as disposições legislativas nacionais na matéria que se refere aos produtos à base de carne preparados, no todo ou em parte, com ou a partir de carnes frescas de aves, que não deverão ser mais favoráveis que as do presente diploma.
 
-###### Art. 22.º Os regulamentos necessários à execução do presente diploma são estabelecidos por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
+Art. 22.º Os regulamentos necessários à execução do presente diploma são estabelecidos por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 1990. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 6 de Março de 1990.**
+Promulgado em 6 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Março de 1990.**
+Referendado em 9 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

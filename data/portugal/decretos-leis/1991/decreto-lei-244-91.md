@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/153a00/34853486.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/244/1991/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1991-667947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 759c19b7a35564aff380906196e0d5c423ead953063bc2a6eb03e63f5ddd057b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e41e3a2cfa8560020a926e49b1fbefacece5c088bd314e6395d8c3b2436d25e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação de Estudantes
-- Educação
-- Definição de Competências
 - Conselho Nacional de Educação
+- Definição de Competências
+- Educação
 - Ministério da Educação e das Universidades
 - Orgânica
 relationships:
@@ -76,16 +76,50 @@ relationships:
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197538:por
+  label: "Alterada a redacção do 3 e 10 do Dec Lei 125/82 de 22-Abr (na versão dada pela, Lei 31/87, de 09-Jul e com as alterações\
+    \ introduzidas pelos Dec Leis 89/88, de 10-Mar, 423/88, de 14-Nov), pelo Dec Lei 241/96.1996.12.17.ME, DR.IS-A [291].\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-1996-197538
+  date: '1996-12-17'
+- type: amended_by
+  target: pt:dre:491206:por
+  label: "Alterado o art. 3º do Dec Lei 125/82 de 22-Abr, na redacção do presente diploma, pelo DEC LEI.214/2005.09.12.2005.ME,\
+    \ DR.IS-A [235] de 09.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2005-491206
+  date: '2005-12-09'
+- type: cites
+  target: pt:dre:287173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606530:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:32Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +140,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 10.º do [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), de 22 de Abril, ratificado com alterações pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041), de 9 de Julho, na redacção dada pelo [Decreto-Lei n.º 89/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1988-287173), de 10 de Março, e pelo [Decreto-Lei n.º 423/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1988-514652), de 14 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 10.º do [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), de 22 de Abril, ratificado com alterações pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041), de 9 de Julho, na redacção dada pelo [Decreto-Lei n.º 89/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1988-287173), de 10 de Março, e pelo [Decreto-Lei n.º 423/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1988-514652), de 14 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - ...
 
@@ -122,11 +156,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 7 - ...
 
-###### Art. 2.º O secretário permanente do Conselho Nacional de Educação passa a designar-se secretário-geral.
+Art. 2.º O secretário permanente do Conselho Nacional de Educação passa a designar-se secretário-geral.
 
-###### Art. 3.º O artigo 3.º do [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), na versão dada pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041), passa a ter a seguinte redacção:
+Art. 3.º O artigo 3.º do [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), na versão dada pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041), passa a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
@@ -138,18 +172,18 @@ bb) Um representante da Sociedade Portuguesa das Ciências da Educação.
 
 ...
 
-###### Art. 4.º - 1 - Compete ao Conselho Nacional de Educação promover, mediante processo electivo a desenvolver de acordo com regulamento a aprovar pelo plenário, a designação dos elementos a que se refere a alínea i) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), na redacção dada pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041).
+Art. 4.º - 1 - Compete ao Conselho Nacional de Educação promover, mediante processo electivo a desenvolver de acordo com regulamento a aprovar pelo plenário, a designação dos elementos a que se refere a alínea i) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), na redacção dada pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041).
 
 2 - Enquanto não forem criadas estruturas federativas que representem, a nível nacional, as associações de estudantes do ensino secundário, competirá ao Conselho Nacional de Educação promover, mediante processo electivo desenvolver de acordo com regulamento a aprovar pelo plenário, a designação dos elementos a que se refere a alínea o) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), na redacção dada pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041).
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 19 de Junho de 1991.**
+Promulgado em 19 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1991.**
+Referendado em 22 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

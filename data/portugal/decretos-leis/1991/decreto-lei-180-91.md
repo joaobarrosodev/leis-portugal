@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/180/1991/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1991-640954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: add0a093d3a7067a9861d1de0ea6da56c90a3c6b802b02e89152b3f1dfcc65e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd49d0f32d3125ab1877e6dca317a5028fd6bdf1ead01657fabdc2b611f5890b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ subjects:
 - Equipamento Eléctrico
 - Regulamento de Segurança de Linhas Eléctricas de ALTA Tensão
 - Segurança dos Edifícios
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:141784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400467:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:06Z'
   warnings: []
   errors: []
 ---
@@ -100,22 +108,22 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É revogado o Decreto n.º 46847, de 27 de Janeiro de 1966, que aprovou o Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
+Artigo 1.º É revogado o Decreto n.º 46847, de 27 de Janeiro de 1966, que aprovou o Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
 
-###### Art. 2.º O novo Regulamento de Segurança de Linhas Eléctricas de Alta Tensão será aprovado mediante decreto regulamentar.
+Art. 2.º O novo Regulamento de Segurança de Linhas Eléctricas de Alta Tensão será aprovado mediante decreto regulamentar.
 
-###### Art. 3.º A aplicação do regulamento referido no artigo anterior às Regiões Autónomas dos Açores e da Madeira é efectuada mediante diploma regional adequado.
+Art. 3.º A aplicação do regulamento referido no artigo anterior às Regiões Autónomas dos Açores e da Madeira é efectuada mediante diploma regional adequado.
 
-###### Art. 4.º O disposto no artigo 1.º só produz efeitos a partir da data da entrada em vigor do regulamento previsto no artigo 2.º
+Art. 4.º O disposto no artigo 1.º só produz efeitos a partir da data da entrada em vigor do regulamento previsto no artigo 2.º
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 24 de Abril de 1991.**
+Promulgado em 24 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Abril de 1991.**
+Referendado em 29 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

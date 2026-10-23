@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/183/1991/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1991-639485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ee8dcdf4a6a6c01b2e8bb49d28939cabe409ce457bf9aeb5355e60014781623
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 718acf1b4923033625b6475f1210c7b36273948c7444e93001545479aee97a86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,17 +72,29 @@ subjects:
 - Reconversão Profissional
 - Subsídio de Férias
 - Subsídio de Natal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:421455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:06Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +111,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 13.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 203/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1987-421455), de 16 de Maio, passa a ter a seguinte redacção:
+Artigo único. O artigo 13.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 203/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1987-421455), de 16 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 13.º — Acumulação de pensões e vencimentos
 
@@ -111,12 +123,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - José Albino da Silva Peneda.
 
-**Promulgado em 24 de Abril de 1991.**
+Promulgado em 24 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Abril de 1991.**
+Referendado em 29 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27200/48254830.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1990-564672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf29355e8b7da1ae1b55b31c4858439709f4362ec4961f61ef7b9e619d9b405d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed3d294ed7625c9bf35828c27b6706f755f528977e9ad07176f85b3b76309dff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regime Jurídico
+- Transporte de Mercadorias
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:168800:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:523590:por
+  label: "Alterados os arts. 8.º e 9.º e revogados os arts. 10.º, 11.º, 12.º, 18.º 19.º 20.º, 21.º, 22.º, 25.º e 26.º pelo\
+    \ DEC LEI.146/98.1998.05.23.MEPAT DR.IS-A [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-1998-523590
+  date: '1998-05-23'
+- type: cites
+  target: pt:dre:222605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:250664:por
+  label: "Revogado o art. 23º, pelo DEC LEI.116/94.1994.05.03.MF, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1994-250664
+  date: '1994-05-03'
+- type: repealed_by
+  target: pt:dre:533823:por
+  label: "Revogado o nº 1 do art. 27º, pelo DEC LEI.285/94.1994.11.11.MOPTC, DR.IS-A [261]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1994-533823
+  date: '1994-11-11'
+- type: repealed_by
+  target: pt:dre:168800:por
+  label: "Revogado pelo DEC LEI.38/99.1999.02.06.MEPAT DR.IS-A [31]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1999-168800
+  date: '1999-02-06'
 article_structure:
   article_count: 42
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:50Z'
   warnings: []
   errors: []
 ---
@@ -409,12 +453,12 @@ d) [Portaria n.º 1180/82](https://diariodarepublica.pt/dr/detalhe/portaria/1180
 
 Visto e aprovado em Conselho de Ministros de 23 de Agosto de 1990. - Joaquim Fernando Nogueira - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 10 de Novembro de 1990.**
+Promulgado em 10 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Novembro de 1990.**
+Referendado em 16 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/232/1991/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1991-647732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2af459f07cbfc48aca69e419903159f7c000bb18e4d2370a7d86d095d355ec68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d72a8518b0cf2c9a18e91c1dc36bfa84b9f437ad572a08d20aecc9a114027d7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contribuições e Impostos
 - Emigrante
 - Importação
-- Contribuições e Impostos
-- IVA
 - Isenção Fiscal
+- IVA
 relationships:
 - type: amended_by
   target: pt:dre:444447:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444447:por
+  label: "Eliminado o n.º 2 do art. 10.º do Dec Lei 31/89 de 25-Jan DR.IS [21], com a redacção que lhe foi dada pelo presente\
+    \ diploma, pela LEI.30-C/92.1992.12.28.AR DR.IS-A [298]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-1992-444447
+  date: '1992-12-28'
 - type: cites
   target: celex:31983L0183
   label: null
   source: http://data.europa.eu/eli/dir/1983/183/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:12Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +110,13 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do n.º 1 do artigo 40.º da Lei n.º 65/90, de 28 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 7.º e 10.º do Decreto-Lei n.º 31/89, de 25 de Janeiro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 7.º e 10.º do Decreto-Lei n.º 31/89, de 25 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - Os bens pessoais importados com isenção só podem ser objecto de empréstimo, penhor, aluguer ou cessão, a título oneroso ou gratuito, antes de decorrido o prazo de 12 meses a contar da data da numeração da declaração para introdução no consumo, quando autorizado pelo Ministro das Finanças, mediante requerimento do interessado.
+Art. 7.º - 1 - Os bens pessoais importados com isenção só podem ser objecto de empréstimo, penhor, aluguer ou cessão, a título oneroso ou gratuito, antes de decorrido o prazo de 12 meses a contar da data da numeração da declaração para introdução no consumo, quando autorizado pelo Ministro das Finanças, mediante requerimento do interessado.
 
 2 - ...
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - Na importação de velocípedes, motociclos, veículos automóveis de uso privado e seus reboques, caravanas de campismo, barcos de recreio e aviões de turismo, a isenção só será concedida a uma unidade de cada espécie.
 
@@ -120,12 +126,12 @@ No uso da autorização legislativa concedida pela alínea a) do n.º 1 do artig
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 7 de Junho de 1991.**
+Promulgado em 7 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Maio de 1991.**
+Referendado em 12 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

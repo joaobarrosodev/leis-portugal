@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/182a00/39994005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/278/1991/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1991-679835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2705287013d89e3a54c4052b1a89df15aa82a3a103a5bb93071eb7ded4967ce2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2316639b8b2650e8db63ffae84abd245223c667ffa0d3faa9d5b4eaff5e98a58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,77 @@ relationships:
   target: pt:dre:545647:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO PORTUGUES DE MUSEUS PELA PORT 746/93 DE 23-AGO DR.IS-B [197]I
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-23'
+- type: amended_by
+  target: pt:dre:531396:por
+  label: "Alterados os arts. 2º e 8º pelo DEC LEI.6/94.1994.01.12.PCM, DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1994-531396
+  date: '1994-01-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO PORTUGUES DE MUSEUS, PELO DN 476/94 DE 10-MAR DR.IS-B [159] DE 12/JUL/1994S
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DA CULTURA ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPLO\0[266]SUPLO"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:469652:por
+  label: "Mantida em vigor a Orgânica do Instituto Português de Museus pelo DEC LEI.42/96.1996.05.07.MC DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
+- type: amended_by
+  target: pt:dre:163201:por
+  label: "Totalmente revogado pelo DEC LEI.161/97.1997.06.26.MC, DR.IS-A [145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1997-163201
+  date: '1997-06-26'
+- type: amended_by
+  target: pt:dre:545647:por
+  label: "Extinto, sendo objecto de fusão o Instituto Português de Museus, criado pelo presente diploma, cujas atribuições\
+    \ nos termos da alínea d) do nº. 3 do artigo 26.º são integrados no Instituto dos Museus e da Conservação, I.P. pelo DEC\
+    \ LEI.215/2006.27.10.2006.MC, DR.IS [208] de 27.10.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2006-545647
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575493:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476899:por
+  label: "Revogadas as disposições constantes da al s) do artº 2º e a al g) do num 4 do artº 8º pelo DEC LEI.103/97.1997.04.28.MC\
+    \ DR.IS-A [98], na redacção dada pelo artº 6º do Dec-Lei 6/94 de 12-Jan\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1997-476899
+  date: '1997-04-28'
+- type: repealed_by
+  target: pt:dre:163597:por
+  label: "Revogado o art 16º, na parte referente ao património fotográfico, pelo Dec Lei 160/97.1997.06.25.MC, DR.IS-A [144]\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-1997-163597
+  date: '1997-06-25'
 article_structure:
   article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:17Z'
   warnings: []
   errors: []
 ---
@@ -440,15 +501,15 @@ No corrente ano económico os encargos de instalação e funcionamento do IPM, i
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 5 de Julho de 1991.**
+Promulgado em 5 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Julho de 1991.**
+Referendado em 10 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -518,4 +579,4 @@ MAPA II
 
 Quadro do pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/182a00/39994005.pdf))](https://files.diariodarepublica.pt/1s/1991/08/182a00/39994005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/182a00/39994005.pdf)

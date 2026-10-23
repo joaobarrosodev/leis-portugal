@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/067a00/14821483.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/1991/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1991-471172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02a25e0302c77094efb20671c756b625fe1a1dccd5976db17c40db6978eec852
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c50f6a0ebcec0b59b7f03ce9c13f0040796c2b7dbbad67cb17024b0268e87dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,30 @@ relationships:
   target: pt:dre:485058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECL-RECT 68/91 DE 09-ABR DR.IS-A [99] DE 30/ABR/1991.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-04-30'
+- type: cites
+  target: pt:dre:686805:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485058:por
+  label: "Revogado pelo DEC LEI.190/98.1998.07.10.MEPAT, DR.IS-A [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1998-485058
+  date: '1998-07-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:41Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +122,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 6.º do Regulamento do Serviço Radioeléctrico das Embarcações, aprovado pelo [Decreto n.º 45267](https://diariodarepublica.pt/dr/detalhe/decreto/45267-1963-686805), de 24 de Setembro de 1963, passa a ter a seguinte redacção:
+Artigo único. O artigo 6.º do Regulamento do Serviço Radioeléctrico das Embarcações, aprovado pelo [Decreto n.º 45267](https://diariodarepublica.pt/dr/detalhe/decreto/45267-1963-686805), de 24 de Setembro de 1963, passa a ter a seguinte redacção:
 
-###### Art. 6.º Sem prejuízo do disposto em convenções internacionais aplicáveis, serão dotadas de equipamento radotelegráfico de embarcações salva-vidas ou, em sua substituição, de radiobalizas de localização de sinistros via satélite de libertação e activação automática, com capacidade de emissão e de identificação da estação do navio:
+Art. 6.º Sem prejuízo do disposto em convenções internacionais aplicáveis, serão dotadas de equipamento radotelegráfico de embarcações salva-vidas ou, em sua substituição, de radiobalizas de localização de sinistros via satélite de libertação e activação automática, com capacidade de emissão e de identificação da estação do navio:
 
 a) ...
 
@@ -118,12 +132,12 @@ b) As embarcações de 300 ou mais toneladas, registadas no longo curso, cabotag
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 8 de Março de 1991.**
+Promulgado em 8 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Março de 1991.**
+Referendado em 12 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

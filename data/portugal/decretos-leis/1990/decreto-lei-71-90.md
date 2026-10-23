@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/05100/08930897.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1990-332403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98eeb110e2c4e247e7ebf5dafd99acdaac468945323e845fe51ca37a20f9023f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22d1601b0c706ff985841eab2b547849a48b8558b3a04f0e39ba8fb7df8e394f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Avião
+- Contra-ordenação
+- Formação Profissional
+- Pessoal Aeronáutico
 relationships:
 - type: amended_by
   target: pt:dre:218363:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480517:por
+  label: "Alterados os arts 20º e 21º e revogado o art 22º do presente diploma pelo DEC LEI.208/2004.19.08.2004.MOPTH, DR.IS-A\
+    \ [195] de 19.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2004-480517
+  date: '2004-08-19'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530004:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218363:por
+  label: "Revogado, com a redacção conferida pelo Dec Lei 208/2004 de 19-Ago, pelo DEC LEI.238/2004.18.12.2004.MOPTC, DR.IS-A\
+    \ [295] de 18.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2004-218363
+  date: '2004-12-18'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:36Z'
   warnings: []
   errors: []
 ---
@@ -313,12 +338,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação, salv
 
 Visto e aprovado em Conselho de Ministros, de 7 de Dezembro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - José António da Silveira Godinho - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 13 de Fevereiro de 1990.**
+Promulgado em 13 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Fevereiro de 1990.**
+Referendado em 16 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

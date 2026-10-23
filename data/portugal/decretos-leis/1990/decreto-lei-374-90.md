@@ -47,36 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1990-564801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75d47050649184c1841347f577ac07a72a0d26400ffddc16f0894f34b085442e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4361fd0cca13e9e995daab11f1534f56bbadf3026ae035e5252e79d9f53527fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Deficiente
+- Função Pública
+- Funcionário Público
+- Prestações da Segurança Social
+- Proteção Social
+- Prova
+- Regime de Protecção Social dos Funcionários e Agentes da Administração Pública
+- Regime Jurídico
+- Regimes de Segurança Social
+- Segurança Social
+- Subsídio
+- Subsídio por Assistência de Terceira Pessoa
+relationships:
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609631:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:00Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +130,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 4.º, 6.º, 7.º e 8.º do [Decreto-Lei n.º 29/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1989-609631), de 23 de Janeiro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 4.º, 6.º, 7.º e 8.º do [Decreto-Lei n.º 29/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1989-609631), de 23 de Janeiro, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — Assistência por terceira pessoa
 
@@ -141,12 +174,12 @@ b) Relatório elaborado pelos serviços competentes da instituição de seguran�
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Albino da Silva Peneda.
 
-**Promulgado em 10 de Novembro de 1990.**
+Promulgado em 10 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Novembro de 1990.**
+Referendado em 16 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18709-1961-181037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a601cc98ce46dfd08f38ae3dc9e9d7c4c3cdb82f8fbe2eca4807521b97f96d11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20447f051e5b7be5a99e91360d3c234e74ba6e1a167bdd9e403eb64d4c3b596f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:298222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658745:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:43Z'
   warnings: []
   errors: []
 ---
@@ -94,6 +102,6 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termo
 
 Ministério das Finanças, 4 de Setembro de 1961. - Pelo Ministro das Finanças, José Júlio Pizarro Beleza, Subsecretário de Estado do Orçamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/09/20500/10951096.pdf))](https://files.diariodarepublica.pt/1s/1961/09/20500/10951096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/09/20500/10951096.pdf)
 
 Ministério das Finanças, 4 de Setembro de 1961. - Pelo Ministro das Finanças, José Júlio Pizarro Beleza, Subsecretário de Estado do Orçamento.

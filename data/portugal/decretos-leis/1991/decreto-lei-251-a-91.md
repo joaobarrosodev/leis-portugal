@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 161/1991, 1º Suplemento, Série I-A de 1991-07-16
   number: '161'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3628-(2) a 3628-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/161a01/00020006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/251-a/1991/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-a-1991-522614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4985e5220214389b3d9f8758eb83edfe1877a9a9ea83d4dbe3e918c9c0e07bb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f25108d5d861557d456a9b2fec7f2b49e5da70b18f98eed65c685c30a9db03bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Activo Imobilizado
 - Código do IRC
-- Pagamento por Conta
+- Direcção Geral das Contribuições e Impostos
 - Dupla Tributação
 - IRC
+- Pagamento por Conta
 - Reembolso de Contribuições
-- Direcção Geral das Contribuições e Impostos
 - Sociedade de Capital de Risco
 - Sociedade de Desenvolvimento Regional
 - Sociedade de Fomento Empresarial
@@ -81,16 +81,251 @@ relationships:
   target: pt:dre:66016527:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:291940:por
+  label: "Alterados o art. 41º, 71º, 82º, 86.º, 87º e 96º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na\
+    \ redacção do presente diploma, pelo DEC LEI.138/92.17.06.1992.MF, DR.IS-A [163] de 17.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1992-291940
+  date: '1992-06-17'
+- type: amended_by
+  target: pt:dre:291848:por
+  label: "Alterados os art.s 45º e 96º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.123/92.02.07.1992.MF, DR.IS-A [150] de 02.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-1992-291848
+  date: '1992-07-02'
+- type: amended_by
+  target: pt:dre:598158:por
+  label: "Alterado o art. 71º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.263/92.24.11.1992.MF, DR.IS-A [272] de 24.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-1992-598158
+  date: '1992-11-24'
+- type: amended_by
+  target: pt:dre:444447:por
+  label: "Alterado o art. 72º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.30-C/92.28.12.1992.AR, DR.IS-A [298-Supl] de 28.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-1992-444447
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:628034:por
+  label: "Alterado o art. 41º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.67/93.10.03.1993.MF, DR.IS-A [58] de 10.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1993-628034
+  date: '1993-03-10'
+- type: amended_by
+  target: pt:dre:593710:por
+  label: "Alterados os art.s 59º e 60º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.71/93.26.11.1993.AR, DR.IS-A [277-Supl] de 26.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-1993-593710
+  date: '1993-11-26'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Alterados os art.s 41º, 72º e 96º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.39-B/94.27.12.1994.AR, DR.IS-A [298-2ºSupl] de 27.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:527410:por
+  label: "Alterados os art.s 71º e 72º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.121/95.31.05.1995.MF, DR.IS-A [126] de 31.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1995-527410
+  date: '1995-05-31'
+- type: amended_by
+  target: pt:dre:595337:por
+  label: "Alterados os art.s 71º, 82º, 84º, 86º, 87º e 97º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na\
+    \ redacção do presente diploma, pelo DEC LEI.7/96.07.02.1996.MF, DR.IS-A [32] de 07.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1996-595337
+  date: '1996-02-07'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Alterado o art. 41º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.10-B/96.23.03.1996.AR, DR.IS-A [71-2ºSupl] de 23.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterados os art.s 59º, 60º e 97º do Código do IRC, aprovado pelo Dec-Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.52-C/96.27.12.1996.AR, DR.IS-A [299-3ºSupl] de 27.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:301798:por
+  label: "Alterados os art.s 45º e 72º do Código do IRC, aprovado pelo Dec-Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.3/97.08.01.1997.MF, DR.IS-A [6] de 08.01.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1997-301798
+  date: '1997-01-08'
+- type: amended_by
+  target: pt:dre:218483:por
+  label: "Alterados os art.s 71º e 83º Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo EC LEI.44/98.03.03.1998.MF, DR.IS-A [52] de 03.03.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1998-218483
+  date: '1998-03-03'
+- type: amended_by
+  target: pt:dre:218484:por
+  label: "Alterados os art.s 82º, 84º, 86º e 96º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção\
+    \ do presente diploma, pelo DEC LEI.45/98.03.03.1998.MF, DR.IS-A [52] de 03.03.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1998-218484
+  date: '1998-03-03'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterados os art.s 41º e 59º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301-5ºSupl] de 31.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:682986:por
+  label: "Alterados os art.s 82º e 86º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.472/99.08.11.1999.MF, DR.IS-A [260] de 08.11.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1999-682986
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterados os art.s 82º e 83º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.3-B/2000.04.04.2000.AR, DR.IS-A [80-2ºSupl] de 04.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:530000:por
+  label: "Alterado o art. 96º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.55/2000.14.04.2000.MF, DR.IS-A [89] de 14.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2000-530000
+  date: '2000-04-14'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterados os art.s 41º, 45º, 59º, 60º, 71º, 82º, 83º, 86º e 96º do Código do IRC, aprovado pelo Dec Lei 442-B/88,\
+    \ de 30-Nov, na redacção do presente diploma, pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:322110:por
+  label: "Alterado o art. 97º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.15/2001.05.06.2001.AR, DR.IS-A [130] de 05.06.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2001-322110
+  date: '2001-06-05'
+- type: amended_by
+  target: pt:dre:521272:por
+  label: "Alterados os art.s 71º e 72º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.221/2001.07.08.2001.MF, DR.IS-A [182] de 07.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2001-521272
+  date: '2001-08-07'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterados os art.s 45º, 46º, 83º e 97º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção\
+    \ do presente diploma, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterados os art.s 45º e 87º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 86º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os art.s 83º e 86º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, com a redacção do presente\
+    \ diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 86.º do Código do IRC, aprovado pelo Dec Lei n.º 442-B/88, de 30-Nov, revisto e republicado pelo\
+    \ Dec Lei 198/2001 de 03-Jul, e com a redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl]\
+    \ de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:440498:por
+  label: "Alterado o art. 96º do Código do IRC, aprovado pelo presente diploma - revisto e republicado pelo Dec Lei 198/2001,\
+    \ de 03-Jul -, na redacção do presente diploma, pela LEI.64/2008.05.12.2008.AR, DR.IS [236] de 05.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2008-440498
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 97.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:492429:por
+  label: "Alterados, a partir de 18.07.2009, os arts. 22.º, 45.º, 71.º e 72.º do Código do IRC, aprovado pelo Dec Lei 442-B/88,\
+    \ de 30-Nov, na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.159/2009.13.07.2009.MFAP,\
+    \ DR.IS [133] de 13.07.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2009-492429
+  date: '2009-07-13'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 59.º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ republicado pelo Dec Lei 159/2009 de 13-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts. 41º, 45º( renumerado ) e 87º do Código do Imposto sobre o Rendimento das Pessoas Colectivas,\
+    \ aprovado pelo Dec Lei 442-B/88, de 30-Nov, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, e republicado pelo\
+    \ Dec Lei 159/2009, de 13-Jul, pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 71º e 87º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:146237:por
+  label: "Alterado, a partir de 30.10.2012, o art. 87º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-nov, na redação\
+    \ do presente diploma, pela LEI.55-A/2012.29.10.2012.AR, DR.IS [209-Supl] de 29.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2012-146237
+  date: '2012-10-29'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 87º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:499180:por
+  label: "Alterados os arts. 87º e 96º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-nov, na redação do presente\
+    \ diploma, pela LEI.55/2013.08.08.2013.AR, DR.IS [152] de 08.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-2013-499180
+  date: '2013-08-08'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 22.º, 41.º 71.º, 83.º, 84.º, 87.º e 97.º do Código do IRC, aprovado pelo Dec Lei 442-B/88
+    de 30-nov, alterado pelo presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art. 87.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (CIRC) aprovado pelo Dec. Lei
+    442-B/88 de 30-nov, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento,
+    Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496332:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:37Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +358,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea d) do n.º 1 do artigo 24.º, pelas alíneas a), b) e c) do n.º 1 do artigo 25.º e pelo n.º 4 do artigo 31.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 22.º, 41.º, 45.º, 59.º, 60.º, 71.º, 72.º, 82.º, 83.º, 84.º, 86.º, 87.º, 96.º e 97.º do Código do IRC, aprovado pelo Decreto-lei n.º 442-B/88, de 30 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 22.º, 41.º, 45.º, 59.º, 60.º, 71.º, 72.º, 82.º, 83.º, 84.º, 86.º, 87.º, 96.º e 97.º do Código do IRC, aprovado pelo Decreto-lei n.º 442-B/88, de 30 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 22.º — Subsídios ou subvenções não destinados à exploração
 
@@ -355,7 +590,7 @@ b) ...
 
 3 - A declaração referida no n.º 1 deverá ser apresentada na repartição de finanças da área da residência, sede ou direcção efectiva do representante das entidades aí mencionadas ou na direcção de finanças da mesma área.
 
-###### Art. 2.º - 1 - Para efeitos de determinação do lucro tributável, a aceitação como custos das dotações para fundos de pensões e equiparáveis, constituídos de acordo com a legislação nacional, a fazer pelas instituições de crédito relativamente a responsabilidades com pensões dos seus trabalhadores e familiares, ao abrigo do sistema específico contemplado nos instrumentos de regulamentação colectiva de trabalho do sector bancário, obedecerá às seguintes regras:
+Art. 2.º - 1 - Para efeitos de determinação do lucro tributável, a aceitação como custos das dotações para fundos de pensões e equiparáveis, constituídos de acordo com a legislação nacional, a fazer pelas instituições de crédito relativamente a responsabilidades com pensões dos seus trabalhadores e familiares, ao abrigo do sistema específico contemplado nos instrumentos de regulamentação colectiva de trabalho do sector bancário, obedecerá às seguintes regras:
 
 a) São aceites como custos do exercício, na sua totalidade, as dotações correspondentes aos valores actuais dos encargos com pensionistas já existentes na empresa em 31 de Dezembro de 1990, devendo os referidos valores ser certificados nos termos do n.º 4 do artigo 38.º do Código do IRC;
 
@@ -367,12 +602,12 @@ c) As dotações destinadas à cobertura de responsabilidades com pensões de pe
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 12 de Julho de 1991.**
+Promulgado em 12 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Julho de 1991.**
+Referendado em 16 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

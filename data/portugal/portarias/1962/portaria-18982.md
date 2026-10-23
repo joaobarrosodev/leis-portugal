@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18982-1962-520235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b25773b1af35a4e86148cc929a23abde885e0b4333939d1a3595c3922dd77de5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 731c693d043b40950f39aae57dd513c8d37e03e99abac88d494a543c02f4269a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:34Z'
   warnings: []
   errors: []
 ---
@@ -115,10 +115,10 @@ Messe de Oficiais da Força Aérea e Messe de Sargentos da Força Aérea
 
 A) Oficiais e oficiais milicianos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/01/01600/00710072.pdf))](https://files.diariodarepublica.pt/1s/1962/01/01600/00710072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/01/01600/00710072.pdf)
 
 B) Pessoal civil contratado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/01/01600/00710072.pdf))](https://files.diariodarepublica.pt/1s/1962/01/01600/00710072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/01/01600/00710072.pdf)
 
 Secretaria de Estado da Aeronáutica, 24 de Janeiro de 1962. - O Secretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.

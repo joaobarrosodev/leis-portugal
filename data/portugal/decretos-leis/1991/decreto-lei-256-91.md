@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/256/1991/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1991-663341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04a51a14d5b851d295015714fea0347e46f3af66664e52566dbfb3cacf53ed64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e714b3c0b147f73970d88906d64e4f2ee3cd4a4aa188e0ae14d3ea760d4a910
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Propriedade do Estado
+- Açores
 - Domínio Público do Estado
 - Iroma
 - Ponta Delgada
 - Prédio Rústico
-- Açores
+- Propriedade do Estado
+- Região Autónoma
 - Transferência Patrimonial
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:47Z'
   warnings: []
   errors: []
 ---
@@ -107,20 +107,20 @@ Ouvidos os órgãos de governo próprio da Região Autónoma dos Açores:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É transferida do domínio público do Estado para o domínio público da Região Autónoma dos Açores a área de 20300 m2 da parcela B do imóvel rústico denominado «das Laranjeiras» ou «das Vinte Estufas», identificada na planta em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É transferida do domínio público do Estado para o domínio público da Região Autónoma dos Açores a área de 20300 m2 da parcela B do imóvel rústico denominado «das Laranjeiras» ou «das Vinte Estufas», identificada na planta em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º O Instituto Regulador e Orientador dos Mercados Agrícoas (IROMA) procederá ao abate no cadastro dos bens dominiais sob sua administração da parcela de terreno objecto da transferência dominial referida no artigo anterior.
+Art. 2.º O Instituto Regulador e Orientador dos Mercados Agrícoas (IROMA) procederá ao abate no cadastro dos bens dominiais sob sua administração da parcela de terreno objecto da transferência dominial referida no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 11 de Abril de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
 
-**Promulgado em 27 de Junho de 1991.**
+Promulgado em 27 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Julho de 1991.**
+Referendado em 2 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/163a00/36533654.pdf))](https://files.diariodarepublica.pt/1s/1991/07/163a00/36533654.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/163a00/36533654.pdf)

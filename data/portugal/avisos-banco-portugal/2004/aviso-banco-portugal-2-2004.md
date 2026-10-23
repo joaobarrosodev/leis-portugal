@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:286545:por
+title: Aviso do Banco de Portugal n.º 2/2004
+short_title: null
+summary: Altera o aviso n.º 1/93, publicado no Diário da República, 2.ª série, de 8 de Junho de 1993, introduzindo um aditamento
+  à lista dos bancos multilaterais de desenvolvimento para efeitos de ponderação de riscos para cálculo do rácio de solvabilidade
+jurisdiction: portugal
+territory: null
+document_type: aviso-banco-portugal
+document_type_label: Aviso do Banco de Portugal
+issuing_authority:
+- Banco de Portugal
+proposing_entity: null
+official_number: 2/2004
+official_date: null
+publication_date: '2004-06-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 137/2004, Série I-B de 2004-06-12
+  number: '137'
+  series: I
+  supplement: null
+  pages: 3655 - 3655
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/06/137b00/36553655.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/avbdp/2/2004/06/12/p/dre/pt/html
+  oj: null
+  dre: '286545'
+  dre_path: /dr/detalhe/aviso-banco-portugal/2-2004-286545
+  internal: pt:dre:286545:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/2-2004-286545
+  metadata_url: https://data.dre.pt/eli/avbdp/2/2004/06/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/2-2004-286545
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8472205dd288ca6328c2db4705f7cbeb95bb9030f5adcf944ee5135f6ea37764
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência Multilateral de Garantia dos Investimentos
+- Aproximação das Legislações
+- Atividade Bancária
+- Banca
+- Banco Africano de Desenvolvimento
+- Banco Asiático de Desenvolvimento
+- Banco de Desenvolvimento das Caraíbas
+- Banco de Portugal
+- Banco Europeu de Reconstrução e Desenvolvimento
+- Banco Interamericano de Desenvolvimento
+- Banco Internacional para a Reconstrução e Desenvolvimento
+- Banco Nordico de Investimento
+- Fundo de Desenvolvimento Social
+- Fundo Europeu de Investimento
+- Instituição de Crédito
+- Ratio de Solvabilidade
+- Sociedade Interaméricana de Investimento
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:05:08Z'
+  warnings: []
+  errors: []
+---
+
+# Aviso do Banco de Portugal n.º 2/2004
+
+A Directiva n.º [2004/69/CE](https://data.europa.eu/eli/dir/2004/69/oj?locale=pt), da Comissão, de 27 de Abril, publicada no Jornal Oficial da União Europeia, de 28 de Abril de 2004, modificou a relação dos bancos multilaterais de desenvolvimento, para efeitos de ponderação de riscos para cálculo do rácio de solvabilidade, aditando à lista em causa a Agência Multilateral de Garantia dos Investimentos.
+
+O Banco de Portugal, no uso da competência que lhe é conferida pela alínea a) do artigo 99.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, determina o seguinte:
+
+1.º O n.º 5 da parte I do anexo ao aviso n.º 1/93, publicado no Diário da República, 2.ª série, de 8 de Junho de 1993, passa a ter a seguinte redacção:
+
+«5 - Para efeitos do presente anexo, entende-se por:
+
+[...]
+
+'Bancos multilaterais de desenvolvimento' o Banco Internacional para a Reconstrução e Desenvolvimento (Banco Mundial), a Sociedade Financeira Internacional, o Banco Europeu para a Reconstrução e Desenvolvimento, o Banco Inter-Americano de Desenvolvimento, o Banco Asiático de Desenvolvimento, o Banco Africano de Desenvolvimento, o Fundo de Desenvolvimento Social do Conselho da Europa, o Banco Nórdico de Investimento, o Banco de Desenvolvimento das Caraíbas, o Fundo Europeu de Investimento, a Sociedade Interamericana de Investimento e a Agência Multilateral de Garantia dos Investimentos.»
+
+2.º O presente aviso entra imediatamente em vigor.
+
+Lisboa, 24 de Maio de 2004. - O Governador, Vítor Constâncio.

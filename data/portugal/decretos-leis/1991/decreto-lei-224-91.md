@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224/1991/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1991-659279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9c186753bfb8abeb83e11287f80a49d981031d5a6920e07a61d00eb9e2812da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 237adc51bc227138db6cad4505daaf568288bdd32fcf6bb3913e7d73186601ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Fiscalização Económica
 - Indústria Agrícola
 - Inspecção Técnica das Indústrias e Comércio Agrícolas
-- Comércio
 - Produto Agrícola
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:212464:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:02Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +102,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O § 3.º do artigo 16.º do [Decreto n.º 19615](https://diariodarepublica.pt/dr/detalhe/decreto/19615-1931-212464), de 18 de Abril de 1931, passa a ter a seguinte redacção:
+Artigo único. O § 3.º do artigo 16.º do [Decreto n.º 19615](https://diariodarepublica.pt/dr/detalhe/decreto/19615-1931-212464), de 18 de Abril de 1931, passa a ter a seguinte redacção:
 
 A entidade a quem competir o deferimento do recurso notificará o interessado para proceder ao depósito das importâncias relativas ao custo da análise, aos encargos com os peritos e às despesas de deslocação do analista que efectuou a primeira análise, quando haja deslocação, sendo os emolumentos dos peritos e as despesas do transporte e ajudas de custo fixadas por aquela entidade, nos termos das tabelas a aprovar por despacho do Ministro da Agricultura, Pescas e Alimentação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 27 de Maio de 1991.**
+Promulgado em 27 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Maio de 1991.**
+Referendado em 29 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

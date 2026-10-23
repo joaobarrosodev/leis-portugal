@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18728-1961-180465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d277d955ffa7c7770e5a0f05edfd0f9b414ddcdd4ce7ac74937d8675e1512dd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df0842332705ba962f1689ffad67106b4f5200208b858220653a901fda6973be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:501852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651525:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:13Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +100,7 @@ Atendendo à vantagem de na mesma lotação ser indicada a distribuição do pes
 
 Manda o Governo da República Portuguesa, pelos Ministros da Marinha e do Ultramar, ao abrigo do disposto no artigo 5.º do [Decreto-Lei n.º 42111](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42111-1959-591919), de 19 de Janeiro de 1959, fixar para o Comando Naval de Angola a seguinte lotação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/09/21500/12021203.pdf))](https://files.diariodarepublica.pt/1s/1961/09/21500/12021203.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/09/21500/12021203.pdf)
 
 Notas
 

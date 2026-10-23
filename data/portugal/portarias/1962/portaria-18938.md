@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1962/01/00300/00090012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18938-1962-642563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41285590279a01003927667b06a89f79569d5541b323a2a0fc72e39d12177c74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 199b07dfc561b861210d785e391aa3634f873e5d06b78e9277ecaa3becbb9a3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Formação
+- Escola Náutica
+- Instrução Militar
+- Marinha
+- Militar
+- Reserva
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:473510:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:159686:por
+  label: "Dada nova redacção ao n.º 22.º do presente diploma, pela PORT.19384.06.09.1962.MMAR, DG.IS [205] de 06.09.1962\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19384-1962-159686
+  date: '1962-09-06'
+- type: amended_by
+  target: pt:dre:294367:por
+  label: "Dada nova redacção ao n.º 35º do presente diploma, pela PORT.21315.01.06.1965.MMAR, DG.IS [122] de 01.06.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21315-1965-294367
+  date: '1965-06-01'
+- type: cites
+  target: pt:dre:251581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559993:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473510:por
+  label: "Revogado o presente diploma, pela PORT.22020.30.05.1966.MMAR, DG.IS [126] de 30.05.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22020-1966-473510
+  date: '1966-05-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:39Z'
   warnings: []
   errors: []
 ---

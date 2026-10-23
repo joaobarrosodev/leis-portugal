@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1990-313825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb846dbdaf08880b0e2aed2d0e6a85dee4d897b777eb39c0c581a982240494d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fefca3e56bf3f77481dcde2e386658df52dfbee496ef3fc2089a13524d237912
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abate de Árvores
+- Arborização
+- Direcção Geral das Florestas
+- Indemnização
+- Nacionalização
+- Prédio Rústico
+- Reforma Agrária
+relationships:
+- type: cites
+  target: pt:dre:355489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612834:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:04Z'
   warnings: []
   errors: []
 ---
@@ -89,20 +108,20 @@ Considerando que, dada a emergência do contencioso fundiário decorrente da ent
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 3.º do [Decreto-Lei n.º 74/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1989-612834), de 3 de Março, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º do [Decreto-Lei n.º 74/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1989-612834), de 3 de Março, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Uma vez iniciado o processo conducente à atribuição de áreas de reserva ao abrigo da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, deverá a direcção regional de agricultura competente comunicar à Direcção-Geral das Florestas esse facto, a fim de serem sustados todos os processos de comercialização daquele arvoredo e anulados, na quota-parte que diz respeito à reserva, os respectivos contratos de adjudicação.
+Art. 3.º - 1 - Uma vez iniciado o processo conducente à atribuição de áreas de reserva ao abrigo da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, deverá a direcção regional de agricultura competente comunicar à Direcção-Geral das Florestas esse facto, a fim de serem sustados todos os processos de comercialização daquele arvoredo e anulados, na quota-parte que diz respeito à reserva, os respectivos contratos de adjudicação.
 
 2 - Os titulares das áreas de reserva serão indemnizados pela privação temporária dos rendimentos, nos termos do [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, decorrente dos cortes de arvoredo nelas efectuados em períodos anteriores à entrega efectiva das áreas reservadas.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 14 de Dezembro de 1989.**
+Promulgado em 14 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1989.**
+Referendado em 18 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

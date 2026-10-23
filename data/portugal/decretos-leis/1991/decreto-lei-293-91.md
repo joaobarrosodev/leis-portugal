@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/293/1991/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1991-676040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b9f54f0bda67df5ed8b7d3c5dffa92f5cdec25aa0d0bd4e39511a2644481172
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db9507d52f7ccadf9fc3787cb5c016cf3f6e0a12fc6b6a490c7af29fef4c6940
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,247 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção Financeira
-- Empresa
-- Marinha Mercante
 - Associação Patronal
 - Associação Sindical
+- Benefícios Fiscais
+- Contribuições e Impostos
+- Empresa
 - Estatuto dos Benefícios Fiscais
 - Fundo de Investimento Mobiliário
 - Fundo de Pensões
 - Fundo de Poupança-reforma
-- Imposto do SELO
-- Contribuições e Impostos
-- IRS
-- Zona Tributária Privilegiada
 - ILHA de Santa Maria
+- Imposto do SELO
 - IRC
+- IRS
 - Madeira.região Autónoma
-- Benefícios Fiscais
+- Marinha Mercante
 - Prédio Urbano
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:496766:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626237:por
+  label: "Alterados os art.s 21º e 52º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção\
+    \ do presente diploma, pela LEI.2/92.09.03.1992.AR, DR.IS-A [57-Supl] de 09.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1992-626237
+  date: '1992-03-09'
+- type: amended_by
+  target: pt:dre:260592:por
+  label: "Alterado o art. 19º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.187/92.25.08.1992.MF, DR.IS-A [195] de 25.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-1992-260592
+  date: '1992-08-25'
+- type: amended_by
+  target: pt:dre:444447:por
+  label: "Alterado o art. 52º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pela LEI.30-C/92.28.12.1992.AR, DR.IS-A [298-Supl] de 28.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-1992-444447
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:634689:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.84/93.18.03.1993.MF, DR.IS-A [65] de 18.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-1993-634689
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:311209:por
+  label: "Alterados os art.s 19º, 21º, 49º-A e 52º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul,\
+    \ na redacção do presente diploma, pela LEI.75/93.20.12.1993.AR, DR.IS-A [295-Supl] de 20.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-1993-311209
+  date: '1993-12-20'
+- type: amended_by
+  target: pt:dre:521446:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.37/94.08.02.1994.MF, DR.IS-A [32] de 08.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-1994-521446
+  date: '1994-02-08'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Alterados os art.s 19º, 20º, 21º e 52º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul,\
+    \ na redacção do presente diploma, pela LEI.39-B/94.27.12.1994.AR, DR.IS-A [298-2ºSupl] de 27.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:690175:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89 de 01-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.307/95.20.11.1995.MF, DR.IS-A [268] de 20.11.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-1995-690175
+  date: '1995-11-20'
+- type: amended_by
+  target: pt:dre:621765:por
+  label: "Alterado o art. 49º-A do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pela LEI.92-A/95.28.12.1995.AR, DR.IS-A [298-Supl] de 28.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/92-a-1995-621765
+  date: '1995-12-28'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Alterados os art.s 21º e 52º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção\
+    \ do presente diploma, pela LEI.10-B/96.23.03.1996.AR, DR.IS-A [71-2ºSupl] de 23.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:469192:por
+  label: "Alterado o art. 19º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.37/96.06.05.1996.MF, DR.IS-A [105] de 06.05.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-1996-469192
+  date: '1996-05-06'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterados os art.s 21º, 49º-A e 52º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec-Lei 215/89, de 01-Jul,\
+    \ na redacção do presente diploma, pela LEI.52-C/96.27.12.1996.AR, DR.IS-A [299-3ºSupl] de 27.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:581227:por
+  label: "Alterado o art. 19º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec-Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.24/97.23.01.1997.MF, DR.IS-A [19] de 23.01.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-1997-581227
+  date: '1997-01-23'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Alterados os art.s 21º e 52º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção\
+    \ do presente diploma, pela LEI.127-B/97.20.12.1997.AR, DR.IS-A [293-2ºSupl] de 20.12.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:419394:por
+  label: "Alterada a al. a) do nº 1 do art. 19º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul,\
+    \ na redacção do presente diploma, pelo DEC LEI.367/97.23.12.1997.MF, DR.IS-A [295] de 23.12.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1997-419394
+  date: '1997-12-23'
+- type: amended_by
+  target: pt:dre:229284:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.25/98.10.02.1998.MF, DR.IS-A [34] de 10.02.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1998-229284
+  date: '1998-02-10'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterados os art.s 19º, 21º, 49º-A e 52º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul,\
+    \ na redacção do presente diploma, pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301-5ºSupl] de 31.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterados os art.s 19º, 21º, 49º-B e 52º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul,\
+    \ na redacção do presente diploma, pela LEI.3-B/2000.04.04.2000.AR, DR.IS-A [80-2ºSupl] de 04.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterados os art.s 21º e 52º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção\
+    \ do presente diploma, pela LEI.30-C/2000.29.12.2000.AR, DR.IS-A [299-2ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:212014:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jun, na redacão do presente\
+    \ diploma, pela LEI.30-F/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-f-2000-212014
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterados os art.s 19º e 21º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jun, na redacção\
+    \ do presente diploma, pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:522865:por
+  label: "Alterado o art. 21º do Estatuto dos Benefícios Fiscais aprovado pela Lei 215/89, de 01-Jul, na redacção do presente\
+    \ diploma, pela LEI.85/2001.04.08.2001.AR, DR.IS-A [180] de 04.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/85-2001-522865
+  date: '2001-08-04'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterados os art.s 19º, 21º e 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na\
+    \ redacção do presente diploma, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterados os art.s 19º e 21º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção\
+    \ do presente diploma, pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:447325:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.287/2003.12.11.2003.MF, DR.IS-A [262] de 12.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-2003-447325
+  date: '2003-11-12'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterados os art.s 19º e 21º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção\
+    \ do presente diploma, revisto pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl]\
+    \ de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 21º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89 de 01-Jul, na redacção do presente\
+    \ diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: Alterado o art. 21º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, revisto e republicado
+    pelo Dec Lei 198/2001 de 03-Jul, na redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de
+    29.12.2006
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:456221:por
+  label: Alterado o art. 21º do Dec Lei 215/89, de 01-Jul, na redacção do presente diploma, pelo DEC LEI.108/2008.26.06.2008.MFAP,
+    DR.IS [122] de 26.06.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2008-456221
+  date: '2008-06-26'
+- type: amended_by
+  target: pt:dre:490420:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.249/2009.23.09.2009.MFAP, DR.IS [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2009-490420
+  date: '2009-09-23'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 21º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, renumerado e republicado pelo Dec Lei 108/2008, de 26-Jun., pela LEI.55-A/2010.31.12.2010.AR, DR.IS\
+    \ [253-Supl] de 31.12.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 21º e 52º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção\
+    \ do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:496766:por
+  label: "Dada nova redação ao art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89 de 01-jul, alterado\
+    \ pelo presente diploma, pelo DEC LEI.82/2013.17.06.2013.MF, DR.IS [114] de 17.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2013-496766
+  date: '2013-06-17'
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 9
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:37Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +323,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea b) do artigo 26.º, alínea i) do n.º 1 do artigo 28.º, n.os 1, 3, 5 e 6 do artigo 29.º e alíneas a), b), c) e f) do n.º 3 do artigo 31.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 19.º, 20.º, 21.º, 41.º e 52.º do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 19.º, 20.º, 21.º, 41.º e 52.º do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 19.º — Fundos de investimento
 
@@ -190,11 +399,11 @@ c) ...
 
 5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder será o determinado em conformidade com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/185a00/41084110.pdf))](https://files.diariodarepublica.pt/1s/1991/08/185a00/41084110.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/185a00/41084110.pdf)
 
 6 - ...
 
-###### Art. 2.º São aditados ao Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, os seguintes artigos:
+Art. 2.º São aditados ao Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, os seguintes artigos:
 
 ###### Artigo 30.º-C — Empresas portuguesas no estrangeiro
 
@@ -228,11 +437,11 @@ a) As pessoas colectivas públicas, de tipo associativo, criadas por lei para as
 
 b) As confederações e associações patronais e sindicais.
 
-###### Art. 3.º A epígrafe da parte II do Estatuto dos Benefícios Fiscais passa a ter a seguinte redacção:
+Art. 3.º A epígrafe da parte II do Estatuto dos Benefícios Fiscais passa a ter a seguinte redacção:
 
-# PARTE II — Dos benefícios fiscais
+## PARTE II — Dos benefícios fiscais
 
-###### Art. 4.º - 1 - O disposto no n.º 6 do artigo 19.º do Estatuto dos Benefícios Fiscais, na redacção que lhe é dada pelo presente decreto-lei, produz efeitos desde 1 de Janeiro de 1991.
+Art. 4.º - 1 - O disposto no n.º 6 do artigo 19.º do Estatuto dos Benefícios Fiscais, na redacção que lhe é dada pelo presente decreto-lei, produz efeitos desde 1 de Janeiro de 1991.
 
 2 - Os reembolsos que venham a surgir em virtude do disposto no número anterior deverão ser solicitados pelas sociedades gestoras dos fundos de investimento imobiliário no prazo de 90 dias a contar da data da publicação do presente diploma, mediante requerimento dirigido ao Ministro das Finanças, ao qual será junta uma listagem com a identificação dos participantes.
 
@@ -240,12 +449,12 @@ b) As confederações e associações patronais e sindicais.
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 15 de Julho de 1991.**
+Promulgado em 15 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Julho de 1991.**
+Referendado em 17 de Julho de 1991.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência e da Defesa Nacional.

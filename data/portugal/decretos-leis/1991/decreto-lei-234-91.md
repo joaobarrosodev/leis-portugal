@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/145a00/32643266.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/234/1991/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1991-649364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b07b5a5cac10ea4eee833e6af8d5f84609c2fefa7b0ddacf3901b84654170641
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fdb8bbdeb5d2acb2f639c5a599e08386b49b0bb597c05eaf8caab68f70d8b31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Empresa Pública
 - Fundo de Investimento Mobiliário
 - Privatização
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:420405:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420405:por
+  label: "Totalmente revogado pelo DEC LEI.361/97.1997.12.20.MF, DR.IS-A [293]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-1997-420405
+  date: '1997-12-20'
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:20Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +118,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os trabalhadores das sociedades anónimas resultantes da privatização de empresas públicas podem constituir fundos de investimento mobiliários que tenham como objecto principal a reunião de acções emitidas por tais sociedades e que tenham sido adquiridas ou subscritas, quer no processo de privatização, quer posteriormente, pelos referidos trabalhadores.
+Artigo 1.º - 1 - Os trabalhadores das sociedades anónimas resultantes da privatização de empresas públicas podem constituir fundos de investimento mobiliários que tenham como objecto principal a reunião de acções emitidas por tais sociedades e que tenham sido adquiridas ou subscritas, quer no processo de privatização, quer posteriormente, pelos referidos trabalhadores.
 
 2 - Aos fundos e sociedades gestoras criados no âmbito do presente diploma é aplicável o regime geral dos fundos de investimento mobiliários e respectivas sociedades gestoras, com as particularidades constantes deste diploma.
 
@@ -119,7 +132,7 @@ b) Todos aqueles que venham a integrar os quadros de pessoal da empresa após a 
 
 5 - Compreendem-se no âmbito deste diploma tanto as privatizações operadas ao abrigo da lei vigente, como aquelas que se realizaram no domínio da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
-###### Art. 2.º Para efeitos do presente diploma entende-se por:
+Art. 2.º Para efeitos do presente diploma entende-se por:
 
 a) Fundo de investimento ou simplesmente, fundo: o fundo de investimento criado no âmbito deste diploma;
 
@@ -127,7 +140,7 @@ b) Sociedade gestora: a sociedade gestora do fundo referido na alínea anterior;
 
 c) Empresa e sociedade participada: respectivamente, a empresa pública privatizada e a sociedade anónima resultante da privatização a cujos quadros de pessoal pertencem ou pertenceram os trabalhadores referidos no n.º 3 do artigo anterior.
 
-###### Art. 3.º - 1 - Os trabalhadores que pretendam constituir um fundo de investimento devem:
+Art. 3.º - 1 - Os trabalhadores que pretendam constituir um fundo de investimento devem:
 
 a) Apresentar o respectivo pedido, nos termos legais, durante o processo de privatização da empresa ou até que sejam decorridos 12 meses sobre a conclusão desse processo;
 
@@ -139,7 +152,7 @@ b) Afectar ao fundo, no todo ou em parte, as acções que tenham adquirido ou su
 
 4 - Relativamente aos processos de privatização já concluídos, o prazo de 12 meses, fixado na alínea a) do n.º 1, conta-se desde a data da publicação do presente diploma.
 
-###### Art. 4.º Para além de outros elementos que sejam exigidos por lei para a constituição de fundos de investimento mobiliários e respectivas sociedades gestoras, o pedido referido na alínea a) do n.º 1 do artigo 3.º deve ser acompanhado de:
+Art. 4.º Para além de outros elementos que sejam exigidos por lei para a constituição de fundos de investimento mobiliários e respectivas sociedades gestoras, o pedido referido na alínea a) do n.º 1 do artigo 3.º deve ser acompanhado de:
 
 a) Identificação dos promotores da constituição do fundo, com prova da sua qualidade de trabalhadores;
 
@@ -151,7 +164,7 @@ d) Projecto de regulamento de gestão do fundo;
 
 e) Menção das diligências que os promotores se propõem realizar com vista à diversificação do património do fundo.
 
-###### Art. 5.º - 1 - A sociedade gestora será também constituída por trabalhadores e ficará sujeita às seguintes regras:
+Art. 5.º - 1 - A sociedade gestora será também constituída por trabalhadores e ficará sujeita às seguintes regras:
 
 a) Todas as acções serão escriturais e nominativas;
 
@@ -163,7 +176,7 @@ d) A alienação de acções correspondentes a mais de 0,3% do capital social da
 
 2 - Serão nulas quaisquer normas dos estatutos da sociedade gestora que contrariem as regras fixadas no número anterior.
 
-###### Art. 6.º - 1 - Enquanto o processo de privatização da sociedade participada não estiver concluído, os certificados de participação no fundo apenas poderão ser subscritos ou adquiridos por trabalhadores.
+Art. 6.º - 1 - Enquanto o processo de privatização da sociedade participada não estiver concluído, os certificados de participação no fundo apenas poderão ser subscritos ou adquiridos por trabalhadores.
 
 2 - A sociedade gestora definirá no respectivo regulamento de gestão as regras a que ficarão subordinadas a emissão e subscrição de certificados durante o período de tempo referido no número anterior.
 
@@ -173,24 +186,24 @@ d) A alienação de acções correspondentes a mais de 0,3% do capital social da
 
 5 - Até ao momento em que se mostrar concluído o processo de privatização da empresa, os certificados de participação no fundo serão obrigatoriamente escriturais e nominativos.
 
-###### Art. 7.º - 1 - Para além das acções emitidas pela sociedade participada, poderão fazer parte do património do fundo quaisquer outros títulos emitidos quer pela sociedade participada, quer por qualquer outra sociedade, empresa ou entidade, pública ou privada.
+Art. 7.º - 1 - Para além das acções emitidas pela sociedade participada, poderão fazer parte do património do fundo quaisquer outros títulos emitidos quer pela sociedade participada, quer por qualquer outra sociedade, empresa ou entidade, pública ou privada.
 
 2 - As regras a que deve obedecer a composição do património do fundo serão fixadas por portaria do Ministro das Finanças.
 
-###### Art. 8.º É aplicável aos fundos a que se refere o presente diploma o regime geral dos limites à relação entre o capital e reservas da sociedade gestora e o valor do fundo de investimento por esta gerido.
+Art. 8.º É aplicável aos fundos a que se refere o presente diploma o regime geral dos limites à relação entre o capital e reservas da sociedade gestora e o valor do fundo de investimento por esta gerido.
 
-###### Art. 9.º - 1 - Os trabalhadores que adquirirem ou subscreverem acções em condições especiais, no processo de privatização da respectiva empresa, poderão aliená-las a favor dos fundos por eles criados logo que seja decorrido o prazo de indisponibilidade fixado no decreto-lei que autorizou as respectivas alienações.
+Art. 9.º - 1 - Os trabalhadores que adquirirem ou subscreverem acções em condições especiais, no processo de privatização da respectiva empresa, poderão aliená-las a favor dos fundos por eles criados logo que seja decorrido o prazo de indisponibilidade fixado no decreto-lei que autorizou as respectivas alienações.
 
 2 - O direito de voto relativo às acções que ingressem no fundo nos termos do número anterior não sofrerá qualquer impedimento ou suspensão, podendo ser plenamente exercido a partir do momento desse ingresso.
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 7 de Junho de 1991.**
+Promulgado em 7 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1991.**
+Referendado em 12 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

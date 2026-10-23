@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/02900/04670470.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1990-335394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ab67981e19cd014ed057d2cb9859fc68c720f170d95f9ae4a9059314eceb775
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caa636305f6e35a244f51d1fbe023a94c375b6fcecfef67cbbd86218a396d319
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- GNR
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667886:por
+  label: "Alterados os artigos 59.º, 62.º e 86.º do Decreto-Lei n.º 333/83, de 14 de Julho, na redacção do presente diploma,\
+    \ pelo DEC LEI.260/91.25.07.1991.MAI, DR.IS-A [169] de 25.07.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-1991-667886
+  date: '1991-07-25'
+- type: cites
+  target: pt:dre:453783:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:267033:por
+  label: "Revogada a orgânica, aprovada no Decreto-Lei n.º 333/83, de 14 de Julho, com as alterações previstas no presente\
+    \ diploma, pelo DEC LEI.231/93.26.06.1993.MAI, DR.IS-A [148] de 26.06.1993, sem prejuízo do disposto no artigo 99.º da\
+    \ orgânica anexa ao referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1993-267033
+  date: '1993-06-26'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 24
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:21Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +122,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 7.º, 8.º, 12.º, 26.º, 34.º, 36.º, 42.º, 52.º, 54.º, 59.º, 65.º, 66.º, 68.º, 69.º, 70.º, 80.º, 81.º e 87.º do [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 7.º, 8.º, 12.º, 26.º, 34.º, 36.º, 42.º, 52.º, 54.º, 59.º, 65.º, 66.º, 68.º, 69.º, 70.º, 80.º, 81.º e 87.º do [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Definição e enquadramento orgânico
 
@@ -344,7 +368,7 @@ g) ...
 
 O pessoal civil que presta serviço na GNR está sujeito ao regime previsto na lei geral para o pessoal da Administração Pública.
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho, os artigos 24.º-A, 46.º-A e 46.º-B, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho, os artigos 24.º-A, 46.º-A e 46.º-B, com a seguinte redacção:
 
 ###### Artigo 24.º-A — Centro Gráfico
 
@@ -364,16 +388,16 @@ b) Promover a implantação dos meios necessários à materialização dos apoio
 
 c) Promover continuamente a rentabilização dos sistemas informáticos implantados, coordenar tecnicamente as suas actividades e planear e orientar as acções de racionalização das estruturas administrativas, propondo métodos e procedimentos consentâneos com os sistemas criados.
 
-###### Art. 3.º São revogados os artigos 72.º, 85.º, 86.º e 88.º do [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho.
+Art. 3.º São revogados os artigos 72.º, 85.º, 86.º e 88.º do [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Rui Carlos Alvarez Carp - José António da Silveira Godinho - Joaquim Fernando Nogueira.
 
-**Promulgado em 24 de Janeiro de 1990.**
+Promulgado em 24 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1990.**
+Referendado em 24 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

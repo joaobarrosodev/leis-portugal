@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/094a00/22832289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/1991/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1991-594679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ad202d108103f45997050fa48a442f4b3e164b40980a6eba7e0733ea92222d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e11efbe10446cd892f1f21dfc37904f620ecfeb299d24a8e59b9dd03c9edf5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjunto
-- NATO
-- Proteção Civil
 - Autoridade Nacional de Segurança
 - Comissão de Planeamento da Agricultura Pescas e Alimentação de Emergência
 - Comissão de Planeamento das Comunicações de Emergência
 - Comissão de Planeamento dos Transportes Terrestres de Emergência
+- Comissão de Planeamento Energético de Emergência
 - Comissão de Planeamento Industrial de Emergência
-- Serviço Nacional de Protecção Civil
 - Conselho Nacional de Planeamento Civil de Emergência
 - Definição de Competências
 - Formas de Provimento
-- Política de Defesa
-- Recrutamento de Pessoal
-- Primeiro-ministro
 - Integração de Trabalhadores
-- Comissão de Planeamento Energético de Emergência
+- Ministro da Administração Interna
 - Ministro da Agricultura Pescas e Alimentação
+- Ministro da Defesa Nacional
 - Ministro da Indústria e Energia
+- Ministro das Obras Públicas Transportes e Comunicações
+- NATO
 - Orgânica
 - Planeamento Civil de Emergência
+- Política de Defesa
+- Primeiro-ministro
+- Proteção Civil
 - Quadro de Pessoal
-- Ministro da Defesa Nacional
-- Ministro das Obras Públicas Transportes e Comunicações
-- Ministro da Administração Interna
+- Recrutamento de Pessoal
+- Serviço Nacional de Protecção Civil
 - Sistema Nacional de Planeamento Civil de Emergência
 - Vice-presidente
 relationships:
@@ -97,16 +97,144 @@ relationships:
   target: pt:dre:179574:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Alterado o presente diploma, relativamente à tutela da Comissão de Planeamento do Transporte Marítimo de Emergência,
+    pelo(a) Decreto-Lei n.º 451/91 - Diário da República n.º 279/1991, 1º Suplemento, Série I-A de 1991-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:621681:por
+  label: "Alterado o art. 18º, pelo DEC LEI.287/92.1992.12.26.MDN, DR.IS-A [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1992-621681
+  date: '1992-12-26'
+- type: amended_by
+  target: pt:dre:455465:por
+  label: "Colocada na dependência do Ministro do Equipamento Social a Comissão de Planeamento do Transporte Marítimo de Emergência,\
+    \ pelo DEC LEI.296-A/95.1995.11.17.PCM, DR.IS-A [266]Supl, na redacção conferida pela Decl-Rect 150/95, de 30-Nov\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integradas no Ministério do Equipamento Social, as Comissões de Planeamento das Comunicações de Emergência, do Transporte\
+    \ Aéreo de Emergência, do Transporte Marítimo de Emergência e dos Transportes Terrestres de Emergência, a que se refere\
+    \ o presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:368265:por
+  label: "Aditados os arts 18º-A, 18º-B e 18º-C e alterado o art. 18º na redacção do Dec Lei 287/92 de 26-Dez, DR.IS-A [297]\
+    \ pelo DEC LEI.128/2002.2002.05.11.MDN, DR.IS-A [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-2002-368265
+  date: '2002-05-11'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério das Obras Públicas, Transportes e Comunicações da Comissão de Planeamento\
+    \ de Emergência do Transporte Marítimo, (integrada na Presidência do Conselho de Ministros), reorganizada no presente\
+    \ diploma, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:642010:por
+  label: "Extinto, nos termos dos arts. 45.º e 48.º, sendo objecto de fusão, o Conselho Nacional de planeamento Civil de Emergência,\
+    \ reorganizado pelo presente diploma, na redacção dos Dec Lei 287/92 de 26-Dez, 128/2002 de 11-Mai, 79/2005 de 15-Abr\
+    \ e Lei 30/2008 de 10-Jul e integradas as suas atribuições na Autoridade Nacional de Protecção Civil, no âmbito do Ministério\
+    \ da Administração Interna, pelo DEC LEI.126-A/2011.29.12.2011.PCM, DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extintas, sendo objecto de fusão, a Comissão de Planeamento de Emergência da Agricultura, a Comissão de Planeamento\
+    \ de Emergência do Ambiente, e a Comissão de Planeamento de Emergência do Transporte Marítimo, reorganizadas pelo presente\
+    \ diploma, com as alterações introduzidas pelo Dec Lei 128/2002 de 11-Mai, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS\
+    \ [12] de 17.01.2012, nos termos do disposto no nº 3 do seu art. 34º; sendo as suas atribuições integradas, respectivamente,\
+    \ no Gabinete de Planeamento e Políticas, na Agência Portuguesa do Ambiente, e na Direção-Geral de Recursos Naturais,\
+    \ Segurança e Serviços Marítimos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:551446:por
+  label: "Determinado que a Direcção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) sucede nas atribuições\
+    \ da Comissão de Planeamento de Emergência de Transporte Marítimo, pelo DEC LEI.49-A/2012.29.02.2012.MAMAOT, DR.IS [43-Supl]\
+    \ de 29.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-a-2012-551446
+  date: '2012-02-29'
+- type: amended_by
+  target: pt:dre:553603:por
+  label: "Determinado que a Agência Portuguesa do Ambiente, I.P., suceda nas atribuições da Comissão de Planeamento de Emergência\
+    \ do Ambiente, constante do presente diploma, na redacção do Dec Lei 128/2002, de 11-maio, pelo DEC LEI.56/2012.12.03.2012.MAMAOT,\
+    \ DR.IS [51] de 12.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2012-553603
+  date: '2012-03-12'
+- type: amended_by
+  target: pt:dre:553925:por
+  label: "Determinado que a ANPC suceda nas atribuições do Conselho Nacional de Planeamento Civil de Emergência e revogado,\
+    \ a partir de 31.03.2012, o presente diploma, na redação do Dec Lei 287/92, de 26-dez, do Dec Lei 128/2002, de 11-mai\
+    \ e da Lei 30/2008, de 10-jul, pelo DEC LEI.73/2012.26.03.2012.MAI, DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2012-553925
+  date: '2012-03-26'
+- type: amended_by
+  target: pt:dre:179574:por
+  label: "Determinado que a Direção-Geral de Energia e Geologia sucede nas atribuições da Comissão de Planeamento Energético\
+    \ de Emergência, pelo DEC LEI.151/2012.12.07.2012.MEE, DR.IS [134] de 12.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2012-179574
+  date: '2012-07-12'
+- type: cites
+  target: pt:dre:179990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456541:por
+  label: "Revogado, a partir de 01.08.2008, o disposto relativamente aos Ministros da República pela LEI.30/2008.10.07.2008.AR,\
+    \ DR.IS [132] de 10.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2008-456541
+  date: '2008-07-10'
 article_structure:
   article_count: 27
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:31Z'
   warnings: []
   errors: []
 ---
@@ -281,7 +409,9 @@ d) Sub-Registo OTAN.
 
 Ao Núcleo de Estudos e Planeamento compete a elaboração dos estudos, trabalhos técnicos e pareceres necessários à concretização das acções que respeitem a áreas que não sejam específicas de cada uma das comissões de planeamento.
 
-###### Artigo 13.º — Secção Administrativa
+###### Artigo 13.º
+
+#### Secção Administrativa
 
 A Secção Administrativa assegurará o apoio ao CNPCE em matéria de expediente, arquivo, pessoal, contabilidade e economato.
 
@@ -411,24 +541,24 @@ São revogados os Decretos-Leis n.os [279/84](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministro de 7 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 9 de Abril de 1991.**
+Promulgado em 9 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Abril de 1991.**
+Referendado em 12 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro do pessoal (artigo 19.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/094a00/22832289.pdf))](https://files.diariodarepublica.pt/1s/1991/04/094a00/22832289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/094a00/22832289.pdf)
 
 ## ANEXO II — Conteúdo funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/094a00/22832289.pdf))](https://files.diariodarepublica.pt/1s/1991/04/094a00/22832289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/094a00/22832289.pdf)
 
 Mapa a que se refere a alínea b) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/094a00/22832289.pdf))](https://files.diariodarepublica.pt/1s/1991/04/094a00/22832289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/094a00/22832289.pdf)

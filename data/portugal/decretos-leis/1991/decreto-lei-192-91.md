@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/116a00/27082714.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/192/1991/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1991-640076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ef1124d00eddf6c038a3df2a4f98131b30a5ecdeaac463ab0328cd257747a93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e0c65948a11ee0094a725c1cf2b8dcb05060e75f1c0326d32239275ccb63e8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,75 @@ relationships:
   target: pt:dre:636412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARACAO RECTIFICACAO 136/91, PUBLICADA NO DR.IS-A, 147.\07.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-06-29'
+- type: amended_by
+  target: pt:dre:496130:por
+  label: "Alterados os arts. 2.º, 3.º, 6.º, 9.º, 10.º e 11.º, aditados os arts. 6-A.º, 7-A.º e 8-A.º ao capítulo II e revogados\
+    \ a al. c) do nº 2 e o nº 5 do art. 8.º, pelo DEC LEI.18/94.1994.01.25.MA DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-1994-496130
+  date: '1994-01-25'
+- type: amended_by
+  target: pt:dre:331838:por
+  label: "Alteradas as escalas salariais pelo DR.7/2001.2001.05.28.MADRP, DR.IS-B [123] de 2001/MAI/28\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-2001-331838
+  date: '2001-05-28'
+- type: amended_by
+  target: pt:dre:636412:por
+  label: "Alterada a denominação da Inspecção Geral e Auditoria de Gestão, que passa a designar-se Inspecção-Geral de Agricultura\
+    \ e Pescas (IGAP), e revogado a partir de 01.08.2007, nos termos do art. 4º do Dec Lei 209/2006 de 27-Out, pelo DR.79/2007.30.07.2007.MADRP,\
+    \ DR.IS [145] de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/79-2007-636412
+  date: '2007-07-30'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:17Z'
   warnings: []
   errors: []
 ---
@@ -396,30 +455,30 @@ São revogados o [Decreto Regulamentar n.º 15/87](https://diariodarepublica.pt/
 
 Visto e aprovado em Conselho de Ministros de 4 de Abril de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
 
-**Promulgado em 24 de Abril de 1991.**
+Promulgado em 24 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Abril de 1991.**
+Referendado em 29 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 ## Anexo a que se refere o n.º 1 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/116a00/27082714.pdf))](https://files.diariodarepublica.pt/1s/1991/05/116a00/27082714.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/116a00/27082714.pdf)
 
 MAPA II
 
 ## Anexo a que se refere o n.º 2 artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/116a00/27082714.pdf))](https://files.diariodarepublica.pt/1s/1991/05/116a00/27082714.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/116a00/27082714.pdf)
 
 MAPA III
 
 ## Anexo a que se refere o n.º 2 do artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/116a00/27082714.pdf))](https://files.diariodarepublica.pt/1s/1991/05/116a00/27082714.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/116a00/27082714.pdf)

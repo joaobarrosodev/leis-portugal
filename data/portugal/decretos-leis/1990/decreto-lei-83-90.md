@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06100/12221225.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1990-333313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11b742be2921f661486d7131a90399d42e2c4a5bbd0bb6adc1918101938a0377
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fff95b6497891649efe28acb9626f61aabc607b0f9d9c521135ce4acba4848c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algarve
+- Centro das Taipas
+- Centro de Apoio à Toxicodependência
+- Centro de Estudos da Profilaxia da Droga
+- Criação de Serviços
+- Droga
+- Ministério da Saúde
+- Orgânica
+- Porto
+- Serviço de Prevenção e Tratamento da Toxicodependência
+- Toxicodependente
+- Transferência de Serviços
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:516491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693445:por
+  label: "Alterado o art. 8º, pelo DEC LEI.11/91.1991.01.09.MJ, DR.IS-A [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-1991-693445
+  date: '1991-01-09'
+- type: cites
+  target: pt:dre:177642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665896:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516491:por
+  label: "Revogado, com efeitos a 01.01.1994, e prorrogado, desde 20.03.1993 até 01.01.1994, o regime de instalação previsto\
+    \ no nº 1 do art. 2º, pelo DEC LEI.43/94.1994.02.17.MS, DR.IS-A [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-1994-516491
+  date: '1994-02-17'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:51Z'
   warnings: []
   errors: []
 ---
@@ -210,12 +266,12 @@ Os encargos decorrentes da aplicação do presente diploma são suportados no ac
 
 Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 1990 - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 23 de Fevereiro de 1990.**
+Promulgado em 23 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Março de 1990.**
+Referendado em 2 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

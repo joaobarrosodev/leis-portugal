@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/12/28800/16031603.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18877-1961-184931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3528ce6de0b1216e7c4e6fb20f700efbae591be258ee5c02f80c3fd0136d923d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 361c0ab9d6bd241e40084290454efaaf30a09a839cb458f49ee90f756c68ba0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Prémio Escolar
+- Prémio Força Aérea Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:691189:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:678625:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:691189:por
+  label: "Revogada pela PORT.563/72.1972.09.29.PC, DG.IS [228]U\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/563-1972-691189
+  date: '1972-09-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:18Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +104,10 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáu
 
 REGULAMENTO DO PRÉMIO FORÇA AÉREA PORTUGUESA
 
-###### Artigo 1.º O Prémio Força Aérea Portuguesa destina-se a galardoar, em cada ano, o aspirante a oficial da Força Aérea Brasileira que obtenha a classificação mais elevada no curso de saída da respectiva Escola de Aeronáutica.
+Artigo 1.º O Prémio Força Aérea Portuguesa destina-se a galardoar, em cada ano, o aspirante a oficial da Força Aérea Brasileira que obtenha a classificação mais elevada no curso de saída da respectiva Escola de Aeronáutica.
 
-###### Art. 2.º O Prémio Força Aérea Portuguesa será atribuído pelo chefe do Estado-Maior da Força Aérea Portuguesa por indicação do chefe do Estado-Maior da Força Aérea Brasileira.
+Art. 2.º O Prémio Força Aérea Portuguesa será atribuído pelo chefe do Estado-Maior da Força Aérea Portuguesa por indicação do chefe do Estado-Maior da Força Aérea Brasileira.
 
-###### Art. 3.º O Prémio Força Aérea Portuguesa é constituído pela medalha de mérito militar (3.ª classe) e o punhal descrito no artigo 95.º, alínea b), do [Decreto n.º 39833](https://diariodarepublica.pt/dr/detalhe/decreto/39833-1954-678625), de 1 de Outubro de 1954, tendo gravados na bainha o nome e patente do premiado e mais os seguintes dizeres: «Prémio Força Aérea Portuguesa - 19 ...».
+Art. 3.º O Prémio Força Aérea Portuguesa é constituído pela medalha de mérito militar (3.ª classe) e o punhal descrito no artigo 95.º, alínea b), do [Decreto n.º 39833](https://diariodarepublica.pt/dr/detalhe/decreto/39833-1954-678625), de 1 de Outubro de 1954, tendo gravados na bainha o nome e patente do premiado e mais os seguintes dizeres: «Prémio Força Aérea Portuguesa - 19 ...».
 
 Secretaria de Estado da Aeronáutica, 14 de Dezembro de 1961. - O Secretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.

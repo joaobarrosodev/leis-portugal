@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/03700/05820584.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,145 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1990-334646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fb39ed5e7117c1009f076514635c419735eca2b8bdc2a6e8249f9034af38199
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16bfda33257d6dd607894259dfa4c3be7c2e5f273469f21dd67866ffc793055a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Consultiva do Mercado da Carne de Aves
+- Comissão Consultiva do Mercado da Carne de Bovino
+- Comissão Consultiva do Mercado da Carne de Suíno
+- Comissão Consultiva do Mercado da Carne dos Pequenos Ruminantes
+- Comissão Consultiva do Mercado dos Ovos
+- Comissão Permanente da Produção e Comercialização da Banana
+- Comissão Permanente da Produção e Comercialização do Ananás
+- Comissão Permanente da Produção Transformação e Comércio do Tomate
+- Comissão Permanente de Abastecimento de Leite e Lacticínios
+- Conselho Consultivo da Produção e Comercialização da Banana
+- Conselho Consultivo da Produção e Comercialização do Ananás
+- Definição de Competências
+- Direcção Geral dos Mercados Agrícolas e da Indústria Agro-alimentar
+- Estatuto
+- Extinção de Serviços
+- Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Ministério da Agricultura Pescas e Alimentação
+- Orgânica
+- Secretariado Agrícola para as Relações Europeias
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:152367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:198118:por
+  label: "Revogado o Dec Lei 282/88, de 12-Ago na redacção dada pelo presente diploma, pelo DEC LEI.78/98.1998.03.27.MADRP,\
+    \ DR.IS-A [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1998-198118
+  date: '1998-03-27'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:16Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +202,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criada, no Ministério da Agricultura, Pescas e Alimentação, a Direcção-Geral dos Mercados Agrícolas e da Indústria Agro-Alimentar, abreviadamente designada por DGMAIAA, dotada de personalidade jurídica e autonomia administrativa.
+Artigo 1.º É criada, no Ministério da Agricultura, Pescas e Alimentação, a Direcção-Geral dos Mercados Agrícolas e da Indústria Agro-Alimentar, abreviadamente designada por DGMAIAA, dotada de personalidade jurídica e autonomia administrativa.
 
-###### Art. 2.º - 1 - São atribuições da DGMAIAA:
+Art. 2.º - 1 - São atribuições da DGMAIAA:
 
 a) Apoiar o Ministro da Agricultura, Pescas e Alimentação na formulação e concretização da política agrícola no âmbito dos mercados agrícolas e da indústria e comercialização agro-alimentares;
 
@@ -131,11 +236,11 @@ i) Elaborar programas e planos com vista à aplicação à indústria e à comer
 
 j) Emitir parecer sobre os projectos candidatos aos sistemas referidos na alínea anterior.
 
-###### Art. 3.º - 1 - As normas regulamentares necessárias à execução do presente diploma, bem como o regime e os quadros de pessoal da DGMAIAA, serão aprovadas por decreto regulamentar.
+Art. 3.º - 1 - As normas regulamentares necessárias à execução do presente diploma, bem como o regime e os quadros de pessoal da DGMAIAA, serão aprovadas por decreto regulamentar.
 
 2 - É criado o lugar de director-geral.
 
-###### Art. 4.º Os encargos resultantes da execução do presente diploma serão suportados, consoante os casos, por transferência das correspondentes verbas dos orçamentos aprovados para os Instituto Nacional de Intervenção e Garantia Agrícola, Instituto Regulador e Orientador dos Mercados Agrícolas, Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares e Secretariado Agrícola para as Relações Europeias.
+Art. 4.º Os encargos resultantes da execução do presente diploma serão suportados, consoante os casos, por transferência das correspondentes verbas dos orçamentos aprovados para os Instituto Nacional de Intervenção e Garantia Agrícola, Instituto Regulador e Orientador dos Mercados Agrícolas, Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares e Secretariado Agrícola para as Relações Europeias.
 
 Ar. 5.º - 1 - São extintos os seguintes organismos:
 
@@ -149,11 +254,11 @@ b) Secretariado Agrícola para as Relações Europeias.
 
 4 - As transições de pessoal a que se refere o número anterior far-se-ão mediante lista nominativa aprovada por despacho do Ministro da Agricultura, Pescas e Alimentação, sem dependência de quaisquer outras formalidades, incluindo o visto do Tribunal de Contas, salvo anotação e publicação no Diário da República.
 
-###### Art. 6.º - 1 - São transferidas para a DGMAIAA todas as atribuições e competências no domínio da gestão dos mercados agrícolas e da concepção, proposta e elaboração dos respectivos mecanismos de orientação, regularização e organização que haviam sido conferidas ao IROMA e posteriormente ao INGA por qualquer disposição legal ou administrativa, incluindo aquelas que, neste mesmo âmbito, haviam anteriormente sido conferidas aos organismos de coordenação económica extintos pelo [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro.
+Art. 6.º - 1 - São transferidas para a DGMAIAA todas as atribuições e competências no domínio da gestão dos mercados agrícolas e da concepção, proposta e elaboração dos respectivos mecanismos de orientação, regularização e organização que haviam sido conferidas ao IROMA e posteriormente ao INGA por qualquer disposição legal ou administrativa, incluindo aquelas que, neste mesmo âmbito, haviam anteriormente sido conferidas aos organismos de coordenação económica extintos pelo [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro.
 
 2 - Para o pleno cumprimento do disposto no número anterior, são transferidos para a DGMAIAA, sem a observância de outras formalidades, os arquivos, documentos e processos em poder do INGA relativos à prossecução das atribuições e competências da DGMAIAA.
 
-###### Art. 7.º - 1 - São transferidas para a DGMAIAA todas as atribuições e competências que se encontravam conferidas aos organismos de coordenação económica extintos pelo artigo 12.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro, relativamente às seguintes comissões e conselhos:
+Art. 7.º - 1 - São transferidas para a DGMAIAA todas as atribuições e competências que se encontravam conferidas aos organismos de coordenação económica extintos pelo artigo 12.º do [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro, relativamente às seguintes comissões e conselhos:
 
 a) Comissão Consultiva do Mercado da Carne de Suíno, a que se refere a [Portaria n.º 609/81](https://diariodarepublica.pt/dr/detalhe/portaria/609-1981-579773), de 20 de Julho;
 
@@ -181,9 +286,9 @@ m) Conselho Consultivo da Produção e Comercialização do Ananás, a que se re
 
 2 - A Comissão do Mercado do Lúpulo, criada pelo despacho conjunto dos Secretários de Estado da Alimentação, da Agricultura e do Comércio Interno de 21 de Fevereiro de 1986, publicado no Diário da República, 2.ª série, n.º 55, de 7 de Março de 1986, passa a funcionar na dependência da DGMAIAA.
 
-###### Art. 8.º Os artigos 4.º, 5.º, 6.º e 26.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, passam a ter a seguinte redacção:
+Art. 8.º Os artigos 4.º, 5.º, 6.º e 26.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 a) A execução das acções necessárias à aplicação dos instrumentos de orientação e regularização dos mercados agrícolas, de acordo com as orientações das entidades competentes no âmbito da gestão das organizações de mercado a que se encontram submetidos os produtos agrícolas, pecuários e da pesca;
 
@@ -191,7 +296,7 @@ b) ...
 
 c) ...
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 a) Aplicação dos instrumentos de orientação e regularização dos mercados agrícolas, nos termos definidos pelas entidades competentes para a gestão das respectivas organizações de mercado;
 
@@ -211,7 +316,7 @@ h) ...
 
 2 - ...
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 a) Executar as acções necessárias à aplicação e processamento dos instrumentos de orientação e regularização dos mercados agrícolas, nos termos definidos pelas entidades competentes para a gestão das organizações nacionais e comuns dos mercados;
 
@@ -235,7 +340,7 @@ j) ...
 
 l) ...
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 2 - São conferidas ao INGA as atribuições e competências relativas à aplicação dos mecanismos previstos nas organizações nacionais e comuns dos mercados agrícolas e pecuários nos domínios da intervenção, concessão de ajudas, prémios e subsídios e da regulação do comércio externo em geral dos produtos agrícolas e pecuários.
 
@@ -249,7 +354,7 @@ l) ...
 
 7 - ...
 
-###### Art. 9.º Com a entrada em vigor da regulamentação prevista no artigo 3.º do presente diploma são revogadas as seguintes normas legais:
+Art. 9.º Com a entrada em vigor da regulamentação prevista no artigo 3.º do presente diploma são revogadas as seguintes normas legais:
 
 a) Artigos 3.º, n.os 2, alínea c), e 4, alínea d), e 5.º, n.os 1, alínea c), e 3, alínea d), do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro;
 
@@ -261,16 +366,16 @@ d) [Decreto Regulamentar n.º 14/87](https://diariodarepublica.pt/dr/detalhe/dec
 
 e) Artigos 4.º, alínea c), 5.º, alíneas g) e h), 6.º, alíneas b), c), d) e l), 7.º, alínea b), 12.º, 13.º, 26.º, n.os 1 e 6, e 27.º, todos do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto.
 
-###### Art. 10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 10.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 1 de Fevereiro de 1990.**
+Promulgado em 1 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Fevereiro de 1990.**
+Referendado em 5 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

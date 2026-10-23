@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/078a00/17101713.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/134/1991/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1991-622125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bbbc33e15838776fd413d51d71055602d8fc6fb97fcb103d896cadb3277d88a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6852868ca6adf545832d050d8b99d1af26cc9e9fbaef639574d7444d3b79c727
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,112 @@ relationships:
   target: pt:dre:70508971:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECL-RECT 70/91 DE 30-ABR DR.IS-A [99]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-04-30'
+- type: amended_by
+  target: pt:dre:663765:por
+  label: "Alterados os arts. 1º, 5º, 21º, aditado o art. 12º-A e revogado o nº 3 do art. 21º, os nºs 4 e 5 do art. 22º e art.\
+    \ 28º, pelo DEC LEI.264/95.1995.10.12.MDN, DR.IS-A [236]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-1995-663765
+  date: '1995-10-12'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Sujeitado a superintendência conjunta, cabendo a tutela funcional e patrimonial ao Ministro dos Negócios Estrangeiros\
+    \ e das Comunidades Portuguesas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação\
+    \ exercida em articulação com o Ministro da Ciência e do Ensino Superior, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Sujeitado a superintendência conjunta cabendo a tutela funcional e patrimonial ao Ministro de Estado e da Defesa\
+    \ Nacional e dos Assuntos do Mar e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação\
+    \ exercida em articulação com o Ministro da Ciência, Inovação e Ensino Superior, pelo DEC LEI.215-A/2004.03.09.2004.PCM,\
+    \ DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que a definição das orientações estratégicas, bem como o acompanhamento da execução do Instituto, cuja\
+    \ orgânica foi aprovada no presente diploma, seja exercida pelo Ministro da Defesa Nacional em articulação com o Ministro\
+    \ da Ciência, Tecnologia e Ensino Superior, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que seja exercida pelo Ministério da Defesa Nacional em articulação com a Ministra da Agricultura, do\
+    \ Mar, Ambiente e Ordenamento do Terriório, e com o Ministro da Educação e Ciência a competência relativa às orientações\
+    \ estratégicas, bem como o acompanhamento da sua execução, para o Instituto Hidrográfico, cuja orgânica consta do presente\
+    \ diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinado que a competência relativa à definição das orientações estratégicas para o Instituto Hidrográfico, bem\
+    \ como o acompanhamento da sua execução, sejam exercidos pelo Ministro da Defesa Nacional, em articulação com a Ministra\
+    \ da Agricultura e do Mar e com o Ministro da Educação e Ciência, pelo DEC LEI.119/2013.21.08.2013.PCM, DR.IS [160] de\
+    \ 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: cites
+  target: pt:dre:139263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681217:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70508971:por
+  label: Revogado, na redação do Dec Lei 264/95, de 12-out, pelo(a) Decreto-Lei n.º 230/2015 - Diário da República n.º 199/2015,
+    Série I de 2015-10-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2015-70508971
+  date: '2015-10-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:56Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +202,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Instituto Hidrográfico, abreviadamente designado por IH, é um organismo da Marinha, funcionando na directa dependência do Chefe do Estado-Maior da Armada, dotado de autonomia administrativa.
+Artigo 1.º O Instituto Hidrográfico, abreviadamente designado por IH, é um organismo da Marinha, funcionando na directa dependência do Chefe do Estado-Maior da Armada, dotado de autonomia administrativa.
 
-###### Art. 2.º - 1 - O IH tem por missão fundamental assegurar actividades relacionadas com as ciências e técnicas do mar, tendo em vista a sua aplicação na área militar, e contribuir para o desenvolvimento do País nas áreas científica e de defesa do ambiente marinho.
+Art. 2.º - 1 - O IH tem por missão fundamental assegurar actividades relacionadas com as ciências e técnicas do mar, tendo em vista a sua aplicação na área militar, e contribuir para o desenvolvimento do País nas áreas científica e de defesa do ambiente marinho.
 
 2 - Para efeitos do disposto no número anterior, constituem atribuições do IH, entre outras:
 
@@ -132,19 +228,19 @@ h) Representar o País em organizações internacionais da especialidade.
 
 4 - O IH pode celebrar com pessoas singulares ou colectivas, públicas ou privadas, nacionais ou estrangeiras, contratos de investigação ou de prestação de serviços no âmbito das suas actividades, nos termos da lei geral.
 
-###### Art. 3.º - 1 - O IH é obrigatoriamente consultado sobre os projectos ou planos de alumiamento ou balizagem de costas, portos e canais navegáveis, a realizar em qualquer ponto do território nacional.
+Art. 3.º - 1 - O IH é obrigatoriamente consultado sobre os projectos ou planos de alumiamento ou balizagem de costas, portos e canais navegáveis, a realizar em qualquer ponto do território nacional.
 
 2 - Quando consultado, também se pronunciará sobre obras de hidráulica marítima, de dragagens e outras que possam alterar o regime hidráulico dos portos e barras e sobre as acções ou trabalhos que possam originar poluição marinha.
 
 3 - O IH deve ser obrigatoriamente informado pela entidade responsável pela sua elaboração sobre a execução de todos os projectos, obras e trabalhos que possam afectar cartas ou planos hidrográficas editados ou a editar, bem como de todos os levantamentos topográficos das áreas cartografadas, a fim de serem considerados para efeitos de segurança e actualização dos documentos náuticos.
 
-###### Art. 4.º A edição, promulgação e cancelamento de cartas marítimas referentes às áreas assinaladas na alínea a) do n.º 2 do artigo 2.º e demais documentos náuticos nacionais são da competência exclusiva do IH.
+Art. 4.º A edição, promulgação e cancelamento de cartas marítimas referentes às áreas assinaladas na alínea a) do n.º 2 do artigo 2.º e demais documentos náuticos nacionais são da competência exclusiva do IH.
 
 ### CAPÍTULO II — Órgãos, serviços e suas competências
 
 #### SECÇÃO I — Órgãos
 
-###### Art. 5.º O IH dispõe dos seguintes órgãos:
+Art. 5.º O IH dispõe dos seguintes órgãos:
 
 a) O director-geral;
 
@@ -152,9 +248,9 @@ b) O conselho científico e técnico;
 
 c) O conselho administrativo.
 
-###### Art. 6.º O director-geral do IH é um vice-almirante, de preferência com a qualificação de engenheiro hidrógrafo, nomeado por despacho conjunto do Primeiro-Ministro e do Ministro da Defesa Nacional, ouvido o Chefe do Estado-maior da Armada, por períodos de três anos, renováveis.
+Art. 6.º O director-geral do IH é um vice-almirante, de preferência com a qualificação de engenheiro hidrógrafo, nomeado por despacho conjunto do Primeiro-Ministro e do Ministro da Defesa Nacional, ouvido o Chefe do Estado-maior da Armada, por períodos de três anos, renováveis.
 
-###### Art. 7.º - 1 - Compete ao director-geral:
+Art. 7.º - 1 - Compete ao director-geral:
 
 a) Dirigir, coordenar e inspeccionar as actividades e serviços do IH;
 
@@ -176,9 +272,9 @@ i) Exercer a autoridade que lhe for delegada pelo Chefe do Estado-Maior da Armad
 
 2 - O director-geral é coadjuvado e substituído nas suas ausências e impedimentos pelo subdirector-geral.
 
-###### Art. 8.º O subdirector-geral do IH é nomeado pelo Ministro da Defesa Nacional, sob proposta do Chefe do Estado-Maior da Armada, por períodos de três anos, renováveis, de entre individualidades de reconhecida competência, devendo, quando se tratar de militar, a nomeação recair sobre um capitão-de-mar-e-guerra com a qualificação de engenheiro hidrógrafo.
+Art. 8.º O subdirector-geral do IH é nomeado pelo Ministro da Defesa Nacional, sob proposta do Chefe do Estado-Maior da Armada, por períodos de três anos, renováveis, de entre individualidades de reconhecida competência, devendo, quando se tratar de militar, a nomeação recair sobre um capitão-de-mar-e-guerra com a qualificação de engenheiro hidrógrafo.
 
-###### Art. 9.º - 1 - O conselho científico e técnico (CCT) tem a seguinte constituição:
+Art. 9.º - 1 - O conselho científico e técnico (CCT) tem a seguinte constituição:
 
 a) O director-geral do IH, que preside;
 
@@ -190,13 +286,13 @@ c) 10 vogais designados pelo Chefe do Estado-Maior da Armada, sob proposta do di
 
 3 - O presidente designa o secretário do conselho.
 
-###### Art. 10.º - 1 - O CCT é um órgão consultivo que tem como atribuições a apreciação dos programas, dos relatórios de actividade científica e técnica e dos assuntos que lhe sejam submetidos pelo director-geral.
+Art. 10.º - 1 - O CCT é um órgão consultivo que tem como atribuições a apreciação dos programas, dos relatórios de actividade científica e técnica e dos assuntos que lhe sejam submetidos pelo director-geral.
 
 2 - O CCT reúne ordinariamente duas vezes por ano e extraordinariamente sempre que para o efeito seja convocado pelo director-geral, sendo necessário para que possa funcionar que esteja presente a maioria dos seus membros.
 
 3 - Os pareceres do CCT serão aprovados por maioria de votos dos membros presentes, dispondo o director-geral de voto de qualidade em caso de empate.
 
-###### Art. 11.º O conselho administrativo tem a seguinte constituição:
+Art. 11.º O conselho administrativo tem a seguinte constituição:
 
 a) O director-geral do IH, que preside;
 
@@ -206,7 +302,7 @@ c) O director dos Serviços Administrativos e Financeiros;
 
 d) Um oficial da classe de administração naval, a prestar serviço no IH, que desempenhe as funções de secretário-tesoureiro.
 
-###### Art. 12.º - 1 - São atribuições do conselho administrativo, nomeadamente:
+Art. 12.º - 1 - São atribuições do conselho administrativo, nomeadamente:
 
 a) Autorizar a adjudicação e contratação de estudos, obras, trabalhos, serviços e fornecimentos indispensáveis ao funcionamento dos serviços;
 
@@ -238,7 +334,7 @@ b) Pela falta de cumprimento de quaisquer prescrições regulamentares ou legais
 
 #### SECÇÃO II — Serviços
 
-###### Art. 13.º Para a prossecução das suas atribuições, o IH compreende:
+Art. 13.º Para a prossecução das suas atribuições, o IH compreende:
 
 a) A Direcção Técnica;
 
@@ -254,7 +350,7 @@ f) A Direcção dos Serviços Administrativos e Financeiros;
 
 g) A Direcção dos Serviços de Apoio.
 
-###### Art. 14.º À Direcção Técnica incumbe, designadamente:
+Art. 14.º À Direcção Técnica incumbe, designadamente:
 
 a) Efectuar a programação dos planos das actividades técnicas e científicas do IH;
 
@@ -280,7 +376,7 @@ c) Coordenar a actividade do IH com as universidades e estabelecimentos de ensin
 
 d) Apreciar ou propor, conforme aplicável, os programas sectoriais de trabalhos, as obras, os estudos e os projectos que se relacionem com a actividade do IH.
 
-###### Art. 15.º - 1 - Aos núcleos de investigação incumbe, nomeadamente:
+Art. 15.º - 1 - Aos núcleos de investigação incumbe, nomeadamente:
 
 a) Desenvolver projectos de investigação científica em áreas ou domínios da ciência e técnicas do mar, contribuindo para o conhecimento e avaliação dos recursos nacionais e o desenvolvimento e aplicação de novos métodos e técnicas relacionados com as actividades do IH;
 
@@ -290,25 +386,25 @@ c) Realizar estudos sobre temas específicos que lhe sejam solicitados.
 
 2 - Os núcleos de investigação são organizados numa base funcional e conforme as afinidades das diferentes matérias que integram de acordo com os trabalhos a desenvolver, sendo coordenados por um investigador e ainda integrando outros investigadores, técnicos e outro pessoal, sendo a sua activação, objectivos, composição e regras de funcionamento determinados pelo director-geral do IH, ouvido o CCT.
 
-###### Art. 16.º - 1 - Incumbe às missões e brigadas hidrográficas a execução, no mar ou no campo, dos estudos e trabalhos hidrográficos e oceanográficos necessários às actividades do IH.
+Art. 16.º - 1 - Incumbe às missões e brigadas hidrográficas a execução, no mar ou no campo, dos estudos e trabalhos hidrográficos e oceanográficos necessários às actividades do IH.
 
 2 - Os serviços referidos no número anterior designam-se por missões hidrográficas (MH) quando funcionem sem o apoio directo do IH e por brigadas hidrográficas (BH) quando as suas actividades se desenvolvam com o apoio directo do IH ou de uma MH.
 
 3 - As MH e as BH são criadas ou extintas por portaria do Ministro da Defesa Nacional, sob proposta do Chefe do Estado-Maior da Armada, que as activa ou desactiva de acordo com o planeamento de trabalhos, ouvido o director-geral do IH, que fixará os objectivos, prazos e composição das mesmas.
 
-###### Art. 17.º - 1 - A Escola de Hidrografia e Oceanografia (EHO) tem como atribuições a realização de cursos com vista à formação de técnicos necessários às actividades hidrográficas e oceanográficas do IH ou que, relacionadas com estas, interessam à Marinha ou ao País.
+Art. 17.º - 1 - A Escola de Hidrografia e Oceanografia (EHO) tem como atribuições a realização de cursos com vista à formação de técnicos necessários às actividades hidrográficas e oceanográficas do IH ou que, relacionadas com estas, interessam à Marinha ou ao País.
 
 2 - A EHO depende do director-geral do IH, sem prejuízo da autoridade funcional do superintendente dos Serviços do Pessoal da Armada na área da instrução.
 
-###### Art. 18.º À Direcção dos Serviços de Documentação incumbe o planeamento, coordenação e execução da divulgação interna da documentação e da informação científica e tecnológica relacionadas com as actividades do IH, bem como a promoção da difusão externa dos conhecimentos e resultados obtidos pelo IH.
+Art. 18.º À Direcção dos Serviços de Documentação incumbe o planeamento, coordenação e execução da divulgação interna da documentação e da informação científica e tecnológica relacionadas com as actividades do IH, bem como a promoção da difusão externa dos conhecimentos e resultados obtidos pelo IH.
 
-###### Art. 19.º À Direcção dos Serviços Administrativos e Financeiros incumbe garantir o planeamento, coordenação e execução das actividades do IH relativas à gestão administrativa, financeira e patrimonial do IH.
+Art. 19.º À Direcção dos Serviços Administrativos e Financeiros incumbe garantir o planeamento, coordenação e execução das actividades do IH relativas à gestão administrativa, financeira e patrimonial do IH.
 
-###### Art. 20.º À Direcção dos Serviços de Apoio incumbe o planeamento, coordenação e execução das actividades de apoio ao funcionamento do IH e à segurança e conservação das instalações.
+Art. 20.º À Direcção dos Serviços de Apoio incumbe o planeamento, coordenação e execução das actividades de apoio ao funcionamento do IH e à segurança e conservação das instalações.
 
 ### CAPÍTULO III — Administração financeira e patrimonial
 
-###### Art. 21.º - 1 - A administração financeira e patrimonial do IH orientar-se-á pelos seguintes instrumentos de gestão provisional:
+Art. 21.º - 1 - A administração financeira e patrimonial do IH orientar-se-á pelos seguintes instrumentos de gestão provisional:
 
 a) Plano anual de actividades;
 
@@ -318,7 +414,7 @@ b) Orçamento anual de receitas e despesas.
 
 3 - As receitas do IH podem ser afectadas aos seus fins.
 
-###### Art. 22.º - 1 - Além das receitas do Orçamento do Estado, são receitas consignadas ao IH as seguintes:
+Art. 22.º - 1 - Além das receitas do Orçamento do Estado, são receitas consignadas ao IH as seguintes:
 
 a) O produto das retribuições percebidas devido à celebração de contratos, prestação de serviços e fornecimento de artigos a entidades públicas ou privadas;
 
@@ -350,27 +446,27 @@ b) Construção, modernização, reparação, manutenção e operação das unid
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 23.º - 1 - Os efectivos do pessoal militar do IH são fixados no respectivo quadro, designado por lotação, a aprovar por despacho do Chefe do Estado-Maior da Armada.
+Art. 23.º - 1 - Os efectivos do pessoal militar do IH são fixados no respectivo quadro, designado por lotação, a aprovar por despacho do Chefe do Estado-Maior da Armada.
 
 2 - O quadro do pessoal civil é aprovado por portaria conjunta dos Ministros da Defesa Nacional e das Finanças, sob proposta do Chefe do Estado-Maior da Armada, ouvido o director-geral do IH.
 
-###### Art. 24.º - 1 - É criada a carreira de investigação científica no quadro do pessoal civil referido no artigo anterior, de modo a permitir as actividades que, no domínio de investigação científica, o IH desenvolva de forma sistemática.
+Art. 24.º - 1 - É criada a carreira de investigação científica no quadro do pessoal civil referido no artigo anterior, de modo a permitir as actividades que, no domínio de investigação científica, o IH desenvolva de forma sistemática.
 
 2 - O regime da carreira de investigação científica é regulado pelo [Decreto-Lei n.º 68/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1988-287589), de 3 de Março.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 25.º O pessoal do quadro do pessoal civil do IH transita na situação em que se encontra para os lugares do quadro de pessoal a aprovar pela portaria prevista no n.º 2 do artigo 23.º
+Art. 25.º O pessoal do quadro do pessoal civil do IH transita na situação em que se encontra para os lugares do quadro de pessoal a aprovar pela portaria prevista no n.º 2 do artigo 23.º
 
-###### Art. 26.º O pessoal do quadro do pessoal civil da Comissão Executiva do Polígono de Acústica Submarina dos Açores (CEPASA) transita com todos os seus direitos para o novo quadro de pessoal civil do IH constante da portaria a aprovar ao abrigo do n.º 2 do artigo 23.º
+Art. 26.º O pessoal do quadro do pessoal civil da Comissão Executiva do Polígono de Acústica Submarina dos Açores (CEPASA) transita com todos os seus direitos para o novo quadro de pessoal civil do IH constante da portaria a aprovar ao abrigo do n.º 2 do artigo 23.º
 
-###### Art. 27.º A antiguidade relativa do pessoal dos dois quadros a fundir será baseada no tempo de serviço na actual categoria, sendo contado, para todos os efeitos legais, o tempo de serviço prestado no quadro de origem.
+Art. 27.º A antiguidade relativa do pessoal dos dois quadros a fundir será baseada no tempo de serviço na actual categoria, sendo contado, para todos os efeitos legais, o tempo de serviço prestado no quadro de origem.
 
-###### Art. 28.º O processo de preparação e aprovação do orçamento privativo do IH, a respectiva prestação anual de contas e, de uma forma geral, toda a sua restante actividade financeira continuam a efectuar-se nos termos do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro, no respeito pelas normas da contabilidade pública sobre a proporção entre receitas próprias e despesas.
+Art. 28.º O processo de preparação e aprovação do orçamento privativo do IH, a respectiva prestação anual de contas e, de uma forma geral, toda a sua restante actividade financeira continuam a efectuar-se nos termos do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro, no respeito pelas normas da contabilidade pública sobre a proporção entre receitas próprias e despesas.
 
-###### Art. 29.º O regulamento interno do IH é aprovado pelo Ministro da Defesa Nacional.
+Art. 29.º O regulamento interno do IH é aprovado pelo Ministro da Defesa Nacional.
 
-###### Art. 30.º - 1 - São revogados:
+Art. 30.º - 1 - São revogados:
 
 a) [Decreto-Lei n.º 26/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1970-227230), de 15 de Janeiro;
 
@@ -394,12 +490,12 @@ c) [Decreto-Lei n.º 292/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Fernando Nunes Ferreira Real.
 
-**Promulgado em 20 de Março de 1991.**
+Promulgado em 20 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Março de 1991.**
+Referendado em 22 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

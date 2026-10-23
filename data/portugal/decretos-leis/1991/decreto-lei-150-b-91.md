@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 93/1991, 1º Suplemento, Série I-A de 1991-04-22
   number: '93'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2280-(3) a 2280-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/093a01/00030003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150-b/1991/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-b-1991-478049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 086a0934ba479bda7bc35f61c98f251ff73915bb11d1b3b1039eb29a2f3dfa4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42d039e6717404dd049aada4759be7df2bb6ec5c8c9c3c65865d73fc0637cfbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,33 @@ relationships:
   target: pt:dre:583436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619728:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:234318:por
+  label: "Revogado pelo DEC LEI.349/98.1998.11.11.MF, DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/349-1998-234318
+  date: '1998-11-11'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:26Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +125,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 7.º e 10.º do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º e 10.º do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 7.º — [...]
 
@@ -144,22 +161,22 @@ Uma parte dos juros devidos, sendo o valor restante adicionado ao capital em dí
 
 7 - ...
 
-###### Art. 2.º - 1 - Todas as remissões legais para a portaria a que se refere o artigo 8.º, n.º 2, do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, passam a considerar-se como feitas para o n.º 1 do artigo 10.º daquele diploma, na sua nova redacção agora estabelecida.
+Art. 2.º - 1 - Todas as remissões legais para a portaria a que se refere o artigo 8.º, n.º 2, do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, passam a considerar-se como feitas para o n.º 1 do artigo 10.º daquele diploma, na sua nova redacção agora estabelecida.
 
 2 - É revogado o n.º 2 do artigo 8.º do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro.
 
-###### Art. 3.º - 1 - O disposto no artigo 1.º aplica-se às operações autorizadas após a entrada em vigor do presente decreto-lei.
+Art. 3.º - 1 - O disposto no artigo 1.º aplica-se às operações autorizadas após a entrada em vigor do presente decreto-lei.
 
 2 - A possibilidade de alteração da periodicidade de reembolso poderá ainda aplicar-se às operações já autorizadas à data de entrada em vigor do presente diploma, devendo essa alteração das condições do empréstimo coincidir sempre com a mudança de período anual do mesmo.
 
 Visto e aprovado em Conselho de Ministros de 21 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 18 de Abril de 1991.**
+Promulgado em 18 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Abril de 1991.**
+Referendado em 19 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

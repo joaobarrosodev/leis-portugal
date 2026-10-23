@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1990-332410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf3c0c705e462623b0367c432072a5412dd5c5e5ba73ef13492ac06d55ec11be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a984aaa514d58b18f4f6367aaad17dfa044aa4a4ac73f5e5730661adba3da91a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização Legislativa
+- Contra-ordenação
+- Definição de Competências
+- Direcção Geral dos Recursos Hídricos
+- Domínio Público Hídrico
+- Extinção de Serviços
+- Instituto Nacional da ÁGUA
+- Licenciamento
+- Recursos Hídricos
+- Transferência de Pessoal
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:469068:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTO O INSTITUTO NACIONAL DA ÁGUA, PELO DEC LEI 187/93 DE 24-MAI DR.IS-A [120] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-24'
+- type: amended_by
+  target: pt:dre:515806:por
+  label: "Determinada a não aplicação do presente diploma, na matéria respeitante ao DEC LEI.46/94.1994.02.22.MARN, DR.IS-A\
+    \ [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1994-515806
+  date: '1994-02-22'
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547454:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469068:por
+  label: "Revogado o presente diploma, nos termos do nº2 do art. 98º, na data da entrada em vigor dos actos legislativos previstos\
+    \ nos nºs. 1 e 2 do art. 102º pela LEI.58/2005.29.12.2005.AR, DR.IS-A [249] de 29.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-2005-469068
+  date: '2005-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:36Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +170,11 @@ No uso de autorização legislativa concedida pelo artigo 1.º da [Lei n.º 92/8
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - O presente diploma define o regime de bens do domínio público hídrico do Estado, incluindo a respectiva administração e utilização.
+Artigo 1.º - 1 - O presente diploma define o regime de bens do domínio público hídrico do Estado, incluindo a respectiva administração e utilização.
 
 2 - O domínio público marítimo rege-se por legislação própria, sem prejuízo da aplicação das taxas e sanções previstas no presente diploma, tendo em vista o desenvolvimento de uma política coerente em matéria de qualidade das águas.
 
-###### Art. 2.º A administração do domínio público hídrico do Estado e do domínio hídrico privado rege-se pelos seguintes princípios:
+Art. 2.º A administração do domínio público hídrico do Estado e do domínio hídrico privado rege-se pelos seguintes princípios:
 
 a) Respeito pela bacia hidrográfica, conjuntos de bacias ou zonas consideradas afins numa óptica de utilização da água, como unidades de planeamento e gestão;
 
@@ -126,7 +186,7 @@ d) Articulação do planeamento e administração dos recursos hídricos com os 
 
 e) Definição da água como um bem de consumo ou factor de produção estruturante do desenvolvimento, a que é atribuído um valor e um custo.
 
-###### Art. 3.º O processo de planeamento deve observar os seguintes requisitos:
+Art. 3.º O processo de planeamento deve observar os seguintes requisitos:
 
 a) Globalidade, baseando-se numa abordagem conjunta e interligada dos aspectos técnicos, económicos, ambientais e institucionais;
 
@@ -138,7 +198,7 @@ d) Coordenação, visando a satisfação articulada de objectivos de curto, méd
 
 e) Participação, envolvendo agentes económicos e o público em geral e visando o alargamento de consensos.
 
-###### Art. 4.º A administração e gestão dos recursos hídricos desenvolve-se nos seguintes níveis:
+Art. 4.º A administração e gestão dos recursos hídricos desenvolve-se nos seguintes níveis:
 
 a) A nível central, pelo exercício de funções de coordenação nacional, de representação internacional e de promoção de grandes objectivos ou de iniciativas de dimensão nacional;
 
@@ -146,7 +206,7 @@ b) A nível de bacia ou região hidrográfica, onde se exercem funções de auto
 
 c) A nível sub-regional ou local, onde prevalecem os utilizadores dos recursos hídricos do domínio público hídrico, que promovem e realizam acções de fomento hidráulico, incluindo a realização e exploração de infra-estruturas hidráulicas.
 
-###### Art. 5.º - 1 - Sem prejuízo das competências atribuídas por lei a outros organismos, na administração dos recursos hídricos do Estado intervêm as seguintes entidades:
+Art. 5.º - 1 - Sem prejuízo das competências atribuídas por lei a outros organismos, na administração dos recursos hídricos do Estado intervêm as seguintes entidades:
 
 a) O Instituto Nacional da Água, abreviadamente designado por INAG, e respectivas administrações de recursos hídricos (ARHs);
 
@@ -164,7 +224,7 @@ c) Associações de utilizadores e utilizadores individuais.
 
 ### CAPÍTULO II — Utilização do domínio hídrico e fomento hidráulico
 
-###### Art. 6.º - 1 - É considerado utilização do domínio hídrico qualquer acto ou actividade que provoque alterações quantitativas ou qualitativas do estado das águas, leitos ou margens, nomeadamente captações ou desvios, retenção ou rebaixamento de nível, rejeição de efluentes ou adição de substâncias pontualmente ou de forma difusa, extracção de inertes e, bem assim, qualquer ocupação de espaço no domínio hídrico, qualquer que seja o seu fim.
+Art. 6.º - 1 - É considerado utilização do domínio hídrico qualquer acto ou actividade que provoque alterações quantitativas ou qualitativas do estado das águas, leitos ou margens, nomeadamente captações ou desvios, retenção ou rebaixamento de nível, rejeição de efluentes ou adição de substâncias pontualmente ou de forma difusa, extracção de inertes e, bem assim, qualquer ocupação de espaço no domínio hídrico, qualquer que seja o seu fim.
 
 2 - A utilização do domínio hídrico pode efectivar-se:
 
@@ -172,7 +232,7 @@ a) Em regime natural ou não estrutural, quando a utilização se opera directam
 
 b) Em regime artificial ou estrutural, quando a utilização se opera mediante a construção de infra-estruturas.
 
-###### Art. 7.º - 1 - Para efeitos do presente diploma, é considerado utilizador toda a pessoa singular ou colectiva que utiliza o domínio hídrico, em regime estrutural ou não estrutural, qualquer que seja o fim dessa utilização.
+Art. 7.º - 1 - Para efeitos do presente diploma, é considerado utilizador toda a pessoa singular ou colectiva que utiliza o domínio hídrico, em regime estrutural ou não estrutural, qualquer que seja o fim dessa utilização.
 
 2 - A utilização do domínio hídrico pode ter como fins:
 
@@ -182,7 +242,7 @@ b) A ocupação por quaisquer infraestruturas, designadamente as destinadas à p
 
 c) As descargas de substâncias líquidas ou sólidas.
 
-###### Art. 8.º - 1 - A utilização do domínio público hídrico do Estado carece de licenciamento, nos termos da lei.
+Art. 8.º - 1 - A utilização do domínio público hídrico do Estado carece de licenciamento, nos termos da lei.
 
 2 - São pressupostos gerais necessários de qualquer forma de licenciamento:
 
@@ -192,9 +252,9 @@ b) Abstenção da prática de actos ou actividades que inviabilizem usos alterna
 
 c) Não contradição com as orientações do planeamento da bacia ou região hidrográfica.
 
-###### Art. 9.º São consideradas de fomento hidráulico as acções estruturais ou não estruturais que conduzam a um aproveitamento do domínio hídrico ou que permitam a conservação e protecção da qualidade do meio hídrico.
+Art. 9.º São consideradas de fomento hidráulico as acções estruturais ou não estruturais que conduzam a um aproveitamento do domínio hídrico ou que permitam a conservação e protecção da qualidade do meio hídrico.
 
-###### Art. 10.º - 1 - Tendo em conta os fins a que se destinam, as acções de fomento hidráulico classificam-se em:
+Art. 10.º - 1 - Tendo em conta os fins a que se destinam, as acções de fomento hidráulico classificam-se em:
 
 a) Acções de fins únicos - as destinadas a um único tipo de utilização;
 
@@ -206,7 +266,7 @@ a) Acções individuais - as destinadas a um único utilizador;
 
 b) Acções colectivas - as destinadas a mais do que um utilizador.
 
-###### Art. 11.º - 1 - Considerando a dimensão e o âmbito em que se inserem, as acções de fomento hidráulico classificam-se em:
+Art. 11.º - 1 - Considerando a dimensão e o âmbito em que se inserem, as acções de fomento hidráulico classificam-se em:
 
 a) Acções de âmbito nacional;
 
@@ -224,11 +284,11 @@ d) Acções de âmbito particular.
 
 5 - O disposto nos números anteriores não prejudica os regimes especiais de classificação definidos na lei, nomeadamente o regime instituído pelo [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho.
 
-###### Art. 12.º - 1 - As acções de fomento hidráulico podem ser da iniciativa dos utilizadores interessados, individualmente ou associados.
+Art. 12.º - 1 - As acções de fomento hidráulico podem ser da iniciativa dos utilizadores interessados, individualmente ou associados.
 
 2 - Na ausência de iniciativa dos utilizadores poderá o Estado tomar a iniciativa de acções de elevado interesse sócio-económico, nomeadamente as obras de fins múltiplos e colectivos com impacte nacional e regional, sem prejuízo do disposto no artigo 14.º
 
-###### Art. 13.º No caso de acções do tipo estrutural em que se verifique construção de infra-estruturas hidráulicas de dimensão significativa podem considerar-se três grandes componentes, indissociáveis e com a seguinte sequência:
+Art. 13.º No caso de acções do tipo estrutural em que se verifique construção de infra-estruturas hidráulicas de dimensão significativa podem considerar-se três grandes componentes, indissociáveis e com a seguinte sequência:
 
 a) Obras primárias - elementos da obra destinados em geral a usos múltiplos e colectivos ou ao transporte de volumes significativos de água do local de captação para a zona de utilização;
 
@@ -236,9 +296,9 @@ b) Obras secundárias - elementos da obra destinados a uso colectivo, mas em ger
 
 c) Obras terciárias - elementos da obra destinados em geral a uso único e individual, que permitem o acesso directo à utilização da água.
 
-###### Art. 14.º As acções de iniciativa do Estado ou dos utilizadores dependem de acordo expresso destes quanto à realização do empreendimento e de todas as acções complementares necessárias à sua execução e financiamento, bem como da assunção das obrigações decorrentes da utilização do domínio público hídrico, da obrigação de amortizar o custo da obra e da garantia de assunção dos encargos de exploração e conservação.
+Art. 14.º As acções de iniciativa do Estado ou dos utilizadores dependem de acordo expresso destes quanto à realização do empreendimento e de todas as acções complementares necessárias à sua execução e financiamento, bem como da assunção das obrigações decorrentes da utilização do domínio público hídrico, da obrigação de amortizar o custo da obra e da garantia de assunção dos encargos de exploração e conservação.
 
-###### Art. 15.º - 1 - Os utilizadores que tomem a iniciativa de promover acções de fomento hidráulico devem obter previamente uma licença para utilização do domínio público hídrico.
+Art. 15.º - 1 - Os utilizadores que tomem a iniciativa de promover acções de fomento hidráulico devem obter previamente uma licença para utilização do domínio público hídrico.
 
 2 - A promoção de acções de fomento hidráulico por parte dos utilizadores pode ser feita exclusivamente com meios próprios ou mediante apoio técnico-financeiro da ARH com jurisdição na área respectiva.
 
@@ -252,7 +312,7 @@ c) Apresentar processo de candidatura do qual conste a demonstração de inviabi
 
 4 - As acções de fomento hidráulico que sejam feitas com o apoio técnico-financeiro da ARH com jurisdição na área respectiva são precedidas de celebração de contratos-programa, nos termos da lei geral.
 
-###### Art. 16.º Em função da dimensão e características do empreendimento, poderá a ARH fazer depender a licença de utilização do domínio público hídrico dos seguintes requisitos:
+Art. 16.º Em função da dimensão e características do empreendimento, poderá a ARH fazer depender a licença de utilização do domínio público hídrico dos seguintes requisitos:
 
 a) Estudo de viabilidade;
 
@@ -264,11 +324,11 @@ d) Modelo de financiamento;
 
 e) Modelo de gestão.
 
-###### Art. 17.º - 1 - A exploração e conservação de empreendimentos hidráulicos é da exclusiva responsabilidade dos utilizadores respectivos, que a poderão assegura directamente ou através de contrato com entidades prestadoras de serviços nesta área.
+Art. 17.º - 1 - A exploração e conservação de empreendimentos hidráulicos é da exclusiva responsabilidade dos utilizadores respectivos, que a poderão assegura directamente ou através de contrato com entidades prestadoras de serviços nesta área.
 
 2 - No caso de acções da iniciativa do Estado, deverão os empreendimentos, logo que aptos para utilização, ser entregues aos respectivos utilizadores, mediante licença de utilização.
 
-###### Art. 18.º - 1 - Os utilizadores de empreendimentos colectivos, de fins únicos ou múltiplos, podem constituir-se em associação com vista à exploração e conservação dos mesmos.
+Art. 18.º - 1 - Os utilizadores de empreendimentos colectivos, de fins únicos ou múltiplos, podem constituir-se em associação com vista à exploração e conservação dos mesmos.
 
 2 - As associações de utilizadores podem assegurar a realização dos fins referidos no número anterior directamente ou através de contratos com entidades prestadoras de serviços neste domínio.
 
@@ -276,7 +336,7 @@ e) Modelo de gestão.
 
 ### CAPÍTULO III — Financiamento e regime económico-financeiro da utilização do domínio público hídrico do Estado
 
-###### Art. 19.º - 1 - O custo das acções de fomento hidráulico de iniciativa dos utilizadores pode ser parcialmente financiado pelo Estado.
+Art. 19.º - 1 - O custo das acções de fomento hidráulico de iniciativa dos utilizadores pode ser parcialmente financiado pelo Estado.
 
 2 - O financiamento pelo Estado assume a forma de participação directa no investimento inicial, reembolsável ou a fundo perdido, ou de apoio na contratação de empréstimos.
 
@@ -284,7 +344,7 @@ e) Modelo de gestão.
 
 4 - O modelo de financiamento, incluindo o seu montante e forma, bem como o regime financeiro que lhe estiver associado, integra um contrato-programa a instituir entre a ARH e os utilizadores, sujeito às normas definidas neste diploma e outra legislação aplicável.
 
-###### Art. 20.º - 1 - O financiamento das acções de iniciativa do Estado repartir-se-á da seguinte forma:
+Art. 20.º - 1 - O financiamento das acções de iniciativa do Estado repartir-se-á da seguinte forma:
 
 a) O INAG poderá financiar, a fundo perdido, a componente das infra-estruturas primárias e acções complementares a elas associadas não imputáveis a nenhum uso específico, sem prejuízo de uma repartição dos demais encargos, total ou parcialmente, pelos sectores utilizadores;
 
@@ -294,17 +354,17 @@ b) Os utilizadores ou as entidades sectorialmente competentes asseguram o financ
 
 3 - Tanto o modelo de financiamento como o regime financeiro a vigorar para o empreendimento serão definidos no âmbito de um contrato-programa a instituir entre o INAG e as várias partes envolvidas, sujeito às normas definidas neste diploma e outra legislação aplicável.
 
-###### Art. 21.º - 1 - As utilizações do domínio público hídrico, incluindo a rejeição de efluentes, e qualquer que seja a natureza e personalidade jurídica do utilizador, estão sujeitas ao pagamento de uma taxa denominada «taxa de utilização».
+Art. 21.º - 1 - As utilizações do domínio público hídrico, incluindo a rejeição de efluentes, e qualquer que seja a natureza e personalidade jurídica do utilizador, estão sujeitas ao pagamento de uma taxa denominada «taxa de utilização».
 
 2 - A liquidação e cobrança da taxa referida no número anterior compete às ARHs, ficando a constituir receita própria destas, destinada ao financiamento de investimentos de protecção e melhoria dos recursos hídricos e à cobertura das suas despesas de exploração, sendo a respectiva repartição fixada no âmbito do processo de aprovação do plano e orçamentos anuais.
 
-###### Art. 22.º - 1 - Os beneficiários de infra-estruturas hidráulicas ou de saneamento básico estão sujeitos ao pagamento de uma taxa de exploração, conservação e beneficiação.
+Art. 22.º - 1 - Os beneficiários de infra-estruturas hidráulicas ou de saneamento básico estão sujeitos ao pagamento de uma taxa de exploração, conservação e beneficiação.
 
 2 - A liquidação e cobrança da taxa referida no número anterior compete às entidades gestoras das infra-estruturas, ficando a constituir receita própria destas e das entidades financiadoras dos investimentos, na proporção a estabelecer no decreto-lei previsto no artigo 32.º
 
 ### CAPÍTULO IV — Da fiscalização e punição das infracções
 
-###### Art. 23.º Constitui contra-ordenação punível com coima:
+Art. 23.º Constitui contra-ordenação punível com coima:
 
 a) Mínima de 100000$00 e máxima de 20000000$00, a execução de obras, infra-estruturas, plantações ou trabalhos de natureza diversa, em terrenos pertencentes ao domínio público hídrico, sem a competente licença;
 
@@ -342,15 +402,15 @@ r) Mínima de 1000000$00 e máxima de 200000000$00, o não acatamento das seguin
 
 s) Mínima de 100000$00 e máxima de 200000$00, a falta de cumprimento pelo licenciado das obrigações que lhe foram impostas pela licença.
 
-###### Art. 24.º Em função da gravidade da contra-ordenação, da culpa e da situação económica do agente, poderão ainda ser aplicadas as seguintes sanções acessórias às contra-ordenações previstas no artigo anterior:
+Art. 24.º Em função da gravidade da contra-ordenação, da culpa e da situação económica do agente, poderão ainda ser aplicadas as seguintes sanções acessórias às contra-ordenações previstas no artigo anterior:
 
 a) Suspensão de subsídios ou benefícios de qualquer natureza, atribuídos por entidades ou serviços públicos;
 
 b) Privação do direito de participação em conferências ou feiras nacionais ou estrangeiras com o intuito de dar publicidade aos seus produtos ou às suas actividades.
 
-###### Art. 25.º Como sanção acessória das contra-ordenações previstas no artigo 23.º, pode ser efectuada a apreensão de equipamentos ou de meios de acção que sirvam para a sua prática.
+Art. 25.º Como sanção acessória das contra-ordenações previstas no artigo 23.º, pode ser efectuada a apreensão de equipamentos ou de meios de acção que sirvam para a sua prática.
 
-###### Art. 26.º - 1 - Os infractores, incluindo as pessoas colectivas, são obrigados solidariamente, a todo o tempo, a repor a situação anterior à infracção.
+Art. 26.º - 1 - Os infractores, incluindo as pessoas colectivas, são obrigados solidariamente, a todo o tempo, a repor a situação anterior à infracção.
 
 2 - Se os infractores não cumprirem a obrigação referida no número anterior, pode ser determinada a demolição, obras e trabalhos necessários à reposição da situação anterior, apresentando nota das despesas efectuadas para cobrança aos infractores.
 
@@ -358,33 +418,33 @@ b) Privação do direito de participação em conferências ou feiras nacionais 
 
 4 - Em caso de não ser possível a reposição da situação anterior à infracção, os infractores indemnizarão o Estado pelos prejuízos causados.
 
-###### Art. 27.º - 1 - Nas contra-ordenações previstas neste diploma, a tentativa é sempre punível, sendo neste caso os limites da coima reduzidos a um terço.
+Art. 27.º - 1 - Nas contra-ordenações previstas neste diploma, a tentativa é sempre punível, sendo neste caso os limites da coima reduzidos a um terço.
 
 2 - Em caso de negligência o montante da coima não excederá metade do montante máximo previsto para a respectiva contra-ordenação.
 
-###### Art. 28.º - 1 - A determinação da medida da coima far-se-á em função da gravidade da contra-ordenação, da culpa e da situação económica do agente.
+Art. 28.º - 1 - A determinação da medida da coima far-se-á em função da gravidade da contra-ordenação, da culpa e da situação económica do agente.
 
 2 - Sem prejuízo dos limites máximos previstos neste diploma, a coima aplicada deverá, sempre que possível, exceder o benefício económico que o agente retirou ou se propunha retirar da prática da contra-ordenação.
 
 3 - Para efeitos do número anterior, atender-se-á ao lucro ilicitamente tentado ou, não sendo possível, ao valor corrente da actividade, acto ou facto que é objecto da contra-ordenação.
 
-###### Art. 29.º Sem prejuízo das competências cometidas por lei a outras entidades, compete ao INAG, através da administração da região hidrográfica territorialmente competente, a fiscalização do cumprimento das normas constantes do presente diploma.
+Art. 29.º Sem prejuízo das competências cometidas por lei a outras entidades, compete ao INAG, através da administração da região hidrográfica territorialmente competente, a fiscalização do cumprimento das normas constantes do presente diploma.
 
-###### Art. 30.º - 1 - A aplicação das coimas e sanções acessórias compete ao presidente do INAG.
+Art. 30.º - 1 - A aplicação das coimas e sanções acessórias compete ao presidente do INAG.
 
 2 - O INAG pode delegar a competência referida no número anterior na ARH, quando o montante das coimas não exceder 20000000$00.
 
-###### Art. 31.º - 1 - O produto das coimas reverterá para as administrações dos recursos hídricos com jurisdição na área da sua aplicação, ficando a constituir receitas próprias daquela entidade.
+Art. 31.º - 1 - O produto das coimas reverterá para as administrações dos recursos hídricos com jurisdição na área da sua aplicação, ficando a constituir receitas próprias daquela entidade.
 
 2 - As coimas que, de acordo com as disposições legais relativas à definição dos parâmetros da qualidade da água, sejam da competência da Direcção-Geral da Qualidade do Ambiente reverterão igualmente para a ARH com jurisdição na área respectiva, ficando a constituir receita própria desta entidade.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 32.º - 1 - A definição do regime económico e financeiro da utilização de bens de domínio público hídrico e das infra-estruturas hidráulicas, incluindo os critérios de fixação e isenção de taxas, será estabelecida em lei.
+Art. 32.º - 1 - A definição do regime económico e financeiro da utilização de bens de domínio público hídrico e das infra-estruturas hidráulicas, incluindo os critérios de fixação e isenção de taxas, será estabelecida em lei.
 
 2 - O estatuto orgânico do INAG e das ARHs, dos conselhos regionais da água e das associações de utilizadores é aprovado mediante decreto regulamentar.
 
-###### Art. 33.º - 1 - Com a publicação do estatuto orgânico referido no n.º 2 do artigo anterior, a Direcção-Geral dos Recursos Naturais (DGRN), criada pelo [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, é extinta, devendo as referências constantes da lei ou regulamento à DGRN ou aos serviços a que sucedeu nos termos do [Decreto-Lei n.º 246/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1987-419011), de 17 de Junho, considerar-se feitas ao INAG ou às ARHs, de harmonia com as atribuições e competências respectivas.
+Art. 33.º - 1 - Com a publicação do estatuto orgânico referido no n.º 2 do artigo anterior, a Direcção-Geral dos Recursos Naturais (DGRN), criada pelo [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, é extinta, devendo as referências constantes da lei ou regulamento à DGRN ou aos serviços a que sucedeu nos termos do [Decreto-Lei n.º 246/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1987-419011), de 17 de Junho, considerar-se feitas ao INAG ou às ARHs, de harmonia com as atribuições e competências respectivas.
 
 2 - A universalidade do património afecto, a qualquer título, à DGRN, incluindo todos os bens, direitos e obrigações, transita para o INAG, sem sujeição a qualquer formalidade, com excepção das relativas a actos de registo.
 
@@ -408,20 +468,20 @@ d) Para efeitos da aplicação das alíneas anteriores atender-se-á, em igualda
 
 8 - A fim de assegurar o regular funcionamento dos serviços, o pessoal presentemente ao serviço da DGRN manter-se-á transitoriamente em funções no INAG, na mesma situação, até à fixação da estrutura orgânica do INAG e à transição para os novos quadros.
 
-###### Art. 34.º Os bens, direitos e obrigações, bem como o pessoal afecto aos serviços regionais da DGRN, são transferidos, nos termos do artigo anterior, para as ARHs respectivas.
+Art. 34.º Os bens, direitos e obrigações, bem como o pessoal afecto aos serviços regionais da DGRN, são transferidos, nos termos do artigo anterior, para as ARHs respectivas.
 
-###### Art. 35.º - 1 - Enquanto o INAG e as ARHs não gerarem receitas próprias suficientes para cobrir dois terços das suas despesas, ficam sujeitos ao regime de autonomia administrativa, sem prejuízo do disposto no número seguinte.
+Art. 35.º - 1 - Enquanto o INAG e as ARHs não gerarem receitas próprias suficientes para cobrir dois terços das suas despesas, ficam sujeitos ao regime de autonomia administrativa, sem prejuízo do disposto no número seguinte.
 
 2 - As receitas próprias entretanto arrecadadas ficarão sujeitas ao regime de contas de ordem, aplicável nos termos do [Decreto-Lei n.º 489/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1982-381328), de 26 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 13 de Fevereiro de 1990.**
+Promulgado em 13 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Fevereiro de 1990.**
+Referendado em 15 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

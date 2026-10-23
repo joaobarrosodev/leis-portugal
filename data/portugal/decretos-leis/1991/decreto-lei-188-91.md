@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/113a00/26322635.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/188/1991/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1991-639482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94b83f56be1d81f3859ff3b0ef3d2ed51c36bd32c547ce1ff732b1e753742611
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 193def50847ce39ae04f35e3ff9d8578ac5f52c917edc86d1caeb53a21cfd153
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
 - Aproximação das Legislações
+- Atividade Seguradora
 - Seguro
 - Seguro de Créditos
 - Seguro RAMO não VIDA
@@ -84,16 +84,21 @@ relationships:
   target: celex:31987L0343
   label: null
   source: http://data.europa.eu/eli/dir/1987/343/oj
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:12Z'
   warnings: []
   errors: []
 ---
@@ -120,11 +125,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [87/343/CEE](https://data.europa.eu/eli/dir/1987/343/oj?locale=pt), do Conselho, que altera, no que diz respeito aos seguros de crédito e aos seguros de caução, a primeira Directiva n.º [73/239/CEE](https://data.europa.eu/eli/dir/1973/239/oj?locale=pt), relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguros directos não vida e ao seu exercício.
+Artigo único. - 1 - O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [87/343/CEE](https://data.europa.eu/eli/dir/1987/343/oj?locale=pt), do Conselho, que altera, no que diz respeito aos seguros de crédito e aos seguros de caução, a primeira Directiva n.º [73/239/CEE](https://data.europa.eu/eli/dir/1973/239/oj?locale=pt), relativa à coordenação das disposições legislativas, regulamentares e administrativas respeitantes ao acesso à actividade de seguros directos não vida e ao seu exercício.
 
 2 - Os artigos 3.º, 4.º, 5.º, 11.º, 12.º, 14.º, 23.º, 24.º, 25.º, 30.º, 33.º e 54.º do Decreto-Lei n.º 98/82, de 7 de Abril, com a redacção introduzida pelo Decreto-Lei n.º 452/85, de 28 de Outubro, e pelo Decreto-Lei n.º 125/86, de 2 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Para os efeitos do presente diploma, consideram-se «seguradoras» as empresas públicas, as sociedades anónimas, as mútuas ou cooperativas de seguros e as agências gerais de seguradoras estrangeiras, autorizadas, nos termos legais, para o exercício da actividade seguradora em Portugal.
+Art. 3.º - 1 - Para os efeitos do presente diploma, consideram-se «seguradoras» as empresas públicas, as sociedades anónimas, as mútuas ou cooperativas de seguros e as agências gerais de seguradoras estrangeiras, autorizadas, nos termos legais, para o exercício da actividade seguradora em Portugal.
 
 2 - São igualmente consideradas «seguradoras»:
 
@@ -132,13 +137,13 @@ a) As entidades referidas no número anterior relativamente à cobertura, em liv
 
 b) As empresas estabelecidas em qualquer outro Estado membro da Comunidade Económica Europeia que, nos termos da legislação aplicável, pretendam cobrir, em livre prestação de serviços, riscos situados em Portugal.
 
-###### Art. 4.º - 1 - As seguradoras sediadas em Portugal devem, para o conjunto da sua actividade, constituir e manter provisões técnicas, calculadas, nos termos dos artigos seguintes, em relação às responsabilidades decorrentes do exercício da sua actividade em Portugal, e, nos termos das normas legislativas e regulamentares dos respectivos países, em relação às responsabilidades decorrentes do exercício da actividade no estrangeiro, incluindo as resultantes dos contratos celebrados em livre prestação de serviços e cobrindo riscos situados no território de outros Estados membros da Comunidade Económica Europeia, se for caso disso.
+Art. 4.º - 1 - As seguradoras sediadas em Portugal devem, para o conjunto da sua actividade, constituir e manter provisões técnicas, calculadas, nos termos dos artigos seguintes, em relação às responsabilidades decorrentes do exercício da sua actividade em Portugal, e, nos termos das normas legislativas e regulamentares dos respectivos países, em relação às responsabilidades decorrentes do exercício da actividade no estrangeiro, incluindo as resultantes dos contratos celebrados em livre prestação de serviços e cobrindo riscos situados no território de outros Estados membros da Comunidade Económica Europeia, se for caso disso.
 
 2 - As agências gerais de seguradoras estrangeiras devem, nos termos dos artigos seguintes, constituir e manter provisões técnicas correspondentes às responsabilidades decorrentes do exercício da sua actividade em Portugal, e, nos termos das normas legislativas e regulamentares dos outros Estados membros da Comunidade Económica Europeia, em relação às responsabilidades resultantes dos contratos celebrados em livre prestação de serviços e cobrindo riscos situados no território desses Estados membros, se for caso disso.
 
 3 - As empresas estabelecidas em qualquer outro Estado membro da Comunidade Económica Europeia devem, nos termos dos artigos seguintes, constituir e manter provisões técnicas correspondentes às responsabilidades resultantes dos contratos celebrados em livre prestação de serviços e cobrindo riscos situados em território português, nos termos da legislação aplicável.
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 a) ...
 
@@ -152,7 +157,7 @@ e) ...
 
 f) Provisão para desvios de sinistralidade.
 
-###### Art. 11.º - 1 - A provisão para desvios de sinistralidade destina-se a fazer face à sinistralidade excepcionalmente elevada nos ramos de seguros, em que, pela sua natureza, se preveja que aquela tenha maiores oscilações.
+Art. 11.º - 1 - A provisão para desvios de sinistralidade destina-se a fazer face à sinistralidade excepcionalmente elevada nos ramos de seguros, em que, pela sua natureza, se preveja que aquela tenha maiores oscilações.
 
 2 - A provisão para desvios de sinistralidade, relativamente ao seguro de crédito, servirá para compensar a perda técnica eventual que surja no final de um exercício e será constituída, enquanto não atingir 150% do montante anual mais elevado da conta de prémios e seus adicionais dos cinco exercícios precedentes, por 75% do resultado técnico, num máximo de 12% dos prémios e adicionais do exercício.
 
@@ -184,7 +189,7 @@ Resultado técnico: (a) - (b).
 
 5 - Por portaria do Ministro das Finanças poderá ser determinada a constituição de uma provisão para desvios de sinistralidade para outros ramos de seguro, bem como o respectivo método de cálculo.
 
-###### Art. 12.º - 1 - As provisões técnicas descritas nos artigos anteriores devem, sem prejuízo do disposto no número seguinte, ser representadas na sua totalidade por activos, móveis ou imóveis, obrigatoriamente localizados em território português, nos seguintes casos:
+Art. 12.º - 1 - As provisões técnicas descritas nos artigos anteriores devem, sem prejuízo do disposto no número seguinte, ser representadas na sua totalidade por activos, móveis ou imóveis, obrigatoriamente localizados em território português, nos seguintes casos:
 
 a) Relativamente à actividade em Portugal das empresas estabelecidas no seu território;
 
@@ -194,7 +199,7 @@ c) Relativamente à actividade das empresas estabelecidas em qualquer outro Esta
 
 2 - ...
 
-###### Art. 14.º A representação das provisões técnicas deve ser comunicada ao Instituto de Seguros de Portugal até 30 de Abril de cada ano, com base na situação da seguradora no último dia do exercício imediatamente anterior, nos seguintes casos:
+Art. 14.º A representação das provisões técnicas deve ser comunicada ao Instituto de Seguros de Portugal até 30 de Abril de cada ano, com base na situação da seguradora no último dia do exercício imediatamente anterior, nos seguintes casos:
 
 a) Pelas seguradoras sediadas em Portugal relativamente à actividade exercida no seu território e, nos termos das normas legislativas e regulamentares dos respectivos países, em relação às responsabilidades decorrentes do exercício da actividade no estrangeiro, incluindo as resultantes dos contratos celebrados em livre prestação de serviços e cobrindo riscos situados no território de outros Estados membros da Comunidade Económica Europeia, se for caso disso;
 
@@ -202,7 +207,7 @@ b) Pelas agências gerais de seguradoras estrangeiras relativamente às responsa
 
 c) Pelas empresas estabelecidas em qualquer outro Estado membro da Comunidade Económica Europeia relativamente às responsabilidades resultantes dos contratos celebrados em livre prestação de serviços e cobrindo riscos situados em território português, nos termos da legislação aplicável.
 
-###### Art. 23.º ...
+Art. 23.º ...
 
 1) ...
 
@@ -212,7 +217,7 @@ c) Pelas empresas estabelecidas em qualquer outro Estado membro da Comunidade Ec
 
 4) ...
 
-###### Art. 24.º ...
+Art. 24.º ...
 
 1) ...
 
@@ -226,9 +231,9 @@ c) Pelas empresas estabelecidas em qualquer outro Estado membro da Comunidade Ec
 
 6) ...
 
-###### Art. 25.º Quando uma seguradora explore primordialmente apenas um ou vários dos riscos de crédito, tempestade, granizo ou geada, o período de referência para o valor médio anual dos sinistros, referidos no artigo anterior, é reportado aos sete últimos exercícios.
+Art. 25.º Quando uma seguradora explore primordialmente apenas um ou vários dos riscos de crédito, tempestade, granizo ou geada, o período de referência para o valor médio anual dos sinistros, referidos no artigo anterior, é reportado aos sete últimos exercícios.
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 1) ...
 
@@ -238,7 +243,7 @@ c) Pelas empresas estabelecidas em qualquer outro Estado membro da Comunidade Ec
 
 4) ...
 
-###### Art. 33.º - 1 - ...
+Art. 33.º - 1 - ...
 
 2 - Relativamente à actividade de seguros não vida:
 
@@ -262,16 +267,16 @@ c) Um prazo de sete anos para elevar o fundo de garantia ao contravalor em escud
 
 5 - Relativamente à actividade de seguros do ramo «Vida», o fundo de garantia é constituído pelo menos pelo contravalor em escudos de 800000 ECU ou 400000 ECU, consoante se trate, respectivamente, de uma empresa pública ou de uma sociedade anónima sediada em Portugal ou de uma agência geral de uma seguradora estrangeira.
 
-###### Art. 54.º O contravalor do ECU em escudos a ser tomado em consideração a partir de 31 de Dezembro de cada ano será o do último dia do mês de Outubro anterior para o qual estejam disponíveis os contravalores do ECU em todas as moedas dos Estados membros da Comunidade Económica Europeia.
+Art. 54.º O contravalor do ECU em escudos a ser tomado em consideração a partir de 31 de Dezembro de cada ano será o do último dia do mês de Outubro anterior para o qual estejam disponíveis os contravalores do ECU em todas as moedas dos Estados membros da Comunidade Económica Europeia.
 
 Visto e aprovado em Conselho de Ministros de 4 de Abril de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 24 de Abril de 1991.**
+Promulgado em 24 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Abril de 1991.**
+Referendado em 29 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

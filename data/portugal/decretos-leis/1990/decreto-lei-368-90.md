@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27300/48344835.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1990-564662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41213581cde68f580c03bcac5ef9378e8025cf9d71bf27e75abf85075961e119
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39b35d1337c679bd3e25930f649dbc7b4d95e19be8462616e2a46b656b70b206
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Central Termoeléctrica
+- Combustível
+- Direcção Geral de Energia
+- Energia Elétrica
+- Fiscalização
+- Importação
+- Liberalização de Importações
+- Petrogal
+- Produtor
 relationships:
 - type: amended_by
   target: pt:dre:391576:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:682995:por
+  label: "Revogado o art. 11º, pelo DEC LEI.106/93.1993.04.07.MIE, DR.IS-A [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-1993-682995
+  date: '1993-04-07'
+- type: repealed_by
+  target: pt:dre:391576:por
+  label: "Revogado pelo DEC LEI.224/99.1999.06.22.MECO,DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1999-391576
+  date: '1999-06-22'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:55Z'
   warnings: []
   errors: []
 ---
@@ -168,12 +188,12 @@ O artigo 1.º do Decreto-Lei n.º 525/85, de 31 de Dezembro, alterado pelo Decre
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Fernando Mira Amaral.
 
-**Promulgado em 10 de Novembro de 1990.**
+Promulgado em 10 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Novembro de 1990.**
+Referendado em 14 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

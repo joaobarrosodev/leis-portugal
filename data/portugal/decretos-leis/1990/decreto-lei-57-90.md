@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5930608f682920d657b2f58922553512918b54ae47d039962fcbec31a72e8b57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1f392d10193b3cd4f69030ba6ce807666a73c16592d6e81c1e5d9a76a21461c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Militar
+- Fardamento
+- Forças Armadas
+- Militar
+- Política Salarial
+- Prestações Familiares
+- Quadro de Pessoal
+- Quadro Permanente da Armada
+- Quadro Permanente da Força Aérea
+- Quadro Permanente das Forças Armadas
+- Quadro Permanente do Exército
+- Remuneração
+- Remuneração Acessória
+- Reserva
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:434415:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:242052:por
+  label: Suspensa transitoriamente a vigência das als. b) e c) do n.º 4 do art. 13.º pela LEI.63/90.26.12.1990.AR, DR.IS [296]2.ºSupl
+    de 26.12.1990, nos termos do disposto no seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-1990-242052
+  date: '1990-12-26'
+- type: amended_by
+  target: pt:dre:663907:por
+  label: "Alterado o nº 3 do art. 3º e eliminada a al. d) do nº 2 do art. 17º, pela LEI.25/91.16.07.1991.AR, DR.IS-A [[161]]\
+    \ de 16.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/25-1991-663907
+  date: '1991-07-16'
+- type: amended_by
+  target: pt:dre:515599:por
+  label: "Alterados os artigos 17.º e 19.º, e aditado um n.º 1 ao artigo 14.º, pelo DEC LEI.98/92.28.05.1992.MDN, DR.IS-A\
+    \ [123] de 28.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1992-515599
+  date: '1992-05-28'
+- type: cites
+  target: pt:dre:199627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:674437:por
+  label: "Revogado o n.º 1 do artigo 14.º, pelo DEC LEI.307/91.17.08.1991.MDN, DR.IS-A [188] de 17.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-1991-674437
+  date: '1991-08-17'
+- type: repealed_by
+  target: pt:dre:434415:por
+  label: "Revogado pelo DEC LEI.328/99.1999.08.18.MDN, DR.IS-A [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1999-434415
+  date: '1999-08-18'
 article_structure:
   article_count: 30
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:16Z'
   warnings: []
   errors: []
 ---
@@ -473,28 +540,28 @@ O disposto no presente decreto-lei prevalece sobre quaisquer normais, gerais ou 
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Rui Carlos Alvarez Carp.
 
-**Promulgado em 24 de Janeiro de 1990.**
+Promulgado em 24 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1990.**
+Referendado em 24 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Escala indiciária dos militares do QP das forças armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf)
 
 ## ANEXO II — Escala indiciária dos militares das forças armadas em RC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf)
 
 ## ANEXO III — Remunerações a que se refere o n.º 3 do artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf)
 
 ## ANEXO IV — Escala indiciária dos postos militares em extinção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03800/05890594.pdf)

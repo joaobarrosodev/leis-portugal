@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/03800/06070612.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1990-334626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e75f4c060212d1e598ff4433e5bd2f500ab391971f71e2075a7aa8589bbbf1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab5bc53550e263f439b3fa41e42993bfcf35a908b6355df3ccdc61f57144c683
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Fardamento
+- GNR
+- Guarda Fiscal
+- Política Salarial
+- Prestações Familiares
+- Remuneração
+- Remuneração Acessória
+- Reserva
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:643283:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 16 PELO DEC LEI 299/91 DE 16-AGO DR.IS-A [187]\0[187]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-08-16'
+- type: amended_by
+  target: pt:dre:598154:por
+  label: Altera o art. 16º do presente diploma, na redacção do Dec Lei 299/91, de 16-Ago, pelo DEC LEI.261/92.1992.11.24.MAI,
+    DR.IS-A [272]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-1992-598154
+  date: '1992-11-24'
+- type: amended_by
+  target: pt:dre:197752:por
+  label: "Alterados os arts. 15º e 16º pelo DEC LEI.69/98.1998.03.26.MAI, DR.IS-A [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-1998-197752
+  date: '1998-03-26'
+- type: amended_by
+  target: pt:dre:478428:por
+  label: "Aditado o art. 11º-A pelo DEC LEI.160/98.1998.06.24.MAI, DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-1998-478428
+  date: '1998-06-24'
+- type: cites
+  target: pt:dre:199627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:316373:por
+  label: "Revogado o n.º 7 do art. 15.º do presente diploma (aditado pelo art. 1.º do Dec Lei 69/98, de 26-Mar), pelo DEC\
+    \ LEI.188/99.1999.06.02.MAI DR.IS-A [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/188-1999-316373
+  date: '1999-06-02'
+- type: repealed_by
+  target: pt:dre:643283:por
+  label: "Revogado pelo DEC LEI.504/99.1999.11.20.MAI DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/504-1999-643283
+  date: '1999-11-20'
 article_structure:
   article_count: 29
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:21Z'
   warnings: []
   errors: []
 ---
@@ -433,16 +507,16 @@ O disposto no presente diploma prevalece sobre quaisquer normas gerais ou especi
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1989. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - José António da Silveira Godinho.
 
-**Promulgado em 24 de Janeiro de 1990.**
+Promulgado em 24 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1990.**
+Referendado em 24 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Mapa a que se refere o artigo 15.º, n.º 1, do Decreto-Lei n.º 59/90
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03800/06070612.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03800/06070612.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03800/06070612.pdf)

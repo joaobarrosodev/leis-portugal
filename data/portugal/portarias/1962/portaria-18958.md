@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18958-1962-520062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6949820c9d5b82694ee63d4674f251d72ff3d584109db16780308a15f05ae5de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 703139c476a650608927210848695d3b437d635930df8309b12689df43a87b7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:04Z'
   warnings: []
   errors: []
 ---
@@ -89,57 +93,57 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações a militares dos quadros - De especialidade» ... 64530$00
+Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações a militares dos quadros - De especialidade» ... 64530$00
 
-###### Artigo 2.º, n.º 1), alínea c) «Remunerações acidentais - Gratificações a militares dos quadros - Por despesas de representação» ... 21000$00
+Artigo 2.º, n.º 1), alínea c) «Remunerações acidentais - Gratificações a militares dos quadros - Por despesas de representação» ... 21000$00
 
-###### Artigo 2.º, n.º 1), alínea d) «Remunerações acidentais - Gratificações a militares dos quadros - De diploma» ... 8280$00
+Artigo 2.º, n.º 1), alínea d) «Remunerações acidentais - Gratificações a militares dos quadros - De diploma» ... 8280$00
 
-###### Artigo 3.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal graduado» ... 62400$00
+Artigo 3.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal graduado» ... 62400$00
 
-###### Artigo 4.º, n.º 1), alínea a) «Outras despesas com o pessoal - Ajudas de custo - Dentro e fora da província» ... 1712000$00
+Artigo 4.º, n.º 1), alínea a) «Outras despesas com o pessoal - Ajudas de custo - Dentro e fora da província» ... 1712000$00
 
-###### Artigo 4.º, n.º 1), alínea b) «Outras despesas com o pessoal - Ajudas de custo - De embarque» ... 245750$00
+Artigo 4.º, n.º 1), alínea b) «Outras despesas com o pessoal - Ajudas de custo - De embarque» ... 245750$00
 
-###### Artigo 4.º, n.º 2), alínea a) «Outras despesas com o pessoal - Alimentação - Rancho e pão» ... 102360$00
+Artigo 4.º, n.º 2), alínea a) «Outras despesas com o pessoal - Alimentação - Rancho e pão» ... 102360$00
 
-###### Artigo 4.º, n.º 3) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 685000$00
+Artigo 4.º, n.º 3) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 685000$00
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 33000$00
+Artigo 5.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 33000$00
 
-###### Artigo 5.º, n.º 2), alínea b) «Aquisições de utilização permanente - Móveis - Livros, revistas, boletins técnicos, outras publicações e suas encadernações» ... 12500$00
+Artigo 5.º, n.º 2), alínea b) «Aquisições de utilização permanente - Móveis - Livros, revistas, boletins técnicos, outras publicações e suas encadernações» ... 12500$00
 
-###### Artigo 5.º, n.º 2), alínea c) «Aquisições de utilização permanente - Móveis - Equipamentos de instrução e de treino operacional, material de assistência religiosa, sanitário, de educação física e desporto, máquinas, ferramentas, instrumentos, aparelhos, utensílios e outros móveis de laboratório e oficinas» ... 13500$00
+Artigo 5.º, n.º 2), alínea c) «Aquisições de utilização permanente - Móveis - Equipamentos de instrução e de treino operacional, material de assistência religiosa, sanitário, de educação física e desporto, máquinas, ferramentas, instrumentos, aparelhos, utensílios e outros móveis de laboratório e oficinas» ... 13500$00
 
-###### Artigo 6.º, n.º 1) «Despesas de conservação e aproveitamento de material - De imóveis» ... 10000$00
+Artigo 6.º, n.º 1) «Despesas de conservação e aproveitamento de material - De imóveis» ... 10000$00
 
-###### Artigo 6.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento de material - De semoventes - Alimentação de cães de guerra» ... 72500$00
+Artigo 6.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento de material - De semoventes - Alimentação de cães de guerra» ... 72500$00
 
-###### Artigo 6.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento de material - De semoventes - Viaturas com ou sem motor, embarcações e outro material circulante» ... 135000$00
+Artigo 6.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento de material - De semoventes - Viaturas com ou sem motor, embarcações e outro material circulante» ... 135000$00
 
-###### Artigo 6.º, n.º 3), alínea c) «Despesas de conservação e aproveitamento de material - De móveis - Equipamentos de instrução e de treino operacional, material de assistência religiosa, sanitário, de educação física e desportos, máquinas, ferramentas, instrumentos, aparelhos, utensílios e outros móveis de laboratório e de oficinas» ... 530$00
+Artigo 6.º, n.º 3), alínea c) «Despesas de conservação e aproveitamento de material - De móveis - Equipamentos de instrução e de treino operacional, material de assistência religiosa, sanitário, de educação física e desportos, máquinas, ferramentas, instrumentos, aparelhos, utensílios e outros móveis de laboratório e de oficinas» ... 530$00
 
-###### Artigo 7.º, n.º 1) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados, para usos laboratoriais, oficinais e de estaleiro de obras» ... 1000$00
+Artigo 7.º, n.º 1) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados, para usos laboratoriais, oficinais e de estaleiro de obras» ... 1000$00
 
-###### Artigo 7.º, n.º 2) «Material de consumo corrente - Impressos» ... 16000$00
+Artigo 7.º, n.º 2) «Material de consumo corrente - Impressos» ... 16000$00
 
-###### Artigo 7.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diverso material não especificado» ... 113000$00
+Artigo 7.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diverso material não especificado» ... 113000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 71000$00
+Artigo 8.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 71000$00
 
-###### Artigo 8.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 103130$00
+Artigo 8.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 103130$00
 
-###### Artigo 9.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 12500$00
+Artigo 9.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 12500$00
 
-###### Artigo 9.º, n.º 2) «Despesas de comunicações - Telefones» ... 420$00
+Artigo 9.º, n.º 2) «Despesas de comunicações - Telefones» ... 420$00
 
-###### Artigo 9.º, n.º 3) «Despesas de comunicações - Transportes» ... 15500$00
+Artigo 9.º, n.º 3) «Despesas de comunicações - Transportes» ... 15500$00
 
-###### Artigo 12.º, n.º 1) «Abono de família aos funcionários - Despesas com o abono de família aos funcionários» ... 1230000$00
+Artigo 12.º, n.º 1) «Abono de família aos funcionários - Despesas com o abono de família aos funcionários» ... 1230000$00
 
 ... 4740900$00
 
@@ -147,23 +151,23 @@ tomando como contrapartida a seguinte disponibilidade da mesma tabela de despesa
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovado por lei» ... 3545060$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovado por lei» ... 3545060$00
 
-###### Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações a militares dos quadros - De serviço aéreo» ... 90700$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações a militares dos quadros - De serviço aéreo» ... 90700$00
 
-###### Artigo 3.º, n.º 1), alínea c) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 1000000$00
+Artigo 3.º, n.º 1), alínea c) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 1000000$00
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento de material - De imóveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 49450$00
+Artigo 6.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento de material - De imóveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 49450$00
 
-###### Artigo 6.º, n.º 3), alínea d) «Despesas de conservação e aproveitamento de material - Móveis - Equipamento para execução de obras» ... 18000$00
+Artigo 6.º, n.º 3), alínea d) «Despesas de conservação e aproveitamento de material - Móveis - Equipamento para execução de obras» ... 18000$00
 
-###### Artigo 6.º, n.º 4), alínea b) «Despesas de conservação e aproveitamento de material - De material de defesa e segurança pública - Armamento, pára-quedas e equipamento individual e colectivo do pessoal navegante e terrestre, incluindo sobressalentes» ... 560$00
+Artigo 6.º, n.º 4), alínea b) «Despesas de conservação e aproveitamento de material - De material de defesa e segurança pública - Armamento, pára-quedas e equipamento individual e colectivo do pessoal navegante e terrestre, incluindo sobressalentes» ... 560$00
 
-###### Artigo 6.º, n.º 4), alínea c) «Despesas de conservação e aproveitamento de material - De material de defesa e segurança pública - Combustíveis, lubrificantes, oxigénio e outros compostos e elementos» ... 30000$00
+Artigo 6.º, n.º 4), alínea c) «Despesas de conservação e aproveitamento de material - De material de defesa e segurança pública - Combustíveis, lubrificantes, oxigénio e outros compostos e elementos» ... 30000$00
 
-###### Artigo 11.º, n.º 1) «Outros encargos - Força motriz» ... 7130$00
+Artigo 11.º, n.º 1) «Outros encargos - Força motriz» ... 7130$00
 
 ... 4740900$00
 

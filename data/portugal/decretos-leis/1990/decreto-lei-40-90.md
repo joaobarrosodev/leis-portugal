@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1990-334611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e98f6a3df18d29f880d5fe44db54ec116ebf9d08df19d73d4b08cff584bc13c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c18173791faa652846e45d16c02f21a02077949464b175ca4cd57c248ef355ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Eficiência Energética
+- Energia Térmica
+- Equipamento Térmico
+- Prédio Urbano
+- Regulamento das Caracteristicas de Comportamento Térmico dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:672456:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:528576:por
+  label: Rectificado o Regulamento anexo pela DECL.DD3148.1990.04.24.PCM, DR.IS [149]Supl de 30/Jun/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-528576
+  date: '1990-04-24'
+- type: repealed_by
+  target: pt:dre:672456:por
+  label: Revogado pelo DEC LEI.80/2006.04.04.2006.MOPTC, DR.IS-A [67] de 04.04.2006, a partir da respectiva entrada em vigor
+    (03.07.2006)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2006-672456
+  date: '2006-04-04'
 article_structure:
-  article_count: 19
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 10
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:36Z'
   warnings: []
   errors: []
 ---
@@ -114,53 +130,53 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento das Características de Comportamento Térmico dos Edifícios e seus anexos I a VI, que fazem parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento das Características de Comportamento Térmico dos Edifícios e seus anexos I a VI, que fazem parte integrante do presente diploma.
 
-###### Art. 2.º Este diploma entra em vigor no dia 1 de Janeiro de 1991.
+Art. 2.º Este diploma entra em vigor no dia 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 13 de Janeiro de 1990.**
+Promulgado em 13 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Janeiro de 1990.**
+Referendado em 16 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo ao Decreto-Lei n.º 40/90
+Anexo ao Decreto-Lei n.º 40/90
 
 REGULAMENTO DAS CARACTERÍSTICAS DE COMPORTAMENTO TÉRMICO DOS EDIFÍCIOS
 
 SUMÁRIO
 
-### Capítulo I - Objecto e âmbito de aplicação.
+Capítulo I - Objecto e âmbito de aplicação.
 
 ###### Artigo 1.º - Objecto.
 
-###### Artigo 2.º - Âmbito de aplicação.
+Artigo 2.º - Âmbito de aplicação.
 
-### Capítulo II - Princípios gerais, definições e referências.
+Capítulo II - Princípios gerais, definições e referências.
 
-###### Artigo 3.º - Índices e parâmetros de caracterização.
+Artigo 3.º - Índices e parâmetros de caracterização.
 
-###### Artigo 4.º - Definições e referências.
+Artigo 4.º - Definições e referências.
 
-### Capítulo III - Requisitos energéticos.
+Capítulo III - Requisitos energéticos.
 
-###### Artigo 5.º - Limitação das necessidades nominais de aquecimento.
+Artigo 5.º - Limitação das necessidades nominais de aquecimento.
 
-###### Artigo 6.º - Limitação das necessidades nominais de arrefecimento.
+Artigo 6.º - Limitação das necessidades nominais de arrefecimento.
 
-###### Artigo 7.º - Requisitos mínimos de qualidade térmica dos edifícios.
+Artigo 7.º - Requisitos mínimos de qualidade térmica dos edifícios.
 
-### Capítulo IV - Licenciamento, fiscalização e sanções.
+Capítulo IV - Licenciamento, fiscalização e sanções.
 
-###### Artigo 8.º - Licenciamento.
+Artigo 8.º - Licenciamento.
 
-###### Artigo 9.º - Fiscalização.
+Artigo 9.º - Fiscalização.
 
 ### CAPÍTULO I — Objecto e âmbito de aplicação
 
@@ -228,7 +244,7 @@ e) Publicações oficiais de instituições estrangeiras de reconhecida idoneida
 
 2 - O valor das necessidades nominais de energia útil por metro quadrado de área útil de pavimento, A(índice p), por estação de aquecimento, N(índice IC), não deverá ser superior ao definido pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
 
 3 - Se a área de envidraçados, A(índice env), for superior a 15% da área útil de pavimento, A(índice p), o valor máximo de A(índice env) a utilizar na expressão definidora de N(índice I) é A(índice env) = 0,15 A(índice p).
 
@@ -252,7 +268,7 @@ c) A área de envidraçados não ultrapassar os 15% da área útil de pavimento.
 
 2 - O valor das necessidades nominais de energia útil por metro quadrado de área útil de pavimento, A (índice p), por estação de arrefecimento, N (índice vc), calculado pela metodologia que consta do anexo V não deverá ser superior ao definido pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
 
 3 - Se a área de envidraçados, A(índice env), for superior a 15% da área útil de pavimento, A(índice p), o valor máximo de A(índice env) a utilizar na expressão definidora de N(índice v) é A(índice env) = 0,15 A(índice p).
 
@@ -362,7 +378,7 @@ Temperatura exterior de projecto no Verão. - É a temperatura exterior do term�
 
 ## ANEXO II — Valores de referência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
 
 ## ANEXO III — Dados climáticos
 
@@ -410,28 +426,28 @@ Quadro III.1
 
 Distribuição dos concelhos de Portugal continental segundo as zonas climáticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
 
 Quadro III.2
 
 Dados climáticos de Inverno
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
 
 Quadro III.3
 
 Temperaturas exteriores de projecto e amplitudes térmicas diárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
 
 ## ANEXO IV — Método de cálculo das necessidades nominais de aquecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
 
 ## ANEXO V — Método de cálculo das necessidades nominais de arrefecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
 
 ## ANEXO VI — Quantificação dos parâmetros térmicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03100/04900504.pdf)

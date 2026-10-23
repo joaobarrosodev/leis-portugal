@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/30000/52815282.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1990-543703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 632f3469fe4c65e49cc6a2ba2bbb224712fd89b6156b79133dd3fd4e1b5e97e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e3d29a3d748eae2bd33b2dfc49b58538cb0051d673fb7bc08d7153e8aba8199
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pessoa Coletiva
+- Registo Nacional de Pessoas Coletivas
 relationships:
 - type: amended_by
   target: pt:dre:522842:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:610474:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522842:por
+  label: "Revogado pelo DEC LEI.129/98.1998.05.13.MJ, DR.IS-A [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-1998-522842
+  date: '1998-05-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:51Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +123,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 22.º do [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), de 3 de Fevereiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 22.º do [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), de 3 de Fevereiro, passa a ter a seguinte redacção:
 
-###### Art. 22.º - 1 - Os certificados de admissibilidade de firma ou denominação, bem como os certificados negativos para efeitos de registo de nome de estabelecimento, são pedidos em impresso próprio, apresentado ao Registo Nacional de Pessoas Colectivas:
+Art. 22.º - 1 - Os certificados de admissibilidade de firma ou denominação, bem como os certificados negativos para efeitos de registo de nome de estabelecimento, são pedidos em impresso próprio, apresentado ao Registo Nacional de Pessoas Colectivas:
 
 a) Directamente no seu serviço de recepção;
 
@@ -132,11 +143,11 @@ d) Através da conservatória do registo comercial competente ou do cartório no
 
 5 - Por portaria do Ministro da Justiça será regulamentado o acesso a que se refere a alínea d) do n.º 1.
 
-###### Art. 2.º - 1 - Qualquer interessado pode solicitar nos serviços de recepção do Registo Nacional de Pessoas Colectivas informação sobre a viabilidade de firma ou denominação que pretenda usar.
+Art. 2.º - 1 - Qualquer interessado pode solicitar nos serviços de recepção do Registo Nacional de Pessoas Colectivas informação sobre a viabilidade de firma ou denominação que pretenda usar.
 
 2 - No caso de, em primeira análise, a firma ou a denominação proposta se mostrar construída nos termos legais, e não susceptível de confusão com outra já registada, é admitida a sua reserva por 48 horas, fornecendo-se ao interessado um número de referência.
 
-###### Art. 3.º - 1 - A reserva de firma ou denominação constitui mera presunção de não confundibilidade da firma ou denominação reservada com firmas e denominações anteriormente registadas.
+Art. 3.º - 1 - A reserva de firma ou denominação constitui mera presunção de não confundibilidade da firma ou denominação reservada com firmas e denominações anteriormente registadas.
 
 2 - Pelo acto de reserva é devido o emolumento fixado na respectiva tabela.
 
@@ -144,7 +155,7 @@ d) Através da conservatória do registo comercial competente ou do cartório no
 
 4 - O posterior indeferimento do certificado por razões de confundibilidade implica a restituição do emolumento pago pela reserva.
 
-###### Art. 4.º - 1 - O pedido, incluindo o de reserva, de firma ou denominação apresentado em primeiro lugar prevalece sobre os que se lhe seguirem.
+Art. 4.º - 1 - O pedido, incluindo o de reserva, de firma ou denominação apresentado em primeiro lugar prevalece sobre os que se lhe seguirem.
 
 2 - A ordem de prioridade da apresentação é definida pela data e hora registadas nos termos das regras constantes dos números seguintes.
 
@@ -164,16 +175,16 @@ d) Nos pedidos recebidos pelo correio, logo após a abertura da correspondência
 
 6 - Em caso de data e hora coincidentes, presume-se terem prioridade cronológica os pedidos recebidos pelo correio sobre os pedidos de certificados apresentados pessoalmente, estes sobre os pedidos recebidos por telecópia e finalmente estes sobre os pedidos de reserva.
 
-###### Art. 5.º O presente diploma entra em vigor no dia 2 de Janeiro de 1991.
+Art. 5.º O presente diploma entra em vigor no dia 2 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 25 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 11 de Dezembro de 1990.**
+Promulgado em 11 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1990.**
+Referendado em 18 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/30000/52765276.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1990-543710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e6b8b5a068c5035c189f2c5c8cae84b2eddac63efbc0c5eeec4478361f052a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcd99dc0c1aaf7469fa4e0f14ffea21f0b53c03af876af378da093a9f432cd38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Definição de Competências
+- Direcção Geral do Desenvolvimento Regional
+- Ministério do Planeamento e da Administração do Território
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:598157:por
+  label: "Alterado os arts. 20.º, 21.º e 22.º do Dec Lei 130/86, de 07-Jun, na redacção do presente diploma, pelo DEC LEI.265/92.24.11.1992.MPLAT,\
+    \ DR.IS-A [272] de 24.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1992-598157
+  date: '1992-11-24'
+- type: amended_by
+  target: pt:dre:606525:por
+  label: "Alterados os art.s 20º, 21º e 22º, na redação do presente diploma, pelo DEC LEI.243/94.26.09.1994.MPLAT, DR.IS-A\
+    \ [223] de 26.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-1994-606525
+  date: '1994-09-26'
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:46Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +129,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 20.º, 21.º e 22.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 20.º, 21.º e 22.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 20.º A Direcção-Geral do Desenvolvimento Regional é o organismo incumbido do estudo e execução da política de desenvolvimento regional, da coordenação das intervenções dos fundos estruturais comunitários e da preparação e execução das acções co-financiadas pelo Fundo Europeu de Desenvolvimento Regional (FEDER).
+Art. 20.º A Direcção-Geral do Desenvolvimento Regional é o organismo incumbido do estudo e execução da política de desenvolvimento regional, da coordenação das intervenções dos fundos estruturais comunitários e da preparação e execução das acções co-financiadas pelo Fundo Europeu de Desenvolvimento Regional (FEDER).
 
-###### Art. 21.º ...
+Art. 21.º ...
 
 a) Propor ao Governo as bases gerais da política de desenvolvimento regional e a sua reformulação periódica, promovendo, em conjugação com outros organismos competentes, a sua articulação com a política de desenvolvimento económico e social;
 
@@ -125,7 +153,7 @@ h) Participar no processo de controlo da aplicação dos recursos do FEDER;
 
 i) Assegurar a representação do Ministério do Planeamento e da Administração do Território na Comissão Interministerial dos Assuntos Europeus no âmbito do desenvolvimento regional e fundos estruturais.
 
-###### Art. 22.º - 1 - A Direcção-Geral do Desenvolvimento Regional é dirigida por um director-geral, coadjuvado por três subdirectores-gerais, e compreende os seguintes serviços:
+Art. 22.º - 1 - A Direcção-Geral do Desenvolvimento Regional é dirigida por um director-geral, coadjuvado por três subdirectores-gerais, e compreende os seguintes serviços:
 
 a) Direcção de Serviços de Política Regional;
 
@@ -135,16 +163,16 @@ c) Direcção de Serviços de Apoio ao Investimento;
 
 d) Direcção de Serviços de Informação e Controlo.
 
-###### Art. 2.º O anexo II ao [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, é aumentado de um lugar na categoria de subdirector-geral e um de lugar na categoria de director de serviços.
+Art. 2.º O anexo II ao [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, é aumentado de um lugar na categoria de subdirector-geral e um de lugar na categoria de director de serviços.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 11 de Dezembro de 1990.**
+Promulgado em 11 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Dezembro de 1990.**
+Referendado em 16 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

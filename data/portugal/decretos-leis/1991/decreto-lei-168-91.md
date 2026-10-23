@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/106a00/24962498.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/1991/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1991-609643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c6620b82b33af54df74fd9a36d4333ce0e141a91911249f6565a8120d234f31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d459f0aa393a276d5e8467b1ea01cc8a994b1ddcc5f5cc7efde058c8ebc89f00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,37 @@ relationships:
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:278718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509014:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:51Z'
   warnings: []
   errors: []
 ---
@@ -117,11 +138,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Podem beneficiar da fixação de câmbio, nos termos do presente diploma, as operações de crédito à exportação de bens e serviços de origem nacional e a prazo superior a um ano, denominadas em moeda estrangeira.
+Artigo 1.º - 1 - Podem beneficiar da fixação de câmbio, nos termos do presente diploma, as operações de crédito à exportação de bens e serviços de origem nacional e a prazo superior a um ano, denominadas em moeda estrangeira.
 
 2 - As normas regulamentares do acesso ao mecanismo de fixação de câmbio serão definidas em portaria conjunta dos Ministros das Finanças e do Comércio e Turismo.
 
-###### Art. 2.º - 1 - O risco de fixação de câmbio é assumido pela COSEC - Companhia de Seguros de Crédito, S. A., com prévia garantia do Estado, mediante a celebração de adequado contrato de seguro do ramo crédito, com apólice própria.
+Art. 2.º - 1 - O risco de fixação de câmbio é assumido pela COSEC - Companhia de Seguros de Crédito, S. A., com prévia garantia do Estado, mediante a celebração de adequado contrato de seguro do ramo crédito, com apólice própria.
 
 2 - As condições gerais e especiais da apólice a que se refere o número anterior, bem como os parâmetros que presidirão ao cálculo do respectivo prémio, são aprovados por despacho conjunto dos Ministros das Finanças e do Comércio e Turismo, mediante proposta da COSEC e parecer do Conselho de Garantias Financeiras.
 
@@ -129,7 +150,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A COSEC poderá ainda fazer acrescer ao prémio referido nos números anteriores uma comissão de gestão até ao limite a fixar na portaria referida no n.º 2 do artigo 5.º
 
-###### Art. 3.º - 1 - A proposta de seguro será apresentada à COSEC, devendo conter os elementos indispensáveis à apreciação da operação, nomeadamente:
+Art. 3.º - 1 - A proposta de seguro será apresentada à COSEC, devendo conter os elementos indispensáveis à apreciação da operação, nomeadamente:
 
 a) O montante da operação;
 
@@ -147,9 +168,9 @@ e) O montante financiado pelas instituições de crédito ou, se não houver fin
 
 4 - O prazo de 20 dias úteis referido no número anterior pode ser prorrogado por igual período, por despacho de qualquer dos ministros referidos no número anterior, com fundamento na necessidade de estudar mais profundamente o caso concreto.
 
-###### Art. 4.º O câmbio a fixar será indicado nas condições particulares da apólice e não poderá ser superior ao da data de tomada de fundos pelo exportador nacional junto de uma instituição de crédito.
+Art. 4.º O câmbio a fixar será indicado nas condições particulares da apólice e não poderá ser superior ao da data de tomada de fundos pelo exportador nacional junto de uma instituição de crédito.
 
-###### Art. 5.º - 1 - A fixação do câmbio concedida ao abrigo do artigo 1.º garante ao beneficiário o contravalor dos créditos e dos respectivos juros, em escudos, à taxa de câmbio fixada nas condições particulares da apólice, observando-se os seguintes princípios:
+Art. 5.º - 1 - A fixação do câmbio concedida ao abrigo do artigo 1.º garante ao beneficiário o contravalor dos créditos e dos respectivos juros, em escudos, à taxa de câmbio fixada nas condições particulares da apólice, observando-se os seguintes princípios:
 
 a) A COSEC pagará ao beneficiário, nas datas de vencimento dos créditos e ou juros, a diferença resultante da valorização do escudo, traduzida na variação negativa da taxa de câmbio;
 
@@ -157,19 +178,19 @@ b) O beneficiário entregará à COSEC o valor a mais recebido por força de uma
 
 2 - Haverá ainda lugar ao pagamento ou ao recebimento de um montante justificado pela diferença de taxas de juro interna e externa de mercado, em condições gerais a fixar por portaria do Ministro das Finanças e a indicar nas condições particulares da apólice.
 
-###### Art. 6.º - 1 - A COSEC deverá manter uma contabilização separada para as receitas e encargos decorrentes da cobertura do risco de câmbio com prévia garantia do Estado.
+Art. 6.º - 1 - A COSEC deverá manter uma contabilização separada para as receitas e encargos decorrentes da cobertura do risco de câmbio com prévia garantia do Estado.
 
 2 - A COSEC manterá uma contabilização permanente do efectivo envolvimento do Estado no âmbito de cobertura de risco e comunicará mensalmente ao Conselho de Garantias Financeiras e à Direcção-Geral do Tesouro os contratos celebrados e a exposição deles decorrente nas diversas moedas, bem como o respectivo calendário.
 
-###### Art. 7.º - 1 - A COSEC manterá uma conta corrente com a Direcção-Geral do Tesouro, que registará todos os fluxos de pagamentos e recebimentos do Estado no âmbito da cobertura do risco de fixação da taxa de câmbio decorrente da aplicação do presente diploma.
+Art. 7.º - 1 - A COSEC manterá uma conta corrente com a Direcção-Geral do Tesouro, que registará todos os fluxos de pagamentos e recebimentos do Estado no âmbito da cobertura do risco de fixação da taxa de câmbio decorrente da aplicação do presente diploma.
 
 2 - Sempre que se verifique insuficiência orçamental para efectuar o pagamento de eventuais saldos a favor da COSEC, o reembolso far-se-á no ano seguinte, tendo em conta os encargos financeiros suportados, por esse facto, pela COSEC.
 
-###### Art. 8.º - 1 - A COSEC elaborará anualmente uma conta de resultados com referência aos riscos assumidos nos termos do presente diploma, segundo moldes a definir por despacho conjunto dos Ministros das Finanças e do Comércio e Turismo.
+Art. 8.º - 1 - A COSEC elaborará anualmente uma conta de resultados com referência aos riscos assumidos nos termos do presente diploma, segundo moldes a definir por despacho conjunto dos Ministros das Finanças e do Comércio e Turismo.
 
 2 - Se o resultado final for a favor do Estado, a COSEC auferirá uma percentagem desse saldo, a título de remuneração adicional pela gestão do risco de câmbio a fixar anualmente por despacho do Ministro das Finanças.
 
-###### Art. 9.º - 1 - Nas operações de crédito à exportação expressas em moeda estrangeira, o Estado poderá garantir o pagamento do valor correspondente à diferença positiva entre a taxa de juro externa de mercado para a moeda do crédito e a mais alta das taxas entre a contratualmente estipulada entre o exportador e o importador e a acordada internacionalmente para este tipo de operações.
+Art. 9.º - 1 - Nas operações de crédito à exportação expressas em moeda estrangeira, o Estado poderá garantir o pagamento do valor correspondente à diferença positiva entre a taxa de juro externa de mercado para a moeda do crédito e a mais alta das taxas entre a contratualmente estipulada entre o exportador e o importador e a acordada internacionalmente para este tipo de operações.
 
 2 - A taxa de juro externa de mercado será a taxa que vigorar no mercado internacional para operações de idêntico prazo e risco.
 
@@ -179,24 +200,24 @@ b) O beneficiário entregará à COSEC o valor a mais recebido por força de uma
 
 5 - Com base na informação referida no n.º 2 do artigo 6.º, a Direcção-Geral do Tesouro transferirá para a COSEC, a solicitação desta, os montantes correspondentes às liquidações que a COSEC terá de realizar nos termos do número anterior, por forma que as datas e os montantes das transferências coincidam, tanto quanto possível, com as datas de efectivação dos pagamentos.
 
-###### Art. 10.º - 1 - Os encargos decorrentes da aplicação do presente diploma serão suportados pelo Orçamento do Estado, ficando desde já autorizado o Ministro das Finanças a tomar as necessárias providências.
+Art. 10.º - 1 - Os encargos decorrentes da aplicação do presente diploma serão suportados pelo Orçamento do Estado, ficando desde já autorizado o Ministro das Finanças a tomar as necessárias providências.
 
 2 - A dotação de despesa a inserir no Orçamento do Estado será proposta pelo Conselho de Garantias Financeiras, ouvida a COSEC.
 
-###### Art. 11.º - 1 - Para minimizar os encargos decorrentes da assunção do risco de câmbio com prévia garantia do Estado, tal como definido no presente diploma, poderá a COSEC ser autorizada a realizar operações em moeda estrangeira por conta do Estado.
+Art. 11.º - 1 - Para minimizar os encargos decorrentes da assunção do risco de câmbio com prévia garantia do Estado, tal como definido no presente diploma, poderá a COSEC ser autorizada a realizar operações em moeda estrangeira por conta do Estado.
 
 2 - Depende de autorização especial e prévia do Banco de Portugal a realização directa pela COSEC de operações em moeda estrangeira.
 
-###### Art. 12.º É vedada a mediação nos seguros de risco de câmbio regulados pelo presente diploma.
+Art. 12.º É vedada a mediação nos seguros de risco de câmbio regulados pelo presente diploma.
 
 Visto e aprovado em Conselho de Ministros, de 10 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 19 de Abril de 1991.**
+Promulgado em 19 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Abril de 1991.**
+Referendado em 24 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

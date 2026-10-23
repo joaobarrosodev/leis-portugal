@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/04400/07220738.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1990-332912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7442da48c710cfe5acb5e3f1603864e05dad165cbe795d3bb0b61ba90007bbd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7272008307e0ceaadb7387ea4b5f913de5d13e9d3b0a1b4496007e19abc25fda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Civil
+- Habitação
+- Incêndio
+- Prédio Urbano
+- Prevenção de Incêndios
+- Regulamento
+- Segurança dos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:439866:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:182440:por
+  label: Rectificado pela DECL.DD3340.1990.04.06.PCM DR.IS [99]2ºSupl de 30 de Abril de 1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-182440
+  date: '1990-04-06'
+- type: repealed_by
+  target: pt:dre:618126:por
+  label: "Revogados os artigos 7.º a 10.º pelo DEC LEI.250/94.15.10.1994.MPLAT, DR.IS-A [239] de 15.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1994-618126
+  date: '1994-10-15'
+- type: repealed_by
+  target: pt:dre:230334:por
+  label: "Revogadas as disposições constantes dos arts. 23º e 24º, nº 4, 5 e 7 do art. 51º e art. 81º do regulamento aprovado\
+    \ pelo presente diploma, relativamente a espaços ocupados para recolha de veículos automóveis e seus reboques, pelo DEC\
+    \ LEI.66/95.1995.04.08.MAI, DR.IS-A [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-1995-230334
+  date: '1995-04-08'
+- type: repealed_by
+  target: pt:dre:439866:por
+  label: "Revogado, a partir de 01.01.2009, pelo DEC LEI.220/2008.12.11.2008.MAI, DR.IS [220] de 12.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2008-439866
+  date: '2008-11-12'
 article_structure:
-  article_count: 83
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 82
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:26Z'
   warnings: []
   errors: []
 ---
@@ -114,29 +147,29 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Segurança contra Incêndio em Edifícios de Habitação, que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento de Segurança contra Incêndio em Edifícios de Habitação, que faz parte integrante do presente diploma.
 
-###### Art. 2.º É revogado, relativamente a edifícios de habitação, o capítulo III do título V do Regulamento Geral das Edificações Urbanas, aprovado pelo [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951.
+Art. 2.º É revogado, relativamente a edifícios de habitação, o capítulo III do título V do Regulamento Geral das Edificações Urbanas, aprovado pelo [Decreto-Lei n.º 38382](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38382-1951-289214), de 7 de Agosto de 1951.
 
-###### Art. 3.º Durante o prazo de dois anos a partir da data de entrada em vigor do presente diploma podem ser submetidos à aprovação das entidades competentes projectos de edifícios de habitação, já elaborados, de acordo com a legislação revogada no artigo anterior.
+Art. 3.º Durante o prazo de dois anos a partir da data de entrada em vigor do presente diploma podem ser submetidos à aprovação das entidades competentes projectos de edifícios de habitação, já elaborados, de acordo com a legislação revogada no artigo anterior.
 
-###### Art. 4.º O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo de diploma regional que proceda às necessárias adaptações.
+Art. 4.º O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo de diploma regional que proceda às necessárias adaptações.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 30 de Janeiro de 1990.**
+Promulgado em 30 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Fevereiro de 1990.**
+Referendado em 2 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 REGULAMENTO DE SEGURANÇA CONTRA INCÊNDIO EM EDIFÍCIOS DE HABITAÇÃO
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ### CAPÍTULO I — Generalidades
 
@@ -244,7 +277,7 @@ Nos casos de edifícios de altura não superior a 28 m, sejam eles unifamiliares
 
 2 - A decisão de licenciamento é condicionada a parecer favorável dos serviços centrais do SNB, ouvida a comissão interministerial referida no n.º 2 do artigo anterior.
 
-# PARTE II — Edifícios unifamiliares
+## PARTE II — Edifícios unifamiliares
 
 ### CAPÍTULO I — Generalidades
 
@@ -366,7 +399,7 @@ As dependências dos edifícios destinadas a funções complementares da habita�
 
 No caso de situações análogas às descritas no artigo anterior em que não haja qualquer comunicação com o resto do edifício e os espaços em causa sejam utilizados ou explorados por terceiros, devem ter-se em conta, com os ajustamentos adequados, as disposições aplicáveis do artigo 52.º, nomeadamente no que respeita à calibração da classe de resistência ao fogo exigível para os elementos de separação entre o espaço habitado e o espaço ocupado por terceiros.
 
-# PARTE III — Edifícios de altura não superior a 28 m
+## PARTE III — Edifícios de altura não superior a 28 m
 
 ### CAPÍTULO I — Generalidades
 
@@ -750,7 +783,7 @@ b) Em caso afirmativo, e face à natureza das actividades e às dimensões e loc
 
 c) Exigir, tendo em conta os riscos, que no projecto do estabelecimento sejam previstos os meios adequados de intervenção em caso de incêndio e as disposições convenientes para assegurar a salvaguarda das pessoas que trabalham no estabelecimento ou dele se sirvam.
 
-# PARTE IV — Edifícios de altura superior a 28 m
+## PARTE IV — Edifícios de altura superior a 28 m
 
 ### CAPÍTULO I — Generalidades
 

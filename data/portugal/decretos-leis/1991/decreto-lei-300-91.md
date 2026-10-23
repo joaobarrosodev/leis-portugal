@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/300/1991/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1991-674060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 209f2744436c74548ddd1c8c917add1670b956ca04fc37ee62addf6ee720959b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 179b01293640ca505395031795f16b17b8d99a7df3c82f1565dfc3bf049de044
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral dos Serviços Prisionais
-- Subsídio de Risco
 - Estabelecimento Prisional
+- Subsídio de Risco
 relationships:
 - type: amended_by
   target: pt:dre:469069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:643129:por
+  label: "Alterado o art. 1º do DR 38/82 de 07-Jul, com a redacção conferida no presente diploma, pelo DEC LEI.237/97.08.09.1997.MJ,\
+    \ DR.IS-A [207] de 08.09.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-1997-643129
+  date: '1997-09-08'
+- type: amended_by
+  target: pt:dre:563009:por
+  label: "Alterado o art. 1.º do DR 38/82, de 07-Jul, na redacção do presente diploma, pelo DEC LEI.75/2005.04.04.2005.MJ,\
+    \ DR.IS-A [65] de 04.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2005-563009
+  date: '2005-04-04'
+- type: cites
+  target: pt:dre:394533:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469069:por
+  label: "Revogado o art. 3º do DR 38/82 de 07-Jul, na redacção do presente diploma, pelo DEC LEI.229/2005.29.12.2005.MFAP,\
+    \ DR.IS-A [249] de 29.12.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2005-469069
+  date: '2005-12-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:47Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +126,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º e 7.º do [Decreto Regulamentar n.º 38/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1982-394533), de 7 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º e 7.º do [Decreto Regulamentar n.º 38/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1982-394533), de 7 de Julho, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - O pessoal dirigente da Direcção-Geral dos Serviços Prisionais tem direito a um suplemento de risco fixado em 20% do índice 100 da respectiva escala remuneratória, para os titulares dos cargos de director-geral e de subdirector-geral, e em 13% da mesma escala, para os titulares dos cargos de director de serviços e de chefe de divisão.
+Artigo 1.º - 1 - O pessoal dirigente da Direcção-Geral dos Serviços Prisionais tem direito a um suplemento de risco fixado em 20% do índice 100 da respectiva escala remuneratória, para os titulares dos cargos de director-geral e de subdirector-geral, e em 13% da mesma escala, para os titulares dos cargos de director de serviços e de chefe de divisão.
 
 2 - O pessoal da Direcção-Geral dos Serviços Prisionais pertencente às carreiras técnica superior de vigilância e técnica auxiliar de vigilância, bem como o pessoal com a categoria de inspector, têm direito a um suplemento de risco correspondente a 35% do índice 100 da escala salarial do regime geral.
 
@@ -122,22 +144,22 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 8 - O suplemento de risco para os grupos de pessoal administrativo e de pessoal auxiliar é fixado em 25% do índice 100 da escala salarial do regime geral.
 
-###### Art. 2.º O suplemento instituído pelo presente diploma está sujeito ao desconto de quota para aposentação e sobrevivência e é apurado com arredondamento para a centena de escudos imediatamente superior.
+Art. 2.º O suplemento instituído pelo presente diploma está sujeito ao desconto de quota para aposentação e sobrevivência e é apurado com arredondamento para a centena de escudos imediatamente superior.
 
-###### Art. 3.º Ao pessoal a que se refere o presente diploma é contado, para efeitos de aposentação, um acréscimo de 20% no tempo de serviço efectivamente prestado no âmbito da Direcção-Geral dos Serviços Prisionais.
+Art. 3.º Ao pessoal a que se refere o presente diploma é contado, para efeitos de aposentação, um acréscimo de 20% no tempo de serviço efectivamente prestado no âmbito da Direcção-Geral dos Serviços Prisionais.
 
-###### Art. 7.º Os encargos resultantes da aplicação deste diploma são suportados pelos fundos geridos pelo Gabiente de Gestão Financeira do Ministério da Justiça, enquanto a respectiva dotação no Orçamento do Estado não se encontrar devidamente consignada.
+Art. 7.º Os encargos resultantes da aplicação deste diploma são suportados pelos fundos geridos pelo Gabiente de Gestão Financeira do Ministério da Justiça, enquanto a respectiva dotação no Orçamento do Estado não se encontrar devidamente consignada.
 
-###### Art. 2.º São revogados os artigos 4.º, 5.º, 6.º e 8.º do [Decreto Regulamentar n.º 38/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1982-394533), de 7 de Julho.
+Art. 2.º São revogados os artigos 4.º, 5.º, 6.º e 8.º do [Decreto Regulamentar n.º 38/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1982-394533), de 7 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 26 de Julho de 1991.**
+Promulgado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1991.**
+Referendado em 29 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 293/1990, 2º Suplemento, Série I de 1990-12-21
   number: '293'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5202-(130) a 5202-(133)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29302/01300133.pdf
 entry_into_force_dates: []
@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1990-406085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bec62dd76b71ae689f02e9dfb568c4922640b1dd57305f42cf41118d8bb9084b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3554089f83caad2ccaad4e37141f0889f2063cc8c9bbac69fdd52daa1fb210ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Capital Social
+- Empresa Pública
+- Estatuto
+- Portucel
+- Privatização
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384250:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:41Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +113,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A empresa pública PORTUCEL - Empresa de Celulose e Papel de Portugal, E. P., criada pelo [Decreto-Lei n.º 554-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-a-1976-384250), de 14 de Julho, é transformada, pelo presente diploma, em sociedade anónima, de capitais maioritariamente públicos e passa a denominar-se PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A.
+Artigo 1.º - 1 - A empresa pública PORTUCEL - Empresa de Celulose e Papel de Portugal, E. P., criada pelo [Decreto-Lei n.º 554-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-a-1976-384250), de 14 de Julho, é transformada, pelo presente diploma, em sociedade anónima, de capitais maioritariamente públicos e passa a denominar-se PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A.
 
 2 - A PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., rege-se pelo presente diploma, pelos seus estatutos e pelas normas de direito privado aplicáveis as sociedades anónimas.
 
-###### Art. 2.º - 1 - A PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., sucede automática e globalmente à PORTUCEL - Empresa de Celulose e Papel de Portugal, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+Art. 2.º - 1 - A PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., sucede automática e globalmente à PORTUCEL - Empresa de Celulose e Papel de Portugal, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação do disposto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A.
 
-###### Art. 3.º - 1 - A PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., tem inicialmente um capital social de 50 milhões de contos, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
+Art. 3.º - 1 - A PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., tem inicialmente um capital social de 50 milhões de contos, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
 
 2 - As acções representativas do capital de que é titular o Estado serão nominativas e detidas pela Direcção-Geral do Tesouro, podendo, no entanto, a sua gestão ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.
 
@@ -115,11 +129,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os direitos do Estado, como accionista da sociedade, são exercidos através de representantes designados por despacho conjunto dos Ministros das Finanças e da Indústria e Energia, salvo quando a gestão das acções tenha sido cometida a outra entidade nos termos do n.º 2 do presente diploma.
 
-###### Art. 4.º - 1 - A PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 4.º - 1 - A PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
 2 - Como órgão consultivo da administração, a PORTUCEL tem um conselho de impacte ambiental, a quem compete a formulação de pareceres e recomendações sobre impacte ecológico dos empreendimentos da sociedade.
 
-###### Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -127,33 +141,33 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente aos Ministros das Finanças e da Indústria e Energia um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação a previsões.
 
-###### Art. 6.º - 1 - Os trabalhadores e pensionistas da PORTUCEL - Empresa de Celulose e Papel de Portugal, E. P., mantêm perante a PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
+Art. 6.º - 1 - Os trabalhadores e pensionistas da PORTUCEL - Empresa de Celulose e Papel de Portugal, E. P., mantêm perante a PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer quaisquer cargos ou funções na sociedade, em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outras regalias.
 
 3 - A situação dos trabalhadores da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminam o mandato ou o tempo de requisição.
 
-###### Art. 7.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebram contratos com a PORTUCEL - Empresa de Celulose e Papel de Portugal, E. P., as mesmas relações que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
+Art. 7.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebram contratos com a PORTUCEL - Empresa de Celulose e Papel de Portugal, E. P., as mesmas relações que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
 
-###### Art. 8.º - 1 - São aprovados os estatutos da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
+Art. 8.º - 1 - São aprovados os estatutos da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
 2 - As futuras alterações aos estatutos far-se-ão nos termos da lei comercial.
 
-###### Art. 9.º A alienação das acções, quando o Estado o entenda por conveniente e oportuno, será regulada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei.
+Art. 9.º A alienação das acções, quando o Estado o entenda por conveniente e oportuno, será regulada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei.
 
-###### Art. 10.º - 1 - É, por esta forma, convocada a assembleia geral da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., a qual deve reunir na sede da sociedade até ao 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, pelas 17 horas, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 10.º - 1 - É, por esta forma, convocada a assembleia geral da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., a qual deve reunir na sede da sociedade até ao 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, pelas 17 horas, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os membros em exercício do conselho de gerência e da comissão de fiscalização da PORTUCEL - Empresa de Celulose e Papel de Portugal, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A., com as competências fixadas nos estatutos para o conselho de administração e conselho fiscal, respectivamente.
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral.
 
-**Promulgado em 13 de Dezembro de 1990.**
+Promulgado em 13 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Dezembro de 1990.**
+Referendado em 14 de Dezembro de 1990.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
@@ -161,23 +175,23 @@ Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-###### Artigo 1.º - 1 - A sociedade adopta a forma de sociedade anónima e a denominação social de PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A.
+Artigo 1.º - 1 - A sociedade adopta a forma de sociedade anónima e a denominação social de PORTUCEL - Empresa de Celulose e Papel de Portugal, S. A.
 
 2 - A sociedade rege-se pelo Decreto-Lei n.º 405/90, de 21 de Dezembro, pelas normas reguladoras das sociedades anónimas, pelas normas especiais cuja aplicação decorre do objecto de sociedade e pelos presentes estatutos.
 
-###### Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Rua de Joaquim António de Aguiar, 3.
+Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Rua de Joaquim António de Aguiar, 3.
 
 2 - Por deliberação do conselho de administração a sociedade pode criar e extinguir sucursais, agências, delegações ou outras formas de representação, no território nacional ou no estrangeiro.
 
 3 - A mudança de sede, dentro do Município de Lisboa ou para municípios limítrofes, pode ser feita por simples deliberação do conselho de administração.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto a produção e a comercialização de pastas celulósicas, papéis, embalagens, matéria-prima lenhosa e seus derivados ou afins e, bem assim, quaisquer outras actividades industriais, comerciais, de investigação ou de prestação de serviços conexas com aquelas.
+Art. 3.º - 1 - A sociedade tem por objecto a produção e a comercialização de pastas celulósicas, papéis, embalagens, matéria-prima lenhosa e seus derivados ou afins e, bem assim, quaisquer outras actividades industriais, comerciais, de investigação ou de prestação de serviços conexas com aquelas.
 
 2 - A sociedade pode participar em sociedades de qualquer natureza e objecto, associações, agrupamentos complementares de empresas ou agrupamentos europeus de interesse económico.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 50 milhões de contos e acha-se integralmente realizado.
+Art. 4.º - 1 - O capital social é de 50 milhões de contos e acha-se integralmente realizado.
 
 2 - O capital social é representado por 50 milhões de acções, com o valor nominal de 1000$00 cada uma.
 
@@ -189,13 +203,13 @@ Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
 6 - O custo das operações de registo das transmissões, desdobramentos, conversões ou outras relativas aos títulos referidos no número anterior será suportado pelos interessados, segundo critérios a fixar pela assembleia geral.
 
-###### Art. 5.º - 1 - A sociedade poderá emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
+Art. 5.º - 1 - A sociedade poderá emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
 
 2 - A sociedade poderá emitir acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 6.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 6.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - Junto do conselho de administração funciona o conselho de impacte ambiental.
 
@@ -205,7 +219,7 @@ Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 7.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
+Art. 7.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
 
 2 - A cada 1000 acções corresponde um voto.
 
@@ -221,7 +235,7 @@ Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
 8 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-###### Art. 8.º - 1 - Compete à assembleia geral:
+Art. 8.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -241,7 +255,7 @@ h) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 2 - As deliberações serão tomadas por maioria dos votos emergentes das acções presentes ou representadas na assembleia, sempre que a lei não exija maior número.
 
-###### Art. 9.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda constituída por um vice-presidente e um secretário, eleitos pela assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
+Art. 9.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta ainda constituída por um vice-presidente e um secretário, eleitos pela assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com antecedência mínima de 30 dias, com indicação expressa dos assuntos a tratar.
 
@@ -249,17 +263,17 @@ h) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 4 - Para efeitos do número anterior, as acções deverão manter-se registadas em nome dos accionistas ou depositadas, pelo menos, até ao encerramento da reunião da assembleia geral.
 
-###### Art. 10.º - 1 - A assembleia geral reunirá pelo menos uma vez por ano e sempre que requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
+Art. 10.º - 1 - A assembleia geral reunirá pelo menos uma vez por ano e sempre que requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
 
 2 - Para efeitos das alíneas b) a d) do n.º 1 do artigo 8.º, a assembleia geral sé pode reunir encontrando-se presentes accionistas que representem, pelo menos, 51% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 11.º - 1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais.
+Art. 11.º - 1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais.
 
 2 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidas por nomeação do próprio conselho até que, em assembleia geral, se proceda à competente eleição.
 
-###### Art. 12.º - 1 - Ao conselho de administração compete:
+Art. 12.º - 1 - Ao conselho de administração compete:
 
 a) Gerir os negócios da sociedade e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -275,7 +289,7 @@ f) Exercer as demais competências que lhe sejam atribuídas por lei ou pela ass
 
 2 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, parte dos poderes que lhe são conferidos no número anterior, definidos em acta os limites e condições de tal delegação.
 
-###### Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo e fora dele;
 
@@ -287,7 +301,7 @@ d) Zelar pela correcta execução das deliberações do conselho.
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito, o qual tomará a designação de vice-presidente.
 
-###### Art. 14.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reúne-se extraordinariamente sempre que seja convocado pelo respectivo presidente, o qual poderá proceder a tal convocação por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
+Art. 14.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reúne-se extraordinariamente sempre que seja convocado pelo respectivo presidente, o qual poderá proceder a tal convocação por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração sé poderá funcionar estando presente ou representada a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos votos expressos.
 
@@ -297,7 +311,7 @@ d) Zelar pela correcta execução das deliberações do conselho.
 
 5 - As deliberações do conselho de administração constarão sempre de acta, que consignará os votos de vencido.
 
-###### Art. 15.º - 1 - A sociedade obriga-se:
+Art. 15.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -311,23 +325,23 @@ c) Pela assinatura de mandatário constituído, no âmbito dos poderes que lhe f
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 16.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente e dois vogais efectivos e um suplente.
+Art. 16.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente e dois vogais efectivos e um suplente.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
 3 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 17.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, e o presidente tem voto de qualidade.
+Art. 17.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, e o presidente tem voto de qualidade.
 
 #### SECÇÃO IV — Conselho de impacte ambiental
 
-###### Art. 18.º - 1 - O conselho de impacte ambiental é constituído por cinco personalidades de reconhecida competência na área da defesa do ambiente.
+Art. 18.º - 1 - O conselho de impacte ambiental é constituído por cinco personalidades de reconhecida competência na área da defesa do ambiente.
 
 2 - Ao conselho de impacte ambiental compete dar pareceres e formular recomendações acerca do impacte ambiental dos empreendimentos, nomeadamente florestais e industriais, da sociedade, tendo especialmente em atenção as disposições legais sobre a matéria.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 19.º Os resultados positivos do exercício, devidamente aprovados, terão a seguinte aplicação:
+Art. 19.º Os resultados positivos do exercício, devidamente aprovados, terão a seguinte aplicação:
 
 a) 10%, pelo menos, para a reserva legal, até atingir o montante legal exigível;
 
@@ -339,8 +353,8 @@ d) O restante conforme for deliberado pela assembleia geral.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 20.º Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 20.º Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
 
-###### Art. 21.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
+Art. 21.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.

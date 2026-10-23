@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/185a00/41104117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/294/1991/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1991-676041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5095e38a149abbf4a8075ac249e4206c05e07a666d7c4b454698a10e08b00c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03111159d271d8c17a2ae9cb60a5ba001dc6ca5b6c6ba0ef83ec2f8d04108020
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auditoria Jurídica
 - Comissão Consultiva do Ambiente
 - Comissão Nacional contra a Poluição do MAR
 - Conselho de Prevenção do Tabagismo
@@ -73,24 +74,89 @@ subjects:
 - Gabinete de Estudos e Planeamento do Ambiente e Recursos Naturais
 - Gabinete de Protecção e Segurança Nuclear
 - Gabinete dos Assuntos Europeus
-- Auditoria Jurídica
 - Ministério do Ambiente e Recursos Naturais
 - Orgânica
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELO DECRETO LEI 451/91, PUBLICADO NO DR.IS-A, 279, SUPL, DE 911204, RELATIVAMENTE A TUTELA DO CONSELHO\
+    \ DE PREVENÇÃO DO TABAGISMO. REVOGADO PELO DECRETO LEI 187/93, PUBLICADO NO DR.IS-A, 120, DE 930524. EXTINTOS OS SEGUINTES\
+    \ SERVIÇOS, PELO DECRETO LEI 187/93, PUBLICADO NO DR.IS-A, 120, DE 930524: AUDITORIA JURÍDICA, GABINETE DE ESTUDOS E PLANEAMENTO\
+    \ DO AMBIENTE E RECURSOS NATURAIS, GABINETE DE ASSUNTOS EUROPEUS E DELEGAÇÕES REGIONAIS DO MINISTÉRIO DO AMBIENTE E RECURSOS\
+    \ NATURAIS.\0NTE E RECURSOS NATURAIS.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:292481:por
   label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Alterado o presente diploma, relativamente à tutlea das competências atribuídas à Comissão Nacional Contra a Poluição
+    do Mar, pelo(a) Decreto-Lei n.º 451/91 - Diário da República n.º 279/1991, 1º Suplemento, Série I-A de 1991-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
   source: null
 article_structure:
   article_count: 30
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:37Z'
   warnings: []
   errors: []
 ---
@@ -559,15 +625,15 @@ O presente diploma será regulamentado mediante decretos regulamentares, nomeada
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Manuel Pereira - João de Deus Rogado Salvador Pinheiro - Arlindo Gomes de Carvalho - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 26 de Julho de 1991.**
+Promulgado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Julho de 1991.**
+Referendado em 31 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Pessoal dirigente
 

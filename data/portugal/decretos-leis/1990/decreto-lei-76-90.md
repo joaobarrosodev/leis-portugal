@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/05900/11341135.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1990-332707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0de325f3072af8b3c01192efc8dfda301617c4eb72f80bdf304e8874cacae3c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7517b4619be0ac6dc29433abf1b8db6944c70250289213c701956cb08750e478
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão para a Reforma do Tesouro
+- Conselho Consultivo
+- Definição de Competências
+- Direcção Geral da Junta do Crédito Público
+- Direcção Geral do Tesouro
+- Ministério das Finanças
+- Prazo
+- Presidente
+- Reestruturação de Serviços
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:41Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +125,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criada no Ministério das Finanças a Comissão para a Reforma do Tesouro, abreviadamente designada por Comissão, na dependência do Ministro, com faculdade de delegação.
+Artigo 1.º - 1 - É criada no Ministério das Finanças a Comissão para a Reforma do Tesouro, abreviadamente designada por Comissão, na dependência do Ministro, com faculdade de delegação.
 
 2 - A Comissão é composta por um presidente e por quatro vogais, a nomear nos termos do n.º 1 do artigo 2.º do presente diploma, podendo para tanto ser requisitados, nos termos legais.
 
@@ -122,7 +145,7 @@ f) Desenvolver acções com vista à inclusão das tesourarias da Fazenda Públi
 
 4 - A Comissão tem um prazo de dois anos, a partir da data da nomeação do seu presidente, para a consecução dos objectivos referidos no número anterior, extinguindo-se com a conclusão dos respectivos trabalhos ou no final desse prazo.
 
-###### Art. 2.º - 1 - O presidente e os vogais da Comissão são considerados encarregados de missão, sendo nomeados e exonerados nos termos do artigo 23.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
+Art. 2.º - 1 - O presidente e os vogais da Comissão são considerados encarregados de missão, sendo nomeados e exonerados nos termos do artigo 23.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
 
 2 - Além das competências específicas que lhe venham a ser atribuídas nos termos do número anterior, compete ainda ao presidente da Comissão, no caso de não se encontrar preenchido o lugar de director-geral da Direcção-Geral do Tesouro ou na Direcção-Geral da Junta do Crédito Público, assegurar a representação das referidas direcções-gerais e aí exercer as competências genéricas e próprias constantes dos n.os 2 e 3 do artigo 11.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, com faculdade de delegação e sem prejuízo do estabelecido no n.º 4.
 
@@ -130,26 +153,26 @@ f) Desenvolver acções com vista à inclusão das tesourarias da Fazenda Públi
 
 4 - Enquanto o presidente da Comissão desempenhar as competências referidas no n.º 2, no âmbito da Direcção-Geral do Tesouro ou da Direcção-Geral da Junta do Crédito Público, os vogais indicados no número anterior assegurarão na respectiva direcção-geral as competências previstas nos n.os 10 a 18, 20 a 22, 25 a 35 e 38 a 40 constantes do mapa II anexo ao [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
 
-###### Art. 3.º - 1 - A Comissão para a Reforma do Tesouro pode funcionar por estruturas de projectos, a constituir por proposta do presidente e sob a sua coordenação, nos termos do artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+Art. 3.º - 1 - A Comissão para a Reforma do Tesouro pode funcionar por estruturas de projectos, a constituir por proposta do presidente e sob a sua coordenação, nos termos do artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
 2 - O apoio administrativo e logístico ao funcionamento da Comissão e do conselho consultivo é assegurado pela Direcção-Geral do Tesouro.
 
-###### Art. 4.º - 1 - No âmbito da reforma do Tesouro é ainda criado um conselho consultivo, composto por quatro a seis elementos, a nomear de entre personalidades de reconhecido mérito e competência nas áreas financeira e da Administração Pública, a quem compete pronunciar-se sobre a reforma em geral e sobre outros assuntos que lhe sejam presentes.
+Art. 4.º - 1 - No âmbito da reforma do Tesouro é ainda criado um conselho consultivo, composto por quatro a seis elementos, a nomear de entre personalidades de reconhecido mérito e competência nas áreas financeira e da Administração Pública, a quem compete pronunciar-se sobre a reforma em geral e sobre outros assuntos que lhe sejam presentes.
 
 2 - O conselho consultivo é presidido pelo Ministro das Finanças, que terá a faculdade de delegação.
 
 3 - A nomeação dos membros do conselho consultivo e a respectiva remuneração são estabelecidas por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças.
 
-###### Art. 5.º Todos os encargos orçamentais decorrentes da aprovação do presente diploma são suportados pelas verbas da Direcção-Geral do Tesouro.
+Art. 5.º Todos os encargos orçamentais decorrentes da aprovação do presente diploma são suportados pelas verbas da Direcção-Geral do Tesouro.
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 23 de Fevereiro de 1990.**
+Promulgado em 23 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Março de 1990.**
+Referendado em 1 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

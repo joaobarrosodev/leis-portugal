@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/102a00/24252427.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/162/1991/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1991-616630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b12d8398dd942376141c1f3ef1d1f457989ca78b49194b8d064599a10457156
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25183cf588c3ffb68974119a88fc1d3eda8a6c5851a04b6a01f18c1446f2cb92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Cosec
-- Definição de Competências
-- Fundo para a Cooperação Económica
-- Palop
+- Comissão Executiva
 - Conselho Consultivo
-- Instituto para a Cooperação Económica
 - Conselho de Garantias Financeiras
 - Cooperação Económica
+- Cosec
+- Definição de Competências
+- Financiamento
+- Fundo para a Cooperação Económica
+- Instituto para a Cooperação Económica
+- Palop
 - Presidente
 - Receita
-- Comissão Executiva
 relationships:
 - type: amended_by
   target: pt:dre:434421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 14 PELO DEC LEI 1/93 DE 04-JAN DR.IS-A [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-01-04'
+- type: amended_by
+  target: pt:dre:284536:por
+  label: "Alterado o 14º pelo DEC LEI.1/93.04.01.1993.MNE, DR.IS-A [2] de 04.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-1993-284536
+  date: '1993-01-04'
+- type: amended_by
+  target: pt:dre:235875:por
+  label: "Alterada a al. a) do nº 1 e o nº 5 do art. 4.º e al. d) do nº 1 do art. 6.º pelo DEC LEI.307/98.1998.10.12.MF DR.IS-A\
+    \ [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-1998-235875
+  date: '1998-10-12'
+- type: amended_by
+  target: pt:dre:434421:por
+  label: "Extinto, na data de inicio de actividade da APAD, o Fundo para a Cooperação Económica pelo DEC LEI.327/99.1999.08.18.MNE,\
+    \ DR.IS-A [192].\092].\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1999-434421
+  date: '1999-08-18'
+- type: repealed_by
+  target: pt:dre:515471:por
+  label: "Revogado pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:41Z'
   warnings: []
   errors: []
 ---
@@ -120,11 +147,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criado o Fundo para a Cooperação Económica, abreviadamente designado por Fundo, com a natureza de fundo público, com autonomia administração, nos termos definidos no presente diploma.
+Artigo 1.º É criado o Fundo para a Cooperação Económica, abreviadamente designado por Fundo, com a natureza de fundo público, com autonomia administração, nos termos definidos no presente diploma.
 
-###### Art. 2.º O Fundo funciona junto do Instituto para a Cooperação Económica e fica sujeito à tutela dos Ministros das Finanças e dos Negócios Estrangeiros.
+Art. 2.º O Fundo funciona junto do Instituto para a Cooperação Económica e fica sujeito à tutela dos Ministros das Finanças e dos Negócios Estrangeiros.
 
-###### Art. 3.º - 1 - Constituem atribuições do Fundo:
+Art. 3.º - 1 - Constituem atribuições do Fundo:
 
 a) Apoiar financeiramente projectos que contribuam para o desenvolvimento dos países africanos de língua oficial portuguesa (PALOP) ou em que estejam envolvidas entidades portuguesas no âmbito de actividades de cooperação com aqueles países;
 
@@ -132,7 +159,7 @@ b) Promover a articulação dos projectos ou acções de cooperação com inicia
 
 2 - O Fundo pode, ainda, apoiar acções de cooperação com outros países em desenvolvimento desde que não sejam concorrentes com a actividade das instituições de cooperação multilateral em que o Estado Português participe.
 
-###### Art. 4.º - 1 - Para a prossecução dos seus objectivos, o Fundo pode praticar as seguintes operações:
+Art. 4.º - 1 - Para a prossecução dos seus objectivos, o Fundo pode praticar as seguintes operações:
 
 a) Conceder, por conta e ordem do Tesouro, empréstimos para o financiamento de investimentos ou projectos específicos de desenvolvimento, inseridos ou não em programas, em condições especiais de prazo de reembolso e de taxa de juro;
 
@@ -154,13 +181,13 @@ f) Conceder bonificações de taxa de juro sobre os empréstimos referidos na al
 
 5 - Os empréstimos referidos na alínea a) do n.º 1, ou qualquer reestruturação subsequente, só podem ser concretizados mediante parecer favorável da Direcção-Geral do Tesouro.
 
-###### Art. 5.º São órgãos do Fundo:
+Art. 5.º São órgãos do Fundo:
 
 a) O conselho directivo;
 
 b) A comissão executiva.
 
-###### Art. 6.º - 1 - O conselho directivo tem a seguinte composição:
+Art. 6.º - 1 - O conselho directivo tem a seguinte composição:
 
 a) Um presidente, designado por despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros;
 
@@ -180,7 +207,7 @@ f) O presidente do Instituto do Comércio Externo de Portugal.
 
 4 - As entidades referidas nas alíneas b), c), d), e) e f) do n.º 1 devem nomear os seus representantes no prazo de 15 dias a contar da data da publicação do presente diploma.
 
-###### Art. 7.º No âmbito das suas funções de administração compete, nomeadamente, ao conselho directivo:
+Art. 7.º No âmbito das suas funções de administração compete, nomeadamente, ao conselho directivo:
 
 a) Elaborar e submeter à aprovação da tutela as orientações genéricas relativas à actividade do Fundo, designadamente os termos de referência para apresentação de candidaturas e as normas correspondentes ao estudo e aprovação das acções ou projectos a apoiar;
 
@@ -196,27 +223,27 @@ f) Elaborar e submeter à aprovação da tutela, até 31 de Outubro de cada ano,
 
 g) Elaborar e submeter à aprovação da tutela, até 31 de Março de cada ano, o relatório da actividade desenvolvida pelo Fundo no ano anterior, bem como as contas respectivas, cuja súmula se incluirá, destacadamente, no relatório e contas do Instituto para a Cooperação Económica.
 
-###### Art. 8.º - 1 - O conselho directivo reúne pelo menos uma vez por mês e sempre que convocado pelo respectivo presidente, por sua iniciativa ou a pedido de dois dos seus membros.
+Art. 8.º - 1 - O conselho directivo reúne pelo menos uma vez por mês e sempre que convocado pelo respectivo presidente, por sua iniciativa ou a pedido de dois dos seus membros.
 
 2 - O conselho directivo delibera validamente quando esteja presente a maioria dos seus membros e se tenha constituído uma maioria de votos, cabendo ao presidente voto de qualidade.
 
 3 - De todas as reuniões do conselho directivo lavrar-se-á acta, que será assinada por todos os membros presentes.
 
-###### Art. 9.º - 1 - O conselho directivo é assistido por um secretariado permanente, cuja estrutura será aprovada pela tutela, composto por elementos do Instituto para a Cooperação Económica e, se necessário, por pessoal requisitado nos termos do número seguinte.
+Art. 9.º - 1 - O conselho directivo é assistido por um secretariado permanente, cuja estrutura será aprovada pela tutela, composto por elementos do Instituto para a Cooperação Económica e, se necessário, por pessoal requisitado nos termos do número seguinte.
 
 2 - Os funcionários do Estado e dos institutos públicos, bem como os trabalhadores de empresas, públicas ou privadas, podem ser autorizados a exercer as funções referidas no número anterior, em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros que usufruiriam se tivessem permanecido no respectivo quadro.
 
 3 - O conselho directivo pode, ainda, recorrer a consultores externos, sobre matérias específicas, no âmbito das atribuições do Fundo.
 
-###### Art. 10.º A gestão corrente do Fundo é atribuída à comissão executiva, composta pelos elementos referidos nas alíneas a), b) e c) do n.º 1 do artigo 6.º
+Art. 10.º A gestão corrente do Fundo é atribuída à comissão executiva, composta pelos elementos referidos nas alíneas a), b) e c) do n.º 1 do artigo 6.º
 
-###### Art. 11.º - 1 - O presidente do conselho directivo é equiparado, para todos os efeitos, a director-geral.
+Art. 11.º - 1 - O presidente do conselho directivo é equiparado, para todos os efeitos, a director-geral.
 
 2 - Os outros dois membros do conselho directivo que integram a comissão executiva são, para todos os efeitos, equiparados a subdirector-geral.
 
 3 - Aos restantes membros do conselho directivo, cujas funções sejam exercidas em acumulação, é atribuído um suplemento ao abrigo da legislação geral em vigor, sendo os respectivos montantes fixados por despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros.
 
-###### Art. 12.º - 1 - Constituem receitas do Fundo:
+Art. 12.º - 1 - Constituem receitas do Fundo:
 
 a) Dotações que lhe venham a ser atribuídas pelo Orçamento do Estado;
 
@@ -230,28 +257,28 @@ d) Outras receitas que lhe venham a ser atribuídas.
 
 3 - Ao Fundo é vedada a contracção de empréstimos.
 
-###### Art. 13.º São beneficiários do Fundo:
+Art. 13.º São beneficiários do Fundo:
 
 a) As entidades que têm a responsabilidade de concretizar os projectos de desenvolvimento ou os empreendimentos apoiados pelo Fundo;
 
 b) As entidades que contribuam para a concretização dos projectos de desenvolvimento apoiados pelo Fundo, através do fornecimento de bens ou da prestação de serviços com ele directamente relacionados.
 
-###### Art. 14.º - 1 - O apoio administrativo ao Fundo é assegurado pelo Instituto para a Cooperação Económica.
+Art. 14.º - 1 - O apoio administrativo ao Fundo é assegurado pelo Instituto para a Cooperação Económica.
 
 2 - Os encargos inerentes ao secretariado de apoio ao conselho directivo, ao pessoal que eventualmente venha a ser requisitado, nos termos dos n.os 1 e 2 e aos serviços previstos no n.º 3 todos do artigo 9.º, são pagos pelo Instituto para a Cooperação Económica, por conta e ordem do Fundo.
 
-###### Art. 15.º - 1 - Em caso de liquidação do Fundo, transitarão para o Estado os activos ao tempo existentes, com excepção das verbas a que se refere o n.º 2 do artigo 12.º, bem como as eventuais responsabilidades assumidas pelo Fundo e à data ainda não cumpridas.
+Art. 15.º - 1 - Em caso de liquidação do Fundo, transitarão para o Estado os activos ao tempo existentes, com excepção das verbas a que se refere o n.º 2 do artigo 12.º, bem como as eventuais responsabilidades assumidas pelo Fundo e à data ainda não cumpridas.
 
 2 - Os montantes não aplicados, à data da liquidação, resultantes das entregas a que se refere o n.º 2 do artigo 12.º têm o destino que for indicado pelas entidades que procederem à sua entrega ao Fundo.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 24 de Abril de 1991.**
+Promulgado em 24 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Abril de 1991.**
+Referendado em 29 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

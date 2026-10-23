@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/145a00/32673267.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/235/1991/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1991-649365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 624f430720e60dd2538cfe30b8d6dab995b5a6952a6f15e026ca3a93b121b757
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ed347bb769cee3a5b90f58d6273d156ae1a5160a189e7cebd59462c2d5d95dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Estabelecimento Hoteleiro
 - Indústria Hoteleira
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:250607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613380:por
+  label: "Repristinado, por recusa de ratificação do Dec Lei 327/95 de 05-Dez, pela RES.10/96.17.02.1996.AR, DR.IS-A [41]\
+    \ de 17.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-1996-613380
+  date: '1996-02-17'
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357877:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633726:por
+  label: "Revogado pelo DEC LEI.327/95.1995.12.05.MCT, DR.IS-A [280], sem prejuízo do disposto no nº 2 do art. 2º do referido\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1995-633726
+  date: '1995-12-05'
+- type: repealed_by
+  target: pt:dre:156001:por
+  label: "Revogado pelo DEC LEI.167/97.1997.07.04.MECO, DR.IS-A [145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1997-156001
+  date: '1997-07-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:20Z'
   warnings: []
   errors: []
 ---
@@ -116,26 +141,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aditados ao artigo 29.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 434/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1988-357877), de 21 de Novembro, os n.os 12 e 13, com a seguinte redacção.
+Artigo 1.º São aditados ao artigo 29.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 434/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1988-357877), de 21 de Novembro, os n.os 12 e 13, com a seguinte redacção.
 
 12 - Se algum ou alguns representantes de serviços ou organismos da administração central tiver votado contrariamente a decisão favorável à aprovação da localização de um empreendimento turístico com fundamento no desrespeito da legislação em vigor, da sua posição constarão as disposições legais em seu entender violadas.
 
 13 - No caso previsto no número anterior, a Direcção-Geral do Turismo, no prazo de 10 dias contados da data da deliberação, submetê-la-á à aprovação conjunta dos membros do Governo com tutela sobre o turismo e sobre os serviços ou organismos referidos no mesmo número.
 
-###### Art. 2.º O artigo 87.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 87.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 87.º No caso dos empreendimentos a que se refere o n.º 1 do artigo 85.º, se o respectivo título não for apresentado no prazo e condições fixados, ou se o suprimento judicial previsto no n.º 3 do mesmo artigo for negado, ser-lhes-á retirada a classificação de estabelecimento hoteleiro ou de meio complementar de alojamento turístico, ou a qualificação de conjunto turístico.
+Art. 87.º No caso dos empreendimentos a que se refere o n.º 1 do artigo 85.º, se o respectivo título não for apresentado no prazo e condições fixados, ou se o suprimento judicial previsto no n.º 3 do mesmo artigo for negado, ser-lhes-á retirada a classificação de estabelecimento hoteleiro ou de meio complementar de alojamento turístico, ou a qualificação de conjunto turístico.
 
-###### Art. 3.º Os prazos estabelecidos no n.º 1 do artigo 85.º e no n.º 2 do artigo 86.º, ambos do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, no que respeita aos aldeamentos turísticos e aos conjuntos turísticos, são renovados pelo mesmo período, contando-se os novos prazos a partir da data de entrada em vigor do presente diploma.
+Art. 3.º Os prazos estabelecidos no n.º 1 do artigo 85.º e no n.º 2 do artigo 86.º, ambos do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, no que respeita aos aldeamentos turísticos e aos conjuntos turísticos, são renovados pelo mesmo período, contando-se os novos prazos a partir da data de entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Manuel Pereira - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 7 de Junho de 1991.**
+Promulgado em 7 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1991.**
+Referendado em 12 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

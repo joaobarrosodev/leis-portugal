@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/107a00/25212530.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc0a62c99d6e5d88a193d6a819141b46154d594e889d52eda72ea01a93983956
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04bf41efcceb176434318a0e2bdacdc554f32c5023823312d4cebbaecb39baf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,84 @@ reuse:
 subjects:
 - Administração do Ensino
 - ÁREA Escolar
-- Pessoal Dirigente
 - Conselho Administrativo
 - Conselho de Gestão
+- Conselho Diretivo
 - Conselho Pedagógico
 - Definição de Competências
-- Gestão Escolar
-- Conselho Diretivo
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Secundário
 - Estabelecimento de Ensino
-- Ensino Básico
-- Educação Pré-escolar
+- Gestão Escolar
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:371038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1065514:por
+  label: "Prolongado no ano lectivo de 1996-1997, a aplicação do regime instituído pelo presente diploma, pelo DESP.128/ME/96.1996.06.17.ME,\
+    \ DR.IIS [156] de 1996.07.08\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/128-1996-1065514
+  date: '1996-06-17'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620941:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:155636:por
+  label: "Revogado pelo DEC LEI.115-A/98.1998.05.04.ME, DR.IS-A [102]Supl de 04/Mai/1998, sem prejuízo da sua aplicação transitória\
+    \ nos termos dos artigos 2.º e seguintes\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-a-1998-155636
+  date: '1998-05-04'
 article_structure:
   article_count: 53
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:56Z'
   warnings: []
   errors: []
 ---
@@ -765,12 +817,12 @@ g) [Portaria n.º 1016/89](https://diariodarepublica.pt/dr/detalhe/portaria/1016
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 19 de Abril de 1991.**
+Promulgado em 19 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Abril de 1991.**
+Referendado em 23 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

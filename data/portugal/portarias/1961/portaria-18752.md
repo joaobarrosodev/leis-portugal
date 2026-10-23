@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1961/09/22700/12451246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18752-1961-180019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 304ededb306d3e469fd25cd2a4567df921dfebf6bf2b12faed1e704e567aba0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 055a773e7c65f228ea1ae334ac328d6ad19ceb2da712d1e77230e9f7f1de8d72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- Comissão Inter-hospitalar
+- Conselho Executivo
+- Definição de Competências
+- Gestão Financeira
+- Lisboa
+- Porto
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:646300:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:578701:por
+  label: "Determinado que continue a reger-se pelo disposto nos arts. 7º, 8º e 9º do Dec Lei 31913 de 12-Mar de 1942, até\
+    \ à reorganização dos quadros dos serviços do Ministério da Saúde e Assistência, a Comissão Inter-Hospitalar de Coimbra,\
+    \ criada pelo art. 8º do Dec lei 43853 de 10-Ago de 1961, cujo regulamento consta do presente diploma, pelo DEC LEI.45825.20.07.1964.MSA,\
+    \ DG.IS [169] de 20.07.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45825-1964-578701
+  date: '1964-07-20'
+- type: amended_by
+  target: pt:dre:239440:por
+  label: "Determinado que sejam exercidas, a partir de 01.01.1967, pelo director da zona hospitalar, pelo secretário da zona\
+    \ ou outro funcionário que as exerça, as funções atribuídas ao conselho executivo das comissões inter-hospitalares pela\
+    \ al. a) do nº 9º do presente diploma pela PORT.22431.05.01.1967.MSA, DG.IS [4] de 05.01.1967\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22431-1967-239440
+  date: '1967-01-05'
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588579:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:156815:por
+  label: "Revogada pelo DEC LEI.519-O2/79.29.12.1979.PCM, DR.IS [299-14º Supl] de 29.12.1979 (Mantida em vigor a norma revogada,\
+    \ conforme o disposto no art. 2º do Dec Lei 81/80, de 19 de Abril)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/519-o2-1979-156815
+  date: '1979-12-29'
+- type: repealed_by
+  target: pt:dre:646300:por
+  label: "Revogada pelo DEC LEI.345/93.01.10.1993.MS, DR.IS-A [231] de 01.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-1993-646300
+  date: '1993-10-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:43Z'
   warnings: []
   errors: []
 ---

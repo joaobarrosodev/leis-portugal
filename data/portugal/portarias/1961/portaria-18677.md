@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18677-1961-173083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de381878629ed83f1fc808e6a712afdc351091264d9e7903ea25ba618e2f84ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 366b2180edc174c5497ff12040eedbee58ff0b36537ea988575ae090c6a67828
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:02Z'
   warnings: []
   errors: []
 ---
@@ -115,18 +115,18 @@ Messe de Oficiais da Força Aérea e Messe de Sargentos da Força Aérea
 
 A) Oficiais e oficiais milicianos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf))](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf)
 
 B) Praças readmitidas e praças não readmitidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf))](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf)
 
 C) Pessoal civil contratado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf))](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf)
 
 D) Pessoal civil assalariado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf))](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/08/19100/10251026.pdf)
 
 Presidência do Conselho e Ministério do Ultramar, 18 de Agosto de 1961. - O Ministro do Ultramar, Adriano José Alves Moreira. - O Secretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.

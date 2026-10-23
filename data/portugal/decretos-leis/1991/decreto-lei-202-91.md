@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/202/1991/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1991-629664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 704490c15c3a640de1b4c829753d9dc0c53f89cf96fe837ab4b59cccb9d7a022
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 632b277e331d557f9346609df927e04eff91147b145d687302bfb932d36947de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
 - Aproximação das Legislações
-- Doença Animal
 - CEE
 - Controlo Sanitário
+- Doença Animal
+- GADO
 - Política Agrícola Comum
 relationships:
 - type: cites
@@ -78,15 +78,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1982/894/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:32Z'
   warnings: []
   errors: []
 ---
@@ -107,11 +107,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma estabelece as normas relativas à notificação do aparecimento das doenças nos animais e à organização territorial do País, decorrente da aplicação das medidas de polícia sanitária, transpondo para a ordem jurídica nacional a Directiva n.º [82/894/CEE](https://data.europa.eu/eli/dir/1982/894/oj?locale=pt), do Conselho, de 21 de Dezembro de 1982.
+Artigo 1.º - 1 - O presente diploma estabelece as normas relativas à notificação do aparecimento das doenças nos animais e à organização territorial do País, decorrente da aplicação das medidas de polícia sanitária, transpondo para a ordem jurídica nacional a Directiva n.º [82/894/CEE](https://data.europa.eu/eli/dir/1982/894/oj?locale=pt), do Conselho, de 21 de Dezembro de 1982.
 
 2 - O disposto no presente diploma não prejudica a aplicabilidade das disposições específicas quanto à informação sobre as medidas de erradicação e ou profilaxia das doenças dos animais.
 
-###### Art. 2.º Para efeitos do presente diploma entende-se por:
+Art. 2.º Para efeitos do presente diploma entende-se por:
 
 a) Exploração: a empresa agrícola ou o estábulo do negociante onde os animais são criados ou mantidos;
 
@@ -125,27 +125,27 @@ e) Zona de intervenção sanitária: adiante designada por ZIS, é a área do te
 
 f) Responsável de ZIS: o médico veterinário oficial designado pela autoridade sanitária veterinária nacional, da qual depende funcionalmente, através do director de serviços de protecção à produção animal e dos gestores dos programas de erradicação em desenvolvimento na área respectiva.
 
-###### Art. 3.º - 1 - O sistema de notificação das doenças dos animais é da competência da Direcção-Geral da Pecuária, que centralizará as informações previstas nos artigos 4.º e 7.º
+Art. 3.º - 1 - O sistema de notificação das doenças dos animais é da competência da Direcção-Geral da Pecuária, que centralizará as informações previstas nos artigos 4.º e 7.º
 
 2 - O responsável de ZIS remeterá à Direcção-Geral da Pecuária os elementos referentes às ocorrências sanitárias dentro dos prazos estabelecidos.
 
-###### Art. 4.º Portugal notificará a Comissão e os outros Estados membros das Comunidades Europeias do aparecimento de um foco primário de uma das doenças constantes da portaria a que se refere o n.º 1 do artigo 10.º, detectado no seu território, bem como da supressão, após extinção do último foco, das restrições accionadas, no prazo de 24 horas.
+Art. 4.º Portugal notificará a Comissão e os outros Estados membros das Comunidades Europeias do aparecimento de um foco primário de uma das doenças constantes da portaria a que se refere o n.º 1 do artigo 10.º, detectado no seu território, bem como da supressão, após extinção do último foco, das restrições accionadas, no prazo de 24 horas.
 
-###### Art. 5.º As notificações a que alude o artigo anterior devem respeitar a estrutura prevista na portaria a que se refere o n.º 1 do artigo 10.º e serão transmitidas pelo sistema de comunicação em uso na Comunidade.
+Art. 5.º As notificações a que alude o artigo anterior devem respeitar a estrutura prevista na portaria a que se refere o n.º 1 do artigo 10.º e serão transmitidas pelo sistema de comunicação em uso na Comunidade.
 
-###### Art. 6.º Exceptua-se do disposto no artigo anterior o caso de peste suína clássica, para o qual é suficiente a informação prevista no plano acelerado de erradicação da peste suína clássica referido no Decreto-Lei n.º 250/88, de 16 de Julho.
+Art. 6.º Exceptua-se do disposto no artigo anterior o caso de peste suína clássica, para o qual é suficiente a informação prevista no plano acelerado de erradicação da peste suína clássica referido no Decreto-Lei n.º 250/88, de 16 de Julho.
 
-###### Art. 7.º - 1 - Portugal notificará directamente a Comissão, no primeiro dia útil de cada semana, dos focos secundários das doenças enunciadas na portaria a que se refere o n.º 1 do artigo 10.º, constatados no território nacional.
+Art. 7.º - 1 - Portugal notificará directamente a Comissão, no primeiro dia útil de cada semana, dos focos secundários das doenças enunciadas na portaria a que se refere o n.º 1 do artigo 10.º, constatados no território nacional.
 
 2 - A notificação referida no número anterior abrange a semana que termina à meia-noite do domingo que a precede.
 
-###### Art. 8.º - 1 - A ausência de notificação significa a ausência de qualquer foco secundário, durante o período referido no artigo anterior.
+Art. 8.º - 1 - A ausência de notificação significa a ausência de qualquer foco secundário, durante o período referido no artigo anterior.
 
 2 - As notificações de focos secundários devem respeitar a estrutura prevista na portaria a que se refere o n.º 1 do artigo 10.º e são transmitidas nos termos do artigo 5.º
 
-###### Art. 9.º As competências cometidas por este diploma aos serviços e organismos da administração central serão exercidas nas Regiões Autónomas pelos competentes organismos e serviços das administrações regionais.
+Art. 9.º As competências cometidas por este diploma aos serviços e organismos da administração central serão exercidas nas Regiões Autónomas pelos competentes organismos e serviços das administrações regionais.
 
-###### Art. 10.º - 1 - Em portaria do Ministro da Agricultura, Pescas e Alimentação serão definidas:
+Art. 10.º - 1 - Em portaria do Ministro da Agricultura, Pescas e Alimentação serão definidas:
 
 a) As doenças de declaração obrigatória à Comissão das Comunidades Europeias e aos respectivos Estados membros;
 
@@ -157,12 +157,12 @@ c) A área territorial de cada zona de intervenção sanitária.
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Arlindo Marques da Cunha.
 
-**Promulgado em 10 de Maio de 1991.**
+Promulgado em 10 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Maio de 1991.**
+Referendado em 15 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/187a00/41474150.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/298/1991/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1991-674182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27745bd1acdd0c89680a7528a3e1615247b49a7212e4de8b0dfd8aa2c9f02c89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 434a4e1d01604c2fd0e6863bbaf0c135862a7de50fa033227ce019e6e856bfe5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,68 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Aposentação
-- Sistema Retributivo
 - Carreira Profissional
-- Remuneração Acessória
-- Subsídio de Risco
 - Política Salarial
 - Prestações Familiares
+- PSP
 - Quadro de Pessoal
 - Remuneração
+- Remuneração Acessória
+- Sistema Retributivo
+- Subsídio de Risco
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:598155:por
+  label: "Dada nova redacção ao art. 7º pelo DEC LEI.262/92.1992.11.24.MAI, DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-1992-598155
+  date: '1992-11-24'
+- type: amended_by
+  target: pt:dre:575732:por
+  label: "Consideradas como reportadas a superintendente-chefe as referências feitas a superintendente-geral no anexo II a\
+    \ que se refere o art do presente diploma, pelo DEC LEI.255/95.1995.09.30.MAI, DR.IS-A [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/255-1995-575732
+  date: '1995-09-30'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/86/1991/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86/1991/02/23/p/dre
+- type: cites
+  target: pt:dre:283093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:42Z'
   warnings: []
   errors: []
 ---
@@ -218,20 +251,20 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1991, sem prejuízo do d
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira.
 
-**Promulgado em 26 de Julho de 1991.**
+Promulgado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1991.**
+Referendado em 29 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Mapa a que se refere o n.º 1 do artigo 3.º do Decreto-Lei n.º 298/91
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/187a00/41474150.pdf))](https://files.diariodarepublica.pt/1s/1991/08/187a00/41474150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/187a00/41474150.pdf)
 
 ## ANEXO II — Mapa a que se refere o artigo 6.º do Decreto-Lei n.º 298/91
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/187a00/41474150.pdf))](https://files.diariodarepublica.pt/1s/1991/08/187a00/41474150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/187a00/41474150.pdf)

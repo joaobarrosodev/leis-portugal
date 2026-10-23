@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/183a00/40444049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/289/1991/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1991-680630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25dac0caa52c1d578c9c86cdb3e9d7106b55fb513df2d61d6ec12934d714cb0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 083b7394a8e72ffabebc8ee0cf9be2c68412da93699e29065712ce0b6647fcad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,47 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
+- Ensino Superior
+- Equivalência de Diplomas
 - Prestação de Serviços
 - Profissão Regulamentada
-- Equivalência de Diplomas
-- Ensino Superior
 - Trabalhador Comunitário
 relationships:
 - type: amended_by
   target: pt:dre:604779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662127:por
+  label: "Alterados os arts. 1º, 2º, 4º, 5º, 6º, 7º, 8º, 9º, 10º, 13º, 14º, 15º e 15º e extinto o nº 6 do art. 7º e o Mapa\
+    \ anexo ao presente diploma, pelo DEC LEI.396/99.1999.10.13.ME, DR.IS-A [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/396-1999-662127
+  date: '1999-10-13'
+- type: amended_by
+  target: pt:dre:226805:por
+  label: "Alterados os arts 2º, 3º, 4º, 9º. 15º e 16º, aditados os arts 2º-A, 6º-A e 6º-B e republicado pelo DEC LEI.71/2003.2003.04.10.MCES,\
+    \ DR.IS-A [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2003-226805
+  date: '2003-04-10'
 - type: cites
   target: celex:31989L0048
   label: null
   source: http://data.europa.eu/eli/dir/1989/48/oj
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
   article_count: 16
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:32Z'
   warnings: []
   errors: []
 ---
@@ -316,14 +333,14 @@ O regime de acesso, por parte de cidadãos comunitários, às profissões ou ao 
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 5 de Julho de 1991.**
+Promulgado em 5 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Julho de 1991.**
+Referendado em 17 de Julho de 1991.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência e da Defesa Nacional.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/183a00/40444049.pdf))](https://files.diariodarepublica.pt/1s/1991/08/183a00/40444049.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/183a00/40444049.pdf)

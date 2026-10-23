@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1990-543702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ceb0a7a9568b09ef108f3696c0ac8f76c50cf61da84203195ed33154d8247719
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0016ba359e043689e5fbd0025542a1390b910d7da3d1662ca5e9d38f8406221
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comando da Força Naval Permanente do Atlântico
+- Cooperação Militar
+- Marinha
+- Militar
+- Missão no Estrangeiro
+- NATO
+- Nomeação
+- Remuneração Acessória
+relationships:
+- type: cites
+  target: pt:dre:389381:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:46Z'
   warnings: []
   errors: []
 ---
@@ -92,24 +104,24 @@ Existindo necessidade de fixar o valor dos abonos a atribuir aos militares que d
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A nomeação e situação dos militares portugueses que desempenhem cargos internacionais militares no Comando da Força Naval Permanente do Atlântico (COMSTANAVFORLANT), em navios estrangeiros, processa-se nos termos definidos pelo [Decreto-Lei n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1981-389381), de 31 de Março.
+Artigo 1.º A nomeação e situação dos militares portugueses que desempenhem cargos internacionais militares no Comando da Força Naval Permanente do Atlântico (COMSTANAVFORLANT), em navios estrangeiros, processa-se nos termos definidos pelo [Decreto-Lei n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1981-389381), de 31 de Março.
 
-###### Art. 2.º A duração normal das respectivas comissões é a definida em documentação da Organização do Tratado do Atlântico Norte (OTAN) especificamente alusiva.
+Art. 2.º A duração normal das respectivas comissões é a definida em documentação da Organização do Tratado do Atlântico Norte (OTAN) especificamente alusiva.
 
-###### Art. 3.º O pessoal nomeado nas condições expressas no artigo 1.º tem direito a um abono mensal adicional, pago em dólares dos Estados Unidos da América, de valor igual ao somatório dos abonos base e abono complementar para representação, previstos em diplomas próprios para os militares em serviço nas missões militares no estrangeiro, consoante a equiparação que lhes seja atribuída no respectivo quadro de equiparações.
+Art. 3.º O pessoal nomeado nas condições expressas no artigo 1.º tem direito a um abono mensal adicional, pago em dólares dos Estados Unidos da América, de valor igual ao somatório dos abonos base e abono complementar para representação, previstos em diplomas próprios para os militares em serviço nas missões militares no estrangeiro, consoante a equiparação que lhes seja atribuída no respectivo quadro de equiparações.
 
-###### Art. 4.º os abonos a adoptar nos termos do artigo anterior são os correspondentes à média dos valores estabelecidos em relação aos seguintes países, que fornecem navio chefe para a respectiva força: Canadá, Holanda, Reino Unido, República Federal da Alemanha e Estados Unidos da América.
+Art. 4.º os abonos a adoptar nos termos do artigo anterior são os correspondentes à média dos valores estabelecidos em relação aos seguintes países, que fornecem navio chefe para a respectiva força: Canadá, Holanda, Reino Unido, República Federal da Alemanha e Estados Unidos da América.
 
-###### Art. 5.º A atribuição do abono inicia-se a partir da data da entrada em vigor do presente diploma para os militares que já se encontram no desempenho dos cargos ou da data de tomada de posse, quando for posterior.
+Art. 5.º A atribuição do abono inicia-se a partir da data da entrada em vigor do presente diploma para os militares que já se encontram no desempenho dos cargos ou da data de tomada de posse, quando for posterior.
 
 Visto e aprovado em Conselho de Ministros de 8 de Novembro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 11 de Dezembro de 1990.**
+Promulgado em 11 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1990.**
+Referendado em 18 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

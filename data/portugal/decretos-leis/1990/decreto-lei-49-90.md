@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1990-334669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e88eb08b08d0aaf8ab43c46e02111465f38211bde1bb917d36063cc5c802c543
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c420e14df94d5c8339ced4665911bd7b2174c4345535866a561da26aaf80e5e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Importação
+- Imposto Especial sobre o Consumo de Tabaco
+- Preço
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:653128:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660883:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:293329:por
+  label: Rectificado pela DECL.DD3252.1990.05.22.PCM, DR.IS [125]2ºSupl de 31.05.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-293329
+  date: '1990-05-22'
+- type: repealed_by
+  target: pt:dre:653128:por
+  label: "Revogado o Decreto-Lei n.º 444/86, de 31 de Dezembro, na redacção constante do presente diploma, pelo DEC LEI.325/93.25.09.1993.MF,\
+    \ DR.IS-A [226] de 25.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-1993-653128
+  date: '1993-09-25'
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:04Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +130,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo n.º 2 do artigo 31.º da [Lei n.º 114/88](https://diariodarepublica.pt/dr/detalhe/lei/114-1988-401882), de 30 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 17.º, 24.º, 32.º, 36.º, 41.º, 45.º, 48.º, 54.º, 56.º, 57.º, 61.º, 62.º, 63.º e 65.º do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 17.º, 24.º, 32.º, 36.º, 41.º, 45.º, 48.º, 54.º, 56.º, 57.º, 61.º, 62.º, 63.º e 65.º do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 17.º — Garantia
 
@@ -192,9 +224,9 @@ Quando o tabaco for considerado impróprio para consumo será lavrado auto de in
 
 5 - É competente para a venda desta mercadoria a Direcção-Geral das Alfândegas.
 
-###### Art. 2.º É revogado o artigo 42.º do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro.
+Art. 2.º É revogado o artigo 42.º do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro.
 
-###### Art. 3.º É aditado o artigo 54.º-A ao [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, com a seguinte redacção:
+Art. 3.º É aditado o artigo 54.º-A ao [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, com a seguinte redacção:
 
 ###### Artigo 54.º-A — Estampilha especial
 
@@ -214,7 +246,7 @@ Quando o tabaco for considerado impróprio para consumo será lavrado auto de in
 
 8 - O modelo da estampilha deve evidenciar o território do consumo.
 
-###### Art. 4.º 1 - O disposto no artigo 3.º entra em vigor no dia 1 de Julho de 1990, à excepção das competências atribuídas ao Ministro das Finanças, ao director-geral das Alfândegas e ao inspector-geral de Finanças.
+Art. 4.º 1 - O disposto no artigo 3.º entra em vigor no dia 1 de Julho de 1990, à excepção das competências atribuídas ao Ministro das Finanças, ao director-geral das Alfândegas e ao inspector-geral de Finanças.
 
 2 - A nova redacção dada aos artigos 36.º e 45.º do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, entra em vigor também no dia 1 de Julho de 1990.
 
@@ -222,12 +254,12 @@ Quando o tabaco for considerado impróprio para consumo será lavrado auto de in
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 30 de Janeiro de 1990.**
+Promulgado em 30 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Fevereiro de 1990.**
+Referendado em 2 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

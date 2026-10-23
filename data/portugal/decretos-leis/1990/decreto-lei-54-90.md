@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1990-334648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f552ed73781e9c409341fe0fdb2fd44e3562775cdd398ff2f5c146d8fe88289
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15504646bf2e1e3216c2ce434355f6684da77855e8abc75df8a7477f5b251c37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Registo Civil
 relationships:
 - type: amended_by
   target: pt:dre:642051:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642051:por
+  label: "Alterado o art. 3º do Dec Lei 145/85 de 08-Mai, na redacção do presente diploma, pelo DEC LEI.318/2007.26.09.2007.MJ,\
+    \ dr.is [186] de 26.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-2007-642051
+  date: '2007-09-26'
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456873:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521238:por
+  label: "Revogado o artigo 1.º, pelo DEC LEI.131/95.06.06.1995.MF, DR.IS-A [131] de 06.06.1995, a partir de 15.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-1995-521238
+  date: '1995-06-06'
+- type: repealed_by
+  target: pt:dre:693808:por
+  label: "Revogado o art. 3º pelo DEC LEI.461/99.1999.11.05.MJ, DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/461-1999-693808
+  date: '1999-11-05'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:16Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +129,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 129.º, 234.º, 240.º, 257.º e 365.º do Código do Registo Civil, aprovado pelo [Decreto-Lei n.º 51/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1978-456873), de 30 de Março, passam a ter seguinte redacção:
+Artigo 1.º Os artigos 129.º, 234.º, 240.º, 257.º e 365.º do Código do Registo Civil, aprovado pelo [Decreto-Lei n.º 51/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1978-456873), de 30 de Março, passam a ter seguinte redacção:
 
 ###### Artigo 129.º — [...]
 
@@ -182,11 +207,11 @@ e) ...
 
 2 - O exame dos registos para fins de investigação pode ser autorizado por despacho do director-geral dos Registos e do Notariado, a requerimento fundamentado dos interessados e desde que se mostre assegurado o respeito da vida privada e familiar das pessoas a quem respeitam.
 
-###### Art. 2.º - 1 - Sempre que seja recusada a realização, nos termos requeridos, de um acto de registo civil, predial ou comercial com fundamento em vício de que enferme título notarial, não tendo sido interposto recurso, assiste ao notário o direito de submeter a recusa à apreciação do Conselho Técnico da Direcção-Geral dos Registos e do Notariado para emissão de parecer.
+Art. 2.º - 1 - Sempre que seja recusada a realização, nos termos requeridos, de um acto de registo civil, predial ou comercial com fundamento em vício de que enferme título notarial, não tendo sido interposto recurso, assiste ao notário o direito de submeter a recusa à apreciação do Conselho Técnico da Direcção-Geral dos Registos e do Notariado para emissão de parecer.
 
 2 - Tendo sido interposto recurso hierárquico da recusa a que se refere o número anterior, o notário deve ser ouvido no respectivo processo, sempre que possível.
 
-###### Art. 3.º - 1 - Os serviços dos registos e do notariado podem transmitir entre si documentos por meio de telecópia, nos mesmos termos em que deles podem extrair certidões, sendo reconhecida aos documentos emitidos a força probatória dos originais.
+Art. 3.º - 1 - Os serviços dos registos e do notariado podem transmitir entre si documentos por meio de telecópia, nos mesmos termos em que deles podem extrair certidões, sendo reconhecida aos documentos emitidos a força probatória dos originais.
 
 2 - Os documentos directamente recebidos por meio de telecópia nos serviços dos registos e do notariado de qualquer serviço público português interno, consular ou do território de Macau têm o valor de certidão dos respectivos originais, desde que estes se encontrem arquivados no serviço emitente e este seja repartição pública ou depositário público autorizado.
 
@@ -202,9 +227,9 @@ b) Os operadores verifiquem, pelo documento exibido e a transmitir, que o respec
 
 6 - Pela emissão, a pedido das partes, de documentos por telecópia nos serviços dos registos e do notariado é cobrado o emolumento fixado em tabela a aprovar por portaria do Ministro da Justiça.
 
-###### Art. 4.º A informática pode ser utilizada para o tratamento de dados relativos aos registos civil, predial, comercial, de automóveis, navios e aeronaves e ao notariado, dentro dos limites consentidos pelas disposições constitucionais e legais em vigor.
+Art. 4.º A informática pode ser utilizada para o tratamento de dados relativos aos registos civil, predial, comercial, de automóveis, navios e aeronaves e ao notariado, dentro dos limites consentidos pelas disposições constitucionais e legais em vigor.
 
-###### Art. 5.º O artigo 3.º do [Decreto-Lei n.º 145/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1985-152365), de 8 de Maio, passa a ter a seguinte redacção:
+Art. 5.º O artigo 3.º do [Decreto-Lei n.º 145/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1985-152365), de 8 de Maio, passa a ter a seguinte redacção:
 
 Ar. 3.º - 1 - ...
 
@@ -212,16 +237,16 @@ Ar. 3.º - 1 - ...
 
 3 - ...
 
-###### Art. 6.º O presente diploma entra em vigor no primeiro dia do terceiro mês seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no primeiro dia do terceiro mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 31 de Janeiro de 1990.**
+Promulgado em 31 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Fevereiro de 1990.**
+Referendado em 2 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

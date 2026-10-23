@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18822-1961-185348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1456f5eb501cb5fcb15c08d28f966c16726763e4f6b3ec04af8163ab6c327a6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6475389cb59a2d765ee9781dbfbaa3e789c6d29e2d668ff73f5de31c0ebaf6bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:167250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:08Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +126,7 @@ V) A referência no artigo 31.º ao Cofre dos Conservadores, Notários e Funcion
 
 VI) A alínea m) do n.º 1 do artigo 61.º, o n.º 1 do artigo 67.º, o n.º 2 do artigo 186.º, o n.º 1 do artigo 207.º, os n.os 1 e 2 do artigo 216.º, os artigos 217.º, 218.º e 219.º passam a ter a seguinte redacção:
 
-###### Artigo 61.º, n.º 1, alínea m):
+Artigo 61.º, n.º 1, alínea m):
 
 As assinaturas em seguida ao contexto dos outorgantes que possam e saibam assinar, bem como de todos os outros intervenientes, e a assinatura do notário, que será a última do instrumento.
 
@@ -122,7 +142,7 @@ A extracção de fotocópias será feita nas repartições notariais, quando dev
 
 Pelos actos praticados nas repartições notariais serão cobrados os emolumentos e as taxas que constarem da tabela a publicar em cada uma das províncias ultramarinas pelo respectivo governador, nos termos da alínea c) do artigo 89.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961.
 
-###### Artigo 216.º, n.os 1 e 2:
+Artigo 216.º, n.os 1 e 2:
 
 1. Os livros indicados nas alíneas a) a d), g) e h) do n.º 1 do artigo 10.º, e só estes, estão sujeitos ao imposto do selo que a tabela de cada província determinar.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27100/48094810.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1990-564784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79945d69f761f9a3b602bd717f1cfd47ea058122b8bf5b8d550d402efcb828c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03e03a23a56a62f1e15aa600a2a6dcc136512b70f9b6fe03f872b64fc3e09197
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Pessoal Militarizado
+- Quadro de Pessoal
+- Serviços de Polícia e dos Transportes da Marinha
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:464776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:161891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502192:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:464776:por
+  label: "Revogado pelo DEC LEI.219/2005.23.12.2005.MDN, DR.IS-A [245] de 23.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-2005-464776
+  date: '2005-12-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:45Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +128,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 25.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 25.º do [Decreto-Lei n.º 282/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192), de 20 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 25.º - 1 - O pessoal do QPMM pode permanecer na efectividade do serviço, na situação de supranumerário, para além do limite dos 56 anos de idade de passagem à situação de aposentado, sempre que houver reconhecido interesse para o serviço e forem satisfeitas as demais condições fixadas neste diploma.
+Art. 25.º - 1 - O pessoal do QPMM pode permanecer na efectividade do serviço, na situação de supranumerário, para além do limite dos 56 anos de idade de passagem à situação de aposentado, sempre que houver reconhecido interesse para o serviço e forem satisfeitas as demais condições fixadas neste diploma.
 
 2 - A autorização para a prestação de serviço para além dos 56 anos, a que se refere o número anterior, compete ao Chefe do Estado-Maior da Armada, que pode delegar esta competência no superintendente dos Serviços do Pessoal da Armada, com faculdade de subdelegação no director do Serviço do Pessoal.
 
@@ -112,11 +142,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 6 - O acréscimo da contagem de tempo resultante do disposto nos n.os 3 e 4 sujeita os subscritores da Caixa Geral de Aposentações ao pagamento de quotas, nos termos da legislação em vigor.
 
-###### Art. 2.º - 1 - O quantitativo total de pessoal com mais de 56 anos de idade na efectividade de serviço não pode exceder 10% dos efectivos do QPMM.
+Art. 2.º - 1 - O quantitativo total de pessoal com mais de 56 anos de idade na efectividade de serviço não pode exceder 10% dos efectivos do QPMM.
 
 2 - Observado o disposto no número anterior, e dentro das dotações orçamentais atribuídas anualmente e por despacho do Chefe do Estado-Maior da Armada, serão estabelecidos os quantitativos de pessoal que, com mais de 56 anos de idade, pode continuar a prestar serviço na efectividade.
 
-###### Art. 3.º - 1 - São condições gerais para a continuação da prestação de serviço na efectividade por parte do pessoal do QPMM:
+Art. 3.º - 1 - São condições gerais para a continuação da prestação de serviço na efectividade por parte do pessoal do QPMM:
 
 a) Haver interesse por parte do candidato, manifestado em requerimento dirigido ao Chefe do Estado-Maior da Armada;
 
@@ -128,13 +158,13 @@ d) Ter aptidão física para o serviço efectivo, comprovada por junta médica.
 
 2 - Do requerimento deve ainda constar a área geográfica de preferência do candidato para efeitos de prestação de serviço em regime de voluntariado.
 
-###### Art. 4.º Os processos dos candidatos que satisfaçam as condições fixadas são presentes a um júri de avaliação, que fará a sua ordenação tendo em consideração os seguintes factores:
+Art. 4.º Os processos dos candidatos que satisfaçam as condições fixadas são presentes a um júri de avaliação, que fará a sua ordenação tendo em consideração os seguintes factores:
 
 a) Necessidades do serviço, conjugadas com as áreas geográficas de preferência indicadas pelos requerentes;
 
 b) Qualidades profissionais dos requerentes.
 
-###### Art. 5.º O júri da avaliação é constituído:
+Art. 5.º O júri da avaliação é constituído:
 
 a) Pelo director do Serviço do Pessoal, que preside e tem voto de qualidade no caso de empate na votação;
 
@@ -142,7 +172,7 @@ b) Pelo chefe da 6.ª Repartição da Direcção do Serviço do Pessoal;
 
 c) Pelos dois elementos mais antigos do grupo do QPMM a que pertence o requerente.
 
-###### Art. 6.º - 1 - O disposto no presente diploma é aplicável aos actuais aposentados, desde que:
+Art. 6.º - 1 - O disposto no presente diploma é aplicável aos actuais aposentados, desde que:
 
 a) Contém menos de 65 anos de idade;
 
@@ -154,12 +184,12 @@ b) Não tenham sido aposentados com base em incapacidade reconhecida em junta m�
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 10 de Novembro de 1990.**
+Promulgado em 10 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Novembro de 1990.**
+Referendado em 14 de Novembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

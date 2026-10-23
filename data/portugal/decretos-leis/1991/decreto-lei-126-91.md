@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/068a00/15221524.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/1991/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1991-471963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e62a33565b8859f2b6eade3f67703311588d5d7bba25aeb309076e739f79e00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f62252094d492faa713f5215cc9e5b05111505a37a9b5b308bf606e3d77ca7f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho de Garantias Financeiras
 - Cosec
 - Definição de Competências
-- Conselho de Garantias Financeiras
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:545649:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309002:por
+  label: "Alterado o art. 3º pelo DEC LEI.214/99.1999.06.15.MF, DR.IS-A [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-1999-309002
+  date: '1999-06-15'
+- type: amended_by
+  target: pt:dre:667484:por
+  label: "Extinto o Conselho de Garantias Financeiras, criado pelo presente diploma, que é revogado, com na redacção constante\
+    \ do Dec Lei 214/99 de 15-Jun, pelo DEC LEI.51/2006.14.03.2006.MFAP, DR.IS-A [52] de 14.03.2006 e nos termos do art. 10º\
+    \ deste último diploma, o qual remete para o Conselho de Garantias Financeiras à Exportação e ao Investimento todas as\
+    \ referências feitas ao Conselho extinto\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2006-667484
+  date: '2006-03-14'
+- type: amended_by
+  target: pt:dre:545649:por
+  label: "Transferido o Conselho de garantias Financeiras, criado pelo presente diploma, para o âmbito do Ministério das Finanças\
+    \ e da Administração Pública, passando a designar-se Conselho de Garantias Financeiras à Exportação e ao Investimento,\
+    \ pelo DEC LEI.208/2006.27.10.2006.MEI, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2006-545649
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/1991/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/127/1991/03/22/p/dre
+- type: cites
+  target: pt:dre:375626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471961:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:46Z'
   warnings: []
   errors: []
 ---
@@ -245,12 +277,12 @@ São revogados os Decretos-Leis n.os [372/82](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 8 de Março de 1991.**
+Promulgado em 8 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Março de 1991.**
+Referendado em 11 de Março de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

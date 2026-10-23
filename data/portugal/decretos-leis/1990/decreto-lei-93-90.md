@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06500/13501354.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,133 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23cc5359f346f0285153da432633667c2cd4f0eec2bf7d31b2ce670d2ae9d233
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a2aea0172c3fcca4387edb0a8bbeb7f0ca9331a3f4440a8c14f059922c4ab43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão da Reserva Ecológica Nacional
+- Ordenamento do Território
+- Política de Solos
+- Proteção do Ambiente
+- Regime Jurídico
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:124256708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:555832:por
+  label: "Alterados os arts. 3º, 9º e 17º pelo DEC LEI.316/90.13.10.1990.MPLAT, DR.IS [237] de 13.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-1990-555832
+  date: '1990-10-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELO DEC LEI 451/91 DE 04-DEZ DR.IS-A [279]SUPL RELATIVAMENTE A TUTELA DA COMISSAO E COMPETENCIAS DA RESERVA
+    ECOLÓGICA NACIONAL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Alterado o presente diploma, relativamente à tutela da Comissão e competências da Reserva Ecológica Nacional, pelo(a)
+    Decreto-Lei n.º 451/91 - Diário da República n.º 279/1991, 1º Suplemento, Série I-A de 1991-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 3, 4, 7, 8, 9, 10, 11, 13, 14, 17 E 21 PELO DEC LEI 213/92 DE 12-OUT DR.IS-A [235]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-10-12'
+- type: amended_by
+  target: pt:dre:226005:por
+  label: "Alterados os artigos 3.º (na redacção do Decreto-Lei n.º 316/90, de 13 de Outubro), 4.º, 7.º, 8.º, 9.º (o último\
+    \ na redacção do Decreto-Lei n.º 316/90, de 13 de Outubro), 10.º, 11.º, 13.º, 14.º, 17.º (o último na redacção do Decreto-Lei\
+    \ n.º 316/90, de 13 de Outubro) e 21.º, pelo DEC LEI.213/92.12.10.1992.MARN, DR.IS-A [235] de 12.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-1992-226005
+  date: '1992-10-12'
+- type: amended_by
+  target: pt:dre:223811:por
+  label: "Alterado o artigo 3.º, na redacção dada nos Decretos-Leis n.ºs 316/90, de 13 de Outubro, e 213/92, de 12 de Outubro,\
+    \ pelo DEC LEI.79/95.20.04.1995.MARN, DR.IS-A [93] de 20.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1995-223811
+  date: '1995-04-20'
+- type: amended_by
+  target: pt:dre:645096:por
+  label: "Alterado o art. 9º pelo DEC LEI.203/2002.2002.10.01.MCOTA DR.IS-A [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2002-645096
+  date: '2002-10-01'
+- type: amended_by
+  target: pt:dre:539979:por
+  label: "Alterados os arts 3º, 4º, 5º, 10º, 12º e 14º, aditados os arts. 4º-A e 16º-A e os anexos IV e V, revogado o art.\
+    \ 7º, a al c) do art. 8º e o art. 19º, todos do presente diploma, na redacção dos Dec Lei 316/90 de 13-Out, 213/92 de\
+    \ 12-Out e 79/95 de 20-Abr, republicado com a redacção actual e incluídas as actualizaçãoes do art. 3º, pelo DEC LEI.180/2006.06.09.2006.MAOTDR,\
+    \ DR.IS [172] de 06.09.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-2006-539979
+  date: '2006-09-06'
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453518:por
+  label: "Revogado a partir de 21.09.2008, com as alterações introduzidas pelos Decretos-Leis 316/90, de 13 de Outubro, 213/92,\
+    \ de 12 de Outubro, 79/95, de 20 de Abril, 203/2002, de 1 de Outubro, e 180/2006, de 6 de Setembro, pelo DEC LEI.166/2008.22.08.2008.MAOTDR,\
+    \ DR.IS [162] de 22.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2008-453518
+  date: '2008-08-22'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:01Z'
   warnings: []
   errors: []
 ---
@@ -294,15 +387,15 @@ A aplicação do presente diploma nas Regiões Autónomas da Madeira e dos Açor
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 2 de Março de 1990.**
+Promulgado em 2 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Março de 1990.**
+Referendado em 7 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I
 

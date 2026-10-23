@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 81/1991, 1º Suplemento, Série I-A de 1991-04-08
   number: '81'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1866-(2) a 1866-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/081a01/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138/1991/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1991-239669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd431fca7d29b1ff3c60e6166f3240b7d05f12988c9a2d41bd526ecf26e404f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c0d48a78b7a080c31a82b8f9140710b327daa5d31dc1b3ad9d82acc0400bf02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de BENS
-- RTP
 - Criação de Empresas
+- RTP
 - Teledifusora de Portugal
 - Televisão
 relationships:
@@ -75,16 +75,26 @@ relationships:
   target: pt:dre:264277:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:563581:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:264277:por
+  label: "Revogado pelo DEC LEI.122/94.1994.05.14.MOPTC, DR.IS-A [112], a partir da data da produção de efeitos da fusão prevista\
+    \ naquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1994-264277
+  date: '1994-05-14'
 article_structure:
-  article_count: 2
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:01Z'
   warnings: []
   errors: []
 ---
@@ -111,33 +121,33 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 2 - A Teledifusora de Portugal, E. P., é uma empresa pública constituída por destaque de parte do património da Radiotelevisão Portuguesa, E. P., adiante designada RTP, E. P., e rege-se pela lei geral aplicável às empresas públicas, pelo presente diploma e respectivos estatutos, que constituem o anexo I ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º - 1 - Os bens destacados da RTP, E. P., para a Teledifusora de Portugal, E. P., por cisão, são identificados no anexo II ao presente diploma, do qual faz parte integrante.
+Art. 2.º - 1 - Os bens destacados da RTP, E. P., para a Teledifusora de Portugal, E. P., por cisão, são identificados no anexo II ao presente diploma, do qual faz parte integrante.
 
 2 - Os bens referidos no número anterior são destacados livres de quaisquer ónus ou encargos.
 
-###### Art. 3.º O capital estatutário da Teledifusora de Portugal, E. P., é de 5400000000$00.
+Art. 3.º O capital estatutário da Teledifusora de Portugal, E. P., é de 5400000000$00.
 
-###### Art. 4.º - 1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Teledifusora de Portugal, E. P.
+Art. 4.º - 1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Teledifusora de Portugal, E. P.
 
 2 - A transmissão operada com o destaque de bens da RTP, E. P., para a Teledifusora de Portugal, E. P., está isenta dos emolumentos e de outros encargos legais que se mostrem devidos pela prática daquele acto.
 
-###### Art. 5.º Os poderes de tutela do Governo sobre a Teledifusora de Portugal, E. P., são exercidos pelo membro do Governo responsável pela área da comunicação social.
+Art. 5.º Os poderes de tutela do Governo sobre a Teledifusora de Portugal, E. P., são exercidos pelo membro do Governo responsável pela área da comunicação social.
 
-###### Art. 6.º - 1 - Os trabalhadores da RTP, E. P., que sejam transferidos, por efeito da cisão operada pelo presente diploma, para a Teledifusora de Portugal, E. P., mantêm perante esta todos os direitos e obrigações de que eram titulares face à RTP, E. P.
+Art. 6.º - 1 - Os trabalhadores da RTP, E. P., que sejam transferidos, por efeito da cisão operada pelo presente diploma, para a Teledifusora de Portugal, E. P., mantêm perante esta todos os direitos e obrigações de que eram titulares face à RTP, E. P.
 
 2 - O processo de transferência previsto no número anterior operar-se-á nos termos a acordar entre as administrações das duas empresas.
 
 ### CAPÍTULO II
 
-###### Art. 7.º - 1 - A Empresa de Transporte e Difusão de Sinais de Rádio e de Televisão, E. P. - Teledifusora de Portugal, E. P., é transformada em sociedade anónima de capitais maioritariamente públicos com a denominação de Teledifusora de Portugal, S. A.
+Art. 7.º - 1 - A Empresa de Transporte e Difusão de Sinais de Rádio e de Televisão, E. P. - Teledifusora de Portugal, E. P., é transformada em sociedade anónima de capitais maioritariamente públicos com a denominação de Teledifusora de Portugal, S. A.
 
 2 - A Teledifusora de Portugal, S. A., rege-se pelo presente diploma, pelos respectivos estatutos e pela legislação geral ou especial que lhe seja aplicável.
 
-###### Art. 8.º - 1 - A Teledifusora de Portugal, S. A., sucede, automática e globalmente à empresa pública Teledifusora de Portugal, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+Art. 8.º - 1 - A Teledifusora de Portugal, S. A., sucede, automática e globalmente à empresa pública Teledifusora de Portugal, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação da transformação prevista no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da sociedade.
 
-###### Art. 9.º - 1 - A Teledifusora de Portugal, S. A., tem inicialmente um capital social de 5400000000$00, que se encontra integralmente realizado pelo Estado à data de entrada em vigor do presente diploma.
+Art. 9.º - 1 - A Teledifusora de Portugal, S. A., tem inicialmente um capital social de 5400000000$00, que se encontra integralmente realizado pelo Estado à data de entrada em vigor do presente diploma.
 
 2 - As acções representativas do capital de que é titular o Estado serão detidas pela Direcção-Geral do Tesouro, podendo, no entanto, a sua gestão ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.
 
@@ -147,15 +157,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - No capital social da Teledifusora de Portugal, S. A., poderão participar outras entidades públicas ou privadas, através de aumentos de capital, devendo, porém, os entes públicos deter, pelo menos, 51% do mesmo.
 
-###### Art. 10.º - 1 - Os trabalhadores e pensionistas da Teledifusora de Portugal, E. P., mantêm perante a Teledifusora de Portugal, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
+Art. 10.º - 1 - Os trabalhadores e pensionistas da Teledifusora de Portugal, E. P., mantêm perante a Teledifusora de Portugal, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor deste diploma.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer cargos ou funções na Teledifusora de Portugal, S. A., em regime de requisição, conservando todos os direitos inerentes ao quadro de origem, incluindo antiguidade, reforma e outras regalias.
 
 3 - A situação dos trabalhadores da Teledifusora de Portugal, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou tempo de requisição.
 
-###### Art. 11.º A Teledifusora de Portugal, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 11.º A Teledifusora de Portugal, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 12.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará ao Ministro das Finanças e ao membro do Governo responsável pela área da comunicação social, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 12.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará ao Ministro das Finanças e ao membro do Governo responsável pela área da comunicação social, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -163,51 +173,51 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente ao Ministro das Finanças e ao membro do Governo responsável pela área da comunicação social um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 13.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a Teledifusora de Portugal, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente diploma ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
+Art. 13.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a Teledifusora de Portugal, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente diploma ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
 
-###### Art. 14.º A taxa devida pela entidade concessionária do serviço público e pelas entidades licenciadas pelo acesso às redes de transporte e difusão de sinal televisivo, nos termos do artigo 4.º do [Decreto-Lei n.º 401/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1990-563581), de 20 de Dezembro, será homologada por despacho conjunto dos membros do Governo responsáveis pelas áreas das comunicações e da comunicação social.
+Art. 14.º A taxa devida pela entidade concessionária do serviço público e pelas entidades licenciadas pelo acesso às redes de transporte e difusão de sinal televisivo, nos termos do artigo 4.º do [Decreto-Lei n.º 401/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1990-563581), de 20 de Dezembro, será homologada por despacho conjunto dos membros do Governo responsáveis pelas áreas das comunicações e da comunicação social.
 
-###### Art. 15.º - 1 - São aprovados os estatutos da Teledifusora de Portugal, S. A., que constituem o anexo III a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
+Art. 15.º - 1 - São aprovados os estatutos da Teledifusora de Portugal, S. A., que constituem o anexo III a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
 2 - As futuras alterações aos estatutos far-se-ão nos termos da lei comercial.
 
 ### CAPÍTULO III
 
-###### Art. 16.º Os membros em exercício do conselho de administração e da comissão de fiscalização da Teledifusora de Portugal, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da Teledifusora de Portugal, S. A., com as competências fixadas nos respectivos estatutos, respectivamente, para os conselhos de administração e fiscal.
+Art. 16.º Os membros em exercício do conselho de administração e da comissão de fiscalização da Teledifusora de Portugal, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da Teledifusora de Portugal, S. A., com as competências fixadas nos respectivos estatutos, respectivamente, para os conselhos de administração e fiscal.
 
-###### Art. 17.º O presente diploma produz efeitos a partir do dia imediato ao da data da sua publicação, com excepção dos seus artigos 7.º a 16.º, cuja vigência se inicia no 15.º dia após aquela mesma data.
+Art. 17.º O presente diploma produz efeitos a partir do dia imediato ao da data da sua publicação, com excepção dos seus artigos 7.º a 16.º, cuja vigência se inicia no 15.º dia após aquela mesma data.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1991. - Aníbal António Cavaco Silva - José Oliveira Costa - José Manuel Cardoso Borges Soeiro - António Fernando Couto dos Santos.
 
-**Promulgado em 1 de Abril de 1991.**
+Promulgado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Abril de 1991.**
+Referendado em 1 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Estatutos da Teledifusora de Portugal, E. P.
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A Empresa de Transporte e Difusão de Sinais de Rádio e de Televisão - Teledifusora de Portugal, E. P., é uma empresa pública, criada por cisão da Radiotelevisão Portuguesa E. P. adiante designada por RTP, E. P., nos termos do Decreto-Lei n.º 138/91, de 8 de Abril, com autonomia administrativa e financeira e património próprio.
+Artigo 1.º A Empresa de Transporte e Difusão de Sinais de Rádio e de Televisão - Teledifusora de Portugal, E. P., é uma empresa pública, criada por cisão da Radiotelevisão Portuguesa E. P. adiante designada por RTP, E. P., nos termos do Decreto-Lei n.º 138/91, de 8 de Abril, com autonomia administrativa e financeira e património próprio.
 
-###### Art. 2.º A Teledifusora de Portugal, E. P., tem sede em Lisboa, na Avenida de 5 de Outubro, podendo descentralizar os seus estabelecimentos e serviços, técnicos e administrativos, consoante as necessidades impostas pela sua actividade.
+Art. 2.º A Teledifusora de Portugal, E. P., tem sede em Lisboa, na Avenida de 5 de Outubro, podendo descentralizar os seus estabelecimentos e serviços, técnicos e administrativos, consoante as necessidades impostas pela sua actividade.
 
-###### Art. 3.º A Teledifusora de Portugal, E. P., tem por objecto a gestão e exploração da rede de telecomunicações que constitui o suporte dos serviços de difusão de sinais de rádio e de televisão e o desenvolvimento de actividades anexas ou complementares.
+Art. 3.º A Teledifusora de Portugal, E. P., tem por objecto a gestão e exploração da rede de telecomunicações que constitui o suporte dos serviços de difusão de sinais de rádio e de televisão e o desenvolvimento de actividades anexas ou complementares.
 
-###### Art. 4.º O capital estatutário da Teledifusora de Portugal, E. P., é de 5400000000$00.
+Art. 4.º O capital estatutário da Teledifusora de Portugal, E. P., é de 5400000000$00.
 
-###### Art. 5.º Os poderes de tutela do Governo sobre a Teledifusora de Portugal, E. P., são exercidos pelo membro do Governo responsável pela área da comunicação social.
+Art. 5.º Os poderes de tutela do Governo sobre a Teledifusora de Portugal, E. P., são exercidos pelo membro do Governo responsável pela área da comunicação social.
 
-###### Art. 6.º O património inicial da empresa é constituído pela universalidade de bens para ela destacados por cisão da RTP, E. P., nos termos do Decreto-Lei n.º 138/91, de 8 de Abril, e pelos direitos e obrigações adquiridos ou contraídos no exercício da sua actividade.
+Art. 6.º O património inicial da empresa é constituído pela universalidade de bens para ela destacados por cisão da RTP, E. P., nos termos do Decreto-Lei n.º 138/91, de 8 de Abril, e pelos direitos e obrigações adquiridos ou contraídos no exercício da sua actividade.
 
-###### Art. 7.º Pelas dívidas da Teledifusora de Portugal, E. P., responde, exclusivamente, o seu património.
+Art. 7.º Pelas dívidas da Teledifusora de Portugal, E. P., responde, exclusivamente, o seu património.
 
-###### Art. 8.º Constituem receitas da Teledifusora de Portugal E. P.:
+Art. 8.º Constituem receitas da Teledifusora de Portugal E. P.:
 
 a) As resultantes da sua actividade específica;
 
@@ -219,7 +229,7 @@ d) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou qu
 
 ### CAPÍTULO II — Dos órgãos da empresa
 
-###### Art. 9.º - 1 - São órgãos da Teledifusora de Portugal, E. P.:
+Art. 9.º - 1 - São órgãos da Teledifusora de Portugal, E. P.:
 
 a) O conselho de administração;
 
@@ -229,17 +239,17 @@ b) A comissão de fiscalização.
 
 3 - O mandato dos membros do conselho de administração e da comissão de fiscalização é de três anos para cada um destes órgãos, renovável por iguais períodos.
 
-###### Art. 10.º - 1 - O conselho de administração é composto por três membros.
+Art. 10.º - 1 - O conselho de administração é composto por três membros.
 
 2 - O conselho de administração tem todos os poderes necessários para assegurar a gestão da empresa e a administração do respectivo património.
 
-###### Art. 11.º - 1 - A comissão de fiscalização é composta por três membros.
+Art. 11.º - 1 - A comissão de fiscalização é composta por três membros.
 
 2 - As competências da comissão de fiscalização são as fixadas na lei geral.
 
-###### Art. 12.º A todas as matérias que não se encontrem expressamente reguladas nos presentes estatutos aplica-se o disposto na lei geral.
+Art. 12.º A todas as matérias que não se encontrem expressamente reguladas nos presentes estatutos aplica-se o disposto na lei geral.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/081a01/00020007.pdf))](https://files.diariodarepublica.pt/1s/1991/04/081a01/00020007.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/081a01/00020007.pdf)
 
 Equipamentos da RTP
 
@@ -573,25 +583,27 @@ Porto Santo.
 
 Terça.
 
-## ANEXO III — CAPÍTULO I
+## ANEXO III
+
+### CAPÍTULO I
 
 Denominação, duração, sede e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de Teledifusora de Portugal, S. A., e rege-se pelo Decreto-Lei n.º 138/91, de 8 de Abril, pelos presentes estatutos e pela legislação geral ou especial que lhe seja aplicável.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de Teledifusora de Portugal, S. A., e rege-se pelo Decreto-Lei n.º 138/91, de 8 de Abril, pelos presentes estatutos e pela legislação geral ou especial que lhe seja aplicável.
 
-###### Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Avenida de 5 de Outubro.
+Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Avenida de 5 de Outubro.
 
 2 - O conselho de administração poderá deliberar a criação, em qualquer ponto do território nacional, ou fora dele, de agências, delegações ou quaisquer outras formas de representação.
 
 3 - A mudança da sede pode ser feita por simples deliberação do conselho de administração.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto o exercício da actividade de transporte e difusão de sinal de televisão e de rádio.
+Art. 3.º - 1 - A sociedade tem por objecto o exercício da actividade de transporte e difusão de sinal de televisão e de rádio.
 
 2 - A sociedade pode participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico, bem como adquirir, originária ou subsequentemente, acções ou quotas em sociedades de responsabilidade limitada, qualquer que seja o seu objecto e mesmo que sujeitas a lei especial.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 5400000000$00 e encontra-se integralmente realizado.
+Art. 4.º - 1 - O capital social é de 5400000000$00 e encontra-se integralmente realizado.
 
 2 - O capital social é dividido em acções com o valor nominal de 1000$00 cada uma.
 
@@ -603,7 +615,7 @@ Denominação, duração, sede e objecto
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 5.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 5.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - Os membros dos órgãos sociais são eleitos em assembleia geral, tendo os respectivos mandatos a duração de três anos, renováveis por igual período.
 
@@ -611,7 +623,7 @@ Denominação, duração, sede e objecto
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 6.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
+Art. 6.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
 
 2 - A cada 100 acções corresponde um voto.
 
@@ -619,7 +631,7 @@ Denominação, duração, sede e objecto
 
 4 - Não são consideradas para efeito de participação na assembleia geral as acções adquiridas nos oito dias anteriores a cada reunião da assembleia geral, em primeira convocação.
 
-###### Art. 7.º - 1 - Compete à assembleia geral deliberar sobre todas as matérias não compreendidas nas atribuições legais ou estatutárias dos outros órgãos sociais e, em especial:
+Art. 7.º - 1 - Compete à assembleia geral deliberar sobre todas as matérias não compreendidas nas atribuições legais ou estatutárias dos outros órgãos sociais e, em especial:
 
 a) Eleger a mesa da assembleia geral, os membros do conselho de administração e do conselho fiscal;
 
@@ -641,7 +653,7 @@ i) Deliberar sobre a proposta de fixação das taxas de utilização da rede pel
 
 2 - As deliberações são tomadas por maioria dos votos dos accionistas presentes e representados, sempre que a lei ou os presentes estatutos não exijam maior número.
 
-###### Art. 8.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída por um presidente, um vice-presidente e um secretário.
+Art. 8.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída por um presidente, um vice-presidente e um secretário.
 
 2 - Para efeitos das alíneas c), e), f), h) e i) do n.º 1 do artigo 7.º dos presentes estatutos, bem como para as deliberações sobre a transformação, a fusão, a cisão ou a liquidação da sociedade, sobre o aumento, a redução ou a reintegração do capital, sobre a limitação ou a supressão do direito de preferência dos accionistas em cada aumento de capital e ainda sobre qualquer outra alteração dos estatutos, a assembleia geral só pode reunir, em primeira convocatória, encontrando-se presentes ou representados accionistas que representem, pelo menos, 51% do capital social.
 
@@ -649,11 +661,11 @@ i) Deliberar sobre a proposta de fixação das taxas de utilização da rede pel
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 9.º - 1 - O conselho de administração é composto por um presidente e quatro vogais.
+Art. 9.º - 1 - O conselho de administração é composto por um presidente e quatro vogais.
 
 2 - O presidente tem voto de qualidade.
 
-###### Art. 10.º - Ao conselho de administração compete exercer as competências cometidas por lei ou pela assembleia geral e, nomeadamente:
+Art. 10.º - Ao conselho de administração compete exercer as competências cometidas por lei ou pela assembleia geral e, nomeadamente:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -677,11 +689,11 @@ f) Deliberar sobre as garantias a prestar pela empresa relativamente a projectos
 
 6 - Não é permitida a representação de mais de um administrador em cada reunião.
 
-###### Art. 12.º - 1 - O conselho de administração pode delegar poderes nos termos do artigo 407.º do Código das Sociedades Comerciais.
+Art. 12.º - 1 - O conselho de administração pode delegar poderes nos termos do artigo 407.º do Código das Sociedades Comerciais.
 
 2 - A aquisição, alienação e oneração de participações sociais, quer quando sejam apenas da competência do conselho, quer quando autorizadas pela assembleia geral, não se incluem nos actos delegáveis.
 
-###### Art. 13.º - 1 - A sociedade obriga-se:
+Art. 13.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -695,17 +707,17 @@ c) Pela assinatura dos mandatários constituídos, no âmbito do correspondente 
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 14.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e suplente.
+Art. 14.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e suplente.
 
 2 - Um dos vogais efectivos e o suplente são revisores oficiais de contas ou sociedade revisora de contas.
 
-###### Art. 15.º - 1 - O conselho fiscal deve reunir, pelo menos, uma vez por mês.
+Art. 15.º - 1 - O conselho fiscal deve reunir, pelo menos, uma vez por mês.
 
 2 - As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, tendo o presidente voto de qualidade.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 16.º Os lucros de exercício, devidamente aprovados, terão a seguinte aplicação:
+Art. 16.º Os lucros de exercício, devidamente aprovados, terão a seguinte aplicação:
 
 a) Constituição da reserva legal nos termos da lei e sua eventual reintegração até atingir o montante exigível;
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06300/12731286.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1990-333161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f700506e8bf4a817be5a28c9cbd86c846e3b92a7df7a31afe8799e068662a6cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be11052d2dcfa23c121a51fda9cb7ed7e1d47b5b2b463a1a7e42a4cbb8ff242d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contra-ordenação
+- Contrato de Concessão
+- Direcção Geral de Geologia e Minas
+- Exploração Mineira
+- Indústria Mineira
+- Licenciamento
+- Recursos Naturais
+- Regulamentação de Atos Legislativos
+- Regulamento de Depósitos Minerais
 relationships:
 - type: amended_by
   target: pt:dre:162940682:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620897:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:162940682:por
+  label: Revogado, a partir de 08.05.2021, nos termos do art. 81.º, o presente diploma, pelo(a) Decreto-Lei n.º 30/2021 -
+    Diário da República n.º 89/2021, Série I de 2021-05-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2021-162940682
+  date: '2021-05-07'
 article_structure:
   article_count: 66
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:56Z'
   warnings: []
   errors: []
 ---
@@ -760,7 +787,7 @@ i) Os edifícios destinados à habitação do pessoal, as cantinas, os postos de
 
 ###### Artigo 50.º — Supervisão das actividades mineiras
 
-**O Ministro tem poderes de supervisão das actividades mineiras, cabendo-lhe, nomeadamente, através da Direcção-Geral:**
+O Ministro tem poderes de supervisão das actividades mineiras, cabendo-lhe, nomeadamente, através da Direcção-Geral:
 
 a) Assegurar que o aproveitamento dos recursos minerais se integra na actividade económica do País, de modo a contribuir, da melhor forma, para o bem geral e para o desenvolvimento harmónico da economia;
 
@@ -918,12 +945,12 @@ Pelos actos previstos no presente diploma, será devido o pagamento de taxas, de
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 23 de Fevereiro de 1990.**
+Promulgado em 23 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Março de 1990.**
+Referendado em 2 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

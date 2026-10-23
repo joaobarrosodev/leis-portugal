@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/04300/06900694.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,128 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1990-332893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67ff20abd1f157db1a56c3c11e9d60bd0441fcd053129ae6a8062ecaf2a772d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0d024de2545b371032ada79d06985c677135b84b8a1070caaf3fdb25f1467a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa
+- Estatuto
+- Instituto António Sérgio do Sector Cooperativo
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:106824980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:574927:por
+  label: "Prorrogado por 30 dias, a contar de 06.06.1990, o prazo estabelecido no nº 1 do art. 3º pelo DEC LEI.183/90.1990.06.06.MPLAT\
+    \ DR.IS [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1990-574927
+  date: '1990-06-06'
+- type: amended_by
+  target: pt:dre:233304:por
+  label: "Alterado o art. 6º do estatuto pelo DEC LEI.204/92.1992.10.02.MPLAT DR.IS-A [228]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-1992-233304
+  date: '1992-10-02'
+- type: amended_by
+  target: pt:dre:455465:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros do Instituto António Sérgio do Sector Cooperativo,\
+    \ pelo DEC LEI.296-A/95.1995.11.17.PCM, DR.IS-A [266]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:186543:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade do Instituto António Sérgio do Sector Cooperativo\
+    \ pelo DEC LEI.55/98.1998.03.16.PCM DR.IS-A [63]\03]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1998-186543
+  date: '1998-03-16'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros do Instituto António Sérgio do Sector Cooperativo\
+    \ (integrado no Ministério do Trabalho e da Solidariedade), pelo DEC LEI.120/2002.2002.05.03.PCM, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Actividades Económicas e do Trabalho do Instituto António Sérgio do\
+    \ Sector Cooperativo (integrado na Presidência do Conselho de Ministros), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A\
+    \ [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade Social do Instituto (integrado no extinto\
+    \ Ministério das Actividades Económicas e do Trabalho), cujos estatutos foram aprovados no presente diploma, pelo DEC\
+    \ LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Determinada a cessação da integração na administração central do Estado, através de novo enquadramento jurídico,\
+    \ do Instituto António Sérgio do Sector Cooperativo (INSCOOP), criado pelo Dec lei 902/76 de 31-Dez e cujos Estatutos\
+    \ constam do presente diploma, pelo DEC LEI.211/2006.27.10.2006.MTSSO, DR.IS [208] de 27.10.2006, nos termos do previsto\
+    \ no respectivo art. 39º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:491420:por
+  label: "Extinto, a partir de 17.10.2009, o Instituto António Sérgio do Sector Cooperativo (INSCOOP) criado pelo Dec Lei\
+    \ 902/76 de 31-Dez, cujos Estatutos constam do presente diploma, que é revogado a partir de 08.10.2009, com a redacção\
+    \ constante do Dec Lei 204/92 de 02-Out, pelo DEC LEI.282/2009.07.10.2009.MTSSO, DR.IS [194] de 07.10.2009, que determinou\
+    \ a sucessão do ex-INSCOOP pela Cooperativa António Sérgio, nos direitos e obrigações e poderes públicos de autoridade,\
+    \ bem como na prossecução dos seus fins e atribuições de serviço público.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-2009-491420
+  date: '2009-10-07'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676035:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:26Z'
   warnings: []
   errors: []
 ---
@@ -154,15 +242,15 @@ São revogados o [Decreto-Lei n.º 98/83](https://diariodarepublica.pt/dr/detalh
 
 Visto e aprovado em Conselho de Ministros, 3 de Agosto de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 6 de Fevereiro de 1990.**
+Promulgado em 6 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Fevereiro de 1990.**
+Referendado em 6 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto do INSCOOP
 
@@ -416,4 +504,4 @@ e) Quaisquer outras que legalmente lhe tenham a ser atribuídas.
 
 3 - A distribuição dos funcionários pelos serviços do INSCOOP é da competência do respectivo presidente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04300/06900694.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04300/06900694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04300/06900694.pdf)

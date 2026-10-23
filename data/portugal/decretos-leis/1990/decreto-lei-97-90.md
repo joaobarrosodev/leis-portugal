@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1990-333284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b95d436409d5c22131837994228668448f80f55bc6d28fa97792182bad6d6a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f252b9db59bfcad55f7ee1af8fc1182befed74c60c0689721725077d3a06c0fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Brucelose
+- Controlo Sanitário
+- Definição de Competências
+- Direcção Geral da Pecuária
+- Doença Animal
+- Fiscalização
+- Gado Bovino
+- Leucose Animal
+- Tuberculose
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:06Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +105,9 @@ Ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [78/52/CEE](https://data.europa.eu/eli/dir/1978/52/oj?locale=pt), do Conselho, de 13 de Dezembro, que estabelece regras relativas à fixação de critérios comunitários aplicáveis aos planos nacionais da erradicação acelerada da brucelose, da tuberculose e da leucose enzoótica dos bovinos.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [78/52/CEE](https://data.europa.eu/eli/dir/1978/52/oj?locale=pt), do Conselho, de 13 de Dezembro, que estabelece regras relativas à fixação de critérios comunitários aplicáveis aos planos nacionais da erradicação acelerada da brucelose, da tuberculose e da leucose enzoótica dos bovinos.
 
-###### Art. 2.º - 1 - As normas técnicas de execução regulamentar:
+Art. 2.º - 1 - As normas técnicas de execução regulamentar:
 
 a) Relativas à classificação dos efectivos e explorações, às provas a que deverão ser submetidos os animais segundo o estatuto sanitário da sua exploração e respectiva periodicidade, à idade mínima dos animais a submeter às referidas provas, à vigilância das explorações atingidas, ao isolamento e abate dos animais afectados ou suspeitos, à limpeza e desinfecção de estábulos, objectos e utensílios e, ainda, ao repovoamento das explorações atingidas são aprovadas por portaria do Ministro da Agricultura, Pescas e Alimentação;
 
@@ -105,18 +115,18 @@ b) Relativas a áreas e locais de carga, movimentação de animais e veículos q
 
 2 - A aprovação das normas regulamentares referidas no número anterior será precedida de audição dos órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
 
-###### Art. 3.º - 1 - A Direcção-Geral da Pecuária coordena a orientação em matéria de higiene em defesa animal no âmbito das medidas previstas no presente diploma e respectivas normas regulamentares.
+Art. 3.º - 1 - A Direcção-Geral da Pecuária coordena a orientação em matéria de higiene em defesa animal no âmbito das medidas previstas no presente diploma e respectivas normas regulamentares.
 
 2 - As direcções regionais de agricultura e, nas Regiões Autónomas dos Açores e da Madeira, os serviços homólogos das respectivas administrações regionais deverão, após a entrada em vigor das normas regulamentares a que se refere o artigo anterior, elaborar e manter actualizada uma relação de todas as explorações classificadas de acordo com o disposto nas referidas normas.
 
 Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Arlindo Marques da Cunha - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 6 de Março de 1990.**
+Promulgado em 6 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Março de 1990.**
+Referendado em 6 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

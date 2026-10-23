@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206/1991/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7007966ee156a4f635204baed018a2c37bdbcca5da9e15c1a4bcf017e96c9f3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50398e8c729c4fdbeaf4604ec4815d4112c6efa8aba7c56cf7a9a642d0475513
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,71 @@ reuse:
 subjects:
 - Aveiro
 - Definição de Competências
-- Pessoal de Justiça
-- Tribunal do Trabalho
 - Informatização
-- Tribunal de Comarca
 - Magistrado Judicial
-- Orgânica
-- Presidente
 - Ministério Público
+- Orgânica
+- Pessoal de Justiça
+- Presidente
 - Tribunal Colectivo
 - Tribunal de Círculo
+- Tribunal de Comarca
 - Tribunal de Distrito
 - Tribunal de Execução das Penas
 - Tribunal de Família
 - Tribunal de Instrução Criminal
 - Tribunal de Menores
+- Tribunal do Trabalho
 - Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:602770:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO 6 DO DECRETO LEI 214/88, DE 17 DE JUNHO, NA REDACCAO CONSTANTE DO PRESENTE DIPLOMA, PELO DECRETO\
+    \ LEI 222/94, DE 24 DE AGOSTO, PUBLICADO NO DR.IS-A, 195.E\0, 195.E"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-24'
+- type: amended_by
+  target: pt:dre:218744:por
+  label: "Alterado o art. 6º na redacção dada ao Dec Lei 214/88 de 17-Jun, pelo DEC LEI.222/94.1994.08.24.MJ, DR.IS-A [195]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1994-218744
+  date: '1994-08-24'
+- type: amended_by
+  target: pt:dre:602770:por
+  label: "Extinta a comarca de Ìlhavo, criada pelo presente diploma, pelo DEC LEI.25/2009.26.01.2009.MJ, DR.IS [17] de 26.01.2009\0\
+    09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2009-602770
+  date: '2009-01-26'
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:37Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +212,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, e pela [Lei n.º 24/90](https://diariodarepublica.pt/dr/detalhe/lei/24-1990-573144), de 4 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 9.º, 10.º, 13.º, 14.º, 16.º, 21.º, 23.º, 25.º e 55.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 9.º, 10.º, 13.º, 14.º, 16.º, 21.º, 23.º, 25.º e 55.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 6.º — Tribunais de círculo
 
@@ -286,7 +320,7 @@ b) Determinar a afectação de magistrados de igual categoria, em regime de excl
 
 4 - Até à entrada em funcionamento dos novos tribunais ou juízos, mantém-se a composição e a competência dos tribunais e juízos, ainda que extintos pelo presente regulamento, que detinham a correspondente jurisdição.
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, os artigos 4.º-A, 6.º-A, 13.º-A, 14.º-A e 37.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, os artigos 4.º-A, 6.º-A, 13.º-A, 14.º-A e 37.º-A, com a seguinte redacção:
 
 ###### Artigo 4.º-A — Desdobramento de secções
 
@@ -328,25 +362,25 @@ b) Determinar a afectação de magistrados de igual categoria, em regime de excl
 
 3 - O pessoal dos serviços extintos transita sem qualquer formalidade, e sem prejuízo do disposto no artigo 71.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do Tribunal, ficando na situação de supranumerários nos restantes casos.
 
-###### Art. 3.º O disposto no n.º 3 do artigo 6.º-A do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 16 de Junho, na redacção dada pelo presente diploma, será regulamentado por decreto-lei.
+Art. 3.º O disposto no n.º 3 do artigo 6.º-A do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 16 de Junho, na redacção dada pelo presente diploma, será regulamentado por decreto-lei.
 
-###### Art. 4.º Os mapas a que se reportam os artigos 1.º e 5.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, são alterados de acordo com o mapa anexo ao presente diploma e que dele faz parte integrante.
+Art. 4.º Os mapas a que se reportam os artigos 1.º e 5.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, são alterados de acordo com o mapa anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 5.º É revogado o artigo 8.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho.
+Art. 5.º É revogado o artigo 8.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho.
 
-###### Art. 6.º O presente diploma entra em vigor 30 dias após a data da sua publicação, salvo o disposto no artigo 6.º-A, por ele aditado ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, que apenas produzirá efeitos após a entrada em vigor da regulamentação referida no artigo 3.º
+Art. 6.º O presente diploma entra em vigor 30 dias após a data da sua publicação, salvo o disposto no artigo 6.º-A, por ele aditado ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, que apenas produzirá efeitos após a entrada em vigor da regulamentação referida no artigo 3.º
 
 Visto e aprovado em Conselho de Ministros de 4 de Abril de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 27 de Maio de 1991.**
+Promulgado em 27 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Maio de 1991.**
+Referendado em 29 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA ANEXO
 

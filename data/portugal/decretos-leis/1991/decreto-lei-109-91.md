@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/062a00/13381342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:06:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f31c6615bb11bb67d2959b96ce4656857834f2d8eb6b32febf0fcf160918f362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd7a93e69d1f493f5dc11a997cf2b71c737d4013047a5f4a85930a3ecdcc5310
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,96 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Multa
-- Ordenamento do Território
-- Higiene do Trabalho
 - Contra-ordenação
 - Estabelecimento Industrial
-- Segurança no Trabalho
 - Fiscalização
+- Higiene do Trabalho
 - Licenciamento
-- Proteção do Ambiente
+- Multa
+- Ordenamento do Território
 - Poluição Industrial
+- Proteção do Ambiente
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:520846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329987:por
+  label: Alterados os arts. 2.º, 3.º, 9.º a 11.º, 14.º a 16.º, 19.º, 20.º e 24.º pelo(a) Decreto-Lei n.º 282/93 - Diário da
+    República n.º 192/1993, Série I-A de 1993-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1993-329987
+  date: '1993-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:355119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:618694:por
+  label: Retificado o art. 27.º (entrada em vigor, que passa a efetuar-se a 01.05.1991) pelo(a) Declaração de Rectificação
+    n.º 31/91 - Diário da República n.º 74/1991, 1º Suplemento, Série I-A de 1991-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/31-1991-618694
+  date: '1991-03-30'
+- type: repealed_by
+  target: pt:dre:226807:por
+  label: "Revogado pelo DEC LEI.69/2003.2003.04.10.MECO, DR.IS-A [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2003-226807
+  date: '2003-04-10'
 article_structure:
   article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:06:26Z'
   warnings: []
   errors: []
 ---
@@ -357,12 +418,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 25 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Fernando Nunes Ferreira Real.
 
-**Promulgado em 25 de Fevereiro de 1991.**
+Promulgado em 25 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1991.**
+Referendado em 26 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

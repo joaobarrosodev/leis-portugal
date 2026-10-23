@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/03300/05340536.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1990-334594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bb462dee5021341bbef16b09d3d0fef64fad6af457ded63054f3d8cb613f50f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b2206d0e4c129028bad98e4b579bcfd1fd707d17379db7778d5517b6afea43a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Direcção Geral das Florestas
+- Gestão dos Recursos
+- Multa
+- Receita Própria
+- ZONA de CAÇA
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:508980:por
+  label: "Alterado o art. 55º e revogada a lista II anexa ao Dec Lei 274-A/88, de 03-Ago, na redacção do presente diploma,\
+    \ pelo DEC LEI.60/91.30.01.1991.MAPA, DR.IS-A [25] de 30.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1991-508980
+  date: '1991-01-30'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:56Z'
   warnings: []
   errors: []
 ---
@@ -113,11 +148,11 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As listas I e II anexas ao [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, são substituídas, nos termos do n.º 1 do artigo 2.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, pelas listas anexas ao presente diploma, que dele fazem parte integrante.
+Artigo 1.º As listas I e II anexas ao [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, são substituídas, nos termos do n.º 1 do artigo 2.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, pelas listas anexas ao presente diploma, que dele fazem parte integrante.
 
-###### Art. 2.º Os artigos 28.º, 39.º, 55.º, 56.º e 113.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 28.º, 39.º, 55.º, 56.º e 113.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 28.º - 1 - ...
+Art. 28.º - 1 - ...
 
 2 - ...
 
@@ -129,13 +164,13 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 30/86](https:
 
 6 - A portaria a que se refere o n.º 4 definirá, caso a caso, qual o regime a que, para efeitos de policiamento e fiscalização da caça, ficam sujeitas as respectivas áreas.
 
-###### Art. 39.º - 1 - A caça ao veado, gamo, corço e muflão pode ser exercida nas zonas de regime cinegético especial nos períodos, pelos processos e com os meios e instrumentos definidos nos respectivos planos de exploração.
+Art. 39.º - 1 - A caça ao veado, gamo, corço e muflão pode ser exercida nas zonas de regime cinegético especial nos períodos, pelos processos e com os meios e instrumentos definidos nos respectivos planos de exploração.
 
 2 - ...
 
-###### Art. 55.º É permitido caçar a gralha-preta, a pega-rabuda e o gaio nos locais e períodos e pelos processos e demais condições definidos para as restantes espécies cinegéticas de caça menor.
+Art. 55.º É permitido caçar a gralha-preta, a pega-rabuda e o gaio nos locais e períodos e pelos processos e demais condições definidos para as restantes espécies cinegéticas de caça menor.
 
-###### Art. 56.º - 1 - ...
+Art. 56.º - 1 - ...
 
 2 - ...
 
@@ -143,7 +178,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 30/86](https:
 
 4 - O diploma que instituir uma zona de regime cinegético especial pode determinar que as águas e terrenos do domínio público fluvial e lacustre existentes no seu perímetro sejam abrangidos na totalidade ou em parte pela respectiva zona de caça.
 
-###### Art. 113.º - 1 - Para fazer face aos encargos e despesas resultantes da execução da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, do presente diploma e demais disposições legais e regulamentares sobre a caça, são atribuídas à DGF, sem prejuízo do disposto nos números seguintes, as receitas previstas no artigo 39.º da referida lei e o produto das coimas resultantes de contra-ordenações de caça, a qual fará a sua gestão nos termos do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
+Art. 113.º - 1 - Para fazer face aos encargos e despesas resultantes da execução da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, do presente diploma e demais disposições legais e regulamentares sobre a caça, são atribuídas à DGF, sem prejuízo do disposto nos números seguintes, as receitas previstas no artigo 39.º da referida lei e o produto das coimas resultantes de contra-ordenações de caça, a qual fará a sua gestão nos termos do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
 
 2 - ...
 
@@ -151,19 +186,19 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 30/86](https:
 
 4 - O disposto nos números anteriores aplica-se a todos os casos de infracção à Lei da Caça, excepto quando a aplicação da coima pertença em primeira instância às entidades judiciais, caso em que lhes pertencerá a respectiva receita.
 
-###### Art. 3.º É revogado o artigo 44.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto.
+Art. 3.º É revogado o artigo 44.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 30 de Janeiro de 1990.**
+Promulgado em 30 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Janeiro de 1990.**
+Referendado em 31 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Lista I a que se refere o artigo 1.º
 

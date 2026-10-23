@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18832-1961-185330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d31324109426eb3cfcc90deb7fa30845449f61de817379eeaee09a333109506
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e32e4c14cf32a45e99d103acb4903a89d450415588a8e9e530afc0b661f8d8fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678578:por
+  label: null
+  source: null
 article_structure:
-  article_count: 46
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:23Z'
   warnings: []
   errors: []
 ---
@@ -87,59 +99,59 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 4.º — Inspecção de Administração Ultramarina, Financeira, das Alfândegas, do Fomento, de Saúde, do Ensino e dos Serviços Judiciais
 
-###### Artigo 88.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos dos inspectores e respectivos secretários» ... 300000$00
+Artigo 88.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos dos inspectores e respectivos secretários» ... 300000$00
 
 Serviços de instrução
 
-###### Artigo 121.º, n.º 1), alínea f) «Despesas com o pessoal - Remunerações acidentais - Horas extraordinárias e serviços especiais - Para pagamento de tempos lectivos extraordinários aos professores do ensino liceal e técnico» ... 1238000$00
+Artigo 121.º, n.º 1), alínea f) «Despesas com o pessoal - Remunerações acidentais - Horas extraordinárias e serviços especiais - Para pagamento de tempos lectivos extraordinários aos professores do ensino liceal e técnico» ... 1238000$00
 
-###### Artigo 130.º, n.º 5) «Diversos encargos - Encargos administrativos - Subsídio a instituições culturais e despesas de intercâmbio cultural» ... 500000$00
+Artigo 130.º, n.º 5) «Diversos encargos - Encargos administrativos - Subsídio a instituições culturais e despesas de intercâmbio cultural» ... 500000$00
 
-###### Artigo 405.º, n.º 1) «Escola Dr. Francisco Machado - Diversos encargos - Alimentação para 65 alunos durante 10 meses e 10 alunos em 12 meses» ... 182900$00
+Artigo 405.º, n.º 1) «Escola Dr. Francisco Machado - Diversos encargos - Alimentação para 65 alunos durante 10 meses e 10 alunos em 12 meses» ... 182900$00
 
 Mocidade Portuguesa
 
-###### Artigo 436.º, n.º 1) «Diversos encargos - Encargos administrativos - Subsídio global nos termos do artigo 14.º do [Decreto-Lei n.º 39837](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39837-1954-678578), de 2 de Outubro de 1954» ... 717917$00
+Artigo 436.º, n.º 1) «Diversos encargos - Encargos administrativos - Subsídio global nos termos do artigo 14.º do [Decreto-Lei n.º 39837](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39837-1954-678578), de 2 de Outubro de 1954» ... 717917$00
 
 Serviços de saúde e higiene
 
-###### Artigo 438.º, n.º 4), alínea b) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado - Pessoal eventual» ... 1650000$00
+Artigo 438.º, n.º 4), alínea b) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado - Pessoal eventual» ... 1650000$00
 
 Hospitais civis de Luanda
 
-###### Artigo 451.º «Despesas de higiene, saúde e conforto»:
+Artigo 451.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Dietas, combustível e utensílios de cozinha» ... 2000000$00
 
 N.º 2) «Luz, água, lavagem, limpeza e outras» ... 100000$00
 
-###### Artigo 452.º «Despesas de comunicações dentro da província» ... 6000$00
+Artigo 452.º «Despesas de comunicações dentro da província» ... 6000$00
 
-###### Artigo 453.º, n.º 1) «Diversos serviços - Força motriz» ... 90000$00
+Artigo 453.º, n.º 1) «Diversos serviços - Força motriz» ... 90000$00
 
 Círculo sanitário de Luanda
 
-###### Artigo 458.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, água, lavagem, limpeza e outras despesas» ... 5000$00
+Artigo 458.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, água, lavagem, limpeza e outras despesas» ... 5000$00
 
-###### Artigo 459.º «Despesas de comunicações dentro da província» ... 2000$00
+Artigo 459.º «Despesas de comunicações dentro da província» ... 2000$00
 
 Distrito sanitário de Cabinda
 
-###### Artigo 463.º, n.º 1) «Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 20000$00
+Artigo 463.º, n.º 1) «Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 20000$00
 
 Distrito sanitário do Congo
 
-###### Artigo 468.º «Despesas de higiene, saúde e conforto»:
+Artigo 468.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Dietas, combustível e utensílios de cozinha» ... 46000$00
 
 N.º 2) «Luz, água, lavagem, limpeza e outras» ... 11000$00
 
-###### Artigo 469.º «Despesas de comunicações dentro da província» ... 3000$00
+Artigo 469.º «Despesas de comunicações dentro da província» ... 3000$00
 
 Distrito sanitário do Cuanza-Norte
 
-###### Artigo 473.º «Despesas de higiene, saúde e conforto»:
+Artigo 473.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Dietas, combustível e utensílios de cozinha» ... 122000$00
 
@@ -147,7 +159,7 @@ N.º 2) «Luz, água, lavagem, limpeza e outras despesas» ... 4000$00
 
 Distrito sanitário do Cuanza-Sul
 
-###### Artigo 478.º «Despesas de higiene, saúde e conforto»:
+Artigo 478.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Dietas, combustível e utensílios de cozinha» ... 182500$00
 
@@ -155,93 +167,93 @@ N.º 2) «Luz, água, lavagem, limpeza e outras despesas» ... 38000$00
 
 Distrito sanitário da Luanda
 
-###### Artigo 490.º «Despesas de comunicações dentro da província» ... 5000$00
+Artigo 490.º «Despesas de comunicações dentro da província» ... 5000$00
 
 Círculo sanitário de Benguela
 
-###### Artigo 494.º «Despesas de higiene, saúde e conforto»:
+Artigo 494.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Dietas, combustível e utensílios de cozinha» ... 33000$00
 
 N.º 2) «Luz, água, lavagem, limpeza e outras despesas» ... 30000$00
 
-###### Artigo 495.º «Despesas de comunicações dentro da província» ... 3000$00
+Artigo 495.º «Despesas de comunicações dentro da província» ... 3000$00
 
 Distrito sanitário do Huambo
 
-###### Artigo 499.º «Despesas de higiene, saúde e conforto»:
+Artigo 499.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Dietas, combustível e utensílios de cozinha» ... 371000$00
 
 N.º 2) «Luz, água, lavagem, limpeza e outras despesas» ... 59000$00
 
-###### Artigo 500.º «Despesas de comunicações dentro da província» ... 12000$00
+Artigo 500.º «Despesas de comunicações dentro da província» ... 12000$00
 
 Círculo sanitário do Bié-Cuando-Cubango
 
-###### Artigo 504.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, água, lavagem, limpeza e outras despesas» ... 15000$00
+Artigo 504.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, água, lavagem, limpeza e outras despesas» ... 15000$00
 
-###### Artigo 505.º «Despesas de comunicações dentro da província» ... 5000$00
+Artigo 505.º «Despesas de comunicações dentro da província» ... 5000$00
 
 Distrito sanitário do Moxico
 
-###### Artigo 509.º «Despesas de higiene, saúde e conforto»:
+Artigo 509.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Dietas, combustível e utensílios de cozinha» ... 20000$00
 
 N.º 2) «Luz, água, lavagem, limpeza e outras despesas» ... 6000$00
 
-###### Artigo 510.º «Despesas de comunicações dentro da província» ... 5000$00
+Artigo 510.º «Despesas de comunicações dentro da província» ... 5000$00
 
 Distrito sanitário de Moçâmedes
 
-###### Artigo 512.º, n.º 1) «Despesas de conservação e aproveitamento - Móveis» ... 2650$00
+Artigo 512.º, n.º 1) «Despesas de conservação e aproveitamento - Móveis» ... 2650$00
 
-###### Artigo 513.º «Material de consumo corrente» ... 4350$00
+Artigo 513.º «Material de consumo corrente» ... 4350$00
 
-###### Artigo 514.º «Despesas de higiene, saúde e conforto»:
+Artigo 514.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Dietas, combustível e utensílios de cozinha» ... 91000$00
 
 N.º 2) «Luz, água, lavagem, limpeza e outras despesas» ... 37500$00
 
-###### Artigo 515.º «Despesas de comunicações dentro da província» ... 4500$00
+Artigo 515.º «Despesas de comunicações dentro da província» ... 4500$00
 
 Círculo sanitário da Huíla
 
-###### Artigo 520.º «Despesas de higiene, saúde e conforto»:
+Artigo 520.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Dietas, combustível e utensílios de cozinha» ... 100000$00
 
 N.º 2) «Luz, água, lavagem, limpeza e outras despesas» ... 70000$00
 
-###### Artigo 521.º «Despesas de comunicações dentro da província» ... 10000$00
+Artigo 521.º «Despesas de comunicações dentro da província» ... 10000$00
 
 Polícia Internacional e de Defesa do Estado
 
-###### Artigo 560.º, n.º 1) «Despesas com o material - Aquisições de utilização permanente - Móveis» ... 150000$00
+Artigo 560.º, n.º 1) «Despesas com o material - Aquisições de utilização permanente - Móveis» ... 150000$00
 
-###### Artigo 563.º, n.º 2) «Despesas de higiene, saúde e conforte - Luz, água, lavagem, limpeza e outras despesas» ... 50000$00
+Artigo 563.º, n.º 2) «Despesas de higiene, saúde e conforte - Luz, água, lavagem, limpeza e outras despesas» ... 50000$00
 
 Polícia de Segurança Pública
 
-###### Artigo 570.º, n.º 1) «Despesas com o material - Aquisições de utilização permanente - Móveis» ... 300000$00
+Artigo 570.º, n.º 1) «Despesas com o material - Aquisições de utilização permanente - Móveis» ... 300000$00
 
-###### Artigo 573.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, água, lavagem, limpeza e outras despesas» ... 350000$00
+Artigo 573.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, água, lavagem, limpeza e outras despesas» ... 350000$00
 
 ### CAPÍTULO 5.º — Almoxarifados
 
-###### Artigo 794.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado - Pessoal jornaleiro» ... 100000$00
+Artigo 794.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado - Pessoal jornaleiro» ... 100000$00
 
-###### Artigo 796.º «Outras despesas com o pessoal dentro da província»:
+Artigo 796.º «Outras despesas com o pessoal dentro da província»:
 
 N.º 1) «Alimentação ao pessoal indígena» ... 20000$00
 
 N.º 2) «Fardamento e calçado» ... 20000$00
 
-###### Artigo 797.º, n.º 1) «Despesas com o material - Aquisições de utilização permanente - Móveis» ... 1100000$00
+Artigo 797.º, n.º 1) «Despesas com o material - Aquisições de utilização permanente - Móveis» ... 1100000$00
 
-###### Artigo 798.º, n.º 1) «Despesas de conservação e aproveitamento - Móveis» ... 50000$00
+Artigo 798.º, n.º 1) «Despesas de conservação e aproveitamento - Móveis» ... 50000$00
 
 Atrigo 800.º «Despesas de higiene, saúde e conforto»:
 
@@ -253,13 +265,13 @@ N.º 4) «Luz, água, lavagem, limpeza e outras despesas» ... 520000$00
 
 ### CAPÍTULO 7.º — Serviços de obras públicas
 
-###### Artigo 1128.º, n.º 3) «Diversos serviços - Despesas com o funcionamento dos serviços de viação, fiscalização de trânsito e sinalização de estradas» ... 236440$00
+Artigo 1128.º, n.º 3) «Diversos serviços - Despesas com o funcionamento dos serviços de viação, fiscalização de trânsito e sinalização de estradas» ... 236440$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1439.º, n.º 4), alínea f), 2) «Subsídios e pensões - Outros subsídios - Subsídios aos serviços autónomos - Ao vapor 28 de Maio» ... 1310818$50
+Artigo 1439.º, n.º 4), alínea f), 2) «Subsídios e pensões - Outros subsídios - Subsídios aos serviços autónomos - Ao vapor 28 de Maio» ... 1310818$50
 
-###### Artigo 1442.º «Deslocações do pessoal»:
+Artigo 1442.º «Deslocações do pessoal»:
 
 N.º 1) «Ajudas de custo dentro da província» ... 1600000$00
 
@@ -267,7 +279,7 @@ N.º 2), alínea b) «Ajudas de custo e subsídios inerentes às deslocações f
 
 N.º 3) «Passagens dentro da província» ... 800000$00
 
-###### Artigo 1443.º «Diversas despesas»:
+Artigo 1443.º «Diversas despesas»:
 
 N.º 3) «Alimentação, passagens e vestuário de presos indigentes, incluindo os condenados a trabalhos públicos e os expulsos e deportados, dentro e fora da província» ... 1150000$00
 
@@ -279,11 +291,11 @@ N.º 27), n.º 2), alínea b) «Despesas eventuais - Não especificadas - A paga
 
 N.º 29) «Para fazer face às despesas com funcionários e outras individualidades que venham à província em missão especial de serviço público ou em visita oficial, bem como com o pessoal que aqui se torne indispensável recrutar para cooperar com esses funcionários e individualidades» ... 500000$00
 
-###### Artigo 1445.º «Abono de família» ... 2200000$00
+Artigo 1445.º «Abono de família» ... 2200000$00
 
-###### Artigo 1446.º «Subsídio para renda de casa» ... 3000000$00
+Artigo 1446.º «Subsídio para renda de casa» ... 3000000$00
 
-###### Artigo 1447.º «Gratificação de isolamento» ... 1100000$00
+Artigo 1447.º «Gratificação de isolamento» ... 1100000$00
 
 ... 26824575$50
 

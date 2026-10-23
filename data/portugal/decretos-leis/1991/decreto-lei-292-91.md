@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/185a00/41044108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/292/1991/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1991-676043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a2513259081dffb131fec351f296e51a4f7b89a2467cfc6464bc93c6c67f1d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 505c1297738ff5bbce67a01fa1824f2a5cb35348d8c986df594d980637e92878
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direito de Antena
-- Teledistribuição
 - Regime Jurídico
+- Teledistribuição
 - Televisão
 relationships:
 - type: amended_by
   target: pt:dre:652875:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:463656:por
+  label: "Alterada a redacção dos arts. 17º e 19º, pelo DEC LEI.157/95.1995.07.06.PCM, DR.IS-A [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1995-463656
+  date: '1995-07-06'
+- type: amended_by
+  target: pt:dre:412047:por
+  label: "Derrogados os nºs 1 e 2 do art. 11º, na redacção dada pelo Dec Lei 157/95 de 06-Jul, pelo DEC LEI.120/96.1996.08.07.MEPAT,\
+    \ DR.IS-A [182]\0182]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-1996-412047
+  date: '1996-08-07'
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556661:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:652875:por
+  label: "Revogado pelo DEC LEI.241/97.1997.09.18.MEPAT, DR.IS-A [216]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-1997-652875
+  date: '1997-09-18'
 article_structure:
   article_count: 23
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:37Z'
   warnings: []
   errors: []
 ---
@@ -347,12 +379,12 @@ As práticas restritivas da concorrência no âmbito do exercício da actividade
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - António Fernando Couto dos Santos - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 15 de Julho de 1991.**
+Promulgado em 15 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Julho de 1991.**
+Referendado em 17 de Julho de 1991.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

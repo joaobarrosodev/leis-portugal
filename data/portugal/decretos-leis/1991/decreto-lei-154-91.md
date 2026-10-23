@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/094a00/22902325.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8135177b821b7c1e91107732538af3ce8212bba6c21a88729cc60994021f419
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90bf08fef6668d6ed4961e21550b08203e767170feabe2f78f12ed3d8338ee3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,173 @@ relationships:
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:623858:por
+  label: "Alterado o art. 106º do Código, pelo DEC LEI.282/92.1992.12.19.PCM, DR.IS-A [292]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1992-623858
+  date: '1992-12-19'
+- type: amended_by
+  target: pt:dre:666341:por
+  label: "Alterados os arts. 14º, 264º e 300º do Código, pelo DEC LEI.132/93.1993.04.23.MJ, DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1993-666341
+  date: '1993-04-23'
+- type: amended_by
+  target: pt:dre:633534:por
+  label: "Alterados os arts. 309º, 310º, 311º, 327º, 346º e 347º e revogados expressamente os arts. 113º, 114º e o nº 6 do\
+    \ art. 326º do Código, pelo DEC LEI.303/93.1993.09.01.MF, DR.IS-A [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1993-633534
+  date: '1993-09-01'
+- type: amended_by
+  target: pt:dre:176554:por
+  label: "Alterados os seguintes arts. do Código de Processo Tributário: 5º, 7º, 15º, 25º, 27º, 33º, 49º, 70º, 76º, 84º a\
+    \ 86º, 92º, 94º, 97º a 99º, 101º, 109º, 110º, 130º, 132º, 136º, 144º, 151º, 152º, 166º, 205º, 213º, 237º, 242º, 265º,\
+    \ 266º, 270º, 282º, 296º, 312º, 322º a 327º (este último na redacção do Dec Lei 303/93 de 01-Set), e 331º a 333º. Aditado\
+    \ o art. 90º-A pelo DEC LEI.47/95.1995.03.10.MF, DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1995-176554
+  date: '1995-03-10'
+- type: amended_by
+  target: pt:dre:480959:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante da 1ª parte do nº 1 do art. 300º\
+    \ do Código, pelo AC.451/95.1995.07.06.TCS, DR.IS-A [178] de 03/Ago/1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/451-1995-480959
+  date: '1995-07-06'
+- type: amended_by
+  target: pt:dre:460645:por
+  label: "Alterado o art. 121º e aditado o art. 106º-A ao Código, pelo DEC LEI.165/95.1995.07.15.MF, DR.IS-A [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-1995-460645
+  date: '1995-07-15'
+- type: amended_by
+  target: pt:dre:595337:por
+  label: "Alterados os art.s 83º, 90º-A, 97º e 101º (os últimos três na redacção do Dec Lei 47/95 de 10-Mar), 355º (na redacção\
+    \ da Lei 39-B/94, de 27-Dez) e 356º do Código, pelo DEC LEI.7/96.1996.02.07.MF, DR.IS-A [32]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1996-595337
+  date: '1996-02-07'
+- type: amended_by
+  target: pt:dre:626376:por
+  label: "Eliminado o art. 106º-A do Código do Processo Tributário, aprovado pelo presente diploma, na redação do Dec Lei\
+    \ 165/95, de 15-jul, pela LEI.4/96.27.02.1996.AR, DR.IS-A [49] de 27.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-1996-626376
+  date: '1996-02-27'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Aditado o art. 14º-A ao Código de Processo Tributário, pela LEI.10-B/96.1996.03.23.AR, DR.IS-A [71]2ºSupl\0pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:405679:por
+  label: "Aditados os arts. 109º-A e 284º-A e alterados os arts. 284º e 301º do presente Código pelo DEC LEI.125/96.1996.08.10.MF,\
+    \ DR.IS-A [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1996-405679
+  date: '1996-08-10'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterada a redacção dos art 13º e 282º do Código aprovado pelo presente diploma, pela LEI.52-C/96.1996.12.27.AR\
+    \ DR.IS-A [299]3ºSupl (OE 1997 - Art 52º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:581626:por
+  label: "Aditados os arts 110º-A e 110º-B pelo DEC LEI.20/97.1997.01.21.MF DR.IS-A (17)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1997-581626
+  date: '1997-01-21'
+- type: amended_by
+  target: pt:dre:581222:por
+  label: "Alterada a redacção dos art 14º-A, 25º, 27º, 66º, 85º, 86º, 87º e 91, aditado o art 62º-A e revogados o art 5º (continunado\
+    \ a aplicar-se às reclamações pendentes) e os nºs 3 e 4 do art 88º pelo Dec Lei 23/97.1997.01.23.MF, DR.IS-A [19]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1997-581222
+  date: '1997-01-23'
+- type: amended_by
+  target: pt:dre:204240:por
+  label: "Alterado o artº 279º do presente Código, pelo DEC LEI.202/97.1997.08.08.MF DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-1997-204240
+  date: '1997-08-08'
+- type: amended_by
+  target: pt:dre:229974:por
+  label: "Alterado o art. 89º e aditados os arts. 85º-A e 85º-B do presente Código, pelo DEC LEI.24/98.1998.02.09.MF DR.IS-A\
+    \ [33]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-1998-229974
+  date: '1998-02-09'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Aditado o art. 32º-A ao Código pela LEI.87-B/98.1998.12.31.AR DR.IS-A [301]5º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:248175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628297:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:300072:por
+  label: "Rectificado pela DECL-RECT.137/91.1991.06.26.SG-PCM, DR.IS-A [147] de 29/Jun/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/137-1991-300072
+  date: '1991-06-26'
+- type: repealed_by
+  target: pt:dre:233945:por
+  label: "Revogados os nºs. 4 e 5 do art. 355º do Código, pela LEI.39-B/94.1994.12.27.AR, DR.IS-A [298]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: repealed_by
+  target: pt:dre:191558:por
+  label: "Revogados sem prejuízo do disposto no nº 2 do art. 3º os seguintes arts. do presente Código, pelo DEC LEI.398/98.1998.12.17.MF,\
+    \ DR.IS-A [290]: 3º, nº 1 do 4º, 5º (na redacção do Dec Lei 47/95 de 10-Mar DR.IS-A [59]) e já revogado, continuando a\
+    \ aplicar-se às reclamações pendentes, pelo Dec Lei 23/97, de 23 de-Jan DR.IS-A [19], 8º, 9º, 10º, nºs 1 e 2 do 11º, 12º,\
+    \ 13º (na redacção da Lei 52-C/96 de 27-Dez DR.IS-A [299], 3ºSupl - OE 1997 - art. 52º), 14º (na redacção do Dec Lei 132/93\
+    \ de 23-Abr DR.IS-A [95]), 14º-A (aditado pela Lei 10-B/96 de 23-Mar DR.IS-A [71], 2ºSupl - OE 1996 - art. 52º e alterado\
+    \ pelo Dec Lei 23/97 de 23-Jan DR.IS-A [19]), 15º (na redacção do Dec Lei 47/95 de 10-Mar DR.IS-A [59]), 16º, 17º, 19º,\
+    \ 20º, 21º, 23º, nºs 1, 2 e 3 do 24º, 32º, 33º (na redacção do Dec Lei 47/95 de 10-Mar DR.IS-A [59]), 34º, 38º, 48º, nº\
+    \ 1 do 49º (na redacção do Dec Lei 47/95 de 10-Mar DR.IS-A [59]), 71º, 72º, 73º, 74º, 78º, 79º, 83º (na redacção do Dec\
+    \ Lei 7/96 de 07-Fev DR.IS-A [32]), 84º (na redacção do Dec Lei 47/95 de 10-Mar DR.IS-A [59]), 85º (na redacção do Dec\
+    \ Lei 47/95 de 10-Mar, DR.IS-A [59] e do Dec Lei 23/97 de 23-Jan DR.IS-A [19]), 86º (na redacção do Dec Lei 47/95 de 10-Mar)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1998-191558
+  date: '1998-12-17'
+- type: repealed_by
+  target: pt:dre:692261:por
+  label: "Revogado, a partir da entrada em vigor do presente Código, o Código de Processo Tributário aprovado por este diploma,\
+    \ bem como toda a legislação que lhe seja contrária, salvo os artºs. 25º a 30º, 35º, 36º e 180º a 232º, até à revisão\
+    \ do regime jurídico das Infracções Fiscais não Aduaneiras, aprovado pelo Dec Lei 20-A/90 de 15-Jan e salvo o disposto\
+    \ nos nºs 1 e 2 do art. 49º na parte relativa à contagem do prazo de interposição do recurso das decisões de aplicação\
+    \ das coimas, pelo DEC LEI.433/99.1999.10.26.MF, DR.IS-A [250]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/433-1999-692261
+  date: '1999-10-26'
+- type: repealed_by
+  target: pt:dre:322110:por
+  label: "Revogados os arts. 25º a 30º, 35º, 36º, nºs 1 e 2 do art. 49º e arts. 180º a 232º do Código de Processo Tributário\
+    \ (mantidos em vigor pelo Dec Lei 433/99 de 26-Out) pela LEI.15/2001.2001.06.05.AR DR.IS-A [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2001-322110
+  date: '2001-06-05'
 article_structure:
   article_count: 370
   section_count: 96
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:31Z'
   warnings: []
   errors: []
 ---
@@ -191,15 +348,15 @@ O Governo aprovará até 1 de Outubro de 1991 os diplomas complementares, design
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 1 de Abril de 1991.**
+Promulgado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Abril de 1991.**
+Referendado em 9 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Código de Processo Tributário
 

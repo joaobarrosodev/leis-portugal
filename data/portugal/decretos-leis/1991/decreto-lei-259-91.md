@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/163a00/36563656.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/259/1991/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1991-663337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a09f547c8818c2f158340f4571f384a1ec337c5b9c812d134b3888d626e8cc76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b0f9e983bd5e8c626a13b2d06362010072ac49ba104f9d0e8806f17db009f79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,38 @@ reuse:
 subjects:
 - Associação Patronal
 - Associação Sindical
-- Prédio Rústico
-- Propriedade Imobiliária
 - Execução por Dívidas
+- Prédio Rústico
 - Prédio Urbano
+- Propriedade Imobiliária
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:345089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345090:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:47Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +123,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os bens imóveis, incluindo terrenos para construção, destinados ao exercício de actividades compreendidas nos fins próprios das associações sindicais e patronais não gozam da impenhorabilidade estabelecida no artigo 5.º, n.º 2, e no artigo 6.º, n.º 2, respectivamente dos Decretos-Leis n.os [215-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-1975-345089) e [215-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-c-1975-345090), ambos de 30 de Abril, sempre que, cumulativamente, se verifiquem as seguintes condições:
+Artigo único. Os bens imóveis, incluindo terrenos para construção, destinados ao exercício de actividades compreendidas nos fins próprios das associações sindicais e patronais não gozam da impenhorabilidade estabelecida no artigo 5.º, n.º 2, e no artigo 6.º, n.º 2, respectivamente dos Decretos-Leis n.os [215-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-1975-345089) e [215-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-c-1975-345090), ambos de 30 de Abril, sempre que, cumulativamente, se verifiquem as seguintes condições:
 
 a) A aquisição, construção, reconstrução, modificação ou beneficiação desses bens seja feita mediante recurso a financiamento por terceiros com garantia real, previamente registada;
 
@@ -118,12 +131,12 @@ b) O recurso ao financiamento por terceiros e as condições de aquisição seja
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - José Albino da Silva Peneda.
 
-**Promulgado em 25 de Junho de 1991.**
+Promulgado em 25 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Junho de 1991.**
+Referendado em 27 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

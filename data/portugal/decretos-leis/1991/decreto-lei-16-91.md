@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/1991/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1991-694041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2fa2564597870de349a3865113411f6b06d7620f74c7f077d7bb46b22e98225
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ec868de5796c593131aff8974c5f0882e462902d03f82b4a35296745f5bef39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ subjects:
 - Alfândega
 - Armazenagem
 - Armazenagens de Depósito Provisório
-- Modernização Administrativa
+- Circulação de Mercadorias
 - Desalfândegamento
 - Direcção Geral das Alfândegas
 - Importação
-- Circulação de Mercadorias
-- Transporte de Mercadorias
+- Modernização Administrativa
 - Regime Jurídico
 - Regime Jurídico das Infracções Fiscais Aduaneiras
 - Regulamento CE
+- Transporte de Mercadorias
 relationships:
 - type: cites
   target: celex:31977R0222
@@ -101,13 +101,13 @@ relationships:
 article_structure:
   article_count: 28
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:41Z'
   warnings: []
   errors: []
 ---
@@ -348,13 +348,13 @@ Os requisitos e as condições a preencher pelos interessados para poderem receb
 
 1 - O artigo 3.º do Decreto-Lei n.º 281/86, de 5 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - A autorização referida no número anterior fica condicionada à atribuição do regime simplificado de desalfandegamento no domicílio.
 
 2 - Os artigos 4.º, 20.º e 21.º do Decreto-Lei n.º 329/83, de 11 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - Para circularem ao abrigo do regime de trânsito previsto no presente diploma deverão as mercadorias ser objecto de uma declaração T, entendendo-se como tal a declaração feita em formulários correspondentes aos modelos constantes dos anexos I e II do Regulamento (CEE) n.º [679/85](http://data.europa.eu/eli/reg/1985/679/oj?locale=pt), do Conselho, de 18 de Fevereiro.
+Art. 4.º - 1 - Para circularem ao abrigo do regime de trânsito previsto no presente diploma deverão as mercadorias ser objecto de uma declaração T, entendendo-se como tal a declaração feita em formulários correspondentes aos modelos constantes dos anexos I e II do Regulamento (CEE) n.º [679/85](http://data.europa.eu/eli/reg/1985/679/oj?locale=pt), do Conselho, de 18 de Fevereiro.
 
 2 - O formulário T mencionado no n.º 1 pode ser completado, se necessário, por um ou mais formulários TBIS correspondentes aos modelos de formulários complementares constantes dos anexos III e IV do Regulamento (CEE) n.º [679/85](http://data.europa.eu/eli/reg/1985/679/oj?locale=pt), do Conselho, de 18 de Fevereiro, ou por uma ou mais listas de carga correspondentes ao modelo previsto no n.º 2 do artigo 1.º do Regulamento (CEE) n.º [1062/87](http://data.europa.eu/eli/reg/1987/1062/oj?locale=pt), da Comissão, de 27 de Março.
 
@@ -370,9 +370,9 @@ c) O exemplar n.º 5, que constitui o exemplar de devolução.
 
 5 - A declaração T poderá, em condições a definir pelo Ministro das Finanças, revestir a forma de documento comercial para efeitos de aplicação do regime simplificado de desalfandegamento no domicílio.
 
-###### Art. 20.º O prazo de validade do certificado de caução não poderá exceder dois anos.
+Art. 20.º O prazo de validade do certificado de caução não poderá exceder dois anos.
 
-###### Art. 21.º - 1 - A garantia global será prestada por um período não superior a dois anos, podendo ser cancelada pelas autoridades aduaneiras sempre que não se encontrem reunidas as condições observadas aquando da sua prestação.
+Art. 21.º - 1 - A garantia global será prestada por um período não superior a dois anos, podendo ser cancelada pelas autoridades aduaneiras sempre que não se encontrem reunidas as condições observadas aquando da sua prestação.
 
 2 - ...
 
@@ -390,12 +390,12 @@ O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 18 de Dezembro de 1990.**
+Promulgado em 18 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Dezembro de 1990.**
+Referendado em 21 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

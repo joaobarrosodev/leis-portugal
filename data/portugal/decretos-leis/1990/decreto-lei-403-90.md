@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 293/1990, 2º Suplemento, Série I de 1990-12-21
   number: '293'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5202-(128) a 5202-(129)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29302/01280129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1990-406086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:04:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c6285ef92b46ef44c0ea19e1f541291d72c9f8dd6d96518c3860bc94045d90c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6292e41beb289a5ec39014614ca24898dd8817686cc1d163b87682e5cf5a8bba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:04:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Tesouro
+- Extinção de Serviços
+- Fundo de Garantia de Riscos Cambiais
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:509014:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:04:41Z'
   warnings: []
   errors: []
 ---
@@ -98,36 +112,36 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É extinto o Fundo de Garantia de Riscos Cambiais, criado pelo [Decreto-Lei n.º 75-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-d-1977-509014), de 28 de Fevereiro.
+Artigo 1.º É extinto o Fundo de Garantia de Riscos Cambiais, criado pelo [Decreto-Lei n.º 75-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-d-1977-509014), de 28 de Fevereiro.
 
-###### Art. 2.º - 1 - A universalidade dos direitos, obrigações e responsabilidades do Fundo de Garantia de Riscos Cambiais considera-se transferida, independentemente de quaisquer formalidades, para a Direcção-Geral do Tesouro.
+Art. 2.º - 1 - A universalidade dos direitos, obrigações e responsabilidades do Fundo de Garantia de Riscos Cambiais considera-se transferida, independentemente de quaisquer formalidades, para a Direcção-Geral do Tesouro.
 
 2 - Consideram-se transmitidos os créditos, as obrigações e as responsabilidades já relevados nos balanços e contas do Fundo de Garantia de Riscos Cambiais e, bem assim, os que vierem a apurar-se no balanço e contas demonstrativos da situação patrimonial do mesmo Fundo, que o Banco de Portugal deve elaborar e submeter à aprovação do Ministro das Finanças até 26 de Dezembro de 1990.
 
-###### Art. 3.º - 1 - Após a data da extinção do Fundo de Garantia de Riscos Cambiais, o Banco de Portugal assegurará, por conta e ordem da Direcção-Geral do Tesouro, a gestão das operações a que haja sido dado acordo prévio antes da referida extinção.
+Art. 3.º - 1 - Após a data da extinção do Fundo de Garantia de Riscos Cambiais, o Banco de Portugal assegurará, por conta e ordem da Direcção-Geral do Tesouro, a gestão das operações a que haja sido dado acordo prévio antes da referida extinção.
 
 2 - Os encargos e responsabilidades decorrentes da gestão a que se refere o número anterior serão regularizados nos termos do n.º 2 do artigo 4.º
 
-###### Art. 4.º - 1 - A Direcção-Geral do Tesouro poderá regularizar, mediante títulos de dívida pública, as responsabilidades a que se reporta o artigo 2.º
+Art. 4.º - 1 - A Direcção-Geral do Tesouro poderá regularizar, mediante títulos de dívida pública, as responsabilidades a que se reporta o artigo 2.º
 
 2 - Tratando-se de responsabilidades perante o Banco de Portugal, o disposto no número anterior será aplicável nos termos de acordo a celebrar entre a Direcção-Geral do Tesouro e o mesmo Banco, no qual se poderá prever a regularização parcial das responsabilidades mediante a transmissão de títulos de crédito de que o Fundo de Garantia de Riscos Cambiais é titular, bem como os seus rendimentos.
 
 3 - O disposto no n.º 1 aplicar-se-á ao reembolso dos certificados referidos no artigo 8.º do Estatuto do Fundo de Garantia de Riscos Cambiais, anexo ao [Decreto-Lei n.º 75-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-d-1977-509014), de 28 de Fevereiro.
 
-###### Art. 5.º A extinção do Fundo de Garantia de Riscos Cambiais reporta os seus efeitos a 30 de Novembro de 1990.
+Art. 5.º A extinção do Fundo de Garantia de Riscos Cambiais reporta os seus efeitos a 30 de Novembro de 1990.
 
-###### Art. 6.º É revogado o [Decreto-Lei n.º 75-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-d-1977-509014), de 28 de Fevereiro.
+Art. 6.º É revogado o [Decreto-Lei n.º 75-D/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-d-1977-509014), de 28 de Fevereiro.
 
-###### Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 1990. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 18 de Dezembro de 1990.**
+Promulgado em 18 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Dezembro de 1990.**
+Referendado em 19 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

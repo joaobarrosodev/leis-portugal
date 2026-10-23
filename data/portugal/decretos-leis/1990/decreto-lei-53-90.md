@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/03700/05720578.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1990-334649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0a6071e49cc6ef0d7d0e51d46333759caffe9c1c7e4e7ec400a46e6b21fd9bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac8a9975f134d4cd30de503193c4d4ae9c53ba6510ceca31dd98e2f5b4e8be54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Nacional de Informação Geográfica
+- Investigador
+- Ordenamento do Território
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recursos Naturais
+- Sistema Nacional de Informação Geográfica
 relationships:
 - type: amended_by
   target: pt:dre:494010:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Ambiente e do Ordenamento do Território, o Centro Nacional de Informação Geográfica,\
+    \ criado no presente diploma, pelo DEC LEI.474-A/99.08.11.1999.PCM, DR.IS-A [260]Supl de 08.11.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:585216:por
+  label: "Extinto o Centro Nacional de Informação Geográfica pelo DEC LEI.8/2002.2002.01.09.MAOT DR.IS-A [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2002-585216
+  date: '2002-01-09'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:264572:por
+  label: "Revogados os arts. 5 a 26º pelo DEC LEI.59/2002.2002.03.15.MAOT DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2002-264572
+  date: '2002-03-15'
+- type: repealed_by
+  target: pt:dre:494010:por
+  label: "Revogado pelo DEC LEI.180/2009.07.08.2009.MAOTDR, DR.IS [152] de 07.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-2009-494010
+  date: '2009-08-07'
 article_structure:
   article_count: 26
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:11Z'
   warnings: []
   errors: []
 ---
@@ -538,16 +583,16 @@ Até final do ano económico, os encargos com o pessoal respeitantes ao funciona
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 1989. - Aníbal António Cavaco Silva - Lino Dias Miguel - Vasco Joaquim Rocha Vieira - Eurico Silva Teixeira de Melo - Rui Carlos Alvarez Carp - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 30 de Janeiro de 1990.**
+Promulgado em 30 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Fevereiro de 1990.**
+Referendado em 2 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva
 
 ## ANEXO A — Quadro de pessoal dirigente, de chefia e de investigação a que se refere o n.º 2 do artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03700/05720578.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03700/05720578.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03700/05720578.pdf)

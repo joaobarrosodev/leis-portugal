@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/03800/06020607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,125 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1990-334630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd44d8bacf3583082e67ef92cd3437552f7fc2772dcc863fb230dc1d5cae2695
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74999fa258985282451a3f9479fe893e017013192b2157c4663e21d4efd149ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aposentação
+- Carreira Profissional
+- Política Salarial
+- Prestações Familiares
+- PSP
+- Quadro de Pessoal
+- Remuneração
+- Remuneração Acessória
+- Sistema Retributivo
+- Subsídio de Risco
 relationships:
 - type: amended_by
   target: pt:dre:491437:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:674182:por
+  label: "Alterado o art. 16º, pelo DEC LEI.298/91.1991.08.16.MAI, DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1991-674182
+  date: '1991-08-16'
+- type: amended_by
+  target: pt:dre:598155:por
+  label: "Dada nova redacção ao art. 16º do presente diploma (na redacção do Dec Lei 298/91 de 16-Ago) pelo DEC LEI.262/92.1992.11.24.MAI,\
+    \ DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-1992-598155
+  date: '1992-11-24'
+- type: amended_by
+  target: pt:dre:478428:por
+  label: "Aditado o art. 11º-A pelo DEC LEI.160/98.1998.06.24.MAI, DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-1998-478428
+  date: '1998-06-24'
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:150714:por
+  label: "Revogados os arts. 19º e 20º do presente diploma, pelo DEC LEI.157/2005.20.09.2005.MAI, DR.IS-A [181] de 20.09.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2005-150714
+  date: '2005-09-20'
+- type: repealed_by
+  target: pt:dre:491437:por
+  label: "Revogado, a partir de 01.01.2010, pelo DEC LEI.299/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-2009-491437
+  date: '2009-10-14'
 article_structure:
   article_count: 28
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:21Z'
   warnings: []
   errors: []
 ---
@@ -426,20 +511,20 @@ O disposto no presente diploma prevalece sobre quaisquer normas gerais ou especi
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1989. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - José António da Silveira Godinho.
 
-**Promulgado em 24 de Janeiro de 1990.**
+Promulgado em 24 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1990.**
+Referendado em 24 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Mapa a que se refere o artigo 15.º, n.º 1, do Decreto-Lei n.º 58/90
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03800/06020607.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03800/06020607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03800/06020607.pdf)
 
 ## ANEXO II — Mapa a que se refere o artigo 15.º, n.º 3, do Decreto-Lei n.º 58/90
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03800/06020607.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03800/06020607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03800/06020607.pdf)

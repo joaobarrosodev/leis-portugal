@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165/1991/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1991-616782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 222288d36c03c9a1f179fa569614301ee0142ce09a4e5900c7e16ae0e86702d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fdb41e1f8cb5e4a22711b740c34f9c7232c55770610e41cf8a3ce979f527c5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,17 +72,25 @@ subjects:
 - Delegação de Competências
 - Governo XI
 - Ministro das Finanças
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557797:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:46Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +107,15 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É aprovada a alienação faseada da totalidade das acções correspondentes ao capital social do Banco Espírito Santo e Comercial de Lisboa, S. A.
+Artigo 1.º - 1 - É aprovada a alienação faseada da totalidade das acções correspondentes ao capital social do Banco Espírito Santo e Comercial de Lisboa, S. A.
 
 2 - As acções representativas do capital da sociedade poderão ser escriturais e, enquanto se mantiver a limitação da aquisição e posse de acções por entidades estrangeiras, serão obrigatoriamente nominativas ou ao portador em regime de registo.
 
-###### Art. 2.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e deste diploma, é aprovada a alienação imediata de 40% do capital social do Banco Espírito Santo e Comercial de Lisboa, S. A.
+Art. 2.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e deste diploma, é aprovada a alienação imediata de 40% do capital social do Banco Espírito Santo e Comercial de Lisboa, S. A.
 
 2 - As fases subsequentes de reprivatização serão ulteriormente estabelecidas mediante diplomas próprios, em condições e segundo qualquer das modalidades admitidas pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 3.º - 1 - Serão reservadas para aquisição por trabalhadores, pequenos subscritores e emigrantes acções correspondentes a 25% do capital a alienar.
+Art. 3.º - 1 - Serão reservadas para aquisição por trabalhadores, pequenos subscritores e emigrantes acções correspondentes a 25% do capital a alienar.
 
 2 - Serão reservadas para aquisição por depositantes e detentores, residentes, de títulos de participação emitidos pelo Banco Espírito Santo e Comercial de Lisboa, S. A., acções correspondentes a 25% do capital a alienar.
 
@@ -119,7 +127,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - Para os efeitos do n.º 1 deste artigo, entendem-se como trabalhadores as pessoas definidas pelo artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 4.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas individuais, a fixar mediante resolução do Conselho de Ministros.
+Art. 4.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas individuais, a fixar mediante resolução do Conselho de Ministros.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar mediante resolução do Conselho de Ministros, procedendo-se a rateio em função da procura não satisfeita, se for caso disso.
 
@@ -129,13 +137,13 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - Nenhuma entidade singular ou colectiva poderá adquirir, ao abrigo dos números anteriores, mais de 15% do capital da sociedade, sendo reduzidas a este limite as propostas de aquisição que o excedam e que estejam em condições de ser satisfeitas.
 
-###### Art. 5.º - 1 - A resolução do Conselho de Ministros definirá preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes.
+Art. 5.º - 1 - A resolução do Conselho de Ministros definirá preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes.
 
 2 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções em condições a fixar na resolução do Conselho de Ministros.
 
 3 - A resolução do Conselho de Ministros fixará também o preço base para a aquisição nos leilões competitivos referidos nos n.os 3 e 4 do artigo anterior.
 
-###### Art. 6.º - 1 - As acções adquiridas ao abrigo dos n.os 1 e 2 do artigo 4.º não podem ser oneradas, nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição sob pena de nulidade do referido negócio.
+Art. 6.º - 1 - As acções adquiridas ao abrigo dos n.os 1 e 2 do artigo 4.º não podem ser oneradas, nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição sob pena de nulidade do referido negócio.
 
 2 - As acções adquiridas por pequenos subscritores ou emigrantes ao abrigo do n.º 2 do artigo 4.º não conferem aos respectivos titulares o direito de voto na assembleia geral da sociedade durante o período de indisponibilidade previsto no número anterior.
 
@@ -143,7 +151,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - São nulos os acordos pelos quais os trabalhadores que tenham adquirido acções ao abrigo do n.º 1 do artigo 4.º se obriguem a votar em determinado sentido, nas assembleias gerais a realizar durante o período de indisponibilidade previsto no n.º 1.
 
-###### Art. 7.º - 1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e a posse, por entidades estrangeiras, de acções da sociedade reprivatizada, observar-se-á o seguinte:
+Art. 7.º - 1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e a posse, por entidades estrangeiras, de acções da sociedade reprivatizada, observar-se-á o seguinte:
 
 a) Não podem ser inscritas ou averbadas a entidades estrangeiras acções representativas de mais de 5% das acções com direito de voto de que o Estado não seja titular;
 
@@ -153,7 +161,7 @@ c) Nas sociedades ordinárias ou gestoras de participações sociais, titulares 
 
 2 - Para os efeitos do número anterior, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento as informações e provas que considerar necessárias.
 
-###### Art. 8.º - 1 - Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
+Art. 8.º - 1 - Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
 
 a) As pessoas singulares de nacionalidade estrangeira;
 
@@ -167,7 +175,7 @@ d) As sociedades com sede em Portugal que, nos termos do artigo 486.º do Códig
 
 3 - Cada entidade colectiva concorrente declarará, por escrito, se se encontra ou não em relação prevista no número anterior com outra entidade também concorrente.
 
-###### Art. 9.º - 1 - Enquanto o Estado detiver pelo menos 5% do capital da sociedade:
+Art. 9.º - 1 - Enquanto o Estado detiver pelo menos 5% do capital da sociedade:
 
 a) O Governo poderá designar pelo menos um dos membros do conselho de administração, e, além disso, as deliberações da assembleia geral que tenham por objecto a fusão, cisão, transformação, dissolução, alteração dos estatutos, incluindo o aumento e a redução do capital social, só se considerarão tomadas se não forem votadas desfavoravelmente pelo representante do Estado;
 
@@ -175,26 +183,26 @@ b) Sem prejuízo do disposto na lei comercial quanto à prestação de informaç
 
 2 - Os administradores nomeados pelo Governo têm a competência, direitos e deveres definidos na lei para os administradores por parte do Estado.
 
-###### Art. 10.º Compete ao conselho de administração do Banco Espírito Santo e Comercial de Lisboa, S. A., propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 10.º Compete ao conselho de administração do Banco Espírito Santo e Comercial de Lisboa, S. A., propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
-###### Art. 11.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
+Art. 11.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
 
-###### Art. 12.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei, são delegados no Ministro das Finanças, com autorização para subdelegar no Secretário de Estado das Finanças, os poderes bastantes para contratar, por ajuste directo entre as empresas pré-qualificadas a que se refere o artigo 5.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, a montagem das operações de alienação e de oferta pública de subscrição de acções, a tomada firme e respectiva colocação e, bem assim, para determinar as demais condições que se afigurarem convenientes.
+Art. 12.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei, são delegados no Ministro das Finanças, com autorização para subdelegar no Secretário de Estado das Finanças, os poderes bastantes para contratar, por ajuste directo entre as empresas pré-qualificadas a que se refere o artigo 5.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, a montagem das operações de alienação e de oferta pública de subscrição de acções, a tomada firme e respectiva colocação e, bem assim, para determinar as demais condições que se afigurarem convenientes.
 
-###### Art. 13.º - 1 - Nos 30 dias subsequentes à alienação das acções, será convocada a assembleia geral de accionistas, para se reunir no prazo mínimo permitido por lei a fim de serem eleitos os membros dos órgãos sociais.
+Art. 13.º - 1 - Nos 30 dias subsequentes à alienação das acções, será convocada a assembleia geral de accionistas, para se reunir no prazo mínimo permitido por lei a fim de serem eleitos os membros dos órgãos sociais.
 
 2 - Nos 90 dias seguintes à conclusão da fase de reprivatização prevista no presente diploma, a sociedade deverá proceder às necessárias adaptações estatutárias.
 
-###### Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Março de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 19 de Abril de 1991.**
+Promulgado em 19 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Abril de 1991.**
+Referendado em 22 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

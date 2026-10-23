@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18836-1961-185340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:07:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15230ae6597577bff6d7c0552bb5d051789b2723cb4b2caabfe5a046f4c79fbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a141a531aa348be186ac5bafda1b90bf9106aabc9688f2a140a7240eb7df2995
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:07:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- Cofre de Previdência
+- Estatuto
+- PSP
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:545640:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139676:por
+  label: Aditado um § 3.º ao art. 63.º pelo(a) Portaria n.º 173/77 - Diário da República n.º 74/1977, Série I de 1977-03-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/173-1977-139676
+  date: '1977-03-29'
+- type: amended_by
+  target: pt:dre:545640:por
+  label: "Extinto o Cofre de Previdência da PSP cujos Estatutos constam do presente diploma, pelo DEC LEI.203/2006.27.10.2006.MAI,\
+    \ DR.IS [208] de 27.10.2006, nos termos do disposto no respectivo art. 16º, sendo as suas atribuições integradas no organismo\
+    \ com atribuições relativas aos serviços sociais da PSP DEC LEI.203/2006.27.10.2006.MAI, DR.IS [208] de 27.10.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2006-545640
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:437049:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:07:28Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +116,13 @@ Estatuto do Cofre de Previdência da Polícia de Segurança Pública
 
 ### CAPÍTULO I — Da natureza e fins
 
-###### Artigo 1.º O Cofre de Previdência da Polícia de Segurança Pública é uma instituição de utilidade pública, com personalidade jurídica e sede em Lisboa, em edifício cedido pelo Estado, que funciona integrada nos Serviços Sociais da Polícia de Segurança Pública, nos termos do artigo 4.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959.
+Artigo 1.º O Cofre de Previdência da Polícia de Segurança Pública é uma instituição de utilidade pública, com personalidade jurídica e sede em Lisboa, em edifício cedido pelo Estado, que funciona integrada nos Serviços Sociais da Polícia de Segurança Pública, nos termos do artigo 4.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959.
 
-###### Art. 2.º O Cofre de Previdência da Polícia de Segurança Pública tem por fim essencial assegurar por morte dos seus subscritores um subsídio pecuniário único, pago por uma só vez, à pessoa ou pessoas consideradas hábeis para o efeito, nos termos deste estatuto.
+Art. 2.º O Cofre de Previdência da Polícia de Segurança Pública tem por fim essencial assegurar por morte dos seus subscritores um subsídio pecuniário único, pago por uma só vez, à pessoa ou pessoas consideradas hábeis para o efeito, nos termos deste estatuto.
 
 § único. Sem prejuízo da finalidade essencial referida e quando as suas condições financeiras o permitirem, o Cofre deverá cooperar na campanha de fomento da construção de casas económicas e de renda económica e em quaisquer outras actividades destinadas a beneficiar os subscritores, para o que elaborará os respectivos regulamentos, para aprovação do Ministro do Interior.
 
-###### Art. 3.º Serão integradas no Cofre de Previdência da Polícia de Segurança Pública, desde a data da sua criação, as instituições de previdência já existentes nos Comandos Distritais de Évora, Leiria, Funchal e Ponta Delgada e, mediante despacho do Ministro do Interior, as instituições de previdência existentes nos Comandos Distritais do Porto, de Braga, de Setúbal e de Viseu à medida que forem sendo constituídas as reservas matemáticas julgadas necessárias.
+Art. 3.º Serão integradas no Cofre de Previdência da Polícia de Segurança Pública, desde a data da sua criação, as instituições de previdência já existentes nos Comandos Distritais de Évora, Leiria, Funchal e Ponta Delgada e, mediante despacho do Ministro do Interior, as instituições de previdência existentes nos Comandos Distritais do Porto, de Braga, de Setúbal e de Viseu à medida que forem sendo constituídas as reservas matemáticas julgadas necessárias.
 
 § 1.º Aos subscritores das instituições de previdência referidas no corpo deste artigo serão mantidos os direitos e as quotas do antecedente estabelecidos e constantes do quadro I anexo a este estatuto, após a integração daquelas instituições no Cofre de Previdência da Polícia de Segurança Pública.
 
@@ -111,13 +132,13 @@ Estatuto do Cofre de Previdência da Polícia de Segurança Pública
 
 1.º Inscrições
 
-###### Art. 4.º São hábeis para se inscreverem como subscritores do Cofre de Previdência da Polícia de Segurança Pública, desde que tenham menos de 61 anos de idade à data da inscrição, os agentes e funcionários civis dos quadros aprovados por lei em serviço na Polícia de Segurança Pública.
+Art. 4.º São hábeis para se inscreverem como subscritores do Cofre de Previdência da Polícia de Segurança Pública, desde que tenham menos de 61 anos de idade à data da inscrição, os agentes e funcionários civis dos quadros aprovados por lei em serviço na Polícia de Segurança Pública.
 
 § 1.º A inscrição no Cofre de Previdência da Polícia de Segurança Pública é obrigatória para todos os agentes e funcionários civis, à excepção dos que se mencionam no parágrafo seguinte.
 
 § 2.º É voluntária a inscrição no Cofre de Presidência da Polícia de Segurança Pública apenas para os agentes e funcionários civis que à data da criação daquele Cofre sejam já subscritores do Montepio da Polícia de Segurança Pública de Lisboa e das instituições de previdência referidas no artigo 3.º deste estatuto ou tenham atingido 40 anos de idade.
 
-###### Art. 5.º As inscrições serão feitas numa folha individual de inscrição, da qual conste o nome do interessado, data do nascimento, lugar, freguesia e concelho onde nasceu, filiação, estado, categoria e importância que deseja subscrever, conforme o modelo I anexo a este estatuto.
+Art. 5.º As inscrições serão feitas numa folha individual de inscrição, da qual conste o nome do interessado, data do nascimento, lugar, freguesia e concelho onde nasceu, filiação, estado, categoria e importância que deseja subscrever, conforme o modelo I anexo a este estatuto.
 
 § 1.º Estes elementos serão autenticados pela entidade de que dependa o agente ou funcionário civil a inscrever.
 
@@ -127,27 +148,27 @@ Estatuto do Cofre de Previdência da Polícia de Segurança Pública
 
 A) Generalidades
 
-###### Art. 6.º Os subsídios pecuniários a subscrever, nos termos do artigo 2.º, poderão ser de 10000$00, 15000$00 ou 20000$00.
+Art. 6.º Os subsídios pecuniários a subscrever, nos termos do artigo 2.º, poderão ser de 10000$00, 15000$00 ou 20000$00.
 
 § único. Logo que as circunstâncias o permitam, o limite a que se refere o corpo deste artigo poderá ser elevado para 50000$00, mediante autorização do Ministro do Interior em face de proposta fundamentada da direcção do Cofre.
 
-###### Art. 7.º Os subsídios são impenhoráveis, não ficando assim sujeitos a arresto ou acção judicial para pagamento de dívidas, e sobre eles não poderá incidir qualquer contribuição, imposto ou taxa e não poderão, pela sua natureza, fazer parte de arrolamento de bens.
+Art. 7.º Os subsídios são impenhoráveis, não ficando assim sujeitos a arresto ou acção judicial para pagamento de dívidas, e sobre eles não poderá incidir qualquer contribuição, imposto ou taxa e não poderão, pela sua natureza, fazer parte de arrolamento de bens.
 
 § único. Quando o subscritor, à data do seu falecimento, dever ao Cofre quaisquer quotas, adicionais e indemnizações, a que se refere o n.º 3.º do presente capítulo, ou qualquer outra importância, o total do seu débito será deduzido do subsídio a entregar aos herdeiros considerados hábeis, nos termos do artigo 25.º
 
-###### Art. 8.º As pessoas hábeis designadas nos n.os 1.º a 3.º da alínea b) do artigo 25.º, quando os subsídios subscritos não forem superiores a 10000$00, têm obrigatòriamente direito à sua totalidade. Quando, porém, os subsídios forem superiores àquela quantia, os subscritores podem dispor livremente do excedente em benefício de quem designarem em declaração formulada nas condições referidas no artigo 28.º do presente estatuto.
+Art. 8.º As pessoas hábeis designadas nos n.os 1.º a 3.º da alínea b) do artigo 25.º, quando os subsídios subscritos não forem superiores a 10000$00, têm obrigatòriamente direito à sua totalidade. Quando, porém, os subsídios forem superiores àquela quantia, os subscritores podem dispor livremente do excedente em benefício de quem designarem em declaração formulada nas condições referidas no artigo 28.º do presente estatuto.
 
 § único. Para efeito da aplicação do disposto na segunda parte do corpo deste artigo, o subsídio reduzido a que se refere o artigo 23.º, quando acumulado com qualquer outro subsídio e, bem assim, com o acréscimo de que trata o § 2.º do artigo 45.º, considerar-se-á como um único subsídio.
 
-###### Art. 9.º Aos subscritores que, por qualquer motivo, deixem de pertencer à Polícia de Segurança Pública é facultativo, quando assim o declararem por escrito, continuar ou não como subscritores do Cofre, tendo direito, neste último caso, a receber 75 por cento das quotas pagas.
+Art. 9.º Aos subscritores que, por qualquer motivo, deixem de pertencer à Polícia de Segurança Pública é facultativo, quando assim o declararem por escrito, continuar ou não como subscritores do Cofre, tendo direito, neste último caso, a receber 75 por cento das quotas pagas.
 
 § único. Os subscritores a quem se refere o corpo deste artigo que declararem continuar inscritos deverão indicar o modo como se comprometem a efectuar o pagamento das quotas.
 
-###### Art. 10.º Os guardas inscritos durante o seu alistamento provisório e que não sejam alistados definitivamente receberão por inteiro a importância das quotas que houverem satisfeito.
+Art. 10.º Os guardas inscritos durante o seu alistamento provisório e que não sejam alistados definitivamente receberão por inteiro a importância das quotas que houverem satisfeito.
 
 B) Aumento e redução dos subsídios
 
-###### Art. 11.º Qualquer subscritor poderá aumentar, a seu pedido, o subsídio em que inicialmente se tenha inscrito, devendo subordinar-se às seguintes condições:
+Art. 11.º Qualquer subscritor poderá aumentar, a seu pedido, o subsídio em que inicialmente se tenha inscrito, devendo subordinar-se às seguintes condições:
 
 a) Ter um ano, pelo menos, de subscritor, a contar da data da admissão;
 
@@ -161,39 +182,39 @@ d) Estar em boas condições de saúde.
 
 § 2.º Os subscritores que aumentem os subsídios ficam sujeitos ao disposto no artigo 17.º quanto ao pagamento de quotas e adicionais.
 
-###### Art. 12.º Os subscritores podem reduzir o seu subsídio até ao limite mínimo preceituado no artigo 6.º, ficando, porém, os respectivos beneficiários com direito ao subsídio reduzido e a um subsídio complementar correspondente à diferença entre a reserva matemática do subsídio anterior à data da redução e a reserva do novo subsídio na mesma data, sendo ambas calculadas com a mesma taxa de juro que a utilizada no cálculo das quotas que os subscritores tiverem pago.
+Art. 12.º Os subscritores podem reduzir o seu subsídio até ao limite mínimo preceituado no artigo 6.º, ficando, porém, os respectivos beneficiários com direito ao subsídio reduzido e a um subsídio complementar correspondente à diferença entre a reserva matemática do subsídio anterior à data da redução e a reserva do novo subsídio na mesma data, sendo ambas calculadas com a mesma taxa de juro que a utilizada no cálculo das quotas que os subscritores tiverem pago.
 
 § único. Os subscritores que reduzam os subsídios ficam sujeitos às disposições do artigo 18.º quanto ao pagamento das quotas e adicionais.
 
-###### Art. 13.º Os subscritores que hajam completado 65 anos de idade e não tenham a seu cargo quaisquer dos parentes designados nos n.os 1.º a 3.º da alínea b) do artigo 25.º poderão requerer a liquidação dos seus encargos com o Cofre, recebendo 90 por cento da reserva matemática a que tiverem direito à data do requerimento.
+Art. 13.º Os subscritores que hajam completado 65 anos de idade e não tenham a seu cargo quaisquer dos parentes designados nos n.os 1.º a 3.º da alínea b) do artigo 25.º poderão requerer a liquidação dos seus encargos com o Cofre, recebendo 90 por cento da reserva matemática a que tiverem direito à data do requerimento.
 
 C) Do direito de legar o subsídio
 
-###### Art. 14.º Os subscritores adquirem o direito de legar um quinto do subsídio com que se subscreveram, ou do seu aumento, por cada ano decorrido após a inscrição ou a concessão do aumento, até se atingir a totalidade do subsídio subscrito ou do seu aumento.
+Art. 14.º Os subscritores adquirem o direito de legar um quinto do subsídio com que se subscreveram, ou do seu aumento, por cada ano decorrido após a inscrição ou a concessão do aumento, até se atingir a totalidade do subsídio subscrito ou do seu aumento.
 
 § único. O período de um ano a que se refere o corpo deste artigo começa a contar-se desde o dia em que derem entrada no Cofre as primeiras quotas correspondentes ao subsídio ou aumento.
 
-###### Art. 15.º Se o subscritor falecer antes de decorrido um ano após a inscrição ou depois de ter aumentado o subsídio, será entregue às pessoas hábeis para receberem o subsídio subscrito, no primeiro caso, a importância das quotas pagas e, no segundo caso, o subsídio em que estava inscrito antes da concessão do aumento ou a que tiver direito nos termos do artigo 14.º, acrescido das quotas correspondentes ao mesmo aumento.
+Art. 15.º Se o subscritor falecer antes de decorrido um ano após a inscrição ou depois de ter aumentado o subsídio, será entregue às pessoas hábeis para receberem o subsídio subscrito, no primeiro caso, a importância das quotas pagas e, no segundo caso, o subsídio em que estava inscrito antes da concessão do aumento ou a que tiver direito nos termos do artigo 14.º, acrescido das quotas correspondentes ao mesmo aumento.
 
 3.º Das quotas, adicionais e indemnizações
 
-###### Art. 16.º As quotas a que os subscritores ficam obrigados são as da tabela A anexa a este estatuto.
+Art. 16.º As quotas a que os subscritores ficam obrigados são as da tabela A anexa a este estatuto.
 
 § único. Para efeito de inscrição, a idade dos subscritores é a mais próxima do dia 1 do mês a que respeitar a primeira quota paga.
 
-###### Art. 17.º Os subscritores a quem for concedido o aumento de subsídio, nos termos do artigo 11.º, ficam obrigados a pagar, desde o dia 1 do mês imediato ao da concessão, a quota correspondente ao subsídio inicialmente subscrito, acrescida da que corresponder à importância do aumento e à idade na data da concessão, calculada pela tabela em vigor na mesma data, e bem assim o adicional correspondente de que trata o artigo 19.º
+Art. 17.º Os subscritores a quem for concedido o aumento de subsídio, nos termos do artigo 11.º, ficam obrigados a pagar, desde o dia 1 do mês imediato ao da concessão, a quota correspondente ao subsídio inicialmente subscrito, acrescida da que corresponder à importância do aumento e à idade na data da concessão, calculada pela tabela em vigor na mesma data, e bem assim o adicional correspondente de que trata o artigo 19.º
 
-###### Art. 18.º Os subscritores que reduzirem o subsídio, nos termos do artigo 12.º, ficam obrigados, desde o dia 1 do mês imediato ao da concessão, ao pagamento da quota correspondente ao novo subsídio, calculada de acordo com a idade e a tabela em vigor na data da inscrição, e ao adicional de que trata o artigo 19.º correspondente à soma das importâncias do novo subsídio e do subsídio suplementar.
+Art. 18.º Os subscritores que reduzirem o subsídio, nos termos do artigo 12.º, ficam obrigados, desde o dia 1 do mês imediato ao da concessão, ao pagamento da quota correspondente ao novo subsídio, calculada de acordo com a idade e a tabela em vigor na data da inscrição, e ao adicional de que trata o artigo 19.º correspondente à soma das importâncias do novo subsídio e do subsídio suplementar.
 
-###### Art. 19.º Todos os subscritores contribuirão mensalmente para as despesas de administração com um adicional à sua quotização da importância indicada na tabela B anexa a este estatuto.
+Art. 19.º Todos os subscritores contribuirão mensalmente para as despesas de administração com um adicional à sua quotização da importância indicada na tabela B anexa a este estatuto.
 
 § único. Quando as circunstâncias o exijam, o Ministro do Interior poderá determinar a alteração do adicional referido neste artigo, mediante proposta fundamentada da direcção.
 
-###### Art. 20.º As quotas mensais e os respectivos adicionais a pagar pelos subscritores consideram-se vencidos no primeiro dia do mês a que disserem respeito e pagos sòmente quando a respectiva importância der entrada na tesouraria do Cofre até ao dia 10 do mesmo mês.
+Art. 20.º As quotas mensais e os respectivos adicionais a pagar pelos subscritores consideram-se vencidos no primeiro dia do mês a que disserem respeito e pagos sòmente quando a respectiva importância der entrada na tesouraria do Cofre até ao dia 10 do mesmo mês.
 
 Qualquer atraso nesta liquidação importará o pagamento ao Cofre de uma indemnização de 1 por cento ao mês, quando o atraso for superior a um ou três meses, segundo se trate, respectivamente, de subscritores com residência na metrópole ou de subscritores noutras condições referidas no artigo 21.º, a qual será sempre arredondada para mais, em escudos. O pagamento desta indemnização deverá ser feito pelos subscritores ou entidades a quem, nos termos do artigo seguinte, compete fazer os descontos das quotas e adicionais nos vencimentos dos subscritores e entregá-los ou remetê-los ao Cofre ou ainda daqueles por intermédio dos quais os referidos descontos sejam transferidos, conforme se verificar que a responsabilidade do atraso pertence a uns ou a outros.
 
-###### Art. 21.º As quotas, adicionais e indemnizações serão pagos:
+Art. 21.º As quotas, adicionais e indemnizações serão pagos:
 
 a) Normalmente, por descontos feitos nos respectivos vencimentos ou pensões no mês anterior àquele a que as quotas e adicionais disserem respeito;
 
@@ -209,11 +230,11 @@ b) Por entrega pessoal ou por intermédio de representante em Lisboa, por remess
 
 § 5.º Qualquer que seja a sua situação, os subscritores serão sempre os primeiros e directos responsáveis pelo pagamento das suas quotas, adicionais e indemnizações, pelo que, para garantia dos seus direitos, devem informar-se da modalidade de pagamento mais compatível com a situação que tiverem e assegurar-se de que a remessa das importâncias correspondentes aos seus débitos seja feita de modo a realizarem-se os pagamentos dentro dos prazos normais.
 
-###### Art. 22.º As importâncias respeitantes a quotas, adicionais e indemnizações devidas por subscritores falecidos, e deduzidas dos subsídios, serão entregues aos interessados logo que sejam recebidas no Cofre as quantias que tenham sidos descontadas nos vencimentos ou pensões dos subscritores para liquidação dos referidos encargos e remetidas pelas entidades competentes.
+Art. 22.º As importâncias respeitantes a quotas, adicionais e indemnizações devidas por subscritores falecidos, e deduzidas dos subsídios, serão entregues aos interessados logo que sejam recebidas no Cofre as quantias que tenham sidos descontadas nos vencimentos ou pensões dos subscritores para liquidação dos referidos encargos e remetidas pelas entidades competentes.
 
 4.º Das sanções por débitos ao Cofre e recuperação de direitos
 
-###### Art. 23.º Os subscritores que estiverem em atraso de pagamento ao Cofre das quotas e adicionais correspondentes a seis meses e que após o aviso da direcção não liquidarem esse débito no prazo de seis meses, acrescido da indemnização estabelecida no artigo 20.º, enquanto não saldarem a sua dívida ao Cofre terão os subsídios reduzidos ao valor da reserva matemática na data em que cessarem o pagamento. O cálculo de juro da reserva matemática será feito com a mesma taxa de juro utilizada no cálculo das quotas que os subscritores pagaram.
+Art. 23.º Os subscritores que estiverem em atraso de pagamento ao Cofre das quotas e adicionais correspondentes a seis meses e que após o aviso da direcção não liquidarem esse débito no prazo de seis meses, acrescido da indemnização estabelecida no artigo 20.º, enquanto não saldarem a sua dívida ao Cofre terão os subsídios reduzidos ao valor da reserva matemática na data em que cessarem o pagamento. O cálculo de juro da reserva matemática será feito com a mesma taxa de juro utilizada no cálculo das quotas que os subscritores pagaram.
 
 § 1.º A aplicação do disposto no corpo deste artigo poderá ficar suspensa quando ocorram circunstâncias extraordinárias e ponderosas que tal tornem aconselhável, e especialmente quando, por motivo de guerra ou operações policiais ou militares, os subscritores não se encontrem em condições de cuidar dos seus deveres e velar pelos seus direitos. Em tais casos os débitos ao Cofre serão liquidados de uma só vez ou em prestações mensais nunca inferiores ao quantitativo de duas quotas.
 
@@ -221,7 +242,7 @@ Para o cálculo da indemnização deverá considerar-se uma taxa igual à dos ju
 
 § 2.º Quando se verifique o falecimento de subscritores abrangidos pelas disposições deste artigo, os seus beneficiários apenas terão direito aos respectivos subsídios reduzidos, salvo se a morte tiver ocorrido nas circunstâncias previstas no § 1.º, caso em que os débitos ao Cofre serão deduzidos nos subsídios a legar.
 
-###### Art. 24.º Os subscritores que tenham sofrido redução do subsídio, nos termos do artigo anterior, podem, se não excederem o limite de idade fixado no artigo 4.º e forem julgados em condições favoráveis de saúde, readquirir os seus direitos, pagando, de uma só vez, todas as importâncias em dívida, acrescidas dos respectivos juros à taxa de 1 por cento ao mês.
+Art. 24.º Os subscritores que tenham sofrido redução do subsídio, nos termos do artigo anterior, podem, se não excederem o limite de idade fixado no artigo 4.º e forem julgados em condições favoráveis de saúde, readquirir os seus direitos, pagando, de uma só vez, todas as importâncias em dívida, acrescidas dos respectivos juros à taxa de 1 por cento ao mês.
 
 Aos subscritores nas condições indicadas é também facultado socorrerem-se do preceituado no artigo 11.º, subscrevendo um aumento do seu subsídio reduzido.
 
@@ -229,7 +250,7 @@ No primeiro caso, o subscritor fica obrigado à quota que pagava até à reduç�
 
 ### CAPÍTULO III — Dos beneficiários
 
-###### Art. 25.º São hábeis para receber o subsídio legado:
+Art. 25.º São hábeis para receber o subsídio legado:
 
 a) Quaisquer pessoas designadas pelo subscritor na declaração a que se refere o artigo 28.º, na proporção nela indicada ou em partes iguais, na falta dessa indicação, com a restrição imposta pelo artigo 8.º
 
@@ -249,15 +270,15 @@ b) As irmãs solteiras, viúvas, divorciadas ou separadas judicialmente, umas e 
 
 § único. Se não houver herdeiros hábeis, o subsídio reverte para o Cofre, cumpridas as formalidades prescritas no artigo 33.º
 
-###### Art. 26.º A viúva do subscritor, sempre que este não deixar declaração em contrário, é competente para receber a parte do subsídio que cabe aos filhos menores ou mentalmente incapazes que estejam a seu cargo.
+Art. 26.º A viúva do subscritor, sempre que este não deixar declaração em contrário, é competente para receber a parte do subsídio que cabe aos filhos menores ou mentalmente incapazes que estejam a seu cargo.
 
 § 1.º Na falta da viúva e quando não houver declaração escrita do subscritor indicando a pessoa ou pessoas que devem receber o subsídio destinado aos herdeiros hábeis, menores ou mentalmente incapazes, será o referido subsídio confiado à pessoa ou pessoas que forem pelo Cofre consideradas idóneas para o receber e dar-lhe a devida aplicação. Na falta de pessoas nestas condições, o subsídio destinado a menores será depositado, em seu nome e à sua ordem, na Caixa Geral de Depósitos, Crédito e Previdência, com a cláusula de só poder ser levantado quando aqueles atingirem maioridade.
 
 § 2.º Os subsídios, quando depositados à ordem dos menores, nos termos do parágrafo anterior, ficam isentos de qualquer penhora, arresto ou acção judicial que se destine ao pagamento de dívidas ou quaisquer outros encargos da responsabilidade dos subscritores que os legarem.
 
-###### Art. 27.º Quando se verificar a incapacidade mental ou de administração de bens, por parte dos herdeiros hábeis maiores, será o subsídio entregue a um tutor legal ou à pessoa idónea indicada expressamente pelo subscritor.
+Art. 27.º Quando se verificar a incapacidade mental ou de administração de bens, por parte dos herdeiros hábeis maiores, será o subsídio entregue a um tutor legal ou à pessoa idónea indicada expressamente pelo subscritor.
 
-###### Art. 28.º Para efeito do disposto nos artigos 8.º, 25.º, 26.º e 27.º, os subscritores entregarão pessoalmente ou remeterão à secretaria do Cofre, juntamente com a sua folha de inscrição, uma declaração modelo III anexa ao presente estatuto sobre a forma como deve ser distribuído o subsídio que tenham direito a legar, indicando o nome, estado e naturalidade, data do nascimento e filiação da pessoa ou pessoas beneficiárias, desde que não se trate das especificadas nos n.os 1.º, 2.º e 3.º da alínea b) do artigo 25.º
+Art. 28.º Para efeito do disposto nos artigos 8.º, 25.º, 26.º e 27.º, os subscritores entregarão pessoalmente ou remeterão à secretaria do Cofre, juntamente com a sua folha de inscrição, uma declaração modelo III anexa ao presente estatuto sobre a forma como deve ser distribuído o subsídio que tenham direito a legar, indicando o nome, estado e naturalidade, data do nascimento e filiação da pessoa ou pessoas beneficiárias, desde que não se trate das especificadas nos n.os 1.º, 2.º e 3.º da alínea b) do artigo 25.º
 
 § 1.º A declaração a que se refere o corpo do presente artigo será encerrada em sobrescrito lacrado de formato comercial, que indicará na parte anterior e em cima «Este sobrescrito contém a declaração a que se refere o artigo 28.º do estatuto» e ainda o número e a assinatura do subscritor reconhecida por notário ou autenticada por entidade policial que use selo branco.
 
@@ -269,15 +290,15 @@ b) As irmãs solteiras, viúvas, divorciadas ou separadas judicialmente, umas e 
 
 § 5.º As declarações que não derem entrada na secretaria do Cofre antes do falecimento do subscritor e aquelas que não obedecerem às condições que ficam expressas serão consideradas nulas.
 
-###### Art. 29.º Não têm direito a receber o subsídio, que reverterá a favor de outros herdeiros hábeis indicados no artigo 25.º:
+Art. 29.º Não têm direito a receber o subsídio, que reverterá a favor de outros herdeiros hábeis indicados no artigo 25.º:
 
 a) A pessoa ou pessoas de quem judicialmente se prove terem sido autores ou cúmplices da morte do subscritor;
 
 b) A viúva de quem se prove ter abandonado o lar voluntàriamente e sem fundamento legítimo.
 
-###### Art. 30.º Logo que o Cofre tenha conhecimento oficial do falecimento de qualquer subscritor, publicará no Diário do Governo éditos de 30 dias convidando os herdeiros hábeis, nos termos do artigo 25.º, que se julguem com direito ao subsídio, a apresentarem os documentos justificativos desse direito.
+Art. 30.º Logo que o Cofre tenha conhecimento oficial do falecimento de qualquer subscritor, publicará no Diário do Governo éditos de 30 dias convidando os herdeiros hábeis, nos termos do artigo 25.º, que se julguem com direito ao subsídio, a apresentarem os documentos justificativos desse direito.
 
-###### Art. 31.º A habilitação aos subsídios cabe aos herdeiros interessados, os quais, para o efeito, deverão apresentar, em devido tempo, na secretaria do Cofre, um requerimento em papel comum, dirigido ao presidente da direcção do Cofre, solicitando a concessão do subsídio a que tenham direito, acompanhado dos seguintes documentos:
+Art. 31.º A habilitação aos subsídios cabe aos herdeiros interessados, os quais, para o efeito, deverão apresentar, em devido tempo, na secretaria do Cofre, um requerimento em papel comum, dirigido ao presidente da direcção do Cofre, solicitando a concessão do subsídio a que tenham direito, acompanhado dos seguintes documentos:
 
 a) Certidão de óbito do subscritor, cópia integral;
 
@@ -297,13 +318,13 @@ c) Termo de responsabilidade, redigido segundo o modelo IV anexo ao presente est
 
 § 6.º As pessoas interessadas, ou os seus tutores e procuradores legais, receberão do Cofre a importância do subsídio que lhes competir mediante a entrega do recibo, isento do imposto do selo, conforme o modelo V anexo ao presente estatuto, com a assinatura reconhecida por notário ou autenticada por entidade policial que use selo branco e que assine, por extenso e com o seu nome completo, a declaração de ser do próprio a assinatura.
 
-###### Art. 32.º Se no decurso da habilitação ao subsídio a que se refere o artigo anterior houver conhecimento de que o pretenso herdeiro está promovendo acção de investigação de parentesco que lhe dê direito a todo ou parte do subsídio, ficará este cativo até decisão final do tribunal.
+Art. 32.º Se no decurso da habilitação ao subsídio a que se refere o artigo anterior houver conhecimento de que o pretenso herdeiro está promovendo acção de investigação de parentesco que lhe dê direito a todo ou parte do subsídio, ficará este cativo até decisão final do tribunal.
 
-###### Art. 33.º Reverterão para o Cofre os subsídios que não puderem ser pagos por carência de pessoas hábeis para os receber, nos termos do artigo 25.º, e bem assim quaisquer importâncias respeitantes aos subscritores falecidos que não sejam reclamadas dentro de um ano, a contar da data do falecimento, depois de terem sido publicados éditos de 30 dias no Diário do Governo e anúncios em jornais de grande circulação, para se dar conhecimento aos interessados das importâncias a que tenham direito.
+Art. 33.º Reverterão para o Cofre os subsídios que não puderem ser pagos por carência de pessoas hábeis para os receber, nos termos do artigo 25.º, e bem assim quaisquer importâncias respeitantes aos subscritores falecidos que não sejam reclamadas dentro de um ano, a contar da data do falecimento, depois de terem sido publicados éditos de 30 dias no Diário do Governo e anúncios em jornais de grande circulação, para se dar conhecimento aos interessados das importâncias a que tenham direito.
 
 ### CAPÍTULO IV — Dos capitais e fundos do Cofre
 
-###### Art. 34.º Os capitais do Cofre são constituídos:
+Art. 34.º Os capitais do Cofre são constituídos:
 
 a) Pelo produto da quotização dos subscritores;
 
@@ -321,7 +342,7 @@ g) Pelo produto líquido de festas realizadas em benefício do Cofre;
 
 h) Por qualquer outra receita não especificada neste artigo.
 
-###### Art. 35.º No Cofre haverá permanentemente os seguintes fundos:
+Art. 35.º No Cofre haverá permanentemente os seguintes fundos:
 
 a) Fundo do Cofre, pròpriamente dito - Constituído pelas importâncias e valores das alíneas a), b), d), e), f), g) e h) do artigo anterior;
 
@@ -335,7 +356,7 @@ e) Fundo de seguros. - Constituído pelas importâncias anualmente descontadas p
 
 § único. Eventualmente poderão ser constituídos outros fundos.
 
-###### Art. 36.º O fundo do Cofre destina-se essencialmente a ocorrer aos encargos da liquidação dos subsídios legados pelos subscritores.
+Art. 36.º O fundo do Cofre destina-se essencialmente a ocorrer aos encargos da liquidação dos subsídios legados pelos subscritores.
 
 1.º Os valores representativos deste fundo ou as suas disponibilidades em numerário poderão converter-se ou aplicar-se em:
 
@@ -357,31 +378,31 @@ Estas percentagens poderão ser alteradas pelo Ministro do Interior, sob propost
 
 § 3.º A conversão das disponibilidades do fundo do Cofre, nas diferentes modalidades referidas no corpo do presente artigo e tendo em atenção o disposto no parágrafo anterior, procurará sempre visar a obtenção do maior e mais seguro rendimento dos capitais do Cofre.
 
-###### Art. 37.º O fundo de administração destina-se a ocorrer às despesas de manutenção, funcionamento e desenvolvimento dos serviços do Cofre, e bem assim às previstas no artigo 65.º, em execução do orçamento a que se refere a alínea b) do artigo 57.º
+Art. 37.º O fundo de administração destina-se a ocorrer às despesas de manutenção, funcionamento e desenvolvimento dos serviços do Cofre, e bem assim às previstas no artigo 65.º, em execução do orçamento a que se refere a alínea b) do artigo 57.º
 
 § único. As receitas deste fundo deverão ser reforçadas com as verbas necessárias às despesas com o pessoal e expediente das secções e móveis e de empréstimos retirados dos respectivos rendimentos
 
-###### Art. 38.º O fundo de reserva destina-se a cobrir as deficiências das reservas matemáticas consequentes de possíveis desvios da mortalidade ou redução do rendimento dos capitais do Cofre.
+Art. 38.º O fundo de reserva destina-se a cobrir as deficiências das reservas matemáticas consequentes de possíveis desvios da mortalidade ou redução do rendimento dos capitais do Cofre.
 
-###### Art. 39.º O fundo de maneio destina-se a habilitar a tesouraria com o numerário indispensável a ocorrer a despesas de carácter urgente ou imprevistas que devam ser liquidadas pelo fundo de administração, quando este, por insuficiência de receitas cobradas, não dispuser, de momento, da verba necessária para as suportar.
+Art. 39.º O fundo de maneio destina-se a habilitar a tesouraria com o numerário indispensável a ocorrer a despesas de carácter urgente ou imprevistas que devam ser liquidadas pelo fundo de administração, quando este, por insuficiência de receitas cobradas, não dispuser, de momento, da verba necessária para as suportar.
 
-###### Art. 40.º O fundo de seguros destina-se a cobrir o risco de incêndios nos imóveis propriedade do Cofre.
+Art. 40.º O fundo de seguros destina-se a cobrir o risco de incêndios nos imóveis propriedade do Cofre.
 
-###### Art. 41.º Todos os valores em numerário serão depositados na Caixa Geral de Depósitos, Crédito e Previdência enquanto não tiverem aplicação.
+Art. 41.º Todos os valores em numerário serão depositados na Caixa Geral de Depósitos, Crédito e Previdência enquanto não tiverem aplicação.
 
-###### Art. 42.º Os capitais do Cofre, quer investidos em bens imóveis ou outros, quer existentes em numerário, serão, tal como os subsídios, impenhoráveis e isentos de quaisquer contribuições, sisas, taxas ou outros impostos, incluindo o do selo.
+Art. 42.º Os capitais do Cofre, quer investidos em bens imóveis ou outros, quer existentes em numerário, serão, tal como os subsídios, impenhoráveis e isentos de quaisquer contribuições, sisas, taxas ou outros impostos, incluindo o do selo.
 
-###### Art. 43.º Os títulos e demais documentos representativos dos capitais da instituição serão arrecadados em cofre de três chaves, à prova de fogo, de que serão claviculários e responsáveis pela respectiva existência os membros do conselho administrativo.
+Art. 43.º Os títulos e demais documentos representativos dos capitais da instituição serão arrecadados em cofre de três chaves, à prova de fogo, de que serão claviculários e responsáveis pela respectiva existência os membros do conselho administrativo.
 
-###### Art. 44.º O numerário em caixa será guardado em cofre à prova de fogo, de que serão claviculários o chefe da contabilidade e o tesoureiro.
+Art. 44.º O numerário em caixa será guardado em cofre à prova de fogo, de que serão claviculários o chefe da contabilidade e o tesoureiro.
 
-###### Art. 45.º A fim de se conhecer a situação financeira anual, será elaborado, até 15 de Fevereiro de cada ano, um balanço técnico do Cofre, referido a 31 de Dezembro do ano anterior.
+Art. 45.º A fim de se conhecer a situação financeira anual, será elaborado, até 15 de Fevereiro de cada ano, um balanço técnico do Cofre, referido a 31 de Dezembro do ano anterior.
 
 § 1.º No passivo desse balanço figurará a importância das reservas matemáticas dos subsídios, cujo cálculo será feito por meio das tabelas Hm, com taxa de juro igual à que tiver servido de base ao cálculo da tabela da quotização em vigor ou a qualquer outra não superior àquela que a direcção do Cofre entenda adoptar, do que fará menção no seu relatório anual a que se refere a alínea d) do artigo 57.º
 
 § 2.º No caso de excesso do activo sobre as importâncias de que trata o parágrafo anterior, retirar-se-á uma parte para o fundo de reserva e aplicar-se-á a parte restante ao acréscimo dos subsídios subscritos ou a redução de quotas, ou ainda a qualquer outro fim que for julgado conveniente.
 
-###### Art. 46.º Quando pelo balanço técnico a que se refere o artigo anterior se verifique, em dois anos sucessivos, que as reservas matemáticas calculadas como se preceitua no § 1.º do mesmo artigo são superiores ao activo, deverão ser tomadas medidas devidas para se eliminar este desequilíbrio, designadamente:
+Art. 46.º Quando pelo balanço técnico a que se refere o artigo anterior se verifique, em dois anos sucessivos, que as reservas matemáticas calculadas como se preceitua no § 1.º do mesmo artigo são superiores ao activo, deverão ser tomadas medidas devidas para se eliminar este desequilíbrio, designadamente:
 
 a) Redução dos acréscimos concedidos aos subsídios feitos nos termos do § 2.º do dito artigo;
 
@@ -389,21 +410,21 @@ b) Nivelamento das quotas pagas por todos os subscritores, qualquer que tenha si
 
 c) Adopção de uma tabela de mortalidade diferente da que estiver em vigor, se se verificar que para o desequilíbrio verificado concorreu uma mortalidade superior à teórica.
 
-###### Art. 47.º Trimestralmente será publicado em anexo à Ordem de Serviço do Comando-Geral da Polícia de Segurança Pública um balancete do Cofre demonstrativo da sua situação financeira no trimestre anterior.
+Art. 47.º Trimestralmente será publicado em anexo à Ordem de Serviço do Comando-Geral da Polícia de Segurança Pública um balancete do Cofre demonstrativo da sua situação financeira no trimestre anterior.
 
-###### Art. 48.º No caso de liquidação do Cofre, todos os seus valores, abatidos das importâncias dos encargos, serão distribuídos pelos subscritores proporcionalmente às suas reservas matemáticas, calculadas à mesma taxa que a utilizada no cálculo das respectivas quotas.
+Art. 48.º No caso de liquidação do Cofre, todos os seus valores, abatidos das importâncias dos encargos, serão distribuídos pelos subscritores proporcionalmente às suas reservas matemáticas, calculadas à mesma taxa que a utilizada no cálculo das respectivas quotas.
 
 ### CAPÍTULO V — Dos imóveis propriedade do Cofre
 
-###### Art. 49.º Para efeito do disposto na alínea d) do § 1.º do artigo 36.º, poderá o Cofre adquirir ou mandar construir casas de renda livre ou limitada e casas de renda económica destinadas a arrendar aos seus subscritores.
+Art. 49.º Para efeito do disposto na alínea d) do § 1.º do artigo 36.º, poderá o Cofre adquirir ou mandar construir casas de renda livre ou limitada e casas de renda económica destinadas a arrendar aos seus subscritores.
 
-###### Art. 50.º A aquisição e construção, por conta do Cofre, das casas referidas no artigo anterior carecem de autorização do Ministro do Interior.
+Art. 50.º A aquisição e construção, por conta do Cofre, das casas referidas no artigo anterior carecem de autorização do Ministro do Interior.
 
-###### Art. 51.º O arrendamento das casas de renda económica obedecerá a regulamento especial a aprovar pelo Ministro do Interior.
+Art. 51.º O arrendamento das casas de renda económica obedecerá a regulamento especial a aprovar pelo Ministro do Interior.
 
 ### CAPÍTULO VI — Da organização do Cofre e seu funcionamento
 
-###### Art. 52.º O Cofre de Previdência da Polícia de Segurança Pública terá a seguinte organização:
+Art. 52.º O Cofre de Previdência da Polícia de Segurança Pública terá a seguinte organização:
 
 1.º Direcção;
 
@@ -411,7 +432,7 @@ c) Adopção de uma tabela de mortalidade diferente da que estiver em vigor, se 
 
 1) Da direcção
 
-###### Art. 53.º O Cofre será gerido por uma direcção constituída da seguinte forma:
+Art. 53.º O Cofre será gerido por uma direcção constituída da seguinte forma:
 
 a) Presidente, o comandante-geral da Polícia de Segurança Pública e director dos Serviços Sociais da mesma Polícia;
 
@@ -423,7 +444,7 @@ c) Três vogais - o presidente do conselho administrativo do Cofre, o chefe da s
 
 § 2.º Nos impedimentos dos vogais efectivos desempenharão, interinamente, as suas funções na direcção os adjuntos das respectivas secções.
 
-###### Art. 54.º A direcção reunir-se-á, obrigatòriamente, duas vezes por mês e, extraordinàriamente, sempre que for convocada pelo presidente, de sua iniciativa ou a pedido dos vogais.
+Art. 54.º A direcção reunir-se-á, obrigatòriamente, duas vezes por mês e, extraordinàriamente, sempre que for convocada pelo presidente, de sua iniciativa ou a pedido dos vogais.
 
 O seu funcionamento legal exige a presença de quatro ou mais membros, um dos quais deverá ser o presidente ou o vice-presidente.
 
@@ -431,11 +452,11 @@ O seu funcionamento legal exige a presença de quatro ou mais membros, um dos qu
 
 § 2.º As deliberações da direcção serão tomadas por maioria de votos, lavrando-se actas de todas as sessões. Em caso de empate de votos o presidente poderá usar de voto de qualidade.
 
-###### Art. 55.º Das deliberações da direcção cabe recurso para o Ministro do Interior, dentro do prazo de 30 dias, a contar da data em que forem tornadas públicas ou comunicadas aos interessados.
+Art. 55.º Das deliberações da direcção cabe recurso para o Ministro do Interior, dentro do prazo de 30 dias, a contar da data em que forem tornadas públicas ou comunicadas aos interessados.
 
-###### Art. 56.º Nos termos da alínea h) do artigo 16.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959, compete ao director dos Serviços Sociais da Polícia de Segurança Pública inspeccionar ou mandar inspeccionar os serviços de contabilidade do Cofre.
+Art. 56.º Nos termos da alínea h) do artigo 16.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959, compete ao director dos Serviços Sociais da Polícia de Segurança Pública inspeccionar ou mandar inspeccionar os serviços de contabilidade do Cofre.
 
-###### Art. 57.º Compete à direcção:
+Art. 57.º Compete à direcção:
 
 a) Velar pela rigorosa efectivação da finalidade essencial do Cofre;
 
@@ -471,7 +492,7 @@ o) Elaborar o regulamento interno para os serviços do Cofre e submetê-lo à ap
 
 p) Promover a nomeação de pessoal auxiliar necessário ao Cofre, de harmonia com o disposto no artigo 64.º
 
-###### Art. 58.º Constituem atribuições privativas do presidente da direcção:
+Art. 58.º Constituem atribuições privativas do presidente da direcção:
 
 a) Convocar as reuniões da direcção, às quais presidirá;
 
@@ -499,7 +520,7 @@ l) Rubricar os livros e assinar a correspondência do Cofre.
 
 § 2.º Todas as deliberações tomadas pelo presidente, no uso da delegação que tiver sido concedida nos termos da alínea b) do corpo deste artigo, serão levadas ao conhecimento da direcção na primeira reunião que e efectuar após as referidas deliberações, para efeitos de confirmação.
 
-###### Art. 59.º Compete especialmente ao vice-presidente:
+Art. 59.º Compete especialmente ao vice-presidente:
 
 a) Substituir o presidente, nos casos de doença, ausência ou impedimento legal deste;
 
@@ -511,13 +532,13 @@ d) Elaborar, com os elementos fornecidos pelas secções, conselho administrativ
 
 e) Desempenhar outras funções que lhe sejam delegadas pelo presidente da direcção.
 
-###### Art. 60.º Compete aos vogais da direcção:
+Art. 60.º Compete aos vogais da direcção:
 
 a) Deliberar sobre todos os assuntos que sejam apresentados nas sessões da direcção para apreciação e resolução da mesma;
 
 b) Estudar assuntos especiais e desempenhar missões que lhes sejam confiadas pela direcção.
 
-###### Art. 61.º Compete ao secretário da direcção:
+Art. 61.º Compete ao secretário da direcção:
 
 a) Redigir as actas das sessões e registá-las no respectivo livro;
 
@@ -525,7 +546,7 @@ b) Fazer o expediente da direcção.
 
 2) Dos serviços
 
-###### Art. 62.º Os serviços do Cofre serão constituídos por três secções, um conselho administrativo e um arquivo geral, sendo as secções assim designadas:
+Art. 62.º Os serviços do Cofre serão constituídos por três secções, um conselho administrativo e um arquivo geral, sendo as secções assim designadas:
 
 1.ª secção - Secretaria;
 
@@ -535,13 +556,13 @@ b) Fazer o expediente da direcção.
 
 § único. A direcção elaborará o regulamento para o funcionamento dos serviços, o qual deverá ser submetido à sanção do Ministro do Interior, por intermédio da direcção dos Serviços Sociais da Polícia de Segurança Pública.
 
-###### Art. 63.º O pessoal permanente do Cofre é o constante dos quadros II e III anexos ao presente estatuto.
+Art. 63.º O pessoal permanente do Cofre é o constante dos quadros II e III anexos ao presente estatuto.
 
 § 1.º As secções são chefiadas por comissários ou chefes, coadjuvados por adjuntos, graduados.
 
 § 2.º O conselho administrativo é constituído pelo presidente, oficial do Comando-Geral ou dos Serviço Sociais, por um secretário, comissário ou chefe, por um tesoureiro e por um comissário ou chefe, que será chefe da contabilidade.
 
-###### Art. 64.º O pessoal auxiliar constante do quadro III anexo poderá ser aumentado no número e no tempo em que as exigências de serviço o justificarem e tiver sido autorizado pelo Ministro do Interior.
+Art. 64.º O pessoal auxiliar constante do quadro III anexo poderá ser aumentado no número e no tempo em que as exigências de serviço o justificarem e tiver sido autorizado pelo Ministro do Interior.
 
 § 1.º O pessoal auxiliar do Cofre destina-se à execução dos serviços de escrituração, expediente e outros, sendo constituído por graduados e guardas.
 
@@ -549,9 +570,9 @@ b) Fazer o expediente da direcção.
 
 ### CAPÍTULO VII — Disposições diversas
 
-###### Art. 65.º O Cofre será representado em tribunal judicial pelo Ministério Público ou pelo serviço do contencioso do Comando-Geral da Polícia de Segurança Pública.
+Art. 65.º O Cofre será representado em tribunal judicial pelo Ministério Público ou pelo serviço do contencioso do Comando-Geral da Polícia de Segurança Pública.
 
-###### Art. 66.º Além das isenções consignadas no artigo 42.º do presente estatuto, o Cofre de Previdência da Polícia de Segurança Pública fica também isento de:
+Art. 66.º Além das isenções consignadas no artigo 42.º do presente estatuto, o Cofre de Previdência da Polícia de Segurança Pública fica também isento de:
 
 a) Custas e selos nos processos judiciais, administrativos e fiscais em que for interessado;
 
@@ -559,15 +580,15 @@ b) Licenças dos governos civis para as realizações desportivas, de propaganda
 
 c) Licenças para obras.
 
-###### Art. 67.º No caso de ocorrerem circunstâncias extraordinárias independentes da administração do Cofre designadamente as do estado de guerra, epidemia ou outro flagelo público, que tornem difícil ou impossível a execução dos compromissos do Cofre, poderá o Estado intervir no sentido de lhe facilitar a obtenção de auxílio financeiro ou outros que permitam a satisfação de tais compromissos.
+Art. 67.º No caso de ocorrerem circunstâncias extraordinárias independentes da administração do Cofre designadamente as do estado de guerra, epidemia ou outro flagelo público, que tornem difícil ou impossível a execução dos compromissos do Cofre, poderá o Estado intervir no sentido de lhe facilitar a obtenção de auxílio financeiro ou outros que permitam a satisfação de tais compromissos.
 
-###### Art. 68.º A direcção do Cofre fará publicar em separata o presente estatuto, fixar-lhe-á o preço de aquisição e promoverá a sua distribuição, contra pagamento, a todos os subscritores, na altura da inscrição.
+Art. 68.º A direcção do Cofre fará publicar em separata o presente estatuto, fixar-lhe-á o preço de aquisição e promoverá a sua distribuição, contra pagamento, a todos os subscritores, na altura da inscrição.
 
 Ministério do Interior, 24 de Novembro de 1961. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.
 
 Do Modelo I ao Modelo V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf))](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf)
 
 Tabela A a que se refere o artigo 16.º
 
@@ -575,7 +596,7 @@ Quotas mensais correspondentes a cada 1000$00 de subsídio
 
 (Tábua HM 3 por cento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf))](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf)
 
 As quotas constantes desta tabela podem ser alteradas por despacho do Ministro do Interior, mediante proposta da direcção do Cofre.
 
@@ -583,12 +604,12 @@ Tabela B a que se refere o artigo 19.º
 
 Adicionais mensais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf))](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf)
 
 Os adicionais referidos nesta tabela podem ser modificados por despacho do Ministro do Interior mediante proposta da direcção do Cofre
 
 Do Quadro I ao Quadro III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf))](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/27300/14651475.pdf)
 
 Ministério do Interior, 24 de Novembro de 1961. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.

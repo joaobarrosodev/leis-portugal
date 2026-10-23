@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/110a00/25702572.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/178/1991/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1991-640949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 450b36d005bbfee3a96b3e76e6303b359b4ab9a58b4435fb29c7aaf3868e5c20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26c093a8ba8a6696cd1da8653c5842c60af699f1fe053c2a1497e61e787c8fa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Batata
-- Controlo de Qualidade
 - Comércio
+- Controlo de Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:375406:por
@@ -78,16 +78,27 @@ relationships:
   target: celex:31966L0403
   label: null
   source: http://data.europa.eu/eli/dir/1966/403/oj
+- type: corrected_by
+  target: pt:dre:199407:por
+  label: Retificado o art. 2.º pelo(a) Declaração de Rectificação n.º 106/91 - Diário da República n.º 124/1991, 1º Suplemento,
+    Série I-A de 1991-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/106-1991-199407
+  date: '1991-05-31'
+- type: repealed_by
+  target: pt:dre:375406:por
+  label: "Revogado pelo DEC LEI.216/2001.2001.08.03.MADRP DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2001-375406
+  date: '2001-08-03'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:01Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +119,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 10.º, 12.º, 20.º e 21.º do Decreto-Lei n.º 312/88, de 7 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 10.º, 12.º, 20.º e 21.º do Decreto-Lei n.º 312/88, de 7 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -198,7 +209,7 @@ ii) As descendências sucessivas de cada família F constituem no 1.º ano F, no
 
 7 - ...
 
-###### Art. 2.º O n.º 2 do anexo I do Decreto-Lei n.º 312/88, de 7 de Setembro, passa a ter a seguinte redacção:
+Art. 2.º O n.º 2 do anexo I do Decreto-Lei n.º 312/88, de 7 de Setembro, passa a ter a seguinte redacção:
 
 2 - ...
 
@@ -218,20 +229,20 @@ c) No caso de tubérculos de calibre superior a 35 mm em malha quadrada, os limi
 
 d) No caso de batata-semente destinada à exportação, as exigências de calibre previstas na alínea c) podem ser estabelecidas livremente, consoante as exigências do Estado importador.
 
-###### Art. 3.º Para efeitos do disposto na alínea e) do n.º 2, B, do anexo I do Decreto-Lei n.º 312/88, considera-se um ataque médio ou grave de rizoctónia quando os esclerotos ocupam mais de 1/20 da superfície do tubérculo.
+Art. 3.º Para efeitos do disposto na alínea e) do n.º 2, B, do anexo I do Decreto-Lei n.º 312/88, considera-se um ataque médio ou grave de rizoctónia quando os esclerotos ocupam mais de 1/20 da superfície do tubérculo.
 
-###### Art. 4.º No anexo I do Decreto-Lei n.º 312/88, onde se lê «Corynebacterium michiganense pv. sepedomium» passa a ler-se «Clavibacter michiganensis subsp. sepedonicus».
+Art. 4.º No anexo I do Decreto-Lei n.º 312/88, onde se lê «Corynebacterium michiganense pv. sepedomium» passa a ler-se «Clavibacter michiganensis subsp. sepedonicus».
 
-###### Art. 5.º É revogado o artigo 28.º do Decreto-Lei n.º 312/88, de 7 de Setembro.
+Art. 5.º É revogado o artigo 28.º do Decreto-Lei n.º 312/88, de 7 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 24 de Abril de 1991.**
+Promulgado em 24 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Abril de 1991.**
+Referendado em 29 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

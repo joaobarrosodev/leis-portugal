@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/196/1991/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1991-630780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8401aba60891d793e62ef94285bf4a3303fc78275653607cbd7cde91bdef5fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c09699549a2f766a91c987d67f29e53ab8568b9734d9272b9a9163f9413e50d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,17 +73,25 @@ subjects:
 - Rodoviária do Algarve
 - Rodoviária Nacional Investimentos e Participações
 - Transporta
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:313844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:22Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +110,13 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social das sociedades Rodoviária de Entre Douro e Minho, S. A., Rodoviária do Algarve, S. A., TRANSPORTA - Transportes Porta a Porta, S. A., e RODO CARGO - Transportes Rodoviários de Mercadorias, S. A., de que é única titular a RNIP - Rodoviária Nacional - Investimentos e Participações, S. A.
+Artigo 1.º - 1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social das sociedades Rodoviária de Entre Douro e Minho, S. A., Rodoviária do Algarve, S. A., TRANSPORTA - Transportes Porta a Porta, S. A., e RODO CARGO - Transportes Rodoviários de Mercadorias, S. A., de que é única titular a RNIP - Rodoviária Nacional - Investimentos e Participações, S. A.
 
 2 - A reprivatização referida no número anterior realizar-se-á segundo o modelo uniforme disciplinado no presente diploma.
 
 3 - As acções representativas do capital das sociedades poderão ser escriturais e, enquanto se mantiver a limitação de aquisição e posse de acções por entidades estrangeiras, serão obrigatoriamente nominativas ou ao portador em regime de registo.
 
-###### Art. 2.º - 1 - Será reservado para aquisição por trabalhadores, pequenos subscritores e, eventualmente, emigrantes um montante de acções até 25% do capital social de cada sociedade a alienar.
+Art. 2.º - 1 - Será reservado para aquisição por trabalhadores, pequenos subscritores e, eventualmente, emigrantes um montante de acções até 25% do capital social de cada sociedade a alienar.
 
 2 - Será ainda efectuada a alienação em bloco de um lote de acções correspondente a, pelo menos, 75% do capital social de cada sociedade a alienar, em leilão competitivo aberto a entidades nacionais ou estrangeiras, individualmente ou em associação.
 
@@ -116,7 +124,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - Para os efeitos do disposto no n.º 1, entendem-se como trabalhadores as pessoas definidas pelo artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas individuais a fixar mediante resolução do Conselho de Ministros.
+Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas individuais a fixar mediante resolução do Conselho de Ministros.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades máximas e mínimas, a fixar em resolução do Conselho de Ministros, procedendo-se a rateio, em função do número de subscritores, se disso for caso.
 
@@ -128,7 +136,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - Nos 15 dias seguintes ao termo do processo de reprivatização, cada sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas, com indicação da quantidade de acções de que cada um seja titular.
 
-###### Art. 4.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
+Art. 4.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
 
 2 - Exceptuadas as transmissões entre os accionistas que compõem o bloco, as acções adquiridas nos termos do n.º 2 do artigo 2.º são indisponíveis durante cinco anos.
 
@@ -138,7 +146,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - São nulos os acordos pelos quais os titulares das acções a que se refere o n.º 2 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias da sociedade realizadas durante o período de indisponibilidade a que as primeiras estão sujeitas.
 
-###### Art. 5.º - 1 - A resolução do Conselho de Ministros fixará preços especiais para as aquisições de acções por trabalhadores, pequenos subscritores e emigrantes.
+Art. 5.º - 1 - A resolução do Conselho de Ministros fixará preços especiais para as aquisições de acções por trabalhadores, pequenos subscritores e emigrantes.
 
 2 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções previsto no n.º 3 em condições a fixar na resolução do Conselho de Ministros.
 
@@ -152,7 +160,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 7 - As acções adquiridas por pequenos subscritores e emigrantes não conferem direito de voto durante o período de indisponibilidade.
 
-###### Art. 6.º - 1 - No processo de reprivatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 30% do capital de cada sociedade, não podendo as acções adquiridas fora do bloco exceder 5% desse capital.
+Art. 6.º - 1 - No processo de reprivatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 30% do capital de cada sociedade, não podendo as acções adquiridas fora do bloco exceder 5% desse capital.
 
 2 - Quando celebrados antes da aquisição no processo de reprivatização são nulos:
 
@@ -162,7 +170,7 @@ b) Os acordos pelos quais entidades portuguesas e estrangeiras se obriguem a ent
 
 c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a uma entidade estrangeira, interveniente ou não no processo de reprivatização seja atribuído o direito de adquirir acções que, por aquele processo, pertençam a entidades portuguesas.
 
-###### Art. 7.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio mas por conta de entidades estrangeiras e, bem assim, são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
+Art. 7.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio mas por conta de entidades estrangeiras e, bem assim, são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
 
 2 - São nulos os acordos pelos quais durante o período de indisponibilidade referido no n.º 2 do artigo 4.º entidades portuguesas adquiram acções das sociedades reprivatizadas em nome próprio mas por conta de entidades estrangeiras.
 
@@ -170,7 +178,7 @@ c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a
 
 4 - No caso do n.º 1 deste artigo, as acções adquiridas reputam-se para todos os efeitos pertencentes à entidade portuguesa, devendo esta restituir à entidade estrangeira os fundos que dela tenha recebido para o efeito.
 
-###### Art. 8.º - 1 - Na aquisição e na posse, por entidades estrangeiras, de acções das sociedades reprivatizadas observar-se-á o seguinte:
+Art. 8.º - 1 - Na aquisição e na posse, por entidades estrangeiras, de acções das sociedades reprivatizadas observar-se-á o seguinte:
 
 a) Não podem ser inscritas ou averbadas a entidades estrangeiras acções com direito de voto representativas de mais de 30% do capital social com direito a voto;
 
@@ -180,7 +188,7 @@ c) Nas sociedades, ordinárias ou gestoras de participações sociais, titulares
 
 2 - Para os efeitos do número anterior, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento as informações e as provas que considerar necessárias.
 
-###### Art. 9.º - 1 - Para os efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
+Art. 9.º - 1 - Para os efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
 
 a) As pessoas singulares de nacionalidade estrangeira;
 
@@ -194,26 +202,26 @@ d) As sociedades com sede em Portugal que, nos termos do artigo 486.º do Códig
 
 3 - Cada entidade colectiva concorrente declarará, por escrito, se se encontra ou não em relação, nos termos do número anterior, com outra entidade também concorrente.
 
-###### Art. 10.º As concessões de transporte colectivo de passageiros de que, nos termos da legislação em vigor, sejam detentoras as sociedades objecto de reprivatização, à data da sua alienação e tenham o termo do seu prazo no período de cinco anos a contar daquela data serão necessariamente prorrogadas até ao fim deste período, excepto se, comprovadamente, for afectado o interesse público.
+Art. 10.º As concessões de transporte colectivo de passageiros de que, nos termos da legislação em vigor, sejam detentoras as sociedades objecto de reprivatização, à data da sua alienação e tenham o termo do seu prazo no período de cinco anos a contar daquela data serão necessariamente prorrogadas até ao fim deste período, excepto se, comprovadamente, for afectado o interesse público.
 
-###### Art. 11.º Compete ao conselho de administração da sociedade alienante propor ao Ministro das Finanças o valor das empresas com base em avaliações especialmente efectuadas por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 11.º Compete ao conselho de administração da sociedade alienante propor ao Ministro das Finanças o valor das empresas com base em avaliações especialmente efectuadas por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
-###### Art. 12.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
+Art. 12.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
 
-###### Art. 13.º - 1 - Nos 30 dias seguintes à alienação das acções será convocada assembleia geral de accionistas de cada sociedade, para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+Art. 13.º - 1 - Nos 30 dias seguintes à alienação das acções será convocada assembleia geral de accionistas de cada sociedade, para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 2 - Nos 90 dias seguintes à conclusão da reprivatização prevista no presente diploma cada sociedade poderá proceder às necessárias adaptações estatutárias.
 
-###### Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Abril de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 16 de Maio de 1991.**
+Promulgado em 16 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Maio de 1991.**
+Referendado em 19 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

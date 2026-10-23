@@ -1,4 +1,4 @@
-"""Recolha de diplomas da 1.ª Série do Diário da República."""
+"""Recolha de diplomas do Diário da República (e do catálogo do Jornal Oficial dos Açores que o DRE guarda)."""
 
 from __future__ import annotations
 
@@ -20,8 +20,6 @@ from leis_portugal.sources.dre.source import DreSource
 class DreRunSummary:
     documents: list[WriteResult] = field(default_factory=list)
     skipped: list[str] = field(default_factory=list)
-    # (caminho DRE, motivo) dos documentos ignorados por estarem fora do Diário da República.
-    skipped_refs: list[tuple[str, str]] = field(default_factory=list)
     failures: list[dict[str, str]] = field(default_factory=list)
 
 
@@ -66,6 +64,17 @@ class DreIngestion:
         document = (source or self.source).collect(ref, with_relations=self.with_relations, with_subjects=self.with_subjects)
         return self.acervo.save(document.record, document.body, policy=PORTUGUESE_POLICY)
 
+    def keep_without_text(self, exc: NoSourceText) -> WriteResult | None:
+        """A fonte não tem o texto. Um registo que já existe mantém o seu texto e ganha uma
+        nota; se não existe, grava-se o registo só com os metadados (quando a fonte os tem)."""
+        path = self.acervo.index().get(exc.record_id) if exc.record_id else None
+        if path is not None and path.exists():
+            note_source_gap(self.acervo, exc, NO_TEXT_NOTE, path=path)
+            return None
+        if exc.document is None:
+            return None
+        return self.acervo.save(exc.document.record, exc.document.body, policy=PORTUGUESE_POLICY)
+
     def ingest_many(self, refs: list[str], *, workers: int = 1, progress: Progress = silent) -> DreRunSummary:
         """Vários diplomas em paralelo (uma sessão DRE por thread)."""
         summary = DreRunSummary()
@@ -76,12 +85,14 @@ class DreIngestion:
                 result = self.ingest(ref, source)
             except SkipDocument as exc:
                 summary.skipped.append(str(exc))
-                summary.skipped_refs.append((ref, str(exc)))
                 return f"ignorado: {ref}"
             except NoSourceText as exc:
-                note_source_gap(self.acervo, exc, NO_TEXT_NOTE)
+                saved = self.keep_without_text(exc)
                 summary.failures.append(failure("ref", ref, exc))
-                return f"sem texto na fonte: {ref}"
+                if saved is None:
+                    return f"sem texto na fonte: {ref}"
+                summary.documents.append(saved)
+                return f"sem texto na fonte, só metadados: {self.acervo.relative(saved.path)}"
             except (LeisPortugalError, KeyError, TypeError, ValueError) as exc:
                 # KeyError/TypeError/ValueError: resposta com formato inesperado para este diploma.
                 summary.failures.append(failure("ref", ref, exc))
@@ -136,7 +147,9 @@ class DreIngestion:
                 except SkipDocument as exc:
                     summary.skipped.append(str(exc))
                 except NoSourceText as exc:
-                    note_source_gap(self.acervo, exc, NO_TEXT_NOTE)
+                    saved = self.keep_without_text(exc)
+                    if saved is not None:
+                        summary.documents.append(saved)
                     summary.failures.append(failure("ref", ref, exc))
                 except LeisPortugalError as exc:
                     summary.failures.append(failure("ref", ref, exc))

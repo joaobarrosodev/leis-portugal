@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/245/1991/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1991-667941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d43004acdc6bb8a2e76f8184eb03e7f056085fb6f3c9d5b7ca0ceeeeefc462b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b15b94a33553853716a78f0b7907980d952bbfc947dc0193a1c229cef1f2c6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Instituto Politécnico
+- Pessoal Dirigente
 - Pessoal Docente
 - Remuneração
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:32Z'
   warnings: []
   errors: []
 ---
@@ -103,28 +119,28 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pelo [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A remuneração base mensal do cargo de presidente da comissão instaladora de instituto superior técnico ou de presidente de instituto superior politécnico corresponde ao índice 345 do estatuto remuneratório do pessoal docente universitário, do pessoal docente do ensino superior politécnico e do pessoal de investigação científica, aprovado pelo [Decreto-Lei n.º 408/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1989-673395), de 18 de Novembro.
+Artigo 1.º - 1 - A remuneração base mensal do cargo de presidente da comissão instaladora de instituto superior técnico ou de presidente de instituto superior politécnico corresponde ao índice 345 do estatuto remuneratório do pessoal docente universitário, do pessoal docente do ensino superior politécnico e do pessoal de investigação científica, aprovado pelo [Decreto-Lei n.º 408/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1989-673395), de 18 de Novembro.
 
 2 - A remuneração base mensal do cargo de vice-presidente de instituto superior politécnico corresponde ao índice 330 do estatuto referido no número anterior.
 
-###### Art. 2.º - 1 - A remuneração base mensal do cargo de presidente da comissão instaladora de estabelecimento de ensino superior politécnico corresponde ao índice 230 do estatuto remuneratório do pessoal docente universitário, do pessoal docente do ensino superior politécnico e do pessoal de investigação científica.
+Art. 2.º - 1 - A remuneração base mensal do cargo de presidente da comissão instaladora de estabelecimento de ensino superior politécnico corresponde ao índice 230 do estatuto remuneratório do pessoal docente universitário, do pessoal docente do ensino superior politécnico e do pessoal de investigação científica.
 
 2 - A remuneração base mensal do cargo de vogal da comissão instaladora de estabelecimentos de ensino superior politécnico corresponde ao índice 220 do estatuto referido no número anterior.
 
 3 - Os presidentes e vogais das comissões instaladoras de estabelecimentos de ensino superior politécnico abrangidos por este artigo não beneficiam dos suplementos referidos no artigo 2.º do [Decreto-Lei n.º 388/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1990-565377), de 10 de Dezembro.
 
-###### Art. 3.º Quando as funções de presidente ou de vogal de comissão instaladora de estabelecimento de ensino superior politécnico não sejam exercidas em regime de dedicação exclusiva, as remunerações respectivas correspondem a dois terços das previstas nos artigos anteriores.
+Art. 3.º Quando as funções de presidente ou de vogal de comissão instaladora de estabelecimento de ensino superior politécnico não sejam exercidas em regime de dedicação exclusiva, as remunerações respectivas correspondem a dois terços das previstas nos artigos anteriores.
 
-###### Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1991.
+Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 19 de Junho de 1991.**
+Promulgado em 19 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1991.**
+Referendado em 22 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

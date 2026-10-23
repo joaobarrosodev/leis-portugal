@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1990-332948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:05:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 893f252a7bd87889efb020e1bd4fa381cc53e9b9e79646e9170f10be08c3d7a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 645f67b39398ad5b7266246578760035d3448817876762d7c82b7fa181893771
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Artesanato
+- Certificado de Origem
+- Exportação
+- Indústria Têxtil
+- Instituto do Bordado Tapeçaria e Artesanato da Madeira
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:491734:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterado, a partir de 01.01.2010, o art 69º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção\
+    \ do presente diploma, republicado pelo presente diploma, pelo DEC LEI.292/2009.13.10.2009.MFAP, DR.IS [198] de 13.10.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: cites
+  target: pt:dre:356351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646918:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:05:31Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +122,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 3.º do [Decreto-Lei n.º 75-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1986-646918), de 23 de Abril, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º do [Decreto-Lei n.º 75-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1986-646918), de 23 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - A emissão de certificados de origem, em Portugal, compete às entidades abaixo designadas:
+Art. 3.º - 1 - A emissão de certificados de origem, em Portugal, compete às entidades abaixo designadas:
 
 Associação Comercial de Lisboa - Câmara de Comércio e Indústria Portuguesa;
 
@@ -121,12 +142,12 @@ Instituto do Bordado, Tapeçaria e Artesanato da Madeira, único organismo com c
 
 Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 1990. - Aníbal António Cavaco Silva - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - José Albino da Silva Peneda.
 
-**Promulgado em 13 de Fevereiro de 1990.**
+Promulgado em 13 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Fevereiro de 1990.**
+Referendado em 14 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

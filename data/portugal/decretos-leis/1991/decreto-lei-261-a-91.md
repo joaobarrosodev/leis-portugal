@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 169/1991, 1º Suplemento, Série I-A de 1991-07-25
   number: '169'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3716-(2) a 3716-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/261-a/1991/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd5270430112cd45f9912561b9a3bf556fca0c8afd4bbfbe0ff93a3b81782d04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6e5a63c7faa7276bc66ab77ad39fc5d1eeb4259ca5d86da8624d678972b6eeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,106 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
+- Combustível
+- Contribuições e Impostos
 - Direcção Geral da Concorrência e Preços
 - Direcção Geral das Alfândegas
 - Direcção Geral de Energia
-- Produto Petrolífero
-- Combustível
 - Fuelóleo
 - Gasolina
-- Contribuições e Impostos
+- Imposto sobre Produtos Petrolíferos
 - Infracção Fiscal
 - Preço
 - Preço de Venda
 - Preço Máximo
+- Produto Petrolífero
 - Regime Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:463592:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARACAO RECTIFICACAO 205/91, PUBLICADA NO DR.IS-A, 225, SUPL, DE 910930. REVOGADO O NUMERO 2\
+    \ DO ARTIGO 14, PELO DECRETO LEI 225/93, PUBLICADO NO DR.IS-A, 143, DE 930621.\0621.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-09-30'
+- type: amended_by
+  target: pt:dre:288233:por
+  label: "Alterados os arts. 7º e 17º pelo DEC LEI.376/91.09.10.1991.MF, DR.IS-A [232] de 09.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1991-288233
+  date: '1991-10-09'
+- type: amended_by
+  target: pt:dre:626237:por
+  label: "Alterados os arts. 4.º, 7.º e 8.º pela LEI.2/92.1992.03.09.AR DR.IS-A [57]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1992-626237
+  date: '1992-03-09'
+- type: amended_by
+  target: pt:dre:444447:por
+  label: "Alterada a al. c) do n.º 2 e n.º 12 ambos do art. 17.º, o art. 13.º e os n.ºs. 5 e 6 do art. 18.º, pela LEI.30-C/92.1992.12.28.AR\
+    \ DR.IS-A [298]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-1992-444447
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:311209:por
+  label: "Alterado o art. 18º, e os nºs. 6 e 9 do art. 7º enquanto não for utilizada a autorização legislativa referida no\
+    \ seu art. 40º, pela LEI.75/93.1993.12.20.AR,DR.IS-A [295]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-1993-311209
+  date: '1993-12-20'
+- type: cites
+  target: pt:dre:221546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662926:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:262357:por
+  label: "Revogado pelo DEC LEI.124/94.1994.05.18.MF, DR.IS-A [115], salvo no que se refere aos nºs 1 a 3 do art. 7º e art.\
+    \ 8º, que se mantêm em vigor , nas Regiões Autónomas da Madeira e dos Açores, até á data de entrada em vigor das Port\
+    \ referidas no nº 1 do art. 5º do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-1994-262357
+  date: '1994-05-18'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:09:52Z'
   warnings: []
   errors: []
 ---
@@ -226,7 +297,7 @@ e) t - a taxa do imposto sobre o valor acrescentado (IVA) aplicável a cada merc
 
 4 - Os valores unitários das taxas do ISP do continente das mercadorias referidas no n.º 1 devem respeitar os limites constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf))](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf)
 
 com as seguintes ressalvas:
 
@@ -254,7 +325,7 @@ b) Podem vir abaixo dos mínimos por força de variações do PE, mas, se a desc
 
 1 - As taxas do ISP aplicáveis na Região Autónoma da Madeira são inferiores às taxas aplicáveis no continente, a fim de compensar os custos de insularidade, nos seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf))](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf)
 
 2 - Com excepção das mercadorias classificadas pelo código 2710 00 55 da NC, cuja taxa aplicável será de 15$00 por litro, as taxas do ISP aplicáveis nas várias ilhas da Região Autónoma dos Açores são inferiores às taxas aplicáveis no continente, a fim de compensar os custos de transporte (CT) motivados pela insularidade e pela dispersão.
 
@@ -362,14 +433,14 @@ O presente decreto-lei produz efeitos desde o dia 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 19 de Junho de 1991.**
+Promulgado em 19 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1991.**
+Referendado em 22 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf))](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf)

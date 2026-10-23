@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/130a00/30893090.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/207/1991/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1991-658228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:08:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 278083aa0271ea0d74aebb393f1a22199cd822f007942c441d3df9b5f1ab4e5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f3540fcfc2367354a4d9344d96a2e6d4d3d4ec7f2419c47f2d169da94e54c3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:08:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,21 @@ relationships:
   target: celex:31988L0667
   label: null
   source: http://data.europa.eu/eli/dir/1988/667/oj
+- type: repealed_by
+  target: pt:dre:245368:por
+  label: "Revogado pelo DEC LEI.296/98.1998.09.25.MS DR.IS-A [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1998-245368
+  date: '1998-09-25'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:08:41Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +119,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 4.º e 6.º do Decreto-Lei n.º 128/86, de 3 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 4.º e 6.º do Decreto-Lei n.º 128/86, de 3 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Definições
 
@@ -176,16 +181,16 @@ e) O número de lote de fabrico ou referência que permita a sua identificação
 
 2 - ...
 
-###### Art. 2.º Os produtos cosméticos e de higiene corporal cuja rotulagem não respeite os requisitos fixados no artigo anterior não podem ser colocados no mercado a partir de 1 de Janeiro de 1992, sem prejuízo da possibilidade de venda ou cedência ao consumidor final, até 31 de Dezembro de 1993, dos produtos que já se encontrem no mercado à data da publicação do presente diploma.
+Art. 2.º Os produtos cosméticos e de higiene corporal cuja rotulagem não respeite os requisitos fixados no artigo anterior não podem ser colocados no mercado a partir de 1 de Janeiro de 1992, sem prejuízo da possibilidade de venda ou cedência ao consumidor final, até 31 de Dezembro de 1993, dos produtos que já se encontrem no mercado à data da publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 11 de Abril de 1991. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 16 de Maio de 1991.**
+Promulgado em 16 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Maio de 1991.**
+Referendado em 19 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
