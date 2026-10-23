@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 279/1987, 2º Suplemento, Série I de 1987-12-04
   number: '279'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4228-(10) a 4228-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/27902/00100011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-d-1987-514031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T09:20:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bba10a48debab91b973e1a5a5a79762b138a0209818a61e91b8a52ab881684f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f00ac7095836957d763ce3a337b57abab7f5486ec3c1bfa931f4ac6511c39be8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:20:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Aeroporto
+- Taxa Aeroportuária
 relationships:
 - type: amended_by
   target: pt:dre:612859:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:305642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612859:por
+  label: "Revogado o presente diploma, pela PORT.157/89.02.03.1989.MF, DR.IS [51] de 02.03.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-1989-612859
+  date: '1989-03-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:20:28Z'
   warnings: []
   errors: []
 ---
@@ -235,6 +259,6 @@ Todos os aeroportos - 10% da receita bruta que esta actividade proporcionar à e
 
 Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
 
-**Assinada em 4 de Dezembro de 1987.**
+Assinada em 4 de Dezembro de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

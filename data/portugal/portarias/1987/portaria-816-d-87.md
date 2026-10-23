@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 225/1987, 1º Suplemento, Série I de 1987-09-30
   number: '225'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3688-(5) a 3688-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/09/22501/00050005.pdf
 entry_into_force_dates: []
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/816-d-1987-647295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T09:17:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e873909a7ac18dbdc4e37ecf869d23a8f4386fcd9d72722bcf52aa9456a850c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc87b93edf62262da4167165ac02733731c7a4ec4c1d03bdcbcb70665aa54486
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:17:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alvará
+- CAÇA
+- Definição de Competências
+- Direcção Geral da Pecuária
+- Direcção Geral das Florestas
+- Licenciamento
+- Pecuária
+- Produção Animal
+- Proteção dos Animais
 relationships:
 - type: amended_by
   target: pt:dre:455890:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455890:por
+  label: "Mantida em vigor pelo DEC LEI.274-A/88.03.08.1988.MAPA, DR.IS [178]Supl de 03.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-a-1988-455890
+  date: '1988-08-03'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:17:33Z'
   warnings: []
   errors: []
 ---
@@ -154,6 +176,6 @@ b) Localização do empreendimento, referenciado à carta militar 1:25000.
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 24 de Setembro de 1987.**
+Assinada em 24 de Setembro de 1987.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

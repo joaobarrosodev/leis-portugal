@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/923-1987-498747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:20:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4467c473f9f1496cc106a8134b5572743f5b47b6b482887022611cc35e853bd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46446c84f887bb799dedbfcdfdff839d81de04ca2ff2e7891814c2d63d7cfcd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:20:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁGIO
+- Câmbio Médio
+- Contribuições e Impostos
+- Divisa
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:167201:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:20:19Z'
   warnings: []
   errors: []
 ---
@@ -87,10 +96,10 @@ de 4 de Dezembro
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do disposto no § único do artigo 59.º da [Lei n.º 1368](https://diariodarepublica.pt/dr/detalhe/lei/1368-1922-167201), de 21 de Setembro de 1922, que na liquidação de contribuições, impostos e taxas a efectuar posteriormente à publicação da presente portaria e que tenham por base o ouro ou moeda estrangeira sejam adoptados o ágio e o câmbio médio seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27900/42224222.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27900/42224222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/27900/42224222.pdf)
 
 Secretaria de Estado dos Assuntos Fiscais.
 
-**Assinada em 13 de Novembro de 1987.**
+Assinada em 13 de Novembro de 1987.
 
-**O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.**
+O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.

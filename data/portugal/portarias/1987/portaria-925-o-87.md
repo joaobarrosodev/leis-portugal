@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 279/1987, 2º Suplemento, Série I de 1987-12-04
   number: '279'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4228-(21) a 4228-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-o-1987-514042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T09:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f7ac46501ceed488b29bf4e7ad24a9309ba48f9a7af3e85bf766021cae16d29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d09c0e6102d6319520928ca36f3fe43c75edabc0af1475df9598724e8851d29f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Água
+- EPAL
+- Preço
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:204810:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:305638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642964:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:204810:por
+  label: Revogada, a partir de 20.12.1988, pelo(a) Portaria n.º 805-G/88 - Diário da República n.º 288/1988, 1º Suplemento,
+    Série I de 1988-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/805-g-1988-204810
+  date: '1988-12-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:20:39Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +131,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Planeamento e da Admi
 
 1.º As tarifas de abastecimento de água praticadas pela EPAL compreendem uma parte fixa, denominada «quota de serviço», e uma parte variável, que depende dos volumes de água abastecidos.
 
-2.º O valor mensal da quota de serviço para as instalações providas de contador simples é o que resulta da fórmula [([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf) arredondado para a dezena de escudos imediatamente superior.
+2.º O valor mensal da quota de serviço para as instalações providas de contador simples é o que resulta da fórmula [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf) arredondado para a dezena de escudos imediatamente superior.
 
-3.º O valor mensal da quota de serviço para as instalações providas de contadores que não os simples é o que resulta da fórmula [([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf).
+3.º O valor mensal da quota de serviço para as instalações providas de contadores que não os simples é o que resulta da fórmula [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf).
 
 4.º A quota de serviço inclui a cedência do contador da EPAL, pelo que as referências feitas na [Portaria n.º 10716](https://diariodarepublica.pt/dr/detalhe/portaria/10716-1944-549867), de 24 de Julho de 1944, ao aluguer de contadores, designadamente as dos artigos 54.º, 62.º e 65.º, são substituídas pela expressão «quota de serviço».
 
@@ -138,9 +165,9 @@ c) A [Portaria n.º 733-G/86](https://diariodarepublica.pt/dr/detalhe/portaria/7
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 2 de Dezembro de 1987.**
+Assinada em 2 de Dezembro de 1987.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
 ## ANEXO
 
@@ -170,10 +197,10 @@ MAPA I
 
 Preços de venda de água a consumidores directos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf)
 
 MAPA II
 
 Preço de venda de água a municípios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/27902/00210022.pdf)

@@ -47,40 +47,177 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/784-1987-495110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T09:16:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 567845c52c9a630cbe32690fac66decf792167da7ee34556159f47912443b639
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d7fbdb2afbc9fa896f9faa76107f155359dddd18297a69d9a4317cd6751e19b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:16:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algarve
+- Direcção Geral do Turismo
+- Escola de Hotelaria e Turismo
+- Estoril
+- Fundo de Turismo
+- Inspecção Geral de Jogos
+- Instituto Nacional de Formação Turística
+- Lisboa
+- Porto
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:2941527:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:379712:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 17/80 de 08-Jan, substituído pela presente, pela PORT.589/88.26.08.1988.MF,\
+    \ DR.IS [197] de 26.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/589-1988-379712
+  date: '1988-08-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 495/89 DE 03-JUL DR.IS [150]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-07-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA PELA PORT 600/91 DE 04-JUL DR.IS-B [151]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-07-04'
+- type: amended_by
+  target: pt:dre:178835:por
+  label: ALTERADO O QUADRO DE PESSOAL, CONSTANTE DO ANEXO V, PELA PORT 184/92 DE 17-MAR DR.IS-B [64]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-1992-178835
+  date: '1992-03-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL, CONSTANTE DO ANEXO V, PELA PORT 840/94 DE 21-SET DR.IS-B [219]\0 21-SET DR.IS-B [219]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-21'
+- type: amended_by
+  target: pt:dre:878985:por
+  label: "Aditado um lugar de motorista ao quadro de pessoal pela PORT.259/96IIS.1996.10.11.PCM DR.IIS [267] DE 18/NOV/1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/259-1996-878985
+  date: '1996-10-11'
+- type: amended_by
+  target: pt:dre:2359391:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Formação Turística, constante do anexo III pela PORT.110/97IIS.1997.02.27.PCM,\
+    \ MF E MECO DR.IIS [71] DE 25/MAR/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-1997-2359391
+  date: '1997-02-27'
+- type: amended_by
+  target: pt:dre:1932438:por
+  label: "Alterado o quadro de pessoal constante do anexo III, pela PORT.146/97IIS.1997.03.31.PCM, DR.IIS [98] de 1997.04.28\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/146-1997-1932438
+  date: '1997-03-31'
+- type: amended_by
+  target: pt:dre:2275402:por
+  label: "Alterado o quadro de pessoal constante do anexo III pela PORT.263/97(2ªSÉRIE).1997.05.13.PCM, MF E MECO DR.IIS [125]\
+    \ DE 31/MAI/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/263-1997-2275402
+  date: '1997-05-13'
+- type: amended_by
+  target: pt:dre:2811193:por
+  label: "Alterado o quadro de pessoal constante do anexo III do presente diploma, pela PORT.454/97(2ªSÉRIE).1997.06.23.PCM,\
+    \ MF e MECO DR.IIS [167] de 22/Jul/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/454-1997-2811193
+  date: '1997-06-23'
+- type: amended_by
+  target: pt:dre:2929208:por
+  label: "Alterado o quadro de pessoal constante do anexo III pela PORT.1374/98(2ªSÉRIE).1998.12.02.PCM, DR.IIS [289] de 16/Dez/1998\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1374-1998-2929208
+  date: '1998-12-02'
+- type: amended_by
+  target: pt:dre:2941527:por
+  label: "Alterado o quadro de pessoal do INFT pela PORT.1171/2001(2ªSÉRIE).2001.06.08.MECO DR.IIS [157] de 09/Jul/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1171-2001-2941527
+  date: '2001-06-08'
+- type: cites
+  target: pt:dre:170942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582006:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:16:42Z'
   warnings: []
   errors: []
 ---
@@ -115,10 +252,10 @@ Manda o Governo da República Portuguesa, ao abrigo do disposto no n.º 2 do art
 
 Presidência do Conselho de Ministros e Ministério das Finanças.
 
-**Assinada em 6 de Agosto de 1987.**
+Assinada em 6 de Agosto de 1987.
 
 Pelo Primeiro-Ministro, Licínio Alberto de Almeida Cunha, Secretário de Estado do Turismo. - Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
 
 Do ANEXO I ao ANEXO IX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/20800/35383547.pdf))](https://files.diariodarepublica.pt/1s/1987/09/20800/35383547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/20800/35383547.pdf)

@@ -47,36 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/952-1987-499475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T09:21:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d1bf4fcee2c1aaf19bf2de96c3e3f92a3650e3f93c63dc88cd2797755dc83c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0b52d78cdae43495d46fe82812974f4c3fba4b654bf4355672c383de3df5adb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:21:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Faculdade de Medicina
+- Licenciatura
+- Plano de Estudos
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:396688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573708:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:21:24Z'
   warnings: []
   errors: []
 ---
@@ -105,8 +130,8 @@ O disposto no n.º 1.º aplica-se a partir do ano lectivo de 1986-1987, inclusiv
 
 Ministério da Educação.
 
-**Assinada em 7 de Dezembro de 1987.**
+Assinada em 7 de Dezembro de 1987.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/29200/43584359.pdf))](https://files.diariodarepublica.pt/1s/1987/12/29200/43584359.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/29200/43584359.pdf)

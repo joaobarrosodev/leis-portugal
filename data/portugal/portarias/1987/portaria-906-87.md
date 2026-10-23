@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T09:19:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d90d575fcfd810bbfb0f645158bf36802d33aaab8a78ce9971ef3cc308659bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dddb10f6727fca679d0da4c0bcc6fab24a9941338107ea6dc2d59c956b46958
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:19:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Licenciatura
+- Plano de Estudos
+- Universidade de Aveiro
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ANEXO A PORTARIA NUMERO 880/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUEMRO 234, DE 11/10/89.\0\
+    10/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:548823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:210840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654737:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:19:54Z'
   warnings: []
   errors: []
 ---
@@ -145,11 +177,11 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 13 de Novembro de 1987.**
+Assinada em 13 de Novembro de 1987.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
-## Anexo IV à [Portaria n.º 259/83](https://diariodarepublica.pt/dr/detalhe/portaria/259-1983-309892)
+Anexo IV à [Portaria n.º 259/83](https://diariodarepublica.pt/dr/detalhe/portaria/259-1983-309892)
 
 (Alterado)
 
@@ -185,7 +217,7 @@ b) Aprovação no estágio pedagógico.
 
 4.6 - Matemática ... 6,5
 
-## Anexo V à [Portaria n.º 259/83](https://diariodarepublica.pt/dr/detalhe/portaria/259-1983-309892)
+Anexo V à [Portaria n.º 259/83](https://diariodarepublica.pt/dr/detalhe/portaria/259-1983-309892)
 
 (Alterado)
 
@@ -219,7 +251,7 @@ b) Aprovação no estágio pedagógico.
 
 4.5 - Electrónica ... 3,5
 
-## Anexo I à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737)
+Anexo I à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737)
 
 (Alterado)
 
@@ -251,7 +283,7 @@ b) Aprovação no estágio pedagógico.
 
 4.4 - Estudos Germanísticos ... 45
 
-## Anexo II à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737)
+Anexo II à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737)
 
 (Alterado)
 
@@ -293,7 +325,7 @@ b) Aprovação no estágio pedagógico.
 
 4.2.2 - Estudos Franceses ... 3
 
-## Anexo III à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737)
+Anexo III à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737)
 
 (Alterado)
 
@@ -335,7 +367,7 @@ b) Aprovação no estágio pedagógico.
 
 4.2.2 - Estudos Anglo-Americanos ... 3
 
-## Anexo IV à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737)
+Anexo IV à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737)
 
 (Alterado)
 
@@ -369,7 +401,7 @@ b) Aprovação no estágio pedagógico.
 
 4.4 - Estudos Clássicos ... 40,5
 
-## Anexo I à [Portaria n.º 677/86](https://diariodarepublica.pt/dr/detalhe/portaria/677-1986-220771)
+Anexo I à [Portaria n.º 677/86](https://diariodarepublica.pt/dr/detalhe/portaria/677-1986-220771)
 
 (Alterado)
 

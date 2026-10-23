@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-1987-662939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T09:21:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e99191ffd9aa06818bffadccd4ee0a9e749ebf079a8a84cf83bd9b1dc673a96b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cab1b763abdffec762c8de4e991836e66803a9f9f6f3e416da7cf9da833a887
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:21:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Gestão do Fundo de Desemprego
+- Instituto de Gestão Financeira da Segurança Social
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:420039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420039:por
+  label: "Alterada a produção de efeitos prevista na lista anexa ao presente diploma, pela PORT.583/87.09.07.1987.MF, DR.IS\
+    \ [155] de 09.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/583-1987-420039
+  date: '1987-07-09'
+- type: cites
+  target: pt:dre:183444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470789:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:21:08Z'
   warnings: []
   errors: []
 ---
@@ -98,14 +145,14 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Tra
 
 Ministérios das Finanças e do Trabalho e Segurança Social.
 
-**Assinada em 23 de Janeiro de 1987.**
+Assinada em 23 de Janeiro de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
 
 Mapa de pessoal a que se refere o n.º 1.º da Portaria n.º 94/87, que passa a fazer parte integrante do mapa de pessoal a que se refere o artigo 2.º do [Decreto-Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1979-393411), de 14 de Fevereiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/03400/05170517.pdf))](https://files.diariodarepublica.pt/1s/1987/02/03400/05170517.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03400/05170517.pdf)
 
 Lista de funcionários do extinto Gabinete de Gestão do Fundo de Desemprego a integrar no Instituto de Gestão Financeira da Segurança Social, nos termos do n.º 2 do artigo 8.º do [Decreto-Lei n.º 40/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1986-193626), de 4 de Março.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/03400/05170517.pdf))](https://files.diariodarepublica.pt/1s/1987/02/03400/05170517.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03400/05170517.pdf)

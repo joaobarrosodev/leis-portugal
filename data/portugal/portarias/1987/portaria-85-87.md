@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/85-1987-662888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T09:18:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 884cc52e8fcb704647092f2f6606ecc8bcc4be408d866920d06986ea19f9fc87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ae8b297d23da8e6cea1ab37320bb44259f47ef62a69737495c5ff3759ac9251
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:18:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- SELO Postal
+- Serviço Postal
+relationships:
+- type: cites
+  target: pt:dre:179355:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:18:27Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +115,6 @@ Carteiras contendo quatro selos de 25$00 do castelo de Leiria e ilustradas com o
 
 Secretaria de Estado dos Transportes e Comunicações.
 
-**Assinada em 15 de Janeiro de 1987.**
+Assinada em 15 de Janeiro de 1987.
 
-**O Secretário de Estado dos Transportes e Comunicações, Gonçalo Manuel Bourbon Sequeira Braga.**
+O Secretário de Estado dos Transportes e Comunicações, Gonçalo Manuel Bourbon Sequeira Braga.

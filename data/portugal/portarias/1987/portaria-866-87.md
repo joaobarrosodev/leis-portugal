@@ -48,40 +48,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/866-1987-497408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T09:18:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b3d1530283808ca0eb8f4039b1016c63fa372148fa131a55ab7a1c51baca776
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8256ce4efd04c2a7fdb018ab5e8501299b4bdbd0c3ae56720b6431f6d9273955
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:18:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Especialização
+- Ensino Superior Politécnico
+- Escola Superior de Tecnologia
+- Plano de Estudos
+- Santarém
 relationships:
 - type: amended_by
   target: pt:dre:495901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:497809:por
+  label: "Alterado o nº 4º pela PORT.942/87.16.12.1987.ME, DR.IS [288] de 16.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/942-1987-497809
+  date: '1987-12-16'
+- type: amended_by
+  target: pt:dre:379946:por
+  label: "Alterada para curso de estudos superiores especializados em Arte, Arqueologia e Restauro a designação do curso de\
+    \ estudos superiores especializados em Arte e Arqueologia, aprovado pelo presente diploma, com a redacção da Port 942/87\
+    \ de 16-Dez, pela PORT.581/88.23.08.1988.ME, DR.IS [194] de 23.08.1988\088\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/581-1988-379946
+  date: '1988-08-23'
+- type: amended_by
+  target: pt:dre:357338:por
+  label: "Alterado o anexo I do presente diploma, pela port.757/88.24.11.1988.ME, DR.IS [272] de 24.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/757-1988-357338
+  date: '1988-11-24'
+- type: cites
+  target: pt:dre:218566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:495901:por
+  label: Revogado, a partir de 15.01.1991, o presente diploma, na redação da Port 942/87 de 16-dez e da Port 757/88 de 24-nov,
+    pelo(a) Portaria n.º 34/91 - Diário da República n.º 12/1991, Série I-B de 1991-01-15 sem prejuízo do regime de transição
+    a que se refere o n.º 25.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/34-1991-495901
+  date: '1991-01-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:18:53Z'
   warnings: []
   errors: []
 ---
@@ -438,9 +487,9 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 28 de Outubro de 1987.**
+Assinada em 28 de Outubro de 1987.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 ## ANEXO I — Instituto Politécnico de Santarém
 
@@ -448,4 +497,4 @@ Escola Superior de Tecnologia de Tomar
 
 Curso de Arte e Arqueologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/11/25700/39603965.pdf))](https://files.diariodarepublica.pt/1s/1987/11/25700/39603965.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/25700/39603965.pdf)

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 279/1987, 1º Suplemento, Série I de 1987-12-04
   number: '279'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4228-(2) a 4228-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/27901/00020002.pdf
 entry_into_force_dates: []
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-a-1987-513874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:20:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0bfb3cf7a86c49b9eeacd87eca4ada4ad17a81db69b37c4cbebe8cc89a7bcec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e1097bac1894f3e66334d069316e5c3b891341daac31098278ad13f858ad317
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:20:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração do Porto de Sines
+- Portos
+- Regulamento
+- Sines
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:284891:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:284891:por
+  label: "Alterados os artigos 9.º, 13.º, 14.º, 16.º e 19.º do Regulamento, aprovado pela Portaria 40-A/86, de 29 de Janeiro,\
+    \ na redacção do presente diploma, pela PORT.1110-I/89.28.12.1989.MOPTC, DR.IS [297]Supl de 28.12.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1110-i-1989-284891
+  date: '1989-12-28'
+- type: cites
+  target: pt:dre:417182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664307:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:20:23Z'
   warnings: []
   errors: []
 ---
@@ -120,6 +144,6 @@ d) O pagamento das taxas relativas aos 1.º, 2.º e 3.º trimestres de 1987 deve
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 30 de Novembro de 1987.**
+Assinada em 30 de Novembro de 1987.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

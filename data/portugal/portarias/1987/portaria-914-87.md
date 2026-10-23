@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/914-1987-498712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:20:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b10a2fbbb6c0e2a4f708c4e94ff8f0645b199dbc2912a1b312e95962c60015b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1724cdf886dd1355aee97be85a3b6086b797e8740bad7fe2ff10a7779603fd4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:20:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Hospital Distrital
+- Pessoal Técnico de Diagnóstico e Terapêutica
+- Quadro de Pessoal
+- Torres Novas
 relationships:
 - type: amended_by
   target: pt:dre:567416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461672:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:20:08Z'
   warnings: []
   errors: []
 ---
@@ -98,10 +115,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 3 de Novembro de 1987.**
+Assinada em 3 de Novembro de 1987.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal do Hospital Distrital de Torres Novas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27700/42064206.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27700/42064206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/27700/42064206.pdf)

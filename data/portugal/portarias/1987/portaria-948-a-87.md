@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 290/1987, 1º Suplemento, Série I de 1987-12-18
   number: '290'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4352-(2) a 4352-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29001/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/948-a-1987-403164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T09:21:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 986ceaca04184ef608ee0d2c9ea02d701a2d165600c5d1e0406f3116be951210
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 559a926459f1853b86a0fdec50a2cb98c87549b0b0a52af0747e3f7692b5efb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:21:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação por Concurso Público
+- Administração Central
+- Concurso Público
+- Prestação de Serviços
+- Refeição
+- Refeitório
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:468782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:666911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667522:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468782:por
+  label: "Revogada pela PORT.155/96.16.05.1996.PCM, DR.IS-B [114] de 16.05.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/155-1996-468782
+  date: '1996-05-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:21:19Z'
   warnings: []
   errors: []
 ---
@@ -139,6 +159,6 @@ Pelo adjudicatário foi declarado que aceita o presente contrato com todas as su
 
 Ministério das Finanças.
 
-**Assinada em 21 de Dezembro de 1987.**
+Assinada em 21 de Dezembro de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

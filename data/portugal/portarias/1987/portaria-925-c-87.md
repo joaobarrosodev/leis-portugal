@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 279/1987, 2º Suplemento, Série I de 1987-12-04
   number: '279'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4228-(7) a 4228-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/27902/00070010.pdf
 entry_into_force_dates: []
@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-c-1987-514030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:20:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32f60d86f40a2ea598afd5009b3145a788edc36472704333962517376a273539
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f17daa2dea144e45286dd5e7a849069e375a19b0923a04b90febfcb2e58c998
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:20:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Tarifa Aérea
+- Transporte Aéreo
+- Transporte de Mercadorias
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:20:24Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +121,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, das Obr
 
 1.º São aprovadas as tarifas de transporte aéreo de passageiros a praticar nos serviços regulares das linhas abaixo especificadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00070010.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00070010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/27902/00070010.pdf)
 
 2.º Com excepção das tarifas normais, as tarifas para os percursos acima especificados são apenas válidas para encaminhamentos que não contemplem mais de uma passagem no mesmo ponto e em cada direcção.
 
@@ -153,9 +175,9 @@ Tarifa de 45 kg ... 63$00
 
 Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
 
-**Assinada em 4 de Dezembro de 1987.**
+Assinada em 4 de Dezembro de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
 
 ## ANEXO I — Condições da aplicação da tarifa para cidadãos nacionais e equiparados residentes nos Açores
 
@@ -199,7 +221,7 @@ Os membros dos governos regionais e os indivíduos requisitados por esses govern
 
 Elementos das Forças Armadas, da Guarda Fiscal e da Polícia de Segurança Pública, quando deslocados em comissão de serviço na Região, são igualmente ilegíveis, mediante apresentação de documento, devidamente autenticado pela unidade ou comando a que pertençam comprovando residência há mais de 6 meses.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00070010.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00070010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/27902/00070010.pdf)
 
 ## ANEXO II — Condições de aplicação da tarifa tipo «tudo incluído» para viagens turísticas em grupo
 
@@ -293,4 +315,4 @@ Publicidade e venda - limitada a Portugal continental, Açores e ou Madeira.
 
 ## ANEXO V — Tarifas especiais de carga entre o continente e a Região Autónoma dos Açores e entre a Madeira e os Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00070010.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00070010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/27902/00070010.pdf)

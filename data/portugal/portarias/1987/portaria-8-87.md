@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/8-1987-599761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T09:17:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 165dfa52425482134cbc90c570d827ad029c8b8dcab35db594522c93c6457d7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 616d99b86b778a07d9c15e7bd9f9ac122832584069811a4e7f4e3ccbf2f0aab1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:17:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Ensino Superior
+- Escola Superior de Medicina Veterinária
+- Medicina Veterinária
+- Regulamento
+- Universidade Técnica de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:17:03Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +115,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura,
 
 Ministério da Educação e Cultura.
 
-**Assinada em 11 de Dezembro de 1986.**
+Assinada em 11 de Dezembro de 1986.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
 
 Departamento de Patologia da Escola Superior de Medicina Veterinária da Universidade Técnica de Lisboa
 
@@ -107,11 +125,11 @@ Regulamento
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º - 1 - O Departamento de Patologia da Escola Superior de Medicina Veterinária da Universidade Técnica de Lisboa, adiante designado abreviadamente por DP ou por Departamento, é uma unidade orgânica permanente de ensino e investigação pura e aplicada, de apoio ao desenvolvimento tecnológico, de prestação de serviço à comunidade e de divulgação do conhecimento no âmbito da patologia.
+Artigo 1.º - 1 - O Departamento de Patologia da Escola Superior de Medicina Veterinária da Universidade Técnica de Lisboa, adiante designado abreviadamente por DP ou por Departamento, é uma unidade orgânica permanente de ensino e investigação pura e aplicada, de apoio ao desenvolvimento tecnológico, de prestação de serviço à comunidade e de divulgação do conhecimento no âmbito da patologia.
 
 2 - Ao DP são atribuídos os equipamentos e instalações que vêm sendo utilizados pelas disciplinas de Patologia e Clínica das Doenças Parasitárias, Propedêutica Médica, Patologia e Clínica Médicas, Farmacologia e Terapêutica, Anatomia Patológica, Parasitologia.
 
-###### Art. 2.º Compete ao DP:
+Art. 2.º Compete ao DP:
 
 1 - No domínio do ensino:
 
@@ -141,13 +159,13 @@ d) Desenvolver trabalhos de aplicação da patologia a outros domínios científ
 
 4 - No domínio da extensão, o DP poderá fomentar e promover a divulgação do saber nas áreas da sua intervenção.
 
-###### Art. 3.º O DP é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços, podendo estabelecer convénios e contratos de prestação de serviços com entidades públicas ou privadas, sem prejuízo dos limites legais fixados e das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes da Escola Superior de Medicina Veterinária e ou da Universidade Técnica.
+Art. 3.º O DP é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços, podendo estabelecer convénios e contratos de prestação de serviços com entidades públicas ou privadas, sem prejuízo dos limites legais fixados e das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes da Escola Superior de Medicina Veterinária e ou da Universidade Técnica.
 
-###### Art. 4.º O DP garantirá a liberdade de investigação científica do seu pessoal docente e investigador, com vista ao progresso da investigação e da qualidade do ensino e da prestação de serviços à comunidade, sem prejuízo da unidade da Escola Superior de Medicina Veterinária e da cooperação com os outros dos seus departamentos ou grupos.
+Art. 4.º O DP garantirá a liberdade de investigação científica do seu pessoal docente e investigador, com vista ao progresso da investigação e da qualidade do ensino e da prestação de serviços à comunidade, sem prejuízo da unidade da Escola Superior de Medicina Veterinária e da cooperação com os outros dos seus departamentos ou grupos.
 
 ### CAPÍTULO II — Secções
 
-###### Art. 5.º - 1 - Tendo em atenção a dimensão e pluralidade das matérias abrangidas pela respectiva área científica, o Departamento poderá organizar-se em secções, correspondentes aos domínios especializados da sua competência.
+Art. 5.º - 1 - Tendo em atenção a dimensão e pluralidade das matérias abrangidas pela respectiva área científica, o Departamento poderá organizar-se em secções, correspondentes aos domínios especializados da sua competência.
 
 2 - As secções têm por finalidade prosseguir o desenvolvimento de actividades didácticas, de investigação e de prestação de serviços à comunidade com salvaguarda das características próprias do Departamento.
 
@@ -165,19 +183,19 @@ Propedêutica Médica;
 
 Patologia e Clínica Médicas.
 
-###### Art. 6.º O DP poderá, por sua iniciativa e mediante decisão proferida pelo conselho de departamento, propor a criação, alteração ou dissolução das secções previstas no artigo anterior.
+Art. 6.º O DP poderá, por sua iniciativa e mediante decisão proferida pelo conselho de departamento, propor a criação, alteração ou dissolução das secções previstas no artigo anterior.
 
-###### Art. 7.º Cada secção será presidida por um coordenador, que será um professor eleito pelo plenário dos membros da secção por um período de dois anos.
+Art. 7.º Cada secção será presidida por um coordenador, que será um professor eleito pelo plenário dos membros da secção por um período de dois anos.
 
 ### CAPÍTULO III — Órgãos
 
-###### Art. 8.º O DP terá os seguintes órgãos:
+Art. 8.º O DP terá os seguintes órgãos:
 
 a) Conselho de departamento;
 
 b) Subcomissão executiva.
 
-###### Art. 9.º - 1 - O conselho de departamento terá a composição definida pelos n.os 1, 2 e 3 do art. 7.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 9.º - 1 - O conselho de departamento terá a composição definida pelos n.os 1, 2 e 3 do art. 7.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 2 - Sem prejuízo do disposto no art. 25.º do [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), do estabelecido pelo Estatuto da Carreira Docente Universitária e do fixado no art. 8.º, n.º 1 do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), compete ao conselho de departamento:
 
@@ -207,7 +225,7 @@ m) Decidir sobre os pedidos de recurso que lhe sejam apresentados pelos membros 
 
 n) Deliberar sobre matéria cuja competência lhe haja sido delegada pelos órgãos da Escola Superior de Medicina Veterinária ou da Universidade.
 
-###### Art. 10.º - 1 - A comissão executiva terá a composição definida pelo artigo 9.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 10.º - 1 - A comissão executiva terá a composição definida pelo artigo 9.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 2 - Incumbe à comissão executiva, para além das competências que nela forem delegadas pelo conselho de departamento:
 
@@ -233,7 +251,7 @@ j) Elaborar o anuário do Departamento.
 
 3 - A comissão executiva, nas suas actividades de gestão, será coadjuvada por funcionários do quadro de pessoal da Escola Superior de Medicina Veterinária.
 
-###### Art. 11.º Ao presidente do conselho de departamento compete:
+Art. 11.º Ao presidente do conselho de departamento compete:
 
 a) Convocar e conduzir as reuniões do conselho de departamento e da comissão executiva;
 
@@ -243,7 +261,7 @@ c) Representar o departamento, podendo eventualmente delegar essa representaçã
 
 ### CAPÍTULO IV — Gestão financeira
 
-###### Art. 12.º - 1 - O Departamento disporá das seguintes receitas:
+Art. 12.º - 1 - O Departamento disporá das seguintes receitas:
 
 a) As que lhe forem atribuídas no Orçamento do Estado;
 
@@ -255,7 +273,7 @@ c) As que resultem da atribuição de verbas pela Escola Superior de Medicina Ve
 
 ### CAPÍTULO V — Processo eleitoral
 
-###### Art. 13.º - 1 - A eleição dos membros não permanentes do conselho de departamento realizar-se-á nos últimos dez dias do mês de Novembro do primeiro ano de cada biénio.
+Art. 13.º - 1 - A eleição dos membros não permanentes do conselho de departamento realizar-se-á nos últimos dez dias do mês de Novembro do primeiro ano de cada biénio.
 
 2 - Na falta ou impedimento do presidente do conselho de departamento, o membro mais antigo de categoria mais elevada do DP convocará, para sessão especial a que presidirá, os docentes e investigadores não doutorados, em regime de tempo integral, da área departamental.
 
@@ -267,7 +285,7 @@ c) As que resultem da atribuição de verbas pela Escola Superior de Medicina Ve
 
 6 - O resultado do escrutínio será oficialmente comunicado, nas 48 horas seguintes, aos órgãos de gestão da Escola Superior de Medicina Veterinária.
 
-###### Art. 14.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do Departamento, a elegar pelos membros do conselho para um mandato bienal.
+Art. 14.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do Departamento, a elegar pelos membros do conselho para um mandato bienal.
 
 2 - A eleição terá lugar nos primeiros dez dias do mês de Dezembro do primeiro de cada biénio após a entrada em funções dos membros não permanentes do conselho de departamento, em sessão expressamente convocada para o efeito pelo presidente do conselho, que, na sua falta ou impedimento, será substituído, para o efeito, pelo membro mais antigo da categoria mais elevada do DP.
 
@@ -291,7 +309,7 @@ c) As que resultem da atribuição de verbas pela Escola Superior de Medicina Ve
 
 ### CAPÍTULO VI — Disposições gerais
 
-###### Art. 15.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
+Art. 15.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
 
 2 - São excluídos do disposto no número anterior:
 
@@ -301,20 +319,20 @@ b) Os ausentes que manifestem essa oposição na reunião imediatamente posterio
 
 c) Os ausentes que, abrangidos por qualquer impedimento legal, manifestem essa oposição na primeira reunião efectuada após o termo do impedimento.
 
-###### Art. 16.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
+Art. 16.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
 
 2 - As decisões serão aprovadas por uma maioria simples, salvo o disposto na alínea a) do n.º 2 do artigo 9.º
 
 3 - Estão sujeitas a escrutínio secreto as deliberações e eleições que se refiram a pessoas individualmente consideradas.
 
-###### Art. 17.º O presente regulamento poderá ser revisto mediante proposta do conselho de departamento, não podendo, todavia, ser alterado até um ano após a sua entrada em vigor.
+Art. 17.º O presente regulamento poderá ser revisto mediante proposta do conselho de departamento, não podendo, todavia, ser alterado até um ano após a sua entrada em vigor.
 
 ### CAPÍTULO VII — Disposições transitórias
 
-###### Art. 18.º - 1 - No prazo de 30 dias a contar da publicação do presente regulamento no Diário da República, o professor mais antigo de categoria mais elevada do Departamento promoverá as diligências necessárias à realização dos processos eleitorais previstos nos artigos anteriores.
+Art. 18.º - 1 - No prazo de 30 dias a contar da publicação do presente regulamento no Diário da República, o professor mais antigo de categoria mais elevada do Departamento promoverá as diligências necessárias à realização dos processos eleitorais previstos nos artigos anteriores.
 
 2 - O primeiro mandato dos membros eleitos ao abrigo deste regulamento termina no final do ano seguinte àquele em que tiver sido realizada a eleição.
 
-###### Art. 19.º Os órgãos de gestão da Escola Superior de Medicina Veterinária deverão tomar, no prazo de 30 dias a contar da data da publicação do presente regulamento, as medidas necessárias à sua execução.
+Art. 19.º Os órgãos de gestão da Escola Superior de Medicina Veterinária deverão tomar, no prazo de 30 dias a contar da data da publicação do presente regulamento, as medidas necessárias à sua execução.
 
-###### Art. 20.º O presente regulamento será objecto dos reajustamentos indispensáveis à prossecução dos objectivos do Departamento após a implementação efectiva do novo plano de estudos da licenciatura em Medicina Veterinária, a que se refere a [Portaria n.º 939/83](https://diariodarepublica.pt/dr/detalhe/portaria/939-1983-441727), de 24 de Outubro.
+Art. 20.º O presente regulamento será objecto dos reajustamentos indispensáveis à prossecução dos objectivos do Departamento após a implementação efectiva do novo plano de estudos da licenciatura em Medicina Veterinária, a que se refere a [Portaria n.º 939/83](https://diariodarepublica.pt/dr/detalhe/portaria/939-1983-441727), de 24 de Outubro.

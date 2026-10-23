@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29000/43484348.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/944-1987-499489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T09:21:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10c1573efb86eebf12f474c32b2c1ee266a184ad709ecd95e69835a8a5337511
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9c1e694a0cbd73768a9f50b09db96f53a6382a1d6b629049fefc3a3c8e8e0fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:21:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Extinção de Lugares
+- Gabinete de Estudos Económicos
+- Pessoal de BAD
+- Pessoal Técnico Auxiliar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:222775:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DO GABINETE DE ESTUDOS ECONÓMICOS, CONSTANTE DA PORT 679/86 DE 13-NOV (COM A ALTERAÇÃO\
+    \ INTRODUZIDA PELO PRESENTE DIPLOMA), PELA PORT 1055/91 DE 17-OUT DR.IS-B [239]\0S-B [239]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-10-17'
+- type: cites
+  target: pt:dre:220888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222775:por
+  label: "Revogada pela PORT.945/98.1998.10.31.PCM DR.IS-B [252]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/945-1998-222775
+  date: '1998-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:21:14Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +119,15 @@ Considerando que as atribuições do Gabinete impõem a criação no referido qu
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças, ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, que seja criada no quadro do pessoal do Gabinete de Estudos Económicos, constante da [Portaria n.º 679/86](https://diariodarepublica.pt/dr/detalhe/portaria/679-1986-220888), de 13 de Novembro, a carreira de técnico auxiliar de BAD, como a seguir se indica, sendo extinto um lugar da carreira de técnico auxiliar, previsto no mapa anexo à referida portaria:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/29000/43484348.pdf))](https://files.diariodarepublica.pt/1s/1987/12/29000/43484348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/29000/43484348.pdf)
 
 Ministério das Finanças.
 
-**Assinada em 27 de Novembro de 1987.**
+Assinada em 27 de Novembro de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
-## ANEXO À PORTARIA N.º 944/87
+ANEXO À PORTARIA N.º 944/87
 
 Conteúdo funcional da carreira de técnico auxiliar de BAD
 

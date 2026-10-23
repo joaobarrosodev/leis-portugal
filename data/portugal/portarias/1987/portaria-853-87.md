@@ -47,40 +47,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/853-1987-497469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T09:18:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41b79d72b8d595e17afc4375a400d3f121e4b817fc8f2f30b8cd22d6612e6044
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ae904947b08f2251433665dd3710ba71312ceb104e57f1a2472dc1b5a282ee4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:18:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Ciências Sociais e Humanas
+- Licenciatura
+- Plano de Estudos
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:508448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:283167:por
+  label: "Alterada a alínea c) do n.º 1 do n.º 3.º, o n.º 4.º, os quadros I a IV do anexo I, o quadro II do anexo XV, os quadros\
+    \ X, XI, XII e XIII do anexo XVIII, os quadros III e V do anexo XX e o quadro IV do anexo XXVI, pela PORT.100/88.11.02.1988.ME,\
+    \ DR.IS [35] de 11.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/100-1988-283167
+  date: '1988-02-11'
+- type: amended_by
+  target: pt:dre:377080:por
+  label: "Alterada a alínea c) do n.º 1, a alínea c) do n.º 1 do n.º 3.º, na redacção da Portaria 100/88, de 11 de Fevereiro,\
+    \ o n.º 1 do n.º 11.º e o anexo II do ppresente diploma, pela PORT.559/88.17.08.1988.ME, DR.IS [189] de 17.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/559-1988-377080
+  date: '1988-08-17'
+- type: amended_by
+  target: pt:dre:620329:por
+  label: "Alterado o quadro V do anexo XVIII, os quadros II e VI do anexo XXII e o quadro VI do anexo XXVI, pela PORT.443/89.1989.06.15.ME\
+    \ DR.IS [135]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/443-1989-620329
+  date: '1989-06-15'
+- type: amended_by
+  target: pt:dre:571577:por
+  label: "Dada nova redação aos quadros I e III do anexo XV pela PORT.385/90.22.05.1990.ME, DR.IS [117] de 22.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/385-1990-571577
+  date: '1990-05-22'
+- type: amended_by
+  target: pt:dre:508448:por
+  label: "Alteradas as alíneas c) do n.º 1.º e 3.º, o n.º 3 do n.º 4.º, o n.º 1 do n.º 11.º e aditados os n.ºs 4.º-A, 6.º-A\
+    \ e 11.º-A PORT.66/91.25.01.1991.ME, DR.IS-B [21] de 25.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/66-1991-508448
+  date: '1991-01-25'
+- type: cites
+  target: pt:dre:221087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:18:32Z'
   warnings: []
   errors: []
 ---
@@ -627,8 +686,8 @@ Esta portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 12 de Outubro de 1987.**
+Assinada em 12 de Outubro de 1987.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/11/25400/39173931.pdf))](https://files.diariodarepublica.pt/1s/1987/11/25400/39173931.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/25400/39173931.pdf)

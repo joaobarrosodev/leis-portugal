@@ -48,36 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/948-1987-499486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T09:21:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f31406dab0329dbdc49cfc172fba274d059e024f8d5aa7e453725c472ffb3e89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 673b230baf04bc2bd42ab5f120f5884c057fc1048f68270f8a4071c05b419265
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:21:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ação Social
+- Faculdade de Ciências Sociais e Humanas
+- Faculdade de Letras
+- Formação Profissional
+- Isenção de Propinas
+- Qualificação Profissional
+- Universidade do Porto
+relationships:
+- type: cites
+  target: pt:dre:233164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655084:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:21:19Z'
   warnings: []
   errors: []
 ---
@@ -122,6 +157,6 @@ II) Cursos a que se refere o n.º 4.º da [Portaria n.º 850/87](https://diariod
 
 Ministério da Educação.
 
-**Assinada em 7 de Dezembro de 1987.**
+Assinada em 7 de Dezembro de 1987.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.

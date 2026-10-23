@@ -48,40 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/883-1987-496736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T09:19:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aa5723081c3e1a5ea3252f274297ac80db64709fe2514bd7a3bc350b98f01f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 484c87862c56b33e612ae86bcd8535ccee30a6953edc616e8c8e4ba1335a6fb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:19:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Castelo Branco
+- Curso de Produção Agrícola
+- Curso de Produção Animal
+- Curso de Produção Florestal
+- Escola Superior Agrária
+- Instituto Politécnico
+- Plano de Estudos
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO III DO ANEXO I, PELA PORTARIA 676/90, PUBLICADA NO DR.IS, 189, DE 900817, NA REDACÇÃO DADA A PORTARIA\
+    \ 427/86, PUBLICADA NO DR.IS, 180, DE 860807.\0DE 860807.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:355370:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:218945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:355370:por
+  label: "Revogada, findo o prazo estabelecido no art. 31.º do Regulamento aprovado pela Port 413-A/98, de 17-Jul, na parte\
+    \ em que confere nova redacção à Port 855/83, de 26-Ago.- Autoriza o Instituto Politécnico de Castelo branco, através\
+    \ da sua Escola Superior Agrária, a conferir o grau de bacharel em Engenharia Agrícola em Engenharia Animal, pela PORT.515/99.1999.07.19.ME\
+    \ DR.IS-B [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/515-1999-355370
+  date: '1999-07-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:19:18Z'
   warnings: []
   errors: []
 ---
@@ -116,8 +145,8 @@ Compete à comissão instaladora da Escola, ouvido o conselho científico, fixar
 
 Ministério da Educação.
 
-**Assinada em 22 de Outubro de 1987.**
+Assinada em 22 de Outubro de 1987.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/11/26500/40224023.pdf))](https://files.diariodarepublica.pt/1s/1987/11/26500/40224023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/26500/40224023.pdf)

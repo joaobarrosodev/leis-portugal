@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 279/1987, 2º Suplemento, Série I de 1987-12-04
   number: '279'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4228-(11) a 4228-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/27902/00110011.pdf
 entry_into_force_dates: []
@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-e-1987-514032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:20:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5ec085b06cb3b24cbf0bddadb4dd00b95363b963905268dc65ae3d2a006d094
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7f1cc75a75be7d5d1c283cb9f910487f797e57527f1c99b55c601eb39830d57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:20:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ponte 25 de Abril
+- Portagem
+relationships:
+- type: cites
+  target: pt:dre:442945:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:20:28Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +98,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, Tra
 
 1.º As portagens a cobrar pela utilização da Ponte de 25 de Abril passam a ser as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00110011.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00110011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/27902/00110011.pdf)
 
 2.º Não serão cobradas portagens pela utilização da Ponte de 25 de Abril nos sábados, domingos e feriados nacionais nos meses de Julho, Agosto e Setembro.
 
@@ -100,6 +106,6 @@ Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, Tra
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 4 de Dezembro de 1987.**
+Assinada em 4 de Dezembro de 1987.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

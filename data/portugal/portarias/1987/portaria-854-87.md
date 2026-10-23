@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/11/25500/39463948.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/854-1987-497575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:18:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79d4d37a2c413162885df08eaafade0c2784fa4be6dee99184b224aa6bee22d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 738f889d9e44143c8d7637a9d57a93891cdb76d66ba342dacc9c2560ff08a3e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:18:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Banco de Portugal
+- Comissão Directiva
+- Estatuto
+- Fundo de Garantia do Crédito Agrícola Mútuo
+- Pessoa Colectiva de Direito Público
 relationships:
 - type: amended_by
   target: pt:dre:123891090:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:665892:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:123891090:por
+  label: Revoga, a partir de 01.01.2020, a presente Portaria, pelo(a) Decreto-Lei n.º 106/2019 - Diário da República n.º 153/2019,
+    Série I de 2019-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2019-123891090
+  date: '2019-08-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:18:33Z'
   warnings: []
   errors: []
 ---
@@ -94,29 +111,29 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, que seja 
 
 Ministério das Fianças.
 
-**Assinada em 22 de Outubro de 1987.**
+Assinada em 22 de Outubro de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
 Estatuto do Fundo de Garantia do Crédito Agrícola Mútuo
 
 ### CAPÍTULO I — Natureza e objecto
 
-###### Artigo 1.º - 1 - O Fundo de Garantia do Crédito Agrícola Mútuo, adiante designado abreviadamente por Fundo, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
+Artigo 1.º - 1 - O Fundo de Garantia do Crédito Agrícola Mútuo, adiante designado abreviadamente por Fundo, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
 
 2 - O Fundo tem a sua sede no Porto, funcionando junto do Banco de Portugal, que assegurará os serviços técnicos e administrativos indispensáveis.
 
-###### Art. 2.º O Fundo tem por objecto realizar e promover, com vista à defesa do sistema do crédito agrícola mútuo, as acções que considere necessárias para assegurar a solvabilidade das caixas de crédito agrícola mútuo que a ele adiram, adiante designadas por caixas agrícolas.
+Art. 2.º O Fundo tem por objecto realizar e promover, com vista à defesa do sistema do crédito agrícola mútuo, as acções que considere necessárias para assegurar a solvabilidade das caixas de crédito agrícola mútuo que a ele adiram, adiante designadas por caixas agrícolas.
 
 ### CAPÍTULO II — Comissão directiva
 
-###### Art. 3.º - 1 - O Fundo é gerido por uma comissão directiva, nomeada por despacho do Ministro das Finanças e composta por três membros, um designado pelo Banco de Portugal, outro pelo Ministério das Finanças e outro pela Caixa Central do Crédito Agrícola Mútuo.
+Art. 3.º - 1 - O Fundo é gerido por uma comissão directiva, nomeada por despacho do Ministro das Finanças e composta por três membros, um designado pelo Banco de Portugal, outro pelo Ministério das Finanças e outro pela Caixa Central do Crédito Agrícola Mútuo.
 
 2 - O representante do Banco de Portugal será um dos membros do seu conselho de administração, que exercerá as funções de presidente da comissão directiva.
 
 3 - O presidente da comissão directiva é substituído nas suas faltas ou impedimentos pelo membro da comissão que ele designar ou, não havendo designação, pelo membro mais antigo; em igualdade de circunstâncias, pelo mais velho.
 
-###### Art. 4.º - 1 - Os membros da comissão directiva exercem as respectivas funções por períodos renováveis de três anos.
+Art. 4.º - 1 - Os membros da comissão directiva exercem as respectivas funções por períodos renováveis de três anos.
 
 2 - Os membros da comissão directiva manter-se-ão em exercício de funções, findo o período do seu mandato, até à posse de quem os substituir.
 
@@ -126,13 +143,13 @@ Estatuto do Fundo de Garantia do Crédito Agrícola Mútuo
 
 5 - As gratificações, bem como outras despesas de funcionamento do Fundo e da respectiva comissão directiva, serão suportadas pelo Fundo, quando não cobertas por força do disposto no anterior artigo 1.º, n.º 2.
 
-###### Art. 5.º - 1 - A comissão directiva tem reuniões ordinárias e extraordinárias.
+Art. 5.º - 1 - A comissão directiva tem reuniões ordinárias e extraordinárias.
 
 2 - As reuniões ordinárias são convocadas pelo presidente e realizam-se mensalmente ou com periodicidade mais curta, se tal for determinado pela comissão directiva.
 
 3 - As reuniões extraordinárias serão convocadas pelo presidente, por sua iniciativa ou a pedido de qualquer dos outros membros da comissão directiva.
 
-###### Art. 6.º - 1 - As deliberações da comissão directiva são tomadas por maioria de votos dos membros presentes, tendo o presidente, ou quem o substituir, voto de qualidade.
+Art. 6.º - 1 - As deliberações da comissão directiva são tomadas por maioria de votos dos membros presentes, tendo o presidente, ou quem o substituir, voto de qualidade.
 
 2 - Para a comissão directiva deliberar validamente é suficiente a presença de dois dos seus membros.
 
@@ -142,19 +159,19 @@ Estatuto do Fundo de Garantia do Crédito Agrícola Mútuo
 
 5 - A suspensão a que alude o número anterior considerar-se-á levantada se dentro de quinze dias depois de imposta o Ministro a não tiver confirmado.
 
-###### Art. 7.º
+Art. 7.º
 
 O Fundo obriga-se pela assinatura de dois membros da comissão directiva.
 
 ### CAPÍTULO III — Competência
 
-###### Art. 8.º À comissão directiva compete adoptar as acções que se mostrem adequadas ao funcionamento e à realização do objecto do Fundo e, designadamente:
+Art. 8.º À comissão directiva compete adoptar as acções que se mostrem adequadas ao funcionamento e à realização do objecto do Fundo e, designadamente:
 
 a) Estabelecer um sistema de informação que lhe permita avaliar a real situação económico-financeira de cada uma das caixas agrícolas;
 
 b) Obter das caixas agrícolas e de outras entidades autorizadas a recebê-los os documentos e elementos informativos que considere necessários à realização do objecto do Fundo, com obrigação para os agentes do Fundo de observarem as normas protectoras do segredo bancário.
 
-###### Art. 9.º A comissão directiva poderá adoptar as medidas que entender convenientes à prestação da assistência consignada no artigo 9.º do [Decreto-Lei n.º 182/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1987-665892) e, nomeadamente:
+Art. 9.º A comissão directiva poderá adoptar as medidas que entender convenientes à prestação da assistência consignada no artigo 9.º do [Decreto-Lei n.º 182/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1987-665892) e, nomeadamente:
 
 a) Notificar qualquer caixa agrícola para que adopte as medidas necessárias ao restabelecimento da respectiva situação patrimonial, quando a comissão directiva considere que se encontram em perigo o normal funcionamento ou a solvabilidade dessa caixa;
 
@@ -166,17 +183,17 @@ d) Fazer acompanhar, por delegação do Fundo e com poderes para impedir a execu
 
 e) Requerer, nas mesmas circunstâncias da alínea anterior, a convocação de reuniões da assembleia geral de qualquer caixa agrícola e nelas intervir para informação aos associados e proposição de medidas adequadas.
 
-###### Art. 10.º - 1 - A comissão directiva poderá suspender preventivamente a possibilidade de recurso à assistência referida no artigo anterior, relativamente às caixas agrícolas que incorram em violação grave dos seus deveres para com o Fundo.
+Art. 10.º - 1 - A comissão directiva poderá suspender preventivamente a possibilidade de recurso à assistência referida no artigo anterior, relativamente às caixas agrícolas que incorram em violação grave dos seus deveres para com o Fundo.
 
 2 - Poderá também a comissão directiva suspender a assistência em curso às caixas agrícolas que não adoptem ou deixem de adoptar ou de cumprir as medidas ou condições em relação a elas adoptadas.
 
-###### Art. 11.º - 1 - A comissão directiva poderá excluir do Fundo as caixas agrícolas que persistam nas situações a que se reporta o artigo precedente.
+Art. 11.º - 1 - A comissão directiva poderá excluir do Fundo as caixas agrícolas que persistam nas situações a que se reporta o artigo precedente.
 
 2 - A partir da data da notificação da exclusão tornar-se-ão exigíveis todas as dívidas e respectivos encargos agrícolas ao Fundo.
 
 ### CAPÍTULO IV — Fiscalização
 
-###### Art. 12.º - 1 - A fiscalização do Fundo cabe ao conselho de auditoria do Banco de Portugal, competindo-lhe, nomeadamente:
+Art. 12.º - 1 - A fiscalização do Fundo cabe ao conselho de auditoria do Banco de Portugal, competindo-lhe, nomeadamente:
 
 a) Acompanhar o funcionamento do Fundo e o cumprimento das leis e regulamentos que lhe são aplicáveis;
 
@@ -192,7 +209,7 @@ e) Emitir parecer acerca dos relatórios e contas de actividade do Fundo.
 
 ### CAPÍTULO V — Participantes
 
-###### Art. 13.º - 1 - Podem participar no sistema criado pelo [Decreto-Lei n.º 182/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1987-665892) as caixas de crédito agrícola mútuo legalmente constituídas e registadas que solicitem à comissão directiva do Fundo a sua adesão.
+Art. 13.º - 1 - Podem participar no sistema criado pelo [Decreto-Lei n.º 182/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1987-665892) as caixas de crédito agrícola mútuo legalmente constituídas e registadas que solicitem à comissão directiva do Fundo a sua adesão.
 
 2 - A adesão é condicionada à apresentação pela caixa interessada de todos os elementos que se mostrem convenientes, exigidos pela comissão directiva.
 
@@ -204,24 +221,24 @@ e) Emitir parecer acerca dos relatórios e contas de actividade do Fundo.
 
 6 - A comissão directiva do Fundo poderá fixar um prazo, com o limite máximo de dois anos e a contar da data da adesão, durante o qual as caixas agrícolas admitidas nas condições do número anterior não beneficiam da assistência financeira prevista na alínea b) do artigo 9.º deste diploma.
 
-###### Art. 14.º Apenas as caixas agrícolas expressamente admitidas a participar no sistema referido no artigo anterior poderão dar publicidade a tal facto.
+Art. 14.º Apenas as caixas agrícolas expressamente admitidas a participar no sistema referido no artigo anterior poderão dar publicidade a tal facto.
 
-###### Art. 15.º O pagamento das contribuições anualmente fixadas às caixas agrícolas admitidas a participar no sistema do Fundo será efectuado em duas prestações, a primeira das quais durante o mês de Abril e a segunda durante o mês de Outubro do ano a que respeitam.
+Art. 15.º O pagamento das contribuições anualmente fixadas às caixas agrícolas admitidas a participar no sistema do Fundo será efectuado em duas prestações, a primeira das quais durante o mês de Abril e a segunda durante o mês de Outubro do ano a que respeitam.
 
-###### Art. 16.º Qualquer caixa agrícola poderá deixar de participar no sistema do Fundo do Crédito Agrícola Mútuo, mediante comunicação à comissão directiva e satisfação de todas as dívidas e encargos para com o Fundo.
+Art. 16.º Qualquer caixa agrícola poderá deixar de participar no sistema do Fundo do Crédito Agrícola Mútuo, mediante comunicação à comissão directiva e satisfação de todas as dívidas e encargos para com o Fundo.
 
-###### Art. 17.º Nomeadamente nas condições e situações previstas nos anteriores artigos 11.º e 16.º, se se mostrar aconselhável tomar, em redacção a qualquer caixa agrícola, determinadas providências extraordinárias, a comissão directiva do Fundo comunicará os factos subjacentes ao Ministro das Finanças e ao Banco de Portugal.
+Art. 17.º Nomeadamente nas condições e situações previstas nos anteriores artigos 11.º e 16.º, se se mostrar aconselhável tomar, em redacção a qualquer caixa agrícola, determinadas providências extraordinárias, a comissão directiva do Fundo comunicará os factos subjacentes ao Ministro das Finanças e ao Banco de Portugal.
 
-###### Art. 18.º - 1 - Caso deixem de participar no sistema do Fundo de Garantia do Crédito Agrícola Mútuo, as caixas agrícolas deverão retirar imediatamente qualquer publicidade realizada nos termos do artigo 14.º e, bem assim, quaisquer menções equivalentes e acessíveis ao público, incluindo as de impressos e papéis de correspondência ou outros.
+Art. 18.º - 1 - Caso deixem de participar no sistema do Fundo de Garantia do Crédito Agrícola Mútuo, as caixas agrícolas deverão retirar imediatamente qualquer publicidade realizada nos termos do artigo 14.º e, bem assim, quaisquer menções equivalentes e acessíveis ao público, incluindo as de impressos e papéis de correspondência ou outros.
 
 2 - Na hipótese prevista no número anterior, as caixas agrícolas perdem o direito a qualquer reembolso, continuando a contribuir anualmente até serem compensados, na parte proporcional, os eventuais saldos de adiantamentos feitos ao Fundo nos termos do n.º 4 do artigo 6.º do [Decreto-Lei n.º 182/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1987-665892), de 21 de Abril.
 
-###### Art. 19.º - 1 - A readmissão das caixas agrícolas que deixaram de ser participantes depende da anuência da comissão directiva e só poderá ocorrer depois de terem sido pagas ao Fundo as contribuições correspondentes ao período decorrido desde a sua saída do sistema ou aos últimos dois anos, se este período for inferior.
+Art. 19.º - 1 - A readmissão das caixas agrícolas que deixaram de ser participantes depende da anuência da comissão directiva e só poderá ocorrer depois de terem sido pagas ao Fundo as contribuições correspondentes ao período decorrido desde a sua saída do sistema ou aos últimos dois anos, se este período for inferior.
 
 2 - Aplicar-se-á às caixas agrícolas readmitidas nas condições do número anterior o regime estabelecido pelo n.º 6 do artigo 13.º deste diploma.
 
-###### Art. 20.º A comissão directiva do Fundo enviará ao Ministério das Finanças, até 31 de Janeiro de cada ano, e para efeitos de publicação na 2.ª série do Diário da República, a relação das caixas agrícolas participantes no sistema do Fundo de Garantia do Crédito Agrícola Mútuo, devendo comunicar ao Banco de Portugal, no prazo de dez dias, quaisquer alterações à mesma relação.
+Art. 20.º A comissão directiva do Fundo enviará ao Ministério das Finanças, até 31 de Janeiro de cada ano, e para efeitos de publicação na 2.ª série do Diário da República, a relação das caixas agrícolas participantes no sistema do Fundo de Garantia do Crédito Agrícola Mútuo, devendo comunicar ao Banco de Portugal, no prazo de dez dias, quaisquer alterações à mesma relação.
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 21.º O disposto no artigo 13.º, n.os 3, 5 e 6, é aplicável às caixas de crédito agrícola mútuo existentes à data da entrada em vigor deste diploma que, no prazo de 45 dias, não solicitarem a sua adesão nos termos do mesmo artigo 13.º
+Art. 21.º O disposto no artigo 13.º, n.os 3, 5 e 6, é aplicável às caixas de crédito agrícola mútuo existentes à data da entrada em vigor deste diploma que, no prazo de 45 dias, não solicitarem a sua adesão nos termos do mesmo artigo 13.º

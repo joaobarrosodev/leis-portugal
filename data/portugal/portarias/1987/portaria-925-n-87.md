@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 279/1987, 2º Suplemento, Série I de 1987-12-04
   number: '279'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4228-(20) a 4228-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/27902/00200021.pdf
 entry_into_force_dates: []
@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-n-1987-514041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79b6fb22e1e20ad7b299db1dc8d630f54b5d51e8fe84b383a0340aee90dbc800
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b01dd517ba0deb0be62db74d7532e6aa3f75e68d829d3ce426a7ac5570d4eac2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Energia Elétrica
+- Preço
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:162787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621691:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406147:por
+  label: Rectificada pela DECL.DD4206.18.12.1987.PCM, DR.IS [300]6ºSupl de 31.12.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-406147
+  date: '1987-12-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:20:39Z'
   warnings: []
   errors: []
 ---
@@ -102,10 +122,10 @@ Manda o Governo da República Portuguesa, pelos Ministros da Indústria e Energi
 
 Ministérios da Indústria e Energia e do Comércio e Turismo.
 
-**Assinada em 4 de Dezembro de 1987.**
+Assinada em 4 de Dezembro de 1987.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00200021.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/27902/00200021.pdf)

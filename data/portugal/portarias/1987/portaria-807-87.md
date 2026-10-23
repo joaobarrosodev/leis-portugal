@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/09/21900/36313632.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/807-1987-495728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 511a29192570692e7546bd875ae6296685291e58b889275d2a6b1bd9fa648976
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb41ff99fc4440eaf5907409b49ee9ff7d4a7de06ee4e7aad275d5505d2bac26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cereal
+- Preço de Campanha
 relationships:
 - type: amended_by
   target: pt:dre:514046:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656601:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:514046:por
+  label: "Revogada pela PORT.925-S/87.1987.12.04.MF,DR.IS [279]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/925-s-1987-514046
+  date: '1987-12-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:17:13Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +120,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agri
 
 1.º Os preços de revenda a praticar pelo organismo de intervenção para o trigo mole nacional e rijo da classe C a vigorar no decorrer da campanha de 1987-1988 são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/21900/36313632.pdf))](https://files.diariodarepublica.pt/1s/1987/09/21900/36313632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/21900/36313632.pdf)
 
 2.º Os preços de revenda a praticar pelo organismo de intervenção para o trigo mole nacional e rijo da classe C a vigorar após 1 de Agosto de 1987, inclusive, são os valores do número anterior, acrescidos de uma majoração de 500$00 por tonelada e por mês.
 
@@ -105,7 +128,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agri
 
 4.º Os preços de revenda a praticar pelo organismo de intervenção para o centeio são, os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/21900/36313632.pdf))](https://files.diariodarepublica.pt/1s/1987/09/21900/36313632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/21900/36313632.pdf)
 
 5.º O preço de revenda a praticar pelo organismo de intervenção para o milho é fixado em 42000$00 por tonelada.
 
@@ -113,7 +136,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agri
 
 7.º Os preços de revenda a praticar pelo organismo de intervenção para a cevada são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/21900/36313632.pdf))](https://files.diariodarepublica.pt/1s/1987/09/21900/36313632.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/21900/36313632.pdf)
 
 8.º O preço de revenda a praticar pelo organismo de intervenção para o triticale é fixado em 36500$00 por tonelada.
 
@@ -127,6 +150,6 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agri
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 
-**Assinada em 14 de Agosto de 1987.**
+Assinada em 14 de Agosto de 1987.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.

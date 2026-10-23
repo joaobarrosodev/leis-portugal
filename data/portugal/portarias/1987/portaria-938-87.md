@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/938-1987-497857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T09:21:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3dae300eea489138bca58081d63954118dec4dde543e5f906836d54a320c9cad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80fc80e0c3cae1c5256336d646e1e6b392163f598c39f0a49609b9be687aee8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:21:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carregal do SAL
+- Conservatória do Registo Civil
+- Conservatória do Registo Comercial
+- Conservatória do Registo Predial
+- Serviços de Registo e Notariado
+relationships:
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:21:04Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +106,12 @@ Manda o Governo da República Portuguesa, pelo Ministro da Justiça, ao abrigo d
 
 3.º O quadro de oficiais das novas repartições é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/28600/43024302.pdf))](https://files.diariodarepublica.pt/1s/1987/12/28600/43024302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/28600/43024302.pdf)
 
 4.º A data de entrada em funcionamento da nova Conservatória e a da desanexação dos serviços de registo civil e de notariado será fixada por despacho do director-geral dos Registos e do Notariado.
 
 Ministério da Justiça.
 
-**Assinada em 20 de Novembro de 1987.**
+Assinada em 20 de Novembro de 1987.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

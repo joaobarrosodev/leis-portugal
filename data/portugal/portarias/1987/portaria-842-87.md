@@ -48,40 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/842-1987-496110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:18:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82d7116fe81abe702ab82aa657adaaa99b5b4772386c680b39bb48c11c4bd5a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03e7f98438d1202486dcf16effa2e5c15a3283ce00fb4947a3437406716bc330
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:18:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Educadores de Infância
+- Curso de Professores do Ensino Primário
+- Escola Superior de Educação
+- Instituto Politécnico
+- Plano de Estudos
+- Santarém
 relationships:
 - type: amended_by
   target: pt:dre:542779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623234:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:542253:por
+  label: "Revogada, na parte que se refere ao bacharelato em 1º Ciclo do Ensino Básico da Escola Superior de Educação de Santarém,\
+    \ pela PORT.256/99.1999.04.09.ME, DR.IS-B [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/256-1999-542253
+  date: '1999-04-09'
+- type: repealed_by
+  target: pt:dre:542779:por
+  label: "Revogada, na parte que se refere ao bacharelato em Educação Pré-Escolar da Escola Superior em Educação de Santarém,\
+    \ pelo presente diploma, pela PORT.261/99.1999.04.10.ME DR.IS-B [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-1999-542779
+  date: '1999-04-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:18:13Z'
   warnings: []
   errors: []
 ---
@@ -106,8 +145,8 @@ Alteração
 
 Os quadros 3, 4, 5 e 6 dos anexos I e II à [Portaria n.º 547/86](https://diariodarepublica.pt/dr/detalhe/portaria/547-1986-221558), de 24 de Setembro, passam a ter a redacção constante dos quadros anexos à presente portaria.
 
-**Assinada em 7 de Outubro de 1987.**
+Assinada em 7 de Outubro de 1987.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/10/24700/38183819.pdf))](https://files.diariodarepublica.pt/1s/1987/10/24700/38183819.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/10/24700/38183819.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 252/1987, 1º Suplemento, Série I de 1987-11-02
   number: '252'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3866-(2) a 3866-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/11/25201/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/847-a-1987-143316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T09:18:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc0c37a5bb955e44175ad33934740aba90799f99748540e465904ead1fe4f2b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 517d42119eeb73d9cb7bc2deb6f9f421d1d963ba4a995aa8425a04775ba75b2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:18:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aparcamento de GADO
+- CAÇA
+- Direcção Geral das Florestas
+- Exploração Pecuária
+- GADO
+- Proteção dos Animais
+- Sinalização
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:352706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455890:por
+  label: "Mantida em vigor pelo DEC LEI.274-A/88.03.08.1988.MAPA, DR.IS [178]Supl de 03.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-a-1988-455890
+  date: '1988-08-03'
+- type: amended_by
+  target: pt:dre:410105:por
+  label: "Alargados, até 15 de Setembro de 1999 os pedidos de concessão e renovação dos aparcamentos de gado, a que se refere\
+    \ este diploma, pela PORT.645-A/99.1999.08.12.MADRP, DR.IS-B [187]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/645-a-1999-410105
+  date: '1999-08-12'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:594974:por
+  label: "Revogado o nº 4 e o Anexo pela PORT.1103/2000.2000.11.23.MADRP, DR.IS-B [271] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1103-2000-594974
+  date: '2000-11-23'
+- type: repealed_by
+  target: pt:dre:352706:por
+  label: "Revogada pela PORT.247/2001.2001.03.22.MADRP,DR.IS-B [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-2001-352706
+  date: '2001-03-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:18:18Z'
   warnings: []
   errors: []
 ---
@@ -142,8 +183,8 @@ c) Planta do aparcamento de gado, seu parqueamento e localização, referenciada
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 2 de Novembro de 1987.**
+Assinada em 2 de Novembro de 1987.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1987/11/25201/00020003.pdf))](https://files.diariodarepublica.pt/1s/1987/11/25201/00020003.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/25201/00020003.pdf)

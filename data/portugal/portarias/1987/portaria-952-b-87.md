@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 294/1987, 2º Suplemento, Série I de 1987-12-23
   number: '294'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4392-(6) a 4392-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29402/00060017.pdf
 entry_into_force_dates: []
@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/952-b-1987-305449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T09:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b775644402a59074adb349ffc87ffbed0a69512ea7849494c836612f5af721a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ee90af999922a0fad0e4fb8b0147baa4b0fc71659aa7a71bcdb74d41323bdaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério Público
+- Quadro de Pessoal
+- Supremo Tribunal de Justiça
+- Tribunal da Relação
+relationships:
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:186879:por
+  label: Rectificada pela DECL.DD2077.1988.01.06.PCM,DR.IS [25]Supl de 30/Jan/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-186879
+  date: '1988-01-06'
 article_structure:
   article_count: 0
-  section_count: 72
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:21:29Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +133,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal da Relação de Lisboa
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -126,7 +143,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal da Relação do Porto
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -138,7 +155,7 @@ Tribunais de 1.ª instância
 
 Tribunal de Abrantes
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -148,7 +165,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Águeda
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -166,7 +183,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Albufeira
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -188,7 +205,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Alcobaça
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -218,7 +235,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Almada
 
-#### Secção central e duas secções de processos: ... Número de lugares
+Secção central e duas secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -252,7 +269,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Amarante
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -270,7 +287,7 @@ Técnico de justiça auxiliar ... 1
 
 Tribunal de Anadia
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -280,7 +297,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Angra do Heroísmo
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -332,7 +349,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Aveiro
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -356,7 +373,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Barcelos
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -366,7 +383,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal do Barreiro
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -376,7 +393,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal de Beja
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -400,7 +417,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Braga
 
-#### Secção central e duas secções de processos: ... Número de lugares
+Secção central e duas secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -412,7 +429,7 @@ Técnico de justiça auxiliar ... 5
 
 Tribunal de Bragança
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -430,7 +447,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal das Caldas da Rainha
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -460,7 +477,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal do Cartaxo
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -470,7 +487,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Cascais
 
-#### Secção central e três secções de processos: ... Número de lugares
+Secção central e três secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -482,7 +499,7 @@ Técnico de justiça auxiliar ... 9
 
 Tribunal de Castelo Branco
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -524,7 +541,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Chaves
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -540,7 +557,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Coimbra
 
-#### Secção central e duas secções de processos: ... Número de lugares
+Secção central e duas secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -568,7 +585,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal da Covilhã
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -594,7 +611,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Espinho
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -626,7 +643,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Évora
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -644,7 +661,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Faro
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -678,7 +695,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal da Figueira de Foz
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -714,7 +731,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal do Funchal
 
-#### Secção central e duas secções de processos: ... Número de lugares
+Secção central e duas secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -754,7 +771,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal da Guarda
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -768,7 +785,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Guimarães
 
-#### Secção central e duas secções de processos: ... Número de lugares
+Secção central e duas secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -822,7 +839,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Lagos
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -832,7 +849,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Lamego
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -842,7 +859,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Leiria
 
-#### Secção central e duas secções de processos: ... Número de lugares
+Secção central e duas secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -858,7 +875,7 @@ Tribunais de Lisboa
 
 Juízos cíveis
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -870,7 +887,7 @@ Técnico de justiça auxiliar ... 5
 
 Tribunais do trabalho
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -882,7 +899,7 @@ Técnico de justiça auxiliar ... 14
 
 Tribunais de família
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -892,7 +909,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunais criminais
 
-#### Secção central e sete secções de processos: ... Número de lugares
+Secção central e sete secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -904,7 +921,7 @@ Técnico de justiça auxiliar (ver nota c) ... 28
 
 Tribunal de Loulé
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -914,7 +931,7 @@ Técnico de justiça auxiliar ... 3
 
 Tribunal de Loures
 
-#### Secção central e duas secções de processos: ... Número de lugares
+Secção central e duas secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -1002,7 +1019,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Matosinhos
 
-#### Secção central e duas secções de processos: ... Número de lugares
+Secção central e duas secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -1126,7 +1143,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal do Montijo
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1168,7 +1185,7 @@ Técnico de justiça auxiliar ... 1
 
 Tribunal de Oeiras
 
-#### Secção central e duas secções de processos: ... Número de lugares
+Secção central e duas secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -1194,7 +1211,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Oliveira de Azeméis
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1226,7 +1243,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Ovar
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1250,7 +1267,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Paredes
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1318,7 +1335,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Pombal
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1328,7 +1345,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Ponta Delgada
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1366,7 +1383,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Portalegre
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1384,7 +1401,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Portimão
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1398,7 +1415,7 @@ Tribunais do Porto
 
 Juízeis cíveis e do trabalho
 
-#### Secção central e duas secções de processos: ... Número de lugares
+Secção central e duas secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -1412,7 +1429,7 @@ Técnico de justiça auxiliar ... 9
 
 Tribunais de família
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1424,7 +1441,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunais criminais
 
-#### Secção central e quatro secções de processos: ... Número de lugares
+Secção central e quatro secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -1460,7 +1477,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal da Póvoa de Varzim
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1532,7 +1549,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Santa Cruz
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1542,7 +1559,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Santa Maria da Feira
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1554,7 +1571,7 @@ Técnico de justiça auxiliar ... 4
 
 Tribunal de Santarém
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1572,7 +1589,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Santo Tirso
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1584,7 +1601,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de São João da Madeira
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1628,7 +1645,7 @@ Técnico de justiça auxiliar ... 1
 
 Tribunal do Seixal
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1652,7 +1669,7 @@ Técnico de justiça auxiliar ... 1
 
 Tribunal de Sesimbra
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1662,7 +1679,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Setúbal
 
-#### Secção central e duas secções de processos: ... Número de lugares
+Secção central e duas secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -1682,7 +1699,7 @@ Técnico de justiça auxiliar ... 2
 
 Tribunal de Sintra
 
-#### Secção central e três secções de processos: ... Número de lugares
+Secção central e três secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -1724,7 +1741,7 @@ Técnico de justiça auxiliar ... 1
 
 Tribunal de Tomar
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1750,7 +1767,7 @@ Técnico de justiça-adjunto ... 2
 
 Tribunal de Torres Vedras
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1794,7 +1811,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Viana do Castelo
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1814,7 +1831,7 @@ Técnico de justiça auxiliar ... 1
 
 Tribunal de Vila do Conde
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1836,7 +1853,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Vila Franca de Xira
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1852,7 +1869,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Vila Nova de Famalicão
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1868,7 +1885,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Vila Nova de Gaia
 
-#### Secção central e três secções de processos: ... Número de lugares
+Secção central e três secções de processos: ... Número de lugares
 
 Secretário técnico ... 1
 
@@ -1880,7 +1897,7 @@ Técnico de justiça auxiliar (ver nota a) ... 8
 
 Tribunal de Vila Nova de Ourém
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1898,7 +1915,7 @@ Técnico de justiça auxiliar ... 1
 
 Tribunal de Vila Real
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1946,7 +1963,7 @@ Técnico de justiça-adjunto ... 1
 
 Tribunal de Viseu
 
-#### Secção central e uma secção de processos: ... Número de lugares
+Secção central e uma secção de processos: ... Número de lugares
 
 Técnico de justiça principal ... 1
 
@@ -1998,6 +2015,6 @@ Técnico de justiça-adjunto ... 1
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 21 de Dezembro de 1987.**
+Assinada em 21 de Dezembro de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Justiça, Joaquim Fernando Nogueira.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Justiça, Joaquim Fernando Nogueira.

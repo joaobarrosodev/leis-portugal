@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03400/05170520.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/95-1987-662938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:21:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 057769893fe51b33ed8ed303cd0b73ebf1652fbcd2b52c43bbda38a1b1d952e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75f776e6f0a4cd217b7aa35b2729c18011c71056e190f6623b69bace02891d51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:21:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação de Conhecimentos
+- Deficiente
+- Definição de Competências
+- Diploma
+- Direcção Geral de Apoio e Extensão Educativa
+- Educação dos Adultos
+- Ensino Preparatório
+- Ensino Primário
+- Escolaridade Obrigatória
+- Exame
+- Habilitações Literárias
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:231305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3619130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476695:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:21:23Z'
   warnings: []
   errors: []
 ---
@@ -279,6 +315,6 @@ Uma apreciação global que fundamente a apresentação de uma proposta de certi
 
 Ministério da Educação e Cultura.
 
-**Assinada em 19 de Janeiro de 1987.**
+Assinada em 19 de Janeiro de 1987.
 
-**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.
