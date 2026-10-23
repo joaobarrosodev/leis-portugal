@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2002/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2002-173757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3be300c58a8c59178ffd54f8079c0df8952eb8285350f0b6e0b83751cd1d6923
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f54143df61c225716b29674aadd4aecebdcd267f051e8444446d5a7b2f4056a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Lei do Enquadramento
 - Finanças Locais
-- Lei de Finanças das Regiões Autónomas
+- Finanças Regionais
 - Lei da Estabilidade Orçamental
 - Lei das Finanças Locais
-- Finanças Regionais
+- Lei de Finanças das Regiões Autónomas
+- Lei do Enquadramento
 - Orçamento Geral do Estado
 relationships:
 - type: amended_by
@@ -102,16 +102,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517981:por
+  label: "Revogada a Lei 13/98 de 24-Fev, na redacção do art. 3º da presente lei que é revogado pela LEI ORG.1/2007.19.02.2007.AR,\
+    \ DR.IS [35] de 19.02.2007, sem prejuízo do disposto no art. 60º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2007-517981
+  date: '2007-02-19'
+- type: repealed_by
+  target: pt:dre:70262477:por
+  label: Revogada (a partir de 12.09.2015) a Lei n.º 91/2001 de 20-ago, na redação do presente diploma, pelo(a) Lei n.º 151/2015
+    - Diário da República n.º 178/2015, Série I de 2015-09-11, sem prejuízo do disposto no n.º 2 do art. 7.º da Lei 151/2015
+    de 11-set, o qual determina que, durante o prazo de três anos após a data de entrada em vigor da mesma (até 12.09.2018),
+    mantêm-se em vigor as normas da Lei n.º 91/2001 de 20-ago relativas ao processo orçamental, ao conteúdo e estrutura do
+    Orçamento do Estado, à execução orçamental, às alterações orçamentais, ao controlo orçamental e responsabilidade financeira,
+    ao desvio significativo e mecanismo de correção, às contas, à estabilidade orçamental, às garantias da estabilidade orçamental,
+    bem como às disposições finais.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/151-2015-70262477
+  date: '2015-09-11'
 article_structure:
-  article_count: 115
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 99
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:32Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +165,9 @@ Lei da estabilidade orçamental - Primeira alteração à [Lei n.º 91/2001](htt
 
 A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, a lei orgânica seguinte:
 
-###### Artigo 1.º — Título V da lei de enquadramento orçamental
+###### Artigo 1.º
+
+## Título V da lei de enquadramento orçamental
 
 O título V da [Lei n.º 91/2001](https://diariodarepublica.pt/dr/detalhe/lei/91-2001-516051), de 20 de Agosto, passa a ter a seguinte redacção:
 
@@ -132,21 +175,31 @@ O título V da [Lei n.º 91/2001](https://diariodarepublica.pt/dr/detalhe/lei/91
 
 Estabilidade orçamental
 
-### CAPÍTULO I — Objecto e âmbito
+CAPÍTULO I
 
-###### Artigo 79.º — Objecto
+Objecto e âmbito
+
+Artigo 79.º
+
+Objecto
 
 1 - O presente título contém os princípios e os procedimentos específicos a que devem obedecer a aprovação e execução dos orçamentos de todo o sector público administrativo, em matéria de estabilidade orçamental.
 
 2 - No âmbito da estabilidade orçamental, o presente título destina-se a cumprir as obrigações decorrentes do artigo 104.º do Tratado que institui a Comunidade Europeia e do Pacto de Estabilidade e Crescimento, até à plena realização deste, e concretiza o disposto na parte final do n.º 5 do artigo 2.º, no n.º 2 do artigo 4.º e na alínea b) do artigo 14.º da presente lei.
 
-###### Artigo 80.º — Âmbito
+Artigo 80.º
+
+Âmbito
 
 O presente título aplica-se ao Orçamento do Estado e aos orçamentos das Regiões Autónomas e das autarquias locais, sem prejuízo do princípio da independência orçamental estabelecido no n.º 2 do artigo 5.º da presente lei.
 
-### CAPÍTULO II — Estabilidade orçamental
+CAPÍTULO II
 
-###### Artigo 81.º — Princípios da estabilidade orçamental, da solidariedade recíproca e da transparência orçamental
+Estabilidade orçamental
+
+Artigo 81.º
+
+Princípios da estabilidade orçamental, da solidariedade recíproca e da transparência orçamental
 
 1 - Os subsectores que constituem o sector público administrativo, bem como os organismos que os integram, estão sujeitos, na aprovação e execução dos seus orçamentos, aos princípios da estabilidade orçamental, da solidariedade recíproca e da transparência orçamental.
 
@@ -156,7 +209,9 @@ O presente título aplica-se ao Orçamento do Estado e aos orçamentos das Regi�
 
 4 - O princípio da transparência orçamental implica a existência de um dever de informação entre as entidades públicas, por forma a garantir a estabilidade orçamental e a solidariedade recíproca.
 
-###### Artigo 82.º — Conselho de Coordenação Financeira do Sector Público Administrativo
+Artigo 82.º
+
+Conselho de Coordenação Financeira do Sector Público Administrativo
 
 1 - É criado, junto do Ministério das Finanças, com natureza consultiva, o Conselho de Coordenação Financeira do Sector Público Administrativo.
 
@@ -180,7 +235,9 @@ c) Os secretários dos Governos Regionais dos Açores e da Madeira responsáveis
 
 d) Os presidentes da Associação Nacional de Municípios Portugueses e da Associação Nacional de Freguesias.
 
-###### Artigo 83.º — Objectivos e medidas de estabilidade orçamental
+Artigo 83.º
+
+Objectivos e medidas de estabilidade orçamental
 
 1 - A aprovação e a execução dos orçamentos de todos os organismos do sector público administrativo são obrigatoriamente efectuadas de acordo com as medidas de estabilidade orçamental a inserir na lei do Orçamento, em conformidade com objectivos devidamente identificados para cada um dos subsectores, para cumprimento do Programa de Estabilidade e Crescimento.
 
@@ -190,31 +247,43 @@ d) Os presidentes da Associação Nacional de Municípios Portugueses e da Assoc
 
 4 - A justificação das medidas de estabilidade consta do relatório da proposta de lei do Orçamento e inclui, designadamente, a justificação do cumprimento do Programa de Estabilidade e Crescimento e a sua repercussão nos orçamentos do sector público administrativo.
 
-###### Artigo 84.º — Equilíbrio orçamental e limites de endividamento
+Artigo 84.º
+
+Equilíbrio orçamental e limites de endividamento
 
 1 - Em cumprimento das obrigações de estabilidade orçamental decorrentes do Programa de Estabilidade e Crescimento, a lei do Orçamento estabelece limites específicos de endividamento anual da administração central do Estado, das Regiões Autónomas e das autarquias locais, compatíveis com o saldo orçamental calculado para o conjunto do sector público administrativo.
 
 2 - Os limites de endividamento a que se refere o número anterior podem ser inferiores aos que resultariam das leis financeiras especialmente aplicáveis a cada subsector.
 
-###### Artigo 85.º — Transferências do Orçamento do Estado
+Artigo 85.º
+
+Transferências do Orçamento do Estado
 
 1 - Para assegurar o estrito cumprimento dos princípios da estabilidade orçamental e da solidariedade recíproca, decorrentes do artigo 104.º do Tratado que institui a Comunidade Europeia e do Pacto de Estabilidade e Crescimento, a lei do Orçamento pode determinar transferências do Orçamento do Estado de montante inferior àquele que resultaria das leis financeiras especialmente aplicáveis a cada subsector, sem prejuízo dos compromissos assumidos pelo Estado no âmbito do sistema de solidariedade e de segurança social.
 
 2 - A possibilidade de redução prevista no número anterior depende sempre da verificação de circunstâncias excepcionais imperiosamente exigidas pela rigorosa observância das obrigações decorrentes do Programa de Estabilidade e Crescimento e dos princípios da proporcionalidade, não arbítrio e solidariedade recíproca e carece de audição prévia dos órgãos constitucional e legalmente competentes dos subsectores envolvidos.
 
-###### Artigo 86.º — Prestação de informação
+Artigo 86.º
+
+Prestação de informação
 
 O Governo presta à Assembleia da República toda a informação necessária ao acompanhamento e fiscalização da execução orçamental e, bem assim, toda a informação que se revele justificada para a fixação na lei do Orçamento do Estado dos limites específicos de endividamento anual da administração central, das Regiões Autónomas e das autarquias locais.
 
-### CAPÍTULO III — Garantias da estabilidade orçamental
+CAPÍTULO III
 
-###### Artigo 87.º — Verificação do cumprimento do princípio da estabilidade orçamental
+Garantias da estabilidade orçamental
+
+Artigo 87.º
+
+Verificação do cumprimento do princípio da estabilidade orçamental
 
 1 - A verificação do cumprimento das exigências da estabilidade orçamental é feita pelos órgãos competentes para o controlo orçamental, nos termos da presente lei.
 
 2 - O Governo apresentará, no relatório da proposta de lei do Orçamento do Estado, as informações necessárias sobre a concretização das medidas de estabilidade orçamental respeitantes ao ano económico anterior, em cumprimento do Programa de Estabilidade e Crescimento.
 
-###### Artigo 88.º — Dever de informação
+Artigo 88.º
+
+Dever de informação
 
 1 - O Ministro das Finanças pode exigir dos organismos que integram o sector público administrativo uma informação pormenorizada e justificada da observância das medidas e procedimentos que têm de cumprir nos termos da presente lei.
 
@@ -222,7 +291,9 @@ O Governo presta à Assembleia da República toda a informação necessária ao 
 
 3 - O Ministro das Finanças pode solicitar ao Banco de Portugal e a todas as instituições de crédito e sociedades financeiras toda a informação que recaia sobre qualquer organismo do sector público administrativo e que considere pertinente para a verificação do cumprimento da presente lei.
 
-###### Artigo 89.º — Incumprimento das normas do presente título
+Artigo 89.º
+
+Incumprimento das normas do presente título
 
 1 - O incumprimento das regras e procedimentos previstos no presente título constitui sempre uma circunstância agravante da inerente responsabilidade financeira.
 
@@ -232,7 +303,9 @@ O Governo presta à Assembleia da República toda a informação necessária ao 
 
 4 - Por efeito do não cumprimento dos limites específicos de endividamento que se prevêem no artigo 84.º, a lei do Orçamento pode determinar a redução, na proporção do incumprimento, das transferências a efectuar, após audição prévia dos órgãos constitucional e legalmente competentes dos subsectores envolvidos.»
 
-###### Artigo 2.º — Título VI da lei de enquadramento orçamental
+###### Artigo 2.º
+
+## Título VI da lei de enquadramento orçamental
 
 É aditado à [Lei n.º 91/2001](https://diariodarepublica.pt/dr/detalhe/lei/91-2001-516051), de 20 de Agosto, um título VI, com a seguinte redacção:
 
@@ -240,25 +313,35 @@ O Governo presta à Assembleia da República toda a informação necessária ao 
 
 Disposições finais
 
-###### Artigo 90.º — Serviços e fundos autónomos
+Artigo 90.º
+
+Serviços e fundos autónomos
 
 1 - Os serviços e fundos autónomos, cujo regime de autonomia administrativa e financeira não decorra de imperativo constitucional e da sua integração nas áreas do Serviço Nacional de Saúde e regulação e supervisão, que, nos anos económicos de 2000 e 2001, não tiverem tido pelo menos dois terços de receitas próprias relativamente às suas despesas totais passarão ao regime de autonomia meramente administrativa, nos termos que vierem a ser definidos na lei do Orçamento e no decreto-lei de execução orçamental para 2003.
 
 2 - Os organismos especialmente competentes para a gestão dos fundos comunitários podem manter o seu actual regime de autonomia, se isso se revelar indispensável àquela gestão.
 
-###### Artigo 91.º — Autonomia administrativa e financeira das universidades e dos institutos politécnicos
+Artigo 91.º
+
+Autonomia administrativa e financeira das universidades e dos institutos politécnicos
 
 O disposto na presente lei não prejudica a possibilidade de as universidades e os institutos politécnicos, bem como as suas unidades orgânicas, disporem de um regime especial de autonomia administrativa e financeira, nos termos estabelecidos nas respectivas leis de autonomia e legislação complementar.
 
-###### Artigo 92.º — Legislação complementar
+Artigo 92.º
+
+Legislação complementar
 
 Até ao final do ano de 2002 o Governo deve aprovar as normas complementares necessárias à boa execução do disposto na presente lei.
 
-###### Artigo 93.º — Norma revogatória
+Artigo 93.º
+
+Norma revogatória
 
 São revogadas a [Lei n.º 6/91](https://diariodarepublica.pt/dr/detalhe/lei/6-1991-487123), de 20 de Fevereiro, e todas as normas, ainda que de carácter especial, que contrariem o disposto na presente lei, sem prejuízo do disposto no artigo seguinte.
 
-###### Artigo 94.º — Disposição transitória
+Artigo 94.º
+
+Disposição transitória
 
 1 - Os processos de organização, elaboração, apresentação, discussão, votação, alteração e execução da fiscalização e responsabilidade orçamental relativos aos Orçamentos do Estado e contas anteriores aos de 2003 continuam a reger-se pela legislação a que se refere o artigo 93.º
 
@@ -294,17 +377,17 @@ A [Lei n.º 91/2001](https://diariodarepublica.pt/dr/detalhe/lei/91-2001-516051)
 
 Aprovada em 19 de Julho de 2002.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
-**Promulgada em 7 de Agosto de 2002.**
+Promulgada em 7 de Agosto de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 19 de Agosto de 2002.**
+Referendada em 19 de Agosto de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Republicação da lei de enquadramento do Orçamento do Estado
 

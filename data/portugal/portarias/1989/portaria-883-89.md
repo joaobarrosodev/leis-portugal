@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23600/44574466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/883-1989-548982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:04:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c12349c68d1a7eeb693de679eaee563a02d57f51ce12952c05924930560f8b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7ce53dd0f448d533f9846a786571909854aafb5059a65821eebf4af36fcb887
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:04:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emolumento
+- Registo Comercial
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:620286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288404:por
+  label: "Alterado o art. 21º da tabela de emolumentos do registo comercial, pela PORT.1046/91.12.10.1991.MJ, DR.IS-B [235]\
+    \ de 12.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1046-1991-288404
+  date: '1991-10-12'
+- type: amended_by
+  target: pt:dre:674454:por
+  label: ADITADO UM ARTIGO 19 AO REGULAMENTO, PELA PORTARIA 1225/93, DE 23 DE NOVEMBRO, PUBLICADO NO DR.IS-B, 274, DE 931123.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1225-1993-674454
+  date: '1993-11-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADAS AS ALÍNEAS AU) E AO) AO ARTIGO 16 DO REGULAMENTO, APROVADO PELA PRESENTE PORTARIA, PELA PORTARIA 937/94,\
+    \ DE 24 DE OUTUBRO, PUBLICADA NO DR.IS-B, 246.\0BRO, PUBLICADA NO DR.IS-B, 246."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-24'
+- type: amended_by
+  target: pt:dre:492203:por
+  label: Alterada a redacção do art 23º da Tabela de Emolumentos, na redacção da Port 773/94, de 26-Ago, pelo DEC LEI.257/96.1996.12.31.MJ
+    DR.IS-A [302]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1996-492203
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:591086:por
+  label: "Alterados os arts. 16º e 17º-A do Regulamento do Registo Comercial, aprovado pelo presente diploma, com a redacção\
+    \ dada pelas Port 773/94 de 22-Ago e 937/94 de 24-Out, pela PORT.1269/2004.06.10.2004.MJ, DR.IS-B [235] de 06.10.2004\0\
+    04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1269-2004-591086
+  date: '2004-10-06'
+- type: amended_by
+  target: pt:dre:457217:por
+  label: "Alterados os arts. 14º e 16º do Regulamento do Registo Comercial aprovado pelo presente diploma, alterado pelas\
+    \ Port 773/94 de 26-Ago, 937/94 de 24-Out e 1269/2004 de 06-Out. pelo DEC LEI.2/2005.04.01.2005.MJ, DR.IS-A [2] de 04.01.2005\0\
+    05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2005-457217
+  date: '2005-01-04'
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383072:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:192988:por
+  label: Rectificada pela DECL.DD3545.1989.11.06.PCM DR.IS [276]SUPL DE 30/NOV/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-192988
+  date: '1989-11-06'
+- type: repealed_by
+  target: pt:dre:620286:por
+  label: "Revogado o Regulamento do Registo Comercial, aprovado pelo presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP,\
+    \ DR.IS-A [63-Supl] de 29.03.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
 article_structure:
   article_count: 42
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:04:00Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +163,7 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos n.os 2 do 
 
 Ministério da Justiça.
 
-**Assinada em 14 de Setembro de 1989.**
+Assinada em 14 de Setembro de 1989.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.
 
@@ -456,4 +523,4 @@ A presente Tabela aplica-se às entidades referidas no artigo 1.º do Código do
 
 2 - Em caso de dúvida sobre se é devido um ou outro emolumento, cobrar-se-á sempre o menor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23600/44574466.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23600/44574466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23600/44574466.pdf)

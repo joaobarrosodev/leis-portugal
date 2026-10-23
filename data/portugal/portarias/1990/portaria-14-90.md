@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/00700/00910091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-1990-313788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:13:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff3d35fc1716b36e8b8b8ab0ea8309fe93bd5f2337af21385a106141a22a2a00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f98f4c88b4d0f728a3f39985c64bb9b1a0ab9eb44263643971ff1b4706ae1cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:13:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificado de Qualidade
+- Controlo de Qualidade
+- Instituto Português da Qualidade
+- Laboratório
+- Marca
 relationships:
 - type: amended_by
   target: pt:dre:505779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311467:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:505779:por
+  label: "Revogada pela Port.134/97.1997.02.25.MECO DR.IS-B [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/134-1997-505779
+  date: '1997-02-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:13:52Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +133,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
 
 Ministério da Indústria e Energia.
 
-**Assinada em 20 de Dezembro de 1989.**
+Assinada em 20 de Dezembro de 1989.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO
 
@@ -129,12 +143,12 @@ Forma e condições de aplicação do símbolos «Laboratório Acreditado»
 
 1 - A forma e proporções do símbolo «Laboratório Acreditado» são as constantes da figura 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/00700/00910091.pdf))](https://files.diariodarepublica.pt/1s/1990/01/00700/00910091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/00700/00910091.pdf)
 
 2 - Nas reduções ou ampliações do símbolo «Laboratório Acreditado» devem ser considerados todos os elementos constantes da figura 1, não sendo permitido qualquer arranjo gráfico.
 
 3 - A figura 2 representa o símbolo «Laboratório Acreditado» na redução máxima aconselhável.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/00700/00910091.pdf))](https://files.diariodarepublica.pt/1s/1990/01/00700/00910091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/00700/00910091.pdf)
 
 4 - O símbolo «Laboratório Acreditado» deve ser reproduzido a preto ou cor forte sobre fundo branco ou de cor clara.

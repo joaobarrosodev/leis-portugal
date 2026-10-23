@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18200/31893192.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/639-1989-619332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T09:58:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcf408b18c622a523294426a9b3f6757f4c643623304f4bd369d732e2b2d288c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1943d6988a164292cb381afd9ebad9165c2c7ae1a5b8a49052fad0abf0e8c19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:58:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Coimbra
+- Curso de Engenharia Civil
+- Curso de Engenharia Electrotécnica
+- Curso de Engenharia Informática e de Sistemas
+- Curso de Engenharia Mecânica
+- Curso de Engenharia Química
+- Ensino Superior Politécnico
+- Instituto Politécnico
+- Instituto Superior de Engenharia
+- Plano de Estudos
 relationships:
+- type: amended_by
+  target: pt:dre:239203:por
+  label: "ALTERADOS OS PLANOS DE ESTUDOS, PELA PORTARIA 896/92, PUBLICADA NO DR.IS-B, 214, DE 920916.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/896-1992-239203
 - type: amended_by
   target: pt:dre:644681:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:557824:por
+  label: "Alterados o nº1 e os quadros dos anexos II e III ao presente diploma, pela PORT.828/90.12.09.1990.ME, DR.IS [211]\
+    \ de 12.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/828-1990-557824
+  date: '1990-09-12'
+- type: cites
+  target: pt:dre:354109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321562:por
+  label: "Revogada, findo o processo de transição previsto no art. 31º do Regulamento aprovado pela Port 413-A/98 de 17-Jul,\
+    \ pela PORT.377/99.1999.05.21.ME,DR.IS-B [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/377-1999-321562
+  date: '1999-05-21'
+- type: repealed_by
+  target: pt:dre:321564:por
+  label: "Revogada, findo o processo de transição previsto no art. 31º do Regulamento aprovado pela Port 413-A/98 de 17-Jul,\
+    \ pela PORT.378/99.1999.05.21.ME,DR.IS-B [118]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1999-321564
+  date: '1999-05-21'
+- type: repealed_by
+  target: pt:dre:321570:por
+  label: "Revogada, findo o processo de transição previsto no art. 31º do Regulamento aprovado pela Port 413-A/98 de 17-Jul,\
+    \ pela PORT.382/99.1999.05.21.ME,DR.IS-B [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-1999-321570
+  date: '1999-05-21'
+- type: repealed_by
+  target: pt:dre:692048:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, na parte que autorizou o Instituto Politécnico de Coimbra a conferir o grau de bacharel em Engenharia Electrotécnica,\
+    \ pela PORT.971/99.1999.10.30.ME, DR.IS-B [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/971-1999-692048
+  date: '1999-10-30'
+- type: repealed_by
+  target: pt:dre:644681:por
+  label: "Revogada, na parte em que autorizou o Instituto Politécnico de Coimbra, através do seu Instituto Superior de Engenharia,\
+    \ a conferir o grau de bacharel em Engenharia de Informática e de Sistemas, e findo o processo de transição fixado no\
+    \ art. 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado\
+    \ pela Port 413-A/98, de 17 de Julho, alterada pela Port 533-A/99, de 22 de Julho, pela PORT.1043/99.1999.11.26.ME DR.IS-B\
+    \ [276] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1043-1999-644681
+  date: '1999-11-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:58:03Z'
   warnings: []
   errors: []
 ---
@@ -144,8 +207,8 @@ Aplicação e regime de transição
 
 Ministério da Educação.
 
-**Assinada em 10 de Julho de 1989.**
+Assinada em 10 de Julho de 1989.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18200/31893192.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18200/31893192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18200/31893192.pdf)

@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/46-1989-610896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T09:53:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddd3e56cf8f99149c3800fee08c30ce32a57244fbc324d23f91b91d894ab46fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e619325c6dfe30aac7e3021eb1ca594ec1b3079c3ad308c125c3f5eb8a17ce7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:53:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Viação
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:138320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575362:por
+  label: "Alterado o quadro de pessoal da DGV pelo DEC LEI.212/90.27.06.1990.MOPTC, DR.IS [146] de 27.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-1990-575362
+  date: '1990-06-27'
+- type: amended_by
+  target: pt:dre:564855:por
+  label: "Alterado o quadro de pessoal pelo DN.159/90.29.11.1990.MF, DR.IS [276] de 29.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/159-1990-564855
+  date: '1990-11-29'
+- type: amended_by
+  target: pt:dre:647916:por
+  label: "Alterado o quadro de pessoal pela PORT.553/91.25.06.1991.MF, DR.IS-B [143] de 25.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-1991-647916
+  date: '1991-06-25'
+- type: amended_by
+  target: pt:dre:288439:por
+  label: "Alterado o quadro de pessoal de informática, pela PORT.1040/91.11.10.1991.MF, DR.IS-B [234] de 11.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1040-1991-288439
+  date: '1991-10-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, DA DIRECÇÃO GERAL DE VIAÇÃO, PELO DESPACHO NORMATIVO 88/94, DE 17 DE JANEIRO, PUBLICADO
+    NO DR.IS-B, 34, DE 940210.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 100/95 DE 02-FEV DR.IS-B [28].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-02-02'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:53:35Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +147,11 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 30 de Dezembro de 1988.**
+Assinada em 30 de Dezembro de 1988.
 
-**O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado dos Transportes Interiores, Carlos Alberto Pereira da Silva Costa.**
+O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado dos Transportes Interiores, Carlos Alberto Pereira da Silva Costa.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/02000/03080310.pdf))](https://files.diariodarepublica.pt/1s/1989/01/02000/03080310.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/02000/03080310.pdf)
 
 ## ANEXO II — Conteúdo funcional das carreiras técnica auxiliar e de desenhador
 

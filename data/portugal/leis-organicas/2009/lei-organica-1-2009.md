@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1/2009/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2009-602689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d81da51aa17e612e14638b6170258c29b867a15e0d759cb04f70690db85c9fe7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d27672da781b2a15f64aa631d602c2e1ee45536ff869d937fb60b276d6df541
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia Legislativa
 - Crime
+- Direito de Voto
 - Eleição Legislativa
 - Eleição Regional
-- Assembleia Legislativa
-- Sanção Penal
 - Madeira.região Autónoma
-- Direito de Voto
+- Sanção Penal
 relationships:
+- type: amends
+  target: pt:numero:lei-organica:1/2006
+  label: "Altera os artigos 80.º (sem prejuízo das particularidades previstas nos artigos 84.º a 87.º e 87.º-A) e 84.º da\
+    \ Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira, aprovada pela Lei Orgânica n.º 1/2006, de\
+    \ 13 de Fevereiro, DR.IS-A [31], que a republica em anexo, com as necessárias correcções materiais\0\0"
+  source: null
+  date: '2006-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/19/2003/06/20/p/dre
   label: null
@@ -86,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:168804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 177
+  article_count: 175
   section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:57Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +153,9 @@ Os artigos 80.º e 84.º da Lei Eleitoral para a Assembleia Legislativa da Regi�
 
 3 - O direito de sufrágio é exercido presencialmente pelo cidadão eleitor, sem prejuízo das particularidades previstas nos artigos 84.º a 87.º e 87.º-A.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - ...
 
@@ -158,7 +191,9 @@ Modo de exercício do direito de voto antecipado por eleitores deslocados no est
 
 3 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelas candidaturas que nomeiem delegados até ao 16.º dia anterior à eleição.
 
-###### Artigo 164.º-A — Desvio de voto antecipado
+Artigo 164.º-A
+
+Desvio de voto antecipado
 
 Aquele que extraviar, retiver ou não entregar a documentação para o exercício do voto antecipado ou o sobrescrito contendo o boletim de voto, nos casos previstos na lei, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.»
 
@@ -172,17 +207,17 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 28 de Novembro de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-**Promulgada em 30 de Dezembro de 2008.**
+Promulgada em 30 de Dezembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 31 de Dezembro de 2008.**
+Referendada em 31 de Dezembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira
 
@@ -1514,7 +1549,7 @@ Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois 
 
 ###### Artigo 159.º — Recusa de receber reclamações, protestos ou contraprotestos
 
-**O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto é punido com pena de prisão até 1 ano e pena de multa de (euro) 100 a (euro) 500.**
+O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto é punido com pena de prisão até 1 ano e pena de multa de (euro) 100 a (euro) 500.
 
 ###### Artigo 160.º — Não comparência da força armada
 
@@ -1586,6 +1621,6 @@ Ficam revogados os diplomas que disponham em coincidência ou em contrário com 
 
 Para os efeitos da Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira se declara que ... (nome do cidadão eleitor), residente em ..., portador do bilhete de identidade n.º ..., de ... de ... de ..., inscrito na assembleia de voto (ou secção de voto) de ..., com o n.º ..., exerceu antecipadamente o seu direito de voto no dia ... de ... de...
 
-**O Presidente da Câmara Municipal de ...**
+O Presidente da Câmara Municipal de ...
 
 ... (assinatura).

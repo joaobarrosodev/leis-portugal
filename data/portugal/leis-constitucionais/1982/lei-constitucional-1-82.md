@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92d2546b39bbb8133c98343da6aa70a22e9c201b94dea27028b349e823f545d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f40631fd75df1918aa84719108159fd4e192706c6774e217c72a93c54c49cb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Local
+- Administração Pública
+- Assembleia da República
+- Bandeira
+- Comissão Constitucional
+- Conselho da Revolução
+- Constituição
+- Dia 25 de Abril
+- Direito Constitucional
+- Direito Internacional
+- Direito Territorial
+- Direitos do Homem
+- Direitos e Liberdades
+- Direitos Económicos
+- Direitos Políticos
+- Direitos Sociais
+- Forças Armadas
+- Governo
+- Hino Nacional
+- Madeira.região Autónoma
+- Pide-dgs
+- Poder Judicial
+- Política Económica
+- Política Fiscal
+- Presidente da República
+- Reforma Agrária
+- Região Autónoma
+- Revisão Constitucional
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:506783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577358:por
+  label: "Alterada, nos termos seguintes, a Constituição da República Portuguesa aprovada pelo Dec de 02-Abr do PR DR.IS [86]\
+    \ de 10/Abr/1976 [DD66/76], com a redacção do presente diploma, pela Lei 1/2001 de 20-Nov DR.IS-A [286] de 12/Dez/200:\
+    \ Aditadas expressões conferindo nova redacção ao nº 6 do art. 7º, assim como aditado um nº 7 ao mesmo art.;Aditada uma\
+    \ expressão à epígrafe do art. 11º, bem como um nº 3;Substituídas algumas expressões no nº 3º do art. 15º, conferindo-lhe\
+    \ nova redacção;Alterada a numeração do nº 5 do art. 33º, que passa a constituir o nº 4 do mesmo art., aditado um novo\
+    \ nº 5 àquele art., alterada a numeração e a redacção do nº 4, que passa a constituir o nº 6, e a numeração dos nºs 6,\
+    \ 7 e 8 que passam a ser os nºs 7, 8 e 9 do mesmo art. 33º;Aditada nova expressão e nova redacção ao nº 3º do art. 6º;\
+    \ eAditadas e substituídas expressões ao art. 270º conferindo-lhe nova redacção.\0o.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-constitucional/1-2001-577358
+  date: '2001-11-20'
+- type: amended_by
+  target: pt:dre:506783:por
+  label: "Alterada a Constituição de 2 de Abril de 1976, publicada pelo Dec DD 66/76, de 10-Abr 1976, na redacção da presente\
+    \ Lei Const (1.ª Revisão), pela LEI CONST.1/2004.24.07.2004.AR, DR.IS-A [173] de 24.07.2004 (Sexta Revisão Constitucional)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-constitucional/1-2004-506783
+  date: '2004-07-24'
+- type: cites
+  target: pt:dre:310847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667568:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 53
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 57
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:11Z'
   warnings: []
   errors: []
 ---
@@ -638,7 +707,7 @@ e) O direito de tendência, nas formas que os respectivos estatutos determinarem
 
 2 - Os n.os 1 e 2 do artigo 59.º e o texto do artigo 60.º passam a constituir, respectivamente, os n.os 1, 2 e 3 do novo artigo 58.º
 
-###### ARTIGO 51.ºO artigo 61.º é substituído por:
+ARTIGO 51.ºO artigo 61.º é substituído por:
 
 ###### ARTIGO 61.º — (Iniciativa privada, cooperativa e autogestionária)
 
@@ -1224,7 +1293,7 @@ h) Os decretos regulamentares e os demais decretos e regulamentos do Governo, be
 
 O texto do artigo 123.º é substituído por:
 
-**O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.**
+O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.
 
 ###### ARTIGO 100.º
 
@@ -2840,7 +2909,7 @@ A eliminação do artigo 310.º da Constituição não prejudica a validade e a 
 
 ###### ARTIGO 245.º
 
-**O Presidente da República e a Assembleia da República designarão os membros do Conselho de Estado a que se referem, respectivamente, as alíneas g) e h) do novo artigo 145.º da Constituição até à data da entrada em vigor da presente lei de revisão, devendo todos aqueles membros tomar posse nessa mesma data.**
+O Presidente da República e a Assembleia da República designarão os membros do Conselho de Estado a que se referem, respectivamente, as alíneas g) e h) do novo artigo 145.º da Constituição até à data da entrada em vigor da presente lei de revisão, devendo todos aqueles membros tomar posse nessa mesma data.
 
 ###### ARTIGO 246.º
 
@@ -2868,13 +2937,13 @@ A Constituição da República Portuguesa de 2 de Abril de 1976, no seu novo tex
 
 Aprovada em 12 de Agosto de 1982.
 
-**O Presidente da Assembleia da República, Francisco Manuel Lopes Vieira de Oliveira Dias.**
+O Presidente da Assembleia da República, Francisco Manuel Lopes Vieira de Oliveira Dias.
 
-**Promulgada em 24 de Setembro de 1982.**
+Promulgada em 24 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA
 
@@ -2970,7 +3039,7 @@ e) Proteger e valorizar o património cultural do povo português, defender a na
 
 2. O Hino Nacional é A Portuguesa.
 
-# PARTE I — Direitos e deveres fundamentais
+## PARTE I — Direitos e deveres fundamentais
 
 ## TÍTULO I — Princípios gerais
 
@@ -3690,7 +3759,7 @@ e) Articular a política cultural e as demais políticas sectoriais.
 
 2. Incumbe ao Estado, em colaboração com as escolas e as associações e colectividades desportivas, promover, estimular, orientar e apoiar a prática e a difusão da cultura física e do desporto.
 
-# PARTE II — Organização económica
+## PARTE II — Organização económica
 
 ## TÍTULO I — Princípios gerais
 
@@ -3980,7 +4049,7 @@ b) O orçamento da segurança social.
 
 3. As associações de consumidores e as cooperativas de consumo têm direito, nos termos da lei, ao apoio do Estado e a ser ouvidas sobre as questões que digam respeito à defesa dos consumidores.
 
-# PARTE III — Organização do poder político
+## PARTE III — Organização do poder político
 
 ## TÍTULO I — Princípios gerais
 
@@ -4106,7 +4175,7 @@ h) Os decretos regulamentares e os demais decretos e regulamentos do Governo, be
 
 ###### ARTIGO 123.º — (Definição)
 
-**O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.**
+O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.
 
 ###### ARTIGO 124.º — (Eleição)
 
@@ -5590,7 +5659,7 @@ A lei pode estabelecer restrições ao exercício dos direitos de expressão, re
 
 7. Nenhum cidadão pode ser prejudicado na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do cumprimento do serviço militar ou do serviço cívico obrigatório.
 
-# PARTE IV — Garantia e revisão da Constituição
+## PARTE IV — Garantia e revisão da Constituição
 
 ## TÍTULO I — Garantia da Constituição
 
@@ -5812,4 +5881,4 @@ Os estatutos provisórios das regiões autónomas estarão em vigor até serem p
 
 2. A Constituição da República Portuguesa entra em vigor no dia 25 de Abril de 1976.
 
-**O Presidente da Assembleia da República, Francisco Manuel Lopes Vieira de Oliveira Dias.**
+O Presidente da Assembleia da República, Francisco Manuel Lopes Vieira de Oliveira Dias.

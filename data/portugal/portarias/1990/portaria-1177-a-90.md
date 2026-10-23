@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 278/1990, 1º Suplemento, Série I de 1990-12-03
   number: '278'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4964-(2) a 4964-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/27801/00020002.pdf
 entry_into_force_dates: []
@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1177-a-1990-628018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:11:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 897eba463fa634a6de41b6273022f151cf9e660ad5391c268ca64aec83c5914d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8428c84febdc649c1b636cfd0e10c296d61fb5d07f0cae504ec606760e672ed4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:11:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cereal
+- Importação
+- Preço
+- Preço de Campanha
+- Preço de Orientação
+- Preço Limiar
+relationships:
+- type: cites
+  target: pt:dre:274265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575491:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:11:34Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +143,6 @@ a) Para o trigo-mole, os preços estabelecidos na alínea a) do n.º 3, acrescid
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 3 de Dezembro de 1990.**
+Assinada em 3 de Dezembro de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.

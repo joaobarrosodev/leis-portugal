@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/807-1989-547468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fba915bf4db551849b03ecd14812e0b7d8d9f10fca7985d8aa317a604f7337f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70258b238ab733b92b0728da4853a8dd9f84461bfdf41528a8c2571b7528df67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso Superior de Artes
+- Curso Superior de Design
+- Escola Superior de Artes e Design
+- Matosinhos
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:561251:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644685:por
+  label: "Determinada, findo o processo de transição fixado no art. 31º do Regulamento aprovado pela Portaria 413-A/98 de\
+    \ 17 de Julho, alterada pela Portaria 533-A/99 de 22 de Julho, a caducidade da autorização de funcionamento do curso de\
+    \ bacharelato em Artes, cujo funcionamento foi autorizado pelo presente diploma, pela PORT.1046/99.1999.11.26.ME, DR.IS-B\
+    \ [276]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1046-1999-644685
+  date: '1999-11-26'
+- type: amended_by
+  target: pt:dre:561251:por
+  label: "Determinada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98,\
+    \ de 17-Jul, alterada pela Port 533-A/99, de 22-Jul, a caducidade da autorização de funcionamento do curso de bacharelato\
+    \ em Design, criado pelo presente diploma, pela PORT.893/2000.2000.09.27.ME DR.IS-B [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/893-2000-561251
+  date: '2000-09-27'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:59Z'
   warnings: []
   errors: []
 ---
@@ -115,10 +140,10 @@ Curso superior de Design (opções: Comunicação Visual, Equipamento, Têxtil, 
 
 Ministério da Educação.
 
-**Assinada em 9 de Agosto de 1989.**
+Assinada em 9 de Agosto de 1989.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 ## Anexo — Escola Superior de Artes e Design
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21000/39783979.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21000/39783979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21000/39783979.pdf)

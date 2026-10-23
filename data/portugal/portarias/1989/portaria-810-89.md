@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/21100/40004039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/810-1989-547581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7b28f7a5f0947b486524dbe38bc6556a05021cd60e37a3657ccb9322fdde574
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d686e38988298843611316ea5bfd094c83aaca34a0f112ab7221b68ce9ad1234
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Prática de Polícia
+- Escola Superior da Polícia
+- Fardamento
+- Heráldica
+- PSP
+- Simbolo de Identificação
+- Subsídio de Fardamento
 relationships:
 - type: amended_by
   target: pt:dre:333488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332006:por
+  label: "Aditado o art. 30º ao Plano de Uniformes da PSP pela PORT.275/90.12.04.1990.MAI, DR.IS [86] de 12.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/275-1990-332006
+  date: '1990-04-12'
+- type: amended_by
+  target: pt:dre:2201116:por
+  label: "Dada nova redacção ao nº. 12 do art. 9º e aditada uma al. f) ao nº. 6 do art. 10º do plano de uniformes pela PORT.295/2005(2ªSérie).17.02.2005.MAI,\
+    \ DR.IIS [52] de 15.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-2005-2201116
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:608692:por
+  label: "Dada nova redacção ao nº 12) do art. 9º e revogadas as als. e) e f) do nº 6) do art. 10º do Plano de Uniformes da\
+    \ Polícia de Segurança Pública, aprovado pelo presente diploma, com as alterações constantes da Port 295/2005(2ªsérie)\
+    \ de 15-Mar, pela PORT.523/2009.18.05.2009.MAI, DR.IS [95] de 18.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/523-2009-608692
+  date: '2009-05-18'
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430637:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333488:por
+  label: "Revogada pela PORT.634/2010.09.08.2010.MAI, DR.IS [153] de 09.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/634-2010-333488
+  date: '2010-08-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:02:07Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +142,7 @@ Manda o Governo, pelo Ministro da Administração Interna, ao abrigo do disposto
 
 Ministério da Administração Interna.
 
-**Assinada em 30 de Agosto de 1989.**
+Assinada em 30 de Agosto de 1989.
 
 Pelo Ministro da Administração Interna, José Manuel Branquinho de Oliveira Lobo, Secretário de Estado Adjunto do Ministro da Administração Interna.
 
@@ -104,21 +150,21 @@ Plano de uniformes da Polícia de Segurança Pública
 
 #### SECÇÃO I — Princípios gerais
 
-###### Artigo 1.º O presente plano de uniformes contém as regras a que deve obedecer a manufactura de todos os artigos de fardamento e calçado da Polícia de Segurança Pública (PSP), quanto à espécie, qualidade, dimensões, cores, feitios e acessórios, servindo, ainda, para identificar os seus utentes com a força policial a que pertencem, bem como a função hierárquica que desempenham.
+Artigo 1.º O presente plano de uniformes contém as regras a que deve obedecer a manufactura de todos os artigos de fardamento e calçado da Polícia de Segurança Pública (PSP), quanto à espécie, qualidade, dimensões, cores, feitios e acessórios, servindo, ainda, para identificar os seus utentes com a força policial a que pertencem, bem como a função hierárquica que desempenham.
 
-###### Art. 2.º Os elementos a quem este plano é aplicável são obrigados à sua inteira observância, não lhes sendo permitidas modificações de qualquer natureza.
+Art. 2.º Os elementos a quem este plano é aplicável são obrigados à sua inteira observância, não lhes sendo permitidas modificações de qualquer natureza.
 
-###### Art. 3.º Ao pessoal com funções policiais não é permitido usar em traje civil qualquer artigo de uniforme em vigor, não podendo os civis usar os uniformes, designações, insígnias ou emblemas próprios da PSP.
+Art. 3.º Ao pessoal com funções policiais não é permitido usar em traje civil qualquer artigo de uniforme em vigor, não podendo os civis usar os uniformes, designações, insígnias ou emblemas próprios da PSP.
 
-###### Art. 4.º O uso de uniforme é obrigatório para todos os elementos da PSP, quando em serviço, salvo os casos superiormente determinados.
+Art. 4.º O uso de uniforme é obrigatório para todos os elementos da PSP, quando em serviço, salvo os casos superiormente determinados.
 
-###### Art. 5.º Os dólmanes, casacos de abafo, camisas de trabalho e blusões usam-se sempre completamente abotoados e não é permitido o uso de correntes de relógio, cordões ou travincas por forma que sejam visíveis, salvo os que fizerem parte do uniforme.
+Art. 5.º Os dólmanes, casacos de abafo, camisas de trabalho e blusões usam-se sempre completamente abotoados e não é permitido o uso de correntes de relógio, cordões ou travincas por forma que sejam visíveis, salvo os que fizerem parte do uniforme.
 
-###### Art. 6.º O pessoal com funções policiais poderá usar, quando fardado, como distintivo de luto, um fumo no braço esquerdo.
+Art. 6.º O pessoal com funções policiais poderá usar, quando fardado, como distintivo de luto, um fumo no braço esquerdo.
 
-###### Art. 7.º As medalhas e condecorações policiais e militares serão usadas de harmonia com a legislação em vigor, não sendo permitido o uso de insígnias, emblemas e distintivos de qualquer natureza que não constem do presente plano de uniformes, com excepção das especialidades que forem tiradas em proveito e por interesse da própria PSP.
+Art. 7.º As medalhas e condecorações policiais e militares serão usadas de harmonia com a legislação em vigor, não sendo permitido o uso de insígnias, emblemas e distintivos de qualquer natureza que não constem do presente plano de uniformes, com excepção das especialidades que forem tiradas em proveito e por interesse da própria PSP.
 
-###### Art. 8.º Ao pessoal com funções policiais é proibido o uso de uniforme nas seguintes situações:
+Art. 8.º Ao pessoal com funções policiais é proibido o uso de uniforme nas seguintes situações:
 
 1) Quando tome parte em reuniões ou manifestações públicas que não constituam acto de serviço;
 
@@ -136,7 +182,7 @@ d) Incapaz pela Junta Superior de Saúde, desligado do serviço e aposentado;
 
 #### SECÇÃO II — Fardamento
 
-###### Art. 9.º Os artigos abaixo indicados estão descritos por ordem alfabética, para facilidade de consulta, e devem obedecer às seguintes condições:
+Art. 9.º Os artigos abaixo indicados estão descritos por ordem alfabética, para facilidade de consulta, e devem obedecer às seguintes condições:
 
 1) Anoraque, calça e capuz:
 
@@ -326,7 +372,7 @@ b) Calça azul-escura, sendo de feltro no avesso; aperta na cintura por meio de 
 
 #### SECÇÃO III — Distintivos e emblemas
 
-###### Art. 10.º Destinam-se a identificar o pessoal da PSP por especialidades, categorias, funções, unidades ou comandos a que pertence e são descritos por ordem alfabética, para facilidade de consulta, e cotados em centímetros:
+Art. 10.º Destinam-se a identificar o pessoal da PSP por especialidades, categorias, funções, unidades ou comandos a que pertence e são descritos por ordem alfabética, para facilidade de consulta, e cotados em centímetros:
 
 1) Braçais de funções de serviço. Usam-se no braço esquerdo e existem os seguintes:
 
@@ -472,7 +518,7 @@ c) Para guardas - os emblemas são iguais aos da alínea b), mas o emblema infer
 
 #### SECÇÃO IV — Armamento
 
-###### Art. 11.º O pessoal da PSP fará uso do armamento seguinte:
+Art. 11.º O pessoal da PSP fará uso do armamento seguinte:
 
 1) Cassetete (fig. 118) - todo de borracha, com uma nervura de aço interiormente, sendo todo coberto de calfe preto. Para os serviços de trânsito é igual, mas de cor branca;
 
@@ -486,7 +532,7 @@ c) Para guardas - os emblemas são iguais aos da alínea b), mas o emblema infer
 
 #### SECÇÃO V — Equipamento
 
-###### Art. 12.º O pessoal da PSP utilizará o seguinte equipamento:
+Art. 12.º O pessoal da PSP utilizará o seguinte equipamento:
 
 1) Algemas (fig. 120) - de duas argolas, de metal branco, compostas por dois semicírculos com fechadura incorporada e ligadas por dois elos metálicos. Encontram-se num estojo de cabedal preto e o seu uso será definido pelo comandante-geral;
 
@@ -538,7 +584,7 @@ b) Calça (fig. 138-A) - é feita do mesmo tecido do casado, também com faixas 
 
 #### SECÇÃO VI — Uniformes da PSP; sua designação e uso
 
-###### Art. 13.º Descrição dos uniformes:
+Art. 13.º Descrição dos uniformes:
 
 a) Uniforme de cerimónia - anexo 2;
 
@@ -562,50 +608,50 @@ j) Uniforme de desporto - anexo 11.
 
 #### SECÇÃO VII — Dotações e distribuição
 
-###### Art. 14.º As dotações dos vários artigos de uniforme dos alunos da Escola Superior de Polícia e da Escola Prática de Polícia são as seguintes:
+Art. 14.º As dotações dos vários artigos de uniforme dos alunos da Escola Superior de Polícia e da Escola Prática de Polícia são as seguintes:
 
 a) Na Escola Superior de Polícia, a dotação inicial será distribuída no princípio do curso e a dotação suplementar a entregar aos alunos que transitem para o 3.º ano;
 
 b) Na Escola Prática de Polícia, a distribuir no início do curso.
 
-###### Art. 15.º Os artigos de fardamento e distintivos, bem como a quantidade a distribuir pelas respectivas dotações, são as seguintes:
+Art. 15.º Os artigos de fardamento e distintivos, bem como a quantidade a distribuir pelas respectivas dotações, são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21100/40004039.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21100/40004039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21100/40004039.pdf)
 
 #### SECÇÃO VIII — Disposições gerais
 
-###### Art. 16.º - 1 - Os alunos da Escola Superior de Polícia e os guardas provisórios da Escola Prática de Polícia recebem o fardamento por conta do Estado e as dotações previstas no artigo 14.º
+Art. 16.º - 1 - Os alunos da Escola Superior de Polícia e os guardas provisórios da Escola Prática de Polícia recebem o fardamento por conta do Estado e as dotações previstas no artigo 14.º
 
 2 - O subsídio de fardamento a atribuir ao pessoal da PSP é o que vier a ser fixado em diploma próprio.
 
-###### Art. 17.º - 1 - Os alunos da Escola Superior de Polícia que solicitem a desistência do curso indemnizarão a Fazenda Nacional relativamente ao fardamento, em função dos anos de cursos que vão deixar de frequentar e atendendo à duração dos três tipos de dotação (cinco, três e um anos).
+Art. 17.º - 1 - Os alunos da Escola Superior de Polícia que solicitem a desistência do curso indemnizarão a Fazenda Nacional relativamente ao fardamento, em função dos anos de cursos que vão deixar de frequentar e atendendo à duração dos três tipos de dotação (cinco, três e um anos).
 
 2 - Se na altura do espólio do fardamento se verificar a falta de qualquer artigo, será cobrado na entrega o respectivo valor, sendo os preços a considerar os que vigoraram à data da distribuição.
 
-###### Art. 18.º - 1 - A duração do fardamento corresponderá ao tempo de permanência na Escola Superior de Polícia e no tirocínio.
+Art. 18.º - 1 - A duração do fardamento corresponderá ao tempo de permanência na Escola Superior de Polícia e no tirocínio.
 
 2 - Quaisquer substituições que os alunos pretendam efectuar ou que lhes venham a ser impostas pelo mau estado de fardamento serão da sua exclusiva responsabilidade.
 
-###### Art. 19.º Os planos de uniformes dos cadetes da Escola Superior de Polícia e dos guardas provisórios da Escola Prática de Polícia obedecem às normas fixadas para oficiais e guardas respectivamente.
+Art. 19.º Os planos de uniformes dos cadetes da Escola Superior de Polícia e dos guardas provisórios da Escola Prática de Polícia obedecem às normas fixadas para oficiais e guardas respectivamente.
 
-###### Art. 20.º Os artigos de uniforme são exclusivos da PSP, devendo os seus elementos apresentar declaração de venda nos serviços a que pertençam ou fazer ali a sua entrega, para lhe ser dado o devido destino, quando terminarem o exercício da acção policial, salvo se esses artigos não forem susceptíveis de criar qualquer confusão sobre uniformes.
+Art. 20.º Os artigos de uniforme são exclusivos da PSP, devendo os seus elementos apresentar declaração de venda nos serviços a que pertençam ou fazer ali a sua entrega, para lhe ser dado o devido destino, quando terminarem o exercício da acção policial, salvo se esses artigos não forem susceptíveis de criar qualquer confusão sobre uniformes.
 
-###### Art. 21.º O pagamento dos artigos de fardamento inutilizados por motivo do cumprimento de acto de serviço será suportado nos termos do [Decreto-Lei n.º 449/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1977-277290), de 27 de Outubro.
+Art. 21.º O pagamento dos artigos de fardamento inutilizados por motivo do cumprimento de acto de serviço será suportado nos termos do [Decreto-Lei n.º 449/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1977-277290), de 27 de Outubro.
 
-###### Art. 22.º O fardamento deve ser fabricado por firmas devidamente autorizadas, tendo em conta a qualidade, forma e cor dos padrões aprovados.
+Art. 22.º O fardamento deve ser fabricado por firmas devidamente autorizadas, tendo em conta a qualidade, forma e cor dos padrões aprovados.
 
-###### Art. 23.º A época estival é considerada de 1 de Junho a 30 de Setembro, para efeito do uso de uniforme, devendo os comandos publicar em ordem de serviço o seu início e termo, que podem ser alterados se houver vantagem, de harmonia com as condições climatéricas.
+Art. 23.º A época estival é considerada de 1 de Junho a 30 de Setembro, para efeito do uso de uniforme, devendo os comandos publicar em ordem de serviço o seu início e termo, que podem ser alterados se houver vantagem, de harmonia com as condições climatéricas.
 
-###### Art. 24.º O pessoal do Corpo de Intervenção e do Grupo de Operações Especiais pode fazer uso da boina, de modelo aprovado com todos os tipos de uniforme.
+Art. 24.º O pessoal do Corpo de Intervenção e do Grupo de Operações Especiais pode fazer uso da boina, de modelo aprovado com todos os tipos de uniforme.
 
-###### Art. 25.º O Grupo de Operações Especiais fará uso dos uniformes que superiormente lhe for determinado.
+Art. 25.º O Grupo de Operações Especiais fará uso dos uniformes que superiormente lhe for determinado.
 
-###### Art. 26.º Os cassetetes e os coldres serão substituídos à medida que a aquisição do novo material o permitir.
+Art. 26.º Os cassetetes e os coldres serão substituídos à medida que a aquisição do novo material o permitir.
 
-###### Art. 27.º Os oficiais do Exército que prestam serviço na PSP farão uso dos uniformes em vigor no Exército.
+Art. 27.º Os oficiais do Exército que prestam serviço na PSP farão uso dos uniformes em vigor no Exército.
 
-###### Art. 28.º O pessoal com funções policiais poderá usar o apito com corrente e travinca, presa ao passador doombro esquerdo e utilizando o bolso do mesmo lado, sendo o seu uso facultativo com todos os tipos de uniforme, com excepção do uniforme A e uniforme de cerimónia.
+Art. 28.º O pessoal com funções policiais poderá usar o apito com corrente e travinca, presa ao passador doombro esquerdo e utilizando o bolso do mesmo lado, sendo o seu uso facultativo com todos os tipos de uniforme, com excepção do uniforme A e uniforme de cerimónia.
 
-###### Art. 29.º Os abafos a usar, por oficiais, subchefes e guardas, quando o tempo o exigir e nas condições que forem estabelecidas são os seguintes:
+Art. 29.º Os abafos a usar, por oficiais, subchefes e guardas, quando o tempo o exigir e nas condições que forem estabelecidas são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21100/40004039.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21100/40004039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21100/40004039.pdf)

@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/542-1989-619744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T09:55:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bf22524f4eed789f4bc2eaf30ccb709e384f8be346a19a52d03a1c1cf9bb15c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4e271de5005e2a83b8482ae248018bc296a94b5df2c3dc6181da44f9f364686
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:55:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Publicidade e Marketing
+- Ensino Superior Politécnico
+- Instituto Politécnico
+- Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:623028:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616382:por
+  label: "Alterado o plano de estudos do curso aprovado pelo presente diploma, pela PORT.1132/92.10.12.1992.ME, DR.IS-B [284]\
+    \ de 10.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1132-1992-616382
+  date: '1992-12-10'
+- type: amended_by
+  target: pt:dre:526661:por
+  label: "Alterado o plano de estudos aprovado pelo presente diploma e aditado o Nº 1-A, pela Port.232/97.1997.04.03.ME DR.IS-B\
+    \ [78]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/232-1997-526661
+  date: '1997-04-03'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:623028:por
+  label: "Revogada, com a redacção dada pelas Port 1132792 de 10-Dez e 232/97 de 03-Abr, pela PORT.1045/2000.2000.10.27.ME\
+    \ DR.IS-B [249], nos termos do respectivo art. 3º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1045-2000-623028
+  date: '2000-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:55:37Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +166,7 @@ O curso entra em funcionamento progressivamente, ano curricular a ano curricular
 
 Ministério da Educação.
 
-**Assinada em 19 de Junho de 1989.**
+Assinada em 19 de Junho de 1989.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -155,16 +182,16 @@ QUADRO N.º 1
 
 Ano: 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15900/28002801.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15900/28002801.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15900/28002801.pdf)
 
 QUADRO N.º 2
 
 Ano: 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15900/28002801.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15900/28002801.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15900/28002801.pdf)
 
 QUADRO N.º 3
 
 Ano: 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15900/28002801.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15900/28002801.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15900/28002801.pdf)

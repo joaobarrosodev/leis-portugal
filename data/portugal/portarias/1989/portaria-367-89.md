@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/367-1989-610903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:51:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36d420f1f39ee60196c19e093652c6aa941da521280f3da02e6ea7f99138e113
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f2d1fb96e2e493c9a6db16e455dd0285f03e3729ea63fa7e8facf3b779227de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:51:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cálculo de Pensões
+- Coeficiente de Actualização
+- Contribuições da Segurança Social
+- Regime Geral da Segurança Social
+- Remuneração
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:289838:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:289838:por
+  label: "Substituída a tabela inserta no presente diploma, e determinada a aplicação do mesmo pela PORT.415-A/90.04.06.1990.MESS,\
+    \ DR.IS [128-Supl] de 04.06.1990, até à sua entrada em vigor.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/415-a-1990-289838
+  date: '1990-06-04'
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:51:21Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +146,10 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 2 de Maio de 1989.**
+Assinada em 2 de Maio de 1989.
 
-**O Secretário de Estado da Segurança Social, Arlindo Gomes de Carvalho.**
+O Secretário de Estado da Segurança Social, Arlindo Gomes de Carvalho.
 
 TABELA ANEXA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/11800/20422043.pdf))](https://files.diariodarepublica.pt/1s/1989/05/11800/20422043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/11800/20422043.pdf)

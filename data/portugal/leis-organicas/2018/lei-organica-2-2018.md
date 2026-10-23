@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/12800/0289502902.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2018/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2018-115643970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24dedce18b2b38f13a23a85befa9799df5dcee0caa8e103c3a90f029a0daf3bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ee476731dabe8dda50e66d16aec78e7d19b4422e3a8be60231fcfce2c6da2af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adopção
-- Família
-- Nacionalidade
-- Residência de Estrangeiros
+- Casamento
 - Cidadão Estrangeiro
 - Cidadão Nacional
+- Família
 - Filiação
 - Menoridade
+- Nacionalidade
 - Naturalização
-- Casamento
+- Residência de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:180657814:por
@@ -122,15 +122,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/leiorg/9/2015/07/29/p/dre
 article_structure:
-  article_count: 56
+  article_count: 49
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:33Z'
   warnings: []
   errors: []
 ---
@@ -177,11 +177,15 @@ g) ...
 
 4 - A prova da residência legal referida na alínea f) do n.º 1 faz-se mediante a exibição do competente documento de identificação do pai ou da mãe no momento do registo.
 
-###### Artigo 5.º — Aquisição por adoção
+Artigo 5.º
+
+Aquisição por adoção
 
 O adotado por nacional português adquire a nacionalidade portuguesa.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -227,7 +231,9 @@ a) Pelos serviços competentes portugueses;
 
 b) Pelos serviços competentes do país do nascimento, do país da nacionalidade e dos países onde tenha tido residência, desde que neles tenha tido residência após completar a idade de imputabilidade penal.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Constituem fundamento de oposição à aquisição da nacionalidade portuguesa por efeito da vontade:
 
@@ -243,7 +249,9 @@ d) ...
 
 3 - À prova da inexistência de condenação referida na alínea b) do n.º 1 é aplicável o disposto no n.º 10 do artigo 6.º
 
-###### Artigo 15.º — Residência
+Artigo 15.º
+
+Residência
 
 1 - ...
 
@@ -253,11 +261,15 @@ d) ...
 
 4 - Consideram-se igualmente como residindo legalmente no território português as crianças e jovens filhos de estrangeiros e acolhidos em instituição pública, cooperativa, social ou privada com acordo de cooperação com o Estado, na sequência de um processo de promoção e proteção.
 
-###### Artigo 29.º — Aquisição da nacionalidade por adotados
+Artigo 29.º
+
+Aquisição da nacionalidade por adotados
 
 Os adotados por nacional português, antes da entrada em vigor da presente lei, podem adquirir a nacionalidade portuguesa mediante declaração.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - A mulher que, nos termos da [Lei n.º 2098](https://diariodarepublica.pt/web/guest/pesquisa/-/search/431607/details/normal?l=1), de 29 de julho de 1959, e legislação precedente, tenha perdido a nacionalidade portuguesa por efeito do casamento, adquire-a:
 
@@ -281,7 +293,9 @@ Nulidade
 
 2 - O disposto no número anterior não é aplicável nos casos em que da declaração da nulidade resulte a apatridia do interessado.
 
-###### Artigo 12.º-B — Consolidação da nacionalidade
+Artigo 12.º-B
+
+Consolidação da nacionalidade
 
 1 - A titularidade de boa-fé de nacionalidade portuguesa originária ou adquirida durante, pelo menos, 10 anos é causa de consolidação da nacionalidade, ainda que o ato ou facto de que resulte a sua atribuição ou aquisição seja contestado.
 
@@ -315,15 +329,15 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 20 de abril de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 25 de junho de 2018.**
+Promulgada em 25 de junho de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 28 de junho de 2018.**
+Referendada em 28 de junho de 2018.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -680,3 +694,5 @@ O registo das alterações de nacionalidade por efeito de casamento ou por aquis
 ###### Artigo 40.º — Disposição revogatória
 
 É revogada a [Lei n.º 2098](https://diariodarepublica.pt/web/guest/pesquisa/-/search/431607/details/normal?l=1), de 29 de julho de 1959.
+
+111470794

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/201a00/55565557.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/4/2001/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2001-631839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fec5fbd1feb7936c281102f042fe3969cbc55e4da35091882edf62351d5d2e36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86e8523a4994e3498a485f711c10a751e6456f5ad88db971a66657bb88aa2f07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direito de Participação
-- Política de Defesa
+- Direito de Petição
+- Direito de Voto
+- Forças Armadas
 - Liberdade de Associação
 - Liberdade de Reunião
-- Forças Armadas
-- Direito de Petição
 - Militar
-- Direito de Voto
+- Política de Defesa
 relationships:
 - type: amended_by
   target: pt:dre:169256654:por
@@ -100,16 +100,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/1998/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/1998/08/18/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461220:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogada a Lei 29/82 de 11-Dez, alterada pela presente lei, pela LEI.31-A/2009.07.07.2009.AR, DR.IS [129-Supl] de\
+    \ 07.07.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2009-07-07'
+- type: repealed_by
+  target: pt:dre:345292:por
+  label: "Revogada a Lei 29/82 de 11-Dez, alterada pelo presente diploma, pela LEI ORG.1-B/2009 (publicada anteriormente como\
+    \ Lei 31-A/2009 e posteriormente rectificada).07.07.2009.AR, DR.IS [129-Supl] de 07.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-a-2009-345292
+  date: '2009-07-07'
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:27Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +190,9 @@ Liberdade de expressão
 
 2 - Os cidadãos referidos no artigo 31.º estão sujeitos a dever de sigilo relativamente às matérias cobertas pelo segredo de justiça ou pelo segredo de Estado e, ainda, por quaisquer outros sistemas de classificação de matérias, e, ainda, quanto aos factos de que se tenha conhecimento, em virtude do exercício da função, nomeadamente os referentes ao dispositivo, à capacidade militar, ao equipamento e à actividade operacional das Forças Armadas, bem como os elementos constantes de centros de dados e demais registos sobre o pessoal que não devam ser do conhecimento público.
 
-###### Artigo 31.º-B — Direito de reunião
+Artigo 31.º-B
+
+Direito de reunião
 
 1 - Os cidadãos referidos no artigo 31.º podem, desde que trajem civilmente e sem ostentação de qualquer símbolo das Forças Armadas, convocar ou participar em qualquer reunião legalmente convocada que não tenha natureza político-partidária ou sindical.
 
@@ -158,21 +200,29 @@ Liberdade de expressão
 
 3 - O exercício do direito de reunião não pode prejudicar o serviço normalmente atribuído ao militar, nem a permanente disponibilidade deste para o mesmo, nem ser exercido dentro das unidades, estabelecimentos e órgãos militares.
 
-###### Artigo 31.º-C — Direito de manifestação
+Artigo 31.º-C
+
+Direito de manifestação
 
 Os cidadãos referidos no artigo 31.º, desde que estejam desarmados e trajem civilmente sem ostentação de qualquer símbolo nacional ou das Forças Armadas, têm o direito de participar em qualquer manifestação legalmente convocada que não tenha natureza político-partidária ou sindical, desde que não sejam postas em risco a coesão e a disciplina das Forças Armadas.
 
-###### Artigo 31.º-D — Liberdade de associação
+Artigo 31.º-D
+
+Liberdade de associação
 
 1 - Os cidadãos referidos no artigo 31.º têm o direito de constituir qualquer associação, nomeadamente associações profissionais, excepto se as mesmas tiverem natureza política, partidária ou sindical.
 
 2 - O exercício do direito de associação profissional é regulado em lei própria.
 
-###### Artigo 31.º-E — Direito de petição colectiva
+Artigo 31.º-E
+
+Direito de petição colectiva
 
 Os cidadãos referidos no artigo 31.º têm o direito de promover ou apresentar petições colectivas dirigidas aos órgãos de soberania ou a quaisquer outras autoridades, desde que as mesmas não incidam sobre a condução da política de defesa nacional, não ponham em risco a coesão e a disciplina das Forças Armadas nem desrespeitem o dever de isenção política e sindical ou o apartidarismo dos seus elementos.
 
-###### Artigo 31.º-F — Capacidade eleitoral passiva
+Artigo 31.º-F
+
+Capacidade eleitoral passiva
 
 1 - Os cidadãos referidos no artigo 31.º que, em tempo de paz, pretendam concorrer a eleições para os órgãos de soberania, de governo próprio das Regiões Autónomas e do poder local, bem como para deputado ao Parlamento Europeu, devem, previamente à apresentação da candidatura, requerer a concessão de uma licença especial, declarando a sua vontade de ser candidato não inscrito em qualquer partido político.
 
@@ -214,14 +264,14 @@ Mantém-se em vigor o disposto no n.º 12 do artigo 31.º da [Lei n.º 29/82](ht
 
 Aprovada em 17 de Julho de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Promulgada em 17 de Agosto de 2001.**
+Promulgada em 17 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 20 de Agosto de 2001.**
+Referendada em 20 de Agosto de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

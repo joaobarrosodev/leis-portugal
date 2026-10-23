@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/07700/0160601647.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1/2018/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2018-115138846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9564ab7c52e6d2ab33456ba6eed1379b15945af8e1919886e56202af1037a242
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1924a382967106a92fd552b53b44b53282909073c61422ccf98249217159cef8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Parlamentar
-- Financiamento
+- Açores
+- Assembleia da República
+- Assembleia Legislativa
 - Campanha Eleitoral
 - Contabilidade
-- Multa
 - Contra-ordenação
 - Definição de Competências
 - Entidade das Contas e Financiamentos Políticos
+- Financiamento
 - Fiscalização
-- Presidente da República
 - Grupo Parlamentar
-- Tribunal Constitucional
 - Legalidade
-- Assembleia Legislativa
-- Orgânica
-- Assembleia da República
-- Partido Político
-- Prestação de Contas
 - Madeira.região Autónoma
-- Receita
 - Ministério Público
-- Açores
+- Multa
+- Orgânica
+- Parlamentar
+- Partido Político
+- Presidente da República
+- Prestação de Contas
+- Receita
+- Recurso
+- Tribunal Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:177088811:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Determinado que, em 2019, não são atualizadas as subvenções atribuídas a cada grupo parlamentar, ao Deputado único
+    representante de um partido e ao Deputado não inscrito em grupo parlamentar da Assembleia da República previstas no art.
+    5.º da Lei 19/2003 de 20-jun, na versão republicada pelo presente diploma, pelo(a) Lei n.º 71/2018 - Diário da República
+    n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:124680587:por
+  label: Alterados, nos termos do art. 7.º, os arts. 11.º-A, 106.º, 107.º, 108.º, 109.º, 110.º e 111.º, bem como procedida
+    a seguinte alteração sistemática ( O subcapítulo vi do capítulo iii do título iii da Lei n.º 28/82, de 15 de novembro,
+    passa a denominar-se «Processos relativos a titulares de cargos públicos», integrando os artigos 106.º a 111.º; É suprimido
+    o subcapítulo vii do capítulo iii do título iii da Lei n.º 28/82, de 15 de novembro) e revogados os arts. 112.º e 113.º
+    da lei 28/82, de 15-nov , na versão republicada pelo presente diploma, pelo(a) Lei Orgânica n.º 4/2019 - Diário da República
+    n.º 176/2019, Série I de 2019-09-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/4-2019-124680587
+  date: '2019-09-13'
+- type: amended_by
+  target: pt:dre:177088811:por
+  label: Aditados os arts. 7.º-B e 91.º-C, e alterada a sistemática referente ao subcap. I-A do cap. III do tít. III, que
+    passa a denominar-se «Processos relativos à perda de mandato de Deputados», todos da Lei 28/82 de 15-nov, na versão republicada
+    pelo presente diploma, pelo(a) Lei Orgânica n.º 1/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04, nos termos
+    dos efeitos estabelecidos no seu art. 5.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2022-177088811
+  date: '2022-01-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
   label: null
@@ -136,16 +162,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/5/2015/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/5/2015/04/10/p/dre
+- type: corrected_by
+  target: pt:dre:115524261:por
+  label: Retificado o art. 5.º e o n.º 9 do art. 12.º do Anexo III (a que se refere o n.º 3 do art. 9.º, Republicação da Lei
+    19/2003 de 20-jun) do presente diploma, pelo(a) Declaração de Retificação n.º 17/2018 - Diário da República n.º 115/2018,
+    Série I de 2018-06-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/17-2018-115524261
+  date: '2018-06-18'
 article_structure:
-  article_count: 317
+  article_count: 281
   section_count: 51
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:32Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +219,9 @@ h) Apreciar, em sede de recurso, as decisões da Entidade das Contas e Financiam
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -202,7 +237,9 @@ e) Apreciar, em sede de recurso de plena jurisdição, em plenário, as decisõe
 
 f) ...
 
-###### Artigo 103.º-A — Apreciação de recurso de aplicação de coima em matéria de contas dos partidos políticos
+Artigo 103.º-A
+
+Apreciação de recurso de aplicação de coima em matéria de contas dos partidos políticos
 
 1 - Recebido o recurso pelo Tribunal Constitucional, o mesmo dá vista ao Ministério Público para que este se pronuncie no prazo de 10 dias com direito a resposta pelo recorrente no mesmo prazo.
 
@@ -210,7 +247,9 @@ f) ...
 
 3 - A apresentação de recurso implica o efeito suspensivo da decisão recorrida.
 
-###### Artigo 103.º-B — [...]
+Artigo 103.º-B
+
+[...]
 
 1 - Quando, decorrido o prazo estabelecido no n.º 1 do artigo 26.º da [Lei n.º 19/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/692850/details/normal?l=1), de 20 de junho, se verificar que não foram apresentadas as contas relativas ao ano anterior, por partido político com direito a subvenção estatal, o presidente da ECFP comunica o facto ao Presidente da Assembleia da República para o efeito previsto no n.º 7 do artigo 29.º da mesma lei.
 
@@ -218,7 +257,9 @@ f) ...
 
 3 - Num e noutro caso, é dado conhecimento ao partido político em causa, pelo presidente da ECFP, das comunicações efetuadas pelo Presidente da Assembleia da República.
 
-###### Artigo 103.º-F — [...]
+Artigo 103.º-F
+
+[...]
 
 ...
 
@@ -264,7 +305,9 @@ Os artigos 6.º, 12.º, 14.º-A, 15.º, 16.º, 19.º, 20.º, 23.º, 24.º, 26.º
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -286,7 +329,9 @@ Os artigos 6.º, 12.º, 14.º-A, 15.º, 16.º, 19.º, 20.º, 23.º, 24.º, 26.º
 
 10 - Para efeitos da necessária apreciação e fiscalização, a que se referem os artigos 23.º e seguintes, com as necessárias adaptações, os deputados não inscritos em grupo parlamentar da Assembleia da República e os deputados independentes das Assembleias Legislativas das Regiões Autónomas apresentam, à Entidade das Contas e Financiamentos Políticos, as contas relativas às subvenções auferidas, nos termos da presente lei.
 
-###### Artigo 14.º-A — [...]
+Artigo 14.º-A
+
+[...]
 
 1 - ...
 
@@ -300,7 +345,9 @@ c) Os candidatos a Presidente da República.
 
 3 - O número de identificação fiscal próprio referido no número anterior é atribuído, uma vez admitida a candidatura, no início de cada campanha eleitoral e expira com a apresentação das respetivas contas à Entidade das Contas e Financiamentos Políticos.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -312,7 +359,9 @@ c) Os candidatos a Presidente da República.
 
 5 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -326,7 +375,9 @@ c) Os candidatos a Presidente da República.
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -338,7 +389,9 @@ c) Os candidatos a Presidente da República.
 
 5 - As despesas realizadas no dia de eleições com a apresentação ao público e à comunicação social da reação política aos resultados são consideradas despesas de campanha eleitoral.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -350,7 +403,9 @@ c) Os candidatos a Presidente da República.
 
 5 - Para determinação dos valores referenciados no n.º 1, devem os partidos políticos ou coligações declarar à Entidade das Contas e Financiamentos Políticos o número de candidatos apresentados relativamente a cada ato eleitoral.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O Tribunal Constitucional pronuncia-se, em sede de recurso, sobre as coimas aplicadas nos termos da presente lei.
 
@@ -362,7 +417,9 @@ c) Os candidatos a Presidente da República.
 
 5 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - A Entidade das Contas e Financiamentos Políticos é um órgão independente que funciona junto do Tribunal Constitucional e tem como funções a apreciação e fiscalização das contas dos partidos políticos e das campanhas eleitorais, bem como a aplicação das respetivas coimas.
 
@@ -380,7 +437,9 @@ c) Os candidatos a Presidente da República.
 
 8 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Até ao fim do mês de maio, os partidos enviam à Entidade das Contas e Financiamentos Políticos, para apreciação, as contas relativas ao ano anterior.
 
@@ -390,7 +449,9 @@ c) Os candidatos a Presidente da República.
 
 4 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - No prazo máximo de 90 dias, no caso das eleições autárquicas, e de 60 dias, nos demais casos, após o pagamento integral da subvenção pública, cada candidatura presta à Entidade das Contas e Financiamentos Políticos as contas discriminadas da sua campanha eleitoral, nos termos da presente lei.
 
@@ -404,7 +465,9 @@ c) Os candidatos a Presidente da República.
 
 6 - A Entidade das Contas e Financiamentos Políticos, quando verificar qualquer irregularidade nas contas, deve notificar a candidatura para apresentar, no prazo de 30 dias, as contas devidamente regularizadas.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -420,7 +483,9 @@ c) Os candidatos a Presidente da República.
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - A Entidade das Contas e Financiamentos Políticos é competente para a aplicação das coimas previstas no presente capítulo.
 
@@ -452,7 +517,9 @@ Os artigos 2.º, 9.º, 11.º, 17.º, 18.º, 20.º, 21.º, 22.º, 25.º, 27.º, 2
 
 A Entidade das Contas e Financiamentos Políticos, adiante designada por Entidade, é um órgão independente que funciona junto do Tribunal Constitucional e tem como atribuição a apreciação e fiscalização das contas dos partidos políticos e das campanhas eleitorais para Presidente da República, para a Assembleia da República, para o Parlamento Europeu, para as Assembleias Legislativas das Regiões Autónomas e para as autarquias locais.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -468,17 +535,23 @@ d) Decidir acerca da regularidade e legalidade das contas dos partidos político
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A Entidade pode emitir recomendações genéricas, com caráter objetivo e estritamente vinculadas à lei, dirigidas a uma ou mais entidades cujas contas estejam sujeitas aos seus poderes de controlo e fiscalização.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Até ao último dia do prazo para entrega das candidaturas, os candidatos, partidos, coligações e grupos de cidadãos eleitores apresentam à Entidade o seu orçamento de campanha.
 
 2 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Anualmente, os partidos políticos apresentam à Entidade, em suporte escrito e informático, as respetivas contas, devendo, no ano anterior, comunicar à Entidade o seu responsável, quer seja pessoa singular ou órgão interno do partido.
 
@@ -488,7 +561,9 @@ A Entidade pode emitir recomendações genéricas, com caráter objetivo e estri
 
 4 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A Entidade deve disponibilizar no sítio na Internet do Tribunal Constitucional toda a informação relativa a seu respeito, nomeadamente as normas que a regulam e a sua composição, incluindo os elementos biográficos dos seus membros e a legislação aplicável ao financiamento dos partidos políticos e das campanhas eleitorais.
 
@@ -506,7 +581,9 @@ e) Os acórdãos do Tribunal Constitucional proferidos em sede de recurso das de
 
 f) As decisões da Entidade em matéria de regularidade e legalidade das contas dos partidos políticos e das campanhas eleitorais.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A Entidade envia para publicação gratuita na 2.ª série do Diário da República o seguinte:
 
@@ -520,25 +597,35 @@ c) As suas decisões em matéria de regularidade e legalidade das contas dos par
 
 3 - O Tribunal Constitucional envia para publicação na 2.ª série do Diário da República os acórdãos proferidos em sede de recurso das decisões da Entidade em matéria de regularidade e legalidade das contas dos partidos políticos e das campanhas eleitorais.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 A prescrição do procedimento pelas contraordenações previstas na [Lei n.º 19/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/692850/details/normal?l=1), de 20 de junho, e na presente lei suspende-se, para além dos casos previstos na lei, até à emissão das decisões previstas nos artigos 28.º e 39.º
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Os partidos políticos enviam à Entidade, para apreciação, as suas contas anuais, no prazo previsto no n.º 1 do artigo 26.º da [Lei n.º 19/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/692850/details/normal?l=1), de 20 de junho.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 No âmbito da instrução dos processos, a Entidade realiza auditoria à contabilidade dos partidos políticos, circunscrita, no seu âmbito, objetivos e métodos, aos aspetos relevantes para o exercício da sua competência.
 
-###### Artigo 28.º — Incumprimento da obrigação de entrega de contas dos partidos políticos
+Artigo 28.º
+
+Incumprimento da obrigação de entrega de contas dos partidos políticos
 
 1 - No caso de omissão de apresentação de contas, a Entidade verifica a ocorrência de qualquer circunstância que permita excluir, quanto aos partidos em questão, a relevância do incumprimento da referida obrigação legal.
 
 2 - A Entidade decide, quanto a cada partido, se estava ou não sujeito à obrigação legal de apresentação de contas, aplicando as sanções previstas na lei.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Tendo em conta as respostas dos partidos políticos, nos termos do n.º 5 do artigo 30.º, a Entidade decide, relativamente a cada partido, num dos seguintes sentidos:
 
@@ -556,7 +643,9 @@ c) ...
 
 5 - A Entidade notifica os partidos políticos da decisão a que se refere o n.º 1.
 
-###### Artigo 33.º — Decisão sobre as contraordenações em matéria de contas dos partidos políticos
+Artigo 33.º
+
+Decisão sobre as contraordenações em matéria de contas dos partidos políticos
 
 1 - A Entidade notifica os partidos políticos sobre a sua intenção de decisão acerca das contraordenações em matéria de contas dos partidos políticos.
 
@@ -564,17 +653,23 @@ c) ...
 
 3 - Findo o prazo previsto no n.º 2, a Entidade decide do sancionamento ou não dos partidos políticos, bem como das coimas a aplicar.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Cada candidatura presta à Entidade as contas discriminadas da sua campanha eleitoral, no prazo previsto no n.º 1 do artigo 27.º da [Lei n.º 19/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/692850/details/normal?l=1), de 20 de junho.
 
 2 - ...
 
-###### Artigo 36.º — Instrução e apreciação
+Artigo 36.º
+
+Instrução e apreciação
 
 Após a receção das contas das campanhas eleitorais, a Entidade procede à instrução do processo e apreciação.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -582,13 +677,17 @@ Após a receção das contas das campanhas eleitorais, a Entidade procede à ins
 
 3 - O prazo para a Entidade se pronunciar sobre a regularidade e a legalidade das contas da campanha suspende-se até à receção da conta de âmbito local.
 
-###### Artigo 39.º — Incumprimento da obrigação de entrega de contas das campanhas eleitorais
+Artigo 39.º
+
+Incumprimento da obrigação de entrega de contas das campanhas eleitorais
 
 1 - No caso de omissão de apresentação de contas, a Entidade verifica a ocorrência de qualquer circunstância que permita excluir, quanto às candidaturas em questão, a relevância do incumprimento da referida obrigação legal.
 
 2 - A Entidade decide, quanto a cada candidatura, se estava ou não sujeita à obrigação legal de apresentação de contas, aplicando as sanções previstas na lei.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - A Entidade decide do cumprimento da obrigação de prestação de contas das campanhas eleitorais e da existência ou não de irregularidades nas mesmas.
 
@@ -596,7 +695,9 @@ Após a receção das contas das campanhas eleitorais, a Entidade procede à ins
 
 3 - A Entidade notifica os partidos políticos da decisão a que se refere o n.º 1.
 
-###### Artigo 44.º — Decisão sobre as contraordenações em matéria de contas das campanhas eleitorais
+Artigo 44.º
+
+Decisão sobre as contraordenações em matéria de contas das campanhas eleitorais
 
 1 - A Entidade notifica as candidaturas sobre a sua intenção de decisão das contraordenações em matéria de contas das campanhas eleitorais.
 
@@ -604,7 +705,9 @@ Após a receção das contas das campanhas eleitorais, a Entidade procede à ins
 
 3 - Findo o prazo previsto no n.º 2, a Entidade decide da aplicação ou não das sanções previstas na lei.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - A Entidade é competente para aplicar as sanções previstas na presente lei e na [Lei n.º 19/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/692850/details/normal?l=1), de 20 de junho, com ressalva das sanções penais.
 
@@ -616,7 +719,9 @@ Após a receção das contas das campanhas eleitorais, a Entidade procede à ins
 
 5 - A Entidade pode revogar ou sustentar a sua decisão, caso em que remete os autos ao Tribunal Constitucional.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Os mandatários financeiros, os candidatos às eleições presidenciais, os primeiros candidatos de cada lista e os primeiros proponentes de grupos de cidadãos eleitores que violem os deveres previstos nos artigos 15.º, 16.º e 46.º-A são punidos com coima mínima no valor de 2 salários mínimos mensais nacionais e máxima no valor de 32 salários mínimos mensais nacionais.
 
@@ -662,17 +767,17 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 2 de março de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 24 de março de 2018.**
+Promulgada em 24 de março de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 5 de abril de 2018.**
+Referendada em 5 de abril de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 9.º)
 
@@ -1348,7 +1453,7 @@ A decisão em que o Tribunal Constitucional se pronuncie pela inconstitucionalid
 
 ###### Artigo 64.º-A — Requisição de elementos
 
-**O Presidente do Tribunal, o relator ou o próprio Tribunal podem requisitar a quaisquer órgãos ou entidades os elementos que julguem necessários ou convenientes para a apreciação do pedido e a decisão do processo.**
+O Presidente do Tribunal, o relator ou o próprio Tribunal podem requisitar a quaisquer órgãos ou entidades os elementos que julguem necessários ou convenientes para a apreciação do pedido e a decisão do processo.
 
 ###### Artigo 65.º — Formação da decisão
 
@@ -3233,3 +3338,5 @@ As notificações aos partidos, mandatários financeiros, candidatos às eleiç�
 ###### Artigo 49.º — Entrada em vigor
 
 (Revogado.)
+
+111265589

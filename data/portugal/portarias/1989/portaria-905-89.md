@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/905-1989-549007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:04:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59c602b6dd8c8da0c258c962e7d399b6c9f02a8daed1c3f987b700db88473335
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcd56159315b719243d5f22d2603a4423b2b97415d38fbf91fbb8cd17596a531
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:04:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Alfândegas
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:523840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:04:34Z'
   warnings: []
   errors: []
 ---
@@ -100,10 +122,10 @@ Manda o Governo, pelo Ministro das Finanças, que o quadro de pessoal da Direcç
 
 Ministério das Finanças.
 
-**Assinada em 27 de Setembro de 1989.**
+Assinada em 27 de Setembro de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.
 
 Mapa anexo à Portaria n.º 905/89
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23900/45354536.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23900/45354536.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23900/45354536.pdf)

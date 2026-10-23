@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/12400/20912094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/382-1989-610011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:51:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 848a7111940609a3daba06bc30b7ba9965f0e4486b71913d9b838bbb2fef33ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c1b35fa53e3e6e1fad906d5bcc87f802b662616ab0fb49c3c485358581576c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:51:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Navegação Marítima
+- Pilotagem
+- Regulamento dos Serviços e Taxas de Pilotagem
+- TAXA de Pilotagem
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA PELA PORTARIA NUMERO 36/91, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SERIE-B, NUMERO 12, DE 15/1/91.\0/1/91.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:485049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:495899:por
+  label: Alterada a al. a) do n.º 2 do art 11.º do Regulamento pelo(a) Portaria n.º 36/91 - Diário da República n.º 12/1991,
+    Série I-B de 1991-01-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-1991-495899
+  date: '1991-01-15'
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610762:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485049:por
+  label: "Revogada pelo DEC LEI.200/98.1998.07.10.MEPAT DR.IS-A [157], com a entrada em vigor dos regulamentos a que se refere\
+    \ o seu n&#186; 2 do art. 2&#186;\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1998-485049
+  date: '1998-07-10'
 article_structure:
   article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:51:42Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +134,9 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 24 de Abril de 1989.**
+Assinada em 24 de Abril de 1989.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
 REGULAMENTO DOS SERVIÇOS E TAXAS DE PILOTAGEM
 
@@ -204,7 +232,7 @@ c) Três horas, quando o serviço requisitado tiver duração superior a esse pe
 
 1 - O valor das taxas previstas nas alíneas a) a e) do artigo 9.º é calculado segundo a fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/12400/20912094.pdf))](https://files.diariodarepublica.pt/1s/1989/05/12400/20912094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/12400/20912094.pdf)
 
 2 - Para a aplicação da fórmula do número anterior estabelece-se:
 
@@ -272,4 +300,4 @@ c) 100% da taxa correspondente, se a anulação tiver lugar após o limite previ
 
 ## ANEXO — Mapa dos valores do coeficiente Cn, referidos na alínea b) do n.º 2 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/12400/20912094.pdf))](https://files.diariodarepublica.pt/1s/1989/05/12400/20912094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/12400/20912094.pdf)

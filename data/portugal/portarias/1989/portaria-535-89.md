@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/535-1989-619570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T09:55:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3793f41176acf885b666313937cd1d97474b5316ecbe4d88bf0a30862142d895
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d894c3175995de7532088eef72e573d94c4aec7f3234059f8ec1dea2b5ea3c08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:55:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Santarém
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:520792:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475567:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.642/95.1995.06.22.MA DR.IS-B [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-1995-475567
+  date: '1995-06-22'
+- type: amended_by
+  target: pt:dre:393582:por
+  label: "Suspenso o exercício da caça pela PORT.760/2001.2001.07.21.MADRP DR.IS-B [168]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/760-2001-393582
+  date: '2001-07-21'
+- type: amended_by
+  target: pt:dre:371031:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.526/2002.2002.05.03.MADRP DR.IS-B [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/526-2002-371031
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:545428:por
+  label: "Anexados vários prédios rústicos à zona de caça criada no presente diploma, com a renovação constante da Port 526/2002\
+    \ de 03-Mai, pela PORT.1362/2006.04.12.2006.MADRP, DR.IS [232] de 04.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1362-2006-545428
+  date: '2006-12-04'
+- type: amended_by
+  target: pt:dre:520792:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça, concessionada pelo presente diploma, renovada\
+    \ pelas Ports. 642/95 de 22-Jun, 526/2002 de 03-Mai, alterada pela Port 1362/2006 de 04-Dez, pela PORT.598/2007.18.05.2007.MADRP,\
+    \ DR.IS [96] de 18.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/598-2007-520792
+  date: '2007-05-18'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:55:28Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +156,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 21 de Junho de 1989.**
+Assinada em 21 de Junho de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15800/27902791.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15800/27902791.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15800/27902791.pdf)

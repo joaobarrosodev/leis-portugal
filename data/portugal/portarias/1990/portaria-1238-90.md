@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1238-1990-564186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:13:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 779baeda65da20675b6983ff87b9e9815f0db3c9189dd7e86e9c2fd786fda8d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0922cfac502ab3e24d678ef1e16d858c8be19161a59f3f8fc1b199c7b7b0955
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:13:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Coimbra
+- Mealhada
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:491178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492460:por
+  label: "Renovada a concessão da zona de caça pela Port.346-C/97.1997.05.22.MADRP, DR.IS-B [118]-Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-c-1997-492460
+  date: '1997-05-22'
+- type: amended_by
+  target: pt:dre:176021:por
+  label: "Suspensa a exploração cinegética na zona de caça constituída pelo presente diploma, cuja concessão foi renovada\
+    \ pela Port 346-C/97 de 22-Mai, pela PORT.250/98.1998.04.23.MADRP, DR.IS-B [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/250-1998-176021
+  date: '1998-04-23'
+- type: amended_by
+  target: pt:dre:222817:por
+  label: "Integrados novos prédios rústicos à zona de caça criada pelo presente diploma, renovada pela Port 346-C/97 de 22-Mai,\
+    \ e substituída a planta anexa a este último diploma, pela PORT.432/2004.26.04.2004.MADRP, DR.IS-B [98] de 26.04.2004\0\
+    04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/432-2004-222817
+  date: '2004-04-26'
+- type: amended_by
+  target: pt:dre:491178:por
+  label: "Extinta, a zona de caça associativa do Norte de Coimbra, concessionada pelo presente diploma, alterada pela Port\
+    \ 432/2004 de 26-Abr e renovada pela Port 346-C/97 de 22-Mai, pela PORT.1151/2009.02.10.2009.MADRP, DR.IS [192] de 02.10.2009,\
+    \ na parte respeitante aos prédios que de acordo com o seu artigo 2.º passam a integrar a zona de caça agora criada\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1151-2009-491178
+  date: '2009-10-02'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:13:17Z'
   warnings: []
   errors: []
 ---
@@ -115,8 +160,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 10 de Dezembro de 1990.**
+Assinada em 10 de Dezembro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/29900/52705271.pdf))](https://files.diariodarepublica.pt/1s/1990/12/29900/52705271.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29900/52705271.pdf)

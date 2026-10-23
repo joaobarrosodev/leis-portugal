@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-1990-331997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:17:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df30c19b937bb42b882bd4ee112f51e03dc6efa44f692f45c89556b685f0c2d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a5fc7330029aea1336f0a8404b77e07c12982934bdf05fa2250c7c00202bc4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:17:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Bacharelato
+- Curso de Enfermagem
+- Escola Superior de Enfermagem
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:333169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:17:23Z'
   warnings: []
   errors: []
 ---
@@ -106,8 +124,8 @@ O plano de estudos do curso a que se refere o n.º 1.º é o constante do anexo 
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 3 de Abril de 1990.**
+Assinada em 3 de Abril de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/08900/18251826.pdf))](https://files.diariodarepublica.pt/1s/1990/04/08900/18251826.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/08900/18251826.pdf)

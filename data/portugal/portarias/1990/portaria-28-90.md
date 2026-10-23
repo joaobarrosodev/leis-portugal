@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/01000/01870188.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/28-1990-333534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:17:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 446f1f8c89b8bd5da77ccafef39d2fbcf30d5238f8536a968eb36df520b9f689
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b477caf38796d0c4522d22a7c186d1e2613fa00cf29de3a8967648269695757
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:17:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deficiente
+- Educação Especial
+- Ensino Particular
+- Mensalidade
+- Segurança Social
+- Subsídio de Educação Especial
 relationships:
 - type: amended_by
   target: pt:dre:554847:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:191152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:868932:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:554847:por
+  label: "Revogada pela PORT.899/90.25.09.1990.ME, DR.IS [222] de 25.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/899-1990-554847
+  date: '1990-09-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:17:15Z'
   warnings: []
   errors: []
 ---
@@ -176,6 +203,6 @@ Revogação
 
 Ministérios da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 20 de Dezembro de 1989.**
+Assinada em 20 de Dezembro de 1989.
 
-**O Secretário de Estado da Reforma Educativa, Pedro José d'Orey da Cunha e Menezes. - O Secretário de Estado da Segurança Social, Arlindo Gomes de Carvalho.**
+O Secretário de Estado da Reforma Educativa, Pedro José d'Orey da Cunha e Menezes. - O Secretário de Estado da Segurança Social, Arlindo Gomes de Carvalho.

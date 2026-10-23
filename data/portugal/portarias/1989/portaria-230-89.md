@@ -47,26 +47,33 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-1989-613885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T09:47:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a021af52f0c91e8ce80f33db506cd68a63065670daea3b6724e745ad7895fe59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dfbc11a52086588a24ab8f62b57af90205eeccf9287d3cf7de9613e59481fa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:47:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agrupamento de Produtores
+- Ajuda Comunitária
+- Azeite
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA PELA PORTARIA NUMERO 527/91, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 132, DE 11/6/91.\0/6/91.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:658446:por
   label: Última alteração registada na importação inicial
@@ -74,13 +81,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:47:56Z'
   warnings: []
   errors: []
 ---
@@ -171,9 +178,9 @@ c) O pagamento aos seus membros das ajudas à produção nos termos legais.
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 2 de Março de 1989.**
+Assinada em 2 de Março de 1989.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
 ## ANEXO I — Anexo II do Regulamento (CEE) n.º [2984/88](http://data.europa.eu/eli/reg/1988/2984/oj?locale=pt), da Comissão, da 21 de Setembro
 
@@ -347,7 +354,7 @@ Algarve:
 
 Artigos 8.º e 10.º do Regulamento (CEE) n.º [2261/84](http://data.europa.eu/eli/reg/1984/2261/oj?locale=pt), do Conselho, de 17 de Julho:
 
-###### Art. 8.º - 1 - Antes da apresentação do pedido de ajuda cada organização de produtores verifica a quantidade de azeite para a qual a ajuda é pedida por cada um dos seus membros. Com vista a esta verificação, as organizações de produtores controlam, nomeadamente:
+Art. 8.º - 1 - Antes da apresentação do pedido de ajuda cada organização de produtores verifica a quantidade de azeite para a qual a ajuda é pedida por cada um dos seus membros. Com vista a esta verificação, as organizações de produtores controlam, nomeadamente:
 
 - a compatibilidade entre a produção de azeitonas declarada por cada olivicultor como tendo sido triturada num lagar autorizado e os dados que resultem da sua declaração de cultura, com base em critérios a determinar;
 
@@ -359,7 +366,7 @@ Artigos 8.º e 10.º do Regulamento (CEE) n.º [2261/84](http://data.europa.eu/e
 
 - sempre que não se verificar a correspondência referida no n.º 1, segundo travessão.
 
-###### Art. 10.º As uniões referidas no n.º 2 do artigo 20.º-C do Regulamento n.º [136/66/CEE](http://data.europa.eu/eli/reg/1966/136/oj?locale=pt):
+Art. 10.º As uniões referidas no n.º 2 do artigo 20.º-C do Regulamento n.º [136/66/CEE](http://data.europa.eu/eli/reg/1966/136/oj?locale=pt):
 
 - coordenam as actividades das organizações que as compõem e asseguram que as suas actividades se desenvolvam em conformidade com o presente regulamento e, nomeadamente, procedam directamente e segundo uma percentagem a determinar à verificação do modo como são efectuados os controlos referidos no artigo 8.º
 

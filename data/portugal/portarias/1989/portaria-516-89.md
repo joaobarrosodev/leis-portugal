@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/15300/27142717.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/516-1989-619695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T09:55:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5d68074cce72c4596f0659926988e3fbfce37402229a96d99458f8067db6878
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db9f919b4bed42c234c2a7bb52bfae90f11e3123df15b51e7fa4280d446abc66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:55:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação Portuguesa para a Qualidade
+- Centro de Formação Profissional
+- Centro de Formação Profissional para a Qualidade
+- Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:279867:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:279867:por
+  label: "Revogado e determinado que o Instituto do Emprego e Formação Profissional, I. P. (IEFP), suceda nas atribuições\
+    \ do CEQUAL - Centro de Formação Profissional para a Qualidade, a partir da data da sua extinção, cujo protocolo de criação\
+    \ foi homologado pelo presente diploma, pela PORT.79/2011.21.02.2011.MTSSO, DR.IS [36] de 21.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/79-2011-279867
+  date: '2011-02-21'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:55:02Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +112,9 @@ Manda o Governo, pelo Ministro do Emprego e da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 9 de Junho de 1989.**
+Assinada em 9 de Junho de 1989.
 
-**O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 PROTOCOLO QUE CRIA O CENTRO DE FORMAÇÃO PROFISSIONAL PARA A QUALIDADE
 

@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/315-1977-280228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:08:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35bfddbb458d3409feeeeca356d8c8c0bc90140e5156a98340fa85550bbc020a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f8cd83ca99fbbff52ab259b90847961865d40c653b7ecbbf83b7d712afeacf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:08:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Empresa Privada
+- Idanha-a-nova
+- Intervenção do Estado
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:473906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:328001:por
+  label: "Prorrogado até 31.12.1978 o prazo de intervenção do Estado na empresa Luso-Serra, Ldª e exonera, substituindo por\
+    \ outra, a comissão administrativa da dita empresa estabelecida na Resolução DD1256, de 20-Mar 1976, com a redacção conferida\
+    \ no presente diploma, pela RES.163/78.04.10.1978.PCM, DR.IS [244] de 23.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/163-1978-328001
+  date: '1978-10-04'
+- type: amended_by
+  target: pt:dre:274197:por
+  label: "Prorrogado até 31.03.1979 o prazo de intervenção do Estado na Empresa Luso-Serra Ldª, estabelecida pelo presente\
+    \ diploma,com a redacção conferida nas Resoluções 315/77 de 21 de Dezembro e 163/78 de 23 de Outubro, ambas da PCM, pela\
+    \ RES.247/78.30.12.1978.PCM, DR.IS [299-2ºSupl] de 30.12.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/247-1978-274197
+  date: '1978-12-30'
+- type: amended_by
+  target: pt:dre:382622:por
+  label: "Prorrogado até 30.06.1979 o prazo de intervenção do Estado na empresa Luso-Serra, Ldª, estabelecida pela Resolução\
+    \ DD1256 de 20 de Março da PCM , com a redacção conferida no presente diploma, pela RES.108/79.21.04.1979.PCM, DR.IS [93]\
+    \ de 21.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/108-1979-382622
+  date: '1979-04-21'
+- type: amended_by
+  target: pt:dre:380553:por
+  label: "Prorrogado até 30.09.1979, com efeitos a partir de 01.07.1979, o prazo de intervenção do Estado na Empresa Luso-Serra,\
+    \ Ldª estabelecida pela Resolução DD1256 de 20 de Março da PCM, com a redacção conferida no presente diploma, pela Prorroga\
+    \ até 30.09.1979, com efeitos a partir de 01.07.1979, o prazo de intervenção do Estado na Empresa Luso-Serra, Ldª estabelecida\
+    \ pela Resolução DD1256 de 20 de Março da PCM, DR.IS [68], com a redacção conferida no presente diploma, pela Resolução\
+    \ 203/79\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/203-1979-380553
+  date: '1979-07-12'
+- type: amended_by
+  target: pt:dre:367598:por
+  label: "Prorrogado até 31.01.1980, com efeitos a partir de 01.10.1979, o prazo de intervenção do Estado na empresa Luso-Serra\
+    \ Ldª estabelecida pela Resolução DD1256 de 20 de Março da PCM com a redacção conferida no presente diploma pela RES.330/79.21.11.1979.PCM,\
+    \ DR.IS [269] de 21.11.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/330-1979-367598
+  date: '1979-11-21'
+- type: amended_by
+  target: pt:dre:692824:por
+  label: "Prorrogado até 31.01.1980, com efeitos a partir de 01.10.1979, o prazo de intervenção do Estado na empresa Luso-Serra\
+    \ Ldª estabelecida pela Resolução DD1256 de 20 de Março da PCM com a redacção conferida no presente diploma pela RES.45/80.11.02.1980.PCM,\
+    \ DR.IS [35] de 11.02.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/45-1980-692824
+  date: '1980-02-11'
+- type: amended_by
+  target: pt:dre:473906:por
+  label: "Prorrogado até 31.04.1980, com efeitos a partir de 01.10.1979, o prazo de intervenção do Estado na empresa Luso-Serra\
+    \ Ldª estabelecida pela Resolução DD1256 de 20 de Março da PCM com a redacção conferida no presente diploma pela RES.166/80.14.05.1980.PCM,\
+    \ DR.IS [111] de 14.05.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/166-1980-473906
+  date: '1980-05-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:08:37Z'
   warnings: []
   errors: []
 ---

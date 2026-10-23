@@ -48,40 +48,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1018-1990-556007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:07:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6cc7549aa8a61526b8f0351514fa9d5a0f2c1294075f647054e8f17fb9447ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 628b0b251e1f8de134247a70ee37ead0e236552d28dcf642f79148d5c0858949
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:07:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:342861:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145994:por
+  label: "Suspensa a actividade cinegética na zona de caça associativa concessionada pelo presente diploma, pela PORT.601/2002.2002.06.06.MADRP\
+    \ DR.IS-B [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/601-2002-145994
+  date: '2002-06-06'
+- type: amended_by
+  target: pt:dre:176502:por
+  label: "Renovada por doze anos a concessão de zona de caça associativa pela PORT.50/2003.2003.01.16.MADRP DR.IS-B [13]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/50-2003-176502
+  date: '2003-01-16'
+- type: amended_by
+  target: pt:dre:651773:por
+  label: "Suspenso, pelo prazo de 90 dias, o exercício da caça e de actividades de carácter venatório na zona de caça atribuída\
+    \ pela Port 1018/90, de 12-Out, DR.IS [236], e renovada pela Port 50/2003, de 16-Jan, pela PORT.683/2003.2003.07.30.MADRP,\
+    \ DR.IS-B [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/683-2003-651773
+  date: '2003-07-30'
+- type: amended_by
+  target: pt:dre:342861:por
+  label: "Desanexados vários prédios rústicos da zona de caça associativa, atribuída pelo presente diploma, na redacção da\
+    \ Portaria n.º 50/2003, de 16 de Janeiro, pela PORT.677/2010.12.08.2010.MADRP, DR.IS [156] de 12.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-2010-342861
+  date: '2010-08-12'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:07:33Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +157,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 28 de Setembro de 1990.**
+Assinada em 28 de Setembro de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23600/42424242.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23600/42424242.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23600/42424242.pdf)

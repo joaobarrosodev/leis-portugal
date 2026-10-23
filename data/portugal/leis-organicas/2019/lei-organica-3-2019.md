@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/16800/0000300010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/3/2019/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2019-124392054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cf4f8ad1544974a28266816e02faa5ad4ca0f6e47b9ae830f1396a8e54d99a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f087eb3e49d32d3a13a98e9b2f11cf692945565474c67f0c33960d92dbce84e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
 subjects:
 - Alienação de Imóveis
 - Atribuição de Verba
-- Financiamento
-- Ministério da Defesa Nacional
+- BENS Imóveis do Estado
 - Conselho Superior Militar
-- Obras de Conservação e Restauro
 - Definição de Competências
+- Direção Geral de Recursos da Defesa Nacional
 - Domínio Público Militar
 - Edifício Público
-- Instalação Militar
-- BENS Imóveis do Estado
-- Projeto de Investimento
+- Estado Maior General das Forças Armadas
+- Financiamento
+- Forças Armadas
 - Gestão do Património
 - Gestão Orçamental
-- Investimento Público
-- Forças Armadas
-- Permuta de Imóveis
-- Registo Predial
-- Estado Maior General das Forças Armadas
 - Governo
-- Direção Geral de Recursos da Defesa Nacional
+- Instalação Militar
+- Investimento Público
+- Ministério da Defesa Nacional
+- Obras de Conservação e Restauro
+- Permuta de Imóveis
+- Projeto de Investimento
+- Registo Predial
 relationships:
 - type: amended_by
   target: pt:dre:220061174:por
@@ -107,16 +107,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/6/2015/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/6/2015/05/18/p/dre
+- type: cites
+  target: pt:dre:169005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67232586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220061174:por
+  label: Revogado, a partir de 19.08.2023, o presente diploma pelo(a) Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023,
+    Série I de 2023-08-18 nos termos dos n.ºs 1 e 3 do art. 32.º e da al. a) do art. 34.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2023-220061174
+  date: '2023-08-18'
 article_structure:
   article_count: 29
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:38Z'
   warnings: []
   errors: []
 ---
@@ -363,20 +385,22 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 28 de junho de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 9 de agosto de 2019.**
+Promulgada em 9 de agosto de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 13 de agosto de 2019.**
+Referendada em 13 de agosto de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 4.º)
 
 Medidas relativas a projetos de infraestruturas militares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/16800/0000300010.pdf))](https://files.diariodarepublica.pt/1s/2019/09/16800/0000300010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/16800/0000300010.pdf)
+
+112526986

@@ -47,36 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1213-1990-563605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:12:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5be61796dae13c87ff3626c2648fdf8740069a89321db3d7eed1f082d8be8b0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75053b4aa91d11566674bf314d66f8e98cb9cdfe1b5ec690a2998b78fcc1daaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:12:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Estudos Superiores Especializados em Engenharia de Máquinas Marítimas
+- Escola Náutica Infante Dom Henrique
+- Licenciatura
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:218566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615194:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:12:39Z'
   warnings: []
   errors: []
 ---
@@ -385,8 +413,8 @@ O curso entrará em funcionamento no ano lectivo que for determinado por despach
 
 Ministérios da Educação e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 4 de Dezembro de 1990.**
+Assinada em 4 de Dezembro de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/29000/51355139.pdf))](https://files.diariodarepublica.pt/1s/1990/12/29000/51355139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29000/51355139.pdf)

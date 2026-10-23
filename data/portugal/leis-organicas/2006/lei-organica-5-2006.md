@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/5/2006/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2006-540392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 083ca21b58c0bc5a7039c025b82a1459f20290e4d826a912f3510215863767a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c1bd771b9f867178355aa68cead2d25710710013043f5d7477c1bb4e1a7d136
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Legislativa Regional
-- Eleição
 - Contra-ordenação
+- Eleição
 - Lei Eleitoral
 - Partido Político
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:66487455:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178786:por
+  label: "Alterado o art. 13º do Dec Lei 267/80, de 08-ago, na redação do presente diploma, pela LEI ORG.2/2012.14.06.2012.AR,\
+    \ DR.IS [114] de 14.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2012-178786
+  date: '2012-06-14'
+- type: amended_by
+  target: pt:dre:66487455:por
+  label: Alterado o art. 13.º do Dec. Lei 267/80 de 08-ago, na redação do presente diploma, pelo(a) Lei Orgânica n.º 3/2015
+    - Diário da República n.º 30/2015, Série I de 2015-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2015-66487455
+  date: '2015-02-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/9/2000/09/02/p/dre
   label: null
@@ -96,16 +108,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:168804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656129:por
+  label: null
+  source: null
 article_structure:
-  article_count: 217
+  article_count: 170
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:50Z'
   warnings: []
   errors: []
 ---
@@ -146,17 +190,23 @@ h) ...
 
 i) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Durante o período da campanha eleitoral, os candidatos têm direito à dispensa do exercício das respectivas funções, sejam públicas ou privadas, contando esse tempo para todos os efeitos, incluindo o direito à retribuição, como tempo de serviço efectivo.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
 2 - No território eleitoral há nove círculos eleitorais coincidentes com cada uma das ilhas da Região e designados pelo respectivo nome, e um círculo regional de compensação, assim designado, coincidente com a totalidade da área da Região.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -168,7 +218,9 @@ Durante o período da campanha eleitoral, os candidatos têm direito à dispensa
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As listas propostas à eleição devem conter a indicação de candidatos efectivos em número igual ao dos mandatos atribuídos ao círculo eleitoral a que se refiram e de candidatos suplentes em número não inferior a dois nem superior a oito.
 
@@ -176,7 +228,9 @@ Durante o período da campanha eleitoral, os candidatos têm direito à dispensa
 
 3 - É condição para a candidatura no círculo regional ser simultaneamente candidato num círculo de ilha.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A conversão dos votos em mandatos, nos círculos de ilha, faz-se de acordo com o método de representação proporcional de Hondt, obedecendo às seguintes regras:
 
@@ -200,7 +254,9 @@ d) Os mandatos de compensação pertencem às listas a que correspondem os maior
 
 e) No caso de restar um só mandato para distribuir e de os termos seguintes da série serem iguais e de listas diferentes, o mandato cabe à lista que tiver obtido menor número de votos.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +266,9 @@ e) No caso de restar um só mandato para distribuir e de os termos seguintes da 
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -218,7 +276,9 @@ e) No caso de restar um só mandato para distribuir e de os termos seguintes da 
 
 3 - Com excepção do disposto no n.º 3 do artigo 15.º, ninguém pode ser candidato por mais de um círculo eleitoral ou figurar em mais de uma lista, sob pena de inelegibilidade.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -226,7 +286,9 @@ e) No caso de restar um só mandato para distribuir e de os termos seguintes da 
 
 3 - É aplicável às coligações de partidos para fins eleitorais o disposto no n.º 3 do artigo 11.º da [Lei Orgânica n.º 2/2003](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2003-656129), de 22 de Agosto.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -240,7 +302,9 @@ c) ...
 
 d) ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -260,7 +324,9 @@ d) ...
 
 5 - Para além do disposto nos números anteriores, a lista relativa ao círculo regional de compensação é instruída com cópias das listas dos círculos de ilha donde também constem os candidatos ao círculo regional de compensação.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -272,7 +338,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -284,7 +352,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +362,9 @@ d) ...
 
 3 - O direito de voto é exercido presencialmente pelo cidadão eleitor, sem prejuízo das particularidades previstas nos artigos 77.º a 80.º-A.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -314,7 +386,9 @@ e) Membros integrantes de delegações oficiais do Estado e da Região Autónoma
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - Qualquer eleitor que esteja nas condições previstas nas alíneas a), b), c) e g) do n.º 1 do artigo anterior pode dirigir-se ao presidente da câmara do município em cuja área se encontre recenseado, entre o 10.º e o 5.º dias anteriores ao da eleição, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
 
@@ -336,7 +410,9 @@ e) Membros integrantes de delegações oficiais do Estado e da Região Autónoma
 
 10 - ...
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - Os boletins de voto são de forma rectangular, com as dimensões apropriadas para neles caber a indicação de todas as listas submetidas à votação em cada círculo, e são impressos em papel branco, reciclado, liso e não transparente.
 
@@ -354,7 +430,9 @@ e) Membros integrantes de delegações oficiais do Estado e da Região Autónoma
 
 8 - ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -370,7 +448,9 @@ e) Membros integrantes de delegações oficiais do Estado e da Região Autónoma
 
 7 - O presidente escreve no boletim devolvido a nota de inutilizado, rubrica-o e conserva-o para os efeitos do n.º 8 do artigo 96.º
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - ...
 
@@ -380,7 +460,9 @@ e) Membros integrantes de delegações oficiais do Estado e da Região Autónoma
 
 4 - Considera-se ainda como voto nulo o voto antecipado quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 78.º a 80.º-A ou seja recebido em sobrescrito que não esteja devidamente fechado.
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - A assembleia de apuramento geral será composta:
 
@@ -402,27 +484,39 @@ e) Pelo secretário de justiça da Secretaria Judicial do Tribunal de Angra do H
 
 5 - ...
 
-###### Artigo 125.º — Punição da tentativa
+Artigo 125.º
+
+Punição da tentativa
 
 A tentativa é punida da mesma forma que o crime consumado.
 
-###### Artigo 129.º — [...]
+Artigo 129.º
+
+[...]
 
 Aquele que, não tendo capacidade eleitoral passiva, dolosamente aceitar a sua candidatura é punido com prisão de 6 meses a 2 anos e multa de (euro) 1000 a (euro) 10000.
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 Os cidadãos abrangidos pelo artigo 59.º que infringirem os deveres de neutralidade e imparcialidade aí prescritos são punidos com prisão até 1 ano e multa de (euro) 500 a (euro) 2000.
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 Aquele que durante a campanha eleitoral utilizar a denominação, a sigla ou o símbolo do partido ou coligação com o intuito de o prejudicar ou injuriar é punido com prisão até 1 ano e multa de (euro) 100 a (euro) 500.
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 Aquele que infringir o disposto no artigo 73.º é punido com multa de (euro) 1000 a (euro) 10000.
 
-###### Artigo 133.º — [...]
+Artigo 133.º
+
+[...]
 
 1 - O não cumprimento dos deveres impostos pelos artigos 63.º e 64.º constitui contra-ordenação, sendo cada infracção punível com coima:
 
@@ -432,35 +526,49 @@ b) De (euro) 125000 a (euro) 250000, no caso da estação de televisão.
 
 2 - ...
 
-###### Artigo 136.º — [...]
+Artigo 136.º
+
+[...]
 
 Aquele que impedir a realização ou o prosseguimento de reunião, comício, cortejo ou desfile de propaganda eleitoral é punido com prisão de 6 meses a 1 ano e multa de (euro) 100 a (euro) 1000.
 
-###### Artigo 138.º — [...]
+Artigo 138.º
+
+[...]
 
 O proprietário de sala de espectáculos ou aquele que a explore que não cumprir os deveres impostos pelo n.º 2 do artigo 66.º e pelo artigo 70.º é punido com prisão até 6 meses e multa de (euro) 1000 a (euro) 5000.
 
-###### Artigo 139.º — [...]
+Artigo 139.º
+
+[...]
 
 Aquele que violar o disposto no n.º 4 do artigo 67.º é punido com multa de (euro) 50 a (euro) 250.
 
-###### Artigo 140.º — [...]
+Artigo 140.º
+
+[...]
 
 1 - Aquele que roubar, furtar, destruir, rasgar ou por qualquer forma inutilizar, no todo ou em parte, ou tornar ilegível o material de propaganda eleitoral afixado ou o desfigurar, ou colocar por cima dele qualquer material com o fim de o ocultar, é punido com prisão até 6 meses e multa de (euro) 100 a (euro) 1000.
 
 2 - ...
 
-###### Artigo 141.º — [...]
+Artigo 141.º
+
+[...]
 
 O empregado dos correios que desencaminhar, retiver ou não entregar ao destinatário circulares, cartazes ou papéis de propaganda eleitoral de qualquer lista é punido com prisão até 1 ano e multa de (euro) 50 a (euro) 500.
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 1 - Aquele que no dia da eleição ou no anterior fizer propaganda eleitoral por qualquer meio é punido com prisão até 6 meses e multa de (euro) 50 a (euro) 500.
 
 2 - Aquele que no dia da eleição fizer propaganda nas assembleias de voto ou nas suas imediações até 500 m é punido com prisão até 6 meses e multa de (euro) 100 a (euro) 1000.
 
-###### Artigo 143.º — [...]
+Artigo 143.º
+
+[...]
 
 1 - Aquele que, não possuindo capacidade eleitoral, se apresentar a votar é punido com a multa de (euro) 50 a (euro) 500.
 
@@ -468,65 +576,93 @@ O empregado dos correios que desencaminhar, retiver ou não entregar ao destinat
 
 3 - Aquele que dolosamente violar o disposto no artigo 76.º é punido com prisão de 6 meses a 2 anos e multa de (euro) 50 a (euro) 200.
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 Aquele que concorrer para que seja admitido a votar quem não tem esse direito ou para a exclusão de quem o tiver e, bem assim, o médico que atestar falsamente uma impossibilidade de exercício do direito de voto são punidos com prisão até 2 anos e multa de (euro) 100 a (euro) 1000.
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 O agente de autoridade que dolosamente, no dia das eleições, sob qualquer pretexto, fizer sair do seu domicílio ou permanecer fora dele qualquer eleitor para que não possa ir votar é punido com prisão até 2 anos e multa de (euro) 500 a (euro) 2000.
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 Aquele que acompanhar eleitor afectado por doença ou deficiência física notórias a votar e com dolo exprimir infielmente a sua vontade é punido com prisão de 6 meses a 2 anos e multa de (euro) 500 a (euro) 2000.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 O cidadão investido de poder público, o funcionário ou agente do Estado ou de outra pessoa colectiva pública e o ministro de qualquer culto que, abusando das suas funções ou no exercício das mesmas, se servir delas para constranger ou induzir os eleitores a votar em determinada ou determinadas listas, ou a abster-se de votar nelas, são punidos com prisão de 6 meses a 2 anos e multa de (euro) 1000 a (euro) 10000.
 
-###### Artigo 153.º — [...]
+Artigo 153.º
+
+[...]
 
 1 - O presidente da mesa de assembleia ou secção de voto que não exibir a urna perante os eleitores antes do início da votação é punido com multa de (euro) 100 a (euro) 1000.
 
 2 - Se se verificar que na urna não exibida se encontravam boletins de voto, o presidente é também punido com pena de prisão até 6 meses, sem prejuízo do disposto no artigo seguinte.
 
-###### Artigo 154.º — [...]
+Artigo 154.º
+
+[...]
 
 Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois do início da votação, se apoderar da urna com os boletins de voto nela recolhidos mas ainda não apurados ou se apoderar de um ou mais boletins de voto em qualquer momento, desde a abertura da assembleia eleitoral até ao apuramento geral da eleição, é punido com prisão de 6 meses a 2 anos e multa de (euro) 2000 a (euro) 20000.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - O membro da mesa da assembleia ou secção de voto que dolosamente apuser ou consentir que se aponha nota de descarga em eleitor que não votar ou que não a apuser em eleitor que votou, que trocar na leitura dos boletins de voto a lista votada, que diminuir ou aditar votos a uma lista no apuramento ou que por qualquer modo falsear a verdade da eleição é punido com prisão de 6 meses a 2 anos e multa de (euro) 2000 a (euro) 10000.
 
 2 - ...
 
-###### Artigo 156.º — [...]
+Artigo 156.º
+
+[...]
 
 1 - Aquele que impedir a entrada ou saída de qualquer dos delegados das listas nas assembleias eleitorais ou que por qualquer modo tentar opor-se a que eles exerçam todos os poderes que lhes são conferidos pela presente lei é punido com pena de prisão de 6 meses a 2 anos.
 
 2 - Se se tratar do presidente da mesa, a pena não é, em qualquer caso, inferior a 6 meses.
 
-###### Artigo 157.º — [...]
+Artigo 157.º
 
-**O presidente da mesa da assembleia eleitoral que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto é punido com prisão até 1 ano e multa de (euro) 100 a (euro) 500.**
+[...]
 
-###### Artigo 159.º — [...]
+O presidente da mesa da assembleia eleitoral que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto é punido com prisão até 1 ano e multa de (euro) 100 a (euro) 500.
+
+Artigo 159.º
+
+[...]
 
 Sempre que seja necessária a presença de força armada nos casos previstos no n.º 2 do artigo 95.º, o comandante da mesma é punido com pena de prisão até 1 ano se injustificadamente não comparecer.
 
-###### Artigo 160.º — [...]
+Artigo 160.º
+
+[...]
 
 Aquele que for nomeado para fazer parte da mesa da assembleia eleitoral e, sem motivo justificado, não assumir ou abandonar essas funções é punido com multa de (euro) 100 a (euro) 2000.
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 Aquele que dolosamente imputar a outrem, sem fundamento, a prática de qualquer infracção prevista na presente lei é punido com as penas aplicáveis à denúncia caluniosa.
 
-###### Artigo 162.º — [...]
+Artigo 162.º
+
+[...]
 
 Aquele que, com má fé, apresentar reclamação, recurso, protesto ou contraprotesto, ou que impugnar decisões dos órgãos eleitorais através de recurso manifestamente infundado, é punido com multa de (euro) 50 a (euro) 1000.
 
-###### Artigo 163.º — [...]
+Artigo 163.º
+
+[...]
 
 Aquele que não cumprir quaisquer obrigações que lhe sejam impostas pela presente lei ou não praticar os actos administrativos necessários para a sua pronta execução ou ainda retardar injustificadamente o seu cumprimento é, na falta de incriminação prevista nos artigos anteriores, punido com multa de (euro) 100 a (euro) 1000.»
 
@@ -544,7 +680,9 @@ Modo de exercício do direito de voto antecipado por eleitores deslocados no est
 
 3 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelas listas que nomeiem delegados até ao 16.º dia anterior à eleição.
 
-###### Artigo 154.º-A — Desvio de voto antecipado
+Artigo 154.º-A
+
+Desvio de voto antecipado
 
 Quem desencaminhar, retiver ou não entregar à junta de freguesia voto antecipado, nos casos previstos nesta lei, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.»
 
@@ -568,15 +706,15 @@ A presente lei entra em vigor no dia imediato ao da sua publicação.
 
 Aprovada em 20 de Julho de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-**Promulgada em 16 de Agosto de 2006.**
+Promulgada em 16 de Agosto de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendada em 17 de Agosto de 2006.**
+Referendada em 17 de Agosto de 2006.
 
 Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.
 
@@ -1940,7 +2078,7 @@ Quem desencaminhar, retiver ou não entregar à junta de freguesia voto antecipa
 
 ###### Artigo 154.º — Recusa de receber reclamações, protestos ou contraprotestos
 
-**O presidente da mesa da assembleia eleitoral que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto é punido com prisão até 1 ano e multa de (euro) 100 a (euro) 500.**
+O presidente da mesa da assembleia eleitoral que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto é punido com prisão até 1 ano e multa de (euro) 100 a (euro) 500.
 
 ###### Artigo 155.º — Não comparência da força armada
 
@@ -2008,7 +2146,7 @@ Este diploma entra em vigor na data imediata à da sua publicação.
 
 Para efeitos da Lei Eleitoral para a Assembleia Legislativa da Região Autónoma dos Açores se declara que ... (nome do cidadão eleitor), residente em ..., portador do bilhete de identidade n.º ..., de ... de ... de ..., inscrito na assembleia de voto (ou secção de voto) de ... com o n.º ..., exerceu antecipadamente o seu direito de voto no dia ... de ... de ...
 
-**O Presidente da Câmara Municipal de ...**
+O Presidente da Câmara Municipal de ...
 
 ... (assinatura).
 
@@ -2016,4 +2154,4 @@ Para efeitos da Lei Eleitoral para a Assembleia Legislativa da Região Autónoma
 
 (a que se refere o n.º 3 do artigo 97.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/16800/63906417.pdf))](https://files.diariodarepublica.pt/1s/2006/08/16800/63906417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/16800/63906417.pdf)

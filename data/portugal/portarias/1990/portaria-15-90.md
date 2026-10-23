@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/15-1990-313787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:14:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42842e7a859d5a1d05588a55d8e40a57a42060007bd65a2d33311b94ef395ad9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8b8a2454f5a620e2d3f8359c3cabbb08c0469319db03b0a8e3e20119b30dc89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:14:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- Curso Superior de Serviço Social
+- Ensino Superior
+- Instituto Superior de Serviço Social
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:469031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346739:por
+  label: Substituído o plano de estudos do Curso Superior de Serviço Social, pelo(a) Portaria n.º 692/93 - Diário da República
+    n.º 170/1993, Série I-B de 1993-07-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/692-1993-346739
+  date: '1993-07-22'
+- type: amended_by
+  target: pt:dre:222628:por
+  label: "Alterada a designação do Instituto oficialmente reconhecido pelo presente diploma, pelo DEC LEI.12/98.1998.01.24.ME,\
+    \ DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1998-222628
+  date: '1998-01-24'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544405:por
+  label: "Revogada sem prejuízo do nº 9, os nºs 3º, 4º 5º e 7º pela PORT.463/2003.2003.06.03.MCES, DR.IS-B [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/463-2003-544405
+  date: '2003-06-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:14:05Z'
   warnings: []
   errors: []
 ---
@@ -125,12 +151,12 @@ O Instituto Superior de Serviço Social de Coimbra deverá providenciar no senti
 
 Ministério da Educação.
 
-**Assinada em 22 de Dezembro de 1989.**
+Assinada em 22 de Dezembro de 1989.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 ## ANEXO — Curso superior de Serviço Social
 
 Plano de estudos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/00700/00920092.pdf))](https://files.diariodarepublica.pt/1s/1990/01/00700/00920092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/00700/00920092.pdf)

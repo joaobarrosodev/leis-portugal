@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/921-1989-549264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:04:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 623eaf657c9ef84ab7973bda9c92c76bf9b8b9fa2dfe58a7756c0686123e18b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cc1870045f009a074c0cdbc0bdbd27a3aee0e0683d64b23249b9abafaf676bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:04:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Évora
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:247770:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534394:por
+  label: "Renovada a concessão, por um período de 12 anos, pela PORT.80/96.15.03.1996.MADRP, DR.IS-B [64] de 15.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-1996-534394
+  date: '1996-03-15'
+- type: amended_by
+  target: pt:dre:642509:por
+  label: "Transferida para João Evangelista Fiúza Albuquerque Cabral da Silveira, a zona de caça atribuída pelo presente diploma,\
+    \ alterada pela Portaria 80/96, de 15 de Março pela PORT.1290/2007.28.09.2007.MADRP, DR.IS [188] de 28.09.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1290-2007-642509
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:247770:por
+  label: "Renovada por um período de 12 anos, a concessão da zona de caça atribuída pelo presente diploma, posteriormente\
+    \ renovada pela Port 80/96, de 15-Mar e pela Port 1290/2007, de 28-Set, pela PORT.157/2008.15.02.2008.MADRP, DR.IS [33]\
+    \ de 15.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-2008-247770
+  date: '2008-02-15'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:04:55Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +150,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 6 de Outubro de 1989.**
+Assinada em 6 de Outubro de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24200/46134614.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24200/46134614.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24200/46134614.pdf)

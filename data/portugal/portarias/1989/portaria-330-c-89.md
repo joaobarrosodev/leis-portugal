@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 105/1989, 1º Suplemento, Série I de 1989-05-08
   number: '105'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1848-(4) a 1848-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf
 entry_into_force_dates: []
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/330-c-1989-570675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:50:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfb4c1303322ec6a0b51c5f5c025d1b620f154f5af4ef03f80f5914ff8588258
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b90f6882d7c0dc292951c8cab7f07cd3574bcc2cb2f3afef130c3053c766d881
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:50:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cereal
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:321932:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:321932:por
+  label: "Alterados os nºs 4º e 8º pela PORT.491-A/89.1989.06.30.MF, DR.IS [148]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/491-a-1989-321932
+  date: '1989-06-30'
+- type: cites
+  target: pt:dre:274265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:50:26Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +124,7 @@ Manda o Governo, pelos Ministros das Finanças, da Agricultura, Pescas e Aliment
 
 1.º Os preços de referência à produção para os trigos, centeio, cevada, milho, sorgo, aveia e triticale a vigorar para a campanha de 1989-1990 são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf))](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf)
 
 2.º Os preços de referência à produção são reportados à qualidade tipo fixada no n.º 7.º do presente diploma, são susceptíveis de aplicação de bonificações e depreciações, como consta do n.º 8.º, e referem-se apenas a cereal que respeita o disposto no n.º 9.º em termos de qualidade mínima.
 
@@ -155,13 +170,13 @@ f) Para a aveia, o preço de 30000$00/t.
 
 5.º Para a campanha de 1989-1990, os preços de intervenção são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf))](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf)
 
 6.º O Estado suportará os encargos com a aquisição do cereal nacional ao preço de referência à produção, em condições a estabelecer por despacho do Ministro da Agricultura, Pescas e Alimentação, de molde a assegurar os preços de orientação de mercado fixados.
 
 7.º As qualidades tipo correspondentes aos preços de referência à produção e aos preços de intervenção aplicam-se a cereais isentos de cheiros estranhos e de depredadores vivos, com coloração própria e as características estabelecidas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf))](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf)
 
 8.º São aplicáveis as seguintes bonificações e depreciações aos preços de referência à produção e ao preço de intervenção de cereais, cuja qualidade tipo é referida no número anterior:
 
@@ -187,7 +202,7 @@ d) Quando as percentagens de grãos partidos ou de impurezas constituídas por g
 
 10.º As características definidas para a qualidade mínima são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf))](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/10501/00040006.pdf)
 
 11.º - 1 - Para aplicação do disposto no presente diploma entende-se por:
 
@@ -229,6 +244,6 @@ d) Grãos germinados - grãos em que se vê nitidamente a olho nu a radícula ou
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 8 de Maio de 1989.**
+Assinada em 8 de Maio de 1989.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

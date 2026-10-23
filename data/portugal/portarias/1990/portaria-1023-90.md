@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1023-1990-555870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T10:07:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 640c1d633e378aae10d158881f94dd7170929670f900770fcfcd5e6b31d3be12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2a42d2ab8f81c5701f35204638e9f0cd2696d8358c6f9d3e03bae44229a125a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:07:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Beja
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:656986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157244:por
+  label: "Renovada a concessão da zona de caça concessionada pelo presente diploma, pela PORT.254-GB/96.1996.07.15.MADRP,\
+    \ DR.IS-B [162]4ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-gb-1996-157244
+  date: '1996-07-15'
+- type: amended_by
+  target: pt:dre:196904:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório pela PORT.897/2002.2002.07.29.MADRP DR.IS-B\
+    \ [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/897-2002-196904
+  date: '2002-07-29'
+- type: amended_by
+  target: pt:dre:656986:por
+  label: "Renovada, por um período de 10 anos, a concessão atribuida pelo presente diploma e renovada pela Port 254-GB/96,\
+    \ de 15-Jul, pela PORT.1331/2002.2002.10.08.MECO DR.IS-B [232]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1331-2002-656986
+  date: '2002-10-08'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:07:41Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +150,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 28 de Setembro de 1990.**
+Assinada em 28 de Setembro de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23600/42454246.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23600/42454246.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23600/42454246.pdf)

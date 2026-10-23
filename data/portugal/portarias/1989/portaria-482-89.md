@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/14600/25292529.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/482-1989-620875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T09:54:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87a102ede0613865e66c4cf92f2d4851513fb4495a89a82c7ef602dda1d8c34b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fcd2cbd570b53e15790e631754e4d5ba68c33760645d61fc172c13d914f9f3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:54:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abrantes
+- Alcobaça
+- Curso de ARTE de Trabalhar Metais
+- Curso de ARTE e Trabalhar Madeira
+- Curso Técnico de Confecção
+- Curso Técnico de Decoração e de Pintura de Cerâmica e Azulejos
+- Curso Técnico de Electrónica
+- Curso Técnico de Gestão
+- Ensino Agrícola
+- Ensino Profissional
+- Escola Profissional
+- Escola Profissional Agrícola
+- Escola Profissional Instituto de Artes e Ofícios
+- Escola Tecnológica Artística e Profissional
+- Pombal
+- Torres Vedras
 relationships:
 - type: amended_by
   target: pt:dre:544837:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147616:por
+  label: "Extinto a partir de 27.09.2005 o curso profissional de Técnico de Electrónica, criado pelo presente diploma, que\
+    \ é revogado no que àquele curso se refere pela PORT.903/2005.26.09.2005.ME, DR.IS-B [185] de 26.09.2005, sem prejuízo\
+    \ do disposto no nº 9º da citada portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/903-2005-147616
+  date: '2005-09-26'
+- type: amended_by
+  target: pt:dre:544837:por
+  label: "Extinto o curso profissionaL de técnico de decoração e pintura de cerâmica e azulejos criado pelo presente diploma\
+    \ que é revogado, permanecendo em vigor o respectivo plano de estudos nos termos do nº 6º pela PORT.1278/2006.21.11.2006.ME,\
+    \ DR.IS [224] de 21.11.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1278-2006-544837
+  date: '2006-11-21'
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:54:12Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +148,6 @@ b) Os cursos referidos na alínea anterior funcionarão na Escola Profissional I
 
 Ministérios da Agricultura, Pescas e Alimentação, da Educação e do Emprego e da Segurança Social.
 
-**Assinada em 20 de Junho de 1989.**
+Assinada em 20 de Junho de 1989.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.

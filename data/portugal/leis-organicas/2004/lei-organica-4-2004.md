@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/4/2004/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2004-547652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4e5cb7588e27ec6964c13c293783a16cb55ef00546e83e9c080bdc2d2339754
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75201a9388685c3f24739154865d591eb41c6bff4c0d3d8d1f83beb47b94a310
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Base de Dados
+- Confidencialidade
 - Conselho de Fiscalização
 - Conselho de Fiscalização dos Serviços de Informações
 - Conselho Superior de Informações
-- Segurança Interna
 - Definição de Competências
-- Informática
 - Fiscalização
+- Informática
+- Lei Quadro
 - Política de Defesa
 - Primeiro-ministro
-- Base de Dados
-- Segurança da Informação
-- Lei Quadro
-- Confidencialidade
 - Secretário Geral
-- Sistema de Informações da República Portuguesa
 - Segredo de Estado
+- Segurança da Informação
+- Segurança Interna
 - Serviço de Informações de Segurança
 - Serviço de Informações Estratégicas de Defesa
 - Serviço de Informações Militares
+- Sistema de Informações da República Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:56057575:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:56057575:por
+  label: Alterados a partir de 12.09.2014, os arts. 8º, 13º, 15º, 19º e 26º da Lei 30/84 de 05-set, na redação do presente
+    diploma, pelo(a) Lei Orgânica n.º 4/2014 - Diário da República n.º 155/2014, Série I de 2014-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/4-2014-56057575
+  date: '2014-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/15/1996/04/30/p/dre
   label: null
@@ -101,16 +107,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-a/1997/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-a/1997/07/22/p/dre
+- type: cites
+  target: pt:dre:187112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476883:por
+  label: null
+  source: null
 article_structure:
-  article_count: 59
+  article_count: 41
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:41Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +155,9 @@ Os artigos 6.º, 7.º, 8.º, 12.º, 13.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20
 
 É proibido que outros serviços prossigam objectivos e actividades idênticos aos dos previstos na presente lei.
 
-###### Artigo 7.º — Conselho de Fiscalização do Sistema de Informações da República Portuguesa
+Artigo 7.º
+
+Conselho de Fiscalização do Sistema de Informações da República Portuguesa
 
 1 - O controlo do Sistema de Informações da República Portuguesa é assegurado pelo Conselho de Fiscalização, eleito pela Assembleia da República, sem prejuízo dos poderes de fiscalização deste órgão de soberania nos termos constitucionais.
 
@@ -141,7 +165,9 @@ Os artigos 6.º, 7.º, 8.º, 12.º, 13.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O Conselho de Fiscalização acompanha e fiscaliza a actividade do Secretário-Geral e dos serviços de informações, velando pelo cumprimento da Constituição e da lei, particularmente do regime de direitos, liberdades e garantias fundamentais dos cidadãos.
 
@@ -167,7 +193,9 @@ h) ...
 
 4 - (Anterior n.º 6.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +203,9 @@ h) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Para a prossecução das finalidades referidas no artigo 2.º são criados:
 
@@ -191,7 +221,9 @@ e) O Serviço de Informações Estratégicas de Defesa;
 
 f) O Serviço de Informações de Segurança.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O Secretário-Geral e os serviços de informações dependem directamente do Primeiro-Ministro.
 
@@ -199,11 +231,15 @@ f) O Serviço de Informações de Segurança.
 
 3 - A nomeação do Secretário-Geral é antecedida de audição do indigitado em sede de comissão parlamentar.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O Serviço de Informações Estratégicas de Defesa e o Serviço de Informações de Segurança gozam de autonomia administrativa e financeira.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Compete ao Primeiro-Ministro:
 
@@ -219,7 +255,9 @@ e) Controlar, tutelar e orientar a acção dos serviços de informações;
 
 f) Exercer as demais funções que lhe sejam atribuídas pela presente lei.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -245,7 +283,9 @@ g) Dois deputados designados pela Assembleia da República por maioria de dois t
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 19.º — Secretário-Geral do Sistema de Informações da República Portuguesa
+Artigo 19.º
+
+Secretário-Geral do Sistema de Informações da República Portuguesa
 
 1 - O Secretário-Geral é equiparado, para todos os efeitos legais, excepto os relativos à sua nomeação e exoneração, a Secretário de Estado.
 
@@ -275,15 +315,21 @@ j) Orientar a elaboração dos orçamentos do Serviço de Informações Estraté
 
 l) Aprovar os relatórios anuais do Serviço de Informações Estratégicas de Defesa e do Serviço de Informações de Segurança.
 
-###### Artigo 20.º — Serviço de Informações Estratégicas de Defesa
+Artigo 20.º
+
+Serviço de Informações Estratégicas de Defesa
 
 O Serviço de Informações Estratégicas de Defesa é o organismo incumbido da produção de informações que contribuam para a salvaguarda da independência nacional, dos interesses nacionais e da segurança externa do Estado Português.
 
-###### Artigo 21.º — Serviço de Informações de Segurança
+Artigo 21.º
+
+Serviço de Informações de Segurança
 
 O Serviço de Informações de Segurança é o organismo incumbido da produção de informações que contribuam para a salvaguarda da segurança interna e a prevenção da sabotagem, do terrorismo, da espionagem e a prática de actos que, pela sua natureza, possam alterar ou destruir o Estado de direito constitucionalmente estabelecido.
 
-###### Artigo 22.º — Directores dos serviços de informações
+Artigo 22.º
+
+Directores dos serviços de informações
 
 1 - O Serviço de Informações Estratégicas de Defesa e o Serviço de Informações de Segurança são dirigidos, cada um deles, por um director, coadjuvado por um director-adjunto.
 
@@ -291,7 +337,9 @@ O Serviço de Informações de Segurança é o organismo incumbido da produção
 
 3 - Compete ao director assumir, no quadro das orientações emanadas do Secretário-Geral, a responsabilidade directa pela normal actividade e pelo regular funcionamento de cada serviço.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -299,13 +347,17 @@ O Serviço de Informações de Segurança é o organismo incumbido da produção
 
 3 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Os critérios e as normas técnicas necessárias ao funcionamento dos centros de dados, bem como os regulamentos indispensáveis a garantir a segurança das informações processadas, são elaborados no âmbito do Conselho Superior de Informações e adquirem executoriedade após aprovação pelo Conselho de Ministros.
 
 2 - ...
 
-###### Artigo 26.º — Comissão de Fiscalização de Dados do Sistema de Informações da República Portuguesa
+Artigo 26.º
+
+Comissão de Fiscalização de Dados do Sistema de Informações da República Portuguesa
 
 1 - A actividade dos centros de dados é exclusivamente fiscalizada pela Comissão de Fiscalização de Dados, sem prejuízo do disposto no n.º 3 do artigo seguinte.
 
@@ -317,7 +369,9 @@ O Serviço de Informações de Segurança é o organismo incumbido da produção
 
 5 - A Comissão de Fiscalização de Dados deve ordenar o cancelamento ou rectificação de dados recolhidos que envolvam violação dos direitos, liberdades e garantias consignados na Constituição e na lei e, se for caso disso, exercer a correspondente acção penal.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Quando no decurso de um processo judicial ou administrativo se revelar erro na imputação de dados ou informações ou irregularidades do seu tratamento, a entidade processadora fica obrigada a dar conhecimento do facto à Comissão de Fiscalização de Dados.
 
@@ -337,13 +391,17 @@ Informações militares
 
 2 - As disposições constantes dos artigos 1.º a 6.º da presente lei, bem como as disposições relativas aos poderes do Conselho de Fiscalização e da Comissão de Fiscalização de Dados, são aplicáveis às actividades de produção de informações das Forças Armadas.
 
-###### Artigo 35.º — Estruturas comuns
+Artigo 35.º
+
+Estruturas comuns
 
 1 - A regulamentação orgânica dos serviços de informações pode prever a existência de estruturas comuns na área da gestão administrativa, financeira e patrimonial.
 
 2 - As estruturas comuns, caso existam, ficam na dependência directa do Secretário-Geral.
 
-###### Artigo 36.º — Relações do Conselho de Fiscalização com a Assembleia da República
+Artigo 36.º
+
+Relações do Conselho de Fiscalização com a Assembleia da República
 
 1 - A Assembleia da República pode requerer a presença do Conselho de Fiscalização, em sede de comissão parlamentar, com o objectivo de obter esclarecimentos sobre o exercício da sua actividade.
 
@@ -373,17 +431,17 @@ A [Lei n.º 30/84](https://diariodarepublica.pt/dr/detalhe/lei/30-1984-373663), 
 
 Aprovada em 30 de Setembro de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
-**Promulgada em 21 de Outubro de 2004.**
+Promulgada em 21 de Outubro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 26 de Outubro de 2004.**
+Referendada em 26 de Outubro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — Lei Quadro do Sistema de Informações da República Portuguesa
 

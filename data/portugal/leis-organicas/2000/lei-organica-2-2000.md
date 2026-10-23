@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2000/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed0eccc37cb1156dcc4d9f9b5617ede66a8b37aea08ff57615c7a24a15da3c90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12bd2ad49c88757ad0ed24da13b5fc36f8753f4e45a735ef5004fdf77a2747ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,80 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Legislativa Regional
 - Campanha Eleitoral
 - Eleição Regional
 - Sistema Eleitoral
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:66487455:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515638:por
+  label: "Alterado o art. 79º-A e a epígrafe do art. 79º-B do Dec Lei 267/80, de 08-Ago, na redacção do presente diploma,\
+    \ pela LEI ORG.2/2001.25.08.2001.AR, DR.IS-A [197] de 25.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2001-515638
+  date: '2001-08-25'
+- type: amended_by
+  target: pt:dre:540392:por
+  label: "Alterados os arts 5º, 13º, 22º, 35º, 96º, 97º,109º, 125º, 132º, 133º, 150º e 162º do Dec Lei 267/80 de 08-Ago, na\
+    \ redacção do presente diploma, pela LEI ORG 5/2006.31.08.2006.AR, DR.IS [168] de 31.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/5-2006-540392
+  date: '2006-08-31'
+- type: amended_by
+  target: pt:dre:178786:por
+  label: "Alterado o art. 13º do Dec Lei 267/80, de 08-ago, na redação do presente diploma, pela LEI ORG.2/2012.14.06.2012.AR,\
+    \ DR.IS [114] de 14.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2012-178786
+  date: '2012-06-14'
+- type: amended_by
+  target: pt:dre:66487455:por
+  label: Alterado o art. 13.º do Dec. Lei 267/80 de 08-ago, na redação do presente diploma, pelo(a) Lei Orgânica n.º 3/2015
+    - Diário da República n.º 30/2015, Série I de 2015-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2015-66487455
+  date: '2015-02-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/72/1993/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/72/1993/11/30/p/dre
+- type: cites
+  target: pt:dre:168804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:580786:por
+  label: "Rectificados o art. 98º bem como o anexo cuja alteração (de ambos) está enunciada no art. 1º do presente diploma,\
+    \ pela DECL-RECT.9/2000.2000.08.21.AR, DR.IS-A [203] de 02.09.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-2000-580786
+  date: '2000-08-21'
 article_structure:
-  article_count: 233
+  article_count: 175
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:22Z'
   warnings: []
   errors: []
 ---
@@ -118,11 +168,15 @@ b) ...
 
 c) Os que estejam privados de direitos políticos, por decisão transitada em julgado.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 São elegíveis os cidadãos portugueses eleitores, salvo as restrições estabelecidas na lei.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 São inelegíveis para a Assembleia Legislativa Regional:
 
@@ -144,11 +198,15 @@ g) Aqueles que exerçam funções diplomáticas à data da apresentação das ca
 
 h) Os membros da Comissão Nacional de Eleições.
 
-###### Artigo 9.º — Obrigatoriedade de suspensão do mandato
+Artigo 9.º
+
+Obrigatoriedade de suspensão do mandato
 
 ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Em cada círculo eleitoral serão eleitos dois deputados e mais um por cada 6000 eleitores ou fracção superior a 1000.
 
@@ -158,7 +216,9 @@ h) Os membros da Comissão Nacional de Eleições.
 
 4 - O mapa referido nos números anteriores é elaborado com base no número de eleitores segundo a última actualização do recenseamento.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As vagas ocorridas na Assembleia Legislativa Regional são preenchidas pelo cidadão imediatamente a seguir na ordem da respectiva lista ou, tratando-se de coligação, pelo cidadão imediatamente a seguir do partido pelo qual havia sido proposto o candidato que deu origem à vaga.
 
@@ -168,13 +228,17 @@ h) Os membros da Comissão Nacional de Eleições.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O Presidente da República marca a data das eleições dos deputados à Assembleia Legislativa Regional com a antecedência mínima de 60 dias ou, em caso de dissolução, com a antecedência mínima de 55 dias.
 
 2 - As eleições realizam-se, normalmente, entre o dia 28 de Setembro e o dia 28 de Outubro do ano correspondente ao termo da legislatura.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - As coligações de partidos para fins eleitorais devem ser anotadas pelo Tribunal Constitucional e comunicadas, até à apresentação efectiva das candidaturas, em documento assinado conjuntamente pelos órgãos competentes dos respectivos partidos, a esse mesmo Tribunal, com indicação das suas denominações, siglas e símbolos, bem como anunciadas dentro do mesmo prazo em dois dos jornais diários mais lidos na Região.
 
@@ -182,7 +246,9 @@ h) Os membros da Comissão Nacional de Eleições.
 
 3 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -196,17 +262,23 @@ c) ...
 
 d) ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
 2 - Nos dois dias subsequentes ao termo do prazo de apresentação de candidaturas, o juiz verifica a regularidade do processo, a autenticidade dos documentos que o integram e a elegibilidade dos candidatos.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 Verificando-se irregularidade processual, o juiz manda notificar imediatamente o mandatário da lista para a suprir no prazo de dois dias.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -216,7 +288,9 @@ Verificando-se irregularidade processual, o juiz manda notificar imediatamente o
 
 4 - Findos os prazos dos n.os 2 e 3, o juiz, em quarenta e oito horas, faz operar nas listas as rectificações ou aditamentos requeridos pelos respectivos mandatários.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +304,9 @@ Verificando-se irregularidade processual, o juiz manda notificar imediatamente o
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - No dia seguinte ao fim do prazo de apresentação de candidaturas, o juiz procede, na presença dos candidatos ou dos seus mandatários que compareçam, ao sorteio das listas apresentadas, para o efeito de lhes atribuir uma ordem nos boletins de voto, lavrando-se auto do sorteio.
 
@@ -238,13 +314,17 @@ Verificando-se irregularidade processual, o juiz manda notificar imediatamente o
 
 3 - ...
 
-###### Artigo 32.º — Recurso para o Tribunal Constitucional
+Artigo 32.º
+
+Recurso para o Tribunal Constitucional
 
 1 - ...
 
 2 - O recurso deve ser interposto no prazo de dois dias a contar da data da afixação das listas a que se refere o n.º 5 do artigo 30.º
 
-###### Artigo 34.º — Interposição e subida do recurso
+Artigo 34.º
+
+Interposição e subida do recurso
 
 1 - O requerimento da interposição de recurso, do qual devem constar os seus fundamentos, é entregue no tribunal que proferiu a decisão recorrida, acompanhado de todos os elementos de prova.
 
@@ -256,19 +336,25 @@ Verificando-se irregularidade processual, o juiz manda notificar imediatamente o
 
 5 - O recurso sobe ao Tribunal Constitucional nos próprios autos.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - O Tribunal Constitucional, em plenário, decide definitivamente no prazo de quarenta e oito horas a contar da data da recepção dos autos prevista no artigo anterior, comunicando por telecópia a decisão, no próprio dia, ao juiz.
 
 2 - O Tribunal Constitucional proferirá um único acórdão em relação a cada círculo eleitoral, no qual decidirá todos os recursos relativos às listas concorrentes nesse círculo.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - As listas definitivamente admitidas são imediatamente afixadas à porta do tribunal e enviadas, por cópia, à Comissão Nacional de Eleições, ao membro do Governo Regional com competência em matéria eleitoral e aos presidentes das câmaras municipais do círculo, que as publicam, no prazo de vinte e quatro horas, por editais afixados à porta das respectivas sedes.
 
 2 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -280,13 +366,17 @@ Verificando-se irregularidade processual, o juiz manda notificar imediatamente o
 
 5 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Até ao 15.º dia anterior ao das eleições, os presidentes das câmaras municipais anunciam, por editais afixados nos lugares do estilo, o dia, a hora e os locais em que se reúnem as assembleias de voto e os desdobramentos destas, se a eles houver lugar.
 
 2 - No caso de desdobramento de assembleias de voto, os editais indicam também os números de inscrição no recenseamento dos cidadãos que devem votar em cada secção.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -312,7 +402,9 @@ e) Exercício de actividade profissional de carácter inadiável, devidamente co
 
 7 - No caso previsto no número anterior, o presidente da câmara procede imediatamente à substituição, nomeando outro eleitor pertencente à assembleia de voto.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - Até ao 18.º dia anterior às eleições, os candidatos ou os mandatários das diferentes listas indicam por escrito ao presidente da câmara municipal delegados e suplentes para as respectivas assembleias e secções de voto.
 
@@ -320,7 +412,9 @@ e) Exercício de actividade profissional de carácter inadiável, devidamente co
 
 3 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Até ao 17.º dia anterior ao designado para a eleição, devem os delegados reunir-se na sede da junta de freguesia, a convocação do respectivo presidente, para procederem à escolha dos membros da mesa das assembleias ou secções de voto, devendo essa escolha ser imediatamente comunicada ao presidente da câmara municipal. Quando a assembleia de voto haja sido desdobrada, está presente à reunião apenas um delegado de cada lista de entre os que houverem sido propostos pelos candidatos ou pelos mandatários das diferentes listas.
 
@@ -336,7 +430,9 @@ e) Exercício de actividade profissional de carácter inadiável, devidamente co
 
 7 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -354,11 +450,15 @@ f) Obter certidões das operações de votação e apuramento.
 
 2 - Os delegados das listas não podem ser designados para substituir membros da mesa faltosos.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 O período da campanha eleitoral inicia-se no 14.º dia anterior ao dia designado para as eleições e finda às 24 horas da antevéspera do mesmo.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Os órgãos do Estado, das Regiões Autónomas, das autarquias locais, das demais pessoas colectivas de direito público, das sociedades de capitais públicos ou de economia mista e das sociedades concessionárias de serviços públicos, de bens do domínio público ou de obras públicas, bem como, nessa qualidade, os respectivos titulares, não podem intervir directa ou indirectamente em campanha eleitoral nem praticar quaisquer actos que favoreçam ou prejudiquem uma candidatura em detrimento ou vantagem de outra ou outras, devendo assegurar a igualdade de tratamento e a imparcialidade em qualquer intervenção nos procedimentos eleitorais.
 
@@ -368,7 +468,9 @@ O período da campanha eleitoral inicia-se no 14.º dia anterior ao dia designad
 
 4 - O regime previsto no presente artigo é aplicável a partir da publicação do decreto que marque a data das eleições.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 A liberdade de reunião para fins eleitorais no período de campanha eleitoral rege-se pelo disposto na lei geral sobre direito de reunião, com as seguintes especialidades:
 
@@ -388,7 +490,9 @@ g) ...
 
 h) O recurso previsto no n.º 1 do artigo 14.º do [Decreto-Lei n.º 406/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1974-424767), de 29 de Agosto, é interposto no prazo de quarenta e oito horas para o Tribunal Constitucional.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
@@ -410,7 +514,9 @@ c) As estações privadas (onda média e frequência modulada), ligadas a todos 
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -422,11 +528,15 @@ c) As estações privadas (onda média e frequência modulada), ligadas a todos 
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 Cabe à Comissão Nacional de Eleições promover, através do Centro Regional dos Açores da Radiotelevisão Portuguesa, S. A., do Centro Regional dos Açores da Radiodifusão Portuguesa, S. A., e da imprensa da Região, o esclarecimento objectivo dos cidadãos sobre o significado das eleições para a vida da Região, sobre o processo eleitoral e sobre o processo de votação.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - ...
 
@@ -434,7 +544,9 @@ Cabe à Comissão Nacional de Eleições promover, através do Centro Regional d
 
 3 - O direito de voto é exercido presencialmente pelo cidadão eleitor, salvo o disposto nos artigos 79.º-A, 79.º-B, 79.º-C e 79.º-D.
 
-###### Artigo 87.º — Procedimento da mesa, em relação aos votos antecipados
+Artigo 87.º
+
+Procedimento da mesa, em relação aos votos antecipados
 
 1 - Após terem votado os elementos da mesa e no caso de existirem votos antecipados, o presidente procederá à sua abertura e lançamento na urna, de acordo com o disposto nos números seguintes.
 
@@ -442,7 +554,9 @@ Cabe à Comissão Nacional de Eleições promover, através do Centro Regional d
 
 3 - Feita a descarga no caderno de recenseamento, o presidente abre o sobrescrito branco e introduz o boletim de voto na urna.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - Não pode realizar-se a votação em qualquer assembleia de voto se a mesa não se puder constituir, se ocorrer qualquer tumulto que determine a interrupção das operações eleitorais por mais de três horas ou se na freguesia se registar alguma calamidade no dia marcado para as eleições ou nos três dias anteriores.
 
@@ -458,19 +572,25 @@ c) Realização do apuramento definitivo sem ter em conta a votação em falta, 
 
 4 - Na realização de nova votação, os membros das mesas podem ser nomeados pelo membro do Governo Regional com competência em matéria eleitoral.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
 2 - Não é admitida na assembleia de voto a presença de pessoas manifestamente embriagadas ou drogadas ou que sejam portadoras de qualquer arma ou instrumento susceptível de como tal ser usado.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - É proibida qualquer propaganda dentro das assembleias de voto e fora delas até à distância de 500 m.
 
 2 - Por propaganda entende-se também a exibição de símbolos, siglas, sinais, distintivos ou autocolantes de quaisquer listas.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - ...
 
@@ -488,7 +608,9 @@ c) Realização do apuramento definitivo sem ter em conta a votação em falta, 
 
 8 - ...
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - ...
 
@@ -502,7 +624,9 @@ c) Realização do apuramento definitivo sem ter em conta a votação em falta, 
 
 6 - Se, por inadvertência, o eleitor deteriorar o boletim, deve pedir outro ao presidente, devolvendo-lhe o primeiro. O presidente escreve no boletim devolvido a nota de inutilizado, rubrica-o e conserva-o para os efeitos do n.º 8 do artigo 95.º
 
-###### Artigo 97.º — Voto dos deficientes
+Artigo 97.º
+
+Voto dos deficientes
 
 1 - O eleitor afectado por doença ou deficiência física notórias, que a mesa verifica não poder praticar os actos descritos no artigo 96.º, vota acompanhado de outro eleitor por si escolhido, que garanta a fidelidade de expressão do seu voto e que fica obrigado a sigilo absoluto.
 
@@ -512,7 +636,9 @@ c) Realização do apuramento definitivo sem ter em conta a votação em falta, 
 
 4 - Sem prejuízo da decisão da mesa sobre a admissibilidade do voto, qualquer dos respectivos membros ou dos delegados dos partidos políticos ou coligação pode lavrar protesto.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - ...
 
@@ -528,7 +654,9 @@ c) ...
 
 4 - Considera-se ainda voto nulo o voto antecipado quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 79.º-B e 79.º-C ou seja recebido em sobrescrito que não esteja devidamente fechado.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - ...
 
@@ -554,15 +682,21 @@ i) ...
 
 j) ...
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 Nas vinte e quatro horas seguintes à votação, os presidentes das assembleias ou secções de voto entregam ao presidente da assembleia de apuramento geral ou remetem pelo seguro do correio, ou por próprio, que cobra recibo de entrega, as actas, os cadernos e demais documentos respeitantes à eleição.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 O apuramento dos resultados da eleição em cada círculo eleitoral e a proclamação dos candidatos eleitos competem a uma assembleia de apuramento geral, que inicia os seus trabalhos às 9 horas do 2.º dia posterior ao da eleição, no edifício sede dos serviços do membro do Governo Regional com competência em matéria eleitoral.
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - ...
 
@@ -584,7 +718,9 @@ e) ...
 
 5 - No caso de realização simultânea de eleição do Presidente da República ou da Assembleia da República, presidirá à assembleia de apuramento geral o juiz da comarca da sede dos serviços do membro do Governo Regional com competência em matéria eleitoral e servirá de secretário o respectivo secretário judicial.
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - ...
 
@@ -592,13 +728,17 @@ e) ...
 
 3 - O apuramento geral pode basear-se em correspondência por telecópia transmitida pelos presidentes das câmaras municipais.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - ...
 
 2 - Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o membro do Governo Regional com competência em matéria eleitoral remete às comissões de recenseamento os cadernos de recenseamento das freguesias respectivas e procede à destruição dos restantes documentos, com excepção das actas das assembleias eleitorais.
 
-###### Artigo 118.º — Tribunal competente, processo e prazos
+Artigo 118.º
+
+Tribunal competente, processo e prazos
 
 1 - ...
 
@@ -606,13 +746,17 @@ e) ...
 
 3 - Nas quarenta e oito horas subsequentes ao termo do prazo previsto no número anterior, o Tribunal Constitucional, em plenário, decide definitivamente do recurso, comunicando imediatamente a decisão à Comissão Nacional de Eleições e ao membro do Governo Regional com competência em matéria eleitoral.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - ...
 
 2 - Declarada a nulidade da eleição de uma assembleia de voto ou de todo o círculo, os actos eleitorais correspondentes são repetidos no 2.º domingo posterior à decisão.
 
-###### Artigo 132.º — Violação dos deveres das estações de rádio e televisão
+Artigo 132.º
+
+Violação dos deveres das estações de rádio e televisão
 
 1 - O não cumprimento dos deveres impostos pelos artigos 62.º e 63.º constitui contra-ordenação, sendo cada infracção punível com coima:
 
@@ -622,7 +766,9 @@ b) De 1500000$00 a 5000000$00, no caso da estação de televisão.
 
 2 - Compete à Comissão Nacional de Eleições a aplicação das coimas previstas no n.º 1.
 
-###### Artigo 133.º — Suspensão do direito de antena
+Artigo 133.º
+
+Suspensão do direito de antena
 
 1 - É suspenso o exercício do direito de antena da candidatura que:
 
@@ -634,7 +780,9 @@ b) Faça publicidade comercial.
 
 3 - A suspensão é independente da responsabilidade civil ou criminal.
 
-###### Artigo 134.º — Processo de suspensão do exercício do direito de antena
+Artigo 134.º
+
+Processo de suspensão do exercício do direito de antena
 
 1 - A suspensão do exercício do direito de antena é requerida ao Tribunal Constitucional pelo Ministério Público, por iniciativa deste ou a solicitação da Comissão Nacional de Eleições ou de qualquer outro partido ou coligação interveniente.
 
@@ -644,11 +792,15 @@ b) Faça publicidade comercial.
 
 4 - O Tribunal Constitucional decide no prazo de um dia e, no caso de ordenar a suspensão do direito de antena, notifica logo a decisão às respectivas estações de rádio e de televisão para cumprimento imediato.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 Aquele que acompanhar eleitor afectado por doença ou deficiência física notórias a votar e com dolo exprimir infielmente a sua vontade será punido com prisão de seis meses a dois anos e multa de 5000$00 a 20000$00.
 
-###### Artigo 192.º — [...]
+Artigo 192.º
+
+[...]
 
 1 - Quando qualquer acto processual previsto na presente lei envolva a intervenção de entidades ou serviços públicos, o termo dos prazos respectivos considera-se referido ao termo do horário normal dos competentes serviços ou repartições.
 
@@ -658,7 +810,9 @@ Das 9 horas às 12 horas e 30 minutos.
 
 Das 13 horas e 30 minutos às 16 horas.
 
-## ANEXO I — Recibo comprovativo de voto antecipado
+ANEXO I
+
+Recibo comprovativo de voto antecipado
 
 Para efeitos da Lei Eleitoral para a Assembleia Legislativa Regional dos Açores se declara que ... (nome do cidadão eleitor), residente em ..., portador do bilhete de identidade n.º ..., de ... de ... de ..., inscrito na assembleia de voto (ou secção de voto) de ... com o n.º ..., exerceu antecipadamente o seu direito de voto no dia ... de ... de ...»
 
@@ -678,13 +832,17 @@ Decisão
 
 4 - O Tribunal Constitucional decide em plenário dos recursos referidos no número anterior no prazo de quarenta e oito horas.
 
-###### Artigo 50.º-A — Imunidades e direitos
+Artigo 50.º-A
+
+Imunidades e direitos
 
 1 - Os delegados das listas não podem ser detidos durante o funcionamento da assembleia de voto, a não ser por crime punível com pena de prisão superior a três anos e em flagrante delito.
 
 2 - Os delegados das listas gozam do direito consignado no n.º 5 do artigo 48.º
 
-###### Artigo 79.º-A — Voto antecipado
+Artigo 79.º-A
+
+Voto antecipado
 
 1 - Podem votar antecipadamente:
 
@@ -704,7 +862,9 @@ f) Os eleitores que se encontrem presos e não privados de direitos políticos.
 
 3 - As listas concorrentes à eleição podem nomear, nos termos gerais, delegados para fiscalizar as operações de voto antecipado, os quais gozam de todas as imunidades e direitos previstos no artigo 50.º-A.
 
-###### Artigo 79.º-B — Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança e trabalhadores dos transportes
+Artigo 79.º-B
+
+Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança e trabalhadores dos transportes
 
 1 - Qualquer eleitor que esteja nas condições previstas nas alíneas a), b) e c) do artigo anterior pode dirigir-se ao presidente da câmara do município em cuja área se encontre recenseado, entre o 10.º e o 5.º dias anteriores ao da eleição, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
 
@@ -726,7 +886,9 @@ f) Os eleitores que se encontrem presos e não privados de direitos políticos.
 
 10 - A junta de freguesia remete os votos recebidos ao presidente da mesa da assembleia de voto até à hora prevista no artigo 41.º
 
-###### Artigo 79.º-C — Modo de exercício do direito de voto por estudantes
+Artigo 79.º-C
+
+Modo de exercício do direito de voto por estudantes
 
 1 - Qualquer eleitor que esteja nas condições previstas na alínea d) do n.º 1 do artigo 79.º-A pode requerer ao presidente da câmara do município em que se encontre recenseado, até ao 20.º dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, enviando fotocópias autenticadas do seu bilhete de identidade e do seu cartão de eleitor e juntando documento comprovativo passado pelo estabelecimento de ensino onde se encontre matriculado ou inscrito.
 
@@ -746,7 +908,9 @@ b) Ao presidente da câmara do município onde se encontrem eleitores nas condi�
 
 7 - A junta de freguesia destinatária dos votos recebidos remete-os ao presidente da mesa da assembleia de voto até à hora prevista no artigo 41.º
 
-###### Artigo 79.º-D — Modo de exercício do direito de voto antecipado por doentes internados e por presos
+Artigo 79.º-D
+
+Modo de exercício do direito de voto antecipado por doentes internados e por presos
 
 1 - Qualquer eleitor que esteja nas condições previstas nas alíneas e) e f) do n.º 1 do artigo 79.º-A pode requerer ao presidente da câmara do município em que se encontre recenseado, até ao 20.º dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, enviando fotocópias autenticadas do seu bilhete de identidade e do seu cartão de eleitor e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direcção do estabelecimento hospitalar, ou emitido pelo director do estabelecimento prisional, conforme os casos.
 
@@ -768,13 +932,17 @@ b) Ao presidente da câmara do município onde se encontrem eleitores nas condi�
 
 8 - A junta de freguesia destinatária dos votos recebidos remete-os ao presidente da mesa da assembleia de voto até à hora prevista no artigo 41.º
 
-###### Artigo 111.º-A — Termo do apuramento geral
+Artigo 111.º-A
+
+Termo do apuramento geral
 
 1 - O apuramento geral estará concluído até ao 10.º dia posterior à eleição, sem prejuízo do disposto no número seguinte.
 
 2 - Em caso de adiamento ou declaração de nulidade da votação em qualquer assembleia ou secção de voto, a assembleia de apuramento geral reunirá no dia seguinte ao da votação ou ao do reconhecimento da sua impossibilidade, nos termos do n.º 3 do artigo 90.º, para completar as operações de apuramento do círculo.
 
-###### Artigo 195.º-A — Direito subsidiário
+Artigo 195.º-A
+
+Direito subsidiário
 
 Em tudo o que não estiver regulado no presente diploma, aplica-se aos actos que impliquem intervenção de qualquer tribunal o disposto no Código do Processo Civil quanto ao processo declarativo, com excepção dos n.os 4 e 5 do artigo 145.º»
 
@@ -822,17 +990,17 @@ A presente lei entra em vigor no dia imediato ao da sua publicação.
 
 Aprovada em 25 de Maio de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Promulgada em 28 de Junho de 2000.**
+Promulgada em 28 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 4 de Julho de 2000.**
+Referendada em 4 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Lei Eleitoral para a Assembleia Legislativa Regional dos Açores
 
@@ -2168,7 +2336,7 @@ Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois 
 
 ###### Artigo 157.º — Recusa de receber reclamações, protestos ou contraprotestos
 
-**O presidente da mesa da assembleia eleitoral que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.**
+O presidente da mesa da assembleia eleitoral que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.
 
 ###### Artigo 158.º — Obstrução dos candidatos ou dos delegados das listas
 
@@ -2240,7 +2408,7 @@ Este diploma entra em vigor na data imediata à da sua publicação.
 
 Para efeitos da lei eleitoral para a Assembleia Legislativa Regional dos Açores se declara que ... (nome do cidadão eleitor), residente em ..., portador do bilhete de identidade n.º ..., de ... de ... de ..., inscrito na assembleia de voto (ou secção de voto) de ... com o n.º ..., exerceu antecipadamente o seu direito de voto no dia ... de ... de ...
 
-**O Presidente da Câmara Municipal de ...**
+O Presidente da Câmara Municipal de ...
 
 ... (assinatura).
 

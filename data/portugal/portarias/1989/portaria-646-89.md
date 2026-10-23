@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18500/32533254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/646-1989-619124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T09:58:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b7092c13ccec9989366aae7ba4d63d002e2568b49f5c529034464c16ff8a8dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7607a7960098f51a61a7f6076d6476a1e9488155e664406d975ffda7fe0245c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:58:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Exército
+- Força Aérea
+- Forças Armadas
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:200034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:356354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448928:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:200034:por
+  label: "Revogada pela PORT.137/2003.2003.02.06.MDN DR.IS-B [31]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2003-200034
+  date: '2003-02-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:58:13Z'
   warnings: []
   errors: []
 ---
@@ -149,8 +175,8 @@ d) Serviço efectivo decorrente de mobilização.
 
 Ministério da Defesa Nacional.
 
-**Assinada em 25 de Julho de 1989.**
+Assinada em 25 de Julho de 1989.
 
 Pelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18500/32533254.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18500/32533254.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18500/32533254.pdf)

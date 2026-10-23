@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28600/50925094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1199-1990-563414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:12:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 617a33e62632375bca79983b1df1026544782b8600c4ea9a44292ed297b08745
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b50b80a822b008b17f60d8a5a3be54d768ae0743c2d10b5cd4e1065a7eeadc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:12:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Controlo de Qualidade
+- Higiene Corporal
+- Produto Cosmetico
+- Proteção do Consumidor
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUM 3 E 4 DO NUM 1, PELA PORT 1020/92 DE 31-OUT DR.IS-B [252]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-10-31'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 110/96 DE 10-ABR DR.IS-B [85]\0IS-B [85]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-04-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:12:14Z'
   warnings: []
   errors: []
 ---
@@ -127,13 +141,13 @@ Corante CI 42555-2.
 
 a) O texto dos números de ordem 2 e 51 passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28600/50925094.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28600/50925094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28600/50925094.pdf)
 
 b) São aditados os números de ordem 53 e 54:
 
 Ácido etidrónico N. T. D 18591 (em anexo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28600/50925094.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28600/50925094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28600/50925094.pdf)
 
 3) Na segunda parte do anexo III:
 
@@ -167,7 +181,7 @@ c) O texto da col. «Outras limitações e exigências» é suprimido para o n.�
 
 a) São aditados à primeira parte do anexo VI os seguintes números de ordem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28600/50925094.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28600/50925094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28600/50925094.pdf)
 
 b) Relativamente à substância n.º 19, são suprimidos os textos da col. d);
 
@@ -213,6 +227,6 @@ e) Para a substância com o número «21 - Benzilformal» a designação que con
 
 Ministérios da Indústria e Energia, da Saúde e do Comércio e Turismo.
 
-**Assinada em 12 de Novembro de 1990.**
+Assinada em 12 de Novembro de 1990.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro da Saúde, Arlindo Gomes de Carvalho. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.

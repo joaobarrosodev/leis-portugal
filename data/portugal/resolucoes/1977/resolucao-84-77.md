@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/84-1977-139879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:10:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db0778392de0427cdc320fa0434b2b8a21282bc3a3ab14108266157d436047b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b67a6a95771e937563f9839881a980c2726854dcbf3a9ce6fbd2a56af4966678
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:10:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Intervencionada
+- Empresa Privada
+- Gestão
+- Intervenção do Estado
 relationships:
 - type: amended_by
   target: pt:dre:461652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:447328:por
+  label: Determinada, a prorrogação do prazo de intervenção estatal até 30.06.1978, determinado pela presente Resolução, pelo(a)
+    Resolução n.º 45/78 - Diário da República n.º 71/1978, Série I de 1978-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/45-1978-447328
+  date: '1978-03-27'
+- type: amended_by
+  target: pt:dre:392057:por
+  label: "Prorrogado, até 31.03.1979, o período da intervenção do Estado determinada pelo presente diploma, pela RES.15/79.17.01.1979.PCM,\
+    \ DR.IS [14] de 17.01.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/15-1979-392057
+  date: '1979-01-17'
+- type: amended_by
+  target: pt:dre:383035:por
+  label: "Prorrogado, por 120 dias, o período de intervenção do Estado determinada pelo presente diploma, pela RES.136/79.08.05.1979.PCM,\
+    \ DR.IS [105] de 08.05.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/136-1979-383035
+  date: '1979-05-08'
+- type: amended_by
+  target: pt:dre:381355:por
+  label: "Prorrogado o prazo de intervenção do Estado em diversas empresas, determinado pelo presente diploma, pela RES.230/79.02.08.1979.PCM,\
+    \ DR.IS [177] de 02.08.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/230-1979-381355
+  date: '1979-08-02'
+- type: amended_by
+  target: pt:dre:353751:por
+  label: "Prorrogado por sessenta dias, com efeitos a partir de 30.11.1979, a intervenção do Estado nas empresas designadas\
+    \ e a ela submetidas pelo presente diploma, com as alterações constantes da Res 230/79 de 18-Jul, pela RES.373/79.31.12.1979.PCM,\
+    \ DR.IS [300] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/373-1979-353751
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:461652:por
+  label: "Prorrogada, a partir de 29.04.1980, a intervenção do Estado determinada pelo presente diploma, pela RES.356/80.27.09.1980.PCM,\
+    \ DR.IS [224] de 27.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/356-1980-461652
+  date: '1980-09-27'
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:10:22Z'
   warnings: []
   errors: []
 ---

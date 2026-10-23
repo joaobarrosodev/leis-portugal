@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/142-1978-329196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T10:11:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a953a51193b6e88c2e90fda00778ef3931b515b31840b854e57923b61f45ca6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbe5d7fa22a959bb9e57ce6f44a3f62a3b172a57ddcb7e9714e122a6683b49c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:11:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Constitucional
+- Presidente
+- Substituição de Funções
+relationships:
+- type: cites
+  target: pt:dre:232941:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:11:51Z'
   warnings: []
   errors: []
 ---
@@ -87,4 +94,4 @@ Nos termos do artigo 5.º do [Decreto-Lei n.º 503-F/76](https://diariodarepubli
 
 Aprovada em Conselho da Revolução em 28 de Agosto de 1978.
 
-**O Presidente do Conselho da Revolução, António Ramalho Eanes, general.**
+O Presidente do Conselho da Revolução, António Ramalho Eanes, general.

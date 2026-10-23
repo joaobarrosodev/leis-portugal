@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/64-1989-610253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:58:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3f7374765f214c4de80c98e73f6716e4de975b830a591f85b3785c96e9b9248
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90dfc71e807db73d1057daa6b617a99f69f0b5e5add94c1aba0f0d33a60f0e34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:58:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arronches
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:345079:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:315111:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a actividade cinegética, concessionada pela presente Portaria, pela PORT.54/2001.2001.01.29.MADRP,\
+    \ DR.IS-B [24]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/54-2001-315111
+  date: '2001-01-29'
+- type: amended_by
+  target: pt:dre:345079:por
+  label: "Renovada, por um período de 20 anos, a presente concessão de zona de caça turística pela PORT.261/2001.2001.03.28.MECO,DR.IS-B\
+    \ [74]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-2001-345079
+  date: '2001-03-28'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:58:03Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +140,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 12 de Janeiro de 1989.**
+Assinada em 12 de Janeiro de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/02500/03860386.pdf))](https://files.diariodarepublica.pt/1s/1989/01/02500/03860386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/02500/03860386.pdf)

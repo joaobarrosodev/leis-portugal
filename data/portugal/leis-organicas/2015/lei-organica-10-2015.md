@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15800/0591105912.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/10/2015/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/10-2015-70014791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 527f0cd4206bc413eaa4e75b7e318824f8ccdf34810aa05e5eade0d2da8b80a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f250c5fdbe199d0b7e37ebc87af3c10f6d43ca64bafe7e9f87959079dcd3590
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Parlamentar
-- Eleição
-- Sistema Judicial
+- Assembleia da República
 - Decisão Judicial
 - Definição de Competências
+- Eleição
 - Eleição Legislativa
-- Tribunal de Comarca
 - Lei Eleitoral
+- Parlamentar
+- Recurso
 - Sistema Eleitoral
-- Assembleia da República
+- Sistema Judicial
+- Tribunal de Comarca
 relationships:
 - type: amended_by
   target: pt:dre:116090196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116090196:por
+  label: Alterados , a partir de 18.08.2018, e nos termos do art. 11.º, os arts. 40.º e , 95.º da Lei Eleitoral para a Assembleia
+    da República, aprovada pela Lei 14/79, de 16-mai, na redação do presente diploma, pelo(a) Lei Orgânica n.º 3/2018 - Diário
+    da República n.º 158/2018, Série I de 2018-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2018-116090196
+  date: '2018-08-17'
 - type: cites
   target: eli:http://data.
   label: null
@@ -122,16 +129,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/2010/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/3/2010/12/15/p/dre
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866640:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:12Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +235,9 @@ Os artigos 23.º, 40.º, 95.º, 104.º e 108.º da Lei Eleitoral para a Assemble
 
 4 - (Revogado.)
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -176,7 +249,9 @@ Os artigos 23.º, 40.º, 95.º, 104.º e 108.º da Lei Eleitoral para a Assemble
 
 5 - ...
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - ...
 
@@ -192,13 +267,17 @@ Os artigos 23.º, 40.º, 95.º, 104.º e 108.º da Lei Eleitoral para a Assemble
 
 7 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao juiz presidente do tribunal da comarca com sede na capital do distrito ou região autónoma dos boletins de voto que tiverem recebido, devendo os presidentes das assembleias ou secções de voto devolver-lhe no dia seguinte ao das eleições os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - Os restantes boletins de voto são colocados em pacotes devidamente lacrados e confiados à guarda do juiz de direito da secção da instância local ou, se for o caso, da secção da instância central do tribunal da comarca referidas no n.º 4 do artigo 40.º
 
 2 - ...
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - A assembleia de apuramento geral tem a seguinte composição:
 
@@ -224,14 +303,14 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 22 de julho de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
-**Promulgada em 7 de agosto de 2015.**
+Promulgada em 7 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 11 de agosto de 2015.**
+Referendada em 11 de agosto de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

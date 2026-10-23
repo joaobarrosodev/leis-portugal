@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/07900/16531660.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-1990-333146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ae9dc2841edcc9453880d3da0250af1130c0559cf3999e8b68cd40fdda868a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 082b8460b79ce3391604c50bcccdff7a5059d11d559b5d0324f6d5a2f5ddc2d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carne
+- Carne de Suíno
+- CEE
+- Controlo Sanitário
+- Direcção Geral da Pecuária
+- Gado Suíno
+- Importação
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ANEXOS I, IV E V PELA PORT 641/95 DE 22-JUN DR.IS-B [142]\0[142]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-22'
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o presente diploma, na redacção da Port 641/95, de 22-Jun, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:16:23Z'
   warnings: []
   errors: []
 ---
@@ -140,9 +158,9 @@ b) De pessoal com formação específica para a execução do exame.
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 19 de Março de 1990.**
+Assinada em 19 de Março de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
 ## ANEXO I — Métodos de pesquisa das triquinas
 
@@ -730,7 +748,7 @@ n) Dispositivos de evacuação das águas residuais, segundo as normas que regem
 
 o) Dispositivos apropriados de protecção contra os animais infestantes.
 
-### Capítulo II - Prescrições aplicáveis ao pessoal, locais, material e instrumentos dos laboratórios de despiste das triquinas.
+Capítulo II - Prescrições aplicáveis ao pessoal, locais, material e instrumentos dos laboratórios de despiste das triquinas.
 
 1 - É exibido o mais escrupuloso estado de limpeza dos locais, material e instrumentos, bem como de higiene do pessoal.
 
@@ -748,7 +766,7 @@ o) Dispositivos apropriados de protecção contra os animais infestantes.
 
 8 - Para impedir o cansaço e suas consequências devem ser concedidos ao pessoal de controlo interrupções de trabalho.
 
-### Capítulo III - Prescrições relativas aos triquinoscópios
+Capítulo III - Prescrições relativas aos triquinoscópios
 
 1 - A concepção e tipo de triquiniscópios devem satisfazer os seguintes critérios mínimos:
 

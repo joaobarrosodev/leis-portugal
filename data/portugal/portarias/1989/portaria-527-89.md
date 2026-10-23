@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/527-1989-619558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:55:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dfd70762d279eb78b9eedec6ccc706c60cfdc781ea0ab0f2e4f1d73093e6a13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea0d64ac47180b7869e01c6e3b3789a9f9fb1d84b4838806e013a06c3e9bb172
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:55:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alcácer do SAL
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:640169:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475571:por
+  label: "Renovada concessão da zona de caça associativa pela PORT.644/95.1995.06.22.MA DR.IS-B [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/644-1995-475571
+  date: '1995-06-22'
+- type: amended_by
+  target: pt:dre:378919:por
+  label: "Suspenso o exercício da caça pela PORT.934/2001.2001.07.30.MADRP DR.IS-B [175]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/934-2001-378919
+  date: '2001-07-30'
+- type: amended_by
+  target: pt:dre:251442:por
+  label: "Renovada a concessão da zona de caça associativa concessionada, e renovada pela Port. 644/95, de 22-Jun pela PORT.188/2002.2002.03.04.MADRP,\
+    \ DR.IS-B [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-2002-251442
+  date: '2002-03-04'
+- type: amended_by
+  target: pt:dre:640169:por
+  label: "Renovado por um período de 6 anos, a concessão da zona de caça criada pelo presente diploma, e renovada pela Portaria\
+    \ 644/95, de 22 de Junho e pela Portaria 188/2002, de 04 de Março, pela PORT.1153/2007.12.09.2007.MADRP, DR.IS [176] de\
+    \ 12.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1153-2007-640169
+  date: '2007-09-12'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:55:17Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +151,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 21 de Junho de 1989.**
+Assinada em 21 de Junho de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15700/27442745.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15700/27442745.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15700/27442745.pdf)

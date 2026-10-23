@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2020/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2020-148086464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b791a9e7a2bd9311cddba0c566c6f7294d84ce9cf68ea6c447c367f099d56eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a57f3af145da49080e20467d19be341e3766a2cb22edcb3f83e16a7e380f957
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adopção
-- Nacionalidade
+- Apátrida
+- Casamento
 - Cidadão Estrangeiro
 - Cidadão Nacional
 - Conservatória dos Registos Centrais
 - Filiação
-- Residência
-- Apátrida
+- Nacionalidade
 - Naturalização
-- Casamento
+- Residência
 - União de Facto
 relationships:
 - type: amended_by
@@ -121,16 +121,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/9/2015/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/9/2015/07/29/p/dre
+- type: cites
+  target: pt:dre:115643970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69889521:por
+  label: null
+  source: null
 article_structure:
-  article_count: 52
+  article_count: 47
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:43Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +229,9 @@ g) [...]
 
 4 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -219,7 +273,9 @@ c) O menor aqui tenha frequentado, pelo menos, um ano da educação pré-escolar
 
 12 - O procedimento de naturalização das pessoas abrangidas pelos n.os 2, 3, 5 e 9 é gratuito.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -237,7 +293,9 @@ d) [...]
 
 4 - À prova da inexistência de condenação referida na alínea b) do n.º 1 é aplicável o disposto no n.º 11 do artigo 6.º
 
-###### Artigo 12.º-B — [...]
+Artigo 12.º-B
+
+[...]
 
 1 - [...]
 
@@ -247,7 +305,9 @@ d) [...]
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A nacionalidade portuguesa originária dos indivíduos abrangidos pelas alíneas a), b), f) e g) do n.º 1 do artigo 1.º prova-se pelo assento de nascimento.
 
@@ -259,7 +319,9 @@ d) [...]
 
 5 - A nacionalidade originária dos indivíduos abrangidos pela alínea e) do n.º 1 do artigo 1.º prova-se pelo assento de nascimento onde conste a menção da naturalidade portuguesa de um dos progenitores e a da sua residência no território nacional.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -283,17 +345,17 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 2 de outubro de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 31 de outubro de 2020.**
+Promulgada em 31 de outubro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 3 de novembro de 2020.**
+Referendada em 3 de novembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -660,3 +722,5 @@ O registo das alterações de nacionalidade por efeito de casamento ou por aquis
 ###### Artigo 40.º — Disposição revogatória
 
 É revogada a Lei n.º 2098, de 29 de julho de 1959.
+
+113707414

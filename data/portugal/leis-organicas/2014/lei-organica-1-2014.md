@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1/2014/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2014-606109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e27d367ff35bdf02e910eac80f255300d3ffb8ef938573c46b4b566a6aba048
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e3ed4e129dc2048ec65e5a5b0e3ff83503643b451f527cf7d67e0ab21bc7f1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
 - Aproximação das Legislações
-- Região Autónoma
 - Campanha Eleitoral
-- Eleição
 - Cidadão Nacional
 - Definição de Competências
+- Direito de Voto
+- Eleição
 - Eleição Europeia
-- União Europeia
 - Incompatibilidades
 - Lei Eleitoral
-- Residência
+- Nacionalidade
 - Parlamento Europeu
-- Direito de Voto
+- Região Autónoma
+- Residência
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:177088811:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177088811:por
+  label: Alterado o art. 6.º da Lei 14/87 de 29-abr, na versão republicada pelo presente diploma, pelo(a) Lei Orgânica n.º
+    1/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04, nos termos dos efeitos estabelecidos seu no art. 5.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2022-177088811
+  date: '2022-01-04'
 - type: cites
   target: celex:31993L0109
   label: null
@@ -96,15 +102,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2013/1/oj
 article_structure:
-  article_count: 33
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:07Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +155,9 @@ h) ...
 
 i) Os cidadãos da União Europeia privados do direito de se candidatarem por decisão judicial ou administrativa no Estado de origem.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -167,7 +175,9 @@ a) ...
 
 b) ...
 
-###### Artigo 9.º-A — [...]
+Artigo 9.º-A
+
+[...]
 
 1 - ...
 
@@ -203,7 +213,9 @@ Falsas declarações
 
 Quem, sabendo estar privado do direito de se candidatar ao Parlamento Europeu no Estado membro de que é nacional em virtude de decisão judicial ou administrativa, esta última suscetível de recurso ou impugnação judicial, prestar sobre aquele facto falsa declaração com o intuito de integrar listas de candidatura em Portugal, é punido nos termos do artigo 348.º-A do Código Penal.
 
-###### Artigo 14.º-D — Verificação de elegibilidade de cidadão português
+Artigo 14.º-D
+
+Verificação de elegibilidade de cidadão português
 
 1 - No âmbito da verificação da elegibilidade de cidadão português candidato ao Parlamento Europeu no Estado membro de residência, a SGMAI é designada como ponto de contacto encarregue de:
 
@@ -231,17 +243,17 @@ A presente lei entra em vigor 30 dias após a data da sua publicação.
 
 Aprovada em 6 de dezembro de 2013.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
-**Promulgada em 31 de dezembro de 2013.**
+Promulgada em 31 de dezembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 2 de janeiro de 2014.**
+Referendada em 2 de janeiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -339,7 +351,7 @@ b) Com o exercício do mandato de deputado à Assembleia da República.
 
 ###### Artigo 7.º — Marcação da eleição
 
-**O Presidente da República, ouvido o Governo e tendo em conta as disposições aplicáveis, marca a data das eleições com a antecedência de 60 dias.**
+O Presidente da República, ouvido o Governo e tendo em conta as disposições aplicáveis, marca a data das eleições com a antecedência de 60 dias.
 
 ###### Artigo 8.º — Organização das listas
 

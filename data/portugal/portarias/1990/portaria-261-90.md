@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/261-1990-332043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:16:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 517df4fb010fbf4a8c3f589cb06cd964a6d595bb4af8de305e2d646e12bd5cd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6d659e4d895e144a35d2e96c75c929e2e049a25bf64be38f833b6055bb4abdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Guimarães
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Repartição de Finanças
+- Tesouraria da Fazenda Pública
 relationships:
 - type: amended_by
   target: pt:dre:223035:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223035:por
+  label: "Extinta a 3ª Tesouraria da Fazenda Pública do concelho de Guimarães pela PORT.948/98.1998.11.03.MF, DR.IS-B [254]\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/948-1998-223035
+  date: '1998-11-03'
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391188:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:16:50Z'
   warnings: []
   errors: []
 ---
@@ -114,18 +138,18 @@ As duas tesourarias da Fazenda Pública do concelho de Guimarães são desdobrad
 
 Ministério das Finanças.
 
-**Assinada em 7 de Março de 1990.**
+Assinada em 7 de Março de 1990.
 
-**O Secretário de Estado do Tesouro, Carlos Manuel Tavares da Silva.**
+O Secretário de Estado do Tesouro, Carlos Manuel Tavares da Silva.
 
 MAPA I
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/08300/17441744.pdf))](https://files.diariodarepublica.pt/1s/1990/04/08300/17441744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/08300/17441744.pdf)
 
 MAPA II
 
 Alterações do quadro geral de pessoal das tesourarias da Fazenda Pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/08300/17441744.pdf))](https://files.diariodarepublica.pt/1s/1990/04/08300/17441744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/08300/17441744.pdf)

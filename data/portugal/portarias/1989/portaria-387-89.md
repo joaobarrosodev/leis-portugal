@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-1989-609801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T09:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28dbdf8f41ed00a2a1b354f9b29337aff235858e607eb3a297e5e3f8c00c47ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b446377f71e7920c0cbbfa73540129ce982e0c3f8ed97c118769cd1050fa2102
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- INEM
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:383022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:599122:por
+  label: Alterado o Quadro de Pessoal do Instituto Nacional de Emergência Médica, na parte relativa às áreas funcionais de
+    biblioteca e documentação e de arquivo, aprovado pelo Dec Lei 234/81, de 03-ago, alterado pelas Ports n.ºs 1182/82, de
+    23-dez, 738/83, de 19-jun, 807-X1/83, de 30-jul, 408/86, de 28 de jul, 147/88, de 09-mar, e pela presente, pelo(a) Portaria
+    n.º 1088/92 - Diário da República n.º 274/1992, Série I-B de 1992-11-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1088-1992-599122
+  date: '1992-11-26'
+- type: amended_by
+  target: pt:dre:375976:por
+  label: Alterado o Quadro de Pessoal do Instituto Nacional de Emergência Médica, aprovada pelo Dec Lei 234/81, de 03-ago,
+    alterado pelas Ports n.ºs1182/82, de 23-dez, 738/83, de 29-jun, 807-X1/83, de 30-jul, 408/86, de 28-jul, 147/88, de 09-mar,
+    pela presente e pela 1088/92, de 26-nov, pelo(a) Portaria n.º 649/93 - Diário da República n.º 157/1993, Série I-B de
+    1993-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-1993-375976
+  date: '1993-07-07'
+- type: amended_by
+  target: pt:dre:383022:por
+  label: "Substituido o quadro de pessoal pela Port 295/97.1997.05.05.PCM, DR.IS-B [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-1997-383022
+  date: '1997-05-05'
+- type: cites
+  target: pt:dre:218739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576950:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:51:51Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +147,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que ao quadro de pes
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 10 de Maio de 1989.**
+Assinada em 10 de Maio de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal do Instituto Nacional de Emergência Médica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/12600/21572158.pdf))](https://files.diariodarepublica.pt/1s/1989/06/12600/21572158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/12600/21572158.pdf)

@@ -47,40 +47,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/143-1990-332911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 150be579e6a1daeb62ffbd4f9a9a12fea643e17d5af7b7c8ab3f3f728af3a5b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a246e93740b79ebd65902bca6196cfcaa8336015b8f1e5f37d5f6d5ecfed259
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pessoal não Docente
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:445098:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:659555:por
+  label: "Alterada pelo DR.35/91.1991.06.20.ME, DR.IS-B [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/35-1991-659555
+  date: '1991-06-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DE INFORMÁTICA DAS ESCOLAS E ESTABELECIMENTOS ANEXOS A UNIVERSIDADE TÉCNICA DE LISBOA,
+    PELA PORT 251/93 DE 05-MAR DR.IS-B [54]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO SUPERIOR DE ECONOMIA E GESTÃO DA UNIVERSIDADE TÉCNICA DE LISBOA, PELO DN
+    225/93 DE 10-AGO DR.IS-B [200] DE 26/AGO/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 146/95 DE 14-FEV DR.IS-B [38]. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-02-14'
+- type: amended_by
+  target: pt:dre:445098:por
+  label: "Alterado quadro de pessoal do Instituto Superior Técnico, pela PORT.177/96.29.05.1996.PCM, DR.IS-B [125] de 29.05.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/177-1996-445098
+  date: '1996-05-29'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583459:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:13:58Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +157,13 @@ c) Do mapa I anexo ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 29 de Dezembro de 1989.**
+Assinada em 29 de Dezembro de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 Mapa a que se refere o n.º 2.º da Portaria n.º 143/90, de 21 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
 
 Faculdade de Medicina Veterinária
 
@@ -137,7 +189,7 @@ Conservação de equipamentos.
 
 Mapa a que se refere o n.º 2.º da Portaria n.º 143/90, de 21 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
 
 Instituto Superior de Agronomia
 
@@ -255,7 +307,7 @@ Conservação de equipamentos.
 
 Mapa a que se refere o n.º 2.º da Portaria n.º 143/90, de 21 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
 
 Instituto Superior de Economia e Gestão
 
@@ -307,7 +359,7 @@ Conservação de equipamentos.
 
 Mapa a que se refere o n.º 2.º da Portaria n.º 143/90, de 21 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
 
 Instituto Superior Técnico
 
@@ -447,7 +499,7 @@ Conservação de equipamentos.
 
 Mapa a que se refere o n.º 2.º da Portaria n.º 143/90, de 21 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
 
 Instituto Superior de Ciências Sociais e Políticas
 
@@ -473,7 +525,7 @@ Conservação de equipamentos.
 
 Mapa a que se refere o n.º 2.º da Portaria n.º 143/90, de 21 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
 
 Laboratório de Patologia Vegetal Veríssimo de Almeida
 
@@ -513,7 +565,7 @@ Conservação de equipamentos.
 
 Mapa a que se refere o n.º 2.º da Portaria n.º 143/90, de 21 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04400/06980705.pdf)
 
 Centro de Informática do Instituto Superior Técnico
 

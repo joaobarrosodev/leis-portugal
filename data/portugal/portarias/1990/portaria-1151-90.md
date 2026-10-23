@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1151-1990-564791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:10:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c86a26cfd44d5f052bf8bebd3a14ea6a35a14e808ef5ac8b78d1af4028d25546
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9b6564709936b4ead2e64cfc6c6501f056510db9a933d39dc40fc35ca32bf38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:10:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Extinção de Serviços
+- Porto
+- Tesouraria da Fazenda Pública
+relationships:
+- type: cites
+  target: pt:dre:138496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556662:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:10:53Z'
   warnings: []
   errors: []
 ---
@@ -112,18 +135,18 @@ Manda o Governo, pelo Secretário de Estado do Tesouro, em conformidade com os a
 
 Ministério das Finanças.
 
-**Assinada em 31 de Outubro de 1990.**
+Assinada em 31 de Outubro de 1990.
 
-**O Secretário de Estado do Tesouro, Carlos Manuel Tavares da Silva.**
+O Secretário de Estado do Tesouro, Carlos Manuel Tavares da Silva.
 
 MAPA I
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27000/47784779.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27000/47784779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27000/47784779.pdf)
 
 MAPA II
 
 Alterações do quadro geral de pessoal das tesourarias da Fazenda Pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27000/47784779.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27000/47784779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27000/47784779.pdf)

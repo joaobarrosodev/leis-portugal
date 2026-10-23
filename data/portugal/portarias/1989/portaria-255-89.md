@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/255-1989-615062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:48:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc328493813d37a21fcc3995ca61b90ab533c174044216b4e67bee4d5219bccf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85e1324f11d90b8436282dc68e01e9e5812cf27c460a129875e9b80a0990f09c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:48:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Montemor-o-Novo
 relationships:
 - type: amended_by
   target: pt:dre:248572:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248572:por
+  label: "Extinta a zona de caça associativa da Herdade de Vale do Nobre, atribuída pelo presente diploma, e renovada pela\
+    \ Port 286/95, de 10-Abr, e concessionada, pelo período de 12 anos, a zona de caça turística de Vale Nobre, pela PORT.92/2008.28.01.2008.MAOTDR,\
+    \ DR.IS [19] de 28.01.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-2008-248572
+  date: '2008-01-28'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:48:31Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +134,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 20 de Março de 1989.**
+Assinada em 20 de Março de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08100/14871488.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08100/14871488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08100/14871488.pdf)

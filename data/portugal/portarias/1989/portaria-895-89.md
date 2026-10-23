@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/895-1989-548870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:04:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea12f459509745857b4a359eea8e67acc770a045b888e171a9bf002af7eda94c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dac16737eec40be7af4f235d4a46fed0f6e2fbd5a88137d05421547ddb7ad44c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:04:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bombarral
+- CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:182430:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:245276:por
+  label: "Alterado o nº 1 e aditado um nº 1-A pela Port 993-A/97.1997.09.22.MADRP, DR.IS-B [219]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/993-a-1997-245276
+  date: '1997-09-22'
+- type: amended_by
+  target: pt:dre:254456:por
+  label: "Determinada a suspensão do exercício da caça pelo período máximo de nove meses até à data da publicação da portaria\
+    \ de renovação da zona de caça criada pelo presente diploma, pela PORT.1203-J/2001.2001.10.18.MADRP DR.IS-B [242]SUPL\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1203-j-2001-254456
+  date: '2001-10-18'
+- type: amended_by
+  target: pt:dre:182430:por
+  label: "Renovada a concessão da zona de caça associativa constante do presente diploma, alterado pela Port 993-A/97, de\
+    \ 22-Set, pela PORT.987/2002.2002.08.06.MADRP, DR.IS-B [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/987-2002-182430
+  date: '2002-08-06'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:04:15Z'
   warnings: []
   errors: []
 ---
@@ -115,8 +151,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 27 de Setembro de 1989.**
+Assinada em 27 de Setembro de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23700/44954495.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23700/44954495.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23700/44954495.pdf)

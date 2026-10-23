@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/4/2005/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2005-142522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dec7c1a61e505441e6dc2a73bf301b18fc202a2a88a7a68666587a6c086bca51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9248db2172ae1a45649453c09d209f547d3ba80c79873c497a9e178015ba9921
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Eleição
-- Recenseamento Eleitoral
 - Presidente da República
+- Recenseamento Eleitoral
 - Referendo
 relationships:
 - type: amended_by
   target: pt:dre:840716420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453269:por
+  label: "Alterados, a partir de 26.10.2008, os artigos 5.º e 59.º-A, da Lei n.º 13/99, de 22 de Março, na redacção da presente\
+    \ lei, republicada em anexo, pela LEI.47/2008.27.08.2008.AR, DR.IS [165] de 27.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/47-2008-453269
+  date: '2008-08-27'
+- type: amended_by
+  target: pt:dre:146220:por
+  label: "Alterado o art. 77º da Lei 15-A/98, de 03-Abr, na redacção do presente diploma, pela LEI ORG.1/2011.30.11.2011.AR,\
+    \ DR.IS [230] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2011-146220
+  date: '2011-11-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1999/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1999/03/22/p/dre
+- type: cites
+  target: pt:dre:150518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:45Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +136,9 @@ Os artigos 8.º, 35.º, 40.º, 41.º, 77.º e 79.º da Lei Orgânica n.º 15-A/9
 
 Não pode ser praticado acto de convocação ou realizado o referendo entre a data da convocação e a da realização de eleições gerais para os órgãos de soberania, de governo próprio das Regiões Autónomas e do poder local, bem como de deputados ao Parlamento Europeu.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -124,11 +146,15 @@ Não pode ser praticado acto de convocação ou realizado o referendo entre a da
 
 3 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 Até ao 30.º dia anterior ao da realização do referendo, os partidos legalmente constituídos ou coligações fazem entrega à Comissão Nacional de Eleições da declaração prevista no n.º 2 do artigo anterior.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Até ao 30.º dia anterior ao da realização do referendo, podem cidadãos eleitores, em número não inferior a 5000, constituir-se em grupo, tendo por fim a participação no esclarecimento das questões submetidas a referendo.
 
@@ -140,7 +166,9 @@ Até ao 30.º dia anterior ao da realização do referendo, os partidos legalmen
 
 5 - ...
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - Até ao 30.º dia anterior ao do referendo, o presidente da câmara municipal determina o desdobramento em secções de voto, quando necessário, da assembleia de voto de cada freguesia, comunicando-o imediatamente à correspondente junta de freguesia.
 
@@ -150,7 +178,9 @@ Até ao 30.º dia anterior ao da realização do referendo, os partidos legalmen
 
 4 - ...
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - Compete ao presidente da câmara municipal determinar os locais de funcionamento das assembleias e das secções de voto, comunicando-os às correspondentes juntas de freguesia até ao 25.º dia anterior ao do referendo.
 
@@ -216,14 +246,14 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 28 de Julho de 2005.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-**Promulgada em 26 de Agosto de 2005.**
+Promulgada em 26 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 29 de Agosto de 2005.**
+Referendada em 29 de Agosto de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/696-1989-619162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T09:59:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f8021e694eb5772032014ba7f14919fe23234931395ad207c3cb658554ba67c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 002e24e8d9e36edc957b55165b65e0c1589a81132e93c5722906620d7fa346bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:59:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica Hospitalar
+- Hospital Distrital
+- Médico
+- Pessoal de Enfermagem
+- Quadro de Pessoal
+- VILA NOVA de Famalicão
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE VILA NOVA DE FAMALICÃO, PELA PORTARIA 290/93, PUBLICADA\
+    \ NO DR.IS-B, 61, DE 930313.\0 930313.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:635595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654556:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:59:24Z'
   warnings: []
   errors: []
 ---
@@ -97,10 +148,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinado em 25 de Julho de 1989.**
+Assinado em 25 de Julho de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal do Hospital Distrital de Vila Nova de Famalicão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18600/32763277.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18600/32763277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18600/32763277.pdf)

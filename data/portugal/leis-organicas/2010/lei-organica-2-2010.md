@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2010/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2010-335688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15ee2b2e2805090818e27a9f965d7a652388ea46e0f6d2ef182d688e569878fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d2d3d43f6692fe189dae67f55415ab15c8d7087e46e6da69d71e7432e078d1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,83 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Financiamento
 - BEI
-- Imposto Municipal sobre Imóveis
-- Expropriação
 - Catástrofe
+- Expropriação
+- Financiamento
 - Fundo de Coesão
+- Imposto Municipal sobre Imóveis
 - Isenção Fiscal
 - Linha de Crédito
+- Madeira.região Autónoma
 - Orçamento Geral do Estado
 - Prohabita
-- Madeira.região Autónoma
 - Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:105637672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Aditado o art. 20º-A pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:499567:por
+  label: "Mantido em vigor o art. 5º e revogado, a partir de 01.01.2014, o art. 20º pela LEI ORG.2/2013.02.09.2013.AR, DR.IS\
+    \ [168] de 02.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2013-499567
+  date: '2013-09-02'
+- type: amended_by
+  target: pt:dre:571911:por
+  label: "Repristinado, durante o ano de 2014, o disposto no art. 19.º, do presente diploma, pela LEI.13/2014.14.03.2014.AR,\
+    \ DR.IS [52] de 14.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2014-571911
+  date: '2014-03-14'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Repristinado durante o ano de 2015, o disposto nos art 2.º e 19.º(este último na redação da Lei 13/2014, de 14-mar)
+    do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Repristinado, durante o ano de 2016, o disposto nos arts. 2.º e 19.º pelo(a) Lei n.º 7-A/2016 - Diário da República
+    n.º 62/2016, 1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Repristinado, durante o ano de 2017, o disposto nos arts. 2.º e 19.º pelo(a) Lei n.º 42/2016 - Diário da República
+    n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
 - type: cites
   target: celex:32004L0018
   label: null
   source: http://data.europa.eu/eli/dir/2004/18/oj
+- type: corrected_by
+  target: pt:dre:334277:por
+  label: "Rectificada [data da referenda], pela DECL-RECT.21/2010.20.07.2010.AR, DR.IS [139] de 20.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-2010-334277
+  date: '2010-07-20'
+- type: repealed_by
+  target: pt:dre:499567:por
+  label: "Revogada, a partir de 01.01.2014, a Lei Org 1/2007 de 19-fev, alterada pelo presente diploma, pela LEI ORG.2/2013.02.09.2013.AR,\
+    \ DR.IS [168] de 02.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2013-499567
+  date: '2013-09-02'
 article_structure:
   article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:00Z'
   warnings: []
   errors: []
 ---
@@ -310,14 +356,14 @@ A presente lei vigora até 31 de Dezembro de 2013.
 
 Aprovada em 20 de Maio de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-**Promulgada em 7 de Junho de 2010.**
+Promulgada em 7 de Junho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 6 de Junho de 2010.**
+Referendada em 6 de Junho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

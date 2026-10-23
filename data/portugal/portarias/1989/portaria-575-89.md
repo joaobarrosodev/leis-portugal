@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/575-1989-618936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T09:56:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 665e804e9e73b4b7f3ce249cb8309c57066bab4afc57d8b17fb6a91e25095aeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c17d864aee17d22cccb7a71febee6a1e35572b22faadd228d164ecd4732685c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:56:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Emolumento do Notariado
+- Serviços de Registo e Notariado
+relationships:
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
 article_structure:
-  article_count: 63
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:56:28Z'
   warnings: []
   errors: []
 ---
@@ -86,31 +92,31 @@ de 26 de Julho
 
 Manda o Governo, pelo Ministro da Justiça, que, ao abrigo do disposto no artigo 3.º, n.º 1, do [Decreto-Lei n.º 145/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1985-152365), de 8 de Maio, sejam alteradas as tabelas emolumentares dos serviços dos registos e do notariado, nos termos seguintes:
 
-###### Artigo 1.º - 1 - As verbas constantes dos artigos 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º e 12.º da tabela de emolumentos do registo civil passam a ser:
+Artigo 1.º - 1 - As verbas constantes dos artigos 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º e 12.º da tabela de emolumentos do registo civil passam a ser:
 
-###### Artigo 1.º - 1200$00 e 120$00, respectivamente;
+Artigo 1.º - 1200$00 e 120$00, respectivamente;
 
-###### Artigo 2.º - 1200$00 e 300$00, respectivamente;
+Artigo 2.º - 1200$00 e 300$00, respectivamente;
 
 ###### Artigo 3.º - 1200$00;
 
-###### Artigo 5.º - 1200$00, 120$00, 500$00 e 1000$00 e 250$00, respectivamente;
+Artigo 5.º - 1200$00, 120$00, 500$00 e 1000$00 e 250$00, respectivamente;
 
 ###### Artigo 6.º - 1000$00;
 
-###### Artigo 7.º - 1600$00;
+Artigo 7.º - 1600$00;
 
 ###### Artigo 8.º - 12000$00;
 
-###### Artigo 9.º - 1500$00;
+Artigo 9.º - 1500$00;
 
-###### Artigo 12.º - 400$00 e 100$00, respectivamente.
+Artigo 12.º - 400$00 e 100$00, respectivamente.
 
 2 - Os artigos 4.º, 11.º, 13.º, 14.º, 15.º, 16.º e 19.º da mesma tabela passam a ter a seguinte redacção:
 
-###### Artigo 4.º Por cada assento requerido nos termos do artigo 116.º, exceptuado o de nascimento - 400$00.
+Artigo 4.º Por cada assento requerido nos termos do artigo 116.º, exceptuado o de nascimento - 400$00.
 
-###### Artigo 11.º - 1 - Por cada certidão ou fotocópia de qualquer registo ou documento, pela aposição da nota da sua revalidação, bem como por cada certidão negativa de registo - 400$00.
+Artigo 11.º - 1 - Por cada certidão ou fotocópia de qualquer registo ou documento, pela aposição da nota da sua revalidação, bem como por cada certidão negativa de registo - 400$00.
 
 2 - ...
 
@@ -122,11 +128,11 @@ Manda o Governo, pelo Ministro da Justiça, que, ao abrigo do disposto no artigo
 
 6 - Pela requisição a outra conservatória de qualquer certidão ou revalidação da mesma, de cédula pessoal ou sua actualização e conferência - 100$00.
 
-###### Artigo 13.º - 1 - Pela requisição de cada bilhete de identidade e pela aposição, em cada impresso do pedido, do visto de conferência com a cédula pessoal, além do custo dos impressos respectivos - 100$00.
+Artigo 13.º - 1 - Pela requisição de cada bilhete de identidade e pela aposição, em cada impresso do pedido, do visto de conferência com a cédula pessoal, além do custo dos impressos respectivos - 100$00.
 
 2 - Pelo preenchimento, a pedido dos interessados, do conjunto de impressos para bilhete de identidade - 50$00.
 
-###### Artigo 14.º - 1 - Pelo acto de casamento não urgente celebrado, a pedido das partes, fora da conservatória, ou nesta, mas fora das horas regulamentares ou em dia em que esteja encerrada, além do emolumento do assento, acresce o emolumento pessoal de 4000$00.
+Artigo 14.º - 1 - Pelo acto de casamento não urgente celebrado, a pedido das partes, fora da conservatória, ou nesta, mas fora das horas regulamentares ou em dia em que esteja encerrada, além do emolumento do assento, acresce o emolumento pessoal de 4000$00.
 
 2 - Por qualquer outro acto praticado fora da conservatória, ou nesta, mas fora das horas regulamentares ou em dia em que esteja encerrada, sem prejuízo do emolumento respectivo a que houver lugar - 800$00.
 
@@ -134,13 +140,13 @@ Manda o Governo, pelo Ministro da Justiça, que, ao abrigo do disposto no artigo
 
 4 - ...
 
-###### Artigo 15.º Por cada auto de redução a escrito de requerimento verbal, salvo se respeitante a assento ou processo isento:
+Artigo 15.º Por cada auto de redução a escrito de requerimento verbal, salvo se respeitante a assento ou processo isento:
 
 a) Para a prática de acto de registo - 200$00;
 
 b) Para fins de instauração de qualquer processo regulado no Código do Registo Civil - 300$00.
 
-###### Artigo 16.º - 1 - Os emolumentos previstos nos artigos 11.º, n.º 6, 13.º, n.º 2, 14.º, n.º 2 e 15.º têm a natureza do emolumento do n.º 1 do artigo 14.º
+Artigo 16.º - 1 - Os emolumentos previstos nos artigos 11.º, n.º 6, 13.º, n.º 2, 14.º, n.º 2 e 15.º têm a natureza do emolumento do n.º 1 do artigo 14.º
 
 2 - Dos emolumentos do artigo 14.º reverterá:
 
@@ -172,25 +178,25 @@ e) Pela substituição ou rectificação de registo ou acto irregular ou deficie
 
 3 - Aos actos de registo civil cujos processos estejam pendentes e aplicável a tabela de emolumentos em vigor.
 
-###### Art. 2.º As verbas da tabela de emolumentos dos actos de nacionalidade passam a ser:
+Art. 2.º As verbas da tabela de emolumentos dos actos de nacionalidade passam a ser:
 
-###### Artigo 1.º - 2000$00, 2000$00, 600$00 e 400$00, respectivamente.
+Artigo 1.º - 2000$00, 2000$00, 600$00 e 400$00, respectivamente.
 
-###### Art. 3.º - 1 - As verbas dos artigos 1.º, 2.º, 5.º, 7.º, 8.º, 10.º e 12.º da tabela de emolumentos do registo predial passam a ser:
+Art. 3.º - 1 - As verbas dos artigos 1.º, 2.º, 5.º, 7.º, 8.º, 10.º e 12.º da tabela de emolumentos do registo predial passam a ser:
 
 ###### Artigo 1.º - 700$00;
 
-###### Artigo 2.º - 2100$00 (primeira verba);
+Artigo 2.º - 2100$00 (primeira verba);
 
 ###### Artigo 5.º - 500$00;
 
-###### Artigo 7.º - 200$00;
+Artigo 7.º - 200$00;
 
 ###### Artigo 8.º - 200$00;
 
-###### Artigo 10.º - 6000$00 e 2000$00, respectivamente;
+Artigo 10.º - 6000$00 e 2000$00, respectivamente;
 
-###### Artigo 12.º - 200$00, 100$00, 250$00, e 100$00, respectivamente.
+Artigo 12.º - 200$00, 100$00, 250$00, e 100$00, respectivamente.
 
 2 - Os artigos 3.º, 11.º, 13.º e 18.º da mesma tabela passam a ter a seguinte redacção:
 
@@ -200,7 +206,7 @@ e) Pela substituição ou rectificação de registo ou acto irregular ou deficie
 
 3 - ...
 
-###### Artigo 11.º - 1 - Por cada certidão ou fotocópia - 300$00.
+Artigo 11.º - 1 - Por cada certidão ou fotocópia - 300$00.
 
 2 - Se a certidão ou fotocópia ocupar mais de uma lauda, por cada lauda a mais acrescem 100$00.
 
@@ -232,23 +238,23 @@ b) Por requisição de três ou mais actos de registo - 1500$00.
 
 3 - ...
 
-###### Art. 4.º - 1 - As verbas dos artigos 1.º, 2.º, 5.º e 6.º da tabela de emolumentos do registo de automóveis passam a ser:
+Art. 4.º - 1 - As verbas dos artigos 1.º, 2.º, 5.º e 6.º da tabela de emolumentos do registo de automóveis passam a ser:
 
-###### Artigo 1.º - 3000$00 e 1500$00, respectivamente;
+Artigo 1.º - 3000$00 e 1500$00, respectivamente;
 
 ###### Artigo 2.º - 500$00;
 
-###### Artigo 5.º - 200$00;
+Artigo 5.º - 200$00;
 
-###### Artigo 6.º - 6000$00 e 2000$00, respectivamente.
+Artigo 6.º - 6000$00 e 2000$00, respectivamente.
 
 2 - Os artigos 3.º e 4.º da mesma tabela passam a seguinte redacção:
 
-###### Artigo 3.º - 1 - Por cada fotocópia, certidão ou fotocópia acrescida de certificação de outro facto - 500$00.
+Artigo 3.º - 1 - Por cada fotocópia, certidão ou fotocópia acrescida de certificação de outro facto - 500$00.
 
 2 - Por cada título emitido em substituição de exemplar deteriorado, destruído ou desaparecido - 1000$00.
 
-###### Artigo 4.º - 1 - Por cada informação dada por escrito, relativa:
+Artigo 4.º - 1 - Por cada informação dada por escrito, relativa:
 
 a) Ao actual proprietário inscrito do veículo e aos encargos que o oneram - 100$00;
 
@@ -256,35 +262,35 @@ b) A proprietários anteriores - 300$00.
 
 2 - Pelo fornecimento de cada mapa estatístico referente ao parque automóvel será cobrada a importância, fixada por despacho do director-geral dos Registos e do Notariado, entre 8000$00 e 35000$00, atendendo à natureza e extensão das informações.
 
-###### Art. 5.º - 1 - As verbas dos artigos, 4.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 16.º, 17.º, 18.º, 21.º, 22.º e 25.º da tabela de emolumentos do notariado passam a ser:
+Art. 5.º - 1 - As verbas dos artigos, 4.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 16.º, 17.º, 18.º, 21.º, 22.º e 25.º da tabela de emolumentos do notariado passam a ser:
 
-###### Artigo 4.º - 1600$00 e 200$00, respectivamente;
+Artigo 4.º - 1600$00 e 200$00, respectivamente;
 
 ###### Artigo 8.º - 150$00;
 
-###### Artigo 9.º - 3500$00 e 1500$00, respectivamente;
+Artigo 9.º - 3500$00 e 1500$00, respectivamente;
 
-###### Artigo 10.º - 400$00 e 200$00, respectivamente;
+Artigo 10.º - 400$00 e 200$00, respectivamente;
 
-###### Artigo 11.º - 50$00 e 50$00, respectivamente;
+Artigo 11.º - 50$00 e 50$00, respectivamente;
 
 ###### Artigo 12.º - 150$00;
 
-###### Artigo 13.º - 300$00;
+Artigo 13.º - 300$00;
 
-###### Artigo 14.º - 300$00 e 150$00, respectivamente;
+Artigo 14.º - 300$00 e 150$00, respectivamente;
 
-###### Artigo 16.º - 1000$00 e 600$00, respectivamente;
+Artigo 16.º - 1000$00 e 600$00, respectivamente;
 
-###### Artigo 17.º - 300$00, 100$00 e 300$00, respectivamente;
+Artigo 17.º - 300$00, 100$00 e 300$00, respectivamente;
 
 ###### Artigo 18.º - 100$00;
 
-###### Artigo 21.º - 100$00;
+Artigo 21.º - 100$00;
 
-###### Artigo 22.º - 6000$00 e 2000$00, respectivamente;
+Artigo 22.º - 6000$00 e 2000$00, respectivamente;
 
-###### Artigo 25.º - 200$00 e 100$00, respectivamente.
+Artigo 25.º - 200$00 e 100$00, respectivamente.
 
 2 - Os artigos 1.º, 2.º, 5.º, 6.º, 7.º, 15.º, 19.º, 20.º, 23.º, 24.º, 27.º, 31.º e 33.º da mesma tabela passam a ter a seguinte redacção:
 
@@ -338,11 +344,11 @@ g) ...
 
 h) ...
 
-###### Artigo 5.º - 1 - (O artigo actual.)
+Artigo 5.º - 1 - (O artigo actual.)
 
 2 - O emolumento cobrado nos termos do n.º 1 não pode ser inferior ao da alínea b) do n.º 1 do artigo 6.º
 
-###### Artigo 6.º - 1 - Se o acto que constitui objecto da escritura for de valor indeterminado, aos emolumentos previstos no artigo 4.º acrescem:
+Artigo 6.º - 1 - Se o acto que constitui objecto da escritura for de valor indeterminado, aos emolumentos previstos no artigo 4.º acrescem:
 
 a) Por cada habilitação notarial - 750$00;
 
@@ -372,7 +378,7 @@ f) Com quaisquer outros poderes - 600$00.
 
 5 - ...
 
-###### Artigo 15.º - 1 - Pela legalização, por via de reconhecimento.
+Artigo 15.º - 1 - Pela legalização, por via de reconhecimento.
 
 a) De cada assinatura - 180$00;
 
@@ -380,13 +386,13 @@ b) De letra e assinatura - 230$00.
 
 2 - Pelo reconhecimento que contenha, a pedido dos interessados, a menção de qualquer circunstância especial - 280$00.
 
-###### Artigo 19.º São devidos à Conservatória dos Registos Centrais:
+Artigo 19.º São devidos à Conservatória dos Registos Centrais:
 
 a) Pela transcrição de cada escritura ou testamento outorgados no estrangeiro - 900$00;
 
 b) Por cada boletim de informação - 200$00.
 
-###### Artigo 20.º - 1 - É devido o emolumento de 1500$00 pelo estudo e preparação das seguintes escrituras, salvo se lavradas com base em minuta apresentada pelas partes:
+Artigo 20.º - 1 - É devido o emolumento de 1500$00 pelo estudo e preparação das seguintes escrituras, salvo se lavradas com base em minuta apresentada pelas partes:
 
 a) Justificação;
 
@@ -414,7 +420,7 @@ j) Divisão de bens com demarcação ou com valores atribuídos diversos dos mat
 
 4 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos do número anterior é fixado por despacho normativo do Ministro da Justiça.
 
-###### Artigo 23.º - 1 - Pela celebração de qualquer acto dentro das horas regulamentares, mas fora do cartório, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem 5000$00.
+Artigo 23.º - 1 - Pela celebração de qualquer acto dentro das horas regulamentares, mas fora do cartório, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem 5000$00.
 
 2 - ...
 
@@ -426,7 +432,7 @@ j) Divisão de bens com demarcação ou com valores atribuídos diversos dos mat
 
 6 - O emolumento do n.º 1 é reduzido à quinta parte nas escrituras de aquisição de habitação própria permanente ou de hipoteca com esta relacionada efectuadas em instituições de crédito e nos testamentos lavrados em estabelecimentos hospitalares públicos ou prisionais.
 
-###### Artigo 24.º - 1 - Pela celebração de acto de disposição de última vontade fora das horas regulamentares ou em dia em que o cartório esteja encerrado, a requisição dos interessados, aos emolumentos que ao acto competirem acrescem 1500$00.
+Artigo 24.º - 1 - Pela celebração de acto de disposição de última vontade fora das horas regulamentares ou em dia em que o cartório esteja encerrado, a requisição dos interessados, aos emolumentos que ao acto competirem acrescem 1500$00.
 
 2 - Pela celebração de qualquer outro acto fora das horas regulamentares, a requisição dos interessados, aos emolumentos que ao acto competirem acrescem 2000$00.
 
@@ -460,20 +466,20 @@ c) ...
 
 d) Pela rectificação de qualquer acto notarial, desde que a irregularidade seja exclusivamente imputável ao próprio cartório.
 
-###### Artigo 33.º - 1 - O total da conta será arredondado, por excesso, para a dezena de escudos.
+Artigo 33.º - 1 - O total da conta será arredondado, por excesso, para a dezena de escudos.
 
 2 - A importância do arredondamento acresce ao total dos emolumentos devidos pelo acto ao cartório.
 
 3 - À tabela de emolumentos do notariado é aditado o artigo seguinte:
 
-###### Artigo 34.º - 1 - As disposições da tabela não admitem interpretação extensiva, ainda que haja identidade ou maioria de razão.
+Artigo 34.º - 1 - As disposições da tabela não admitem interpretação extensiva, ainda que haja identidade ou maioria de razão.
 
 2 - No caso de dúvida sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.
 
-###### Art. 6.º A presente portaria entra em vigor no primeiro dia do mês imediato ao da sua publicação.
+Art. 6.º A presente portaria entra em vigor no primeiro dia do mês imediato ao da sua publicação.
 
 Ministério da Justiça.
 
-**Assinada em 11 de Julho de 1989.**
+Assinada em 11 de Julho de 1989.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/703-1989-618534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T09:59:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5637043fe02b5e6e1870575267bd7e39eec0c0a46a733ba4d70482ea4ba7066
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46b8795f14ee2607b889ac4e679102ff1047163f89aace00d6a413462d73dd10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:59:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ajudas de Custo
+- Deslocação ao Estrangeiro
+- Forças Armadas
+- Missão Oficial
+relationships:
+- type: cites
+  target: pt:dre:381570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614594:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:59:38Z'
   warnings: []
   errors: []
 ---
@@ -95,12 +107,12 @@ Manda o Governo, pelo Primeiro-Ministro e pelos Ministros da Defesa Nacional e d
 
 1.º As ajudas de custo diárias a abonar aos militares da Armada, do Exército e da Força Aérea que se desloquem em missão oficial ao estrangeiro passam a ser as constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19200/34443444.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19200/34443444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19200/34443444.pdf)
 
 2.º A presente tabela produz efeitos desde 1 de Janeiro de 1989.
 
 Presidência do Conselho de Ministros e Ministérios da Defesa Nacional e das Finanças.
 
-**Assinada em 3 de Agosto de 1989.**
+Assinada em 3 de Agosto de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva. - Pelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional. - Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva. - Pelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional. - Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.

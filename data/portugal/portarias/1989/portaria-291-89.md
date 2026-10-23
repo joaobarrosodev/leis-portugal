@@ -48,40 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/291-1989-615822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T09:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9959cfa73817f189b54f576181e78b362f5fea0f47ae812c27f8e4a7d1755fc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f04b428590504779b8f9c09cf437dbba4f6221d1d59d0778d62ddac214143213
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Gabinete de Gestão do Fundo de Desemprego
+- Pessoal Técnico
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:299463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL PELO MAPA I ANEXO A PORTARIA 663/94, DE 19 DE JULHO, PUBLICADO NO DR.IS-B, 165.\0\
+    -B, 165."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-19'
+- type: cites
+  target: pt:dre:193626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493271:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:49:26Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +134,6 @@ Manda o Governo, pelo Ministro das Finanças, nos termos do artigo 30.º do [Dec
 
 Ministério das Finanças.
 
-**Assinada em 30 de Março de 1989.**
+Assinada em 30 de Março de 1989.
 
-**O Ministro ds Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro ds Finanças, Miguel José Ribeiro Cadilhe.

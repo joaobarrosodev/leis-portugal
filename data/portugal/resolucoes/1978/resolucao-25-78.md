@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/25-1978-446705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:14:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b851f7c68e91239c2d10a3dcb21be73e35de37ceab2788d4e5deeba7c3ecd59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42c8996149d6db8677e0fe4b2454df9add172c2683ad48f77f049858334ad551
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:14:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Gestão
+- Conselho de Ministros
+- Empresa
+- Ministério da Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:327867:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:328048:por
+  label: Determinada, a partir de 25.10.1978, a cessação da intervenção do Estado na empresa Abel Alves de Figueiredo, Lda.
+    e a sua restituição aos respectivos titulares, prevista na presente Resolução, pelo(a) Resolução n.º 159/78 - Diário da
+    República n.º 242/1978, Série I de 1978-10-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/159-1978-328048
+  date: '1978-10-20'
+- type: amended_by
+  target: pt:dre:327867:por
+  label: Exonerada, com efeitos a partir de 01.03.1979, a comissão administrativa actualmente em funções e comete aos corpos
+    sociais estatutários a responsabilidade de assegurarem, por si ou representantes seus devidamente qualificados, a continuidade
+    da gestão a partir da mesma data, da empresaTornearia de Metais, Lda, prevista na presente Resolução, pelo(a) Resolução
+    n.º 170/78 - Diário da República n.º 246/1978, Série I de 1978-10-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/170-1978-327867
+  date: '1978-10-25'
+- type: cites
+  target: pt:dre:286497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:14:29Z'
   warnings: []
   errors: []
 ---

@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1103-1990-566027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T10:09:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bdc1748f20865e70f7b7a508f47a98a06ecc9942d01ad6e72959765f1315b9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 195640370c7abfeddfdfc4f4b9fa15315dd2f3bf0e84c2f27656f27a2491add1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:09:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cédula Militar
+- Impresso
+- Militar
+- Serviço Militar
+relationships:
+- type: cites
+  target: pt:dre:356354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612863:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:09:39Z'
   warnings: []
   errors: []
 ---
@@ -90,8 +102,8 @@ Manda o Governo, pelo Ministro da Defesa Nacional, ao abrigo da alínea b) do ar
 
 Ministério da Defesa Nacional.
 
-**Assinada em 10 de Outubro de 1990.**
+Assinada em 10 de Outubro de 1990.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25600/45484549.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25600/45484549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25600/45484549.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14600/0509605101.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/9/2015/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/9-2015-69889521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1d21c5b153692a82120cb88b95445f58b262223701c5aa4af81aee066d3e1ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dac733564e0a600ee090b34752430b7f013115ac064c64d69461e5efe862f21b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adopção
-- Família
-- Nacionalidade
+- Casamento
 - Cidadão Estrangeiro
 - Cidadão Nacional
+- Família
 - Filiação
+- Nacionalidade
 - Naturalização
-- Casamento
 relationships:
 - type: amended_by
   target: pt:dre:115643970:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115643970:por
+  label: Alterados os arts. 1.º, 5.º, 6.º, 9.º, 15.º, 29.º e 30.º e a epígrafe do cap. IV do tit. I, que passa a designar-se
+    «Oposição à aquisição da nacionalidade por efeito da vontade», e aditados os arts. 12.º-A e 12.º-B ao cap. V do tít. I
+    da Lei 37/81 de 03-out, na versão republicada pela presente, pelo(a) Lei Orgânica n.º 2/2018 - Diário da República n.º
+    128/2018, Série I de 2018-07-05, que a republicou em anexo.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2018-115643970
+  date: '2018-07-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/194/2003/08/23/p/dre
   label: null
@@ -111,16 +119,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/8/2015/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/8/2015/06/22/p/dre
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552497:por
+  label: null
+  source: null
 article_structure:
   article_count: 46
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:26Z'
   warnings: []
   errors: []
 ---
@@ -183,17 +227,17 @@ A presente lei entra em vigor na data de início de vigência do diploma referid
 
 Aprovada em 29 de maio de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
-**Promulgada em 16 de julho de 2015.**
+Promulgada em 16 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 20 de julho de 2015.**
+Referendada em 20 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (republicação da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro)
 

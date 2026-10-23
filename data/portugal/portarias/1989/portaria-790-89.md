@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/790-1989-547233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97d2ceb8b049e44bf763e5428348a5826fe0a94c8239a5a04d347732b09c2814
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 072f859ec0d2f3cbf8def50e9a3be892f37552ebcc865c7bb7b96fe259f8ba7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bragança
+- Curso de Informática de Gestão
+- Curso Superior de Secretariado
+- Instituto Superior de Línguas e Administração
+- Plano de Estudos
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O PLANO DE ESTUDOS DO CURSO DE INFORMÁTICA DE GESTÃO, PELA PORTARIA 909/93, DE 20 DE SETEMBRO, PUBLICADA\
+    \ NO DR.IS-B, 221, DE 930920. SUBSTITUÍDO O PLANO DE ESTUDOS E ALTERADA A DENOMINAÇÃO DO CURSO SUPERIOR DE SECRETARIADO,\
+    \ PELA PORTARIA 913/93, DE 20 DE SETEMBRO, PUBLICADA NO DR.IS-B, 221, DE 930920.\0 221, DE 930920.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:611092:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611092:por
+  label: "Substituido o plano de estudos do Curso de Informática de Gestão pela PORT.1127/2001.2001.09.24.ME DR.IS-B [222]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1127-2001-611092
+  date: '2001-09-24'
+- type: amended_by
+  target: pt:dre:25694497:por
+  label: "Tornado público o encerramento voluntário do Instituto Superior de Línguas e Administração de Bragança, reconhecido\
+    \ de interesse público pela presente portaria, pelo AV.7210/2014.18.06.2014.DGES-MECI, DR.IIS [115] de 18.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7210-2014-25694497
+  date: '2014-06-18'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:34Z'
   warnings: []
   errors: []
 ---
@@ -113,12 +140,12 @@ Curso superior de Informática de Gestão.
 
 Ministério da Educação.
 
-**Assinada em 9 de Agosto de 1989.**
+Assinada em 9 de Agosto de 1989.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 ## Anexo — Instituto Superior de Línguas e Administração
 
 (Estabelecimento de Ensino de Bragança)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20700/39333934.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20700/39333934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20700/39333934.pdf)

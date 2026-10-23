@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/10200/18201823.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/325-1989-611758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:50:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5718838ac7a9dc0f31735e14cf0be114fb26368272ebef162b5197eaa7bad7ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ee3b1caebdd7ae7fd85d1036e4aebffdb2cff9d692895dad3332d7569694a85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:50:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cirurgia
+- Consulta Médica
+- Internamento Hospitalar
+- Serviço Nacional de Saúde
+- Serviços Complementares de Diagnóstico
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:196885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498716:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:321964:por
+  label: Rectificada pela DECL.DD3872.1989.06.26.PCM DR.IS [148] DE 30/JUN/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-321964
+  date: '1989-06-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:50:16Z'
   warnings: []
   errors: []
 ---
@@ -151,17 +170,17 @@ Hospitais distritais ... 2100$00
 
 10.º Meios complementares de diagnóstico e terapêutica e outros actos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/10200/18201823.pdf))](https://files.diariodarepublica.pt/1s/1989/05/10200/18201823.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/10200/18201823.pdf)
 
 11.º Actos especiais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/10200/18201823.pdf))](https://files.diariodarepublica.pt/1s/1989/05/10200/18201823.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/10200/18201823.pdf)
 
 12.º Nos hospitais psiquiátricos e demais serviços de saúde mental são aplicáveis as tabelas referidas nos n.os 10.º e 11.º para hospitais centrais e distritais, respectivamente.
 
 13.º Diárias de internamento em quarto particular:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/10200/18201823.pdf))](https://files.diariodarepublica.pt/1s/1989/05/10200/18201823.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/10200/18201823.pdf)
 
 14.º Os preços referidos no número anterior serão globais, incluindo todos os serviços prestados no internamento, à excepção dos honorários médicos e dos actos discriminados no n.º 11.º, a facturar segundo a tabela aí fixada.
 
@@ -185,6 +204,6 @@ d) Próteses oculares - a debitar conforme os custos.
 
 Ministério da Saúde.
 
-**Assinada em 17 de Março de 1989.**
+Assinada em 17 de Março de 1989.
 
-**A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/20000/0447804515.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/rgtassrep/1/2010/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/regimento-assembleia-republica/1-2010-307672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a392f69835314c216454d9cb2ed1a61106c57493efe5cf172686d110854ac7c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40c318f62144ef50a6cc56efb3064959be3eebbb927c1e83bd48cb7b4ef08e14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,12 @@ relationships:
   target: pt:dre:106912578:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106912578:por
+  label: Alterado o art. 140.º do Regi 1/2007 de 20-ago AR, na versão republicada pelo presente diploma, pelo(a) Regimento
+    da Assembleia da República n.º 1/2017 - Diário da República n.º 79/2017, Série I de 2017-04-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/regimento-assembleia-republica/1-2017-106912578
+  date: '2017-04-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/15/1996/05/02/p/dre
   label: null
@@ -96,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/rgtassrep/1/2007/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/rgtassrep/1/2007/08/20/p/dre
+- type: cites
+  target: pt:dre:176373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644345:por
+  label: null
+  source: null
 article_structure:
-  article_count: 275
+  article_count: 274
   section_count: 84
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:58Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +168,9 @@ Os artigos 211.º e 270.º do [Regimento da Assembleia da República n.º 1/2007
 
 7 - Os partidos podem propor a avocação pelo Plenário de artigos do Orçamento do Estado e de propostas de alteração, ficando dispensada a aplicação do disposto no artigo 151.º até ao limite definido na grelha constante do anexo iii.
 
-###### Artigo 270.º — [...]
+Artigo 270.º
+
+[...]
 
 ...
 
@@ -174,7 +206,7 @@ Um quinto ou mais do número de Deputados - 12 avocações.»
 
 Aprovado em 17 de Setembro de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
 ## ANEXO — REGIMENTO DA ASSEMBLEIA DA REPÚBLICA
 
@@ -1848,7 +1880,7 @@ h) Referências a contributos de entidades que tenham interesse nas matérias a 
 
 ###### Artigo 133.º — Envio de propostas de alteração
 
-**O Presidente da Assembleia pode também enviar à comissão parlamentar que se tenha pronunciado sobre o projecto ou proposta de lei qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.**
+O Presidente da Assembleia pode também enviar à comissão parlamentar que se tenha pronunciado sobre o projecto ou proposta de lei qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.
 
 ###### Artigo 134.º — Legislação do trabalho
 
@@ -1932,7 +1964,9 @@ Tratando-se de iniciativa que verse matéria respeitante às regiões autónomas
 
 ##### DIVISÃO IV — Discussão e votação de projectos e de propostas de lei
 
-##### SUBDIVISÃO I — Disposições gerais
+SUBDIVISÃO I
+
+Disposições gerais
 
 ###### Artigo 143.º — Regra
 
@@ -1988,7 +2022,9 @@ d) A solicitação do Governo.
 
 Até ao anúncio da votação, um grupo parlamentar ou 10 Deputados, pelo menos, desde que obtida a anuência do autor, podem requerer nova apreciação do texto a qualquer comissão parlamentar, no prazo que for designado, não se aplicando neste caso o disposto no artigo 144.º
 
-##### SUBDIVISÃO II — Discussão e votação dos projectos e propostas de lei na generalidade
+SUBDIVISÃO II
+
+Discussão e votação dos projectos e propostas de lei na generalidade
 
 ###### Artigo 147.º — Objecto da discussão na generalidade
 
@@ -2006,7 +2042,9 @@ Até ao anúncio da votação, um grupo parlamentar ou 10 Deputados, pelo menos,
 
 O debate e a votação na generalidade dos projectos e das propostas de lei realizam-se em Plenário, no prazo de 18 reuniões plenárias a contar da aprovação do parecer referido no artigo 136.º, sem prejuízo do disposto no n.º 4 do artigo 62.º
 
-##### SUBDIVISÃO III — Discussão e votação de projectos e propostas de lei na especialidade
+SUBDIVISÃO III
+
+Discussão e votação de projectos e propostas de lei na especialidade
 
 ###### Artigo 150.º — Regra na discussão e votação na especialidade
 
@@ -2050,7 +2088,9 @@ e) Propostas de aditamento ao texto votado.
 
 2 - Quando haja duas ou mais propostas de alteração da mesma natureza, são submetidas à votação pela ordem da sua apresentação.
 
-##### SUBDIVISÃO IV — Votação final global
+SUBDIVISÃO IV
+
+Votação final global
 
 ###### Artigo 155.º — Votação final global e declaração de voto oral
 
@@ -2184,7 +2224,9 @@ O regime previsto nos artigos anteriores é aplicável às alterações dos esta
 
 ##### DIVISÃO III — Autorização e confirmação da declaração do estado de sítio ou do estado de emergência
 
-##### SUBDIVISÃO I — Reunião da Assembleia para autorização da declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO I
+
+Reunião da Assembleia para autorização da declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 171.º — Reunião da Assembleia
 
@@ -2210,7 +2252,9 @@ A votação incide sobre a concessão de autorização.
 
 A autorização toma a forma de lei quando concedida pelo Plenário e de resolução quando concedida pela Comissão Permanente.
 
-##### SUBDIVISÃO II — Confirmação da declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO II
+
+Confirmação da declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 175.º — Confirmação da autorização concedida pela Comissão Permanente
 
@@ -2234,7 +2278,9 @@ A votação incide sobre a confirmação.
 
 No caso de o Presidente da República ter solicitado a renovação da autorização da Assembleia da República para a declaração do estado de sítio ou do estado de emergência, aplicam-se, com as necessárias adaptações, as disposições constantes dos artigos anteriores.
 
-##### SUBDIVISÃO III — Apreciação da aplicação da declaração do estado de sítio ou do estado de emergência
+SUBDIVISÃO III
+
+Apreciação da aplicação da declaração do estado de sítio ou do estado de emergência
 
 ###### Artigo 180.º — Apreciação da aplicação
 
@@ -3006,13 +3052,13 @@ Grelha para o processo legislativo comum
 
 Cada Grupo Parlamentar e o Governo dispõem de três minutos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20000/0447804515.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20000/0447804515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20000/0447804515.pdf)
 
 Os autores das iniciativas dispõem de mais um minuto, cada.
 
 Grelhas normais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20000/0447804515.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20000/0447804515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20000/0447804515.pdf)
 
 1 - Os autores das iniciativas e o Governo dispõem de tempo igual ao do grupo parlamentar com maior representatividade.
 
@@ -3022,7 +3068,7 @@ Grelhas especiais
 
 1 - Debate com o Primeiro-Ministro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20000/0447804515.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20000/0447804515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20000/0447804515.pdf)
 
 2 - Outras grelhas especiais. - O Presidente da Assembleia, ouvida a Conferência de Líderes, estabelece as grelhas de tempos para os restantes debates, designadamente:
 

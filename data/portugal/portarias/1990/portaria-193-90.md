@@ -47,40 +47,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-1990-333162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:15:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 434ef29b5d72e2816d213a81015b2a6fc03222add7285bc09f1dc0b003bdb7a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79be7b981388f8ef72cfa9f7b64dacbed5849b057e737c64f432f8ca70f7f393
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:15:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diuturnidades
+- Junta Autónoma dos Portos
+- Portos
+- Remuneração
+- Trabalhador Portuário
 relationships:
 - type: amended_by
   target: pt:dre:494550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424146:por
+  label: "Aditada a base de remuneração 28 à tabela salarial prevista na presente portaria, com a alteração introduzida pelo\
+    \ n.º 1 da Port 863/91, pela PORT.239/96.04.07.1996.MEPAT, DR.IS-B [153] de 04.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-1996-424146
+  date: '1996-07-04'
+- type: amended_by
+  target: pt:dre:671224:por
+  label: "Actualizados os montantes da tabela de remunerações base e diuturnidades do pessoal técnico de pilotagem a que se\
+    \ refere o nº 1º deste diploma, com a redacção dada pelas Port 863/91 de 23-Ago, 239/96 de 04-Jul e 1098/99 de 21-Dez,\
+    \ pela PORT.576/2003.2003.07.16.MOPTH DR.IS-B [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/576-2003-671224
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:671225:por
+  label: "Actualizados os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações portuárias\
+    \ a que se refere o nº 1º deste diploma, com a redacção dada pelas Port 863/91 de 23-Ago, 239/96 de 04-Jul e 1098/99 de\
+    \ 21-Dez, pela PORT.577/2003.2003.07.16.MOPTH DR.IS-B [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/577-2003-671225
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:632731:por
+  label: "Alterada a redacção introduzida pelo nº 1º da Port 577/2003 de 16-Jul no presente diploma, pela PORT.897/2003.2003.08.26.MOPTH\
+    \ DR.IS-B [196]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/897-2003-632731
+  date: '2003-08-26'
+- type: amended_by
+  target: pt:dre:617334:por
+  label: "Actualizados os montantes de remunerações base e diuturnidades dos trabalhadores das Administrações Portuárias a\
+    \ que se refere o nº 1 do presente diploma, com a redacção dada pelas Port 863/91 de 20-Ago, 239/96 de 04-Jul, 1098/99\
+    \ de 21-Dez e 897/2003 de 26-Ago, pela PORT.1181/2004.14.09.2004.MOPTC, DR.IS-B [217] de 14.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1181-2004-617334
+  date: '2004-09-14'
+- type: amended_by
+  target: pt:dre:583204:por
+  label: "Actualizados os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações portuárias\
+    \ aprovada pelo presente diploma, com as alterações posteriormente introduzidas pelas Port 863/91 de 20-Ago, 239/96 de\
+    \ 04-Jul e 1098/99 de 21-Dez e a última actualização efectuada pela Port 1081/2004 de 14-Set, pela PORT.1146/2005.08.11.2005.MOPTC,\
+    \ DR.IS-B [214] de 08.11.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1146-2005-583204
+  date: '2005-11-08'
+- type: amended_by
+  target: pt:dre:538608:por
+  label: "Actualizados em 1,5%, com arredondamento, os montantes da tabela de remunerações base, incluindo diuturnidades,\
+    \ dos trabalhadores das administrações portuárias, aprovada pelo n.º 1.º do presente diploma, com os aditamentos previstos\
+    \ no n.º 1.º da Portaria n.º 863/91, de 20 de Agosto, no n.º 2.º da Portaria n.º 239/96, de 4 de Julho, e no n.º 2 do\
+    \ n.º 81.º da Portaria n.º 1098/99, de 21 de Dezembro, resultantes da actualização prevista no n.º 1.º da Portaria n.º\
+    \ 1146/2005, de 8 de Novembro, pela Port.778/2006.09.08.2006.MOPTC, DR.IS [153] de 09.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/778-2006-538608
+  date: '2006-08-09'
+- type: amended_by
+  target: pt:dre:637395:por
+  label: "Actualizados em 1,5%, com arredondamento, os montantes da tabela de remunerações base, incluindo diuturnidades,\
+    \ dos trabalhadores das administrações portuárias aprovada pelo n.º 1 do presente diploma, com os aditamentos previstos\
+    \ no n.º 1 da Portaria 863/91, de 20 de Agosto, no n.º 2 da Portaria 239/96, de 04 de Julho, e no n.º 2 do artigo 81.º\
+    \ da Portaria 1098/99, de 21 de Dezembro, resultantes das actualizações previstas no n.º 1 da Portaria 778/2006, de 09\
+    \ de Agosto, pela PORT.849/2007.07.08.2007.MOPTC, DR.IS [151] de 07.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/849-2007-637395
+  date: '2007-08-07'
+- type: amended_by
+  target: pt:dre:249840:por
+  label: "Actualizada em 2,1%, com arredondamento, os montantes da tabela de remunerações base, incluindo diuturnidades, dos\
+    \ trabalhadores das administrações portuárias aprovada pelo n.º 1 da presente portaria com os aditamentos previstos no\
+    \ n.º 1 da Portaria 863/91, de 20 de Agosto, no n.º 2 da Portaria 239/96, de 04 de Julho, e no n.º 2 do artigo 81.º da\
+    \ Portaria 1098/99, de 21 de Dezembro, resultantes das actualizações previstas no n.º 1º da Portaria 849/2007, de 07 de\
+    \ Agosto, pela PORT.270/2008.09.04.2008.MOPTC, DR.IS [70] de 09.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/270-2008-249840
+  date: '2008-04-09'
+- type: amended_by
+  target: pt:dre:494550:por
+  label: "Actualizada, com efeitos desde 01.01.2009, em 2,5%, com arredondamento, os montantes da tabela de remunerações base,\
+    \ incluindo diuturnidades, dos trabalhadores das administrações portuárias, aprovada pelo n.º 1 do presente diploma, com\
+    \ os aditamentos previstos no nº 1 da Port 863/91, de 20-Ago, no n.º 2 da Port 239/96, de 04-Jul, no n.º 2 do art. 81º\
+    \ da Port 1098/99, de 21-Dez, no n.º 1º da Port 849/2007, de 07-Ago, e resultantes da actualização prevista no nº 1 da\
+    \ Port 270/2008 de 09-Abr, pela PORT.653/2009.16.06.2009.MOPTC, DR.IS [114] de 16.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/653-2009-494550
+  date: '2009-06-16'
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401883:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:15:15Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +187,7 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 1.º A tabela das remunerações base e diuturnidades dos trabalhadores das administrações e juntas autónomas dos portos, a que se refere o n.º 3 do artigo 57.º do Estatuto do Pessoal das Administrações dos Portos, aprovado em anexo ao [Decreto-Lei n.º 101/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1988-286360), de 26 de Março, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/06400/13201321.pdf))](https://files.diariodarepublica.pt/1s/1990/03/06400/13201321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/06400/13201321.pdf)
 
 2.º Os montantes das remunerações acessórias previstas nos n.os 1.º, n.º 2, 9.º, n.º 1, e 23.º, n.º 1, da [Portaria n.º 493/88](https://diariodarepublica.pt/dr/detalhe/portaria/493-1988-378489), de 27 de Julho, resultantes da aplicação do artigo 5.º do [Decreto-Lei n.º 487/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1988-401883), de 30 de Dezembro, são actualizados em 12%.
 
@@ -101,6 +195,6 @@ Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transporte
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 28 de Fevereiro de 1990.**
+Assinada em 28 de Fevereiro de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 247/1990, 1º Suplemento, Série I de 1990-10-25
   number: '247'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4390-(2) a 4390-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/24701/00020002.pdf
 entry_into_force_dates: []
@@ -48,36 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1082-a-1990-494215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:09:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2baea1f1f41d31b77be8befdff8af7a5573ff90c0298f2e699b6b20d9128314
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05654d3964853a1cd955778a18af62c413151d7e94671185dc290c0ba1cd7fd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:09:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral de Inspecção Económica
+- Estabelecimento de Bebidas
+- Preço
+- Preço Livre
+relationships:
+- type: cites
+  target: pt:dre:312060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660724:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:689270:por
+  label: Rectificado o sumário pela DECL.DD3105.1990.11.15.PCM, DR.IS [277]3ºSupl de 30/Nov/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-689270
+  date: '1990-11-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:09:03Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +139,6 @@ Manda o Governo, pelo Secretário de Estado do Comércio Interno, o seguinte:
 
 Ministério da Comércio e Turismo.
 
-**Assinada em 9 de Outubro de 1990.**
+Assinada em 9 de Outubro de 1990.
 
-**O Secretário de Estado do Comércio Interno, José António Leite de Araújo.**
+O Secretário de Estado do Comércio Interno, José António Leite de Araújo.

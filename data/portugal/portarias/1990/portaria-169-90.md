@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-1990-332413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:14:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8c07bcd5dcd1e5c359fcc6dbeae3ee26f0cf8fa050beb5a5e71a60f4d917925
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 633c54c13c15b0d053f7768615469031497e801f4cb301ab43e075f80fdb2e28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:14:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola
+- Consulado Geral
+- Pessoal Assalariado
+- Quadro de Pessoal
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:14:34Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +111,6 @@ Dois auxiliares de serviço.
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 9 de Fevereiro de 1990.**
+Assinada em 9 de Fevereiro de 1990.
 
 Pelo Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.

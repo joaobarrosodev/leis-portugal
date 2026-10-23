@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/3/2000/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f07aa9ed50e82a9f1c307dc6c21818babb200af3fe0d401dc02719eac03edc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce1df6b6a7ed162f85558c2301a1aef5797aa22a1f79d3bd97fff3b50654c657
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia de VOTO
+- Direito de Voto
 - Eleição
 - Eleição Presidencial
 - Emigrante
-- Presidente da República
-- Sistema Eleitoral
 - Orgânica
+- Presidente da República
 - Regime Jurídico
 - Resultado Eleitoral
-- Direito de Voto
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:164590039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515638:por
+  label: "Alterado o art. 70º-A do Dec Lei 319-A/76, de 03-Mai, na redacção do presente diploma, pela LEI ORG.2/2001.25.08.2001.AR,\
+    \ DR.IS-A [197] de 25.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2001-515638
+  date: '2001-08-25'
+- type: amended_by
+  target: pt:dre:142521:por
+  label: "Alterado o art. 1º do Dec Lei 319-A/76 de 03-Mai, na redacção do presente diploma, pela LEI ORG.5/2005.08.09.2005.AR,\
+    \ DR.IS-A [173] de 08.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/5-2005-142521
+  date: '2005-09-08'
+- type: amended_by
+  target: pt:dre:142522:por
+  label: "Alterado o art. 11º do Dec Lei 319-A/76 de 03-Mai, na redacção do presente diploma, pela LEI ORG.4/2005.08.09.2005.AR,\
+    \ DR.IS-A [173] de 08.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/4-2005-142522
+  date: '2005-09-08'
+- type: amended_by
+  target: pt:dre:306947:por
+  label: "Alterados os arts. 1º, 12º, 31º-A, 70º, 70º-A e 70º-D do Dec Lei n.º 319-A/76, de 03-Mai, na redacção do presente\
+    \ diploma, pela LEI ORG.3/2010.15.12.2010.AR, DR.IS [241] de 15.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2010-306947
+  date: '2010-12-15'
+- type: amended_by
+  target: pt:dre:146220:por
+  label: "Alterados os arts 23º, 29º, 38º, 86º e 159º-A do Dec Lei 319-A/76, de 03-Mai, na redacção do presente diploma, pela\
+    \ LEI ORG.1/2011.30.11.2011.AR, DR.IS [230] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2011-146220
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:116090196:por
+  label: Alterados, a partir de 18.08.2018, os arts. 23.º, 33.º-A, 38.º, 70.º, 70.º-A, 70.º-D, 86.º e e 159.º-A do Dec Lei
+    319-A/76, de 03-mai, na redação do presente diploma, pelo(a) Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018,
+    Série I de 2018-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2018-116090196
+  date: '2018-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/11/1995/04/22/p/dre
   label: null
@@ -100,16 +137,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/72/1993/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/72/1993/11/30/p/dre
+- type: cites
+  target: pt:dre:177474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679821:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:25Z'
   warnings: []
   errors: []
 ---
@@ -132,11 +225,15 @@ São alterados os artigos 1.º, 7.º, 11.º, 12.º, 16.º, 23.º, 29.º, 32.º, 
 
 São eleitores do Presidente da República os cidadãos portugueses recenseados no território nacional e os cidadãos portugueses residentes no estrangeiro que se encontrem inscritos nos cadernos eleitorais para a eleição da Assembleia da República à data de publicação da presente lei.
 
-###### Artigo 7.º — Círculo eleitoral único
+Artigo 7.º
+
+Círculo eleitoral único
 
 Para o efeito da eleição do Presidente da República, existe um só círculo eleitoral, com sede em Lisboa.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -144,7 +241,9 @@ Para o efeito da eleição do Presidente da República, existe um só círculo e
 
 3 - Tanto o primeiro como o eventual segundo sufrágio realizar-se-ão nos 60 dias anteriores ao termo do mandato do Presidente da República cessante, ou nos 60 dias posteriores à vagatura do cargo.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O dia da eleição é o mesmo em todo o território nacional.
 
@@ -152,7 +251,9 @@ Para o efeito da eleição do Presidente da República, existe um só círculo e
 
 3 - No estrangeiro, a votação decorre entre as 8 e as 19 horas, competindo à mesa da assembleia de voto, com a colaboração dos delegados dos candidatos, garantir as condições de liberdade de voto durante os três dias de votação e as suas interrupções, bem como a inviolabilidade das urnas eleitorais, que são seladas no início das operações eleitorais.
 
-###### Artigo 16.º — Mandatários e representantes das candidaturas
+Artigo 16.º
+
+Mandatários e representantes das candidaturas
 
 1 - ...
 
@@ -160,13 +261,17 @@ Para o efeito da eleição do Presidente da República, existe um só círculo e
 
 3 - Cada candidato pode nomear representante seu em cada sede de distrito ou Região Autónoma, no território nacional, ou em cada área consular, no estrangeiro, para a prática de quaisquer actos relacionados com a candidatura.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As candidaturas definitivamente admitidas são de imediato enviadas, por cópia, ao governador civil, que as publicará no prazo de dois dias, mediante edital afixado à porta do governo civil e de todas as câmaras municipais e juntas de freguesia, bem como das embaixadas, consulados e postos consulares.
 
 2 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Qualquer candidato pode desistir da candidatura até setenta e duas horas antes do dia da eleição, mediante declaração escrita, com a assinatura reconhecida por notário, apresentada ao Presidente do Tribunal Constitucional.
 
@@ -176,13 +281,17 @@ Para o efeito da eleição do Presidente da República, existe um só círculo e
 
 4 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - As assembleias de voto reunir-se-ão no dia marcado para a eleição, às 8 horas da manhã, em todo o território nacional.
 
 2 - No estrangeiro, as assembleias de voto reúnem-se nos termos dos n.os 2 e 3 do artigo 12.º
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Até ao 15.º dia anterior ao dia da eleição, os presidentes das câmaras municipais, por editais afixados nos lugares de estilo, anunciam o dia, a hora e os locais em que se reunirão as assembleias de voto e os desdobramentos e anexações destas, se a eles houver lugar.
 
@@ -190,7 +299,9 @@ Para o efeito da eleição do Presidente da República, existe um só círculo e
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Até ao 15.º dia anterior ao dia da eleição, o presidente da câmara municipal designará de entre os cidadãos eleitores inscritos em cada assembleia ou secção de voto os que deverão fazer parte das mesas das assembleias ou secções de voto.
 
@@ -208,13 +319,17 @@ Para o efeito da eleição do Presidente da República, existe um só círculo e
 
 8 - No caso referido no número anterior, é dispensada a participação prevista no n.º 5.
 
-###### Artigo 40.º-A — [...]
+Artigo 40.º-A
+
+[...]
 
 1 - Os membros das mesas das assembleias de voto gozam do direito a dispensa de actividade profissional no dia da realização da eleição e no seguinte, sem prejuízo de todos os seus direitos e regalias, incluindo o direito à retribuição, devendo para o efeito comprovar o exercício das respectivas funções.
 
 2 - No estrangeiro, idêntico direito é atribuído aos membros da mesa que exerçam funções em entidades ou serviços oficiais nacionais.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - O direito de voto é exercido presencialmente, sem prejuízo do disposto nos artigos 70.º-A, 70.º-B, 70.º-C e 70.º-D.
 
@@ -222,7 +337,9 @@ Para o efeito da eleição do Presidente da República, existe um só círculo e
 
 3 - ...
 
-###### Artigo 70.º-A — [...]
+Artigo 70.º-A
+
+[...]
 
 1 - ...
 
@@ -252,7 +369,9 @@ d) Estudantes de escolas superiores, ao abrigo de programas de intercâmbio.
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - ...
 
@@ -270,7 +389,9 @@ d) Estudantes de escolas superiores, ao abrigo de programas de intercâmbio.
 
 8 - Tratando-se de assembleias de voto que reúnam fora do território nacional, as competências do presidente da câmara municipal entender-se-ão deferidas ao presidente da comissão recenseadora.
 
-###### Artigo 159.º-A — [...]
+Artigo 159.º-A
+
+[...]
 
 1 - No estrangeiro, em tudo o que não estiver já expressamente regulado, aplicam-se as regras gerais contidas nesta lei, com as devidas adaptações.
 
@@ -296,7 +417,9 @@ Assembleia de voto no estrangeiro
 
 A cada secção ou posto consular corresponde uma assembleia de voto, procedendo-se ao respectivo desdobramento quando aí estejam inscritos mais de 1000 eleitores.
 
-###### Artigo 33.º-A — Locais de assembleia de voto no estrangeiro
+Artigo 33.º-A
+
+Locais de assembleia de voto no estrangeiro
 
 São constituídas assembleias de voto:
 
@@ -304,7 +427,9 @@ a) Nas representações diplomáticas, nos consulados e nas delegações externa
 
 b) Se estritamente necessário, noutros locais em que seja possível assegurar a fiscalização das operações eleitorais por delegados de pelo menos dois dos candidatos à Presidência da República.
 
-###### Artigo 70.º-D — Modo de exercício do direito de voto antecipado por eleitores deslocados no estrangeiro
+Artigo 70.º-D
+
+Modo de exercício do direito de voto antecipado por eleitores deslocados no estrangeiro
 
 1 - Qualquer eleitor que esteja nas condições previstas no n.º 2 do artigo 70.º-A pode exercer o direito de sufrágio entre o 12.º e o 10.º dias anteriores à eleição, junto das representações diplomáticas, consulares ou nas delegações externas dos ministérios e instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos previstos no artigo 70.º-B, sendo a intervenção do presidente da câmara municipal da competência do funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respectiva.
 
@@ -314,11 +439,15 @@ b) Se estritamente necessário, noutros locais em que seja possível assegurar a
 
 4 - No caso de realização do segundo sufrágio, as operações referidas nos números anteriores realizam-se entre o 12.º e o 10.º dias anteriores ao dia de eleição, utilizando-se, se necessário, os boletins de voto do primeiro sufrágio.
 
-###### Artigo 86.º-A — Boletins de voto no estrangeiro
+Artigo 86.º-A
+
+Boletins de voto no estrangeiro
 
 Para o segundo sufrágio, no estrangeiro, e caso tal se revele necessário, podem ser utilizados os boletins de voto do primeiro sufrágio.
 
-###### Artigo 91.º-A — Apuramento parcial no estrangeiro
+Artigo 91.º-A
+
+Apuramento parcial no estrangeiro
 
 1 - Nas assembleias de voto com mais de 100 eleitores inscritos procede-se ao apuramento nos termos gerais.
 
@@ -326,7 +455,9 @@ Para o segundo sufrágio, no estrangeiro, e caso tal se revele necessário, pode
 
 3 - Nos casos referidos no número anterior, os sobrescritos, contendo os boletins de voto, actas das operações e cadernos eleitorais, são enviados imediatamente, por via diplomática, para a assembleia de voto mais próxima que tenha mais de 100 eleitores, para que aí se proceda à contagem pela respectiva mesa e com a presença dos delegados dos candidatos.
 
-###### Artigo 97.º-A — Apuramento intermédio
+Artigo 97.º-A
+
+Apuramento intermédio
 
 1 - Em cada distrito consular constitui-se até à antevéspera do início da votação uma assembleia de apuramento intermédio, composta pelo gerente do posto consular ou gerente da secção consular, que preside, um jurista e um presidente de assembleia de voto por cada 10000 eleitores, designados pelo presidente, à qual compete exercer as funções atribuídas no território nacional às assembleias de apuramento distrital.
 
@@ -338,14 +469,14 @@ Para o segundo sufrágio, no estrangeiro, e caso tal se revele necessário, pode
 
 Aprovada em 6 de Julho de 2000.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Promulgada em 4 de Agosto de 2000.**
+Promulgada em 4 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 9 de Agosto de 2000.**
+Referendada em 9 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

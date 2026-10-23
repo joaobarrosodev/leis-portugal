@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/372-1989-609868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T09:51:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a232c03c9aabd39df893d8d2fc2a6ee3f151066658ce9833919122d8787f06b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a9570f1ce416671e57ce897a1989aa97c3a341718fb649721ce3c632beb3163
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:51:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Imposto Especial sobre Veículos
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:426138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611535:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:51:31Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +111,6 @@ b) Tratando-se de veículos de matrícula nacional saídos do País em data em q
 
 Secretaria de Estado dos Assuntos Fiscais.
 
-**Assinada em 16 de Maio de 1989.**
+Assinada em 16 de Maio de 1989.
 
-**O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.**
+O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.

@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1090-1990-566175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:09:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e941c7155f0ba2e2e09bba712e8d1b50fb9dc57f28782c147e54dfc9f40a198
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 032b907386446ca11ba36eb255283778e60427fe78b6be5a38ec162832bb891d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:09:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arraiolos
+- CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:602722:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:432804:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça turística atribuída no presente diploma, pela\
+    \ PORT.1045/95.28.08.1995.MA, DR.IS-B [198] de 28.08.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1045-1995-432804
+  date: '1995-08-28'
+- type: amended_by
+  target: pt:dre:142131:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pelo presente diploma, renovada pelas Ports. 1045/95 de 28-Ago\
+    \ e 81/96 de 15-Mar, pela PORT.773/2005.05.09.2005.MEI, DR.IS-B [170] de 05.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/773-2005-142131
+  date: '2005-09-05'
+- type: amended_by
+  target: pt:dre:602722:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela Port 1045/95,\
+    \ de 28-Ago, pela Port 81/96, de 15-Mar e pela Port 773/2005, de 05-Set, pela PORT.69/2009.22.01.2009.MADRP, DR.IS [15]\
+    \ de 22.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-2009-602722
+  date: '2009-01-22'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:09:13Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +160,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 16 de Outubro de 1990.**
+Assinada em 16 de Outubro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/25200/44884488.pdf))](https://files.diariodarepublica.pt/1s/1990/10/25200/44884488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/25200/44884488.pdf)

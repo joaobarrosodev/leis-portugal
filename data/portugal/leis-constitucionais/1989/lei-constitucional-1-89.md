@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 155/1989, 1º Suplemento, Série I de 1989-07-08
   number: '155'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2734-(2) a 2734-(69)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/15501/00020069.pdf
 entry_into_force_dates: []
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1989-496551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc156e27ff290cd6f03bf6d26d98b54c0a88dadfad82ce236d7b7b5ea5771c42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3a603077ae0f946ae2736e2e0be6819750b234aa3910cca50fe9475105906f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Constituição
+- Direito Constitucional
+- Revisão Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:506783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577358:por
+  label: "Alterada, nos termos seguintes, a Constituição da República Portuguesa aprovada pelo Dec de 02-Abr do PR DR.IS [86]\
+    \ de 10/Abr/1976 [DD66/76], com a redacção do presente diploma, pela Lei 1/2001 de 20-Nov DR.IS-A [286] de 12/Dez/2001:\
+    \ Aditadas expressões conferindo nova redacção ao nº 6 do art. 7º, assim como aditado um nº 7 ao mesmo art.;Aditada uma\
+    \ expressão à epígrafe do art. 11º, bem como um nº 3;Substituídas algumas expressões no nº 3º do art. 15º, conferindo-lhe\
+    \ nova redacção;Alterada a numeração do nº 5 do art. 33º, que passa a constituir o nº 4 do mesmo art., aditado um novo\
+    \ nº 5 àquele art., alterada a numeração e a redacção do nº 4, que passa a constituir o nº 6, e a numeração dos nºs 6,\
+    \ 7 e 8 que passam a ser os nºs 7, 8 e 9 do mesmo art. 33º;Aditada nova expressão e nova redacção ao nº 3º do art. 6º;\
+    \ eAditadas e substituídas expressões ao art. 270º conferindo-lhe nova redacção.\0o.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-constitucional/1-2001-577358
+  date: '2001-11-20'
+- type: amended_by
+  target: pt:dre:506783:por
+  label: "Alterada a Constituição de 2 de Abril de 1976, publicada pelo Dec DD 66/76, de 10-Abr 1976, na redacção da presente\
+    \ Lei Const (2.ª Revisão), pela LEI CONST.1/2004.24.07.2004.AR, DR.IS-A [173] de 24.07.2004 (Sexta Revisão Constitucional)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-constitucional/1-2004-506783
+  date: '2004-07-24'
+- type: cites
+  target: pt:dre:310847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667568:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:619299:por
+  label: Rectificada pela DECL.DD3698.1989.08.01.AR DR.IS [181] DE 08/AGO/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-619299
+  date: '1989-08-01'
 article_structure:
   article_count: 526
-  section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 47
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:12Z'
   warnings: []
   errors: []
 ---
@@ -2066,17 +2117,17 @@ A presente lei de revisão constitucional entra em vigor no trigésimo dia poste
 
 Aprovada em 1 de Junho de 1989.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
 
-**Promulgada em 7 de Julho de 1989.**
+Promulgada em 7 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendada em 7 de Julho de 1989.**
+Referendada em 7 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA
 
@@ -2176,7 +2227,7 @@ f) Assegurar o ensino e a valorização permanente, defender o uso e promover a 
 
 2. O Hino Nacional é A Portuguesa.
 
-# PARTE I — Direitos e deveres fundamentais
+## PARTE I — Direitos e deveres fundamentais
 
 ## TÍTULO I — Princípios gerais
 
@@ -2944,7 +2995,7 @@ e) Articular a política cultural e as demais políticas sectoriais.
 
 2. Incumbe ao Estado, em colaboração com as escolas e as associações e colectividades desportivas, promover, estimular, orientar e apoiar a prática e a difusão da cultura física e do desporto, bem como prevenir a violência no desporto.
 
-# PARTE II — Organização económica
+## PARTE II — Organização económica
 
 ## TÍTULO I — Princípios gerais
 
@@ -3244,7 +3295,7 @@ g) Os benefícios fiscais e a estimativa da receita cessante.
 
 A execução do Orçamento será fiscalizada pelo Tribunal de Contas e pela Assembleia da República, que, precedendo parecer daquele tribunal, apreciará e aprovará a Conta Geral do Estado, incluindo a da segurança social.
 
-# PARTE III — Organização do poder político
+## PARTE III — Organização do poder político
 
 ## TÍTULO I — Princípios gerais
 
@@ -3386,7 +3437,7 @@ i) Os resultados de eleições e de referendos de âmbito nacional.
 
 ###### Artigo 123.º — (Definição)
 
-**O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.**
+O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.
 
 ###### Artigo 124.º — (Eleição)
 
@@ -4964,7 +5015,7 @@ A lei pode estabelecer restrições ao exercício dos direitos de expressão, re
 
 7. Nenhum cidadão pode ser prejudicado na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do cumprimento do serviço militar ou do serviço cívico obrigatório.
 
-# PARTE IV — Garantia e revisão da Constituição
+## PARTE IV — Garantia e revisão da Constituição
 
 ## TÍTULO I — Fiscalização da constitucionalidade
 
@@ -5208,4 +5259,4 @@ O estatuto provisório da Região Autónoma da Madeira continua a vigorar até �
 
 2. A Constituição da República Portuguesa entra em vigor no dia 25 de Abril de 1976.
 
-**O Presidente da Assembleia da República, Vítor Pereira Crespo.**
+O Presidente da Assembleia da República, Vítor Pereira Crespo.

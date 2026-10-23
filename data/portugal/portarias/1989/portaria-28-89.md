@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/28-1989-609351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T09:49:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb3e76cae38b8b168a1ddbed670927932a92ed5d305d36d6181a347531448476
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14a5bd20f67111b27749418b64b9bd778dcdcde840852a6cda4879144ebcc91e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:49:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Junta Médico-Militar
 relationships:
 - type: amended_by
   target: pt:dre:345123:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:413023:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:441493:por
+  label: Rectificada pela DECL.DD3958.1989.04.26.PCM DR.IS [99] DE 29/ABR/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-441493
+  date: '1989-04-26'
+- type: repealed_by
+  target: pt:dre:345123:por
+  label: "Revogada pelo DEC LEI.291/99.1999.08.03.MDN DR.IS-A [179], quando for publicada a legislação prevista nos arts.\
+    \ 1.º e 2.º da norma revogatória.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-1999-345123
+  date: '1999-08-03'
 article_structure:
   article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:49:06Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +118,9 @@ Manda o Governo, pelo Ministro da Defesa Nacional, ao abrigo da alínea a) do n.
 
 Ministério da Defesa Nacional.
 
-**Assinada em 23 de Dezembro de 1988.**
+Assinada em 23 de Dezembro de 1988.
 
-**O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.**
+O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.
 
 Tabela de perfis psicofísicos e de incapacidades para uso pelas juntas médico-militares do Exército.
 
@@ -129,60 +146,60 @@ O grau de incapacidade psicofísica do militar, para efeitos de prestação do s
 
 ### CAPÍTULO II — Doenças infecciosas e parasitárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO III — Neoplasias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO IV — Doenças das glândulas endócrinas, da nutrição e do metabolismo e transtornos imunitários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO V — Doenças do sangue e dos órgãos hematopoiéticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO VI — Doenças mentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO VII — Doenças do sistema nervoso e órgãos dos sentidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO VIII — Doenças do aparelho circulatório
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO IX — Doenças do aparelho respiratório
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO X — Doenças do aparelho digestivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO XI — Doenças do aparelho génito-urinário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO XII — Doenças da pele e do tecido celular subcutâneo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO XIII — Doenças do sistema ósteo-articular, dos músculos e do tecido conjuntivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO XIV — Anomalias congénitas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO XV — Lesões traumáticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
 
 ### CAPÍTULO XVI — Situações especiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01400/01740187.pdf)

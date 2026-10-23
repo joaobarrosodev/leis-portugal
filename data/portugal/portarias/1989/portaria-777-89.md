@@ -49,36 +49,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/777-1989-547050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cac8482d2d260ee9f64d25e72482a91066bcdece87d4b5c46855ddb9298ab292
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51ce2d2f5c8e77409c6afb7dc8b872406fc9b5b1f6b8d47487371a800de04296
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amarante
+- Angra do Heroísmo
+- Cartório Notarial
+- Conservatória do Registo Civil
+- Conservatória do Registo Comercial
+- Conservatória do Registo Predial
+- Ilha do Corvo
+- Lajes das Flores
+- Lisboa
+- Moura
+- Oliveira de Azeméis
+- Ovar
+- Porto Moniz
+- Setúbal
+- Vila Real
+relationships:
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:18Z'
   warnings: []
   errors: []
 ---
@@ -93,18 +116,18 @@ Manda o Governo, pelo Ministro da Justiça, o seguinte:
 
 2.º Ao abrigo do disposto no artigo 88.º, n.º 2, do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro, são aumentados os quadros de oficiais dos serviços abaixo referidos, pela forma a seguir indicada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20600/38533854.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20600/38533854.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20600/38533854.pdf)
 
 3.º Ao abrigo do disposto nos artigos 5.º, 6.º e 15.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, e nos artigos 1.º e 13.º do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro, são criadas as Conservatórias dos Registos Predial e Comercial de Corvo, de Lajes das Flores e de Porto Moniz.
 
 a) As Conservatórias agora criadas são classificadas de 3.ª classe e funcionarão em regime de trianexação com os serviços do registo civil e notariado do concelho, cujos quadros de oficiais ficarão compostos por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20600/38533854.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20600/38533854.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20600/38533854.pdf)
 
 b) A data de entrada em funcionamento das novas Conservatórias será fixada por despacho do director-geral dos Registos e do Notariado.
 
 Ministério da Justiça.
 
-**Assinada em 22 de Agosto de 1989.**
+Assinada em 22 de Agosto de 1989.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

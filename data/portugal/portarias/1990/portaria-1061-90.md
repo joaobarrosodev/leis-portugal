@@ -48,40 +48,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1061-1990-565457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:08:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45b1f511b2c0e7fd9c66ccd04c4c316ebc61504d1486d00b76bf80225dc5803a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cecac9b2da645b3017c7f6c4a62604ad874112221d3da384f4fb9273ef9f3d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:08:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Ensino Superior Politécnico
+- Escola Superior de Ciência e Tecnologia
+- Escola Superior de Desenvolvimento Social e Comunitário
+- Instituto Politécnico
+- Plano de Estudos
+- VILA NOVA de GAIA
 relationships:
 - type: amended_by
   target: pt:dre:240818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616659:por
+  label: Alterada para Instituto Politécnico de Gaya, a denominação do Instituto Politécnico de Gaia, reconhecido pelo presente
+    diploma, assim como são alterados os planos de estudos dos cursos superiores de Frio e Climatização, Automação e Electrónica
+    Industrial e Sistemas Informáticos e Informática de Gestão, os quais passam a denomimar-se, respetivamente, curso superior
+    de Engenharia Electrotécnica - Frio e Climatização, curso superior de Engenharia Electrónica e de Automação e curso superior
+    de Engenharia Informática pelo(a) Portaria n.º 1160/92 - Diário da República n.º 289/1992, Série I-B de 1992-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1160-1992-616659
+  date: '1992-12-16'
+- type: amended_by
+  target: pt:dre:660309:por
+  label: Alterada a denominação e os planos de estudos dos cursos superiores de Património Cultural e de Desenvolvimento Comunitário,
+    para, respetivamente, Património e Ambiente e Administração Pública, Regional e Local, aprovados pelo presente diploma,
+    com a redação dada pela Port 1160/92 de 16-dez, assim como são alterados os planos de estudos do curso superior de Contabilidade
+    e Gestão, e os planos de estudos dos cursos superiores de Turismo, de Engenharia Eletrónica e de Automação e de Engenharia
+    Informática pelo(a) Portaria n.º 865/93 - Diário da República n.º 216/1993, Série I-B de 1993-09-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-1993-660309
+  date: '1993-09-14'
+- type: amended_by
+  target: pt:dre:240806:por
+  label: "Determinada, nos termos do art. 3.º da Port 343/2003, a caducidade do bacharelato em Turismo cujo funcionamento\
+    \ foi autorizado pelo presente diploma, na redacção da Port 1160/92, de 16-Dez e da Port 865/93, de 14-Set, pela PORT.343/2003.2003.04.29.MCES\
+    \ DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-2003-240806
+  date: '2003-04-29'
+- type: amended_by
+  target: pt:dre:240811:por
+  label: "Determinada, nos termos do art. 3º da Port. 343/2003, a caducidade do bacharelato em Turismo cujo funcionamento\
+    \ foi aturozado pelo presente diploma, na redacção da Port. 1160/92, de 16-Dez e da Port. 865/93, de 14-Set pela PORT.344/2003.2003.04.29.MCES,\
+    \ DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/344-2003-240811
+  date: '2003-04-29'
+- type: amended_by
+  target: pt:dre:240817:por
+  label: "Determinada, nos termos do art. 3º da Port. 345/2003, a caducidade do Bacharelato em Contabilidade e Gestão cujo\
+    \ funcionamento bfoi autorizado pelo presente diploma na redacção da port. 865/93 de 14-set, pela PORT.345/2003.2003.04.29.MCES,\
+    \ DR.IS [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/345-2003-240817
+  date: '2003-04-29'
+- type: amended_by
+  target: pt:dre:240818:por
+  label: "Determinada nos termos do art. 3º da Port. 346/2003, a caducidade do Bacharelato em Informática de gestão cujo funcionamento\
+    \ foi autorizado pelo presente diploma na redacção da Port. 1160/92 de 16-Dez, pela PORT.346/2003.2003.04.29.MCES, DR.IS-B\
+    \ [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-2003-240818
+  date: '2003-04-29'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:08:33Z'
   warnings: []
   errors: []
 ---
@@ -130,10 +187,10 @@ de acordo com o plano de estudos anexo (II) à presente portaria.
 
 Ministério da Educação.
 
-**Assinada em 25 de Setembro de 1990.**
+Assinada em 25 de Setembro de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24100/43124316.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24100/43124316.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24100/43124316.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24100/43124316.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24100/43124316.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24100/43124316.pdf)

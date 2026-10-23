@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1/2004/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2004-603274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62153c9de852c8d62c973964105dccdb6e7ea3b2451e96bab120800d45983565
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71516290d0967a0657f6703b36ed36a0cf8990b5c6ba5d9f01232273973f9c96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
-- Cidadão Estrangeiro
 - Casamento
+- Cidadão Estrangeiro
+- Nacionalidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/194/2003/08/23/p/dre
@@ -81,16 +81,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/25/1994/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/1994/08/19/p/dre
+- type: cites
+  target: pt:dre:218490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:36Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +137,9 @@ Os artigos 30.º e 31.º da [Lei n.º 37/81](https://diariodarepublica.pt/dr/det
 
 2 - Sem prejuízo da validade das relações jurídicas anteriormente estabelecidas com base em outra nacionalidade, a aquisição da nacionalidade portuguesa nos termos previstos no número anterior produz efeitos desde a data do casamento.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Quem, nos termos da [Lei n.º 2098](https://diariodarepublica.pt/dr/detalhe/lei/2098-1959-431607), de 29 de Julho de 1959, e legislação precedente, perdeu a nacionalidade portuguesa por efeito da aquisição voluntária de nacionalidade estrangeira, adquire-a:
 
@@ -139,14 +161,14 @@ O disposto na presente lei é aplicável aos processos pendentes à data da sua 
 
 Aprovada em 27 de Novembro de 2003.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
-**Promulgada em 30 de Dezembro de 2003.**
+Promulgada em 30 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 31 de Dezembro de 2003.**
+Referendada em 31 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

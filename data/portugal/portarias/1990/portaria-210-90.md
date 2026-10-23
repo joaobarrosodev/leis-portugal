@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/210-1990-333339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:15:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78d2f599b3282a1dd314c8ddef8588efe5fe2888164696a3325287f8ba68eda3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 400799ed0671582dc54309e624dde7677fa707b978ea475c49de8fcf14d9b1c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:15:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Direcção Regional de Agricultura
+- Indemnização Compensatória
 relationships:
 - type: amended_by
   target: pt:dre:152136:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571265:por
+  label: "Dada nova redacção do nº 2º pela PORT.367/90.12.05.1990.MAPA, DR.IS [109] de 12.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/367-1990-571265
+  date: '1990-05-12'
+- type: cites
+  target: pt:dre:614634:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152136:por
+  label: Revogado o n.º 1 pelo(a) Portaria n.º 83/92 - Diário da República n.º 32/1992, Série I-B de 1992-02-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/83-1992-152136
+  date: '1992-02-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:15:40Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +128,6 @@ b) Boletim de vacinação da febre aftosa, no caso dos bovinos, excepto quando n
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 2 de Março de 1990.**
+Assinada em 2 de Março de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

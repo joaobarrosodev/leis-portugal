@@ -47,40 +47,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-1990-332774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:13:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f31514479c80296b1979348efe563d495458f995e2dbcf5012f11b7d2c9dcb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93ec14747139c3aa056df6e484fe3158b7ecfa798cc7ba2d176987744145a548
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:13:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Vila Velha de Ródão
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:444243:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644491:por
+  label: "Alterado o nº 1º e aditado um nº 1º-A pela PORT.870/97.1997.09.10.MADRP DR.IS-B [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/870-1997-644491
+  date: '1997-09-10'
+- type: amended_by
+  target: pt:dre:433804:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pelo presente diploma, pela PORT.704/99.1999.08.24.MADRP\
+    \ DR.IS-B [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/704-1999-433804
+  date: '1999-08-24'
+- type: amended_by
+  target: pt:dre:145840:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório na zona de caça associativa concessionada pelo\
+    \ presente diploma, na redacção das Ports. 870/97, de 10-Set e 704/99, de 24-Ago, pela PORT.628/2002.2002.06.11.MADRP\
+    \ DR.IS-B [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/628-2002-145840
+  date: '2002-06-11'
+- type: amended_by
+  target: pt:dre:425893:por
+  label: "Renovada, por um período de 6 anos, a concessão da zona de caça associativa criada pelo presente diploma pela PORT.1410/2002.2002.10.30.MADRP,DR.IS-B\
+    \ [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1410-2002-425893
+  date: '2002-10-30'
+- type: amended_by
+  target: pt:dre:525195:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pelo presente diploma e renovada pela Port 1410/2002,\
+    \ de 30-Out, pela PORT.859/2004.19.07.2004.MADRP, DR.IS-B [168] de 19.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/859-2004-525195
+  date: '2004-07-19'
+- type: amended_by
+  target: pt:dre:444243:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa do Monte Fidalgo, concessionada pelo\
+    \ presente diploma, alterado pelas Ports 870/97 de 10-Set, 704/99 de 24-Ago, renovada pela Port 1410/2002 de 30-Out, e\
+    \ alterada pela Port 859/2004 de 19-Set, pela PORT.1549/2008.31.12.2008.MAOTDR, DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1549-2008-444243
+  date: '2008-12-31'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:13:19Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +169,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 30 de Janeiro de 1990.**
+Assinada em 30 de Janeiro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04000/06470647.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04000/06470647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04000/06470647.pdf)

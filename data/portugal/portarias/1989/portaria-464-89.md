@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/14200/24252427.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/464-1989-620730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T09:53:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 702d422b453fdb7bd0387c620fabe5985bfdd9a9daafbc86a0610a1fd3e33279
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4a1119d58c3d0cd35e8d9ac87897410062c0361a7a2425e5f9e6ec55bb9e83e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:53:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Licenciatura
+- Plano de Estudos
+- Universidade Aberta
 relationships:
 - type: amended_by
   target: pt:dre:666168:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547052:por
+  label: "Aditado n.º 3.º-A pela PORT.779/89.07.09.1989.ME, DR.IS [206] de 07.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/779-1989-547052
+  date: '1989-09-07'
+- type: amended_by
+  target: pt:dre:549823:por
+  label: "Alterado o n.º 3.º e o n.º 3.º-A, aditado na Portaria 779/89, de 7 de Setembro, pela PORT.984/89.15.11.1989.ME,\
+    \ DR.IS [263] de 15.11.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/984-1989-549823
+  date: '1989-11-15'
+- type: amended_by
+  target: pt:dre:555396:por
+  label: "Dada nova redacção ao n.º 3.º (alterado pela Portaria 984/89 de 15-Nov) e revogado o n.º 3.º-A pela PORT.1058/90.16.10.1990.ME,\
+    \ DR.IS [239] de 16.10.1990\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1058-1990-555396
+  date: '1990-10-16'
+- type: cites
+  target: pt:dre:357130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370018:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:666168:por
+  label: "Revogada pela PORT.1126/93.03.11.1993.ME, DR.IS-B [257] de 03.11.1993, sem prejuízo do disposto no seu n.º 12.º\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1126-1993-666168
+  date: '1993-11-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:53:47Z'
   warnings: []
   errors: []
 ---
@@ -191,18 +226,18 @@ Classificação final
 
 Ministério da Educação.
 
-**Assinada em 1 de Junho de 1989.**
+Assinada em 1 de Junho de 1989.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 ## ANEXO I — Plano de estudos
 
 Unidades lectivas obrigatórias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/14200/24252427.pdf))](https://files.diariodarepublica.pt/1s/1989/06/14200/24252427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/14200/24252427.pdf)
 
 ## ANEXO II — Plano de estudos
 
 Unidades lectivas opcionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/14200/24252427.pdf))](https://files.diariodarepublica.pt/1s/1989/06/14200/24252427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/14200/24252427.pdf)

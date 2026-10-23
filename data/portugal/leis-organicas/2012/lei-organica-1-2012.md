@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1/2012/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2012-552035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49c1c1a2a71eed13e1f79adcab821cb719720762fff12a4865b08515b51c9751
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d56579c3e295c3123da3617be5f82e25d5e46ee92a28aa2240063f467feff2bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
 article_structure:
-  article_count: 40
+  article_count: 32
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:02Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +112,15 @@ Crime de desobediência
 
 A violação do disposto na declaração do estado de sítio ou do estado de emergência ou na presente lei, nomeadamente quanto à execução daquela, faz incorrer os respetivos autores em crime de desobediência.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Em caso de alteração das circunstâncias que tiverem determinado a declaração do estado de sítio ou do estado de emergência, as providências e medidas constantes da declaração poderão ser objeto de adequada extensão ou redução, nos termos do artigo 26.º
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -128,7 +140,9 @@ g) (Revogada.)
 
 2 - ...
 
-###### Artigo 15.º — Forma da autorização, confirmação ou recusa
+Artigo 15.º
+
+Forma da autorização, confirmação ou recusa
 
 1 - A autorização, confirmação ou recusa da declaração do estado de sítio ou do estado de emergência pela Assembleia da República assumem a forma de resolução.
 
@@ -136,13 +150,17 @@ g) (Revogada.)
 
 3 - ...
 
-###### Artigo 16.º — Conteúdo da resolução de autorização ou confirmação
+Artigo 16.º
+
+Conteúdo da resolução de autorização ou confirmação
 
 1 - A resolução de autorização da declaração do estado de sítio ou do estado de emergência conterá a definição do estado a declarar e a delimitação pormenorizada do âmbito da autorização concedida em relação a cada um dos elementos referidos no artigo 14.º
 
 2 - A resolução de confirmação da declaração do estado de sítio ou do estado de emergência deverá igualmente conter os elementos referidos no número anterior, não podendo, contudo, restringir o conteúdo do decreto de declaração.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Com observância do disposto no artigo 17.º, e sem prejuízo das competências do Representante da República e dos órgãos de governo próprio, o emprego das Forças Armadas para execução da declaração do estado de sítio nas regiões autónomas é assegurado pelo respetivo comandante-chefe.
 
@@ -152,13 +170,17 @@ g) (Revogada.)
 
 4 - Compete ao Governo da República, sem prejuízo das suas atribuições, nomear as autoridades que coordenam a execução da declaração do estado de emergência no território continental, a nível local, sem embargo de, em situações de calamidade pública, a coordenação mencionada ser assegurada pelos comandantes operacionais distritais de operações de socorro, na área da respetiva jurisdição.
 
-###### Artigo 23.º — Foro
+Artigo 23.º
+
+Foro
 
 1 - Com salvaguarda do que sobre esta matéria constar da declaração do estado de sítio ou do estado de emergência quanto aos direitos, liberdades e garantias cujo exercício tiver sido suspenso ou restringido, nos termos da Constituição e da presente lei, os tribunais comuns mantêm-se, na vigência daqueles estados, no pleno exercício das suas competências e funções.
 
 2 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A Assembleia da República ou, quando esta não estiver reunida nem for possível a sua reunião imediata, a respetiva Comissão Permanente pronunciar-se-ão sobre o pedido de autorização da declaração do estado de sítio ou do estado de emergência, nos termos do Regimento e do disposto no artigo 27.º
 
@@ -168,7 +190,9 @@ g) (Revogada.)
 
 4 - Pela via mais rápida e adequada às circunstâncias, a Assembleia da República consultará os órgãos de governo próprio das regiões autónomas, nos termos do n.º 2 do artigo 229.º da Constituição, sempre que a declaração do estado de sítio ou do estado de emergência se refira ao respetivo âmbito geográfico.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -190,17 +214,17 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 16 de março de 2012.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
-**Promulgada em 19 de abril de 2012.**
+Promulgada em 19 de abril de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 3 de maio de 2012.**
+Referendada em 3 de maio de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro
 

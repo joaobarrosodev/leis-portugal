@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 273/1992, 1º Suplemento, Série I-A de 1992-11-25
   number: '273'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5444-(2) a 5444-(45)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/273a01/00020045.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiconst/1/1992/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1992-174316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c85ed4999900325c42c0985d9602c8ca517ac47b696f2619865d6c721ee8949c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca975c0af114a5f0c8426963064fd7fd8fbd72828818e6bd4ac53283e6ffd504
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,75 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito Constitucional
 - Constituição
+- Direito Constitucional
 - Revisão Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:506783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577358:por
+  label: "Alterada, nos termos seguintes, a Constituição da República Portuguesa aprovada pelo Dec de 02-Abr do PR DR.IS [86]\
+    \ de 10/Abr/1976 [DD66/76], com a redacção do presente diploma, pela Lei 1/2001 de 20-Nov DR.IS-A [286] de 12/Dez/2001:\
+    \ Aditadas expressões conferindo nova redacção ao nº 6 do art. 7º, assim como aditado um nº 7 ao mesmo art.;Aditada uma\
+    \ expressão à epígrafe do art. 11º, bem como um nº 3;Substituídas algumas expressões no nº 3º do art. 15º, conferindo-lhe\
+    \ nova redacção;Alterada a numeração do nº 5 do art. 33º, que passa a constituir o nº 4 do mesmo art., aditado um novo\
+    \ nº 5 àquele art., alterada a numeração e a redacção do nº 4, que passa a constituir o nº 6, e a numeração dos nºs 6,\
+    \ 7 e 8 que passam a ser os nºs 7, 8 e 9 do mesmo art. 33º;Aditada nova expressão e nova redacção ao nº 3º do art. 6º;\
+    \ eAditadas e substituídas expressões ao art. 270º conferindo-lhe nova redacção.\0o.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-constitucional/1-2001-577358
+  date: '2001-11-20'
+- type: amended_by
+  target: pt:dre:506783:por
+  label: "Alterada a Constituição de 2 de Abril de 1976, publicada pelo Dec DD 66/76, de 10-Abr 1976, na redacção da presente\
+    \ Lei Const (3.ª Revisão), pela LEI CONST.1/2004.24.07.2004.AR, DR.IS-A [173] de 24.07.2004 (Sexta Revisão Constitucional)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-constitucional/1-2004-506783
+  date: '2004-07-24'
+- type: cites
+  target: pt:dre:310847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667568:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:285296:por
+  label: "RECTIFICADO PELA RECTIFICAÇÃO 1/93, DE 921214, PUBLICADA NO DR.IS-A, 4, DE 930106.\0106.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1-1993-285296
 article_structure:
-  article_count: 299
-  section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 298
+  section_count: 47
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:12Z'
   warnings: []
   errors: []
 ---
@@ -95,15 +146,15 @@ Terceira revisão constitucional
 
 A Assembleia da República, no uso dos poderes de revisão constitucional previstos na alínea a) do artigo 164.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º A Constituição da República Portuguesa, de 2 de Abril de 1976, na redacção que lhe foi dada pela [Lei Constitucional n.º 1/82](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), de 30 de Setembro, e pela [Lei Constitucional n.º 1/89](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1989-496551), de 8 de Julho, é alterada nos termos dos artigos seguintes.
+Artigo 1.º A Constituição da República Portuguesa, de 2 de Abril de 1976, na redacção que lhe foi dada pela [Lei Constitucional n.º 1/82](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1982-375254), de 30 de Setembro, e pela [Lei Constitucional n.º 1/89](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1989-496551), de 8 de Julho, é alterada nos termos dos artigos seguintes.
 
-###### Art. 2.º - 1 - No n.º 5 do artigo 7.º é aditada a expressão «da democracia» entre a expressão «a favor» e a expressão «da paz».
+Art. 2.º - 1 - No n.º 5 do artigo 7.º é aditada a expressão «da democracia» entre a expressão «a favor» e a expressão «da paz».
 
 2 - É aditado no mesmo artigo um novo n.º 6, com a seguinte redacção:
 
 6. Portugal pode, em condições de reciprocidade, com respeito pelo princípio da subsidiariedade e tendo em vista a realização da coesão económica e social, convencionar o exercício em comum dos poderes necessários a construção da união europeia.
 
-###### Art. 3.º - 1 - É aditada à epígrafe do artigo 15.º a expressão «, cidadãos europeus».
+Art. 3.º - 1 - É aditada à epígrafe do artigo 15.º a expressão «, cidadãos europeus».
 
 2 - No n.º 4 do artigo 15.º é aditada a expressão «activa e passiva» entre «capacidade eleitoral» e «para a eleição».
 
@@ -111,35 +162,35 @@ A Assembleia da República, no uso dos poderes de revisão constitucional previs
 
 5. A lei pode ainda atribuir, em condições de reciprocidade, aos cidadãos dos Estados membros da União Europeia residentes em Portugal o direito de elegerem e serem eleitos Deputados ao Parlamento Europeu.
 
-###### Art. 4.º O texto do artigo 105.º é substituído por:
+Art. 4.º O texto do artigo 105.º é substituído por:
 
 O Banco de Portugal, como banco central nacional, colabora na definição e execução das políticas monetária e financeira e emite moeda, nos termos da lei.
 
-###### Art. 5.º No artigo 166.º é aditada uma nova alínea f), com a seguinte redacção:
+Art. 5.º No artigo 166.º é aditada uma nova alínea f), com a seguinte redacção:
 
 f) Acompanhar e apreciar, nos termos da lei, a participação de Portugal no processo de construção da união europeia.
 
-###### Art. 6.º No n.º 1 do artigo 200.º é aditada uma nova alínea i), com a seguinte redacção:
+Art. 6.º No n.º 1 do artigo 200.º é aditada uma nova alínea i), com a seguinte redacção:
 
 i) Apresentar, em tempo útil, à Assembleia da República, para efeitos do disposto na alínea f) do artigo 166.º, informação referente ao processo de construção da união europeia.
 
-###### Art. 7.º - 1 - No n.º 1 do artigo 284.º a expressão «de qualquer lei de revisão» é substituída pela expressão «da última lei de revisão ordinária».
+Art. 7.º - 1 - No n.º 1 do artigo 284.º a expressão «de qualquer lei de revisão» é substituída pela expressão «da última lei de revisão ordinária».
 
 2 - No n.º 2 do mesmo artigo o inciso «constitucional» é substituído pelo inciso «extraordinária».
 
 Aprovada em 17 de Novembro de 1992
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
 
-**Promulgada em 21 de Novembro de 1992.**
+Promulgada em 21 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendada em 24 de Novembro de 1992.**
+Referendada em 24 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA
 
@@ -241,7 +292,7 @@ f) Assegurar o ensino e a valorização permanente, defender o uso e promover a 
 
 2. O Hino Nacional é A Portuguesa.
 
-# PARTE I — Direitos e deveres fundamentais
+## PARTE I — Direitos e deveres fundamentais
 
 ## TÍTULO I — Princípios gerais
 
@@ -1011,7 +1062,7 @@ e) Articular a política cultural e as demais políticas sectoriais.
 
 2. Incumbe ao Estado, em colaboração com as escolas e as associações e colectividades desportivas, promover, estimular, orientar e apoiar a prática e a difusão da cultura física e do desporto, bem como prevenir a violência no desporto.
 
-# PARTE II — Organização económica
+## PARTE II — Organização económica
 
 ## TÍTULO I — Princípios gerais
 
@@ -1311,7 +1362,7 @@ g) Os benefícios fiscais e a estimativa da receita cessante.
 
 A execução do Orçamento será fiscalizada pelo Tribunal de Contas e pela Assembleia da República, que, precedendo parecer daquele tribunal, apreciará e aprovará a Conta Geral do Estado, incluindo a da segurança social.
 
-# PARTE III — Organização do poder político
+## PARTE III — Organização do poder político
 
 ## TÍTULO I — Princípios gerais
 
@@ -1453,7 +1504,7 @@ i) Os resultados de eleições e de referendos de âmbito nacional.
 
 ###### Artigo 123.º — (Definição)
 
-**O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.**
+O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.
 
 ###### Artigo 124.º — (Eleição)
 
@@ -3035,7 +3086,7 @@ A lei pode estabelecer restrições ao exercício dos direitos de expressão, re
 
 7. Nenhum cidadão pode ser prejudicado na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do cumprimento do serviço militar ou do serviço cívico obrigatório.
 
-# PARTE IV — Garantia e revisão da Constituição
+## PARTE IV — Garantia e revisão da Constituição
 
 ## TÍTULO I — Fiscalização da constitucionalidade
 
@@ -3279,4 +3330,4 @@ O estatuto provisório da Região Autónoma da Madeira continua a vigorar até �
 
 2. A Constituição da República Portuguesa entra em vigor no dia 25 de Abril de 1976.
 
-**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.

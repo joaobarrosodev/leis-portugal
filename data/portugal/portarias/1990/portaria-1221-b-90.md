@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 291/1990, 2º Suplemento, Série I de 1990-12-19
   number: '291'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5170-(4) a 5170-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29102/00040005.pdf
 entry_into_force_dates: []
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1221-b-1990-480973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:12:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bc3f09c2d1c30bbd347b4f12f3dd0043b7490a772f7f736e406ea0df76a9fe7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87245a29500a55315555522f2a5ce274129e10fc10c3f916a80a377c9faddc82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:12:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- EPAL
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:444270:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:284890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580368:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:444270:por
+  label: "Rectificado o n.º 1 do anexo ao presente diploma pela DECL-RECT.25/91.31.01.1991.PCM, DR.IS-B [26]Supl de 31.01.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/25-1991-444270
+  date: '1991-01-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:12:52Z'
   warnings: []
   errors: []
 ---
@@ -134,9 +155,9 @@ c) Nos casos em que a leitura do contador é habitualmente plurimestral, só se 
 
 Ministério do Ambiente e Recursos Naturais.
 
-**Assinada em 5 de Dezembro de 1990.**
+Assinada em 5 de Dezembro de 1990.
 
-**O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.**
+O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.
 
 ## ANEXO
 
@@ -166,10 +187,10 @@ MAPA I
 
 Preços de venda de água a consumidores directos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/29102/00040005.pdf))](https://files.diariodarepublica.pt/1s/1990/12/29102/00040005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29102/00040005.pdf)
 
 MAPA II
 
 Preços de venda de água a municípios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/29102/00040005.pdf))](https://files.diariodarepublica.pt/1s/1990/12/29102/00040005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29102/00040005.pdf)

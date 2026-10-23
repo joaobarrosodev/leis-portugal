@@ -47,40 +47,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/196-1978-325739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:13:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32815f71fd37e4ada8de6f10fc062c5a2730c23d2c17534347b05c9c50f4315f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbf110bcf4a0500b182cddbca2b91883f2158111bdbeb732da0d438e75276331
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:13:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Privada
+- Infraestrutura Turística
+- Intervenção do Estado
 relationships:
 - type: amended_by
   target: pt:dre:402742:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382004:por
+  label: "Prorrogado o prazo previsto no n.º 5 e o regime estabelecido no n.º 8 do presente diploma, pela RES.122/79.24.04.1979.PCM,\
+    \ DR.IS [95] de 24.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/122-1979-382004
+  date: '1979-04-24'
+- type: amended_by
+  target: pt:dre:366579:por
+  label: "Prorrogado o prazo fixado no nº 8, pela RES.347/79.1979.11.16.PCM, DR.IS de 11/DEZ/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/347-1979-366579
+  date: '1979-11-16'
+- type: amended_by
+  target: pt:dre:475311:por
+  label: "Prorrogado o prazo fixado no n.º 8 pela RES.162/80.09.05.1980.PCM, DR.IS [107] de 09.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/162-1980-475311
+  date: '1980-05-09'
+- type: amended_by
+  target: pt:dre:470663:por
+  label: "Prorrogado até à data limite de 15.11.1980, com efeitos a partir de 01.07.1980, o prazo previsto no n.º 8 do presente\
+    \ diploma, pela RES.284/80.12.08.1980.PCM, DR.IS [185] de 12.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/284-1980-470663
+  date: '1980-08-12'
+- type: amended_by
+  target: pt:dre:389389:por
+  label: "Prorrogado o prazo previsto no n.º 8 pela RES.62/81.31.03.1981.PCM, DR.IS [75] de 31.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/62-1981-389389
+  date: '1981-03-31'
+- type: amended_by
+  target: pt:dre:402742:por
+  label: "Prorrogado o prazo previsto no n.º 8 do presente diploma, com a redacção constante das Resoluções 347/79, de 16\
+    \ de Novembro e 62/81 de 31 de Março, pela RES.206/81.20.08.1981.PCM, DR.IS [200-Supl] de 01.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/206-1981-402742
+  date: '1981-08-20'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:13:08Z'
   warnings: []
   errors: []
 ---

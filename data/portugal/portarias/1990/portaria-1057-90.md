@@ -47,36 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1057-1990-555395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:08:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 470c48072b6bb615cb56605fca1fdef96a7f3303b3edbd8babe76c911b5e0e5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dfd44c71b3af2a62823b10aeb94cdb659a1005777f1b4a569e17a67369e8418
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:08:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Especialização
+- Diploma
+- Ensino Superior Politécnico
+- Guarda
+- Impresso
+- Instituto Politécnico
+- Licenciatura
+relationships:
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571419:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:08:26Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +146,7 @@ O modelo de diploma do diploma de estudos superiores especializados conferido pe
 
 Ministério da Educação.
 
-**Assinada em 18 de Setembro de 1990.**
+Assinada em 18 de Setembro de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -125,13 +160,13 @@ R (ver nota a) P
 
 Instituto Politécnico da Guarda, em ... (ver nota i).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico da Guarda, ... (ver nota j).**
+O Presidente da Comissão Instaladora do Instituto Politécnico da Guarda, ... (ver nota j).
 
-**O Presidente da Comissão Instaladora da Escola Superior de Educação da Guarda, ... (ver nota l).**
+O Presidente da Comissão Instaladora da Escola Superior de Educação da Guarda, ... (ver nota l).
 
 O Administrador do Instituto Politécnico da Guarda, ... (ver nota m).
 
-**O Secretário da Escola Superior de Educação da Guarda, ... (ver nota n).**
+O Secretário da Escola Superior de Educação da Guarda, ... (ver nota n).
 
 (nota a) Símbolo do Instituto Politécnico da Guarda.
 
@@ -171,13 +206,13 @@ Faço saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver
 
 Instituto Politécnico da Guarda, em ... (ver nota l).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico da Guarda, ... (ver nota m).**
+O Presidente da Comissão Instaladora do Instituto Politécnico da Guarda, ... (ver nota m).
 
-**O Presidente da Comissão Instaladora da ... (ver nota f), ... (ver nota n).**
+O Presidente da Comissão Instaladora da ... (ver nota f), ... (ver nota n).
 
 O Administrador do Instituto Politécnico da Guarda, ... (ver nota o).
 
-**O Secretário da ... (ver nota f) ... (ver nota p).**
+O Secretário da ... (ver nota f) ... (ver nota p).
 
 (nota a) Emblema do Instituto Politécnico da Guarda.
 

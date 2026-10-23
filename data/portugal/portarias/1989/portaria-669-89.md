@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 185/1989, 1º Suplemento, Série I de 1989-08-12
   number: '185'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3266-(9) a 3266-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18501/00090009.pdf
 entry_into_force_dates: []
@@ -49,40 +49,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/669-1989-337024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:58:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17eb10cfa46271fc10c265027e3fd3c614f3538157549e61c46a1973d25f6ee5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf92df14bf97b09c7be554b25c2532109303ce30043405a407abb13bdfbd505e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:58:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:520236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226175:por
+  label: "Alterados os nºs 2º e 4º, pela PORT.593/96.1996.10.17.MADRP, DR.IS-B [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/593-1996-226175
+  date: '1996-10-17'
+- type: amended_by
+  target: pt:dre:302948:por
+  label: "Alterada a denominação social da entidade concessionária da zona de caça, com a redacção conferida pela Port 593/96\
+    \ de 17-Out, pela PORT.363/2002.2002.04.05.MECO DR.IS-B [80]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/363-2002-302948
+  date: '2002-04-05'
+- type: amended_by
+  target: pt:dre:528439:por
+  label: "Renovada por doze anos a concessão de zona de caça turística atribuída pelo presente diploma, alterado pelas Ports\
+    \ 593/96, de 17-Out e 363/2002, de 05-Abr, pela PORT.1037-F/2004.12.08.2004.MAPF, DR.IS-B [189-Supl] de 12.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1037-f-2004-528439
+  date: '2004-08-12'
+- type: amended_by
+  target: pt:dre:345311:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterada pelas Ports. 593/96\
+    \ de 17-Out, 363/2002 de 05-Abr e 1037-F/2004 de 12-Ago, pela PORT.585/2006.20.06.2006.MADRP, DR.IS-B [117] de 20.06.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/585-2006-345311
+  date: '2006-06-20'
+- type: amended_by
+  target: pt:dre:520236:por
+  label: "Transferida para a IP Cinegética - Sociedade Agro-Industrial e Cinegética, S.A., a concessão da zona de caça atribuída\
+    \ neste diploma, com a redacção dada nas Port 593/96 de 17-Out e 363/2002 de 05-Abr, renovada pela Port 1037-F/2004 de\
+    \ 12-Ago e alterada pela Port 585/2006 de 20-Jun, pela PORT.326/2007.28.03.2007.MAOTDR, DR.IS [62] de 28.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/326-2007-520236
+  date: '2007-03-28'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:58:48Z'
   warnings: []
   errors: []
 ---
@@ -115,8 +164,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 2 de Agosto de 1989.**
+Assinada em 2 de Agosto de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18501/00090009.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18501/00090009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18501/00090009.pdf)

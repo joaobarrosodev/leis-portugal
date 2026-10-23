@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/25300/45004521.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1102-1990-566190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:09:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 128352632615016b53873011d4a4fd8916eb798b7ddd4040055772f7251510f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 737dd34113b878cfc0ea58f1112220d55d4b7d59dfc158df990c33a38d40fde0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:09:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Associação de Agricultores
+- Financiamento
+- Política Agrícola
+- Programa de Apoio ao Reforço das Organizações de Agricultores
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:618152:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:395320:por
+  label: "Alterados os n.ºs 6.º, 9.º, 12.º, 22.º, e os quadros n.ºs 1, 2 e 3 do anexo I, pela PORT.1192/91.09.12.1991.SEAG-MA,\
+    \ DR.IS-B [283] de 09.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1192-1991-395320
+  date: '1991-12-09'
+- type: repealed_by
+  target: pt:dre:618152:por
+  label: "Revogada pela PORT.1110/92.04.12.1992.MA, DR.IS-B [280] de 04.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1110-1992-618152
+  date: '1992-12-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:09:38Z'
   warnings: []
   errors: []
 ---
@@ -482,8 +499,8 @@ No ano de 1990, os processos de candidatura instruídos nos termos do n.º 12.º
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 25 de Setembro de 1990.**
+Assinada em 25 de Setembro de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25300/45004521.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25300/45004521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25300/45004521.pdf)

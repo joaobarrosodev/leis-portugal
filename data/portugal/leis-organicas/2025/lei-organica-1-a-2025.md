@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01802/0000200055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1-a/2025/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2025-905120000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3e2e01ba75f3eeb09af7c739b3176c1e70dc42094356e255fd765d8389f4f4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46a9f3feae36f6dc9c9eb21c4a98cab44319629ae129159c50f9cd333e68c280
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia de VOTO
-- Crime
+- Assembleia Legislativa
 - Círculo Eleitoral
 - Comissão Nacional de Eleições
+- Crime
+- Direito de Voto
 - Eleição Legislativa
 - Eleição Regional
 - Lei Eleitoral
-- Assembleia Legislativa
-- Sistema Eleitoral
-- Sanção Penal
 - Madeira.região Autónoma
-- Direito de Voto
+- Sanção Penal
+- Sistema Eleitoral
 relationships:
+- type: amends
+  target: pt:numero:lei-organica:1/2006
+  label: Altera, a partir de 28 de janeiro de 2025, os artigos 2.º, 26.º, 46.º, 49.º, 50.º, 51.º, 56.º, 62.º, 73.º, 80.º,
+    84.º, 86.º, 87.º-A, 88.º, 90.º, 91.º, 92.º, 93.º, 102.º, 103.º, 104.º, 106.º e 111.º, adita os artigos 15.º-A, 15.º-B,
+    47.º-A, 83.º-A e 84.º-A, e revoga a alínea a) do artigo 2.º, a alínea c) do artigo 5.º, as alíneas a), b), c) e f) do
+    n.º 1, os n.ºs 4 e 5 do artigo 84.º e os artigos 85.º e 87.º da Lei Eleitoral para a Assembleia Legislativa da Região
+    Autónoma da Madeira, aprovada pela Lei Orgânica n.º 1/2006, de 13 de fevereiro, Diário da República n.º 31/2006, Série
+    I-A, que a republica em anexo, com as necessárias correções materiais
+  source: null
+  date: '2006-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/19/2003/06/20/p/dre
   label: null
@@ -95,16 +105,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:168804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 207
+  article_count: 181
   section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:56Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +175,9 @@ b) Os que notoriamente apresentem limitação ou grave alteração das funções
 
 c) [...]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -147,13 +187,17 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...]
 
 2 - No caso de desdobramento de assembleias de voto, os editais indicam, também, o número de identificação civil dos cidadãos que devem votar em cada secção.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Até ao vigésimo quinto dia anterior ao da eleição, os candidatos ou os mandatários das diferentes listas indicam por escrito ao presidente da câmara municipal os delegados e suplentes para as respetivas assembleias e secções de voto.
 
@@ -163,7 +207,9 @@ c) [...]
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - Até ao vigésimo quarto dia anterior ao da eleição devem os delegados reunir-se na sede da junta de freguesia, a convocação do respetivo presidente, para procederem à escolha dos membros da mesa das assembleias ou secções de voto, devendo essa escolha ser imediatamente comunicada ao presidente da câmara municipal. Quando a assembleia de voto haja sido desdobrada, está presente à reunião apenas um delegado de cada lista de entre os que houverem sido propostos pelos candidatos ou pelos mandatários das diferentes listas.
 
@@ -191,7 +237,9 @@ d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câm
 
 9 - Para efeitos do disposto no n.º 3 do artigo 47.º-A, o presidente da câmara municipal pode determinar a constituição de mais de uma mesa de voto antecipado em mobilidade.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - [...]
 
@@ -203,13 +251,17 @@ d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câm
 
 5 - [...]
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - [...]
 
 2 - O presidente da câmara municipal entrega também a cada presidente de assembleia ou secção de voto, até três dias antes do dia designado para as eleições, os boletins de voto bem como as respetivas matrizes em braille.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 [...]
 
@@ -229,7 +281,9 @@ g) [...]
 
 h) [...]
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - [...]
 
@@ -241,7 +295,9 @@ h) [...]
 
 5 - [...]
 
-###### Artigo 80.º — Modo de exercício do direito de voto
+Artigo 80.º
+
+Modo de exercício do direito de voto
 
 1 - [...]
 
@@ -249,7 +305,9 @@ h) [...]
 
 3 - O direito de voto é exercido presencialmente pelo cidadão eleitor, sem prejuízo das particularidades previstas nos artigos 83.º-A a 87.º-A.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - [...]
 
@@ -287,7 +345,9 @@ f) Que vivam ou que acompanhem os eleitores mencionados nas alíneas anteriores.
 
 6 - [...]
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - Os eleitores que se encontrem nas condições previstas nas alíneas d) e e) n.º 1 do artigo 84.º podem requerer, por meios eletrónicos ou por via postal, à administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, até ao vigésimo dia anterior ao da eleição, o exercício do direito de voto antecipado, indicando o seu número de identificação civil e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direção do estabelecimento hospitalar, ou emitido pelo diretor do estabelecimento prisional, conforme os casos.
 
@@ -297,23 +357,27 @@ f) Que vivam ou que acompanhem os eleitores mencionados nas alíneas anteriores.
 
 4 - [...]
 
-5 - Entre o décimo terceiro e o décimo dias anteriores ao da eleição, o presidente da câmara, em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respetivo diretor e aos delegados das listas, desloca-se aos mesmos estabelecimentos, a fim de ser dado cumprimento, com as necessárias adaptações, ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.<sup>os</sup>7 a 14 do artigo 84.º-A.
+5 - Entre o décimo terceiro e o décimo dias anteriores ao da eleição, o presidente da câmara, em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respetivo diretor e aos delegados das listas, desloca-se aos mesmos estabelecimentos, a fim de ser dado cumprimento, com as necessárias adaptações, ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.os7 a 14 do artigo 84.º-A.
 
 6 - [...]
 
 7 - Os estabelecimentos hospitalares e prisionais onde se encontrem eleitores abrangidos pelo disposto no n.º 1 devem garantir as condições necessárias ao exercício do direito de voto antecipado.
 
-###### Artigo 87.º-A — [...]
+Artigo 87.º-A
 
-1 - Os eleitores que se encontrem nas condições previstas no n.º 2 do artigo 84.º podem exercer o direito de sufrágio entre o décimo segundo e o décimo dias anteriores à eleição, junto das representações diplomáticas, consulares ou nas delegações externas das instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos previstos nos n.<sup>os</sup>7 a 14 do artigo 84.º-A.
+[...]
 
-2 - As funções previstas nos n.<sup>os</sup>8 a 13 do artigo 84.º-A são asseguradas por funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respetiva.
+1 - Os eleitores que se encontrem nas condições previstas no n.º 2 do artigo 84.º podem exercer o direito de sufrágio entre o décimo segundo e o décimo dias anteriores à eleição, junto das representações diplomáticas, consulares ou nas delegações externas das instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos previstos nos n.os7 a 14 do artigo 84.º-A.
+
+2 - As funções previstas nos n.os8 a 13 do artigo 84.º-A são asseguradas por funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respetiva.
 
 3 - No caso dos eleitores referidos na alínea a) do n.º 2 do artigo 84.º, se o Ministério dos Negócios Estrangeiros reconhecer a impossibilidade da sua deslocação aos locais referidos no n.º 1, designa um funcionário diplomático, que procede à recolha da correspondência eleitoral, no período acima referido.
 
 4 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelas listas que nomeiem delegados até ao décimo sexto dia anterior à eleição.
 
-###### Artigo 88.º — Votos dos eleitores com deficiência
+Artigo 88.º
+
+Votos dos eleitores com deficiência
 
 1 - O eleitor afetado por doença ou deficiência física notórias, que a mesa verifique não poder praticar os atos descritos no artigo 103.º, vota acompanhado de outro eleitor por si escolhido, que garanta a fidelidade de expressão do seu voto e que fica obrigado a sigilo absoluto.
 
@@ -325,21 +389,29 @@ f) Que vivam ou que acompanhem os eleitores mencionados nas alíneas anteriores.
 
 5 - Os eleitores portadores de deficiência visual podem, se assim o entenderem, requerer à mesa a disponibilização de matriz em braille que lhes permita, sozinhos, praticar os atos descritos no artigo 103.º
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 O direito de voto é exercido apenas na assembleia eleitoral correspondente ao local onde o eleitor se encontra recenseado, salvo o disposto quanto aos modos de exercício do voto antecipado.
 
-###### Artigo 91.º — Informação sobre o local de exercício de sufrágio
+Artigo 91.º
+
+Informação sobre o local de exercício de sufrágio
 
 Os eleitores podem obter informação sobre o local onde exercer o seu direito de voto na sua junta de freguesia, aberta para esse efeito no dia da eleição, para além de outras formas de acesso à referida informação disponibilizadas pela administração eleitoral.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - Constituída a mesa, o presidente declara iniciadas as operações eleitorais, manda afixar o edital a que se refere o n.º 2 do artigo 51.º, procede com os restantes membros da mesa e os delegados das listas à revista da câmara de voto e dos documentos de trabalho da mesa e exibe a urna perante os eleitores para que todos possam certificar que se encontra vazia e, de seguida, sela a urna com selos de segurança.
 
 2 - [...]
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...]
 
@@ -349,7 +421,9 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 4 - Os eleitores inscritos para o voto antecipado em mobilidade, que não o tenham exercido, podem fazê-lo no dia da eleição nas assembleias de voto onde se encontrem recenseados.
 
-###### Artigo 102.º — Boletins de voto e matrizes em braille
+Artigo 102.º
+
+Boletins de voto e matrizes em braille
 
 1 - [...]
 
@@ -367,7 +441,9 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 8 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao Representante da República na Região Autónoma da Madeira dos boletins de voto e das matrizes em braille que receberam, devendo os presidentes das assembleias ou secções de voto devolver-lhe, no dia seguinte ao da eleição, os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores, bem como as matrizes em braille.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - Cada eleitor, apresentando-se perante a mesa, indica o seu nome, entregando ao presidente o seu documento de identificação civil, se o tiver.
 
@@ -385,7 +461,9 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 8 - Após votar, o eleitor que tenha requerido uma matriz do boletim de voto em braille devolve-a à mesa.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - [...]
 
@@ -395,11 +473,15 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 4 - Considera-se ainda nulo o voto antecipado quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 84.º, 84.º-A, 86.º e 87.º-A, ou seja recebido em sobrescrito que não esteja devidamente fechado
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 Encerrada a votação, o presidente da assembleia ou secção de voto procede à contagem dos boletins que não foram utilizados e dos que foram inutilizados pelos eleitores e encerra-os em sobrescrito próprio, que fecha e lacra para o efeito do n.º 8 do artigo 102.º
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - [...]
 
@@ -439,13 +521,17 @@ Paridade
 
 3 - Para cumprimento do disposto no número anterior, não podem ser colocados mais de dois candidatos do mesmo sexo, consecutivamente, na ordenação da lista.
 
-###### Artigo 15.º-B — Incumprimento da paridade
+Artigo 15.º-B
+
+Incumprimento da paridade
 
 1 - No caso de uma lista não observar o disposto no artigo anterior, o mandatário é notificado, nos termos do artigo 30.º da presente lei, para proceder à sua correção no prazo nele estabelecido.
 
 2 - A não correção da lista de candidatura no prazo previsto determina a rejeição de toda a lista.
 
-###### Artigo 47.º-A — Mesas de voto antecipado em mobilidade
+Artigo 47.º-A
+
+Mesas de voto antecipado em mobilidade
 
 1 - São constituídas as seguintes mesas de voto antecipado em mobilidade:
 
@@ -461,11 +547,15 @@ c) Na Região Autónoma dos Açores, nove mesas, a funcionar uma por cada ilha, 
 
 4 - A designação dos membros das mesas é efetuada nos termos do artigo 50.º
 
-###### Artigo 83.º-A — Voto antecipado em mobilidade
+Artigo 83.º-A
+
+Voto antecipado em mobilidade
 
 Podem votar antecipadamente em mobilidade em território nacional todos os eleitores recenseados na Região que pretendam exercer o seu direito de voto.
 
-###### Artigo 84.º-A — Modo de exercício do direito de voto antecipado em mobilidade em território nacional
+Artigo 84.º-A
+
+Modo de exercício do direito de voto antecipado em mobilidade em território nacional
 
 1 - Os eleitores referidos no artigo 83.º-A exercem o seu direito de sufrágio numa mesa de voto em mobilidade constituída para o efeito nos termos do artigo 47.º-A.
 
@@ -525,17 +615,17 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 17 de janeiro de 2025.
 
-**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
 
-**Promulgada em 26 de janeiro de 2025.**
+Promulgada em 26 de janeiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 27 de janeiro de 2025.**
+Referendada em 27 de janeiro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -797,7 +887,7 @@ Verificando-se irregularidades processuais, o juiz manda notificar imediatamente
 
 3 - No caso de a lista não conter o número total de candidatos, o mandatário deve completá-la no prazo de três dias, sob pena de rejeição de toda a lista.
 
-4 - Findos os prazos dos n.<sup>os</sup>2 e 3, o juiz, em vinte e quatro horas, faz operar nas listas as retificações ou aditamentos requeridos pelos respetivos mandatários e afixa à porta do edifício do tribunal as listas retificadas ou completadas.
+4 - Findos os prazos dos n.os2 e 3, o juiz, em vinte e quatro horas, faz operar nas listas as retificações ou aditamentos requeridos pelos respetivos mandatários e afixa à porta do edifício do tribunal as listas retificadas ou completadas.
 
 ###### Artigo 32.º — Publicação das decisões
 
@@ -1359,7 +1449,7 @@ Modo de exercício do direito de voto antecipado por militares, agentes de forç
 
 4 - A nomeação de delegados das listas deve ser transmitida ao presidente da câmara até ao décimo quarto dia anterior ao da eleição.
 
-5 - Entre o décimo terceiro e o décimo dias anteriores ao da eleição, o presidente da câmara, em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respetivo diretor e aos delegados das listas, desloca-se aos mesmos estabelecimentos, a fim de ser dado cumprimento, com as necessárias adaptações, ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.<sup>os</sup>7 a 14 do artigo 84.º-A.
+5 - Entre o décimo terceiro e o décimo dias anteriores ao da eleição, o presidente da câmara, em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respetivo diretor e aos delegados das listas, desloca-se aos mesmos estabelecimentos, a fim de ser dado cumprimento, com as necessárias adaptações, ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.os7 a 14 do artigo 84.º-A.
 
 6 - O presidente da câmara pode excecionalmente fazer-se substituir, para o efeito da diligência prevista no número anterior, por qualquer vereador do município devidamente credenciado.
 
@@ -1371,9 +1461,9 @@ Modo de exercício do direito de voto antecipado por militares, agentes de forç
 
 ###### Artigo 87.º-A — Modo de exercício do direito de voto antecipado por eleitores deslocados no estrangeiro
 
-1 - Os eleitores que se encontrem nas condições previstas no n.º 2 do artigo 84.º podem exercer o direito de sufrágio entre o décimo segundo e o décimo dias anteriores à eleição, junto das representações diplomáticas, consulares ou nas delegações externas das instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos previstos nos n.<sup>os</sup>7 a 14 do artigo 84.º-A.
+1 - Os eleitores que se encontrem nas condições previstas no n.º 2 do artigo 84.º podem exercer o direito de sufrágio entre o décimo segundo e o décimo dias anteriores à eleição, junto das representações diplomáticas, consulares ou nas delegações externas das instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos previstos nos n.os7 a 14 do artigo 84.º-A.
 
-2 - As funções previstas nos n.<sup>os</sup>8 a 13 do artigo 84.º-A são asseguradas por funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respetiva.
+2 - As funções previstas nos n.os8 a 13 do artigo 84.º-A são asseguradas por funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respetiva.
 
 3 - No caso dos eleitores referidos na alínea a) do n.º 2 do artigo 84.º, se o Ministério dos Negócios Estrangeiros reconhecer a impossibilidade da sua deslocação aos locais referidos no n.º 1, designa um funcionário diplomático, que procede à recolha da correspondência eleitoral, no período acima referido.
 
@@ -1493,7 +1583,7 @@ d) De um modo geral, não perturbar o ato eleitoral.
 
 4 - Quando o entenda necessário, o comandante da força armada, ou um seu delegado credenciado, pode visitar, desarmado e por um período máximo de dez minutos, a assembleia ou secção de voto, a fim de estabelecer contacto com o presidente da mesa ou com quem o substitua.
 
-5 - Nos casos previstos nos n.<sup>os</sup>2 e 3, as operações eleitorais na assembleia ou secção de voto são suspensas, sob pena de nulidade da eleição, até que o presidente da mesa considere verificadas as condições para que possam prosseguir.
+5 - Nos casos previstos nos n.os2 e 3, as operações eleitorais na assembleia ou secção de voto são suspensas, sob pena de nulidade da eleição, até que o presidente da mesa considere verificadas as condições para que possam prosseguir.
 
 ###### Artigo 102.º — Boletins de voto e matrizes em braille
 
@@ -1933,7 +2023,7 @@ Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois 
 
 ###### Artigo 159.º — Recusa de receber reclamações, protestos ou contraprotestos
 
-**O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto é punido com pena de prisão até 1 ano e pena de multa de € 100 a € 500.**
+O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto é punido com pena de prisão até 1 ano e pena de multa de € 100 a € 500.
 
 ###### Artigo 160.º — Não comparência da força armada
 
@@ -1991,7 +2081,7 @@ Das 14 às 18 horas.
 
 ###### Artigo 168.º — Direito subsidiário
 
-Em tudo o que não estiver regulado na presente lei aplica-se aos atos que impliquem intervenção de qualquer tribunal o disposto no Código de Processo Civil quanto ao processo declarativo, com exceção dos n.<sup>os</sup>4 e 5 do artigo 142.º
+Em tudo o que não estiver regulado na presente lei aplica-se aos atos que impliquem intervenção de qualquer tribunal o disposto no Código de Processo Civil quanto ao processo declarativo, com exceção dos n.os4 e 5 do artigo 142.º
 
 ###### Artigo 169.º — Revogação
 
@@ -2001,4 +2091,6 @@ Ficam revogados os diplomas que disponham em coincidência ou em contrário com 
 
 Para os efeitos da Lei Eleitoral para a Assembleia Legislativa da Região Autónoma da Madeira se declara que ... (nome do cidadão eleitor), residente em ..., portador do bilhete de identidade n.º ..., de ... de ... de ..., inscrito na assembleia de voto (ou secção de voto) de ..., com o n.º ..., exerceu antecipadamente o seu direito de voto no dia ... de ... de ...
 
-**O Presidente da Câmara Municipal de … (assinatura).**
+O Presidente da Câmara Municipal de … (assinatura).
+
+118617976

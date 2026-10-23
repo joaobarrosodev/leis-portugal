@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 77/1990, 1º Suplemento, Série I de 1990-04-02
   number: '77'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1534-(2) a 1534-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/04/07701/00020003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-a-1990-288050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:16:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54e37794e67e794ecb8a2ea53fdd1d556316bff9c3a04b3135b547efbb7fb7fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 722babc058b587ca04832f0b0493083471fa944257fa796d586f166001002cfe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Leite
+- Madeira.região Autónoma
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:159734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546419:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:16:20Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +126,7 @@ b) Preço indicativo na Região Autónoma dos Açores - 54$50/kg.
 
 4.º Nos termos do disposto no n.º 1 do artigo 8.º do [Decreto-Lei n.º 513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), de 31 de Dezembro, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 180/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1986-228261), de 4 de Julho, os preços limiares dos produtos piloto de cada um dos grupos de produtos constantes do anexo I à [Portaria n.º 63-G/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-g-1986-245103), de 1 de Março, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/07701/00020003.pdf))](https://files.diariodarepublica.pt/1s/1990/04/07701/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/07701/00020003.pdf)
 
 5.º É revogada a [Portaria n.º 236-B/89](https://diariodarepublica.pt/dr/detalhe/portaria/236-b-1989-159734), de 29 de Março.
 
@@ -114,6 +134,6 @@ b) Preço indicativo na Região Autónoma dos Açores - 54$50/kg.
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 2 de Abril de 1990.**
+Assinada em 2 de Abril de 1990.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno. - O Presidente do Governo Regional dos Açores, João Bosco Mota Amoral.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno. - O Presidente do Governo Regional dos Açores, João Bosco Mota Amoral.

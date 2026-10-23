@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/05200/0155801559.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/4/2015/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2015-66761447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 292a33147cbb8a7d411ca2e3421e91d4ad6916c69ceb02a9c5decb0ed947a37f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a70ab31bfba27199edf9f8317b81942a0585403501b385a7dd0c85994e948ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Igualdade de Tratamento
+- Açores
+- Assembleia Legislativa
 - Eleição Legislativa
 - Eleição Regional
+- Igualdade de Tratamento
 - Lei Eleitoral
-- Assembleia Legislativa
-- Açores
 relationships:
 - type: cites
   target: eli:htt
@@ -118,15 +118,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/leiorg/5/2006/08/31/p/dre
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:17Z'
   warnings: []
   errors: []
 ---
@@ -155,11 +155,15 @@ Composição das listas
 
 4 - Exceciona-se do disposto nos números anteriores a composição das listas para círculos eleitorais com menos de 750 eleitores.
 
-###### Artigo 15.º-B — Notificação do mandatário
+Artigo 15.º-B
+
+Notificação do mandatário
 
 No caso de uma lista não observar o disposto no artigo anterior, o mandatário é notificado, nos termos e para os efeitos do disposto no artigo 28.º
 
-###### Artigo 159.º-A — Efeitos da não correção das listas não paritárias
+Artigo 159.º-A
+
+Efeitos da não correção das listas não paritárias
 
 A não correção das listas de candidatura não paritárias no prazo previsto no artigo 28.º determina:
 
@@ -169,17 +173,23 @@ b) A sua divulgação através do sítio da Internet da Comissão Nacional de El
 
 c) A redução do montante de subvenções públicas para as campanhas eleitorais nos termos da presente lei.
 
-###### Artigo 159.º-B — Deveres de divulgação
+Artigo 159.º-B
+
+Deveres de divulgação
 
 As listas que, não respeitando a paridade tal como definida no artigo 15.º-A, não sejam corrigidas nos termos do disposto no artigo 28.º são afixadas à porta do edifício do tribunal respetivo com a indicação de que contêm irregularidades por violação do princípio da paridade e comunicadas, no prazo de quarenta e oito horas, à Comissão Nacional de Eleições.
 
-###### Artigo 159.º-C — Divulgação na Internet pela Comissão Nacional de Eleições
+Artigo 159.º-C
+
+Divulgação na Internet pela Comissão Nacional de Eleições
 
 1 - A Comissão Nacional de Eleições assegura, no prazo de quarenta e oito horas após a receção da comunicação prevista no artigo anterior, a divulgação através do seu sítio na Internet das listas de candidatura que não respeitem o princípio da paridade tal como definido no artigo 15.º-A.
 
 2 - As listas de candidatura divulgadas nos termos do número anterior são agrupadas sob a identificação dos respetivos proponentes.
 
-###### Artigo 159.º-D — Redução da subvenção para as campanhas eleitorais
+Artigo 159.º-D
+
+Redução da subvenção para as campanhas eleitorais
 
 1 - Os partidos ou coligações, conforme o caso, que violem o disposto no n.º 2 do artigo 15.º-A, sofrem uma redução na participação nos 80 % da subvenção pública para as campanhas eleitorais previstas no n.º 2 do artigo 18.º da [Lei n.º 19/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/692850/details/normal?l=1), de 20 de junho, alterada pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/447325/details/normal?l=1), de 12 de novembro, e pelas [Leis n.os 64-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243747/details/normal?l=1), de 31 de dezembro, [55/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306575/details/normal?l=1), de 24 de dezembro, e [1/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/588821/details/normal?l=1), de 3 de janeiro, nos seguintes termos:
 
@@ -201,14 +211,14 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 30 de janeiro de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
-**Promulgada em 2 de março de 2015.**
+Promulgada em 2 de março de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 5 de março de 2015.**
+Referendada em 5 de março de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

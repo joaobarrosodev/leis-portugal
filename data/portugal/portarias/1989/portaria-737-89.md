@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/737-1989-618312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d714e8f9f83aea7bca90b81eefcafa8679295c4f37f9701f39d92547f3a1aec5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3256d77fcaf8f76890dfa2385f86d1084c169f4c2281b68eed81c279101a9f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Justiça
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA PELA PORTARIA 1175/91, PUBLICADA NO DR.IS-B, 267, DE 911120.\0120.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:321483:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:325083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:23Z'
   warnings: []
   errors: []
 ---
@@ -106,10 +136,10 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, o seguinte:
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 7 de Agosto de 1989.**
+Assinada em 7 de Agosto de 1989.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Justiça, Joaquim Fernando Nogueira.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Justiça, Joaquim Fernando Nogueira.
 
 Alteração do quadro de pessoal da Secretaria-Geral do Ministério da Justiça nos termos da Portaria n.º 737/89
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19800/36353635.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19800/36353635.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19800/36353635.pdf)

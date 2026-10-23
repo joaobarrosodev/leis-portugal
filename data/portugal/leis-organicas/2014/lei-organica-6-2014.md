@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/16700/0459704611.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/6/2014/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1765f54f02e73aa9afa9bbf3f8220cd72f18b020695a4221ae961c2bef0f514
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8090f035984f0a62484fd8b6d091c76dc41a2c5141e1ff74be71938ab2fdfa63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Chefe do Estado Maior da Armada
 - Chefe do Estado Maior da Força Aérea
-- Exército
-- Força Aérea
-- Definição de Competências
-- Marinha
-- Escola do Serviço de Saúde Militar
-- Instituto Hidrográfico
 - Chefe do Estado Maior do Exército
-- Lei de Bases
-- Nomeação
-- Forças Armadas
-- Orgânica
+- Definição de Competências
+- Escola do Serviço de Saúde Militar
 - Estado Maior General das Forças Armadas
+- Exército
+- Exoneração
+- Força Aérea
+- Forças Armadas
+- Instituto Hidrográfico
 - Instituto Universitário Militar
+- Lei de Bases
+- Marinha
+- Nomeação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:182406356:por
@@ -107,16 +107,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
+- type: cites
+  target: pt:dre:247376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612663:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:169256653:por
+  label: Revogada a Lei Org 1-A/2009 de 07-jul, na versão republicada pelo presente, pelo(a) Lei Orgânica n.º 2/2021 - Diário
+    da República n.º 153/2021, Série I de 2021-08-09 nos termos do seu art. 4.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2021-169256653
+  date: '2021-08-09'
 article_structure:
-  article_count: 57
+  article_count: 37
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:11Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +195,9 @@ c) Os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea.
 
 6 - Constituem ainda órgãos de consulta em matéria de defesa nacional o Conselho Superior Militar e o Conselho de Chefes de Estado-Maior.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O sistema de forças define o conjunto de capacidades que devem existir para o cumprimento das missões das Forças Armadas, identificando os tipos e quantitativos de forças e meios, tendo em conta a sua adequada complementaridade operacional.
 
@@ -187,7 +215,9 @@ b) Uma componente fixa, englobando o conjunto de comandos, unidades, estabelecim
 
 6 - (Anterior n.º 5).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -223,7 +253,9 @@ c) A autoridade técnica é o tipo de autoridade que permite a um titular fixar 
 
 d) A autoridade de coordenação é o tipo de autoridade conferida aos órgãos subordinados, a qualquer nível, para consultar ou coordenar diretamente uma ação com um comando ou entidades, dentro ou fora da respetiva linha de comando, sem que tal inclua competência disciplinar.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...:
 
@@ -237,7 +269,9 @@ d) Os órgãos militares de conselho.
 
 2 - Os órgãos militares de comando das Forças Armadas são o Chefe do Estado-Maior-General das Forças Armadas e os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -245,7 +279,9 @@ d) Os órgãos militares de conselho.
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O EMGFA é chefiado pelo Chefe do Estado-Maior-General das Forças Armadas e compreende:
 
@@ -283,7 +319,9 @@ b) As missões militares no estrangeiro.
 
 10 - Os órgãos de apoio geral asseguram o apoio logístico, administrativo e financeiro necessários ao funcionamento do EMGFA.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -295,7 +333,9 @@ b) As missões militares no estrangeiro.
 
 5 - A sustentação das forças e meios referidos no número anterior compete aos ramos das Forças Armadas, dependendo os respetivos Chefes de Estado-Maior do Chefe do Estado-Maior-General das Forças Armadas, para este efeito.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...:
 
@@ -375,11 +415,15 @@ k) [Anterior alínea i)];
 
 l) Aprovar e ratificar a doutrina militar conjunta e combinada.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Os ramos das Forças Armadas - Marinha, Exército e Força Aérea - têm por missão principal participar, de forma integrada, na defesa militar da República, nos termos do disposto na Constituição e na lei, sendo fundamentalmente vocacionados para a geração, preparação e sustentação das forças da componente operacional do sistema de forças, assegurando também o cumprimento das missões reguladas por legislação própria e das missões de natureza operacional que lhes sejam atribuídas pelo Chefe do Estado-Maior-General das Forças Armadas.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...:
 
@@ -419,7 +463,9 @@ b) ...
 
 10 - Integram ainda a orgânica dos ramos, na Marinha, o Instituto Hidrográfico e o Serviço de Busca e Salvamento Marítimo, e, na Força Aérea, o Serviço de Busca e Salvamento Aéreo.
 
-###### Artigo 16.º — Chefes de Estado-Maior dos ramos
+Artigo 16.º
+
+Chefes de Estado-Maior dos ramos
 
 1 - Os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea comandam os respetivos ramos e são os chefes militares de mais elevada autoridade na sua hierarquia, sendo os principais conselheiros do Ministro da Defesa Nacional e do Chefe do Estado-Maior-General das Forças Armadas em todos os assuntos específicos do seu ramo.
 
@@ -431,7 +477,9 @@ b) ...
 
 5 - Os Chefes de Estado-Maior dos ramos relacionam-se diretamente com o Ministro da Defesa Nacional nos aspetos relacionados com a gestão corrente de recursos do respetivo ramo, bem como com o funcionamento dos órgãos, serviços ou sistemas regulados por legislação própria.
 
-###### Artigo 17.º — Competências dos Chefes de Estado-Maior dos ramos
+Artigo 17.º
+
+Competências dos Chefes de Estado-Maior dos ramos
 
 1 - ...:
 
@@ -471,7 +519,9 @@ g) ...;
 
 h) Submeter ao Ministro da Defesa Nacional os assuntos específicos do ramo respetivo não relacionados com as competências próprias do Chefe do Estado-Maior-General das Forças Armadas.
 
-###### Artigo 18.º — Nomeação dos Chefes de Estado-Maior dos ramos
+Artigo 18.º
+
+Nomeação dos Chefes de Estado-Maior dos ramos
 
 1 - Os Chefes de Estado-Maior dos ramos são nomeados e exonerados pelo Presidente da República, sob proposta do Governo, a qual deve ser precedida da audição, através do Ministro da Defesa Nacional, do Chefe do Estado-Maior-General das Forças Armadas.
 
@@ -481,7 +531,9 @@ h) Submeter ao Ministro da Defesa Nacional os assuntos específicos do ramo resp
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O Conselho de Chefes de Estado-Maior é o principal órgão militar de carácter coordenador e tem competências administrativas estabelecidas na lei, constituindo também o órgão de consulta do Chefe do Estado-Maior-General das Forças Armadas sobre as matérias relativas às Forças Armadas no âmbito das suas competências.
 
@@ -527,7 +579,9 @@ g) Quaisquer assuntos que sejam submetidos à sua apreciação pelo Ministro da 
 
 6 - (Anterior n.º 5).
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -537,13 +591,17 @@ g) Quaisquer assuntos que sejam submetidos à sua apreciação pelo Ministro da 
 
 4 - (Revogado).
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Dos atos do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes de Estado-Maior dos ramos não cabe recurso hierárquico.
 
 2 - Nos processos jurisdicionais que tenham por objeto a ação ou omissão de órgãos das Forças Armadas em matérias de disciplina e de administração de pessoal, a parte demandada é o Estado-Maior-General das Forças Armadas ou o respetivo ramo, conforme os casos, sendo representados em juízo por advogado ou por licenciado em direito com funções de apoio jurídico, constituído ou designado pelo respetivo Chefe de Estado-Maior.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -563,7 +621,9 @@ b) Através dos Chefes de Estado-Maior dos ramos para os aspetos administrativo-
 
 7 - (Anterior n.º 6).
 
-###### Artigo 23.º — Regras comuns quanto à nomeação dos Chefes de Estado-Maior
+Artigo 23.º
+
+Regras comuns quanto à nomeação dos Chefes de Estado-Maior
 
 1 - O Chefe do Estado-Maior-General das Forças Armadas e os Chefes de Estado-Maior dos ramos são nomeados, de entre almirantes, vice-almirantes, generais ou tenentes-generais, na situação de ativo, por um período de três anos, prorrogável por dois anos, sem prejuízo da faculdade de exoneração a todo o tempo e da exoneração por limite de idade.
 
@@ -571,7 +631,9 @@ b) Através dos Chefes de Estado-Maior dos ramos para os aspetos administrativo-
 
 3 - Aos militares propostos para os cargos de Chefe do Estado-Maior-General das Forças Armadas e de Chefes de Estado-Maior dos ramos, a que corresponda o posto de almirante ou general de quatro estrelas, é, desde a data da proposta do Governo, suspenso o limite de idade de passagem à reserva, prolongando-se a suspensão, relativamente ao nomeado, até ao termo do respetivo mandato.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -601,7 +663,9 @@ e) Diretor de Saúde Militar.
 
 6 - Aos militares propostos para os cargos militares em organizações internacionais de que Portugal faça parte a que corresponda o posto de almirante ou general é, desde a data da proposta do Governo, suspenso o limite de idade de passagem à reserva, prolongando-se a suspensão, relativamente ao nomeado, até ao termo do respetivo mandato.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - As promoções a oficial general, bem como as promoções de oficiais generais, de qualquer ramo das Forças Armadas efetuam-se mediante deliberação nesse sentido do Conselho de Chefes de Estado-Maior, precedida de proposta do respetivo Chefe do Estado-Maior, ouvido o conselho superior do ramo.
 
@@ -609,7 +673,9 @@ e) Diretor de Saúde Militar.
 
 3 - As promoções até ao posto de coronel ou capitão-de-mar-e-guerra efetuam-se exclusivamente no âmbito das Forças Armadas, ouvidos os órgãos de conselho dos ramos previstos no n.º 2 do artigo 20.º.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -653,17 +719,17 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 25 de julho de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
-**Promulgada em 21 de agosto de 2014.**
+Promulgada em 21 de agosto de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 22 de agosto de 2014.**
+Referendada em 22 de agosto de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -969,7 +1035,7 @@ l) Aprovar e ratificar a doutrina militar conjunta e combinada.
 
 ###### Artigo 13.º — Substituição do Chefe do Estado-Maior-General das Forças Armadas
 
-**O Chefe do Estado-Maior-General das Forças Armadas é substituído, na sua ausência ou impedimento, pelo Chefe de Estado-Maior do ramo em funções há mais tempo.**
+O Chefe do Estado-Maior-General das Forças Armadas é substituído, na sua ausência ou impedimento, pelo Chefe de Estado-Maior do ramo em funções há mais tempo.
 
 #### SECÇÃO III — Ramos das Forças Armadas
 

@@ -47,40 +47,125 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/761-1989-546987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c6846f7cea03676633e72bfe69e90d72e603e00028ee40a31998800b763e43f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c70719ca0d3a3b28c3e2040de7a5f1278e8a8fb44de35e42857ec8b96b41e83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- PSP
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:663772:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO ANEXO PELA PORT 101/91 DE 05-FEV DR.IS-B [30]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-02-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO ANEXO PELA PORT 765/91 DE 06-AGO DR.IS-B [179]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-08-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ANEXO PELA PORT 782/91 DE 08-AGO DR.IS-B [181]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-08-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO ANEXO PELA PORT 808/91 DE 12-AGO DR.IS-B [184]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-08-12'
+- type: amended_by
+  target: pt:dre:3009309:por
+  label: "Alterado o quadro de pessoal da PSP pelo DC.DDC209/96.1996.09.30.PCM DR.IIS [268]2ºSUPL DE 19/NOV/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1996-3009309
+  date: '1996-09-30'
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662691:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:54Z'
   warnings: []
   errors: []
 ---
@@ -115,12 +200,12 @@ b) Os subcomissários oriundos da carreira policial de base são promovidos, ap�
 
 Ministério da Administração Interna.
 
-**Assinada em 11 de Agosto de 1989.**
+Assinada em 11 de Agosto de 1989.
 
-**O Ministro da Administração Interna, José António da Silveira Godinho.**
+O Ministro da Administração Interna, José António da Silveira Godinho.
 
 Comando-Geral da Polícia de Segurança Pública
 
 Quadro geral de efectivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20200/37753776.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20200/37753776.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20200/37753776.pdf)

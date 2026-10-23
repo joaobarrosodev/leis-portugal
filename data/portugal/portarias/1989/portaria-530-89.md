@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/530-1989-619563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:55:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c600b95e9c82e16e7831a2101a933b1b113b62306e955a95bd4ab6bdbca62d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2949803f184eaa5cfbc81c279d02383cbd2d52f107bf18cbcdd7b9dee0da24a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:55:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Brasão de Armas
+- Guarda Fiscal
+relationships:
+- type: cites
+  target: pt:dre:177449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:55:22Z'
   warnings: []
   errors: []
 ---
@@ -381,12 +391,12 @@ Fica revogada a [Portaria n.º 149/80](https://diariodarepublica.pt/dr/detalhe/p
 
 Ministério das Finanças.
 
-**Assinada em 26 de Junho de 1989.**
+Assinada em 26 de Junho de 1989.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
-## Anexo a que se refere a Portaria n.º 530/89
+Anexo a que se refere a Portaria n.º 530/89
 
 (Brasões de armas da Guarda Fiscal)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15800/27832788.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15800/27832788.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15800/27832788.pdf)

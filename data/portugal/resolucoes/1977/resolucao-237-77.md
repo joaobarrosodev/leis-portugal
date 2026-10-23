@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/237-1977-278677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:06:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a73f848a4b7fe3a3a1c762f27e62710de07d0325ae697918462784cfebbb5d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 326dc03a1507fcc607bb0b70ec8e969ccdf1701099919a460a3303b4c07f4ca6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:06:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Borges e Irmão
+- Banco da Agricultura
+- Banco Espírito Santo e Comercial de Lisboa
+- Banco Fonsecas e Burnay
+- Banco Pinto e Sotto Mayor
+- Banco Português do Atlântico
+- Caixa Geral de Depósitos
+- Crédito Predial Português
+- Exoneração
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:396523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473557:por
+  label: "Exonerado José Pires Lourenço do cargo de presidente do Conselho de Gestão do Crédito Predial Português, pela RES.220/80.28.06.1980.PCM,\
+    \ DR.IS [147] de 28.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/220-1980-473557
+  date: '1980-06-28'
+- type: amended_by
+  target: pt:dre:573924:por
+  label: "Renovados os mandatos do Dr. Joaquim Filipe Marques dos Santos e o Dr. António Cândido Seruca Carvalho Salgado,\
+    \ nomeados pelo presente diploma, pela Res.97/81.19.05.1981.PCM, DR.IS [114] de 19.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/97-1981-573924
+  date: '1981-05-19'
+- type: amended_by
+  target: pt:dre:396523:por
+  label: "Renovado o mandato do Eng. Jorge Jardim Gonçalves nomeado pelo presente diploma, pela RES.153/82.19.08.1982.PCM,\
+    \ DR.IS [196] de 25.08.1982\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/153-1982-396523
+  date: '1982-08-19'
+- type: cites
+  target: pt:dre:307235:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:06:42Z'
   warnings: []
   errors: []
 ---

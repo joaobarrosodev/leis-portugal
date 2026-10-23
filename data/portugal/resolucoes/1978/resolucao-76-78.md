@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 119/1978, 1º Suplemento, Série I de 1978-05-24
   number: '119'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 930-(3) a 930-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/11901/00030004.pdf
 entry_into_force_dates: []
@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/76-1978-233081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T10:15:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f53d96e3752a18de7fedad73b0a049f38ee1a4e0132e816a7d01d5ae5b137fc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acafe1699b783d6d1dc04c1f5df1ef24bb10e54d6ea638cd1095a56cd4e51e56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:15:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Contrato de Viabilização
+- Definição de Competências
+- Empresa Intervencionada
+- Empresa Privada
+- Intervenção do Estado
+- Saneamento Económico e Financeiro
+- Situação Económica Dificil
 relationships:
 - type: amended_by
   target: pt:dre:383225:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392606:por
+  label: "Prorrogado até 24.04.1979, os prazos fixados no n.º 2 e alíneas b) e f) do n.º 4 do presente diploma, pela RES.28/79.27.01.1979.PCM,\
+    \ DR.IS [23] de 27.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/28-1979-392606
+  date: '1979-01-27'
+- type: amended_by
+  target: pt:dre:383225:por
+  label: "Exonerados os membros da comissão administrativa pela RES.175/79.08.06.1979.PCM, DR.IS [132] de 08.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/175-1979-383225
+  date: '1979-06-08'
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485645:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:298025:por
+  label: Retificado o n.º 5 pelo(a) Declaração - Diário da República n.º 153/1978, Série I de 1978-07-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-298025
+  date: '1978-07-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:15:59Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/09100/17311732.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/297-1989-615826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38c9472207edcee24982b6a17995860aa774291f4ac4a9c7159aa1580bbbd48a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26420e4fb85177f38bbe01b5d2ba1186b3efb68b3fc3af05df07c5482e052bf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Matadouro
+- Taxa
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:508597:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:214553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661480:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:508597:por
+  label: "Revogada pela PORT.72/91.28.01.1991.SEAL-MAPA, DR.IS-B [23] de 28.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-1991-508597
+  date: '1991-01-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:49:36Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +140,15 @@ Exceptuam-se o sangue e os epíploos de suíno quando se destinem a ser directam
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 5 de Abril de 1989.**
+Assinada em 5 de Abril de 1989.
 
-**O Secretário de Estado da Alimentação, Luís Gonzaga de Sousa Morais Cardoso.**
+O Secretário de Estado da Alimentação, Luís Gonzaga de Sousa Morais Cardoso.
 
 Tabela de custos
 
 I - Dos serviços prestados nos matadouros (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09100/17311732.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09100/17311732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09100/17311732.pdf)
 
 (nota a) Nos casos em que o matadouro só possa efectuar parte dos serviços e for o utente a efectuar os restantes, apenas serão cobradas as taxas dos serviços efectivamente prestados.
 
@@ -159,7 +184,7 @@ II - Dos abates de urgência e entrada fora do horário normal
 
 3 - Abates de urgência e preparação das respectivas carcaças, por quilograma de carcaça:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09100/17311732.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09100/17311732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09100/17311732.pdf)
 
 III - Da utilização das câmaras frigoríficas (ver nota a) (ver nota b) (ver nota c)
 
@@ -223,7 +248,7 @@ Para viaturas com mais de 8000 kg de carga útil - 170$00.
 
 V - Da armazenagem de peles e couros durante as quinzenas seguintes ao período de salga e armazenagem normal (30 dias para bovinos e 17 dias para pequenos ruminantes).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09100/17311732.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09100/17311732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09100/17311732.pdf)
 
 VI - Da reclassificação de reses
 

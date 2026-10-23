@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/08400/0216602167.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1/2017/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2017-106955047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 264db17f2bea829517c417ffbe3ba912dc4ba4a50c6b57ed7417f3d485cf9fb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab10e730b506e63052a42403b9633caa9b65b92e78f10b82dd9a6a357c540d61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Autarquia Local
 - Campanha Eleitoral
 - Círculo Eleitoral
 - Comissão Nacional de Eleições
-- Igualdade de Tratamento
 - Eleição Autárquica
 - Eleito Local
+- Financiamento
 - Fiscalização
+- Igualdade de Tratamento
 - Lista
-- Sistema Eleitoral
 - Partido Político
 - Prestação de Contas
-- Autarquia Local
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:164590039:por
@@ -113,15 +113,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/leiorg/5-a/2001/11/26/p/dre
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:27Z'
   warnings: []
   errors: []
 ---
@@ -164,11 +164,15 @@ b) Inferior a 250 ou superior a 4000, no caso de candidaturas a órgão dos rest
 
 6 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Na apresentação das listas de candidatos, os partidos políticos são representados pelos órgãos partidários estatutariamente competentes ou por delegados por eles designados, as coligações são representadas por delegados de cada um dos partidos coligados e os grupos de cidadãos são representados pelo primeiro proponente ou pelo mandatário da candidatura.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +204,9 @@ b) O símbolo não pode confundir-se ou ter relação gráfica ou fonética com 
 
 13 - O juiz competente decide sobre a admissibilidade da denominação, sigla e símbolo dos grupos de cidadãos eleitores, aplicando-se o disposto no artigo 26.º
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +218,9 @@ b) O símbolo não pode confundir-se ou ter relação gráfica ou fonética com 
 
 5 - As substituições efetuadas nos termos do número anterior não implicam a reapresentação de declaração de propositura.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -232,14 +240,14 @@ b) O símbolo não pode confundir-se ou ter relação gráfica ou fonética com 
 
 Aprovada em 10 de março de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 14 de abril de 2017.**
+Promulgada em 14 de abril de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 21 de abril de 2017.**
+Referendada em 21 de abril de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

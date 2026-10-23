@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/389-1989-609800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bcfbd58aa013933cb4c7ba297ea6bcc8c4f351f332abfbe1cc346b3a087ded2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7941969cd98d022c84ae1b50b60c34d3b65cbedf3281970128fe87a0d457eb9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Licenciamento
+- Serviços de Radiocomunicações
+- Taxa
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A TAXAS RELATIVAS AO EXERCÍCIO DA ACTIVIDADE DE RADIODIFUSÃO SONORA, PELA PORTARIA 1053/92, PUBLICADA NO\
+    \ DR.IS-B, 260, DE 921110.\0 921110.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:585060:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:585060:por
+  label: Alteradas as taxas relativas ao exercício da actividade de radiodifusão sonora pelo(a) Portaria n.º 1053/92 - Diário
+    da República n.º 260/1992, Série I-B de 1992-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1053-1992-585060
+  date: '1992-11-10'
+- type: cites
+  target: pt:dre:204813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496757:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:51:51Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +152,7 @@ b) Emissores funcionando em AM:
 
 3.º Aditar na tarifa n.º 5 - Serviços de radiocomunicações, A.2 - Taxas de utilização, III - Instalações radioeléctricas univia para comunicações de serviço fixo e feixes hertezianos (transmissões radiotelefónicas multivia e de programas de radiodifusão sonora ou de televisão), constante do anexo à [Portaria n.º 805-J/88](https://diariodarepublica.pt/dr/detalhe/portaria/805-j-1988-204813), de 15 de Dezembro, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/12600/21612161.pdf))](https://files.diariodarepublica.pt/1s/1989/06/12600/21612161.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/12600/21612161.pdf)
 
 4.º As tarifas da alínea C - Radiodifusão da tarifa n.º 5 do anexo à [Portaria n.º 805-J/88](https://diariodarepublica.pt/dr/detalhe/portaria/805-j-1988-204813), de 15 de Dezembro, passam a aplicar-se à radiodifusão televisiva.
 
@@ -134,6 +160,6 @@ b) Emissores funcionando em AM:
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 12 de Maio de 1989.**
+Assinada em 12 de Maio de 1989.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

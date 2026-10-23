@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-2004-506783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e131d407eaf5839da5e7dc2695637b3660e6b322b5cb17a99dabb146073e1652
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b68eaaa33e8299a13d8decab411663baf831f6b17cde7edf5c22f16156b15f46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito Constitucional
 - Constituição
+- Direito Constitucional
 - Revisão Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:611495:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243729:por
+  label: "Determinado que o art. 295.º da Constituição aprovada no Dec DD66/76, de 10-Abr, passe a art. 296.º na renumeração\
+    \ conferida no presente diploma, pela LEI CONST.1/2005.12.08.2005.AR, DR.IS-A [155] de 12.08.2005, que a republica em\
+    \ anexo \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-constitucional/1-2005-243729
+  date: '2005-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiconst/1/1992/11/25/p/dre
   label: null
@@ -85,16 +92,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/2001/12/12/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/2001/12/12/p/dre
+- type: cites
+  target: pt:dre:174316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667568:por
+  label: null
+  source: null
 article_structure:
   article_count: 342
-  section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 47
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:17Z'
   warnings: []
   errors: []
 ---
@@ -631,17 +670,17 @@ Até à eventual alteração das disposições dos estatutos político-administr
 
 Aprovada em 23 de Abril de 2004.
 
-**O Presidente da Assembleia da República, João Bosco Mota Amaral.**
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
 
-**Promulgada em 12 de Julho de 2004.**
+Promulgada em 12 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 16 de Julho de 2004.**
+Referendada em 16 de Julho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA
 
@@ -753,7 +792,7 @@ h) Promover a igualdade entre homens e mulheres.
 
 3. A língua oficial é o Português.
 
-# PARTE I — Direitos e deveres fundamentais
+## PARTE I — Direitos e deveres fundamentais
 
 ## TÍTULO I — Princípios gerais
 
@@ -1589,7 +1628,7 @@ e) Articular a política cultural e as demais políticas sectoriais.
 
 2. Incumbe ao Estado, em colaboração com as escolas e as associações e colectividades desportivas, promover, estimular, orientar e apoiar a prática e a difusão da cultura física e do desporto, bem como prevenir a violência no desporto.
 
-# PARTE II — Organização económica
+## PARTE II — Organização económica
 
 ## TÍTULO I — Princípios gerais
 
@@ -1881,7 +1920,7 @@ g) Os benefícios fiscais e a estimativa da receita cessante.
 
 A execução do Orçamento será fiscalizada pelo Tribunal de Contas e pela Assembleia da República, que, precedendo parecer daquele tribunal, apreciará e aprovará a Conta Geral do Estado, incluindo a da segurança social.
 
-# PARTE III — Organização do poder político
+## PARTE III — Organização do poder político
 
 ## TÍTULO I — Princípios gerais
 
@@ -2045,7 +2084,7 @@ i) Os resultados de eleições para os órgãos de soberania, das regiões autó
 
 ###### Artigo 120.º — (Definição)
 
-**O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.**
+O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.
 
 ###### Artigo 121.º — (Eleição)
 
@@ -3717,7 +3756,7 @@ A lei pode estabelecer, na estrita medida das exigências próprias das respecti
 
 7. Nenhum cidadão pode ser prejudicado na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do cumprimento do serviço militar ou do serviço cívico obrigatório.
 
-# PARTE IV — Garantia e revisão da Constituição
+## PARTE IV — Garantia e revisão da Constituição
 
 ## TÍTULO I — Fiscalização da constitucionalidade
 

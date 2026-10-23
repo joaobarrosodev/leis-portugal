@@ -48,40 +48,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1086-1990-565790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:09:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aa227f6f28a9777464598d34389085ccd6a218f3929d2a046063bb6ffb6b218
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 299f8b3cefd99d295c1a862a25cca58ac08b34a76ab5708763b0c998a3ce3d6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:09:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Diploma
+- Estágio de Formação
+- Exame
+- Formação Profissional
+- Inscrição Marítima
+- Marinha Mercante
+- Pessoal do MAR
+- Plano de Estudos
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:661085:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288646:por
+  label: "Alterados os artigos 2.º, 3.º, 29.º e 46.º e revogado o n.º 3 do artigo 1.º do anexo ao presente diploma, pela PORT.1052/91.15.10.1991.SEP-MAPA,\
+    \ DR.IS-B [237] de 15.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1052-1991-288646
+  date: '1991-10-15'
+- type: amended_by
+  target: pt:dre:190464:por
+  label: "Prorrogado o regime transitório estabelecido no artigo 52.º do Regulamento, pela PORT.279/92.31.03.1992.MM, DR.IS-B\
+    \ [76] de 31.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/279-1992-190464
+  date: '1992-03-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "REACTIVADO, POR UM PERIODO DE 180 DIAS, O REGIME PREVISTO NO ARTIGO 52 DO REGULAMENTO ANEXO, PELA PORTARIA 653/94,\
+    \ DE 16 DE JULHO, PUBLICADA NO DR.IS-B, 163.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-16'
+- type: amended_by
+  target: pt:dre:485956:por
+  label: "Alterados os arts. 33º, 34º, 37º e 38º; Revogados o nº 4 da al. a) do nº 1 do art. 1º, o art. 5º, a al. b) do nº\
+    \ 2 do art. 17º, passando a al. c) a al. b), a al. b) do nº 1 do art. 18º, as referências à al. b) do nº 1 do art. 18º\
+    \ nos arts. 19º, 20º, 21º e 23º e no nº 2 do art. 22º; e Aditados os arts. 37º-A a 37º-I e os art.s 38º-A a 38º-D, todos\
+    \ do regulamento anexo ao presente diploma, pela PORT.388/98.1998.07.06.MDN DR.IS-B [153]º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/388-1998-485956
+  date: '1998-07-06'
+- type: amended_by
+  target: pt:dre:424112:por
+  label: "Alterados os arts. 18º, 19º, 20º, 21º, 22º, 23º, 33º e 49º e aditados os arts. 47º-A, 47º-B, 47º-C, 47º-D, 47º-E,\
+    \ 47º-F, 47º-G, 47º-H do anexo ao presente diploma, pela PORT.417/98.1998.07.21.MDN DR.IS-B [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/417-1998-424112
+  date: '1998-07-21'
+- type: cites
+  target: pt:dre:574920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615194:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:444263:por
+  label: "Rectificada a alínea a), n.º 2 do artigo 20.º, o n.º 3 do artigo 37.º e alínea a), n.º 2 do artigo 41.º pela DECL-RECT.9/91.31.01.1991.PCM,\
+    \ DR.IS-B [26]Supl de 31.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-1991-444263
+  date: '1991-01-31'
+- type: corrected_by
+  target: pt:dre:292497:por
+  label: "Rectificado o preâmbulo da Declaração de Rectificação 9/91, de 31 de Janeiro, que rectifica o presente diploma,\
+    \ pela DECL-RECT.28-T/91.28.02.1991.PCM, DR.IS-B [49-2ºSupl] de 28.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/28-t-1991-292497
+  date: '1991-02-28'
 article_structure:
   article_count: 52
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:09:08Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +164,11 @@ Manda o Governo, pelos Ministros da Defesa Nacional, da Agricultura, Pescas e Al
 
 Ministérios da Defesa Nacional, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 3 de Agosto de 1990.**
+Assinada em 3 de Agosto de 1990.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
-## Anexo à Portaria n.º 1086/90, de 27 de Outubro
+Anexo à Portaria n.º 1086/90, de 27 de Outubro
 
 Cursos, exames, tirocínios, certificados e cartas do pessoal do mar
 
@@ -498,7 +564,9 @@ d) Ao director da EMM ou ao director da EPP, para os exames do n.º 3, consoante
 
 e) Ao director da EMM, para os exames do n.º 4.
 
-###### Artigo 24.º — Livro de termos de exame
+###### Artigo 24.º
+
+## Livro de termos de exame
 
 1 - Os exames são registados em livros de termos de exame, que existirão em todos os organismos referidos no n.º 2 do artigo 20.º
 
@@ -518,7 +586,7 @@ Os candidatos, ao apresentarem os requerimentos para serem presentes a exame, en
 
 4 - O diploma de exame referido no n.º 1 será do modelo que consta em anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf)
 
 ###### Artigo 27.º — Repetição dos exames
 
@@ -568,7 +636,7 @@ b) Cédula de inscrição marítima ou certidão de embarques, emitidas pelas ca
 
 1 - O MIT destina-se ao registo do tempo de embarque e do tempo de navegação dos marítimos das categorias de capitão pescador e piloto pescador e será do modelo que consta em anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf)
 
 2 - As normas para o seu preenchimento e encaminhamento serão estabelecidas por despacho dos Ministros da Defesa Nacional e da Agricultura, Pescas e Alimentação.
 
@@ -590,7 +658,7 @@ c) Cédula de inscrição marítima ou certidão de embarques, para as restantes
 
 4 - A carta de oficial será do modelo que consta em anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf)
 
 #### SECÇÃO V — Certificados
 
@@ -736,7 +804,7 @@ b) Certificados de segurança e sobrevivência no mar.
 
 Os certificados e outros documentos oficiais referidos nos artigos anteriores da presente secção serão dos modelos que constam em anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24900/44234436.pdf)
 
 ###### Artigo 49.º — Emissão de certificados
 

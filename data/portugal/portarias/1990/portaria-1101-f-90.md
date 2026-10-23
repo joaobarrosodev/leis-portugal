@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/1990, 4º Suplemento, Série I de 1990-10-31
   number: '252'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4498-(24) a 4498-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/25204/00240024.pdf
 entry_into_force_dates: []
@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1101-f-1990-624187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:09:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1ffe8c1b2e97c0f9dbfaefebdbe4d786c379a8214e27dde7758fb408355a34a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a502fda2ba087b76cfe0a7b128923717643a1b49bc81d831b1801f0c032b452a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:09:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Urbano para Habitação
+- Custo da Construção
+- Indústria da Construção
+- Renda Condicionada
+relationships:
+- type: cites
+  target: pt:dre:192247:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:09:38Z'
   warnings: []
   errors: []
 ---
@@ -95,12 +103,12 @@ Zona III - 58800$00 por metro quadrado de área útil.
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 31 de Outubro de 1990.**
+Assinada em 31 de Outubro de 1990.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 Quadro anexo à Portaria n.º 1101-F/90
 
 Zonas do País a que se refere o n.º 2 do artigo 7.º do [Decreto-Lei n.º 13/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1986-192247), de 23 de Janeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/25204/00240024.pdf))](https://files.diariodarepublica.pt/1s/1990/10/25204/00240024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/25204/00240024.pdf)

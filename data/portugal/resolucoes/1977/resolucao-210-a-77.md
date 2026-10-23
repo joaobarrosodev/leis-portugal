@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 197/1977, 1º Suplemento, Série I de 1977-08-26
   number: '197'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2072-(1) a 2072-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19701/00010002.pdf
 entry_into_force_dates: []
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/210-a-1977-249066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 526ccc8610d400941205f1d4224707b63fb953d44b19f4b4b4914670b6ba9ebe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f6426667e0d2e4886090135bad343c4ddc479afb4e919151977b0866977aa96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio Técnico
+- Combustível
+- Financiamento
+- Fixação de Preços
+- Informação do Consumidor
+- Preço de Venda
+- Produto Petrolífero
 relationships:
 - type: amended_by
   target: pt:dre:295870:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:295870:por
+  label: Revogado o n.º 2 do presente diploma, cessando a concessão de bónus pelos consumos de fuelóleo efectuados a partir
+    de 31 de Março de 1978, pelo(a) Resolução n.º 68/78 - Diário da República n.º 109/1978, Série I de 1978-05-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/68-1978-295870
+  date: '1978-05-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:06:04Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1/2008/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2008-249535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44b419c3cfc153ddfd9868fe28aa1b32829231e64f5eefefcc2f2800e32325cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f9d42e49ac0b4f8896c92544d637971d103a5e2e90a0cbddacd7390dccf7ee2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,78 +65,78 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Acção de Formação
 - Acidente de Trabalho
 - Administração Central
-- Função Pública
-- Família
-- Tempo de Serviço
-- Crime
+- Administração Local
+- Administração Regional
+- Assembleia da República
 - Assistência Médica
 - Assistência Medicamentosa
-- Financiamento
 - Bandeira
+- Bolsa de Estudos
+- Câmara Municipal
 - Campanha de Sensibilização
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
-- Multa
-- Exército
 - Concurso
-- Deficiente das Forças Armadas
 - Conselho de Chefes de Estado Maior
-- Força Aérea
 - Conselho Superior Militar
 - Consulado
 - Contra-ordenação
+- Crime
 - Crime Militar
-- Representante Legal
+- Curso Profissional
 - Decisão Judicial
+- Deficiente das Forças Armadas
 - Definição de Competências
 - DIA da Defesa Nacional
 - Dispensa de Serviço
-- Curso Profissional
-- Marinha
-- Serviço Militar
-- Política de Defesa
+- Doença
+- Ensino
+- Exército
+- Família
+- Financiamento
+- Força Aérea
+- Forças Armadas
+- Função Pública
+- Funcionário Público
+- Guerra
 - Habilitações Literárias
 - Inserção Profissional
+- Instituto do Emprego e Formação Profissional
 - Instrução Militar
-- Guerra
 - Isenção de Taxas e Emolumentos
-- Publicitação
 - Licença Militar
-- Residência
-- Mobilização Militar
-- Forças Armadas
-- Assembleia da República
-- Sanção Penal
-- Pensão Social
-- Prazo
-- Ensino
-- Serviço Público
-- Prisão Militar
-- Qualificação Profissional
-- Quadro Permanente das Forças Armadas
-- Recenseamento Militar
-- Recrutamento Militar
-- Administração Local
-- Câmara Municipal
-- Bolsa de Estudos
-- Reinserção Profissional
-- Remuneração
-- Reserva
+- Marinha
 - Militar
-- Responsabilidade Criminal
-- Doença
+- Ministério da Defesa Nacional
 - Ministro da Defesa Nacional
 - Ministro da Educação
-- Serviço Efectivo Normal
+- Mobilização Militar
+- Multa
+- Pensão Social
+- Política de Defesa
+- Prazo
+- Prisão Militar
+- Publicitação
+- Quadro Permanente das Forças Armadas
+- Qualificação Profissional
+- Recenseamento Militar
+- Recrutamento Militar
+- Recurso
+- Reinserção Profissional
+- Remuneração
+- Representante Legal
+- Reserva
+- Residência
+- Responsabilidade Criminal
+- Sanção Penal
 - Serviço Efectivo
-- Funcionário Público
-- Administração Regional
+- Serviço Efectivo Normal
+- Serviço Militar
+- Serviço Público
 - Subsídio
 - TAXA Militar
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:116640899:por
@@ -146,16 +146,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/174/1999/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/174/1999/09/21/p/dre
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:52Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +186,9 @@ Os artigos 8.º e 58.º da Lei do Serviço Militar, aprovada pela [Lei n.º 174/
 
 3 - (Revogado.)
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - O não cumprimento do dever de comparência ao Dia da Defesa Nacional, previsto no artigo 11.º e na alínea b) do artigo 57.º da presente lei, constitui contra-ordenação punível com coima de montante a fixar no regulamento da presente lei, sem prejuízo da imediata sujeição pelo infractor ao disposto na alínea a) do n.º 5 do artigo 34.º, bem como às restrições para o exercício de funções públicas.
 
@@ -218,14 +224,14 @@ São revogados o n.º 3 do artigo 8.º, os artigos 9.º e 10.º e a alínea a) d
 
 Aprovada em 28 de Fevereiro de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-**Promulgada em 10 de Abril de 2008.**
+Promulgada em 10 de Abril de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 18 de Abril de 2008.**
+Referendada em 18 de Abril de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

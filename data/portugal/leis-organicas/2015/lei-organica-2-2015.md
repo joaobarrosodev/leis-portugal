@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/03000/0081300837.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2015/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2015-66487454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f463fa4c09d31e53ea74270754b294d374839898f5e23a6690780b04ffa5358
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7d9010e4b8665be996a8f03f7289af0806469e8b19ff357981bd475abd94038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia de VOTO
-- Crime
-- Financiamento
-- Multa
+- Assembleia Legislativa
 - Comissão Nacional de Eleições
 - Contra-ordenação
+- Crime
 - Definição de Competências
 - Direito de Participação
+- Direito de Voto
+- Financiamento
 - Fiscalização
-- Presidente da República
 - Ilícito de MERA Ordenação Social
 - Inconstitucionalidade
-- Tribunal Constitucional
 - Legalidade
-- Assembleia Legislativa
+- Multa
 - Prazo
+- Presidente da República
 - Propaganda Política
 - Referendo
-- Regime Jurídico
-- Açores
-- Direito de Voto
 - Referendo Regional
-relationships: []
+- Regime Jurídico
+- Tribunal Constitucional
+relationships:
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
 article_structure:
   article_count: 225
-  section_count: 54
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 35
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:16Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +188,7 @@ Os projetos e as propostas aprovados tomam a forma de resolução, sendo publica
 
 #### SECÇÃO I — Proposta da Assembleia Legislativa da Região Autónoma
 
-##### DIVISÃO I
+DIVISÃO I
 
 Iniciativa parlamentar ou governamental
 
@@ -198,7 +202,7 @@ A iniciativa toma a forma de projeto de resolução, quando exercida pelos deput
 
 2 - Os projetos e as propostas de resolução definitivamente rejeitados não podem ser renovados na mesma sessão legislativa.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Iniciativa popular
 
@@ -302,7 +306,7 @@ Proferida decisão, o Presidente do Tribunal Constitucional comunica-a imediatam
 
 ###### Artigo 28.º — Prazo para a decisão
 
-**O Presidente da República decide sobre a convocação do referendo no prazo de vinte dias após a publicação da decisão do Tribunal Constitucional que verifique a constitucionalidade e a legalidade proposta.**
+O Presidente da República decide sobre a convocação do referendo no prazo de vinte dias após a publicação da decisão do Tribunal Constitucional que verifique a constitucionalidade e a legalidade proposta.
 
 ###### Artigo 29.º — Convocação do referendo
 
@@ -456,7 +460,7 @@ A partir da publicação do decreto que convoque o referendo é proibida a propa
 
 #### SECÇÃO III — Meios específicos de campanha
 
-##### DIVISÃO I
+DIVISÃO I
 
 Publicações periódicas
 
@@ -474,7 +478,7 @@ As publicações informativas de caráter jornalístico pertencentes a entidades
 
 O preceituado no n.º 1 do artigo anterior não é aplicável às publicações doutrinárias que sejam propriedade de partido político, de associação política ou de grupos de cidadãos eleitores intervenientes, desde que tal facto conste expressamente do respetivo cabeçalho.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Rádio e televisão
 
@@ -550,7 +554,7 @@ c) Faça propaganda abusivamente desviada do fim para o qual lhe foi conferido o
 
 4 - O Tribunal Constitucional decide no prazo de um dia e, no caso de ordenar a suspensão do direito de antena, notifica logo a decisão às respetivas estações de rádio e de televisão para cumprimento imediato.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Outros meios específicos de campanha
 
@@ -608,7 +612,7 @@ Outros meios específicos de campanha
 
 #### SECÇÃO I — Assembleias de voto
 
-##### DIVISÃO I
+DIVISÃO I
 
 Organização das assembleias de voto
 
@@ -654,7 +658,7 @@ Organização das assembleias de voto
 
 3 - A junta de freguesia providencia pela entrega ao presidente da mesa de cada assembleia de voto dos elementos referidos nos números anteriores até uma hora antes da abertura da assembleia.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Mesa das assembleias de voto
 
@@ -750,7 +754,7 @@ Os membros das mesas das assembleias ou secções de voto gozam do direito a dis
 
 Durante as operações de votação é obrigatória a presença da maioria dos membros da mesa, incluindo a do presidente ou a do vice-presidente.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Delegados dos partidos e grupos de cidadãos eleitores
 
@@ -888,7 +892,7 @@ b) Dos centros de saúde ou locais equiparados, para o efeito do disposto no n.�
 
 #### SECÇÃO III — Processo de votação
 
-##### DIVISÃO I
+DIVISÃO I
 
 Funcionamento das assembleias de voto
 
@@ -956,7 +960,7 @@ b) Realização do apuramento definitivo sem ter em conta a votação em falta, 
 
 2 - O reconhecimento da impossibilidade definitiva da realização da votação ou o seu adiamento competem ao membro do Governo Regional com competência em matéria eleitoral.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Modo geral de votação
 
@@ -996,11 +1000,11 @@ Não havendo nenhuma irregularidade, votam imediatamente o presidente e os vogai
 
 8 - No caso previsto no número anterior, o presidente escreve no boletim devolvido a nota de «inutilizado», rubrica-o e conserva-o para o efeito do artigo 93.º
 
-##### DIVISÃO III
+DIVISÃO III
 
 Modos especiais de votação
 
-##### SUBDIVISÃO I
+SUBDIVISÃO I
 
 Voto dos deficientes
 
@@ -1010,7 +1014,7 @@ Voto dos deficientes
 
 2 - Se a mesa deliberar que não se verifica a notoriedade da doença ou da deficiência física, exige que lhe seja apresentado no ato da votação atestado comprovativo da impossibilidade da prática dos atos descritos no artigo anterior emitido pelo médico que exerça poderes de autoridade sanitária na área do município e autenticado com o selo do respetivo serviço.
 
-##### SUBDIVISÃO II
+SUBDIVISÃO II
 
 Voto antecipado
 
@@ -1544,7 +1548,7 @@ f) Ser a infração cometida por representante ou delegado de partido político 
 
 #### SECÇÃO II — Ilícito penal
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -1564,7 +1568,7 @@ A tentativa é sempre punível.
 
 Qualquer partido político ou grupo de cidadãos pode constituir-se assistente em processo penal relativo a referendo regional.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Crimes relativos à campanha para o referendo
 
@@ -1598,7 +1602,7 @@ O empregado dos correios que desencaminhar, retiver ou não entregar ao destinat
 
 2 - Quem no dia do referendo fizer propaganda em assembleia de voto ou nas suas imediações até 500 m é punido com pena de prisão até seis meses ou pena de multa não inferior a 60 dias.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Crimes relativos à organização do processo de votação
 
@@ -1606,7 +1610,7 @@ Crimes relativos à organização do processo de votação
 
 Quem subtrair, retiver ou impedir a distribuição de boletins de voto ou por qualquer meio contribuir para que estes não cheguem ao seu destino no tempo legalmente estabelecido é punido com pena de prisão de seis meses a três anos ou pena de multa não inferior a 60 dias.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Crimes relativos ao sufrágio e ao apuramento
 
@@ -1668,7 +1672,7 @@ Quem for designado para fazer parte de mesa de assembleia de voto ou como membro
 
 ###### Artigo 194.º — Não exibição da urna
 
-**O presidente de mesa de assembleia de voto que não exibir a urna perante os eleitores é punido com pena de prisão até um ano ou com pena de multa até 120 dias.**
+O presidente de mesa de assembleia de voto que não exibir a urna perante os eleitores é punido com pena de prisão até um ano ou com pena de multa até 120 dias.
 
 ###### Artigo 195.º — Acompanhante infiel
 
@@ -1688,7 +1692,7 @@ Quem impedir a entrada ou a saída em assembleia de voto ou de apuramento de qua
 
 ###### Artigo 199.º — Recusa a receber reclamações, protestos ou contraprotestos
 
-**O presidente de mesa de assembleia de voto ou de apuramento que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto é punido com pena de prisão até dois anos ou com pena de multa até 240 dias.**
+O presidente de mesa de assembleia de voto ou de apuramento que ilegitimamente se recusar a receber reclamação, protesto ou contraprotesto é punido com pena de prisão até dois anos ou com pena de multa até 240 dias.
 
 ###### Artigo 200.º — Perturbação ou impedimento da assembleia de voto ou de apuramento
 
@@ -1722,7 +1726,7 @@ As penas previstas nos artigos desta secção são agravadas de um terço nos se
 
 #### SECÇÃO III — Ilícito de mera ordenação social
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -1740,7 +1744,7 @@ a) 40 % para o Estado;
 
 b) 60 % para a RAA.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Contraordenações relativas à campanha
 
@@ -1760,7 +1764,7 @@ A empresa que fizer propaganda comercial com violação do disposto na presente 
 
 A empresa proprietária de publicação informativa que não proceder às comunicações relativas à campanha para o referendo previstas na presente lei ou que não der tratamento igualitário aos diversos partidos e grupos de cidadãos eleitores é punida com uma coima de (euro) 4 000 a (euro) 40 000.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Contraordenações relativas à organização do processo de votação
 
@@ -1768,7 +1772,7 @@ Contraordenações relativas à organização do processo de votação
 
 Aquele que não assumir funções de membro de mesa de assembleia de voto por impedimento justificativo que não invoque, podendo fazê-lo, imediatamente após a ocorrência ou o conhecimento do facto impeditivo, é punido com coima de (euro) 400 a (euro) 2 000.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Contraordenações relativas ao sufrágio e ao apuramento
 
@@ -1832,14 +1836,14 @@ São aplicáveis ao regime de referendo, supletivamente e com as devidas adapta�
 
 Aprovada em 19 de dezembro de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
-**Promulgada em 17 de janeiro de 2015.**
+Promulgada em 17 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 20 de janeiro de 2015.**
+Referendada em 20 de janeiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

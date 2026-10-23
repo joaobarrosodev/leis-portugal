@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/258-1990-332050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:16:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1551b264f47a0a5c39809e9dd86346066eb2b1ac2eeba438d9a3d1c5a01c0bbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33f6dbaacf222c3e7ed427e73b7458399cd95ae9ae9d31e78c17caba8087e383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Contadoria Geral
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Secção Regional do Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:462000:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:547656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606553:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:16:45Z'
   warnings: []
   errors: []
 ---
@@ -98,10 +114,10 @@ Manda o Governo, pelo Ministro das Finanças, sob proposta do juiz conselheiro d
 
 Ministério das Finanças.
 
-**Assinada em 23 de Março de 1990.**
+Assinada em 23 de Março de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento.
 
 Mapa anexo a que se refere a Portaria n.º 258/90
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/08200/17301731.pdf))](https://files.diariodarepublica.pt/1s/1990/04/08200/17301731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/08200/17301731.pdf)

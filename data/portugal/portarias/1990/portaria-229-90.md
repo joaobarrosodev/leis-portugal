@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-1990-333081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:16:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86b5e90d819eb09f548c761369891d1302f46dad45e7562b135a0258605c0c92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd51f80d001eec160bbcd2f73b35c1b97bbc2626269b5e4a02191c0487652827
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso Superior de Assessoria de Administração
+- Curso Superior de Ciências Administrativas
+- Curso Superior de Comércio
+- Curso Superior de Gestão das PMES
+- Ensino Particular
+- Ensino Superior
+- Instituto Erasmus de Ensino Superior
+- Plano de Estudos
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:650079:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O PLANO DE ESTUDOS E DESIGNACAO DO CURSO SUPERIOR DE COMERCIO PELA PORT 57/93 DR.IS-B [10]A\0]A\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-01-13'
+- type: amended_by
+  target: pt:dre:406885:por
+  label: "Determinada a cessação de actividade do Instituto Erasmus do Ensino Superior, pelo DEC LEI.107/96.1996.07.31.ME,\
+    \ DR.IS-A [176], transitando para a Universidade Fernando Pessoa as autorizações de funcionamento de cursos e os reconhecimentos\
+    \ de graus e diplomas concedidos para este Instituto\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1996-406885
+  date: '1996-07-31'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:650076:por
+  label: "Revogada a autorização de funcionamento dos cursos de bacharelato em Assessoria de Administração e em Ciências administrativas,\
+    \ pela PORT.926/97.1997.09.11.ME DR.IS-B [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/926-1997-650076
+  date: '1997-09-11'
+- type: repealed_by
+  target: pt:dre:650078:por
+  label: "Revogada a autorização de funcionamento do curso de bacharelato em Gestão Comercial e Contabilidade, concedida pelo\
+    \ presente diploma, na redacção da Port 57/97 de 13-Jan, pela PORT.928/97.1997.09.11.ME DR.IS-B [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/928-1997-650078
+  date: '1997-09-11'
+- type: repealed_by
+  target: pt:dre:650079:por
+  label: "Revogada a autorização de funcionamento do curso de bacharelato em Gestão das PME, pela PORT.929/97.1997.09.11.ME\
+    \ DR:IS-B [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/929-1997-650079
+  date: '1997-09-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:16:05Z'
   warnings: []
   errors: []
 ---
@@ -115,10 +158,10 @@ Curso superior de Gestão das PMEs.
 
 Ministério da Educação.
 
-**Assinada em 8 de Março de 1990.**
+Assinada em 8 de Março de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Instituto Erasmus de Ensino Superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/07200/14931495.pdf))](https://files.diariodarepublica.pt/1s/1990/03/07200/14931495.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/07200/14931495.pdf)

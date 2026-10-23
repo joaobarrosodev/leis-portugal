@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/17300/29762978.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/591-1989-618767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T09:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d0962168d3558339ab744936c3ea5813de9f142a67705376c3b816b15f4a4a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60f189cf4ffe066bd3ac3039eda96fa970623ef380f83a14017262b84f37a5a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:56:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gestão Hospitalar
+- Hospital Geral de Santo António
+- Regulamento Interno
 relationships:
 - type: amended_by
   target: pt:dre:228785:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662876:por
+  label: "Alterado o artigo 11.º do regulamento interno, pela PORT.9/91.02.01.1991.MS, DR.IS-B [1] de 02.01.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-1991-662876
+  date: '1991-01-02'
+- type: amended_by
+  target: pt:dre:668162:por
+  label: "Alterado o art. 11.º do Regulamento Interno do Hospital Geral de Santo António, aprovado pelo presente diploma,\
+    \ na redacção da Port 9/91 de 02-Jan, pela PORT.1263/95.24.10.1995.MS, DR.IS-B [246] de 24.10.1995\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1263-1995-668162
+  date: '1995-10-24'
+- type: cites
+  target: pt:dre:138480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506396:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228785:por
+  label: "Revogada pela PORT.940/98.1998.10.29.MS, DR.IS-B [250]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/940-1998-228785
+  date: '1998-10-29'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:56:48Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +143,9 @@ Manda o Governo, pela Ministra da Saúde, que seja aprovado o regulamento intern
 
 Ministério da Saúde.
 
-**Assinada em 1 de Julho de 1989.**
+Assinada em 1 de Julho de 1989.
 
-**A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Regulamento interno do Hospital Geral de Santo António
 

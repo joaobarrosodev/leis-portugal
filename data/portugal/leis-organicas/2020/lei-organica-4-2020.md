@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22000/0000600014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/4/2020/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2020-148214576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46978ade4cd351e4e0aafc2afe37803e757b9e6ce27c2227438b4971768fae4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2b632441c6dd3c2e3faea4a2257742ecbc915bc79cc64f4614cdf55af457228
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,47 +67,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assembleia de VOTO
-- Região Autónoma
+- Açores
 - Agente Eleitoral
-- Publicidade
+- Assembleia da República
+- Assembleia de VOTO
+- Autarquia Local
+- Base de Dados
 - Caderno de Recenseamento
 - Cartão de Cidadão
-- Eleição
 - Cidadão Nacional
 - Círculo Eleitoral
-- Ministério da Administração Interna
-- Recenseamento Eleitoral
-- Segurança Interna
-- Portugal
 - Definição de Competências
 - Definição de Funções
+- Direito de Voto
 - Direitos e Liberdades
-- Eleição Legislativa
+- Direitos Políticos
+- Eleição
 - Eleição Autárquica
+- Eleição Legislativa
 - Eleição Presidencial
 - Eleito Local
 - Fiscalização
-- Secretaria Geral
-- Presidente da República
-- Base de Dados
-- Publicitação
 - Junta de Freguesia
-- Direitos Políticos
-- Residência
-- Sistema Eleitoral
-- Orgânica
-- Assembleia da República
-- Presidente da Câmara
 - Madeira.região Autónoma
+- Ministério da Administração Interna
+- Orgânica
+- Plataforma Eletrónica
+- Portugal
+- Presidente da Câmara
+- Presidente da República
 - Propaganda Política
+- Publicidade
+- Publicitação
+- Recenseamento Eleitoral
 - Referendo
 - Referendo Local
+- Região Autónoma
+- Residência
 - Resultado Eleitoral
-- Açores
-- Autarquia Local
-- Direito de Voto
-- Plataforma Eletrónica
+- Secretaria Geral
+- Segurança Interna
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:854167104:por
@@ -157,16 +157,192 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/5/2005/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/5/2005/09/08/p/dre
+- type: cites
+  target: pt:dre:106955047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106955048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107703390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116029385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116090196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140950555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75207495:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:46Z'
   warnings: []
   errors: []
 ---
@@ -211,7 +387,9 @@ Os artigos 31.º, 35.º-A, 38.º, 42.º e 70.º-C da Lei Eleitoral do Presidente
 
 4 - [...].
 
-###### Artigo 35.º-A — [...]
+Artigo 35.º-A
+
+[...]
 
 1 - No território nacional é constituída, pelo menos, uma mesa de voto em cada município do continente e das Regiões Autónomas dos Açores e da Madeira.
 
@@ -221,7 +399,9 @@ Os artigos 31.º, 35.º-A, 38.º, 42.º e 70.º-C da Lei Eleitoral do Presidente
 
 4 - [...].
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
@@ -247,7 +427,9 @@ b) O edital a que se refere o n.º 3 é afixado no edifício da sede da câmara 
 
 10 - Para efeitos do disposto no n.º 3 do artigo 35.º-A, o presidente da câmara municipal pode determinar a constituição de mais de uma mesa de voto antecipado em mobilidade.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...].
 
@@ -257,7 +439,9 @@ b) O edital a que se refere o n.º 3 é afixado no edifício da sede da câmara 
 
 4 - Nas assembleias de voto constituídas no estrangeiro podem ser utilizados, em alternativa e desde que reúnam as condições técnicas necessárias, cadernos eleitorais desmaterializados.
 
-###### Artigo 70.º-C — [...]
+Artigo 70.º-C
+
+[...]
 
 1 - [...].
 
@@ -321,7 +505,9 @@ Os artigos 40.º, 40.º-B, 47.º, 51.º, 79.º-C e 106.º-G da Lei Eleitoral par
 
 5 - [...].
 
-###### Artigo 40.º-B — [...]
+Artigo 40.º-B
+
+[...]
 
 1 - No território nacional é constituída, pelo menos, uma mesa de voto em cada município do continente e das Regiões Autónomas dos Açores e da Madeira.
 
@@ -331,7 +517,9 @@ Os artigos 40.º, 40.º-B, 47.º, 51.º, 79.º-C e 106.º-G da Lei Eleitoral par
 
 4 - [...].
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...].
 
@@ -363,7 +551,9 @@ d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câm
 
 11 - [...].
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - [...].
 
@@ -375,7 +565,9 @@ d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câm
 
 5 - Nas assembleias e secções de voto constituídas no estrangeiro podem ser utilizados, em alternativa e desde que reúnam as condições técnicas necessárias, cadernos eleitorais desmaterializados.
 
-###### Artigo 79.º-C — [...]
+Artigo 79.º-C
+
+[...]
 
 1 - Os eleitores referidos no artigo 79.º-A exercem o seu direito de sufrágio numa mesa de voto em mobilidade constituída para o efeito nos termos do artigo 40.º-B.
 
@@ -421,7 +613,9 @@ f) Contacto telefónico e, sempre que possível, endereço de correio eletrónic
 
 16 - [...].
 
-###### Artigo 106.º-G — [...]
+Artigo 106.º-G
+
+[...]
 
 Logo que definidas as assembleias de recolha e contagem de votos dos eleitores residentes no estrangeiro, a administração eleitoral da Secretaria-Geral do Ministério da Administração Interna providencia pela extração de duas cópias ou fotocópias dos cadernos eleitorais para serem entregues aos escrutinadores ou, desde que reunidas as condições técnicas necessárias, disponibiliza os cadernos eleitorais desmaterializados.»
 
@@ -437,7 +631,9 @@ Os artigos 76.º e 77.º da [Lei n.º 15-A/98](https://diariodarepublica.pt/dr/d
 
 2 - As assembleias de voto das freguesias com um número de eleitores sensivelmente superior a 1000 são divididas em secções de voto, por iniciativa da junta de freguesia ou da câmara municipal, de modo a que o número de eleitores seja adequado à realidade geográfica e aos locais de realização do ato eleitoral, procurando-se, sempre que possível, que não ultrapasse sensivelmente esse número.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - Até ao 30.º dia anterior ao do referendo, o presidente da câmara municipal decide os pedidos de desdobramentos referidos no artigo anterior, comunicando-o imediatamente à correspondente junta de freguesia e aos serviços da administração eleitoral.
 
@@ -463,7 +659,9 @@ Os artigos 3.º, 27.º, 52.º e 58.º do Regime Jurídico do Recenseamento Eleit
 
 4 - Para os cidadãos referidos no número anterior, a opção pela inscrição no recenseamento eleitoral português ou o seu cancelamento consta do procedimento de obtenção, renovação ou alteração de morada do cartão de cidadão.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -483,13 +681,17 @@ Os artigos 3.º, 27.º, 52.º e 58.º do Regime Jurídico do Recenseamento Eleit
 
 9 - [...].
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...].
 
 2 - Há tantos cadernos de recenseamento quantos os necessários para que em cada um deles figurem sensivelmente 1000 eleitores.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...].
 
@@ -535,11 +737,15 @@ Os artigos 67.º, 68.º e 71.º da [Lei Orgânica n.º 1/2001](https://diariodar
 
 3 - [...].
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 Até ao 35.º dia anterior ao dia da eleição, o presidente da câmara municipal decide os pedidos de desdobramentos previstos no artigo anterior, comunicando-os imediatamente à correspondente junta de freguesia e aos serviços da administração eleitoral.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...].
 
@@ -555,14 +761,16 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 23 de outubro de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 5 de novembro de 2020.**
+Promulgada em 5 de novembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 6 de novembro de 2020.**
+Referendada em 6 de novembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113719743

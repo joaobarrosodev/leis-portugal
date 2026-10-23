@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27100/48104817.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,116 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1154-1990-564782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:10:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 495af33bbe9a8b7aa4452131b62694c615c62a190fa962cf4ad00399d157d0ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26b17e504fe01d1e3fcf9cda1c5e9fb8f2eb0336e31757fb03087539922a1441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:10:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Administração de Portos
+- Administração dos Portos de Setúbal e Sesimbra
+- Embarcação
+- Licenciamento de Obras
+- Mercadoria
+- Portos
+- Regulamento
+- Sesimbra
+- Setúbal
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:485049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADA PELA DECLARAÇÃO DE RECTIFICAÇÃO 14/91, PUBLICADA NO DR.IS-B, 26, SUPL, DE 910131.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-01-31'
+- type: amended_by
+  target: pt:dre:192601:por
+  label: "Alterados os artigos 12.º, 15.º, 16.º e 23.º do Regulamento, aprovado no presente diploma, pela PORT.303/92.03.04.1992.MM,\
+    \ DR.IS-B [79] de 03.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/303-1992-192601
+  date: '1992-04-03'
+- type: amended_by
+  target: pt:dre:485582:por
+  label: "Alterados os artigos 12.º, 13.º, 14.º, 15.º, 16.º, 23.º e 24.º do Regulamento, na redacção da Portaria 303/92, de\
+    \ 3 de Abril, pela PORT.239/93.27.02.1993.MM, DR.IS-B [49]Supl de 27.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-1993-485582
+  date: '1993-02-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A REDACÇÃO DOS ARTIGOS 12, 14, 15, 16 E 23 DO REGULAMENTO APROVADO PELO PRESENTE DIPLOMA, COM AS ALTERAÇÕES
+    INTRODUZIDAS PELAS PORTARIAS 303/92, DE 3 DE ABRIL E 239/93, DE 27 DE FEVEREIRO, PELA PORTARIA 69/94, DE 1 DE FEVEREIRO,
+    PUBLICADA NO DR.IS-B, 26 SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-01'
+- type: amended_by
+  target: pt:dre:348336:por
+  label: "Alterados os artigos 12.º, 14.º, 15.º, 16.º e 23.º do Regulamento, na redacção das Portarias 303/92 e 239/93, de\
+    \ 3 de Abril e 27 de Fevereiro, pela PORT.69/94.01.02.1994.MM, DR.IS-B [26]Supl de 01.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1994-348336
+  date: '1994-02-01'
+- type: amended_by
+  target: pt:dre:244931:por
+  label: "Alterados os artigos 28.º, 34.º e 35.º do Regulamento, pela PORT.1159/94.31.12.1994.MM, DR.IS-B [302]Supl de 31.12.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1159-1994-244931
+  date: '1994-12-31'
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599755:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:444259:por
+  label: "Rectificados os n.ºs 1 e 2 do artigo 17.º, o n.º 1 dos artigos 18.º e 23.º, os n.ºs 2 e 6 do artigo 28.º, o artigo\
+    \ 45.º, o n.º 1 do artigo 55.º, e substituído o quadro do n.º 1 do artigo 23.º do Regulamento aprovado no presente diploma,\
+    \ pela DECL-RECT.14/91.31.01.1991.PCM, DR.IS-B [26]Supl de 31.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-1991-444259
+  date: '1991-01-31'
+- type: repealed_by
+  target: pt:dre:485049:por
+  label: "Revogada pelo DEC LEI.200/98.1998.07.10.MEPAT DR.IS-A [157], com a entrada em vigor dos regulamentos a que se refere\
+    \ o seu n&#186; 2 do art. 2&#186;\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1998-485049
+  date: '1998-07-10'
 article_structure:
   article_count: 58
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:10:57Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +180,9 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 6 de Novembro de 1990.**
+Assinada em 6 de Novembro de 1990.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 Regulamento de Tarifas da Administração dos Portos de Setúbal e Sesimbra
 
@@ -386,7 +462,7 @@ As taxas a aplicar sobre mercadorias na área de jurisdição da Administração
 
 1 - As taxas de porto a cobrar são as seguintes, por cada tonelada de mercadoria movimentada, de acordo com o n.º 2 do artigo 22.º:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27100/48104817.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27100/48104817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27100/48104817.pdf)
 
 a) As mercadorias de tráfego fluvial e local pagarão a taxa de porto, que é de 15$00/t.
 
@@ -410,7 +486,7 @@ f) Para as mercadorias destinadas a gastos de bordo, designadamente mantimentos,
 
 2 - As taxas de porto a cobrar por cada veículo automóvel ou atrelado são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27100/48104817.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27100/48104817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27100/48104817.pdf)
 
 3 - Beneficiarão de uma redução até 50% das taxas referidas no n.º 1:
 

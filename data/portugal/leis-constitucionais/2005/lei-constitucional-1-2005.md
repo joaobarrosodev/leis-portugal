@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiconst/1/2005/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-2005-243729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c92f7215fa2a07a96f904bcbe9da42069f344ab37dd32e8a9bd497f8cd06b035
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4fcc792294a6cddca8a840971a7ab4949b3221eb6cc30fd81a9ec092eed9332
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito Constitucional
 - Constituição
+- Direito Constitucional
 - Revisão Constitucional
 relationships:
 - type: amended_by
@@ -89,16 +89,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
+- type: cites
+  target: pt:dre:174316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667568:por
+  label: null
+  source: null
 article_structure:
   article_count: 299
-  section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 47
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:17Z'
   warnings: []
   errors: []
 ---
@@ -129,15 +165,15 @@ O disposto no n.º 3 do artigo 115.º não prejudica a possibilidade de convoca�
 
 Aprovada em 22 de Junho de 2005.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-**Promulgada em 2 de Agosto de 2005.**
+Promulgada em 2 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 4 de Agosto de 2005.**
+Referendada em 4 de Agosto de 2005.
 
 Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.
 
@@ -251,7 +287,7 @@ h) Promover a igualdade entre homens e mulheres.
 
 3. A língua oficial é o Português.
 
-# PARTE I — Direitos e deveres fundamentais
+## PARTE I — Direitos e deveres fundamentais
 
 ## TÍTULO I — Princípios gerais
 
@@ -1087,7 +1123,7 @@ e) Articular a política cultural e as demais políticas sectoriais.
 
 2. Incumbe ao Estado, em colaboração com as escolas e as associações e colectividades desportivas, promover, estimular, orientar e apoiar a prática e a difusão da cultura física e do desporto, bem como prevenir a violência no desporto.
 
-# PARTE II — Organização económica
+## PARTE II — Organização económica
 
 ## TÍTULO I — Princípios gerais
 
@@ -1379,7 +1415,7 @@ g) Os benefícios fiscais e a estimativa da receita cessante.
 
 A execução do Orçamento será fiscalizada pelo Tribunal de Contas e pela Assembleia da República, que, precedendo parecer daquele tribunal, apreciará e aprovará a Conta Geral do Estado, incluindo a da segurança social.
 
-# PARTE III — Organização do poder político
+## PARTE III — Organização do poder político
 
 ## TÍTULO I — Princípios gerais
 
@@ -1543,7 +1579,7 @@ i) Os resultados de eleições para os órgãos de soberania, das regiões autó
 
 ###### Artigo 120.º — (Definição)
 
-**O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.**
+O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.
 
 ###### Artigo 121.º — (Eleição)
 
@@ -3215,7 +3251,7 @@ A lei pode estabelecer, na estrita medida das exigências próprias das respecti
 
 7. Nenhum cidadão pode ser prejudicado na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do cumprimento do serviço militar ou do serviço cívico obrigatório.
 
-# PARTE IV — Garantia e revisão da Constituição
+## PARTE IV — Garantia e revisão da Constituição
 
 ## TÍTULO I — Fiscalização da constitucionalidade
 

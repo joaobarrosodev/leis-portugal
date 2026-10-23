@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/526-1989-619557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T09:55:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad457a19fc0d5e9dd1c2bf064d3e8f608378736cec264c5388becd3df5f28eed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cf418e0fd52e6f460103648a8b2a10f4ea2aac82f93d5ed3568420ffd3a8877
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:55:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abrantes
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:492225:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378894:por
+  label: "Suspenso o exercício da caça e de actividades de caracter venatório na zona de caça turística concessionada pelo\
+    \ presente diploma, pela PORT.906/2001.2001.07.30.MADRP, DR.IS-B [175]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/906-2001-378894
+  date: '2001-07-30'
+- type: amended_by
+  target: pt:dre:254182:por
+  label: "Renovada a concessão da zona de caça turística concessionada pelo presente diploma, pela PORT.181/2002.2002.03.01.MECO,\
+    \ DR.IS-B [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/181-2002-254182
+  date: '2002-03-01'
+- type: amended_by
+  target: pt:dre:638709:por
+  label: "Renovada, por um periodo de 12 anos, a concessão da zona de caça concessionada pelo presente diploma, renovada pela\
+    \ Port 181/2002 de 01-Mar, pela PORT.667/2007.04.06.2007.MADRP, DR.IS [107] de 04.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/667-2007-638709
+  date: '2007-06-04'
+- type: amended_by
+  target: pt:dre:492225:por
+  label: "Transferida para Maria Isabel Alves de Sousa Amorim Gomes Herdeiros a concessão da zona de caça turística da Herdade\
+    \ do Copeiro, concessionada pelo presente diploma, renovada pelas Ports 181/2002 de 01-Mar e 667/2007 de 04-Jun, pela\
+    \ PORT.718/2009.07.07.2009.MADRP, DR.IS [129] de 07.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/718-2009-492225
+  date: '2009-07-07'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:55:17Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +153,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 21 de Junho de 1989.**
+Assinada em 21 de Junho de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15700/27442744.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15700/27442744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15700/27442744.pdf)

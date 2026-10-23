@@ -46,40 +46,621 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/755-1989-547002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59bd61e55956b0121680ba98d59c7a71e9ceddbd3726e8c03c7227095f8ec21f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2a3cf90ff1c4de03c44a9d82fa9b994ef46c21a5a14202238d64e6812d7a700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Saúde
+- Centro Hospitalar de Coimbra
+- Centro Hospitalar de VILA NOVA de GAIA
+- Chaves
+- Direcção Geral dos Cuidados de Saúde Primários
+- Estabelecimento Hospitalar
+- Hospitais Civis de Lisboa
+- Hospital da Universidade de Coimbra
+- Hospital de Crianças Maria Pia
+- Hospital de Pulido Valente
+- Hospital de Santa Cruz
+- Hospital de Santa Maria
+- Hospital de São João
+- Hospital Distrital
+- Hospital Geral de Santo António
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Santarém
+- Viana do Castelo
 relationships:
 - type: amended_by
   target: pt:dre:432183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554612:por
+  label: "Altera o quadro de pessoal do Hospital de Santa Maria, aprovado pela Port 661/80, de 16-Set, na redação do presente\
+    \ diploma, pela PORT.923/90.01.10.1990.MF, DR.IS [227] de 01.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/923-1990-554612
+  date: '1990-10-01'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE PULIDO VALENTE PELA PORT 1277/95 DE 27-OUT DR.IS-B [249]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SANTA MARIA, PELA PORT 1376/95 DE 22-NOV DR.IS-B [270]\0DR.IS-B [270]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-22'
+- type: amended_by
+  target: pt:dre:226006:por
+  label: "Substituído o quadro do pessoal do Hospital Distrital de Santarém, aprovado pela Port 700/87, de 17-Ago, alterado\
+    \ pela Port 100/89, de 09-Fev, pelo presente diploma, pela port 113/90, de 12-Fev, 413/91, de 16-Maio, 458/93, de 30-Abr\
+    \ e 510/93, de 13-Maio, pela PORT.599/96.21.10.1996.PCM, DR.IS-B [244] de 21.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-1996-226006
+  date: '1996-10-21'
+- type: cites
+  target: pt:dre:152348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666542:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:48Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +675,11 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que os quadros de pe
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 10 de Agosto de 1989.**
+Assinada em 10 de Agosto de 1989.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20100/37353745.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20100/37353745.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20100/37353745.pdf)
 
 ## ANEXO
 

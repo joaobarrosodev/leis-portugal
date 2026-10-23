@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07000/0179401795.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/5/2015/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2015-66953311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfbee050cd8719de1d39cf31ba7afd3b337367fc3e23f899de2f0e7bba6796ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ff656fa6a5529e2a2b167e817d80962ebbf4efbdb437cc437de9e04e92f6b03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Entidade das Contas e Financiamentos Políticos
-- Tribunal Constitucional
 - Orgânica
+- Tribunal Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:115138846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Determinada a não atualização em 2017 das subvenções previstas no art. 5.º da Lei 19/2003, de 20-jun, na redação
+    do presente diploma pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:105762365:por
+  label: Alterados, desde 01.01.2017, os arts. 5.º e 12.º da Lei 19/2003 de 20-jun, na redação do presente diploma, pelo(a)
+    Lei n.º 4/2017 - Diário da República n.º 11/2017, Série I de 2017-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-2017-105762365
+  date: '2017-01-16'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Determinada a não atualização em 2018 das subvenções atribuídas a cada grupo parlamentar, ao deputado único representante
+    de um partido e ao deputado não inscrito em grupo parlamentar da Assembleia da República, previstas no art. 5.º da Lei
+    19/2003 de 20-jun, com a redação dada pelo presente diploma, pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017,
+    Série I de 2017-12-29, nos termos do disposto no seu art. 222.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:115138846:por
+  label: Alterado o art. 9.º da Lei 28/82 de 15-nov, com a redação dada pelo presente diploma, pelo(a) Lei Orgânica n.º 1/2018
+    - Diário da República n.º 77/2018, Série I de 2018-04-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2018-115138846
+  date: '2018-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
   label: null
@@ -108,15 +134,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:21Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +177,9 @@ e) Apreciar a regularidade e a legalidade das contas dos partidos políticos, ne
 
 f) ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Aplica-se ao Tribunal Constitucional o regime geral sobre férias judiciais relativamente aos processos de fiscalização abstrata não preventiva da constitucionalidade e legalidade de normas jurídicas, aos recursos de decisões judiciais e às respostas nos processos de apreciação da regularidade e da legalidade das contas de partidos políticos e de campanhas eleitorais.
 
@@ -189,7 +217,9 @@ Os artigos 5.º e 12.º da [Lei n.º 19/2003](https://diariodarepublica.pt/web/g
 
 7 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -221,14 +251,14 @@ A presente lei entra em vigor no dia seguinte à sua publicação, sem prejuízo
 
 Aprovada em 20 de fevereiro de 2015.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
-**Promulgada em 31 de março de 2015.**
+Promulgada em 31 de março de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 2 de abril de 2015.**
+Referendada em 2 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

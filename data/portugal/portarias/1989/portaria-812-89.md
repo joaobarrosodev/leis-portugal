@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/21200/40644065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/812-1989-547593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:02:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9e670dabcca6cd9edf26b25faeb1b44a14f43e1c36081ec73fb7c5b270161bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56b6239681287fd4531f968bea58326fec086338ac31e08bc723ed7bb3660fff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:02:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Imprensa
+- Publicidade
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:628040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:452567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619277:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628040:por
+  label: Revogada pelo DEC LEI.74/93.10.03.1993.MARN, DR.IS-A [58] de 10.03.1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1993-628040
+  date: '1993-03-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:02:14Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +127,7 @@ c) Impostos.
 
 7.º A taxa anual efectiva dos encargos financeiros globais deverá ser calculada de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21200/40644065.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21200/40644065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21200/40644065.pdf)
 
 8.º A informação obrigatória prevista na presente portaria deverá apresentar de forma discriminada cada um dos encargos e seus quantitativos, indicação do mês e ano a que se reportam os preços utilizados no respectivo cálculo e a menção de que tais encargos se referem a 15000 km percorridos por ano de utilização.
 
@@ -119,6 +135,6 @@ c) Impostos.
 
 Presidência do Conselho de Ministros e Ministérios do Planeamento e da Administração do Território e da Indústria e Energia.
 
-**Assinada em 1 de Setembro de 1989.**
+Assinada em 1 de Setembro de 1989.
 
 Pelo Ministro do Planeamento e da Administração do Território, José Macário Correia, Secretário de Estado do Ambiente e dos Recursos Naturais. - Pelo Ministro da Indústria e Energia, Nuno Manuel Franco Ribeiro da Silva, Secretário de Estado da Energia. - Pelo Ministro Adjunto e da Juventude, Albino Azevedo Soares, Secretário de Estado Adjunto do Ministro Adjunto e da Juventude.

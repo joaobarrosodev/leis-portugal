@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 277/1990, 2º Suplemento, Série I de 1990-11-30
   number: '277'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4948-(6) a 4948-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf
 entry_into_force_dates: []
@@ -48,40 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1170-b-1990-689255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:11:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58320652cc4d8babfa90c990c9bfb1fd34995d1fdb8ab56a29a273365f6ae57e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5fdb9bb095615bb22aac8fefc081cdd2b38e468d2b9f68b8fb4fc3b234674f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:11:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Preço
+- Transporte Aéreo
+- Transporte de Mercadorias
+- Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:495319:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:495319:por
+  label: Substituídos os quadros constantes do n.º 1.º e alterado o mínimo de cobrança constante no n.º 15.º pelo(a) Portaria
+    n.º 43/91 - Diário da República n.º 14/1991, Série I-B de 1991-01-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/43-1991-495319
+  date: '1991-01-17'
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:11:22Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +130,15 @@ Manda o Governo, pelos Ministros das Finanças, das Obras Públicas, Transportes
 
 Lisboa - Madeira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf)
 
 Porto-Madeira ou Faro-Madeira - para estas ligações, o valor das tarifas aplicáveis é obtido adicionando aos valores das tarifas especificadas de e para Lisboa o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf)
 
 Madeira-Açores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf)
 
 2.º Excepto quando especificamente regulamentado em contrário nesta portaria, não são permitidas interrupções voluntárias da viagem (stopovers), sem prejuízo dos stopovers autorizados pela SATA nos seus percursos internos. É permitida, excepto quando também regulamentado em contrário nesta portaria, uma ligação intermédia em cada sentido, desde que não exceda 24 horas. A passagem mais de uma vez no mesmo ponto em cada sentido não é permitida.
 
@@ -182,9 +210,9 @@ Tarifa de 45 kg (ou mais) - 85$00.
 
 Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
 
-**Assinada em 28 de Novembro de 1990.**
+Assinada em 28 de Novembro de 1990.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.
 
 ## ANEXO I — Condições de aplicação das tarifas normais de classe executiva
 
@@ -292,7 +320,7 @@ Viagem à «Tarifa para cidadãos portugueses e de outros cidadãos de países d
 
 Declaração de residência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27702/00060009.pdf)
 
 Nota 1. - O passageiro é responsável pela exactidão da declaração acima, ainda que assinada a rogo.
 

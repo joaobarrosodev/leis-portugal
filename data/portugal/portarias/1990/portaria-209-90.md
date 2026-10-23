@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/209-1990-333341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:15:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6665761090afe419d90234c0435bab07f79acf8aeefb47d40740d00cb0e1902c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0581933b48c852c4f86798f82cbad9d719f9cd331708b18ecc5c6263d95eff41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:15:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Batata
+- Comissão Executiva
+- Conselho Consultivo
+- Direcção Geral de Planeamento e Agricultura
+- Diretor Geral
+- Financiamento
+- Plantula
+- Produção Vegetal
+- Programa Nacional de Produção de Materiais de Propagação Vegetativa
+- Semente
 relationships:
 - type: amended_by
   target: pt:dre:216765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566608:por
+  label: "Aditado o n.º 13.º e altera o n.º 25.º do presente diploma pela PORT.1116/90.12.11.1990.MAPA, DR.IS [261] de 12.11.1990,\
+    \ que determinou a transferência para a Direcção-Geral das Florestas (cuja orgânica consta do DR 51/86 de 06-out) das\
+    \ competências atribuídas pela presente portaria à Estação Florestal Nacional. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1116-1990-566608
+  date: '1990-11-12'
+- type: amended_by
+  target: pt:dre:216765:por
+  label: "Alterados os n.ºs 8.º, 9.º, 10.º, 11.º e 17.º pela PORT.1027/92.04.11.1992.MA, DR.IS-B [255] de 04.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1027-1992-216765
+  date: '1992-11-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:15:40Z'
   warnings: []
   errors: []
 ---
@@ -446,9 +468,9 @@ f) Especificação da natureza da maquinaria, equipamento ou estruturas proposta
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 1 de Março de 1990.**
+Assinada em 1 de Março de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
 Lista de prioridades, por grupos de espécies, a vigorar para o continente, a que se refere o n.º 6.º
 

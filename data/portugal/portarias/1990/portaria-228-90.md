@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/228-1990-333086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:16:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d5e9e33f0a5091974967aea6397e4fc46ec245abe24456290c42ee26d3a1655
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ff9cf10b98763ce3b4814ff6e67ae97a4095207dec2f64be06c8e39f30c1323
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Consumo de Energia
+- Energia
+- Gestão dos Recursos
+- Poupança de Energia
+- Regulamento
+- Transporte
 relationships:
 - type: amended_by
   target: pt:dre:257073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249821:por
+  label: "Determinada a manutenção em vigor do presente diploma, até à entrada em vigor da legislação aplicável a que se refere\
+    \ o n.º 2 do art. 2º, pelo DEC LEI.71/2008.15.04.2008.MEI, DR.IS [74] de 15.04.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2008-249821
+  date: '2008-04-15'
+- type: cites
+  target: pt:dre:600295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:257073:por
+  label: "Revogados os arts. 3.º a 7.º, 9.º, 10.º, 17.º e 23.º bem como todos os anexos pela LEI.7/2013.22.01.2013.AR, DR.IS\
+    \ [15] de 22.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2013-257073
+  date: '2013-01-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:16:05Z'
   warnings: []
   errors: []
 ---
@@ -102,27 +124,27 @@ Manda o Governo, pelo Ministro da Indústria e Energia, nos termos do artigo 1.�
 
 Ministério da Indústria e Energia.
 
-**Assinada em 14 de Março de 1990.**
+Assinada em 14 de Março de 1990.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 REGULAMENTO DA GESTÃO DO CONSUMO DE ENERGIA PARA O SECTOR DOS TRANSPORTES
 
 ### CAPÍTULO I — Domínio de aplicação e objectivo
 
-###### Artigo 1.º O presente Regulamento é aplicável às empresas de transportes e às empresas com frotas próprias consumidoras intensivas de energia cujo consumo energético durante o ano anterior tenha sido superior a 500 t de equivalente petróleo.
+Artigo 1.º O presente Regulamento é aplicável às empresas de transportes e às empresas com frotas próprias consumidoras intensivas de energia cujo consumo energético durante o ano anterior tenha sido superior a 500 t de equivalente petróleo.
 
-###### Art. 2.º Cada uma das empresas referidas no artigo anterior ficará sujeita as restantes obrigações estabelecidas no [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295).
+Art. 2.º Cada uma das empresas referidas no artigo anterior ficará sujeita as restantes obrigações estabelecidas no [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295).
 
-###### Art. 3.º Para cumprimento das obrigações referidas no artigo 2.º do [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295) deverão as empresas dispor de técnicos ou entidades responsáveis, de acordo com as disposições do presente Regulamento.
+Art. 3.º Para cumprimento das obrigações referidas no artigo 2.º do [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295) deverão as empresas dispor de técnicos ou entidades responsáveis, de acordo com as disposições do presente Regulamento.
 
 ### CAPÍTULO II — Reconhecimentos dos técnicos
 
-###### Art. 4.º - 1 - Os técnicos ou entidades auditores energéticos, os autores dos planos de racionalização dos consumos e os responsáveis pela execução desses planos devem ser reconhecidos oficialmente para esse fim.
+Art. 4.º - 1 - Os técnicos ou entidades auditores energéticos, os autores dos planos de racionalização dos consumos e os responsáveis pela execução desses planos devem ser reconhecidos oficialmente para esse fim.
 
 2 - O reconhecimento será concedido com base em critérios de integridade e competência técnica.
 
-###### Art. 5.º - 1 - O reconhecimento de técnico auditor energético ou de autor do plano de racionalização dos consumos será concedido pela Direcção-Geral de Energia, a requerimento do interessado.
+Art. 5.º - 1 - O reconhecimento de técnico auditor energético ou de autor do plano de racionalização dos consumos será concedido pela Direcção-Geral de Energia, a requerimento do interessado.
 
 2 - O requerimento referido no número anterior deverá ser acompanhado de processo, constituído pelos seguintes documentos:
 
@@ -132,7 +154,7 @@ b) Curriculum vitae, explicitando, em particular, as actividades desenvolvidas n
 
 c) Declaração ético-profissional.
 
-###### Art. 6.º - 1 - Tratando-se de pessoa singular, deverá o técnico interessado no reconhecimento referido no artigo 5.º fazer prova de que:
+Art. 6.º - 1 - Tratando-se de pessoa singular, deverá o técnico interessado no reconhecimento referido no artigo 5.º fazer prova de que:
 
 a) É diplomado com licenciatura em especialidade adequada ao objectivo em causa;
 
@@ -146,17 +168,17 @@ b) Tem experiência profissional adequada.
 
 5 - A duração do reconhecimento não poderá ser superior a cinco anos.
 
-###### Art. 7.º Tratando-se de pessoa colectiva, deverá esta entidade fazer prova de que possui ao seu serviço técnico ou técnicos com os requisitos exigidos no artigo anterior.
+Art. 7.º Tratando-se de pessoa colectiva, deverá esta entidade fazer prova de que possui ao seu serviço técnico ou técnicos com os requisitos exigidos no artigo anterior.
 
-###### Art. 8.º A empresa responsável pela frota de veículos, após aprovação do seu plano, deverá comunicar à Direcção-Geral de Energia a identificação do técnico ou entidade responsável pelo controlo da execução e progresso do plano de racionalização do consumo de energia.
+Art. 8.º A empresa responsável pela frota de veículos, após aprovação do seu plano, deverá comunicar à Direcção-Geral de Energia a identificação do técnico ou entidade responsável pelo controlo da execução e progresso do plano de racionalização do consumo de energia.
 
-###### Art. 9.º Tratando-se de pessoa singular, o técnico deverá fazer prova de que tem experiência de gestão de frotas da dimensão da empresa em causa e formação académica adequada para o efeito.
+Art. 9.º Tratando-se de pessoa singular, o técnico deverá fazer prova de que tem experiência de gestão de frotas da dimensão da empresa em causa e formação académica adequada para o efeito.
 
-###### Art. 10.º Tratando-se de pessoa colectiva, deverá fazer prova de que essa entidade possui ao seu serviço técnico ou técnicos com os requisitos exigidos no artigo anterior.
+Art. 10.º Tratando-se de pessoa colectiva, deverá fazer prova de que essa entidade possui ao seu serviço técnico ou técnicos com os requisitos exigidos no artigo anterior.
 
 ### CAPÍTULO III — Auditoria energética das empresas
 
-###### Art. 11.º - 1 - A auditoria energética incidirá sobre o estado dos veículos e as suas condições de utilização, devendo ser recolhidos os elementos necessários à elaboração do plano de racionalização, bem como à subsequente verificação do seu cumprimento.
+Art. 11.º - 1 - A auditoria energética incidirá sobre o estado dos veículos e as suas condições de utilização, devendo ser recolhidos os elementos necessários à elaboração do plano de racionalização, bem como à subsequente verificação do seu cumprimento.
 
 2 - A auditoria energética deverá, nomeadamente, incidir sobre:
 
@@ -184,11 +206,11 @@ f) A determinação das condições de utilização;
 
 g) A determinação dos consumos específicos de energia nos últimos três anos.
 
-###### Art. 12.º As auditorias energéticas deverão ser realizadas, pelo menos, uma vez em cada três anos.
+Art. 12.º As auditorias energéticas deverão ser realizadas, pelo menos, uma vez em cada três anos.
 
 ### CAPÍTULO IV — Coeficientes de redução a toneladas de equivalente petróleo
 
-###### Art. 13.º - 1 - Os valores a adoptar para os coeficientes de redução a toneladas de equivalente petróleo (tep) são:
+Art. 13.º - 1 - Os valores a adoptar para os coeficientes de redução a toneladas de equivalente petróleo (tep) são:
 
 a) Petróleo bruto - 1,007 tep/t;
 
@@ -220,7 +242,7 @@ d) 1000 l de gasolina normal - 0,720 t.
 
 ### CAPÍTULO V — Determinação dos consumos específicos de energia
 
-###### Art. 14.º No sector dos transportes a determinação dos consumos específicos de energia será feita utilizando as seguintes unidades:
+Art. 14.º No sector dos transportes a determinação dos consumos específicos de energia será feita utilizando as seguintes unidades:
 
 gep/PK ou gep/TK;
 
@@ -242,7 +264,7 @@ km = quilómetro.
 
 ### CAPÍTULO VI — Plano de racionalização
 
-###### Art. 15.º - 1 - O plano de racionalização estabelecerá obrigatoriamente a meta de redução dos consumos específicos de energia para a empresa e cobrirá o período de três anos.
+Art. 15.º - 1 - O plano de racionalização estabelecerá obrigatoriamente a meta de redução dos consumos específicos de energia para a empresa e cobrirá o período de três anos.
 
 2 - A meta a que se refere o número anterior não pode ser inferior ao valor calculado pela fórmula:
 
@@ -272,13 +294,13 @@ b) Conforto de passageiros e motorista;
 
 c) Consumidores auxiliares de energia.
 
-###### Art. 16.º - 1 - O plano de racionalização deverá descrever todas as acções a desenvolver, localizá-las no tempo e explicitar os consequentes custos.
+Art. 16.º - 1 - O plano de racionalização deverá descrever todas as acções a desenvolver, localizá-las no tempo e explicitar os consequentes custos.
 
 2 - O plano de racionalização deverá ser elaborado de forma que permita em qualquer momento da sua aplicação uma fácil verificação do seu cumprimento.
 
 ### CAPÍTULO VII — Controlo da execução e progresso do plano de racionalização
 
-###### Art. 17.º O técnico ou entidade responsável pela execução do plano de racionalização deve:
+Art. 17.º O técnico ou entidade responsável pela execução do plano de racionalização deve:
 
 a) Manter registo actualizado, pelo qual se possam verificar, mensalmente, os consumos específicos e a sua evolução, comparada com idênticos meses dos anos anteriores;
 
@@ -292,27 +314,27 @@ e) Apresentar à Direcção-Geral de Energia, quando lhe forem solicitados, os r
 
 ### CAPÍTULO VIII — Aprovação do plano de racionalização e dos relatórios anuais
 
-###### Art. 18.º - 1 - A empresa deve requerer à Direcção-Geral de Energia, durante o 1.º trimestre do ano seguinte àquele em que os consumos energéticos atingiram os valores fixados no artigo 1.º do presente Regulamento, a aprovação do plano de racionalização do consumo de energia.
+Art. 18.º - 1 - A empresa deve requerer à Direcção-Geral de Energia, durante o 1.º trimestre do ano seguinte àquele em que os consumos energéticos atingiram os valores fixados no artigo 1.º do presente Regulamento, a aprovação do plano de racionalização do consumo de energia.
 
 2 - O plano de racionalização deverá ser acompanhado de auditoria energética, que fará parte integrante do mesmo.
 
 3 - O plano de racionalização deverá ser acompanhado de identificação do técnico ou entidade autor do mesmo e do respectivo termo de responsabilidade.
 
-###### Art. 19.º Antes de caducar o período de validade do plano de racionalização do consumo de energia deve ser submetido para aprovação um novo plano.
+Art. 19.º Antes de caducar o período de validade do plano de racionalização do consumo de energia deve ser submetido para aprovação um novo plano.
 
-###### Art. 20.º A empresa deve remeter o relatório anual do técnico ou entidade responsável pela execução do plano de racionalização à Direcção-Geral de Energia durante o mês de Janeiro do ano seguinte àquele a que o relatório se refere e requerer a respectiva aprovação.
+Art. 20.º A empresa deve remeter o relatório anual do técnico ou entidade responsável pela execução do plano de racionalização à Direcção-Geral de Energia durante o mês de Janeiro do ano seguinte àquele a que o relatório se refere e requerer a respectiva aprovação.
 
-###### Art. 21.º Os relatórios do técnico ou entidade responsável pela execução e controlo do progresso do plano devem ser acompanhados do respectivo termo de responsabilidade.
+Art. 21.º Os relatórios do técnico ou entidade responsável pela execução e controlo do progresso do plano devem ser acompanhados do respectivo termo de responsabilidade.
 
 ### CAPÍTULO IX — Penalidades
 
-###### Art. 22.º As infracções ao disposto no presente diploma por parte das empresas que, de acordo com os critérios do artigo 1.º deste Regulamento, sejam consideradas consumidoras intensivas de energia ficam sujeitas às penalidades referidas no artigo 5.º do [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295).
+Art. 22.º As infracções ao disposto no presente diploma por parte das empresas que, de acordo com os critérios do artigo 1.º deste Regulamento, sejam consideradas consumidoras intensivas de energia ficam sujeitas às penalidades referidas no artigo 5.º do [Decreto-Lei n.º 58/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1982-600295).
 
-###### Art. 23.º A Direcção-Geral de Energia cancelará o reconhecimento do técnico ou entidade responsável pela execução do plano de racionalização sempre que se verifique a falta de cumprimento das determinações expressas no artigo 18.º
+Art. 23.º A Direcção-Geral de Energia cancelará o reconhecimento do técnico ou entidade responsável pela execução do plano de racionalização sempre que se verifique a falta de cumprimento das determinações expressas no artigo 18.º
 
 ### CAPÍTULO X — Disposições diversas
 
-###### Art. 24.º A fiscalização da execução do presente Regulamento, bem como a aplicação das penalidades nele previstas, compete à Direcção-Geral de Energia.
+Art. 24.º A fiscalização da execução do presente Regulamento, bem como a aplicação das penalidades nele previstas, compete à Direcção-Geral de Energia.
 
 ## ANEXO I — Declaração ético-profissional para reconhecimento em nome de pessoa singular
 

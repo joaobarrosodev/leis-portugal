@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/42-1977-141826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:09:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 610c72829a6003d95d9a54edc3e965cd1de8d65dcdce2922d8e803e3d803153a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64a8ae702bdcb6309de7c3fd9c5eca29dac39dd9784d3703158d1697654efb6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:09:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Exame
+- Ministro da Educação e Investigação Científica
+- Regulamentação de Atos Legislativos
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:09:10Z'
   warnings: []
   errors: []
 ---
@@ -91,6 +95,6 @@ Torna-se assim necessário rever o sistema de classificação e adoptar uma esca
 
 O Conselho de Ministros, reunido em 8 de Fevereiro de 1977, resolveu:
 
-**O Ministro da Educação e Investigação Científica regulamentará, de imediato, e para salvaguarda dos direitos de milhares de estudantes, o processo de classificação do aproveitamento escolar para o ensino superior, conferindo àqueles que o desejarem a possibilidade de requererem a prestação de novas provas, de modo a não serem prejudicados pelo sistema de classificação não numérica instituído pela resolução do Conselho de Ministros de 10 de Julho de 1975.**
+O Ministro da Educação e Investigação Científica regulamentará, de imediato, e para salvaguarda dos direitos de milhares de estudantes, o processo de classificação do aproveitamento escolar para o ensino superior, conferindo àqueles que o desejarem a possibilidade de requererem a prestação de novas provas, de modo a não serem prejudicados pelo sistema de classificação não numérica instituído pela resolução do Conselho de Ministros de 10 de Julho de 1975.
 
 Presidência do Conselho de Ministros, 8 de Fevereiro de 1977. - O Primeiro-Ministro, Mário Soares.

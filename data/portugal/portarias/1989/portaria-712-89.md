@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/712-1989-618513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T09:59:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3317f35dbe6ebab2d52cfa52695408a5c5c9e9fa428cc4cfe81d3684eb6c8bc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00cc4cb49e89aa82d0ad1a0c8f83b03a8b06f9b0d3937de5a3088a478d48d056
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:59:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desporto
+- Equipamento Desportivo
+- Estabelecimento de Ensino
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:287985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287985:por
+  label: "Alterado o nº 24-A do regulamento homologado pela Port 68/89 de 31-Jan, aditado pelo presente diploma, pela PORT.483/2002.2002.04.24.ME,\
+    \ DR.IS-B [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/483-2002-287985
+  date: '2002-04-24'
+- type: cites
+  target: pt:dre:377088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610380:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:59:49Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +122,6 @@ b) Estão isentas de taxas, pagando apenas as despesas com pessoal, as acções 
 
 Ministério da Educação.
 
-**Assinada em 3 de Agosto de 1989.**
+Assinada em 3 de Agosto de 1989.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.

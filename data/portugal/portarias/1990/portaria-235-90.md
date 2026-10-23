@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/235-1990-332968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5fec0252593ecf761faf2718d48e366ec1448c8cdf99e401e7cf0da1aea9a11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a5b86047570e0e45ba1f367b2689cfc837301d91931756b7c3f5272b2a3485f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:299463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL PELO MAPA I ANEXO A PORTARIA 663/94, DE 19 DE JULHO, PUBLICADA NO DR.IS-B, 165.\0\
+    -B, 165."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-19'
+- type: cites
+  target: pt:dre:354749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619574:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:16:15Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +150,7 @@ c) Carreira de técnicos economistas - licenciados em Economia, Finanças ou Org
 
 Ministério das Finanças.
 
-**Assinada em 14 de Março de 1990.**
+Assinada em 14 de Março de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento.
 
@@ -118,8 +158,8 @@ Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de E
 
 Criação de lugares no quadro geral da Direcção-Geral das Contribuições e Impostos, para efeito de integração de pessoal do Gabinete da Área de Sines, nos termos previstos no [Decreto-Lei n.º 120/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1989-615239), de 14 de Abril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/07600/15241525.pdf))](https://files.diariodarepublica.pt/1s/1990/03/07600/15241525.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/07600/15241525.pdf)
 
 ## ANEXO II — Lista nominativa a que se refere o n.º 4.º da Portaria n.º 235/90, de 31 de Março
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/07600/15241525.pdf))](https://files.diariodarepublica.pt/1s/1990/03/07600/15241525.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/07600/15241525.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/rgtconsest/1/2001/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/regimento-conselho-estado/1-2001-165018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d2d6596f8eb42e624dd9b77f30b444d907d246a21993aa48f8b49cc5c20556d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 154f270138cbb834fb1c3add9fa9d17b7b8eacc4ab1d0b984eb6370c6cd1771b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,21 @@ relationships:
   target: pt:dre:313841:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:313841:por
+  label: "Rectificado pela DECL-RECT.13/2001.2001.05.04.PR DR.IS-A [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-2001-313841
+  date: '2001-05-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:57Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +113,8 @@ Primeira alteração ao Regimento do Conselho de Estado, publicado no Diário da
 
 7 - A consulta ou divulgação das actas, nos termos dos números anteriores, será sempre assegurada pelo secretário do Conselho de Estado e pelos serviços da Presidência da República.»
 
-**Assinado, no Palácio de Belém, em 1 de Março de 2001.**
+Assinado, no Palácio de Belém, em 1 de Março de 2001.
 
-**Publique-se, nos termos do artigo 18.º do Regimento do Conselho de Estado.**
+Publique-se, nos termos do artigo 18.º do Regimento do Conselho de Estado.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

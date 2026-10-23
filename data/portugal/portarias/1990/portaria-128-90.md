@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/128-1990-332883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:13:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b62671415d9fedc2622a566cd97ae427c8bdb049eb0f698ae0d4eab6ab2eed5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3db04db68a1a675c5fd8923a50d9f44e9d68d0ec3f480a8a4fb16b6e4dacb808
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:13:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central
+- Impresso
+- Informática
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:628295:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:575535:por
+  label: Retificada pela DECL.DD3401.31.03.1990.PCM, DR.IS [76-Supl]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-575535
+  date: '1990-03-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:13:35Z'
   warnings: []
   errors: []
 ---
@@ -102,8 +115,8 @@ Modelo C. P. - M4 - Relação-protocolo de boletins.
 
 Ministério das Finanças.
 
-**Assinada em 31 de Janeiro de 1990.**
+Assinada em 31 de Janeiro de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04100/06520653.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04100/06520653.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04100/06520653.pdf)

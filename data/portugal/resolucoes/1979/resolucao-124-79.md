@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/124-1979-382042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:17:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0241f3c3f5d931e817987e31e76c90dcaecb384ac7aed96f1a61c139b6552ea5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 403128df086750866bb9d82a3cbfe059b4980cbf4dd16dae6e79518999625710
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:17:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Privada
+- Intervenção do Estado
 relationships:
 - type: amended_by
   target: pt:dre:470438:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:367797:por
+  label: "Prorrogado o prazo previsto no n.º 5 do presente diploma, pela RES.316/79.10.11.1979.PCM, DR.IS [260] de 10.11.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/316-1979-367797
+  date: '1979-11-10'
+- type: amended_by
+  target: pt:dre:679418:por
+  label: "Prorrogado o prazo estabelecido no n.º 5 do presente diploma, pela RES.62/80.07.02.1980.PCM, DR.IS [43] de 21.02.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/62-1980-679418
+  date: '1980-02-07'
+- type: amended_by
+  target: pt:dre:681637:por
+  label: "Prorrogado o prazo estabelecido no n.º 5 do presente diploma, pela RES.137/80.18.04.1980.PCM, DR.IS [91] de 18.04.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/137-1980-681637
+  date: '1980-04-18'
+- type: amended_by
+  target: pt:dre:470438:por
+  label: "Prorrogado até 31.10.1980 o prazo previsto no n.º 5 do presente diploma, pela RES.280/80.07.08.1980.PCM, DR.IS [181]\
+    \ de 07.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/280-1980-470438
+  date: '1980-08-07'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485645:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:17:07Z'
   warnings: []
   errors: []
 ---

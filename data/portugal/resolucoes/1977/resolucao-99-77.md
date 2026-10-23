@@ -48,40 +48,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/99-1977-251613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:10:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88506a6e9a760f3ebada9db37833d3ca933ed462fb6a364904e8601206463a64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ac603f6026f4bcb237d0ce86c61a31d180a859c177144e4066cb2ccc634434f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:10:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Definição de Competências
+- Empresa Intervencionada
+- Empresa Privada
+- Exoneração
+- Gestão de Empresas
+- Gestor
+- Intervenção do Estado
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:382040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:255435:por
+  label: Prorrogado por noventa dias o prazo da intervenção do Estado na Ornitex - Organização Técnica de Exportação, Lda,
+    determinada pelo presente diploma, pelo(a) Resolução n.º 191/77 - Diário da República n.º 180/1977, Série I de 1977-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/191-1977-255435
+  date: '1977-08-05'
+- type: amended_by
+  target: pt:dre:255271:por
+  label: Prorrogado por sessenta dias o prazo concedido às comissões administrativas das empresas Companhia Fiação de Crestuma,
+    Lda., Abel Alves de Figueiredo, Lda., e Fábrica de Fiação e Tecidos do Jacinto, S. A. R. L. e prorrogado por igual período
+    a intervenção do Estado nas citadas empresas pelo(a) Resolução n.º 204/77 - Diário da República n.º 186/1977, Série I
+    de 1977-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/204-1977-255271
+  date: '1977-08-12'
+- type: amended_by
+  target: pt:dre:392266:por
+  label: "Exonerados os nomeados, pela RES.21/79.19.01.1979.PCM, DR.IS [16] de 19.01.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/21-1979-392266
+  date: '1979-01-19'
+- type: amended_by
+  target: pt:dre:382812:por
+  label: "Determinada a exoneração da comissão administrativa, nomeada pelo presente diploma, com efeitos a partir da data\
+    \ da nomeação do administrador da massa falida, pela RES.94/79.03.04.1979.PCM, DR.IS [78] de 03.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/94-1979-382812
+  date: '1979-04-03'
+- type: amended_by
+  target: pt:dre:382040:por
+  label: "Determinada a cessação da intervenção do Estado na Fábrica de Fiação e Tecidos do Jacinto, S.A.R.L., prevista no\
+    \ presente diploma, pela RES.125/79.27.04.1979.PCM, DR.IS [97] de 27.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/125-1979-382040
+  date: '1979-04-27'
+- type: cites
+  target: pt:dre:140356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:253396:por
+  label: Rectificada pela DECL.DD8351.16.06.1977.PCM, DR.IS [137] de 16.06.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-253396
+  date: '1977-06-16'
+- type: corrected_by
+  target: pt:dre:250403:por
+  label: Rectificada pela DECL.DD8361.23.06.1977.PCM, DR.IS [143] de 23.06.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-250403
+  date: '1977-06-23'
+- type: repealed_by
+  target: pt:dre:294566:por
+  label: Revogado o ponto 8 do presente diploma pelo(a) Resolução n.º 86/78 - Diário da República n.º 124/1978, Série I de
+    1978-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/86-1978-294566
+  date: '1978-05-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:10:43Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/07400/23662367.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2007/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2007-519615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02dab2827767762ed1ecc9252c2dc4a99a1be69542fb03d9c8ef911a00be33ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e3d29f7ea743efa1a76ec530e0ba90382330662408e7f1cfb5f22f7c9ae1504
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
 - Chefe do Estado Maior da Armada
 - Chefe do Estado Maior da Força Aérea
+- Chefe do Estado Maior do Exército
 - Chefe do Estado Maior General das Forças Armadas
 - Conselho de Chefes de Estado Maior
 - Conselho Superior da Defesa Nacional
 - Definição de Competências
-- Serviço Militar
+- Forças Armadas
+- Governo
+- Ministério da Defesa Nacional
+- Ministro da Defesa Nacional
+- Orgânica
 - Política de Defesa
 - Presidente da República
-- Chefe do Estado Maior do Exército
-- Forças Armadas
-- Orgânica
 - Promoção Profissional
-- Ministro da Defesa Nacional
-- Governo
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:169256654:por
@@ -107,16 +107,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2001/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2001/08/30/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631839:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogada a Lei 29/82 de 11-Dez, alterada pela presente lei, pela LEI.31-A/2009.07.07.2009.AR, DR.IS [129-Supl] de\
+    \ 07.07.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2009-07-07'
+- type: repealed_by
+  target: pt:dre:345292:por
+  label: "Revogada a Lei 29/82 de 11-Dez, alterada pelo presente diploma, pela LEI ORG.1-B/2009 (publicada anteriormente como\
+    \ Lei 31-A/2009 e posteriormente rectificada).07.07.2009.AR, DR.IS [129-Supl] de 07.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-a-2009-345292
+  date: '2009-07-07'
 article_structure:
-  article_count: 8
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:52Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +185,9 @@ Os artigos 25.º, 28.º, 29.º, 36.º, 44.º, 46.º e 47.º da [Lei n.º 29/82](
 
 2 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -157,7 +199,9 @@ Os artigos 25.º, 28.º, 29.º, 36.º, 44.º, 46.º e 47.º da [Lei n.º 29/82](
 
 5 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -193,7 +237,9 @@ b) Comandantes da Academia Militar, da Escola Naval e da Academia da Força Aér
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -201,7 +247,9 @@ b) Comandantes da Academia Militar, da Escola Naval e da Academia da Força Aér
 
 3 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -239,7 +287,9 @@ p) Aprovar as promoções a oficial general, bem como as promoções de oficiais
 
 3 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +327,9 @@ i) Dois deputados à Assembleia da República, por esta eleitos nos termos da pr
 
 9 - O apoio técnico e administrativo ao Conselho Superior de Defesa Nacional é assegurado pela Secretaria-Geral da Presidência da República, em cujo orçamento são inscritas as verbas necessárias à sua execução.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -325,14 +377,14 @@ h) ...
 
 Aprovada em 8 de Março de 2007.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-**Promulgada em 4 de Abril de 2007.**
+Promulgada em 4 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendada em 9 de Abril de 2007.**
+Referendada em 9 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

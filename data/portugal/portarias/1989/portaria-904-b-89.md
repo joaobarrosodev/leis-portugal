@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 238/1989, 1º Suplemento, Série I de 1989-10-16
   number: '238'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4530-(19) a 4530-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23801/00190021.pdf
 entry_into_force_dates: []
@@ -48,40 +48,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/904-b-1989-291807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:04:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f8fa4e9c932e3e464aebe9e0a46bdead589bab58934516c93392373d892e9ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65bd052a890b5b99b74cc82f49b1c0c0190ca08199393c6ed915941348feb2e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:04:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Administração Pública
+- ADSE
+- Ajudas de Custo
+- Função Pública
+- Gratificação
+- Pensão de Invalidez
+- Pensão de Preço de Sangue
+- Pensão de Reforma
+- Remuneração
+- Subsídio de Alimentação
+- Subsídio de Viagem e Marcha
 relationships:
 - type: amended_by
   target: pt:dre:497787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575563:por
+  label: "Aditados os n.ºs 9.º-A, 9.º-B e 9.º-C pela PORT.514/90.06.07.1990.MF, DR.IS [154] de 06.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/514-1990-575563
+  date: '1990-07-06'
+- type: amended_by
+  target: pt:dre:497787:por
+  label: "Actualizados os subsídios de refeição de viagem e de marcha fixados no presente diploma, pela PORT.53/91.19.01.1991.MF,\
+    \ DR.IS-B [16] de 19.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-1991-497787
+  date: '1991-01-19'
+- type: cites
+  target: pt:dre:222836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621301:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:04:30Z'
   warnings: []
   errors: []
 ---
@@ -190,10 +253,10 @@ d) Percurso a pé - 16$50 por quilómetro.
 
 Ministério das Finanças.
 
-**Assinada em 12 de Outubro de 1989.**
+Assinada em 12 de Outubro de 1989.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
 Mapa a que se refere o n.º 1.º da Portaria n.º 904-B/89, de 16 de Outubro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23801/00190021.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23801/00190021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23801/00190021.pdf)

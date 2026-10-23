@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/13200/22732275.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-1989-620310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T09:52:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e6aadbe0a72544cbcf023082dff53009d88274d0b0d0bb5eff3f5206f0dc705
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab8bc32e4b66c90337b418d55f789ec524be44bcec3543ed22557f266774234d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:52:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Construção Civil
+- Escola Superior de Tecnologia
+- Faro
+- Instituto Politécnico
 relationships:
 - type: amended_by
   target: pt:dre:554577:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:220093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621750:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:554577:por
+  label: "Revogada pela PORT.929/90.02.10.1990.ME, DR.IS [228] de 02.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/929-1990-554577
+  date: '1990-10-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:52:42Z'
   warnings: []
   errors: []
 ---
@@ -165,8 +195,8 @@ O disposto na presente portaria aplica-se, progressivamente, a partir do ano lec
 
 Ministério da Educação.
 
-**Assinada em 12 de Maio de 1989.**
+Assinada em 12 de Maio de 1989.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/13200/22732275.pdf))](https://files.diariodarepublica.pt/1s/1989/06/13200/22732275.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/13200/22732275.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/17800/31223122.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/614-1989-618881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T09:57:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5801a7a868a0f12fcca6e312499687fc2ee3e90b5e4eaccb1e2151a290367740
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e6b5342e18370a5dad31911e8fe7ea33c3b3d33f78f9599512c45d50137842e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:57:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fonograma
 relationships:
 - type: amended_by
   target: pt:dre:230360:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:619682:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:230360:por
+  label: "Revogada pela PORT.58/98.1998.02.06.MC DR.IS-B [31]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1998-230360
+  date: '1998-02-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:57:23Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +114,7 @@ Legendas a preto;
 
 Papel: autocolante.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/17800/31223122.pdf))](https://files.diariodarepublica.pt/1s/1989/08/17800/31223122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/17800/31223122.pdf)
 
 Capas ou Lay cards:
 
@@ -118,7 +128,7 @@ Na lombada será impresso o escudo português em holograma;
 
 Legendas a preto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/17800/31223122.pdf))](https://files.diariodarepublica.pt/1s/1989/08/17800/31223122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/17800/31223122.pdf)
 
 Cassettes áudio importadas:
 
@@ -134,10 +144,10 @@ Legendas a preto;
 
 Papel: autocolante.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/17800/31223122.pdf))](https://files.diariodarepublica.pt/1s/1989/08/17800/31223122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/17800/31223122.pdf)
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 10 de Julho de 1989.**
+Assinada em 10 de Julho de 1989.
 
-**A Secretária de Estado da Cultura, Maria Teresa Pinto Basto Gouveia.**
+A Secretária de Estado da Cultura, Maria Teresa Pinto Basto Gouveia.

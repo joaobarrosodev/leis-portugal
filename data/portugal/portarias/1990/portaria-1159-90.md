@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1159-1990-564807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:11:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c37c0ea7170ea7abeace846c7a8e0b8a3e618529203b5f640c69251f1ea79ae2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e839c67bebfb0793776e2f02cc7e37e51dc4363ea73f9d1d4dbf9bff82f1ec1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:11:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento de Jogos
+- Fiscalização
+- Gratificação
+- Inspecção Geral de Jogos
+- Jogos de Fortuna e Azar
+- Ministério do Comércio e Turismo
+- Pessoal dos Casinos
 relationships:
 - type: amended_by
   target: pt:dre:218304:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234365:por
+  label: "Aditada a al. n) ao nº 1 do título III pela PORT.63/2002.2002.01.16.MECO DR.IS-B [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/63-2002-234365
+  date: '2002-01-16'
+- type: amended_by
+  target: pt:dre:218304:por
+  label: "Aditada a al. D) ao nº 1 do tit. III das regras constantes deste diploma, pela PORT.355/2004.05.04.2004.MECO, DR.IS-B\
+    \ [81] de 05.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/355-2004-218304
+  date: '2004-04-05'
+- type: amended_by
+  target: pt:dre:124879310:por
+  label: Alterados, com efeitos a 31.05.2019, os n.ºs 17 e 19 das regras de distribuição das gratificações percebidas pelos
+    trabalhadores das salas de jogos tradicionais e privativas de máquinas dos casinos anexas ao presente diploma, pelo(a)
+    Portaria n.º 324/2019 - Diário da República n.º 181/2019, Série I de 2019-09-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/324-2019-124879310
+  date: '2019-09-20'
+- type: cites
+  target: pt:dre:352076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613709:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:11:03Z'
   warnings: []
   errors: []
 ---
@@ -117,9 +162,9 @@ Manda o Governo, pelo Secretário de Estado do Turismo, o seguinte:
 
 Ministério do Comércio e Turismo.
 
-**Assinada em 8 de Novembro de 1990.**
+Assinada em 8 de Novembro de 1990.
 
-**O Secretário de Estado do Turismo, Alfredo César Torres.**
+O Secretário de Estado do Turismo, Alfredo César Torres.
 
 Regras de distribuição das gratificações percebidas pelos trabalhadores das salas de jogos tradicionais e privativas de máquinas dos casinos.
 
@@ -225,7 +270,7 @@ j) Controlador de identificação.
 
 2 - Para efeitos de determinação da parcela das gratificações a atribuir a cada um dos trabalhadores, em função da sua profissão, categoria e antiguidade, são estes agrupados em classes, constantes do mapa seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27400/48634865.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27400/48634865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27400/48634865.pdf)
 
 3 - Os trabalhadores das categorias referidas nas alíneas f) a j) do n.º 1 que ascendam à da alínea e) ingressam na classe B se tiverem mais de três anos de serviço efectivo como trabalhadores das salas de jogos tradicionais ou logo que os completem.
 

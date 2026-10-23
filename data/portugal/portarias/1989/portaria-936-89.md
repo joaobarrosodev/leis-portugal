@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/936-1989-549259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:05:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 888f6f242f0178c91bcd0204bb51542f3ffffcdd454845102cd50b6b1993bdf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79c7b30377e46e60ea91e6955285db1767369dff63be7c8fec2e2d9d21171241
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:05:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Montemor-o-Novo
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:641421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692783:por
+  label: "Renovada a concessão, por um período de seis anos, pela PORT.1379/95.22.11.1995.MA, DR.IS-B [270] de 22.11.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1379-1995-692783
+  date: '1995-11-22'
+- type: amended_by
+  target: pt:dre:372840:por
+  label: "Renovada a concessão constante do presente diploma, alterada pela Port 1379/95, de 22-Nov, pela PORT.879/2001.2001.07.27.MADRP\
+    \ DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/879-2001-372840
+  date: '2001-07-27'
+- type: amended_by
+  target: pt:dre:641421:por
+  label: "Renovada por um período de seis anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela\
+    \ Port 1379/95, de 22-Nov e pela Port 879/2001, de 27-Jul, pela PORT.1346/2007.12.10.2007.MAOTDR, DR.IS [197] de 12.10.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1346-2007-641421
+  date: '2007-10-12'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:05:18Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +151,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 6 de Outubro de 1989.**
+Assinada em 6 de Outubro de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24200/46244625.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24200/46244625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24200/46244625.pdf)

@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/493-1989-619531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T09:54:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9086d61ca49de0e6f1ba11cdf3a2c46ba142de55eaf44fa9f62981884741976c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cf4ab5034d38d863128eb4bd1d21bd2e56a324216131d4b92b4e8cd46d63e27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:54:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Segurança Social
+- Gabinete de Gestão do Fundo de Desemprego
+- Integração de Trabalhadores
+- Junta Central das Casas do Povo
+- Quadro de Pessoal
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:668726:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:505256:por
+  label: Rectificada pela DECL.DD3313.1989.10.03.PCM DR.IS [251]2ºSUPL DE 31/OUT/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-505256
+  date: '1989-10-03'
+- type: corrected_by
+  target: pt:dre:150305:por
+  label: Rectificada a Declaração DD3313, de 31 de Outubro de 1989, que rectifica o presente diploma, pela DECL.DD3295.31.01.1990.PCM,
+    DR.IS [26]2ºSupl de 31.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-150305
+  date: '1990-01-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:54:27Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +130,7 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 19 de Junho de 1989.**
+Assinada em 19 de Junho de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
@@ -109,10 +138,10 @@ Mapa a que se refere o n.º 1.º da Portaria n.º 493/89
 
 Centro Regional de Segurança Social de Setúbal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15000/25952596.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15000/25952596.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15000/25952596.pdf)
 
 Lista dos funcionários a que se refere o n.º 3.º da Portaria n.º 493/89
 
 Centro Regional de Segurança Social de Setúbal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15000/25952596.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15000/25952596.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15000/25952596.pdf)

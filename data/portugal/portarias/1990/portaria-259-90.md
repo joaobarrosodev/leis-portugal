@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/259-1990-332052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:16:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 543d3d1b89c0f445a233f5e9e7ca86f82178f7ae1b28a12981a5f21ab9f3ee01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9f654d0c35ec968137f737bcad75bf021ad38c294e8e71b23e305ff8d5b79dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fruto
+- Mercado Agrícola
+- Preço
+- Preço de Campanha
+- Produto Hortícola
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:16:46Z'
   warnings: []
   errors: []
 ---
@@ -155,13 +160,13 @@ b) A indemnização concedida aos produtores associados para cada lote retirado 
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 23 de Março de 1990.**
+Assinada em 23 de Março de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís António Damásio Capoulas, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.
 
 ## ANEXO I — Preços de base e de compra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/08200/17311736.pdf))](https://files.diariodarepublica.pt/1s/1990/04/08200/17311736.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/08200/17311736.pdf)
 
 ## ANEXO II — Coeficientes de adaptação
 

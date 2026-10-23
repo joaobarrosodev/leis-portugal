@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17600/0000300011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/4/2019/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2019-124680587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1b6985e63dc81fefc252c42c5e4841ada808b80a62a8bfb28cff3e9520de4ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9a2a8036dd9647aaa893fce6993232fed4f4ef575e35df8d961df63cd596fdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Estatuto
-- Tribunal Constitucional
-- Orgânica
 - Entidade para a Transparência
+- Estatuto
+- Orgânica
+- Tribunal Constitucional
 relationships:
+- type: amends
+  target: pt:numero:lei-organica:4/2019
+  label: Altera, nos termos do art. 7.º, os arts. 11.º-A, 106.º, 107.º, 108.º, 109.º, 110.º e 111.º, bem como procede a seguinte
+    alteração sistemática ( O subcapítulo vi do capítulo iii do título iii da Lei n.º 28/82, de 15 de novembro, passa a denominar-se
+    «Processos relativos a titulares de cargos públicos», integrando os artigos 106.º a 111.º; É suprimido o subcapítulo vii
+    do capítulo iii do título iii da Lei n.º 28/82, de 15 de novembro) e revoga os arts. 112.º e 113.º (na versão republicada
+    pela Lei Org 1/2018, de 19-abr) da Lei 28/82, de 15-nov DR.IS [264]1.ºSupl , pelo(a) Lei Orgânica n.º 4/2019 - Diário
+    da República n.º 176/2019, Série I de 2019-09-13
+  source: null
+  date: '1982-11-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13-a/1998/02/26/p/dre
   label: null
@@ -96,16 +106,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/5/2015/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/5/2015/04/10/p/dre
+- type: cites
+  target: pt:dre:115138846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66953311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133803:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 25
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:41Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +186,9 @@ b) Aplicar as sanções previstas na presente lei em relação aos titulares e a
 
 c) Decidir os recursos de decisões da Entidade para a Transparência previstos na presente lei em matéria de acesso e publicidade às declarações únicas de rendimento, património e interesses.
 
-###### Artigo 106.º — Competências sancionatórias relativas a titulares de cargos públicos
+Artigo 106.º
+
+Competências sancionatórias relativas a titulares de cargos públicos
 
 1 - Compete ao Tribunal Constitucional aplicar as sanções sem natureza penal previstas nos artigos 11.º, 17.º e 18.º do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos relativamente aos titulares de cargos políticos e equiparados indicados nos artigos 2.º e 4.º do referido regime, bem como aos antigos titulares de cargos políticos, quando aplicável, com exceção:
 
@@ -154,7 +202,9 @@ d) Dos membros dos órgãos executivos do poder local e das áreas metropolitana
 
 2 - Compete aos tribunais administrativos aplicar as sanções sem natureza penal previstas nos artigos 11.º, 17.º e 18.º do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos relativamente aos titulares de cargos políticos referidos nas alíneas i) e j) do n.º 1 do artigo 2.º e aos titulares de altos cargos públicos e equiparados identificados no artigo 3.º, ambos do referido regime, bem como aos respetivos antigos titulares nos casos nele previstos.
 
-###### Artigo 107.º — Processo relativo ao incumprimento das obrigações declarativas de titulares de cargos políticos
+Artigo 107.º
+
+Processo relativo ao incumprimento das obrigações declarativas de titulares de cargos políticos
 
 1 - Quando, após a notificação para o efeito prevista no n.º 1 do artigo 18.º do regime de exercício de funções por titulares de cargos políticos e altos cargos públicos, a Entidade para a Transparência verificar o incumprimento das obrigações declarativas por um titular de cargo político ou equiparado, envia o processo individual do respetivo declarante ao Ministério Público para que este decida sobre a promoção da intervenção do Tribunal Constitucional, quando esta for da sua competência.
 
@@ -166,21 +216,29 @@ d) Dos membros dos órgãos executivos do poder local e das áreas metropolitana
 
 5 - A decisão do Tribunal que determine a perda do mandato ou a demissão de titular de cargo político é publicada na 1.ª série do Diário da República ou naquela em que tiver sido publicada a designação desse titular para o cargo, produzindo efeitos desde a data do respetivo trânsito em julgado.
 
-###### Artigo 108.º — Incumprimento de obrigações declarativas por antigos titulares de cargos políticos
+Artigo 108.º
+
+Incumprimento de obrigações declarativas por antigos titulares de cargos políticos
 
 O disposto no artigo anterior é aplicável quando ocorra incumprimento de obrigações declarativas por antigos titulares de cargos políticos a elas vinculados, relativamente às sanções que lhes sejam correspondentemente aplicáveis nos termos do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos.
 
-###### Artigo 109.º — Processo relativo a outras violações do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos
+Artigo 109.º
+
+Processo relativo a outras violações do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos
 
 1 - O disposto no artigo 107.º é aplicável, com as necessárias adaptações, ao processo de aplicação das sanções a titulares de cargos políticos e equiparados previstas no artigo 11.º do regime do exercício de funções por titulares de cargos políticos.
 
 2 - O Tribunal, se considerar fundada a existência de dúvida sobre a ocorrência de uma situação de incompatibilidade ou impedimento, pode limitar-se a ordenar a sua cessação, fixando prazo para o efeito.
 
-###### Artigo 110.º — Comunicação de decisões
+Artigo 110.º
+
+Comunicação de decisões
 
 Proferida deliberação ou decisão que determine a perda de mandato pela violação das regras do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos que não seja da competência do Tribunal Constitucional, deve a entidade competente, logo que tal decisão haja transitado em julgado ou se tenha tornado inimpugnável, comunicá-la à Entidade para a Transparência.
 
-###### Artigo 111.º — Recursos em matéria de acesso às declarações
+Artigo 111.º
+
+Recursos em matéria de acesso às declarações
 
 1 - Recebido pela competente secção do Tribunal Constitucional o recurso previsto no Estatuto da Entidade para a Transparência em matéria de acesso às declarações únicas, o mesmo dá vista ao Ministério Público para que este se pronuncie no prazo de 10 dias, com direito a resposta pelo recorrente no mesmo prazo.
 
@@ -218,17 +276,17 @@ A presente lei entra em vigor no início da XIV Legislatura.
 
 Aprovada em 19 de julho de 2019.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 26 de agosto de 2019.**
+Promulgada em 26 de agosto de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 30 de agosto de 2019.**
+Referendada em 30 de agosto de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 1.º)
 
@@ -389,3 +447,5 @@ As declarações únicas são de acesso público nos termos previstos no regime 
 ###### Artigo 18.º — Regulamentos
 
 Os regulamentos da Entidade, após homologação do Tribunal Constitucional, são publicados na 2.ª série do Diário da República e divulgados no sítio eletrónico da Entidade.
+
+112562933

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27400/48444844.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1158-1990-564806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:11:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70c0643ef49bd74ef0f96bb5f92345ba16ddbce8e2c09219e831f53353448cf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c3cf28fe1b3fc13c84c0d09ca588c4a7897c65249eedf0cd2a64d6d74c19983
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:11:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desporto
+- Espetáculos e Divertimentos Públicos
+- Fundo de Fomento do Desporto
+- Ministro da Administração Interna
+- Receita
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:217703:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:497578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564811:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:247193:por
+  label: Rectificada pela DECL.DD3071.1990.12.26.PCM, DR.IS [300]5ºSupl de 31/Dez/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-247193
+  date: '1990-12-26'
+- type: repealed_by
+  target: pt:dre:217703:por
+  label: "Revogada pelo DEC LEI.238/92.29.10.1992.MAI, DR.IS-A [250] de 29.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-1992-217703
+  date: '1992-10-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:11:02Z'
   warnings: []
   errors: []
 ---
@@ -141,6 +165,6 @@ h) Pronunciar-se sobre outros assuntos que lhe sejam submetidos pelo Ministro da
 
 Ministérios da Administração Interna e da Educação.
 
-**Assinada em 27 de Novembro de 1990.**
+Assinada em 27 de Novembro de 1990.
 
-**O Ministro da Administração Interna, Manuel Pereira. - O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Administração Interna, Manuel Pereira. - O Ministro da Educação, Roberto Artur da Luz Carneiro.

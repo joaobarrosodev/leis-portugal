@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2008/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2008-249195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04d44baf17d158f9396ca2c1930ef432263af87cd16f0b6e90739117d14cb35b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18508b56cd0e7252c6efcff37a9f2d2b6342d35e1b40bfe819a4a95a6eec8d03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Eleição
-- Sistema Eleitoral
 - Orgânica
 - Partido Político
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:115138846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115138846:por
+  label: Alterado o art. 18.º da Lei Org 2/2003 de 22-ago, na versão alterada, renumerada e republicada pela presente, pelo(a)
+    Lei Orgânica n.º 1/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19, que a republicou no anexo II, com a
+    redação atual e demais correções materiais.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2018-115138846
+  date: '2018-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/110/1997/09/16/p/dre
   label: null
@@ -82,16 +89,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:161086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656129:por
+  label: null
+  source: null
 article_structure:
   article_count: 44
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:55Z'
   warnings: []
   errors: []
 ---
@@ -140,17 +175,17 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 26 de Março de 2008.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-**Promulgada em 30 de Abril de 2008.**
+Promulgada em 30 de Abril de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 2 de Maio de 2008.**
+Referendada em 2 de Maio de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Lei dos Partidos Políticos
 

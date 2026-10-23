@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28300/50285028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1191-1990-565390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:12:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e15fd6f2ec6a0ab720f1196dca2e76f974d8ee09ca4cccb7120902e5318b8d84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 198d82371f71ca639daa690a186f251f03348270bfd08709b6f9daa853777907
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:12:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caminha
+- Equipamento de Pesca
+- Marisco
+- Pesca
 relationships:
 - type: amended_by
   target: pt:dre:284922:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2411556:por
+  label: "Prorrogada, até 31.12.1992, a vigência do presente diploma, pela PORT.389/91IIS.23.11.1991.SEP-MAPA, DR.IIS [270]\
+    \ de 23.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/389-1991-2411556
+  date: '1991-11-23'
+- type: amended_by
+  target: pt:dre:237801:por
+  label: "Prorrogada, até 31.12.1993, a data do termo de vigência do presente diploma, pela PORT.1244/92.31.12.1992.MM, DR.IS-B\
+    \ [301]13ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1244-1992-237801
+  date: '1992-12-31'
+- type: amended_by
+  target: pt:dre:151369:por
+  label: "Prorrogada a data do termo de vigência do presente diploma, pela PORT.1329/93.31.12.1993.MM, DR.IS-B [304]8ºSupl\
+    \ de 31.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1329-1993-151369
+  date: '1993-12-31'
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610965:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:247199:por
+  label: Rectificado pela DECL.DD3076.1990.12.27.PCM, DR.IS [300]5ºSupl de 31/Dez/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-247199
+  date: '1990-12-27'
+- type: repealed_by
+  target: pt:dre:284922:por
+  label: "Revogada, na redacção dada pela Port 1329/93, de 31-Dez, pela PORT.1102-E/2000.2000.11.22.MADRP DR.IS-B [270]2ºSUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1102-e-2000-284922
+  date: '2000-11-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:12:04Z'
   warnings: []
   errors: []
 ---
@@ -106,6 +147,6 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 19 de Novembro de 1990.**
+Assinada em 19 de Novembro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.

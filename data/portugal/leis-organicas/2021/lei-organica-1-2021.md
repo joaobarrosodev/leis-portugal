@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/10800/0000200014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1/2021/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5630c83fa8a3b801a0438344b0966a4d58137724c44fc432db1e67966ecbb7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0b311f76d09ab5d34126bfe500a5c6a6aeea9880a6604e66906e34648a561cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
+- Autarquia Local
+- Base de Dados
 - Caderno de Recenseamento
 - Cartão de Cidadão
-- Eleição
 - Cidadão Nacional
 - Círculo Eleitoral
-- Ministério da Administração Interna
-- Recenseamento Eleitoral
-- Portugal
 - Definição de Competências
 - Definição de Funções
-- Eleição Legislativa
+- Direito de Voto
+- Eleição
 - Eleição Autárquica
+- Eleição Legislativa
 - Eleição Presidencial
 - Eleito Local
 - Fiscalização
-- Secretaria Geral
-- Presidente da República
-- Base de Dados
 - Junta de Freguesia
-- Residência
-- Sistema Eleitoral
+- Ministério da Administração Interna
 - Orgânica
 - Página na Internet
-- Assembleia da República
-- Autarquia Local
-- VOTO Electrónico
-- Direito de Voto
 - Plataforma Eletrónica
+- Portugal
+- Presidente da República
+- Recenseamento Eleitoral
+- Residência
+- Secretaria Geral
+- Sistema Eleitoral
+- VOTO Electrónico
 relationships:
 - type: amended_by
   target: pt:dre:840716420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei-organica:3/2020
+  label: Altera, a partir de 05.06.2021, os arts. 3.º, 4.º, 5.º, 6.º, 7.º, 9.º, 10.º e 11.º e adita os arts. 10.º-A e 10.º-B
+    à da Lei Orgânica n.º 3/2020, de 11-nov DR.IS [220]
+  source: null
+  date: '2020-11-11'
 - type: cites
   target: eli:http://da
   label: null
@@ -144,16 +150,160 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/5/2005/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/5/2005/09/08/p/dre
+- type: cites
+  target: pt:dre:106955047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106955048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116029385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116090196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140950555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148214575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148214576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866640:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:46Z'
   warnings: []
   errors: []
 ---
@@ -268,7 +418,9 @@ b) ...
 
 c) (Revogada.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - As listas de candidatos aos órgãos das autarquias locais são propostas por um número de cidadãos eleitores correspondente a 3/prct. dos eleitores inscritos no respetivo recenseamento eleitoral, sem prejuízo do disposto no n.º 5.
 
@@ -306,7 +458,9 @@ d) Assinatura conforme ao documento de identificação civil de cidadão naciona
 
 9 - A declaração a que se refere o n.º 3 pode ser subscrita em papel ou por meio eletrónico, através de plataforma disponibilizada pela Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna, sendo que, neste último caso, a freguesia de recenseamento é comprovada automaticamente via interoperabilidade com o Sistema de Informação e Gestão do Recenseamento Eleitoral e a assinatura é substituída pela validação da identidade através da Chave Móvel Digital ou com o cartão de cidadão e respetivo código PIN, através do leitor do cartão de cidadão, ou meio de identificação eletrónica equivalente.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -348,13 +502,17 @@ g) É admissível que os grupos de cidadãos eleitores possam ter denominações
 
 13 - ...
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - Os membros de cada mesa são designados de entre os eleitores pertencentes à assembleia de voto ou, na sua falta, recenseados no respetivo concelho.
 
 2 - ...
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - Entre o 20.º e o 22.º dias anteriores ao da realização da eleição, os representantes das candidaturas, devidamente credenciados, reúnem-se para proceder à escolha dos membros das mesas das assembleias de voto na freguesia, na sede da respetiva junta, em reunião convocada pelo respetivo presidente.
 
@@ -364,17 +522,23 @@ g) É admissível que os grupos de cidadãos eleitores possam ter denominações
 
 4 - Se, ainda assim, houver lugares vagos, o presidente da câmara procede à designação por sorteio, de entre os eleitores da assembleia de voto ou, na sua falta, recenseados no respetivo concelho.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - Os nomes dos membros das mesas são publicados por edital afixado no prazo de dois dias à porta da sede da junta de freguesia e da respetiva câmara municipal e notificados os nomeados, podendo qualquer eleitor reclamar contra a designação perante o juiz do juízo de competência genérica com jurisdição no respetivo município, salvo quando o mesmo esteja abrangido por juízo local cível, caso em que a reclamação é apresentada perante o respetivo juiz, no mesmo prazo, com fundamento em preterição de requisitos fixados na presente lei.
 
 2 - ...
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 Até ao 12.º dia anterior ao da eleição, o presidente da câmara municipal lavra o alvará de designação dos membros das mesas das assembleias de voto e participa as nomeações às juntas de freguesia respetivas.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - Se uma hora após a marcada para a abertura da assembleia de voto não tiver sido possível constituir a mesa por não estarem presentes os membros indispensáveis ao seu funcionamento, o presidente da junta de freguesia, mediante acordo da maioria dos delegados presentes, designa os substitutos dos membros ausentes de entre eleitores pertencentes a qualquer assembleia de voto do respetivo concelho.
 
@@ -382,7 +546,9 @@ Até ao 12.º dia anterior ao da eleição, o presidente da câmara municipal la
 
 3 - ...
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - Uma vez constituída, a mesa procede à descarga dos votos antecipados nos cadernos eleitorais entre as 7 horas e 30 minutos e as 8 horas, nos termos do artigo 112.º
 
@@ -390,7 +556,9 @@ Até ao 12.º dia anterior ao da eleição, o presidente da câmara municipal la
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 112.º — Votos antecipados
+Artigo 112.º
+
+Votos antecipados
 
 1 - Às 7 horas e 30 minutos, e constituída a mesa, o presidente procede à abertura e lançamento na urna dos votos antecipados, quando existam.
 
@@ -398,7 +566,9 @@ Até ao 12.º dia anterior ao da eleição, o presidente da câmara municipal la
 
 3 - Feita a descarga, o presidente abre o sobrescrito azul referido no artigo 118.º e retira dele o sobrescrito branco, também ali mencionado, que introduz na urna, contendo o boletim de voto.
 
-###### Artigo 113.º — Votação dos elementos da mesa e dos delegados
+Artigo 113.º
+
+Votação dos elementos da mesa e dos delegados
 
 Não havendo nenhuma irregularidade, votam imediatamente o presidente e restantes membros da mesa, bem como os delegados dos partidos, desde que se encontrem inscritos no caderno de recenseamento da assembleia de voto.»
 
@@ -470,7 +640,9 @@ a) A medida deve ter sido decretada pelas autoridades competentes do Serviço Na
 
 b) O domicílio registado no sistema de registo dos doentes com COVID-19 gerido pela Direção-Geral da Saúde (DGS), no continente, ou pelas direções regionais de saúde (DRS), nas regiões autónomas, tem de situar-se na área geográfica do concelho onde o eleitor se encontra inscrito no recenseamento eleitoral.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os eleitores que se encontram nas condições previstas no artigo anterior podem requerer o exercício do direito de voto antecipado, através do registo em plataforma eletrónica disponibilizada para o efeito pela Secretaria-Geral do Ministério da Administração Interna, a partir do 10.º e até ao final do 7.º dias anteriores ao do sufrágio.
 
@@ -508,13 +680,17 @@ e) Contacto telefónico e, sempre que possível, endereço de correio eletrónic
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
 2 - A nomeação de delegados deve ser transmitida ao presidente da câmara municipal até ao quinto dia anterior ao do sufrágio e rege-se pelo disposto na lei aplicável ao ato eleitoral ou referendário em causa.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Entre o quinto e o quarto dias anteriores ao do sufrágio ou referendo, o presidente da câmara dos municípios onde se encontrem os eleitores registados para votar antecipadamente nos termos da presente lei, em dia e hora previamente anunciados aos mesmos e aos delegados e fixados por meio de edital, também divulgado no sítio do município na Internet, desloca-se à morada indicada a fim de aí serem asseguradas as operações de votação.
 
@@ -528,7 +704,9 @@ e) Contacto telefónico e, sempre que possível, endereço de correio eletrónic
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -542,7 +720,9 @@ e) Contacto telefónico e, sempre que possível, endereço de correio eletrónic
 
 6 - ...
 
-###### Artigo 9.º — Recolha e quarentena dos sobrescritos com os votos
+Artigo 9.º
+
+Recolha e quarentena dos sobrescritos com os votos
 
 1 - Terminadas as operações de votação, a câmara municipal providencia pela divisão dos sobrescritos contendo os boletins de voto separados por lotes correspondendo às freguesias e respetivas mesas, colocando cada lote em pacote que é devidamente fechado e assinado.
 
@@ -552,13 +732,17 @@ e) Contacto telefónico e, sempre que possível, endereço de correio eletrónic
 
 4 - O processo de quarentena referido no número anterior, efetuado segundo as recomendações fixadas pela DGS, pode ser acompanhado por um elemento das autoridades de saúde pública.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - No dia anterior ao da eleição, as forças de segurança procedem ao levantamento do material eleitoral, junto do tribunal, para entrega às juntas de freguesia onde os eleitores se encontram inscritos.
 
 2 - A junta de freguesia destinatária dos votos recebidos remete-os aos presidentes das mesas da assembleia de voto até às 7 horas do dia previsto para a realização do sufrágio, para os efeitos previstos na Lei Eleitoral.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Em tudo o que não esteja especialmente regulado na presente lei aplicam-se, com as necessárias adaptações, as normas relativas às modalidades de voto antecipado por doentes internados e por presos previstas na Lei Eleitoral.»
 
@@ -574,7 +758,9 @@ Duração do período de votação
 
 2 - Nos termos do número anterior, o presidente da mesa declara encerrada a votação logo que tenham votado todos os eleitores inscritos ou, depois das 20 horas, logo que tenham votado todos os eleitores presentes na assembleia de voto.
 
-###### Artigo 10.º-B — Secções de voto nas eleições
+Artigo 10.º-B
+
+Secções de voto nas eleições
 
 Para efeitos das eleições a realizar em 2021, as assembleias de voto das freguesias com um número de eleitores sensivelmente superior a 750 são divididas em secções de voto, de modo a que o número de eleitores seja adequado à realidade geográfica e aos locais de realização do ato eleitoral, procurando-se, sempre que possível, que não ultrapasse sensivelmente esse número.»
 
@@ -590,13 +776,17 @@ Os artigos 2.º a 6.º e 8.º da [Lei n.º 22/99](https://diariodarepublica.pt/d
 
 2 - Nas secções de voto em que o número de cidadãos selecionados nos termos gerais com vista a integrar as respetivas mesas seja insuficiente, os membros das mesas são nomeados de entre os cidadãos inscritos no respetivo concelho, podendo ser ainda nomeados os eleitores que constam na bolsa de agentes eleitorais do respetivo concelho.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Em cada concelho é constituída uma bolsa integrada por cidadãos aderentes ao programa 'Agentes eleitorais' e que se encontrem inscritos no recenseamento eleitoral da sua circunscrição.
 
 2 - Os agentes eleitorais exercem funções de membros das mesas das assembleias ou secções de voto nos atos eleitorais ou referendários, preferencialmente na assembleia de voto em que se encontrem recenseados, podendo supletivamente exercer funções nas mesas das assembleias ou secções de voto de outras freguesias do concelho.
 
-###### Artigo 4.º — Recrutamento pelas autarquias
+Artigo 4.º
+
+Recrutamento pelas autarquias
 
 1 - As câmaras municipais e as juntas de freguesia, com a colaboração da Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna, que disponibiliza plataforma eletrónica para o efeito, promovem a constituição de bolsas através do recrutamento de agentes eleitorais, por anúncio a publicitar por edital, afixado à porta da câmara municipal e das juntas de freguesia, ou através da referida plataforma eletrónica e por outros meios considerados adequados.
 
@@ -604,7 +794,9 @@ Os artigos 2.º a 6.º e 8.º da [Lei n.º 22/99](https://diariodarepublica.pt/d
 
 3 - Os candidatos à bolsa devem inscrever-se, mediante o preenchimento do boletim de inscrição anexo à presente lei, junto da câmara municipal ou da junta de freguesia da sua circunscrição até ao 15.º dia posterior à publicitação do edital referido no n.º 1 ou, em qualquer momento, na plataforma eletrónica disponibilizada pela Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -618,11 +810,15 @@ Os artigos 2.º a 6.º e 8.º da [Lei n.º 22/99](https://diariodarepublica.pt/d
 
 6 - A classificação final é registada individualmente pela respetiva câmara municipal na plataforma eletrónica disponibilizada pela Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna, e comunicada a cada candidato por meios eletrónicos.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna ministra aos agentes eleitorais, após a integração na bolsa, formação em matéria de processo eleitoral, nomeadamente no âmbito das funções a desempenhar pelas mesas das assembleias eleitorais.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -654,7 +850,9 @@ d) ...
 
 e) Possibilita a emissão pela Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna de certidão de eleitor eletrónica.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -694,14 +892,16 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 22 de abril de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 27 de maio de 2021.**
+Promulgada em 27 de maio de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 28 de maio de 2021.**
+Referendada em 28 de maio de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114288493

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2001/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2001-515638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b1281bd4a91bd381d24aa576a3cb2d53a6825f2305f1ec60dd2fc58db71a55b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3aa586874d331d3e254bd2f4e04f6db4b4fe5cf49f91c6c04251c0a90a27c42d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviços de Segurança
-- Eleição Legislativa
-- Eleição Autárquica
-- Eleição Presidencial
-- Eleição Regional
-- Recluso
-- Madeira.região Autónoma
-- Militar
-- Selecção Nacional
 - Açores
 - Desporto
 - Direito de Voto
+- Eleição Autárquica
+- Eleição Legislativa
+- Eleição Presidencial
+- Eleição Regional
+- Madeira.região Autónoma
+- Militar
+- Recluso
+- Selecção Nacional
+- Serviços de Segurança
 relationships:
 - type: amended_by
   target: pt:dre:164590039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507437:por
+  label: "Alterado o art. 76º-A do Dec Lei 318-E/76 de 30-Abr, introduzido pelo presente diploma, pela LEI ORG.3/2004.22.07.2004.AR,\
+    \ DR.IS-A [171] de 22.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2004-507437
+  date: '2004-07-22'
+- type: amended_by
+  target: pt:dre:306947:por
+  label: "Alterados os arts. 70º, 70º-A e 70º-B do Dec Lei n.º 319-A/76, de 03-Mai, na redacção do presente diploma, pela\
+    \ LEI ORG.3/2010.15.12.2010.AR, DR.IS [241] de 15.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2010-306947
+  date: '2010-12-15'
+- type: amended_by
+  target: pt:dre:116090196:por
+  label: Alterados, a partir de 18.08.2018, e nos termos do art. 11.º, os arts. 70.º, 70.º-A, 70.º-B do Dec Lei 319-A/76,
+    de 03-mai, na redação do presente diploma, pelo(a) Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I
+    de 2018-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2018-116090196
+  date: '2018-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/10/1995/04/07/p/dre
   label: null
@@ -108,16 +127,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/2000/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/3/2000/08/24/p/dre
+- type: cites
+  target: pt:dre:223433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:26Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +223,7 @@ f) Os membros que representem oficialmente selecções nacionais, organizadas po
 
 5 - ...
 
-###### Artigo 70.º-B
+Artigo 70.º-B
 
 Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança, trabalhadores dos transportes e membros que representem oficialmente selecções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva.»
 
@@ -188,7 +251,7 @@ f) Os membros que representem oficialmente selecções nacionais, organizadas po
 
 3 - ...
 
-###### Artigo 79.º-B
+Artigo 79.º-B
 
 Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança, trabalhadores dos transportes e membros que representem oficialmente selecções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva.»
 
@@ -218,7 +281,7 @@ f) Os membros que representem oficialmente selecções nacionais, organizadas po
 
 3 - ...
 
-###### Artigo 66.º-B
+Artigo 66.º-B
 
 Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança, trabalhadores dos transportes e membros que representem oficialmente selecções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva.»
 
@@ -250,7 +313,7 @@ g) Os membros que representem oficialmente selecções nacionais, organizadas po
 
 3 - ...
 
-###### Artigo 79.º-B
+Artigo 79.º-B
 
 Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança, trabalhadores dos transportes e membros que representem oficialmente selecções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva.»
 
@@ -280,7 +343,7 @@ f) Os membros que representem oficialmente selecções nacionais, organizadas po
 
 3 - As listas concorrentes à eleição podem nomear, nos termos gerais, delegados para fiscalizar as operações de voto antecipado, os quais gozam de todas as imunidades e direitos previstos no artigo 43.º
 
-###### Artigo 76.º-B
+Artigo 76.º-B
 
 Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança, trabalhadores dos transportes e membros que representem oficialmente selecções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva.
 
@@ -304,7 +367,9 @@ Modo de exercício do direito de voto antecipado por militares, agentes de forç
 
 10 - A junta de freguesia remete os votos recebidos ao presidente da mesa da assembleia de voto até à hora prevista no artigo 34.º
 
-###### Artigo 76.º-C — Modo de exercício do direito de voto antecipado por doentes internados e por presos
+Artigo 76.º-C
+
+Modo de exercício do direito de voto antecipado por doentes internados e por presos
 
 1 - Qualquer eleitor que esteja nas condições previstas nas alíneas d) e e) do n.º 1 do artigo 76.º-A pode requerer ao presidente da câmara do município em que se encontre recenseado, até ao 20.º dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, enviando fotocópias autenticadas do seu bilhete de identidade e do seu cartão de eleitor e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direcção do estabelecimento hospitalar, ou emitido pelo director do estabelecimento prisional, conforme os casos.
 
@@ -328,14 +393,14 @@ b) Ao presidente da câmara do município onde se encontram eleitores nas condi�
 
 Aprovada em 17 de Julho de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Promulgada em 11 de Agosto de 2001.**
+Promulgada em 11 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 16 de Agosto de 2001.**
+Referendada em 16 de Agosto de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

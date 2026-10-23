@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiconst/1/2001/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-2001-577358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a32beef811cb1ca1dd809eae54f8f140a22565fe7c9193efa79b982598d80e94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ea8f2950135e81e15919b6d5641de8a4cec1c4d535ed2b080f16d6a63bdc192
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito Constitucional
 - Constituição
+- Direito Constitucional
 - Revisão Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:506783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506783:por
+  label: "Alterada a Constituição de 2 de Abril de 1976, publicada pelo Dec DD 66/76, de 10-Abr 1976, na redacção da presente\
+    \ Lei Const (5.ª Revisão), pela LEI CONST.1/2004.24.07.2004.AR, DR.IS-A [173] de 24.07.2004 (Sexta Revisão Constitucional)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-constitucional/1-2004-506783
+  date: '2004-07-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23-a/1996/07/29/p/dre
   label: null
@@ -85,16 +92,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
+- type: cites
+  target: pt:dre:174316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667568:por
+  label: null
+  source: null
 article_structure:
   article_count: 306
-  section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 47
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:16Z'
   warnings: []
   errors: []
 ---
@@ -161,17 +208,17 @@ Ao artigo 270.º da Constituição são aditadas: a expressão «, na estrita me
 
 Aprovada em 4 de Outubro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Promulgada em 20 de Novembro de 2001.**
+Promulgada em 20 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 20 de Novembro de 2001.**
+Referendada em 20 de Novembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA
 
@@ -281,7 +328,7 @@ h) Promover a igualdade entre homens e mulheres.
 
 3. A língua oficial é o Português.
 
-# PARTE I — Direitos e deveres fundamentais
+## PARTE I — Direitos e deveres fundamentais
 
 ## TÍTULO I — Princípios gerais
 
@@ -1115,7 +1162,7 @@ e) Articular a política cultural e as demais políticas sectoriais.
 
 2. Incumbe ao Estado, em colaboração com as escolas e as associações e colectividades desportivas, promover, estimular, orientar e apoiar a prática e a difusão da cultura física e do desporto, bem como prevenir a violência no desporto.
 
-# PARTE II — Organização económica
+## PARTE II — Organização económica
 
 ## TÍTULO I — Princípios gerais
 
@@ -1405,7 +1452,7 @@ g) Os benefícios fiscais e a estimativa da receita cessante.
 
 A execução do Orçamento será fiscalizada pelo Tribunal de Contas e pela Assembleia da República, que, precedendo parecer daquele tribunal, apreciará e aprovará a Conta Geral do Estado, incluindo a da segurança social.
 
-# PARTE III — Organização do poder político
+## PARTE III — Organização do poder político
 
 ## TÍTULO I — Princípios gerais
 
@@ -1567,7 +1614,7 @@ i) Os resultados de eleições para os órgãos de soberania, das regiões autó
 
 ###### Artigo 120.º — (Definição)
 
-**O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.**
+O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.
 
 ###### Artigo 121.º — (Eleição)
 
@@ -3253,7 +3300,7 @@ A lei pode estabelecer, na estrita medida das exigências próprias das respecti
 
 7. Nenhum cidadão pode ser prejudicado na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do cumprimento do serviço militar ou do serviço cívico obrigatório.
 
-# PARTE IV — Garantia e revisão da Constituição
+## PARTE IV — Garantia e revisão da Constituição
 
 ## TÍTULO I — Fiscalização da constitucionalidade
 

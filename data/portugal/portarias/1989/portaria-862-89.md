@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/862-1989-548775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:03:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec47de8f5936eb3e0f1a49881b13724cc2ce99aaf438a4dbdf21000234cd8707
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0060adb526fd9e2c37c39e168c3423c53385c51dbb57e4f28e41f95481d2d70a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:03:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Segurança Social
+- Gabinete de Gestão do Fundo de Desemprego
+- Integração de Trabalhadores
+- Junta Central das Casas do Povo
+- Quadro de Pessoal
+- Santarém
 relationships:
 - type: amended_by
   target: pt:dre:300062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373453:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:505249:por
+  label: Rectificado pela DECL.DD3532.1989.10.16.PCM, DR.IS [251]2ºSupl de 31/Out/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-505249
+  date: '1989-10-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:03:29Z'
   warnings: []
   errors: []
 ---
@@ -100,10 +123,10 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 22 de Setembro de 1989.**
+Assinada em 22 de Setembro de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 Mapa a que se refere o n.º 1.º da Portaria n.º 862/89
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23000/43724372.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23000/43724372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23000/43724372.pdf)

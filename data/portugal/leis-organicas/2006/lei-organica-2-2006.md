@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2006/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2006-650954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f66f69a8eb358f2f9b008a1133f090ce63af73d7b66e21e2c0adf56e2aaa25c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0754edc149f85122c15a4a918af4d90efa9da155c09818d3f0d61abbc54cf25e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
+- Casamento
 - Cidadão Estrangeiro
 - Cidadão Nacional
-- Países de Língua Portuguesa
+- Nacionalidade
 - Naturalização
-- Casamento
+- Países de Língua Portuguesa
 - União de Facto
 relationships:
 - type: amended_by
   target: pt:dre:180657814:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498718:por
+  label: "Dada nova redação ao art. 6º da Lei 37/81 de 03-out, alterado pelo presente diploma, pela LEI ORG.1/2013.29.07.2013.AR,\
+    \ DR.IS [144] de 29.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2013-498718
+  date: '2013-07-29'
+- type: amended_by
+  target: pt:dre:67552497:por
+  label: Alterados os art.s 6.º (na redação da Lei Org 1/2013 de 29-jul) e 9.º da Lei 37/81 de 03-out, na versão republicada
+    pelo presente diploma, pelo(a) Lei Orgânica n.º 8/2015 - Diário da República n.º 119/2015, Série I de 2015-06-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/8-2015-67552497
+  date: '2015-06-22'
+- type: amended_by
+  target: pt:dre:69889521:por
+  label: Alterado o art. 1.º e revogado o n.º 4 do art. 6.º da Lei 37/81, de 03-out, na versão republicada pela presente Lei
+    e com as alterações introduzidas pela Lei Org 1/2013 de 29-jul e 8/2015 de 22-jun, pelo(a) Lei Orgânica n.º 9/2015 - Diário
+    da República n.º 146/2015, Série I de 2015-07-29, que a republicou em anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/9-2015-69889521
+  date: '2015-07-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/1993/04/13/p/dre
   label: null
@@ -109,16 +128,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:218490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689619:por
+  label: null
+  source: null
 article_structure:
-  article_count: 61
+  article_count: 49
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:47Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +220,9 @@ f) Os indivíduos nascidos no território português e que não possuam outra na
 
 2 - Presumem-se nascidos no território português, salvo prova em contrário, os recém-nascidos que aqui tenham sido expostos.
 
-###### Artigo 3.º — Aquisição em caso de casamento ou união de facto
+Artigo 3.º
+
+Aquisição em caso de casamento ou união de facto
 
 1 - ...
 
@@ -165,7 +230,9 @@ f) Os indivíduos nascidos no território português e que não possuam outra na
 
 3 - O estrangeiro que, à data da declaração, viva em união de facto há mais de três anos com nacional português pode adquirir a nacionalidade portuguesa, após acção de reconhecimento dessa situação a interpor no tribunal cível.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O Governo concede a nacionalidade portuguesa, por naturalização, aos estrangeiros que satisfaçam cumulativamente os seguintes requisitos:
 
@@ -191,13 +258,17 @@ b) O menor aqui tenha concluído o 1.º ciclo do ensino básico.
 
 6 - O Governo pode conceder a naturalização, com dispensa dos requisitos previstos nas alíneas b) e c) do n.º 1, aos indivíduos que, não sendo apátridas, tenham tido a nacionalidade portuguesa, aos que forem havidos como descendentes de portugueses, aos membros de comunidades de ascendência portuguesa e aos estrangeiros que tenham prestado ou sejam chamados a prestar serviços relevantes ao Estado Português ou à comunidade nacional.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A naturalização é concedida, a requerimento do interessado, por decisão do Ministro da Justiça.
 
 2 - O processo de naturalização e os documentos destinados à sua instrução não estão sujeitos às disposições do Código do Imposto do Selo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Constituem fundamento de oposição à aquisição da nacionalidade portuguesa:
 
@@ -207,17 +278,23 @@ b) A condenação, com trânsito em julgado da sentença, pela prática de crime
 
 c) O exercício de funções públicas sem carácter predominantemente técnico ou a prestação de serviço militar não obrigatório a Estado estrangeiro.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A oposição é deduzida pelo Ministério Público no prazo de um ano a contar da data do facto de que dependa a aquisição da nacionalidade, em processo a instaurar nos termos do artigo 26.º
 
 2 - ...
 
-###### Artigo 19.º — Registo da nacionalidade
+Artigo 19.º
+
+Registo da nacionalidade
 
 O registo do acto que importe atribuição, aquisição ou perda da nacionalidade é lavrado por assento ou por averbamento.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A nacionalidade portuguesa originária dos indivíduos abrangidos pelas alíneas a), b) e f) do n.º 1 do artigo 1.º prova-se pelo assento de nascimento.
 
@@ -229,21 +306,29 @@ O registo do acto que importe atribuição, aquisição ou perda da nacionalidad
 
 5 - A nacionalidade portuguesa originária de indivíduos abrangidos pela alínea e) do n.º 1 do artigo 1.º prova-se pelo registo da declaração de que depende a atribuição.
 
-###### Artigo 26.º — Legislação aplicável
+Artigo 26.º
+
+Legislação aplicável
 
 Ao contencioso da nacionalidade são aplicáveis, nos termos gerais, o Estatuto dos Tribunais Administrativos e Fiscais, o Código de Processo nos Tribunais Administrativos e demais legislação complementar.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 É da competência do Tribunal Central Administrativo Sul a decisão sobre a perda ou manutenção da nacionalidade portuguesa nos casos de naturalização directa ou indirectamente imposta por Estado estrangeiro a residentes no seu território.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Nos assentos de nascimentos ocorridos no território português, após a entrada em vigor da presente lei, de filhos apenas de não portugueses deve mencionar-se, como elemento de identidade do registando, a nacionalidade estrangeira dos progenitores ou o seu desconhecimento, excepto se algum dos progenitores tiver nascido no território português e aqui tiver residência.
 
 2 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +350,9 @@ Suspensão de procedimentos
 
 3 - São nulos os actos praticados em violação do disposto no n.º 1.
 
-###### Artigo 15.º — Residência legal
+Artigo 15.º
+
+Residência legal
 
 1 - Para os efeitos do disposto nos artigos precedentes, entende-se que residem legalmente no território português os indivíduos que aqui se encontram, com a sua situação regularizada perante as autoridades portuguesas, ao abrigo de qualquer dos títulos, vistos ou autorizações previstos no regime de entrada, permanência, saída e afastamento de estrangeiros e no regime do direito de asilo.
 
@@ -303,15 +390,15 @@ A presente lei entra em vigor na data de início de vigência do diploma referid
 
 Aprovada em 16 de Fevereiro de 2006.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-**Promulgada em 30 de Março de 2006.**
+Promulgada em 30 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA. Referendada em 30 de Março de 2006.**
+O Presidente da República, ANÍBAL CAVACO SILVA. Referendada em 30 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de Outubro
 

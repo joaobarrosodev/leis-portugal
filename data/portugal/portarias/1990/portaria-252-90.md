@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/252-1990-332071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:16:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5020c1e4b233309ec79af6a9de7268e7748da466039f0c940a2e089cde9eda3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67d196f9178bcb35073d50bc2b441327be969757a6addb5bfbfe1f51d1bf9328
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Castelo de VIDE
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:284344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145836:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório na zona de caça associativa concessionada pelo\
+    \ presente diploma, pela PORT.624/2002.2002.06.11.MADRP DR.IS-B [133] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/624-2002-145836
+  date: '2002-06-11'
+- type: amended_by
+  target: pt:dre:173537:por
+  label: "Renovada a concessão da zona de caça, pela PORT.1136/2002.2002.08.27.MADRP, DR.IS-B [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1136-2002-173537
+  date: '2002-08-27'
+- type: amended_by
+  target: pt:dre:284344:por
+  label: "Anexados vários prédios rústicos à zona de caça municipal atribuída pelo presente diploma e renovada pela Port 1136/2002\
+    \ de 27-Ago, pela PORT.1033-HN/2004.10.08.2004.MAPF, DR.IS-B [187]2ºSupl de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-hn-2004-284344
+  date: '2004-08-10'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:16:38Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +149,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 21 de Março de 1990.**
+Assinada em 21 de Março de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/08100/17171718.pdf))](https://files.diariodarepublica.pt/1s/1990/04/08100/17171718.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/08100/17171718.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/05100/08770877.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/167-1990-332407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:14:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 324deb419b400804b60caa31601e70766193e54f280f95f54a35fcafa65bef22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c15c3785060bfca0f7a8c1c747f80988f7e01743548d86e0b55381713df77696
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:14:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adido Militar
+- Criação de Lugares
+- Malawi
+- Ministério da Defesa
+- Quadro de Pessoal
+- Representação Diplomática
+- Representação Portuguesa
+- Senegal
+- Zimbabwe
 relationships:
 - type: amended_by
   target: pt:dre:683041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:524052:por
+  label: "Aditado um lugar de guarda do Cemitério de Richebourg l'Avoué ao quadro de pessoal publicado em anexo ao presente\
+    \ diploma pelo DEC LEI.142/98.1998.05.22.MDN, DR.IS-A [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1998-524052
+  date: '1998-05-22'
+- type: cites
+  target: pt:dre:219098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666509:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:683041:por
+  label: "Revogada pela PORT.1001/99.1999.11.10.MNE,DR.IS-B [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1001-1999-683041
+  date: '1999-11-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:14:33Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +139,10 @@ Manda o Governo, pelos Ministros da Defesa Nacional, das Finanças e dos Negóci
 
 2.º Em face do que antecede, o quadro dos adidos e respectivos gabinetes, publicados em anexo à [Portaria n.º 639/83](https://diariodarepublica.pt/dr/detalhe/portaria/639-1983-451631), de 1 de Junho, com as alterações introduzidas pelas Portarias n.os [453/86](https://diariodarepublica.pt/dr/detalhe/portaria/453-1986-219098), de 21 de Agosto, [730/86](https://diariodarepublica.pt/dr/detalhe/portaria/730-1986-221511), de 4 de Dezembro, [227/87](https://diariodarepublica.pt/dr/detalhe/portaria/227-1987-666509), de 27 de Março, e [246/88](https://diariodarepublica.pt/dr/detalhe/portaria/246-1988-285292), de 21 de Abril, passa a ser o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/05100/08770877.pdf))](https://files.diariodarepublica.pt/1s/1990/03/05100/08770877.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/05100/08770877.pdf)
 
 Ministérios da Defesa Nacional, das Finanças e dos Negócios Estrangeiros.
 
-**Assinada em 16 de Fevereiro de 1990.**
+Assinada em 16 de Fevereiro de 1990.
 
-**O Ministro da Defesa Nacional, Carlos Eugénio Pereira de Brito. - O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Defesa Nacional, Carlos Eugénio Pereira de Brito. - O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.

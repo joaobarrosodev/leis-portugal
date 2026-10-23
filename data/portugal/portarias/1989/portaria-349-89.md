@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/05/11200/19421943.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/349-1989-611093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T09:50:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1f0af8f575eb5b203dea407c6c2a8b1a547ed7047aad439c5986913112a54e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18262ef084eca07676ccc6b4e12c725912941957a302b87931307726f017818e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:50:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Construção Civil
+- Curso de Engenharia de Construção Civil
+- Curso de Engenharia de Manutenção Industrial
+- Curso de Manutenção Indústrial
+- Ensino Superior Politécnico
+- Guarda
+- Instituto Politécnico
 relationships:
 - type: amended_by
   target: pt:dre:599701:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:690180:por
+  label: "Alterados os n.ºs 1.º e 2.º da Portaria n.º 224/88, de 13 de Abril, na redacção do presente diploma, pela PORT.1187/93.12.11.1993.ME,\
+    \ DR.IS-B [265] de 12.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1187-1993-690180
+  date: '1993-11-12'
+- type: amended_by
+  target: pt:dre:408494:por
+  label: "Alterada a designação do curso de Engenharia de Construção Civil para curso de Engenharia Civil, aprovado pela Portaria\
+    \ n.º 224/88, de 13 de Abril, alterada no presente diploma, pela PORT.308/96.27.07.1996.ME, DR.IS-B [173] de 27.07.1996\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-1996-408494
+  date: '1996-07-27'
+- type: cites
+  target: pt:dre:284901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:356687:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31.º do Regulamento aprovado pela Port 413-A/98,\
+    \ a Port 224/88, de 13-Abr de 17-Jul, alterada pelo presente diploma e pelas Ports 537/90, de 11-Jun e 1187/93, de 12-Nov,\
+    \ pela PORT.508/99.1999.07.16.ME DR.IS-B [164].\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/508-1999-356687
+  date: '1999-07-16'
+- type: repealed_by
+  target: pt:dre:599701:por
+  label: "Revogada pela PORT.1133/2000.2000.11.29.ME DR.IS-B [276], nos termos do respectivo art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1133-2000-599701
+  date: '2000-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:50:56Z'
   warnings: []
   errors: []
 ---
@@ -131,6 +172,6 @@ O disposto na presente portaria aplica-se a partir do ano lectivo de 1989-1990.
 
 Ministério da Educação.
 
-**Assinada em 21 de Abril de 1989.**
+Assinada em 21 de Abril de 1989.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.

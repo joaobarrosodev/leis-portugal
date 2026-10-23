@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/08400/0216702169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2017/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2017-106955048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc07c89fbb2ee3f4d3e027e8ae75dbae6acd5c78138402c9972e6b1da509eaf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d430fcc1b9249148c17a29321de2e81aa3fd6e19fb6642c594c83e4825119cc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Assembleia de VOTO
 - Assembleia de Freguesia
+- Assembleia de VOTO
+- Autarquia Local
+- Câmara Municipal
 - Campanha Eleitoral
-- Ministério da Administração Interna
-- Sistema Judicial
 - Definição de Competências
 - Eleição Autárquica
 - Eleito Local
 - Fiscalização
-- Secretaria Geral
-- Simbolo de Identificação
-- Publicitação
-- Tribunal Constitucional
 - Lei Eleitoral
 - Magistrado Judicial
-- Sistema Eleitoral
+- Ministério da Administração Interna
 - Orgânica
 - Partido Político
-- Câmara Municipal
+- Publicitação
+- Recurso
+- Secretaria Geral
+- Simbolo de Identificação
+- Sistema Eleitoral
+- Sistema Judicial
+- Tribunal Constitucional
 - Tribunal de Competência Genérica
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:164590039:por
@@ -129,16 +129,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/5-a/2001/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/5-a/2001/11/26/p/dre
+- type: cites
+  target: pt:dre:105599333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106955047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866640:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:27Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +215,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - As listas de candidatos são apresentadas perante o juiz do juízo de competência genérica com jurisdição no respetivo município, salvo quando o mesmo esteja abrangido por juízo local cível, caso em que as listas são apresentadas perante o respetivo juiz, até ao 55.º dia anterior à data do ato eleitoral.
 
@@ -187,7 +225,9 @@ d) ...
 
 3 - As listas de candidatos podem também ser entregues em juízo de proximidade do respetivo município, que, através dos respetivos serviços de secretaria, as remete no próprio dia, para os mesmos efeitos, ao juiz competente nos termos do n.º 1.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Findo o prazo para a apresentação das candidaturas, é imediatamente afixada a relação das mesmas à porta do edifício do tribunal onde se encontra o juiz competente nos termos do n.º 1 do artigo 20.º e, sempre que for esse o caso, à porta das instalações do juízo de proximidade que se encontre sediado no município, com a identificação completa dos candidatos e dos mandatários.
 
@@ -195,7 +235,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -205,7 +247,9 @@ d) ...
 
 4 - As denominações, siglas e símbolos dos partidos políticos e coligações devidamente legalizados, bem como os símbolos a utilizar na identificação dos órgãos a eleger, são remetidos pela Secretaria-Geral do Ministério da Administração Interna às câmaras municipais e ao juiz do juízo de competência genérica com jurisdição no respetivo município, salvo quando o mesmo esteja abrangido por juízo local cível, caso em que as denominações, siglas e símbolos são remetidos ao respetivo juiz, até ao 40.º dia anterior ao da eleição.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -217,7 +261,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +275,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - A suspensão do exercício do direito de antena é requerida ao juiz presidente do tribunal de comarca com jurisdição na sede do distrito ou região autónoma pelo Ministério Público, por iniciativa deste ou a solicitação de representante de qualquer candidatura concorrente.
 
@@ -239,7 +287,9 @@ d) ...
 
 4 - O juiz presidente do tribunal decide, sem admissão de recurso, no prazo de vinte e quatro horas e, no caso de ordenar a suspensão do direito de antena, notifica logo a decisão aos operadores, para cumprimento imediato.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -253,13 +303,17 @@ d) ...
 
 6 - ...
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - Os nomes dos membros das mesas são publicados por edital afixado no prazo de dois dias à porta da sede da junta de freguesia e notificados aos nomeados, podendo qualquer eleitor reclamar contra a designação perante o juiz do juízo de competência genérica com jurisdição no respetivo município, salvo quando o mesmo esteja abrangido por juízo local cível, caso em que a reclamação é apresentada perante o respetivo juiz, no mesmo prazo, com fundamento em preterição de requisitos fixados na presente lei.
 
 2 - ...
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -271,7 +325,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -279,7 +335,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - As provas tipográficas dos boletins de voto devem ser expostas no edifício da câmara municipal até ao 33.º dia anterior ao da eleição e durante três dias, podendo os interessados reclamar, no prazo de vinte e quatro horas, para o juiz do juízo de competência genérica com jurisdição no respetivo município, salvo quando o mesmo esteja abrangido por juízo local cível, caso em que a reclamação é apresentada perante o respetivo juiz, o qual julga em igual prazo, tendo em atenção o grau de qualidade que pode ser exigido em relação a uma impressão a nível local.
 
@@ -287,13 +345,17 @@ d) ...
 
 3 - ...
 
-###### Artigo 138.º — [...]
+Artigo 138.º
+
+[...]
 
 1 - Os restantes boletins de voto, devidamente empacotados e lacrados, são confiados à guarda do juiz do juízo de competência genérica com jurisdição no respetivo município, salvo quando o mesmo esteja abrangido por juízo local cível, caso em que os boletins ficam confiados à guarda do respetivo juiz.
 
 2 - ...
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 ...
 
@@ -307,7 +369,9 @@ d) ...
 
 e) ...
 
-###### Artigo 231.º — [...]
+Artigo 231.º
+
+[...]
 
 Em tudo o que não estiver regulado na presente lei, aplica-se aos atos que impliquem intervenção de qualquer tribunal o disposto no Código de Processo Civil quanto ao processo declarativo, com exceção dos n.os 4 e 5 do artigo 139.º»
 
@@ -317,14 +381,14 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 10 de março de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 14 de abril de 2017.**
+Promulgada em 14 de abril de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 21 de abril de 2017.**
+Referendada em 21 de abril de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

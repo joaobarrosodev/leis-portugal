@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 104/1979, 2º Suplemento, Série I de 1979-05-07
   number: '104'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 838-(169) a 838-(169)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10402/01690169.pdf
 entry_into_force_dates: []
@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/135-b-1979-186277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:17:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edf6816030f919d502e836e3deebc2da96acf0c5bb56bcbbf58860d2d6d7d88c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6600dca4d14be7c4c93bb2cdc0d6d23813e5288545891f2daf674f31c77f6c6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:17:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- AVAL do Estado
+- Garantia
+- TAP
+relationships:
+- type: cites
+  target: pt:dre:161509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409705:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:430996:por
+  label: Rectificada pela DECL.DD7298.10.05.1979.PCM, DR.IS [107]Supl de 10.05.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-430996
+  date: '1979-05-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:17:27Z'
   warnings: []
   errors: []
 ---

@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/799-1989-547197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 994ceda11d5fa286f9dd9dde30e70b42ef73b5632b6c4831997ec7e8b4248aba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6f23d00899ccb6f32a06899ed6637321533f0f66a11977ad2088dcbb7c1298f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inscrição Marítima
+- Marinha Mercante
+- Pessoal do MAR
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:532039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532039:por
+  label: "Alterados os n.ºs 6.º, 9.º 10.º e 11.º, pela PORT.27/94.11.01.1994.MDN, DR.IS-B [8] de 11.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/27-1994-532039
+  date: '1994-01-11'
+- type: cites
+  target: pt:dre:615193:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:49Z'
   warnings: []
   errors: []
 ---
@@ -148,8 +161,8 @@ b) A situação de deterioração referida na alínea anterior, quando constatad
 
 Ministérios da Defesa Nacional, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 25 de Agosto de 1989.**
+Assinada em 25 de Agosto de 1989.
 
-**O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20900/39593962.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20900/39593962.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20900/39593962.pdf)

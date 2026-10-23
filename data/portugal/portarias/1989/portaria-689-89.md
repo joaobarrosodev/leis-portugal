@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 185/1989, 1º Suplemento, Série I de 1989-08-12
   number: '185'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3266-(23) a 3266-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18501/00230024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/689-1989-337005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T09:59:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b7977330be8affdb6ffc5e924732d8224e3e8689e366a7e628e113ce04f398a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9d38d67cdf39dd136ecd9404487af09727e4adcd21f094db8ebe8c6d5e0733b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:59:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Elvas
 relationships:
 - type: amended_by
   target: pt:dre:573476:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:573476:por
+  label: "Revogada pela PORT.647/90.08.08.1990.MAPA, DR.IS [182] de 08.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-1990-573476
+  date: '1990-08-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:59:13Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +136,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 4 de Agosto de 1989.**
+Assinada em 4 de Agosto de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18501/00230024.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18501/00230024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18501/00230024.pdf)

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 282/1990, 1º Suplemento, Série I de 1990-12-07
   number: '282'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5020-(5) a 5020-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28201/00050006.pdf
 entry_into_force_dates: []
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1187-f-1990-579952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:11:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ffbeb24ca6c02335c2dfd8cd7653563e8a91f598cb282f0c908a34002baad89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d95e81e4249fc83eb3e7dbf5e72e6f4716caed2f3196024a6b2aba1736ae80c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:11:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alandroal
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:241029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146250:por
+  label: "Suspenso o exercício da caça e de actividades de carácter venatório na zona de caça turística, pela PORT.655/2002.2002.06.17.MADRP,\
+    \ DR.IS-B [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/655-2002-146250
+  date: '2002-06-17'
+- type: amended_by
+  target: pt:dre:657058:por
+  label: "Renovada por um período de 12 anos a concessão da zona de caça, pela PORT.1319/2002.2002.10.04.MECO, DR.IS-B [230]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1319-2002-657058
+  date: '2002-10-04'
+- type: amended_by
+  target: pt:dre:241029:por
+  label: "Anexados vários prédios rústicos à zona de caça, renovada pela Port 1319/2002 de 04-Out, pela PORT.4/2004.10.01.2004.MECO,\
+    \ DR.IS-B [8] de 10.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-2004-241029
+  date: '2004-01-10'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:11:55Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +150,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 26 de Novembro de 1990.**
+Assinada em 26 de Novembro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28201/00050006.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28201/00050006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28201/00050006.pdf)

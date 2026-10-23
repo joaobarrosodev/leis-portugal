@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1128-1990-564468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:10:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99341dd04c73965e003b49f79ccf9c260b938c52ca1b288756f80c943e20c23c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bf42253e16a9bb6d5dfd9b6a3a824d9a21e5593bbec36e7fa14eee77af5a52f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:10:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Ciências da Comunicação
+- Curso de Informática de Gestão
+- Curso de Tradutores e Intérpretes
+- Ensino Particular
+- Ensino Superior
+- Licenciatura
+- Universidade Autónoma de Lisboa LUÍS de Camões
 relationships:
 - type: amended_by
   target: pt:dre:631070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:599700:por
+  label: "Alterado o plano de estudos do Curso de Informática de Gestão, pela PORT.1132/2000.2000.11.29.ME DR.IS-B [276]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1132-2000-599700
+  date: '2000-11-29'
+- type: amended_by
+  target: pt:dre:631070:por
+  label: "Alterado, o plano de estudos, na parte referente ao curso de Ciências da Comunicação, pela PORT.1074/2001.2001.09.04.ME,\
+    \ DR.IS-B [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1074-2001-631070
+  date: '2001-09-04'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:10:13Z'
   warnings: []
   errors: []
 ---
@@ -111,10 +134,10 @@ Curso de Tradutores e Intérpretes.
 
 Ministério da Educação.
 
-**Assinada em 15 de Outubro de 1990.**
+Assinada em 15 de Outubro de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Universidade Autónoma de Lisboa Luís de Camões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/26400/46974699.pdf))](https://files.diariodarepublica.pt/1s/1990/11/26400/46974699.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/26400/46974699.pdf)

@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/234-1990-333078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:16:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59afad4e1462fc825c1158c21a0075c8c0690ce1e83fa1eb670228d50a5639aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3c7f9f17cda7f13ab6210006f9abefc6f02157c9881a50d8e8575901bcb4807
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:16:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auxiliar de Farmácia
+- Carreira Profissional
+- Farmácia
+relationships:
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674410:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:16:13Z'
   warnings: []
   errors: []
 ---
@@ -90,10 +101,10 @@ Ao abrigo do disposto no artigo 98.º do [Decreto-Lei n.º 48547](https://diario
 
 Manda o Governo, pelos Ministros da Saúde e do Emprego e da Segurança Social, que o artigo 2.º da [Portaria n.º 367/72](https://diariodarepublica.pt/dr/detalhe/portaria/367-1972-674410), de 3 de Julho, passe a ter a redacção seguinte:
 
-###### Art. 2.º O registo da prática farmacêutica só poderá iniciar-se desde que os candidatos ao exercício da profissão sejam maiores de 16 anos e possuam, pelo menos, o 9.º ano do ensino secundário ou equivalente.
+Art. 2.º O registo da prática farmacêutica só poderá iniciar-se desde que os candidatos ao exercício da profissão sejam maiores de 16 anos e possuam, pelo menos, o 9.º ano do ensino secundário ou equivalente.
 
 Ministérios da Saúde e do Emprego e da Segurança Social.
 
-**Assinada em 9 de Fevereiro de 1990.**
+Assinada em 9 de Fevereiro de 1990.
 
-**O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.

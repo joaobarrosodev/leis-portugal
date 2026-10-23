@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 228/1974, 2º Suplemento, Série I de 1974-09-30
   number: '228'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1162-(4) a 1162-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/09/22802/00040004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/2-1974-672153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c674dfe96b65fda73971f7ba6677a602c1263c6e8389ce082427965d10b0b53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1d6bcd44416a8d9890868e5fd8cb9dc9ec970171284e1677afcdedb6319fa06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:02:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:02:13Z'
   warnings: []
   errors: []
 ---
@@ -87,8 +87,8 @@ de 30 de Setembro
 
 De acordo com o n.º 3 do artigo 9.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Conselho de Estado designou, em sua reunião de hoje, o capitão-de-fragata Silvano Ribeiro para exercer interinamente as funções de membro da Junta de Salvação Nacional, enquanto durar o impedimento do membro nato deste Conselho vice-almirante António Alva Rosa Coutinho.
 
-**Promulgada em 30 de Setembro de 1974.**
+Promulgada em 30 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

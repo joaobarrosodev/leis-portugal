@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21
   number: '163'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7-(2) a 7-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/16301/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1-a/2020/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2020-140950555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b1dea4e74d3732638c2be52379fc995587eef9f394db2569eef1445a4a005af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01138c9c0faf9aacb7c4ea1b52e44a101729b13e0cb644afe4d5071f4e692c62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia de Freguesia
-- Empresa
-- Sociedade Comercial
+- Autarquia Local
+- Câmara Municipal
 - Denominação de Instituição
 - Eleição Autárquica
 - Eleito Local
+- Empresa
 - Incompatibilidades
-- Sistema Eleitoral
 - Órgãos Sociais
 - Partido Político
 - Profissão Independente
-- Câmara Municipal
-- Autarquia Local
+- Sistema Eleitoral
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:164870238:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164870238:por
+  label: Declarada a inconstitucionalidade, com força obrigatória geral, das normas contidas nos n.ºs 4, 5 e 6 do art. 19.º
+    da Lei Org 1/2001 de 14-ago, na redação dada pela presente, pelo(a) Acórdão do Tribunal Constitucional n.º 247/2021 -
+    Diário da República n.º 111/2021, Série I de 2021-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/247-2021-164870238
+  date: '2021-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/72-a/2015/07/23/p/dre
   label: null
@@ -121,15 +128,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/leiorg/5-a/2001/11/26/p/dre
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:41Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +179,9 @@ b) A mais de uma assembleia de freguesia integradas no mesmo município;
 
 c) À câmara municipal e à assembleia municipal do mesmo município.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -190,7 +199,9 @@ c) À câmara municipal e à assembleia municipal do mesmo município.
 
 8 - O tribunal competente para a receção da lista promove sempre a verificação, pelo menos por amostragem, da autenticidade das assinaturas e da identificação dos proponentes da iniciativa, lavrando uma ata detalhada das operações realizadas e dos proponentes confirmados.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -230,7 +241,9 @@ f) É vedada a utilização das palavras «partido» e «coligação» na denomi
 
 13 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Das decisões finais relativas à apresentação de candidaturas cabe recurso para o Tribunal Constitucional.
 
@@ -238,11 +251,15 @@ f) É vedada a utilização das palavras «partido» e «coligação» na denomi
 
 3 - Os recursos das decisões proferidas sobre denominações, siglas e símbolos de grupos de cidadãos eleitores têm caráter urgente sobre as demais e devem ser decididas no prazo de 72 horas.
 
-###### Artigo 103.º — Informação sobre o local de exercício de sufrágio
+Artigo 103.º
+
+Informação sobre o local de exercício de sufrágio
 
 Os eleitores podem obter informação sobre o local onde exercer o seu direito de voto na sua junta de freguesia, aberta para esse efeito no dia da eleição, para além de outras formas de acesso à referida informação disponibilizadas pela administração eleitoral.
 
-###### Artigo 170.º — Candidaturas e proposituras simultâneas
+Artigo 170.º
+
+Candidaturas e proposituras simultâneas
 
 1 - [Anterior corpo do artigo.]
 
@@ -254,14 +271,16 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 23 de julho de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 21 de agosto de 2020.**
+Promulgada em 21 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 21 de agosto de 2020.**
+Referendada em 21 de agosto de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113514423

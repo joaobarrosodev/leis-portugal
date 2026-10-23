@@ -48,40 +48,124 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1233-1990-564233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:13:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 130aef3631b2e4c0af5ea130a907de1e06f649e170c0331a376eae710b55bde7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 963de25a37821ab291bf41cf15ed382fb0ac1fab642e60877341195c2792ee44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:13:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Canto
+- Curso de Composição
+- Curso de Formação Musical
+- Curso de Instrumento
+- Ensino Superior Politécnico
+- Escola Superior de Música
+- Instituto Politécnico
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:558069:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345286:por
+  label: "Aditadas as alíneas e) ao n.º 1.º, f) ao n.º 7.º, alterados os quadros n.ºs 2 e 3 dos anexos I a XII, o quadro n.º\
+    \ 2 do anexo XIV e aditados os anexos XV a XVIII, pela PORT.700/93.29.07.1993.ME, DR.IS-B [176] de 29.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-1993-345286
+  date: '1993-07-29'
+- type: amended_by
+  target: pt:dre:506625:por
+  label: "Alterados os n.ºs 2.º, 4.º, 7.º, 8.º, 20.º, 21.º, aditados os n.ºs 2.º-A e 16.º-A, revogado o n.º 3.º e os anexos,\
+    \ pela PORT.449/95.12.05.1995.ME, DR.IS-B [110] de 12.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/449-1995-506625
+  date: '1995-05-12'
+- type: amended_by
+  target: pt:dre:408169:por
+  label: "Alterado o n.º 8.º, na redacção da Portaria n.º 449/95, de 12 de Maio, e o n.º 15.º pela PORT.336/96.03.08.1996.ME,\
+    \ DR.IS-B [179] de 03.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/336-1996-408169
+  date: '1996-08-03'
+- type: amended_by
+  target: pt:dre:527428:por
+  label: "Aditada à al a) do num 1 as áreas de Contrabaixo, Trompete, Trombone, Percurssão e Saxofone e o num 2-A e substituidos\
+    \ os planos de estudos dos cursos previstos no presente diploma, pela Port.219/97.1997.04.01.ME, DR.IS-B [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/219-1997-527428
+  date: '1997-04-01'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:558069:por
+  label: "Revoga, findo o processo de transição fixado nos termos do artigo 31º do Regulamento aprovado pela Port 413-A/98,\
+    \ de 17-Jul., alterada pela Port 533-A/99, de 22-Jul., pela PORT.833/2000.2000.09.22.ME DR.IS-B [220]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/833-2000-558069
+  date: '2000-09-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:13:10Z'
   warnings: []
   errors: []
 ---
@@ -468,8 +552,8 @@ d) Formação Musical - 8.
 
 Ministério da Educação.
 
-**Assinada em 16 de Novembro de 1990.**
+Assinada em 16 de Novembro de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/29800/52425254.pdf))](https://files.diariodarepublica.pt/1s/1990/12/29800/52425254.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29800/52425254.pdf)

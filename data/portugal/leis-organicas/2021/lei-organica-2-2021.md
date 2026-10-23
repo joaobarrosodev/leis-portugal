@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15300/0000200017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92cf0eedd874f6595ff69675a814d5dfac8833933c78371aba9ec7b2628c2a90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d7252a897320dab9a487f75422e4b6cd0a8b835be80a333aa9cd82505b685d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Hospital das Forças Armadas
 - Chefe do Estado Maior da Armada
 - Chefe do Estado Maior da Força Aérea
+- Chefe do Estado Maior do Exército
 - Chefe do Estado Maior General das Forças Armadas
-- Exército
 - Conselho de Chefes de Estado Maior
-- Força Aérea
 - Conselho Superior da Defesa Nacional
 - Conselho Superior Militar
 - Definição de Competências
-- Marinha
 - Estado Maior Conjunto
-- Instituto Hidrográfico
-- Chefe do Estado Maior do Exército
-- Lei de Bases
-- Forças Armadas
-- Orgânica
 - Estado Maior General das Forças Armadas
+- Exército
+- Força Aérea
+- Forças Armadas
+- Hospital das Forças Armadas
+- Instituto Hidrográfico
 - Instituto Universitário Militar
+- Lei de Bases
+- Marinha
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:836117871:por
@@ -110,16 +110,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/6/2014/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/6/2014/09/01/p/dre
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983261:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:47Z'
   warnings: []
   errors: []
 ---
@@ -154,17 +174,17 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 25 de junho de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 3 de agosto de 2021.**
+Promulgada em 3 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 4 de agosto de 2021.**
+Referendada em 4 de agosto de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -753,3 +773,5 @@ g) Diretor de Saúde Militar.
 2 - Para assegurar a cooperação prevista no número anterior, são estabelecidos os procedimentos que garantam a interoperabilidade de equipamentos e sistemas, bem como a utilização de meios.
 
 3 - Compete ao CEMGFA e ao Secretário-Geral do Sistema de Segurança Interna assegurar entre si a implementação das medidas de coordenação, para os efeitos previstos nos números anteriores, sem prejuízo do disposto na Lei de Segurança Interna, aprovada pela [Lei n.º 53/2008](https://diariodarepublica.pt/dr/detalhe/lei/53-2008-453479), de 29 de agosto.
+
+114474039

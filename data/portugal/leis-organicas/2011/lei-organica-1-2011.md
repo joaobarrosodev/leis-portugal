@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0019af794f791f81372ac10f7bad435c8f408d38ec01a402105812b3788db42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33479102be1054e2fcbd478297aeab8059cda701189f82eb28864c6bb241ecc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,49 +66,108 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assembleia de VOTO
-- Região Autónoma
-- Parlamentar
+- Administração Local
+- Administração Pública
+- Assembleia da República
 - Assembleia de Freguesia
+- Assembleia de VOTO
+- Autarquia Local
+- Autoridade Nacional de Protecção Civil
+- Câmara Municipal
 - Cargos Políticos
-- Eleição
 - Comissão Nacional de Eleições
-- Governo Regional
 - Definição de Competências
+- Direcção Geral de Administração Interna
 - Diretor Geral
+- Eleição
+- Eleição Autárquica
 - Eleição Europeia
 - Eleição Legislativa
-- Eleição Autárquica
 - Eleição Presidencial
 - Estado de Emergência
-- Administração Pública
-- Presidência da República
-- Representante da República para a Região Autónoma dos Açores
 - Governador Civil
-- Instituto da Mobilidade e dos Transportes Terrestres
+- Governo Civil
+- Governo Regional
 - Incompatibilidades
-- Tribunal Constitucional
+- Instituto da Mobilidade e dos Transportes Terrestres
 - Junta de Freguesia
 - Lei Eleitoral
 - Liberdade de Associação
 - Liberdade de Reunião
 - Membros do Governo
-- Direcção Geral de Administração Interna
-- Governo Civil
-- Assembleia da República
+- Parlamentar
 - Parlamento Europeu
+- Presidência da República
 - Referendo
 - Referendo Local
-- Administração Local
-- Câmara Municipal
+- Região Autónoma
 - Representante da República para a Região Autónoma da Madeira
-- Autoridade Nacional de Protecção Civil
-- Autarquia Local
+- Representante da República para a Região Autónoma dos Açores
+- Tribunal Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:215097635:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 3º da Lei 25/2006, de 30-Jun, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR,\
+    \ DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:552035:por
+  label: "Alterado o art. 20º da Lei 44/86, de 30-set, na redacção do presente diploma, pela LEI ORG.1/2012.11.05.2012.AR,\
+    \ DR.IS [92] de 11.05.2012, que republica aquela lei com renumeração.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2012-552035
+  date: '2012-05-11'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 3º da Lei 25/2006 de 30-jun, alterado pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR,\
+    \ DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:606109:por
+  label: "Alterados, a partir de 08.02.2014, os arts. 5.º e 6.º da Lei 14/87 de 29-abr, na redação do presente diploma, pela\
+    \ LEI ORG.1/2014.09.01.2014.AR, DR.IS [6] de 09.01.2014, que a república \0a \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2014-606109
+  date: '2014-01-09'
+- type: amended_by
+  target: pt:dre:69927759:por
+  label: Alterados os arts 8.º, 13.º (na redação da presente Lei Orgânica), 14.º, 16.º (na redação da presente Lei Orgânica),
+    17.º, 21.º, 26.º, 27.º, 30.º, 33.º, 34.º (na redação da presente Lei Orgânica), 35.º, 36.º, 37.º, 38.º 39.º (na redação
+    da presente Lei Orgânica), 41.º, 42.º, 45.º, 46.º, 47.º, 48.º, 49.º, 50.º (na redação da presente Lei Orgânica), 51.º,
+    53.º (na redação da presente Lei Orgânica), 59.º e 60.º e aditados os arts 46.º-A, 48.º-A, 49.º-A e 59.º-A à Lei 27/2006
+    de 03-Jul pelo(a) Lei n.º 80/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03, que a republica em anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/80-2015-69927759
+  date: '2015-08-03'
+- type: amended_by
+  target: pt:dre:70014791:por
+  label: Alterados os arts. 40.º, 95.º e 108.º da Lei Eleitoral para a Assembleia da República, aprovada pela Lei 14/79, de
+    16-mai, na redação do presente diploma pelo(a) Lei Orgânica n.º 10/2015 - Diário da República n.º 158/2015, Série I de
+    2015-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/10-2015-70014791
+  date: '2015-08-14'
+- type: amended_by
+  target: pt:dre:106955048:por
+  label: Alterados os arts. 30.º, 57.º, 58.º, 60.º, 70.º e 93.º da Lei Org 1/2001 de 14-ago, na redação da presente, pelo(a)
+    Lei Orgânica n.º 2/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2017-106955048
+  date: '2017-05-02'
+- type: amended_by
+  target: pt:dre:116090196:por
+  label: Alterados, a partir de 18.08.2018, e nos termos do art. 11.º, os arts. 23.º, 31.º, 38.º, 43.º, 97.º e 159.º-A do
+    Dec Lei 319-A/76, de 03-mai, na redação do presente diploma, pelo(a) Lei Orgânica n.º 3/2018 - Diário da República n.º
+    158/2018, Série I de 2018-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2018-116090196
+  date: '2018-08-17'
+- type: amends
+  target: pt:numero:lei:27/2006
+  label: "Altera os arts. 13.º, 16.º, 34.º, 39.º, 50.º e 53.º e revoga o n.º 2 do art. 34.º e a al. a) do n.º 1 do art. 39.º\
+    \ da Lei n.º 27/2006, de 03-Jul, DR IS [126]\0\0"
+  source: null
+  date: '2006-07-03'
 - type: cites
   target: eli:http://data.d
   label: null
@@ -153,16 +212,252 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2000/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2000/08/24/p/dre
+- type: cites
+  target: pt:dre:142521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679821:por
+  label: null
+  source: null
 article_structure:
-  article_count: 96
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:02Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +498,9 @@ Os artigos 23.º, 29.º, 31.º, 38.º, 43.º, 55.º, 59.º, 81.º, 86.º, 97.º,
 
 2 - No dia da eleição, as candidaturas sujeitas a sufrágio são novamente publicadas por editais afixados à porta e no interior das assembleias de voto.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +510,9 @@ Os artigos 23.º, 29.º, 31.º, 38.º, 43.º, 55.º, 59.º, 81.º, 86.º, 97.º,
 
 4 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -223,7 +522,9 @@ Os artigos 23.º, 29.º, 31.º, 38.º, 43.º, 55.º, 59.º, 81.º, 86.º, 97.º,
 
 4 - Da decisão referida no número anterior cabe recurso, a interpor no prazo de dois dias, por iniciativa das juntas de freguesia ou de, pelo menos, 10 eleitores de qualquer assembleia de voto, para o tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma, que decide em definitivo e em igual prazo.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -241,13 +542,17 @@ Os artigos 23.º, 29.º, 31.º, 38.º, 43.º, 55.º, 59.º, 81.º, 86.º, 97.º,
 
 8 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
 2 - As entidades referidas no número anterior entregam também a cada presidente da assembleia ou secção de voto, até três dias antes do dia designado para a eleição, os boletins de voto.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - Os proprietários de salas de espectáculos ou de outros recintos de normal utilização pública que reúnam condições para serem utilizados na campanha eleitoral devem declará-lo ao respectivo presidente da câmara municipal até 10 dias antes da abertura da campanha, indicando as datas e as horas em que as salas ou recintos podem ser utilizados para aquele fim. Na falta de declaração ou em caso de comprovada carência, o presidente da câmara municipal pode requisitar as salas e os recintos que considere necessários à campanha eleitoral, sem prejuízo da actividade normal e programada para os mesmos.
 
@@ -255,11 +560,15 @@ Os artigos 23.º, 29.º, 31.º, 38.º, 43.º, 55.º, 59.º, 81.º, 86.º, 97.º,
 
 3 - Até 48 horas depois da abertura da campanha, o presidente da câmara municipal, ouvidos os mandatários das candidaturas, indica os dias e as horas atribuídos a cada uma de modo a assegurar a igualdade entre todas.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 Os presidentes das câmaras municipais procuram assegurar a cedência do uso para os fins da campanha eleitoral de edifícios públicos e recintos pertencentes ao Estado e outras pessoas colectivas de direito público, repartindo com igualdade a sua utilização pelos concorrentes.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -275,7 +584,9 @@ Os presidentes das câmaras municipais procuram assegurar a cedência do uso par
 
 7 - ...
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - ...
 
@@ -293,7 +604,9 @@ Os presidentes das câmaras municipais procuram assegurar a cedência do uso par
 
 8 - ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - O apuramento da eleição em cada distrito compete a uma assembleia de apuramento distrital, a qual iniciará os seus trabalhos às 9 horas do dia subsequente ao da eleição, em local determinado para o efeito pelo magistrado que preside à assembleia de apuramento distrital.
 
@@ -303,7 +616,9 @@ Os presidentes das câmaras municipais procuram assegurar a cedência do uso par
 
 4 - Para o efeito da designação prevista nas alíneas a) e c) do n.º 1 do artigo 98.º, o director-geral de Administração Interna comunica a sua decisão ao presidente do tribunal da Relação respectivo e aos membros do Governo responsáveis pelas áreas da administração interna e da educação.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - ...
 
@@ -325,11 +640,15 @@ e) ...
 
 5 - ...
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 Os resultados do apuramento distrital são publicados por meio de edital afixado à porta do tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma, até ao 6.º dia posterior ao da votação.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - ...
 
@@ -337,11 +656,15 @@ Os resultados do apuramento distrital são publicados por meio de edital afixado
 
 3 - O terceiro exemplar da acta, bem como toda a documentação presente à assembleia de apuramento distrital, permanece com o tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma, o qual o conservará e guardará sob a sua responsabilidade.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 Aos candidatos e aos mandatários de cada candidatura proposta à eleição são passadas pela secretaria do tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma certidões ou fotocópias da acta de apuramento distrital.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - ...
 
@@ -351,7 +674,9 @@ Aos candidatos e aos mandatários de cada candidatura proposta à eleição são
 
 4 - Nos dois dias seguintes ao termo do prazo previsto no número anterior, o Tribunal Constitucional, em Plenário, decide o recurso, comunicando imediatamente a decisão à Comissão Nacional de Eleições.
 
-###### Artigo 159.º-A — [...]
+Artigo 159.º-A
+
+[...]
 
 1 - ...
 
@@ -393,13 +718,17 @@ g) ...
 
 h) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Não podem ser candidatos pelo círculo onde exerçam a sua actividade os directores e chefes de repartições de finanças e os ministros de qualquer religião ou culto com poderes de jurisdição.
 
 2 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -413,7 +742,9 @@ h) ...
 
 6 - É enviada cópia das listas referidas no número anterior ao director-geral de Administração Interna ou, nas Regiões Autónomas, ao Representante da República.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -421,13 +752,17 @@ h) ...
 
 3 - O resultado do sorteio é afixado à porta do tribunal, sendo enviadas cópias do auto à Comissão Nacional de Eleições e ao director-geral de Administração Interna ou, nas Regiões Autónomas, ao Representante da República.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - As listas definitivamente admitidas são imediatamente afixadas à porta do tribunal e enviadas, por cópia, à Comissão Nacional de Eleições e ao director-geral de Administração Interna ou, nas Regiões Autónomas, ao Representante da República e às câmaras municipais, que as publicam, no prazo de vinte e quatro horas, por editais afixados à porta de todas as câmaras municipais do círculo.
 
 2 - Nos dias das eleições as listas sujeitas a sufrágio são novamente publicadas por editais afixados à porta e no interior das assembleias de voto.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -435,7 +770,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -447,7 +784,9 @@ h) ...
 
 5 - O mapa definitivo das assembleias e secções de voto é imediatamente afixado nas câmaras municipais.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -465,13 +804,17 @@ h) ...
 
 8 - ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
 2 - As entidades referidas no número anterior entregam também a cada presidente de assembleia ou secção de voto, até três dias antes do dia designado para as eleições, os boletins de voto.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Os proprietários de salas de espectáculos ou de outros recintos de normal utilização pública que reúnam condições para serem utilizados na campanha eleitoral devem declará-lo ao presidente da câmara municipal até 10 dias antes da abertura da campanha eleitoral, indicando as datas e as horas em que as salas ou recintos podem ser utilizados para aquele fim. Na falta de declaração ou em caso de comprovada carência, o presidente da câmara municipal pode requisitar as salas e os recintos que considere necessários à campanha eleitoral, sem prejuízo da actividade normal e programada para os mesmos.
 
@@ -479,11 +822,15 @@ h) ...
 
 3 - Até três dias antes da abertura da campanha eleitoral, o presidente da câmara municipal, ouvidos os mandatários das listas, indica os dias e as horas atribuídos a cada partido e coligação de modo a assegurar a igualdade entre todos.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
 
-**O presidente da câmara municipal deve procurar assegurar a cedência do uso, para os fins da campanha eleitoral, de edifícios públicos e recintos pertencentes ao Estado e outras pessoas colectivas de direito público, repartindo com igualdade a sua utilização pelos concorrentes no círculo em que se situar o edifício ou recinto.**
+[...]
 
-###### Artigo 90.º — [...]
+O presidente da câmara municipal deve procurar assegurar a cedência do uso, para os fins da campanha eleitoral, de edifícios públicos e recintos pertencentes ao Estado e outras pessoas colectivas de direito público, repartindo com igualdade a sua utilização pelos concorrentes no círculo em que se situar o edifício ou recinto.
+
+Artigo 90.º
+
+[...]
 
 1 - ...
 
@@ -493,7 +840,9 @@ h) ...
 
 4 - Na realização de nova votação, os membros das mesas podem ser nomeados pelo presidente da câmara municipal.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - ...
 
@@ -509,11 +858,15 @@ h) ...
 
 7 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma dos boletins de voto que tiverem recebido, devendo os presidentes das assembleias ou secções de voto devolver-lhe no dia seguinte ao das eleições os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 O apuramento dos resultados da eleição em cada círculo eleitoral e a proclamação dos candidatos eleitos competem a uma assembleia de apuramento geral, que inicia os seus trabalhos às 9 horas do 2.º dia posterior ao da eleição, no local para o efeito designado pelo presidente da assembleia de apuramento geral.
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - ...
 
@@ -533,21 +886,29 @@ e) ...
 
 4 - ...
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - ...
 
 2 - Nos dois dias posteriores àquele em que se concluir o apuramento geral, o presidente envia, por seguro do correio ou por próprio, contra recibo, dois exemplares da acta à Comissão Nacional de Eleições.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 Os cadernos eleitorais e demais documentação presente à assembleia de apuramento geral são entregues ao tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma.
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 Aos candidatos e aos mandatários de cada lista proposta à eleição, bem como, se o requerer, a qualquer partido, ainda que não tenha apresentado candidatos, são passadas pela secretaria do tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma certidões ou fotocópias da acta de apuramento geral.
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - ...
 
@@ -573,11 +934,15 @@ Os artigos 92.º, 95.º e 96.º da Lei n.º 28/82, de 15 de Novembro, alterada p
 
 4 - Do sorteio é lavrado auto, do qual são enviadas cópias à Comissão Nacional de Eleições e à Direcção-Geral de Administração Interna.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 A relação das candidaturas definitivamente admitidas é enviada à Comissão Nacional de Eleições e à Direcção-Geral de Administração Interna, no prazo de três dias.
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - ...
 
@@ -625,7 +990,9 @@ g) ...
 
 h) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -713,13 +1080,17 @@ h) ...
 
 i) ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O conteúdo do diploma que decreta a mobilização deve constar de editais afixados nas juntas de freguesia, câmaras municipais e postos consulares.
 
 2 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -769,7 +1140,9 @@ Os artigos 77.º, 85.º, 88.º, 103.º, 104.º, 122.º, 145.º e 150.º da [Lei 
 
 4 - Da decisão do tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma cabe recurso, a interpor no prazo de um dia, para o Tribunal Constitucional, que decide em Plenário em igual prazo.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 ...
 
@@ -777,15 +1150,21 @@ a) O Presidente da República, os deputados, os membros do Governo e dos Governo
 
 b) ...
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 Até cinco dias antes do referendo, o presidente da câmara municipal lavra alvará de designação dos membros das mesas das assembleias ou secções de voto e participa as nomeações às juntas de freguesia respectivas.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 A Direcção-Geral de Administração Interna providencia o envio dos boletins de voto às câmaras municipais.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - ...
 
@@ -793,13 +1172,17 @@ A Direcção-Geral de Administração Interna providencia o envio dos boletins d
 
 3 - O presidente e os vereadores da câmara municipal prestam contas ao tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma dos boletins de voto que tiverem recebido.
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - ...
 
 2 - O reconhecimento da impossibilidade definitiva da realização da votação ou o seu adiamento compete ao tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma.
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - Os presidentes das mesas das assembleias de voto comunicam imediatamente à junta de freguesia ou à entidade para esse efeito designada pelo director-geral de Administração Interna ou pelo Representante da República, consoante os casos, os elementos constantes do edital previsto no artigo anterior.
 
@@ -807,7 +1190,9 @@ A Direcção-Geral de Administração Interna providencia o envio dos boletins d
 
 3 - O Representante da República transmite imediatamente os resultados à Direcção-Geral de Administração Interna.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 1 - ...
 
@@ -831,7 +1216,9 @@ Os artigos 11.º, 47.º e 59.º da [Lei n.º 169/99](https://diariodarepublica.p
 
 4 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -841,7 +1228,9 @@ Os artigos 11.º, 47.º e 59.º da [Lei n.º 169/99](https://diariodarepublica.p
 
 4 - ...
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -879,7 +1268,9 @@ Os artigos 67.º, 75.º, 78.º, 93.º, 94.º, 95.º, 112.º e 135.º da [Lei Org
 
 5 - Da decisão do tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma cabe recurso, a interpor no prazo de um dia, para o Tribunal Constitucional, que decide em Plenário em igual prazo.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 Não podem ser designados membros da mesa de assembleia de voto:
 
@@ -887,15 +1278,21 @@ a) O Presidente da República, os deputados, os membros do Governo e dos Governo
 
 b) ...
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 Até cinco dias antes do referendo, o presidente do executivo autárquico lavrará alvará de designação dos membros das assembleias de voto, participando, no caso de referendo municipal, as nomeações às juntas de freguesia respectivas.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 A Direcção-Geral de Administração Interna providencia o envio dos boletins de voto às freguesias onde tem lugar o referendo.
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - ...
 
@@ -903,11 +1300,15 @@ A Direcção-Geral de Administração Interna providencia o envio dos boletins d
 
 3 - O órgão referido no n.º 1 presta contas ao tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma dos boletins de voto recebidos.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 No dia seguinte ao da realização do referendo, o presidente de cada assembleia de voto devolve ao tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma, ou à entidade que o substitua, os boletins de voto não utilizados ou inutilizados pelos eleitores.
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - ...
 
@@ -919,7 +1320,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 135.º — [...]
+Artigo 135.º
+
+[...]
 
 1 - Os presidentes das mesas das assembleias de voto comunicam imediatamente à junta de freguesia ou à entidade para esse efeito designada pelo director-geral de Administração Interna ou pelo Representante da República, consoante os casos, os elementos constantes do edital previsto no número anterior.
 
@@ -943,7 +1346,9 @@ Os artigos 15.º, 29.º, 30.º, 37.º, 50.º, 57.º, 58.º, 60.º, 70.º, 76.º,
 
 4 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -957,7 +1362,9 @@ Os artigos 15.º, 29.º, 30.º, 37.º, 50.º, 57.º, 58.º, 60.º, 70.º, 76.º,
 
 6 - É enviada cópia das listas referidas no número anterior ao director-geral de Administração Interna.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -967,7 +1374,9 @@ Os artigos 15.º, 29.º, 30.º, 37.º, 50.º, 57.º, 58.º, 60.º, 70.º, 76.º,
 
 4 - As denominações, siglas e símbolos dos partidos políticos e coligações devidamente legalizados, bem como os símbolos a utilizar na identificação dos órgãos a eleger, são remetidos pela Direcção-Geral de Administração Interna às câmaras municipais, juízes de comarca e, em Lisboa e Porto, aos juízes dos tribunais cíveis, até ao 40.º dia anterior ao da eleição.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -977,7 +1386,9 @@ Os artigos 15.º, 29.º, 30.º, 37.º, 50.º, 57.º, 58.º, 60.º, 70.º, 76.º,
 
 4 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -995,7 +1406,9 @@ Os artigos 15.º, 29.º, 30.º, 37.º, 50.º, 57.º, 58.º, 60.º, 70.º, 76.º,
 
 8 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -1007,7 +1420,9 @@ Os artigos 15.º, 29.º, 30.º, 37.º, 50.º, 57.º, 58.º, 60.º, 70.º, 76.º,
 
 5 - ...
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - ...
 
@@ -1019,7 +1434,9 @@ Os artigos 15.º, 29.º, 30.º, 37.º, 50.º, 57.º, 58.º, 60.º, 70.º, 76.º,
 
 5 - ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - A suspensão do exercício do direito de antena é requerida ao tribunal de comarca com jurisdição na sede do distrito ou Região Autónoma pelo Ministério Público, por iniciativa deste ou a solicitação de representante de qualquer candidatura concorrente.
 
@@ -1029,7 +1446,9 @@ Os artigos 15.º, 29.º, 30.º, 37.º, 50.º, 57.º, 58.º, 60.º, 70.º, 76.º,
 
 4 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -1043,15 +1462,21 @@ Os artigos 15.º, 29.º, 30.º, 37.º, 50.º, 57.º, 58.º, 60.º, 70.º, 76.º,
 
 6 - ...
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 Não podem ser designados membros de mesa de assembleia de voto, para além dos eleitores referidos nos artigos 6.º e 7.º, os deputados, os membros do Governo, os membros dos Governos Regionais, os Representantes da República, os membros dos órgãos executivos das autarquias locais e os mandatários das candidaturas.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 Até cinco dias antes da eleição, o presidente da câmara municipal lavra alvará de designação dos membros das mesas das assembleias de voto e participa as nomeações às juntas de freguesia respectivas.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - O papel necessário à impressão dos boletins de voto é remetido pela Imprensa Nacional-Casa da Moeda ao respectivo presidente da câmara municipal até ao 43.º dia anterior ao da eleição.
 
@@ -1059,7 +1484,9 @@ Até cinco dias antes da eleição, o presidente da câmara municipal lavra alva
 
 3 - ...
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - ...
 
@@ -1069,7 +1496,9 @@ Até cinco dias antes da eleição, o presidente da câmara municipal lavra alva
 
 4 - Nesta votação os membros das mesas podem ser nomeados pelo respectivo presidente da câmara municipal.
 
-###### Artigo 136.º — [...]
+Artigo 136.º
+
+[...]
 
 1 - Os presidentes das mesas das assembleias de voto comunicam imediatamente à junta de freguesia ou à entidade para esse efeito designada pelo director-geral de Administração Interna ou pelo Representante da República, consoante os casos, os elementos constantes do edital previsto no artigo anterior.
 
@@ -1077,7 +1506,9 @@ Até cinco dias antes da eleição, o presidente da câmara municipal lavra alva
 
 3 - O respectivo Representante da República transmite imediatamente os resultados à Direcção-Geral de Administração Interna.
 
-###### Artigo 141.º — [...]
+Artigo 141.º
+
+[...]
 
 1 - ...
 
@@ -1085,19 +1516,25 @@ Até cinco dias antes da eleição, o presidente da câmara municipal lavra alva
 
 3 - Compete ao director-geral de Administração Interna decidir, até ao 14.º dia anterior à data da eleição, sobre o desdobramento referido no número anterior.
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 1 - ...
 
 2 - No dia posterior àquele em que se concluir o apuramento geral, o presidente envia um dos exemplares da acta à Comissão Nacional de Eleições, por seguro do correio ou por próprio, contra recibo.
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - Os cadernos de recenseamento e demais documentação presentes à assembleia de apuramento geral, bem como a acta desta, são confiados à guarda e responsabilidade do tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma.
 
 2 - Terminado o prazo de recurso contencioso ou decididos os recursos que tenham sido apresentados, o tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma procede à destruição de todos os documentos, com excepção das actas das assembleias de voto, da acta da assembleia de apuramento geral e de uma das cópias dos cadernos eleitorais.
 
-###### Artigo 221.º — [...]
+Artigo 221.º
+
+[...]
 
 1 - ...
 
@@ -1125,7 +1562,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 222.º — [...]
+Artigo 222.º
+
+[...]
 
 1 - ...
 
@@ -1133,7 +1572,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 223.º — [...]
+Artigo 223.º
+
+[...]
 
 1 - Sempre que haja lugar à realização de eleições intercalares é nomeada uma comissão administrativa, cuja designação cabe ao membro do Governo responsável pela área da administração interna, no caso de município ou freguesia.
 
@@ -1165,15 +1606,21 @@ Os artigos 13.º, 16.º, 34.º, 39.º, 50.º e 53.º da [Lei n.º 27/2006](https
 
 2 - Cabe ao comandante operacional distrital declarar a situação de alerta, no todo ou em parte do seu âmbito territorial de competência, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos municípios abrangidos.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 A declaração da situação de contingência cabe ao presidente da Autoridade Nacional de Protecção Civil, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos municípios abrangidos.
 
-###### Artigo 34.º — Presidente da Autoridade Nacional de Protecção Civil
+Artigo 34.º
+
+Presidente da Autoridade Nacional de Protecção Civil
 
 Compete ao presidente da Autoridade Nacional de Protecção Civil exercer, ou delegar, as competências de, no âmbito distrital, desencadear, na iminência ou ocorrência de acidente grave ou catástrofe, as acções de protecção civil de prevenção, socorro, assistência e reabilitação adequadas em cada caso.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -1193,7 +1640,9 @@ g) ...
 
 2 - A comissão distrital de protecção civil é convocada pelo comandante operacional distrital ou, na sua ausência ou impedimento, por quem for por ele designado.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -1225,7 +1674,9 @@ f) ...
 
 9 - ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -1261,14 +1712,14 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 30 de Setembro de 2011.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
-**Promulgada em 20 de Novembro de 2011.**
+Promulgada em 20 de Novembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 22 de Novembro de 2011.**
+Referendada em 22 de Novembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/105-1978-298003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:10:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03fb9d67773115d59ac69cb698b3130c2c54921cb05572f07cf92a5322342f14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e570255e42e896919c34fad20d89621567e9c8aad8cb189385be1e836c16a049
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:10:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Administrativa
+- Estatuto
+- Exoneração
+- Fundição de Oeiras - Fundição e Construções Mecânicas
+relationships:
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:10:50Z'
   warnings: []
   errors: []
 ---
@@ -143,13 +163,13 @@ Preâmbulo
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto da sociedade
 
-###### Artigo 1.º - 1 - A Fundição e Construção Mecânicas, S. A. R. L., é uma sociedade anónima de responsabilidade limitada com capitais públicos e capitais privados e tem a sua sede em Oeiras.
+Artigo 1.º - 1 - A Fundição e Construção Mecânicas, S. A. R. L., é uma sociedade anónima de responsabilidade limitada com capitais públicos e capitais privados e tem a sua sede em Oeiras.
 
 2 - A sede pode ser transferida dentro do território nacional por simples deliberação da assembleia geral.
 
-###### Art. 2.º A duração da sociedade é por tempo indeterminado.
+Art. 2.º A duração da sociedade é por tempo indeterminado.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto a exploração das indústrias de fundição, extrusão, esmaltagem, metalo-mecânica e electro-metalomecânica e a comercialização dos produtos por ela fabricados e de outros que complementem a sua gama de produção, podendo para isso desenvolver toda a actividade.
+Art. 3.º - 1 - A sociedade tem por objecto a exploração das indústrias de fundição, extrusão, esmaltagem, metalo-mecânica e electro-metalomecânica e a comercialização dos produtos por ela fabricados e de outros que complementem a sua gama de produção, podendo para isso desenvolver toda a actividade.
 
 2 - O conselho de administração pode decidir a exploração de qualquer outra actividade, comercial ou industrial, que lhe seja permitida por lei.
 
@@ -157,7 +177,7 @@ Preâmbulo
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 150000 contos, representado e dividido em 150000 acções do valor nominal de 1000$00 cada uma, e está inteiramente subscrito.
+Art. 4.º - 1 - O capital social é de 150000 contos, representado e dividido em 150000 acções do valor nominal de 1000$00 cada uma, e está inteiramente subscrito.
 
 2 - As acções da sociedade podem ser nominativas ou ao portador.
 
@@ -165,15 +185,15 @@ Preâmbulo
 
 4 - O capital social poderá ser aumentado por uma ou mais vezes. Os limites dos aumentos a efectuar e as condições de subscrição, ressalvando o disposto no artigo 5.º, serão decididos em assembleia geral.
 
-###### Art. 5.º Em qualquer aumento de capital os accionistas têm direito de preferência na subscrição de novas acções na proporção das que já possuírem.
+Art. 5.º Em qualquer aumento de capital os accionistas têm direito de preferência na subscrição de novas acções na proporção das que já possuírem.
 
-###### Art. 6.º A sociedade poderá emitir obrigações, nos termos da lei e nas condições a fixar pela assembleia geral.
+Art. 6.º A sociedade poderá emitir obrigações, nos termos da lei e nas condições a fixar pela assembleia geral.
 
-###### Art. 7.º É permitido à sociedade adquirir acções e obrigações próprias e fazer sobre elas quaisquer operações que o conselho de administração tiver por convenientes.
+Art. 7.º É permitido à sociedade adquirir acções e obrigações próprias e fazer sobre elas quaisquer operações que o conselho de administração tiver por convenientes.
 
 ### CAPÍTULO III — Da assembleia geral
 
-###### Art. 8.º - 1 - A assembleia geral tem a competência que lhe é atribuída pela lei e por estes estatutos e é constituída por todos os accionistas titulares de 10 ou mais acções.
+Art. 8.º - 1 - A assembleia geral tem a competência que lhe é atribuída pela lei e por estes estatutos e é constituída por todos os accionistas titulares de 10 ou mais acções.
 
 2 - Podem, contudo, participar nos trabalhos da assembleia geral as pessoas que exerçam cargos no conselho de administração e no conselho fiscal, embora porventura não sejam accionistas e, por isso, não tenham direito de voto.
 
@@ -183,15 +203,15 @@ Preâmbulo
 
 5 - A cada acção corresponderá um voto.
 
-###### Art. 9.º - 1 - A mesa da assembleia geral será composta por um presidente e um secretário.
+Art. 9.º - 1 - A mesa da assembleia geral será composta por um presidente e um secretário.
 
 2 - O presidente e o secretário da assembleia geral serão eleitos de três em três anos, de entre os accionistas, sendo permitida a sua reeleição.
 
-###### Art. 10.º - 1 - A assembleia geral será convocada pelo seu presidente ou por quem legalmente fizer as suas vezes, por meio de anúncios a publicar no Diário da República e num dos jornais de Lisboa, com a antecedência mínima de quinze dias.
+Art. 10.º - 1 - A assembleia geral será convocada pelo seu presidente ou por quem legalmente fizer as suas vezes, por meio de anúncios a publicar no Diário da República e num dos jornais de Lisboa, com a antecedência mínima de quinze dias.
 
 2 - A assembleia geral reunirá na sede da sociedade, salvo se o presidente da assembleia, ou quem as suas vezes fizer, considerar justificada a sua reunião noutro local do território nacional, a requerimento do conselho de administração ou do conselho fiscal.
 
-###### Art. 11.º - 1 - A assembleia geral ordinária reunir-se-á nos três primeiros meses de cada ano para:
+Art. 11.º - 1 - A assembleia geral ordinária reunir-se-á nos três primeiros meses de cada ano para:
 
 a) Discutir e deliberar sobre o relatório do conselho de administração, o balanço, a conta dos resultados, a proposta de aplicação dos resultados e sobre o parecer do conselho fiscal referentes ao exercício do ano anterior;
 
@@ -203,17 +223,17 @@ c) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 3 - As entidades que podem solicitar ou requerer a convocação da assembleia podem igualmente requerer que na ordem dos trabalhos de uma assembleia, já convocada ou a convocar, seja incluído qualquer assunto, contanto que esta alteração à ordem dos trabalhos ainda possa ser publicada com a antecedência determinada no artigo 10.º
 
-###### Art. 12.º - 1 - Não haverá na assembleia geral qualquer limitação ao número de votos de que pode dispor cada accionista.
+Art. 12.º - 1 - Não haverá na assembleia geral qualquer limitação ao número de votos de que pode dispor cada accionista.
 
 2 - A assembleia geral poderá funcionar em primeira convocação quando estejam presentes ou representados accionistas cujas acções correspondam, pelo menos, a 51% do capital social.
 
 3 - Não podendo funcionar a primeira reunião por falta dessa percentagem, será novamente convocada a assembleia para segunda reunião, a efectuar entre quinze a trinta dias depois, podendo então funcionar e deliberar validamente seja qual for o número dos accionistas presentes ou representados e a percentagem do capital a que as respectivas acções correspondam.
 
-###### Art. 13.º A forma de votação será fixada por quem presidir à assembleia, enquanto a própria assembleia não deliberar forma diversa.
+Art. 13.º A forma de votação será fixada por quem presidir à assembleia, enquanto a própria assembleia não deliberar forma diversa.
 
 ### CAPÍTULO IV — Conselho de administração
 
-###### Art. 14.º - 1 - A administração dos negócios sociais compete a um conselho de administração composto por três ou cinco membros, que entre si escolherão o presidente.
+Art. 14.º - 1 - A administração dos negócios sociais compete a um conselho de administração composto por três ou cinco membros, que entre si escolherão o presidente.
 
 2 - A entidade a quem competir a gestão das participações do sector público no capital da sociedade poderá designar, nos termos da legislação em vigor, gestores públicos para o conselho de administração da sociedade.
 
@@ -221,7 +241,7 @@ c) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 4 - Os lugares do conselho de administração não preenchidos pelo processo estabelecido no n.º 2 sê-lo-ão por eleição em assembleia geral.
 
-###### Art. 15.º - 1 - O conselho de administração reúne sempre que o exijam os interesses da sociedade ou qualquer administrador o solicite e, pelo menos, quinzenalmente.
+Art. 15.º - 1 - O conselho de administração reúne sempre que o exijam os interesses da sociedade ou qualquer administrador o solicite e, pelo menos, quinzenalmente.
 
 2 - As reuniões do conselho de administração serão convocadas e dirigidas pelo presidente.
 
@@ -229,13 +249,13 @@ c) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 4 - As deliberações do conselho de administração, que constarão sempre de acta, serão tomadas por maioria absoluta dos votos expressos, gozando o presidente, ou quem as suas vezes fizer, de voto de qualidade.
 
-###### Art. 16.º - 1 - O conselho de administração designará de entre os seus membros aquele que deverá substituir o presidente nos seus impedimentos.
+Art. 16.º - 1 - O conselho de administração designará de entre os seus membros aquele que deverá substituir o presidente nos seus impedimentos.
 
 2 - Em caso de absoluta necessidade ou grande conveniência para a empresa, podem ser tomadas deliberações sem reunião do conselho de administração, obtendo-se o voto de cada administrador pela forma mais adequada e lavrando-se logo que possível acta assinada por todos.
 
 3 - O preenchimento de vagas no conselho de administração far-se-á nos termos dos n.os 3 e 4 do artigo 14.º, conforme a vaga a preencher se refira a administradores designados ou eleitos, cumprindo ao conselho até quinze dias após a vacatura solicitar à entidade pública competente para a nomeação que a mesma seja feita, ou requerer ao presidente da assembleia a convocação de uma assembleia geral extraordinária para a eleição.
 
-###### Art. 17.º - 1 - Compete ao conselho de administração gerir, com os mais amplos poderes, os negócios sociais e efectuar todas as operações relativas ao objecto social, de acordo com as directivas da assembleia geral.
+Art. 17.º - 1 - Compete ao conselho de administração gerir, com os mais amplos poderes, os negócios sociais e efectuar todas as operações relativas ao objecto social, de acordo com as directivas da assembleia geral.
 
 2 - Cabe, designadamente, na competência do conselho de administração, na medida em que se traduzam em actos de administração ordinária:
 
@@ -249,13 +269,13 @@ d) Constituir mandatários para a prática de determinados actos, definindo a ex
 
 e) Exercer todas as demais funções que lhe sejam atribuídas por lei ou pelos estatutos.
 
-###### Art. 18.º - 1 - O conselho de administração tem a faculdade de investir um dos seus membros como administrador-delegado, nos mais amplos poderes de administração, de modo a assegurar a gestão da empresa, sem prejuízo da sujeição dele à observância das directrizes e ao cumprimento das resoluções que hajam sido definidas ou tomadas pelo mesmo conselho.
+Art. 18.º - 1 - O conselho de administração tem a faculdade de investir um dos seus membros como administrador-delegado, nos mais amplos poderes de administração, de modo a assegurar a gestão da empresa, sem prejuízo da sujeição dele à observância das directrizes e ao cumprimento das resoluções que hajam sido definidas ou tomadas pelo mesmo conselho.
 
 2 - A delegação referida no número anterior é sempre livremente revogável.
 
 3 - O conselho de administração poderá ainda distribuir entre si, por pelouros, as tarefas a executar.
 
-###### Art. 19.º A sociedade obriga-se:
+Art. 19.º A sociedade obriga-se:
 
 a) Pela assinatura de dois administradores;
 
@@ -267,21 +287,21 @@ d) Pelas assinaturas de um administrador e um mandatário.
 
 ### CAPÍTULO V — Conselho fiscal
 
-###### Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal composto por três vogais efectivos e um suplente.
+Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal composto por três vogais efectivos e um suplente.
 
 2 - Os accionistas privados elegerão um dos vogais efectivos, em assembleia a eles restrita a que se aplicarão, com as devidas alterações, as regras da assembleia geral; a comissão de trabalhadores elegerá livremente de entre os trabalhadores da empresa outro dos vogais efectivos; o terceiro vogal efectivo e o suplente serão designados pela entidade a quem competir a gestão das participações do sector público.
 
-###### Art. 21.º - 1 - As funções do conselho fiscal são as definidas na lei e nos estatutos.
+Art. 21.º - 1 - As funções do conselho fiscal são as definidas na lei e nos estatutos.
 
 2 - O conselho fiscal poderá fazer-se assistir, no desempenho das suas funções, por técnicos ou empresas de auditoria.
 
-###### Art. 22.º - 1 - O conselho fiscal reúne ordinariamente uma vez por mês e extraordinariamente sempre que qualquer dos seus membros o julgue conveniente ou o conselho de administração o solicite.
+Art. 22.º - 1 - O conselho fiscal reúne ordinariamente uma vez por mês e extraordinariamente sempre que qualquer dos seus membros o julgue conveniente ou o conselho de administração o solicite.
 
 ### CAPÍTULO VI — Exercícios sociais, lucros, reservas e dividendos
 
-###### Art. 23.º O ano social é o civil. Em relação a cada ano será feito um balanço, que se encerrará com data de 31 de Dezembro.
+Art. 23.º O ano social é o civil. Em relação a cada ano será feito um balanço, que se encerrará com data de 31 de Dezembro.
 
-###### Art. 24.º Os lucros líquidos apurados no balanço, depois de deduzida a conveniente provisão para os impostos sobre o rendimento da sociedade, terão as seguintes aplicações:
+Art. 24.º Os lucros líquidos apurados no balanço, depois de deduzida a conveniente provisão para os impostos sobre o rendimento da sociedade, terão as seguintes aplicações:
 
 a) 10%, pelo menos, para a reserva legal;
 
@@ -289,21 +309,21 @@ b) Outras que a assembleia geral venha a deliberar.
 
 ### CAPÍTULO VII — Dissolução e liquidação
 
-###### Art. 25.º - 1 - A sociedade dissolve-se nos termos e casos previstos na lei.
+Art. 25.º - 1 - A sociedade dissolve-se nos termos e casos previstos na lei.
 
 2 - A liquidação será feita judicialmente.
 
 ### CAPÍTULO VIII — Disposições gerais e transitórias
 
-###### Art. 26.º - 1 - A duração do mandato dos membros eleitos dos órgãos sociais é de três anos, sem prejuízo da possibilidade da sua recondução ou reeleição.
+Art. 26.º - 1 - A duração do mandato dos membros eleitos dos órgãos sociais é de três anos, sem prejuízo da possibilidade da sua recondução ou reeleição.
 
 2 - Os membros dos órgãos sociais permanecerão no exercício das suas funções até à posse dos novos membros eleitos.
 
-###### Art. 27.º As remunerações dos administradores e dos membros do conselho fiscal serão fixadas anualmente pela assembleia geral.
+Art. 27.º As remunerações dos administradores e dos membros do conselho fiscal serão fixadas anualmente pela assembleia geral.
 
-###### Art. 28.º Poderão ser eleitas para os órgãos sociais pessoas colectivas, que se farão representar no exercício dos respectivos cargos por um dos seus administradores ou por mandatário constituído para esse fim.
+Art. 28.º Poderão ser eleitas para os órgãos sociais pessoas colectivas, que se farão representar no exercício dos respectivos cargos por um dos seus administradores ou por mandatário constituído para esse fim.
 
-###### Art. 29.º - 1 - Os títulos representativos das actuais acções cujo valor nominal é de 270$00 serão trocados pelos títulos referidos no artigo 4.º, observando-se as disposições constantes das alíneas seguintes:
+Art. 29.º - 1 - Os títulos representativos das actuais acções cujo valor nominal é de 270$00 serão trocados pelos títulos referidos no artigo 4.º, observando-se as disposições constantes das alíneas seguintes:
 
 a) A troca far-se-á na proporção de 1000 acções antigas por 679 acções novas;
 
@@ -313,4 +333,4 @@ c) Se não for possível a qualquer accionista obter o número de acções sufic
 
 2 - Apenas os titulares das novas acções podem exercer direitos sociais.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1049-1990-556002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:08:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 596e377c1c652887bca70c9755371b0bb349fbaf7d878fe1bbcd9077e6dfa7e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb82a0f552c6adf78f2cf0a9c5636306f3b7c15f2725643566b97f07cf918275
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:08:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Coimbra
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:438441:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241828:por
+  label: "Suspendida por 180 dias a exploração cinegética da zona de caça associativa concessionada pelo presente diploma,\
+    \ pela PORT.460/96.09.09.1996.MADRP, DR.IS-B [209] de 09.09.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/460-1996-241828
+  date: '1996-09-09'
+- type: amended_by
+  target: pt:dre:345160:por
+  label: "Renovada a concessão da zona de caça associativa pela PORT.745-B/96.1996.12.17.MADRP, DR.IS-B [29]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/745-b-1996-345160
+  date: '1996-12-17'
+- type: amended_by
+  target: pt:dre:438441:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça associativa criada pelo presente diploma, renovada\
+    \ pela Port 745-B/96 de 17-Dez, pela PORT.1211/2008.22.10.2008.MADRP, DR.IS [205] de 22.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1211-2008-438441
+  date: '2008-10-22'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:08:16Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +149,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 1 de Outubro de 1990.**
+Assinada em 1 de Outubro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23600/42654265.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23600/42654265.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23600/42654265.pdf)

@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15800/0419304207.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/3/2018/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bcd363b86ccee76b3faeeaeecee99eb0e6c83a4f48c9ba3689bbb4d07ef0322
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c16b616c1917a9846deaf5efcb91b1defd7fc5e993118d8c9bfba83d504a7ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,40 +70,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
+- Assembleia da República
 - Assembleia de VOTO
-- Parlamentar
+- Autarquia Local
 - Campanha Eleitoral
-- Eleição
-- RDP
-- RTP
 - Círculo Eleitoral
-- Contabilidade
-- Ministério da Administração Interna
 - Comissão Nacional de Eleições
-- Sistema Judicial
+- Contabilidade
 - Definição de Competências
 - Direito de Antena
-- Eleição Legislativa
+- Direito de Voto
+- Eleição
 - Eleição Autárquica
+- Eleição Legislativa
 - Eleição Presidencial
 - Fiscalização
-- Secretaria Geral
-- Presidente da República
 - Imprensa
-- Publicitação
 - Lei Eleitoral
-- Sistema Eleitoral
+- Ministério da Administração Interna
+- Parlamentar
+- Presidente da República
+- Publicitação
 - Radiodifusão
-- Assembleia da República
+- RDP
+- Recurso
 - REDE Social
 - Referendo
 - Referendo Local
 - Resultado Eleitoral
+- RTP
+- Secretaria Geral
+- Sistema Eleitoral
+- Sistema Judicial
 - Televisão
-- Autarquia Local
 - VOTO Electrónico
-- Direito de Voto
 relationships:
 - type: amended_by
   target: pt:dre:164590039:por
@@ -153,16 +153,164 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2005/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2005/09/08/p/dre
+- type: cites
+  target: pt:dre:106955047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106955048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116043536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014791:por
+  label: null
+  source: null
 article_structure:
-  article_count: 79
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:36Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +353,9 @@ b) Os que notoriamente apresentem limitação ou alteração grave das funções
 
 c) ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As candidaturas definitivamente admitidas são imediatamente afixadas à porta do tribunal e enviadas, por cópia, ao Secretário-Geral do Ministério da Administração Interna ou, nas regiões autónomas, ao Representante da República, e às câmaras municipais, bem como, no estrangeiro, às representações diplomáticas e postos consulares, que as publicam, no prazo de dois dias, por editais afixados à porta de todas as câmaras municipais e juntas de freguesia, bem como daquelas representações diplomáticas e consulares no estrangeiro.
 
@@ -213,7 +363,9 @@ c) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -223,7 +375,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 33.º-A — [...]
+Artigo 33.º-A
+
+[...]
 
 ...
 
@@ -231,7 +385,9 @@ a) Nos postos e secções consulares, incluindo os consulados honorários com co
 
 b) ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Até ao vigésimo sétimo dia anterior ao da eleição, os candidatos ou os mandatários das diferentes candidaturas indicam, por escrito, ao presidente da câmara municipal, ou às autoridades diplomáticas e consulares, tantos delegados e tantos suplentes quantas as secções de voto em que haja sido desdobrada a assembleia de voto.
 
@@ -241,7 +397,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Até ao vigésimo segundo dia anterior ao da eleição o presidente da câmara municipal designa de entre os cidadãos eleitores inscritos em cada assembleia ou secção de voto os que devem fazer parte das mesas das assembleias ou secções de voto.
 
@@ -267,13 +425,17 @@ b) O edital a que se refere o n.º 3 é afixado na sede do município capital de
 
 10 - Para efeitos do disposto no n.º 3 do artigo 35.º-A, o presidente da câmara do município capital de distrito pode determinar a constituição de mais de uma mesa de voto antecipado em mobilidade.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - O presidente da câmara municipal entrega a cada presidente da assembleia de voto, até três dias antes do dia designado para a eleição, um caderno destinado às atas das operações eleitorais, com termo de abertura por ele assinado e com todas as folhas por ele rubricadas, bem como os impressos e mapas que se tornem necessários.
 
 2 - O presidente da câmara municipal entrega também a cada presidente de assembleia ou secção de voto, até três dias antes do dia designado para a eleição, os boletins de voto bem como as respetivas matrizes em braille.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -285,7 +447,9 @@ b) O edital a que se refere o n.º 3 é afixado na sede do município capital de
 
 5 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - O direito de voto é exercido presencialmente.
 
@@ -293,11 +457,15 @@ b) O edital a que se refere o n.º 3 é afixado na sede do município capital de
 
 3 - ...
 
-###### Artigo 70.º-A — Voto antecipado em mobilidade
+Artigo 70.º-A
+
+Voto antecipado em mobilidade
 
 Podem votar antecipadamente em mobilidade todos os eleitores recenseados no território nacional que nele pretendam exercer o seu direito de voto.
 
-###### Artigo 70.º-B — Voto antecipado
+Artigo 70.º-B
+
+Voto antecipado
 
 1 - Podem votar antecipadamente os eleitores que:
 
@@ -337,7 +505,9 @@ f) Que vivam ou que acompanhem os eleitores mencionados nas alíneas anteriores.
 
 11 - (Revogado.)
 
-###### Artigo 70.º-C — Modo de exercício do direito de voto antecipado em mobilidade em território nacional
+Artigo 70.º-C
+
+Modo de exercício do direito de voto antecipado em mobilidade em território nacional
 
 1 - Os eleitores referidos no artigo 70.º-A exercem o seu direito de sufrágio numa mesa de voto em mobilidade constituída para o efeito, nos termos do artigo 35.º-A.
 
@@ -383,7 +553,9 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 16 - A junta de freguesia destinatária dos votos recebidos remete-os ao presidente da mesa da assembleia de voto até ao dia e hora previstos no artigo 32.º
 
-###### Artigo 70.º-D — Modo de exercício do direito de voto antecipado por doentes internados e por presos
+Artigo 70.º-D
+
+Modo de exercício do direito de voto antecipado por doentes internados e por presos
 
 1 - Os eleitores que se encontrem nas condições previstas no n.º 1 do artigo 70.º-B podem requerer, por meios eletrónicos ou por via postal, à administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, até ao vigésimo dia anterior ao da eleição, o exercício do direito de voto antecipado, indicando o número do seu documento de identificação civil e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direção do estabelecimento hospitalar, ou documento emitido pelo diretor do estabelecimento prisional, conforme os casos.
 
@@ -405,7 +577,9 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 10 - O disposto no n.º 5 efetua-se entre o sexto e o quinto dias anteriores ao do segundo sufrágio.
 
-###### Artigo 70.º-E — Modo de exercício do direito de voto antecipado por eleitores deslocados no estrangeiro
+Artigo 70.º-E
+
+Modo de exercício do direito de voto antecipado por eleitores deslocados no estrangeiro
 
 1 - Os eleitores que se encontrem nas condições previstas no n.º 2 do artigo 70.º-B podem exercer o direito de sufrágio entre o décimo segundo e o décimo dias anteriores ao da eleição, junto das representações diplomáticas, consulares ou nas delegações externas das instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos estabelecidos nos n.os 7 a 14 do artigo 70.º-C.
 
@@ -417,7 +591,9 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 5 - No caso de realização de segundo sufrágio, as operações referidas nos números anteriores realizam-se entre o décimo segundo e o décimo dias anteriores ao da eleição, utilizando-se, se necessário, os boletins do primeiro sufrágio.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - ...
 
@@ -429,13 +605,17 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 5 - Os eleitores portadores de deficiência visual podem, se assim o entenderem, requerer à mesa a disponibilização de matriz em braille que lhes permita, sozinhos, praticar os atos descritos no artigo 87.º
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - (Atual corpo do artigo.)
 
 2 - Os eleitores podem obter informação sobre o local onde exercer o seu direito de voto na sua junta de freguesia, aberta para esse efeito no dia da eleição, para além de outras formas de acesso à referida informação disponibilizadas pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna.
 
-###### Artigo 77.º-A — [...]
+Artigo 77.º-A
+
+[...]
 
 1 - ...
 
@@ -445,7 +625,9 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 4 - Os eleitores inscritos para o voto antecipado em mobilidade, que não o tenham exercido, podem fazê-lo no dia da eleição na assembleia de voto onde se encontrem recenseados.
 
-###### Artigo 86.º — Boletins de voto e matrizes em braille
+Artigo 86.º
+
+Boletins de voto e matrizes em braille
 
 1 - ...
 
@@ -465,7 +647,9 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - Cada eleitor, apresentando-se perante a mesa, indica o seu nome e entrega ao presidente o seu documento de identificação civil, se o tiver.
 
@@ -483,7 +667,9 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 8 - Se, por inadvertência, o eleitor deteriorar o boletim, deve pedir outro ao presidente, devolvendo-lhe o primeiro. O presidente escreve no boletim devolvido a nota de inutilizado, rubrica-o e conserva-o para os efeitos do n.º 8 do artigo 86.º
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - ...
 
@@ -493,11 +679,15 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 4 - Considera-se ainda nulo o voto antecipado quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 70.º-B, 70.º-C, 70.º-D e 70.º-E ou seja recebido em sobrescrito que não esteja devidamente fechado.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 Encerrada a votação, o presidente da assembleia ou secção de voto procede à contagem dos boletins que não foram utilizados e dos que foram inutilizados pelos eleitores e encerra-os em sobrescrito próprio, que fecha e lacra para o efeito do n.º 8 do artigo 86.º
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -507,7 +697,9 @@ Encerrada a votação, o presidente da assembleia ou secção de voto procede à
 
 4 - Para o efeito da designação prevista nas alíneas a) e c) do n.º 1 do artigo 98.º, a administração eleitoral da Secretaria-Geral do Ministério da Administração Interna comunica a sua decisão ao presidente do Tribunal da Relação respetivo e aos membros do Governo responsáveis pelas áreas da administração interna e da educação.
 
-###### Artigo 97.º-A — [...]
+Artigo 97.º-A
+
+[...]
 
 1 - Em cada área de jurisdição consular constitui-se, até à antevéspera do início da votação, uma assembleia de apuramento intermédio, composta pelo titular do posto ou da secção consulares, que preside, um jurista e um presidente de assembleia de voto por cada conjunto até 100 000 eleitores, designados pelo presidente, à qual compete exercer as funções atribuídas no território nacional às assembleias de apuramento distrital.
 
@@ -517,7 +709,9 @@ Encerrada a votação, o presidente da assembleia ou secção de voto procede à
 
 4 - Para efeitos do cumprimento do número anterior, pode recorrer-se ao envio por meios eletrónicos, quando necessário.
 
-###### Artigo 113.º-A — [...]
+Artigo 113.º-A
+
+[...]
 
 1 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna fornece ao presidente do Tribunal Constitucional, no dia seguinte à realização do primeiro sufrágio, os resultados do escrutínio provisório.
 
@@ -525,7 +719,9 @@ Encerrada a votação, o presidente da assembleia ou secção de voto procede à
 
 3 - ...
 
-###### Artigo 159.º-A — [...]
+Artigo 159.º-A
+
+[...]
 
 1 - ...
 
@@ -575,13 +771,17 @@ b) Os que notoriamente apresentem limitação ou alteração grave das funções
 
 c) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
 2 - Os cidadãos portugueses que tenham outra nacionalidade não podem ser candidatos pelo círculo eleitoral que abranja o território do país dessa nacionalidade, quando exerçam, em órgãos desse Estado, cargos políticos ou altos cargos públicos equiparados a estes segundo o critério da lei portuguesa.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -589,13 +789,17 @@ c) ...
 
 3 - No estrangeiro, a votação presencial no dia anterior ao marcado para a eleição decorre entre as 8 e as 19 horas locais e, no dia da eleição, das 8 horas até à hora limite do exercício do direito de voto em território nacional, competindo à mesa da assembleia de voto, com a colaboração dos delegados dos candidatos, garantir as condições de liberdade de voto durante os dois dias de votação e as suas interrupções, bem como a inviolabilidade das urnas eleitorais, que são seladas no início das operações eleitorais.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Os candidatos de cada lista designam, de entre eles ou de entre os eleitores inscritos no respetivo círculo, mandatário para os representar nas operações referentes ao julgamento da elegibilidade e nas operações subsequentes, podendo no caso dos círculos dos eleitores residentes no estrangeiro ser indicado um eleitor inscrito no território nacional.
 
 2 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - As listas definitivamente admitidas são imediatamente afixadas à porta do tribunal e enviadas, por cópia, à Comissão Nacional de Eleições e ao Secretário-Geral do Ministério da Administração Interna ou, nas regiões autónomas, ao Representante da República, e às câmaras municipais, bem como, no estrangeiro, às representações diplomáticas e postos consulares, que as publicam, no prazo de dois dias, por editais afixados à porta de todas as câmaras municipais do círculo e daquelas representações diplomáticas e consulares no estrangeiro.
 
@@ -603,7 +807,9 @@ c) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -611,7 +817,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -623,13 +831,17 @@ c) ...
 
 5 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - No estrangeiro, as assembleias de voto reúnem nos termos dos n.os 2 e 3 do artigo 20.º
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -637,7 +849,9 @@ c) ...
 
 3 - Tratando-se de assembleias de voto que funcionem no estrangeiro, a competência prevista no n.º 1 é do presidente da comissão recenseadora.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - Até ao vigésimo quinto dia anterior ao da eleição, os candidatos ou os mandatários das diferentes listas indicam por escrito ao presidente da câmara municipal os delegados e suplentes para as respetivas assembleias e secções de voto.
 
@@ -647,7 +861,9 @@ c) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Até ao vigésimo quarto dia anterior ao da eleição devem os delegados reunir-se na sede da junta de freguesia, a convocação do respetivo presidente, para procederem à escolha dos membros da mesa das assembleias ou secções de voto, devendo essa escolha ser imediatamente comunicada ao presidente da câmara municipal. Quando a assembleia de voto haja sido desdobrada, está presente à reunião apenas um delegado de cada lista de entre os que houverem sido propostos pelos candidatos ou pelos mandatários das diferentes listas.
 
@@ -679,7 +895,9 @@ d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câm
 
 11 - Tratando-se de assembleias de voto que funcionem no estrangeiro, o edital previsto no n.º 4 é afixado à porta do local onde as mesmas reúnem no dia da eleição, sendo dispensada a comunicação prevista no n.º 6.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -693,13 +911,17 @@ d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câm
 
 6 - No estrangeiro, idêntico direito é atribuído aos membros da mesa que exerçam funções em entidades ou serviços oficiais nacionais.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - O presidente da câmara municipal entrega a cada presidente de assembleia ou secção de voto, até três dias antes do dia designado para a eleição, um caderno destinado às atas das operações eleitorais, com termo de abertura por ele assinado e com todas as folhas por ele rubricadas, bem como os impressos e mapas que se tornem necessários.
 
 2 - O presidente da câmara municipal entrega também a cada presidente de assembleia ou secção de voto, até três dias antes do dia designado para a eleição, os boletins de voto bem como as respetivas matrizes em braille.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -711,7 +933,9 @@ d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câm
 
 5 - As cópias dos cadernos eleitorais referidas no número anterior apenas podem ser utilizadas para a finalidade aí prevista e devem ser destruídas após o termo da campanha eleitoral.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -725,7 +949,9 @@ d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câm
 
 6 - ...
 
-###### Artigo 79.º — Modo de exercício do direito de voto
+Artigo 79.º
+
+Modo de exercício do direito de voto
 
 1 - ...
 
@@ -737,11 +963,15 @@ d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câm
 
 5 - No estrangeiro, apenas será admitido a votar o eleitor inscrito no caderno eleitoral existente no posto ou secção consular a que pertence a localidade onde reside.
 
-###### Artigo 79.º-A — Voto antecipado em mobilidade
+Artigo 79.º-A
+
+Voto antecipado em mobilidade
 
 Podem votar antecipadamente em mobilidade todos os eleitores recenseados no território nacional que nele pretendam exercer o seu direito de voto.
 
-###### Artigo 79.º-B — Voto antecipado
+Artigo 79.º-B
+
+Voto antecipado
 
 1 - Podem votar antecipadamente os eleitores que:
 
@@ -779,7 +1009,9 @@ f) Que vivam ou que acompanhem os eleitores mencionados nas alíneas anteriores.
 
 10 - (Revogado.)
 
-###### Artigo 79.º-C — Modo de exercício do direito de voto antecipado em mobilidade em território nacional
+Artigo 79.º-C
+
+Modo de exercício do direito de voto antecipado em mobilidade em território nacional
 
 1 - Os eleitores referidos no artigo 79.º-A exercem o seu direito de sufrágio numa mesa de voto em mobilidade constituída para o efeito nos termos do artigo 40.º-A.
 
@@ -825,7 +1057,9 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 16 - A junta de freguesia destinatária dos votos recebidos remete-os ao presidente da mesa da assembleia de voto até ao dia e hora previstos no artigo 41.º
 
-###### Artigo 79.º-D — Modo de exercício do direito de voto antecipado por doentes internados e por presos
+Artigo 79.º-D
+
+Modo de exercício do direito de voto antecipado por doentes internados e por presos
 
 1 - Os eleitores que se encontrem nas condições previstas no n.º 1 do artigo 79.º-B podem requerer, por meios eletrónicos ou por via postal, à administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, até ao vigésimo dia anterior ao da eleição, o exercício do direito de voto antecipado, indicando o número do seu documento de identificação civil e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direção do estabelecimento hospitalar, ou documento emitido pelo diretor do estabelecimento prisional, conforme os casos.
 
@@ -841,7 +1075,9 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 7 - Os estabelecimentos hospitalares e prisionais onde se encontrem eleitores abrangidos pelo disposto no n.º 1 devem garantir as condições necessárias ao exercício do direito de voto antecipado.
 
-###### Artigo 79.º-E — Modo de exercício do direito de voto antecipado por eleitores deslocados no estrangeiro
+Artigo 79.º-E
+
+Modo de exercício do direito de voto antecipado por eleitores deslocados no estrangeiro
 
 1 - Os eleitores que se encontrem nas condições previstas no n.º 2 do artigo 79.º-B podem exercer o direito de sufrágio entre o décimo segundo e o décimo dias anteriores ao da eleição, junto das representações diplomáticas, consulares ou nas delegações externas das instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos estabelecidos nos n.os 7 a 14 do artigo 79.º-C.
 
@@ -851,11 +1087,15 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 4 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelas listas que nomeiem delegados até ao décimo sexto dia anterior ao da eleição.
 
-###### Artigo 85.º — Informação sobre o local de exercício de sufrágio
+Artigo 85.º
+
+Informação sobre o local de exercício de sufrágio
 
 Os eleitores podem obter informação sobre o local onde exercer o seu direito de voto na sua junta de freguesia, aberta para esse efeito no dia da eleição, para além de outras formas de acesso à referida informação disponibilizadas pela administração eleitoral.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - ...
 
@@ -865,7 +1105,9 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 4 - Os eleitores inscritos para o voto antecipado em mobilidade, que não o tenham exercido, podem fazê-lo no dia da eleição na assembleia de voto onde se encontrem recenseados.
 
-###### Artigo 95.º — Boletins de voto e matrizes em braille
+Artigo 95.º
+
+Boletins de voto e matrizes em braille
 
 1 - ...
 
@@ -885,7 +1127,9 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 9 - Tratando-se de assembleias de voto que reúnam fora do território nacional, as competências atribuídas ao presidente da câmara municipal no número anterior são deferidas ao presidente da comissão recenseadora.
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - Cada eleitor, apresentando-se perante a mesa, indica o seu nome e entrega ao presidente o seu documento de identificação civil, se o tiver.
 
@@ -903,7 +1147,9 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 8 - Se, por inadvertência, o eleitor deteriorar o boletim, deve pedir outro ao presidente, devolvendo-lhe o primeiro. O presidente escreve no boletim devolvido a nota de inutilizado, rubrica-o e conserva-o para os efeitos do n.º 8 do artigo 95.º
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -915,7 +1161,9 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 5 - Os eleitores portadores de deficiência visual podem, se assim o entenderem, requerer à mesa a disponibilização de matriz em braille que lhes permita, sozinhos, praticar os atos descritos no artigo 96.º
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - ...
 
@@ -925,17 +1173,23 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 4 - Considera-se ainda nulo o voto antecipado e o voto postal quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 79.º-B, 79.º-C, 79.º-D, 79.º-E e 79.º-G ou seja recebido em sobrescrito que não esteja devidamente fechado.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 Encerrada a votação, o presidente da assembleia ou secção de voto procede à contagem dos boletins que não foram utilizados e dos que foram inutilizados pelos eleitores e encerra-os em sobrescrito próprio, que fecha e lacra para o efeito do n.º 8 do artigo 95.º
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Na situação prevista no n.º 1 do artigo 101.º-A, os boletins de voto nulos e aqueles sobre os quais haja incidido reclamação ou protesto são, depois de rubricados, remetidos à assembleia de apuramento geral do círculo respetivo, ao cuidado do Secretário-Geral do Ministério da Administração Interna, com os documentos que lhes digam respeito.
 
-###### Artigo 172.º — Remissões
+Artigo 172.º
+
+Remissões
 
 1 - No estrangeiro, em tudo o que não estiver já expressamente regulado, aplicam-se as regras gerais contidas nesta lei, com as necessárias adaptações.
 
@@ -957,7 +1211,9 @@ Assembleia de voto no estrangeiro
 
 A cada secção ou posto consular corresponde uma assembleia de voto, procedendo-se ao respetivo desdobramento quando aí estejam inscritos para votar presencialmente mais de 5000 eleitores.
 
-###### Artigo 40.º-B — Mesas de voto antecipado em mobilidade
+Artigo 40.º-B
+
+Mesas de voto antecipado em mobilidade
 
 1 - São constituídas as seguintes mesas de voto antecipado em mobilidade:
 
@@ -973,7 +1229,9 @@ c) Na Região Autónoma dos Açores, nove mesas, a funcionar uma por cada Ilha, 
 
 4 - A designação dos membros das mesas é efetuada nos termos do artigo 47.º
 
-###### Artigo 42.º-A — Locais de assembleia de voto no estrangeiro
+Artigo 42.º-A
+
+Locais de assembleia de voto no estrangeiro
 
 São constituídas assembleias de voto:
 
@@ -981,7 +1239,9 @@ a) Nos postos e secções consulares, incluindo os consulados honorários com co
 
 b) Se estritamente necessário, noutros locais em que seja possível assegurar a fiscalização das operações eleitorais por delegados de, pelo menos, duas das candidaturas.
 
-###### Artigo 79.º-F — Direito de opção dos eleitores residentes no estrangeiro
+Artigo 79.º-F
+
+Direito de opção dos eleitores residentes no estrangeiro
 
 1 - A opção entre o voto presencial ou voto por via postal por parte dos eleitores residentes no estrangeiro é feita junto da respetiva comissão recenseadora até à data da marcação de cada ato eleitoral.
 
@@ -989,7 +1249,9 @@ b) Se estritamente necessário, noutros locais em que seja possível assegurar a
 
 3 - A opção referida no número anterior pode ser alterada a todo o tempo junto da respetiva comissão recenseadora no estrangeiro, salvo no período entre a data da marcação e a de realização de cada ato eleitoral.
 
-###### Artigo 79.º-G — Voto postal por eleitores residentes no estrangeiro
+Artigo 79.º-G
+
+Voto postal por eleitores residentes no estrangeiro
 
 1 - O voto por via postal é gratuito para os eleitores residentes no estrangeiro, obrigando-se o Estado ao pagamento das respetivas franquias.
 
@@ -1007,7 +1269,9 @@ b) O outro envelope, branco e de tamanho maior, de forma a conter o envelope do 
 
 6 - O envelope de cor verde, devidamente fechado, é introduzido no envelope branco, juntamente com uma fotocópia do cartão de cidadão ou do bilhete de identidade, que o eleitor remete, igualmente fechado, antes do dia da eleição.
 
-###### Artigo 101.º-A — Apuramento da votação presencial no estrangeiro
+Artigo 101.º-A
+
+Apuramento da votação presencial no estrangeiro
 
 1 - Nas assembleias de voto com mais de 100 eleitores inscritos para votação presencial procede-se ao apuramento nos termos gerais.
 
@@ -1015,21 +1279,29 @@ b) O outro envelope, branco e de tamanho maior, de forma a conter o envelope do 
 
 3 - No caso referido no número anterior os sobrescritos são enviados imediatamente, preferencialmente por via diplomática, para a assembleia de recolha e contagem de votos dos eleitores portugueses residentes no estrangeiro, do círculo correspondente, ao cuidado do Secretário-Geral do Ministério da Administração Interna, para que aí se proceda à contagem pela respetiva mesa, na presença dos delegados das listas.
 
-###### Artigo 106.º-A — Envio às assembleias de apuramento geral dos círculos eleitorais do estrangeiro
+Artigo 106.º-A
+
+Envio às assembleias de apuramento geral dos círculos eleitorais do estrangeiro
 
 Na situação prevista no n.º 1 do artigo 101.º-A, os presidentes das assembleias de voto constituídas no estrangeiro enviam ao presidente da assembleia de apuramento geral do círculo respetivo, ao cuidado do Secretário-Geral do Ministério da Administração Interna, preferencialmente por via diplomática, os cadernos eleitorais, as atas e demais documentos respeitantes à votação.
 
-###### Artigo 106.º-B — Edital sobre as assembleias de recolha e contagem dos votos
+Artigo 106.º-B
+
+Edital sobre as assembleias de recolha e contagem dos votos
 
 Até 15 dias antes da eleição, a Comissão Nacional de Eleições, por edital afixado e divulgado no seu sítio da Internet, anuncia o dia e hora em que reúnem as assembleias de recolha e contagem de votos dos eleitores residentes no estrangeiro.
 
-###### Artigo 106.º-C — Mesas das assembleias de recolha e contagem dos votos
+Artigo 106.º-C
+
+Mesas das assembleias de recolha e contagem dos votos
 
 1 - Nas assembleias de recolha e contagem de votos dos eleitores residentes no estrangeiro são constituídas as mesas necessárias para promover e dirigir as operações de apuramento.
 
 2 - Cada mesa é composta por um presidente e respetivo suplente e o número de vogais e escrutinadores necessários para o desempenho das funções que lhe estão cometidas.
 
-###### Artigo 106.º-D — Designação dos delegados das listas nas assembleias de recolha e contagem
+Artigo 106.º-D
+
+Designação dos delegados das listas nas assembleias de recolha e contagem
 
 1 - Nas assembleias de recolha e contagem de votos dos eleitores residentes no estrangeiro pode haver um delegado e respetivo suplente de cada lista de candidatos admitida.
 
@@ -1037,7 +1309,9 @@ Até 15 dias antes da eleição, a Comissão Nacional de Eleições, por edital 
 
 3 - A cada delegado e seu suplente é imediatamente entregue uma credencial pela Comissão Nacional de Eleições.
 
-###### Artigo 106.º-E — Designação dos membros das mesas das assembleias de recolha e contagem
+Artigo 106.º-E
+
+Designação dos membros das mesas das assembleias de recolha e contagem
 
 1 - No décimo segundo dia anterior ao da eleição, os delegados das diferentes listas reúnem em local disponibilizado pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna e procedem à escolha dos membros das mesas das assembleias de recolha e contagem de votos dos eleitores residentes no estrangeiro, comunicando-a imediatamente à Comissão Nacional de Eleições.
 
@@ -1051,19 +1325,27 @@ Até 15 dias antes da eleição, a Comissão Nacional de Eleições, por edital 
 
 6 - Até cinco dias antes do dia da eleição a Comissão Nacional de Eleições lavra os alvarás de nomeação dos membros das mesas das assembleias de recolha e contagem de votos dos eleitores residentes no estrangeiro.
 
-###### Artigo 106.º-F — Constituição das mesas das assembleias de recolha e contagem
+Artigo 106.º-F
+
+Constituição das mesas das assembleias de recolha e contagem
 
 Após a constituição das mesas é imediatamente divulgado edital da administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, assinado pelo presidente de cada mesa, contendo os nomes dos cidadãos que formam a mesa e o número de eleitores inscritos no estrangeiro e sujeitos a escrutínio por essa mesa.
 
-###### Artigo 106.º-G — Cadernos eleitorais
+Artigo 106.º-G
+
+Cadernos eleitorais
 
 Logo que definidas as assembleias de recolha e contagem de votos dos eleitores residentes no estrangeiro, a administração eleitoral da Secretaria-Geral do Ministério da Administração Interna providencia pela extração de duas cópias ou fotocópias dos cadernos eleitorais para serem entregues aos escrutinadores.
 
-###### Artigo 106.º-H — Outros elementos de trabalho da mesa das assembleias de recolha e contagem
+Artigo 106.º-H
+
+Outros elementos de trabalho da mesa das assembleias de recolha e contagem
 
 A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna disponibiliza aos presidentes das assembleias de recolha e contagem de votos dos eleitores residentes no estrangeiro um caderno destinado às atas das operações eleitorais, com termo de abertura por ele assinado e com todas as folhas por ele rubricadas, bem como os impressos e mapas que se tornem necessários.
 
-###### Artigo 106.º-I — Operações das assembleias de recolha e contagem dos votos
+Artigo 106.º-I
+
+Operações das assembleias de recolha e contagem dos votos
 
 1 - As assembleias de recolha e contagem de votos dos eleitores residentes no estrangeiro iniciam os seus trabalhos às 9 horas do décimo dia posterior ao da eleição em local disponibilizado pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna.
 
@@ -1081,7 +1363,9 @@ A administração eleitoral da Secretaria-Geral do Ministério da Administraçã
 
 8 - Seguidamente observa-se o disposto nos artigos 101.º a 106.º da presente lei, com as necessárias adaptações.
 
-###### Artigo 106.º-J — Apuramento geral da eleição nos círculos eleitorais dos residentes no estrangeiro
+Artigo 106.º-J
+
+Apuramento geral da eleição nos círculos eleitorais dos residentes no estrangeiro
 
 1 - Junto de cada uma das assembleias de recolha e contagem de votos dos eleitores residentes no estrangeiro funciona uma assembleia de apuramento geral constituída por:
 
@@ -1171,14 +1455,16 @@ e) A alínea a) do artigo 36.º do regime jurídico do referendo local, aprovado
 
 Aprovada em 18 de julho de 2018.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 12 de agosto de 2018.**
+Promulgada em 12 de agosto de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 14 de agosto de 2018.**
+Referendada em 14 de agosto de 2018.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+111587401

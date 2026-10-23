@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/718-1989-618475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T09:59:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 543596c8a3e8bbde57aedc3c04b25838fdeb27f48eaa259dad9d9a1f58db2f74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e87947006bebf2c3440e6fec8bb730b3442a10f9ab4396d069d06de49025a6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:59:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comunidade Europeia
+- Fruto
+- Importação
+- Preço
+- Tratado de Adesão CE
+relationships:
+- type: cites
+  target: pt:dre:546470:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:59:54Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +105,12 @@ Manda o Governo, pelos Ministros das Finanças, da Agricultura, Pescas e Aliment
 
 1.º Para a campanha de comercialização de 1989-1990, os preços de referência para a maçã e pêra são, por quilograma, para os produtos da categoria de qualidade I, de qualquer calibre, apresentados em embalagens, os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19400/35333533.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19400/35333533.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19400/35333533.pdf)
 
 2.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 11 de Agosto de 1989.**
+Assinada em 11 de Agosto de 1989.
 
 Pelo Ministro das Finanças, Fernando Manuel Barbosa Faria de Oliveira, Secretário de Estado Adjunto e das Finanças. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís Gonzaga de Sousa Morais Cardoso, Secretário de Estado da Alimentação. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.

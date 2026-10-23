@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/361-1989-610761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T09:51:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d045c063abcdc19433f580925a42fbd0c5b3a7b708dfb7674869ec518ff961b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dbaab856dd2b6d011f4b2c255354c2667ad55a1aae75db4d556b5940e1e25fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:51:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Secretariado de Administração
+- Escola Superior de Tecnologia e Gestão
+- Guarda
+- Instituto Politécnico
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O PLANO DE ESTUDOS DO CURSO DE SECRETARIADO DE ADMINISTRAÇÃO, PELA PORTARIA 1064/93, DE 23 DE OUTUBRO,\
+    \ PUBLICADA NO DR.IS-B, 249, DE 931023.\0 931023.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:577772:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:577772:por
+  label: "Revogada, findo o Processo de transição fixado nos termos do art. 31º da Port 413-A/98 de 17-Jul, alterada pela\
+    \ Port 533-A/99 de 22-Jul, pela PORT.1403/2001.2001.12.11.MEDR.IS-B [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1403-2001-577772
+  date: '2001-12-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:51:16Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +179,7 @@ O curso entra em funcionamento progressivamente, ano curricular a ano curricular
 
 Ministério da Educação.
 
-**Assinada em 21 de Abril de 1989.**
+Assinada em 21 de Abril de 1989.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -171,4 +191,4 @@ Curso: Secretariado de Administração
 
 Grau: bacharel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/11500/20172019.pdf))](https://files.diariodarepublica.pt/1s/1989/05/11500/20172019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/11500/20172019.pdf)

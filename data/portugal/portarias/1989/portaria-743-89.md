@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/743-1989-618321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffdf3d4fb56a7ec16429ebea265d518c9cbb2342bcfd8d1b61e8711f25392cd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9666edf793e67c2e42f2c0021d0d8232f35b1c2e482131b8724dd0d5fbeabfa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Gestão
+- Ensino Superior
+- ISAG
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:144782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:359679:por
+  label: "Alterado o plano de estudos (anexo ao Dec Lei 375/87 de 11-Dez) pela Port 388/97.1997.06.12.ME, DR.IS-B [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/388-1997-359679
+  date: '1997-06-12'
+- type: cites
+  target: pt:dre:498135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:29Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +114,12 @@ Manda o Governo, pelo Ministro da Educação, ao abrigo e nos termos do artigo 2
 
 Ministério da Educação.
 
-**Assinada em 9 de Agosto de 1989.**
+Assinada em 9 de Agosto de 1989.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 ## ANEXO — Instituto Superior de Administração e Gestão (ISAG)
 
 Curso superior de Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/19800/36443644.pdf))](https://files.diariodarepublica.pt/1s/1989/08/19800/36443644.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/19800/36443644.pdf)

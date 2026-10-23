@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/366-1989-610888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T09:51:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28e0701e5a89604652e67a4e1a2ad92138f0e0670aa9efce8137b2dc5264aaef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c37a357a55015be4c260155b7092807591c4a8da2359644175b0079e5ae0a95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:51:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Emolumento
+- Registo Nacional de Pessoas Coletivas
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ARTIGOS 1, 2 E 5 PELA PORTARIA NUMERO 112/91, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SERIE-B, NUMERO 32,\
+    \ DE 7/2/91.\02/91.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:312427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610474:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:321969:por
+  label: Rectificada pela DECL.DD3868.1989.06.21.PCM DR.IS [148]SUPL DE 30/JUN/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-321969
+  date: '1989-06-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:51:21Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +114,13 @@ Manda o Governo, pelo Ministro da Justiça, nos termos do n.º 1 do artigo 73.º
 
 Tabela de emolumentos do Registo Nacional de Pessoas Colectivas
 
-###### Artigo 1.º Por pedido de certificado de admissibilidade de firma ou denominação: 1500$00.
+Artigo 1.º Por pedido de certificado de admissibilidade de firma ou denominação: 1500$00.
 
-###### Art. 2.º - 1 - Pela emissão renovação, 2.ª via, invalidade ou desistência de certificado: 3000$00.
+Art. 2.º - 1 - Pela emissão renovação, 2.ª via, invalidade ou desistência de certificado: 3000$00.
 
 2 - Pelo uso de palavras estrangeiras ou de feição estrangeira sujeitas a emolumentos agravados nos termos do artigo 3.º do [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474) acresce ao n.º 1: 15000$00.
 
-###### Art. 3.º - 1 - Por cada inscrição nos termos previstos nos artigos 36.º a 38.º e 40.º a 42.º do [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), de 3 de Fevereiro: 1500$00.
+Art. 3.º - 1 - Por cada inscrição nos termos previstos nos artigos 36.º a 38.º e 40.º a 42.º do [Decreto-Lei n.º 42/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1989-610474), de 3 de Fevereiro: 1500$00.
 
 2 - Por cada inscrição de constituição de pessoa colectiva que exerça actividade de carácter lucrativo acresce ao n.º 1: 0,5% do capital, no mínimo de 5000$00.
 
@@ -108,15 +132,15 @@ Tabela de emolumentos do Registo Nacional de Pessoas Colectivas
 
 6 - Por cada inscrição de alteração de firma ou denominação que passe a conter palavras estrangeiras ou de feição estrangeira sujeita a emolumentos agravados nos termos do artigo 3.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586) acresce ao n.º 2: 0,5% do capital, no mínimo de 25000$00 e no máximo de 500000$00.
 
-###### Art. 4.º Por cada registo de comunicação de nome comercial nos termos do n.º 6 do artigo 2.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 3 de Fevereiro: 1500$00.
+Art. 4.º Por cada registo de comunicação de nome comercial nos termos do n.º 6 do artigo 2.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 3 de Fevereiro: 1500$00.
 
-###### Art. 5.º Por cada cartão provisório e por cada actualização, correcção ou 2.ª via de cartão: 750$00.
+Art. 5.º Por cada cartão provisório e por cada actualização, correcção ou 2.ª via de cartão: 750$00.
 
-###### Art. 6.º Por cada certidão ou cópia de registo informático: 500$00.
+Art. 6.º Por cada certidão ou cópia de registo informático: 500$00.
 
-###### Art. 7.º Pelo conhecimento de cada impresso a pedido do requerente: 100$00.
+Art. 7.º Pelo conhecimento de cada impresso a pedido do requerente: 100$00.
 
-###### Art. 8.º - 1 - É fixado em 4000$00 o preparo de recurso hierárquico, que é devolvido no caso de provimento ou constituiu emolumento no caso de rejeição.
+Art. 8.º - 1 - É fixado em 4000$00 o preparo de recurso hierárquico, que é devolvido no caso de provimento ou constituiu emolumento no caso de rejeição.
 
 2 - O despacho de provimento parcial fixa a proporção do preparo que constitui emolumento.
 
@@ -130,6 +154,6 @@ Tabela de emolumentos do Registo Nacional de Pessoas Colectivas
 
 Ministério da Justiça.
 
-**Assinada em 3 de Maio de 1989.**
+Assinada em 3 de Maio de 1989.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

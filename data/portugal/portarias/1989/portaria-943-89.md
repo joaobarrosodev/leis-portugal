@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/943-1989-549417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:05:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0945bd7aa2174ad13f3180a7e83c8e001a793af71c0fa335dc021f04cb29688e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c84c5129022e0b8b48bd640d87e4c4ea161e0c1780b615c21c6299ce6d03192
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:05:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso Superior de Animação Cultural
+- Curso Superior de Educação Social
+- Ensino Superior
+- Instituto Superior de Ciências Educativas
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:631058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631058:por
+  label: "Determinada nos termos do art. 11º a caducidade da autorização de funcionamento do curso de bacharelato e educação\
+    \ social concedida pelo presente diploma, pela PORT.1068/2001.2001.09.04.ME, DR.IS-B [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1068-2001-631058
+  date: '2001-09-04'
+- type: cites
+  target: pt:dre:357903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:05:33Z'
   warnings: []
   errors: []
 ---
@@ -109,10 +129,10 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 9 de Outubro de 1989.**
+Assinada em 9 de Outubro de 1989.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 ## ANEXO — Instituto Superior de Ciências Educativas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24300/46444645.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24300/46444645.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24300/46444645.pdf)

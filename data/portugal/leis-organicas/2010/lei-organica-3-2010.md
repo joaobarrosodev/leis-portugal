@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/3/2010/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9a9f867d06da8b76c3d4de151d0b8a9fea649026eca3e5944c8ff124c61b8d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a969044d8153bf31ec97e237c5719062dd5eec089d4db33129bcad391ff3e22b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Assembleia de VOTO
-- Região Autónoma
-- Parlamentar
-- Eleição
+- Autarquia Local
+- Câmara Municipal
 - Definição de Competências
-- Eleição Legislativa
+- Direito de Voto
+- Eleição
 - Eleição Autárquica
+- Eleição Legislativa
 - Eleição Presidencial
 - Eleito Local
 - Fiscalização
-- Presidente da República
+- Governo
 - Incompatibilidades
 - Lei Eleitoral
-- Sistema Eleitoral
 - País Estrangeiro
-- Assembleia da República
+- Parlamentar
 - Parlamento Europeu
 - Partido Político
 - Presidente
+- Presidente da República
 - Referendo
 - Referendo Local
-- Câmara Municipal
+- Região Autónoma
 - Regime Jurídico
 - Resultado Eleitoral
-- Governo
-- Autarquia Local
+- Sistema Eleitoral
 - VOTO Electrónico
-- Direito de Voto
 relationships:
 - type: amended_by
   target: pt:dre:164590039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116090196:por
+  label: Alterados, a partir de 18.08.2018, e nos termos do art. 11.º, os arts. 37.º, 70.º, 70.º-A, 70.º-B, 70.º-C, , , 70.º-E,
+    86.º do Dec Lei 319-A/76, de 03-mai, na redação do presente diploma, pelo(a) Lei Orgânica n.º 3/2018 - Diário da República
+    n.º 158/2018, Série I de 2018-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2018-116090196
+  date: '2018-08-17'
+- type: amends
+  target: pt:numero:lei-organica:4/2000
+  label: "Altera os arts. 102.º, 118.º, 119.º e 120.º e adita os arts. 120º-A e 120º-B ao regime jurídico do referendo local,\
+    \ aprovado pela Lei Orgânica n.º 4/2000, de 24-Ago, DR IS-A [195]\0\0"
+  source: null
+  date: '2000-08-24'
 - type: cites
   target: eli:http://data
   label: null
@@ -144,16 +157,144 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/5/2005/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/5/2005/09/08/p/dre
+- type: cites
+  target: pt:dre:142521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679821:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:01Z'
   warnings: []
   errors: []
 ---
@@ -184,11 +325,15 @@ Os artigos 1.º, 1.º-B, 12.º, 31.º-A, 37.º, 70.º, 70.º-A, 70.º-B, 70.º-C
 
 3 - ...
 
-###### Artigo 1.º-B — [...]
+Artigo 1.º-B
+
+[...]
 
 A nacionalidade portuguesa e a inscrição no recenseamento eleitoral no estrangeiro são provas suficientes da existência de laços de efectiva ligação à comunidade nacional.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -196,11 +341,15 @@ A nacionalidade portuguesa e a inscrição no recenseamento eleitoral no estrang
 
 3 - No estrangeiro, a votação no dia anterior ao marcado para a eleição decorre entre as 8 e as 19 horas e, no dia da eleição, das 8 horas até à hora limite do exercício do direito de voto em território nacional, competindo à mesa da assembleia de voto, com a colaboração dos delegados candidatos, garantir as condições de liberdade de voto durante os dois dias de votação e as suas interrupções, bem como a inviolabilidade das urnas eleitorais, que são seladas no início das operações eleitorais.
 
-###### Artigo 31.º-A — [...]
+Artigo 31.º-A
+
+[...]
 
 A cada secção de voto ou posto consular corresponde uma assembleia de voto, procedendo-se ao respectivo desdobramento quando aí estejam inscritos mais de 5000 eleitores.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Até ao 20.º dia anterior ao dia da eleição, os candidatos ou os mandatários das diferentes candidaturas indicarão, por escrito, ao presidente da câmara municipal, da comissão administrativa municipal ou às autoridades diplomáticas e consulares, tantos delegados e tantos suplentes quantas as secções de voto em que haja sido desdobrada a assembleia de voto.
 
@@ -210,7 +359,9 @@ A cada secção de voto ou posto consular corresponde uma assembleia de voto, pr
 
 4 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - O direito de voto é exercido presencialmente, salvo o disposto quanto ao modo de exercício do voto antecipado.
 
@@ -218,7 +369,9 @@ A cada secção de voto ou posto consular corresponde uma assembleia de voto, pr
 
 3 - ...
 
-###### Artigo 70.º-A — [...]
+Artigo 70.º-A
+
+[...]
 
 1 - ...
 
@@ -258,7 +411,9 @@ e) Eleitores doentes em tratamento no estrangeiro, bem como os seus acompanhante
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 70.º-B — Modo de exercício do direito de voto antecipado por razões profissionais
+Artigo 70.º-B
+
+Modo de exercício do direito de voto antecipado por razões profissionais
 
 1 - Os eleitores que se encontrem nas condições previstas nas alíneas a), b), c), f) e g) do n.º 1 do artigo anterior podem dirigir-se ao presidente da câmara do município em cuja área se encontrem recenseados, entre o 10.º e o 5.º dia anteriores ao da eleição, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
 
@@ -282,7 +437,9 @@ e) Eleitores doentes em tratamento no estrangeiro, bem como os seus acompanhante
 
 11 - ...
 
-###### Artigo 70.º-C — [...]
+Artigo 70.º-C
+
+[...]
 
 1 - Os eleitores que se encontrem nas condições previstas nas alíneas d) e e) do n.º 1 do artigo 70.º-A podem requerer, por meios electrónicos ou por via postal, ao presidente da câmara do município em que se encontrem recenseados, até ao 20.º dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, enviando cópias do seu cartão de cidadão ou bilhete de identidade e cartão ou certidão de eleitor, juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direcção do estabelecimento hospitalar, ou documento emitido pelo director do estabelecimento prisional, conforme os casos.
 
@@ -304,7 +461,9 @@ e) Eleitores doentes em tratamento no estrangeiro, bem como os seus acompanhante
 
 10 - ...
 
-###### Artigo 70.º-D — [...]
+Artigo 70.º-D
+
+[...]
 
 1 - Os eleitores que se encontrem nas condições previstas nos n.os 2, 4 e 5 do artigo 70.º-A podem exercer o direito de sufrágio entre o 12.º e o 10.º dias anteriores à eleição, junto das representações diplomáticas, consulares ou nas delegações externas dos ministérios e instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos previstos no artigo 70.º-B, sendo a intervenção do presidente da câmara municipal da competência do funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respectiva.
 
@@ -314,7 +473,9 @@ e) Eleitores doentes em tratamento no estrangeiro, bem como os seus acompanhante
 
 4 - ...
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 O direito de voto é exercido apenas na assembleia eleitoral correspondente ao local por onde o eleitor esteja recenseado, salvo o disposto quanto ao modo de exercício do voto antecipado.»
 
@@ -350,7 +511,9 @@ Os artigos 79.º, 79.º-A, 79.º-B, 79.º-C e 84.º da Lei Eleitoral para a Asse
 
 3 - O direito de voto é exercido presencialmente pelo cidadão eleitor, salvo o disposto quanto ao modo de exercício do voto antecipado.
 
-###### Artigo 79.º-A — [...]
+Artigo 79.º-A
+
+[...]
 
 1 - ...
 
@@ -390,7 +553,9 @@ e) Eleitores doentes em tratamento no estrangeiro, bem como os seus acompanhante
 
 7 - (Anterior n.º 3.)
 
-###### Artigo 79.º-B — Modo de exercício do direito de voto antecipado por razões profissionais
+Artigo 79.º-B
+
+Modo de exercício do direito de voto antecipado por razões profissionais
 
 1 - Os eleitores que se encontrem nas condições previstas nas alíneas a), b), c), f) e g) do n.º 1 do artigo anterior podem dirigir-se ao presidente da câmara do município em cuja área se encontrem recenseados, entre o 10.º e o 5.º dias anteriores ao da eleição, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
 
@@ -412,7 +577,9 @@ e) Eleitores doentes em tratamento no estrangeiro, bem como os seus acompanhante
 
 10 - ...
 
-###### Artigo 79.º-C — Modo de exercício do direito de voto antecipado por doentes internados e por presos
+Artigo 79.º-C
+
+Modo de exercício do direito de voto antecipado por doentes internados e por presos
 
 1 - Os eleitores que se encontrem nas condições previstas nas alíneas d) e e) do n.º 1 do artigo 79.º-A podem requerer, por meios electrónicos ou por via postal, ao presidente da câmara do município em que se encontrem recenseados, até ao 20.º dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, enviando cópias do seu cartão de cidadão ou bilhete de identidade e cartão ou certidão de eleitor, juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direcção do estabelecimento hospitalar, ou documento emitido pelo director do estabelecimento prisional, conforme os casos.
 
@@ -428,7 +595,9 @@ e) Eleitores doentes em tratamento no estrangeiro, bem como os seus acompanhante
 
 7 - ...
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 O direito de voto é exercido apenas na assembleia eleitoral correspondente ao local por onde o eleitor esteja recenseado, salvo o disposto quanto ao modo de exercício do voto antecipado.»
 
@@ -446,7 +615,9 @@ Modo de exercício do direito de voto antecipado por eleitores deslocados no est
 
 3 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelas listas que nomeiem delegados até ao 16.º dia anterior à eleição.
 
-###### Artigo 79.º-E — Modo de exercício do voto por estudantes
+Artigo 79.º-E
+
+Modo de exercício do voto por estudantes
 
 1 - Os eleitores que se encontrem nas condições previstas no n.º 3 do artigo 79.º-A podem requerer, por meios electrónicos ou por via postal, ao presidente da câmara do município em que se encontrem recenseados a documentação necessária ao exercício do direito de voto no prazo e nas condições previstas nos n.os 1 e 2 do artigo 79.º-C.
 
@@ -482,7 +653,9 @@ g) Todos os eleitores não abrangidos pelas alíneas anteriores que, por força 
 
 3 - ...
 
-###### Artigo 118.º — Modo de exercício do direito de voto antecipado por razões profissionais
+Artigo 118.º
+
+Modo de exercício do direito de voto antecipado por razões profissionais
 
 1 - Qualquer eleitor que esteja nas condições previstas nas alíneas a), b), c), d) e g) do n.º 1 do artigo anterior pode dirigir-se ao presidente da câmara do município em cuja área se encontre recenseado, entre o 10.º e o 5.º dias anteriores ao da eleição, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
 
@@ -504,7 +677,9 @@ g) Todos os eleitores não abrangidos pelas alíneas anteriores que, por força 
 
 10 - ...
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - Os eleitores que se encontrem nas condições previstas nas alíneas e) e f) do n.º 1 do artigo 117.º podem requerer, por meios electrónicos ou por via postal, ao presidente da câmara do município em que se encontrem recenseados, até ao 20.º dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, enviando cópias do cartão de cidadão ou bilhete de identidade e cartão ou certidão de eleitor, juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direcção do estabelecimento hospitalar, ou documento emitido pelo director do estabelecimento prisional, conforme os casos.
 
@@ -520,7 +695,9 @@ g) Todos os eleitores não abrangidos pelas alíneas anteriores que, por força 
 
 7 - ...
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - ...
 
@@ -538,7 +715,9 @@ Os artigos 112.º, 128.º, 129.º e 130.º da [Lei n.º 15-A/98](https://diariod
 
 O direito de sufrágio é exercido presencialmente em assembleia de voto pelo eleitor, salvo o disposto quanto ao modo de exercício do voto antecipado.
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - ...
 
@@ -576,7 +755,9 @@ e) Os eleitores doentes em tratamento no estrangeiro, bem como os seus acompanha
 
 6 - (Anterior n.º 2.)
 
-###### Artigo 129.º — Modo de exercício do direito de voto antecipado por razões profissionais
+Artigo 129.º
+
+Modo de exercício do direito de voto antecipado por razões profissionais
 
 1 - Qualquer eleitor que esteja nas condições previstas nas alíneas a), b), c), f) e g) do n.º 1 do artigo anterior pode dirigir-se ao presidente da câmara do município em cuja área se encontre recenseado, entre o 10.º e o 5.º dias anteriores ao do referendo, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
 
@@ -600,7 +781,9 @@ e) Os eleitores doentes em tratamento no estrangeiro, bem como os seus acompanha
 
 11 - ...
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 1 - Os eleitores que se encontrem nas condições previstas nas alíneas d) e e) do n.º 1 do artigo 128.º podem requerer, por meios electrónicos ou por via postal, ao presidente da câmara do município em que se encontrem recenseados, até ao 20.º dia anterior ao do referendo, a documentação necessária ao exercício do direito de voto, enviando cópias do seu cartão de cidadão ou bilhete de identidade e cartão ou certidão de eleitor, juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direcção do estabelecimento hospitalar, ou documento emitido pelo director do estabelecimento prisional, conforme os casos.
 
@@ -630,7 +813,9 @@ Modo de exercício do direito de voto antecipado por eleitores deslocados no est
 
 3 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelos partidos e grupos de cidadãos eleitores intervenientes na campanha para o referendo que nomeiem delegados até ao 16.º dia anterior ao do referendo.
 
-###### Artigo 130.º-B — Modo de exercício do voto por estudantes
+Artigo 130.º-B
+
+Modo de exercício do voto por estudantes
 
 1 - Os eleitores que se encontrem nas condições previstas no n.º 3 do artigo 128.º podem requerer, por meios electrónicos ou por via postal, ao presidente da câmara do município em que se encontrem recenseados a documentação necessária ao exercício do direito de voto no prazo e nas condições previstas nos n.os 1 e 2 do artigo 130.º
 
@@ -648,7 +833,9 @@ Os artigos 102.º, 118.º, 119.º e 120.º do regime jurídico do referendo loca
 
 O direito de sufrágio é exercido presencialmente em assembleia de voto pelo eleitor, salvo o disposto quanto ao modo de exercício do voto antecipado.
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - ...
 
@@ -686,7 +873,9 @@ e) Os eleitores doentes em tratamento no estrangeiro, bem como os seus acompanha
 
 6 - (Anterior n.º 2.)
 
-###### Artigo 119.º — Modo de exercício do direito de voto antecipado por razões profissionais
+Artigo 119.º
+
+Modo de exercício do direito de voto antecipado por razões profissionais
 
 1 - Os eleitores que se encontrem nas condições previstas nas alíneas a), b), c), f) e g) do n.º 1 do artigo anterior podem dirigir-se ao presidente da câmara do município em cuja área se encontre recenseado, entre o 10.º e o 5.º dias anteriores ao do referendo, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
 
@@ -708,7 +897,9 @@ e) Os eleitores doentes em tratamento no estrangeiro, bem como os seus acompanha
 
 10 - ...
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - Os eleitores que se encontrem nas condições previstas nas alíneas d) e e) do n.º 1 do artigo 118.º podem requerer, por meios electrónicos ou por via postal, ao presidente da câmara do município em que se encontrem recenseados, até ao 20.º dia anterior ao do referendo, a documentação necessária ao exercício do direito de voto, enviando cópias do seu cartão de cidadão ou bilhete de identidade e cartão ou certidão de eleitor, juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direcção do estabelecimento hospitalar, ou documento emitido pelo director do estabelecimento prisional, conforme os casos.
 
@@ -736,7 +927,9 @@ Modo de exercício do direito de voto antecipado por eleitores deslocados no est
 
 3 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelos partidos e grupos de cidadãos eleitores intervenientes na campanha para o referendo que nomeiem delegados até ao 16.º dia anterior ao do referendo.
 
-###### Artigo 120.º-B — Modo de exercício do voto por estudantes
+Artigo 120.º-B
+
+Modo de exercício do voto por estudantes
 
 1 - Os eleitores que se encontrem nas condições previstas no n.º 3 do artigo 118.º podem requerer, por meios electrónicos ou por via postal, ao presidente da câmara do município em que se encontrem recenseados a documentação necessária ao exercício do direito de voto no prazo e nas condições previstas nos n.os 1 e 2 do artigo 120.º
 
@@ -746,14 +939,14 @@ Modo de exercício do direito de voto antecipado por eleitores deslocados no est
 
 Aprovada em 29 de Outubro de 2010.
 
-**O Presidente da Assembleia da República, Jaime Gama.**
+O Presidente da Assembleia da República, Jaime Gama.
 
-**Promulgada em 1 de Dezembro de 2010.**
+Promulgada em 1 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 6 de Dezembro de 2010.**
+Referendada em 6 de Dezembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

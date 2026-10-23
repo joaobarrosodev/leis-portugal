@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/24600/43714372.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1077-1990-565430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:08:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90f99b69d7bcd530cd223c2b60e905b410b18366d64bab471980056df82601cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c34a998d93fc5acb0a6fc5135aa1996563f5cfeb407f34060cc5efa794eed37d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:08:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Ensino Particular
+- Ensino Superior
+- Instituto Superior de Matemática e Gestão
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:608032:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406301:por
+  label: "Alterado o anexo pela PORT.1218/97.1997.12.03.ME, DR.IS-B [279]B\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1218-1997-406301
+  date: '1997-12-03'
+- type: amended_by
+  target: pt:dre:406302:por
+  label: "Alterado o anexo ao presente diploma, pela PORT.1219/97.1997.12.03.ME, DR.IS-B [279]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1219-1997-406302
+  date: '1997-12-03'
+- type: amended_by
+  target: pt:dre:662106:por
+  label: "Alterado o Plano de Estudos Anexo ao presente diploma, pela PORT.1221/2000.2000.12.29.ME DR.IS-B [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1221-2000-662106
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:235117:por
+  label: "Alterado o plano de estudos do curso de contabilidade ministrado pelo Instituto Superior de Matemática e Gestão\
+    \ (Marinha Grande), aprovado pelo presente diploma, pela PORT.6/2001.2001.01.02.ME, DR.IS-B [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/6-2001-235117
+  date: '2001-01-02'
+- type: amended_by
+  target: pt:dre:235123:por
+  label: "Alterado o plano de estudos do curso de Informática de Gestão ministrado pelo Instituto Superior de Matemática e\
+    \ Gestão (Torres Vedras) pela PORT.5/2001.2001.01.02.ME, DR.IS-B [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/5-2001-235123
+  date: '2001-01-02'
+- type: amended_by
+  target: pt:dre:357357:por
+  label: "Alterado o plano de estudos do curso de bacharelato em Informática de Gestão aprovado pelo presente diploma, na\
+    \ redacção da Port 1218/97, de 03-Dez, pela PORT.403/2001.2001.04.16.ME DR.IS-B [89]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/403-2001-357357
+  date: '2001-04-16'
+- type: cites
+  target: pt:dre:547459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:483093:por
+  label: "Revogado, na parte que se refere ao curso de bacharelato em Informática de Gestão e sem prejuízo do disposto no\
+    \ art. 10.º, pela PORT.1180/2003.06.10.2003.MCES, DR.IS-B [231] de 06.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1180-2003-483093
+  date: '1990-10-24'
+- type: repealed_by
+  target: pt:dre:482469:por
+  label: "Revogada, na redacção da Portaria n.º 1219/97, de 3 de Dezembro, pela PORT.1183/2003.08.10.2003.MCES, DR.IS-B [233]\
+    \ de 08.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1183-2003-482469
+  date: '2003-10-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:08:53Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +168,10 @@ Curso superior de Contabilidade e Administração.
 
 Ministério da Educação.
 
-**Assinada em 28 de Setembro de 1990.**
+Assinada em 28 de Setembro de 1990.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estao do Ensino Superior.
 
 ## ANEXO — Instituto Superior de Matemática e Gestão - ISMAG
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/24600/43714372.pdf))](https://files.diariodarepublica.pt/1s/1990/10/24600/43714372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24600/43714372.pdf)

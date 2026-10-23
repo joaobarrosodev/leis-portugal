@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/13700/0379503795.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/3/2017/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2017-107703390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2ada12447ec14cbbd62f9f94401003697e0ab134456a288ebe0322916838499
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6533207dd86d87293b3fe95899b6ffb0e0b64b4cd72919d54b44a462df875ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
+- Assembleia da República
 - Correio Electrónico
 - Definição de Competências
 - Documentação
-- Administração Pública
 - Documento Eletrónico
 - Orgânica
 - Página na Internet
-- Assembleia da República
-- Referendo
 - Plataforma Eletrónica
+- Referendo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/15-a/1998/04/03/p/dre
@@ -100,16 +100,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2005/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2005/09/08/p/dre
+- type: cites
+  target: pt:dre:142522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75207495:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:31Z'
   warnings: []
   errors: []
 ---
@@ -158,14 +182,14 @@ O artigo 17.º da [Lei n.º 15-A/98](https://diariodarepublica.pt/dr/detalhe/lei
 
 Aprovada em 1 de junho de 2017.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 29 de junho de 2017.**
+Promulgada em 29 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 30 de junho de 2017.**
+Referendada em 30 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

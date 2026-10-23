@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 136/1977, 1º Suplemento, Série I de 1977-06-15
   number: '136'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1444-(3) a 1444-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13601/00030003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/136-1977-476945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:04:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 359d952dcb4177eea2655bd953fab33a5c1c0194ddc31368f87ec6f9f34ee99a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3019f855b2fe54936a2504072a8e822608eaf9af11a0374ef03b0b0abc9407b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:04:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa Intervencionada
+- Empresa Privada
+- Intervenção do Estado
+relationships:
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:250627:por
+  label: Rectificado o sumário e texto do presente diploma pela DECL.DD7928.13.07.1977.PCM, DR.IS [160] de 13.07.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-250627
+  date: '1977-07-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:04:09Z'
   warnings: []
   errors: []
 ---

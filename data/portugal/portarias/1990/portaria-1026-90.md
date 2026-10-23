@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1026-1990-555989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:07:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ede55b79b5932ee0dff72d08d02435192a03062260ca43dd1d8f72d67839fa42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8c5d7f2af50f2cff4f5382fb6b82c218a5f3c68c336a99a9dd3c2922290783a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:07:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:454362:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:245083:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuída pelo presente diploma, pela PORT.832/98.1998.09.29.MECO,\
+    \ DR.IS-B [225]\0225]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/832-1998-245083
+  date: '1998-09-29'
+- type: amended_by
+  target: pt:dre:222062:por
+  label: "Renovado, por um período de 15 anos a zona de caça turística da Quinta da Caldeira, concessionada pelo presente\
+    \ diploma, pela PORT.1011/98.1998.12.04.MECO DR.IS-B [280]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1011-1998-222062
+  date: '1998-12-04'
+- type: amended_by
+  target: pt:dre:454362:por
+  label: "Transferida para Maria Joaquina Palma Guerreiro Gonçalves a concessão da zona de caça criada pelo presente diploma,\
+    \ e renovada pela Port 1011/98 de 04-Dez, pela PORT.633/2008.23.07.2008.MADRP, DR.IS [141] de 23.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/633-2008-454362
+  date: '2008-07-23'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:07:43Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +149,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 28 de Setembro de 1990.**
+Assinada em 28 de Setembro de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23600/42484248.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23600/42484248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23600/42484248.pdf)

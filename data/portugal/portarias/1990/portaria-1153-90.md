@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1153-1990-564793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:10:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b993bc1647b7cf6a63e799c36e0e8cfde4564d41452cacd4699b0b621676bc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a44fe48da6015307325d8a6bbe6d19776e0c8d4c4ddf867b0824922a2ff2680
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:10:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartão de Identificação
+- Guarda Florestal
+- Serviço Nacional de Parques Reservas e Conservação da Natureza
+- Vigilante da Natureza
+relationships:
+- type: cites
+  target: pt:dre:555425:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:10:54Z'
   warnings: []
   errors: []
 ---
@@ -119,10 +127,10 @@ c) Faixa transversal verde e vermelha, impressa na frente, a partir do vértice 
 
 Ministério do Ambiente e Recursos Naturais.
 
-**Assinada em 26 de Outubro de 1990.**
+Assinada em 26 de Outubro de 1990.
 
-**O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.**
+O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.
 
 Modelo de cartão de identidade proposto para corpo de guardas e vigilantes da natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27000/48034805.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27000/48034805.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27000/48034805.pdf)

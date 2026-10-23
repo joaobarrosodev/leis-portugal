@@ -46,40 +46,121 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-1990-334637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:10:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb906554cd33d5c311817b0eacec8cd5cac556d8b1bd394532e8d6095c385542
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eacdc81be026d189ccfd69c00147ef091ba193060b5a81e6bc9a8e56ef2b6b5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:10:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abrantes
+- Administração Regional de Saúde
+- Águeda
+- Almada
+- Aveiro
+- Barreiro
+- Braga
+- Cantanhede
+- Cascais
+- Castelo Branco
+- Centro Hospitalar das Caldas da Raínha
+- Coimbra
+- Elvas
+- Espinho
+- Hospital Distrital
+- Hospital Geral de Santo António
+- Leiria
+- Lisboa
+- Maternidade Alfredo da Costa
+- Ovar
+- Parteira
+- Pombal
+- Porto
+- Quadro de Pessoal
+- Santa Maria da Feira
+- Santarém
+- Setúbal
+- Tomar
+- Tondela
+- Torres Vedras
+- Vila Franca de Xira
+- Vila Real
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:673274:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662482:por
+  label: "Alterada pela PORT.13/91.04.01.1991.MS, DR.IS-B [3] de 04.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/13-1991-662482
+  date: '1991-01-04'
+- type: amended_by
+  target: pt:dre:436635:por
+  label: "Substituído o quadro de pessoal do Hospital de Nossa Senhora da Ajuda - Espinho, aprovado pela Portaria 749/87,\
+    \ de 1 de Setembro, alterado no presente diploma, pela PORT.210/96.12.06.1996.PCM, DR.IS-B [135] de 12.06.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/210-1996-436635
+  date: '1996-06-12'
+- type: amended_by
+  target: pt:dre:226006:por
+  label: "Substituído o quadro do pessoal do Hospital Distrital de Santarém, aprovado pela Port 700/87, de 17-Ago DR. IS [187],\
+    \ alterado pela Port 100/89, de 09-Fev, 755/89, de 01-Set, pelo presente diploma, pela Port 413/91, de 16-Maio, 458/93,\
+    \ de 30-Abr e 510/93, de 13-Maio, pela PORT.599/96.21.10.1996.PCM, DR.IS-B [244] de 21.10.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-1996-226006
+  date: '1996-10-21'
+- type: amended_by
+  target: pt:dre:382602:por
+  label: "Substituído o quadro de pessoal da Maternidade Alfredo da Costa aprovado pela Port 636/80 de 16-Set, com as alterações\
+    \ constantes do presente diploma, pela PORT.296/97.06.05.1997.PCM, DR.IS-B [104] de 06.05.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-1997-382602
+  date: '1997-05-06'
+- type: amended_by
+  target: pt:dre:161884:por
+  label: "Substituido o quadro de pessoal do Hospital do Arcebispo João Crisóstomo (Cantanhede) pela PORT.425/97.1997.06.30.PCM,\
+    \ DR.IS-B [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/425-1997-161884
+  date: '1997-06-30'
+- type: amended_by
+  target: pt:dre:554397:por
+  label: "Alterado o quadro de pessoal do Hospital Dr. Francisco Zagalo, aprovado pela Portaria n.º 749/87, de 1 de Setembro,\
+    \ alterado pelo presente diploma e pelas Portarias 1226/92, de 29 de Dezembro, 1114/94, de 14 de Dezembro, 1042/97, de\
+    \ 6 de Outubro, e 1374/2002, de 22 de Outubro, pela PORT.260/2004.09.03.2004.MF, DR.IS-B [58] de 09.03.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/260-2004-554397
+  date: '2004-03-09'
+- type: amended_by
+  target: pt:dre:673274:por
+  label: "Alterado o quadro de pessoal do Hospital de Cândido de Figueiredo (Tondela) aprovado pela Port 749/87 de 01-Set,\
+    \ com as alterações introduzidas pelo presente diploma, pela PORT.317/2006.05.04.2006.MFAP, DR.IS-B [68] de 05.04.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/317-2006-673274
+  date: '2006-04-05'
+- type: cites
+  target: pt:dre:547074:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:10:16Z'
   warnings: []
   errors: []
 ---
@@ -166,6 +247,6 @@ Maternidade do Dr. Alfredo da Costa ... 4
 
 Ministério da Saúde.
 
-**Assinada em 17 de Janeiro de 1990.**
+Assinada em 17 de Janeiro de 1990.
 
 Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.

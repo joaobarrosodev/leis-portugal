@@ -47,25 +47,31 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1194-1990-563419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:12:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b99fd5e8da8cd07d0aaf3b88d134a741bc40870acb5a7534eb209bad7e2a16e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb3879dafcc0aefaecd9e7ad4eaf9bd90a65aa3e94b0bce732d2aa3c5d1dec71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:12:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bragança
+- Criação de Serviços
+- Extinção de Serviços
+- Porto
+- Posto Fiscal
+- Reforma Aduaneira
 relationships:
 - type: amended_by
   target: pt:dre:663895:por
@@ -74,13 +80,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:12:09Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +117,6 @@ Manda o Governo, pelo Ministro das Finanças, o seguinte:
 
 Ministério das Finanças.
 
-**Assinada em 29 de Novembro de 1990.**
+Assinada em 29 de Novembro de 1990.
 
 Pelo Ministro das Finanças, José Oliveira Costa, Secretário de Estado dos Assuntos Fiscais.

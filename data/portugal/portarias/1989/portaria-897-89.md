@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/897-1989-548872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:04:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d92bb56f9aae578eb74441fb5dc66c6860fde2efa3c0946bfea35165504cde0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5c5504fc805ca2627c2071aa6ad58bb1eb874947bb7aa79c06c0f2fd2d255b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:04:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Sabugal
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:642066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157194:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça associativa do Souto, mantendo integralmente os\
+    \ direitos e obrigações decorrentes da lei e constantes do presente diploma, com excepção do disposto no n.º 8.º, pela\
+    \ PORT.254-GX/96.15.07.1996.MADRP, DR.IS-B [162-5ºSupl] de 15.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-gx-1996-157194
+  date: '1996-07-15'
+- type: amended_by
+  target: pt:dre:642066:por
+  label: "Renovada a concessão da zona de caça atribuída pelo presente diploma, renovada pela Port 254-GX/96, de 15-Jul, pela\
+    \ PORT.1263/2007.27.09.2007.MAOTDR, DR.IS [187] de 27.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1263-2007-642066
+  date: '2007-09-27'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:04:19Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +146,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 27 de Setembro de 1989.**
+Assinada em 27 de Setembro de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23700/44964497.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23700/44964497.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23700/44964497.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,154 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/820-1989-547609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:02:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 399c5a639e4d3efd960ddb2cb64a965ed1897e4c2a5d597c9e53a7951338416e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b781dc4ecfcdb583d188005ff86fdf66ae8a47b8c9d76dc68ac2002ea8664dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:02:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa de Previdência
+- Instituições de Previdência Social
+- Trabalhador das Instituições de Previdência
 relationships:
 - type: amended_by
   target: pt:dre:300653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642914:por
+  label: "DECLARADA A INCONSTITUCIONALIDADE, COM FORÇA OBRIGATÓRIA GERAL, DE TODAS AS NORMAS CONSTANTES DO PRESENTE DIPLOMA\
+    \ PELO AC 641/95, DE 15-NOV DO TCS DR.IS-A [296] DE 26/DEZ/1995 DETERMINANDO QUE OS RESPECTIVOS EFEITOS DA DECLARAÇÃO\
+    \ SE PRODUZAM APENAS A PARTIR DA PUBLICAÇÃO DO ACÓRDÃO NO DIÁRIO DA REPÚBLICA\0IO DA REPÚBLICA"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/641-1995-642914
+  date: '1995-12-26'
+- type: cites
+  target: pt:dre:152335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665766:por
+  label: null
+  source: null
 article_structure:
   article_count: 95
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:02:24Z'
   warnings: []
   errors: []
 ---
@@ -1719,100 +1833,100 @@ f) Propor acções de formação de acordo com os objectivos definidos no plano 
 
 Secretarias de Estado do Orçamento e da Segurança Social.
 
-**Assinada em 1 de Setembro de 1989.**
+Assinada em 1 de Setembro de 1989.
 
-**O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, Arlindo Gomes de Carvalho.**
+O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, Arlindo Gomes de Carvalho.
 
-## Anexo I a que se refere o n.º 4.º de Portaria n.º 820/89
+Anexo I a que se refere o n.º 4.º de Portaria n.º 820/89
 
 Tabela A
 
 Quadro administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela B
 
 Quadro de contabilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela C
 
 Quadro de serviços jurídicos e de contencioso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela D
 
 Quadro de estatística, organização, planeamento e documentação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela F
 
 Quadro de tradução e correspondência estrangeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela G
 
 Quadro do Laboratório de Avaliação de Riscos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Quadro G1
 
 Quadro de pessoal técnico de construção e conservação de edifícios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela H
 
 Quadro do serviço social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela I
 
 Quadro de microfilmagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela J
 
 Quadro de reprografia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela L
 
 Quadro de diagnóstico e terapêutica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela M
 
 Quadro de creches e jardins-de-infância
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela O
 
 Quadro do pessoal auxiliar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
 Tabela P
 
 Quadro de pessoal operário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
 
-## Anexo II a que se refere o n.º 15.º da Portaria n.º 820/89
+Anexo II a que se refere o n.º 15.º da Portaria n.º 820/89
 
 Mapa 1
 
 Quadro de informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21300/41004125.pdf)

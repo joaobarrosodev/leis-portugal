@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/2-1990-313853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:15:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e80ef68207319c3d7026d341c5a2e3f5ff0778be66d8a0ced9a448e3f67c2fdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 401297dc36e6db7654ddebc7cbdb4e25fd82c7af874b76c9d3dddf404accfbff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:15:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código do IRS
+- Impresso
+- IRS
+relationships:
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:150300:por
+  label: Rectificado o sumário pela DECL.DD3281.31.01.1990.PCM, DR.IS [16]2ºSupl de 31.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-150300
+  date: '1990-01-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:15:25Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +111,11 @@ Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do 
 
 Ministério das Finanças.
 
-**Assinada em 6 de Novembro de 1989.**
+Assinada em 6 de Novembro de 1989.
 
-**O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.**
+O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/00300/00200023.pdf))](https://files.diariodarepublica.pt/1s/1990/01/00300/00200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/00300/00200023.pdf)
 
 Imposto sobre o rendimento das pessoas singulares
 
@@ -205,4 +217,4 @@ Quadro n.º 18 - Assinaturas
 
 A declaração deve ser assinada pelos sujeitos passivos ou pelo representante ou gestor de negócios na impossibilidade daqueles. A falta de assinatura da declaração é motivo para a sua recusa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/00300/00200023.pdf))](https://files.diariodarepublica.pt/1s/1990/01/00300/00200023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/00300/00200023.pdf)

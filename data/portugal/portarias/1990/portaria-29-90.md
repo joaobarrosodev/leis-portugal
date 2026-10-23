@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/01100/02010204.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/29-1990-333525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:17:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06e7bab24eabb5e7273db0b2a654fdbc50deb22c27d98b02bee7c85faeec5fd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05599506cd77c4bd3d11f12fe4c78dc442f5cb19132e037433de741bb3b97948
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:17:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Medicamento
+- Preço
+- Produto Farmacêutico
 relationships:
 - type: amended_by
   target: pt:dre:518420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179806:por
+  label: "Alterados os índices a que se refere o n.º 1 do n.º 5.º pela PORT.201/92.19.03.1992.MF, DR.IS-B [66] de 19.03.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-1992-179806
+  date: '1992-03-19'
+- type: amended_by
+  target: pt:dre:159116:por
+  label: "Alterados os índices a que se refere o n.º 1 do n.º 5.º pela PORT.218-A/92.20.03.1992.MF, DR.IS-B [67]Supl de 20.03.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-a-1992-159116
+  date: '1992-03-20'
+- type: amended_by
+  target: pt:dre:485581:por
+  label: "Suspensa, no ano de 1993, a aplicação dos n.ºs 4 e 5 do n.º 5.º pela PORT.236/93.27.02.1993.MF, DR.IS-B [49]Supl\
+    \ de 27.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-1993-485581
+  date: '1993-02-27'
+- type: amended_by
+  target: pt:dre:512653:por
+  label: "Suspenso o disposto nos nºs 1, 2, 5 e 6 vigorando em sua substuição o disposto nos nºs 2º a 7º da PORT.57/94.1994.01.24.MF\
+    \ DR.IS-B [19]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-1994-512653
+  date: '1994-01-24'
+- type: amended_by
+  target: pt:dre:534019:por
+  label: "Suspenso o disposto nos n.os 1, 2, 5, 6 e 8 do n.º 4.º e nos n.os 5.º e 6.º, pela PORT.992/94.10.11.1994.MF, DR.IS-B\
+    \ [260] de 10.11.1994, vigorando em sua substituição o disposto nos seus n.os 2.º a 7.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/992-1994-534019
+  date: '1994-11-10'
+- type: amended_by
+  target: pt:dre:209845:por
+  label: "Suspenso o disposto nos nºs 5 e 6 pela PORT.81/98.1998.02.19.MECO, DR.IS-B [42] e substituído pelo constante dos\
+    \ nºs 2 a 5 daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-1998-209845
+  date: '1998-02-19'
+- type: amended_by
+  target: pt:dre:182857:por
+  label: "Suspenso durante o ano de 1999 o disposto nos nºs 5 e 6, vigorando em sua substituição o disposto nos nºs 2 e 5\
+    \ e seguintes, pela PORT.73/99.1999.01.29.MECO, DR.IS-B [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/73-1999-182857
+  date: '1999-01-29'
+- type: amended_by
+  target: pt:dre:604212:por
+  label: "Suspenso o disposto nos nºs 5 e 6 pela PORT.1279/2001.2001.11.14.MECO, DR.IS-B [256], vigorando até a sua substituição\
+    \ o disposto no referido djploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1279-2001-604212
+  date: '2001-11-14'
+- type: amended_by
+  target: pt:dre:307205:por
+  label: "Suspensos os n.ºs 5, 6 e 9 pela PORT.618-A/2005.27.07.2005.MEI, DR.IS-B [143-Supl] de 27.07.2005, nos termos do\
+    \ seu art. 11.º e vigorando em sua substituição o disposto no citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/618-a-2005-307205
+  date: '2005-07-27'
+- type: amended_by
+  target: pt:dre:374449:por
+  label: "Suspenso o disposto nos nºs 5º, 6º e 9º do presente diploma pela PORT.30-B/2007.05.01.2007.MEI, DR.IS [4-2ºSupl]\
+    \ de 05.01.2007, vigorando em sua substituição o disposto naquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/30-b-2007-374449
+  date: '2007-01-05'
+- type: repealed_by
+  target: pt:dre:582413:por
+  label: "Revogado o nº 4 pela PORT.713/2000.2000.09.05.MECO, DR.IS-B [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/713-2000-582413
+  date: '2000-09-05'
+- type: repealed_by
+  target: pt:dre:518420:por
+  label: "Revogada pelo DEC LEI.65/2007.14.03.2007.MS, DR.IS [52] de 14.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-2007-518420
+  date: '2007-03-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:17:28Z'
   warnings: []
   errors: []
 ---
@@ -242,6 +315,6 @@ c) Portaria n.º 496/85 e Despacho Normativo n.º 60/85, ambos de 20 de Julho;
 
 Ministérios das Finanças, da Saúde e do Comércio e Turismo.
 
-**Assinada em 4 de Dezembro de 1989.**
+Assinada em 4 de Dezembro de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1166-1990-564870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:11:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b489a51d42deab72f58468cce7240532ebb69c84f5a45a92d4561ab2fa0c4a9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7b05c133fd54b5d9310b79cc64f3b99930296dac42f65485e5e373616fc1388
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:11:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bombeiro
+- Dotação Orçamental
+- Fardamento
+relationships:
+- type: cites
+  target: pt:dre:514453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583859:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:11:13Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +115,7 @@ Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
 
 Ministério da Administração Interna.
 
-**Assinada em 4 de Outubro de 1990.**
+Assinada em 4 de Outubro de 1990.
 
 Pelo Ministro da Administração Interna, José Manuel Branquinho Lobo, Secretário de Estado Adjunto do Ministro da Administração Interna.
 
@@ -112,9 +123,9 @@ Pelo Ministro da Administração Interna, José Manuel Branquinho Lobo, Secretá
 
 ### CAPÍTULO I — Das disposições gerais
 
-###### Artigo 1.º Os uniformes e distintivos a usar pelo pressoal dos corpos de bombeiros obedece às disposições do presente regulamento respeitante ao plano de uniformes, donde constam as regras a que deve obedecer o seu uso, a confecção, a qualidade, as dimensões, as cores, os feitios e os assessórios.
+Artigo 1.º Os uniformes e distintivos a usar pelo pressoal dos corpos de bombeiros obedece às disposições do presente regulamento respeitante ao plano de uniformes, donde constam as regras a que deve obedecer o seu uso, a confecção, a qualidade, as dimensões, as cores, os feitios e os assessórios.
 
-###### Art. 2.º O uniforme do pessoal, em actos de serviço ou fora dele, deve respeitar rigorosamente as prescrições deste regulamento, não sendo permitido:
+Art. 2.º O uniforme do pessoal, em actos de serviço ou fora dele, deve respeitar rigorosamente as prescrições deste regulamento, não sendo permitido:
 
 1) Modificar a composição dos uniformes ou introduzir-lhes quaisquer alterações em contravenção com o presente regulamento;
 
@@ -122,23 +133,23 @@ Pelo Ministro da Administração Interna, José Manuel Branquinho Lobo, Secretá
 
 3) Usar, quando uniformizado, qualquer artigo de traje civil, ou, quando trajando civilmente, usar qualquer artigo ou acessório do plano de uniformes.
 
-###### Art. 3.º É vedado o uso de quaisquer uniformes aos elementos nas situações de inactividade no quadro e fora do quadro e bem assim aos elementos punidos com a pena de suspensão, durante o tempo que durar essa punição.
+Art. 3.º É vedado o uso de quaisquer uniformes aos elementos nas situações de inactividade no quadro e fora do quadro e bem assim aos elementos punidos com a pena de suspensão, durante o tempo que durar essa punição.
 
-###### Art. 4.º Ao pessoal dos corpos de bombeiros em situação de aposentação, reforma ou do quadro honorário só é permitido o uso dos uniformes n.os 1 e 2, devendo usar na gola emblema com a figura de um «R» (fig. 87) para os profissionais e de um «H» (fig. 88) para os voluntários aposta sob um facho, conforme consta do capítulo VI deste regulamento.
+Art. 4.º Ao pessoal dos corpos de bombeiros em situação de aposentação, reforma ou do quadro honorário só é permitido o uso dos uniformes n.os 1 e 2, devendo usar na gola emblema com a figura de um «R» (fig. 87) para os profissionais e de um «H» (fig. 88) para os voluntários aposta sob um facho, conforme consta do capítulo VI deste regulamento.
 
-###### Art. 5.º - 1 - O uso de traje civil dentro ou fora dos aquartelamentos só é permitido ao pessoal quando de folga ou de licença, excepto em casos especiais, devidamente justificados e autorizados superiormente.
+Art. 5.º - 1 - O uso de traje civil dentro ou fora dos aquartelamentos só é permitido ao pessoal quando de folga ou de licença, excepto em casos especiais, devidamente justificados e autorizados superiormente.
 
 2 - É obrigatório o uso do uniforme para o pessoal de folga ou de licença quando esteja a cumprir missões ou em diligência de carácter oficial, dentro ou fora dos aquartelamentos.
 
-###### Art. 6.º - 1 - É permitido ao pessoal uniformizado, como sinal de luto, o uso de braçal de pano preto, sem brilho, com uma largura de 6 cm, no braço esquerdo, acima do cotovelo.
+Art. 6.º - 1 - É permitido ao pessoal uniformizado, como sinal de luto, o uso de braçal de pano preto, sem brilho, com uma largura de 6 cm, no braço esquerdo, acima do cotovelo.
 
 2 - No acto de receber uma condecoração, o pessoal dos corpos de bombeiros deve apresentar-se devidamente uniformizado e sem quaisquer outras condecorações.
 
-###### Art. 7.º Sem prejuízo do disposto no presente regulamento, compete aos comandantes das unidades de bombeiros regular o uso dos diferentes uniformes, ordenando a transcrição das respectivas directivas em ordem de serviço, se o entenderem necessário ou conveniente.
+Art. 7.º Sem prejuízo do disposto no presente regulamento, compete aos comandantes das unidades de bombeiros regular o uso dos diferentes uniformes, ordenando a transcrição das respectivas directivas em ordem de serviço, se o entenderem necessário ou conveniente.
 
 ### CAPÍTULO II — Da designação, composição e utilização dos uniformes
 
-###### Art. 8.º A designação dos uniformes a usar pelo pessoal dos corpos de bombeiros será a seguinte:
+Art. 8.º A designação dos uniformes a usar pelo pessoal dos corpos de bombeiros será a seguinte:
 
 1) Grande uniforme;
 
@@ -148,7 +159,7 @@ Pelo Ministro da Administração Interna, José Manuel Branquinho Lobo, Secretá
 
 4) Uniforme n.º 3.
 
-###### Art. 9.º - 1 - A composição do grande uniforme é a seguinte:
+Art. 9.º - 1 - A composição do grande uniforme é a seguinte:
 
 Dólman com charlateiras;
 
@@ -192,7 +203,7 @@ e) Polainitos.
 
 4 - Além dos artigos mencionados, pode ainda o pessoal dos diferentes corpos de bombeiros fazer uso de outros, de acordo com a sua tradição e história, nomeadamente capacetes metálicos, cordões brancos e outros, respeitado o disposto no artigo 7.º
 
-###### Art. 10.º O grande uniforme é utilizado em formaturas de gala, guardas de honra, cerimónias fúnebres e representações similares.
+Art. 10.º O grande uniforme é utilizado em formaturas de gala, guardas de honra, cerimónias fúnebres e representações similares.
 
 1 - É obrigatoriamente usado pelo porta-bandeira ou estandarte e respectiva escolta.
 
@@ -200,7 +211,7 @@ e) Polainitos.
 
 3 - Não é permitido o uso do grande uniforme a recrutas e praças antes da sua passagem a pronto e bem assim aos elementos do quadro auxiliar, incluindo aspirantes e cadetes.
 
-###### Art. 11.º A composição do uniforme n.º 1 é a seguinte:
+Art. 11.º A composição do uniforme n.º 1 é a seguinte:
 
 Dólman com cinto da mesma fazenda, sem charlateiras;
 
@@ -228,7 +239,7 @@ Gabardina para abafo;
 
 Gabardina para resguardo.
 
-###### Art. 12.º O uniforme n.º 1 é utilizado por todo o pessoal, qualquer que seja o quadro a que pertence, em representações de gala, não integrado em formatura, e nas representações, em passeio e em formaturas que não sejam de gala.
+Art. 12.º O uniforme n.º 1 é utilizado por todo o pessoal, qualquer que seja o quadro a que pertence, em representações de gala, não integrado em formatura, e nas representações, em passeio e em formaturas que não sejam de gala.
 
 1 - Pode-se fazer uso deste uniforme em cerimónias particulares, mediante prévia autorização do comandante do respectivo corpo de bombeiros.
 
@@ -240,7 +251,7 @@ Gabardina para resguardo.
 
 5 - A gabardina não pode ser usada por pessoal em formaturas, sendo o seu uso interdito a elementos do quadro auxiliar - incluindo aspirantes a cadetes - e a recrutas.
 
-###### Art. 13.º - 1 - A composição do uniforme n.º 2 é a seguinte:
+Art. 13.º - 1 - A composição do uniforme n.º 2 é a seguinte:
 
 Blusão;
 
@@ -264,7 +275,7 @@ Gabardina para abafo;
 
 Gabardina para resguardo.
 
-###### Art. 14.º - 1 - O uniforme n.º 2 é usado por todo o pessoal, qualquer que seja o quadro a que pertence, normalmente em passeio, em serviço exterior isolado no desempenho de serviços especiais, tais como de guarda de prevenção a casas de espectáculos e outros análogos e em serviços de apoio ao comando, nomeadamente condutores auto, ordenanças, secretariado e outros.
+Art. 14.º - 1 - O uniforme n.º 2 é usado por todo o pessoal, qualquer que seja o quadro a que pertence, normalmente em passeio, em serviço exterior isolado no desempenho de serviços especiais, tais como de guarda de prevenção a casas de espectáculos e outros análogos e em serviços de apoio ao comando, nomeadamente condutores auto, ordenanças, secretariado e outros.
 
 2 - Nas guardas de prevenção a casas de espectáculo e outros recintos públicos é usado o blusão do uniforme n.º 2, capacete de protecção e cinturão com pála e machado.
 
@@ -272,7 +283,7 @@ Gabardina para resguardo.
 
 4 - O uso de gabardina é facultativo para os elementos dos corpos de bombeiros municipais não sapadores, associativos e privativos.
 
-###### Art. 15.º A composição do uniforme n.º 3 é a seguinte:
+Art. 15.º A composição do uniforme n.º 3 é a seguinte:
 
 1) Artigos comuns aos serviços interno e de socorro ou de combate a sinistros:
 
@@ -324,7 +335,7 @@ Machado pequeno de fogo;
 
 Fato impermeável.
 
-###### Art. 16.º O uniforme n.º 3 é utilizado pelo pessoal do quadro activo e auxiliar em serviço interno, de socorro ou de combate, tendo em consideração as regras seguintes:
+Art. 16.º O uniforme n.º 3 é utilizado pelo pessoal do quadro activo e auxiliar em serviço interno, de socorro ou de combate, tendo em consideração as regras seguintes:
 
 1) Bata (a utilizar sobre o uniforme n.º 2 e os artigos comuns do uniforme n.º 3):
 
@@ -352,17 +363,17 @@ b) Azul-clara - a utilizar pelo restante pessoal;
 
 11) Fato impermeável - a usar nos serviços de socorro, quando as condições climatéricas o exijam.
 
-### CAPITULO III
+CAPITULO III
 
 Dos equipamentos de ginástica e provas desportivas
 
-###### Art. 17.º Os equipamentos de ginástica e provas desportivas têm a seguinte designação:
+Art. 17.º Os equipamentos de ginástica e provas desportivas têm a seguinte designação:
 
 1) Equipamento para a prática de ginástica educativa e aplicada;
 
 2) Equipamento para a prática de vários tipos de provas desportivas.
 
-###### Art. 18.º Os referidos equipamentos podem ter a composição seguinte:
+Art. 18.º Os referidos equipamentos podem ter a composição seguinte:
 
 1) A utilizar na prática de ginástica educativa e aplicada:
 
@@ -392,7 +403,7 @@ Fatos de treino.
 
 ### CAPÍTULO IV — Da descrição dos artigos dos uniformes - Qualidade, cor, confecções, feitio e outros
 
-###### Art. 19.º A seguir se descrevem as características dos artigos constantes dos uniformes específicos no capítulo II deste regulamento:
+Art. 19.º A seguir se descrevem as características dos artigos constantes dos uniformes específicos no capítulo II deste regulamento:
 
 1) Dólman (figs. 1 e 2) do grande uniforme e uniforme n.º 1. - De tecido com as características referidas no anexo n.º 1, sendo de cor azul-cinza para os bombeiros sapadores e de cor azul-ferrete para os bombeiros municipais não sapadores, associativos e privativos.
 
@@ -680,11 +691,11 @@ Independentemente de dever ser desde já observado o disposto na norma 2801 ISO,
 
 Aperta lateralmente por duas faixas do mesmo tecido de cada lado, munidas de material auto-aderente, e possuirá na frente e costas uma faixa reflectora branca horizontalmente com uma largura de uns 15 cm. No lado direito do peito poderá possuir um emblema da unidade de bombeiros e sobre a faixa reflectora do lado das costas a palavra «BOMBEIROS» a vermelho.
 
-###### Art. 20.º Equipamento de ginástica e provas desportivas constantes do capítulo III: os diversos artigos a utilizar serão de modelos e características de qualidade adequadas às modalidades a praticar, segundo o critério do comando das unidades de bombeiros.
+Art. 20.º Equipamento de ginástica e provas desportivas constantes do capítulo III: os diversos artigos a utilizar serão de modelos e características de qualidade adequadas às modalidades a praticar, segundo o critério do comando das unidades de bombeiros.
 
 ### CAPÍTULO V — Dos distintivos de graduação e outros
 
-###### Art. 21.º O pessoal dos corpos de bombeiros usa os distintivos de gradação hierárquica a seguir designados:
+Art. 21.º O pessoal dos corpos de bombeiros usa os distintivos de gradação hierárquica a seguir designados:
 
 1 - Nos corpos de bombeiros sapadores:
 
@@ -750,7 +761,7 @@ b) Cadete: platina com a letra C (fig. 79).
 
 5 - As divisas são em vértice para baixo, com um ângulo entre 120º e 130º, em pano de fita dourada com a largura de 7 mm e o comprimento de 8 cm para as mangas do dóman, a colocar a 12 cm da costura do ombro (figs. 67, 68, 69, 75, 76, 77 e 78), e metálicas ou de fita douradas para as platinas das camisas, blusões e gabardinas, assentes em passadores pretos com as medidas de 5 cm x 8 cm (figs. 67, 68, 69, 75, 76, 77 e 78).
 
-###### Art. 22.º Podem ser usados nos respectivos uniformes, segundo as normas regulamentares, distintivos da unidade, de classificações e outros, tais como:
+Art. 22.º Podem ser usados nos respectivos uniformes, segundo as normas regulamentares, distintivos da unidade, de classificações e outros, tais como:
 
 1) Fachos pequenos em metal dourado (fig. 86), a utilizar nas golas dos dólmanes e blusões;
 
@@ -796,7 +807,7 @@ Além dos distintivos referidos, poderão os bombeiros usar outros, desde que de
 
 Os anteriores n.os 1), 2) e 3) deste artigo são de carácter obrigatório.
 
-###### Art. 23.º O pessoal de serviço diário à unidade usa ainda, no braço esquerdo, braçais em pano ou napa (fig. 108) com a inscrição do nome do corpo de bombeiros.
+Art. 23.º O pessoal de serviço diário à unidade usa ainda, no braço esquerdo, braçais em pano ou napa (fig. 108) com a inscrição do nome do corpo de bombeiros.
 
 1 - Para os bombeiros sapadores, o braçal será:
 
@@ -814,18 +825,18 @@ b) De cor branca para o subchefe de serviço;
 
 c) De cor amarela para praças e motoristas.
 
-###### Art. 24.º Como distintivo de identificação individual, todo o pessoal pode usar no lado direito, ao nível do peito, no uniforme n.º 2, uma pequena chapa rectangular de 8 cm x 3 cm, de material apropriado, com a categoria e o nome, sendo o fundo azul-escuro e a letra branca.
+Art. 24.º Como distintivo de identificação individual, todo o pessoal pode usar no lado direito, ao nível do peito, no uniforme n.º 2, uma pequena chapa rectangular de 8 cm x 3 cm, de material apropriado, com a categoria e o nome, sendo o fundo azul-escuro e a letra branca.
 
 No uniforme n.º 3 a referida chapa será substituída por fita adesiva ou cosida.
 
 ### CAPÍTULO VI — Das figuras
 
-###### Art. 25.º As figuras referidas nos artigos anteriores são as constantes do anexo n.º 2.
+Art. 25.º As figuras referidas nos artigos anteriores são as constantes do anexo n.º 2.
 
 ## Anexo n.º 1 — Características dos tecidos dos uniformes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27700/49184938.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27700/49184938.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27700/49184938.pdf)
 
 ## ANEXO II — Das figuras (desenhos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27700/49184938.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27700/49184938.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27700/49184938.pdf)

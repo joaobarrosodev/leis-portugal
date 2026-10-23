@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 163/2020, 1º Suplemento, Série I de 2020-08-21
   number: '163'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7-(5) a 7-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/16301/0000500011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1-b/2020/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-b-2020-140950556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64ccd6ab185e082e2050ef1a0ee84172fa6d8d1b931396a11a650ba61f31d44e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 406e86f9e7691ddd4e0325f2896772d291a80105625f996db774a32f3ccc829f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Açores
 - Assembleia de VOTO
-- Internamento Hospitalar
+- Câmara Municipal
 - Definição de Competências
+- Direito de Voto
+- Doença
 - Eleição Autárquica
 - Eleição Regional
 - Estudante
-- Junta de Freguesia
-- Sistema Eleitoral
 - GNR
+- Identificação Civil
+- Internamento Hospitalar
+- Junta de Freguesia
+- Militar
 - Organização Desportiva
 - Presidente
+- PSP
 - Recluso
-- Câmara Municipal
-- Militar
-- Doença
-- Açores
-- Identificação Civil
-- Direito de Voto
+- Sistema Eleitoral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/72/1993/11/30/p/dre
@@ -114,16 +114,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/5/2006/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/5/2006/08/31/p/dre
+- type: cites
+  target: pt:dre:178786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66487455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761447:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:42Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +194,9 @@ Os artigos 25.º, 41.º, 44.º, 47.º a 49.º, 77.º a 80.º, 86.º, 87.º, 89.�
 
 5 - [...].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...].
 
@@ -170,13 +208,17 @@ Os artigos 25.º, 41.º, 44.º, 47.º a 49.º, 77.º a 80.º, 86.º, 87.º, 89.�
 
 5 - [...].
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...].
 
 2 - No caso de desdobramento de assembleias de voto, consta igualmente dos editais o número de identificação civil dos cidadãos que devem votar em cada assembleia.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Até ao vigésimo quinto dia anterior ao da eleição, os candidatos ou os mandatários das diferentes listas indicam por escrito ao presidente da câmara municipal os delegados e suplentes para as respetivas assembleias e secções de voto.
 
@@ -186,7 +228,9 @@ Os artigos 25.º, 41.º, 44.º, 47.º a 49.º, 77.º a 80.º, 86.º, 87.º, 89.�
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Até ao vigésimo quarto dia anterior ao da eleição, devem os delegados reunir-se na sede da junta de freguesia, a convocação do respetivo presidente, para procederem à escolha dos membros da mesa das assembleias ou secções de voto, devendo essa escolha ser imediatamente comunicada ao presidente da câmara municipal. Quando a assembleia de voto haja sido desdobrada, está presente à reunião apenas um delegado de cada lista de entre os que tiverem sido propostos pelos candidatos ou pelos mandatários das diferentes listas.
 
@@ -214,7 +258,9 @@ d) A reclamação a que se refere o n.º 4 é feita perante o membro do Governo 
 
 9 - Para efeitos do disposto do n.º 3 do artigo 45.º-A, o presidente da câmara municipal pode determinar a constituição de mais de uma mesa de voto antecipado em mobilidade.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
@@ -226,7 +272,9 @@ d) A reclamação a que se refere o n.º 4 é feita perante o membro do Governo 
 
 5 - [...].
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - Podem votar antecipadamente:
 
@@ -252,17 +300,21 @@ g) (Revogada).
 
 5 - [...].
 
-###### Artigo 78.º
+Artigo 78.º
 
 Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança e trabalhadores dos transportes e membros que representem oficialmente seleções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva
 
 (Revogado.)
 
-###### Artigo 79.º — Modo de exercício do direito de voto por estudantes
+Artigo 79.º
+
+Modo de exercício do direito de voto por estudantes
 
 (Revogado.)
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - Qualquer eleitor que esteja nas condições previstas nas alíneas e) e f) do n.º 1 do artigo 77.º pode requerer ao presidente da câmara do município em que se encontre recenseado, por meios eletrónicos ou por via postal, até ao vigésimo dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, indicando o seu número de identificação civil e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direção do estabelecimento hospitalar, ou emitido pelo diretor do estabelecimento prisional, conforme os casos.
 
@@ -280,15 +332,21 @@ Modo de exercício do direito de voto antecipado por militares, agentes de forç
 
 8 - [...].
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 O direito de voto é exercido, em regra, junto da mesa de voto correspondente ao local por onde o eleitor está recenseado, salvo o disposto quanto aos modos de exercício do voto antecipado.
 
-###### Artigo 87.º — Informação sobre o local de exercício de sufrágio
+Artigo 87.º
+
+Informação sobre o local de exercício de sufrágio
 
 Os eleitores podem obter informação sobre o local onde exercer o seu direito de voto na sua junta de freguesia, aberta para esse efeito no dia da eleição, para além de outras formas de acesso à referida informação disponibilizadas pela administração eleitoral.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - [...].
 
@@ -298,7 +356,9 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 4 - Os eleitores inscritos para o voto antecipado em mobilidade, que não o tenham exercido, podem fazê-lo no dia da eleição nas assembleias de voto do círculo eleitoral onde se encontrem recenseados.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - Cada eleitor, apresentando-se perante a mesa, indica o seu nome, entregando ao presidente o seu documento de identificação civil, se o tiver.
 
@@ -314,7 +374,9 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 7 - [...].
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - [...].
 
@@ -324,7 +386,9 @@ Os eleitores podem obter informação sobre o local onde exercer o seu direito d
 
 4 - Considera-se ainda como voto nulo o voto antecipado quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 77.º-A a 81.º ou seja recebido em sobrescrito que não esteja devidamente fechado.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - [...].
 
@@ -372,7 +436,9 @@ c) Na Região Autónoma da Madeira, duas mesas, a funcionar uma na Câmara Munic
 
 4 - A designação dos membros das mesas é efetuada nos termos do artigo 48.º
 
-###### Artigo 77.º-A — Modo de exercício do direito de voto antecipado em mobilidade
+Artigo 77.º-A
+
+Modo de exercício do direito de voto antecipado em mobilidade
 
 1 - Podem votar, antecipadamente, em mobilidade, todos os eleitores recenseados na Região Autónoma dos Açores que pretendam exercer o seu direito de voto.
 
@@ -432,14 +498,16 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 23 de julho de 2020.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 21 de agosto de 2020.**
+Promulgada em 21 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 21 de agosto de 2020.**
+Referendada em 21 de agosto de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113514472

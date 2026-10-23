@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/587-1989-618769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T09:56:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcfd068d58e118393b787274b4f4bbc9291e1d0026d8b00394c831a56ed9f625
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fa8a77718f671ad90b7c9aa3b8f2a5ccf90da9f72548e7468e7a9cc1a1c310a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:56:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Brasão de Armas
+- Presidente do Supremo Tribunal Militar
+- Supremo Tribunal Militar
+relationships:
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516058:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:56:43Z'
   warnings: []
   errors: []
 ---
@@ -169,8 +180,8 @@ A prata, a pureza nas intenções e a transparência nos procedimentos.
 
 Ministério da Defesa Nacional.
 
-**Assinada em 11 de Julho de 1989.**
+Assinada em 11 de Julho de 1989.
 
 Pelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/17300/29682970.pdf))](https://files.diariodarepublica.pt/1s/1989/07/17300/29682970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/17300/29682970.pdf)

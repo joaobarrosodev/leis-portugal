@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/119-1990-334632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:12:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8581e4abfd6d7f9b7bc5b59f43e3b86f43f0cfd3bd18c14e6a590d8eefeb528b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18832bfb13d7cda5a6b165701f49298f1e03e2704ae1595aa5915d7a87445351
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:12:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Faculdade de Arquitectura
+- Pessoal Docente
+- Pessoal não Docente
+- Quadro de Pessoal
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:3180962:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:599133:por
+  label: Alterado o quadro provisório do pessoal não docente da Faculdade de Arquitectura da Universidade Técnica de Lisboa,na
+    parte referenet à carreira técnica superior de investigação, pelo(a) Portaria n.º 1090/92 - Diário da República n.º 275/1992,
+    Série I-B de 1992-11-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1090-1992-599133
+  date: '1992-11-27'
+- type: amended_by
+  target: pt:dre:836870:por
+  label: "Alterado o quadro de pessoal pela PORT.890/98(2ªSÉRIE).1998.08.13.PCM, DR.IIS [196] de 26/Ago/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-1998-836870
+  date: '1998-08-13'
+- type: amended_by
+  target: pt:dre:3180962:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.138/2003(2ªSÉRIE).2002.12.17.MF, MCES, DR.IIS [23] DE 28/JAN/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-2003-3180962
+  date: '2002-12-17'
+- type: cites
+  target: pt:dre:227045:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:12:04Z'
   warnings: []
   errors: []
 ---
@@ -99,21 +125,21 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 1 de Fevereiro de 1990.**
+Assinada em 1 de Fevereiro de 1990.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 MAPA I
 
 Quadro do pessoal docente da Faculdade de Arquitectura a que se refere o n.º 1.º da Portaria n.º 119/90, de 15 de Fevereiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03900/06210624.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03900/06210624.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03900/06210624.pdf)
 
 MAPA II
 
 Quadro do pessoal não docente da Faculdade de Arquitectura a que se refere o n.º 1.º da Portaria n.º 119/90, de 15 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/03900/06210624.pdf))](https://files.diariodarepublica.pt/1s/1990/02/03900/06210624.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/03900/06210624.pdf)
 
 Descrições dos conteúdos funcionais de carreiras técnico-profissionais (nível 4 e nível 3) do quadro de pessoal não docente da Faculdade de Arquitectura da Universidade Técnica de Lisboa.
 

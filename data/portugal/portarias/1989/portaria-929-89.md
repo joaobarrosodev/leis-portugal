@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/929-1989-549256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:05:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b8738a18f07beb3a29a2d8e151ef37841408a6a6731e877279b51f42f3848ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22c2dda071ea07d7f9a42c39822f43b058f88dc090cd8a51cdf27959593d4293
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:05:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Moura
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:519466:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:254451:por
+  label: "Determinada, a suspensão do exercício da caça, pelo período máximo de nove meses, até à publicação da portaria de\
+    \ renovação, pela PORT.1203-E/2001.2001.10.18.MADRP, DR.IS-B [242]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1203-e-2001-254451
+  date: '2001-10-18'
+- type: amended_by
+  target: pt:dre:690976:por
+  label: "Renovada a concessão da zona de caça turística atribuida pelo presente diploma, pela PORT.1279-A/2001.2001.11.14.MECO\
+    \ DR.IS-B [264]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1279-a-2001-690976
+  date: '2001-11-14'
+- type: amended_by
+  target: pt:dre:519466:por
+  label: "Excluídos vários prédios rústicos da zona de caça atribuída pelo presente diploma e renovada pela Port 1279-A/2001\
+    \ de 14-Nov, pela PORT.450/2007.17.04.2007.MADRP, DR.IS [75] de 17.04.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/450-2007-519466
+  date: '2007-04-17'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:05:07Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +150,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 6 de Outubro de 1989.**
+Assinada em 6 de Outubro de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/24200/46194620.pdf))](https://files.diariodarepublica.pt/1s/1989/10/24200/46194620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24200/46194620.pdf)

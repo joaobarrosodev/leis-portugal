@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19800/36523655.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/744-1989-618322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5d79f3350c85213190d52dae3bdc6d29bc10fa4f09cf333f1e5049cc2c09f40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54ebff2b04dce770441c25501db8878d1808ff63be5c3137b52dfed66db50ef6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Escola Nacional de Saúde Pública
+- Formas de Provimento
+- Pessoal Docente
+- Regulamento das Provas de Concurso de Pessoal Docente da Escola Nacional de Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:189475:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:384417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686195:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:309350:por
+  label: Rectificada pela DECL.DD3674.1989.11.26.PCM DR.IS [226]SUPL DE 30/SET/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-309350
+  date: '1989-11-26'
+- type: repealed_by
+  target: pt:dre:189475:por
+  label: "Revogada pelo Dec-Lei.239/96.1996.12.14.ME, DR.IS-A [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/239-1996-189475
+  date: '1996-12-14'
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:33Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +136,9 @@ Manda o Governo, pela Ministra da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 6 de Agosto de 1989.**
+Assinada em 6 de Agosto de 1989.
 
-**A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 REGULAMENTO DAS PROVAS DE CONCURSO DE PESSOAL DOCENTE DA ESCOLA NACIONAL DE SAÚDE PÚBLICA
 

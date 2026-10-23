@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/16500/28632872.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/562-1989-619964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T09:56:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 658dbb3b57812ed600824bdca7055a8c116c5fedb44f8815d3b6fa211fa9fac9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b108839276bcf6ebb01c5a24539238bf069b64ba681019dc959cdd7fe165cbeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:56:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Análise Laboratorial
+- Medicamento Veterinário
+- Medicina Veterinária
 relationships:
 - type: amended_by
   target: pt:dre:234911:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:291472:por
+  label: Rectificada pela DECL.DD3720.1989.08.09.PCM DR.IS [200]SUPL DE 31/AGO/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-291472
+  date: '1989-08-09'
+- type: repealed_by
+  target: pt:dre:234911:por
+  label: "Revogada pela PORT.901/98.1998.10.14.MADRP DR.IS-B [237]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/901-1998-234911
+  date: '1998-10-14'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:56:08Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +111,9 @@ Manda o Governo, pelos Ministros da Agricultura, Pescas e Alimentação e da Sa�
 
 Ministérios da Agricultura, Pescas e Alimentação e da Saúde.
 
-**Assinada em 4 de Julho de 1989.**
+Assinada em 4 de Julho de 1989.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 ## ANEXO I — Normas a que devem obedecer os ensaios analíticos, tóxico-farmacológicos e clínicos dos medicamentos de uso veterinário
 
@@ -618,4 +631,4 @@ Receberam um medicamento com efeitos conhecidos;
 
 MATÉRIAS CORANTES PARA MEDICAMENTOS
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/16500/28632872.pdf))](https://files.diariodarepublica.pt/1s/1989/07/16500/28632872.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/16500/28632872.pdf)

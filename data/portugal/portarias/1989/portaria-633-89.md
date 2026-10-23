@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/633-1989-619297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T09:57:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e21ce9e915e82549b4ffd84dfa0f3d9c971b3bb4a35ed6949295ce8ec3854828
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81b912a371b7e3438b01b2882b52e046c2df4698aef0f976e4e014232a13ecd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:57:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola de Enfermagem
+- Pessoal Auxiliar
+- Portalegre
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:546595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:285477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:57:58Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +112,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, observado o disposto
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 17 de Julho de 1989.**
+Assinada em 17 de Julho de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal da Escola de Enfermagem de Portalegre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18100/31733173.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18100/31733173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18100/31733173.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/01/00200/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1/2022/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2022-177088811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d749b894de24df99ec42e1504cd4c011da3ec65f4ba7bb2a5cc88ac7607b3c4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a49318586682ffd445d98b2cce3b2b79411215143e61cbda8726d9958030a34c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição
-- Procurador Geral da República
 - Definição de Competências
-- Parlamentar Europeu
+- Eleição
 - Eleição Europeia
 - Incompatibilidades
-- Tribunal Constitucional
 - Mandato Electivo
 - Orgânica
+- Parlamentar Europeu
 - Parlamento Europeu
 - Partido Político
+- Procurador Geral da República
+- Tribunal Constitucional
 relationships:
 - type: cites
   target: eli:http
@@ -123,16 +123,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/5/2015/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/5/2015/04/10/p/dre
+- type: cites
+  target: pt:dre:115138846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124680587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66953311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133803:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:51Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +249,9 @@ Competência relativa à verificação de perda do mandato de Deputados ao Parla
 
 Compete ao Tribunal Constitucional verificar a perda do mandato de Deputado ao Parlamento Europeu e comunicá-la, para os devidos efeitos, ao Parlamento Europeu.
 
-###### Artigo 91.º-C — Verificação de perda do mandato de Deputados ao Parlamento Europeu
+Artigo 91.º-C
+
+Verificação de perda do mandato de Deputados ao Parlamento Europeu
 
 1 - A verificação de perda de mandato de um Deputado ao Parlamento Europeu, com fundamento na ocorrência de causa legal para o efeito, pode ser requerida ao Tribunal Constitucional:
 
@@ -217,14 +279,16 @@ A presente lei produz efeitos no primeiro dia da legislatura do Parlamento Europ
 
 Aprovada em 19 de novembro de 2021.
 
-**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
 
-**Promulgada em 14 de dezembro de 2021.**
+Promulgada em 14 de dezembro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendada em 23 de dezembro de 2021.**
+Referendada em 23 de dezembro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114857486

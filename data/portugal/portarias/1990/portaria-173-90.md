@@ -46,40 +46,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/173-1990-332729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:14:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71f51b99dfdf61b05b9d457c0f3b6acb6391c384fbe0aa796030cac1096f3f67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35351473bd6e2cba15146814539ac39a017976445f661437d19a8bff08240e90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:14:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Hospital Distrital
+- Quadro de Pessoal
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:689638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SAO BERNARDO PELA PORT 1348/95 DE 14-NOV DR.IS.B [263]\0B [263]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-14'
+- type: cites
+  target: pt:dre:180438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662902:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:14:45Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +161,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 2 de Fevereiro de 1990.**
+Assinada em 2 de Fevereiro de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Setúbal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/05600/10361036.pdf))](https://files.diariodarepublica.pt/1s/1990/03/05600/10361036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/05600/10361036.pdf)

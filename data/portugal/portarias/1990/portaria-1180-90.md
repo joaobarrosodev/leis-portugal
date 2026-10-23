@@ -46,40 +46,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1180-1990-565022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:11:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eafcf613f54df1ba43624f197c1532e325679493c1fcb60a055fc9989a3589e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2019de5919515a25a1d3338cc8925e4f2a85a651780ff1eb1851ccca9acf2c37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:11:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica
+- Coimbra
+- Estabelecimento Hospitalar
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:432211:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:152348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663487:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:11:39Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +161,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 31 de Outubro de 1990.**
+Assinada em 31 de Outubro de 1990.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Centro Hospitalar de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/27900/49714972.pdf))](https://files.diariodarepublica.pt/1s/1990/12/27900/49714972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/27900/49714972.pdf)

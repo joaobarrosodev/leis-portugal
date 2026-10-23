@@ -46,40 +46,130 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/44-1989-609630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T09:53:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aef1d703870d3ce0b50925d7c9f2a4ea94ef70415781b38a595fd88c4866ac47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 760c341a7a6a9dca682a5debae98bee69370b26cc42f2d48ed91f4fe39a5cdfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:53:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Quadro de Pessoal
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:3246788:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA PELA PORT 572/89 DE 25-JUL DR.IS 169]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-07-25'
+- type: amended_by
+  target: pt:dre:215740:por
+  label: ALTERADO O QUADRO DE PESSOAL NAO DOCENTE DA UNIVERSIDADE DE LISBOA, PELA PORT 1047/92 DE 09-NOV DR.IS-B [259], NA
+    PARTE REFERENTE A FACULDADE DE FARMÁCIA E MUSEU E LABORATÓRIO ZOOLÓGICO E ANTROPOLÓGICO
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1047-1992-215740
+  date: '1992-11-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL NAO DOCENTE PELA PORT 597/93 DE 23-JUN DR.IS-B [145] NA PARTE RELATIVA AS ÁREAS FUNCIONAIS
+    DE BIBLIOTECA E DOCUMENTAÇÃO E DE ARQUIVO
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-23'
+- type: amended_by
+  target: pt:dre:552819:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORT 1251/93 DE 09-DEZ DR.IS-B [286]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1251-1993-552819
+  date: '1993-12-07'
+- type: amended_by
+  target: pt:dre:537402:por
+  label: ALTERADO O QUADRO DE PESSOAL DA REITORIA E SERVIÇOS CENTRAIS PELO DN 428/93 DE 09-NOV DR.IS-B [291] DE 15/DEZ/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/428-1993-537402
+  date: '1993-12-15'
+- type: amended_by
+  target: pt:dre:533424:por
+  label: "Acrescentado um lugar ao quadro aprovado pelo presente diploma e alterado pelo Despacho Reitoral de 08-Ago, pela\
+    \ Port.42/97.1997.01.17.PCM, DR.IS-B [14]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/42-1997-533424
+  date: '1997-01-17'
+- type: amended_by
+  target: pt:dre:513183:por
+  label: "Alterado o quadro de pessoal pela Port.150/97.1997.03.03.PCM DR.IS-B [52] \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/150-1997-513183
+  date: '1997-03-03'
+- type: amended_by
+  target: pt:dre:3391571:por
+  label: "Alterado o quadro de pessoal pela PORT.805/98(2ªSÉRIE).1998.07.24.PCM DR.IIS [190] DE 19/AGO/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/805-1998-3391571
+  date: '1998-07-24'
+- type: amended_by
+  target: pt:dre:3143301:por
+  label: "Alterado o quadro de pessoal pela PORT.200/99(2ªSÉRIE).1999.02.22.PCM DR.IIS [60] DE 12/MAR/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/200-1999-3143301
+  date: '1999-02-22'
+- type: amended_by
+  target: pt:dre:3391580:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.790/99/2ªSÉRIE).1999.07.13.PCM, DR.IIS [182]\
+    \ de 06/Ago/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/790-1999-3391580
+  date: '1999-07-13'
+- type: amended_by
+  target: pt:dre:3246787:por
+  label: "Alterado o quadro de pessoal pela PORT.1995/2001(2ªSÉRIE).2001.10.26.ME, DR.IIS [275] de 27/Nov/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1995-2001-3246787
+  date: '2001-10-26'
+- type: amended_by
+  target: pt:dre:3246788:por
+  label: "Alterado o quadro de pessoal pela PORT.1996/2001(2ªSÉRIE).2001.10.26.ME, DR.IIS [275] de 27/Nov/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1996-2001-3246788
+  date: '2001-10-26'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662574:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:53:06Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +190,11 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 30 de Dezembro de 1988.**
+Assinada em 30 de Dezembro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/01900/02620294.pdf))](https://files.diariodarepublica.pt/1s/1989/01/01900/02620294.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/01900/02620294.pdf)
 
 ## ANEXO II — CONTEÚDO FUNCIONAL
 

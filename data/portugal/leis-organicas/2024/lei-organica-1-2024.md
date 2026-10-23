@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04600/0000200019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/1/2024/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2024-854130977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36af2021c4f3c13d819d869b57608d97d2c8853064582a4ebe2c752bcc5230f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b94cd63f995d6b0a37e55ef855d23ea7c449a81dc972139dc89ea5b89a09544c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
-- Instituto dos Registos e do Notariado
-- Filiação
-- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
-- Naturalização
 - Agência para a Modernização Administrativa
 - Dados Pessoais
+- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
+- Filiação
+- Instituto dos Registos e do Notariado
+- Nacionalidade
+- Naturalização
 relationships:
 - type: amended_by
   target: pt:dre:923329143:por
@@ -117,16 +117,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/9/2015/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/9/2015/07/29/p/dre
+- type: cites
+  target: pt:dre:108041476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115643970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148086464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180657814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69889521:por
+  label: null
+  source: null
 article_structure:
   article_count: 58
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:53Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +209,7 @@ A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da
 
 ###### Artigo 1.º — Objeto
 
-A presente lei procede à décima alteração à [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, que aprova a Lei da Nacionalidade, alterada pela [Lei n.º 25/94](https://diariodarepublica.pt/dr/detalhe/lei/25-1994-218490), de 19 de agosto, pelo [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de dezembro, na redação dada pelo [Decreto-Lei n.º 194/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2003-655966), de 23 de agosto, e pelas Leis Orgânicas n.<sup>os</sup>1/2004, de 15 de janeiro, [2/2006](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2006-650954), de 17 de abril, [1/2013](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2013-498718), de 29 de julho, [8/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/8-2015-67552497), de 22 de junho, [9/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/9-2015-69889521), de 29 de julho, [2/2018](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2018-115643970), de 5 de julho, e [2/2020](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2020-148086464), de 10 de novembro.
+A presente lei procede à décima alteração à [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro, que aprova a Lei da Nacionalidade, alterada pela [Lei n.º 25/94](https://diariodarepublica.pt/dr/detalhe/lei/25-1994-218490), de 19 de agosto, pelo [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de dezembro, na redação dada pelo [Decreto-Lei n.º 194/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2003-655966), de 23 de agosto, e pelas Leis Orgânicas n.os1/2004, de 15 de janeiro, [2/2006](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2006-650954), de 17 de abril, [1/2013](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2013-498718), de 29 de julho, [8/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/8-2015-67552497), de 22 de junho, [9/2015](https://diariodarepublica.pt/dr/detalhe/lei-organica/9-2015-69889521), de 29 de julho, [2/2018](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2018-115643970), de 5 de julho, e [2/2020](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2020-148086464), de 10 de novembro.
 
 ###### Artigo 2.º — Alteração à [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de outubro
 
@@ -233,7 +301,7 @@ d) A existência de perigo ou ameaça para a segurança ou a defesa nacional, no
 
 3 - Com a suspensão prevista nos números anteriores suspende-se também a contagem do prazo previsto no n.º 1 do artigo 10.º
 
-4 - São nulos os atos praticados em violação do disposto nos n.<sup>os</sup>1 e 2.
+4 - São nulos os atos praticados em violação do disposto nos n.os1 e 2.
 
 ###### Artigo 14.º — [...]
 
@@ -309,17 +377,17 @@ A presente lei entra em vigor no primeiro dia do mês seguinte ao da sua publica
 
 Aprovada em 5 de janeiro de 2024.
 
-**O Presidente da Assembleia da República, Augusto Santos Silva.**
+O Presidente da Assembleia da República, Augusto Santos Silva.
 
-**Promulgada em 24 de fevereiro de 2024.**
+Promulgada em 24 de fevereiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo De Sousa.**
+O Presidente da República, Marcelo Rebelo De Sousa.
 
-**Referendada em 28 de fevereiro de 2024.**
+Referendada em 28 de fevereiro de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
@@ -437,7 +505,7 @@ a) Pelos serviços competentes portugueses;
 
 b) Pelos serviços competentes do país do nascimento, do país da nacionalidade e dos países onde tenha tido residência, desde que neles tenha tido residência após completar a idade de imputabilidade penal.
 
-12 - O procedimento de naturalização das pessoas abrangidas pelos n.<sup>os</sup>2, 3, 5 e 9 é gratuito.
+12 - O procedimento de naturalização das pessoas abrangidas pelos n.os2, 3, 5 e 9 é gratuito.
 
 13 - A certificação da demonstração de tradição de pertença a uma comunidade sefardita de origem portuguesa, com base em requisitos objetivos comprovados de ligação a Portugal, referida na alínea a) do n.º 7, é sujeita a homologação final por uma comissão de avaliação nomeada pelo membro do governo responsável pela área da justiça, integrando representantes dos serviços competentes em razão da matéria, investigadores ou docentes em instituições de ensino superior em estudos sefarditas e representantes de comunidades judaicas com estatuto de pessoa coletiva religiosa, radicadas em Portugal.
 
@@ -537,7 +605,7 @@ c) Altura.
 
 3 - Com a suspensão prevista nos números anteriores suspende-se também a contagem do prazo previsto no n.º 1 do artigo 10.º
 
-4 - São nulos os atos praticados em violação do disposto nos n.<sup>os</sup>1 e 2.
+4 - São nulos os atos praticados em violação do disposto nos n.os1 e 2.
 
 ###### Artigo 14.º — Efeitos do estabelecimento da filiação
 
@@ -716,3 +784,5 @@ O registo das alterações de nacionalidade por efeito de casamento ou por aquis
 ###### Artigo 40.º — Disposição revogatória
 
 É revogada a [Lei n.º 2098](https://diariodarepublica.pt/dr/detalhe/lei/2098-1959-431607), de 29 de julho de 1959.
+
+117416315

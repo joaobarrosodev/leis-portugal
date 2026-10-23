@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 274/2001, 1º Suplemento, Série I-A de 2001-11-26
   number: '274'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7556-(2) a 7556-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/274a01/00020002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/5-a/2001/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/5-a-2001-285516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1a4cdb4722a056bb40fae61c6ed6000918cbe7b36d4e96aae1bca593cbc7501
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e819bdb2273661ea4064acb2e6e626757f5a2d6d1bc8e5cb7a6e2c0e0da18fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia de VOTO
+- Autarquia Local
 - Campanha Eleitoral
 - Eleição Autárquica
 - Eleito Local
 - Sistema Eleitoral
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:164590039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146220:por
+  label: "Alterado o art. 76º da Lei Org 1/2001, de 14-Ago, na redacção do presente diploma, pela LEI ORG.1/2011.30.11.2011.AR,\
+    \ DR.IS [230] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/1-2011-146220
+  date: '2011-11-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/2000/08/23/p/dre
   label: null
@@ -90,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2001/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2001/08/14/p/dre
+- type: cites
+  target: pt:dre:324144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524039:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:31Z'
   warnings: []
   errors: []
 ---
@@ -128,14 +146,14 @@ A presente lei entra em vigor no dia imediato ao da sua publicação.
 
 Aprovada em 31 de Outubro de 2001.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Promulgada em 20 de Novembro de 2001.**
+Promulgada em 20 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 20 de Novembro de 2001.**
+Referendada em 20 de Novembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

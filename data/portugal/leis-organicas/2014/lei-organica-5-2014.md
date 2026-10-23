@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/16600/0454504557.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/5/2014/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9b0b895652d66ca24752381d20d92022ad97bfe4b1bd78d0cc2dfeb3bc7dd64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53af59e068bf40d7b054833e62541b74bdf9b0805bbff7f957e89325f7b61f9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
+- Assembleia da República
 - Chefe do Estado Maior da Armada
 - Chefe do Estado Maior da Força Aérea
+- Chefe do Estado Maior do Exército
 - Chefe do Estado Maior General das Forças Armadas
 - Conselho de Chefes de Estado Maior
 - Conselho Nacional de Planeamento Civil de Emergência
 - Conselho Superior da Defesa Nacional
 - Conselho Superior Militar
-- Segurança Interna
 - Definição de Competências
-- Política de Defesa
-- Presidente da República
-- Primeiro-ministro
-- Interesse Público
-- Chefe do Estado Maior do Exército
-- Liberdade de Associação
+- Forças Armadas
 - GNR
+- Governo
+- Interesse Público
+- Liberdade de Associação
+- Militar
+- Ministério da Defesa Nacional
+- Ministro da Defesa Nacional
 - Missão Militar
 - Missão no Estrangeiro
 - Mobilização Militar
-- Forças Armadas
 - Orgânica
-- Assembleia da República
 - Pessoal Militarizado
+- Política de Defesa
+- Presidente da República
+- Primeiro-ministro
 - Provedor de Justiça
-- Militar
-- Ministro da Defesa Nacional
-- Governo
+- Segurança Interna
 - Sistema Nacional de Mobilização e Requisição
 relationships:
 - type: amended_by
@@ -127,16 +127,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/4/2001/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/4/2001/08/30/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631839:por
+  label: null
+  source: null
 article_structure:
-  article_count: 73
+  article_count: 56
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:01:07Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +199,9 @@ Os artigos 7.º a 15.º, 17.º, 19.º, 20.º, 23.º, 25.º, 33.º, 34.º, 42.º 
 
 3 - O conceito estratégico de defesa nacional é aprovado por resolução do Conselho de Ministros, sob proposta conjunta do Primeiro-Ministro e do Ministro da Defesa Nacional, ouvidos o Conselho Superior de Defesa Nacional e o Conselho de Chefes de Estado-Maior.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -195,7 +229,9 @@ a) O Conselho Superior Militar;
 
 b) O Conselho de Chefes de Estado-Maior.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -217,7 +253,9 @@ g) ...
 
 h) Nomear e exonerar, sob proposta do Governo, os comandantes ou representantes militares junto das organizações internacionais de que Portugal faça parte, bem como os oficiais generais, comandantes de força naval, terrestre ou aérea, designados para o cumprimento de missões internacionais naquele quadro.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As funções de Comandante Supremo das Forças Armadas, atribuídas constitucionalmente por inerência ao Presidente da República, compreendem os seguintes direitos e deveres:
 
@@ -245,7 +283,9 @@ c) ...
 
 d) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 ...
 
@@ -283,7 +323,9 @@ q) Apreciar a decisão do Governo de envolver contingentes ou forças militares 
 
 r) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -329,7 +371,9 @@ i) Comunicar à Assembleia da República, nos termos da lei, a decisão do Gover
 
 j) Propor ao Presidente da República a nomeação e a exoneração dos comandantes ou representantes militares junto das organizações internacionais de que Portugal faça parte, bem como dos oficiais generais, comandantes de força naval, terrestre ou aérea, designados para o cumprimento de missões internacionais naquele quadro.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -351,7 +395,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -407,7 +453,9 @@ z) ...
 
 4 - O Ministro da Defesa Nacional coordena o Conselho Nacional de Planeamento Civil de Emergência.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Em coordenação com o Ministro da Defesa Nacional, todos os outros ministros asseguram a execução de componentes não militares da política de defesa nacional que se insiram no âmbito das atribuições dos respetivos ministérios.
 
@@ -417,7 +465,9 @@ a) ...
 
 b) ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -453,7 +503,9 @@ c) Aprovar as propostas de nomeação e exoneração dos comandantes-chefes.
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 ...
 
@@ -461,13 +513,17 @@ a) ...
 
 b) Elaborar os projetos de proposta das leis de programação militar e de programação das infraestruturas militares, de acordo com a orientação do Governo, sem prejuízo das demais competências previstas na lei.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O Ministério da Defesa Nacional é o departamento governamental que tem por missão preparar e executar a política de defesa nacional e das Forças Armadas, bem como assegurar e fiscalizar a administração das Forças Armadas e dos serviços e organismos nele integrados.
 
 2 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -477,11 +533,15 @@ b) Elaborar os projetos de proposta das leis de programação militar e de progr
 
 4 - Sem prejuízo do disposto no número anterior, os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea dependem do Ministro da Defesa Nacional nas demais matérias previstas na lei.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Os militares das Forças Armadas servem, exclusivamente, a República e a comunidade nacional e assumem voluntariamente os direitos e deveres que integram a condição militar, nos termos da lei.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -509,19 +569,25 @@ c) ...
 
 10 - (Revogado.)
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Os militares na efetividade de serviço podem, depois de esgotados os recursos administrativos legalmente previstos, apresentar queixas ao Provedor de Justiça por ações ou omissões dos poderes públicos responsáveis pelas Forças Armadas, exceto em matéria operacional ou classificada, nos termos da lei.
 
 2 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
 2 - A condução militar da guerra compete ao Chefe do Estado-Maior-General das Forças Armadas, assistido pelos Chefes do Estado-Maior da Armada, do Exército e da Força Aérea, e aos comandantes-chefes, de acordo com as orientações e diretivas dos órgãos de soberania competentes.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 O disposto nos artigos 26.º a 35.º é aplicável aos militares dos quadros permanentes e dos contratados em serviço efetivo na Guarda Nacional Republicana.»
 
@@ -545,17 +611,17 @@ A presente lei entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada em 25 de julho de 2014.
 
-**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
 
-**Promulgada em 18 de agosto de 2014.**
+Promulgada em 18 de agosto de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendada em 21 de agosto de 2014.**
+Referendada em 21 de agosto de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

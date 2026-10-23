@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/14500/25102511.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/472-1989-620761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T09:53:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fa41d9365bbe4174155ff23fdaa3fd4942e292105655706e843a4b7fcce3d71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 434aeee352ded232748daa3f84c5fe891471f3d577c4c3b0361729b6fe3f5389
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:53:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Doença Vegetal
+- Proteção Fitossanitária
 relationships:
 - type: amended_by
   target: pt:dre:1153918006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:300984:por
+  label: "Mantida em vigor pelo DEC LEI.154/94.1994.05.28.MA, DR.IS-A [124]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-1994-300984
+  date: '1994-05-28'
+- type: amended_by
+  target: pt:dre:141854:por
+  label: "Mantida em vigor pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
+- type: corrected_by
+  target: pt:dre:309353:por
+  label: Rectificada pela DECL.DD3846.1989.09.20.PCM DR.IS [226] DE 30/SET/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-309353
+  date: '1989-08-20'
+- type: repealed_by
+  target: pt:dre:142870334:por
+  label: Revogada pelo(a) Decreto-Lei n.º 67/2020 - Diário da República n.º 180/2020, Série I de 2020-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2020-142870334
+  date: '2020-09-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:53:57Z'
   warnings: []
   errors: []
 ---
@@ -165,10 +187,10 @@ b) Infracção ao disposto nos n.os 1 dos n.os 7.º e 8.º - coima de 10000$00 a
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 12 de Junho de 1989.**
+Assinada em 12 de Junho de 1989.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
-## Anexo a que se refere o n.º 1 do n.º 3.º
+Anexo a que se refere o n.º 1 do n.º 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/14500/25102511.pdf))](https://files.diariodarepublica.pt/1s/1989/06/14500/25102511.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/14500/25102511.pdf)

@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-1974-476108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:02:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39a12d65c4b0dff5bb7f6aee867ee5427660a44646dcb5b479d0fefc55bc0e12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53d388f40d43a0acb6769dd1d77e84f32fdbf966df942fd68a42e2947e22b8be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:02:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Estado
+- Definição de Competências
+- Fiscalização
+- Governo Provisório
+- Junta de Salvação Nacional
+- Movimento das Forças Armadas
+- Presidente da República
+- Regimento
 relationships:
 - type: amended_by
   target: pt:dre:466223:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:466223:por
+  label: "Dada nova redacção ao n.º 1 do artigo 8.º do Regimento, pela RES.4/74.25.11.1974.PR-CE, DG.IS [277] de 28.11.1974\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/4-1974-466223
+  date: '1974-11-25'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:02:08Z'
   warnings: []
   errors: []
 ---
@@ -300,8 +314,8 @@ As alterações ao presente Regimento só poderão ser introduzidas em reunião 
 
 Este Regimento será promulgado como resolução do Conselho de Estado e publicado no Diário do Governo.
 
-**Promulgado em 23 de Julho de 1974.**
+Promulgado em 23 de Julho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

@@ -49,36 +49,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/880-1989-548823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T10:03:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 582cc6d51042514e4dde66de46af282162ddc710ad50cfb18c915717d4faae2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c4de7a1072b84c78ee9679130e281c559e075f0d6977a0d95467e58ac91886e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:03:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Licenciatura
+- Plano de Estudos
+- Universidade de Aveiro
+relationships:
+- type: cites
+  target: pt:dre:210840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654737:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:03:55Z'
   warnings: []
   errors: []
 ---
@@ -145,11 +180,11 @@ O disposto na presente portaria aplica-se a partir do ano lectivo de 1989-1990.
 
 Ministério da Educação.
 
-**Assinada em 13 de Setembro de 1989.**
+Assinada em 13 de Setembro de 1989.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-## Anexo I à [Portaria n.º 677/86](https://diariodarepublica.pt/dr/detalhe/portaria/677-1986-220771), de 11 de Novembro (alterado pela [Portaria n.º 906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
+Anexo I à [Portaria n.º 677/86](https://diariodarepublica.pt/dr/detalhe/portaria/677-1986-220771), de 11 de Novembro (alterado pela [Portaria n.º 906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
 
 (Alteração)
 
@@ -189,7 +224,7 @@ b) Física ... 15,5
 
 4.3 - Seminário científico-pedagógico ... 8
 
-## Anexo II à [Portaria n.º 259/83](https://diariodarepublica.pt/dr/detalhe/portaria/259-1983-309892), de 7 de Março
+Anexo II à [Portaria n.º 259/83](https://diariodarepublica.pt/dr/detalhe/portaria/259-1983-309892), de 7 de Março
 
 (Alteração)
 
@@ -241,7 +276,7 @@ f) Ciências Sociais ... 20,5
 
 4.3 - Projecto ... 19
 
-## Anexo IV à [Portaria n.º 259/83](https://diariodarepublica.pt/dr/detalhe/portaria/259-1983-309892), de 7 de Março (alterado pela [Portaria n.º 906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
+Anexo IV à [Portaria n.º 259/83](https://diariodarepublica.pt/dr/detalhe/portaria/259-1983-309892), de 7 de Março (alterado pela [Portaria n.º 906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
 
 (Alteração)
 
@@ -285,7 +320,7 @@ f) Matemática ... 6,5
 
 4.2 - Seminário científico-pedagógico ... 8
 
-## Anexo V à [Portaria n.º 259/83](https://diariodarepublica.pt/dr/detalhe/portaria/259-1983-309892), de 7 de Março (alterado pela [Portaria n.º 906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
+Anexo V à [Portaria n.º 259/83](https://diariodarepublica.pt/dr/detalhe/portaria/259-1983-309892), de 7 de Março (alterado pela [Portaria n.º 906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
 
 (Alteração)
 
@@ -327,7 +362,7 @@ e) Electrónica ... 3,5
 
 4.2 - Seminário científico-pedagógico ... 8
 
-## Anexo I à Portaria 227/84, de 11 de Abril (alterado pelas Portarias n.os [770/86](https://diariodarepublica.pt/dr/detalhe/portaria/770-1986-210840), de 30 de Dezembro, e [906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
+Anexo I à Portaria 227/84, de 11 de Abril (alterado pelas Portarias n.os [770/86](https://diariodarepublica.pt/dr/detalhe/portaria/770-1986-210840), de 30 de Dezembro, e [906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
 
 (Alteração)
 
@@ -367,7 +402,7 @@ d) Estudos Germanísticos ... 41
 
 4.2 - Seminário científico-pedagógico ... 8
 
-## Anexo II à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737), de 11 de Abril (alterado pelas Portarias n.os [770/86](https://diariodarepublica.pt/dr/detalhe/portaria/770-1986-210840), de 30 de Dezembro, e [906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
+Anexo II à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737), de 11 de Abril (alterado pelas Portarias n.os [770/86](https://diariodarepublica.pt/dr/detalhe/portaria/770-1986-210840), de 30 de Dezembro, e [906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
 
 (Alteração)
 
@@ -415,7 +450,7 @@ b) Estudos Franceses ... 3
 
 4.3 - Seminário científico-pedagógico ... 8
 
-## Anexo III à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737), de 11 de Abril (alterado pelas Portarias n.os [770/86](https://diariodarepublica.pt/dr/detalhe/portaria/770-1986-210840), de 30 de Dezembro, e [906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
+Anexo III à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737), de 11 de Abril (alterado pelas Portarias n.os [770/86](https://diariodarepublica.pt/dr/detalhe/portaria/770-1986-210840), de 30 de Dezembro, e [906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
 
 (Alteração)
 
@@ -463,7 +498,7 @@ b) Estudos Anglo-Americanos ... 3
 
 4.3 - Seminário científico-pedagógico ... 8
 
-## Anexo IV à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737), de 11 de Abril (alterado pelas Portarias n.os [770/86](https://diariodarepublica.pt/dr/detalhe/portaria/770-1986-210840), de 30 de Dezembro, e [906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
+Anexo IV à [Portaria n.º 227/84](https://diariodarepublica.pt/dr/detalhe/portaria/227-1984-654737), de 11 de Abril (alterado pelas Portarias n.os [770/86](https://diariodarepublica.pt/dr/detalhe/portaria/770-1986-210840), de 30 de Dezembro, e [906/87](https://diariodarepublica.pt/dr/detalhe/portaria/906-1987-498546), de 27 de Novembro)
 
 (Alteração)
 
@@ -505,7 +540,7 @@ d) Estudos Clássicos ... 36,5
 
 4.2 - Seminário científico-pedagógico ... 8
 
-## Anexo à [Portaria n.º 355/88](https://diariodarepublica.pt/dr/detalhe/portaria/355-1988-374211), de 3 de Junho
+Anexo à [Portaria n.º 355/88](https://diariodarepublica.pt/dr/detalhe/portaria/355-1988-374211), de 3 de Junho
 
 (Alteração)
 

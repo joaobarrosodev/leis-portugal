@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1997-653562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1d6c5a264f2e5b10d93b92f772ad4ac50c689952897f06acec9f971862039c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a8e769ad122e518e19ce673c1fdbad20c5b0be4efc55909a5f1cb3338c0b85a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito Constitucional
 - Constituição
+- Direito Constitucional
 - Revisão Constitucional
 relationships:
 - type: amended_by
   target: pt:dre:243729:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577358:por
+  label: "Alterada, nos termos seguintes, a Constituição da República Portuguesa aprovada pelo Dec de 02-Abr do PR DR.IS [86]\
+    \ de 10/Abr/1976 [DD66/76], com a redacção do presente diploma, pela Lei 1/2001 de 20-Nov DR.IS-A [286] de 12/Dez/2001:\
+    \ Aditadas expressões conferindo nova redacção ao nº 6 do art. 7º, assim como aditado um nº 7 ao mesmo art.;Aditada uma\
+    \ expressão à epígrafe do art. 11º, bem como um nº 3;Substituídas algumas expressões no nº 3º do art. 15º, conferindo-lhe\
+    \ nova redacção;Alterada a numeração do nº 5 do art. 33º, que passa a constituir o nº 4 do mesmo art., aditado um novo\
+    \ nº 5 àquele art., alterada a numeração e a redacção do nº 4, que passa a constituir o nº 6, e a numeração dos nºs 6,\
+    \ 7 e 8 que passam a ser os nºs 7, 8 e 9 do mesmo art. 33º;Aditada nova expressão e nova redacção ao nº 3º do art. 6º;\
+    \ eAditadas e substituídas expressões ao art. 270º conferindo-lhe nova redacção.\0o.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-constitucional/1-2001-577358
+  date: '2001-11-20'
+- type: amended_by
+  target: pt:dre:506783:por
+  label: "Alterada a Constituição de 2 de Abril de 1976, publicada pelo Dec DD 66/76, de 10-Abr 1976, na redacção da presente\
+    \ Lei Const (4.ª Revisão), pela LEI CONST.1/2004.24.07.2004.AR, DR.IS-A [173] de 24.07.2004 (Sexta Revisão Constitucional)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-constitucional/1-2004-506783
+  date: '2004-07-24'
+- type: amended_by
+  target: pt:dre:243729:por
+  label: "Determinado que o art. 295.º da Constituição aprovada no Dec DD66/76, de 10-Abr, passe a art. 296.º na renumeração\
+    \ conferida no presente diploma, pela LEI CONST.1/2005.12.08.2005.AR, DR.IS-A [155] de 12.08.2005, que a republica em\
+    \ anexo \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-constitucional/1-2005-243729
+  date: '2005-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23-a/1996/07/29/p/dre
   label: null
@@ -81,16 +107,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/1992/11/25/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/1992/11/25/p/dre
+- type: cites
+  target: pt:dre:174316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667568:por
+  label: null
+  source: null
 article_structure:
-  article_count: 497
-  section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 22
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:15Z'
   warnings: []
   errors: []
 ---
@@ -319,21 +381,21 @@ Na alínea a) do n.º 2 do artigo 38.º da Constituição é eliminada a express
 
 «2. A lei define as demais funções e competências da Alta Autoridade para a Comunicação Social e regula o seu funcionamento.»
 
-###### Artigo 23.º
+Artigo 23.º
 
 1 - Ao n.º 1 do artigo 40.º da Constituição são aditadas: a expressão «bem como outras organizações sociais de âmbito nacional» entre «actividades económicas» e «têm direito» e a expressão «relevância e» entre «com a sua» e «representatividade».
 
 2 - Ao n.º 2 do mesmo artigo é aditada, in fine, a expressão «de iguais direitos gozando, no âmbito da respectiva região, os partidos representados nas assembleias legislativas regionais».
 
-###### Artigo 24.º
+Artigo 24.º
 
 No n.º 2 do artigo 43.º da Constituição é eliminada a expressão «atribuir-se o direito de».
 
-###### Artigo 25.º
+Artigo 25.º
 
 Ao n.º 4 do artigo 46.º da Constituição é aditada a expressão «racistas ou» entre «organizações» e «que perfilhem».
 
-###### Artigo 26.º
+Artigo 26.º
 
 Ao artigo 51.º da Constituição são aditados dois novos n.os 5 e 6, com a seguinte redacção:
 
@@ -341,7 +403,7 @@ Ao artigo 51.º da Constituição são aditados dois novos n.os 5 e 6, com a seg
 
 6. A lei estabelece as regras de financiamento dos partidos políticos, nomeadamente quanto aos requisitos e limites do financiamento público, bem como às exigências de publicidade do seu património e das suas contas.»
 
-###### Artigo 27.º
+Artigo 27.º
 
 1 - Ao n.º 1 do artigo 52.º da Constituição é aditada, in fine, a expressão «e bem assim o direito de serem informados, em prazo razoável, sobre o resultado da respectiva apreciação».
 
@@ -353,19 +415,19 @@ a) Promover a prevenção, a cessação ou a perseguição judicial das infracç
 
 b) Assegurar a defesa dos bens do Estado, das regiões autónomas e das autarquias locais.»
 
-###### Artigo 28.º
+Artigo 28.º
 
 1 - No n.º 2 do artigo 54.º da Constituição a expressão «Os plenários de trabalhadores» é substituída por «Os trabalhadores».
 
 2 - Na alínea c) do n.º 5 do mesmo artigo a expressão «Intervir na reorganização das unidades produtivas» é substituída por «Participar nos processos de reestruturação da empresa, especialmente no tocante a acções de formação ou quando ocorra alteração das condições de trabalho».
 
-###### Artigo 29.º
+Artigo 29.º
 
 No n.º 6 do artigo 55.º da Constituição, a expressão «A lei assegura protecção adequada aos representantes eleitos dos trabalhadores» é substituída por «Os representantes eleitos dos trabalhadores gozam do direito à informação e consulta, bem como à»; é aditada a expressão «legal» entre «protecção» e «adequada», passando o preceito a ter a seguinte redacção:
 
 «6. Os representantes eleitos dos trabalhadores gozam do direito à informação e consulta, bem como à protecção legal adequada contra quaisquer formas de condicionamento, constrangimento ou limitação do exercício legítimo das suas funções.»
 
-###### Artigo 30.º
+Artigo 30.º
 
 1 - Na alínea c) do n.º 2 do artigo 56.º da Constituição a expressão «Participar no controlo de execução» é substituída por «Pronunciar-se sobre os», aditando-se, in fine, a expressão «e acompanhar a sua execução».
 
@@ -373,7 +435,7 @@ No n.º 6 do artigo 55.º da Constituição, a expressão «A lei assegura prote
 
 «e) Participar nos processos de reestruturação da empresa, especialmente no tocante a acções de formação ou quando ocorra alteração das condições de trabalho.»
 
-###### Artigo 31.º
+Artigo 31.º
 
 1 - O n.º 3 do artigo 57.º da Constituição passa a n.º 4.
 
@@ -381,7 +443,7 @@ No n.º 6 do artigo 55.º da Constituição, a expressão «A lei assegura prote
 
 «3. A lei define as condições de prestação, durante a greve, de serviços necessários à segurança e manutenção de equipamentos e instalações, bem como de serviços mínimos indispensáveis para ocorrer à satisfação de necessidades sociais impreteríveis.»
 
-###### Artigo 32.º
+Artigo 32.º
 
 1 - É eliminado o n.º 2 do artigo 58.º da Constituição.
 
@@ -391,7 +453,7 @@ No n.º 6 do artigo 55.º da Constituição, a expressão «A lei assegura prote
 
 3 - A alínea c) do n.º 3 do mesmo artigo passa a alínea c) do n.º 2, aditando-se «a valorização» entre «técnica e» e «profissional».
 
-###### Artigo 33.º
+Artigo 33.º
 
 1 - À alínea b) do n.º 1 do artigo 59.º da Constituição é aditada, in fine, a expressão «e a permitir a conciliação da actividade profissional com a vida familiar».
 
@@ -409,11 +471,11 @@ No n.º 6 do artigo 55.º da Constituição, a expressão «A lei assegura prote
 
 «3. Os salários gozam de garantias especiais, nos termos da lei.»
 
-###### Artigo 34.º
+Artigo 34.º
 
 Ao n.º 3 do artigo 60.º da Constituição é aditada, in fine, a expressão «sendo-lhes reconhecida legitimidade processual para defesa dos seus associados ou de interesses colectivos ou difusos».
 
-###### Artigo 35.º
+Artigo 35.º
 
 1 - Ao n.º 3 do artigo 61.º da Constituição são aditadas as expressões seguintes: «no quadro da lei» entre «actividades» e «podem»; «e em outras formas de organização legalmente previstas», in fine.
 
@@ -423,7 +485,7 @@ Ao n.º 3 do artigo 60.º da Constituição é aditada, in fine, a expressão «
 
 «4. A lei estabelece as especificidades organizativas das cooperativas com participação pública.»
 
-###### Artigo 36.º
+Artigo 36.º
 
 1 - À epígrafe do artigo 63.º da Constituição é aditada a expressão «e solidariedade».
 
@@ -435,7 +497,7 @@ Ao n.º 3 do artigo 60.º da Constituição é aditada, in fine, a expressão «
 
 4 - O n.º 5 do mesmo artigo passa a n.º 4, sendo a expressão «contribuirá» substituída por «contribui».
 
-###### Artigo 37.º
+Artigo 37.º
 
 1 - À alínea b) do n.º 2 do artigo 64.º da Constituição é aditada a expressão «e ambientais» entre «culturais» e «que garantam», a expressão «, designadamente,» entre «garantam» e «a protecção» e, in fine, a expressão «e de práticas de vida saudável».
 
@@ -449,7 +511,7 @@ Ao n.º 3 do artigo 60.º da Constituição é aditada, in fine, a expressão «
 
 «f) Estabelecer políticas de prevenção e tratamento da toxicodependência.»
 
-###### Artigo 38.º
+Artigo 38.º
 
 1 - À epígrafe do artigo 65.º da Constituição é aditada a expressão «e urbanismo».
 
@@ -471,7 +533,7 @@ Ao n.º 3 do artigo 60.º da Constituição é aditada, in fine, a expressão «
 
 «5. É garantida a participação dos interessados na elaboração dos instrumentos de planeamento urbanístico e de quaisquer outros instrumentos de planeamento físico do território.»
 
-###### Artigo 39.º
+Artigo 39.º
 
 1 - No corpo do n.º 2 do artigo 66.º da Constituição: é aditada, no início, a expressão «Para assegurar o direito ao ambiente, no quadro de um desenvolvimento sustentável»; é substituída a expressão «e por apelo e apoio a iniciativas populares» por «com o envolvimento e a participação dos cidadãos», passando o preceito a ter a seguinte redacção:
 
@@ -491,7 +553,7 @@ g) Promover a educação ambiental e o respeito pelos valores do ambiente;
 
 h) Assegurar que a política fiscal compatibilize desenvolvimento com protecção do ambiente e qualidade de vida.»
 
-###### Artigo 40.º
+Artigo 40.º
 
 1 - Na alínea b) do n.º 2 do artigo 67.º da Constituição é eliminada a expressão «rede nacional de assistência materno-infantil de», substituída a expressão «infra-estruturas» por «outros equipamentos sociais» e aditada a expressão «e garantir o acesso a» entre «criação» e «uma rede», passando a ter a redacção seguinte:
 
@@ -507,7 +569,7 @@ h) Assegurar que a política fiscal compatibilize desenvolvimento com protecçã
 
 «e) Regulamentar a procriação assistida, em termos que salvaguardem a dignidade da pessoa humana;»
 
-###### Artigo 41.º
+Artigo 41.º
 
 1 - No n.º 3 do artigo 68.º da Constituição: é eliminada a expressão «trabalhadoras», entre «mulheres» e «têm»; é aditada a expressão «tendo as mulheres trabalhadoras ainda direito» entre «parto» e «a dispensa»; é eliminada a expressão «incluindo», passando o preceito a ter a redacção seguinte:
 
@@ -517,7 +579,7 @@ h) Assegurar que a política fiscal compatibilize desenvolvimento com protecçã
 
 «4. A lei regula a atribuição às mães e aos pais de direitos de dispensa de trabalho por período adequado, de acordo com os interesses da criança e as necessidades do agregado familiar.»
 
-###### Artigo 42.º
+Artigo 42.º
 
 1 - Ao n.º 1 do artigo 69.º da Constituição é aditada, in fine, a expressão «especialmente contra todas as formas de abandono, de discriminação e de opressão e contra o exercício abusivo da autoridade na família e nas demais instituições».
 
@@ -529,7 +591,7 @@ h) Assegurar que a política fiscal compatibilize desenvolvimento com protecçã
 
 «3. É proibido, nos termos da lei, o trabalho de menores em idade escolar.»
 
-###### Artigo 43.º
+Artigo 43.º
 
 1 - No n.º 1 do artigo 70.º da Constituição é eliminada a expressão «sobretudo os jovens trabalhadores».
 
@@ -539,7 +601,7 @@ h) Assegurar que a política fiscal compatibilize desenvolvimento com protecçã
 
 «c) No acesso à habitação;»
 
-###### Artigo 44.º
+Artigo 44.º
 
 1 - A epígrafe do artigo 71.º da Constituição é substituída por «(Cidadãos portadores de deficiência)».
 
@@ -551,11 +613,11 @@ h) Assegurar que a política fiscal compatibilize desenvolvimento com protecçã
 
 4 - No n.º 3 do mesmo artigo a expressão «associações de deficientes» é substituída pela expressão «organizações de cidadãos portadores de deficiência».
 
-###### Artigo 45.º
+Artigo 45.º
 
 Ao n.º 1 do artigo 72.º da Constituição é aditada a expressão «respeitem a sua autonomia pessoal e» entre «comunitário que» e «evitem e superem».
 
-###### Artigo 46.º
+Artigo 46.º
 
 1 - No n.º 2 do artigo 73.º da Constituição são aditadas as seguintes expressões: «a igualdade de oportunidades, a superação das desigualdades económicas, sociais e culturais» entre «contribua para» e «o desenvolvimento»; «e do espírito de tolerância, de compreensão mútua, de solidariedade e de responsabilidade» entre «personalidade» e «para o progresso social», passando o preceito a ter a seguinte redacção:
 
@@ -563,7 +625,7 @@ Ao n.º 1 do artigo 72.º da Constituição é aditada a expressão «respeitem 
 
 2 - No n.º 4 do mesmo artigo, é aditada, in fine, a seguinte expressão: «por forma a assegurar a respectiva liberdade e autonomia, o reforço da competitividade e a articulação entre as instituições científicas e as empresas».
 
-###### Artigo 47.º
+Artigo 47.º
 
 1 - É eliminado o n.º 2 do artigo 74.º da Constituição.
 
@@ -585,15 +647,15 @@ Ao n.º 1 do artigo 72.º da Constituição é aditada a expressão «respeitem 
 
 7 - É eliminado o n.º 4 do mesmo artigo.
 
-###### Artigo 48.º
+Artigo 48.º
 
 É aditada ao n.º 2 do artigo 76.º da Constituição, in fine, a expressão «sem prejuízo de adequada avaliação da qualidade do ensino».
 
-###### Artigo 49.º
+Artigo 49.º
 
 Na alínea a) do n.º 2 do artigo 78.º da Constituição é eliminada a expressão «em especial dos trabalhadores».
 
-###### Artigo 50.º
+Artigo 50.º
 
 1 - A alínea c) do artigo 80.º da Constituição passa a alínea d), substituindo-se «Apropriação colectiva de meios de produção e solos» por «Propriedade pública dos recursos naturais e de meios de produção»; «público» por «colectivo»; é eliminada a expressão «bem como dos recursos naturais», passando o preceito a ter a seguinte redacção:
 
@@ -609,7 +671,7 @@ Na alínea a) do n.º 2 do artigo 78.º da Constituição é eliminada a express
 
 «c) Liberdade de iniciativa e de organização empresarial no âmbito de uma economia mista;»
 
-###### Artigo 51.º
+Artigo 51.º
 
 1 - Na alínea a) do artigo 81.º da Constituição: a expressão «do povo» é substituída pela expressão «das pessoas»; é eliminada a expressão «das classes»; é aditada, in fine, a expressão «no quadro de uma estratégia de desenvolvimento sustentável».
 
@@ -637,7 +699,7 @@ Na alínea a) do n.º 2 do artigo 78.º da Constituição é eliminada a express
 
 «m) Adoptar uma política nacional da água, com aproveitamento, planeamento e gestão racional dos recursos hídricos.»
 
-###### Artigo 52.º
+Artigo 52.º
 
 1 - À alínea a) do n.º 4 do artigo 82.º da Constituição é aditada, in fine, a expressão: «sem prejuízo das especificidades estabelecidas na lei para as cooperativas com participação pública, justificadas pela sua especial natureza;».
 
@@ -645,17 +707,21 @@ Na alínea a) do n.º 2 do artigo 78.º da Constituição é eliminada a express
 
 «d) Os meios de produção possuídos e geridos por pessoas colectivas, sem carácter lucrativo, que tenham como principal objectivo a solidariedade social, designadamente entidades de natureza mutualista.»
 
-###### Artigo 53.º
+Artigo 53.º
 
 1 - Na epígrafe do artigo 83.º da Constituição a expressão «colectiva» é substituída pela expressão «pública».
 
 2 - No mesmo artigo, a expressão «determinará» é substituída por «determina», a expressão «apropriação colectiva» é substituída por «apropriação pública» e é eliminada a expressão «e solos» entre «produção» e «bem como».
 
-###### Artigo 54.º — É eliminado o artigo 85.º da Constituição, para reinserção no artigo 296.º
+Artigo 54.º
 
-###### Artigo 55.º — O artigo 86.º da Constituição passa a artigo 85.º
+É eliminado o artigo 85.º da Constituição, para reinserção no artigo 296.º
 
-###### Artigo 56.º
+Artigo 55.º
+
+O artigo 86.º da Constituição passa a artigo 85.º
+
+Artigo 56.º
 
 1 - O artigo 87.º da Constituição passa a artigo 86.º
 
@@ -667,11 +733,11 @@ Na alínea a) do n.º 2 do artigo 78.º da Constituição é eliminada a express
 
 4 - No n.º 3 do mesmo artigo a expressão «definirá os» é substituída pela expressão «pode definir» e a expressão «é» substituída pela expressão «seja».
 
-###### Artigo 57.º
+Artigo 57.º
 
 Os artigos 88.º, 89.º e 90.º da Constituição passam a artigos 87.º, 88.º e 89.º, respectivamente.
 
-###### Artigo 58.º
+Artigo 58.º
 
 1 - O artigo 91.º da Constituição passa a artigo 90.º
 
@@ -679,11 +745,11 @@ Os artigos 88.º, 89.º e 90.º da Constituição passam a artigos 87.º, 88.º 
 
 «Os planos de desenvolvimento económico e social têm por objectivo promover o crescimento económico, o desenvolvimento harmonioso e integrado de sectores e regiões, a justa repartição individual e regional do produto nacional, a coordenação da política económica com as políticas social, educativa e cultural, a defesa do mundo rural, a preservação do equilíbrio ecológico, a defesa do ambiente e a qualidade de vida do povo português.»
 
-###### Artigo 59.º
+Artigo 59.º
 
 São eliminados os artigos 92.º, 93.º e 94.º da Constituição, reinserindo-se num só preceito normas deles constantes, nos termos seguintes.
 
-###### Artigo 60.º
+Artigo 60.º
 
 É aditado, como artigo 91.º, o seguinte preceito:
 
@@ -697,7 +763,7 @@ São eliminados os artigos 92.º, 93.º e 94.º da Constituição, reinserindo-s
 
 3. A execução dos planos nacionais é descentralizada, regional e sectorialmente.»
 
-###### Artigo 61.º
+Artigo 61.º
 
 1 - O artigo 95.º da Constituição passa a artigo 92.º
 
@@ -705,7 +771,7 @@ São eliminados os artigos 92.º, 93.º e 94.º da Constituição, reinserindo-s
 
 3 - No n.º 2 do mesmo artigo é aditada a expressão «e das famílias» entre «das actividades económicas» e «das regiões autónomas».
 
-###### Artigo 62.º
+Artigo 62.º
 
 1 - O artigo 96.º da Constituição passa a artigo 93.º
 
@@ -715,11 +781,11 @@ São eliminados os artigos 92.º, 93.º e 94.º da Constituição, reinserindo-s
 
 4 - No n.º 2 do mesmo artigo é aditada a expressão «e de desenvolvimento florestal» entre «agrária» e «de acordo».
 
-###### Artigo 63.º
+Artigo 63.º
 
 Os artigos 97.º, 98.º e 99.º da Constituição passam a artigos 94.º, 95.º e 96.º, respectivamente.
 
-###### Artigo 64.º
+Artigo 64.º
 
 1 - O artigo 100.º da Constituição passa a artigo 97.º
 
@@ -727,15 +793,15 @@ Os artigos 97.º, 98.º e 99.º da Constituição passam a artigos 94.º, 95.º 
 
 3 - Na alínea c) do mesmo número a expressão «socialização dos» é substituída pela expressão «Apoio à cobertura de».
 
-###### Artigo 65.º
+Artigo 65.º
 
 Os artigos 101.º, 102.º, 103.º e 104.º da Constituição passam a artigos 98.º, 99.º, 100.º e 101.º, respectivamente.
 
-###### Artigo 66.º
+Artigo 66.º
 
 O artigo 105.º da Constituição passa a artigo 102.º, substituindo-se «colabora na definição e execução das políticas monetária e financeira e emite moeda, nos termos da lei» por «exerce as suas funções nos termos da lei e das normas internacionais a que o Estado Português se vincule».
 
-###### Artigo 67.º
+Artigo 67.º
 
 1 - O artigo 106.º da Constituição passa a artigo 103.º
 
@@ -743,7 +809,7 @@ O artigo 105.º da Constituição passa a artigo 102.º, substituindo-se «colab
 
 «3. Ninguém pode ser obrigado a pagar impostos que não hajam sido criados nos termos da Constituição, que tenham natureza retroactiva ou cuja liquidação e cobrança se não façam nos termos da lei.»
 
-###### Artigo 68.º
+Artigo 68.º
 
 1 - O artigo 107.º da Constituição passa a artigo 104.º
 
@@ -753,13 +819,13 @@ O artigo 105.º da Constituição passa a artigo 102.º, substituindo-se «colab
 
 4 - No n.º 3 do mesmo artigo a expressão «O imposto sobre sucessões e doações será progressivo, de forma a» é substituída pela expressão «A tributação do património deve».
 
-###### Artigo 69.º
+Artigo 69.º
 
 1 - O artigo 108.º da Constituição passa a artigo 105.º
 
 2 - No n.º 2 do mesmo artigo a expressão «do plano anual» é substituída pela expressão «em matéria de planeamento».
 
-###### Artigo 70.º
+Artigo 70.º
 
 1 - O artigo 109.º da Constituição passa a artigo 106.º
 
@@ -769,17 +835,21 @@ O artigo 105.º da Constituição passa a artigo 102.º, substituindo-se «colab
 
 «e) As transferências de verbas para as regiões autónomas e as autarquias locais;»
 
-###### Artigo 71.º — Os artigos 110.º e 111.º da Constituição passam, respectivamente, a artigos 107.º e 108.º
+Artigo 71.º
 
-###### Artigo 72.º
+Os artigos 110.º e 111.º da Constituição passam, respectivamente, a artigos 107.º e 108.º
+
+Artigo 72.º
 
 O artigo 112.º da Constituição passa a artigo 109.º, substituindo-se «dos cidadãos» por «de homens e mulheres» e aditando-se «devendo a lei promover a igualdade no exercício dos direitos cívicos e políticos e a não discriminação em função do sexo no acesso a cargos políticos», passando o preceito a ter a seguinte redacção:
 
 «A participação directa e activa de homens e mulheres na vida política constitui condição e instrumento fundamental de consolidação do sistema democrático, devendo a lei promover a igualdade no exercício dos direitos cívicos e políticos e a não discriminação em função do sexo no acesso a cargos políticos.»
 
-###### Artigo 73.º — Os artigos 113.º e 114.º da Constituição passam, respectivamente, a artigos 110.º e 111.º
+Artigo 73.º
 
-###### Artigo 74.º
+Os artigos 113.º e 114.º da Constituição passam, respectivamente, a artigos 110.º e 111.º
+
+Artigo 74.º
 
 1 - O artigo 115.º da Constituição passa a artigo 112.º
 
@@ -801,7 +871,7 @@ O artigo 112.º da Constituição passa a artigo 109.º, substituindo-se «dos c
 
 «9. A transposição de directivas comunitárias para a ordem jurídica interna assume a forma de lei ou de decreto-lei, conforme os casos.»
 
-###### Artigo 75.º
+Artigo 75.º
 
 1 - O artigo 116.º da Constituição passa a artigo 113.º
 
@@ -811,7 +881,7 @@ O artigo 112.º da Constituição passa a artigo 109.º, substituindo-se «dos c
 
 4 - No n.º 6 do mesmo artigo a expressão «noventa» é substituída pela expressão «sessenta».
 
-###### Artigo 76.º
+Artigo 76.º
 
 1 - O artigo 117.º da Constituição passa a artigo 114.º
 
@@ -819,7 +889,7 @@ O artigo 112.º da Constituição passa a artigo 109.º, substituindo-se «dos c
 
 3 - Ao n.º 3 do mesmo artigo é aditada a expressão «nas assembleias legislativas regionais e» entre «representados» e «em quaisquer».
 
-###### Artigo 77.º
+Artigo 77.º
 
 1 - O artigo 118.º da Constituição passa a artigo 115.º
 
@@ -859,9 +929,11 @@ d) As matérias previstas no artigo 164.º da Constituição, com excepção do 
 
 12. Nos referendos são chamados a participar cidadãos residentes no estrangeiro, regularmente recenseados ao abrigo do disposto no n.º 2 do artigo 121.º, quando recaiam sobre matéria que lhes diga também especificamente respeito.»
 
-###### Artigo 78.º — O artigo 119.º da Constituição passa a artigo 116.º
+Artigo 78.º
 
-###### Artigo 79.º
+O artigo 119.º da Constituição passa a artigo 116.º
+
+Artigo 79.º
 
 1 - O artigo 120.º da Constituição passa a artigo 117.º
 
@@ -869,9 +941,11 @@ d) As matérias previstas no artigo 164.º da Constituição, com excepção do 
 
 3 - Ao n.º 2 do mesmo artigo é aditada a expressão «as consequências do respectivo incumprimento» entre «políticos» e «bem como».
 
-###### Artigo 80.º — O artigo 121.º da Constituição passa a artigo 118.º
+Artigo 80.º
 
-###### Artigo 81.º
+O artigo 121.º da Constituição passa a artigo 118.º
+
+Artigo 81.º
 
 1 - O artigo 122.º da Constituição passa a artigo 119.º
 
@@ -885,9 +959,11 @@ d) As matérias previstas no artigo 164.º da Constituição, com excepção do 
 
 5 - Ao n.º 2 do artigo aditar a expressão «nas alíneas a) a h)» entre «previstos» e «do número anterior».
 
-###### Artigo 82.º — O artigo 123.º da Constituição passa a artigo 120.º
+Artigo 82.º
 
-###### Artigo 83.º
+O artigo 123.º da Constituição passa a artigo 120.º
+
+Artigo 83.º
 
 1 - O artigo 124.º da Constituição passa a artigo 121.º
 
@@ -899,11 +975,11 @@ d) As matérias previstas no artigo 164.º da Constituição, com excepção do 
 
 4 - O n.º 2 do mesmo artigo passa a n.º 3, substituindo-se «O direito de voto é exercido presencialmente no território nacional» por «O direito de voto no território nacional é exercido presencialmente».
 
-###### Artigo 84.º
+Artigo 84.º
 
 Os artigos 125.º, 126.º e 127.º da Constituição passam a artigos 122.º, 123.º e 124.º, respectivamente.
 
-###### Artigo 85.º
+Artigo 85.º
 
 1 - O artigo 128.º da Constituição passa a artigo 125.º
 
@@ -915,15 +991,17 @@ Os artigos 125.º, 126.º e 127.º da Constituição passam a artigos 122.º, 12
 
 4 - É eliminado o n.º 4 do mesmo artigo.
 
-###### Artigo 86.º
+Artigo 86.º
 
 1 - O artigo 129.º da Constituição passa a artigo 126.º
 
 2 - No n.º 2 do mesmo artigo a expressão «no» entre «sufrágio» e «vigésimo» é substituída pela expressão «até ao».
 
-###### Artigo 87.º — Os artigos 130.º, 131.º, 132.º, 133.º e 134.º da Constituição passam, respectivamente, a artigos 127.º, 128.º, 129.º, 130.º e 131.º
+Artigo 87.º
 
-###### Artigo 88.º
+Os artigos 130.º, 131.º, 132.º, 133.º e 134.º da Constituição passam, respectivamente, a artigos 127.º, 128.º, 129.º, 130.º e 131.º
+
+Artigo 88.º
 
 1 - O artigo 135.º da Constituição passa a artigo 132.º
 
@@ -933,13 +1011,13 @@ Os artigos 125.º, 126.º e 127.º da Constituição passam a artigos 122.º, 12
 
 4. O Presidente da República interino goza de todas as honras e prerrogativas da função, mas os direitos que lhe assistem são os do cargo para que foi eleito.»
 
-###### Artigo 89.º
+Artigo 89.º
 
 1 - O artigo 136.º da Constituição passa a artigo 133.º
 
 2 - À alínea d) do mesmo artigo é aditada, in fine, a expressão «e às Assembleias Legislativas Regionais».
 
-###### Artigo 90.º
+Artigo 90.º
 
 1 - O artigo 137.º da Constituição passa a artigo 134.º
 
@@ -949,7 +1027,7 @@ Os artigos 125.º, 126.º e 127.º da Constituição passam a artigos 122.º, 12
 
 4 - A alínea j) do mesmo artigo passa a alínea i).
 
-###### Artigo 91.º
+Artigo 91.º
 
 1 - Os artigos 138.º, 139.º, 140.º, 141.º, 142.º, 143.º, 144.º, 145.º, 146.º, 147.º, 148.º 149.º e 150.º da Constituição passam a artigos 135.º, 136.º, 137.º, 138.º, 139.º, 140.º, 141.º, 142.º, 143.º, 144.º, 145.º, 146.º e 147.º, respectivamente.
 
@@ -957,11 +1035,11 @@ Os artigos 125.º, 126.º e 127.º da Constituição passam a artigos 122.º, 12
 
 3 - No n.º 2 do artigo 138.º a expressão «ratificada» é substituída por «confirmada».
 
-###### Artigo 92.º
+Artigo 92.º
 
 O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzentos e trinta» por «cento e oitenta» e «duzentos e trinta e cinco» por «duzentos e trinta».
 
-###### Artigo 93.º
+Artigo 93.º
 
 1 - O artigo 152.º da Constituição passa a artigo 149.º
 
@@ -973,15 +1051,17 @@ O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzen
 
 4 - É eliminado o n.º 3 do mesmo artigo, para reinserção como n.º 2 do artigo 152.º
 
-###### Artigo 94.º — O artigo 153.º da Constituição passa a artigo 150.º
+Artigo 94.º
 
-###### Artigo 95.º
+O artigo 153.º da Constituição passa a artigo 150.º
+
+Artigo 95.º
 
 1 - O artigo 154.º da Constituição passa a artigo 151.º
 
 2 - Ao n.º 2 do mesmo artigo é aditada a expressão «da mesma natureza, exceptuando o círculo nacional quando exista» entre «eleitoral» e «ou figurar».
 
-###### Artigo 96.º
+Artigo 96.º
 
 1 - O artigo 155.º da Constituição passa a artigo 152.º, sendo a epígrafe substituída por «(Representação política)».
 
@@ -993,9 +1073,11 @@ O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzen
 
 «2. Os Deputados representam todo o país e não os círculos por que são eleitos.»
 
-###### Artigo 97.º — O artigo 156.º da Constituição passa a artigo 153.º
+Artigo 97.º
 
-###### Artigo 98.º
+O artigo 156.º da Constituição passa a artigo 153.º
+
+Artigo 98.º
 
 1 - O artigo 157.º da Constituição passa a artigo 154.º, sendo aditada à epígrafe, in fine, a expressão «e impedimentos».
 
@@ -1003,7 +1085,7 @@ O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzen
 
 «3. A lei regula os casos e as condições em que os Deputados carecem de autorização da Assembleia da República para serem jurados, árbitros, peritos ou testemunhas.»
 
-###### Artigo 99.º
+Artigo 99.º
 
 1 - O artigo 158.º da Constituição passa a artigo 155.º
 
@@ -1011,7 +1093,7 @@ O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzen
 
 «1. Os Deputados exercem livremente o seu mandato, sendo-lhes garantidas condições adequadas ao eficaz exercício das suas funções, designadamente ao indispensável contacto com os cidadãos eleitores e à sua informação regular.»
 
-###### Artigo 100.º
+Artigo 100.º
 
 1 - O artigo 159.º da Constituição passa a artigo 156.º
 
@@ -1025,7 +1107,7 @@ O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzen
 
 4 - As alíneas c), d), e) e f) do mesmo artigo passam, respectivamente, a alíneas d), e), f) e g).
 
-###### Artigo 101.º
+Artigo 101.º
 
 1 - O artigo 160.º da Constituição passa a artigo 157.º
 
@@ -1041,7 +1123,7 @@ O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzen
 
 «4. Movido procedimento criminal contra algum Deputado, e acusado este definitivamente, a Assembleia decidirá se o Deputado deve ou não ser suspenso para efeito de seguimento do processo, sendo obrigatória a decisão de suspensão quando se trate de crime do tipo referido nos números anteriores.»
 
-###### Artigo 102.º
+Artigo 102.º
 
 1 - O artigo 161.º da Constituição passa a artigo 158.º
 
@@ -1049,9 +1131,11 @@ O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzen
 
 3 - As alíneas a), b), c) e d) do n.º 2 do artigo 161.º passam a alíneas a), b), c) e d) do proémio do artigo 158.º
 
-###### Artigo 103.º — O artigo 162.º da Constituição passa a artigo 159.º
+Artigo 103.º
 
-###### Artigo 104.º
+O artigo 162.º da Constituição passa a artigo 159.º
+
+Artigo 104.º
 
 1 - O artigo 163.º da Constituição passa a artigo 160.º
 
@@ -1059,7 +1143,7 @@ O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzen
 
 «d) Sejam judicialmente condenados por crime de responsabilidade no exercício da sua função em tal pena ou por participação em organizações racistas ou que perfilhem a ideologia fascista.»
 
-###### Artigo 105.º
+Artigo 105.º
 
 1 - O artigo 164.º da Constituição passa a artigo 161.º
 
@@ -1085,7 +1169,7 @@ O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzen
 
 «n) Pronunciar-se, nos termos da lei, sobre as matérias pendentes de decisão em órgãos no âmbito da União Europeia que incidam na esfera da sua competência legislativa reservada;»
 
-###### Artigo 106.º
+Artigo 106.º
 
 1 - O artigo 165.º da Constituição passa a artigo 162.º
 
@@ -1095,7 +1179,7 @@ O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzen
 
 4 - Na alínea e) do mesmo artigo é eliminada a expressão «anuais e finais», sendo aditada, in fine, a expressão «nacionais».
 
-###### Artigo 107.º
+Artigo 107.º
 
 1 - O artigo 166.º da Constituição passa a artigo 163.º
 
@@ -1103,7 +1187,7 @@ O artigo 151.º da Constituição passa a artigo 148.º, substituindo-se «duzen
 
 «j) Acompanhar, nos termos da lei e do Regimento, o envolvimento de contingentes militares portugueses no estrangeiro.»
 
-###### Artigo 108.º
+Artigo 108.º
 
 1 - O artigo 167.º da Constituição passa a artigo 164.º
 
@@ -1145,7 +1229,7 @@ u) Regime das forças de segurança;
 
 v) Regime da autonomia organizativa, administrativa e financeira dos serviços de apoio do Presidente da República.»
 
-###### Artigo 109.º
+Artigo 109.º
 
 1 - O artigo 168.º da Constituição passa a artigo 165.º
 
@@ -1175,7 +1259,7 @@ v) Regime da autonomia organizativa, administrativa e financeira dos serviços d
 
 aa) Regime e forma de criação das polícias municipais.»
 
-###### Artigo 110.º
+Artigo 110.º
 
 1 - O artigo 169.º da Constituição passa a artigo 166.º
 
@@ -1185,7 +1269,7 @@ aa) Regime e forma de criação das polícias municipais.»
 
 3 - No n.º 3 do mesmo artigo é substituído, na parte final, «alíneas b) a i) e m)» por «alíneas b) a h)».
 
-###### Artigo 111.º
+Artigo 111.º
 
 1 - O artigo 170.º da Constituição passa a artigo 167.º
 
@@ -1195,7 +1279,7 @@ aa) Regime e forma de criação das polícias municipais.»
 
 4 - Ao n.º 3 do mesmo artigo é aditada a expressão «e os grupos de cidadãos eleitores» entre «grupos parlamentares» e «não podem».
 
-###### Artigo 112.º
+Artigo 112.º
 
 1 - O artigo 171.º da Constituição passa a artigo 168.º
 
@@ -1205,7 +1289,7 @@ aa) Regime e forma de criação das polícias municipais.»
 
 «6. A lei que regula o exercício do direito previsto no n.º 2 do artigo 121.º e as disposições das leis que regulam as matérias referidas nos artigos 148.º e 149.º, na alínea o) do artigo 164.º, bem como as relativas ao sistema e método de eleição dos órgãos previstos no n.º 3 do artigo 239.º, carecem de aprovação por maioria de dois terços dos Deputados presentes, desde que superior à maioria absoluta dos Deputados em efectividade de funções.»
 
-###### Artigo 113.º
+Artigo 113.º
 
 1 - O artigo 172.º da Constituição passa a artigo 169.º
 
@@ -1225,15 +1309,17 @@ aa) Regime e forma de criação das polícias municipais.»
 
 «6. Os processos de apreciação parlamentar de decretos-leis gozam de prioridade, nos termos do Regimento.»
 
-###### Artigo 114.º — Os artigos 173.º, 174.º e 175.º da Constituição passam, respectivamente, a artigos 170.º, 171.º e 172.º
+Artigo 114.º
 
-###### Artigo 115.º
+Os artigos 173.º, 174.º e 175.º da Constituição passam, respectivamente, a artigos 170.º, 171.º e 172.º
+
+Artigo 115.º
 
 1 - O artigo 176.º da Constituição passa a artigo 173.º
 
 2 - No n.º 1 do mesmo artigo a expressão «definitivos» é substituída pela expressão «gerais».
 
-###### Artigo 116.º
+Artigo 116.º
 
 1 - O artigo 177.º da Constituição passa a artigo 174.º
 
@@ -1241,13 +1327,13 @@ aa) Regime e forma de criação das polícias municipais.»
 
 3 - No n.º 2 do mesmo artigo a expressão «Outubro» é substituída pela expressão «Setembro».
 
-###### Artigo 117.º
+Artigo 117.º
 
 1 - O artigo 178.º da Constituição passa a artigo 175.º
 
 2 - Na alínea b) do mesmo artigo substitui-se «vice-presidentes» por «Vice-Presidentes».
 
-###### Artigo 118.º
+Artigo 118.º
 
 1 - O artigo 179.º da Constituição passa a artigo 176.º
 
@@ -1259,7 +1345,7 @@ aa) Regime e forma de criação das polícias municipais.»
 
 «4. As assembleias legislativas regionais podem solicitar prioridade para assuntos de interesse regional de resolução urgente.»
 
-###### Artigo 119.º
+Artigo 119.º
 
 1 - O artigo 180.º da Constituição passa a artigo 177.º
 
@@ -1269,7 +1355,7 @@ aa) Regime e forma de criação das polícias municipais.»
 
 «3. Os membros do Governo podem solicitar a sua participação nos trabalhos das comissões e devem comparecer perante as mesmas quando tal seja requerido.»
 
-###### Artigo 120.º
+Artigo 120.º
 
 1 - O artigo 181.º da Constituição passa a artigo 178.º
 
@@ -1277,13 +1363,13 @@ aa) Regime e forma de criação das polícias municipais.»
 
 «7. Nas reuniões das comissões em que se discutam propostas legislativas regionais, podem participar representantes da Assembleia Legislativa Regional proponente, nos termos do Regimento.»
 
-###### Artigo 121.º
+Artigo 121.º
 
 1 - O artigo 182.º da Constituição passa a artigo 179.º
 
 2 - À alínea a) do n.º 3 do mesmo artigo é aditada a expressão «Vigiar pelo cumprimento da Constituição e das leis e».
 
-###### Artigo 122.º
+Artigo 122.º
 
 1 - O artigo 183.º da Constituição passa a artigo 180.º
 
@@ -1297,11 +1383,11 @@ aa) Regime e forma de criação das polícias municipais.»
 
 «4. Aos Deputados não integrados em grupos parlamentares são assegurados direitos e garantias mínimos, nos termos do Regimento.»
 
-###### Artigo 123.º
+Artigo 123.º
 
 Os artigos 184.º, 185.º, 186.º, 187.º, 188.º, 189.º, 190.º, 191.º, 192.º, 193.º, 194.º, 195.º, 196.º, 197.º e 198.º da Constituição passam a artigos 181.º, 182.º, 183.º, 184.º, 185.º, 186.º, 187.º, 188.º, 189.º, 190.º, 191.º, 192.º, 193.º, 194.º e 195.º, respectivamente.
 
-###### Artigo 124.º
+Artigo 124.º
 
 1 - O artigo 199.º da Constituição passa a artigo 196.º
 
@@ -1313,7 +1399,7 @@ Os artigos 184.º, 185.º, 186.º, 187.º, 188.º, 189.º, 190.º, 191.º, 192.�
 
 «2. Movido procedimento criminal contra algum membro do Governo, e acusado este definitivamente, a Assembleia da República decidirá se o membro do Governo deve ou não ser suspenso para efeito de seguimento do processo, sendo obrigatória a decisão de suspensão quando se trate de crime do tipo referido no número anterior.»
 
-###### Artigo 125.º
+Artigo 125.º
 
 1 - O artigo 200.º da Constituição passa a artigo 197.º
 
@@ -1325,29 +1411,33 @@ Os artigos 184.º, 185.º, 186.º, 187.º, 188.º, 189.º, 190.º, 191.º, 192.�
 
 4 - No n.º 2 do mesmo artigo a expressão «tratados e de» é eliminada.
 
-###### Artigo 126.º — O artigo 201.º da Constituição passa a artigo 198.º
+Artigo 126.º
 
-###### Artigo 127.º
+O artigo 201.º da Constituição passa a artigo 198.º
+
+Artigo 127.º
 
 1 - O artigo 202.º da Constituição passa a artigo 199.º
 
 2 - À alínea d) do mesmo artigo é aditada a expressão «sobre esta e» entre «tutela» e «sobre a administração».
 
-###### Artigo 128.º
+Artigo 128.º
 
 1 - Os artigos 203.º, 204.º, 205.º, 206.º e 207.º da Constituição passam a artigos 200.º, 201.º, 202.º, 203.º e 204.º, respectivamente.
 
 2 - Na alínea d) do artigo 200.º, a expressão «as convenções internacionais não submetidas» é substituída por «acordos internacionais não submetidos».
 
-###### Artigo 129.º
+Artigo 129.º
 
 1 - O artigo 208.º da Constituição passa a artigo 205.º
 
 2 - Ao n.º 1 do mesmo artigo: é aditada a expressão «que não sejam de mero expediente» entre «tribunais» e «são»; é substituída a expressão «nos casos e nos termos previstos» por «na forma prevista».
 
-###### Artigo 130.º — O artigo 209.º da Constituição passa a artigo 206.º
+Artigo 130.º
 
-###### Artigo 131.º
+O artigo 209.º da Constituição passa a artigo 206.º
+
+Artigo 131.º
 
 1 - O artigo 210.º da Constituição passa a artigo 207.º
 
@@ -1357,7 +1447,7 @@ Os artigos 184.º, 185.º, 186.º, 187.º, 188.º, 189.º, 190.º, 191.º, 192.�
 
 3 - Ao n.º 2 do mesmo artigo é aditada a expressão «, de execução de penas» entre «delitos» e «ou outras».
 
-###### Artigo 132.º
+Artigo 132.º
 
 É aditado um novo artigo 208.º, com a seguinte redacção:
 
@@ -1367,7 +1457,7 @@ Os artigos 184.º, 185.º, 186.º, 187.º, 188.º, 189.º, 190.º, 191.º, 192.�
 
 A lei assegura aos advogados as imunidades necessárias ao exercício do mandato e regula o patrocínio forense como elemento essencial à administração da justiça.»
 
-###### Artigo 133.º
+Artigo 133.º
 
 1 - O artigo 211.º da Constituição passa a artigo 209.º
 
@@ -1375,9 +1465,11 @@ A lei assegura aos advogados as imunidades necessárias ao exercício do mandato
 
 3 - Ao n.º 2 do mesmo artigo é aditada, in fine, a expressão «e julgados de paz».
 
-###### Artigo 134.º — O artigo 212.º da Constituição passa a artigo 210.º
+Artigo 134.º
 
-###### Artigo 135.º
+O artigo 212.º da Constituição passa a artigo 210.º
+
+Artigo 135.º
 
 1 - O artigo 213.º da Constituição passa a artigo 211.º
 
@@ -1387,15 +1479,17 @@ A lei assegura aos advogados as imunidades necessárias ao exercício do mandato
 
 3 - O n.º 3 do mesmo artigo passa a n.º 4.
 
-###### Artigo 136.º — O artigo 214.º da Constituição passa a artigo 212.º
+Artigo 136.º
 
-###### Artigo 137.º
+O artigo 214.º da Constituição passa a artigo 212.º
+
+Artigo 137.º
 
 O artigo 215.º da Constituição passa a artigo 213.º eliminando-se os seus três números e inserindo-se, em sua substituição, a seguinte redacção:
 
 «Durante a vigência do estado de guerra serão constituídos tribunais militares, com competência para o julgamento de crimes de natureza estritamente militar.»
 
-###### Artigo 138.º
+Artigo 138.º
 
 1 - O artigo 216.º da Constituição passa a artigo 214.º
 
@@ -1417,9 +1511,11 @@ O artigo 215.º da Constituição passa a artigo 213.º eliminando-se os seus tr
 
 «4. Nas Regiões Autónomas dos Açores e da Madeira há secções do Tribunal de Contas com competência plena em razão da matéria na respectiva região, nos termos da lei.»
 
-###### Artigo 139.º — O artigo 217.º da Constituição passa a artigo 215.º
+Artigo 139.º
 
-###### Artigo 140.º
+O artigo 217.º da Constituição passa a artigo 215.º
+
+Artigo 140.º
 
 1 - O artigo 218.º da Constituição passa a artigo 216.º
 
@@ -1427,15 +1523,17 @@ O artigo 215.º da Constituição passa a artigo 213.º eliminando-se os seus tr
 
 «5. A lei pode estabelecer outras incompatibilidades com o exercício da função de juiz.»
 
-###### Artigo 141.º — O artigo 219.º da Constituição passa a artigo 217.º
+Artigo 141.º
 
-###### Artigo 142.º
+O artigo 219.º da Constituição passa a artigo 217.º
+
+Artigo 142.º
 
 1 - O artigo 220.º da Constituição passa a artigo 218.º
 
 2 - Na alínea a) do n.º 1 do mesmo artigo é eliminada a expressão «sendo um deles magistrado judicial».
 
-###### Artigo 143.º
+Artigo 143.º
 
 1 - O artigo 221.º da Constituição passa a artigo 219.º
 
@@ -1449,7 +1547,7 @@ O artigo 215.º da Constituição passa a artigo 213.º eliminando-se os seus tr
 
 4 - Os n.os 3 e 4 do mesmo artigo passam a n.os 4 e 5, respectivamente.
 
-###### Artigo 144.º
+Artigo 144.º
 
 1 - O artigo 222.º da Constituição passa a artigo 220.º
 
@@ -1457,9 +1555,11 @@ O artigo 215.º da Constituição passa a artigo 213.º eliminando-se os seus tr
 
 «3. O mandato do Procurador-Geral da República tem a duração de seis anos, sem prejuízo do disposto na alínea m) do artigo 133.º»
 
-###### Artigo 145.º — O artigo 223.º da Constituição passa a artigo 221.º
+Artigo 145.º
 
-###### Artigo 146.º
+O artigo 223.º da Constituição passa a artigo 221.º
+
+Artigo 146.º
 
 1 - O artigo 224.º da Constituição passa a artigo 222.º
 
@@ -1469,7 +1569,7 @@ O artigo 215.º da Constituição passa a artigo 213.º eliminando-se os seus tr
 
 3 - Ao n.º 6 do mesmo artigo é aditada a expressão «as imunidades e» entre «estabelece» e «as demais».
 
-###### Artigo 147.º
+Artigo 147.º
 
 1 - O artigo 225.º da Constituição passa a artigo 223.º
 
@@ -1483,7 +1583,7 @@ O artigo 215.º da Constituição passa a artigo 213.º eliminando-se os seus tr
 
 h) Julgar as acções de impugnação de eleições e deliberações de órgãos de partidos políticos, que, nos termos da lei, sejam recorríveis.»
 
-###### Artigo 148.º
+Artigo 148.º
 
 1 - O artigo 226.º da Constituição passa a artigo 224.º
 
@@ -1491,13 +1591,13 @@ h) Julgar as acções de impugnação de eleições e deliberações de órgãos
 
 «2. A lei pode determinar o funcionamento do Tribunal Constitucional por secções, salvo para o efeito da fiscalização abstracta da constitucionalidade e da legalidade.»
 
-###### Artigo 149.º
+Artigo 149.º
 
 1 - O Título VII da Parte III da Constituição passa a ter a seguinte redacção: «Regiões Autónomas».
 
 2 - Os artigos 227.º e 228.º da Constituição passam a artigos 225.º e 226.º, respectivamente.
 
-###### Artigo 150.º
+Artigo 150.º
 
 1 - O artigo 229.º da Constituição passa a artigo 227.º
 
@@ -1529,11 +1629,11 @@ h) Julgar as acções de impugnação de eleições e deliberações de órgãos
 
 «x) Participar no processo de construção europeia mediante representação nas respectivas instituições regionais e nas delegações envolvidas em processos de decisão comunitária quando estejam em causa matérias do seu interesse específico.»
 
-###### Artigo 151.º
+Artigo 151.º
 
 É eliminado o artigo 230.º da Constituição.
 
-###### Artigo 152.º
+Artigo 152.º
 
 É aditado um novo artigo 228.º, com a seguinte redacção:
 
@@ -1571,7 +1671,7 @@ n) Organização da administração regional e dos serviços nela inseridos;
 
 o) Outras matérias que respeitem exclusivamente à respectiva região ou que nela assumam particular configuração.»
 
-###### Artigo 153.º
+Artigo 153.º
 
 1 - O artigo 231.º da Constituição passa a artigo 229.º
 
@@ -1579,7 +1679,7 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 «3. As relações financeiras entre a República e as regiões autónomas são reguladas através da lei prevista na alínea t) do artigo 164.º»
 
-###### Artigo 154.º
+Artigo 154.º
 
 1 - O artigo 232.º da Constituição passa a artigo 230.º
 
@@ -1597,7 +1697,7 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 6 - À parte inicial do n.º 4 do mesmo artigo é aditada a expressão «Em caso de vagatura do cargo, bem como» e é eliminada a expressão «a região».
 
-###### Artigo 155.º
+Artigo 155.º
 
 1 - O artigo 233.º da Constituição passa a artigo 231.º
 
@@ -1607,7 +1707,7 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 3 - O n.º 5 do mesmo artigo passa a n.º 6.
 
-###### Artigo 156.º
+Artigo 156.º
 
 1 - O artigo 234.º da Constituição passa a artigo 232.º
 
@@ -1621,21 +1721,23 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 4 - Os n.os 2 e 3 do mesmo artigo passam a n.os 3 e 4, respectivamente.
 
-###### Artigo 157.º — O artigo 235.º da Constituição passa a artigo 233.º
+Artigo 157.º
 
-###### Artigo 158.º
+O artigo 235.º da Constituição passa a artigo 233.º
+
+Artigo 158.º
 
 1 - O artigo 236.º da Constituição passa a artigo 234.º
 
 2 - Ao n.º 1 do mesmo artigo é aditada a expressão «graves» entre «actos» e «contrários».
 
-###### Artigo 159.º
+Artigo 159.º
 
 1 - O Título VIII da Parte III da Constituição passa a ter a seguinte redacção: «Poder Local».
 
 2 - Os artigos 237.º e 238.º da Constituição passam a artigos 235.º e 236.º, respectivamente.
 
-###### Artigo 160.º
+Artigo 160.º
 
 1 - O artigo 239.º da Constituição passa a artigo 237.º
 
@@ -1649,7 +1751,7 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 «3. As polícias municipais cooperam na manutenção da tranquilidade pública e na protecção das comunidades locais.»
 
-###### Artigo 161.º
+Artigo 161.º
 
 1 - O artigo 240.º da Constituição passa a artigo 238.º
 
@@ -1657,7 +1759,7 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 «4. As autarquias locais podem dispor de poderes tributários, nos casos e nos termos previstos na lei.»
 
-###### Artigo 162.º
+Artigo 162.º
 
 1 - O artigo 241.º da Constituição passa a artigo 239.º
 
@@ -1675,7 +1777,7 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 4. As candidaturas para as eleições dos órgãos das autarquias locais podem ser apresentadas por partidos políticos, isoladamente ou em coligação, ou por grupos de cidadãos eleitores, nos termos da lei.»
 
-###### Artigo 163.º
+Artigo 163.º
 
 É aditado um novo artigo 240.º, com a seguinte redacção:
 
@@ -1687,23 +1789,27 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 2. A lei pode atribuir a cidadãos eleitores o direito de iniciativa de referendo.»
 
-###### Artigo 164.º — O artigo 242.º da Constituição passa a artigo 241.º
+Artigo 164.º
 
-###### Artigo 165.º
+O artigo 242.º da Constituição passa a artigo 241.º
+
+Artigo 165.º
 
 1 - O artigo 243.º da Constituição passa a artigo 242.º
 
 2 - No n.º 3 do mesmo artigo é eliminada a expressão «resultantes de eleição directa».
 
-###### Artigo 166.º
+Artigo 166.º
 
 1 - O artigo 244.º da Constituição passa a artigo 243.º
 
 2 - Ao n.º 2 do mesmo artigo é aditada, in fine, a expressão «com as adaptações necessárias, nos termos da lei».
 
-###### Artigo 167.º — O artigo 245.º da Constituição passa a artigo 244.º
+Artigo 167.º
 
-###### Artigo 168.º
+O artigo 245.º da Constituição passa a artigo 244.º
+
+Artigo 168.º
 
 1 - O artigo 246.º da Constituição passa a artigo 245.º
 
@@ -1713,13 +1819,13 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 4 - O n.º 3 do mesmo artigo passa a n.º 2.
 
-###### Artigo 169.º
+Artigo 169.º
 
 O artigo 247.º da Constituição passa a artigo 246.º, sendo eliminado o seu n.º 2, passando o n.º 1 a corpo do artigo, com a seguinte redacção:
 
 «A junta de freguesia é o órgão executivo colegial da freguesia.»
 
-###### Artigo 170.º
+Artigo 170.º
 
 É aditado um novo artigo 247.º, com a seguinte redacção:
 
@@ -1729,23 +1835,23 @@ O artigo 247.º da Constituição passa a artigo 246.º, sendo eliminado o seu n
 
 As freguesias podem constituir, nos termos da lei, associações para administração de interesses comuns.»
 
-###### Artigo 171.º
+Artigo 171.º
 
 O artigo 251.º da Constituição passa a ter a seguinte redacção:
 
 «A assembleia municipal é o órgão deliberativo do município e é constituída por membros eleitos directamente em número superior ao dos presidentes de junta de freguesia, que a integram.»
 
-###### Artigo 172.º
+Artigo 172.º
 
 O artigo 252.º da Constituição passa a ter a seguinte redacção:
 
 «A câmara municipal é o órgão executivo colegial do município.»
 
-###### Artigo 173.º
+Artigo 173.º
 
 Ao artigo 253.º da Constituição é aditada, in fine, a expressão «às quais a lei pode conferir atribuições e competências próprias».
 
-###### Artigo 174.º
+Artigo 174.º
 
 1 - O corpo do artigo 254.º da Constituição passa a n.º 1 do mesmo artigo.
 
@@ -1753,7 +1859,7 @@ Ao artigo 253.º da Constituição é aditada, in fine, a expressão «às quais
 
 «2. Os municípios dispõem de receitas tributárias próprias, nos termos da lei.»
 
-###### Artigo 175.º
+Artigo 175.º
 
 1 - O corpo do artigo 256.º da Constituição passa a n.º 1 do mesmo artigo, com a seguinte redacção:
 
@@ -1765,31 +1871,31 @@ Ao artigo 253.º da Constituição é aditada, in fine, a expressão «às quais
 
 3. As consultas aos cidadãos eleitores previstas nos números anteriores terão lugar nas condições e nos termos estabelecidos em lei orgânica, por decisão do Presidente da República, mediante proposta da Assembleia da República, aplicando-se, com as devidas adaptações, o regime decorrente do artigo 115.º»
 
-###### Artigo 176.º
+Artigo 176.º
 
 No artigo 258.º da Constituição a expressão «previstos no artigo 92.º» é substituída pela expressão «nacionais».
 
-###### Artigo 177.º
+Artigo 177.º
 
 O artigo 260.º da Constituição passa a ter a seguinte redacção:
 
 «A assembleia regional é o órgão deliberativo da região e é constituído por membros eleitos directamente e por membros, em número inferior ao daqueles, eleitos pelo sistema de representação proporcional e o método da média mais alta de Hondt, pelo colégio eleitoral formado pelos membros das assembleias municipais da mesma área designados por eleição directa.»
 
-###### Artigo 178.º
+Artigo 178.º
 
 O artigo 261.º da Constituição passa a ter a seguinte redacção:
 
 «A junta regional é o órgão executivo colegial da região.»
 
-###### Artigo 179.º
+Artigo 179.º
 
 No artigo 262.º da Constituição a expressão «da região» entre «junto» e «haverá» é substituída pela expressão «de cada região» e a expressão «haverá» pela expressão «pode haver».
 
-###### Artigo 180.º
+Artigo 180.º
 
 Ao n.º 2 do artigo 266.º da Constituição é aditada, in fine, a expressão «e da boa-fé».
 
-###### Artigo 181.º
+Artigo 181.º
 
 1 - No n.º 2 do artigo 267.º da Constituição são substituídas as expressões «administrativa» por «administrativas» «e superintendência do Governo» por «superintendência e tutela dos órgãos competentes»; é aditada a expressão «da Administração» entre «acção» e «e dos poderes», passando o preceito a ter a seguinte redacção:
 
@@ -1807,7 +1913,7 @@ Ao n.º 2 do artigo 266.º da Constituição é aditada, in fine, a expressão �
 
 «6. As entidades privadas que exerçam poderes públicos podem ser sujeitas, nos termos da lei, a fiscalização administrativa.»
 
-###### Artigo 182.º
+Artigo 182.º
 
 1 - Ao n.º 3 do artigo 268.º da Constituição é aditada a expressão «e acessível» entre «expressa» e «quando», sendo eliminada, in fine, a expressão «dos cidadãos».
 
@@ -1819,17 +1925,17 @@ Ao n.º 2 do artigo 266.º da Constituição é aditada, in fine, a expressão �
 
 «5. Os cidadãos têm igualmente direito de impugnar as normas administrativas com eficácia externa lesivas dos seus direitos ou interesses legalmente protegidos.»
 
-###### Artigo 183.º
+Artigo 183.º
 
 Ao artigo 270.º da Constituição é aditada a expressão «bem como por agentes dos serviços e forças de segurança» entre «efectivo» e «na estrita».
 
-###### Artigo 184.º
+Artigo 184.º
 
 1 - O Título X da Parte III da Constituição passa a ter a seguinte redacção: «Defesa Nacional».
 
 2 - Ao n.º 1 do artigo 274.º da Constituição é aditada, in fine, a expressão «a qual incluirá membros eleitos pela Assembleia da República».
 
-###### Artigo 185.º
+Artigo 185.º
 
 1 - No n.º 2 do artigo 275.º da Constituição é eliminada a expressão «baseia-se no serviço militar obrigatório e» entre «organização» e «é único».
 
@@ -1843,7 +1949,7 @@ Ao artigo 270.º da Constituição é aditada a expressão «bem como por agente
 
 4 - O n.º 6 do mesmo artigo passa a n.º 7.
 
-###### Artigo 186.º
+Artigo 186.º
 
 1 - O n.º 2 do artigo 276.º da Constituição é substituído por:
 
@@ -1853,13 +1959,13 @@ Ao artigo 270.º da Constituição é aditada a expressão «bem como por agente
 
 3 - Ao n.º 4 do mesmo artigo é aditada a expressão «ao serviço militar a que legalmente estejam sujeitos» entre «consciência» e «prestarão».
 
-###### Artigo 187.º
+Artigo 187.º
 
 1 - Ao n.º 1 do artigo 292.º da Constituição é aditada, in fine, a expressão «cuja aprovação compete à Assembleia da República, cabendo ao Presidente da República praticar os actos neste previstos».
 
 2 - No n.º 2 do artigo 292.º, é aditada, in fine, a expressão «, pela Lei n.º 13/90, de 10 de Maio, e pela [Lei n.º 23-A/96](https://diariodarepublica.pt/dr/detalhe/lei/23-a-1996-316169), de 29 de Julho».
 
-###### Artigo 188.º
+Artigo 188.º
 
 1 - A epígrafe do artigo 296.º da Constituição é substituída por «(Reprivatização de bens nacionalizados depois de 25 de Abril de 1974)».
 
@@ -1871,11 +1977,11 @@ Ao artigo 270.º da Constituição é aditada a expressão «bem como por agente
 
 «2. As pequenas e médias empresas indirectamente nacionalizadas situadas fora dos sectores básicos da economia poderão ser reprivatizadas nos termos da lei.»
 
-###### Artigo 189.º
+Artigo 189.º
 
 É eliminado o artigo 297.º da Constituição.
 
-###### Artigo 190.º
+Artigo 190.º
 
 É aditado, como novo artigo 297.º, o seguinte preceito:
 
@@ -1885,7 +1991,7 @@ Ao artigo 270.º da Constituição é aditada a expressão «bem como por agente
 
 Consideram-se inscritos no recenseamento eleitoral para a eleição do Presidente da República todos os cidadãos residentes no estrangeiro que se encontrem inscritos nos cadernos eleitorais para a Assembleia da República em 31 de Dezembro de 1996, dependendo as inscrições posteriores da lei prevista no n.º 2 do artigo 121.º»
 
-###### Artigo 191.º
+Artigo 191.º
 
 É aditado, como novo artigo 298.º, o seguinte preceito:
 
@@ -1895,49 +2001,51 @@ Consideram-se inscritos no recenseamento eleitoral para a eleição do President
 
 Até à entrada em vigor da lei prevista no n.º 3 do artigo 239.º, os órgãos das autarquias locais são constituídos e funcionam nos termos de legislação correspondente ao texto da Constituição na redacção que lhe foi dada pela [Lei Constitucional n.º 1/92](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1992-174316), de 25 de Novembro.»
 
-###### Artigo 192.º — O artigo 298.º da Constituição passa a artigo 299.º
+Artigo 192.º
+
+O artigo 298.º da Constituição passa a artigo 299.º
 
 II - Disposições finais e transitórias
 
-###### Artigo 193.º
+Artigo 193.º
 
 O disposto no artigo 39.º da Constituição relativamente à alteração da composição do órgão aplica-se às nomeações a realizar a partir da data da entrada em vigor da presente lei de revisão.
 
-###### Artigo 194.º
+Artigo 194.º
 
 O disposto na parte final do n.º 5 do artigo 112.º da Constituição apenas se aplica às leis e decretos-leis aprovados após a entrada em vigor da presente lei.
 
-###### Artigo 195.º
+Artigo 195.º
 
 1 - O disposto nos artigos 214.º, 220.º e 230.º da Constituição, relativamente ao novo regime de duração dos mandatos, aplica-se aos actuais titulares, iniciando-se a contagem dos respectivos mandatos a partir da data da entrada em vigor da presente lei de revisão.
 
 2 - Os juízes do Tribunal Constitucional em exercício completam o respectivo mandato, a menos que a ele renunciem, de acordo com o regime aplicável à data da entrada em vigor da lei de revisão constitucional, não contando tal mandato para o efeito previsto na parte final do n.º 3 do artigo 222.º da Constituição.
 
-###### Artigo 196.º
+Artigo 196.º
 
 A lei de organização, funcionamento e processo do Tribunal Constitucional poderá estabelecer regime transitório aplicável à primeira eleição e cooptação de juízes, destinado a garantir que o termo do mandato desses juízes não ocorra simultaneamente quanto a todos eles, não se aplicando àqueles cujo mandato seja reduzido a limitação constante na parte final do n.º 3 do artigo 222.º da Constituição.
 
-###### Artigo 197.º
+Artigo 197.º
 
 Os tribunais militares, aplicando as disposições legais vigentes, permanecem em funções até à data da entrada em vigor da legislação que regulamenta o disposto no n.º 3 do artigo 211.º da Constituição.
 
-###### Artigo 198.º
+Artigo 198.º
 
 A presente lei de revisão constitucional entra em vigor no décimo quinto dia posterior ao da sua publicação do Diário da República.
 
 Aprovada em 3 de Setembro de 1997.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Promulgada em 4 de Setembro de 1997.**
+Promulgada em 4 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 5 de Setembro de 1997.**
+Referendada em 5 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA
 
@@ -1955,15 +2063,21 @@ A Assembleia Constituinte, reunida na sessão plenária de 2 de Abril de 1976, a
 
 Princípios fundamentais
 
-###### Artigo 1.º — (República Portuguesa)
+Artigo 1.º
+
+(República Portuguesa)
 
 Portugal é uma República soberana, baseada na dignidade da pessoa humana e na vontade popular e empenhada na construção de uma sociedade livre, justa e solidária.
 
-###### Artigo 2.º — (Estado de direito democrático)
+Artigo 2.º
+
+(Estado de direito democrático)
 
 A República Portuguesa é um Estado de direito democrático, baseado na soberania popular, no pluralismo de expressão e organização política democráticas, no respeito e na garantia de efectivação dos direitos e liberdades fundamentais e na separação e interdependência de poderes, visando a realização da democracia económica, social e cultural e o aprofundamento da democracia participativa.
 
-###### Artigo 3.º — (Soberania e legalidade)
+Artigo 3.º
+
+(Soberania e legalidade)
 
 1. A soberania, una e indivisível, reside no povo, que a exerce segundo as formas previstas na Constituição.
 
@@ -1971,11 +2085,15 @@ A República Portuguesa é um Estado de direito democrático, baseado na soberan
 
 3. A validade das leis e dos demais actos do Estado, das regiões autónomas, do poder local e de quaisquer outras entidades públicas depende da sua conformidade com a Constituição.
 
-###### Artigo 4.º — (Cidadania portuguesa)
+Artigo 4.º
+
+(Cidadania portuguesa)
 
 São cidadãos portugueses todos aqueles que como tal sejam considerados pela lei ou por convenção internacional.
 
-###### Artigo 5.º — (Território)
+Artigo 5.º
+
+(Território)
 
 1. Portugal abrange o território historicamente definido no continente europeu e os arquipélagos dos Açores e da Madeira.
 
@@ -1983,13 +2101,17 @@ São cidadãos portugueses todos aqueles que como tal sejam considerados pela le
 
 3. O Estado não aliena qualquer parte do território português ou dos direitos de soberania que sobre ele exerce, sem prejuízo da rectificação de fronteiras.
 
-###### Artigo 6.º — (Estado unitário)
+Artigo 6.º
+
+(Estado unitário)
 
 1. O Estado é unitário e respeita na sua organização e funcionamento o regime autonómico insular e os princípios da subsidiariedade, da autonomia das autarquias locais e da descentralização democrática da administração pública.
 
 2. Os arquipélagos dos Açores e da Madeira constituem regiões autónomas dotadas de estatutos político-administrativos e de órgãos de governo próprio.
 
-###### Artigo 7.º — (Relações internacionais)
+Artigo 7.º
+
+(Relações internacionais)
 
 1. Portugal rege-se nas relações internacionais pelos princípios da independência nacional, do respeito dos direitos do homem, dos direitos dos povos, da igualdade entre os Estados, da solução pacífica dos conflitos internacionais, da não ingerência nos assuntos internos dos outros Estados e da cooperação com todos os outros povos para a emancipação e o progresso da humanidade.
 
@@ -2003,7 +2125,9 @@ São cidadãos portugueses todos aqueles que como tal sejam considerados pela le
 
 6. Portugal pode, em condições de reciprocidade, com respeito pelo princípio da subsidiariedade e tendo em vista a realização da coesão económica e social, convencionar o exercício em comum dos poderes necessários à construção da união europeia.
 
-###### Artigo 8.º — (Direito internacional)
+Artigo 8.º
+
+(Direito internacional)
 
 1. As normas e os princípios de direito internacional geral ou comum fazem parte integrante do direito português.
 
@@ -2011,7 +2135,9 @@ São cidadãos portugueses todos aqueles que como tal sejam considerados pela le
 
 3. As normas emanadas dos órgãos competentes das organizações internacionais de que Portugal seja parte vigoram directamente na ordem interna, desde que tal se encontre estabelecido nos respectivos tratados constitutivos.
 
-###### Artigo 9.º — (Tarefas fundamentais do Estado)
+Artigo 9.º
+
+(Tarefas fundamentais do Estado)
 
 São tarefas fundamentais do Estado:
 
@@ -2031,39 +2157,55 @@ g) Promover o desenvolvimento harmonioso de todo o território nacional, tendo e
 
 h) Promover a igualdade entre homens e mulheres.
 
-###### Artigo 10.º — (Sufrágio universal e partidos políticos)
+Artigo 10.º
+
+(Sufrágio universal e partidos políticos)
 
 1. O povo exerce o poder político através do sufrágio universal, igual, directo, secreto e periódico, do referendo e das demais formas previstas na Constituição.
 
 2. Os partidos políticos concorrem para a organização e para a expressão da vontade popular, no respeito pelos princípios da independência nacional, da unidade do Estado e da democracia política.
 
-###### Artigo 11.º — (Símbolos nacionais)
+Artigo 11.º
+
+(Símbolos nacionais)
 
 1. A Bandeira Nacional, símbolo da soberania da República, da independência, unidade e integridade de Portugal, é a adoptada pela República instaurada pela Revolução de 5 de Outubro de 1910.
 
 2. O Hino Nacional é A Portuguesa.
 
-# PARTE I — Direitos e deveres fundamentais
+PARTE I
 
-## TÍTULO I — Princípios gerais
+Direitos e deveres fundamentais
 
-###### Artigo 12.º — (Princípio da universalidade)
+TÍTULO I
+
+Princípios gerais
+
+Artigo 12.º
+
+(Princípio da universalidade)
 
 1. Todos os cidadãos gozam dos direitos e estão sujeitos aos deveres consignados na Constituição.
 
 2. As pessoas colectivas gozam dos direitos e estão sujeitas aos deveres compatíveis com a sua natureza.
 
-###### Artigo 13.º — (Princípio da igualdade)
+Artigo 13.º
+
+(Princípio da igualdade)
 
 1. Todos os cidadãos têm a mesma dignidade social e são iguais perante a lei.
 
 2. Ninguém pode ser privilegiado, beneficiado, prejudicado, privado de qualquer direito ou isento de qualquer dever em razão de ascendência, sexo, raça, língua, território de origem, religião, convicções políticas ou ideológicas, instrução, situação económica ou condição social.
 
-###### Artigo 14.º — (Portugueses no estrangeiro)
+Artigo 14.º
+
+(Portugueses no estrangeiro)
 
 Os cidadãos portugueses que se encontrem ou residam no estrangeiro gozam da protecção do Estado para o exercício dos direitos e estão sujeitos aos deveres que não sejam incompatíveis com a ausência do país.
 
-###### Artigo 15.º — (Estrangeiros, apátridas, cidadãos europeus)
+Artigo 15.º
+
+(Estrangeiros, apátridas, cidadãos europeus)
 
 1. Os estrangeiros e os apátridas que se encontrem ou residam em Portugal gozam dos direitos e estão sujeitos aos deveres do cidadão português.
 
@@ -2075,17 +2217,23 @@ Os cidadãos portugueses que se encontrem ou residam no estrangeiro gozam da pro
 
 5. A lei pode ainda atribuir, em condições de reciprocidade, aos cidadãos dos Estados membros da União Europeia residentes em Portugal o direito de elegerem e serem eleitos Deputados ao Parlamento Europeu.
 
-###### Artigo 16.º — (Âmbito e sentido dos direitos fundamentais)
+Artigo 16.º
+
+(Âmbito e sentido dos direitos fundamentais)
 
 1. Os direitos fundamentais consagrados na Constituição não excluem quaisquer outros constantes das leis e das regras aplicáveis de direito internacional.
 
 2. Os preceitos constitucionais e legais relativos aos direitos fundamentais devem ser interpretados e integrados de harmonia com a Declaração Universal dos Direitos do Homem.
 
-###### Artigo 17.º — (Regime dos direitos, liberdades e garantias)
+Artigo 17.º
+
+(Regime dos direitos, liberdades e garantias)
 
 O regime dos direitos, liberdades e garantias aplica-se aos enunciados no título II e aos direitos fundamentais de natureza análoga.
 
-###### Artigo 18.º — (Força jurídica)
+Artigo 18.º
+
+(Força jurídica)
 
 1. Os preceitos constitucionais respeitantes aos direitos, liberdades e garantias são directamente aplicáveis e vinculam as entidades públicas e privadas.
 
@@ -2093,7 +2241,9 @@ O regime dos direitos, liberdades e garantias aplica-se aos enunciados no títul
 
 3. As leis restritivas de direitos, liberdades e garantias têm de revestir carácter geral e abstracto e não podem ter efeito retroactivo nem diminuir a extensão e o alcance do conteúdo essencial dos preceitos constitucionais.
 
-###### Artigo 19.º — (Suspensão do exercício de direitos)
+Artigo 19.º
+
+(Suspensão do exercício de direitos)
 
 1. Os órgãos de soberania não podem, conjunta ou separadamente, suspender o exercício dos direitos, liberdades e garantias, salvo em caso de estado de sítio ou de estado de emergência, declarados na forma prevista na Constituição.
 
@@ -2111,7 +2261,9 @@ O regime dos direitos, liberdades e garantias aplica-se aos enunciados no títul
 
 8. A declaração do estado de sítio ou do estado de emergência confere às autoridades competência para tomarem as providências necessárias e adequadas ao pronto restabelecimento da normalidade constitucional.
 
-###### Artigo 20.º — (Acesso ao direito e tutela jurisdicional efectiva)
+Artigo 20.º
+
+(Acesso ao direito e tutela jurisdicional efectiva)
 
 1. A todos é assegurado o acesso ao direito e aos tribunais para defesa dos seus direitos e interesses legalmente protegidos, não podendo a justiça ser denegada por insuficiência de meios económicos.
 
@@ -2123,15 +2275,21 @@ O regime dos direitos, liberdades e garantias aplica-se aos enunciados no títul
 
 5. Para defesa dos direitos, liberdades e garantias pessoais, a lei assegura aos cidadãos procedimentos judiciais caracterizados pela celeridade e prioridade, de modo a obter tutela efectiva e em tempo útil contra ameaças ou violações desses direitos.
 
-###### Artigo 21.º — (Direito de resistência)
+Artigo 21.º
+
+(Direito de resistência)
 
 Todos têm o direito de resistir a qualquer ordem que ofenda os seus direitos, liberdades e garantias e de repelir pela força qualquer agressão, quando não seja possível recorrer à autoridade pública.
 
-###### Artigo 22.º — (Responsabilidade das entidades públicas)
+Artigo 22.º
+
+(Responsabilidade das entidades públicas)
 
 O Estado e as demais entidades públicas são civilmente responsáveis, em forma solidária com os titulares dos seus órgãos, funcionários ou agentes, por acções ou omissões praticadas no exercício das suas funções e por causa desse exercício, de que resulte violação dos direitos, liberdades e garantias ou prejuízo para outrem.
 
-###### Artigo 23.º — (Provedor de Justiça)
+Artigo 23.º
+
+(Provedor de Justiça)
 
 1. Os cidadãos podem apresentar queixas por acções ou omissões dos poderes públicos ao Provedor de Justiça, que as apreciará sem poder decisório, dirigindo aos órgãos competentes as recomendações necessárias para prevenir e reparar injustiças.
 
@@ -2141,23 +2299,33 @@ O Estado e as demais entidades públicas são civilmente responsáveis, em forma
 
 4. Os órgãos e agentes da Administração Pública cooperam com o Provedor de Justiça na realização da sua missão.
 
-## TÍTULO II — Direitos, liberdades e garantias
+TÍTULO II
 
-### CAPÍTULO I — Direitos, liberdades e garantias pessoais
+Direitos, liberdades e garantias
 
-###### Artigo 24.º — (Direito à vida)
+CAPÍTULO I
+
+Direitos, liberdades e garantias pessoais
+
+Artigo 24.º
+
+(Direito à vida)
 
 1. A vida humana é inviolável.
 
 2. Em caso algum haverá pena de morte.
 
-###### Artigo 25.º — (Direito à integridade pessoal)
+Artigo 25.º
+
+(Direito à integridade pessoal)
 
 1. A integridade moral e física das pessoas é inviolável.
 
 2. Ninguém pode ser submetido a tortura, nem a tratos ou penas cruéis, degradantes ou desumanos.
 
-###### Artigo 26.º — (Outros direitos pessoais)
+Artigo 26.º
+
+(Outros direitos pessoais)
 
 1. A todos são reconhecidos os direitos à identidade pessoal, ao desenvolvimento da personalidade, à capacidade civil, à cidadania, ao bom nome e reputação, à imagem, à palavra, à reserva da intimidade da vida privada e familiar e à protecção legal contra quaisquer formas de discriminação.
 
@@ -2167,7 +2335,9 @@ O Estado e as demais entidades públicas são civilmente responsáveis, em forma
 
 4. A privação da cidadania e as restrições à capacidade civil só podem efectuar-se nos casos e termos previstos na lei, não podendo ter como fundamento motivos políticos.
 
-###### Artigo 27.º — (Direito à liberdade e à segurança)
+Artigo 27.º
+
+(Direito à liberdade e à segurança)
 
 1. Todos têm direito à liberdade e à segurança.
 
@@ -2195,7 +2365,9 @@ h) Internamento de portador de anomalia psíquica em estabelecimento terapêutic
 
 5. A privação da liberdade contra o disposto na Constituição e na lei constitui o Estado no dever de indemnizar o lesado nos termos que a lei estabelecer.
 
-###### Artigo 28.º — (Prisão preventiva)
+Artigo 28.º
+
+(Prisão preventiva)
 
 1. A detenção será submetida, no prazo máximo de quarenta e oito horas, a apreciação judicial, para restituição à liberdade ou imposição de medida de coacção adequada, devendo o juiz conhecer das causas que a determinaram e comunicá-las ao detido, interrogá-lo e dar-lhe oportunidade de defesa.
 
@@ -2205,7 +2377,9 @@ h) Internamento de portador de anomalia psíquica em estabelecimento terapêutic
 
 4. A prisão preventiva está sujeita aos prazos estabelecidos na lei.
 
-###### Artigo 29.º — (Aplicação da lei criminal)
+Artigo 29.º
+
+(Aplicação da lei criminal)
 
 1. Ninguém pode ser sentenciado criminalmente senão em virtude de lei anterior que declare punível a acção ou a omissão, nem sofrer medida de segurança cujos pressupostos não estejam fixados em lei anterior.
 
@@ -2219,7 +2393,9 @@ h) Internamento de portador de anomalia psíquica em estabelecimento terapêutic
 
 6. Os cidadãos injustamente condenados têm direito, nas condições que a lei prescrever, à revisão da sentença e à indemnização pelos danos sofridos.
 
-###### Artigo 30.º — (Limites das penas e das medidas de segurança)
+Artigo 30.º
+
+(Limites das penas e das medidas de segurança)
 
 1. Não pode haver penas nem medidas de segurança privativas ou restritivas da liberdade com carácter perpétuo ou de duração ilimitada ou indefinida.
 
@@ -2231,7 +2407,9 @@ h) Internamento de portador de anomalia psíquica em estabelecimento terapêutic
 
 5. Os condenados a quem sejam aplicadas pena ou medida de segurança privativas da liberdade mantêm a titularidade dos direitos fundamentais, salvas as limitações inerentes ao sentido da condenação e às exigências próprias da respectiva execução.
 
-###### Artigo 31.º — (Habeas corpus)
+Artigo 31.º
+
+(Habeas corpus)
 
 1. Haverá habeas corpus contra o abuso de poder, por virtude de prisão ou detenção ilegal, a requerer perante o tribunal competente.
 
@@ -2239,7 +2417,9 @@ h) Internamento de portador de anomalia psíquica em estabelecimento terapêutic
 
 3. O juiz decidirá no prazo de oito dias o pedido de habeas corpus em audiência contraditória.
 
-###### Artigo 32.º — (Garantias de processo criminal)
+Artigo 32.º
+
+(Garantias de processo criminal)
 
 1. O processo criminal assegura todas as garantias de defesa, incluindo o recurso.
 
@@ -2261,7 +2441,9 @@ h) Internamento de portador de anomalia psíquica em estabelecimento terapêutic
 
 10. Nos processos de contra-ordenação, bem como em quaisquer processos sancionatórios, são assegurados ao arguido os direitos de audiência e defesa.
 
-###### Artigo 33.º — (Expulsão, extradição e direito de asilo)
+Artigo 33.º
+
+(Expulsão, extradição e direito de asilo)
 
 1. Não é admitida a expulsão de cidadãos portugueses do território nacional.
 
@@ -2279,7 +2461,9 @@ h) Internamento de portador de anomalia psíquica em estabelecimento terapêutic
 
 8. A lei define o estatuto do refugiado político.
 
-###### Artigo 34.º — (Inviolabilidade do domicílio e da correspondência)
+Artigo 34.º
+
+(Inviolabilidade do domicílio e da correspondência)
 
 1. O domicílio e o sigilo da correspondência e dos outros meios de comunicação privada são invioláveis.
 
@@ -2289,7 +2473,9 @@ h) Internamento de portador de anomalia psíquica em estabelecimento terapêutic
 
 4. É proibida toda a ingerência das autoridades públicas na correspondência, nas telecomunicações e nos demais meios de comunicação, salvos os casos previstos na lei em matéria de processo criminal.
 
-###### Artigo 35.º — (Utilização da informática)
+Artigo 35.º
+
+(Utilização da informática)
 
 1. Todos os cidadãos têm o direito de acesso aos dados informatizados que lhes digam respeito, podendo exigir a sua rectificação e actualização, e o direito de conhecer a finalidade a que se destinam, nos termos da lei.
 
@@ -2305,7 +2491,9 @@ h) Internamento de portador de anomalia psíquica em estabelecimento terapêutic
 
 7. Os dados pessoais constantes de ficheiros manuais gozam de protecção idêntica à prevista nos números anteriores, nos termos da lei.
 
-###### Artigo 36.º — (Família, casamento e filiação)
+Artigo 36.º
+
+(Família, casamento e filiação)
 
 1. Todos têm o direito de constituir família e de contrair casamento em condições de plena igualdade.
 
@@ -2321,7 +2509,9 @@ h) Internamento de portador de anomalia psíquica em estabelecimento terapêutic
 
 7. A adopção é regulada e protegida nos termos da lei, a qual deve estabelecer formas céleres para a respectiva tramitação.
 
-###### Artigo 37.º — (Liberdade de expressão e informação)
+Artigo 37.º
+
+(Liberdade de expressão e informação)
 
 1. Todos têm o direito de exprimir e divulgar livremente o seu pensamento pela palavra, pela imagem ou por qualquer outro meio, bem como o direito de informar, de se informar e de ser informados, sem impedimentos nem discriminações.
 
@@ -2331,7 +2521,9 @@ h) Internamento de portador de anomalia psíquica em estabelecimento terapêutic
 
 4. A todas as pessoas, singulares ou colectivas, é assegurado, em condições de igualdade e eficácia, o direito de resposta e de rectificação, bem como o direito a indemnização pelos danos sofridos.
 
-###### Artigo 38.º — (Liberdade de imprensa e meios de comunicação social)
+Artigo 38.º
+
+(Liberdade de imprensa e meios de comunicação social)
 
 1. É garantida a liberdade de imprensa.
 
@@ -2353,7 +2545,9 @@ c) O direito de fundação de jornais e de quaisquer outras publicações, indep
 
 7. As estações emissoras de radiodifusão e de radiotelevisão só podem funcionar mediante licença, a conferir por concurso público, nos termos da lei.
 
-###### Artigo 39.º — (Alta Autoridade para a Comunicação Social)
+Artigo 39.º
+
+(Alta Autoridade para a Comunicação Social)
 
 1. O direito à informação, a liberdade de imprensa e a independência dos meios de comunicação social perante o poder político e o poder económico, bem como a possibilidade de expressão e confronto das diversas correntes de opinião e o exercício dos direitos de antena, de resposta e de réplica política, são assegurados por uma Alta Autoridade para a Comunicação Social.
 
@@ -2373,7 +2567,9 @@ d) De quatro elementos representativos da opinião pública, da comunicação so
 
 5. A Alta Autoridade para a Comunicação Social intervém na nomeação e exoneração dos directores dos órgãos de comunicação social públicos, nos termos da lei.
 
-###### Artigo 40.º — (Direitos de antena, de resposta e de réplica política)
+Artigo 40.º
+
+(Direitos de antena, de resposta e de réplica política)
 
 1. Os partidos políticos e as organizações sindicais, profissionais e representativas das actividades económicas, bem como outras organizações sociais de âmbito nacional, têm direito, de acordo com a sua relevância e representatividade e segundo critérios objectivos a definir por lei, a tempos de antena no serviço público de rádio e de televisão.
 
@@ -2381,7 +2577,9 @@ d) De quatro elementos representativos da opinião pública, da comunicação so
 
 3. Nos períodos eleitorais os concorrentes têm direito a tempos de antena, regulares e equitativos, nas estações emissoras de rádio e de televisão de âmbito nacional e regional, nos termos da lei.
 
-###### Artigo 41.º — (Liberdade de consciência, de religião e de culto)
+Artigo 41.º
+
+(Liberdade de consciência, de religião e de culto)
 
 1. A liberdade de consciência, de religião e de culto é inviolável.
 
@@ -2395,13 +2593,17 @@ d) De quatro elementos representativos da opinião pública, da comunicação so
 
 6. É garantido o direito à objecção de consciência, nos termos da lei.
 
-###### Artigo 42.º — (Liberdade de criação cultural)
+Artigo 42.º
+
+(Liberdade de criação cultural)
 
 1. É livre a criação intelectual, artística e científica.
 
 2. Esta liberdade compreende o direito à invenção, produção e divulgação da obra científica, literária ou artística, incluindo a protecção legal dos direitos de autor.
 
-###### Artigo 43.º — (Liberdade de aprender e ensinar)
+Artigo 43.º
+
+(Liberdade de aprender e ensinar)
 
 1. É garantida a liberdade de aprender e ensinar.
 
@@ -2411,19 +2613,25 @@ d) De quatro elementos representativos da opinião pública, da comunicação so
 
 4. É garantido o direito de criação de escolas particulares e cooperativas.
 
-###### Artigo 44.º — (Direito de deslocação e de emigração)
+Artigo 44.º
+
+(Direito de deslocação e de emigração)
 
 1. A todos os cidadãos é garantido o direito de se deslocarem e fixarem livremente em qualquer parte do território nacional.
 
 2. A todos é garantido o direito de emigrar ou de sair do território nacional e o direito de regressar.
 
-###### Artigo 45.º — (Direito de reunião e de manifestação)
+Artigo 45.º
+
+(Direito de reunião e de manifestação)
 
 1. Os cidadãos têm o direito de se reunir, pacificamente e sem armas, mesmo em lugares abertos ao público, sem necessidade de qualquer autorização.
 
 2. A todos os cidadãos é reconhecido o direito de manifestação.
 
-###### Artigo 46.º — (Liberdade de associação)
+Artigo 46.º
+
+(Liberdade de associação)
 
 1. Os cidadãos têm o direito de, livremente e sem dependência de qualquer autorização, constituir associações, desde que estas não se destinem a promover a violência e os respectivos fins não sejam contrários à lei penal.
 
@@ -2433,27 +2641,37 @@ d) De quatro elementos representativos da opinião pública, da comunicação so
 
 4. Não são consentidas associações armadas nem de tipo militar, militarizadas ou paramilitares, nem organizações racistas ou que perfilhem a ideologia fascista.
 
-###### Artigo 47.º — (Liberdade de escolha de profissão e acesso à função pública)
+Artigo 47.º
+
+(Liberdade de escolha de profissão e acesso à função pública)
 
 1. Todos têm o direito de escolher livremente a profissão ou o género de trabalho, salvas as restrições legais impostas pelo interesse colectivo ou inerentes à sua própria capacidade.
 
 2. Todos os cidadãos têm o direito de acesso à função pública, em condições de igualdade e liberdade, em regra por via de concurso.
 
-### CAPÍTULO II — Direitos, liberdades e garantias de participação política
+CAPÍTULO II
 
-###### Artigo 48.º — (Participação na vida pública)
+Direitos, liberdades e garantias de participação política
+
+Artigo 48.º
+
+(Participação na vida pública)
 
 1. Todos os cidadãos têm o direito de tomar parte na vida política e na direcção dos assuntos públicos do país, directamente ou por intermédio de representantes livremente eleitos.
 
 2. Todos os cidadãos têm o direito de ser esclarecidos objectivamente sobre actos do Estado e demais entidades públicas e de ser informados pelo Governo e outras autoridades acerca da gestão dos assuntos públicos.
 
-###### Artigo 49.º — (Direito de sufrágio)
+Artigo 49.º
+
+(Direito de sufrágio)
 
 1. Têm direito de sufrágio todos os cidadãos maiores de dezoito anos, ressalvadas as incapacidades previstas na lei geral.
 
 2. O exercício do direito de sufrágio é pessoal e constitui um dever cívico.
 
-###### Artigo 50.º — (Direito de acesso a cargos públicos)
+Artigo 50.º
+
+(Direito de acesso a cargos públicos)
 
 1. Todos os cidadãos têm o direito de acesso, em condições de igualdade e liberdade, aos cargos públicos.
 
@@ -2461,7 +2679,9 @@ d) De quatro elementos representativos da opinião pública, da comunicação so
 
 3. No acesso a cargos electivos a lei só pode estabelecer as inelegibilidades necessárias para garantir a liberdade de escolha dos eleitores e a isenção e independência do exercício dos respectivos cargos.
 
-###### Artigo 51.º — (Associações e partidos políticos)
+Artigo 51.º
+
+(Associações e partidos políticos)
 
 1. A liberdade de associação compreende o direito de constituir ou participar em associações e partidos políticos e de através deles concorrer democraticamente para a formação da vontade popular e a organização do poder político.
 
@@ -2475,7 +2695,9 @@ d) De quatro elementos representativos da opinião pública, da comunicação so
 
 6. A lei estabelece as regras de financiamento dos partidos políticos, nomeadamente quanto aos requisitos e limites do financiamento público, bem como às exigências de publicidade do seu património e das suas contas.
 
-###### Artigo 52.º — (Direito de petição e direito de acção popular)
+Artigo 52.º
+
+(Direito de petição e direito de acção popular)
 
 1. Todos os cidadãos têm o direito de apresentar, individual ou colectivamente, aos órgãos de soberania ou a quaisquer autoridades petições, representações, reclamações ou queixas para defesa dos seus direitos, da Constituição, das leis ou do interesse geral e bem assim o direito de serem informados, em prazo razoável, sobre o resultado da respectiva apreciação.
 
@@ -2487,13 +2709,19 @@ a) Promover a prevenção, a cessação ou a perseguição judicial das infracç
 
 b) Assegurar a defesa dos bens do Estado, das regiões autónomas e das autarquias locais.
 
-### CAPÍTULO III — Direitos, liberdades e garantias dos trabalhadores
+CAPÍTULO III
 
-###### Artigo 53.º — (Segurança no emprego)
+Direitos, liberdades e garantias dos trabalhadores
+
+Artigo 53.º
+
+(Segurança no emprego)
 
 É garantida aos trabalhadores a segurança no emprego, sendo proibidos os despedimentos sem justa causa ou por motivos políticos ou ideológicos.
 
-###### Artigo 54.º — (Comissões de trabalhadores)
+Artigo 54.º
+
+(Comissões de trabalhadores)
 
 1. É direito dos trabalhadores criarem comissões de trabalhadores para defesa dos seus interesses e intervenção democrática na vida da empresa.
 
@@ -2517,7 +2745,9 @@ e) Gerir ou participar na gestão das obras sociais da empresa;
 
 f) Promover a eleição de representantes dos trabalhadores para os órgãos sociais de empresas pertencentes ao Estado ou a outras entidades públicas, nos termos da lei.
 
-###### Artigo 55.º — (Liberdade sindical)
+Artigo 55.º
+
+(Liberdade sindical)
 
 1. É reconhecida aos trabalhadores a liberdade sindical, condição e garantia da construção da sua unidade para defesa dos seus direitos e interesses.
 
@@ -2541,7 +2771,9 @@ e) O direito de tendência, nas formas que os respectivos estatutos determinarem
 
 6. Os representantes eleitos dos trabalhadores gozam do direito à informação e consulta, bem como à protecção legal adequada contra quaisquer formas de condicionamento, constrangimento ou limitação do exercício legítimo das suas funções.
 
-###### Artigo 56.º — (Direitos das associações sindicais e contratação colectiva)
+Artigo 56.º
+
+(Direitos das associações sindicais e contratação colectiva)
 
 1. Compete às associações sindicais defender e promover a defesa dos direitos e interesses dos trabalhadores que representem.
 
@@ -2561,7 +2793,9 @@ e) Participar nos processos de reestruturação da empresa, especialmente no toc
 
 4. A lei estabelece as regras respeitantes à legitimidade para a celebração das convenções colectivas de trabalho, bem como à eficácia das respectivas normas.
 
-###### Artigo 57.º — (Direito à greve e proibição do lock-out)
+Artigo 57.º
+
+(Direito à greve e proibição do lock-out)
 
 1. É garantido o direito à greve.
 
@@ -2571,11 +2805,17 @@ e) Participar nos processos de reestruturação da empresa, especialmente no toc
 
 4. É proibido o lock-out.
 
-## TÍTULO III — Direitos e deveres económicos, sociais e culturais
+TÍTULO III
 
-### CAPÍTULO I — Direitos e deveres económicos
+Direitos e deveres económicos, sociais e culturais
 
-###### Artigo 58.º — (Direito ao trabalho)
+CAPÍTULO I
+
+Direitos e deveres económicos
+
+Artigo 58.º
+
+(Direito ao trabalho)
 
 1. Todos têm direito ao trabalho.
 
@@ -2587,7 +2827,9 @@ b) A igualdade de oportunidades na escolha da profissão ou género de trabalho 
 
 c) A formação cultural e técnica e a valorização profissional dos trabalhadores.
 
-###### Artigo 59.º — (Direitos dos trabalhadores)
+Artigo 59.º
+
+(Direitos dos trabalhadores)
 
 1. Todos os trabalhadores, sem distinção de idade, sexo, raça, cidadania, território de origem, religião, convicções políticas ou ideológicas, têm direito:
 
@@ -2619,7 +2861,9 @@ f) A protecção das condições de trabalho dos trabalhadores-estudantes.
 
 3. Os salários gozam de garantias especiais, nos termos da lei.
 
-###### Artigo 60.º — (Direitos dos consumidores)
+Artigo 60.º
+
+(Direitos dos consumidores)
 
 1. Os consumidores têm direito à qualidade dos bens e serviços consumidos, à formação e à informação, à protecção da saúde, da segurança e dos seus interesses económicos, bem como à reparação de danos.
 
@@ -2627,7 +2871,9 @@ f) A protecção das condições de trabalho dos trabalhadores-estudantes.
 
 3. As associações de consumidores e as cooperativas de consumo têm direito, nos termos da lei, ao apoio do Estado e a ser ouvidas sobre as questões que digam respeito à defesa dos consumidores, sendo-lhes reconhecida legitimidade processual para defesa dos seus associados ou de interesses colectivos ou difusos.
 
-###### Artigo 61.º — (Iniciativa privada, cooperativa e autogestionária)
+Artigo 61.º
+
+(Iniciativa privada, cooperativa e autogestionária)
 
 1. A iniciativa económica privada exerce-se livremente nos quadros definidos pela Constituição e pela lei e tendo em conta o interesse geral.
 
@@ -2639,15 +2885,21 @@ f) A protecção das condições de trabalho dos trabalhadores-estudantes.
 
 5. É reconhecido o direito de autogestão, nos termos da lei.
 
-###### Artigo 62.º — (Direito de propriedade privada)
+Artigo 62.º
+
+(Direito de propriedade privada)
 
 1. A todos é garantido o direito à propriedade privada e à sua transmissão em vida ou por morte, nos termos da Constituição.
 
 2. A requisição e a expropriação por utilidade pública só podem ser efectuadas com base na lei e mediante o pagamento de justa indemnização.
 
-### CAPÍTULO II — Direitos e deveres sociais
+CAPÍTULO II
 
-###### Artigo 63.º — (Segurança social e solidariedade)
+Direitos e deveres sociais
+
+Artigo 63.º
+
+(Segurança social e solidariedade)
 
 1. Todos têm direito à segurança social.
 
@@ -2659,7 +2911,9 @@ f) A protecção das condições de trabalho dos trabalhadores-estudantes.
 
 5. O Estado apoia e fiscaliza, nos termos da lei, a actividade e o funcionamento das instituições particulares de solidariedade social e de outras de reconhecido interesse público sem carácter lucrativo, com vista à prossecução de objectivos de solidariedade social consignados, nomeadamente, neste artigo, na alínea b) do n.º 2 do artigo 67.º, no artigo 69.º, na alínea e) do n.º 1 do artigo 70.º e nos artigos 71.º e 72.º
 
-###### Artigo 64.º — (Saúde)
+Artigo 64.º
+
+(Saúde)
 
 1. Todos têm direito à protecção da saúde e o dever de a defender e promover.
 
@@ -2685,7 +2939,9 @@ f) Estabelecer políticas de prevenção e tratamento da toxicodependência.
 
 4. O serviço nacional de saúde tem gestão descentralizada e participada.
 
-###### Artigo 65.º — (Habitação e urbanismo)
+Artigo 65.º
+
+(Habitação e urbanismo)
 
 1. Todos têm direito, para si e para a sua família, a uma habitação de dimensão adequada, em condições de higiene e conforto e que preserve a intimidade pessoal e a privacidade familiar.
 
@@ -2705,7 +2961,9 @@ d) Incentivar e apoiar as iniciativas das comunidades locais e das populações,
 
 5. É garantida a participação dos interessados na elaboração dos instrumentos de planeamento urbanístico e de quaisquer outros instrumentos de planeamento físico do território.
 
-###### Artigo 66.º — (Ambiente e qualidade de vida)
+Artigo 66.º
+
+(Ambiente e qualidade de vida)
 
 1. Todos têm direito a um ambiente de vida humano, sadio e ecologicamente equilibrado e o dever de o defender.
 
@@ -2727,7 +2985,9 @@ g) Promover a educação ambiental e o respeito pelos valores do ambiente;
 
 h) Assegurar que a política fiscal compatibilize desenvolvimento com protecção do ambiente e qualidade de vida.
 
-###### Artigo 67.º — (Família)
+Artigo 67.º
+
+(Família)
 
 1. A família, como elemento fundamental da sociedade, tem direito à protecção da sociedade e do Estado e à efectivação de todas as condições que permitam a realização pessoal dos seus membros.
 
@@ -2747,7 +3007,9 @@ f) Regular os impostos e os benefícios sociais, de harmonia com os encargos fam
 
 g) Definir, ouvidas as associações representativas das famílias, e executar uma política de família com carácter global e integrado.
 
-###### Artigo 68.º — (Paternidade e maternidade)
+Artigo 68.º
+
+(Paternidade e maternidade)
 
 1. Os pais e as mães têm direito à protecção da sociedade e do Estado na realização da sua insubstituível acção em relação aos filhos, nomeadamente quanto à sua educação, com garantia de realização profissional e de participação na vida cívica do país.
 
@@ -2757,7 +3019,9 @@ g) Definir, ouvidas as associações representativas das famílias, e executar u
 
 4. A lei regula a atribuição às mães e aos pais de direitos de dispensa de trabalho por período adequado, de acordo com os interesses da criança e as necessidades do agregado familiar.
 
-###### Artigo 69.º — (Infância)
+Artigo 69.º
+
+(Infância)
 
 1. As crianças têm direito à protecção da sociedade e do Estado, com vista ao seu desenvolvimento integral, especialmente contra todas as formas de abandono, de discriminação e de opressão e contra o exercício abusivo da autoridade na família e nas demais instituições.
 
@@ -2765,7 +3029,9 @@ g) Definir, ouvidas as associações representativas das famílias, e executar u
 
 3. É proibido, nos termos da lei, o trabalho de menores em idade escolar.
 
-###### Artigo 70.º — (Juventude)
+Artigo 70.º
+
+(Juventude)
 
 1. Os jovens gozam de protecção especial para efectivação dos seus direitos económicos, sociais e culturais, nomeadamente:
 
@@ -2783,7 +3049,9 @@ e) No aproveitamento dos tempos livres.
 
 3. O Estado, em colaboração com as famílias, as escolas, as empresas, as organizações de moradores, as associações e fundações de fins culturais e as colectividades de cultura e recreio, fomenta e apoia as organizações juvenis na prossecução daqueles objectivos, bem como o intercâmbio internacional da juventude.
 
-###### Artigo 71.º — (Cidadãos portadores de deficiência)
+Artigo 71.º
+
+(Cidadãos portadores de deficiência)
 
 1. Os cidadãos portadores de deficiência física ou mental gozam plenamente dos direitos e estão sujeitos aos deveres consignados na Constituição, com ressalva do exercício ou do cumprimento daqueles para os quais se encontrem incapacitados.
 
@@ -2791,15 +3059,21 @@ e) No aproveitamento dos tempos livres.
 
 3. O Estado apoia as organizações de cidadãos portadores de deficiência.
 
-###### Artigo 72.º — (Terceira idade)
+Artigo 72.º
+
+(Terceira idade)
 
 1. As pessoas idosas têm direito à segurança económica e a condições de habitação e convívio familiar e comunitário que respeitem a sua autonomia pessoal e evitem e superem o isolamento ou a marginalização social.
 
 2. A política de terceira idade engloba medidas de carácter económico, social e cultural tendentes a proporcionar às pessoas idosas oportunidades de realização pessoal, através de uma participação activa na vida da comunidade.
 
-### CAPÍTULO III — Direitos e deveres culturais
+CAPÍTULO III
 
-###### Artigo 73.º — (Educação, cultura e ciência)
+Direitos e deveres culturais
+
+Artigo 73.º
+
+(Educação, cultura e ciência)
 
 1. Todos têm direito à educação e à cultura.
 
@@ -2809,7 +3083,9 @@ e) No aproveitamento dos tempos livres.
 
 4. A criação e a investigação científicas, bem como a inovação tecnológica, são incentivadas e apoiadas pelo Estado, por forma a assegurar a respectiva liberdade e autonomia, o reforço da competitividade e a articulação entre as instituições científicas e as empresas.
 
-###### Artigo 74.º — (Ensino)
+Artigo 74.º
+
+(Ensino)
 
 1. Todos têm direito ao ensino com garantia do direito à igualdade de oportunidades de acesso e êxito escolar.
 
@@ -2835,25 +3111,33 @@ i) Assegurar aos filhos dos emigrantes o ensino da língua portuguesa e o acesso
 
 j) Assegurar aos filhos dos imigrantes apoio adequado para efectivação do direito ao ensino.
 
-###### Artigo 75.º — (Ensino público, particular e cooperativo)
+Artigo 75.º
+
+(Ensino público, particular e cooperativo)
 
 1. O Estado criará uma rede de estabelecimentos públicos de ensino que cubra as necessidades de toda a população.
 
 2. O Estado reconhece e fiscaliza o ensino particular e cooperativo, nos termos da lei.
 
-###### Artigo 76.º — (Universidade e acesso ao ensino superior)
+Artigo 76.º
+
+(Universidade e acesso ao ensino superior)
 
 1. O regime de acesso à Universidade e às demais instituições do ensino superior garante a igualdade de oportunidades e a democratização do sistema de ensino, devendo ter em conta as necessidades em quadros qualificados e a elevação do nível educativo, cultural e científico do país.
 
 2. As universidades gozam, nos termos da lei, de autonomia estatutária, científica, pedagógica, administrativa e financeira, sem prejuízo de adequada avaliação da qualidade do ensino.
 
-###### Artigo 77.º — (Participação democrática no ensino)
+Artigo 77.º
+
+(Participação democrática no ensino)
 
 1. Os professores e alunos têm o direito de participar na gestão democrática das escolas, nos termos da lei.
 
 2. A lei regula as formas de participação das associações de professores, de alunos, de pais, das comunidades e das instituições de carácter científico na definição da política de ensino.
 
-###### Artigo 78.º — (Fruição e criação cultural)
+Artigo 78.º
+
+(Fruição e criação cultural)
 
 1. Todos têm direito à fruição e criação cultural, bem como o dever de preservar, defender e valorizar o património cultural.
 
@@ -2869,17 +3153,25 @@ d) Desenvolver as relações culturais com todos os povos, especialmente os de l
 
 e) Articular a política cultural e as demais políticas sectoriais.
 
-###### Artigo 79.º — (Cultura física e desporto)
+Artigo 79.º
+
+(Cultura física e desporto)
 
 1. Todos têm direito à cultura física e ao desporto.
 
 2. Incumbe ao Estado, em colaboração com as escolas e as associações e colectividades desportivas, promover, estimular, orientar e apoiar a prática e a difusão da cultura física e do desporto, bem como prevenir a violência no desporto.
 
-# PARTE II — Organização económica
+PARTE II
 
-## TÍTULO I — Princípios gerais
+Organização económica
 
-###### Artigo 80.º — (Princípios fundamentais)
+TÍTULO I
+
+Princípios gerais
+
+Artigo 80.º
+
+(Princípios fundamentais)
 
 A organização económico-social assenta nos seguintes princípios:
 
@@ -2897,7 +3189,9 @@ f) Protecção do sector cooperativo e social de propriedade dos meios de produ�
 
 g) Participação das organizações representativas dos trabalhadores e das organizações representativas das actividades económicas na definição das principais medidas económicas e sociais.
 
-###### Artigo 81.º — (Incumbências prioritárias do Estado)
+Artigo 81.º
+
+(Incumbências prioritárias do Estado)
 
 Incumbe prioritariamente ao Estado no âmbito económico e social:
 
@@ -2925,7 +3219,9 @@ l) Adoptar uma política nacional de energia, com preservação dos recursos nat
 
 m) Adoptar uma política nacional da água, com aproveitamento, planeamento e gestão racional dos recursos hídricos.
 
-###### Artigo 82.º — (Sectores de propriedade dos meios de produção)
+Artigo 82.º
+
+(Sectores de propriedade dos meios de produção)
 
 1. É garantida a coexistência de três sectores de propriedade dos meios de produção.
 
@@ -2943,11 +3239,15 @@ c) Os meios de produção objecto de exploração colectiva por trabalhadores;
 
 d) Os meios de produção possuídos e geridos por pessoas colectivas, sem carácter lucrativo, que tenham como principal objectivo a solidariedade social, designadamente entidades de natureza mutualista.
 
-###### Artigo 83.º — (Requisitos de apropriação pública)
+Artigo 83.º
+
+(Requisitos de apropriação pública)
 
 A lei determina os meios e as formas de intervenção e de apropriação pública dos meios de produção, bem como os critérios de fixação da correspondente indemnização.
 
-###### Artigo 84.º — (Domínio público)
+Artigo 84.º
+
+(Domínio público)
 
 1. Pertencem ao domínio público:
 
@@ -2965,7 +3265,9 @@ f) Outros bens como tal classificados por lei.
 
 2. A lei define quais os bens que integram o domínio público do Estado, o domínio público das regiões autónomas e o domínio público das autarquias locais, bem como o seu regime, condições de utilização e limites.
 
-###### Artigo 85.º — (Cooperativas e experiências de autogestão)
+Artigo 85.º
+
+(Cooperativas e experiências de autogestão)
 
 1. O Estado estimula e apoia a criação e a actividade de cooperativas.
 
@@ -2973,7 +3275,9 @@ f) Outros bens como tal classificados por lei.
 
 3. São apoiadas pelo Estado as experiências viáveis de autogestão.
 
-###### Artigo 86.º — (Empresas privadas)
+Artigo 86.º
+
+(Empresas privadas)
 
 1. O Estado incentiva a actividade empresarial, em particular das pequenas e médias empresas, e fiscaliza o cumprimento das respectivas obrigações legais, em especial por parte das empresas que prossigam actividades de interesse económico geral.
 
@@ -2981,27 +3285,39 @@ f) Outros bens como tal classificados por lei.
 
 3. A lei pode definir sectores básicos nos quais seja vedada a actividade às empresas privadas e a outras entidades da mesma natureza.
 
-###### Artigo 87.º — (Actividade económica e investimentos estrangeiros)
+Artigo 87.º
+
+(Actividade económica e investimentos estrangeiros)
 
 A lei disciplinará a actividade económica e os investimentos por parte de pessoas singulares ou colectivas estrangeiras, a fim de garantir a sua contribuição para o desenvolvimento do país e defender a independência nacional e os interesses dos trabalhadores.
 
-###### Artigo 88.º — (Meios de produção em abandono)
+Artigo 88.º
+
+(Meios de produção em abandono)
 
 1. Os meios de produção em abandono podem ser expropriados em condições a fixar pela lei, que terá em devida conta a situação específica da propriedade dos trabalhadores emigrantes.
 
 2. Os meios de produção em abandono injustificado podem ainda ser objecto de arrendamento ou de concessão de exploração compulsivos, em condições a fixar por lei.
 
-###### Artigo 89.º — (Participação dos trabalhadores na gestão)
+Artigo 89.º
+
+(Participação dos trabalhadores na gestão)
 
 Nas unidades de produção do sector público é assegurada uma participação efectiva dos trabalhadores na respectiva gestão.
 
-## TÍTULO II — Planos
+TÍTULO II
 
-###### Artigo 90.º — (Objectivos dos planos)
+Planos
+
+Artigo 90.º
+
+(Objectivos dos planos)
 
 Os planos de desenvolvimento económico e social têm por objectivo promover o crescimento económico, o desenvolvimento harmonioso e integrado de sectores e regiões, a justa repartição individual e regional do produto nacional, a coordenação da política económica com as políticas social, educativa e cultural, a defesa do mundo rural, a preservação do equilíbrio ecológico, a defesa do ambiente e a qualidade de vida do povo português.
 
-###### Artigo 91.º — (Elaboração e execução dos planos)
+Artigo 91.º
+
+(Elaboração e execução dos planos)
 
 1. Os planos nacionais são elaborados de harmonia com as respectivas leis das grandes opções, podendo integrar programas específicos de âmbito territorial e de natureza sectorial.
 
@@ -3009,7 +3325,9 @@ Os planos de desenvolvimento económico e social têm por objectivo promover o c
 
 3. A execução dos planos nacionais é descentralizada, regional e sectorialmente.
 
-###### Artigo 92.º — (Conselho Económico e Social)
+Artigo 92.º
+
+(Conselho Económico e Social)
 
 1. O Conselho Económico e Social é o órgão de consulta e concertação no domínio das políticas económica e social, participa na elaboração das propostas das grandes opções e dos planos de desenvolvimento económico e social e exerce as demais funções que lhe sejam atribuídas por lei.
 
@@ -3017,9 +3335,13 @@ Os planos de desenvolvimento económico e social têm por objectivo promover o c
 
 3. A lei define ainda a organização e o funcionamento do Conselho Económico e Social, bem como o estatuto dos seus membros.
 
-## TÍTULO III — Políticas agrícola, comercial e industrial
+TÍTULO III
 
-###### Artigo 93.º — (Objectivos da política agrícola)
+Políticas agrícola, comercial e industrial
+
+Artigo 93.º
+
+(Objectivos da política agrícola)
 
 1. São objectivos da política agrícola:
 
@@ -3035,23 +3357,31 @@ e) Incentivar o associativismo dos agricultores e a exploração directa da terr
 
 2. O Estado promoverá uma política de ordenamento e reconversão agrária e de desenvolvimento florestal, de acordo com os condicionalismos ecológicos e sociais do país.
 
-###### Artigo 94.º — (Eliminação dos latifúndios)
+Artigo 94.º
+
+(Eliminação dos latifúndios)
 
 1. O redimensionamento das unidades de exploração agrícola que tenham dimensão excessiva do ponto de vista dos objectivos da política agrícola será regulado por lei, que deverá prever, em caso de expropriação, o direito do proprietário à correspondente indemnização e à reserva de área suficiente para a viabilidade e a racionalidade da sua própria exploração.
 
 2. As terras expropriadas serão entregues a título de propriedade ou de posse, nos termos da lei, a pequenos agricultores, de preferência integrados em unidades de exploração familiar, a cooperativas de trabalhadores rurais ou de pequenos agricultores ou a outras formas de exploração por trabalhadores, sem prejuízo da estipulação de um período probatório da efectividade e da racionalidade da respectiva exploração antes da outorga da propriedade plena.
 
-###### Artigo 95.º — (Redimensionamento do minifúndio)
+Artigo 95.º
+
+(Redimensionamento do minifúndio)
 
 Sem prejuízo do direito de propriedade, o Estado promoverá, nos termos da lei, o redimensionamento das unidades de exploração agrícola com dimensão inferior à adequada do ponto de vista dos objectivos da política agrícola, nomeadamente através de incentivos jurídicos, fiscais e creditícios à sua integração estrutural ou meramente económica, designadamente cooperativa, ou por recurso a medidas de emparcelamento.
 
-###### Artigo 96.º — (Formas de exploração de terra alheia)
+Artigo 96.º
+
+(Formas de exploração de terra alheia)
 
 1. Os regimes de arrendamento e de outras formas de exploração de terra alheia serão regulados por lei de modo a garantir a estabilidade e os legítimos interesses do cultivador.
 
 2. São proibidos os regimes de aforamento e colónia e serão criadas condições aos cultivadores para a efectiva abolição do regime de parceria agrícola.
 
-###### Artigo 97.º — (Auxílio do Estado)
+Artigo 97.º
+
+(Auxílio do Estado)
 
 1. Na prossecução dos objectivos da política agrícola o Estado apoiará preferencialmente os pequenos e médios agricultores, nomeadamente quando integrados em unidades de exploração familiar, individualmente ou associados em cooperativas, bem como as cooperativas de trabalhadores agrícolas e outras formas de exploração por trabalhadores.
 
@@ -3065,11 +3395,15 @@ c) Apoio à cobertura de riscos resultantes dos acidentes climatéricos e fitopa
 
 d) Estímulos ao associativismo dos trabalhadores rurais e dos agricultores, nomeadamente à constituição por eles de cooperativas de produção, de compra, de venda, de transformação e de serviços e ainda de outras formas de exploração por trabalhadores.
 
-###### Artigo 98.º — (Participação na definição da política agrícola)
+Artigo 98.º
+
+(Participação na definição da política agrícola)
 
 Na definição da política agrícola é assegurada a participação dos trabalhadores rurais e dos agricultores através das suas organizações representativas.
 
-###### Artigo 99.º — (Objectivos da política comercial)
+Artigo 99.º
+
+(Objectivos da política comercial)
 
 São objectivos da política comercial:
 
@@ -3083,7 +3417,9 @@ d) O desenvolvimento e a diversificação das relações económicas externas;
 
 e) A protecção dos consumidores.
 
-###### Artigo 100.º — (Objectivos da política industrial)
+Artigo 100.º
+
+(Objectivos da política industrial)
 
 São objectivos da política industrial:
 
@@ -3097,17 +3433,25 @@ d) O apoio às pequenas e médias empresas e, em geral, às iniciativas e empres
 
 e) O apoio à projecção internacional das empresas portuguesas.
 
-## TÍTULO IV — Sistema financeiro e fiscal
+TÍTULO IV
 
-###### Artigo 101.º — (Sistema financeiro)
+Sistema financeiro e fiscal
+
+Artigo 101.º
+
+(Sistema financeiro)
 
 O sistema financeiro é estruturado por lei, de modo a garantir a formação, a captação e a segurança das poupanças, bem como a aplicação dos meios financeiros necessários ao desenvolvimento económico e social.
 
-###### Artigo 102.º — (Banco de Portugal)
+Artigo 102.º
+
+(Banco de Portugal)
 
 O Banco de Portugal é o banco central nacional e exerce as suas funções nos termos da lei e das normas internacionais a que o Estado Português se vincule.
 
-###### Artigo 103.º — (Sistema fiscal)
+Artigo 103.º
+
+(Sistema fiscal)
 
 1. O sistema fiscal visa a satisfação das necessidades financeiras do Estado e outras entidades públicas e uma repartição justa dos rendimentos e da riqueza.
 
@@ -3115,7 +3459,9 @@ O Banco de Portugal é o banco central nacional e exerce as suas funções nos t
 
 3. Ninguém pode ser obrigado a pagar impostos que não hajam sido criados nos termos da Constituição, que tenham natureza retroactiva ou cuja liquidação e cobrança se não façam nos termos da lei.
 
-###### Artigo 104.º — (Impostos)
+Artigo 104.º
+
+(Impostos)
 
 1. O imposto sobre o rendimento pessoal visa a diminuição das desigualdades e será único e progressivo, tendo em conta as necessidades e os rendimentos do agregado familiar.
 
@@ -3125,7 +3471,9 @@ O Banco de Portugal é o banco central nacional e exerce as suas funções nos t
 
 4. A tributação do consumo visa adaptar a estrutura do consumo à evolução das necessidades do desenvolvimento económico e da justiça social, devendo onerar os consumos de luxo.
 
-###### Artigo 105.º — (Orçamento)
+Artigo 105.º
+
+(Orçamento)
 
 1. O Orçamento do Estado contém:
 
@@ -3139,7 +3487,9 @@ b) O orçamento da segurança social.
 
 4. O Orçamento prevê as receitas necessárias para cobrir as despesas, definindo a lei as regras da sua execução, as condições a que deverá obedecer o recurso ao crédito público e os critérios que deverão presidir às alterações que, durante a execução, poderão ser introduzidas pelo Governo nas rubricas de classificação orgânica no âmbito de cada programa orçamental aprovado pela Assembleia da República, tendo em vista a sua plena realização.
 
-###### Artigo 106.º — (Elaboração do Orçamento)
+Artigo 106.º
+
+(Elaboração do Orçamento)
 
 1. A lei do Orçamento é elaborada, organizada, votada e executada, anualmente, de acordo com a respectiva lei de enquadramento, que incluirá o regime atinente à elaboração e execução dos orçamentos dos fundos e serviços autónomos.
 
@@ -3161,35 +3511,51 @@ f) As transferências financeiras entre Portugal e o exterior com incidência na
 
 g) Os benefícios fiscais e a estimativa da receita cessante.
 
-###### Artigo 107.º — (Fiscalização)
+Artigo 107.º
+
+(Fiscalização)
 
 A execução do Orçamento será fiscalizada pelo Tribunal de Contas e pela Assembleia da República, que, precedendo parecer daquele tribunal, apreciará e aprovará a Conta Geral do Estado, incluindo a da segurança social.
 
-# PARTE III — Organização do poder político
+PARTE III
 
-## TÍTULO I — Princípios gerais
+Organização do poder político
 
-###### Artigo 108.º — (Titularidade e exercício do poder)
+TÍTULO I
+
+Princípios gerais
+
+Artigo 108.º
+
+(Titularidade e exercício do poder)
 
 O poder político pertence ao povo e é exercido nos termos da Constituição.
 
-###### Artigo 109.º — (Participação política dos cidadãos)
+Artigo 109.º
+
+(Participação política dos cidadãos)
 
 A participação directa e activa de homens e mulheres na vida política constitui condição e instrumento fundamental de consolidação do sistema democrático, devendo a lei promover a igualdade no exercício dos direitos cívicos e políticos e a não discriminação em função do sexo no acesso a cargos políticos.
 
-###### Artigo 110.º — (Órgãos de soberania)
+Artigo 110.º
+
+(Órgãos de soberania)
 
 1. São órgãos de soberania o Presidente da República, a Assembleia da República, o Governo e os Tribunais.
 
 2. A formação, a composição, a competência e o funcionamento dos órgãos de soberania são os definidos na Constituição.
 
-###### Artigo 111.º — (Separação e interdependência)
+Artigo 111.º
+
+(Separação e interdependência)
 
 1. Os órgãos de soberania devem observar a separação e a interdependência estabelecidas na Constituição.
 
 2. Nenhum órgão de soberania, de região autónoma ou de poder local pode delegar os seus poderes noutros órgãos, a não ser nos casos e nos termos expressamente previstos na Constituição e na lei.
 
-###### Artigo 112.º — (Actos normativos)
+Artigo 112.º
+
+(Actos normativos)
 
 1. São actos legislativos as leis, os decretos-leis e os decretos legislativos regionais.
 
@@ -3209,7 +3575,9 @@ A participação directa e activa de homens e mulheres na vida política constit
 
 9. A transposição de directivas comunitárias para a ordem jurídica interna assume a forma de lei ou de decreto-lei, conforme os casos.
 
-###### Artigo 113.º — (Princípios gerais de direito eleitoral)
+Artigo 113.º
+
+(Princípios gerais de direito eleitoral)
 
 1. O sufrágio directo, secreto e periódico constitui a regra geral de designação dos titulares dos órgãos electivos da soberania, das regiões autónomas e do poder local.
 
@@ -3233,7 +3601,9 @@ d) Transparência e fiscalização das contas eleitorais.
 
 7. O julgamento da regularidade e da validade dos actos de processo eleitoral compete aos tribunais.
 
-###### Artigo 114.º — (Partidos políticos e direito de oposição)
+Artigo 114.º
+
+(Partidos políticos e direito de oposição)
 
 1. Os partidos políticos participam nos órgãos baseados no sufrágio universal e directo, de acordo com a sua representatividade eleitoral.
 
@@ -3241,7 +3611,9 @@ d) Transparência e fiscalização das contas eleitorais.
 
 3. Os partidos políticos representados na Assembleia da República e que não façam parte do Governo gozam, designadamente, do direito de serem informados regular e directamente pelo Governo sobre o andamento dos principais assuntos de interesse público, de igual direito gozando os partidos políticos representados nas assembleias legislativas regionais e em quaisquer outras assembleias designadas por eleição directa relativamente aos correspondentes executivos de que não façam parte.
 
-###### Artigo 115.º — (Referendo)
+Artigo 115.º
+
+(Referendo)
 
 1. Os cidadãos eleitores recenseados no território nacional podem ser chamados a pronunciar-se directamente, a título vinculativo, através de referendo, por decisão do Presidente da República, mediante proposta da Assembleia da República ou do Governo, em matérias das respectivas competências, nos casos e nos termos previstos na Constituição e na lei.
 
@@ -3275,7 +3647,9 @@ d) As matérias previstas no artigo 164.º da Constituição, com excepção do 
 
 12. Nos referendos são chamados a participar cidadãos residentes no estrangeiro, regularmente recenseados ao abrigo do disposto no n.º 2 do artigo 121.º, quando recaiam sobre matéria que lhes diga também especificamente respeito.
 
-###### Artigo 116.º — (Órgãos colegiais)
+Artigo 116.º
+
+(Órgãos colegiais)
 
 1. As reuniões das assembleias que funcionem como órgãos de soberania, das regiões autónomas ou do poder local são públicas, excepto nos casos previstos na lei.
 
@@ -3283,7 +3657,9 @@ d) As matérias previstas no artigo 164.º da Constituição, com excepção do 
 
 3. Salvo nos casos previstos na Constituição, na lei e nos respectivos regimentos, as deliberações dos órgãos colegiais são tomadas à pluralidade de votos, não contando as abstenções para o apuramento da maioria.
 
-###### Artigo 117.º — (Estatuto dos titulares de cargos políticos)
+Artigo 117.º
+
+(Estatuto dos titulares de cargos políticos)
 
 1. Os titulares de cargos políticos respondem política, civil e criminalmente pelas acções e omissões que pratiquem no exercício das suas funções.
 
@@ -3291,11 +3667,15 @@ d) As matérias previstas no artigo 164.º da Constituição, com excepção do 
 
 3. A lei determina os crimes de responsabilidade dos titulares de cargos políticos, bem como as sanções aplicáveis e os respectivos efeitos, que podem incluir a destituição do cargo ou a perda do mandato.
 
-###### Artigo 118.º — (Princípio da renovação)
+Artigo 118.º
+
+(Princípio da renovação)
 
 Ninguém pode exercer a título vitalício qualquer cargo político de âmbito nacional, regional ou local.
 
-###### Artigo 119.º — (Publicidade dos actos)
+Artigo 119.º
+
+(Publicidade dos actos)
 
 1. São publicados no jornal oficial, Diário da República:
 
@@ -3321,15 +3701,23 @@ i) Os resultados de eleições para os órgãos de soberania, das regiões autó
 
 3. A lei determina as formas de publicidade dos demais actos e as consequências da sua falta.
 
-## TÍTULO II — Presidente da República
+TÍTULO II
 
-### CAPÍTULO I — Estatuto e eleição
+Presidente da República
 
-###### Artigo 120.º — (Definição)
+CAPÍTULO I
 
-**O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.**
+Estatuto e eleição
 
-###### Artigo 121.º — (Eleição)
+Artigo 120.º
+
+(Definição)
+
+O Presidente da República representa a República Portuguesa, garante a independência nacional, a unidade do Estado e o regular funcionamento das instituições democráticas e é, por inerência, Comandante Supremo das Forças Armadas.
+
+Artigo 121.º
+
+(Eleição)
 
 1. O Presidente da República é eleito por sufrágio universal, directo e secreto dos cidadãos portugueses eleitores recenseados no território nacional, bem como dos cidadãos portugueses residentes no estrangeiro nos termos do número seguinte.
 
@@ -3337,17 +3725,23 @@ i) Os resultados de eleições para os órgãos de soberania, das regiões autó
 
 3. O direito de voto no território nacional é exercido presencialmente.
 
-###### Artigo 122.º — (Elegibilidade)
+Artigo 122.º
+
+(Elegibilidade)
 
 São elegíveis os cidadãos eleitores, portugueses de origem, maiores de 35 anos.
 
-###### Artigo 123.º — (Reelegibilidade)
+Artigo 123.º
+
+(Reelegibilidade)
 
 1. Não é admitida a reeleição para um terceiro mandato consecutivo, nem durante o quinquénio imediatamente subsequente ao termo do segundo mandato consecutivo.
 
 2. Se o Presidente da República renunciar ao cargo, não poderá candidatar-se nas eleições imediatas nem nas que se realizem no quinquénio imediatamente subsequente à renúncia.
 
-###### Artigo 124.º — (Candidaturas)
+Artigo 124.º
+
+(Candidaturas)
 
 1. As candidaturas para Presidente da República são propostas por um mínimo de 7500 e um máximo de 15000 cidadãos eleitores.
 
@@ -3355,7 +3749,9 @@ São elegíveis os cidadãos eleitores, portugueses de origem, maiores de 35 ano
 
 3. Em caso de morte de qualquer candidato ou de qualquer outro facto que o incapacite para o exercício da função presidencial, será reaberto o processo eleitoral, nos termos a definir por lei.
 
-###### Artigo 125.º — (Data da eleição)
+Artigo 125.º
+
+(Data da eleição)
 
 1. O Presidente da República será eleito nos sessenta dias anteriores ao termo do mandato do seu antecessor ou nos sessenta dias posteriores à vagatura do cargo.
 
@@ -3363,7 +3759,9 @@ São elegíveis os cidadãos eleitores, portugueses de origem, maiores de 35 ano
 
 3. No caso previsto no número anterior, a eleição efectuar-se-á nos dez dias posteriores ao final do período aí estabelecido, sendo o mandato do Presidente cessante automaticamente prolongado pelo período necessário.
 
-###### Artigo 126.º — (Sistema eleitoral)
+Artigo 126.º
+
+(Sistema eleitoral)
 
 1. Será eleito Presidente da República o candidato que obtiver mais de metade dos votos validamente expressos, não se considerando como tal os votos em branco.
 
@@ -3371,7 +3769,9 @@ São elegíveis os cidadãos eleitores, portugueses de origem, maiores de 35 ano
 
 3. A este sufrágio concorrerão apenas os dois candidatos mais votados que não tenham retirado a candidatura.
 
-###### Artigo 127.º — (Posse e juramento)
+Artigo 127.º
+
+(Posse e juramento)
 
 1. O Presidente eleito toma posse perante a Assembleia da República.
 
@@ -3381,13 +3781,17 @@ São elegíveis os cidadãos eleitores, portugueses de origem, maiores de 35 ano
 
 Juro por minha honra desempenhar fielmente as funções em que fico investido e defender, cumprir e fazer cumprir a Constituição da República Portuguesa.
 
-###### Artigo 128.º — (Mandato)
+Artigo 128.º
+
+(Mandato)
 
 1. O mandato do Presidente da República tem a duração de cinco anos e termina com a posse do novo Presidente eleito.
 
 2. Em caso de vagatura, o Presidente da República a eleger inicia um novo mandato.
 
-###### Artigo 129.º — (Ausência do território nacional)
+Artigo 129.º
+
+(Ausência do território nacional)
 
 1. O Presidente da República não pode ausentar-se do território nacional sem o assentimento da Assembleia da República ou da sua Comissão Permanente, se aquela não estiver em funcionamento.
 
@@ -3395,7 +3799,9 @@ Juro por minha honra desempenhar fielmente as funções em que fico investido e 
 
 3. A inobservância do disposto no n.º 1 envolve, de pleno direito, a perda do cargo.
 
-###### Artigo 130.º — (Responsabilidade criminal)
+Artigo 130.º
+
+(Responsabilidade criminal)
 
 1. Por crimes praticados no exercício das suas funções, o Presidente da República responde perante o Supremo Tribunal de Justiça.
 
@@ -3405,13 +3811,17 @@ Juro por minha honra desempenhar fielmente as funções em que fico investido e 
 
 4. Por crimes estranhos ao exercício das suas funções o Presidente da República responde depois de findo o mandato perante os tribunais comuns.
 
-###### Artigo 131.º — (Renúncia ao mandato)
+Artigo 131.º
+
+(Renúncia ao mandato)
 
 1. O Presidente da República pode renunciar ao mandato em mensagem dirigida à Assembleia da República.
 
 2. A renúncia torna-se efectiva com o conhecimento da mensagem pela Assembleia da República, sem prejuízo da sua ulterior publicação no Diário da República.
 
-###### Artigo 132.º — (Substituição interina)
+Artigo 132.º
+
+(Substituição interina)
 
 1. Durante o impedimento temporário do Presidente da República, bem como durante a vagatura do cargo até tomar posse o novo Presidente eleito, assumirá as funções o Presidente da Assembleia da República ou, no impedimento deste, o seu substituto.
 
@@ -3421,9 +3831,13 @@ Juro por minha honra desempenhar fielmente as funções em que fico investido e 
 
 4. O Presidente da República interino goza de todas as honras e prerrogativas da função, mas os direitos que lhe assistem são os do cargo para que foi eleito.
 
-### CAPÍTULO II — Competência
+CAPÍTULO II
 
-###### Artigo 133.º — (Competência quanto a outros órgãos)
+Competência
+
+Artigo 133.º
+
+(Competência quanto a outros órgãos)
 
 Compete ao Presidente da República, relativamente a outros órgãos:
 
@@ -3457,7 +3871,9 @@ o) Presidir ao Conselho Superior de Defesa Nacional;
 
 p) Nomear e exonerar, sob proposta do Governo, o Chefe do Estado-Maior-General das Forças Armadas, o Vice-Chefe do Estado-Maior-General das Forças Armadas, quando exista, e os Chefes de Estado-Maior dos três ramos das Forças Armadas, ouvido, nestes dois últimos casos, o Chefe do Estado-Maior-General das Forças Armadas.
 
-###### Artigo 134.º — (Competência para prática de actos próprios)
+Artigo 134.º
+
+(Competência para prática de actos próprios)
 
 Compete ao Presidente da República, na prática de actos próprios:
 
@@ -3479,7 +3895,9 @@ h) Requerer ao Tribunal Constitucional a declaração de inconstitucionalidade d
 
 i) Conferir condecorações, nos termos da lei, e exercer a função de grão-mestre das ordens honoríficas portuguesas.
 
-###### Artigo 135.º — (Competência nas relações internacionais)
+Artigo 135.º
+
+(Competência nas relações internacionais)
 
 Compete ao Presidente da República, nas relações internacionais:
 
@@ -3489,7 +3907,9 @@ b) Ratificar os tratados internacionais, depois de devidamente aprovados;
 
 c) Declarar a guerra em caso de agressão efectiva ou iminente e fazer a paz, sob proposta do Governo, ouvido o Conselho de Estado e mediante autorização da Assembleia da República, ou, quando esta não estiver reunida nem for possível a sua reunião imediata, da sua Comissão Permanente.
 
-###### Artigo 136.º — (Promulgação e veto)
+Artigo 136.º
+
+(Promulgação e veto)
 
 1. No prazo de vinte dias contados da recepção de qualquer decreto da Assembleia da República para ser promulgado como lei, ou da publicação da decisão do Tribunal Constitucional que não se pronuncie pela inconstitucionalidade de norma dele constante, deve o Presidente da República promulgá-lo ou exercer o direito de veto, solicitando nova apreciação do diploma em mensagem fundamentada.
 
@@ -3507,35 +3927,49 @@ c) Regulamentação dos actos eleitorais previstos na Constituição, que não r
 
 5. O Presidente da República exerce ainda o direito de veto nos termos dos artigos 278.º e 279.º
 
-###### Artigo 137.º — (Falta de promulgação ou de assinatura)
+Artigo 137.º
+
+(Falta de promulgação ou de assinatura)
 
 A falta de promulgação ou de assinatura pelo Presidente da República de qualquer dos actos previstos na alínea b) do artigo 134.º implica a sua inexistência jurídica.
 
-###### Artigo 138.º — (Declaração do estado de sítio ou do estado de emergência)
+Artigo 138.º
+
+(Declaração do estado de sítio ou do estado de emergência)
 
 1. A declaração do estado de sítio ou do estado de emergência depende de audição do Governo e de autorização da Assembleia da República ou, quando esta não estiver reunida nem for possível a sua reunião imediata, da respectiva Comissão Permanente.
 
 2. A declaração do estado de sítio ou do estado de emergência, quando autorizada pela Comissão Permanente da Assembleia da República, terá de ser confirmada pelo Plenário logo que seja possível reuni-lo.
 
-###### Artigo 139.º — (Actos do Presidente da República interino)
+Artigo 139.º
+
+(Actos do Presidente da República interino)
 
 1. O Presidente da República interino não pode praticar qualquer dos actos previstos nas alíneas e) e n) do artigo 133.º e na alínea c) do artigo 134.º
 
 2. O Presidente da República interino só pode praticar qualquer dos actos previstos nas alíneas b), c), f), m) e p) do artigo 133.º, na alínea a) do artigo 134.º e na alínea a) do artigo 135.º, após audição do Conselho de Estado.
 
-###### Artigo 140.º — (Referenda ministerial)
+Artigo 140.º
+
+(Referenda ministerial)
 
 1. Carecem de referenda do Governo os actos do Presidente da República praticados ao abrigo das alíneas h), j), l), m) e p) do artigo 133.º, das alíneas b), d) e f) do artigo 134.º e das alíneas a), b) e c) do artigo 135.º
 
 2. A falta de referenda determina a inexistência jurídica do acto.
 
-### CAPÍTULO III — Conselho de Estado
+CAPÍTULO III
 
-###### Artigo 141.º — (Definição)
+Conselho de Estado
+
+Artigo 141.º
+
+(Definição)
 
 O Conselho de Estado é o órgão político de consulta do Presidente da República.
 
-###### Artigo 142.º — (Composição)
+Artigo 142.º
+
+(Composição)
 
 O Conselho de Estado é presidido pelo Presidente da República e composto pelos seguintes membros:
 
@@ -3555,7 +3989,9 @@ g) Cinco cidadãos designados pelo Presidente da República pelo período corres
 
 h) Cinco cidadãos eleitos pela Assembleia da República, de harmonia com o princípio da representação proporcional, pelo período correspondente à duração da legislatura.
 
-###### Artigo 143.º — (Posse e mandato)
+Artigo 143.º
+
+(Posse e mandato)
 
 1. Os membros do Conselho de Estado são empossados pelo Presidente da República.
 
@@ -3563,13 +3999,17 @@ h) Cinco cidadãos eleitos pela Assembleia da República, de harmonia com o prin
 
 3. Os membros do Conselho de Estado previstos nas alíneas g) e h) do artigo 142.º mantêm-se em funções até à posse dos que os substituírem no exercício dos respectivos cargos.
 
-###### Artigo 144.º — (Organização e funcionamento)
+Artigo 144.º
+
+(Organização e funcionamento)
 
 1. Compete ao Conselho de Estado elaborar o seu regimento.
 
 2. As reuniões do Conselho de Estado não são públicas.
 
-###### Artigo 145.º — (Competência)
+Artigo 145.º
+
+(Competência)
 
 Compete ao Conselho de Estado:
 
@@ -3585,51 +4025,73 @@ e) Pronunciar-se sobre os actos do Presidente da República interino referidos n
 
 f) Pronunciar-se nos demais casos previstos na Constituição e, em geral, aconselhar o Presidente da República no exercício das suas funções, quando este lho solicitar.
 
-###### Artigo 146.º — (Emissão dos pareceres)
+Artigo 146.º
+
+(Emissão dos pareceres)
 
 Os pareceres do Conselho de Estado previstos nas alíneas a) a e) do artigo 145.º são emitidos na reunião que para o efeito for convocada pelo Presidente da República e tornados públicos quando da prática do acto a que se referem.
 
-## TÍTULO III — Assembleia da República
+TÍTULO III
 
-### CAPÍTULO I — Estatuto e eleição
+Assembleia da República
 
-###### Artigo 147.º — (Definição)
+CAPÍTULO I
+
+Estatuto e eleição
+
+Artigo 147.º
+
+(Definição)
 
 A Assembleia da República é a assembleia representativa de todos os cidadãos portugueses.
 
-###### Artigo 148.º — (Composição)
+Artigo 148.º
+
+(Composição)
 
 A Assembleia da República tem o mínimo de cento e oitenta e o máximo de duzentos e trinta Deputados, nos termos da lei eleitoral.
 
-###### Artigo 149.º — (Círculos eleitorais)
+Artigo 149.º
+
+(Círculos eleitorais)
 
 1. Os Deputados são eleitos por círculos eleitorais geograficamente definidos na lei, a qual pode determinar a existência de círculos plurinominais e uninominais, bem como a respectiva natureza e complementaridade, por forma a assegurar o sistema de representação proporcional e o método da média mais alta de Hondt na conversão dos votos em número de mandatos.
 
 2. O número de Deputados por cada círculo plurinominal do território nacional, exceptuando o círculo nacional, quando exista, é proporcional ao número de cidadãos eleitores nele inscritos.
 
-###### Artigo 150.º — (Condições de elegibilidade)
+Artigo 150.º
+
+(Condições de elegibilidade)
 
 São elegíveis os cidadãos portugueses eleitores, salvas as restrições que a lei eleitoral estabelecer por virtude de incompatibilidades locais ou de exercício de certos cargos.
 
-###### Artigo 151.º — (Candidaturas)
+Artigo 151.º
+
+(Candidaturas)
 
 1. As candidaturas são apresentadas, nos termos da lei, pelos partidos políticos, isoladamente ou em coligação, podendo as listas integrar cidadãos não inscritos nos respectivos partidos.
 
 2. Ninguém pode ser candidato por mais de um círculo eleitoral da mesma natureza, exceptuando o círculo nacional quando exista, ou figurar em mais de uma lista.
 
-###### Artigo 152.º — (Representação política)
+Artigo 152.º
+
+(Representação política)
 
 1. A lei não pode estabelecer limites à conversão dos votos em mandatos por exigência de uma percentagem de votos nacional mínima.
 
 2. Os Deputados representam todo o país e não os círculos por que são eleitos.
 
-###### Artigo 153.º — (Início e termo do mandato)
+Artigo 153.º
+
+(Início e termo do mandato)
 
 1. O mandato dos Deputados inicia-se com a primeira reunião da Assembleia da República após eleições e cessa com a primeira reunião após as eleições subsequentes, sem prejuízo da suspensão ou da cessação individual do mandato.
 
 2. O preenchimento das vagas que ocorrerem na Assembleia, bem como a substituição temporária de Deputados por motivo relevante, são regulados pela lei eleitoral.
 
-###### Artigo 154.º — (Incompatibilidades e impedimentos)
+Artigo 154.º
+
+(Incompatibilidades e impedimentos)
 
 1. Os Deputados que forem nomeados membros do Governo não podem exercer o mandato até à cessação destas funções, sendo substituídos nos termos do artigo anterior.
 
@@ -3637,7 +4099,9 @@ São elegíveis os cidadãos portugueses eleitores, salvas as restrições que a
 
 3. A lei regula os casos e as condições em que os Deputados carecem de autorização da Assembleia da República para serem jurados, árbitros, peritos ou testemunhas.
 
-###### Artigo 155.º — (Exercício da função de Deputado)
+Artigo 155.º
+
+(Exercício da função de Deputado)
 
 1. Os Deputados exercem livremente o seu mandato, sendo-lhes garantidas condições adequadas ao eficaz exercício das suas funções, designadamente ao indispensável contacto com os cidadãos eleitores e à sua informação regular.
 
@@ -3645,7 +4109,9 @@ São elegíveis os cidadãos portugueses eleitores, salvas as restrições que a
 
 3. As entidades públicas têm, nos termos da lei, o dever de cooperar com os Deputados no exercício das suas funções.
 
-###### Artigo 156.º — (Poderes dos Deputados)
+Artigo 156.º
+
+(Poderes dos Deputados)
 
 Constituem poderes dos Deputados:
 
@@ -3663,7 +4129,9 @@ f) Requerer a constituição de comissões parlamentares de inquérito;
 
 g) Os consignados no Regimento.
 
-###### Artigo 157.º — (Imunidades)
+Artigo 157.º
+
+(Imunidades)
 
 1. Os Deputados não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções.
 
@@ -3673,7 +4141,9 @@ g) Os consignados no Regimento.
 
 4. Movido procedimento criminal contra algum Deputado, e acusado este definitivamente, a Assembleia decidirá se o Deputado deve ou não ser suspenso para efeito de seguimento do processo, sendo obrigatória a decisão de suspensão quando se trate de crime do tipo referido nos números anteriores.
 
-###### Artigo 158.º — (Direitos e regalias)
+Artigo 158.º
+
+(Direitos e regalias)
 
 Os Deputados gozam dos seguintes direitos e regalias:
 
@@ -3685,7 +4155,9 @@ c) Cartão especial de identificação;
 
 d) Subsídios que a lei prescrever.
 
-###### Artigo 159.º — (Deveres)
+Artigo 159.º
+
+(Deveres)
 
 Constituem deveres dos Deputados:
 
@@ -3695,7 +4167,9 @@ b) Desempenhar os cargos na Assembleia e as funções para que sejam designados,
 
 c) Participar nas votações.
 
-###### Artigo 160.º — (Perda e renúncia do mandato)
+Artigo 160.º
+
+(Perda e renúncia do mandato)
 
 1. Perdem o mandato os Deputados que:
 
@@ -3709,9 +4183,13 @@ d) Sejam judicialmente condenados por crime de responsabilidade no exercício da
 
 2. Os Deputados podem renunciar ao mandato, mediante declaração escrita.
 
-### CAPÍTULO II — Competência
+CAPÍTULO II
 
-###### Artigo 161.º — (Competência política e legislativa)
+Competência
+
+Artigo 161.º
+
+(Competência política e legislativa)
 
 Compete à Assembleia da República:
 
@@ -3743,7 +4221,9 @@ n) Pronunciar-se, nos termos da lei, sobre as matérias pendentes de decisão em
 
 o) Desempenhar as demais funções que lhe sejam atribuídas pela Constituição e pela lei.
 
-###### Artigo 162.º — (Competência de fiscalização)
+Artigo 162.º
+
+(Competência de fiscalização)
 
 Compete à Assembleia da República, no exercício de funções de fiscalização:
 
@@ -3757,7 +4237,9 @@ d) Tomar as contas do Estado e das demais entidades públicas que a lei determin
 
 e) Apreciar os relatórios de execução dos planos nacionais.
 
-###### Artigo 163.º — (Competência quanto a outros órgãos)
+Artigo 163.º
+
+(Competência quanto a outros órgãos)
 
 Compete à Assembleia da República, relativamente a outros órgãos:
 
@@ -3781,7 +4263,9 @@ i) Eleger, por maioria de dois terços dos Deputados presentes, desde que superi
 
 j) Acompanhar, nos termos da lei e do Regimento, o envolvimento de contingentes militares portugueses no estrangeiro.
 
-###### Artigo 164.º — (Reserva absoluta de competência legislativa)
+Artigo 164.º
+
+(Reserva absoluta de competência legislativa)
 
 É da exclusiva competência da Assembleia da República legislar sobre as seguintes matérias:
 
@@ -3827,7 +4311,9 @@ u) Regime das forças de segurança;
 
 v) Regime da autonomia organizativa, administrativa e financeira dos serviços de apoio do Presidente da República.
 
-###### Artigo 165.º — (Reserva relativa de competência legislativa)
+Artigo 165.º
+
+(Reserva relativa de competência legislativa)
 
 1. É da exclusiva competência da Assembleia da República legislar sobre as seguintes matérias, salvo autorização ao Governo:
 
@@ -3887,7 +4373,9 @@ aa) Regime e forma de criação das polícias municipais.
 
 5. As autorizações concedidas ao Governo na lei do Orçamento observam o disposto no presente artigo e, quando incidam sobre matéria fiscal, só caducam no termo do ano económico a que respeitam.
 
-###### Artigo 166.º — (Forma dos actos)
+Artigo 166.º
+
+(Forma dos actos)
 
 1. Revestem a forma de lei constitucional os actos previstos na alínea a) do artigo 161.º
 
@@ -3901,7 +4389,9 @@ aa) Regime e forma de criação das polícias municipais.
 
 6. As resoluções são publicadas independentemente de promulgação.
 
-###### Artigo 167.º — (Iniciativa da lei e do referendo)
+Artigo 167.º
+
+(Iniciativa da lei e do referendo)
 
 1. A iniciativa da lei e do referendo compete aos Deputados, aos grupos parlamentares e ao Governo, e ainda, nos termos e condições estabelecidos na lei, a grupos de cidadãos eleitores, competindo a iniciativa da lei, no respeitante às regiões autónomas, às respectivas assembleias legislativas regionais.
 
@@ -3919,7 +4409,9 @@ aa) Regime e forma de criação das polícias municipais.
 
 8. As comissões parlamentares podem apresentar textos de substituição, sem prejuízo dos projectos e das propostas de lei e de referendo a que se referem, quando não retirados.
 
-###### Artigo 168.º — (Discussão e votação)
+Artigo 168.º
+
+(Discussão e votação)
 
 1. A discussão dos projectos e propostas de lei compreende um debate na generalidade e outro na especialidade.
 
@@ -3933,7 +4425,9 @@ aa) Regime e forma de criação das polícias municipais.
 
 6. A lei que regula o exercício do direito previsto no n.º 2 do artigo 121.º e as disposições das leis que regulam as matérias referidas nos artigos 148.º e 149.º, na alínea o) do artigo 164.º, bem como as relativas ao sistema e método de eleição dos órgãos previstos no n.º 3 do artigo 239.º, carecem de aprovação por maioria de dois terços dos Deputados presentes, desde que superior à maioria absoluta dos Deputados em efectividade de funções.
 
-###### Artigo 169.º — (Apreciação parlamentar de actos legislativos)
+Artigo 169.º
+
+(Apreciação parlamentar de actos legislativos)
 
 1. Os decretos-leis, salvo os aprovados no exercício da competência legislativa exclusiva do Governo, podem ser submetidos a apreciação da Assembleia da República, para efeitos de cessação de vigência ou de alteração, a requerimento de dez Deputados, nos trinta dias subsequentes à publicação, descontados os períodos de suspensão do funcionamento da Assembleia da República.
 
@@ -3947,21 +4441,29 @@ aa) Regime e forma de criação das polícias municipais.
 
 6. Os processos de apreciação parlamentar de decretos-leis gozam de prioridade, nos termos do Regimento.
 
-###### Artigo 170.º — (Processo de urgência)
+Artigo 170.º
+
+(Processo de urgência)
 
 1. A Assembleia da República pode, por iniciativa de qualquer Deputado ou grupo parlamentar, ou do Governo, declarar a urgência do processamento de qualquer projecto ou proposta de lei ou de resolução.
 
 2. A Assembleia pode ainda, por iniciativa das Assembleias Legislativas Regionais dos Açores ou da Madeira, declarar a urgência do processamento de qualquer proposta de lei da sua iniciativa.
 
-### CAPÍTULO III — Organização e funcionamento
+CAPÍTULO III
 
-###### Artigo 171.º — (Legislatura)
+Organização e funcionamento
+
+Artigo 171.º
+
+(Legislatura)
 
 1. A legislatura tem a duração de quatro sessões legislativas.
 
 2. No caso de dissolução, a Assembleia então eleita inicia nova legislatura cuja duração será inicialmente acrescida do tempo necessário para se completar o período correspondente à sessão legislativa em curso à data da eleição.
 
-###### Artigo 172.º — (Dissolução)
+Artigo 172.º
+
+(Dissolução)
 
 1. A Assembleia da República não pode ser dissolvida nos seis meses posteriores à sua eleição, no último semestre do mandato do Presidente da República ou durante a vigência do estado de sítio ou do estado de emergência.
 
@@ -3969,13 +4471,17 @@ aa) Regime e forma de criação das polícias municipais.
 
 3. A dissolução da Assembleia não prejudica a subsistência do mandato dos Deputados, nem da competência da Comissão Permanente, até à primeira reunião da Assembleia após as subsequentes eleições.
 
-###### Artigo 173.º — (Reunião após eleições)
+Artigo 173.º
+
+(Reunião após eleições)
 
 1. A Assembleia da República reúne por direito próprio no terceiro dia posterior ao apuramento dos resultados gerais das eleições ou, tratando-se de eleições por termo de legislatura, se aquele dia recair antes do termo desta, no primeiro dia da legislatura subsequente.
 
 2. Recaindo aquela data fora do período de funcionamento efectivo da Assembleia, esta reunir-se-á para efeito do disposto no artigo 175.º
 
-###### Artigo 174.º — (Sessão legislativa, período de funcionamento e convocação)
+Artigo 174.º
+
+(Sessão legislativa, período de funcionamento e convocação)
 
 1. A sessão legislativa tem a duração de um ano e inicia-se a 15 de Setembro.
 
@@ -3987,7 +4493,9 @@ aa) Regime e forma de criação das polícias municipais.
 
 5. As comissões podem funcionar independentemente do funcionamento do Plenário da Assembleia, mediante deliberação desta, nos termos do n.º 2.
 
-###### Artigo 175.º — (Competência interna da Assembleia)
+Artigo 175.º
+
+(Competência interna da Assembleia)
 
 Compete à Assembleia da República:
 
@@ -3997,7 +4505,9 @@ b) Eleger por maioria absoluta dos Deputados em efectividade de funções o seu 
 
 c) Constituir a Comissão Permanente e as restantes comissões.
 
-###### Artigo 176.º — (Ordem do dia das reuniões plenárias)
+Artigo 176.º
+
+(Ordem do dia das reuniões plenárias)
 
 1. A ordem do dia é fixada pelo Presidente da Assembleia da República, segundo a prioridade das matérias definidas no Regimento, e sem prejuízo do direito de recurso para o Plenário da Assembleia e da competência do Presidente da República prevista no n.º 4 do artigo 174.º
 
@@ -4007,7 +4517,9 @@ c) Constituir a Comissão Permanente e as restantes comissões.
 
 4. As assembleias legislativas regionais podem solicitar prioridade para assuntos de interesse regional de resolução urgente.
 
-###### Artigo 177.º — (Participação dos membros do Governo)
+Artigo 177.º
+
+(Participação dos membros do Governo)
 
 1. Os Ministros têm o direito de comparecer às reuniões plenárias da Assembleia da República, podendo ser coadjuvados ou substituídos pelos Secretários de Estado, e uns e outros usar da palavra, nos termos do Regimento.
 
@@ -4015,7 +4527,9 @@ c) Constituir a Comissão Permanente e as restantes comissões.
 
 3. Os membros do Governo podem solicitar a sua participação nos trabalhos das comissões e devem comparecer perante as mesmas quando tal seja requerido.
 
-###### Artigo 178.º — (Comissões)
+Artigo 178.º
+
+(Comissões)
 
 1. A Assembleia da República tem as comissões previstas no Regimento e pode constituir comissões eventuais de inquérito ou para qualquer outro fim determinado.
 
@@ -4031,7 +4545,9 @@ c) Constituir a Comissão Permanente e as restantes comissões.
 
 7. Nas reuniões das comissões em que se discutam propostas legislativas regionais, podem participar representantes da Assembleia Legislativa Regional proponente, nos termos do Regimento.
 
-###### Artigo 179.º — (Comissão Permanente)
+Artigo 179.º
+
+(Comissão Permanente)
 
 1. Fora do período de funcionamento efectivo da Assembleia da República, durante o período em que ela se encontrar dissolvida, e nos restantes casos previstos na Constituição, funciona a Comissão Permanente da Assembleia da República.
 
@@ -4053,7 +4569,9 @@ f) Autorizar o Presidente da República a declarar o estado de sítio ou o estad
 
 4. No caso da alínea f) do número anterior, a Comissão Permanente promoverá a convocação da Assembleia no prazo mais curto possível.
 
-###### Artigo 180.º — (Grupos parlamentares)
+Artigo 180.º
+
+(Grupos parlamentares)
 
 1. Os Deputados eleitos por cada partido ou coligação de partidos podem constituir-se em grupo parlamentar.
 
@@ -4083,19 +4601,29 @@ j) Ser informado, regular e directamente, pelo Governo, sobre o andamento dos pr
 
 4. Aos Deputados não integrados em grupos parlamentares são assegurados direitos e garantias mínimos, nos termos do Regimento.
 
-###### Artigo 181.º — (Funcionários e especialistas ao serviço da Assembleia)
+Artigo 181.º
+
+(Funcionários e especialistas ao serviço da Assembleia)
 
 Os trabalhos da Assembleia e os das comissões serão coadjuvados por um corpo permanente de funcionários técnicos e administrativos e por especialistas requisitados ou temporariamente contratados, no número que o Presidente considerar necessário.
 
-## TÍTULO IV — Governo
+TÍTULO IV
 
-### CAPÍTULO I — Função e estrutura
+Governo
 
-###### Artigo 182.º — (Definição)
+CAPÍTULO I
+
+Função e estrutura
+
+Artigo 182.º
+
+(Definição)
 
 O Governo é o órgão de condução da política geral do país e o órgão superior da administração pública.
 
-###### Artigo 183.º — (Composição)
+Artigo 183.º
+
+(Composição)
 
 1. O Governo é constituído pelo Primeiro-Ministro, pelos Ministros e pelos Secretários e Subsecretários de Estado.
 
@@ -4103,7 +4631,9 @@ O Governo é o órgão de condução da política geral do país e o órgão sup
 
 3. O número, a designação e as atribuições dos ministérios e secretarias de Estado, bem como as formas de coordenação entre eles, serão determinados, consoante os casos, pelos decretos de nomeação dos respectivos titulares ou por decreto-lei.
 
-###### Artigo 184.º — (Conselho de Ministros)
+Artigo 184.º
+
+(Conselho de Ministros)
 
 1. O Conselho de Ministros é constituído pelo Primeiro-Ministro, pelos Vice-Primeiros-Ministros, se os houver, e pelos Ministros.
 
@@ -4111,13 +4641,17 @@ O Governo é o órgão de condução da política geral do país e o órgão sup
 
 3. Podem ser convocados para participar nas reuniões do Conselho de Ministros os Secretários e Subsecretários de Estado.
 
-###### Artigo 185.º — (Substituição de membros do Governo)
+Artigo 185.º
+
+(Substituição de membros do Governo)
 
 1. Não havendo Vice-Primeiro-Ministro, o Primeiro-Ministro é substituído na sua ausência ou no seu impedimento pelo Ministro que indicar ao Presidente da República ou, na falta de tal indicação, pelo Ministro que for designado pelo Presidente da República.
 
 2. Cada Ministro será substituído na sua ausência ou impedimento pelo Secretário de Estado que indicar ao Primeiro-Ministro ou, na falta de tal indicação, pelo membro do Governo que o Primeiro-Ministro designar.
 
-###### Artigo 186.º — (Início e cessação de funções)
+Artigo 186.º
+
+(Início e cessação de funções)
 
 1. As funções do Primeiro-Ministro iniciam-se com a sua posse e cessam com a sua exoneração pelo Presidente da República.
 
@@ -4129,27 +4663,39 @@ O Governo é o órgão de condução da política geral do país e o órgão sup
 
 5. Antes da apreciação do seu programa pela Assembleia da República, ou após a sua demissão, o Governo limitar-se-á à prática dos actos estritamente necessários para assegurar a gestão dos negócios públicos.
 
-### CAPÍTULO II — Formação e responsabilidade
+CAPÍTULO II
 
-###### Artigo 187.º — (Formação)
+Formação e responsabilidade
+
+Artigo 187.º
+
+(Formação)
 
 1. O Primeiro-Ministro é nomeado pelo Presidente da República, ouvidos os partidos representados na Assembleia da República e tendo em conta os resultados eleitorais.
 
 2. Os restantes membros do Governo são nomeados pelo Presidente da República, sob proposta do Primeiro-Ministro.
 
-###### Artigo 188.º — (Programa do Governo)
+Artigo 188.º
+
+(Programa do Governo)
 
 Do programa do Governo constarão as principais orientações políticas e medidas a adoptar ou a propor nos diversos domínios da actividade governamental.
 
-###### Artigo 189.º — (Solidariedade governamental)
+Artigo 189.º
+
+(Solidariedade governamental)
 
 Os membros do Governo estão vinculados ao programa do Governo e às deliberações tomadas em Conselho de Ministros.
 
-###### Artigo 190.º — (Responsabilidade do Governo)
+Artigo 190.º
+
+(Responsabilidade do Governo)
 
 O Governo é responsável perante o Presidente da República e a Assembleia da República.
 
-###### Artigo 191.º — (Responsabilidade dos membros do Governo)
+Artigo 191.º
+
+(Responsabilidade dos membros do Governo)
 
 1. O Primeiro-Ministro é responsável perante o Presidente da República e, no âmbito da responsabilidade política do Governo, perante a Assembleia da República.
 
@@ -4157,7 +4703,9 @@ O Governo é responsável perante o Presidente da República e a Assembleia da R
 
 3. Os Secretários e Subsecretários de Estado são responsáveis perante o Primeiro-Ministro e o respectivo Ministro.
 
-###### Artigo 192.º — (Apreciação do programa do Governo)
+Artigo 192.º
+
+(Apreciação do programa do Governo)
 
 1. O programa do Governo é submetido à apreciação da Assembleia da República, através de uma declaração do Primeiro-Ministro, no prazo máximo de dez dias após a sua nomeação.
 
@@ -4167,11 +4715,15 @@ O Governo é responsável perante o Presidente da República e a Assembleia da R
 
 4. A rejeição do programa do Governo exige maioria absoluta dos Deputados em efectividade de funções.
 
-###### Artigo 193.º — (Solicitação de voto de confiança)
+Artigo 193.º
+
+(Solicitação de voto de confiança)
 
 O Governo pode solicitar à Assembleia da República a aprovação de um voto de confiança sobre uma declaração de política geral ou sobre qualquer assunto relevante de interesse nacional.
 
-###### Artigo 194.º — (Moções de censura)
+Artigo 194.º
+
+(Moções de censura)
 
 1. A Assembleia da República pode votar moções de censura ao Governo sobre a execução do seu programa ou assunto relevante de interesse nacional, por iniciativa de um quarto dos Deputados em efectividade de funções ou de qualquer grupo parlamentar.
 
@@ -4179,7 +4731,9 @@ O Governo pode solicitar à Assembleia da República a aprovação de um voto de
 
 3. Se a moção de censura não for aprovada, os seus signatários não podem apresentar outra durante a mesma sessão legislativa.
 
-###### Artigo 195.º — (Demissão do Governo)
+Artigo 195.º
+
+(Demissão do Governo)
 
 1. Implicam a demissão do Governo:
 
@@ -4197,15 +4751,21 @@ f) A aprovação de uma moção de censura por maioria absoluta dos Deputados em
 
 2. O Presidente da República só pode demitir o Governo quando tal se torne necessário para assegurar o regular funcionamento das instituições democráticas, ouvido o Conselho de Estado.
 
-###### Artigo 196.º — (Efectivação da responsabilidade criminal dos membros do Governo)
+Artigo 196.º
+
+(Efectivação da responsabilidade criminal dos membros do Governo)
 
 1. Nenhum membro do Governo pode ser detido ou preso sem autorização da Assembleia da República, salvo por crime doloso a que corresponda pena de prisão cujo limite máximo seja superior a três anos e em flagrante delito.
 
 2. Movido procedimento criminal contra algum membro do Governo, e acusado este definitivamente, a Assembleia da República decidirá se o membro do Governo deve ou não ser suspenso para efeito do seguimento do processo, sendo obrigatória a decisão de suspensão quando se trate de crime do tipo referido no número anterior.
 
-### CAPÍTULO III — Competência
+CAPÍTULO III
 
-###### Artigo 197.º — (Competência política)
+Competência
+
+Artigo 197.º
+
+(Competência política)
 
 1. Compete ao Governo, no exercício de funções políticas:
 
@@ -4231,7 +4791,9 @@ j) Praticar os demais actos que lhe sejam cometidos pela Constituição ou pela 
 
 2. A aprovação pelo Governo de acordos internacionais reveste a forma de decreto.
 
-###### Artigo 198.º — (Competência legislativa)
+Artigo 198.º
+
+(Competência legislativa)
 
 1. Compete ao Governo, no exercício de funções legislativas:
 
@@ -4245,7 +4807,9 @@ c) Fazer decretos-leis de desenvolvimento dos princípios ou das bases gerais do
 
 3. Os decretos-leis previstos nas alíneas b) e c) do n.º 1 devem invocar expressamente a lei de autorização legislativa ou a lei de bases ao abrigo da qual são aprovados.
 
-###### Artigo 199.º — (Competência administrativa)
+Artigo 199.º
+
+(Competência administrativa)
 
 Compete ao Governo, no exercício de funções administrativas:
 
@@ -4263,7 +4827,9 @@ f) Defender a legalidade democrática;
 
 g) Praticar todos os actos e tomar todas as providências necessárias à promoção do desenvolvimento económico-social e à satisfação das necessidades colectivas.
 
-###### Artigo 200.º — (Competência do Conselho de Ministros)
+Artigo 200.º
+
+(Competência do Conselho de Ministros)
 
 1. Compete ao Conselho de Ministros:
 
@@ -4283,7 +4849,9 @@ g) Deliberar sobre outros assuntos da competência do Governo que lhe sejam atri
 
 2. Os Conselhos de Ministros especializados exercem a competência que lhes for atribuída por lei ou delegada pelo Conselho de Ministros.
 
-###### Artigo 201.º — (Competência dos membros do Governo)
+Artigo 201.º
+
+(Competência dos membros do Governo)
 
 1. Compete ao Primeiro-Ministro:
 
@@ -4303,11 +4871,17 @@ b) Assegurar as relações de carácter geral entre o Governo e os demais órgã
 
 3. Os decretos-leis e os demais decretos do Governo são assinados pelo Primeiro-Ministro e pelos Ministros competentes em razão da matéria.
 
-## TÍTULO V — Tribunais
+TÍTULO V
 
-### CAPÍTULO I — Princípios gerais
+Tribunais
 
-###### Artigo 202.º — (Função jurisdicional)
+CAPÍTULO I
+
+Princípios gerais
+
+Artigo 202.º
+
+(Função jurisdicional)
 
 1. Os tribunais são os órgãos de soberania com competência para administrar a justiça em nome do povo.
 
@@ -4317,15 +4891,21 @@ b) Assegurar as relações de carácter geral entre o Governo e os demais órgã
 
 4. A lei poderá institucionalizar instrumentos e formas de composição não jurisdicional de conflitos.
 
-###### Artigo 203.º — (Independência)
+Artigo 203.º
+
+(Independência)
 
 Os tribunais são independentes e apenas estão sujeitos à lei.
 
-###### Artigo 204.º — (Apreciação da inconstitucionalidade)
+Artigo 204.º
+
+(Apreciação da inconstitucionalidade)
 
 Nos feitos submetidos a julgamento não podem os tribunais aplicar normas que infrinjam o disposto na Constituição ou os princípios nela consignados.
 
-###### Artigo 205.º — (Decisões dos tribunais)
+Artigo 205.º
+
+(Decisões dos tribunais)
 
 1. As decisões dos tribunais que não sejam de mero expediente são fundamentadas na forma prevista na lei.
 
@@ -4333,11 +4913,15 @@ Nos feitos submetidos a julgamento não podem os tribunais aplicar normas que in
 
 3. A lei regula os termos da execução das decisões dos tribunais relativamente a qualquer autoridade e determina as sanções a aplicar aos responsáveis pela sua inexecução.
 
-###### Artigo 206.º — (Audiências dos tribunais)
+Artigo 206.º
+
+(Audiências dos tribunais)
 
 As audiências dos tribunais são públicas, salvo quando o próprio tribunal decidir o contrário, em despacho fundamentado, para salvaguarda da dignidade das pessoas e da moral pública ou para garantir o seu normal funcionamento.
 
-###### Artigo 207.º — (Júri, participação popular e assessoria técnica)
+Artigo 207.º
+
+(Júri, participação popular e assessoria técnica)
 
 1. O júri, nos casos e com a composição que a lei fixar, intervém no julgamento dos crimes graves, salvo os de terrorismo e os de criminalidade altamente organizada, designadamente quando a acusação ou a defesa o requeiram.
 
@@ -4345,13 +4929,19 @@ As audiências dos tribunais são públicas, salvo quando o próprio tribunal de
 
 3. A lei poderá estabelecer ainda a participação de assessores tecnicamente qualificados para o julgamento de determinadas matérias.
 
-###### Artigo 208.º — (Patrocínio forense)
+Artigo 208.º
+
+(Patrocínio forense)
 
 A lei assegura aos advogados as imunidades necessárias ao exercício do mandato e regula o patrocínio forense como elemento essencial à administração da justiça.
 
-### CAPÍTULO II — Organização dos tribunais
+CAPÍTULO II
 
-###### Artigo 209.º — (Categorias de tribunais)
+Organização dos tribunais
+
+Artigo 209.º
+
+(Categorias de tribunais)
 
 1. Além do Tribunal Constitucional, existem as seguintes categorias de tribunais:
 
@@ -4367,7 +4957,9 @@ c) O Tribunal de Contas.
 
 4. Sem prejuízo do disposto quanto aos tribunais militares, é proibida a existência de tribunais com competência exclusiva para o julgamento de certas categorias de crimes.
 
-###### Artigo 210.º — (Supremo Tribunal de Justiça e instâncias)
+Artigo 210.º
+
+(Supremo Tribunal de Justiça e instâncias)
 
 1. O Supremo Tribunal de Justiça é o órgão superior da hierarquia dos tribunais judiciais, sem prejuízo da competência própria do Tribunal Constitucional.
 
@@ -4379,7 +4971,9 @@ c) O Tribunal de Contas.
 
 5. O Supremo Tribunal de Justiça funcionará como tribunal de instância nos casos que a lei determinar.
 
-###### Artigo 211.º — (Competência e especialização dos tribunais judiciais)
+Artigo 211.º
+
+(Competência e especialização dos tribunais judiciais)
 
 1. Os tribunais judiciais são os tribunais comuns em matéria cível e criminal e exercem jurisdição em todas as áreas não atribuídas a outras ordens judiciais.
 
@@ -4389,7 +4983,9 @@ c) O Tribunal de Contas.
 
 4. Os tribunais da Relação e o Supremo Tribunal de Justiça podem funcionar em secções especializadas.
 
-###### Artigo 212.º — (Tribunais administrativos e fiscais)
+Artigo 212.º
+
+(Tribunais administrativos e fiscais)
 
 1. O Supremo Tribunal Administrativo é o órgão superior da hierarquia dos tribunais administrativos e fiscais, sem prejuízo da competência própria do Tribunal Constitucional.
 
@@ -4397,11 +4993,15 @@ c) O Tribunal de Contas.
 
 3. Compete aos tribunais administrativos e fiscais o julgamento das acções e recursos contenciosos que tenham por objecto dirimir os litígios emergentes das relações jurídicas administrativas e fiscais.
 
-###### Artigo 213.º — (Tribunais militares)
+Artigo 213.º
+
+(Tribunais militares)
 
 Durante a vigência do estado de guerra serão constituídos tribunais militares com competência para o julgamento de crimes de natureza estritamente militar.
 
-###### Artigo 214.º — (Tribunal de Contas)
+Artigo 214.º
+
+(Tribunal de Contas)
 
 1. O Tribunal de Contas é o órgão supremo de fiscalização da legalidade das despesas públicas e de julgamento das contas que a lei mandar submeter-lhe, competindo-lhe, nomeadamente:
 
@@ -4419,9 +5019,13 @@ d) Exercer as demais competências que lhe forem atribuídas por lei.
 
 4. Nas Regiões Autónomas dos Açores e da Madeira há secções do Tribunal de Contas com competência plena em razão da matéria na respectiva região, nos termos da lei.
 
-### CAPÍTULO III — Estatuto dos juízes
+CAPÍTULO III
 
-###### Artigo 215.º — (Magistratura dos tribunais judiciais)
+Estatuto dos juízes
+
+Artigo 215.º
+
+(Magistratura dos tribunais judiciais)
 
 1. Os juízes dos tribunais judiciais formam um corpo único e regem-se por um só estatuto.
 
@@ -4431,7 +5035,9 @@ d) Exercer as demais competências que lhe forem atribuídas por lei.
 
 4. O acesso ao Supremo Tribunal de Justiça faz-se por concurso curricular aberto aos magistrados judiciais e do Ministério Público e a outros juristas de mérito, nos termos que a lei determinar.
 
-###### Artigo 216.º — (Garantias e incompatibilidades)
+Artigo 216.º
+
+(Garantias e incompatibilidades)
 
 1. Os juízes são inamovíveis, não podendo ser transferidos, suspensos, aposentados ou demitidos senão nos casos previstos na lei.
 
@@ -4443,7 +5049,9 @@ d) Exercer as demais competências que lhe forem atribuídas por lei.
 
 5. A lei pode estabelecer outras incompatibilidades com o exercício da função de juiz.
 
-###### Artigo 217.º — (Nomeação, colocação, transferência e promoção de juízes)
+Artigo 217.º
+
+(Nomeação, colocação, transferência e promoção de juízes)
 
 1. A nomeação, a colocação, a transferência e a promoção dos juízes dos tribunais judiciais e o exercício da acção disciplinar competem ao Conselho Superior da Magistratura, nos termos da lei.
 
@@ -4451,7 +5059,9 @@ d) Exercer as demais competências que lhe forem atribuídas por lei.
 
 3. A lei define as regras e determina a competência para a colocação, transferência e promoção, bem como para o exercício da acção disciplinar em relação aos juízes dos restantes tribunais, com salvaguarda das garantias previstas na Constituição.
 
-###### Artigo 218.º — (Conselho Superior da Magistratura)
+Artigo 218.º
+
+(Conselho Superior da Magistratura)
 
 1. O Conselho Superior da Magistratura é presidido pelo Presidente do Supremo Tribunal de Justiça e composto pelos seguintes vogais:
 
@@ -4465,9 +5075,13 @@ c) Sete juízes eleitos pelos seus pares, de harmonia com o princípio da repres
 
 3. A lei poderá prever que do Conselho Superior da Magistratura façam parte funcionários de justiça, eleitos pelos seus pares, com intervenção restrita à discussão e votação das matérias relativas à apreciação do mérito profissional e ao exercício da função disciplinar sobre os funcionários de justiça.
 
-### CAPÍTULO IV — Ministério Público
+CAPÍTULO IV
 
-###### Artigo 219.º — (Funções e estatuto)
+Ministério Público
+
+Artigo 219.º
+
+(Funções e estatuto)
 
 1. Ao Ministério Público compete representar o Estado e defender os interesses que a lei determinar, bem como, com observância do disposto no número seguinte e nos termos da lei, participar na execução da política criminal definida pelos órgãos de soberania, exercer a acção penal orientada pelo princípio da legalidade e defender a legalidade democrática.
 
@@ -4479,7 +5093,9 @@ c) Sete juízes eleitos pelos seus pares, de harmonia com o princípio da repres
 
 5. A nomeação, colocação, transferência e promoção dos agentes do Ministério Público e o exercício da acção disciplinar competem à Procuradoria-Geral da República.
 
-###### Artigo 220.º — (Procuradoria-Geral da República)
+Artigo 220.º
+
+(Procuradoria-Geral da República)
 
 1. A Procuradoria-Geral da República é o órgão superior do Ministério Público, com a composição e a competência definidas na lei.
 
@@ -4487,13 +5103,19 @@ c) Sete juízes eleitos pelos seus pares, de harmonia com o princípio da repres
 
 3. O mandato do Procurador-Geral da República tem a duração de seis anos, sem prejuízo do disposto na alínea m) do artigo 133.º
 
-## TÍTULO VI — Tribunal Constitucional
+TÍTULO VI
 
-###### Artigo 221.º — (Definição)
+Tribunal Constitucional
+
+Artigo 221.º
+
+(Definição)
 
 O Tribunal Constitucional é o tribunal ao qual compete especificamente administrar a justiça em matérias de natureza jurídico-constitucional.
 
-###### Artigo 222.º — (Composição e estatuto dos juízes)
+Artigo 222.º
+
+(Composição e estatuto dos juízes)
 
 1. O Tribunal Constitucional é composto por treze juízes, sendo dez designados pela Assembleia da República e três cooptados por estes.
 
@@ -4507,7 +5129,9 @@ O Tribunal Constitucional é o tribunal ao qual compete especificamente administ
 
 6. A lei estabelece as imunidades e as demais regras relativas ao estatuto dos juízes do Tribunal Constitucional.
 
-###### Artigo 223.º — (Competência)
+Artigo 223.º
+
+(Competência)
 
 1. Compete ao Tribunal Constitucional apreciar a inconstitucionalidade e a ilegalidade, nos termos dos artigos 277.º e seguintes.
 
@@ -4531,7 +5155,9 @@ h) Julgar as acções de impugnação de eleições e deliberações de órgãos
 
 3. Compete ainda ao Tribunal Constitucional exercer as demais funções que lhe sejam atribuídas pela Constituição e pela lei.
 
-###### Artigo 224.º — (Organização e funcionamento)
+Artigo 224.º
+
+(Organização e funcionamento)
 
 1. A lei estabelece as regras relativas à sede, à organização e ao funcionamento do Tribunal Constitucional.
 
@@ -4539,9 +5165,13 @@ h) Julgar as acções de impugnação de eleições e deliberações de órgãos
 
 3. A lei regula o recurso para o pleno do Tribunal Constitucional das decisões contraditórias das secções no domínio de aplicação da mesma norma.
 
-## TÍTULO VII — Regiões Autónomas
+TÍTULO VII
 
-###### Artigo 225.º — (Regime político-administrativo dos Açores e da Madeira)
+Regiões Autónomas
+
+Artigo 225.º
+
+(Regime político-administrativo dos Açores e da Madeira)
 
 1. O regime político-administrativo próprio dos arquipélagos dos Açores e da Madeira fundamenta-se nas suas características geográficas, económicas, sociais e culturais e nas históricas aspirações autonomistas das populações insulares.
 
@@ -4549,7 +5179,9 @@ h) Julgar as acções de impugnação de eleições e deliberações de órgãos
 
 3. A autonomia político-administrativa regional não afecta a integridade da soberania do Estado e exerce-se no quadro da Constituição.
 
-###### Artigo 226.º — (Estatutos)
+Artigo 226.º
+
+(Estatutos)
 
 1. Os projectos de estatutos político-administrativos das regiões autónomas serão elaborados pelas assembleias legislativas regionais e enviados para discussão e aprovação à Assembleia da República.
 
@@ -4559,7 +5191,9 @@ h) Julgar as acções de impugnação de eleições e deliberações de órgãos
 
 4. O regime previsto nos números anteriores é aplicável às alterações dos estatutos.
 
-###### Artigo 227.º — (Poderes das regiões autónomas)
+Artigo 227.º
+
+(Poderes das regiões autónomas)
 
 1. As regiões autónomas são pessoas colectivas territoriais e têm os seguintes poderes, a definir nos respectivos estatutos:
 
@@ -4613,7 +5247,9 @@ x) Participar no processo de construção europeia mediante representação nas 
 
 4. Os decretos legislativos regionais previstos nas alíneas b) e c) do n.º 1 devem invocar expressamente as respectivas leis de autorização ou leis de bases, sendo aplicável aos primeiros o disposto no artigo 169.º, com as necessárias adaptações.
 
-###### Artigo 228.º — (Autonomia legislativa e administrativa)
+Artigo 228.º
+
+(Autonomia legislativa e administrativa)
 
 Para efeitos do disposto no n.º 4 do artigo 112.º e nas alíneas a) a c) do n.º 1 do artigo 227.º, são matérias de interesse específico das regiões autónomas, designadamente:
 
@@ -4645,7 +5281,9 @@ n) Organização da administração regional e dos serviços nela inseridos;
 
 o) Outras matérias que respeitem exclusivamente à respectiva região ou que nela assumam particular configuração.
 
-###### Artigo 229.º — (Cooperação dos órgãos de soberania e dos órgãos regionais)
+Artigo 229.º
+
+(Cooperação dos órgãos de soberania e dos órgãos regionais)
 
 1. Os órgãos de soberania asseguram, em cooperação com os órgãos de governo regional, o desenvolvimento económico e social das regiões autónomas, visando, em especial, a correcção das desigualdades derivadas da insularidade.
 
@@ -4653,7 +5291,9 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 3. As relações financeiras entre a República e as regiões autónomas são reguladas através da lei prevista na alínea t) do artigo 164.º
 
-###### Artigo 230.º — (Ministro da República)
+Artigo 230.º
+
+(Ministro da República)
 
 1. O Estado é representado em cada uma das regiões autónomas por um Ministro da República, nomeado e exonerado pelo Presidente da República, sob proposta do Governo, ouvido o Conselho de Estado.
 
@@ -4663,7 +5303,9 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 4. Em caso de vagatura do cargo, bem como nas suas ausências e impedimentos, o Ministro da República é substituído pelo presidente da assembleia legislativa regional.
 
-###### Artigo 231.º — (Órgãos de governo próprio das regiões)
+Artigo 231.º
+
+(Órgãos de governo próprio das regiões)
 
 1. São órgãos de governo próprio de cada região a assembleia legislativa regional e o governo regional.
 
@@ -4677,7 +5319,9 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 6. O estatuto dos titulares dos órgãos de governo próprio das regiões autónomas é definido nos respectivos estatutos político-administrativos.
 
-###### Artigo 232.º — (Competência da assembleia legislativa regional)
+Artigo 232.º
+
+(Competência da assembleia legislativa regional)
 
 1. É da exclusiva competência da assembleia legislativa regional o exercício das atribuições referidas nas alíneas a), b) e c), na segunda parte da alínea d), na alínea f), na primeira parte da alínea i) e nas alíneas l), n) e q) do n.º 1 do artigo 227.º, bem como a aprovação do orçamento regional, do plano de desenvolvimento económico e social e das contas da região e ainda a adaptação do sistema fiscal nacional às especificidades da região.
 
@@ -4687,7 +5331,9 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 4. Aplica-se à assembleia legislativa regional e respectivos grupos parlamentares, com as necessárias adaptações, o disposto na alínea c) do artigo 175.º, nos n.os 1, 2 e 3 do artigo 178.º e no artigo 179.º, com excepção do disposto nas alíneas e) e f) do n.º 3 e no n.º 4, bem como no artigo 180.º, com excepção do disposto na alínea b) do n.º 2.
 
-###### Artigo 233.º — (Assinatura e veto do Ministro da República)
+Artigo 233.º
+
+(Assinatura e veto do Ministro da República)
 
 1. Compete ao Ministro da República assinar e mandar publicar os decretos legislativos regionais e os decretos regulamentares regionais.
 
@@ -4699,23 +5345,33 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 5. O Ministro da República exerce ainda o direito de veto, nos termos dos artigos 278.º e 279.º
 
-###### Artigo 234.º — (Dissolução dos órgãos regionais)
+Artigo 234.º
+
+(Dissolução dos órgãos regionais)
 
 1. Os órgãos de governo próprio das regiões autónomas podem ser dissolvidos pelo Presidente da República, por prática de actos graves contrários à Constituição, ouvidos a Assembleia da República e o Conselho de Estado.
 
 2. Em caso de dissolução dos órgãos regionais, o governo da região é assegurado pelo Ministro da República.
 
-## TÍTULO VIII — Poder Local
+TÍTULO VIII
 
-### CAPÍTULO I — Princípios gerais
+Poder Local
 
-###### Artigo 235.º — (Autarquias locais)
+CAPÍTULO I
+
+Princípios gerais
+
+Artigo 235.º
+
+(Autarquias locais)
 
 1. A organização democrática do Estado compreende a existência de autarquias locais.
 
 2. As autarquias locais são pessoas colectivas territoriais dotadas de órgãos representativos, que visam a prossecução de interesses próprios das populações respectivas.
 
-###### Artigo 236.º — (Categorias de autarquias locais e divisão administrativa)
+Artigo 236.º
+
+(Categorias de autarquias locais e divisão administrativa)
 
 1. No continente as autarquias locais são as freguesias, os municípios e as regiões administrativas.
 
@@ -4725,7 +5381,9 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 4. A divisão administrativa do território será estabelecida por lei.
 
-###### Artigo 237.º — (Descentralização administrativa)
+Artigo 237.º
+
+(Descentralização administrativa)
 
 1. As atribuições e a organização das autarquias locais, bem como a competência dos seus órgãos, serão reguladas por lei, de harmonia com o princípio da descentralização administrativa.
 
@@ -4733,7 +5391,9 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 3. As polícias municipais cooperam na manutenção da tranquilidade pública e na protecção das comunidades locais.
 
-###### Artigo 238.º — (Património e finanças locais)
+Artigo 238.º
+
+(Património e finanças locais)
 
 1. As autarquias locais têm património e finanças próprios.
 
@@ -4743,7 +5403,9 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 4. As autarquias locais podem dispor de poderes tributários, nos casos e nos termos previstos na lei.
 
-###### Artigo 239.º — (Órgãos deliberativos e executivos)
+Artigo 239.º
+
+(Órgãos deliberativos e executivos)
 
 1. A organização das autarquias locais compreende uma assembleia eleita dotada de poderes deliberativos e um órgão executivo colegial perante ela responsável.
 
@@ -4753,17 +5415,23 @@ o) Outras matérias que respeitem exclusivamente à respectiva região ou que ne
 
 4. As candidaturas para as eleições dos órgãos das autarquias locais podem ser apresentadas por partidos políticos, isoladamente ou em coligação, ou por grupos de cidadãos eleitores, nos termos da lei.
 
-###### Artigo 240.º — (Referendo local)
+Artigo 240.º
+
+(Referendo local)
 
 1. As autarquias locais podem submeter a referendo dos respectivos cidadãos eleitores matérias incluídas nas competências dos seus órgãos, nos casos, nos termos e com a eficácia que a lei estabelecer.
 
 2. A lei pode atribuir a cidadãos eleitores o direito de iniciativa de referendo.
 
-###### Artigo 241.º — (Poder regulamentar)
+Artigo 241.º
+
+(Poder regulamentar)
 
 As autarquias locais dispõem de poder regulamentar próprio nos limites da Constituição, das leis e dos regulamentos emanados das autarquias de grau superior ou das autoridades com poder tutelar.
 
-###### Artigo 242.º — (Tutela administrativa)
+Artigo 242.º
+
+(Tutela administrativa)
 
 1. A tutela administrativa sobre as autarquias locais consiste na verificação do cumprimento da lei por parte dos órgãos autárquicos e é exercida nos casos e segundo as formas previstas na lei.
 
@@ -4771,7 +5439,9 @@ As autarquias locais dispõem de poder regulamentar próprio nos limites da Cons
 
 3. A dissolução de órgãos autárquicos só pode ter por causa acções ou omissões ilegais graves.
 
-###### Artigo 243.º — (Pessoal das autarquias locais)
+Artigo 243.º
+
+(Pessoal das autarquias locais)
 
 1. As autarquias locais possuem quadros de pessoal próprio, nos termos da lei.
 
@@ -4779,65 +5449,97 @@ As autarquias locais dispõem de poder regulamentar próprio nos limites da Cons
 
 3. A lei define as formas de apoio técnico e em meios humanos do Estado às autarquias locais, sem prejuízo da sua autonomia.
 
-### CAPÍTULO II — Freguesia
+CAPÍTULO II
 
-###### Artigo 244.º — (Órgãos da freguesia)
+Freguesia
+
+Artigo 244.º
+
+(Órgãos da freguesia)
 
 Os órgãos representativos da freguesia são a assembleia de freguesia e a junta de freguesia.
 
-###### Artigo 245.º — (Assembleia de freguesia)
+Artigo 245.º
+
+(Assembleia de freguesia)
 
 1. A assembleia de freguesia é o órgão deliberativo da freguesia.
 
 2. A lei pode determinar que nas freguesias de população diminuta a assembleia de freguesia seja substituída pelo plenário dos cidadãos eleitores.
 
-###### Artigo 246.º — (Junta de freguesia)
+Artigo 246.º
+
+(Junta de freguesia)
 
 A junta de freguesia é o órgão executivo colegial da freguesia.
 
-###### Artigo 247.º — (Associação)
+Artigo 247.º
+
+(Associação)
 
 As freguesias podem constituir, nos termos da lei, associações para administração de interesses comuns.
 
-###### Artigo 248.º — (Delegação de tarefas)
+Artigo 248.º
+
+(Delegação de tarefas)
 
 A assembleia de freguesia pode delegar nas organizações de moradores tarefas administrativas que não envolvam o exercício de poderes de autoridade.
 
-### CAPÍTULO III — Município
+CAPÍTULO III
 
-###### Artigo 249.º — (Modificação dos municípios)
+Município
+
+Artigo 249.º
+
+(Modificação dos municípios)
 
 A criação ou a extinção de municípios, bem como a alteração da respectiva área, é efectuada por lei, precedendo consulta dos órgãos das autarquias abrangidas.
 
-###### Artigo 250.º — (Órgãos do município)
+Artigo 250.º
+
+(Órgãos do município)
 
 Os órgãos representativos do município são a assembleia municipal e a câmara municipal.
 
-###### Artigo 251.º — (Assembleia municipal)
+Artigo 251.º
+
+(Assembleia municipal)
 
 A assembleia municipal é o órgão deliberativo do município e é constituída por membros eleitos directamente em número superior ao dos presidentes de junta de freguesia, que a integram.
 
-###### Artigo 252.º — (Câmara municipal)
+Artigo 252.º
+
+(Câmara municipal)
 
 A câmara municipal é o órgão executivo colegial do município.
 
-###### Artigo 253.º — (Associação e federação)
+Artigo 253.º
+
+(Associação e federação)
 
 Os municípios podem constituir associações e federações para a administração de interesses comuns, às quais a lei pode conferir atribuições e competências próprias.
 
-###### Artigo 254.º — (Participação nas receitas dos impostos directos)
+Artigo 254.º
+
+(Participação nas receitas dos impostos directos)
 
 1. Os municípios participam, por direito próprio e nos termos definidos pela lei, nas receitas provenientes dos impostos directos.
 
 2. Os municípios dispõem de receitas tributárias próprias, nos termos da lei.
 
-### CAPÍTULO IV — Região administrativa
+CAPÍTULO IV
 
-###### Artigo 255.º — (Criação legal)
+Região administrativa
+
+Artigo 255.º
+
+(Criação legal)
 
 As regiões administrativas são criadas simultaneamente, por lei, a qual define os respectivos poderes, a composição, a competência e o funcionamento dos seus órgãos, podendo estabelecer diferenciações quanto ao regime aplicável a cada uma.
 
-###### Artigo 256.º — (Instituição em concreto)
+Artigo 256.º
+
+(Instituição em concreto)
 
 1. A instituição em concreto das regiões administrativas, com aprovação da lei de instituição de cada uma delas, depende da lei prevista no artigo anterior e do voto favorável expresso pela maioria dos cidadãos eleitores que se tenham pronunciado em consulta directa, de alcance nacional e relativa a cada área regional.
 
@@ -4845,39 +5547,57 @@ As regiões administrativas são criadas simultaneamente, por lei, a qual define
 
 3. As consultas aos cidadãos eleitores previstas nos números anteriores terão lugar nas condições e nos termos estabelecidos em lei orgânica, por decisão do Presidente da República, mediante proposta da Assembleia da República, aplicando-se, com as devidas adaptações, o regime decorrente do artigo 115.º
 
-###### Artigo 257.º — (Atribuições)
+Artigo 257.º
+
+(Atribuições)
 
 Às regiões administrativas são conferidas, designadamente, a direcção de serviços públicos e tarefas de coordenação e apoio à acção dos municípios no respeito da autonomia destes e sem limitação dos respectivos poderes.
 
-###### Artigo 258.º — (Planeamento)
+Artigo 258.º
+
+(Planeamento)
 
 As regiões administrativas elaboram planos regionais e participam na elaboração dos planos nacionais.
 
-###### Artigo 259.º — (Órgãos da região)
+Artigo 259.º
+
+(Órgãos da região)
 
 Os órgãos representativos da região administrativa são a assembleia regional e a junta regional.
 
-###### Artigo 260.º — (Assembleia regional)
+Artigo 260.º
+
+(Assembleia regional)
 
 A assembleia regional é o órgão deliberativo da região e é constituída por membros eleitos directamente e por membros, em número inferior ao daqueles, eleitos pelo sistema da representação proporcional e o método da média mais alta de Hondt, pelo colégio eleitoral formado pelos membros das assembleias municipais da mesma área designados por eleição directa.
 
-###### Artigo 261.º — (Junta regional)
+Artigo 261.º
+
+(Junta regional)
 
 A junta regional é o órgão executivo colegial da região.
 
-###### Artigo 262.º — (Representante do Governo)
+Artigo 262.º
+
+(Representante do Governo)
 
 Junto de cada região pode haver um representante do Governo, nomeado em Conselho de Ministros, cuja competência se exerce igualmente junto das autarquias existentes na área respectiva.
 
-### CAPÍTULO V — Organizações de moradores
+CAPÍTULO V
 
-###### Artigo 263.º — (Constituição e área)
+Organizações de moradores
+
+Artigo 263.º
+
+(Constituição e área)
 
 1. A fim de intensificar a participação das populações na vida administrativa local podem ser constituídas organizações de moradores residentes em área inferior à da respectiva freguesia.
 
 2. A assembleia de freguesia, por sua iniciativa ou a requerimento de comissões de moradores ou de um número significativo de moradores, demarcará as áreas territoriais das organizações referidas no número anterior, solucionando os eventuais conflitos daí resultantes.
 
-###### Artigo 264.º — (Estrutura)
+Artigo 264.º
+
+(Estrutura)
 
 1. A estrutura das organizações de moradores é fixada por lei e compreende a assembleia de moradores e a comissão de moradores.
 
@@ -4885,7 +5605,9 @@ Junto de cada região pode haver um representante do Governo, nomeado em Conselh
 
 3. A comissão de moradores é eleita, por escrutínio secreto, pela assembleia de moradores e por ela livremente destituída.
 
-###### Artigo 265.º — (Direitos e competência)
+Artigo 265.º
+
+(Direitos e competência)
 
 1. As organizações de moradores têm direito:
 
@@ -4895,15 +5617,21 @@ b) De participação, sem voto, através de representantes seus, na assembleia d
 
 2. Às organizações de moradores compete realizar as tarefas que a lei lhes confiar ou os órgãos da respectiva freguesia nelas delegarem.
 
-## TÍTULO IX — Administração Pública
+TÍTULO IX
 
-###### Artigo 266.º — (Princípios fundamentais)
+Administração Pública
+
+Artigo 266.º
+
+(Princípios fundamentais)
 
 1. A Administração Pública visa a prossecução do interesse público, no respeito pelos direitos e interesses legalmente protegidos dos cidadãos.
 
 2. Os órgãos e agentes administrativos estão subordinados à Constituição e à lei e devem actuar, no exercício das suas funções, com respeito pelos princípios da igualdade, da proporcionalidade, da justiça, da imparcialidade e da boa-fé.
 
-###### Artigo 267.º — (Estrutura da Administração)
+Artigo 267.º
+
+(Estrutura da Administração)
 
 1. A Administração Pública será estruturada de modo a evitar a burocratização, a aproximar os serviços das populações e a assegurar a participação dos interessados na sua gestão efectiva, designadamente por intermédio de associações públicas, organizações de moradores e outras formas de representação democrática.
 
@@ -4917,7 +5645,9 @@ b) De participação, sem voto, através de representantes seus, na assembleia d
 
 6. As entidades privadas que exerçam poderes públicos podem ser sujeitas, nos termos da lei, a fiscalização administrativa.
 
-###### Artigo 268.º — (Direitos e garantias dos administrados)
+Artigo 268.º
+
+(Direitos e garantias dos administrados)
 
 1. Os cidadãos têm o direito de ser informados pela Administração, sempre que o requeiram, sobre o andamento dos processos em que sejam directamente interessados, bem como o de conhecer as resoluções definitivas que sobre eles forem tomadas.
 
@@ -4931,7 +5661,9 @@ b) De participação, sem voto, através de representantes seus, na assembleia d
 
 6. Para efeitos dos n.os 1 e 2, a lei fixará um prazo máximo de resposta por parte da Administração.
 
-###### Artigo 269.º — (Regime da função pública)
+Artigo 269.º
+
+(Regime da função pública)
 
 1. No exercício das suas funções, os trabalhadores da Administração Pública e demais agentes do Estado e outras entidades públicas estão exclusivamente ao serviço do interesse público, tal como é definido, nos termos da lei, pelos órgãos competentes da Administração.
 
@@ -4943,11 +5675,15 @@ b) De participação, sem voto, através de representantes seus, na assembleia d
 
 5. A lei determina as incompatibilidades entre o exercício de empregos ou cargos públicos e o de outras actividades.
 
-###### Artigo 270.º — (Restrições ao exercício de direitos)
+Artigo 270.º
+
+(Restrições ao exercício de direitos)
 
 A lei pode estabelecer restrições ao exercício dos direitos de expressão, reunião, manifestação, associação e petição colectiva e à capacidade eleitoral passiva dos militares e agentes militarizados dos quadros permanentes em serviço efectivo, bem como por agentes dos serviços e forças de segurança, na estrita medida das exigências das suas funções próprias.
 
-###### Artigo 271.º — (Responsabilidade dos funcionários e agentes)
+Artigo 271.º
+
+(Responsabilidade dos funcionários e agentes)
 
 1. Os funcionários e agentes do Estado e das demais entidades públicas são responsáveis civil, criminal e disciplinarmente pelas acções ou omissões praticadas no exercício das suas funções e por causa desse exercício de que resulte violação dos direitos ou interesses legalmente protegidos dos cidadãos, não dependendo a acção ou procedimento, em qualquer fase, de autorização hierárquica.
 
@@ -4957,7 +5693,9 @@ A lei pode estabelecer restrições ao exercício dos direitos de expressão, re
 
 4. A lei regula os termos em que o Estado e as demais entidades públicas têm direito de regresso contra os titulares dos seus órgãos, funcionários e agentes.
 
-###### Artigo 272.º — (Polícia)
+Artigo 272.º
+
+(Polícia)
 
 1. A polícia tem por funções defender a legalidade democrática e garantir a segurança interna e os direitos dos cidadãos.
 
@@ -4967,21 +5705,29 @@ A lei pode estabelecer restrições ao exercício dos direitos de expressão, re
 
 4. A lei fixa o regime das forças de segurança, sendo a organização de cada uma delas única para todo o território nacional.
 
-## TÍTULO X — Defesa Nacional
+TÍTULO X
 
-###### Artigo 273.º — (Defesa nacional)
+Defesa Nacional
+
+Artigo 273.º
+
+(Defesa nacional)
 
 1. É obrigação do Estado assegurar a defesa nacional.
 
 2. A defesa nacional tem por objectivos garantir, no respeito da ordem constitucional, das instituições democráticas e das convenções internacionais, a independência nacional, a integridade do território e a liberdade e a segurança das populações contra qualquer agressão ou ameaça externas.
 
-###### Artigo 274.º — (Conselho Superior de Defesa Nacional)
+Artigo 274.º
+
+(Conselho Superior de Defesa Nacional)
 
 1. O Conselho Superior de Defesa Nacional é presidido pelo Presidente da República e tem a composição que a lei determinar, a qual incluirá membros eleitos pela Assembleia da República.
 
 2. O Conselho Superior de Defesa Nacional é o órgão específico de consulta para os assuntos relativos à defesa nacional e à organização, funcionamento e disciplina das Forças Armadas, podendo dispor da competência administrativa que lhe for atribuída por lei.
 
-###### Artigo 275.º — (Forças Armadas)
+Artigo 275.º
+
+(Forças Armadas)
 
 1. Às Forças Armadas incumbe a defesa militar da República.
 
@@ -4997,7 +5743,9 @@ A lei pode estabelecer restrições ao exercício dos direitos de expressão, re
 
 7. As leis que regulam o estado de sítio e o estado de emergência fixam as condições do emprego das Forças Armadas quando se verifiquem essas situações.
 
-###### Artigo 276.º — (Defesa da Pátria, serviço militar e serviço cívico)
+Artigo 276.º
+
+(Defesa da Pátria, serviço militar e serviço cívico)
 
 1. A defesa da Pátria é direito e dever fundamental de todos os portugueses.
 
@@ -5013,17 +5761,25 @@ A lei pode estabelecer restrições ao exercício dos direitos de expressão, re
 
 7. Nenhum cidadão pode ser prejudicado na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do cumprimento do serviço militar ou do serviço cívico obrigatório.
 
-# PARTE IV — Garantia e revisão da Constituição
+PARTE IV
 
-## TÍTULO I — Fiscalização da constitucionalidade
+Garantia e revisão da Constituição
 
-###### Artigo 277.º — (Inconstitucionalidade por acção)
+TÍTULO I
+
+Fiscalização da constitucionalidade
+
+Artigo 277.º
+
+(Inconstitucionalidade por acção)
 
 1. São inconstitucionais as normas que infrinjam o disposto na Constituição ou os princípios nela consignados.
 
 2. A inconstitucionalidade orgânica ou formal de tratados internacionais regularmente ratificados não impede a aplicação das suas normas na ordem jurídica portuguesa, desde que tais normas sejam aplicadas na ordem jurídica da outra parte, salvo se tal inconstitucionalidade resultar de violação de uma disposição fundamental.
 
-###### Artigo 278.º — (Fiscalização preventiva da constitucionalidade)
+Artigo 278.º
+
+(Fiscalização preventiva da constitucionalidade)
 
 1. O Presidente da República pode requerer ao Tribunal Constitucional a apreciação preventiva da constitucionalidade de qualquer norma constante de tratado internacional que lhe tenha sido submetido para ratificação, de decreto que lhe tenha sido enviado para promulgação como lei ou como decreto-lei ou de acordo internacional cujo decreto de aprovação lhe tenha sido remetido para assinatura.
 
@@ -5041,7 +5797,9 @@ A lei pode estabelecer restrições ao exercício dos direitos de expressão, re
 
 8. O Tribunal Constitucional deve pronunciar-se no prazo de vinte e cinco dias, o qual, no caso do n.º 1, pode ser encurtado pelo Presidente da República, por motivo de urgência.
 
-###### Artigo 279.º — (Efeitos da decisão)
+Artigo 279.º
+
+(Efeitos da decisão)
 
 1. Se o Tribunal Constitucional se pronunciar pela inconstitucionalidade de norma constante de qualquer decreto ou acordo internacional, deverá o diploma ser vetado pelo Presidente da República ou pelo Ministro da República, conforme os casos, e devolvido ao órgão que o tiver aprovado.
 
@@ -5051,7 +5809,9 @@ A lei pode estabelecer restrições ao exercício dos direitos de expressão, re
 
 4. Se o Tribunal Constitucional se pronunciar pela inconstitucionalidade de norma constante de tratado, este só poderá ser ratificado se a Assembleia da República o vier a aprovar por maioria de dois terços dos Deputados presentes, desde que superior à maioria absoluta dos Deputados em efectividade de funções.
 
-###### Artigo 280.º — (Fiscalização concreta da constitucionalidade e da legalidade)
+Artigo 280.º
+
+(Fiscalização concreta da constitucionalidade e da legalidade)
 
 1. Cabe recurso para o Tribunal Constitucional das decisões dos tribunais:
 
@@ -5077,7 +5837,9 @@ d) Que apliquem norma cuja ilegalidade haja sido suscitada durante o processo co
 
 6. Os recursos para o Tribunal Constitucional são restritos à questão da inconstitucionalidade ou da ilegalidade, conforme os casos.
 
-###### Artigo 281.º — (Fiscalização abstracta da constitucionalidade e da legalidade)
+Artigo 281.º
+
+(Fiscalização abstracta da constitucionalidade e da legalidade)
 
 1. O Tribunal Constitucional aprecia e declara, com força obrigatória geral:
 
@@ -5107,7 +5869,9 @@ g) Os Ministros da República, as assembleias legislativas regionais, os preside
 
 3. O Tribunal Constitucional aprecia e declara ainda, com força obrigatória geral, a inconstitucionalidade ou a ilegalidade de qualquer norma, desde que tenha sido por ele julgada inconstitucional ou ilegal em três casos concretos.
 
-###### Artigo 282.º — (Efeitos da declaração de inconstitucionalidade ou de ilegalidade)
+Artigo 282.º
+
+(Efeitos da declaração de inconstitucionalidade ou de ilegalidade)
 
 1. A declaração de inconstitucionalidade ou de ilegalidade com força obrigatória geral produz efeitos desde a entrada em vigor da norma declarada inconstitucional ou ilegal e determina a repristinação das normas que ela, eventualmente, haja revogado.
 
@@ -5117,27 +5881,37 @@ g) Os Ministros da República, as assembleias legislativas regionais, os preside
 
 4. Quando a segurança jurídica, razões de equidade ou interesse público de excepcional relevo, que deverá ser fundamentado, o exigirem, poderá o Tribunal Constitucional fixar os efeitos da inconstitucionalidade ou da ilegalidade com alcance mais restrito do que o previsto nos n.os 1 e 2.
 
-###### Artigo 283.º — (Inconstitucionalidade por omissão)
+Artigo 283.º
+
+(Inconstitucionalidade por omissão)
 
 1. A requerimento do Presidente da República, do Provedor de Justiça ou, com fundamento em violação de direitos das regiões autónomas, dos presidentes das assembleias legislativas regionais, o Tribunal Constitucional aprecia e verifica o não cumprimento da Constituição por omissão das medidas legislativas necessárias para tornar exequíveis as normas constitucionais.
 
 2. Quando o Tribunal Constitucional verificar a existência de inconstitucionalidade por omissão, dará disso conhecimento ao órgão legislativo competente.
 
-## TÍTULO II — Revisão constitucional
+TÍTULO II
 
-###### Artigo 284.º — (Competência e tempo de revisão)
+Revisão constitucional
+
+Artigo 284.º
+
+(Competência e tempo de revisão)
 
 1. A Assembleia da República pode rever a Constituição decorridos cinco anos sobre a data da publicação da última lei de revisão ordinária.
 
 2. A Assembleia da República pode, contudo, assumir em qualquer momento poderes de revisão extraordinária por maioria de quatro quintos dos Deputados em efectividade de funções.
 
-###### Artigo 285.º — (Iniciativa da revisão)
+Artigo 285.º
+
+(Iniciativa da revisão)
 
 1. A iniciativa da revisão compete aos Deputados.
 
 2. Apresentado um projecto de revisão constitucional, quaisquer outros terão de ser apresentados no prazo de trinta dias.
 
-###### Artigo 286.º — (Aprovação e promulgação)
+Artigo 286.º
+
+(Aprovação e promulgação)
 
 1. As alterações da Constituição são aprovadas por maioria de dois terços dos Deputados em efectividade de funções.
 
@@ -5145,13 +5919,17 @@ g) Os Ministros da República, as assembleias legislativas regionais, os preside
 
 3. O Presidente da República não pode recusar a promulgação da lei de revisão.
 
-###### Artigo 287.º — (Novo texto da Constituição)
+Artigo 287.º
+
+(Novo texto da Constituição)
 
 1. As alterações da Constituição serão inseridas no lugar próprio, mediante as substituições, as supressões e os aditamentos necessários.
 
 2. A Constituição, no seu novo texto, será publicada conjuntamente com a lei de revisão.
 
-###### Artigo 288.º — (Limites materiais da revisão)
+Artigo 288.º
+
+(Limites materiais da revisão)
 
 As leis de revisão constitucional terão de respeitar:
 
@@ -5183,19 +5961,25 @@ n) A autonomia das autarquias locais;
 
 o) A autonomia político-administrativa dos arquipélagos dos Açores e da Madeira.
 
-###### Artigo 289.º — (Limites circunstanciais da revisão)
+Artigo 289.º
+
+(Limites circunstanciais da revisão)
 
 Não pode ser praticado nenhum acto de revisão constitucional na vigência de estado de sítio ou de estado de emergência.
 
 Disposições finais e transitórias
 
-###### Artigo 290.º — (Direito anterior)
+Artigo 290.º
+
+(Direito anterior)
 
 1. As leis constitucionais posteriores a 25 de Abril de 1974 não ressalvadas neste capítulo são consideradas leis ordinárias, sem prejuízo do disposto no número seguinte.
 
 2. O direito ordinário anterior à entrada em vigor da Constituição mantém-se, desde que não seja contrário à Constituição ou aos princípios nela consignados.
 
-###### Artigo 291.º — (Distritos)
+Artigo 291.º
+
+(Distritos)
 
 1. Enquanto as regiões administrativas não estiverem concretamente instituídas, subsistirá a divisão distrital no espaço por elas não abrangido.
 
@@ -5203,7 +5987,9 @@ Disposições finais e transitórias
 
 3. Compete ao governador civil, assistido por um conselho, representar o Governo e exercer os poderes de tutela na área do distrito.
 
-###### Artigo 292.º — (Estatuto de Macau)
+Artigo 292.º
+
+(Estatuto de Macau)
 
 1. O território de Macau, enquanto se mantiver sob administração portuguesa, rege-se por estatuto adequado à sua situação especial, cuja aprovação compete à Assembleia da República, cabendo ao Presidente da República praticar os actos neste previstos.
 
@@ -5215,13 +6001,17 @@ Disposições finais e transitórias
 
 5. O território de Macau dispõe de organização judiciária própria, dotada de autonomia e adaptada às suas especificidades, nos termos da lei, que deverá salvaguardar o princípio da independência dos juízes.
 
-###### Artigo 293.º — (Autodeterminação e independência de Timor Leste)
+Artigo 293.º
+
+(Autodeterminação e independência de Timor Leste)
 
 1. Portugal continua vinculado às responsabilidades que lhe incumbem, de harmonia com o direito internacional, de promover e garantir o direito à autodeterminação e independência de Timor Leste.
 
 2. Compete ao Presidente da República e ao Governo praticar todos os actos necessários à realização dos objectivos expressos no número anterior.
 
-###### Artigo 294.º — (Incriminação e julgamento dos agentes e responsáveis da PIDE/DGS)
+Artigo 294.º
+
+(Incriminação e julgamento dos agentes e responsáveis da PIDE/DGS)
 
 1. Mantém-se em vigor a [Lei n.º 8/75](https://diariodarepublica.pt/dr/detalhe/lei/8-1975-336482), de 25 de Julho, com as alterações introduzidas pela [Lei n.º 16/75](https://diariodarepublica.pt/dr/detalhe/lei/16-1975-310847), de 23 de Dezembro, e pela [Lei n.º 18/75](https://diariodarepublica.pt/dr/detalhe/lei/18-1975-667568), de 26 de Dezembro.
 
@@ -5229,11 +6019,15 @@ Disposições finais e transitórias
 
 3. A lei poderá regular especialmente a atenuação extraordinária prevista no artigo 7.º do mesmo diploma.
 
-###### Artigo 295.º — (Regra especial sobre partidos)
+Artigo 295.º
+
+(Regra especial sobre partidos)
 
 O disposto no n.º 3 do artigo 51.º aplica-se aos partidos constituídos anteriormente à entrada em vigor da Constituição, cabendo à lei regular a matéria.
 
-###### Artigo 296.º — (Reprivatização de bens nacionalizados depois de 25 de Abril de 1974)
+Artigo 296.º
+
+(Reprivatização de bens nacionalizados depois de 25 de Abril de 1974)
 
 1. Lei-quadro, aprovada por maioria absoluta dos Deputados em efectividade de funções, regula a reprivatização da titularidade ou do direito de exploração de meios de produção e outros bens nacionalizados depois de 25 de Abril de 1974, observando os seguintes princípios fundamentais:
 
@@ -5249,15 +6043,21 @@ e) Proceder-se-á à avaliação prévia dos meios de produção e outros bens a
 
 2. As pequenas e médias empresas indirectamente nacionalizadas situadas fora dos sectores básicos da economia poderão ser reprivatizadas nos termos da lei.
 
-###### Artigo 297.º — (Eleição do Presidente da República)
+Artigo 297.º
+
+(Eleição do Presidente da República)
 
 Consideram-se inscritos no recenseamento eleitoral para a eleição do Presidente da República todos os cidadãos residentes no estrangeiro que se encontrem inscritos nos cadernos eleitorais para a Assembleia da República em 31 de Dezembro de 1996, dependendo as inscrições posteriores da lei prevista no n.º 2 do artigo 121.º
 
-###### Artigo 298.º — (Regime aplicável aos órgãos das autarquias locais)
+Artigo 298.º
+
+(Regime aplicável aos órgãos das autarquias locais)
 
 Até à entrada em vigor da lei prevista no n.º 3 do artigo 239.º, os órgãos das autarquias locais são constituídos e funcionam nos termos de legislação correspondente ao texto da Constituição na redacção que lhe foi dada pela [Lei Constitucional n.º 1/92](https://diariodarepublica.pt/dr/detalhe/lei-constitucional/1-1992-174316), de 25 de Novembro.
 
-###### Artigo 299.º — (Data e entrada em vigor da Constituição)
+Artigo 299.º
+
+(Data e entrada em vigor da Constituição)
 
 1. A Constituição da República Portuguesa tem a data da sua aprovação pela Assembleia Constituinte, 2 de Abril de 1976.
 

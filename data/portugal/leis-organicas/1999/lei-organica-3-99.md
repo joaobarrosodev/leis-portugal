@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/leiorg/3/1999/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-1999-569890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:00:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcd7c6c431db591447b25c630911104643a3a7151e7114b14c8e25b5ed5e9884
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28faea3babafec8e952ed3d84ba3de6c7485f0bac79c77c070b1cd8c790f2dbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:00:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Militar
-- Política de Defesa
-- Objector de Consciência
 - Forças Armadas
+- Objector de Consciência
+- Política de Defesa
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:169256654:por
@@ -86,16 +86,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/1995/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/1995/07/13/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461220:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:345292:por
+  label: "Revogada a Lei 29/82 de 11-Dez, alterada pelo presente diploma, pela LEI ORG.1-B/2009 (publicada anteriormente como\
+    \ Lei 31-A/2009 e posteriormente rectificada).07.07.2009.AR, DR.IS [129-Supl] de 07.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-a-2009-345292
+  date: '2009-07-07'
 article_structure:
-  article_count: 8
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:00:22Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +144,9 @@ Os artigos 1.º, 9.º, 10.º, 11.º, 12.º, 18.º, 20.º e 40.º da Lei da Defes
 
 A defesa nacional é a actividade desenvolvida pelo Estado e pelos cidadãos no sentido de garantir, no respeito da ordem constitucional, das instituições democráticas e das convenções internacionais, a independência nacional, a integridade do território e a liberdade e a segurança das populações contra qualquer agressão ou ameaça externas.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A defesa da Pátria é direito e dever fundamental de todos os portugueses.
 
@@ -134,7 +162,9 @@ A defesa nacional é a actividade desenvolvida pelo Estado e pelos cidadãos no 
 
 7 - Os titulares dos órgãos de soberania que estejam impedidos de funcionar livremente têm o direito e o dever de agir no sentido de criar condições para recuperar a respectiva liberdade de acção e para orientar a resistência, em ordem à salvaguarda ou ao restabelecimento da independência nacional e da soberania.
 
-###### Artigo 10.º — Serviço militar
+Artigo 10.º
+
+Serviço militar
 
 1 - O serviço militar é regulado por lei, que fixa as formas, a natureza voluntária ou obrigatória, a duração e o conteúdo da respectiva prestação, baseando-se, em tempo de paz, no voluntariado.
 
@@ -146,7 +176,9 @@ A defesa nacional é a actividade desenvolvida pelo Estado e pelos cidadãos no 
 
 5 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Consideram-se objectores de consciência ao serviço militar os cidadãos convictos de que, por motivos de ordem religiosa, moral ou filosófica, lhes não é legítimo usar de meios violentos de qualquer natureza contra o seu semelhante, ainda que para fins de defesa nacional, de defesa colectiva ou de defesa pessoal, e aos quais tenha sido atribuída essa qualidade nos termos da lei que definir o estatuto do objector de consciência.
 
@@ -154,13 +186,17 @@ A defesa nacional é a actividade desenvolvida pelo Estado e pelos cidadãos no 
 
 3 - O objector de consciência sofrerá as inabilidades correspondentes à sua repulsa pelo uso de meios violentos conforme a lei estabelecer, sem prejuízo do disposto no n.º 5 do artigo anterior.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os cidadãos sujeitos por lei à prestação do serviço militar podem, excepcionalmente, em tempo de paz, ser convocados para as Forças Armadas de acordo com a Lei do Serviço Militar.
 
 2 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A componente militar da defesa nacional é exclusivamente assegurada pelas Forças Armadas, salvo o disposto no n.º 6 do artigo 9.º e no número seguinte.
 
@@ -168,13 +204,17 @@ A defesa nacional é a actividade desenvolvida pelo Estado e pelos cidadãos no 
 
 3 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
 2 - A organização das Forças Armadas baseia-se, em tempo de paz, no serviço militar voluntário e é única para todo o território nacional.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -220,14 +260,14 @@ t) ...»
 
 Aprovada em 1 de Julho de 1999.
 
-**O Presidente da Assembleia da República, António de Almeida Santos.**
+O Presidente da Assembleia da República, António de Almeida Santos.
 
-**Promulgada em 2 de Setembro de 1999.**
+Promulgada em 2 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendada em 9 de Setembro de 1999.**
+Referendada em 9 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

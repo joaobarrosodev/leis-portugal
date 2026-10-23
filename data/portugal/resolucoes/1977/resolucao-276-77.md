@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/276-1977-277285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:07:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37c69250ae18a8589e4ecb140a2cf572355581b52cf66bf53629992ebc111413
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b92b3796ed6b303a7048fc8e3efc11e88aaaf4eaa6e9ba2dab250a4947bc336b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:07:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Diretivo
+- Instituto de Investimento Estrangeiro
+- Nomeação
+- Presidente
 relationships:
 - type: amended_by
   target: pt:dre:601491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:574676:por
+  label: "Renovados os mandatos da Drª Maria Elsa Nunes Dores de Sousa Ferreira e da Drª Maria Isabel Cartaxo de Paula Nogueira\
+    \ Roque de Oliveira, nomeadas pelo presente diploma, pela RES.113/81.19.05.1981.PCM, DR.IS [124] de 30.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/113-1981-574676
+  date: '1981-05-19'
+- type: amended_by
+  target: pt:dre:601491:por
+  label: "Prorrogado o mandato pela RES.9/82.1982.01.07.PCM, DR.IS [16] de 20/JAN/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/9-1982-601491
+  date: '1982-01-07'
+- type: cites
+  target: pt:dre:659720:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:468813:por
+  label: Rectificada pela DECL.DD7488.03.01.1978.PCM, DR.IS [2] de 03.01.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-468813
+  date: '1978-01-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:07:42Z'
   warnings: []
   errors: []
 ---

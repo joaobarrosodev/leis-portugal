@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 159/1989, 1º Suplemento, Série I de 1989-07-13
   number: '159'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2804-(2) a 2804-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf
 entry_into_force_dates: []
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/544-1989-647088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T09:55:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7409ee4923d5dd72eee74ffe961d817c7b5bab4cf7f3a45906027211e51f2a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a96cec5ad3a4903d441d7ea684d08b21a43745eb4f38ffc2086864ff6a94d53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:55:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ANEXOS IV E V, PELA PORTARAI NUMERO 780/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 206,\
+    \ DE 7/9/89. ALTERADO O ANEXO IV PELA PORTARIA NUMERO 1071/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 285,\
+    \ DE 13/12/89.\013/12/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:550468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611105:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:639769:por
+  label: Rectificada pela DECL.DD3760.1989.07.31.PCM DR.IS [174]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-639769
+  date: '1989-07-31'
 article_structure:
   article_count: 50
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:55:42Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +138,7 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 5 de Julho de 1989.**
+Assinada em 5 de Julho de 1989.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -701,19 +738,19 @@ No anexo V à presente portaria divulgam-se, em aditamento ao Guia do Acesso - 1
 
 1.1 - Universidade dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)
 
 1.2 - Escola Superior de Educação da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)
 
 1.3 - Instituto Superior de Artes Plásticas da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)
 
 ## ANEXO II — Equivalência das disciplinas do ano propedêutico às disciplinas do 12.º ano de escolaridade (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)
 
 (nota a) Reprodução do mapa II anexo à [Portaria n.º 648/81](https://diariodarepublica.pt/dr/detalhe/portaria/648-1981-579361), de 11 de Agosto.
 
@@ -735,10 +772,10 @@ A elaborar em papel azul de 25 linhas, em duplicado e com as assinaturas dos req
 
 (nota a) Se nos termos do artigo 37.º, devem escrever: «ambos na 2.ª fase do concurso».
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)
 
 ## ANEXO V — GUIA DO ACESSO AO ENSINO SUPERIOR - 1989
 
 ADITAMENTOS E RECTIFICAÇÕES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15901/00020019.pdf)

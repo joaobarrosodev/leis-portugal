@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/09300/17541755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/305-1989-615848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T09:49:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0faa8c5053cbc852a25c6336b54e6c012a2d4dad90a3e102f8f7496b79990ba8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47cfa9d42d01c35b5e5952af5d31b24dff4b84db17e569f3a343ec4ee89b0fad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:49:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Impresso
+- Licença de Pesca
+- Pesca
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:642032:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:670546:por
+  label: Rectificada pela DECL.DD3942.1989.05.23.PCM DR.IS [124] DE 31/MAI/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-670546
+  date: '1989-05-23'
+- type: repealed_by
+  target: pt:dre:284919:por
+  label: "Revogado o nº 3 pela PORT.1102-B/2000.2000.11.22.MADRP DR.IS-B [270]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1102-b-2000-284919
+  date: '2000-11-22'
+- type: repealed_by
+  target: pt:dre:642032:por
+  label: "Revogada a partir de 30.09.2007 , pela PORT.1242/2007.25.09.2007.MADRP, DR.IS [185] de 25.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1242-2007-642032
+  date: '2007-09-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:49:46Z'
   warnings: []
   errors: []
 ---
@@ -110,8 +133,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 12 de Abril de 1989.**
+Assinada em 12 de Abril de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/09300/17541755.pdf))](https://files.diariodarepublica.pt/1s/1989/04/09300/17541755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/09300/17541755.pdf)

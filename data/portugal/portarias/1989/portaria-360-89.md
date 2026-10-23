@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-1989-610766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T09:51:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c65c582ce7742479f64247e69b948f6adb59565b298e8c4547abf36ddbec032
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb8aeb6fe0bbb615535a93a8ce757632c3952b1a6928d05c850ab3bcbbb20a20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:51:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Montemor-o-Novo
 relationships:
 - type: amended_by
   target: pt:dre:642268:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642268:por
+  label: "Extinta a zona de caça associativa da Herdade da Escaldada concessionada pelo presente diploma, renovada pela Port\
+    \ 296/95 de 11-Abr, e concessionada a zona de caça turística da Herdade da Escaldada, pela PORT.1226/2007.21.09.2007.MADRP,\
+    \ DR.IS [183] de 21.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1226-2007-642268
+  date: '2007-09-21'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:51:12Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +134,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 4 de Maio de 1989.**
+Assinada em 4 de Maio de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/05/11500/20172017.pdf))](https://files.diariodarepublica.pt/1s/1989/05/11500/20172017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/05/11500/20172017.pdf)

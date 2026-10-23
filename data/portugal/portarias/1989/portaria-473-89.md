@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/473-1989-620757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T09:53:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 345555c1112225825363b6135c4a560e28a9b9e8265daaafc230c2652614567f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e92dc8957dc9a74730007df4c3b849983447ae77040e72aaaf1914f412512b40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:53:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Engenharia de Máquinas
+- Ensino Superior Politécnico
+- Instituto Politécnico
+- Instituto Superior de Engenharia
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:428867:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:371059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:433786:por
+  label: "Revogada, a Port 413/88 de 30-Jun, alterada pelo presente diploma, na parte que se refere ao curso de Electrónica\
+    \ e de Telecomunicações, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port\
+    \ 413-A/98 de 17-Jul, pela PORT.725/99.1999.08.24.ME, DR.IS-B [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/725-1999-433786
+  date: '1999-08-24'
+- type: repealed_by
+  target: pt:dre:433802:por
+  label: "Revogada a Port 413/88 de 30-Jun, na parte a que se refere ao curso de Engenharia Electrónica e de Telecomunicações,\
+    \ alterada pelo presente diploma, findo o processo de transição fixado nos termos do art. 31.º do Regulamento aprovado\
+    \ pela Port 413-A/98 de 17-Jul, pela PORT.723/99.1999.08.24.ME DR.IS-B [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/723-1999-433802
+  date: '1999-08-24'
+- type: repealed_by
+  target: pt:dre:428867:por
+  label: "Revogada, findo o processo de transição fixado pelo art. 31.º do Regulamento aprovado pela Port 413-A/98, de 17-Jul,\
+    \ na parte que se refere ao Curso de Engenharia de Máquinas, pela Port 744/99, de 25-Ago, DR.IS-B [198], pela PORT.744/99.1999.08.25.ME\
+    \ DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/744-1999-428867
+  date: '1999-08-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:53:57Z'
   warnings: []
   errors: []
 ---
@@ -133,8 +169,8 @@ Compete à comissão instaladora do Instituto Politécnico de Lisboa, ouvido o c
 
 Ministério da Educação.
 
-**Assinada em 5 de Junho de 1989.**
+Assinada em 5 de Junho de 1989.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/14500/25182519.pdf))](https://files.diariodarepublica.pt/1s/1989/06/14500/25182519.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/14500/25182519.pdf)
