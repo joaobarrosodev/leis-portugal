@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/03800/05330535.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1988-283155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:22:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1333bfed9c9debf51a7ab3a2b3a2b1bdbe63524ea8c2ee112c74f7b591b1ab81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb4558aca636ce52eebccf40ac1f92d73f118317aba84b3f8bb55ece77348b5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:22:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Fabrico Industrial
+- Lacticínios
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:165186:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661762:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:219527:por
+  label: "Rectificados os n.º 5 e 8.º do n.º 4.º, as alíneas d) e e) do n.º 5.º e n.º 2 do n.º 12.º pela DECL.DD855.31.03.1988.PCM,\
+    \ DR.IS [76]2ºSupl de 31.03.1988\08"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-219527
+  date: '1988-03-31'
+- type: repealed_by
+  target: pt:dre:165186:por
+  label: "Revogada pela PORT.440/2001.2001.04.28.MADRP, DR.IS-B [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/440-2001-165186
+  date: '2001-04-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:22:28Z'
   warnings: []
   errors: []
 ---
@@ -136,13 +182,13 @@ Características
 
 Características e limites da manteiga para fins alimentares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/02/03800/05330535.pdf))](https://files.diariodarepublica.pt/1s/1988/02/03800/05330535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/03800/05330535.pdf)
 
 3 - A manteiga que não obedeça aos limites estabelecidos no número anterior quanto à pesquisa de bactérias coliformes, à contagem de bolores e leveduras e à prova da fosfatase ou apresente exame organoléptico anormal não poderá ser destinada a fins alimentares.
 
 4 - Considera-se com falta de requisitos ou falsificada a manteiga que revele os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/02/03800/05330535.pdf))](https://files.diariodarepublica.pt/1s/1988/02/03800/05330535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/03800/05330535.pdf)
 
 5 - Considera-se avariada a manteiga que apresente ranço cetónico, ranço por auto-oxidação ou acidez superior a 10 cm3 de solução N por 10 g.
 
@@ -150,7 +196,7 @@ Características e limites da manteiga para fins alimentares
 
 Características a limites da matéria gorda da manteiga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/02/03800/05330535.pdf))](https://files.diariodarepublica.pt/1s/1988/02/03800/05330535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/03800/05330535.pdf)
 
 7 - Valores das temperaturas de fusão ou de solidificação ou do índice de refracção que não obedeçam aos limites indicados no n.º 6 podem indiciar que a manteiga se encontra falsificada por adição de gorduras estranhas.
 
@@ -258,6 +304,6 @@ Entrada em vigor
 
 Ministérios do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 2 de Fevereiro de 1988.**
+Assinada em 2 de Fevereiro de 1988.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.

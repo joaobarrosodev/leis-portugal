@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03600/05370540.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/99-1987-662926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T09:22:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77af7f87adfff2a5baa280cdf7aa55eb4b39b6ae86fe4d1fab1785d8280a52fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0590918b9b4285601781c05cc0843a7a0c5b6500e2573f559ce2ec45188a5423
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:22:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Imposto sobre Produtos Petrolíferos
+- Preço
+- Produto Petrolífero
 relationships:
 - type: amended_by
   target: pt:dre:416073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:370248:por
+  label: "Alterados os n.ºs 2.º, 3.º e 5.º, aditado o n.º 9 e substituidas pela referência ao mês o m-3 todas as referências\
+    \ ao mês m-2, pela PORT.626/88.09.09.1988.MF, DR.IS [209] de 09.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/626-1988-370248
+  date: '1988-09-09'
+- type: cites
+  target: pt:dre:221546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660718:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:305821:por
+  label: Rectificada pela DECL.DD2300.1987.04.02.PCM, DR.IS [99]4ºSupl de 30/Abr/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-305821
+  date: '1987-04-02'
+- type: repealed_by
+  target: pt:dre:417195:por
+  label: "Revogado o nº 9, pelo DEC LEI.292/87.1987.07.30.MF, DR.IS [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-1987-417195
+  date: '1987-07-30'
+- type: repealed_by
+  target: pt:dre:416073:por
+  label: "Revogada pelo DEC LEI.261-A/91.1991.07.25.MF, DR.IS-A [169]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-a-1991-416073
+  date: '1991-07-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:22:09Z'
   warnings: []
   errors: []
 ---
@@ -132,9 +181,9 @@ Componente «VA»
 
 O componente VA tem, em cada mês (m), para cada produto (p), o valor resultante das seguintes expressões:
 
-(2) [([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/03600/05370540.pdf))](https://files.diariodarepublica.pt/1s/1987/02/03600/05370540.pdf)
+(2) [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03600/05370540.pdf)
 
-(3) [([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/03600/05370540.pdf))](https://files.diariodarepublica.pt/1s/1987/02/03600/05370540.pdf)
+(3) [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03600/05370540.pdf)
 
 (4) PP = CP + MC + FR
 
@@ -212,7 +261,7 @@ a ) TA, o custo total em escudos por tonelada dos fretes e outros encargos de tr
 
 b ) F, o factor moderador anual dos custos de refinação nacional, que assegurará a sua progressiva adaptação aos níveis europeus, assumindo no período de 1987 a 1993 os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/03600/05370540.pdf))](https://files.diariodarepublica.pt/1s/1987/02/03600/05370540.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03600/05370540.pdf)
 
 4.º
 
@@ -328,9 +377,9 @@ A presente portaria entra em vigor quinze dias após a data da sua publicação.
 
 Ministérios das Finanças e da Indústria e Comércio.
 
-**Assinada em 23 de Janeiro de 1987.**
+Assinada em 23 de Janeiro de 1987.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Indústria e Comércio, Luís Manuel Pêgo Todo-Bom, Secretário de Estado da Indústria e Energia.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Indústria e Comércio, Luís Manuel Pêgo Todo-Bom, Secretário de Estado da Indústria e Energia.
 
 Lista anexa à Portaria n.º 99/87, de 12 de Fevereiro
 

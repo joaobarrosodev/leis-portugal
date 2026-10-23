@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/325-1988-374431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T09:27:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca67ba7d5abf6fd3e5f6cec35e890113aad2688d7d837aa61421dd78e9d1e16d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa44d3453a8fb33e5c601afa2b29c36165a4f223f551ea56818c2a1258892d11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:27:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Gabinete do Serviço Cívico dos Objectores de Consciência
+- Impresso
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Técnico Superior
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:27:50Z'
   warnings: []
   errors: []
 ---
@@ -101,10 +108,10 @@ Manda o Governo, pelo Ministro Adjunto e da Juventude, ao abrigo do disposto na 
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 6 de Maio de 1988.**
+Assinada em 6 de Maio de 1988.
 
-**O Ministro Adjunto e da Juventude, António Fernando Couto dos Santos.**
+O Ministro Adjunto e da Juventude, António Fernando Couto dos Santos.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12000/21892190.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12000/21892190.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12000/21892190.pdf)
 
 Observação. - Na primeira linha do cartão (frente) apor-se-á a indicação do Gabinete do Serviço Cívico dos Objectores de Consciência.

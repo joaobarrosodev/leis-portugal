@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 75/1988, 1º Suplemento, Série I de 1988-03-30
   number: '75'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1318-(2) a 1318-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/07501/00020003.pdf
 entry_into_force_dates: []
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-a-1988-513186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:24:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0aba556aca3ed32cb5e5cb300e242ba528d1b9f5350b4bd2334c60da89030b21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97c0f54eabed480cf338204d2c852dbbefee7f33828b20607487f735c6910ef5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:24:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distribuição de Energia Elétrica
+- Espinho
+- Gondomar
+- Porto
+- Preço
+- Valongo
+- Venda
+- VILA NOVA de GAIA
 relationships:
 - type: amended_by
   target: pt:dre:448682:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448682:por
+  label: Mantida em vigor pelo(a) Decreto-Lei n.º 18-A/89 - Diário da República n.º 10/1989, 1º Suplemento, Série I de 1989-01-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-a-1989-448682
+  date: '1989-01-12'
+- type: cites
+  target: pt:dre:227214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621691:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:24:55Z'
   warnings: []
   errors: []
 ---
@@ -146,6 +175,6 @@ c) A recuperação dos termos de potência far-se-á também em cinco anos;
 
 Ministério da Indústria e Energia.
 
-**Assinada em 29 de Março de 1988.**
+Assinada em 29 de Março de 1988.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

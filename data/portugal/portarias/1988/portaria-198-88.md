@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/198-1988-286487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T09:24:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdd0036a118ed4d6db1defa706218b345d5fb3d04a15024767239a1c5649ad48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9985970e48cd2897ec2045d38e38bf89d744d39d019e6687bb459b6a0d5f9bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:24:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Administração Central
+- Cálculo de Pensões
+- Equivalência de Categorias
+- Pensão de Aposentação
+- Pensão de Preço de Sangue
+- Pensão de Reforma
+- Pensões
 relationships:
 - type: amended_by
   target: pt:dre:354959:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:441275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:354959:por
+  label: Alterado o mapa anexo pela PORT.693/88.15.10.1988.MF, DR.IS [239] de 15.10.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/693-1988-354959
+  date: '1988-10-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:24:45Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +133,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 11 de Março de 1988.**
+Assinada em 11 de Março de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
@@ -116,4 +141,4 @@ Mapa anexo à Portaria n.º 198/88
 
 Categorias específicas da administração central
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/07300/12911292.pdf))](https://files.diariodarepublica.pt/1s/1988/03/07300/12911292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/07300/12911292.pdf)

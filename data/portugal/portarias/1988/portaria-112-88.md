@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/112-1988-283130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T09:22:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ee65451d477f279ba15dfb73068193c05b045a1f715bca3f8eaad8c24a11913
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0a8a22992ecde6e82e97d3ca8d79d79184ef7c917e77c82f01b62b187da74ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:22:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contadoria Geral
+- Madeira.região Autónoma
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Técnico
+- Pessoal Técnico Profissional
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Secção Regional do Tribunal de Contas
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICAÇÃO PUBLICADA NO DR.IS, 76, 2 SUPL, DE 880331. SUBSTITUÍDO O QUADRO DE PESSOAL DA SECÇÃO REGIONAL DO TRIBUNAL\
+    \ DE CONTAS DA REGIÃO AUTÓNOMA DA MADEIRA PELA PORTARIA 257/90, PUBLICADA NO DR.IS, 82, DE 900407.\0DE 900407.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:332049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:606553:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:219513:por
+  label: Rectificada pela DECL.DD2214.1988.03.22.PCM,DR.IS [76]2º Supl de 31/Mar/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-219513
+  date: '1988-03-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:22:29Z'
   warnings: []
   errors: []
 ---
@@ -98,10 +122,10 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, e uma vez
 
 Ministério das Finanças.
 
-**Assinada em 27 de Janeiro de 1988.**
+Assinada em 27 de Janeiro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
 
 ## ANEXO II — Mapa provisório do pessoal da Secção Regional do Tribunal de Contas da Região Autónoma da Madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/02/03900/05490549.pdf))](https://files.diariodarepublica.pt/1s/1988/02/03900/05490549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/03900/05490549.pdf)

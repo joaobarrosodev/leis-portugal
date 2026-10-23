@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/102-1988-283277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T09:22:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ae02cbf86d63c3ff09f26fb72f487f6581ff5e8ed9a696e8874171847e32c4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32c8e46dd567e07c1d339a7cf02023b0683272791f5acd86f70ac207111d7667
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:22:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agrupamento de Defesa Sanitária para Bovinos e Pequenos Ruminantes
+- Controlo Sanitário
+- Financiamento
+- Gado Bovino
+- Pecuária
+- Programa
 relationships:
 - type: amended_by
   target: pt:dre:619340:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUM 19 E 20 PELA PORT 640/89 DE 09-AGO DR.IS [182]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-08-09'
+- type: corrected_by
+  target: pt:dre:398860:por
+  label: Rectificada pela DECL.DD970.1988.02.25.PCM,DR.IS [49]2ºSupl de 29/Fev/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-398860
+  date: '1988-02-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:22:14Z'
   warnings: []
   errors: []
 ---
@@ -148,6 +164,6 @@ d) No 6.º ano e seguintes, os criadores suportarão 20% das despesas.
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 1 de Fevereiro de 1988.**
+Assinada em 1 de Fevereiro de 1988.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

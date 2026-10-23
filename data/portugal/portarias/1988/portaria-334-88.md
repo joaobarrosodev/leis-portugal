@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/334-1988-374242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T09:28:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc2f28d2cce8b6554953e573cc3b27a975317a943dd457fa0c9b64de78757f86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 087b4beeb74522dbf93bc48e17f25762574ee2e3fd4fc3eb8a420d3131045451
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:28:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Financiamento
+- Poupança de Energia
+- Projeto de Investimento
+- Regulamento
+- Sistema de Incentivos a Utilização Racional de Energia
 relationships:
 - type: amended_by
   target: pt:dre:198139:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:360928:por
+  label: "Transitados, das zonas de modulação 1 do anexo II ao presente diploma para as zonas 3 do mesmo anexo, os municípios\
+    \ de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal e beneficiados das percentagens\
+    \ previstas na al. c) do nº 2 do art 7º do regulamento anexo ao mesmo diploma, pela Port 808/88, de 17-Dez, DR. IS [290]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/808-1988-360928
+  date: '1988-12-17'
+- type: cites
+  target: pt:dre:374240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600295:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:28:10Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +121,9 @@ Manda o Governo, pelos Ministros do Planeamento e da Administração do Territó
 
 Ministérios do Planeamento e da Administração do Território e da Indústria e Energia.
 
-**Assinada em 16 de Maio de 1988.**
+Assinada em 16 de Maio de 1988.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 Regulamento para a Concessão das Comparticipações Financeiras Previstas no Sistema de Incentivos à Utilização Racional de Energia de Base Regional
 
@@ -429,4 +455,4 @@ b) Fazer entrega às entidades apreciadoras de relatórios finais, estudos e out
 
 c) Incluir, durante o período de validade do contrato, nas notas anexas ao balanço e demonstração de resultados elementos contabilísticos que permitam autonomizar os efeitos do projecto comparticipado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12300/22762283.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12300/22762283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12300/22762283.pdf)

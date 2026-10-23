@@ -46,40 +46,282 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/162-1988-285877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T09:23:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a2dfd50868eb7d57e6c645c1e5a75c194787a5114e1662c7702449f465aac5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53c91110668e42eb1a876a1bf35e08335b9ca48b47f13cc26bf0ce2209066dcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:23:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Braga
+- Centro de Saúde Mental
+- Centro de Saúde Mental Infantil
+- Centro Psiquiátrico de Recuperação de Montachique
+- Coimbra
+- Colónia Agrícola de Arnes
+- Covilhã
+- Descrição de Funções
+- Évora
+- Faro
+- Hospital de Magalhães de Lemos
+- Hospital de Miguel Bombarda
+- Hospital de Rovisco Pais
+- Hospital de Sobral Cid
+- Hospital do Conde de Ferreira
+- Leiria
+- Lisboa
+- Monitor Oficinal
+- Portalegre
+- Quadro de Pessoal
+- Viana do Castelo
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:197508:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:356751:por
+  label: "Alterado o quadro de pessoal, aprovado pela Port 865/81, de 28-Set, na redacção do presente diploma, pela Port 768/88,\
+    \ de 09-Dez, DR. IS [283] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/786-1988-356751
+  date: '1988-12-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL PSIQUIÁTRICO DO LORVÃO PELA PORT 174/94 DE 28-MAR DR.IS-B [73]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO CENTRO PSIQUIÁTRICO DE RECUPERAÇÃO DE ARNES PELA PORT 917/94 DE 14-OUT DR.IS-B
+    [238].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-14'
+- type: amended_by
+  target: pt:dre:626060:por
+  label: "Substituído o quadro de pessoal pela PORT.935/94.21.10.1994.MF, DR.IS-B [244] de 21.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-1994-626060
+  date: '1994-10-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SOBRAL CID, PELA PORT 11/95 DE 06-JAN DR.IS-B [5].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-06'
+- type: amended_by
+  target: pt:dre:197508:por
+  label: "Substituído o quadro de pessoal do Hospital de Miguel Bombarda, pela Port.743/96.1996.12.16.PCM, DR.IS-B [290]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/743-1996-197508
+  date: '1996-12-16'
+- type: cites
+  target: pt:dre:158418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666149:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA, NO QUE RESPEITA AO HOSPITAL DO CONDE DE FERREIRA, PELO DEC LEI 232/95 DE 12-SET DR.IS-A [211]\0EI 232/95\
+    \ DE 12-SET DR.IS-A [211]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:23:54Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +340,11 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 22 de Fevereiro de 1988.**
+Assinada em 22 de Fevereiro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-## Anexo I a que se refere o n.º 1.º
+Anexo I a que se refere o n.º 1.º
 
 Centro Psiquiátrico de Recuperação de Montachique - quadro de pessoal aprovado pela [Portaria n.º 466/82](https://diariodarepublica.pt/dr/detalhe/portaria/466-1982-392818), de 5 de Maio, posteriormente alterado pela [Portaria n.º 405/84](https://diariodarepublica.pt/dr/detalhe/portaria/405-1984-387280), de 23 de Junho.
 
@@ -144,7 +386,7 @@ Hospital de Miguel Bombarda - quadro de pessoal aprovado pela [Portaria n.º 646
 
 Colónia Agrícola de Arnes - quadro de pessoal aprovado pela [Portaria n.º 866/81](https://diariodarepublica.pt/dr/detalhe/portaria/866-1981-563635), de 28 de Setembro, posteriormente alterado pela [Portaria n.º 676/85](https://diariodarepublica.pt/dr/detalhe/portaria/676-1985-177395), de 12 de Setembro.
 
-## Anexo II a que se refere o n.º 2.º
+Anexo II a que se refere o n.º 2.º
 
 Centro Psiquiátrico de Recuperação de Montachique e Centro de Saúde Mental Infantil de Lisboa
 
@@ -170,4 +412,4 @@ i) Participar em reuniões de trabalho com os restantes elementos da equipa de a
 
 j) Adaptar os espaços de actividade às características da população assistida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06300/10731113.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06300/10731113.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06300/10731113.pdf)

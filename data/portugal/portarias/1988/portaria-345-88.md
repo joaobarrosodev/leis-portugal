@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/12700/23502351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/345-1988-374192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:28:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdf5b28d1c3cd00cbcd6cc9e0f163a3aa7eed7f882e4cf2862b80043cb06629b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04e69c28f2f5d37c9a15072452351befe32367d8101abd8921c9848a677e5988
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:28:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Regulamento
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:678447:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:374199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:678447:por
+  label: "Revogada pelo DEC LEI.284/95.1995.10.30.MDN, DR.IS-A [251], com observância do nº 2 do art. 10º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-1995-678447
+  date: '1995-10-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:28:31Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +110,13 @@ Manda o Governo, pelo Ministro da Defesa Nacional, aprovar o Regulamento de Bene
 
 Ministério da Defesa Nacional.
 
-**Assinada em 19 de Maio de 1988.**
+Assinada em 19 de Maio de 1988.
 
-**O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.**
+O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.
 
 Regulamento de Beneficiários dos Serviços Sociais das Forças Armadas
 
-###### Artigo 1.º - 1 - São obrigatoriamente qualificados como beneficiários titulares (BT) dos Serviços Sociais das Forças Armadas (SSFA):
+Artigo 1.º - 1 - São obrigatoriamente qualificados como beneficiários titulares (BT) dos Serviços Sociais das Forças Armadas (SSFA):
 
 a) Os militares dos quadros permanentes dos três ramos das Forças Armadas, nas situações de activo, reserva e reforma;
 
@@ -114,7 +130,7 @@ a) Os deficientes das Forças Armadas, nos termos do n.º 9 do artigo 14.º do [
 
 b) Os alunos dos estabelecimentos e escolas de formação dos militares destinados aos quadros permanentes dos três ramos das Forças Armadas e que tenham agregado familiar a seu exclusivo cargo.
 
-###### Art. 2.º São familiares beneficiários (FB) do BT, para efeitos deste Regulamento, os seguintes familiares:
+Art. 2.º São familiares beneficiários (FB) do BT, para efeitos deste Regulamento, os seguintes familiares:
 
 a) O cônjuge;
 
@@ -122,7 +138,7 @@ b) Os filhos menores, do BT ou do cônjuge;
 
 c) os filhos maiores, do BT ou do cônjuge, que confiram direito a abono de família, a pensão de preço de sangue, a pensão de sobrevivência, a subsídio mensal vitalício ou a pensão social de invalidez ou, nas condições que forem definidas, enquanto estudantes.
 
-###### Art. 3.º - 1 - Podem ainda ser apoiados pelos SSFA outros familiares do BT que se encontrem a seu cargo, através da concessão ao BT de apoios sociais extraordinários, tendentes a compensar eventuais dificuldades económicas de tais agregados.
+Art. 3.º - 1 - Podem ainda ser apoiados pelos SSFA outros familiares do BT que se encontrem a seu cargo, através da concessão ao BT de apoios sociais extraordinários, tendentes a compensar eventuais dificuldades económicas de tais agregados.
 
 2 - Tais familiares podem ser:
 
@@ -138,7 +154,7 @@ c) Outros familiares a cargo do BT que satisfaçam os requisitos referidos na al
 
 5 - Os apoios concedidos ao abrigo deste artigo podem manter-se para além da morte dos respectivos BT ou dos BTEX previstos no artigo 5.º
 
-###### Art. 4.º Para efeitos deste diploma:
+Art. 4.º Para efeitos deste diploma:
 
 1 - Consideram-se rendimentos próprios todos os proventos de qualquer espécie, como sejam retribuições, rendas, pensões, rendimentos de capitais e de títulos de crédito, prémios, doações e equivalentes que possam contribuir para a economia individual do ou dos ascendentes.
 
@@ -148,7 +164,7 @@ c) Outros familiares a cargo do BT que satisfaçam os requisitos referidos na al
 
 4 - Consideram-se familiares a cargo do BT aqueles para cuja manutenção o BT deva contribuir significativamente, em conjunto quer com rendimentos próprios desses familiares, quer com o contributo de outros parentes, devendo os SSFA, em tais casos, ter em consideração, na atribuição de apoios, os critérios de limitação proporcional ao grau de responsabilidade relativa ao BT.
 
-###### Art. 5.º - 1 - A qualidade específica de BT é exclusiva dos elementos indicados no artigo 1.º, embora as suas inscrições possam ser continuadas por um dos seus FB, o qual receberá então a designação de beneficiário titular extraordináriao (BTEX), nas situações referidas nas regras seguintes.
+Art. 5.º - 1 - A qualidade específica de BT é exclusiva dos elementos indicados no artigo 1.º, embora as suas inscrições possam ser continuadas por um dos seus FB, o qual receberá então a designação de beneficiário titular extraordináriao (BTEX), nas situações referidas nas regras seguintes.
 
 2 - Em caso de falecimento do BT, a qualidade de BTEX poderá ser adquirida:
 
@@ -158,9 +174,9 @@ b) Por descendente do 1.º grau.
 
 3 - O cônjuge separado judicialmente de pessoas e bens ou divorciado, a quem tenha sido fixada pensão de alimentos e não possa ser abrangido por qualquer outro esquema assistencial, poderá adquirir a qualidade de BTEX, desde que o requeira dentro do prazo de um ano a contar da data da sentença que tenha decretado a separação ou divórcio.
 
-###### Art. 6.º No caso de falta do membro da família que, pela sua qualidade profissional, poderia ter sido classificado como BT, não o tendo feito em virtude de a sua inscrição não ser então obrigatória, poderá igualmente ser aceite como BTEX um dos familiares que se enquadre numa das condições do n.º 2 do artigo anterior.
+Art. 6.º No caso de falta do membro da família que, pela sua qualidade profissional, poderia ter sido classificado como BT, não o tendo feito em virtude de a sua inscrição não ser então obrigatória, poderá igualmente ser aceite como BTEX um dos familiares que se enquadre numa das condições do n.º 2 do artigo anterior.
 
-###### Art. 7.º - 1 - O direito à aquisição da qualidade de BTEX, de harmonia com o diposto nos artigos 5.º e 6.º, é deferido sucessivamente a um elemento por cada agregado familiar pela ordem seguinte:
+Art. 7.º - 1 - O direito à aquisição da qualidade de BTEX, de harmonia com o diposto nos artigos 5.º e 6.º, é deferido sucessivamente a um elemento por cada agregado familiar pela ordem seguinte:
 
 a) Cônjuge sobrevivo, divorciado ou separado judicialmente de pessoas e bens;
 
@@ -172,11 +188,11 @@ b) Filho mais velho que, pela respectiva ordem, satisfaça as condições previs
 
 4 - Os BTEX não poderão inscrever como FB quaisquer familiares que não tenham já sido indicados pelo BT inicial, ressalvado apenas o caso de filhos nascituros deste.
 
-###### Art. 8.º - 1 - Compete exclusivamente ao BT ou ao BTEX, ou a quem legalmente os represente, o exercício dos direitos e regalias proporcionados pelos SSFA, mesmo que respeitem directamente a algum seu FB.
+Art. 8.º - 1 - Compete exclusivamente ao BT ou ao BTEX, ou a quem legalmente os represente, o exercício dos direitos e regalias proporcionados pelos SSFA, mesmo que respeitem directamente a algum seu FB.
 
 2 - Em caso de ausência de facto do BT, comprovada pela hierarquia a que pertença, os direitos e deveres decorrentes da sua qualificação poderão ser exercidos pelo FB que estaria em posição de poder adquirir a qualidade de BTEX nos termos do artigo 5.º
 
-###### Art. 9.º - 1 - Perdem a qualidade de BT aqueles que, tendo qualquer dos vínculos profissionais previstos no artigo 1.º, cessem essa vinculação, por sua iniciativa ou não.
+Art. 9.º - 1 - Perdem a qualidade de BT aqueles que, tendo qualquer dos vínculos profissionais previstos no artigo 1.º, cessem essa vinculação, por sua iniciativa ou não.
 
 2 - Perdem a qualidade de BTEX:
 
@@ -186,11 +202,11 @@ b) Os descendentes do 1.º grau que deixem de reunir os requisitos condicionante
 
 3 - Por deliberação da comissão directiva dos SSFA, poderá, para os casos em que a perda dos requisitos prevista na alínea b) do número anterior se apresente como temporária, estabelecer-se a simples suspensão da inscrição no período em que se verifique essa perda de requisitos, dentro dos critérios e limites que sejam fixados.
 
-###### Art. 10.º Quando qualquer elemento deixe, por sua iniciativa, de ser beneficiário dos SSFA - quer seja BT de inscrição facultativa, quer seja BTEX ou FB -, não poderá reassumir tal qualidade, salvo autorização da comissão directiva, em face de requerimento fundamentado do interessado ou de normas genéricas do mesmo órgão que estabeleçam critérios de excepção para o princípio estabelecido.
+Art. 10.º Quando qualquer elemento deixe, por sua iniciativa, de ser beneficiário dos SSFA - quer seja BT de inscrição facultativa, quer seja BTEX ou FB -, não poderá reassumir tal qualidade, salvo autorização da comissão directiva, em face de requerimento fundamentado do interessado ou de normas genéricas do mesmo órgão que estabeleçam critérios de excepção para o princípio estabelecido.
 
-###### Art. 11.º Os BT cuja qualificação decorra dos seus vínculos profissionais ficarão com os direitos e obrigações suspensos enquanto se encontrarem nas situações de licença ilimitada e licença sem vencimento, mantendo apenas o direito à habitação de casa de renda económica que lhes haja sido arrendada pelos SSFA, mas pagando a respectivo renda técnica ou contratual sem qualquer subsídio, e também os direitos e obrigações que resultem de empréstimos contraídos na Caixa Económica das Forças Armadas.
+Art. 11.º Os BT cuja qualificação decorra dos seus vínculos profissionais ficarão com os direitos e obrigações suspensos enquanto se encontrarem nas situações de licença ilimitada e licença sem vencimento, mantendo apenas o direito à habitação de casa de renda económica que lhes haja sido arrendada pelos SSFA, mas pagando a respectivo renda técnica ou contratual sem qualquer subsídio, e também os direitos e obrigações que resultem de empréstimos contraídos na Caixa Económica das Forças Armadas.
 
-###### Art. 12.º - 1 - No caso de violação dolosa dos seus deveres perante os SSFA, designadamente a apresentação de declarações falsas ou inexactas, a omissão de declarações que deveriam ter prestado ou o não cumprimento pontual de obrigações assumidas, poderão ser aplicadas ao BT, aos BTEX ou aos FB as seguintes medidas:
+Art. 12.º - 1 - No caso de violação dolosa dos seus deveres perante os SSFA, designadamente a apresentação de declarações falsas ou inexactas, a omissão de declarações que deveriam ter prestado ou o não cumprimento pontual de obrigações assumidas, poderão ser aplicadas ao BT, aos BTEX ou aos FB as seguintes medidas:
 
 a) Suspensão de benefícios dos SSFA por um período até um ano, mantendo-se a obrigação do pagamento das quotizações;
 
@@ -206,15 +222,15 @@ b) Eliminação da qualidade de beneficiário.
 
 6 - A aplicação das medidas indicadas é sempre independente da responsabilidade civil, disciplinar ou criminal dos infractores nos casos em que estas tiverem lugar.
 
-###### Art. 13.º - 1 - A quotização mensal dos BT será estabelecida através de despacho do Chefe do Estado-Maior-General das Forças Armadas, por percentagem sobre as remunerações certas ou pensões.
+Art. 13.º - 1 - A quotização mensal dos BT será estabelecida através de despacho do Chefe do Estado-Maior-General das Forças Armadas, por percentagem sobre as remunerações certas ou pensões.
 
 2 - Ficam dispensados do pagamento de quotizações os BT nas situações de reforma ou aposentação e, bem assim, os BTEX.
 
-###### Art. 14.º - 1 - É mantido o critério de não acumulação de benefícios com outros de igual natureza prestados por quaisquer outras instituições oficiais de segurança social.
+Art. 14.º - 1 - É mantido o critério de não acumulação de benefícios com outros de igual natureza prestados por quaisquer outras instituições oficiais de segurança social.
 
 2 - Nos casos em que um beneficiário, quer BT, quer BTEX, quer FB, possa estar abrangido por outra instituição, fica obrigado a optar, mediante declaração expressa em que renuncia ao exercício de todo e qualquer direito na ou nas instituições de que prescinda.
 
-###### Art. 15.º - 1 - O presente diploma aplica-se às inscrições efectuadas ao abrigo das disposições em vigor à data da sua publicação, as quais são mantidas.
+Art. 15.º - 1 - O presente diploma aplica-se às inscrições efectuadas ao abrigo das disposições em vigor à data da sua publicação, as quais são mantidas.
 
 2 - A manutenção de direitos adquiridos, estabelecida no número anterior, não impede que, por decisão da comissão directiva dos SSFA, após inquérito, se determine a perda de qualidade de BTEX ou FB, quando a situação económica não seja de grande carência e os vínculos familiares justificativos se afastem nitidamente dos princípios do presente diploma.
 

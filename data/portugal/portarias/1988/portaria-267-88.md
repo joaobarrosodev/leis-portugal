@@ -46,40 +46,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/267-1988-373591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T09:26:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6590c1324d15eb55a8839d8a3a15bce173e1f80c86f1cd2a34cca8a9cd4b14f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e56ef1ee50f8f67dd1ce6faa13a95be06690198c5b877b7795767deaa6291967
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:26:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Hospitalar de VILA NOVA de GAIA
+- Estabelecimento Hospitalar
+- Quadro de Pessoal
+- VILA NOVA de GAIA
 relationships:
 - type: amended_by
   target: pt:dre:573751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO CENTRO HOSPITALAR DE VILA NOVA DE GAIA PELA PORT 1172/95 DE 25-SET DR.IS-B [222]\0\
+    B [222]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-25'
+- type: cites
+  target: pt:dre:177653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662327:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:26:25Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +172,13 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 2.1 - Repartição de Serviços de Pessoal;
 
-#### Secção de Gestão de Pessoal;
+Secção de Gestão de Pessoal;
 
-#### Secção de Processamento de Vencimentos e Outras Remunerações.
+Secção de Processamento de Vencimentos e Outras Remunerações.
 
 2.2 - Repartição de Serviços Financeiros;
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
 #### Secção de Estatística.
 
@@ -116,20 +186,20 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 #### Secção de Aquisições;
 
-#### Secção de Armazéns.
+Secção de Armazéns.
 
 2.4 - Repartição do Serviço de Doentes e Arquivo Clínico;
 
-#### Secção do Serviço de Doentes e Arquivo Clínico do Hospital de Eduardo Santos Silva;
+Secção do Serviço de Doentes e Arquivo Clínico do Hospital de Eduardo Santos Silva;
 
-#### Secção do Serviço de Doentes e Arquivo Clínico do Hospital de Gaia.
+Secção do Serviço de Doentes e Arquivo Clínico do Hospital de Gaia.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 4 de Abril de 1988.**
+Assinada em 4 de Abril de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal do Centro Hospitalar de Vila Nova de Gaia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/10200/18451848.pdf))](https://files.diariodarepublica.pt/1s/1988/05/10200/18451848.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/10200/18451848.pdf)

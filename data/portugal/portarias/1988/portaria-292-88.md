@@ -47,40 +47,124 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-1988-373454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T09:27:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28cca5e1d89fa6ff61ee4a822c7c2cc60fcd6bc2c8e07ca8eeea27b70ac129cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b92c7ea42117b948703a135d58cf51207d4e4e4642e7bf5e276bdb747f1dc33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:27:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos e Formação Autárquica
+- Instituto António Sérgio do Sector Cooperativo
+- Instituto Nacional de Defesa do Consumidor
+- Quadro de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:655892:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO NACIONAL DE DEFESA DO CONSUMIDOR PELO DN 89/91 DE 10-ABR DR.IS-B [83]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-04-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO NACIONAL DE DEFESA DO CONSUMIDOR PELO DN 72/92 DE 18-MAI DR.IS-B [114]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-05-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO NACIONAL DE DEFESA DO CONSUMIDOR PELO DN 140/92 DE 17-AGO DR.IS-B [188]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-08-17'
+- type: amended_by
+  target: pt:dre:282160:por
+  label: "Alterado o quadro de pessoal, do Instituto Nacional de Defesa do Consumidor, aprovado pelo presente diploma, pelo\
+    \ DN.140/92.17.08.1992.SEAO-MF, DR.IS-B [188] de 17.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/140-1992-282160
+  date: '1992-08-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO NACIONAL DE DEFESA DO CONSUMIDOR PELO DN 88/93 DE 01-JUN DR.IS-B [127]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-01'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 221/93 DE 29-JUL DR.IS-B [199] DE 25/AGO/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-25'
+- type: amended_by
+  target: pt:dre:655892:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Defesa do Consumidor, pelo DN.283/93.22.09.1993.MF, DR.IS-B\
+    \ [223] de 22.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/283-1993-655892
+  date: '1993-09-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO EX-INSTITUTO NACIONAL DE DEFESA DO CONSUMIDOR PELO DN 299/93 DE 29-JUN DR.IS-B [232]
+    DE 02/OUT/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DO INSTITUTO NACIONAL DE DEFESA DO CONSUMIDOR PELO DN 87/94 DE 24-NOV DE 1993 DR.IS-B\
+    \ [33] DE 09/FEV/1994\04"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-09'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332893:por
+  label: "Revogada na parte referente ao quadro de pessoal do Instituto António Sérgio do Sector Cooperativo pelo DEC LEI.63/90.1990.02.20.MPLAT\
+    \ DR.IS [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-1990-332893
+  date: '1990-02-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:27:05Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +181,11 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 26 de Abril de 1988.**
+Assinada em 26 de Abril de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/10800/19801984.pdf))](https://files.diariodarepublica.pt/1s/1988/05/10800/19801984.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/10800/19801984.pdf)
 
 ## ANEXO II
 

@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/179-1988-285741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T09:24:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5532c9c5599ec5dfa3a101e551a43fe9a001a771202aadaf990a7b1f892c3d5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc0184b3dab3ea7251ef5a21accfb3d8b03614ddf32f654ab861b3a5e841c5f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:24:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Extinção de Lugares
+- Gabinete de Protecção e Segurança Nuclear
+- Pessoal Técnico Adjunto
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665766:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:24:19Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +106,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 26 de Fevereiro de 1988.**
+Assinada em 26 de Fevereiro de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
 Mapa anexo à Portaria n.º 179/88
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06900/12291229.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06900/12291229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06900/12291229.pdf)

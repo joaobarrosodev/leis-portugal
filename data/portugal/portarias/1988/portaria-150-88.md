@@ -46,40 +46,1071 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T09:23:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dd2ca2d0d0c61aa30963f1e88400bf97a151876799d6d419045dc7de9f0276d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f94d101e860262f2d7eb3678ae7537649b2de8bc26bfcb27e9e786f1eb26de88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:23:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Barcelos
+- Beja
+- Braga
+- Bragança
+- Caldas da Rainha
+- Cascais
+- Castelo Branco
+- Centro de Medicina de Reabilitação do Alcoitão
+- Centro Hospitalar de Coimbra
+- Centro Hospitalar de VILA NOVA de GAIA
+- Coimbra
+- Covilhã
+- Elvas
+- Estabelecimento Hospitalar
+- Faro
+- Figueira da Foz
+- Guarda
+- Guimarães
+- Hospitais Civis de Lisboa
+- Hospital de Crianças Maria Pia
+- Hospital de EGAS Moniz
+- Hospital de Joaquim Urbano
+- Hospital de Pulido Valente
+- Hospital de Santa Cruz
+- Hospital de Santa Maria
+- Hospital de São João
+- Hospital Distrital
+- Hospital Geral de Santo António
+- Hospital Ortopédico do Dr José de Almeida
+- Hospital Ortopédico do Outão
+- Lamego
+- Leiria
+- Maternidade Alfredo da Costa
+- Matosinhos
+- Ministério da Saúde
+- Mirandela
+- Portalegre
+- Portimão
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Sanatório de Carlos Vasconcelos Porto
+- Sanatório de Torres Vedras
+- Setúbal
+- Tomar
+- Torres Novas
+- Torres Vedras
+- Vila Franca de Xira
+- VILA NOVA de Famalicão
+- VILA NOVA de GAIA
+- Vila Real
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:580984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355958:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Torres Vedras, aprovado pela Port 740/80, de 27-Set, alterado\
+    \ pela presente portaria, pela PORT.633/88.14.09.1988.MF, DR.IS [213] de 14.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/633-1988-355958
+  date: '1988-09-14'
+- type: amended_by
+  target: pt:dre:573553:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Portimão aprovado pela Port 761/80, de 01-Out , na redacção\
+    \ do presente diploma, pela PORT.627/90.07.08.1990.MF, DR.IS [181] de 07.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/627-1990-573553
+  date: '1990-08-07'
+- type: amended_by
+  target: pt:dre:557857:por
+  label: "Alterado o quadro do Hospital de Santa Maria, aprovado pela Port 661/80, de 16-Set, na redacção do presente diploma,\
+    \ pela PORT.812/90.11.09.1990.MF, DR.IS [210] de 11.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/812-1990-557857
+  date: '1990-09-11'
+- type: amended_by
+  target: pt:dre:554610:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital da Figueira da Foz, aprovado pela Port 771/80, de 02-Out, na\
+    \ redação do presente diploma, pela PORT.921/90.01.10.1990.MF, DR.IS [227] de 01.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/921-1990-554610
+  date: '1990-10-01'
+- type: amended_by
+  target: pt:dre:554612:por
+  label: "Altera o quadro de pessoal do Hospital de Santa Maria, aprovado pela Port 661/80, de 16-Set, na redação do presente\
+    \ diploma, pela PORT.923/90.01.10.1990.MF, DR.IS [227] de 01.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/923-1990-554612
+  date: '1990-10-01'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO CENTRO HOSPITALAR DAS CALDAS DA RAINHA, PELA PORT 803/92 DE 18-AGO DR.IS-B [189]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-08-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSITUIDO O QUADRO DE PESSOAL DO HOSPITAL DE JOAQUIM URBANO, PELA PORT 838/92 DE 28-AGO DR.IS-B [198], NA PARTE
+    REFERENTE AO PESSOAL NAO MÉDICO
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-08-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL ORTOPÉDICO DO DR. JOSÉ DE ALMEIDA, PELA PORT 289/93 DE 13-MAR DR.IS-B
+    [61]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDAS AS ALTERAÇÕES RELATIVAS AO QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE LEIRIA PELA PORT 403/93 DE 15-ABR
+    DR.IS-B [88]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-15'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL ORTOPÉDICO DE OUTÃO, PELA PORT 990/93 DE 08-OUT DR.IS-B [236]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DA FIGUEIRA DA FOZ, PELA PORT 906/94 DE 11-OUT DR.IS-B [235]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE BRAGANÇA, PELA PORT 944/94 DE 25-OUT DR.IS-B [247]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SANTO ANTÓNIO PELA PORT 1019/94 DE 22-NOV DR.IS-B [270]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO CENTRO HOSPITALAR DE VILA NOVA DE GAIA PELA PORT 1172/95 DE 25-SET DR.IS-B [222]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DA COVILHÃ, PELA PORT 1188/95 DE 28-SET DR.IS-B [225]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE PULIDO VALENTE PELA PORT 1277/95 DE 27-OUT DR.IS-B [249]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SAO BERNARDO PELA PORT 1348/95 DE 14-NOV DR.IS.B [263]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE SAO JOÃO PELA PORT 1356/95 DE 16-NOV DR.IS-B [265]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-16'
+- type: amended_by
+  target: pt:dre:382602:por
+  label: "Substituído o quadro de pessoal da Maternidade Alfredo da Costa aprovado pela Port 636/80 de 16-Set, com as alterações\
+    \ constantes do presente diploma, pela PORT.296/97.06.05.1997.PCM, DR.IS-B [104] de 06.05.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-1997-382602
+  date: '1997-05-06'
+- type: amended_by
+  target: pt:dre:580984:por
+  label: "Alterado o Quadro de Pessoal do ex-Hospital de São Pedro – Vila Real, aprovado pela Port 796/80, de 07-Out, mantido\
+    \ em vigor pela Port 1199/2000, de 20-Dez, na redacção do presente diploma, pela PORT.137/2004.11.02.2004.MF, DR.IS-B\
+    \ [35] de 11.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2004-580984
+  date: '2004-02-11'
+- type: cites
+  target: pt:dre:151712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666531:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:23:29Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +1129,11 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 22 de Fevereiro de 1988.**
+Assinada em 22 de Fevereiro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-## Anexo I a que se refere o n.º 1.º
+Anexo I a que se refere o n.º 1.º
 
 Centro Hospitalar de Coimbra - quadro de pessoal aprovado pela [Portaria n.º 785/80](https://diariodarepublica.pt/dr/detalhe/portaria/785-1980-462073), de 4 de Outubro, posteriormente alterado pelas Portarias n.os [1117/81](https://diariodarepublica.pt/dr/detalhe/portaria/1117-1981-546586), de 31 de Dezembro, [498/84](https://diariodarepublica.pt/dr/detalhe/portaria/498-1984-381561), de 25 de Julho, e [607/85](https://diariodarepublica.pt/dr/detalhe/portaria/607-1985-180419), de 16 de Agosto.
 
@@ -202,7 +1233,7 @@ Sanatório de Carlos Vasconcelos Porto - quadro de pessoal aprovado pela [Portar
 
 Sanatório de Torres Vedras - quadro de pessoal aprovado pela [Portaria n.º 633/80](https://diariodarepublica.pt/dr/detalhe/portaria/633-1980-460843), de 16 de Setembro, posteriormente alterado pelas Portarias n.os [143/82](https://diariodarepublica.pt/dr/detalhe/portaria/143-1982-600963), de 1 de Fevereiro, [1297/82](https://diariodarepublica.pt/dr/detalhe/portaria/1297-1982-318319), de 31 de Dezembro, [129/83](https://diariodarepublica.pt/dr/detalhe/portaria/129-1983-308287), de 3 de Fevereiro, 807-M3/83, de 30 de Julho, [143/86](https://diariodarepublica.pt/dr/detalhe/portaria/143-1986-195674), de 12 de Abril, e [359/87](https://diariodarepublica.pt/dr/detalhe/portaria/359-1987-665771), de 30 de Abril.
 
-## Anexo II a que se refere o n.º 2.º
+Anexo II a que se refere o n.º 2.º
 
 Hospital de Santa Cruz e Hospital de Santa Maria
 
@@ -222,4 +1253,4 @@ c) Apoio técnico aos serviços do hospital sobre o modelo e método de funciona
 
 d) Tarefas de montagem, desmontagem, manutenção e adaptação a novas necessidades funcionais de equipamento directamente destinado a diagnóstico e terapêutica, no âmbito eléctrico, electrónico e mecânico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/05800/08831004.pdf))](https://files.diariodarepublica.pt/1s/1988/03/05800/08831004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/05800/08831004.pdf)

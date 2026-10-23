@@ -46,40 +46,251 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-1988-583800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T09:24:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2e965e103d27789933e1c65f1dce6104dec214e9b22408726f253f67ab9505e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1237983f59d001953db548ac8503b445d2059bd6d70755c48e7bbca0abc08558
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:24:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Departamento de Estatística
+- Departamento de Estudos e Planeamento
+- Departamento para os Assuntos do Fundo Social Europeu
+- Direcção Geral das Relações Colectivas de Trabalho
+- Direcção Geral de Higiene e Segurança do Trabalho
+- Direcção Geral do Trabalho
+- Inspecção Geral do Trabalho
+- Ministério do Emprego e da Segurança Social
+- Quadro de Pessoal
+- Serviço de Informação Científica e Técnica
 relationships:
 - type: amended_by
   target: pt:dre:693426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478060:por
+  label: "Alterado o quadro de pessoal da Secretaria-Geral, anexo ao presente diploma, pela PORT.127-B/88.25.02.1988.MF, DR.IS\
+    \ [46]2ºSupl de 25.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/127-b-1988-478060
+  date: '1988-02-25'
+- type: amended_by
+  target: pt:dre:374665:por
+  label: "Alterado o quadro de pessoal da Secretaria-Geral, pela PORT.321/88.19.05.1988.MF, DR.IS [116] de 19.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-1988-374665
+  date: '1988-05-19'
+- type: amended_by
+  target: pt:dre:374667:por
+  label: "Alterado o quadro de pessoal do Departamento de Estudos e Planeamento, constante do mapa anexo ao presente diploma,\
+    \ pela PORT.323/88.19.05.1988.MF, DR.IS [116] de 19.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/323-1988-374667
+  date: '1988-05-19'
+- type: amended_by
+  target: pt:dre:371414:por
+  label: "Alterado o quadro de pessoal da Secretaria Geral do Ministério do Emprego e Segurança Social, constante do mapa\
+    \ I anexo ao presente diploma, pela PORT.395/88.1988.06.20.MF DR.IS [140]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-1988-371414
+  date: '1988-06-20'
+- type: amended_by
+  target: pt:dre:373412:por
+  label: "Alterado o quadro de pessoal do Departamento para os Assuntos do Fundo Social Europeu, constante dos mapas anexos\
+    \ ao presente diploma, pelo DEC LEI.239/88.05.07.1988.MESS, DR.IS [153] de 05.07.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/239-1988-373412
+  date: '1988-07-05'
+- type: amended_by
+  target: pt:dre:377485:por
+  label: "Alargado quadro de pessoal constante do anexo II ao estatuto aprovado pelo Dec Lei 327/83 de 08-Jul, com a redacção\
+    \ do presente diploma, pela PORT.526/88.06.08.1988.MF, DR.IS [181] de 06.08.1988\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/526-1988-377485
+  date: '1988-08-06'
+- type: amended_by
+  target: pt:dre:357336:por
+  label: "Alterado o quadro de pessoal, constante do anexo II ao Estatuto aprovado pelo Dec Lei 327/83 de 08-Jul, na redacção\
+    \ do presente diploma, pela PORT.755/88.24.11.1988.MF, DR.IS [272] de 24.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/755-1988-357336
+  date: '1988-11-24'
+- type: amended_by
+  target: pt:dre:612428:por
+  label: "Aumentado um lugar de técnico especialista ao quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho,\
+    \ constante do mapa I anexo ao presente diploma, pela PORT.134/89.23.02.1989.MF, DR.IS [45] de 23.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/134-1989-612428
+  date: '1989-02-23'
+- type: amended_by
+  target: pt:dre:609824:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.395/89.03.06.1989.MF, DR.IS [127] de 03.06.1989\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-1989-609824
+  date: '1989-06-03'
+- type: amended_by
+  target: pt:dre:335244:por
+  label: "Aditados 4 lugares de assessor principal ao quadro de pessoal da Direcção Geral das Relações Colectivas de Trabalho,\
+    \ aprovado pela presente Portaria pela PORT.58/90.1990.01.24.MESS\0S\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1990-335244
+  date: '1990-01-24'
+- type: amended_by
+  target: pt:dre:332903:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, pelo DN.14/90.20.02.1990.MF,\
+    \ DR.IS [43] de 20.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/14-1990-332903
+  date: '1990-02-20'
+- type: amended_by
+  target: pt:dre:332400:por
+  label: "Criado um lugar de assessor principal no quadro de pessoal da Direcção-Geral do Trabalho constante do mapa I, pela\
+    \ PORT.164/90.01.03.1990.MF, DR.IS [50] de 01.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/164-1990-332400
+  date: '1990-03-01'
+- type: amended_by
+  target: pt:dre:333293:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral de Higiene e Segurança do Trabalho, pela PORT.205/90.20.03.1990.MF,\
+    \ DR.IS [66] de 20.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/205-1990-333293
+  date: '1990-03-20'
+- type: amended_by
+  target: pt:dre:333298:por
+  label: "Criado um lugar de assessor no quadro de pessoal do Serviço de Informação Científica e Técnica, constante do mapa\
+    \ I, pela PORT.206/90.20.03.1990.MF, DR.IS [66] de 20.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/206-1990-333298
+  date: '1990-03-20'
+- type: amended_by
+  target: pt:dre:332024:por
+  label: "Alterado o quadro de pessoal do Departamento de Estudos e Planeamento da Segurança Social constante do mapa I anexo,\
+    \ pela PORT.264/90.10.04.1990.SEO-MF, DR.IS [[84]] de 10.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/264-1990-332024
+  date: '1990-04-10'
+- type: amended_by
+  target: pt:dre:571206:por
+  label: "Alterado o quadro de pessoal da Secretaria-Geral do Ministério do Emprego e da Segurança Social, constante do anexo\
+    \ I pela PORT.334/90.03.05.1990.MF, DR.IS [101] de 03.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/334-1990-571206
+  date: '1990-05-03'
+- type: amended_by
+  target: pt:dre:575331:por
+  label: "Alterados os quadros de pessoal dos órgãos e serviços do Ministério do Emprego e da Segurança Social, pela PORT.486/90.29.06.1990.MF,\
+    \ DR.IS [145] de 29.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/486-1990-575331
+  date: '1990-06-29'
+- type: amended_by
+  target: pt:dre:646283:por
+  label: "Aditado um lugar de técnico superior principal ao quadro de pessoal da Secretaria-Geral, constante no mapa I anexo\
+    \ ao presente diploma, pela PORT.811-A/90.10.09.1990.MF, DR.IS [209]3ºSupl de 10.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/811-a-1990-646283
+  date: '1990-09-10'
+- type: amended_by
+  target: pt:dre:554590:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, constante do mapa I anexo ao\
+    \ presente diploma, pela PORT.925/90.02.10.1990.MF, DR.IS [228] de 02.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/925-1990-554590
+  date: '1990-10-02'
+- type: amended_by
+  target: pt:dre:494825:por
+  label: "Alterado o quadro de pessoal do Serviço de Organização e Gestão de Pessoal, constante do mapa I anexo ao presente\
+    \ diploma, pelo DN.4/91.12.01.1991.MF, DR.IS-B [10] de 12.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-1991-494825
+  date: '1991-01-12'
+- type: amended_by
+  target: pt:dre:495333:por
+  label: "Alterado o quadro de pessoal da Secretaria-Geral, constante do mapa I anexo presente diploma, pela PORT.46/91.17.01.1991.MF,\
+    \ DR.IS-B [14] de 17.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-1991-495333
+  date: '1991-01-17'
+- type: amended_by
+  target: pt:dre:478030:por
+  label: "Alterado o quadro de pessoal do Serviço de Organização e Gestão de Pessoal, aprovado no presente diploma, pelo DN.44/91.11.02.1991.MF,\
+    \ DR.IS-B [35] de 11.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/44-1991-478030
+  date: '1991-02-11'
+- type: amended_by
+  target: pt:dre:613453:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, constante do mapa I anexo ao\
+    \ presente diploma, pela PORT.286/91.08.04.1991.MF, DR.IS-B [81] de 08.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-1991-613453
+  date: '1991-04-08'
+- type: amended_by
+  target: pt:dre:659557:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, constante do mapa I anexo ao\
+    \ presente diploma, pela PORT.533/91.20.06.1991.MF, DR.IS-B [139] de 20.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/533-1991-659557
+  date: '1991-06-20'
+- type: amended_by
+  target: pt:dre:662303:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, constante do mapa I anexo ao\
+    \ presente diploma, pela PORT.719/91.23.07.1991.MF, DR.IS-B [167] de 23.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/719-1991-662303
+  date: '1991-07-23'
+- type: amended_by
+  target: pt:dre:687800:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, constante do mapa I anexo ao\
+    \ presente diploma, pelo DN.145/91.06.08.1991.MF, DR.IS-B [179] de 06.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/145-1991-687800
+  date: '1991-08-06'
+- type: amended_by
+  target: pt:dre:199786:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Relações Colectivas de Trabalho, constante do mapa I anexo presente\
+    \ diploma, pelo DN.48/92.11.04.1992.MF, DR.IS-B [86] de 11.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/48-1992-199786
+  date: '1992-04-11'
+- type: amended_by
+  target: pt:dre:300649:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral do Trabalho, constante do mapa I anexo ao presente diploma, pelo\
+    \ DN.82/92.05.06.1992.MF, DR.IS-B [130] de 05.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/82-1992-300649
+  date: '1992-06-05'
+- type: amended_by
+  target: pt:dre:292504:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral do Trabalho, constante do mapa I anexo ao presente diploma, pela\
+    \ PORT.734/92.22.07.1992.MF, DR.IS-B [167] de 22.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/734-1992-292504
+  date: '1992-07-22'
+- type: amended_by
+  target: pt:dre:235102:por
+  label: "Alterado o quadro da Direcção-Geral das Relações Colectivas de Trabalho, constante do mapa I anexo ao presente diploma,\
+    \ pelo DN.168/92.07.09.1992.MF, DR.IS-B [206] de 07.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/168-1992-235102
+  date: '1992-09-07'
+- type: amended_by
+  target: pt:dre:616601:por
+  label: "Alterado o quadro da Direcção-Geral das Relações Colectivas de Trabalho, constante do mapa I anexo ao presente diploma,\
+    \ pelo DN.230/92.11.12.1992.MF, DR.IS-B [285] de 11.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/230-1992-616601
+  date: '1992-12-11'
+- type: amended_by
+  target: pt:dre:693426:por
+  label: "Alterado o quadro de pessoal da ex-Direcção-Geral das Relações Colectivas de Trabalho, constante do mapa I anexo\
+    \ ao presente diploma, pelo DN.110-B/93.19.06.1993.MF, DR.IS-B [142]Supl de 19.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/110-b-1993-693426
+  date: '1993-06-19'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:461027:por
+  label: Rectificada pela DECL.DD2609.1988.04.11.PCM,DR.IS [100]Supl de 30/Abr/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-461027
+  date: '1988-04-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:24:05Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +313,13 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Emp
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 10 de Dezembro de 1987.**
+Assinada em 10 de Dezembro de 1987.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 Mapa I anexo a que se refere o n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/00600/00540064.pdf))](https://files.diariodarepublica.pt/1s/1988/01/00600/00540064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/00600/00540064.pdf)
 
 Mapa II anexo a que se refere o n.º 2.º
 

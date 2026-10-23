@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/10300/18631866.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-1988-373602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:26:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dbe51ab07b14d34b232cb74b682368192b1ce57d17510849124eee7a05aa373
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3feb988537f7ca745a3ee8c991b8d5c901acabceec37517e6c76264bb74699d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:26:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação Patronal
+- Citex
+- Comissão de Fiscalização
+- Conselho de Administração
+- Conselho Técnico Pedagógico
+- Criação de Serviços
+- Definição de Competências
+- Diretor
+- Formação Profissional
+- Gestão Financeira
+- Homologação
+- Indústria Têxtil
+- Instituto do Emprego e Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:278046:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:362304:por
+  label: "Alteradas as denominações as associações intervenientes no protocolo aprovado pelo presente diploma, pela PORT.612/2001.2001.06.21.MTS\
+    \ DR.IS-B [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/612-2001-362304
+  date: '2001-06-21'
+- type: amended_by
+  target: pt:dre:694247:por
+  label: "Alterada a denominação das associações intervenientes no protocolo aprovado pelo presente diploma, na redacção da\
+    \ Port 612/2001, de 21-Jun, pela PORT.513/2003.2003.07.01.MSST DR.IS-A [149] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/513-2003-694247
+  date: '2003-07-01'
+- type: amended_by
+  target: pt:dre:494486:por
+  label: "Alterada a denominação das associações intevenientes no protocolo aprovado pelo presente diploma com as alterações\
+    \ introduzidas pelas Ports. 612/2001, de 21-Jun e 513/2003, de 01-Jul, pela PORT.1050/2003.2003.09.23.MSST DR.IS-B [220]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1050-2003-494486
+  date: '2003-09-23'
+- type: amended_by
+  target: pt:dre:278046:por
+  label: "Determinada a extinção do CITEX e revogada, a partir de 03.06.2011, a presente portaria, na redacção da Port 612/2001,\
+    \ de 21-Jun, Port 513/2003, de 01-Jul, e Port 1050/2003, de 23-Set, pela PORT.135/2011.04.04.2011.MTSSO, DR.IS [66] de\
+    \ 04.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-2011-278046
+  date: '2011-04-04'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:26:50Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +147,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Emprego e da Seguran�
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 29 de Março de 1988.**
+Assinada em 29 de Março de 1988.
 
 Pelo Ministro do Emprego e da Segurança Social, António José de Castro Bagão Félix, Secretário de Estado do Emprego e Formação Profissional.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 70/1988, 1º Suplemento, Série I de 1988-03-24
   number: '70'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1262-(2) a 1262-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/07001/00020003.pdf
 entry_into_force_dates: []
@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/191-a-1988-168596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T09:24:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce9044c1fdb3a8a943dac78597fcf1d4b7b8816c7b7d59471a203da307501cbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e73b5a9ee4ca9a04285b89b2853345ca837de3fa7831a2a7af95d214958f753
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:24:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Lisboa
+- Porto
+- Segurança Rodoviária
+- Trânsito
+- Transporte de Mercadorias
+- Veículo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:24:35Z'
   warnings: []
   errors: []
 ---
@@ -113,11 +119,11 @@ Estrada nacional n.º 7, entre Freixieiro e Porto; via norte, entre o nó de Cha
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 23 de Março de 1988.**
+Assinada em 23 de Março de 1988.
 
-**O Secretário de Estado dos Transportes Interiores, Carlos Alberto Pereira da Silva Costa.**
+O Secretário de Estado dos Transportes Interiores, Carlos Alberto Pereira da Silva Costa.
 
-## Anexo à Portaria n.º 191-A/88
+Anexo à Portaria n.º 191-A/88
 
 Restrições à circulação de automóveis pesados de mercadorias
 
@@ -127,8 +133,8 @@ Independentemente do sentido de trânsito, é ainda proibido nas vias abaixo ind
 
 REGIÃO DE LISBOA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/07001/00020003.pdf))](https://files.diariodarepublica.pt/1s/1988/03/07001/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/07001/00020003.pdf)
 
 REGIÃO DO PORTO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/07001/00020003.pdf))](https://files.diariodarepublica.pt/1s/1988/03/07001/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/07001/00020003.pdf)

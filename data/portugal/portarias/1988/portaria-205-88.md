@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/205-1988-286310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T09:24:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 260b50525310667ee5f5058d9835e25daefc48137ea467d9776fefe15eee1fdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d29f58952238a5fc0cf3c86bdaa21e5e82679957bce39aa1164b7c575b268244
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:24:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Electrificação Rural
+- Exploração Agrícola
+- Pedap
+- Programa de Electrificação das Explorações Agrícolas
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:624396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612809:por
+  label: "Alterados os n.ºs 1.º, 8.º e 14.º, pela PORT.178/89.04.03.1989.MAPA, DR.IS [53] de 04.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-1989-612809
+  date: '1989-03-04'
+- type: amended_by
+  target: pt:dre:624396:por
+  label: "Alterados os n.ºs 1.º e 14.º, na redacção da Portaria n.º 178/89, de 4 de Março, pela PORT.1188/92.22.12.1992.MA,\
+    \ DR.IS-B [294] de 22.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1188-1992-624396
+  date: '1992-12-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:24:59Z'
   warnings: []
   errors: []
 ---
@@ -162,6 +178,6 @@ b) Instalações eléctricas de baixa tensão a construir dentro das exploraçõ
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 15 de Março de 1988.**
+Assinada em 15 de Março de 1988.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

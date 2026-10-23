@@ -46,40 +46,150 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/157-1988-285903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 883cea56e13d1a78fe91f625203ee3b259b5649c8554aabea4d8b1432248b04a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9a2c080b1de7df7e67dd354adf96c63072b56e82fc0043fa4aebc6550b01c45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:3430811:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:509394:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Acção Cultural aprovado pelo DR 19/80 de 26-Mai, com a redacção\
+    \ conferida no presente diploma, pelo DN.28/91.02.02.1991.SEO-MF, DR.IS-B [28] de 02.02.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/28-1991-509394
+  date: '1991-02-02'
+- type: amended_by
+  target: pt:dre:515446:por
+  label: "Alterados os quadros de pessoal constantes dos anexos II, VI e XI, pela PORT.370-A/91.29.04.1991.PCM, DR.IS-B [98]Supl\
+    \ de 29.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/370-a-1991-515446
+  date: '1991-04-29'
+- type: amended_by
+  target: pt:dre:616855:por
+  label: "Alterada pelo DR.25/91.1991.05.06.PCM, DR.IS-B [103] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-1991-616855
+  date: '1991-05-06'
+- type: amended_by
+  target: pt:dre:152138:por
+  label: "Eliminadas e substituídas as carreiras de pessoal específicas das áreas funcionais de biblioteca, documentação e\
+    \ de arquivo do Instituto Português do Livro e da Leitura, constantes do anexo XIII, pela PORT.79/92.07.02.1992.PCM, DR.IS-B\
+    \ [32] de 07.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/79-1992-152138
+  date: '1992-02-07'
+- type: amended_by
+  target: pt:dre:151720:por
+  label: "Alterado o quadro de pessoal do Instituto Português do Livro e da Leitura, pelo DN.22/92.10.02.1992.PCM, DR.IS-B\
+    \ [34] de 10.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/22-1992-151720
+  date: '1992-02-10'
+- type: amended_by
+  target: pt:dre:523643:por
+  label: "Alterado o quadro de pessoal do Gabinete de Planeamento, pela PORT.420/92.22.05.1992.PCM, DR.IS-B [118] de 22.05.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/420-1992-523643
+  date: '1992-05-22'
+- type: amended_by
+  target: pt:dre:213411:por
+  label: "Alterado o quadro de pessoal do Instituto Português do Livro e da Leitura, pela PORT.448-C/92.30.05.1992.PCM, DR.IS-B\
+    \ [125]4ºSupl de 30.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-c-1992-213411
+  date: '1992-05-30'
+- type: amended_by
+  target: pt:dre:181986:por
+  label: "Alterado o quadro de pessoal aprovado pelo anexo I, pelo DR.12/92.1992.06.01.PCM, DR.IS-B [126]2Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-1992-181986
+  date: '1992-06-01'
+- type: amended_by
+  target: pt:dre:303254:por
+  label: "Alterado o quadro de pessoal da Cinemateca Portuguesa, constante do anexo VII, pela PORT.507/92.22.06.1992.PCM,\
+    \ DR.IS-B [141] de 22.06.1992\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/507-1992-303254
+  date: '1992-06-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 482/94, DE 7 DE JUNHO, PUBLICADO NO DR.IS-B, 163, 940716.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-16'
+- type: amended_by
+  target: pt:dre:3430811:por
+  label: "Alterado o quadro de pessoal pela PORT.1082/98(2ªSÉRIE).1998.10.12.PCM, DR.IIS [246] de 24/Out/1998\0998\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1082-1998-3430811
+  date: '1998-10-12'
+- type: cites
+  target: pt:dre:178113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662933:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:23:42Z'
   warnings: []
   errors: []
 ---
@@ -106,37 +216,37 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Cultur
 
 Secretarias de Estado da Cultura e do Orçamento.
 
-**Assinada em 31 de Dezembro de 1987.**
+Assinada em 31 de Dezembro de 1987.
 
-**A Secretária de Estado da Cultura, Maria Teresa Pinto Basto Gouveia. - O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp.**
+A Secretária de Estado da Cultura, Maria Teresa Pinto Basto Gouveia. - O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp.
 
 ## ANEXO I — Delegações Regionais do Norte, Centro e Sul
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 ## ANEXO II — Direcção-Geral dos Serviços Centrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 ## ANEXO III — Gabinete de Planeamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 Categorias e carreiras a extinguir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 ## ANEXO IV — Gabinete de Organização e Pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 ## ANEXO V — Direcção-Geral da Acção Cultural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 Categorias e carreiras a extinguir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 Conteúdo funcional da carreira de técnico superior de informática:
 
@@ -156,15 +266,15 @@ Executar, a partir de orientações e instruções precisas, trabalhos de apoio 
 
 ## ANEXO VI — Direcção-Geral dos Espectáculos e do Direito de Autor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 Carreiras e categorias a extinguir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 ## ANEXO VII — Cinemateca Portuguesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 Conteúdo funcional da carreira de técnico auxiliar:
 
@@ -176,11 +286,11 @@ Trabalhos de inventariação, pesquisa e conservação de documentos fotográfic
 
 ## ANEXO VIII — Biblioteca Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 Carreiras e categorias a extinguir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 Conteúdo funcional da carreira de técnico auxiliar:
 
@@ -188,11 +298,11 @@ Organização e acompanhamento de todo o circuito da actividade editorial da Bib
 
 ## ANEXO IX — Teatro de D. Maria II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 Categorias e carreiras a extinguir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 Conteúdo funcional da carreira de técnico auxiliar:
 
@@ -200,11 +310,11 @@ Execução, a partir de orientações e instruções precisas, de trabalhos de a
 
 ## ANEXO X — Gabinete das Relações Culturais Internacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 ## ANEXO XI — Instituto Português de Cinema
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 Conteúdo funcional da carreira de técnico auxiliar:
 
@@ -218,12 +328,12 @@ Recolha e tratamento de informação nas áreas de planeamento estatístico e de
 
 ## ANEXO XII — Arquivo Nacional da Torre do Tombo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 Categorias e carreiras a extinguir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
 
 ## ANEXO XIII — Instituto Português do Livro e da Leitura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06200/10401062.pdf)

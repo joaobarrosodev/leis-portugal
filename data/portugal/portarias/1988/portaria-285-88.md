@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/10400/18761892.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/285-1988-373597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T09:26:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fc71b85f1325d4d577ee0cb2112f5d90bde5f4303cd7c99a796bde73ccf4c39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a719d50418ec0573e13a832298292db43d2152531b93a63928f2fd371b5a0e74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:26:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fardamento
+- Guarda Florestal
+- Pessoal de Vigilância
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:693067:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:401058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:693067:por
+  label: "Revogada pela PORT.211/2006.03.03.2006.MAOTDR, DR.IS-B [45] de 03.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/211-2006-693067
+  date: '2006-03-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:26:50Z'
   warnings: []
   errors: []
 ---
@@ -94,21 +111,21 @@ Manda o Governo da República Portuguesa, pelo Ministro do Planeamento e da Admi
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 20 de Abril de 1988.**
+Assinada em 20 de Abril de 1988.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
-## Anexo à Portaria n.º 285/88
+Anexo à Portaria n.º 285/88
 
 Regulamento de Uniformes dos Guardas e Vigilantes da Natureza
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O presente Regulamento destina-se a descrever as composições e características dos uniformes dos guardas e vigilantes da Natureza, bem como as suas quantidades respectivas, prazos de duração e respectivas especificações.
+Artigo 1.º O presente Regulamento destina-se a descrever as composições e características dos uniformes dos guardas e vigilantes da Natureza, bem como as suas quantidades respectivas, prazos de duração e respectivas especificações.
 
-###### Art. 2.º Os guardas e vigilantes da Natureza envergarão os seus uniformes com o maior aprumo e em perfeita conformidade com os padrões regulamentares, devendo apresentar-se uniformizados quando em serviço.
+Art. 2.º Os guardas e vigilantes da Natureza envergarão os seus uniformes com o maior aprumo e em perfeita conformidade com os padrões regulamentares, devendo apresentar-se uniformizados quando em serviço.
 
-###### Art. 3.º - 1 - Aquele a quem for distribuído o uniforme fica constituído seu fiel depositário até ao momento em que o restitua ou que se complete o prazo estabelecido para a sua duração.
+Art. 3.º - 1 - Aquele a quem for distribuído o uniforme fica constituído seu fiel depositário até ao momento em que o restitua ou que se complete o prazo estabelecido para a sua duração.
 
 2 - Os guardas e vigilantes da Natureza são responsáveis pelos uniformes que lhes forem distribuídos, podendo ser compelidos à sua devolução, no total ou em parte, quando, por mau uso, se tornem incapazes de ser utilizados com plena satisfação do fim a que se destinam.
 
@@ -116,25 +133,25 @@ Regulamento de Uniformes dos Guardas e Vigilantes da Natureza
 
 4 - Aos uniformes substituídos deverão ser retirados os distintivos, que serão apostos nos novos uniformes, salvo quando se encontrarem deteriorados.
 
-###### Art. 4.º O Estado suportará o encargo dos uniformes, o qual deve obedecer, na cor, tipo de tecido, composição e características, às normas fixadas neste Regulamento.
+Art. 4.º O Estado suportará o encargo dos uniformes, o qual deve obedecer, na cor, tipo de tecido, composição e características, às normas fixadas neste Regulamento.
 
-###### Art. 5.º Os serviços do SNPRCN de que dependem os guardas e vigilantes da Natureza organizarão verbetes individuais, em que serão registados os artigos de uniforme distribuídos a esse pessoal que lhe estiverem adstritos, com menção expressa dos respectivos períodos de duração.
+Art. 5.º Os serviços do SNPRCN de que dependem os guardas e vigilantes da Natureza organizarão verbetes individuais, em que serão registados os artigos de uniforme distribuídos a esse pessoal que lhe estiverem adstritos, com menção expressa dos respectivos períodos de duração.
 
 Verbetes idênticos serão organizados pela Direcção de Serviços de Administração para efeitos de gestão e controle de material a que respeita o presente Regulamento e cuja responsabilidade lhe compete especialmente.
 
-###### Art. 6.º - 1 - Os serviços requisitarão à Direcção de Serviços de Administração os artigos de uniforme a distribuir, nos termos deste Regulamento, com uma antecedência mínima de 60 dias.
+Art. 6.º - 1 - Os serviços requisitarão à Direcção de Serviços de Administração os artigos de uniforme a distribuir, nos termos deste Regulamento, com uma antecedência mínima de 60 dias.
 
 2 - A fim de facultar àquela Direcção de Serviços a oportuna e periódica aquisição de artigos previstos no presente Regulamento, deve cada um dos serviços enviar, até 31 de Maio de cada ano, relação dos funcionários a equipar e dos artigos a distribuir durante o ano imediato, justificando nos termos das disposições regulamentares.
 
 3 - Aos serviços requisitantes caberá a distribuição dos artigos requisitados, que lhes serão enviados em tempo oportuno.
 
-###### Art. 7.º Sempre que a necessidade de execução de trabalhos específicos o justificar, serão distribuídos gratuitamente outros artigos de vestuário.
+Art. 7.º Sempre que a necessidade de execução de trabalhos específicos o justificar, serão distribuídos gratuitamente outros artigos de vestuário.
 
-###### Art. 8.º Os guardas e vigilantes da Natureza estão sujeitos, além de tudo o que lhes diz respeito, às disposições constantes do presente Regulamento.
+Art. 8.º Os guardas e vigilantes da Natureza estão sujeitos, além de tudo o que lhes diz respeito, às disposições constantes do presente Regulamento.
 
-###### Art. 9.º É facultativo para os guardas e vigilantes da Natureza quando não estejam em serviço, o uniforme.
+Art. 9.º É facultativo para os guardas e vigilantes da Natureza quando não estejam em serviço, o uniforme.
 
-###### Art. 10.º Quando não exista em depósito o material requisitado para equipamento de guardas e vigilantes da Natureza, poderá o SNPRCN adquiri-lo.
+Art. 10.º Quando não exista em depósito o material requisitado para equipamento de guardas e vigilantes da Natureza, poderá o SNPRCN adquiri-lo.
 
 ### CAPÍTULO II — Composição e características do uniforme
 
@@ -362,4 +379,4 @@ Duração - 2 anos;
 
 Quantidade - 2.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/10400/18761892.pdf))](https://files.diariodarepublica.pt/1s/1988/05/10400/18761892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/10400/18761892.pdf)

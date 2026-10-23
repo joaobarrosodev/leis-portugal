@@ -46,40 +46,352 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-1988-285766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T09:24:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a86e1d10144ad4607264160e2d24db13138fb80d8e64b1f4f71dbde66ec94886
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 109d1ae7cf85ec2162729987442d24de170c8262ebfe8c412ce62e257c572dd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:24:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA PIA de Lisboa
+- Departamento de Planeamento da Segurança Social
+- Departamento de Relações Internacionais e Convenções de Segurança Social
+- Direcção Geral da Organização e Recursos Humanos
+- Direcção Geral da Segurança Social
+- Inspecção Geral da Segurança Social
+- Instituto de Gestão Financeira da Segurança Social
+- Lares
+- Mansão de Santa Maria de Marvila
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Secretariado Nacional de Reabilitação
 relationships:
 - type: amended_by
   target: pt:dre:2818980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613696:por
+  label: "Alterado o quadro de pessoal e suprimida a alínea M) do presente diploma, pela PORT.209/89.13.03.1989.MF, DR.IS\
+    \ [60] de 13.03.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/209-1989-613696
+  date: '1989-03-13'
+- type: amended_by
+  target: pt:dre:333285:por
+  label: "Criado um lugar de assessor principal no quadro de pessoal do Secretariado Nacional de Reabilitação, pelo DN.24/90.20.03.1990.MF,\
+    \ DR.IS [66] de 20.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-1990-333285
+  date: '1990-03-20'
+- type: amended_by
+  target: pt:dre:571203:por
+  label: "Alterado, no referente ao pessoal auxiliar de enfermagem, o quadro de pessoal da Mansão de Santa Maria de Marvila\
+    \ ao presente diploma, pela PORT.335/90.03.05.1990.MF, DR.IS [101] de 03.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/335-1990-571203
+  date: '1990-05-03'
+- type: amended_by
+  target: pt:dre:574955:por
+  label: "Alterado o quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, pelo DN.36/90.19.06.1990.MF,\
+    \ DR.IS [139] de 19.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-1990-574955
+  date: '1990-06-19'
+- type: amended_by
+  target: pt:dre:554636:por
+  label: "Alterado o quadro de pessoal do Departamento de Relações Internacionais e Convenções da Segurança Social, pelo DN.117/90.03.10.1990.MF,\
+    \ DR.IS [229] de 03.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/117-1990-554636
+  date: '1990-10-03'
+- type: amended_by
+  target: pt:dre:564589:por
+  label: "Aditada a carreira de operador de reprografia ao quadro de pessoal do Secretariado Nacional de Reabilitação, anexo\
+    \ ao presente diploma, pela PORT.1147/90.21.11.1990.MF, DR.IS [269] de 21.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1147-1990-564589
+  date: '1990-11-21'
+- type: amended_by
+  target: pt:dre:495322:por
+  label: "Alterado o quadro de pessoal anexo ao Decreto-Lei 355/82, de 6 de Setembro, alterado no presente diploma, pela PORT.47/91.17.01.1991.MF,\
+    \ DR.IS-B [14] de 17.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/47-1991-495322
+  date: '1991-01-17'
+- type: amended_by
+  target: pt:dre:457441:por
+  label: "Alterado o quadro de pessoal da Mansão de Santa Maria de Marvila, pela PORT.194/91.09.03.1991.MF, DR.IS-B [57] de\
+    \ 09.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/194-1991-457441
+  date: '1991-03-09'
+- type: amended_by
+  target: pt:dre:403681:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Organização e Recursos Humanos, pela PORT.887/91.29.08.1991.MF,\
+    \ DR.IS-B [198] de 29.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/887-1991-403681
+  date: '1991-08-29'
+- type: amended_by
+  target: pt:dre:429409:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.244-A/91.24.10.1991.MF, DR.IS-B [245]Supl\
+    \ de 24.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/244-a-1991-429409
+  date: '1991-10-24'
+- type: amended_by
+  target: pt:dre:590967:por
+  label: "Aumentado de um lugar de pessoal de enfermagem o quadro de pessoal da Casa Pia de Lisboa, constante do presente\
+    \ diploma, pela PORT.1223/91.30.12.1991.MF, DR.IS-B [300] de 30.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1223-1991-590967
+  date: '1991-12-30'
+- type: amended_by
+  target: pt:dre:300417:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.98/92.11.06.1992.MF, DR.IS-B [134] de\
+    \ 11.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/98-1992-300417
+  date: '1992-06-11'
+- type: amended_by
+  target: pt:dre:282087:por
+  label: "Alterado o quadro de pessoal do Lar Residencial de Alcobaça, pela PORT.804/92.18.08.1992.MF, DR.IS-B [189] de 18.08.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/804-1992-282087
+  date: '1992-08-18'
+- type: amended_by
+  target: pt:dre:240656:por
+  label: "Alterado o quadro de pessoal do Secretariado Nacional de Reabilitação, pelo DN.158/92.01.09.1992.MF, DR.IS-B [201]\
+    \ de 01.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/158-1992-240656
+  date: '1992-09-01'
+- type: amended_by
+  target: pt:dre:235107:por
+  label: "Alterado o quadro de pessoal do Lar Residencial das Fontainhas, referente à carreira técnica superior de serviço\
+    \ social, pela PORT.866/92.07.09.1992.MF, DR.IS-B [206] de 07.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/866-1992-235107
+  date: '1992-09-07'
+- type: amended_by
+  target: pt:dre:235111:por
+  label: "Alterado o quadro de pessoal da Mansão de Santa Maria de Marvila, pela PORT.863/92.07.09.1992.MF, DR.IS-B [206]\
+    \ de 07.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/863-1992-235111
+  date: '1992-09-07'
+- type: amended_by
+  target: pt:dre:235112:por
+  label: "Alterado o quadro de pessoal da Casa Pia de Lisboa, referente à carreira técnica superior de serviço social, pela\
+    \ PORT.864/92.07.09.1992.MF, DR.IS-B [206] de 07.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/864-1992-235112
+  date: '1992-09-07'
+- type: amended_by
+  target: pt:dre:234126:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.179/92.23.09.1992.MF, DR.IS-B [220]\
+    \ de 23.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/179-1992-234126
+  date: '1992-09-23'
+- type: amended_by
+  target: pt:dre:599128:por
+  label: "Altera o quadro de pessoal da Direcção-Geral da Segurança Social, na parte respeitante ao pessoal técnico superior\
+    \ e técnico, pela PORT.1094/92.27.11.1992.MF, DR.IS-B [275] de 27.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1094-1992-599128
+  date: '1992-11-27'
+- type: amended_by
+  target: pt:dre:657632:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Organização e Recursos Humanos, pelo DN.20/93.25.02.1993.MF, DR.IS-B\
+    \ [47] de 25.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-1993-657632
+  date: '1993-02-25'
+- type: amended_by
+  target: pt:dre:665965:por
+  label: "Alterado o quadro de pessoal do Departamento de Relações Internacionais e Convenções de Segurança Social, pela PORT.442/93.27.04.1993.MF,\
+    \ DR.IS-B [98] de 27.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/442-1993-665965
+  date: '1993-04-27'
+- type: amended_by
+  target: pt:dre:665969:por
+  label: "Alterado o quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, pela PORT.441/93.27.04.1993.MF,\
+    \ DR.IS-B [98] de 27.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/441-1993-665969
+  date: '1993-04-27'
+- type: amended_by
+  target: pt:dre:273817:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.70/93.05.05.1993.MF, DR.IS-B [104] de\
+    \ 05.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/70-1993-273817
+  date: '1993-05-05'
+- type: amended_by
+  target: pt:dre:283153:por
+  label: "Alterado o quadro de pessoal do Departamento de Planeamento da Segurança Social, pelo DN.82/93.26.05.1993.MF, DR.IS-B\
+    \ [122] de 26.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/82-1993-283153
+  date: '1993-05-26'
+- type: amended_by
+  target: pt:dre:336718:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.110/93.15.06.1993.MF, DR.IS-B [138]2ºSupl\
+    \ de 15.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/110-1993-336718
+  date: '1993-06-15'
+- type: amended_by
+  target: pt:dre:336719:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.105/93.15.06.1993.MF, DR.IS-B [138]2ºSupl\
+    \ de 15.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/105-1993-336719
+  date: '1993-06-15'
+- type: amended_by
+  target: pt:dre:336720:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.109/93.15.06.1993.MF, DR.IS-B [138]2ºSupl\
+    \ de 15.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/109-1993-336720
+  date: '1993-06-15'
+- type: amended_by
+  target: pt:dre:336721:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.106/93.15.06.1993.MF, DR.IS-B [138]2ºSupl\
+    \ de 15.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/106-1993-336721
+  date: '1993-06-15'
+- type: amended_by
+  target: pt:dre:336722:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.104/93.15.06.1993.MF, DR.IS-B [138]2ºSupl\
+    \ de 15.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/104-1993-336722
+  date: '1993-06-15'
+- type: amended_by
+  target: pt:dre:336723:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.103/93.15.06.1993.MF, DR.IS-B [138]2ºSupl\
+    \ de 15.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/103-1993-336723
+  date: '1993-06-15'
+- type: amended_by
+  target: pt:dre:336724:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.108/93.15.06.1993.MF, DR.IS-B [138]2ºSupl\
+    \ de 15.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/108-1993-336724
+  date: '1993-06-15'
+- type: amended_by
+  target: pt:dre:336725:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.107/93.15.06.1993.MF, DR.IS-B [138]2ºSupl\
+    \ de 15.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/107-1993-336725
+  date: '1993-06-15'
+- type: amended_by
+  target: pt:dre:336726:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.102/93.15.06.1993.MF, DR.IS-B [138]2ºSupl\
+    \ de 15.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/102-1993-336726
+  date: '1993-06-15'
+- type: amended_by
+  target: pt:dre:336729:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral da Segurança Social, pelo DN.110-A/93.15.06.1993.MF, DR.IS-B [138]3ºSupl\
+    \ de 15.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/110-a-1993-336729
+  date: '1993-06-15'
+- type: amended_by
+  target: pt:dre:325773:por
+  label: "Alterado o quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, constante do mapa anexo ao presente\
+    \ diploma, pelo DN.218/93.25.08.1993.MF, DR.IS-B [199] de 25.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/218-1993-325773
+  date: '1993-08-25'
+- type: amended_by
+  target: pt:dre:660318:por
+  label: "Alterado o quadro de pessoal da Casa Pia de Lisboa, pelo DN.267/93.14.09.1993.MF, DR.IS-B [216] de 14.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/267-1993-660318
+  date: '1993-09-14'
+- type: amended_by
+  target: pt:dre:680777:por
+  label: "Alterado o quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, pelo DN.374/93.27.11.1993.MF,\
+    \ DR.IS-B [278] de 27.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/374-1993-680777
+  date: '1993-11-27'
+- type: amended_by
+  target: pt:dre:537407:por
+  label: "Alterado o quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, pelo DN.432/93.15.12.1993.MF,\
+    \ DR.IS-B [291] de 15.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/432-1993-537407
+  date: '1993-12-15'
+- type: amended_by
+  target: pt:dre:540979:por
+  label: "Alterado o quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, pelo DN.475/93.22.12.1993.MF,\
+    \ DR.IS-B [297] de 22.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/475-1993-540979
+  date: '1993-12-22'
+- type: amended_by
+  target: pt:dre:542176:por
+  label: "Alterado o quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, pelo DN.477/93.24.12.1993.MF,\
+    \ DR.IS-B [299] de 24.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/477-1993-542176
+  date: '1993-12-24'
+- type: amended_by
+  target: pt:dre:499258:por
+  label: "Alterado o quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, pelo DN.73/94.04.02.1994.MF,\
+    \ DR.IS-B [29] de 04.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/73-1994-499258
+  date: '1994-02-04'
+- type: amended_by
+  target: pt:dre:521628:por
+  label: "Alterado o quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, pelo DN.76/94.07.02.1994.MF,\
+    \ DR.IS-B [31] de 07.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/76-1994-521628
+  date: '1994-02-07'
+- type: amended_by
+  target: pt:dre:250594:por
+  label: "Alterado o quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, pelo DN.302/94.06.05.1994.MF,\
+    \ DR.IS-B [105] de 06.05.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/302-1994-250594
+  date: '1994-05-06'
+- type: amended_by
+  target: pt:dre:290631:por
+  label: "Alterado o quadro de pessoal do Departamento de Relações Internacionais e Convenções de Segurança Social, pelo DN.462/94.27.06.1994.MF,\
+    \ DR.IS-B [146] de 27.06.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/462-1994-290631
+  date: '1994-06-27'
+- type: amended_by
+  target: pt:dre:609278:por
+  label: "Alterado o quadro de pessoal do Departamento de Relações Internacionais e Convenções da Segurança Social, pelo DN.692/94.29.09.1994.MF,\
+    \ DR.IS-B [226] de 29.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/692-1994-609278
+  date: '1994-09-29'
+- type: amended_by
+  target: pt:dre:619875:por
+  label: "Alterado o quadro de pessoal da Casa Pia de Lisboa, pela PORT.903/94.10.10.1994.MF, DR.IS-B [234] de 10.10.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/903-1994-619875
+  date: '1994-10-10'
+- type: amended_by
+  target: pt:dre:564600:por
+  label: "Alterado o quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, pela PORT.1132/95.15.09.1995.MF,\
+    \ DR.IS-B [214] de 15.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1132-1995-564600
+  date: '1995-09-15'
+- type: amended_by
+  target: pt:dre:2818980:por
+  label: "Alterado o quadro de pessoal pela PORT.1394/98(2ªSÉRIE).1998.11.23.PCM, DR.IIS [294] de 22/Dez/1998d\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1394-1998-2818980
+  date: '1998-11-23'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:461040:por
+  label: Rectificada pela DECL.DD2613.1988.04.19.PCM,DR.IS [100]Supl de 30/Abr/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-461040
+  date: '1988-04-19'
+- type: corrected_by
+  target: pt:dre:287467:por
+  label: Rectificada pela DECL.DD2748.1988.06.09.PCM,DR.IS [149]Supl de 30/Jun/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-287467
+  date: '1988-06-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:24:04Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +416,15 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Emp
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 13 de Janeiro de 1988.**
+Assinada em 13 de Janeiro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 Mapa I anexo a que se refere o n.º 1.º da Portaria n.º 168/88
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/06600/11761197.pdf))](https://files.diariodarepublica.pt/1s/1988/03/06600/11761197.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06600/11761197.pdf)
 
-## Anexo II que se refere o n.º 2.º da Portaria n.º 168/88
+Anexo II que se refere o n.º 2.º da Portaria n.º 168/88
 
 Direcção-Geral da Segurança Social, Direcção-Geral da Organização e Recursos Humanos, Departamento de Planeamento da Segurança Social, Instituto de Gestão Financeira da Segurança Social e Secretariado Nacional de Reabilitação.
 

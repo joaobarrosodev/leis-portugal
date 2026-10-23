@@ -46,40 +46,365 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-1988-287382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:23:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecdd2540e6361cc94149e4c52b671cd9704c4dc18b208d3159adaf25de03eca9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93ce3ba1ad0ff60cf5fe4bb4097f8295cc0b48b0ac8caa2ad0193cb504e8fdfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:23:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Histocompatibilidade do Centro
+- Centro de Histocompatibilidade do Norte
+- Centro de Histocompatibilidade do SUL
+- Ministério da Saúde
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA ANEXO PELO DESPACHO NORMATIVO 99/92, PUBLICADO NO DR.IS-B, 141, DE\
+    \ 920622. ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DAS CONSTRUCOES HOSPITALARES, PELO DESPACHO NORMATIVO 143/92,\
+    \ PUBLICADO NO DR.IS-B, 189, DE 920818.\0, DE 920818.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:240062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380134:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 31/81 de 14-Jan, alterado pelo presente diploma, pela PORT.569/88.19.08.1988.MF,\
+    \ DR.IS [191] de 19.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/569-1988-380134
+  date: '1988-08-19'
+- type: amended_by
+  target: pt:dre:379749:por
+  label: "Alterado o quadro de pessoal aprovado pelo Dec Lei 519-Z/79 de 29-Dez, alterado pelo presente diploma, pela PORT.591/88.27.08.1988.MF,\
+    \ DR.IS [198] de 27.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/591-1988-379749
+  date: '1988-08-27'
+- type: amended_by
+  target: pt:dre:609801:por
+  label: Alterado o quadro de pessoal aprovado pelo Dec Lei 234/81, de 03-ago, alterado pelas Ports 1182/82, de 23-dez, 738/83,
+    de 29-jun, 807-X1/83, de 30-jul, 408/86, de 28-jul, e pela presente, pelo(a) Portaria n.º 387/89 - Diário da República
+    n.º 126/1989, Série I de 1989-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/387-1989-609801
+  date: '1989-06-02'
+- type: amended_by
+  target: pt:dre:549983:por
+  label: Transitados os actuais titulares dos lugares de técnico inspector de serviço social e de inspector técnico do quadro
+    de pessoal da Direcção-Geral dos Hospitais para os lugares de técnico especialista criados pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 394/89 - Diário da República n.º 258/1989, Série I de 1989-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/394-1989-549983
+  date: '1989-11-09'
+- type: amended_by
+  target: pt:dre:151721:por
+  label: Alterado o quadro de pessoal aprovado pelo Dec Lei 103-A/84, de 30-mar, com as alterações introduzidas pelas Ports
+    439/87, de 26-mai, 582/87, de 09-jul, 935/87, de 11-dez e pela presente, pelo(a) Despacho Normativo n.º 24/92 - Diário
+    da República n.º 34/1992, Série I-B de 1992-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-1992-151721
+  date: '1992-02-10'
+- type: amended_by
+  target: pt:dre:158599:por
+  label: Alterado o quadro de pessoal da Direcção-Geral de Assuntos Farmacêuticos, aprovado pelo Dec Lei 103-A/84, de 30-mar,
+    alterado pelas Ports 439/87, de 26-mai, 582/87, de 09-jul, 935/87, de 11-dez, e pela presente, pelo(a) Despacho Normativo
+    n.º 29/92 - Diário da República n.º 44/1992, Série I-B de 1992-02-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-1992-158599
+  date: '1992-02-21'
+- type: amended_by
+  target: pt:dre:158600:por
+  label: Alterado o quadro de pessoal Direcção-Geral de Assuntos Farmacêuticos, aprovado pelo Dec Lei 103-A/84, de 30-mar,
+    alterado pelas Ports 439/87, de 26-mai, 582/87, de 09-jul, 935/87, de 11-dez, e pela presente, pelo(a) Despacho Normativo
+    n.º 28/92 - Diário da República n.º 44/1992, Série I-B de 1992-02-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/28-1992-158600
+  date: '1992-02-21'
+- type: amended_by
+  target: pt:dre:526861:por
+  label: Alterado o quadro de pessoal da Direcção-Geral de Assuntos Farmacêuticos, aprovado pelo Dec Lei 103-A/84, de 30-mar,
+    alterado pelas Ports 439/87, de 26-mai, 582/87, de 09-jul, 935/87, de 11-dez, e pela presente, pelo(a) Despacho Normativo
+    n.º 63/92 - Diário da República n.º 108/1992, Série I-B de 1992-05-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/63-1992-526861
+  date: '1992-05-11'
+- type: amended_by
+  target: pt:dre:599122:por
+  label: Alterado o Quadro de Pessoal do Instituto Nacional de Emergência Médica, na parte relativa às áreas funcionais de
+    biblioteca e documentação e de arquivo, aprovado pelo Dec Lei 234/81, de 03-ago, alterado pelas Ports n.ºs 1182/82, de
+    23-dez, 738/83, de 19-jun, 807-X1/83, de 30-jul, 408/86, de 28 de jul, pela presente e pela 387/89, de 02-jun, pelo(a)
+    Portaria n.º 1088/92 - Diário da República n.º 274/1992, Série I-B de 1992-11-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1088-1992-599122
+  date: '1992-11-26'
+- type: amended_by
+  target: pt:dre:238178:por
+  label: Alterado o quadro de pessoal da Direcção Geral dos Assuntos Farmacêuticos, aprovado pelo Dec Lei 103-A/84, de 30-mar,
+    alterado pelas Ports 439/87, de 26-mai, 582/87, de 09-jul, 935/87, de 11-dez, e pela presente, pelo(a) Portaria n.º 1237/92
+    - Diário da República n.º 301/1992, 4º Suplemento, Série I-B de 1992-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1237-1992-238178
+  date: '1992-12-31'
+- type: amended_by
+  target: pt:dre:375976:por
+  label: Alterado o Quadro de Pessoal do Instituto Nacional de Emergência Médica, aprovada pelo Dec Lei 234/81, de 03-ago,alterado
+    pelas Ports n.ºs1182/82, de 23-dez, 738/83, de 29-jun, 807-X1/83, de 30-jul, 408/86, de 28-jul, presente, 387/89, de 02-jun,
+    e 1088/92, de 26-nov pelo(a) Portaria n.º 649/93 - Diário da República n.º 157/1993, Série I-B de 1993-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-1993-375976
+  date: '1993-07-07'
+- type: amended_by
+  target: pt:dre:383022:por
+  label: "Substituido o quadro de pessoal pela Port 295/97.1997.05.05.PCM, DR.IS-B [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-1997-383022
+  date: '1997-05-05'
+- type: cites
+  target: pt:dre:147383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666538:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:219508:por
+  label: Rectificada pela DECL.DD2188.1988.03.21.PCM,DR.IS [76]2º Supl de 31/Mar/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-219508
+  date: '1988-03-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:23:24Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +425,11 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 9 de Fevereiro de 1988.**
+Assinada em 9 de Fevereiro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-## Anexo I a que se refere o n.º 1
+Anexo I a que se refere o n.º 1
 
 Centro de Histocompatibilidade do Norte, Centro e Sul - quadro de pessoal aprovado pelo [Decreto-Lei n.º 110/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1983-311445), de 21 de Fevereiro, e posteriormente alterado pela [Portaria n.º 245/87](https://diariodarepublica.pt/dr/detalhe/portaria/245-1987-666535), de 31 de Março.
 
@@ -140,7 +465,7 @@ Instituto Nacional de Sangue - quadro aprovado pela [Portaria n.º 482/82](https
 
 Serviços Sociais do Ministério da Saúde - quadro de pessoal aprovado pelo [Decreto-Lei n.º 350/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1986-222375), de 18 de Outubro.
 
-## Anexo II a que se refere o n.º 2.º
+Anexo II a que se refere o n.º 2.º
 
 Centros de Histocompatibilidade do Norte, Centro e Sul:
 
@@ -170,4 +495,4 @@ Conteúdo funcional da carreira de técnicos auxiliares:
 
 Desempenho, a partir de orientações precisas, de funções de execução de trabalhos de apoio técnico nas seguintes áreas de actividade: estudos económicos e financeiros, controle de execução de planos de actividade, biblioteca, arquivo e documentação e organização e métodos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/05700/08290868.pdf))](https://files.diariodarepublica.pt/1s/1988/03/05700/08290868.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/05700/08290868.pdf)

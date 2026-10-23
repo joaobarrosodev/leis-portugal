@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/222-1988-284902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T09:25:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 684b03d3a32e4a6e28fa249a2a5db1805d7a2e925de9a4da83d1e4ade8947030
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8393a24d31f1c287f7eef74e8f1e16f2253b33af58a7e0f9f8d0fffbb0b66ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:25:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Aviação Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:260583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:548994:por
+  label: "Alterada pelo DR.29/89.1989.10.17.MOPTC, DR.IS [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/29-1989-548994
+  date: '1989-10-17'
+- type: amended_by
+  target: pt:dre:550257:por
+  label: Criado um lugar de director de serviços, extinguindo-se, como contrapartida, um lugar de chefe de secção do quadro
+    de pessoal da Direcção-Geral da Aviação Civil aprovado pelo presente diploma, pelo DEC LEI.434/89.16.12.1989.MOPTC, DR.IS
+    [288] de 16.12.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/434-1989-550257
+  date: '1989-12-16'
+- type: amended_by
+  target: pt:dre:402562:por
+  label: "Alterado, no que se refere ao pessoal técnico superior de aviação civil, o quadro da Direcção-Geral da Aviação Civil,\
+    \ constante do anexo, pela PORT.1226/91.31.12.1991.MF, DR.IS-B [301-Supl] de 31.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1226-1991-402562
+  date: '1991-12-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO GERAL DA AVIAÇÃO CIVIL, PELA PORTARIA 190/94, DE 5 DE ABRIL, PUBLICADA NO
+    DR.IS-B, 79.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-05'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381286:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:25:20Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +142,11 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Ob
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 28 de Março de 1988.**
+Assinada em 28 de Março de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Eduardo Perestrello Correia de Matos, Secretário de Estado dos Transportes Exteriores e das Comunicações.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/08600/14301432.pdf))](https://files.diariodarepublica.pt/1s/1988/04/08600/14301432.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/08600/14301432.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 

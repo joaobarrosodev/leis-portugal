@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/332-1988-374468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T09:28:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b03a049211bdf57b0ebb79ec7464846d362a4b86c7ae497afd1f3df8f8c92431
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca72627fbb5fa5954ee3de596393cab072dc86c0e10b60af97369b8c765ebc31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:28:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CP
+- Gabinete da Área de Sines
+- Propriedade do Estado
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:665770:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:28:06Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +99,9 @@ Manda o Governo, pelos Ministros das Finanças, do Planeamento e da Administraç
 
 Ministérios das Finanças, do Planeamento e da Administração do Território e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 12 de Maio de 1988.**
+Assinada em 12 de Maio de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
 ## ANEXO I — Complexo ferroviário da área de Sines
 
@@ -151,7 +159,7 @@ Afecta uma área de (60 x 839,84) m2, cujo eixo é definido pelos pontos do quad
 
 Do QUADRO I ao QUADRO IX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf)
 
 ## ANEXO II — Complexo ferroviário da área de Sines
 
@@ -171,16 +179,16 @@ QUADRO X
 
 Ramal da Ortiga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf)
 
 QUADRO XI
 
 Ramal de acesso à central termoeléctrica da EDP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf)
 
 QUADRO XII
 
 Gare intermédia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12200/22532260.pdf)

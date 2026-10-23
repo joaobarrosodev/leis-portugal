@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/00400/00340034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/10-1988-583458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T09:22:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bc4e0060df493c8483cd28a71eb6b2e9aa91f7bfebfa4c51f3d98f362f2b511
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94cd728975fa6d11d0d7bc88d912539d66f856a6265681211f2f8fefe7ddec4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:22:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Batata
+- Margens de Comercialização
 relationships:
 - type: amended_by
   target: pt:dre:313782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:483457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:313782:por
+  label: "Revogada pela PORT.26/90.11.01.1990.MCT, DR.IS [9] de 11.01.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-1990-313782
+  date: '1990-01-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:22:13Z'
   warnings: []
   errors: []
 ---
@@ -101,6 +116,6 @@ Manda o Governo da República Portuguesa, pelo Ministro do Comércio e Turismo, 
 
 Ministério do Comércio e Turismo.
 
-**Assinada em 18 de Dezembro de 1987.**
+Assinada em 18 de Dezembro de 1987.
 
-**O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.**
+O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

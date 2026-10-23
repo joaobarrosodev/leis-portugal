@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 107/1988, 1º Suplemento, Série I de 1988-05-09
   number: '107'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1978-(2) a 1978-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/10701/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/290-1988-413189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T09:27:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f8b7cf888fc8aa46fe062f8ad8db37ec2aa6e5507b4db37216381bb235eaa85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59a0546c37ab4e6b05e4326606f33acb71a347b2ace24f01c27a64b25c01d15e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:27:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comparticipação do Estado
+- Medicamento
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:330252:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547613:por
+  label: "Alterado o escalão A da tabela anexa ao presente diploma, pela PORT.822/89.15.09.1989.MS, DR.IS [213] de 15.09.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/822-1989-547613
+  date: '1989-09-15'
+- type: amended_by
+  target: pt:dre:674631:por
+  label: "Alterados os escalões A e C da tabela anexa ao presente diploma, pela PORT.839/91.16.08.1991.MF, DR.IS-B [187] de\
+    \ 16.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-1991-674631
+  date: '1991-08-16'
+- type: cites
+  target: pt:dre:373609:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:330252:por
+  label: "Revogada pela PORT.743/93.16.08.1993.MS, DR.IS-B [191] de 16.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/743-1993-330252
+  date: '1993-08-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:27:00Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +118,9 @@ Nos termos referidos no artigo 3.º do [Decreto-Lei n.º 157/88](https://diariod
 
 Ministério da Saúde.
 
-**Assinada em 4 de Maio de 1988.**
+Assinada em 4 de Maio de 1988.
 
-**A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Tabela anexa à Portaria n.º 290/88, de 9 de Maio, a que se refere o artigo 3.º do [Decreto-Lei n.º 157/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1988-373609), de 4 de Maio
 

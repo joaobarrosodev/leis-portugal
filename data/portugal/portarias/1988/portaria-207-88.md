@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/07600/13251325.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/207-1988-286308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T09:25:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 619bbe8a085becf60ca799d4d9bff1a654106a5e7f74d88a0ccd13a96ad7f3cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d43c5dd987a2ccb238f2c6023864f88d91ff8f9b3f3c1c7d19f52ef62c323191
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:25:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Região de Turismo do Centro
+- Soure
+- Turismo
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19930315 - REVOGADA PELO DECRETO LEI 82/93, DE 15 DE MARCO, PUBLICADO NO DR.IS-A, 62.\0 62."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:311460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397771:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:25:00Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +108,6 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Turismo,
 
 Ministério do Comércio e Turismo.
 
-**Assinada em 14 de Março de 1988.**
+Assinada em 14 de Março de 1988.
 
-**O Secretário de Estado do Turismo, Licínio Alberto de Almeida Cunha.**
+O Secretário de Estado do Turismo, Licínio Alberto de Almeida Cunha.

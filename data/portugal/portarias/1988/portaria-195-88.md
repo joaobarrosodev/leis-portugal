@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/195-1988-286365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T09:24:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7da3dab47bb14f6e781608be33232a7233d5fb77ce009eb25e8b91494f8a83c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 792852f4fc8eed63dc794d8f1ab2f920ad8ef3c7c4b24d3e49031b319f95ef91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:24:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproveitamento Hidroagrícola
+- Pedap
+- Programa de Pequenos Regadios Individuais
+- Subsídio a Agricultores
 relationships:
 - type: amended_by
   target: pt:dre:516888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613183:por
+  label: "Alterados os n.ºs 6.º e 8.º, pela PORT.185/89.06.03.1989.MAPA, DR.IS [54] de 06.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/185-1989-613183
+  date: '1989-03-06'
+- type: amended_by
+  target: pt:dre:516888:por
+  label: "Alterados os n.ºs 2.º, 3.º e 8.º, na redacção da Portaria n.º 185/89, de 6 de Março, pela PORT.454/92.01.06.1992.SEAG-MA,\
+    \ DR.IS-B [126] de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/454-1992-516888
+  date: '1992-06-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:24:40Z'
   warnings: []
   errors: []
 ---
@@ -158,6 +173,6 @@ b) Em projectos envolvendo investimento inferior a 1000 contos, o pagamento das 
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 24 de Fevereiro de 1988.**
+Assinada em 24 de Fevereiro de 1988.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques Cunha, Secretário de Estado Adjunto do Ministro da Agricultura, Pescas e Alimentação.

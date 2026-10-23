@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12200/22602261.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/333-1988-374470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T09:28:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2875bb3c0354579078685e491c1bfbea80bf0a9497c535d32e9a5486aa45f7ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1eb70636f1a2be022d8f918e96b10bd00fd26530c640b8971dd9b9ebbf35de3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:28:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Circulação de Mercadorias
+- Contingentação
+- Direcção Geral da Indústria
+- Direcção Geral das Alfândegas
+- Importação
 relationships:
 - type: amended_by
   target: pt:dre:575276:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147614:por
+  label: "Dada nova redacção aos nºs 5º e 11º pela PORT.66-A/89.30.01.1989.MF, DR.IS [25-Supl] de 30.01.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/66-a-1989-147614
+  date: '1989-01-30'
+- type: cites
+  target: pt:dre:285316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627194:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:575276:por
+  label: "Revogada pela PORT.455/90.20.06.1990.MF, DR.IS [140] de 20.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/455-1990-575276
+  date: '1990-06-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:28:10Z'
   warnings: []
   errors: []
 ---
@@ -163,6 +191,6 @@ c) Facturas (com a indicação dos respectivos bilhetes de despacho utilizados) 
 
 Ministérios das Finanças, da Indústria e Energia e do Comércio e Turismo.
 
-**Assinada em 13 de Maio de 1988.**
+Assinada em 13 de Maio de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Indústria e Energia, Luís Fernando Miro Amaral. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Indústria e Energia, Luís Fernando Miro Amaral. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.

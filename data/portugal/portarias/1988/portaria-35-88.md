@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01300/01730173.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/35-1988-283528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T09:28:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 826bf2305f372d99abc8f5684a81a3e28085a82da10985400b4b3418fb7b0e0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e42ac852647c0025755e3d973a96d9204c69c6e16693c0eba88364fd0751fb4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:28:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Oncologia
+- Coimbra
+- Criação de Serviços
+- Instituto Português de Oncologia de Francisco Gentil
+- Lisboa
+- Porto
+- Registo Oncológico
+- Serviço de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:107692693:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598109:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107692693:por
+  label: Revogada a partir de 01.01.2018 pelo(a) Lei n.º 53/2017 - Diário da República n.º 135/2017, Série I de 2017-07-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2017-107692693
+  date: '2017-07-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:28:36Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +146,6 @@ Manda o Governo da República Portuguesa, pela Ministra da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 15 de Dezembro de 1987.**
+Assinada em 15 de Dezembro de 1987.
 
-**A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.

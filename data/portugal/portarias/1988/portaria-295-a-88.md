@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 108/1988, 1º Suplemento, Série I de 1988-05-10
   number: '108'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1986-(3) a 1986-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/10801/00030011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/295-a-1988-348533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:27:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5d17f16e7bea9e255be2a3a69b40d72497c3cf24bc8fc191ee454997ce58c17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba8c1b6a0b1ab315fc22d61cd8e725a587c1bbbd8844612ff7b2ae6547b45673
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:27:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acção Financeira
+- Bolsa de Valores
+- Cotação na Bolsa
+- Mercado de Títulos
+- Mercado de Valores
+- Obrigações
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:322323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:283476:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogada pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.199, a partir da data de sua entrada em\
+    \ vigor, e sem prejuízo dos regimes transitórios nele previstos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
   article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:27:10Z'
   warnings: []
   errors: []
 ---
@@ -268,9 +285,9 @@ b) Os documentos supracitados devem mencionar a existência de um prospecto e in
 
 Ministério das Finanças.
 
-**Assinada em 6 de Maio de 1988.**
+Assinada em 6 de Maio de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
 ## ANEXO A — Esquema de prospecto para a admissão da acções à cotação oficial numa bolsa de valores
 
@@ -374,7 +391,7 @@ Modalidades do pagamento do preço, nomeadamente quanto à liberação de acçõ
 
 3.2.0 - Montante do capital subscrito, quantidade e categorias de acções que o representam, com menção das suas principais características.
 
-# Parte do capital subscrito ainda não liberado, com indicação da quantidade e do valor nominal global e da natureza das acções ainda não integralmente liberadas, discriminadas, se for caso disso, segundo o seu grau de liberação.
+Parte do capital subscrito ainda não liberado, com indicação da quantidade e do valor nominal global e da natureza das acções ainda não integralmente liberadas, discriminadas, se for caso disso, segundo o seu grau de liberação.
 
 3.2.1 - Se existir um capital autorizado, mas não emitido, ou um compromisso de aumentar o capital, nomeadamente em caso de emissão de empréstimos convertíveis ou de concessão de opções de subscrição, indicação:
 
@@ -680,7 +697,7 @@ Indicação dos locais onde o público pode consultar os textos dos contratos re
 
 3.2.0 - Montante do capital subscrito e quantidade e categorias de títulos que representam, com menção das suas principais características.
 
-# Parte do capital subscrito ainda não liberado, com indicação da quantidade e do valor nominal global e da natureza das acções ainda não integralmente liberadas, discriminadas, se for caso disso, segundo o seu grau de liberação.
+Parte do capital subscrito ainda não liberado, com indicação da quantidade e do valor nominal global e da natureza das acções ainda não integralmente liberadas, discriminadas, se for caso disso, segundo o seu grau de liberação.
 
 3.2.1 - Montante das obrigações convertíveis ou com warrants, com indicação das condições e modalidades de conversão ou de subscrição.
 

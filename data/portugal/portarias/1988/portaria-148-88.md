@@ -48,36 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/148-1988-287396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T09:23:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59c1de3e2eea73ffb023281b214ef80b5c3b275448336f9bd3ced34de584f6d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb394cec8cbc0dfa557ce8c01093d67ebda3c431d04b615a980e364c9392ac68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:23:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Biologia
+- Curso de Matemática
+- Ensino Superior
+- Faculdade de Ciências
+- Licenciatura
+- Universidade do Porto
+relationships:
+- type: cites
+  target: pt:dre:442928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567908:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:23:24Z'
   warnings: []
   errors: []
 ---
@@ -174,11 +204,11 @@ Aplicação
 
 Ministério da Educação.
 
-**Assinada em 19 de Fevereiro de 1988.**
+Assinada em 19 de Fevereiro de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-## Anexo I à [Portaria n.º 1031/81](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1981-567908) (alteração)
+Anexo I à [Portaria n.º 1031/81](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1981-567908) (alteração)
 
 Curso de licenciatura em Biologia
 
@@ -226,7 +256,7 @@ d) Química ... 13,5
 
 e) Geologia ...13,5
 
-## Anexo III à [Portaria n.º 1031/81](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1981-567908) (alteração)
+Anexo III à [Portaria n.º 1031/81](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1981-567908) (alteração)
 
 Curso de licenciatura em Biologia
 
@@ -276,7 +306,7 @@ e) Geologia ... 3,5
 
 5 - Nos termos dos n.os 16 e 17 do [Despacho Normativo n.º 323/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/323-1980-462199), de 6 de Outubro, o curso inclui igualmente um estágio profissionalizante e um seminário, ambos com carácter facultativo e com a duração máxima de dois semestres.
 
-## Anexo IV à [Portaria n.º 1031/81](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1981-567908) (alteração)
+Anexo IV à [Portaria n.º 1031/81](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1981-567908) (alteração)
 
 Curso de licenciatura em Biologia
 
@@ -318,7 +348,7 @@ d) Mineralogia-Geologia ...4
 
 4.3 - Monografia ... 4
 
-## Anexo IV-A à [Portaria n.º 1031/81](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1981-567908) (aditamento)
+Anexo IV-A à [Portaria n.º 1031/81](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1981-567908) (aditamento)
 
 Curso de licenciatura em Biologia
 
@@ -368,7 +398,7 @@ e) Geologia ... 3,5
 
 5 - Nos termos dos n.os 16 e 17 do Despacho n.º 323/80, de 6 de Outubro, o curso inclui igualmente um estágio profissionalizante e um seminário, ambos com carácter facultativo e com a duração máxima de dois semestres.
 
-## Anexo XV à [Portaria n.º 1031/81](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1981-567908) (alteração)
+Anexo XV à [Portaria n.º 1031/81](https://diariodarepublica.pt/dr/detalhe/portaria/1031-1981-567908) (alteração)
 
 Curso de licenciatura em Matemática
 
