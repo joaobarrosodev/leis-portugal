@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/27800/52895290.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1042-1989-550791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T09:42:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09ee7392011c20e8b9d24bb1fc4020c7dadf815b044ed9eb7ea24f7064685728
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c5a234c20e63a04bbdf9a30c83501d6fd2b9b20e2cb92baeb3e2a3f22c1cdac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:42:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Embarcação de Pesca
+- Embarcação de Tráfego Local
+- Gratificação
+- Lotação
+- Marinha Mercante
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:669805:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:374829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612815:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669805:por
+  label: "Revogada pelo DEC LEI.355/93.09.10.1993.MM, DR.IS-A [237] de 09.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-1993-669805
+  date: '1993-10-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:42:49Z'
   warnings: []
   errors: []
 ---
@@ -147,6 +167,6 @@ c) Aos montantes referidos nas alíneas anteriores será acrescida a importânci
 
 Ministérios da Defesa Nacional, das Finanças, da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 20 de Novembro de 1989.**
+Assinada em 20 de Novembro de 1989.
 
 Pelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional. - Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Eduardo Perestrello Correia de Matos, Secretário de Estado dos Transportes Exteriores e das Comunicações.

@@ -48,40 +48,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/381-1988-372182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T09:29:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35e7b7666d18b01972c2c23c561c03771ca77d83560d51de99726aefa9f6097d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2aca4327ffe4b1eee05748820fb514d387c1422cd2c65a430d28ea0875b29fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:29:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda à Modernização
+- Apoio ao Investimento
+- Benefícios Fiscais
+- Comissão de Acompanhamento
+- Comissão de Análise
+- Comissão de Coordenação da Região Centro
+- Comparticipação do Estado
+- Criação de Serviços
+- Definição de Competências
+- Desenvolvimento Industrial
+- Direcção Geral da Indústria
+- Direcção Geral da Segurança Social
+- Direcção Geral das Contribuições e Impostos
+- Direcção Geral das Relações Colectivas de Trabalho
+- Empresa
+- Financiamento
+- IAPMEI
+- ICEP
+- Indústria de Lanifícios
+- Instituto de Gestão Financeira da Segurança Social
+- Instituto de Investimento Estrangeiro
+- Instituto do Emprego e Formação Profissional
+- Instituto dos Têxteis
+- Ministério da Indústria e Energia
+- Ministério do Comércio e Turismo
+- Ministério do Emprego e da Segurança Social
+- Política Industrial
+- Projeto de Investimento
+- Reestruturação Industrial
+- Sector Industrial
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:625651:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:625651:por
+  label: "Alterada a al d) do nº 1 do nº 10º e o nº 11º e revogado o nº 13º pela PORT.311/89.1989.04.26.MF, DR.IS [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-1989-625651
+  date: '1989-04-26'
+- type: cites
+  target: pt:dre:219119:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:29:21Z'
   warnings: []
   errors: []
 ---
@@ -380,6 +420,6 @@ A presente portaria vigorará até 31 de Dezembro de 1990, exceptuado o n.º 3 d
 
 Ministérios das Finanças, do Planeamento e da Administração do Território, da Indústria e Energia, do Emprego e da Segurança Social e do Comércio e Turismo.
 
-**Assinada em 27 de Maio de 1988.**
+Assinada em 27 de Maio de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

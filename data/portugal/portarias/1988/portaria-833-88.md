@@ -47,40 +47,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/833-1988-353763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:41:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b3a152575c120b797364c33bfba3e18b2c0276619e33c5c5339b8092ce3024d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55654ffc66abbae405050eeeda3ba9b3d746e3be384ec29bfd423f2c29ad25e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:41:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Grândola
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:306673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616258:por
+  label: "Alterado o perímetro sujeito ao regime cinegético especial pela PORT.322/91.1991.04.10.MAPA DR.IS-B [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-1991-616258
+  date: '1991-04-10'
+- type: amended_by
+  target: pt:dre:140087:por
+  label: "Renovada, pelo período de seis anos, a presente concessão pela PORT.63/95.1995.01.26.MA DR.IS-B [22]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/63-1995-140087
+  date: '1995-01-26'
+- type: amended_by
+  target: pt:dre:621356:por
+  label: "Renovada, por um período de dez anos, a presente concessão pela PORT.1054/2000.2000.10.30.MADRP DR.IS-B [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1054-2000-621356
+  date: '2000-10-30'
+- type: amended_by
+  target: pt:dre:140799:por
+  label: "Anexados vários prédios rústicos à presente zona de caça associativa pela PORT.755/2002.2002.06.28.MADRP DR.IS-B\
+    \ [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/755-2002-140799
+  date: '2002-06-28'
+- type: amended_by
+  target: pt:dre:487366:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterada pela Port 322/91 de\
+    \ 10-Abr, renovada pelas Ports 63/95 de 26-Jan e 1054/2000 de 30-Out e alterada pela Port 755/2002 de 28-Jun, pela PORT.1254/2005.30.11.2005.MADRP,\
+    \ DR.IS-B [230] de 30.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1254-2005-487366
+  date: '2005-11-30'
+- type: amended_by
+  target: pt:dre:306673:por
+  label: "Renovada, por um período de 10 anos, a concessão da zona de caça associativa criada pela presente portaria, na redacção\
+    \ das portarias 322/91, de 10-Abr, 755/2002, de 28-Jun e 1254/2005, de 30-Nov, e anexados vários prédios rústicos à mesma\
+    \ zona de caça pela PORT.1209/2010.30.11.2010.MADRP, DR.IS [232] de 30.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1209-2010-306673
+  date: '2010-11-30'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:41:04Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +163,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 9 de Dezembro de 1988.**
+Assinada em 9 de Dezembro de 1988.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/30100/51425142.pdf))](https://files.diariodarepublica.pt/1s/1988/12/30100/51425142.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/30100/51425142.pdf)

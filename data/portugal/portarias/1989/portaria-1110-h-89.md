@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 297/1989, 1º Suplemento, Série I de 1989-12-28
   number: '297'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5622-(11) a 5622-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1110-h-1989-284890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:44:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 548184de23df5622f19811e03a935800454aef36f6a24d1097cd0fd3ec30a87f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17729c621da03d00b302bdd7a7c83c9d6aad5700b070ca49e0514e0249e369fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:44:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abastecimento de Água
+- EPAL
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:204810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580368:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480973:por
+  label: "REVOGADA PELA PORTARIA 1221-B/90, PUBLICADA NO DR.IS, 291, SUPL, DE 901219.\019.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1221-b-1990-480973
+- type: repealed_by
+  target: pt:dre:480973:por
+  label: "Revogada pela PORT.1221-B/90.19.12.1990.MARN, DR.IS [291]2SUPL de 19.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1221-b-1990-480973
+  date: '1990-12-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:44:30Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +122,9 @@ Manda o Governo, pelo Ministro do Planeamento e da Administração do Territóri
 
 1.º As tarifas de abastecimento de água praticadas pela EPAL compreendem uma parte fixa, denominada «quota de serviço», e uma parte variável, que depende dos volumes de água abastecidos.
 
-2.º O valor mensal da quota de serviço para as instalações providas de contador simples é o que resulta da fórmula K [([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf), sendo K igual a 5 e [([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf) o calibre do contador, expresso em milímetros (considerando-se como mínimo o calibre de 15 mm), arredondado para a dezena de escudos imediatamente superior.
+2.º O valor mensal da quota de serviço para as instalações providas de contador simples é o que resulta da fórmula K [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf), sendo K igual a 5 e [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf) o calibre do contador, expresso em milímetros (considerando-se como mínimo o calibre de 15 mm), arredondado para a dezena de escudos imediatamente superior.
 
-3.º O valor mensal da quota de serviço para as instalações providas de contadores que não os simples é o que resulta da fórmula K [([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf), sendo K igual a 1,75 e [([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf) o calibre do contador, expresso em milímetros, arrendondado para a dezena de escudos imediatamente superior.
+3.º O valor mensal da quota de serviço para as instalações providas de contadores que não os simples é o que resulta da fórmula K [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf), sendo K igual a 1,75 e [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf) o calibre do contador, expresso em milímetros, arrendondado para a dezena de escudos imediatamente superior.
 
 4.º A quota de serviço inclui a cedência do contador da EPAL, pelo que as referências feitas na [Portaria n.º 10716](https://diariodarepublica.pt/dr/detalhe/portaria/10716-1944-549867), de 24 de Julho de 1944, ao aluguer de contadores, designadamente as dos artigos 54.º, 62.º e 65.º, são substituídas pela expressão «quota de serviço».
 
@@ -124,9 +148,9 @@ c) Nos casos em que a leitura do contador é habitualmente plurimestral, só se 
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 28 de Dezembro de 1989.**
+Assinada em 28 de Dezembro de 1989.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
 
 ## ANEXO
 
@@ -156,10 +180,10 @@ MAPA I
 
 Preços de venda de água a consumidores directos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf)
 
 MAPA II
 
 Preços de venda de água a municípios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29701/00110012.pdf)

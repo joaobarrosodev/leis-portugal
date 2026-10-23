@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/661-1988-355573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T09:36:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b45064d345bd3ba2c1cda96c74ff9b4c542ae265ca4074d615221ca4bf3ad020
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e349fe215aae68026e523aac6db9923425ea2d5eb90c5fedcad85a778ad1295
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:36:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Política Agrícola Comum
+- Produção Vegetal
+- Proteção Fitossanitária
+- Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:500191:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:556069:por
+  label: "Alterados os anexos I, II III, IV e V pela PORT.968/90.10.10.1990.MAPA, DR.IS [234] de 10.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/968-1990-556069
+  date: '1990-10-10'
+- type: amended_by
+  target: pt:dre:168815:por
+  label: "Alterados os anexos I, II, III e IV pela PORT.128/92.29.02.1992.MA, DR.IS-B [51] de 29.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-1992-168815
+  date: '1992-02-29'
+- type: amended_by
+  target: pt:dre:288413:por
+  label: "Alterados os anexos II, IV e V pela PORT.716/92.13.07.1992.MA, DR.IS-B [159] de 13.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/716-1992-288413
+  date: '1992-07-13'
+- type: amended_by
+  target: pt:dre:500191:por
+  label: "Alterado o n.º 3.º pela PORT.72/94.02.02.1994.MA, DR.IS-B [27] de 02.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-1994-500191
+  date: '1994-02-02'
+- type: cites
+  target: pt:dre:355567:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:199616:por
+  label: Rectificada pela DECL.DD4116.31.12.1988.PCM, DR.IS [302]5ºSupl de 31.12.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-199616
+  date: '1988-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:36:18Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +143,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 30 de Setembro de 1988.**
+Assinada em 30 de Setembro de 1988.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
 ## ANEXO I — Organismos prejudiciais cuja introdução é proibida no País
 
@@ -329,15 +363,15 @@ Arceuthobium spp. (espécies não europeias).
 
 ## ANEXO II — Vegetais e produtos vegetais cuja introdução no País é proibida se contaminados pelos organismos prejudiciais referidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf)
 
 ## ANEXO III — Vegetais, produtos vegetais e outros objectos cuja introdução no País é proibida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf)
 
 ## ANEXO IV — Exigências particulares requeridas para introdução no País de vegetais, produtos vegetais e outros objectos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf)
 
 ## ANEXO V
 
@@ -449,8 +483,8 @@ b) Meio de cultura aderente ou associado a vegetais, constituído, no todo ou em
 
 ## ANEXO VI — Modelo de certificado fitossanitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf)
 
 ## ANEXO VII — Modelo de certificado fitossanitário de reexportação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22700/40044030.pdf)

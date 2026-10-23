@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 152/1988, 1º Suplemento, Série I de 1988-07-04
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2732-(26) a 2732-(29)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15201/00260029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-d-1988-644320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:30:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b7f50bd5b0a2692b80c0f945bd638c23d8c70583025000a68bd05c90691f488
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e81f09f6aa6bbf581074e9844cf037e1de64f844fdc5e59f7447ff839b04ae58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:30:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acção Financeira
+- Bolsa de Valores
+- Mercado de Valores
+- Obrigações
+- Sociedade Parabancária
+- Valores Mobiliários
+relationships:
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "REVOGADA PELO DECRETO LEI 142-A/91, DE 10 DE ABRIL, PUBLICADO NO DR.IS-A, 83, SUPL, DE 910410.\010410.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogada pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.1991, a partir da data da sua entrada em\
+    \ vigor, e sem prejuízo dos regimes transitórios nele previstos.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:30:26Z'
   warnings: []
   errors: []
 ---
@@ -228,6 +244,6 @@ d) No caso de a cotação oficial se referir a obrigações convertíveis, obrig
 
 Ministério das Finanças.
 
-**Assinada em 4 de Julho de 1988.**
+Assinada em 4 de Julho de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

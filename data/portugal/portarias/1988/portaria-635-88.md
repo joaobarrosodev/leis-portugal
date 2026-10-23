@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/21400/37923798.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/635-1988-355951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:35:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a6899ed4a28f6d297c8107a9bb146e0601d8d7b998c0964332432e0dd616bfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 708941a866000ffdee40715dbd145e7917b0f7da6410aac3e0315c6c0885913e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:35:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Estudos Superiores Especializados em Engenharia Electrotécnica-Controlo Industrial
+- Curso de Estudos Superiores Especializados em Engenharia Mecânica-gestão da Produção
+- Curso de Estudos Superiores Especializados em Engenharia Química-gestão de Energia na Indústria Química
+- Ensino Superior Politécnico
+- Instituto Superior de Engenharia
+- Licenciatura
+- Plano de Estudos
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:391648:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:218566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:519073:por
+  label: Rectificada pela DECL.DD4078.1988.11.14.PCM DR.IS [277]4ºSupl de 30.11.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-519073
+  date: '1988-11-14'
+- type: repealed_by
+  target: pt:dre:544126:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 14-Jul, na parte em que autorizou o Instituto Superior de Engenharia do Porto a conferir o diploma de estudos superiores\
+    \ especializados em Engenharia Electrotécnica-Controlo Industrial pela PORT.964/2000.2000.10.10.ME,DR.IS-B [234] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/964-2000-544126
+  date: '2000-10-10'
+- type: repealed_by
+  target: pt:dre:391648:por
+  label: "Revogada, findo o processo de transição fixado no art.31º do Regulamento dos Cursos Bietápicos de Licenciatura,\
+    \ pela PORT.1557/2002.2002.12.30.MCES, DR.IS-B [301]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1557-2002-391648
+  date: '2002-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:35:37Z'
   warnings: []
   errors: []
 ---
@@ -476,7 +518,7 @@ Cada curso entrará em funcionamento no ano lectivo que for determinado por desp
 
 Ministério da Educação.
 
-**Assinada em 23 de Agosto de 1988.**
+Assinada em 23 de Agosto de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -488,7 +530,7 @@ Diploma de estudos superiores especializados
 
 Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21400/37923798.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21400/37923798.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21400/37923798.pdf)
 
 ## ANEXO II — Instituto Superior de Engenharia do Porto
 
@@ -498,7 +540,7 @@ Diploma de estudos superiores especializados
 
 Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21400/37923798.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21400/37923798.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21400/37923798.pdf)
 
 ## ANEXO III — Instituto Superior de Engenharia do Porto
 
@@ -508,7 +550,7 @@ Diploma de estudos superiores especializados
 
 Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21400/37923798.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21400/37923798.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21400/37923798.pdf)
 
 ## ANEXO IV — Diploma
 
@@ -518,9 +560,9 @@ R (ver nota a) P
 
 Instituto Superior de Engenharia do Porto, ... (ver nota i).
 
-**O Presidente do Conselho Directivo, ... (ver nota j).**
+O Presidente do Conselho Directivo, ... (ver nota j).
 
-**O Secretário, ... (ver nota l).**
+O Secretário, ... (ver nota l).
 
 (nota a) Símbolo do Instituto Superior de Engenharia do Porto.
 
@@ -552,9 +594,9 @@ R (ver nota a) P
 
 Instituto Superior de Engenharia do Porto, ... (ver nota l).
 
-**O Presidente do Conselho Directivo, ... (ver nota m).**
+O Presidente do Conselho Directivo, ... (ver nota m).
 
-**O Secretário, ... (ver nota n).**
+O Secretário, ... (ver nota n).
 
 (nota a) Símbolo do Instituto Superior de Engenharia do Porto.
 

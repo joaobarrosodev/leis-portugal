@@ -46,40 +46,120 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/750-1988-357755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T09:38:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12e874ca5fceb8e19efe247fadf2bb8fe334824589e37fe6943b7daf17b72e55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa7bc43b84e932dc541fea368a2547a100c53fc0879b2f63311d9a9c9bf31210
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:38:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Informática
+- Faculdade de Ciências e Tecnologia
+- Faculdade de Direito
+- Faculdade de Economia
+- Faculdade de Farmácia
+- Faculdade de Letras
+- Faculdade de Medicina
+- Faculdade de Psicologia e de Ciências da Educação
+- Observatório Astronómico
+- Pessoal não Docente
+- Quadro de Pessoal
+- Reitoria
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:232772:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ADITADO O QUADRO DE PESSOAL CONSTANTE DOS MAPAS ANEXOS, PELA PORT 271/94 DE 07-MAI DR.IS-B [106]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DA FACULDADE DE DIREITO DA UNIVERSIDADE DE COIMBRA, CONSTANTE DO MAPA ANEXO, PELA PORT\
+    \ 184/96 DE 30-MAI DR.IS-B [126] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-05-30'
+- type: amended_by
+  target: pt:dre:444877:por
+  label: "Alterado o quadro de pessoal da Faculdade de Direito da Universidade de Coimbra, constante do mapa anexo ao presente\
+    \ diploma, pela PORT.184/96.30.05.1996.PCM, DR.IS-B [126] de 30.05.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-1996-444877
+  date: '1996-05-30'
+- type: amended_by
+  target: pt:dre:232772:por
+  label: "Alterado o quadro de pessoal da Faculdade de Letras da Universidade de Coimbra, pela PORT.549/96.07.10.1996.PCM,\
+    \ DR.IS-B [232] de 07.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/549-1996-232772
+  date: '1996-10-07'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662730:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:38:38Z'
   warnings: []
   errors: []
 ---
@@ -106,8 +186,8 @@ d) Dos mapas anexos às Portarias n.os [567/80](https://diariodarepublica.pt/dr/
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 2 de Novembro de 1988.**
+Assinada em 2 de Novembro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/26800/46324651.pdf))](https://files.diariodarepublica.pt/1s/1988/11/26800/46324651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/26800/46324651.pdf)

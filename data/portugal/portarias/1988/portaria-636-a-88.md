@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 214/1988, 1º Suplemento, Série I de 1988-09-15
   number: '214'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3802-(2) a 3802-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/21401/00020002.pdf
 entry_into_force_dates: []
@@ -48,40 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/636-a-1988-529441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T09:35:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02c7511862acc2e19ae4834888c0bb8f5320697bc6a35eeb5d5f7515523ac2a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 377cc428fce212000a7743f2480a56446cf469ed450dff89d9d2425d81a8d3b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:35:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Almeirim
+- CAÇA
+- Chamusca
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:233958:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:290664:por
+  label: "Alterado o nº 2º, pela PORT.536/94.08.07.1994.MA, DR.IS-B [156] de 08.07.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/536-1994-290664
+  date: '1994-07-08'
+- type: amended_by
+  target: pt:dre:621506:por
+  label: "Renovada, por um período de nove anos, a concessão da zona de caça atribuída pelo presente diploma, alterado pela\
+    \ Port 536/94, de 08-Jul, pela PORT.65/96.01.03.1996.MADRP, DR.IS-B [52] de 01.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-1996-621506
+  date: '1996-03-01'
+- type: amended_by
+  target: pt:dre:233958:por
+  label: "Renovada, por um periodo de seis anos, a concessão da zona de caça, concessionada pelo presente diploma, renovada\
+    \ pela Port 65/96 de 01-Mar, pela PORT.555/2005.24.06.2005.MADRP, DR.IS-B [120] de 24.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/555-2005-233958
+  date: '2005-06-24'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:35:37Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +147,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 8 de Setembro de 1988.**
+Assinada em 8 de Setembro de 1988.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21401/00020002.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21401/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21401/00020002.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/23900/42184220.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/695-1988-354953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T09:37:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bbf52f7af1a1bb62ca38134a17edb60f008f2e47bacb39c369f0cab9221c167
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7197782efb84714e4dfc02bc10c592160ebc00958aea0eaae5591711d3674129
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:37:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento
+- Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada
+- Transporte de Mercadorias
+- Transporte de Mercadorias Perigosas
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:457066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:457066:por
+  label: "Revogada, pelo DEC LEI.77/97.1997.04.05.MEPAT, DR.IS-A [80], na data da entrada em vigor da Port prevista no num\
+    \ 4 do art 1º desse diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1997-457066
+  date: '1997-04-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:37:13Z'
   warnings: []
   errors: []
 ---
@@ -186,6 +217,6 @@ Especialização V - Produtos químicos (restantes matérias das varias classes)
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 20 de Setembro de 1988.**
+Assinada em 20 de Setembro de 1988.
 
-**O Secretário de Estado dos Transportes Interiores, Carlos Alberto Pereira da Silva Costa.**
+O Secretário de Estado dos Transportes Interiores, Carlos Alberto Pereira da Silva Costa.

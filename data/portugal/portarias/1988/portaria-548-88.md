@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/18700/33693370.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/548-1988-376834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T09:33:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16a60924136bb2e400aec8765ee9c706b02fbbdcdd973fc20d30811cda2100b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 054b738a746b02ec8f606b90100bc1defa9c4b61854003936dc4a6126c9739b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:33:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Medicamento
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:333525:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611557:por
+  label: "Prorrogado o prazo previsto no n.º 5.º pela PORT.336/89.12.05.1989.MF, DR.IS [109] de 12.05.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/336-1989-611557
+  date: '1989-05-12'
+- type: cites
+  target: pt:dre:183618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333525:por
+  label: "Revogada pela PORT.29/90.13.01.1990.MF, DR.IS [11] de 13.01.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-1990-333525
+  date: '1990-01-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:33:36Z'
   warnings: []
   errors: []
 ---
@@ -142,6 +178,6 @@ b) Para a farmácia: margem de 20% calculada sobre o preço de venda ao público
 
 Ministérios das Finanças, da Indústria e Energia, da Saúde e do Comércio e Turismo.
 
-**Assinada em 30 de Junho de 1988.**
+Assinada em 30 de Junho de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

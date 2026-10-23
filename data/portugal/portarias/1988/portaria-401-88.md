@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/401-1988-371585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T09:29:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 417b86c12fda373382c82d0c0fbad2b34defbd595df1dd8e62e24be726da91cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3996d32e3a98fd825f757b20531c213a18ee0f20cf56bae22ee03c89f1248879
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:29:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Direcção Geral dos Serviços Prisionais
+- Estabelecimento Prisional
+- Pessoal Técnico Auxiliar de Diagnóstico e Terapêutica
+- Pessoal Técnico de Diagnóstico e Terapêutica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:29:55Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +123,7 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, o seguinte:
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 19 de Maio de 1988.**
+Assinada em 19 de Maio de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Justiça, Joaquim Fernando Nogueira.
 
@@ -113,4 +131,4 @@ Mapa a que se refere o n.º 1.º da Portaria n.º 401/88
 
 Pessoal técnico de diagnóstico e terapêutica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/06/14400/25872587.pdf))](https://files.diariodarepublica.pt/1s/1988/06/14400/25872587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/14400/25872587.pdf)

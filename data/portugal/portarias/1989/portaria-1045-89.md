@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1045-1989-550796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T09:42:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 587ab3b92c39df3a977114077d5bf51e10e288fa1b05d4adf38abef3222a31ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d59be2a449d8681f0dd4509a56f2e0a82659d0f6da7d2d005b8b6067a0f8d527
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:42:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Quadro de Pessoal
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:176511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176511:por
+  label: "Revogada, no que se refereaos serviços dos registos predial e comercial de Cascais, pela PORT.273/98.1998.04.29.MJ,\
+    \ DR.IS-B [999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/273-1998-176511
+  date: '1998-04-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:42:49Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +116,7 @@ b) É criada a 3.ª Conservatória dos Registos Predial e Comercial de Cascais, 
 
 2.º O quadro de oficiais de cada uma das referidas Conservatórias é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/27800/52925293.pdf))](https://files.diariodarepublica.pt/1s/1989/12/27800/52925293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/27800/52925293.pdf)
 
 3.º A área de competência territorial de cada uma das mencionadas Conservatórias é a seguinte:
 
@@ -120,6 +136,6 @@ Faro, Feira, Felgueiras, Guimarães, Matosinhos, Oliveira de Azeméis, Ovar, Pon
 
 Ministério da Justiça.
 
-**Assinada em 17 de Novembro de 1989.**
+Assinada em 17 de Novembro de 1989.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

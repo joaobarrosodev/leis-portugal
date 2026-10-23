@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1989-611482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T09:44:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7072ec4a5e3cc1b23ab34f9ce5b0d600e05ec06888060fce28eb97837a489c7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dfebccfa2c7374da31ef0091b87fcc407e0347c0ae62b5f328bf6a69ec8a89f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:44:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola de Enfermagem de Bissaya Barreto
+- Pessoal Auxiliar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:673790:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673790:por
+  label: "Substituido o quadro de pessoal da Escola Superior de Enfemagem de Bissaya Barreto, aprovado pelo Dec Lei 151/88,\
+    \ de 28-Abr DR.IS [98], na redacção do presente diploma e das Ports. 127/92, de 29-Fev e 818/94, de 16-Set, pela PORT.861/99.1999.10.08.PCM\
+    \ DR.IS-B [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/861-1999-673790
+  date: '1999-10-08'
+- type: cites
+  target: pt:dre:285477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:44:05Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +114,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 16 de Janeiro de 1989.**
+Assinada em 16 de Janeiro de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal da Escola de Enfermagem de Bissaia Barreto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/03900/06200620.pdf))](https://files.diariodarepublica.pt/1s/1989/02/03900/06200620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/03900/06200620.pdf)

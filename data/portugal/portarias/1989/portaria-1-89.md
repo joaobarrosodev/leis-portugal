@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-1989-234342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T09:41:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a235bea8748449c12883ac835be3f84f17dac3808013bbcf3593223e0f68217
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fa066c3e5d103c46f86712677fbd7264b9a7cdf5954ba969ac7b7fc1e6c682e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:41:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Geral de Aposentações
+- Ensino Cooperativo
+- Ensino Particular
+- Montepio dos Servidores do Estado
+- Pessoal Docente
+- Quotização
 relationships:
 - type: amended_by
   target: pt:dre:262834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540441:por
+  label: "Alterado o n.º 1 do presente diploma, em conformidade com o disposto no n.º 1 do art. 20.º da Lei 60-A/2005, de\
+    \ 30-Dez, pelo DEC LEI.50-A/2006.10.03.2006.MFAP, DR.IS-A [50-Supl] de 10.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-a-2006-540441
+  date: '2006-03-10'
+- type: amended_by
+  target: pt:dre:262834:por
+  label: "Alterado o nº 1 da presente portaria, em conformidade com o nº 1 do art. 19º da Lei 53-A/2006 de 29-Dez, pelo DEC\
+    \ LEI.50-C/2007.06.03.2007.MFAP, DR.IS [46-Supl] de 06.03.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-a-2007-262834
+  date: '2007-03-06'
+- type: cites
+  target: pt:dre:355488:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:41:39Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +126,6 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 20 de Outubro de 1988.**
+Assinada em 20 de Outubro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Educação, Roberto Artur da Luz Carneiro.

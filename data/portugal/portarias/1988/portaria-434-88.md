@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15400/27652766.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/434-1988-373376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T09:30:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0d3e8a8c122d0ba2de5d9b1bce981f7945b2d412d564124568d6f287a3cffcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4259e6ada255e8db9ad95115a625b6eb5eaae0a7588f00a36f518698803229a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:30:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola de Polícia Judiciária
+- Formação Profissional
+- Pessoal Docente
+- Programa de Formação
 relationships:
 - type: amended_by
   target: pt:dre:455412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:287169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:455412:por
+  label: "Revogada, a partir de 05.09.2008 e nos termos da al. b) do art. 58º, pela LEI.37/2008.06.08.2008.AR, DR.IS [151]\
+    \ de 06.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2008-455412
+  date: '2008-08-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:30:46Z'
   warnings: []
   errors: []
 ---
@@ -143,6 +165,6 @@ d) Indicação da categoria, no caso de o contratado ser docente numa escola uni
 
 Ministério da Justiça.
 
-**Assinada em 23 de Maio de 1987.**
+Assinada em 23 de Maio de 1987.
 
-**O Ministro da Justiça, Joaquim Fernando Nogueira.**
+O Ministro da Justiça, Joaquim Fernando Nogueira.

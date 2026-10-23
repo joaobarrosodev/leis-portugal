@@ -47,36 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/763-1988-357101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:39:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a29d55f77ced0c5e96e30376e6c86254b83518852a74a90555a4eba179d1e0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08d9ba1218e5600376149fde2f89bff49e5330868081328e1b3c3f6f0aa98ffa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:39:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Central de Compras do Estado
+- Contrato
+- Direcção Geral do Património do Estado
+- Equipamento de Escritório
+relationships:
+- type: cites
+  target: pt:dre:310413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575923:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:39:03Z'
   warnings: []
   errors: []
 ---
@@ -97,6 +122,6 @@ Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, que seja anula
 
 Ministério das Finanças.
 
-**Assinada em 8 de Novembro de 1988.**
+Assinada em 8 de Novembro de 1988.
 
-**O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.**
+O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.

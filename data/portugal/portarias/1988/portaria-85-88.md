@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/85-1988-282959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T09:41:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1266cb76fea9ebaf4839eaf613c07399341ea0ed75e20282ad8e46640b0359ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd92a88e113ed852f6b5de68a45fb31b9a1438a52876cf87791fe15339c89935
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:41:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Activo Imobilizado
+- Amortização
+- Contribuição Industrial
+- Empresa
+- Indústria
+- Indústria Agrícola
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:325309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577913:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:219529:por
+  label: Rectificada pela DECL.DD2160.1988.03.29.PCM,DR.IS [49]2º Supl de 31/Mar/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-219529
+  date: '1988-03-29'
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:41:19Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +191,7 @@ e) Quando se trate de elementos do activo imobilizado de preço unitário de aqu
 
 2.º A divisão I da tabela I anexa à citada portaria passa a ter a seguinte redacção:
 
-##### DIVISÃO I
+DIVISÃO I
 
 Agricultura, silvicultura, pecuária e pesca
 
@@ -267,7 +287,7 @@ Grupo 2 - Pesca
 
 3.º O grupo 1 da divisão III da tabela I da mesma portaria passa a ter a seguinte redacção:
 
-##### DIVISÃO III
+DIVISÃO III
 
 Indústrias transformadoras
 
@@ -397,6 +417,6 @@ Grupo 5 - Elementos diversos
 
 Ministério das Finanças.
 
-**Assinada em 20 de Janeiro de 1988.**
+Assinada em 20 de Janeiro de 1988.
 
-**O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.**
+O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.

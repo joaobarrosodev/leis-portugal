@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/708-1988-354482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T09:37:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55864b1b00ab05b30f7e57a0ae112190725a8f19a8ac8976ee08bba82e04247b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5bbbdf830a2f400fb87062428ea1d6246075ca787c294a7c4cb409fda94fb41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:37:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arquivo
+- Conservação de Documentos
+- Microfilmagem
+- Prazo de Conservação
+- Presidência do Conselho de Ministros
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409282:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:220692:por
+  label: Rectificada pela DECL.DD4035.1988.10.31.PCM DR.IS [252]2ºSUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-220692
+  date: '1988-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:37:33Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +123,9 @@ Manda o Governo, pelo Secretário de Estado da Presidência do Conselho de Minis
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 7 de Outubro de 1988.**
+Assinada em 7 de Outubro de 1988.
 
-**O Secretário de Estado da Presidência do Conselho de Ministros, Luís Manuel Gonçalves Marques Mendes.**
+O Secretário de Estado da Presidência do Conselho de Ministros, Luís Manuel Gonçalves Marques Mendes.
 
 REGULAMENTO DE CONSERVAÇÃO ARQUIVÍSTICA DA SECRETARIA-GERAL DA PRESIDÊNCIA DO CONSELHO DE MINISTROS
 
@@ -224,4 +243,4 @@ Resolução de dúvidas
 
 Prazos mínimos de conservação de espécies documentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/24800/43534357.pdf))](https://files.diariodarepublica.pt/1s/1988/10/24800/43534357.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24800/43534357.pdf)

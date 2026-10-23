@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01800/02520254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/45-1988-283541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T09:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 425ddbbbf4d1b4c39f25c1b772e76424e28c292f4f5bb1cafd31c853d0fd31a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c013d40a984128270b0059719edab7229165574aecb5e37dab207ba2c2c19c0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Navegação Aérea
+- Tarifa Transatlântica
+- Taxa de rota
 relationships:
 - type: amended_by
   target: pt:dre:615382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659930:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:615382:por
+  label: "Revogada, a partir de 22.04.1989, pelo DR.10/89.1989.04.17.MOPTC, DR.IS [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-1989-615382
+  date: '1989-04-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:31:06Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +126,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, Tra
 
 1.º O artigo 11.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro, passa a ter a seguinda redacção:
 
-###### Art. 11.º - 1 - Sem prejuízo da aplicação das disposições do artigo 5.º, a taxa unitária para os espaços aéreos definidos no artigo 2.º será de:
+Art. 11.º - 1 - Sem prejuízo da aplicação das disposições do artigo 5.º, a taxa unitária para os espaços aéreos definidos no artigo 2.º será de:
 
 US$ 38,01 para a Região de Informação de Voo de Lisboa;
 
@@ -111,19 +136,19 @@ US$ 11,42 para a Região de Informação de Voo de Santa Maria.
 
 2.º O anexo 1 a que se refere o n.º 1 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659) é substituído pelo seguinte:
 
-## Anexo 1 a que se refere o n.º 1 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
+Anexo 1 a que se refere o n.º 1 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
 
 Lista das tarifas transatlânticas aplicáveis a partir de 1 de Janeiro de 1988 para uma aeronave cujo coeficiente de peso é igual à unidade (50 t métricas).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/01800/02520254.pdf))](https://files.diariodarepublica.pt/1s/1988/01/01800/02520254.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/01800/02520254.pdf)
 
 3.º O anexo 3 a que se refere o n.º 5 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659) é substituído pelo seguinte:
 
-## Anexo 3 a que se refere o n.º 5 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
+Anexo 3 a que se refere o n.º 5 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
 
 Lista das taxas de câmbio das diversas moedas nacionais em relação ao dólar, na base das quais foram calculadas as tarifas transatlânticas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/01800/02520254.pdf))](https://files.diariodarepublica.pt/1s/1988/01/01800/02520254.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/01800/02520254.pdf)
 
 4.º Mantém-se em vigor o disposto no artigo 3.º da [Portaria n.º 46/84](https://diariodarepublica.pt/dr/detalhe/portaria/46-1984-659930), de 21 de Janeiro.
 
@@ -131,6 +156,6 @@ Lista das taxas de câmbio das diversas moedas nacionais em relação ao dólar,
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 31 de Dezembro de 1987.**
+Assinada em 31 de Dezembro de 1987.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Eduardo Perestrello Correia de Matos, Secretário de Estado dos Transportes Exteriores e das Comunicações.

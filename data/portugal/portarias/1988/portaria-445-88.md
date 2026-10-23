@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15600/28072809.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-1988-373258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T09:30:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a2ae43ae2c7425e68eb7fe5f3ad6107ba718c931d33608f125e8f01c40c0761
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f122016e1c63af3923bbcbabcae539d4f8424012d13db76027e971e40a1f5742
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:30:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Aproveitamento Hidroeléctrico
+- Energia Elétrica
+- Produção de Energia Elétrica
 relationships:
 - type: amended_by
   target: pt:dre:263767:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:549435:por
+  label: "Alterados os nºs 1, 2, 2.1, 2.2, 3, 3.1, 3.2, 4, als. a), b), c), d), e), f), g), i), j) e n); aditados os nºs 2.3,\
+    \ 2.4, 2.5, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, al. a) e b), 4.9, al. a), b) e c), 5.2, 6.2, 6.3, 7.1, 7.2, 7.3, 7.4, 7.5, 8.1,\
+    \ 8.2, 8.3, 8.4, 9.2, 10.1, 10.2, 12.1, 12.2, 13.3, 13.4, 13.5, 14, 14.1, 14.2, 15, 16, 16.1, 16.2, al. a), b), c); e\
+    \ revogado o nº 3.3, pela PORT.958/89.1989.10.28.MPLAT, DR.IS [249]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/958-1989-549435
+  date: '1989-10-28'
+- type: amended_by
+  target: pt:dre:515806:por
+  label: "Determinada a aplicação em tudo o que não seja contrário ao DEC LEI.46/94.1994.02.22.MARN, DR.IS-A [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1994-515806
+  date: '1994-02-22'
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:263767:por
+  label: "Revogada pela PORT.295/2002.2002.03.19.MECO, DR.IS-B [66]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-2002-263767
+  date: '2002-03-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:30:56Z'
   warnings: []
   errors: []
 ---
@@ -205,6 +231,6 @@ d) Um representante da DGE.
 
 Ministérios do Planeamento e da Administração do Território e da Indústria e Energia.
 
-**Assinada em 24 de Junho de 1988.**
+Assinada em 24 de Junho de 1988.
 
 Pelo Ministro do Planeamento e da Administração do Território, José Macário Correia, Secretário de Estado do Ambiente e dos Recursos Naturais. - Pelo Ministro da Indústria e Energia, Nuno Manuel Franco Ribeiro da Silva, Secretário de Estado da Energia.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 170/1988, 1º Suplemento, Série I de 1988-07-25
   number: '170'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3004-(2) a 3004-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/17001/00020002.pdf
 entry_into_force_dates: []
@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/489-a-1988-483415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T09:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15bc8f8e902f62d8c780255b671bf226b88d61835fbedfb49b01a27457bc201a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b43a97cd5d71ea54992ee9ec98e454e4d4418fa5f21b4822046415143732f55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- EPAC
+- Trigo
+relationships:
+- type: cites
+  target: pt:dre:196209:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:239382:por
+  label: Rectificada pela DECL.DD4144.1988.08.19.PCM DR.IS [201]SUPL DE 31/AGO/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-239382
+  date: '1988-08-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:32:01Z'
   warnings: []
   errors: []
 ---
@@ -99,6 +110,6 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, Pescas e Alimen
 
 Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
 
-**Assinada em 25 de Julho de 1988.**
+Assinada em 25 de Julho de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

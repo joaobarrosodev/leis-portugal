@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04700/08380839.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/140-1989-612244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:45:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d61e4c719ddbfa97a3adf06ec3917f24130978423966a99fc2061aa55d215e89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8766a8e51a1c20b6a8f2617a767ffef003bade33600860925a3bd083e6c012af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:45:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto do Vinho do Porto
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTO O QUADRO DE PESSOAL DO IVP, PELO DECRETO LEI 367/93, DE 28 DE OUTUBRO, PUBLICADO NO DR.IS-A, 253, DE 931028,\
+    \ UM ANO APOS A DATA DA PUBLICAÇÃO DESTE DECRETO LEI.\0CRETO LEI.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:664553:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:664553:por
+  label: Extinto o quadro de pessoal do Instituto do Vinho do Porto (IVP), a que se refere o presente diploma pelo(a) Decreto-Lei
+    n.º 367/93 - Diário da República n.º 253/1993, Série I-A de 1993-10-28, decorrido um ano a partir da data da sua publicação.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/367-1993-664553
+  date: '1993-10-28'
+- type: cites
+  target: pt:dre:662364:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:45:40Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +111,7 @@ Manda o Governo, pelos Ministros das Finanças e da Agricultura, Pescas e Alimen
 
 Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
 
-**Assinada em 9 de Fevereiro de 1989.**
+Assinada em 9 de Fevereiro de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís Gonzaga de Sousa Morais Cardoso, Secretário de Estado da Alimentação.
 
@@ -102,6 +119,6 @@ Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do O
 
 Quadro de pessoal do Instituto do Vinho do Porto a prestar serviço na Comissão de Viticultura da Regido dos Vinhos Verdes, nos termos do [Decreto-Lei n.º 104/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1987-662364), de 6 de Março (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04700/08380839.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04700/08380839.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04700/08380839.pdf)
 
 (nota a) Todos os lugares são a extinguir da base para o topo à medida que forem vagando nas respectivas carreiras.

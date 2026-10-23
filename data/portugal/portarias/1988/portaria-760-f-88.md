@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 273/1988, 1º Suplemento, Série I de 1988-11-25
   number: '273'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4706-(5) a 4706-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/27301/00050006.pdf
 entry_into_force_dates: []
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/760-f-1988-401879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T09:38:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6769f49a0db65afa29365a80e31c026cdf8cc581433bbb55d71ca600a035481
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bd5ddeeaaaf1f6ead3a6520b8a84c314d07a0b8e1ed307b38bb87e632f8df8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:38:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:372818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:506055:por
+  label: "Transferida a concessão da zona de caça turística criada pelo presente diploma pela PORT.183/2000.2000.03.31.MECO,DR.IS-B\
+    \ [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-2000-506055
+  date: '2000-03-31'
+- type: amended_by
+  target: pt:dre:616455:por
+  label: "Determinada a suspensão a actividade cinegética concessionada pelo presente diploma, na redacção da Port 183/2000,\
+    \ de 31-Mar, pela PORT.1097/2000.2000.11.17.MADRP DR.IS-B [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1097-2000-616455
+  date: '2000-11-17'
+- type: amended_by
+  target: pt:dre:372818:por
+  label: "Renovada a concessão constante do presente diploma, alterado pela Port 183/2000, de 31-Mar, pela PORT.865/2001.2001.07.27.MECO,\
+    \ DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-2001-372818
+  date: '2001-07-27'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:38:58Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +145,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Novembro de 1988.**
+Assinada em 14 de Novembro de 1988.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/27301/00050006.pdf))](https://files.diariodarepublica.pt/1s/1988/11/27301/00050006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27301/00050006.pdf)

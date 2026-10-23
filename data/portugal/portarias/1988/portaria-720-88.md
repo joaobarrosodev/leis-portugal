@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/25100/43904392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/720-1988-358290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:37:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72ca06f429c77e660d8a3d13bc4b426c05c60e47491432a67cb1cd76a12add54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff181a149c73838048d2cf2080f49be63106656db42b04820048b15839dc4943
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:37:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Produção Agrícola
+- Curso de Produção Animal
+- Ensino Superior Politécnico
+- Escola Superior Agrária
+- Instituto Politécnico
+- Plano de Estudos
+- Santarém
 relationships:
 - type: amended_by
   target: pt:dre:506635:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:592752:por
+  label: "Alterado o plano de estudos do curso de Produção Animal, aprovado no presente diploma, pela PORT.349/91.19.04.1991.ME,\
+    \ DR.IS-B [91] de 19.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/349-1991-592752
+  date: '1991-04-19'
+- type: amended_by
+  target: pt:dre:594081:por
+  label: "Alterado o plano de estudos do curso de Produção Agrícola, aprovado no presente diploma, pela PORT.359/91.22.04.1991.ME,\
+    \ DR.IS-B [93] de 22.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/359-1991-594081
+  date: '1991-04-22'
+- type: cites
+  target: pt:dre:171514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553063:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506635:por
+  label: "Revogada pela PORT.448/95.12.05.1995.ME, DR.IS-B [110] de 12.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-1995-506635
+  date: '1995-05-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:37:52Z'
   warnings: []
   errors: []
 ---
@@ -187,8 +232,8 @@ Esta portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 6 de Outubro de 1988.**
+Assinada em 6 de Outubro de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/25100/43904392.pdf))](https://files.diariodarepublica.pt/1s/1988/10/25100/43904392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/25100/43904392.pdf)

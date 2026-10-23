@@ -47,40 +47,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/645-1988-356280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T09:35:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19f9ccc3704f84d466b753908ccaa417c7d3d63126cad32f2618d5882da06406
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 677cdac37711718628bbd06cbb2b9cb41e283c4c68329c7cd6c6243a49f6ebdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:35:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Engenharia Civil
+- Curso de Engenharia Electrónica
+- Curso de Engenharia Electrotécnica
+- Curso de Engenharia Mecânica
+- Curso de Engenharia Química Industrial
+- Curso de Estudos Superiores Especializados em Engenharia Civil-direcção Gestão e Execução de Obras
+- Curso de Estudos Superiores Especializados em Engenharia Electrotécnica-Automação e Electrónica Industrial
+- Curso de Estudos Superiores Especializados em Engenharia Geotécnica-escavações e Fundações
+- Instituto Superior de Engenharia
+- Lisboa
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:437659:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:557607:por
+  label: "Alterados os n.ºs 5.º e 13.º pela PORT.864/90.19.09.1990.ME, DR.IS [217] de 19.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/864-1990-557607
+  date: '1990-09-19'
+- type: amended_by
+  target: pt:dre:616377:por
+  label: "Alterado o anexo I pela PORT.1128/92.10.12.1992.ME, DR.IS-B [284] de 10.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1128-1992-616377
+  date: '1992-12-10'
+- type: amended_by
+  target: pt:dre:566820:por
+  label: "Alterados os quadros 1 a 4 do anexo II e aditado o n.º 29.º pela PORT.1155/95.20.09.1995.ME, DR.IS-B [218] de 20.09.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1155-1995-566820
+  date: '1995-09-20'
+- type: cites
+  target: pt:dre:218566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:433803:por
+  label: "Revogada, na parte em que autorizou o Instituto Politécnico de Lisboa, através do Instituto Superior de Engenharia,\
+    \ a conferir o diploma de estudos superiores especializados em Engenharia Química Industrial, findo o processo de transição\
+    \ fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98 de 17-Jul, pela PORT.724/99.1999.08.24.ME,\
+    \ DR.IS-B [197]t\0]t\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/724-1999-433803
+  date: '1999-08-24'
+- type: repealed_by
+  target: pt:dre:632255:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, na parte em que autorizou o Instituto Superior de Engenharia de Lisboa a conferir o diploma de estudos superiores\
+    \ especializados em Engenharia Civil-Direcção, Gestão e Execução de Obras pela PORT.1070/99.1999.12.10.ME,DR.IS-B [286]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1070-1999-632255
+  date: '1999-12-10'
+- type: repealed_by
+  target: pt:dre:437659:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, na parte em que autorizou o Instituto Superior de Engenharia de Lisboa a conferir o diploma de estudos superiores\
+    \ especializados em Engenharia Electrotécnica-Automação e Electrónica Industrial pela PORT.13/2000.2000.01.14.ME,DR.IS-B\
+    \ [11]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/13-2000-437659
+  date: '2000-01-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:35:53Z'
   warnings: []
   errors: []
 ---
@@ -521,7 +588,7 @@ Cada curso entrará em funcionamento no ano lectivo que for determinado por desp
 
 Ministério da Educação.
 
-**Assinada em 23 de Agosto de 1988.**
+Assinada em 23 de Agosto de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -531,7 +598,7 @@ Diploma de estudos superiores especializados
 
 Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf)
 
 ## ANEXO II — Curso de Engenharia Electrotécnica - Sistemas e Comunicações
 
@@ -539,7 +606,7 @@ Diploma de estudos superiores especializados
 
 Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf)
 
 ## ANEXO III — Curso de Engenharia Electrotécnica - Automação e Electrónica Industrial
 
@@ -547,7 +614,7 @@ Diploma de estudos superiores especializados
 
 Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf)
 
 ## ANEXO IV — Curso de Engenharia Mecânica - Frio, Climatização e Ventilação Industrial
 
@@ -555,7 +622,7 @@ Diploma de estudos superiores especializados
 
 Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf)
 
 ## ANEXO V — Curso de Engenharia Química Industrial
 
@@ -563,7 +630,7 @@ Diploma de estudos superiores especializados
 
 Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21900/38443851.pdf)
 
 ## ANEXO VI — Diploma
 
@@ -573,11 +640,11 @@ R (ver nota a) P
 
 Instituto Superior de Engenharia de Lisboa, ... (ver nota i).
 
-**O Presidente do Concelho Directivo,**
+O Presidente do Concelho Directivo,
 
 ... (ver nota j)
 
-**O Secretário,**
+O Secretário,
 
 ... (ver nota l)
 
@@ -611,11 +678,11 @@ R (ver nota a) P
 
 Instituto Superior de Engenharia de Lisboa, ... (ver nota l).
 
-**O Presidente do Concelho Directivo,**
+O Presidente do Concelho Directivo,
 
 ... (ver nota m)
 
-**O Secretário,**
+O Secretário,
 
 ... (ver nota n)
 

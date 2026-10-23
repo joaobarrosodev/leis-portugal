@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/727-1988-358161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T09:38:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83d74b4f80a8b7066e3075511cff426dbd58128c787c8721767b3bb5185aa700
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9524854decebfaa3a92d28325375b9d2f4e88c87ff70ac0118d6eeda8db852d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:38:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Análise Económica
+- Apoio ao Investimento
+- Comissão Nacional do Programa STAR
+- Comunicações
+- IAPMEI
+- Instituto das Comunicações de Portugal
+- Regulamento
+- Regulamento de Aplicação do Sistema de Incentivos aos Serviços Avançados de Telecomunicações
+relationships:
+- type: cites
+  target: pt:dre:372453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372454:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:38:03Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +113,9 @@ Manda o Governo, pelos Ministros das Finanças, do Planeamento e da Administraç
 
 Ministérios das Finanças, do Planeamento e da Administração do Território, da Indústria e Energia e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 14 de Outubro de 1988.**
+Assinada em 14 de Outubro de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
 
 Regulamento da Aplicação do Sistema de Incentivos a Serviços Avançados de Telecomunicações
 
@@ -173,7 +189,7 @@ Valor do incentivo
 
 2 - A percentagem referida no número anterior é variável, de acordo com o tipo de projecto, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/25300/44094414.pdf))](https://files.diariodarepublica.pt/1s/1988/11/25300/44094414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/25300/44094414.pdf)
 
 3 - Os montantes máximos do incentivo a que se refere o n.º 3 do artigo 5.º do [Decreto-Lei n.º 249/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1988-372453), de 15 de Julho, são de 220000 contos para projectos de investimento e de 16000 contos para estudos.
 
@@ -201,7 +217,7 @@ Pagamentos
 
 2 - A CNSTAR, após verificação da conformidade dos documentos de despesa, processará os respectivos pagamentos.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/25300/44094414.pdf))](https://files.diariodarepublica.pt/1s/1988/11/25300/44094414.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/25300/44094414.pdf)
 
 ## ANEXO II — Termos de referência
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/28000/53135316.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1055-1989-550579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T09:43:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b610af9026b6f704490cc1cebc7dcdf20b92b251f0ed53898050d0038414d11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 771038dd54f6e6c33766e3778867f953faa5e32b3087492088507175c6714d5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:43:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Animal Reprodutor
+- Gado Bovino
+- Regulamento
+- Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:629134:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218487:por
+  label: "Alterados os nºs 2º e 10º da presente Portaria, pelo DEC LEI.46/98.1998.03.03.MADRP DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1998-218487
+  date: '1998-03-03'
+- type: repealed_by
+  target: pt:dre:629134:por
+  label: "Revogado o presente diploma, pelo DEC LEI.349/2007.19.10.2007.MADRP, DR.IS [202] de 19.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/349-2007-629134
+  date: '2007-10-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:43:04Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +112,7 @@ Manda o Governo, pelos Ministros da Agricultura, Pescas e Alimentação e do Com
 
 Bovino reprodutor de raça pura: todo o animal da espécie bovina cujos pais e avós se encontram inscritos num livro genealógico de uma raça em que ele próprio se encontra inscrito ou em condições de o ser;
 
-# Livro genealógico: qualquer livro, registo, ficheiro ou suporte informático pertencente a uma organização ou associação oficialmente reconhecidas, ou a um serviço público, onde são registados os bovinos reprodutores de uma raça pura determinada, mencionando-se os seus progenitores.
+Livro genealógico: qualquer livro, registo, ficheiro ou suporte informático pertencente a uma organização ou associação oficialmente reconhecidas, ou a um serviço público, onde são registados os bovinos reprodutores de uma raça pura determinada, mencionando-se os seus progenitores.
 
 2 - Não são permitidas quaisquer restrições por razões zootécnicas a:
 
@@ -142,7 +156,7 @@ c) Admissão para inseminação artificial ou utilização de sémen de touros d
 
 Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 21 de Novembro de 1989.**
+Assinada em 21 de Novembro de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques Cunha, Secretário de Estado Adjunto do Ministro da Agricultura, Pescas e Alimentação. - Pelo Ministro do Comércio e Turismo, Jorge Manuel Mendes Antas, Secretário de Estado do Comércio Interno.
 

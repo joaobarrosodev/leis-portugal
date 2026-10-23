@@ -46,40 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/190-1989-613059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:46:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab2fc5fd58d32ca94ee1822b9a53dca2f44fa7ffcbeae4c41f21faf4a13c04bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9a9ea8d75e83f251bf9d4cba69b77a39cfb660ccd4cf37715da8a0a9542f02c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:46:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:3277363:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3277363:por
+  label: "Alterado o nº2 e aditado o nº3 pela PORT.867/2008.30.10.2008.SEAAI-MAI, DR.IIS [211] de 30.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/867-2008-3277363
+  date: '2008-10-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:46:55Z'
   warnings: []
   errors: []
 ---
@@ -128,20 +134,20 @@ Negro - significa firmeza na defesa dos princípios, temperada pelo senso na con
 
 Ministério da Administração Interna.
 
-**Assinada em 21 de Fevereiro de 1989.**
+Assinada em 21 de Fevereiro de 1989.
 
-**O Ministro da Administração Interna, José António da Silveira Godinho.**
+O Ministro da Administração Interna, José António da Silveira Godinho.
 
 Emblema do SEF
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/05500/10161017.pdf))](https://files.diariodarepublica.pt/1s/1989/03/05500/10161017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/05500/10161017.pdf)
 
 Logotipo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/05500/10161017.pdf))](https://files.diariodarepublica.pt/1s/1989/03/05500/10161017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/05500/10161017.pdf)
 
 Emblema do SEF
 
 (modelo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/05500/10161017.pdf))](https://files.diariodarepublica.pt/1s/1989/03/05500/10161017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/05500/10161017.pdf)

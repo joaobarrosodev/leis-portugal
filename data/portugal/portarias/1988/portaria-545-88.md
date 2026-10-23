@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/545-1988-376844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:33:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6912bd77a905e1d381b177b344d9428988850c35b763a8486f208ae2737a6902
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 564da57e9b51c769ca268a7b1990d03cba55084bd807fa8102be80d17dbb775c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:33:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Imposto do SELO
+- Impresso
+- Informática
+- Letras e Livranças
+- Títulos de Crédito
+relationships:
+- type: cites
+  target: pt:dre:287612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575886:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:33:32Z'
   warnings: []
   errors: []
 ---
@@ -221,10 +238,10 @@ c) Texto adicional, referido em 6.2.2, em cor, de acordo com escolha da entidade
 
 Ministério das Finanças.
 
-**Assinada em 18 de Julho de 1988.**
+Assinada em 18 de Julho de 1988.
 
-**O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.**
+O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/18600/33463348.pdf))](https://files.diariodarepublica.pt/1s/1988/08/18600/33463348.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/18600/33463348.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/18600/33463348.pdf))](https://files.diariodarepublica.pt/1s/1988/08/18600/33463348.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/18600/33463348.pdf)

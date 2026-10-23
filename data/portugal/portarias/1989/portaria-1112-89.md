@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1112-1989-551258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:44:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9785607d0a252910f66533a2d4191c570770b5fa79d24693191ffd88dcd6ed75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6afe38f2ab7bd403d3acb70f7ec769a73af7e53121fca61e681c65e11d274f1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:44:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Consumo de Energia
+- Energia
+- Gestão dos Recursos
+- Madeira.região Autónoma
+- Regulamento
+- Sistema de Incentivos a Utilização Racional de Energia
+relationships:
+- type: cites
+  target: pt:dre:374240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600295:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:44:40Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +126,6 @@ Manda o Governo, pelos Ministros do Planeamento e da Administração do Territó
 
 Ministérios do Planeamento e da Administração do Território e da Indústria e Energia.
 
-**Assinada em 14 de Dezembro de 1989.**
+Assinada em 14 de Dezembro de 1989.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira. - O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira. - O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

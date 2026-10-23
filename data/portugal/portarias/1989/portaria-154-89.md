@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/05100/08990899.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/154-1989-612863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T09:46:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cc25a3e4e89e6b38d9b270bc646d7be63437137efb5701662c1d619ee676158
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61ca46b2b070a99696e5be18f947304b7e8f2ecb841c8dd282a20d3dc06c3e4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:46:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cédula Militar
+- Regulamento
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:566027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566027:por
+  label: "Alterado o modelo de cédula militar pela PORT.1103/90.06.11.1990.MDN, DR.IS [256] de 06.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1103-1990-566027
+  date: '1990-11-06'
+- type: cites
+  target: pt:dre:356354:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 767/94, DE 25 DE AGOSTO, PUBLICADA NO DR.IS-B, 196.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:46:05Z'
   warnings: []
   errors: []
 ---
@@ -106,8 +123,8 @@ Manda o Governo, pelo Ministro da Defesa Nacional, ao abrigo da alínea b) do ar
 
 Ministério da Defesa Nacional.
 
-**Assinada em 23 de Janeiro de 1989.**
+Assinada em 23 de Janeiro de 1989.
 
-**O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.**
+O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/05100/08990899.pdf))](https://files.diariodarepublica.pt/1s/1989/03/05100/08990899.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/05100/08990899.pdf)

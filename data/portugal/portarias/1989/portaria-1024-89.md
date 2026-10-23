@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1024-1989-550866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T09:42:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbde8b6220187e1a346d14fe900a81502238ce11070ea458a77029cd4922e100
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53c4f788171675687488847a1abc27ff95892f3b7d381f5a2ab4d5a296cdb196
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:42:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bailado
+- Ensino Artístico
+- Ensino Particular
+- Ensino Preparatório
+- Escola de Dança Ginasiano
+- Plano de Estudos
+- VILA NOVA de GAIA
 relationships:
 - type: amended_by
   target: pt:dre:198075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198075:por
+  label: "Alterados os planos de estudos dos cursos básico e secundário de dança (anteriormente designados cursos geral e\
+    \ complementar de dança) constantes dos mapas I e II anexos ao Despacho n.º 24/SERE/87de 21 de Janeiro de 1988, com as\
+    \ alterações introduzidas pelo presente diploma, pela PORT.688/96.21.11.1996.ME, DR.IS-B [270] de 21.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/688-1996-198075
+  date: '1996-11-21'
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:42:19Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +116,9 @@ Manda o Governo, pelo Ministro da Educação, que o plano de estudos da Escola d
 
 Ministério da Educação.
 
-**Assinada em 13 de Novembro de 1989.**
+Assinada em 13 de Novembro de 1989.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 MAPA I
 
@@ -110,4 +128,4 @@ Plano de estudos do curso geral de Dança
 
 Disciplinas de formação vocacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/27100/51495149.pdf))](https://files.diariodarepublica.pt/1s/1989/11/27100/51495149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/27100/51495149.pdf)

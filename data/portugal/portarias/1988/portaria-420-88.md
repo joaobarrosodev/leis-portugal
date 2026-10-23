@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/420-1988-373030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T09:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18936675e923f7d9a2e77c92333706537d02701cc322937a8caa3fb9d77ef434
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98dca99f31d8ab09cbf84bf1986a50a9beb38073a8ddb6cc01625ddf1da36d29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Informática
+- Ensino Superior
+- Instituto Superior de Engenharia
+- Plano de Estudos
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:405333:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:452690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405333:por
+  label: "Revogada, pela PORT.1555/2002.2002.12.26.MCES, DR.IS-B [298], nos termos do seu art. 3º, fazendo cessar o funcionamento\
+    \ do respectivo curso\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1555-2002-405333
+  date: '2002-12-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:30:21Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +132,7 @@ Classificação final
 
 Ministério da Educação.
 
-**Assinada em 30 de Maio de 1988.**
+Assinada em 30 de Maio de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -126,7 +146,7 @@ Grau: bacharel
 
 Ano: 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf))](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf)
 
 QUADRO II
 
@@ -138,7 +158,7 @@ Grau: bacharel
 
 Ano: 2.º - Semestre: 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf))](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf)
 
 QUADRO III
 
@@ -150,7 +170,7 @@ Grau: bacharel
 
 Ano: 2.º - Semestre: 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf))](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf)
 
 QUADRO IV
 
@@ -162,7 +182,7 @@ Grau: bacharel
 
 Ano: 3.º - Semestre: 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf))](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf)
 
 QUADRO V
 
@@ -174,4 +194,4 @@ Grau: bacharel
 
 Ano: 3.º - Semestre: 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf))](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/15100/27212723.pdf)

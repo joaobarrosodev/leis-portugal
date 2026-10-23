@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 176/1988, 1º Suplemento, Série I de 1988-08-01
   number: '176'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3178-(2) a 3178-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/17601/00020003.pdf
 entry_into_force_dates: []
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/516-b-1988-302293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T09:32:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8422713aee670b2c0ba522ec7dec906b840424caf1adc1ad9572a6f3b25d641b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c9f8416db915047c9cc5a3d40e9400c4bad6b6bec6226c657d4c722cfbf5b31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:32:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Sousel
+- ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:570309:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538009:por
+  label: "Alterados os nºs 1º e 2º pela PORT.589-A/88.26.08.1988.MAPA, DR.IS [197] de 26.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/589-a-1988-538009
+  date: '1988-08-26'
+- type: amended_by
+  target: pt:dre:529442:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pelo presente diploma, pela PORT.636-B/88.1988.09.15.MAPA\
+    \ DR.IS [214]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/636-b-1988-529442
+  date: '1988-09-15'
+- type: amended_by
+  target: pt:dre:570309:por
+  label: "Renovada, por um período de 12 anos, a concessão da presente zona de caça turística pela PORT.786/2000.2000.09.19.MECO,DR.IS-B\
+    \ [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/786-2000-570309
+  date: '2000-09-19'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417646:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:32:51Z'
   warnings: []
   errors: []
 ---
@@ -114,10 +146,10 @@ Manda o Governo, pelos Ministros da Agricultura, Pescas e Alimentação e do Com
 
 Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 5 de Agosto de 1988.**
+Assinada em 5 de Agosto de 1988.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
 
 ZONA DE CAÇA TURISTICA DE S. MIGUEL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/17601/00020003.pdf))](https://files.diariodarepublica.pt/1s/1988/08/17601/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/17601/00020003.pdf)

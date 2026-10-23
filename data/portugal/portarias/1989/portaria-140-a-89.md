@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 47/1989, 1º Suplemento, Série I de 1989-02-25
   number: '47'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 846-(2) a 846-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04701/00020004.pdf
 entry_into_force_dates: []
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/140-a-1989-251984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T09:45:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a28e15544937d8c623792511653bb9efacf3cf964f012f0bdd7e382872b9c7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ae5e8a45e5ba48581e2b36be1ae1fe8dfe2819e3e3764cf17d5b0daced3ccea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:45:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação Juvenil
+- Jovem
+- Registo Nacional das Associações Juvenis
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:614102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA PELA PORT 398/91 DE 15-MAI DR.IS-B [109] NOTA: APROVADO NOVO REGULAMENTO PARA A INSCRIÇÃO NO REGISTO NACIONAL\
+    \ DAS ASSOCIAÇÕES JUVENIS (RNAJ) PELA PORT 355/96 DE 16-AGO DR.IS-B [189]\0S-B [189]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-05-15'
+- type: corrected_by
+  target: pt:dre:441513:por
+  label: Rectificada pela DECL.DD3978.1989.04.07.PCM, DR.IS [99] de 29/Abr/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-441513
+  date: '1989-04-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:45:40Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +115,9 @@ Manda o Governo, pelo Ministro Adjunto e da Juventude, ao abrigo do disposto na 
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 24 de Fevereiro de 1989.**
+Assinada em 24 de Fevereiro de 1989.
 
-**O Ministro Adjunto e da Juventude, António Fernando Couto dos Santos.**
+O Ministro Adjunto e da Juventude, António Fernando Couto dos Santos.
 
 Regulamento para a Inscrição no Registo Nacional das Associações Juvenis (RNAJ)
 
@@ -206,4 +221,4 @@ Avaliação e sanções
 
 5.4 - O incumprimento das obrigações a que as entidades inscritas no RNAJ se encontram vinculadas, nos termos do presente Regulamento, determina a suspensão imediata da sua inscrição.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04701/00020004.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04701/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04701/00020004.pdf)

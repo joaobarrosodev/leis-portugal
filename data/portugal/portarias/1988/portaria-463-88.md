@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/463-1988-372437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T09:31:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2019e378b5150c275d43efa8d1162ce4c2308350fbe4e55a427f54db06715191
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73eb3f7014b7860545c3e36427a65ebcde84ec1eb9b1302c50ce1163aa5d224a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:31:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Tesouro
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:373263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:31:21Z'
   warnings: []
   errors: []
 ---
@@ -100,10 +114,10 @@ Manda o Governo, pelo Ministro das Finanças, o seguinte:
 
 Ministério das Finanças.
 
-**Assinada em 28 de Junho de 1988.**
+Assinada em 28 de Junho de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
 Quadro a que se refere a [Portaria n.º 453/88](https://diariodarepublica.pt/dr/detalhe/portaria/453-1988-373263)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/16100/28632863.pdf))](https://files.diariodarepublica.pt/1s/1988/07/16100/28632863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/16100/28632863.pdf)

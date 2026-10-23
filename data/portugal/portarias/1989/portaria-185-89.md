@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-1989-613183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T09:46:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57accd9247a9a10c8eb00afcb2c42309e420b296ee1de871817a90d1b709ad30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03d3a49567c58938585c3fb43329d7ed342ca9c6027ec995f75ab2f85959e63d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:46:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproveitamento Hidroagrícola
+- Pedap
+- Programa de Pequenos Regadios Individuais
+- Subsídio a Agricultores
 relationships:
 - type: amended_by
   target: pt:dre:516888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS NUM 2, 3 E 8 DA PORT 195/88 DE 25-MAR PELA PORT 454/92 DE 01-JUN DR.IS-B [126], NA REDACÇÃO DADA PELO\
+    \ PRESENTE DIPLOMA.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-06-01'
+- type: amended_by
+  target: pt:dre:516888:por
+  label: "Alterados os n.ºs 2.º, 3.º e 8.º da Portaria n.º 195/88, de 25 de Março, na redacção do presente diploma, pela PORT.454/92.01.06.1992.SEAG-MA,\
+    \ DR.IS-B [126] de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/454-1992-516888
+  date: '1992-06-01'
+- type: repealed_by
+  target: pt:dre:611729:por
+  label: "Revogado o n.º 2 do n.º 6.º, pela PORT.329/89.08.05.1989.MAPA, DR.IS [105] de 08.05.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/329-1989-611729
+  date: '1989-05-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:46:45Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +126,6 @@ Para efeitos do disposto neste ponto, a exploração agrícola abrange as fracç
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 17 de Fevereiro de 1989.**
+Assinada em 17 de Fevereiro de 1989.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

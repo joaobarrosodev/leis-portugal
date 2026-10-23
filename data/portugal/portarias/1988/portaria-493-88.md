@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/17200/30393043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/493-1988-378489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:32:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74bfbbae1f34a68f7daa79d3cf916e59fabb86c1eff777b734d7f4d49d54e627
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df452b0c0c2e7a33d4e4302269b93c4bf1be49baabf9f769c18f423f21eaa009
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:32:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Remuneração Acessória
+- Trabalhador Portuário
 relationships:
 - type: amended_by
   target: pt:dre:663876:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233755:por
+  label: "Alterados os n.ºs 1.º e 5.º e revogado o n.º 28.º pela PORT.863/91.20.08.1991.MOPTC, DR.IS-B [190]2ºSupl de 20.08.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/863-1991-233755
+  date: '1991-08-20'
+- type: amended_by
+  target: pt:dre:301405:por
+  label: "Alterado o n.º 1 do n.º 23.º pela PORT.499/92.17.06.1992.MM, DR.IS-B [138] de 17.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/499-1992-301405
+  date: '1992-06-17'
+- type: amended_by
+  target: pt:dre:274247:por
+  label: "Alterado o n.º 1 do n.º 23.º, na redacção da Portaria n.º 499/92, de 17 de Junho, e os n.ºs 3.º e 24.º pela PORT.488/93.07.05.1993.MM,\
+    \ DR.IS-B [106] de 07.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/488-1993-274247
+  date: '1993-05-07'
+- type: amended_by
+  target: pt:dre:266076:por
+  label: "Actualizados os montantes fixados no presente diploma, pela PORT.229/94.15.04.1994.MM, DR.IS-B [88] de 15.04.1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/229-1994-266076
+  date: '1994-04-15'
+- type: amended_by
+  target: pt:dre:231085:por
+  label: "Aditado o n.º 5 ao n.º 9.º e revogados os n.ºs 20.º a 27.º pela PORT.276/95.06.04.1995.MM, DR.IS-B [82] de 06.04.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/276-1995-231085
+  date: '1995-04-06'
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474567:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:663876:por
+  label: "Revogada pela PORT.1238/95.12.10.1995.MM, DR.IS-B [236] de 12.10.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1238-1995-663876
+  date: '1995-10-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:32:07Z'
   warnings: []
   errors: []
 ---
@@ -413,6 +458,6 @@ A presente portaria entra em vigor na data da entrada em vigor do EPAP.
 
 Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 14 de Julho de 1988.**
+Assinada em 14 de Julho de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/652-1988-355536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T09:36:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf130a2bf3fdcbf62222d6b218b9376924cfb0e6f8e21fd6b2f7e46b16f0660a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dda0edb9fad5e62855f7128aa0f7d0024d91b8007b8f4adbc7e1218874910d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:36:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pessoal de Informática
+- Quadro de Pessoal
+- Supremo Tribunal Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:581269:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:36:07Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +129,7 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, o seguinte:
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 7 de Setembro de 1988.**
+Assinada em 7 de Setembro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Justiça, Joaquim Fernando Nogueira.
 
@@ -114,4 +137,4 @@ Mapa anexo
 
 Quadro de pessoal de informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22600/39793979.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22600/39793979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22600/39793979.pdf)

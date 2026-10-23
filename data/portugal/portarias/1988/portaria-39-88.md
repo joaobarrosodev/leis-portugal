@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/39-1988-283536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T09:29:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36f4a493c824503f8cd6aeda1756d85ec32400ad23d21acad6dd7e29c8e771af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0713baaf3103ddee746d519d883b22950a8e45ac33b253386fad08f100d34fff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:29:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Direcção Geral da Concorrência e Preços
+- Diretor de Serviços
+- Extinção de Lugares
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Subdirector Geral
 relationships:
 - type: amended_by
   target: pt:dre:462389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:29:35Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +119,9 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Com
 
 Ministérios das Finanças e do Comércio e Turismo.
 
-**Assinada em 4 de Janeiro de 1988.**
+Assinada em 4 de Janeiro de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
 
 MAPA ANEXO
 
@@ -110,4 +129,4 @@ Direcção-Geral de Concorrência e Preços
 
 (Altera o mapa XI anexo à [Portaria n.º 704/87](https://diariodarepublica.pt/dr/detalhe/portaria/704-1987-417631), de 18 de Agosto, na parte respeitante ao pessoal dirigente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/01700/02420242.pdf))](https://files.diariodarepublica.pt/1s/1988/01/01700/02420242.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/01700/02420242.pdf)

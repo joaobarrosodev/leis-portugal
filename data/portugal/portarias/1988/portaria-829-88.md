@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/30000/51335135.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/829-1988-353891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T09:40:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa4da1079593b7ff5ee72a4d9976ccc2145f1a5e4ac1925c703ea9ee3f980a0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13025284b42107c9f9df9fc2dc67db896712e0ad118d11ec77161ffd4c394c57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:40:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil Internacional
+- Navegação Aérea
+- Taxa de rota
 relationships:
 - type: amended_by
   target: pt:dre:319119:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335382:por
+  label: "Alterados os n.ºs 7.º, 8.º, 9.º, 11.º, 14.º, 16.º e substituído o anexo I, pela PORT.85/90.02.02.1990.MOPTC, DR.IS\
+    \ [28] de 02.02.1990\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/85-1990-335382
+  date: '1990-02-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A AL B) DO NUM 13 E AL A) DO NUM 17 PELA PORT 310/93 DE 17-MAR DR.IS-B, [64].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-17'
+- type: cites
+  target: pt:dre:356702:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:244921:por
+  label: Rectificada pela DECL.DD3810.1989.02.10.PCM DR.IS [49]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-244921
+  date: '1989-02-10'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 50/95 DE 20-JAN DR.IS-B [17].\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:40:59Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +158,7 @@ b) A distância a considerar será reduzida de 20 km por cada descolagem ou ater
 
 6.º - a) O coeficiente de peso é igual à raiz quadrada do quociente por 50 do peso máximo certificado à descolagem da aeronave, expresso em toneladas métricas, tal como consta do certificado de navegabilidade, ou do manual de voo, ou de qualquer outro documento oficial equivalente, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/30000/51335135.pdf))](https://files.diariodarepublica.pt/1s/1988/12/30000/51335135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/30000/51335135.pdf)
 
 b) Quando o peso máximo certificado à descolagem da aeronave não for conhecido dos organismos responsáveis pela cobrança das taxas, o coeficiente de peso será estabelecido sobre a base do peso da versão mais pesada conhecida para esse tipo de aeronave.
 
@@ -182,7 +210,7 @@ b) A moeda de conta utilizada será o dólar dos EUA.
 
 12.º Para um voo efectuado por uma aeronave no espaço aéreo de RIV sob a competência de vários Estados contratantes, será cobrada uma taxa única, R, igual à soma das taxas Ri devidas relativamente ao espaço aéreo das RIV sob a competência de cada Estado contratante:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/30000/51335135.pdf))](https://files.diariodarepublica.pt/1s/1988/12/30000/51335135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/30000/51335135.pdf)
 
 13.º - a) Os montantes facturados pelo EUROCONTROL serão pagos na sua sede, em Bruxelas, sendo, no entanto, considerados como liberatórios os pagamentos efectuados nas contas abertas em nome do EUROCONTROL em estabelecimentos bancários designados nos Estados contratantes ou nos Estados designados pelos órgãos competentes do sistema.
 
@@ -216,6 +244,6 @@ e) No caso de o EUROCONTROL e de um utente serem devedor e credor um do outro, n
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 14 de Dezembro de 1988.**
+Assinada em 14 de Dezembro de 1988.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

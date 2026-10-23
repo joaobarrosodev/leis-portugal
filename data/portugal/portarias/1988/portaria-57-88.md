@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/02200/02820287.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/57-1988-282695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:34:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b31ca8ff9768cbcfd6ce397f7b90486540aa1a885cc5e075ed236c0c36039fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e11ed035203152da3d15ee2175d344b26d7a43564392b240d64fe4b285dd9ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:34:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Revisão das Especialidades Farmacêuticas
+- Medicamento
+- Produto Farmacêutico
 relationships:
 - type: amended_by
   target: pt:dre:621764:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 259/91, DE 30 DE MARCO, PUBLICADA NO DR.IS-B, 74.\0 74."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-03-30'
+- type: repealed_by
+  target: pt:dre:621764:por
+  label: Revogado o presente diploma, pelo(a) Portaria n.º 259/91 - Diário da República n.º 74/1991, Série I-B de 1991-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/259-1991-621764
+  date: '1991-03-30'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:34:07Z'
   warnings: []
   errors: []
 ---
@@ -199,15 +212,15 @@ Quatro licenciados em Medicina, sendo pelo menos um farmacologista, e quatro lic
 
 Ministério da Saúde.
 
-**Assinada em 15 de Dezembro de 1987.**
+Assinada em 15 de Dezembro de 1987.
 
 Pela Ministra da Saúde, Fernando Jorge Duarte Costa Freire, Secretário de Estado da Administração de Saúde.
 
-## Anexo à Portaria n.º 57/88, de 27 de Janeiro
+Anexo à Portaria n.º 57/88, de 27 de Janeiro
 
 Modelo de processo para pedido de colocação no mercado de especialidades farmacêuticas
 
-# PARTE I - INFORMAÇÕES GERAIS (RESUMO DO PROCESSO)
+PARTE I - INFORMAÇÕES GERAIS (RESUMO DO PROCESSO)
 
 I-A - Informações administrativas.
 
@@ -221,7 +234,7 @@ Documentação toxicológica e farmacológica;
 
 Documentação clínica.
 
-# PARTE II - DOCUMENTAÇÃO QUÍMICA, FARMACÊUTICA E BIOLÓGICA
+PARTE II - DOCUMENTAÇÃO QUÍMICA, FARMACÊUTICA E BIOLÓGICA
 
 II-A - Composição.
 
@@ -237,7 +250,7 @@ II-F - Estabilidade.
 
 II-Q - Outras informações.
 
-# PARTE III - DOCUMENTAÇÃO TOXICOLÓGICA E FARMACOLÓGICA
+PARTE III - DOCUMENTAÇÃO TOXICOLÓGICA E FARMACOLÓGICA
 
 III-A - Toxicidade por administração única.
 
@@ -257,7 +270,7 @@ III-H - Tolerância local.
 
 III-Q - Outras informações.
 
-# PARTE IV - DOCUMENTAÇÃO CLÍNICA
+## PARTE IV - DOCUMENTAÇÃO CLÍNICA
 
 IV-A - Farmacologia humana.
 
@@ -265,7 +278,7 @@ IV-B - Documentação clínica.
 
 IV-Q - Outras informações.
 
-# PARTE V - INFORMAÇÕES PARTICULARES
+PARTE V - INFORMAÇÕES PARTICULARES
 
 V-A - Apresentação.
 
@@ -275,7 +288,9 @@ V-C - Autorização(ões) de fabrico.
 
 V-D - Autorização(ões) de colocação no mercado.
 
-# PARTE I - RESUMO DO PROCESSO — Parte I-A - Informações administrativas
+## PARTE I - RESUMO DO PROCESSO
+
+## Parte I-A - Informações administrativas
 
 1 - Denominação da especialidade farmacêutica.
 
@@ -295,7 +310,7 @@ V-D - Autorização(ões) de colocação no mercado.
 
 8 - Data e assinatura do requerente.
 
-# Parte I-B - Resumo das características do produto
+Parte I-B - Resumo das características do produto
 
 1 - Denominação da especialidade.
 
@@ -339,7 +354,7 @@ V-D - Autorização(ões) de colocação no mercado.
 
 6.5 - Nome ou razão social e domicílio ou sede social do titular da autorização de colocação no mercado.
 
-# Parte I-C - Relatórios dos peritos sobre
+Parte I-C - Relatórios dos peritos sobre
 
 1 - Documentação química e farmacêutica.
 
@@ -347,13 +362,13 @@ V-D - Autorização(ões) de colocação no mercado.
 
 3 - Documentação clínica.
 
-# PARTE II - DOCUMENTAÇÃO QUÍMICA, FARMACÊUTICA E BIOLÓGICA
+PARTE II - DOCUMENTAÇÃO QUÍMICA, FARMACÊUTICA E BIOLÓGICA
 
-# Parte II-A - Composição
+Parte II-A - Composição
 
 1 - Composição da especialidade farmacêutica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/02200/02820287.pdf))](https://files.diariodarepublica.pt/1s/1988/01/02200/02820287.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/02200/02820287.pdf)
 
 2 - Recipiente, breve descrição:
 
@@ -365,7 +380,7 @@ Natureza dos recipientes; composição qualitativa; forma de fecho e de abertura
 
 Explicação da escolha da composição, dos compostos e do recipiente de apoio e, se necessário, dados relativos ao desenvolvimento galénico. A sobredosagem no fabrico e a sua justificação devem ser indicadas. Os ensaios realizados quando da colocação no ponto galénico devem ser descritos com precisão. Exemplo: ensaios de dissolução de formas sólidas.
 
-# Parte II-B - Método de preparação
+Parte II-B - Método de preparação
 
 1 - Fórmula de fabrico, incluindo pormenores respeitantes ao tamanho do lote.
 
@@ -373,7 +388,7 @@ Explicação da escolha da composição, dos compostos e do recipiente de apoio 
 
 3 - Validação do processo quando for empregado um método de fabrico não convencional ou quando a sua execução for determinante para a qualidade do produto (dados experimentais mostrando que o processo de fabrico, com utilização de matérias-primas da qualidade indicada e do equipamento específico, é apropriado e produzirá de forma constante um medicamento da qualidade desejada).
 
-# Parte II-C - Controle das matérias-primas
+Parte II-C - Controle das matérias-primas
 
 1 - Princípios activos:
 
@@ -545,11 +560,11 @@ Estudos de desenvolvimento sobre os materiais de embalagem;
 
 Análise dos lotes - resultados.
 
-# Parte II-D - Controle dos produtos intermédios, em caso de necessidade
+Parte II-D - Controle dos produtos intermédios, em caso de necessidade
 
 Deve ser feita distinção entre os controles em curso de fabrico (parte II-B) e os controles dos produtos intermédios.
 
-# Parte II-E - Controle do produto acabado
+Parte II-E - Controle do produto acabado
 
 1 - Especificações do produto e controle de rotina.
 
@@ -583,7 +598,7 @@ Resultados obtidos;
 
 Normas de referência - resultados analíticos.
 
-# Parte II-F - Estabilidade
+Parte II-F - Estabilidade
 
 1 - Ensaios de estabilidade do(s) princípio(s) activo(s):
 
@@ -645,13 +660,13 @@ Duração de validade após reconstituição e ou primeira abertura;
 
 Ensaios de estabilidade em curso.
 
-# Parte II-Q - Outras informações
+Parte II-Q - Outras informações
 
 Esta parte é reservada às informações não cobertas pelas partes precedentes, por exemplo nos ensaios analíticos utilizados nos ensaios de desenvolvimento ou nos estudos respeitantes ao metabolismo e à biodisponibilidade, etc.
 
 N. B. - As disposições específicas e ou adicionais aplicáveis aos produtos biológicos são assinaladas por um asterisco (*).
 
-# PARTE III - DOCUMENTAÇÃO TOXICOLÓGICA E FARMACOLÓGICA
+PARTE III - DOCUMENTAÇÃO TOXICOLÓGICA E FARMACOLÓGICA
 
 Para cada ensaio, devem ser fornecidas as seguintes informações:
 
@@ -663,15 +678,15 @@ Para cada ensaio, devem ser fornecidas as seguintes informações:
 
 4 - Resultados.
 
-# Parte III-A - Toxicidade por administração única
+Parte III-A - Toxicidade por administração única
 
-# Parte III-B - Toxicidade por administração reiterada
+Parte III-B - Toxicidade por administração reiterada
 
 1 - Ensaios de toxicidade subaguda - até três meses.
 
 2 - Ensaios de toxicidade crónica - para além dos três meses.
 
-# Parte III-C - Estudos de reprodução
+Parte III-C - Estudos de reprodução
 
 1 - Fertilidade e capacidade geral de reprodução.
 
@@ -679,15 +694,15 @@ Para cada ensaio, devem ser fornecidas as seguintes informações:
 
 3 - Toxicidade perinatal e pós-natal.
 
-# Parte III-D - Potencial mutagéneo
+Parte III-D - Potencial mutagéneo
 
 1 - In vitro.
 
 2 - In vivo.
 
-# Parte III-E - Potencial carcinogéneo/oncogéneo
+Parte III-E - Potencial carcinogéneo/oncogéneo
 
-# Parte III-F - Farmacodinamia
+Parte III-F - Farmacodinamia
 
 1 - Actividades ligadas às aplicações terapêuticas preconizadas.
 
@@ -695,7 +710,7 @@ Para cada ensaio, devem ser fornecidas as seguintes informações:
 
 3 - Interacções medicamentosas.
 
-# Parte III-G - Farmacocinética
+Parte III-G - Farmacocinética
 
 1 - Farmacocinética após administração única.
 
@@ -707,15 +722,17 @@ Para cada ensaio, devem ser fornecidas as seguintes informações:
 
 5 - Interacções medicamentosas.
 
-# Parte III-H - Tolerância local, se for caso disso
+Parte III-H - Tolerância local, se for caso disso
 
-# Parte III-Q - Outras informações
+Parte III-Q - Outras informações
 
 Esta parte é destinada a informações não cobertas pelas secções precedentes.
 
 Nota. - O recurso à documentação bibliográfica deve ser justificado pelo perito.
 
-# PARTE IV - DOCUMENTAÇÃO CLÍNICA — Parte IV-A - Farmacologia humana
+## PARTE IV - DOCUMENTAÇÃO CLÍNICA
+
+## Parte IV-A - Farmacologia humana
 
 1 - Farmacodinamia.
 
@@ -765,7 +782,7 @@ Cada estudo deverá conter os seguintes elementos:
 
 Quadros recapitulando os estudos feitos, segundo uma ordem lógica, podem ser necessários.
 
-# Parte IV-B - Documentação clínica
+Parte IV-B - Documentação clínica
 
 A documentação clínica deve compreender uma descrição de todos os estudos efectuados, incluindo os estudos inacabados.
 
@@ -827,11 +844,11 @@ Qualquer bibliografia útil.
 
 3.2 - Qualquer outra informação.
 
-# Parte IV-Q - Outras informações
+Parte IV-Q - Outras informações
 
-# PARTE V - INFORMAÇÕES PARTICULARES
+PARTE V - INFORMAÇÕES PARTICULARES
 
-# Parte V-A - Apresentação
+Parte V-A - Apresentação
 
 1 - Acondicionamento.
 
@@ -839,13 +856,13 @@ Qualquer bibliografia útil.
 
 3 - Literatura.
 
-# Parte V-B - Amostras
+Parte V-B - Amostras
 
 Lista e descrição das amostras que acompanham o pedido.
 
-# Parte V-C - Autorização(ões) de fabrico
+Parte V-C - Autorização(ões) de fabrico
 
-# Parte V-D - Autorização(ões) de colocação no mercado
+Parte V-D - Autorização(ões) de colocação no mercado
 
 1 - Autorização de colocação no mercado do país de origem e resumo das características do produto aprovado nesse país.
 

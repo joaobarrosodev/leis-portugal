@@ -49,36 +49,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/447-1988-373254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T09:31:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79e11406dfc65c942b6cc79dd53440455c1a97308f139b0cb4f84c0bee23d8ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b633f9c6a6bd39d3fa7619b7e16b54fe3bc0d2c290bc17f4e8beaeaafacc10c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:31:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Estatística e Investigação Operacional
+- Curso de Informática
+- Curso de Probabilidades e Estatística
+- Ensino Superior
+- Faculdade de Ciências
+- Licenciatura
+- Plano de Estudos
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:221571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:31:01Z'
   warnings: []
   errors: []
 ---
@@ -145,11 +177,11 @@ b) As regras de regime de transição a adoptar para os alunos que hajam estado 
 
 Ministério da Educação.
 
-**Assinada em 9 de Junho de 1988.**
+Assinada em 9 de Junho de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-## Anexo III à [Portaria n.º 1022/82](https://diariodarepublica.pt/dr/detalhe/portaria/1022-1982-378485), de 5 de Novembro - Alteração
+Anexo III à [Portaria n.º 1022/82](https://diariodarepublica.pt/dr/detalhe/portaria/1022-1982-378485), de 5 de Novembro - Alteração
 
 Licenciatura em Informática
 
@@ -185,7 +217,7 @@ b) Aprovação em estágio profissionalizante.
 
 4.2.2 - Matemática Aplicada ... 12
 
-## Anexo IV à [Portaria n.º 1022/82](https://diariodarepublica.pt/dr/detalhe/portaria/1022-1982-378485), de 5 de Novembro - Alteração
+Anexo IV à [Portaria n.º 1022/82](https://diariodarepublica.pt/dr/detalhe/portaria/1022-1982-378485), de 5 de Novembro - Alteração
 
 Licenciatura em Estatística e Investigação Operacional
 
@@ -241,7 +273,7 @@ Total (4.1.1 a 4.1.4) ... 58
 
 4.2.9 - Ciências Sociais e Humanas ... 27
 
-## Anexo V à [Portaria n.º 1022/82](https://diariodarepublica.pt/dr/detalhe/portaria/1022-1982-378485), de 5 de Novembro - Alteração
+Anexo V à [Portaria n.º 1022/82](https://diariodarepublica.pt/dr/detalhe/portaria/1022-1982-378485), de 5 de Novembro - Alteração
 
 Licenciatura em Probabilidades e Estatística
 

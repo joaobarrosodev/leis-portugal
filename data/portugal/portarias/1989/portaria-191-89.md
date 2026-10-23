@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/191-1989-613038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T09:46:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56f2817f13f6ea4b3f4d43c85e9105b440fe7692567778e9ba8614a14c96f0ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff3e69bff47e6a8dbebb2e077a08bbfe0203658393d46bf47bb4a780dff6ed97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:46:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bandeira
+- Serviço de Estrangeiros e Fronteiras
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:46:55Z'
   warnings: []
   errors: []
 ---
@@ -90,8 +92,8 @@ Manda o Governo, pelo Ministro da Administração Interna, ao abrigo da alínea 
 
 Ministério da Administração Interna.
 
-**Assinada em 21 de Fevereiro de 1989.**
+Assinada em 21 de Fevereiro de 1989.
 
-**O Ministro da Administração Interna, José António da Silveira Godinho.**
+O Ministro da Administração Interna, José António da Silveira Godinho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/05600/10221022.pdf))](https://files.diariodarepublica.pt/1s/1989/03/05600/10221022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/05600/10221022.pdf)

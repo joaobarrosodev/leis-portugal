@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/522-1988-378079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:32:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20f6c2d15900c56d5184f38621ddd0b61faa1879c56d4ed5dcd9a4980d7644ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7a5ba2ca00d93f89b1710bc86ecaf3ac42e4ea8bfcc18f12a147c71e78de2f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:32:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Desenvolvimento Industrial
+- Financiamento
+- Sociedade de Fomento Empresarial
+relationships:
+- type: cites
+  target: pt:dre:372452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665948:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:32:57Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +119,11 @@ Manda o Governo, pelo Ministro das Finanças, em execução do disposto no artig
 
 2.º Para os fins da alínea b) do n.º 1 do artigo 3.º, considera-se que a empresa deve satisfazer cumulativamente as seguintes condições:
 
-a) [([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf))](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf)
+a) [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf)
 
-b) [([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf))](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf)
+b) [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf)
 
-c) [([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf))](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf)
+c) [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf)
 
 3.º Em casos de notória redução de importações de países não pertencentes à CEE, as vendas no mercado externo, a que se refere o n.º 2.º, poderão integrar o valor da substituição de importações, desde que inequivocamente comprovadas.
 
@@ -166,6 +177,6 @@ b) Valor de cotação em bolsa ou, na falta dele, valor dado por avaliação da 
 
 Ministério das Finanças.
 
-**Assinada em 15 de Julho de 1988.**
+Assinada em 15 de Julho de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

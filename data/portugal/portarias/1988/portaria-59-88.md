@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/02300/03000301.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/59-1988-282701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T09:34:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75edd42b2d1c6b2455272b460252ffcad6ee83bf011d254a86e642bf91539d02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51a2fbfeca26c61f1f1e5ecf32a418af16c83216be35c57d8e3517b85123a198
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:34:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Embarcação de Recreio
+- Fretamento
+- Licenciamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:276448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:458992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276448:por
+  label: "Revogada pelo DEC LEI.21/2002.2002.01.31.MES DR.IS-A [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2002-276448
+  date: '2002-01-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:34:33Z'
   warnings: []
   errors: []
 ---
@@ -163,6 +177,6 @@ b) Quanto a outras pessoas a embarcar, à capitania do porto, quando se trate de
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 8 de Janeiro de 1988.**
+Assinada em 8 de Janeiro de 1988.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Eduardo Perestrello Correia de Matos, Secretário de Estado dos Transportes Exteriores e das Comunicações.

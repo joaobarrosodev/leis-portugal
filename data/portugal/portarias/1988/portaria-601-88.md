@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/20100/35903590.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/601-1988-370575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T09:34:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f2bdd49367e3c607c2b305ad5c18ecfe09a4ab9e7c4a884b0c6511ef18f1c87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dd8788b417bc171728f27b0e2dc0e96fa7413b7b0f1a40ad7eec9a8dc0bb554
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:34:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estabelecimento de Ensino
+- Mudança de Curso
+- Transferência de Alunos
 relationships:
 - type: amended_by
   target: pt:dre:374857:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:373024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:220687:por
+  label: Rectificada pela DECL.DD4039.1988.10.11.PCM DR.IS [252]2ºSUPL DE 31/OUT/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-220687
+  date: '1988-10-11'
+- type: repealed_by
+  target: pt:dre:374857:por
+  label: "Revogada a Portaria 826/82, de 30 de Agosto, alterada no presente diploma, pela PORT.612/93.29.06.1993.ME, DR.IS-B\
+    \ [150] de 29.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/612-1993-374857
+  date: '1993-06-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:34:52Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +142,6 @@ Habilitação necessária para a mudança de curso
 
 Ministério da Educação.
 
-**Assinada em 2 de Agosto de 1988.**
+Assinada em 2 de Agosto de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/17000/29912991.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/486-1988-378322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T09:31:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc686a9bb971000dfe24a09940ef069da4af50305569eab99fefdee95111785b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7efbf03d978c582c9449590b83a1864bf01d124d7e46d8767370f662b3fa4658
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:31:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Missão Militar
+- NATO
+- Pessoal Dirigente
+- Representação Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:1103971:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:568489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576960:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1103971:por
+  label: "Revogada pela PORT.343/99(2ªSÉRIE).1999.03.09.MNE DR.IIS [70] de 24/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-1999-1103971
+  date: '1999-03-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:31:56Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +116,12 @@ Manda o Governo, pelos Ministros da Defesa Nacional, das Finanças e dos Negóci
 
 3.º A composição da Missão Militar OTAN passa a ser a constante do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/17000/29912991.pdf))](https://files.diariodarepublica.pt/1s/1988/07/17000/29912991.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/17000/29912991.pdf)
 
 4.º Esta portaria revoga a [Portaria n.º 986/81](https://diariodarepublica.pt/dr/detalhe/portaria/986-1981-568489), de 19 de Novembro.
 
 Ministérios da Defesa Nacional, das Finanças e dos Negócios Estrangeiros.
 
-**Assinada em 28 de Junho de 1988.**
+Assinada em 28 de Junho de 1988.
 
-**O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.

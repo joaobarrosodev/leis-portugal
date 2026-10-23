@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/731-1988-358366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T09:38:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16ade17a8455f515c3c3ccb51a9beaedb2ef5e9c094eb460f0272e6634f9f9d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0df5b9a081ec6032ed28e9a1ec6ed44689c31722381b70c4d0f3f8ab6d3411f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:38:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Descrição de Funções
+- Faculdade de Ciências e Tecnologia
+- Faculdade de Ciências Sociais e Humanas
+- Faculdade de Economia
+- Pessoal não Docente
+- Quadro de Pessoal
+- Reitoria
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:413218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA II, ANEXO AO PRESENTE DIPLOMA, PELA PORT 1074/92 DE 21-NOV DR.IS-B
+    [270]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-11-21'
+- type: amended_by
+  target: pt:dre:554137:por
+  label: "Alterados os quadros de pessoal da Faculdade de Ciências e Tecnologia e da Faculdade de Ciências Sociais e Humanas,\
+    \ constantes dos mapas II e III anexos ao presente diploma, pela PORT.1247/93.07.12.1993.MF, DR.IS-B [285] de 07.12.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1247-1993-554137
+  date: '1993-12-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO ANEXO III, DO PESSOAL NAO DOCENTE DA FACULDADE DE CIENCIAS SOCIAIS E HUMANAS,
+    PELA PORT 275/94 DE 09-MAI DR.IS-B [107]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL NAO DOCENTE, PELA PORT 325/94 DE 27-MAI DR.IS-B [123]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DN 714/94 DE 23-SET DR.IS-B [237] DE 13/OUT/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA II ANEXO, PELA PORT 22/95 DE 10-JAN DR.IS-B [8]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA I ANEXO PELA PORT 367/95 DE 28-ABR DR.IS-B [99]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-04-28'
+- type: amended_by
+  target: pt:dre:413218:por
+  label: "Alterado o quadro de pessoal da Faculdade de Ciências Sociais e Humanas constante do mapa III anexo ao presente\
+    \ diploma, pela PORT.263/96.19.07.1996.PCM, DR.IS-B [166] de 19.07.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/263-1996-413218
+  date: '1996-07-19'
+- type: cites
+  target: pt:dre:227045:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:38:08Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +155,13 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 4 de Outubro de 1988.**
+Assinada em 4 de Outubro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
 Do MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/25800/44564468.pdf))](https://files.diariodarepublica.pt/1s/1988/11/25800/44564468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/25800/44564468.pdf)
 
 Conteúdo funcional de algumas carreiras
 

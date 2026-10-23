@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/613-1988-370217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T09:35:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 008fb1aa3d64bb94d92cd43218fd33c547c7590a65b5292dfb80581d2868de47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cd88310d71fb74443abeaab72163fca4764cf5e53e4dda395fc7b968fce7733
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:35:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Estabelecimento de Ensino
+- Estágio de Formação
+- Faculdade de Ciências Sociais e Humanas
+- Formação de Professores
+- Formação Profissional
+- Pessoal Docente
+- Universidade NOVA de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:497469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583803:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:35:07Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +122,7 @@ Filosofia (variante de História das Ideias)
 
 Disciplina: Filosofia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20400/36583659.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20400/36583659.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20400/36583659.pdf)
 
 2 - O quadro IV do anexo I da [Portaria n.º 22/88](https://diariodarepublica.pt/dr/detalhe/portaria/22-1988-583803) passa a ter a seguinte redacção:
 
@@ -116,14 +132,14 @@ Línguas e Literaturas Modernas
 
 Todas as variantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20400/36583659.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20400/36583659.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20400/36583659.pdf)
 
 As turmas indicadas no quadro supra distribuir-se-ão pelos estabelecimentos de ensino seguidamente indicados com um *. A afectação das turmas aos diferentes estabelecimentos será feita após a comunicação pela Universidade dos candidatos admitidos à inscrição no 2.º ano em cada curso e variante.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20400/36583659.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20400/36583659.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20400/36583659.pdf)
 
 Ministério da Educação.
 
-**Assinada em 9 de Agosto de 1988.**
+Assinada em 9 de Agosto de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.

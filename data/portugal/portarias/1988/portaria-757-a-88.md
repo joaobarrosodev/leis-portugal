@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 272/1988, 1º Suplemento, Série I de 1988-11-24
   number: '272'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4702-(2) a 4702-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf
 entry_into_force_dates: []
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/757-a-1988-199431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T09:38:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cd3c1331bab4b6c632f1a32fd5af1154230461bc5452f3ca5a14a331e93735e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 021eff8c14cbee5e35225e84ee3d825df69fcb3cabdf84bd71a9f7e788c861d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:38:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equipamento Eléctrico
+- Equipamento Eletrónico
+- Instalações Radioelétricas
+- Licenciamento
+- Radiodifusão
+- Segurança dos Edifícios
+- Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:214711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377928:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:214711:por
+  label: "Revogado o art.º 14.º do presente diploma, pela PORT.498/96.23.09.1996.PCM, DR.IS-B [221] de 23.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/498-1996-214711
+  date: '1996-09-23'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:38:48Z'
   warnings: []
   errors: []
 ---
@@ -365,9 +393,9 @@ O presente diploma entra imediatamente em vigor.
 
 Presidência do Conselho de Ministros e Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 21 de Novembro de 1988.**
+Assinada em 21 de Novembro de 1988.
 
-**O Secretário de Estado dos Transportes Exteriores e das Comunicações, Eduardo Perestrello Correia de Matos. - O Secretário de Estado Adjunto do Ministro Adjunto e da Juventude, Albino Azevedo Soares.**
+O Secretário de Estado dos Transportes Exteriores e das Comunicações, Eduardo Perestrello Correia de Matos. - O Secretário de Estado Adjunto do Ministro Adjunto e da Juventude, Albino Azevedo Soares.
 
 ## ANEXO I — Relações de protecção e campos utilizáveis em radiodifusão
 
@@ -417,7 +445,7 @@ Quando duas estações funcionam em canais adjacentes com larguras de faixa ou c
 
 1.2.2.1 - Os valores do campo utilizável, expressos em decibéis (uV/m), são os indicados no quadro a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf))](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf)
 
 2 - Ondas métricas.
 
@@ -425,7 +453,7 @@ Quando duas estações funcionam em canais adjacentes com larguras de faixa ou c
 
 2.1.1 - Relações de protecção para a radiodifusão na faixa de frequências 87,5-108 MHz:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf))](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf)
 
 As relações de protecção relativas às interferências troposféricas garantem uma recepção satisfatória durante 99% do tempo.
 
@@ -457,7 +485,7 @@ Estas curvas usam como parâmetros a altura equivalente da antena de emissão (h
 
 2.2.2.2 - Para alturas equivalentes de h1 inferiores a 10 m utilizam-se os valores obtidos para 10 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf))](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27201/00020011.pdf)
 
 ## ANEXO II — Especificações técnicas de funcionamento
 

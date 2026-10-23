@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/11/26900/51205124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1013-1989-549624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T09:42:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d49593fef00ab78c7ddd604753be9ba9fc5229f51eb9449c93cb27d17ad64ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99d0f39d586d0e5cc31528f4ba2d0ac719fcf6af71f1d088ddc14b4cd84bbdbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:42:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Regime Geral da Segurança Social
+- Regime não Contributivo da Segurança Social
+- Segurança Social
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:564997:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:564997:por
+  label: "Revogada pela PORT.1177/90.03.12.1990.MESS, DR.IS [278] de 03.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1177-1990-564997
+  date: '1990-12-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:42:04Z'
   warnings: []
   errors: []
 ---
@@ -260,6 +286,6 @@ O presente diploma produz efeitos a partir de 1 de Dezembro de 1989.
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 25 de Outubro de 1989.**
+Assinada em 25 de Outubro de 1989.
 
-**O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.

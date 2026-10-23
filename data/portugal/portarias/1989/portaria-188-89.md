@@ -46,40 +46,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/188-1989-613056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T09:46:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1588eb06b07a253942d2df418552c10f045f6edc98e6f56d887df2ab28d3c212
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe38e8df9059ae33c73a063db76856a1b155c395ded6e04fb22a6144d88ad59f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:46:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Apoio à Emigração
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:220697:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332041:por
+  label: "Aditado um lugar de asssessor principal, a extinguir quando vagar, pelo DN.28/90.09.04.1990.MF, DR.IS [[83]] de\
+    \ 09.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/28-1990-332041
+  date: '1990-04-09'
+- type: amended_by
+  target: pt:dre:220697:por
+  label: "Alterado o quadro de pessoal pelo DN.199/92.26.10.1992.MF, DR.IS-B [247] de 26.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/199-1992-220697
+  date: '1992-10-26'
+- type: cites
+  target: pt:dre:171089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660509:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348497:por
+  label: Rectificada pela DECL.DD1260.1989.03.29.PCM, DR.IS [75]Supl de 31/Mar/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-348497
+  date: '1989-03-29'
+- type: corrected_by
+  target: pt:dre:670569:por
+  label: Rectificada pela DECL.DD3926.1989.05.10.PCM DR.IS [124]SUPL DE 31/MAI/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-670569
+  date: '1989-05-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:46:50Z'
   warnings: []
   errors: []
 ---
@@ -92,8 +179,8 @@ Nos termos do n.º 2 do artigo 46.º do [Decreto-Lei n.º 248/85](https://diario
 
 Ministérios das Finanças e dos Negócios Estrangeiros.
 
-**Assinada em 22 de Fevereiro de 1989.**
+Assinada em 22 de Fevereiro de 1989.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/05500/10151016.pdf))](https://files.diariodarepublica.pt/1s/1989/03/05500/10151016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/05500/10151016.pdf)

@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/524-1988-378086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:33:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d5b512c86783f30ae5d0b18c5cac85e6e0b4c75b68b5386d5fc05e469f9f70f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b2de1f8e1790f5499ea5f10aead31ca154e834cac7e2c659cd537635db71ab1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:33:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arquivo
+- Conservação de Documentos
+- ICEP
+- Microfilmagem
+relationships:
+- type: cites
+  target: pt:dre:220915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:33:02Z'
   warnings: []
   errors: []
 ---
@@ -132,6 +144,6 @@ b) De acordo com o disposto no artigo 4.º do [Decreto-Lei n.º 29/72](https://d
 
 Ministério do Comércio e Turismo.
 
-**Assinada em 14 de Julho de 1988.**
+Assinada em 14 de Julho de 1988.
 
-**O Secretário de Estado do Comércio Externo, Miguel António Igrejas Horta e Costa.**
+O Secretário de Estado do Comércio Externo, Miguel António Igrejas Horta e Costa.

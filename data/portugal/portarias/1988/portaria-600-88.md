@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/20000/35723574.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/600-1988-370454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:34:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71a4997b31acb22284b34c2a9baa00a7f0d8a54c020f2f19e0e2b0cc4231069c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92cefa83f76b19395c3c4d1e1b902962deba715c852af0b38bb72279fd5f1b09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:34:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Cuidados de Saúde a Bordo
+- Diploma
+- Ensino Profissional
+- Escola Náutica Infante Dom Henrique
+- Marinha Mercante
+- Pessoal de Saúde
+- Pessoal do MAR
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:322508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322509:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 282/95 DE 07-ABR DR.IS-B [83].\0[83]."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-04-07'
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:34:47Z'
   warnings: []
   errors: []
 ---
@@ -119,17 +140,17 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 8 de Agosto de 1988.**
+Assinada em 8 de Agosto de 1988.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Eduardo Perestrello Correia de Matos, Secretário de Estado dos Transportes Exteriores e das Comunicações.
 
 ## ANEXO I — Modelo do certificado a que se refere o n.º 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/20000/35723574.pdf))](https://files.diariodarepublica.pt/1s/1988/08/20000/35723574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/20000/35723574.pdf)
 
 ## ANEXO II — Estrutura do curso de cuidados de saúde a bordo
 
-# Parte teórica
+## Parte teórica
 
 1 - Primeiros socorros:
 
@@ -263,7 +284,7 @@ Pelo Ministro das Obras Públicas, Transportes e Comunicações, Eduardo Perestr
 
 19 - Equipamento cirúrgico, instrumentos e sua manutenção.
 
-# Parte prática
+## Parte prática
 
 A - Técnicas de primeiros socorros (ressuscitação cárdio-pulmunar, controle de hemorragias, posicionamento e transporte de sinistrados).
 

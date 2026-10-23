@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/100-1989-611543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T09:41:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c44b46d39513d4e64b0ee71c76e7d88a525879dc5e777fab13b10e8f848d21ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 189c7319cb9c64a287e125470ceec44d4eea0f38c3bb8eabeb94d62afb2c8457
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:41:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital Distrital
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Santarém
 relationships:
 - type: amended_by
   target: pt:dre:226006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226006:por
+  label: "Substituído o quadro do pessoal do Hospital Distrital de Santarém, aprovado pela Port 700/87, de 17-Ago, alterado\
+    \ pelo presente diploma, 755/89, de 01-Set, 113/90, de 12-Fev, 413/91, de 16-Maio, 458/93, de 30-Abr e 510/93, de 13-Maio,\
+    \ pela PORT.599/96.21.10.1996.PCM, DR.IS-B [244] de 21.10.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-1996-226006
+  date: '1996-10-21'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:41:44Z'
   warnings: []
   errors: []
 ---
@@ -98,10 +121,10 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pess
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 12 de Janeiro de 1989.**
+Assinada em 12 de Janeiro de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal do Hospital Distrital de Santarém
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/03300/05210521.pdf))](https://files.diariodarepublica.pt/1s/1989/02/03300/05210521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/03300/05210521.pdf)

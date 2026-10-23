@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/02100/02670269.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/50-1988-282689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T09:32:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a63813ae528526939d3bed5672151dfd442513f61954ba80e6d8b0a8ba9d88be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 163d48e59b98ed55141ff670b4c88614d5c8d462c3fbb3ea67ef124bac58ac8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:32:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso Superior de Contabilidade e Administração
+- Curso Superior de Engenharia de Electrónica e Telecomunicações
+- Curso Superior de Engenharia de Máquinas
+- Ensino Superior
+- Instituto Militar dos Pupilos do Exército
+- Plano de Estudos
+- Regime de Precedências
 relationships:
 - type: amended_by
   target: pt:dre:533793:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:181205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679266:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:398841:por
+  label: Rectificada pela DECL.DD842/88.1988.02.26.PCM,DR.IS [49]2º Supl de 29/Fev/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-398841
+  date: '1988-02-26'
+- type: repealed_by
+  target: pt:dre:533793:por
+  label: "Revogada pela PORT.750/99.1999.08.27.MDN,DR.IS-B [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/750-1999-533793
+  date: '1999-08-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:32:22Z'
   warnings: []
   errors: []
 ---
@@ -101,8 +138,8 @@ Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e d
 
 Ministérios da Defesa Nacional e da Educação.
 
-**Assinada em 22 de Dezembro de 1987.**
+Assinada em 22 de Dezembro de 1987.
 
-**O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/02100/02670269.pdf))](https://files.diariodarepublica.pt/1s/1988/01/02100/02670269.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/02100/02670269.pdf)

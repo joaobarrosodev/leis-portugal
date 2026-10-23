@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/06300/11241127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-1989-613746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T09:47:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52caaab6443a2a9d05ca0c6af914e578b545f4cad3d7d4e5e6eac268736ecc20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74e488aa4e2b336e4eaf2563fff6d9107106c00eef1afbe6c01ade76cabfb6f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:47:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA de Jurisdição
+- Forças Armadas
+- Ordenamento do Território
+- Recrutamento de Pessoal
+- Região Militar
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:626630:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:356354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390184:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:670568:por
+  label: Rectificada pela DECL.DD3930.1989.04.24.PCM DR.IS [124]SUPL DE 31/MAI/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-670568
+  date: '1989-04-24'
+- type: repealed_by
+  target: pt:dre:626630:por
+  label: "Revogada pela PORT.800/93.07.09.1993.MDN, DR.IS-B [210] de 07.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/800-1993-626630
+  date: '1993-09-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:47:31Z'
   warnings: []
   errors: []
 ---
@@ -98,14 +122,14 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 Ministério da Defesa Nacional.
 
-**Assinada em 28 de Fevereiro de 1989.**
+Assinada em 28 de Fevereiro de 1989.
 
 Pelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional.
 
-## Anexo à Portaria n.º 216/89
+Anexo à Portaria n.º 216/89
 
 Áreas dos distritos de recrutamento e mobilização
 
 Concelhos abrangidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/06300/11241127.pdf))](https://files.diariodarepublica.pt/1s/1989/03/06300/11241127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/06300/11241127.pdf)

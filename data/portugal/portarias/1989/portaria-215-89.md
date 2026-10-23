@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/215-1989-613707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:47:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fad4b830ac53819c5e940ee36197b918db4e3b0f8cc44484a157b760235e195
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50cbf3d1d22de911796d777d523ac842dceb30025e689c2e7d5b9b0f95aa4b63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:47:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Oficial de Justiça
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:672607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:388386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:672607:por
+  label: "Revogada pela PORT.850/99.1999.10.04.MJ DR.IS-B [232], mantendo-se válidos os cartões de livre trânsito, cujos termos\
+    \ não contrariem o disposto nesta Port (850/99)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/850-1999-672607
+  date: '1999-10-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:47:31Z'
   warnings: []
   errors: []
 ---
@@ -113,8 +130,8 @@ e) Assinatura do director-geral dos Serviços Judiciários ou de quem legalmente
 
 Ministério da Justiça.
 
-**Assinada em 28 de Dezembro de 1988.**
+Assinada em 28 de Dezembro de 1988.
 
-**O Ministro da Justiça, Joaquim Fernando Nogueira.**
+O Ministro da Justiça, Joaquim Fernando Nogueira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/06200/11151115.pdf))](https://files.diariodarepublica.pt/1s/1989/03/06200/11151115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/06200/11151115.pdf)

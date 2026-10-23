@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 301/1988, 1º Suplemento, Série I de 1988-12-30
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5146-(5) a 5146-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/30101/00050009.pdf
 entry_into_force_dates: []
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/837-1988-401900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:41:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 471191a6faa4f33786d6593be6bf6aaf43ab3b4958eadcb8cf5236f126aa1408
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 055d8f72813a32553f882fba343f8dc186938c536594c687613b90f7b534a545
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:41:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento Geral dos Concursos do Totobola
+- Totobola
 relationships:
 - type: amended_by
   target: pt:dre:600364:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:597157:por
+  label: "Alterado o artigo 10.º do Regulamento, pela PORT.1108/92.02.12.1992.MS, DR.IS-B [278] de 02.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1108-1992-597157
+  date: '1992-12-02'
+- type: amended_by
+  target: pt:dre:600364:por
+  label: "Alterado o artigo 10.º do Regulamento, pela PORT.103/93.28.01.1993.MS, DR.IS-B [23] de 28.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/103-1993-600364
+  date: '1993-01-28'
+- type: cites
+  target: pt:dre:169669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546380:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:41:09Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +129,9 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 23 de Dezembro de 1988.**
+Assinada em 23 de Dezembro de 1988.
 
-**O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.**
+O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.
 
 REGULAMENTO GERAL DOS CONCURSOS DO TOTOBOLA
 
@@ -403,8 +431,8 @@ Os casos omissos e os duvidosos são resolvidos pela direcção do DAM, sem admi
 
 TABELA 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/30101/00050009.pdf))](https://files.diariodarepublica.pt/1s/1988/12/30101/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/30101/00050009.pdf)
 
 TABELA 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/30101/00050009.pdf))](https://files.diariodarepublica.pt/1s/1988/12/30101/00050009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/30101/00050009.pdf)

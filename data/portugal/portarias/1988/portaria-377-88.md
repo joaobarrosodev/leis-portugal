@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/13400/24602462.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/377-1988-372216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T09:29:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa77acc0339e69fd8bb474d4920d53d5a196863536e7fc6508d0318d67f53408
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4013a5e777b06bf73a091212ad0039a396d71117e01f7989cbaef49c89ced4e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:29:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- CEE
+- Financiamento
+- Indemnização Compensatória
+- Política Agrícola Comum
+- Região Agrária
+- Região Desfavorecida
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:1697888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:66432453:por
+  label: Revogada, a partir de 06.02.2015, pelo(a) Portaria n.º 22/2015 - Diário da República n.º 25/2015, Série I de 2015-02-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22-2015-66432453
+  date: '2015-02-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:29:16Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +108,16 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo
 
 1 - Zonas de montanha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/06/13400/24602462.pdf))](https://files.diariodarepublica.pt/1s/1988/06/13400/24602462.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13400/24602462.pdf)
 
 2 - Restantes zonas desfavorecidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/06/13400/24602462.pdf))](https://files.diariodarepublica.pt/1s/1988/06/13400/24602462.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13400/24602462.pdf)
 
 É revogada a Portaria n.º 170/87, de 11 de Março.
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 23 de Maio de 1988.**
+Assinada em 23 de Maio de 1988.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 14/1988, 2º Suplemento, Série I de 1988-01-18
   number: '14'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 180-(4) a 180-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/36-a-1988-183652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:28:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc1addeae403c26c91347c9111f0910d959b6260f34edf586206b2feb171c2ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8d99eee8ee45e396f071b67e18216f9460d3f8e5f95f7895d911de3e4d6b043
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:28:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Desenvolvimento Industrial
+- Desenvolvimento Regional
+- Regulamento de Aplicação do Sistema de Incentivos de BASE Regional
+- Sistema de Incentivos de BASE Regional
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ANEXOS III E IV, PELA PORTARIA 471/88, PUBLICADA NO DR.IS, 166, DE 880720.\00.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:274272:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183653:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:274272:por
+  label: "Revogada pelo DEC LEI.483-B/88.28.12.1988.MPAT, DR.IS [[299]Supl] de 28.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/483-b-1988-274272
+  date: '1988-12-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:28:51Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +117,9 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças, do Plan
 
 Ministérios das Finanças, do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação, da Indústria e Energia e do Emprego e da Segurança Social.
 
-**Assinada em 18 de Janeiro de 1988.**
+Assinada em 18 de Janeiro de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 Regulamento de Aplicação do Sistema de Incentivos de Base Regional
 
@@ -173,7 +191,7 @@ Valor da componente do incentivo ligada à dinamização da base produtiva regio
 
 2 - A percentagem referida no número anterior é variável de acordo com as zonas de modulação definidas no anexo III e corresponde aos seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf))](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf)
 
 3 - O acréscimo em relação ao limite inferior do intervalo estabelecido para cada zona de modulação será definido pelo IAPMEI em função dos critérios de política industrial definidos pelo Ministro da Indústria e Energia.
 
@@ -193,7 +211,7 @@ Valor da componente do incentivo ligada à promoção de emprego
 
 1 - O valor da componente do incentivo ligada à promoção de emprego, referida na alínea b) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 15-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1988-183653), é calculado pelo produto do número de postos de trabalho criados em virtude do investimento por um subsídio unitário, variável com as zonas de modulação definidas no anexo IV e correspondente aos seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf))](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf)
 
 2 - Quando se trate de projectos de transferência de localização, aplicar-se-á um subsídio unitário correspondente à zona de destino relativamente à criação global líquida de postos de trabalho, devendo aplicar-se um subsídio unitário equivalente à diferença entre o subsídio da zona de modulação de destino e o subsídio da zona de modulação de origem, relativamente aos restantes postos de trabalho.
 
@@ -301,7 +319,7 @@ Divulgação
 
 Serão pela DGDR divulgados publicamente o número de processos de candidaturas aprovadas e rejeitadas, o seu valor, os motivos de rejeição, a localização, os benefícios concedidos, os critérios A e B por investimento acima de 80000 contos, bem como as demais informações relevantes.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf))](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf)
 
 ## ANEXO II — AVALIAÇÃO TÉCNICO - ECONÓMICA DO PROJECTO
 
@@ -391,6 +409,6 @@ Balanços previsionais;
 
 Indicadores financeiros.
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf))](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf)
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf))](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/01402/00040009.pdf)

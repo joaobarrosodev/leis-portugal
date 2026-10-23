@@ -47,40 +47,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/751-1988-357347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:38:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74b7d6b9b6fcfd67528e51b8ebbec718425eb7bc837d2de0f642883c233717c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b083ec726a9c7392d16357e2f5af1cfe260f9195656236313a931bd4cf2cf426
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:38:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Planeamento e de Coordenação do Combate à Droga
 relationships:
 - type: amended_by
   target: pt:dre:2941970:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO GABINETE DE PLANEAMENTO E DE COORDENACAO DO COMBATE A DROGA, CONSTANTE DO MAPA I
+    ANEXO, PELO DN 381/93 DE 10-NOV DR.IS-B [280] DE 30/NOV/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-11-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO GABINETE DE PLANEAMENTO E DE COORDENACAO DO COMBATE A DROGA, CONSTANTE DO MAPA I
+    ANEXO, PELA PORT 793/94, DE 06-SET DR.IS-B [206]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DO GABINETE DE PLANEAMENTO E DE COORDENACAO DO COMBATE A DROGA, CONSTANTE DO MAPA I\
+    \ ANEXO, PELA PORT 182/96 DE 30-MAI DR.IS-B [126]\0 182/96 DE 30-MAI DR.IS-B [126]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-05-30'
+- type: amended_by
+  target: pt:dre:444764:por
+  label: "Alterado o quadro de pessoal do Gabinete de Planeamento e de Coordenação do Combate à Droga, pela PORT.182/96.30.05.1996.PCM,\
+    \ DR.IS-B [126] de 30.05.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/182-1996-444764
+  date: '1996-05-30'
+- type: amended_by
+  target: pt:dre:1543863:por
+  label: "Alterado o quadro de pessoal, pela PORT.1808/2000(2ªSÉRIE).2000.01.18.PCM DR.IIS [271] DE 23/NOV/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1808-2000-1543863
+  date: '2000-01-18'
+- type: amended_by
+  target: pt:dre:2941970:por
+  label: "Alterado o quadro de pessoal constante do mapa I pela PORT.980/2000(2ªSÉRIE).2000.06.28.PCM DR.IIS [157] de 10/Jul/2000\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/980-2000-2941970
+  date: '2000-06-28'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:38:38Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +157,7 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, o seguinte:
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 27 de Outubro de 1988.**
+Assinada em 27 de Outubro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Justiça, Joaquim Fernando Nogueira.
 
@@ -129,4 +177,4 @@ e) Desenvolvimento de actividades no âmbito de relações públicas.
 
 Do MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/27000/46644670.pdf))](https://files.diariodarepublica.pt/1s/1988/11/27000/46644670.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27000/46644670.pdf)

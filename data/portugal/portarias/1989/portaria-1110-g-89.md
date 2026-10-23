@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 297/1989, 1º Suplemento, Série I de 1989-12-28
   number: '297'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5622-(10) a 5622-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29701/00100010.pdf
 entry_into_force_dates: []
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1110-g-1989-284889
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T09:44:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dec21172b4d9f4e338a84f9f0888b0780bdc6bd63878d797d880cfb4840e7a3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 763551352adaf1935e54ab2214ade815f86a1349e47259b6718bdd8cbfe64b90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:44:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Passe Social
+- Preço
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:405703:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:149827:por
+  label: "Alterado o n.º 2.º da Portaria n.º 925-M/87, de 4 de Dezembro, alterado pelo presente diploma, pela PORT.69/92.01.02.1992.SEF-MF,\
+    \ DR.IS-B [27] de 01.02.1992\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1992-149827
+  date: '1992-02-01'
+- type: cites
+  target: pt:dre:352316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514040:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:44:30Z'
   warnings: []
   errors: []
 ---
@@ -116,6 +133,6 @@ Na região do Porto - dos STCP, os passes cidade (A), periferia norte (B), Vila 
 
 Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
 
-**Assinada em 28 de Dezembro de 1989.**
+Assinada em 28 de Dezembro de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

@@ -49,36 +49,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/586-1988-379724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T09:34:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fff144c25be2de15694e6df2cdabc63d2cffb195f331fc530fa6721af56e965a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 039c4e31ead0a8c8da7526e32eb6d322d1eb533bac64b3502d2859622d3bf6d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:34:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Faculdade de Ciências e Tecnologia
+- Licenciatura
+- Plano de Estudos
+- Universidade NOVA de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:382380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621743:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:34:27Z'
   warnings: []
   errors: []
 ---
@@ -173,11 +202,11 @@ As regras do regime de transição a adoptar para os alunos que hajam estado ins
 
 Ministério da Educação.
 
-**Assinada em 27 de Julho de 1988.**
+Assinada em 27 de Julho de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correio Ralha, Secretário de Estado do Ensino Superior.
 
-## Anexo I à [Portaria n.º 617/83](https://diariodarepublica.pt/dr/detalhe/portaria/617-1983-451807), de 28 de Maio - Alteração
+Anexo I à [Portaria n.º 617/83](https://diariodarepublica.pt/dr/detalhe/portaria/617-1983-451807), de 28 de Maio - Alteração
 
 Licenciatura em Engenharia do Ambiente (ramo de Ambiente)
 
@@ -235,7 +264,7 @@ a) Quatro semestres lectivos de inscrição no curso;
 
 b) Obtenção de 40 unidades de crédito.
 
-## Anexo III à [Portaria n.º 617/83](https://diariodarepublica.pt/dr/detalhe/portaria/617-1983-451807), de 28 de Maio - Alteração
+Anexo III à [Portaria n.º 617/83](https://diariodarepublica.pt/dr/detalhe/portaria/617-1983-451807), de 28 de Maio - Alteração
 
 Licenciatura em Engenharia do Ambiente (ramo de Engenharia Sanitária)
 
@@ -291,7 +320,7 @@ a) Quatro semestres lectivos de inscrição no curso;
 
 b) Obtenção de 34 unidades de crédito.
 
-## Anexo VI à [Portaria n.º 617/83](https://diariodarepublica.pt/dr/detalhe/portaria/617-1983-451807), de 28 de Maio - Alteração
+Anexo VI à [Portaria n.º 617/83](https://diariodarepublica.pt/dr/detalhe/portaria/617-1983-451807), de 28 de Maio - Alteração
 
 Licenciatura em Engenharia Física e dos Materiais (ramo de Engenharia dos Materiais)
 
@@ -339,7 +368,7 @@ a) Quatro semestres lectivos;
 
 b) Obtenção de 60 unidades de crédito.
 
-## Anexo I à [Portaria n.º 903/84](https://diariodarepublica.pt/dr/detalhe/portaria/903-1984-401362), de 11 de Dezembro - Alteração
+Anexo I à [Portaria n.º 903/84](https://diariodarepublica.pt/dr/detalhe/portaria/903-1984-401362), de 11 de Dezembro - Alteração
 
 Licenciatura em Engenharia de Produção Industrial
 

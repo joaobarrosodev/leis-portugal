@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29400/55335533.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1098-1989-551239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T09:44:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30e0c2cd77d8ebb420bac1c57431f08e98c62272494da2f9825543353cfb7010
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a522c40e110d0051c90719b609babe0bc4757772a57906c952c8fd9ff1072ae6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:44:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Delnato
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:315503:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382184:por
+  label: "Alterado o quadro de pessoal especializado anexo ao Dec Lei 133/85 de 02-Mai, com as composi&#231;&#245;es que lhe\
+    \ foram dadas pelo art&#186; 1&#186; do Dec Lei 146/89 de 06-Mai e pelo n&#186; 3 da Port 1098/89 de 23-Dez, pela Port.282/97.1997.05.02.PCM\
+    \ DR.IS-B [101]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-1997-382184
+  date: '1997-05-02'
+- type: cites
+  target: pt:dre:152327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611706:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533613:por
+  label: "REVOGADA PELA PORTARIA 14/94, DE 6 DE JANEIRO, PUBLICADA NO DR.IS-B, 4, DE 940106.\0106.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/14-1994-533613
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:44:04Z'
   warnings: []
   errors: []
 ---
@@ -114,10 +151,10 @@ c) Quatro conselheiros militares, sendo pelo menos um de cada ramo das forças a
 
 Ministérios da Defesa Nacional, das Finanças e dos Negócios Estrangeiros.
 
-**Assinada em 13 de Dezembro de 1989.**
+Assinada em 13 de Dezembro de 1989.
 
-**O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.**
+O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro dos Negócios Estrangeiros, José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29400/55335533.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29400/55335533.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29400/55335533.pdf)

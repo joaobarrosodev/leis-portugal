@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29600/55765580.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1105-1989-551226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T09:44:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f351128b93bf1b1258495ba05a62f5ec4ea3b6627daf30c358b7b793c8fa353a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed646887d8f2f0576ac27a2ca1d3f17b6047a713fb31dabfd194259351a9c8a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:44:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aditivo Alimentar
+- Alimento para Animais
+- Produto Proteico
 relationships:
 - type: amended_by
   target: pt:dre:476909:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575160:por
+  label: "Alterado o anexo pela PORT.458/90.20.06.1990.MAPA, DR.IS [140] de 20.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-1990-575160
+  date: '1990-06-20'
+- type: amended_by
+  target: pt:dre:687208:por
+  label: "Alterado o anexo pela PORT.743/91.02.08.1991.MAPA, DR.IS-B [176] de 02.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/743-1991-687208
+  date: '1991-08-02'
+- type: amended_by
+  target: pt:dre:291448:por
+  label: "Alterado o anexo pela PORT.481/94.02.07.1994.MA, DR.IS-B [151] de 02.07.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/481-1994-291448
+  date: '1994-07-02'
+- type: amended_by
+  target: pt:dre:532257:por
+  label: "Alterado o anexo pela.Port.39/97.1997.01.14.MADRP, DR.IS-B [11]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/39-1997-532257
+  date: '1997-01-14'
+- type: repealed_by
+  target: pt:dre:476909:por
+  label: "Revogada, com a redacção dada pelas Port 458/90 de 20-Jun, 743/91 de 02-Ago, 481/94 de 02-Jul e 39/97 de 14-Jan,\
+    \ pela DEC LEI.15/2005.12.01.2005.MAPF, DR.IS-A [8] de 12.01.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2005-476909
+  date: '2005-01-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:44:15Z'
   warnings: []
   errors: []
 ---
@@ -102,8 +131,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 27 de Dezembro de 1989.**
+Assinada em 27 de Dezembro de 1989.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques Cunha, Secretário de Estado Adjunto do Ministro da Agricultura, Pescas e Alimentação.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29600/55765580.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29600/55765580.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29600/55765580.pdf)

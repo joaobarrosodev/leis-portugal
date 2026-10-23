@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1038-1989-550811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T09:42:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d93933388d902d3399bf3acca29f2dcd5070b4ca8e2eba9c1e7b431d3231fac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98bd6cc04b93fbf641d71c70a9e26a98082b0dff01a3db33064e0dc33ee62201
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:42:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Documentação Administrativa
+- Modernização Administrativa
+- Serviços de Registo e Notariado
+relationships:
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:42:39Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +102,7 @@ Formado das folhas, pautas com 35 linhas: 2 1/4 A5 (210 mm x 334 mm).
 
 Tipo de qualidade do papel: registo de 120 g.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/27600/52225222.pdf))](https://files.diariodarepublica.pt/1s/1989/11/27600/52225222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/11/27600/52225222.pdf)
 
 Modelo das pastas do registo comercial
 
@@ -113,6 +120,6 @@ Material: cartão ou fibra resistente e pregagem metálica interior para arquiva
 
 Ministério da Justiça.
 
-**Assinada em 14 de Novembro de 1989.**
+Assinada em 14 de Novembro de 1989.
 
 Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

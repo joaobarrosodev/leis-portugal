@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/03000/04040405.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-1988-283107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T09:39:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5f9d3d9257741e60738bfa28a727a9133f35d9e96caa7b8fd94ff879bf90326
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6f74c2186822e43604db3570be9fb199fe0f005c9063a74ec9e96d8c369c028
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:39:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação de Pesca
+- Pesca
+- Prémio de Imobilização
 relationships:
 - type: amended_by
   target: pt:dre:291604:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234343:por
+  label: "Alterados os n.ºs 9 e 10 do presente diploma, pela PORT.3/89.02.01.1989.MAPA, DR.IS [1] de 02.01.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-1989-234343
+  date: '1989-01-02'
+- type: amended_by
+  target: pt:dre:332424:por
+  label: "Alterado o nº 9 da presente portaria, na redacção da Port 3/89, de 02-jan, pela PORT.172/90.06.03.1990.MAPA, DR.IS\
+    \ [54] de 06.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/172-1990-332424
+  date: '1990-03-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUMERO 9, NA REDACÇÃO QUE LHE FOI DADA PELA PORTARIA 172/90, DE 6 DE MARCO, PELA PORTARIA 1239/92, PUBLICADA\
+    \ NO DR.IS-B, 301, 4 SUPL.\0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-12-31'
+- type: repealed_by
+  target: pt:dre:291604:por
+  label: "Revogada pelo DEC LEI.189/94.1994.07.05.MM, DR.IS-A [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-1994-291604
+  date: '1994-07-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:39:58Z'
   warnings: []
   errors: []
 ---
@@ -151,12 +176,12 @@ d) Enquadramento da embarcação a abater num plano de reestruturação da frota
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 22 de Janeiro de 1988.**
+Assinada em 22 de Janeiro de 1988.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
 Tabela
 
 (a que se refere o n.º 9.º da Portaria n.º 80/88, de 5 de Fevereiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/02/03000/04040405.pdf))](https://files.diariodarepublica.pt/1s/1988/02/03000/04040405.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/03000/04040405.pdf)

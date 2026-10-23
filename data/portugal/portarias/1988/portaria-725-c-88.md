@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/1988, 1º Suplemento, Série I de 1988-10-31
   number: '252'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4404-(2) a 4404-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/25201/00020003.pdf
 entry_into_force_dates: []
@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/725-c-1988-220569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T09:38:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c71ac136a26e7218e8888c8a84092df7489beb84d739f93748a0626cddfbbcc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 993fbf833511702c8bc323b5c8e271db181a51b324eb791dbcb78ba107263975
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:38:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alvará
+- Comissão de Alvarás de Empresas de Obras Públicas e Particulares
+- Conselho de Mercados de Obras Públicas e Particulares
+- Empreiteiro de Obras Públicas
+- Industrial da Construção Civil
+- Licenciamento
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399776:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:38:03Z'
   warnings: []
   errors: []
 ---
@@ -147,6 +166,6 @@ b) O estabelecido nos n.os 6.º e 7.º entra imediatamente em vigor.
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 28 de Outubro de 1988.**
+Assinada em 28 de Outubro de 1988.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Alves Elias da Costa, Secretário de Estado da Construção e Habitação.

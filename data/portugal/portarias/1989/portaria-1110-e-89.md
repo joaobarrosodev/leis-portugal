@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 297/1989, 1º Suplemento, Série I de 1989-12-28
   number: '297'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5622-(6) a 5622-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29701/00060008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1110-e-1989-284887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T09:44:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cb60d92e37096fe56c494a3bdf28f7ae1f0dbc3cf54e39879646f6207e7ccfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3095cdae7d33de84f4f25c3e5cb8be9d0338802922f212099bd2178fb3fccb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:44:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Aeroporto
+- Taxa Aeroportuária
+- Transporte Aéreo
+relationships:
+- type: cites
+  target: pt:dre:500433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELA PORTARIA 1109/91, PUBLICADA NO DR.IS-B, 246, DE 911025.\0025.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:44:29Z'
   warnings: []
   errors: []
 ---
@@ -252,6 +276,6 @@ Todos os aeroportos - 10% da receita bruta que esta actividade proporcionar à e
 
 Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
 
-**Assinada em 28 de Dezembro de 1989.**
+Assinada em 28 de Dezembro de 1989.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/376-1988-372056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T09:29:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f9601ab5e7b88d48cf11ef070c59ca9385a51eced6bf5e7eb1ff2a0c14942cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83d912cc5091aae756244c50e6f3f7f6c7cfea15780a92f0de7e04efb1302884
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:29:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Hospitalar do Vale do Sousa
+- Estabelecimento Hospitalar
+- Quadro de Pessoal
+- VALE do Sousa
 relationships:
 - type: amended_by
   target: pt:dre:618570:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:556804:por
+  label: "Reestruturado o quadro de pessoal do Centro Hospitalar do Vale do Sousa, pela PORT.771/90.31.08.1990.MF, DR.IS [201]\
+    \ de 31.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/771-1990-556804
+  date: '1990-08-31'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Centro Hospitalar do Vale do Sousa pelo(a) Portaria n.º 413/91 - Diário
+    da República n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: amended_by
+  target: pt:dre:233129:por
+  label: "Alterado o quadro de pessoal, na parte relativa às carreiras de técnico superior de serviço social e de técnico\
+    \ superior de saúde, pela PORT.947/92.29.09.1992.MF, DR.IS-B [225] de 29.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/947-1992-233129
+  date: '1992-09-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO CENTRO HOSPITALAR DO VALE DO SOUSA (COM NOVA DESIGNAÇÃO HOSPITAL DE PADRE AMERICO),\
+    \ PELA PORTARIA 918/94, DE 14 DE OUTUBRO, PUBLICADA NO DR.IS-B, 238.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-14'
+- type: cites
+  target: pt:dre:383204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:29:16Z'
   warnings: []
   errors: []
 ---
@@ -106,22 +150,22 @@ a) Repartição de Pessoal e Admissão de Doentes, que integra:
 
 #### Secção de Pessoal;
 
-#### Secção de Admissão de Doentes, Arquivo e Estatística;
+Secção de Admissão de Doentes, Arquivo e Estatística;
 
 b) Repartição de Contabilidade e Aprovisionamento, que compreende:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Aprovisionamento.
+Secção de Aprovisionamento.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 16 de Maio de 1988.**
+Assinada em 16 de Maio de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 Quadro de pessoal do Centro Hospitalar do Vale do Sousa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/06/13200/24292433.pdf))](https://files.diariodarepublica.pt/1s/1988/06/13200/24292433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13200/24292433.pdf)
 
 Nota. - Ao funcionário administrativo que exercer funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

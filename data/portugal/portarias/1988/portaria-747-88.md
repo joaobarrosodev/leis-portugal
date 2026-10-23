@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-1988-357702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T09:38:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5982b3404c8b61d727986f7341d35a751da70268d575e73521071f1c2477c093
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 243ab11bbe1bd434b7dd21e13fd4d02f44dbea084c47f9c6e7e3e41eb372d475
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:38:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Paralisia Cerebral
+- Centro Nacional de Pensões
+- Coimbra
+- Lisboa
+- Porto
+- Recolhimentos da Capital
+- Reestruturação de Carreiras
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DO CENTRO DE PARALISIA CEREBRAL DE LISBOA PELA PORTARIA 247/92, PUBLICADA NO DR.IS-B,\
+    \ 72, DE 920326. ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 877/92, PUBLICADA NO DR.IS-B, 208, DE 920909. ALTERADO O\
+    \ QUADRO DE PESSOAL DOS RECOLHIMENTOS DA CAPITAL, PELA PORTARIA 865/92, PUBLICADA NO DR.IS-B, 206, DE 920907, ABATIDA\
+    \ A CARREIRA DE TÉCNICO DE SERVIÇO SOCIAL PELO MESMO DIPLOMA. ALTERADO O QUADRO DE PESSOAL, DO CENTRO HOSPITALAR DE REABILITAÇÃO\
+    \ DE PARALISIA CEREBRAL DE COIMBRA, PELA PORTARIA 805/92, PUBLICADA NO DR.IS-B, 189, DE 920818.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:234729:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240842:por
+  label: "Alterado o quadro de pessoal do Centro de Paralisia Cerebral do Porto pela PORT.859/92.04.09.1992.MF, DR.IS-B [204]\
+    \ de 04.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/859-1992-240842
+  date: '1992-09-04'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421474:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348494:por
+  label: Rectificada pela DECL.DD1258.1989.03.10.PCM, DR.IS [75]Supl de 31/Mar/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-348494
+  date: '1989-03-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:38:33Z'
   warnings: []
   errors: []
 ---
@@ -103,10 +145,10 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 31 de Outubro de 1988.**
+Assinada em 31 de Outubro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
 
 Mapa I anexo a que se refere o n.º 1.º da Portaria n.º 747/88
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/26600/46004607.pdf))](https://files.diariodarepublica.pt/1s/1988/11/26600/46004607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/26600/46004607.pdf)

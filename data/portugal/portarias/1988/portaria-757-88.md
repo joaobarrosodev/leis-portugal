@@ -48,40 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/757-1988-357338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T09:38:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8b939d10be388a64ac6f26aee82af1376a8f297b09fbcaa7ea790e8c6bd82f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 844e9741706c130ff8b0ca20b4eb737b3b57e9c6176e7bd017bb322a8064b03f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:38:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Especialização
+- Ensino Superior
+- Ensino Superior Politécnico
+- Escola Superior de Tecnologia
+- Plano de Estudos
+- Santarém
 relationships:
 - type: amended_by
   target: pt:dre:495901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497809:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:495901:por
+  label: Revogada, a partir de 15.01.199, a Port 866/87 de 07-nov, na redação do presente diploma, pelo(a) Portaria n.º 34/91
+    - Diário da República n.º 12/1991, Série I-B de 1991-01-15 sem prejuízo do regime de transição a que se refere o n.º 25.º
+    desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/34-1991-495901
+  date: '1991-01-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:38:48Z'
   warnings: []
   errors: []
 ---
@@ -118,8 +151,8 @@ Os alunos inscritos no anterior plano de estudos serão integrados no novo plano
 
 Ministério da Educação.
 
-**Assinada em 2 de Novembro de 1988.**
+Assinada em 2 de Novembro de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/27200/47014701.pdf))](https://files.diariodarepublica.pt/1s/1988/11/27200/47014701.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27200/47014701.pdf)

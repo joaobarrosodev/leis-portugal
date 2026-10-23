@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15700/28252828.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-1988-373266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T09:31:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b693941674aeb30c851a9da234ef86bfb5da119aa1566d8f1a84d8e0a99e00bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16444bca1dfd68cb67f36a505d48652654b61ba13dc359a5320c07ee942ce135
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:31:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Construção Civil
+- Curso de Gestão de Empresas
+- Escola Superior de Tecnologia
+- Instituto Politécnico
+- Plano de Estudos
+- Santarém
+- Tomar
 relationships:
 - type: amended_by
   target: pt:dre:598693:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:557836:por
+  label: "Alterado para bacharelato em Engenharia de Construção Civil, a designação do bacharelato em Construção Civil, bem\
+    \ como alterados os quadros do anexo I à Port 317-C/86, de 24-Jun, na redacção do presente diploma, pela PORT.826/90.12.09.1990.ME,\
+    \ DR.IS [211] de 12.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-1990-557836
+  date: '1990-09-12'
+- type: amended_by
+  target: pt:dre:557785:por
+  label: "Alterado o nº1 do nº6-A da Port 317-C/86, de 24-Jun, na redação do presente diploma, pela PORT.837/90.14.09.1990.ME,\
+    \ DR.IS [213] de 14.09.1990\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/837-1990-557785
+  date: '1990-09-14'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621745:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:202455:por
+  label: "Revogada, no que respeita ao curso de bacharelato em Engenharia Química Industrial, pela PORT.676/97.1997.08.12.ME,\
+    \ DR.IS-B [185], sem prejuízo do disposto nos nums 8 e 9 da citada Port\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/676-1997-202455
+  date: '1997-08-12'
+- type: repealed_by
+  target: pt:dre:598693:por
+  label: "Revogada, na parte em que, conjugada com o Dec Lei 96/96, de 17-Jul, autorizou o Instituto Politécnico de Tomar,\
+    \ através da sua Escola Superior de Tecnologia, a conferir o grau de bacharel em Engenharia Química Industrial, findo\
+    \ o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98, de 17-Jul, a Port\
+    \ 317-C/86, de 24-Jun, na redacção do presente diploma, pela PORT.1149/2000.2000.12.04.ME, DR.IS-B [279]. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1149-2000-598693
+  date: '2000-12-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:31:11Z'
   warnings: []
   errors: []
 ---
@@ -140,8 +187,8 @@ O disposto na presente portaria aplica-se a partir do ano lectivo de 1988-1989, 
 
 Ministério da Educação.
 
-**Assinada em 9 de Junho de 1988.**
+Assinada em 9 de Junho de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/15700/28252828.pdf))](https://files.diariodarepublica.pt/1s/1988/07/15700/28252828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/15700/28252828.pdf)

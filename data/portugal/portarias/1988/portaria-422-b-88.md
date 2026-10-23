@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 152/1988, 1º Suplemento, Série I de 1988-07-04
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2732-(24) a 2732-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15201/00240026.pdf
 entry_into_force_dates: []
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-b-1988-644318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T09:30:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb2b77d09f97283f1fe39e7995db7897fa25fdcfed5ca4a53cc7b22c46b72690
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdd116dee4f4fa0762733fcee16a887c88c8b568ed87d7281d869306a6bd9b55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:30:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- Fundo de Investimento Imobiliário
+- Fundo de Investimento Mobiliário
+- Mercado de Valores
+- Sociedade de Investimento
+- Sociedade Gestora de Fundos de Investimento
+- Sociedade Parabancária
 relationships:
 - type: amended_by
   target: pt:dre:621311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621311:por
+  label: "Mantida a vigência relativamente aos fundos referidos no nº 2 do art. 1º do DEC LEI.276/94.1994.11.02.MF, DR.IS-A\
+    \ [253], e suas sociedades gestoras pelo mesmo diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-1994-621311
+  date: '1994-11-02'
+- type: cites
+  target: pt:dre:194659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O NUMERO 4 PELO DECRETO LEI 142-A/91, DE 10 DE ABRIL, PUBLICADO NO DR.IS-A, 83, SUPL.\0 SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-04-10'
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogado o nº 4º pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.1991, a partir da data de sua entrada\
+    \ em vigor, e sem prejuízo dos regimes transitórios nele previstos.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:30:26Z'
   warnings: []
   errors: []
 ---
@@ -155,6 +195,6 @@ e) Não podem ser aplicados num único empreendimento mais de 20% do valor líqu
 
 Ministério das Finanças.
 
-**Assinada em 30 de Junho de 1988.**
+Assinada em 30 de Junho de 1988.
 
-**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

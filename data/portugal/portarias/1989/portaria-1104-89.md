@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29600/55705573.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1104-1989-551225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T09:44:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e90060ebbd5aa1b7082fc028e0a74862c2ae3bcfb5cb35636b4034f06e0e6e14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edd6f6f40672dacea677a507a12e4dbd19fd2a9d7cbd488a21c812daba6aeca3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:44:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aditivo Alimentar
+- Alimento para Animais
 relationships:
 - type: amended_by
   target: pt:dre:571412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:571412:por
+  label: "Revogada pela PORT.69/97.1997.01.29.MADRP DR.IS-B [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1997-571412
+  date: '1997-01-29'
 article_structure:
   article_count: 0
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:44:14Z'
   warnings: []
   errors: []
 ---
@@ -114,9 +121,9 @@ b) À protecção dos animais utilizados para efeitos experimentais ou para outr
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 27 de Dezembro de 1989.**
+Assinada em 27 de Dezembro de 1989.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
 
 ## ANEXO (ver nota a) — Linhas directrizes para avaliação dos aditivos destinados à alimentação animal
 
@@ -146,11 +153,11 @@ Qualquer modificação que intervenha no processo de fabrico ou na composição 
 
 SUMÁRIO
 
-### CAPÍTULO I - Resumo dos dados do processo.
+CAPÍTULO I - Resumo dos dados do processo.
 
-### CAPÍTULO II - Identidade, características e condições de utilização do aditivo - Métodos de controlo.
+CAPÍTULO II - Identidade, características e condições de utilização do aditivo - Métodos de controlo.
 
-### CAPÍTULO III - Estudos relativos à eficácia do aditivo.
+CAPÍTULO III - Estudos relativos à eficácia do aditivo.
 
 1 - Estudos sobre a melhoria da qualidade dos alimentos para animais.
 
@@ -158,7 +165,7 @@ SUMÁRIO
 
 3 - Estudos sobre a qualidade dos produtos de origem animal.
 
-### CAPÍTULO IV - Estudos relativos à segurança de utilização do aditivo.
+CAPÍTULO IV - Estudos relativos à segurança de utilização do aditivo.
 
 1 - Estudos sobre as espécies alvo.
 
@@ -172,7 +179,7 @@ SUMÁRIO
 
 3 - Estudos em animais de laboratório.
 
-### CAPÍTULO V - Modelo de monografia.
+CAPÍTULO V - Modelo de monografia.
 
 ### CAPÍTULO I — Resumo dos dados do processo
 

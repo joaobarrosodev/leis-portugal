@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-1988-282958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T09:41:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d57c6122f207876dbc30d486c10efab58383f32971c36e3b0c801e345bf2661
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20c192e69b3a7eeb642d62f170821a9ba324109117af6ed89ab7626c6e72a2bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:41:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Controlo de Qualidade
+- Embalagem
+- Fruto
+- Proteção do Consumidor
+- Qualidade do Produto
+relationships:
+- type: cites
+  target: pt:dre:227443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546470:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:41:29Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +112,7 @@ Manda o Governo da República Portuguesa, pelos Ministros da Agricultura, Pescas
 
 Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 25 de Janeiro de 1988.**
+Assinada em 25 de Janeiro de 1988.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Luís Gonzaga de Sousa Morais Cardoso, Secretário de Estado da Alimentação. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
 
@@ -175,7 +192,7 @@ O calibre do fruto é determinado pelo diâmetro máximo da sua secção equator
 
 As ameixas devem apresentar os calibres mínimos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/02/03300/04570461.pdf))](https://files.diariodarepublica.pt/1s/1988/02/03300/04570461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/03300/04570461.pdf)
 
 A diferença de diâmetro entre os frutos de uma mesma embalagem da categoria extra é fixado em 10 mm.
 
@@ -513,7 +530,7 @@ III - Calibragem
 
 O calibre é determinado pelo diâmetro máximo da secção equatorial do fruto. Quando o calibre for obrigatório, deverá ser utilizada a seguinte escala:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/02/03300/04570461.pdf))](https://files.diariodarepublica.pt/1s/1988/02/03300/04570461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/03300/04570461.pdf)
 
 A calibragem é obrigatória para as categorias extra, I e II, podendo nesta última agrupar-se dois calibres consecutivos da escala, com a devida indicação no rótulo.
 

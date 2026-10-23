@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/389-1988-371778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T09:29:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f96c080c4a31ee895eaedf585fa4461536c055a40382f5fa83aa90ef048cea9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad36725a2e759f6e4896ad074388dbb40045bd336fd149d3a857122ec40d6be7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:29:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cálculo de Pensões
+- Coeficiente de Actualização
+- Contribuições da Segurança Social
+- Regime Geral da Segurança Social
+- Remuneração
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:610903:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:610903:por
+  label: "Substituída a tabela, a partir de 01.06.1988, pela PORT.367/89.23.05.1989.MESS, DR.IS [118] de 23.05.1989, mantendo-se\
+    \ o presente diploma em aplicação até à entrada em vigor daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/367-1989-610903
+  date: '1989-05-23'
+- type: cites
+  target: pt:dre:228837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:29:31Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +146,10 @@ Assim, ao abrigo do disposto no artigo 201.º do [Decreto n.º 45266](https://di
 
 Manda o Governo, pelo Secretário de Estado da Segurança Social, que a tabela inserta na [Portaria n.º 301/87](https://diariodarepublica.pt/dr/detalhe/portaria/301-1987-666135), de 10 de Abril, seja substituída pela seguinte, com efeitos a partir de 1 de Janeiro de 1988:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/06/13800/25012502.pdf))](https://files.diariodarepublica.pt/1s/1988/06/13800/25012502.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13800/25012502.pdf)
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 23 de Maio de 1988.**
+Assinada em 23 de Maio de 1988.
 
-**O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.**
+O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.

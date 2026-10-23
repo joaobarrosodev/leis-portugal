@@ -49,40 +49,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/549-1988-376835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T09:33:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72a256a90e7b8c673d78793081a80d56060d9ac8aa179e39aee5e77b9ce9d196
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 836012412131eefde8d43aae3d4078bf82dc78c1be98a798401c83f34eeb81f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:33:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Instituto Superior Técnico
+- Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:620478:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620478:por
+  label: "Alterados os quadros I e II do anexo VII da Port 1127/82 de 02-Dez, alterada pela presente portaria, pela PORT.453/89.1989.06.19.ME,\
+    \ DR.IS [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/453-1989-620478
+  date: '1989-06-19'
+- type: cites
+  target: pt:dre:379905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621747:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:33:37Z'
   warnings: []
   errors: []
 ---
@@ -127,11 +161,11 @@ Compete ao reitor, sob proposta do conselho científico, ouvido o conselho pedag
 
 Ministério da Educação.
 
-**Assinada em 13 de Julho de 1988.**
+Assinada em 13 de Julho de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-## Anexo I à [Portaria n.º 1127/82](https://diariodarepublica.pt/dr/detalhe/portaria/1127-1982-379942), de 2 de Dezembro
+Anexo I à [Portaria n.º 1127/82](https://diariodarepublica.pt/dr/detalhe/portaria/1127-1982-379942), de 2 de Dezembro
 
 Alteração
 
@@ -139,7 +173,7 @@ Licenciatura em Engenharia Civil
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/18700/33723373.pdf))](https://files.diariodarepublica.pt/1s/1988/08/18700/33723373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/18700/33723373.pdf)
 
 QUADRO II
 
@@ -189,7 +223,7 @@ Materiais.
 
 Matérias Interdisciplinares.
 
-## Anexo VII à [Portaria n.º 1127/82](https://diariodarepublica.pt/dr/detalhe/portaria/1127-1982-379942), de 2 de Dezembro
+Anexo VII à [Portaria n.º 1127/82](https://diariodarepublica.pt/dr/detalhe/portaria/1127-1982-379942), de 2 de Dezembro
 
 Alteração
 
@@ -197,7 +231,7 @@ Licenciatura em Engenharia Naval
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/18700/33723373.pdf))](https://files.diariodarepublica.pt/1s/1988/08/18700/33723373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/18700/33723373.pdf)
 
 QUADRO II
 
@@ -207,7 +241,7 @@ Pescas.
 
 Complementos de Engenharia Naval.
 
-## Anexo VIII à [Portaria n.º 1127/82](https://diariodarepublica.pt/dr/detalhe/portaria/1127-1982-379942), de 2 de Dezembro
+Anexo VIII à [Portaria n.º 1127/82](https://diariodarepublica.pt/dr/detalhe/portaria/1127-1982-379942), de 2 de Dezembro
 
 Alteração
 
@@ -215,7 +249,7 @@ Licenciatura em Engenharia Física Tecnológica
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/18700/33723373.pdf))](https://files.diariodarepublica.pt/1s/1988/08/18700/33723373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/18700/33723373.pdf)
 
 QUADRO II
 

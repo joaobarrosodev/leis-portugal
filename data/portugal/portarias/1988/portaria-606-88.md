@@ -48,36 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/606-1988-370414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T09:34:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed7bbcba1094314a8f37261660684b912f859b478459ff210bf3dea1b787160c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7864cd0873a6545c5ee334a07b2a2ff679810239485b47e945b77939ae129b78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:34:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Engenharia Geologica
+- Curso de Geologia
+- Ensino Superior
+- Faculdade de Ciências e Tecnologia
+- Licenciatura
+- Universidade de Coimbra
+relationships:
+- type: cites
+  target: pt:dre:177050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:34:57Z'
   warnings: []
   errors: []
 ---
@@ -166,11 +192,11 @@ Esta portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 5 de Agosto de 1988.**
+Assinada em 5 de Agosto de 1988.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-## Anexo XI [Portaria n.º 746/85](https://diariodarepublica.pt/dr/detalhe/portaria/746-1985-177050), de 1 de Outubro - Alteração
+Anexo XI [Portaria n.º 746/85](https://diariodarepublica.pt/dr/detalhe/portaria/746-1985-177050), de 1 de Outubro - Alteração
 
 Licenciatura em Geologia
 
@@ -206,7 +232,7 @@ e) Biologia e Antropologia ... 4 a 8
 
 Obtenção de 50 unidades de crédito.
 
-## Anexo XII à [Portaria n.º 746/85](https://diariodarepublica.pt/dr/detalhe/portaria/746-1985-177050), de 1 de Outubro - Alteração
+Anexo XII à [Portaria n.º 746/85](https://diariodarepublica.pt/dr/detalhe/portaria/746-1985-177050), de 1 de Outubro - Alteração
 
 Licenciatura em Geologia
 
@@ -252,7 +278,7 @@ a) Obtenção de 50 unidades de crédito;
 
 b) Satisfação das condições a que se refere o n.º 1 do n.º 5.º
 
-## Anexo XIX à [Portaria n.º 746/85](https://diariodarepublica.pt/dr/detalhe/portaria/746-1985-177050), de 1 de Outubro - Alteração
+Anexo XIX à [Portaria n.º 746/85](https://diariodarepublica.pt/dr/detalhe/portaria/746-1985-177050), de 1 de Outubro - Alteração
 
 Licenciatura em Engenharia Geológica
 

@@ -47,40 +47,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1061-1989-550582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T09:43:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c024e93d6f002675e55d316991acaf8c87d802beda478c1cb1305404061ba39b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ae05161d85bea2d1d6d5e4f74a2799defd34684071c68ce95ac36d357fa9b7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:43:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Ciências do Desenvolvimento e Cooperação
+- Curso de Direito
+- Curso de Investigação Social Aplicada
+- Curso de Organização e Gestão de Empresas
+- Dinensino-ensino Desenvolvimento e Cooperação
+- Ensino Superior
+- Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:239671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553588:por
+  label: "SUBSTITUÍDO O PLANO DE ESTUDOS DO CURSO DE DIREITO, PELA PORTARIA 1240/93, DE 4 DE DEZEMBRO, PUBLICADA NO DR.IS-B,\
+    \ 283, DE 931204.\0 931204.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1240-1993-553588
+- type: amended_by
+  target: pt:dre:144783:por
+  label: "Alterado o plano de estudos do Curso de Investigação Social Aplicada (Lisboa), pela PORT.573/97.1997.07.30.ME, DR.IS-B\
+    \ [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/573-1997-144783
+  date: '1997-07-30'
+- type: amended_by
+  target: pt:dre:142119:por
+  label: "Alterado o plano de estudos e a denominação do curso de Ciências do Desenvolvimento e Cooperação pela Port.577/97.1997.07.31.ME,\
+    \ DR.IS-B [175]\0 DR.IS-B [175]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/577-1997-142119
+  date: '1997-07-31'
+- type: amended_by
+  target: pt:dre:278751:por
+  label: "Alterado o plano de estudos do curso de Organização e Gestão de Empresas da Universidade Moderna de Lisboa, pela\
+    \ PORT.149/2002.2002.02.18.ME, DR.IS-B [41]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-2002-278751
+  date: '2002-02-18'
+- type: amended_by
+  target: pt:dre:189759:por
+  label: "Determinado que o plano de estudos do curso de licenciatura em Direito da Universidade Moderna de Lisboa, aprovado\
+    \ pelo presente diploma, na redacção da Port 1240/93 de 04-Dez passe a ser o constante do anexo à PORT.180/2003.2003.02.20.MCES,\
+    \ DR.IS-B [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/180-2003-189759
+  date: '2003-02-20'
+- type: amended_by
+  target: pt:dre:239671:por
+  label: "Alterado o plano de estudos e a denominação do curso de licenciatura em Investigação Social Aplicada, pela PORT.329/2003.2003.04.22.MCES,\
+    \ DR.IS-B [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/329-2003-239671
+  date: '2003-04-22'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226058:por
+  label: "Revogado, sem prejuízo do disposto no nº 8 e no que concerne ao curso de licenciatura em Organização e Gestão de\
+    \ Empresas, os nºs. 2 a 4 do presente diploma pela PORT.309/2003.2003.04.14.MCES DR.IS-B [88]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/309-2003-226058
+  date: '2003-04-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:43:14Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +173,8 @@ a serem ministrados no estabelecimento de ensino superior que possui em Lisboa.
 
 Ministério da Educação.
 
-**Assinada em 3 de Novembro de 1989.**
+Assinada em 3 de Novembro de 1989.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/28200/53615364.pdf))](https://files.diariodarepublica.pt/1s/1989/12/28200/53615364.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/28200/53615364.pdf)

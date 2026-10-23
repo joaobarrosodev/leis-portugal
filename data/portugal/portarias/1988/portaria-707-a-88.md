@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 246/1988, 1º Suplemento, Série I de 1988-10-24
   number: '246'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4318-(2) a 4318-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/24601/00020003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/707-a-1988-508246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T09:37:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ec50706f8cb3eaac57bcf99468bbe4f060bb314817ba785495af26e4d3753f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13659d18bf1719e90bf2b190407f913b5cb92b5039708837cb2057dadd8c6df8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:37:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gestão Hospitalar
+- Hospitais Civis de Lisboa
+- Regulamento Interno
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO O PRAZO ESTABELECIDO NAS ALÍNEAS A) E B) DO NUMERO 6.2 DO REGULAMENTO INTERNO DOS HOSPITAIS CIVIS, PELO\
+    \ DESPACHO DE 6/1/92, DD21/92, PUBLICADO NO DR.IIS, 24, DE 920129. PRORROGADO PELO DESPACHO DD151/91, PUBLICADO NO DR.IIS,\
+    \ 211, DE 910913. PRORROGADO O PRAZO ESTABELECIDO NA ALÍNEA A) DO NUMERO 6.2 PELO DESPACHO DD27/93,DO MS, DE 930115 PUBLICADO\
+    \ NO DR.IIS, 36, DE 930212.\0IS, 36, DE 930212.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:2103407:por
+  label: "Prorrogado o prazo previsto nas al.s a) e b) do nº 6.2 do regulamento interno, pela DESP.DD3045.13.02.1990.MS, DR.IIS\
+    \ [37] de 13.02.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1990-2103407
+  date: '1990-02-13'
+- type: cites
+  target: pt:dre:138480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298029:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:37:33Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +126,7 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 19 de Outubro de 1988.**
+Assinada em 19 de Outubro de 1988.
 
 Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 

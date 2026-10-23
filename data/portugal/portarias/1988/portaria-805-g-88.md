@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 288/1988, 1º Suplemento, Série I de 1988-12-15
   number: '288'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4954-(8) a 4954-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf
 entry_into_force_dates: []
@@ -46,36 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/805-g-1988-204810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T09:40:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6044698e14207e5d126a6e386160c88803fcbc3f6b6895aeb1554e34a3be80be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86225300fcff2d30a6151c845559d25e9f26eb47b9d65b7b026628bf3489e211
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:40:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abastecimento de Água
+- Água
+- Aparelho de Medição
+- EPAL
+- Fixação de Preços
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:514042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642964:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO, EXCEPTO AS ALÍNEAS A) E B) DO NUMERO 9, PELA PORTARIA NUMERO 111O-H/89, PUBLICADA NO DIÁRIO DA REPÚBLICA,\
+    \ I SÉRIE, NUMERO 297, SUPLEMENTO, DE 28/12/89.\0 28/12/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T09:40:13Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +123,9 @@ Manda o Governo, pelo Ministro do Planeamento e da Administração do Territóri
 
 1.º As tarifas de abastecimento de água praticadas pela EPAL compreendem uma parte fixa, denominada «quota de serviço», e uma parte variável, que depende dos volumes de água abastecidos.
 
-2.º O valor mensal da quota de serviço para as instalações providas de contador simples é o que resulta da fórmula [([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf))](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf) sendo K igual a 3,45 e o [([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf))](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf) o calibre do contador, expresso em milímetros (considerando-se como mínimo o calibre de 15 mm), arredondado para a dezena de escudos imediatamente superior.
+2.º O valor mensal da quota de serviço para as instalações providas de contador simples é o que resulta da fórmula [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf) sendo K igual a 3,45 e o [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf) o calibre do contador, expresso em milímetros (considerando-se como mínimo o calibre de 15 mm), arredondado para a dezena de escudos imediatamente superior.
 
-3.º O valor mensal da quota de serviço para as instalações providas de contadores que não os simples é o que resulta da fórmula [([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf))](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf), sendo K igual a 1,15 e o [([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf))](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf) o calibre do contador, expresso em milímetros.
+3.º O valor mensal da quota de serviço para as instalações providas de contadores que não os simples é o que resulta da fórmula [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf), sendo K igual a 1,15 e o [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf) o calibre do contador, expresso em milímetros.
 
 4.º A quota de serviço inclui a cedência do contador da EPAL, pelo que as referências feitas na [Portaria n.º 10716](https://diariodarepublica.pt/dr/detalhe/portaria/10716-1944-549867), de 24 de Julho de 1944, ao aluguer de contadores, designadamente as dos artigos 54.º, 62.º e 65.º, são substituídas pela expressão «quota de serviço» .
 
@@ -128,7 +155,7 @@ c) A [Portaria n.º 925-O/87](https://diariodarepublica.pt/dr/detalhe/portaria/9
 
 Ministério do Planeamento e da Administração do Território.
 
-**Assinada em 12 de Dezembro de 1988.**
+Assinada em 12 de Dezembro de 1988.
 
 Pelo Ministro do Planeamento e da Administração do Território, José Macário Correia, Secretário de Estado do Ambiente e dos Recursos Naturais.
 
@@ -160,10 +187,10 @@ MAPA I
 
 Preços de venda de água a consumidores directos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf))](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf)
 
 MAPA II
 
 Preços de venda de água a municípios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf))](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/28801/00080010.pdf)
