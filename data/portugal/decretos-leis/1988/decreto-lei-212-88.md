@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/13800/24992499.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1988-371786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:39:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63a02ba7b32dd920b8711bc1362c7bc46c0c935b2b1cc929e667c2d538aaf079
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71944bb1e56b7035a4d1a84e77121c58615f18b16f27d84ecffa684e24cbeb92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:39:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Combustível
+- Importação
+- Petróleo
+- Reservas de Combustível
 relationships:
 - type: amended_by
   target: pt:dre:344926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:477281:por
+  label: "Alterado o art. 1º e substituída a lista anexa, pelo DEC LEI.77/91.16.02.1991.MIE, DR.IS-A [39] de 16.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1991-477281
+  date: '1991-02-16'
+- type: repealed_by
+  target: pt:dre:344926:por
+  label: "Revogado pelo DEC LEI.10/2001.2001.01.23.MECO, DR.IS-A [19] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2001-344926
+  date: '2001-01-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:39:40Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +112,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os titulares das autorizações gerais e especiais de importação a que se refere o artigo 2.º do Decreto-Lei n.º 525/85, de 31 de Dezembro, bem como os importadores dos produtos de petróleo destinados ao mercado interno e constantes da lista anexa a este diploma, de que faz parte integrante, ficam obrigados a manter em depósito em território nacional, por cada produto, uma reserva nas quantidades seguintes:
+Artigo 1.º Os titulares das autorizações gerais e especiais de importação a que se refere o artigo 2.º do Decreto-Lei n.º 525/85, de 31 de Dezembro, bem como os importadores dos produtos de petróleo destinados ao mercado interno e constantes da lista anexa a este diploma, de que faz parte integrante, ficam obrigados a manter em depósito em território nacional, por cada produto, uma reserva nas quantidades seguintes:
 
 a) Para os produtos constantes das autorizações gerais e especiais, o equivalente a um terço dos valore autorizados;
 
@@ -105,30 +120,30 @@ b) Para os produtos de aviação, o equivalente a um quarto das quantidades que 
 
 c) Para os outros produtos, o equivalente a um sexto das quantidades que hajam importado ou adquirido à refinação nacional no ano anterior.
 
-###### Art. 2.º Para efeito do artigo anterior, entende-se que as reservas poderão ser mantidas sob forma de produtos de petróleo e ou de petróleo bruto nas seguintes condições:
+Art. 2.º Para efeito do artigo anterior, entende-se que as reservas poderão ser mantidas sob forma de produtos de petróleo e ou de petróleo bruto nas seguintes condições:
 
 a) Os produtos de petróleo são contados pela sua quantidade real;
 
 b) O petróleo bruto é contado de acordo com a repartição por produtos que tiver sido aprovada pelo Governo para as refinarias nacionais para o próprio ano.
 
-###### Art. 3.º Na determinação das reservas só são consideradas as quantidades de petróleo bruto e produtos existentes, em território nacional, em depósitos registados na Direcção-Geral de Energia para efeito de constituição de reservas obrigatórias.
+Art. 3.º Na determinação das reservas só são consideradas as quantidades de petróleo bruto e produtos existentes, em território nacional, em depósitos registados na Direcção-Geral de Energia para efeito de constituição de reservas obrigatórias.
 
-###### Art. 4.º São revogadas as disposições dos artigos 5.º, 6.º e 7.º do Decreto-Lei n.º 498/71, de 12 de Novembro.
+Art. 4.º São revogadas as disposições dos artigos 5.º, 6.º e 7.º do Decreto-Lei n.º 498/71, de 12 de Novembro.
 
-###### Art. 5.º O presente diploma entra em vigor 60 dias após a sua publicação.
+Art. 5.º O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1988. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 27 de Maio de 1988.**
+Promulgado em 27 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Junho de 1988.**
+Referendado em 1 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Lista referida no artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/06/13800/24992499.pdf))](https://files.diariodarepublica.pt/1s/1988/06/13800/24992499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13800/24992499.pdf)

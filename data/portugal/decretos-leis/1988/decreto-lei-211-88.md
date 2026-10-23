@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/13800/24962498.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1988-371784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:39:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70c8d41d11d8c9b7454d72f1989920be258eaacae2937558d9f8f9e8b0012ed7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1858d05763a121f7c28fe8ce75c40f874740afd6e0830b64909669bf344d4744
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:39:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Agrupamento de Produtores
+- Ajuda Comunitária
+- CEE
+- Exploração Agrícola
+- Financiamento
+- Indemnização Compensatória
+- Política Agrícola Comum
+- Região Desfavorecida
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:487700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:579929:por
+  label: Rectificado pela DECL.DD2863.1988.07.26.PCM,DR.IS [175]2º Supl de 30/Jul/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-579929
+  date: '1988-07-26'
+- type: repealed_by
+  target: pt:dre:487700:por
+  label: "Revogado pelo DEC LEI.81/91.19.02.1991.MAPA, DR.IS-A [41]] de 19.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1991-487700
+  date: '1991-02-19'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:39:35Z'
   warnings: []
   errors: []
 ---
@@ -265,18 +285,18 @@ O presente diploma produz efeitos a partir de 1 de Abril de 1988.
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 30 de Maio de 1988.**
+Promulgado em 30 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Junho de 1988.**
+Referendado em 1 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o n.º 2 do artigo 3.º
 
 Tabela de conversão de bovinos, equídeos, ovinos e caprinos em cabeças normais (CN)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/06/13800/24962498.pdf))](https://files.diariodarepublica.pt/1s/1988/06/13800/24962498.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13800/24962498.pdf)

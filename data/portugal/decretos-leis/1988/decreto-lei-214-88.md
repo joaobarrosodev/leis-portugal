@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 138/1988, 1º Suplemento, Série I de 1988-06-17
   number: '138'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2502-(2) a 2502-(61)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/13801/00020061.pdf
 entry_into_force_dates: []
@@ -46,40 +46,164 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:39:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68f0ccfaa0e1fb0aa1614857f6c59ab96e46e2f80dc521f290482f9069641d27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97fa8b213594101305a0598c8f4a6ff9134e8f580ee1314df0c5b93ec30be4be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:39:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Advogado
+- Conselho dos Oficiais de Justiça
+- Definição de Competências
+- Informatização
+- Instalação de Serviços
+- Magistrado Judicial
+- Ministério Público
+- Orgânica
+- Organização Judiciária
+- Pessoal de Justiça
+- Presidente
+- Recurso
+- Solicitador
+- Supremo Tribunal de Justiça
+- Tribunal Cível
+- Tribunal Colectivo
+- Tribunal Comum
+- Tribunal Correccional
+- Tribunal Criminal
+- Tribunal da Relação
+- Tribunal de Círculo
+- Tribunal de Comarca
+- Tribunal de Distrito
+- Tribunal de Execução das Penas
+- Tribunal de Família
+- Tribunal de Instrução Criminal
+- Tribunal de Menores
+- Tribunal de Pequenas Causas
+- Tribunal de Polícia
+- Tribunal de Turno
+- Tribunal do Trabalho
+- Tribunal Judicial
+- Tribunal Marítimo
+- Tribunal Singular
+- VARA Civel
+- VARA Criminal
 relationships:
 - type: amended_by
   target: pt:dre:602770:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:658224:por
+  label: "Alterados os art.s 6º, 9º, 10º, 13º, 14º, 16º, 21º, 23º, 25º e 55º bem como os mapas a que se reportam os art.s\
+    \ 1º e 5º, aditados os art.s 4º-A, 6º-A, 13º-A, 14º-A e 37º-A e revogado o art. 8º, pelo DEC LEI.206/91.07.06.1991.MJ,\
+    \ DR.IS-A [130] de 07.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-1991-658224
+  date: '1991-06-07'
+- type: amended_by
+  target: pt:dre:218744:por
+  label: "Alterados os arts. 6º e 36º pelo DEC LEI.222/94.1994.08.24.MJ, DR.IS-A [195], alterados ainda os mapas a que se\
+    \ reportam os arts. 2º, 5º, 12º e 21º, de acordo com o mapa anexo ao referido diploma\0diploma\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1994-218744
+  date: '1994-08-24'
+- type: amended_by
+  target: pt:dre:198728:por
+  label: "Alterada a redacção do art. 25º pelo DEC LEI.29/95.1995.02.09.MJ, DR.IS-A [34], na redacção do Dec Lei 38/93 de\
+    \ 13-Fev-\0Fev-\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1995-198728
+  date: '1995-02-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 33 (NA REDACÇÃO QUE LHE FOI DADA POSTERIORMENTE PELO DEC LEI 312/93 DE 15-SET), ADITADO O ART 33-A\
+    \ E ALTERADOS OS MAPAS A QUE SE REPORTAM OS ART 1, 5, 12, 21 E 56 PELO DEC LEI 153/95 DE 01-JUL DR.IS-A [150]R\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-01'
+- type: amended_by
+  target: pt:dre:535011:por
+  label: "Alterado o art. 25.º pelo DEC LEI.18/96.1996.03.19.MJ DR.IS-A [67], na redacção do Dec Lei 29/95 de 09-Fev\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-1996-535011
+  date: '1996-03-19'
+- type: amended_by
+  target: pt:dre:241228:por
+  label: "Alterada a redacção dos arts 22º e 22º-A do presente diploma, na redacção que lhes foi conferida pelo Dec Lei 312/93\
+    \ de 15-Set, aditados os arts 22º-B e 22º-C e revogado, a partir da data referida no nº 2 do art. 6º da Lei 44/96, de\
+    \ 03-Set, o art. 21º-A, na redacção do Dec Lei 312/93 de 15-Set, pela LEI.44/96.1996.09.03.AR\0.AR\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-1996-241228
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:215893:por
+  label: "Alterados os mapas VI, VII e VIII anexos pelo DEC LEI.173/96.1996.09.21.MJ, DR.IS-A [220]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-1996-215893
+  date: '1996-09-21'
+- type: amended_by
+  target: pt:dre:349503:por
+  label: "Alterada a redacção do artº 25º pelo DEC LEI.137/97.1997.06.03.MJ DR.IS-A [127], com a redacção dada pelo Dec-Lei\
+    \ 18/96 de 19-Mar\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1997-349503
+  date: '1997-06-03'
+- type: amended_by
+  target: pt:dre:176333:por
+  label: "Alterados os mapas VI e VIII a que se referem os arts. 5º e 21º pelo DEC LEI.110/98.1998.04.24.MJ, DR.IS-A [96]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-1998-176333
+  date: '1998-04-24'
+- type: amended_by
+  target: pt:dre:169460:por
+  label: "Alterado o art. 25.º, na redacção do Dec Lei 18/96, de 19-Mar, pelo DEC LEI.39/99.1999.02.09.MJ DR.IS-A [33]t\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1999-169460
+  date: '1999-02-09'
+- type: amended_by
+  target: pt:dre:380127:por
+  label: "Mantidos os quadros dos procuradores-adjuntos nos Tribunais Administrativos de Círculo, constantes do mapa VIII\
+    \ em anexo, pelo DEC LEI.301-A/99.1999.08.05.MJ, DR.IS-A [181]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-a-1999-380127
+  date: '1999-08-05'
+- type: amended_by
+  target: pt:dre:602770:por
+  label: "Extintos os Círculos Judiciais de Santiago do Cacém e Anadia, bem como o Tribunal do Trabalho de Santiago do Cacém,\
+    \ criados pelo presente diploma, pelo DEC LEI.25/2009.26.01.2009.MJ, DR.IS [17] de 26.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2009-602770
+  date: '2009-01-26'
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:579923:por
+  label: Rectificado pela DECL.DD2872.1988.07.22.PCM,DR.IS [175]2º Supl de 30/Jul/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-579923
+  date: '1988-07-22'
+- type: repealed_by
+  target: pt:dre:692253:por
+  label: "Revogado pelo DEC LEI.186-A/99.31.05.1999.MJ, DR.IS-A [126]Supl de 31.05.1999, com excepção do art. 25.º e do mapa\
+    \ VIII, quanto ao quadro de Magistrados do Ministério Público nos Tribunais Administrativos e fiscais e mantido em vigor\
+    \ até 15 de Setembro de 1999, a competência dos círculos judiciais constantes do Mapa II, e a actual área territorial\
+    \ dos Tribunais \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-a-1999-692253
+  date: '1999-05-31'
 article_structure:
   article_count: 64
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:39:40Z'
   warnings: []
   errors: []
 ---
@@ -832,15 +956,15 @@ No ano de 1988, os encargos decorrentes da execução do presente diploma, que n
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 14 de Junho de 1988.**
+Promulgado em 14 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Junho de 1988.**
+Referendado em 15 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -7540,7 +7664,7 @@ Tribunal Administrativo do Círculo de Coimbra 1 Procurador da República (ver n
 
 DELEGADOS DO PROCURADOR DA REPÚBLICA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/06/13801/00020061.pdf))](https://files.diariodarepublica.pt/1s/1988/06/13801/00020061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13801/00020061.pdf)
 
 MAPA IX
 

@@ -12,6 +12,7 @@ from leis_portugal.services.eu_versions import collect_eu_versions
 from leis_portugal.services.eurlex import EurLexIngestion
 from leis_portugal.services.linking import missing_referenced_acts, scan_portuguese_references
 from leis_portugal.services.versions import collect_versions
+from leis_portugal.sources.dre.client import split_sitemap_ref
 from leis_portugal.sources.dre.consolidated import consolidated_entry
 
 
@@ -31,7 +32,7 @@ def register(commands) -> None:
     dre.add_argument("--no-subjects", action="store_true", help="Não recolher os descritores temáticos.")
     dre.add_argument("--workers", type=int, default=1, help="Sessões DRE em paralelo (por omissão: 1).")
     dre.add_argument("--limit", type=int, default=None, help="Com --imported ou --missing: recolher no máximo N diplomas.")
-    dre.add_argument("--types", default=None, help="Com --missing: só estes tipos, separados por vírgulas (p. ex. lei,decreto-lei).")
+    dre.add_argument("--types", default=None, help="Com --imported ou --missing: só estes tipos, separados por vírgulas (p. ex. lei,decreto-lei).")
     dre.add_argument("--all", action="store_true", help="Com --missing: recolher também os tipos sobretudo da 2.ª Série (despachos, avisos...).")
     dre.add_argument("--dry-run", action="store_true", help="Com --missing: só contar, sem recolher.")
     dre.set_defaults(handler=collect_dre)
@@ -79,6 +80,9 @@ def collect_dre(args) -> int:
         return 0
     if args.imported:
         refs = imported_references(repository)
+        types = _requested_types(args, repository)
+        if types is not None:
+            refs = [ref for ref in refs if repository.types.resolve(split_sitemap_ref(ref)[0]).slug in types]
         progress(f"{len(refs)} registo(s) com o texto da importação inicial")
         summary = service.ingest_many(refs[: args.limit] if args.limit else refs, workers=args.workers, progress=progress)
         write_failures(repository.root / "reports" / "dre_imported_failures.jsonl", summary.failures)
@@ -116,15 +120,20 @@ def _coverage_table(coverage: list[TypeCoverage]) -> None:
         print("* sobretudo 2.ª Série: só recolhidos com --all ou --types.")
 
 
+def _requested_types(args, repository) -> set[str] | None:
+    """Tipos canónicos pedidos em --types (None: todos)."""
+    if not args.types:
+        return None
+    requested = [repository.types.resolve(item.strip()) for item in args.types.split(",") if item.strip()]
+    unknown = [item.slug for item in requested if not item.known]
+    if unknown:
+        raise ValueError(f"Tipo(s) fora do vocabulário (config/document_types.yml): {', '.join(unknown)}")
+    return {item.slug for item in requested}
+
+
 def collect_missing(args, repository, service: DreIngestion) -> int:
     """Documentos que os sitemaps do DRE listam e o acervo não tem."""
-    types = None
-    if args.types:
-        requested = [repository.types.resolve(item.strip()) for item in args.types.split(",") if item.strip()]
-        unknown = [item.slug for item in requested if not item.known]
-        if unknown:
-            raise ValueError(f"Tipo(s) fora do vocabulário (config/document_types.yml): {', '.join(unknown)}")
-        types = {item.slug for item in requested}
+    types = _requested_types(args, repository)
     coverage = sitemap_coverage(repository, service.source.client, types=types, progress=progress)
     write_coverage(repository.root / "reports" / "dre_sitemap_coverage.json", coverage, checked=date.today().isoformat())
     _coverage_table(coverage)

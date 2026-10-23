@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17525-1960-627234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:39:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb123d8b4dec0be389d851cb82a6a41006550717c9e2bf10e300f06778dda51d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adb3ddce05e30bf6ad8fd284188db3b316063a16c7f0619e6252fccccc88e83c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:39:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:201018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586458:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:39:36Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +109,11 @@ a) Reforçar, com as quantias que se indicam, as seguintes verbas da tabela de d
 
 Pagamento de serviços:
 
-###### Artigo 210.º, n.º 1) «Diversos serviços - Serviços de recrutamento» ... 18.000$00
+Artigo 210.º, n.º 1) «Diversos serviços - Serviços de recrutamento» ... 18.000$00
 
 Encargos gerais:
 
-###### Artigo 213.º «Deslocações do pessoal»:
+Artigo 213.º «Deslocações do pessoal»:
 
 N.º 2), alínea b) «Ajudas de custo inerentes às deslocações fora da província - A pagar em Cabo Verde» ... 6.000$00
 
@@ -105,7 +121,7 @@ N.º 4) «Passagens dentro da província» ... 16.500$00
 
 N.º 5), alínea b) «Passagens de ou para o exterior - Por outros motivos - A pagar em Cabo Verde» ... 52.500$00
 
-###### Artigo 217.º «Duplicação de vencimentos» ... 6.250$00
+Artigo 217.º «Duplicação de vencimentos» ... 6.250$00
 
 ... 99.250$00
 
@@ -115,7 +131,7 @@ tomando como contrapartida as disponibilidades que se discriminam da referida ta
 
 Despesas com o pessoal:
 
-###### Artigo 204.º, n.º 1) «Outras despesas com o pessoal - Alimentação»:
+Artigo 204.º, n.º 1) «Outras despesas com o pessoal - Alimentação»:
 
 Alínea b) «A 296 praças do ultramar» ... 35.250$00
 
@@ -123,19 +139,19 @@ Alínea c) «A 475 soldados recrutas (do ultramar) durante 103 dias» ... 21.000
 
 Despesas com o material:
 
-###### Artigo 206.º, n.º 2) «Despesas de conservação e aproveitamento - De semoventes» ... 3.000$00
+Artigo 206.º, n.º 2) «Despesas de conservação e aproveitamento - De semoventes» ... 3.000$00
 
 Encargos gerais:
 
-###### Artigo 213.º «Deslocações do pessoal»:
+Artigo 213.º «Deslocações do pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo inerentes às deslocações fora da província - A pagar na metrópole» ... 11.000$00
 
 N.º 5), alínea b) «Passagens de ou para o exterior - Por outros motivos - A pagar na metrópole» ... 18.500$00
 
-###### Artigo 214.º, n.º 1) «Diversas despesas - Para pagamento das despesas determinadas pelos artigos 4.º e 5.º do [Decreto n.º 30832](https://diariodarepublica.pt/dr/detalhe/decreto/30832-1940-201018), de 30 de Outubro de 1940» ... 5.000$00
+Artigo 214.º, n.º 1) «Diversas despesas - Para pagamento das despesas determinadas pelos artigos 4.º e 5.º do [Decreto n.º 30832](https://diariodarepublica.pt/dr/detalhe/decreto/30832-1940-201018), de 30 de Outubro de 1940» ... 5.000$00
 
-###### Artigo 215.º «Abono de família» ... 5.500$00
+Artigo 215.º «Abono de família» ... 5.500$00
 
 ... 99.250$00
 
@@ -145,7 +161,7 @@ b) Reforçar com a quantia de 20.000$00 a verba do capítulo 8.º, artigo 225.º
 
 Despesas com o pessoal:
 
-###### Artigo 224.º «Outras despesas com o pessoal»:
+Artigo 224.º «Outras despesas com o pessoal»:
 
 N.º 1) «Subsídio para renda de casa» ... 8.400$00
 
@@ -153,7 +169,7 @@ N.º 4) «Alimentação a praças» ... 5.000$00
 
 Encargos gerais:
 
-###### Artigo 235.º «Abono de família» ... 6.600$00
+Artigo 235.º «Abono de família» ... 6.600$00
 
 ... 20.000$00
 
@@ -163,13 +179,13 @@ c) Reforçar, com as quantias que se indicam, as seguintes verbas da tabela de d
 
 Pagamento de serviços:
 
-###### Artigo 1283.º «Despesas de comunicações dentro da província» ... 500.000$00
+Artigo 1283.º «Despesas de comunicações dentro da província» ... 500.000$00
 
 Encargos gerais:
 
-###### Artigo 1286.º, n.º 1) «Despesas de comunicações fora da província - Transportes de material, cargas, fretes, seguros, portes de correio e telégrafos e outras despesas conexas» ... 4:500.000$00
+Artigo 1286.º, n.º 1) «Despesas de comunicações fora da província - Transportes de material, cargas, fretes, seguros, portes de correio e telégrafos e outras despesas conexas» ... 4:500.000$00
 
-###### Artigo 1287.º, n.º 1), alínea a) «Deslocações do pessoal - Ajudas de custo inerentes às deslocações fora da província - A pagar na metrópole» ... 100.000$00
+Artigo 1287.º, n.º 1), alínea a) «Deslocações do pessoal - Ajudas de custo inerentes às deslocações fora da província - A pagar na metrópole» ... 100.000$00
 
 ... 5:100.000$00
 
@@ -181,7 +197,7 @@ d) Reforçar, com as quantias que se indicam, as seguintes verbas da tabela de d
 
 Despesas com o pessoal:
 
-###### Artigo 1483.º «Outras despesas com o pessoal dentro da província»:
+Artigo 1483.º «Outras despesas com o pessoal dentro da província»:
 
 N.º 2), alínea a) «Fardamento e calçado - A praças C. e U.» ... 400.000$00
 
@@ -189,15 +205,15 @@ N.º 7), alínea b) «Outras despesas que não constituem remuneração paga a d
 
 Pagamento de serviços:
 
-###### Artigo 1488.º, n.º 2) «Despesas de higiene, saúde e conforto - Aquisição, conserto e lavagem de roupas» ... 500.000$00
+Artigo 1488.º, n.º 2) «Despesas de higiene, saúde e conforto - Aquisição, conserto e lavagem de roupas» ... 500.000$00
 
-###### Artigo 1489.º «Despesas de comunicações dentro da província» ... 200.000$00
+Artigo 1489.º «Despesas de comunicações dentro da província» ... 200.000$00
 
 Encargos gerais:
 
-###### Artigo 1493.º, n.º 1) «Despesas de comunicações fora da província - Transportes de material, cargas, fretes, seguros, portes de correio e telégrafo e outras despesas conexas» ... 150.000$00
+Artigo 1493.º, n.º 1) «Despesas de comunicações fora da província - Transportes de material, cargas, fretes, seguros, portes de correio e telégrafo e outras despesas conexas» ... 150.000$00
 
-###### Artigo 1494.º «Deslocações de pessoal»:
+Artigo 1494.º «Deslocações de pessoal»:
 
 N.º 2), alínea b) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na província» ... 26.000$00
 
@@ -205,9 +221,9 @@ N.º 3), alínea a) «Subsídios de viagem e de demora em portos de escala inere
 
 N.º 5), alínea b) «Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na província» ... 650.000$00
 
-###### Artigo 1495.º, n.º 7) «Diversas despesas - Despesas não especificadas» ... 30.000$00
+Artigo 1495.º, n.º 7) «Diversas despesas - Despesas não especificadas» ... 30.000$00
 
-###### Artigo 1500.º, n.º 1), alínea b) «Exercícios findos - Para pagamento de despesas não previstas - Na província» ... 660$00
+Artigo 1500.º, n.º 1), alínea b) «Exercícios findos - Para pagamento de despesas não previstas - Na província» ... 660$00
 
 ... 1:986.660$00
 
@@ -217,7 +233,7 @@ tomando como contrapartida as disponibilidades que se discriminam da referida ta
 
 Despesas com o pessoal:
 
-###### Artigo 1483.º «Outras despesas com o pessoal dentro da província»:
+Artigo 1483.º «Outras despesas com o pessoal dentro da província»:
 
 N.º 1) «Alimentação»:
 
@@ -231,11 +247,11 @@ N.º 4) «Subsídio para renda de casa a cabos e soldados C. e U.» ... 150.000$
 
 Encargos gerais:
 
-###### Artigo 1494.º, n.º 5), alínea a) «Deslocações de pessoal - Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na província» ... 20.000$00
+Artigo 1494.º, n.º 5), alínea a) «Deslocações de pessoal - Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na província» ... 20.000$00
 
-###### Artigo 1495.º, n.º 2) «Diversas despesas - Despesas determinadas pelos artigos 4.º e 5.º do [Decreto n.º 30832](https://diariodarepublica.pt/dr/detalhe/decreto/30832-1940-201018), de 30 de Outubro de 1940» ... 26.000$00
+Artigo 1495.º, n.º 2) «Diversas despesas - Despesas determinadas pelos artigos 4.º e 5.º do [Decreto n.º 30832](https://diariodarepublica.pt/dr/detalhe/decreto/30832-1940-201018), de 30 de Outubro de 1940» ... 26.000$00
 
-###### Artigo 1499.º «Duplicação de vencimentos» ... 40.660$00
+Artigo 1499.º «Duplicação de vencimentos» ... 40.660$00
 
 ... 1:986.660$00
 
@@ -247,7 +263,7 @@ b) Reforçar com 500.000$00 a verba do capítulo 10.º, artigo 1619.º, n.º 12)
 
 ### CAPÍTULO 7.º — Serviços de agricultura e florestas
 
-###### Artigo 1191.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
+Artigo 1191.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadro aprovados por lei - Vencimentos» ... 37.400$00
 

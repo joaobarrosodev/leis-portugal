@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17518-1960-627254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:39:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e20d90f05062062240f38d8980d6ad7b7f366a4e9fa5e18b27d52d23009e887
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5e5d50d52c8bfddca40286f458ce2ca62fe8a938a4854047e79ce6ad2e0013b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:39:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:351726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588452:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:39:26Z'
   warnings: []
   errors: []
 ---
@@ -85,6 +93,6 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos dos artigos 2.º e 3.º do [Decreto-Lei n.º 29105](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29105-1938-351726), de 8 de Novembro de 1938, que na actual tabela de valores de exportação, publicada pela [Portaria n.º 17145](https://diariodarepublica.pt/dr/detalhe/portaria/17145-1959-588452) e alterada pela n.º 17274, respectivamente de 1 de Maio e 21 de Julho do ano findo, se introduza a seguinte alteração:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/01/00100/00020002.pdf))](https://files.diariodarepublica.pt/1s/1960/01/00100/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/01/00100/00020002.pdf)
 
 Ministério das Finanças, 4 de Janeiro de 1960. - O Ministro das Finanças, António Manuel Pinto Barbosa.

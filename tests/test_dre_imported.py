@@ -69,3 +69,15 @@ def test_cli_recollects_imported_records(repo_root: Path, monkeypatch, capsys):
     out = capsys.readouterr()
     assert "1 registo(s) com o texto da importação inicial" in out.err
     assert "Diplomas: 1; atualizados: 1" in out.out
+
+
+def test_cli_imported_limited_to_types(repo_root: Path, monkeypatch, capsys):
+    _imported(repo_root, "data/portugal/decretos-leis/2026/decreto-lei-202-2026.md")
+    monkeypatch.setattr(
+        "leis_portugal.cli.collect.DreIngestion",
+        lambda acervo, **options: DreIngestion(acervo, source_factory=lambda: DreSource(acervo.types, DreClient(FakeSession())), **options),
+    )
+    assert main(["--root", str(repo_root), "collect", "dre", "--imported", "--types", "lei,portaria"]) == 0
+    assert "0 registo(s) com o texto da importação inicial" in capsys.readouterr().err
+    assert main(["--root", str(repo_root), "collect", "dre", "--imported", "--types", "decreto-lei"]) == 0
+    assert "Diplomas: 1; atualizados: 1" in capsys.readouterr().out

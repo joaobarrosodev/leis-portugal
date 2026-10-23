@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 141/1988, 2º Suplemento, Série I de 1988-06-21
   number: '141'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2544-(6) a 2544-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/14102/00060007.pdf
 entry_into_force_dates: []
@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-a-1988-334168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:39:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68858a02786a837f9eebe4f5cc6be2b6d1d92d833144000c99ed0a32312bf95b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17a1bb711279b46a4f2b882f71171b07beaa0697d944ca7f3c0f898cd5bb236f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:39:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Centro Integrado de Formação de Professores
+- Formação Profissional
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:182637:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:39:40Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +106,7 @@ Assim, ouvidos os órgãos de governo próprio da Região Autónoma dos Açores:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criado, no âmbito da Universidade dos Açores, o Centro Integrado de Formação de Professores, adiante designado por Centro.
+Artigo 1.º - 1 - É criado, no âmbito da Universidade dos Açores, o Centro Integrado de Formação de Professores, adiante designado por Centro.
 
 2 - O Centro é constituído por três pólos: Angra do Heroísmo, Horta e Ponta Delgada.
 
@@ -106,9 +114,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Logo que se verificarem as condições próprias, designadamente em pessoal qualificado, entrará em funcionamento o pólo da Horta.
 
-###### Art. 2.º O Centro é um organismo interdisciplinar, cujas actividades se situam nos domínios da formação de docentes para a educação pré-escolar e ensinos básico e secundário e da execução de tarefas de investigação coordenadas pelo Departamento de Ciências da Educação da Universidade dos Açores.
+Art. 2.º O Centro é um organismo interdisciplinar, cujas actividades se situam nos domínios da formação de docentes para a educação pré-escolar e ensinos básico e secundário e da execução de tarefas de investigação coordenadas pelo Departamento de Ciências da Educação da Universidade dos Açores.
 
-###### Art. 3.º O Centro tem por fim:
+Art. 3.º O Centro tem por fim:
 
 a) Promover, em colaboração com os diferentes departamentos da Universidade, cursos de formação inicial de professores para a educação pré-escolar para o ensino básico;
 
@@ -124,7 +132,7 @@ f) Prestar apoio pedagógico, técnico e de âmbito da administração escolar a
 
 g) Colaborar no desenvolvimento cultural da Região.
 
-###### Art. 4.º - 1 - O Centro funciona em regime de instalação durante três anos, prorrogáveis por igual período.
+Art. 4.º - 1 - O Centro funciona em regime de instalação durante três anos, prorrogáveis por igual período.
 
 2 - Por despacho conjunto dos Ministros da Educação e da República para a Região Autónoma dos Açores, ouvido o Governo Regional, será nomeada uma comissão instaladora do Centro, a qual será constituída pelos seguintes elementos:
 
@@ -138,11 +146,11 @@ d) Três membros do corpo docente da Universidade dos Açores, propostos pelo re
 
 3 - É aplicável aos membros da comissão instaladora do Centro o disposto no artigo 1.º do [Decreto-Lei n.º 244/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), de 11 de Julho.
 
-###### Art. 5.º - 1 - O Centro goza de autonomia científica e pedagógica, sem prejuízo da orientação geral da política de ensino e da função coordenadora dos órgãos competentes da Universidade.
+Art. 5.º - 1 - O Centro goza de autonomia científica e pedagógica, sem prejuízo da orientação geral da política de ensino e da função coordenadora dos órgãos competentes da Universidade.
 
 2 - O Centro, durante o período de instalação, é dotado de autonomia administrativa.
 
-###### Art. 6.º Compete à comissão instaladora do Centro:
+Art. 6.º Compete à comissão instaladora do Centro:
 
 a) Elaborar o regulamento do Centro, que deve ser aprovado pelos órgãos competentes da Universidade e proposto à homologação do Secretário Regional da Educação e Cultura;
 
@@ -162,20 +170,20 @@ h) Propor a aquisição de equipamento e mobiliário;
 
 i) Promover, periodicamente, a elaboração de esquemas de avaliação dos programas e das actividades do Centro.
 
-###### Art. 7.º A comissão instaladora do Centro exerce o seu mandato pelo período de três anos, renovável por sucessivos períodos anuais até ao máximo de três, mediante despacho conjunto dos Ministros da Educação e da República para a Região Autónoma dos Açores, ouvido o Governo Regional.
+Art. 7.º A comissão instaladora do Centro exerce o seu mandato pelo período de três anos, renovável por sucessivos períodos anuais até ao máximo de três, mediante despacho conjunto dos Ministros da Educação e da República para a Região Autónoma dos Açores, ouvido o Governo Regional.
 
-###### Art. 8.º A Universidade dos Açores, durante o período de instalação do Centro, promoverá a inscrição no seu orçamento de uma verba global destinada ao desenvolvimento do Centro, a qual será gerida pelos órgãos competentes da Universidade, sob proposta da comissão instaladora, que apresentará anualmente um plano de despesas processadas por actividades.
+Art. 8.º A Universidade dos Açores, durante o período de instalação do Centro, promoverá a inscrição no seu orçamento de uma verba global destinada ao desenvolvimento do Centro, a qual será gerida pelos órgãos competentes da Universidade, sob proposta da comissão instaladora, que apresentará anualmente um plano de despesas processadas por actividades.
 
-###### Art. 9.º O Ministro da Educação, ouvido o Governo Regional, pode fixar, mediante portaria, a regulamentação que se mostre necessária ao bom funcionamento do Centro.
+Art. 9.º O Ministro da Educação, ouvido o Governo Regional, pode fixar, mediante portaria, a regulamentação que se mostre necessária ao bom funcionamento do Centro.
 
 Visto a aprovado em Conselho de Ministros de 24 de Março de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 13 de Maio de 1988.**
+Promulgado em 13 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Junho de 1988.**
+Referendado em 20 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
